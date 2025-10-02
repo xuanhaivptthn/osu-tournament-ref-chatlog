@@ -5,13 +5,17 @@ folders=$(ls -d */ 2>/dev/null | grep -v .git | sed 's/\///g' | sort)
 
 # Initialize counts
 counts=""
+total=0
 
 for folder in $folders; do
   if [ -d "$folder" ]; then
     count=$(find "$folder" -type f | wc -l)
     counts="${counts}- $folder: $count matches\n"
+    total=$((total + count))
   fi
 done
+
+counts="${counts}- **Total:** $total matches\n"
 
 # Escape newlines for sed
 counts_escaped=$(printf '%s\n' "$counts" | sed ':a;N;$!ba;s/\n/\\n/g')
