@@ -2,11 +2,7 @@ name: Count Files and Update README
 
 on:
   push:
-    branches:
-      - main  # Adjust to your default branch
   pull_request:
-    branches:
-      - main
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
