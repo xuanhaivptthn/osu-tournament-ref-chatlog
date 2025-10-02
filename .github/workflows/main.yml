@@ -1,0 +1,49 @@
+name: Count Files and Update README
+
+on:
+  push:
+    branches:
+      - main  # Adjust to your default branch
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  count-and-update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Count files in folders
+        run: |
+          # Get all directories in the root (excluding .git)
+          folders=$(ls -d */ 2>/dev/null | grep -v .git | sed 's/\///g' | sort)
+          
+          # Initialize counts
+          counts=""
+          
+          for folder in $folders; do
+            if [ -d "$folder" ]; then
+              count=$(find "$folder" -type f | wc -l)
+              counts="${counts}- $folder: $count files\n"
+            fi
+          done
+          
+          # Escape newlines for sed
+          counts_escaped=$(printf '%s\n' "$counts" | sed ':a;N;$!ba;s/\n/\\n/g')
+          
+          # Update README.md between markers
+          sed -i "/<!-- FILE_COUNTS_START -->/,/<!-- FILE_COUNTS_END -->/c\\<!-- FILE_COUNTS_START -->\n$counts_escaped<!-- FILE_COUNTS_END -->" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update file counts in README" || echo "No changes to commit"
+          git push
