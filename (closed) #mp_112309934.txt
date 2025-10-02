@@ -1,0 +1,486 @@
+[21:50:53] Joined #mp_112309934
+[21:50:53] BCraftMG: !mp settings
+[21:50:54] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-EX10), History: https://osu.ppy.sh/mp/112309934
+[21:50:54] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[21:50:54] BanchoBot: Players: 0
+[21:52:09] BCraftMG: !mp set 0 3 3
+[21:52:10] BanchoBot: Changed match settings to 3 slots, HeadToHead, ScoreV2
+[21:52:16] BCraftMG: !mp invite Potatoer
+[21:52:17] BanchoBot: Invited Potatoer to the room
+[21:52:21] BCraftMG: !mp map 2374158 0
+[21:52:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2374158 AliA - impulse
+[21:52:21] BanchoBot: Changed match mode to Osu
+[21:52:24] BCraftMG: !mp mods 1
+[21:52:24] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:52:47] BanchoBot: Potatoer joined in slot 1.
+[21:53:00] Potatoer: BCraftMG
+[21:56:04] BanchoBot: All players are ready
+[21:56:25] BCraftMG: !mp settings
+[21:56:25] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-EX10), History: https://osu.ppy.sh/mp/112309934
+[21:56:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/2374158 AliA - impulse
+[21:56:25] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:56:25] BanchoBot: Active mods: NoFail
+[21:56:25] BanchoBot: Players: 1
+[21:56:25] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17064456 Potatoer        
+[21:56:27] BCraftMG: !mp start 5 glhf
+[21:56:27] BanchoBot: Match starts in 5 seconds
+[21:56:27] BanchoBot: Queued the match to start in 5 seconds
+[21:56:28] BanchoBot: Match starts in 4 seconds
+[21:56:29] BanchoBot: Match starts in 3 seconds
+[21:56:30] BanchoBot: Good luck, have fun!
+[21:56:32] BanchoBot: The match has started!
+[22:00:02] BanchoBot: Potatoer finished playing (Score: 263117, PASSED).
+[22:00:02] BanchoBot: The match has finished!
+[22:00:22] BCraftMG: !mp map 4304684 0
+[22:00:24] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4304684 Sephid - Thunderstrike 1988
+[22:00:24] BanchoBot: Changed match mode to Osu
+[22:00:32] BanchoBot: All players are ready
+[22:00:36] BCraftMG: !mp settings
+[22:00:37] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-EX10), History: https://osu.ppy.sh/mp/112309934
+[22:00:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/4304684 Sephid - Thunderstrike 1988
+[22:00:37] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:00:37] BanchoBot: Active mods: NoFail
+[22:00:37] BanchoBot: Players: 1
+[22:00:37] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17064456 Potatoer        
+[22:00:38] BCraftMG: !mp start 5 glhf
+[22:00:38] BanchoBot: Match starts in 5 seconds
+[22:00:38] BanchoBot: Queued the match to start in 5 seconds
+[22:00:39] BanchoBot: Match starts in 4 seconds
+[22:00:40] BanchoBot: Match starts in 3 seconds
+[22:00:41] BanchoBot: Good luck, have fun!
+[22:00:42] Potatoer: tq
+[22:00:43] BanchoBot: The match has started!
+[22:04:04] BanchoBot: Potatoer finished playing (Score: 272445, PASSED).
+[22:04:04] BanchoBot: The match has finished!
+[22:04:19] BCraftMG: !mp map 3962638 0
+[22:04:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3962638 Tsukuyomi - Nekropolis
+[22:04:20] BanchoBot: Changed match mode to Osu
+[22:04:48] Potatoer: giv me 1 minute
+[22:06:02] Potatoer: aight
+[22:06:04] BanchoBot: All players are ready
+[22:06:34] BCraftMG: !mp settings
+[22:06:35] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-EX10), History: https://osu.ppy.sh/mp/112309934
+[22:06:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/3962638 Tsukuyomi - Nekropolis
+[22:06:35] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:06:35] BanchoBot: Active mods: NoFail
+[22:06:35] BanchoBot: Players: 1
+[22:06:35] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17064456 Potatoer        
+[22:06:36] BCraftMG: !mp start 5 glhf
+[22:06:36] BanchoBot: Match starts in 5 seconds
+[22:06:36] BanchoBot: Queued the match to start in 5 seconds
+[22:06:38] BanchoBot: Match starts in 4 seconds
+[22:06:38] BanchoBot: Match starts in 3 seconds
+[22:06:40] BanchoBot: Good luck, have fun!
+[22:06:41] BanchoBot: The match has started!
+[22:10:28] BanchoBot: Potatoer finished playing (Score: 193918, PASSED).
+[22:10:28] BanchoBot: The match has finished!
+[22:10:30] BCraftMG: !mp map 3740872 0
+[22:10:31] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3740872 Yunosuke feat. okaki - True Novel
+[22:10:31] BanchoBot: Changed match mode to Osu
+[22:10:44] BanchoBot: All players are ready
+[22:10:57] Potatoer: truly a banger
+[22:11:39] BCraftMG: !mp settings
+[22:11:41] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-EX10), History: https://osu.ppy.sh/mp/112309934
+[22:11:41] BanchoBot: Beatmap: https://osu.ppy.sh/b/3740872 Yunosuke feat. okaki - True Novel
+[22:11:41] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:11:41] BanchoBot: Active mods: NoFail
+[22:11:41] BanchoBot: Players: 1
+[22:11:41] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17064456 Potatoer        
+[22:11:41] BCraftMG: !mp start 5 glhf
+[22:11:41] BanchoBot: Match starts in 5 seconds
+[22:11:41] BanchoBot: Queued the match to start in 5 seconds
+[22:11:42] BanchoBot: Match starts in 4 seconds
+[22:11:44] BanchoBot: Match starts in 3 seconds
+[22:11:45] BanchoBot: Good luck, have fun!
+[22:11:45] Potatoer: tq
+[22:11:46] BanchoBot: The match has started!
+[22:15:07] BanchoBot: Potatoer finished playing (Score: 168547, PASSED).
+[22:15:07] BanchoBot: The match has finished!
+[22:15:11] BCraftMG: !mp map 4390203 0
+[22:15:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4390203 IOSYS - Hinarin no Yakui Kankei (Edit ver.)
+[22:15:11] BanchoBot: Changed match mode to Osu
+[22:15:13] BanchoBot: All players are ready
+[22:15:16] BCraftMG: kuru
+[22:15:17] BCraftMG: !mp settings
+[22:15:17] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-EX10), History: https://osu.ppy.sh/mp/112309934
+[22:15:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/4390203 IOSYS - Hinarin no Yakui Kankei (Edit ver.)
+[22:15:17] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:15:17] BanchoBot: Active mods: NoFail
+[22:15:17] BanchoBot: Players: 1
+[22:15:17] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17064456 Potatoer        
+[22:15:20] BCraftMG: !mp start 5 glhf
+[22:15:20] Potatoer: kuru
+[22:15:20] BanchoBot: Match starts in 5 seconds
+[22:15:20] BanchoBot: Queued the match to start in 5 seconds
+[22:15:22] BanchoBot: Match starts in 4 seconds
+[22:15:23] BanchoBot: Match starts in 3 seconds
+[22:15:23] BanchoBot: Good luck, have fun!
+[22:15:24] Potatoer: tq
+[22:15:26] BanchoBot: The match has started!
+[22:18:43] BanchoBot: Potatoer finished playing (Score: 50359, PASSED).
+[22:18:43] BanchoBot: The match has finished!
+[22:18:53] Potatoer: kurur
+[22:18:56] BCraftMG: !mp map 3669550 0
+[22:18:56] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3669550 40mP feat. chano - Yuugure One Room
+[22:18:56] BanchoBot: Changed match mode to Osu
+[22:18:58] BCraftMG: !mp mods 9
+[22:18:58] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[22:19:15] Potatoer: wait
+[22:19:17] Potatoer: let me download map
+[22:19:34] BanchoBot: All players are ready
+[22:19:44] BCraftMG: !mp settings
+[22:19:45] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-EX10), History: https://osu.ppy.sh/mp/112309934
+[22:19:45] BanchoBot: Beatmap: https://osu.ppy.sh/b/3669550 40mP feat. chano - Yuugure One Room
+[22:19:45] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:19:45] BanchoBot: Active mods: NoFail, Hidden
+[22:19:45] BanchoBot: Players: 1
+[22:19:45] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17064456 Potatoer        
+[22:19:46] BCraftMG: !mp start 5 glhf
+[22:19:47] BanchoBot: Match starts in 5 seconds
+[22:19:47] BanchoBot: Queued the match to start in 5 seconds
+[22:19:48] BanchoBot: Match starts in 4 seconds
+[22:19:50] BanchoBot: Match starts in 3 seconds
+[22:19:51] BanchoBot: Good luck, have fun!
+[22:19:53] BanchoBot: The match has started!
+[22:22:24] BanchoBot: Potatoer finished playing (Score: 160654, PASSED).
+[22:22:24] BanchoBot: The match has finished!
+[22:22:39] Potatoer: afk a bit
+[22:22:56] BCraftMG: !mp map 2795080 0
+[22:22:56] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2795080 Yukihiro Jindo - Inevitable Struggle -demo version-
+[22:22:56] BanchoBot: Changed match mode to Osu
+[22:24:55] BanchoBot: All players are ready
+[22:24:56] BCraftMG: !mp settings
+[22:24:57] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-EX10), History: https://osu.ppy.sh/mp/112309934
+[22:24:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/2795080 Yukihiro Jindo - Inevitable Struggle -demo version-
+[22:24:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:24:57] BanchoBot: Active mods: NoFail, Hidden
+[22:24:57] BanchoBot: Players: 1
+[22:24:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17064456 Potatoer        
+[22:24:58] BCraftMG: !mp start 5 glhf
+[22:24:58] BanchoBot: Match starts in 5 seconds
+[22:24:58] BanchoBot: Queued the match to start in 5 seconds
+[22:24:59] BanchoBot: Match starts in 4 seconds
+[22:25:00] BanchoBot: Match starts in 3 seconds
+[22:25:01] BanchoBot: Good luck, have fun!
+[22:25:03] BanchoBot: The match has started!
+[22:27:05] BanchoBot: Potatoer finished playing (Score: 93604, PASSED).
+[22:27:05] BanchoBot: The match has finished!
+[22:27:17] Potatoer: 93k sightread, I might have hd talent
+[22:27:26] BCraftMG: !mp map 3244371 0
+[22:27:27] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3244371 PSYQUI - Education
+[22:27:27] BanchoBot: Changed match mode to Osu
+[22:27:30] BCraftMG: khó
+[22:28:05] Potatoer: anything from now on, I did not download
+[22:28:07] BanchoBot: All players are ready
+[22:28:30] BCraftMG: !mp settings
+[22:28:30] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-EX10), History: https://osu.ppy.sh/mp/112309934
+[22:28:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/3244371 PSYQUI - Education
+[22:28:30] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:28:30] BanchoBot: Active mods: NoFail, Hidden
+[22:28:30] BanchoBot: Players: 1
+[22:28:30] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17064456 Potatoer        
+[22:28:31] BCraftMG: !mp start 5 glhf
+[22:28:32] BanchoBot: Match starts in 5 seconds
+[22:28:32] BanchoBot: Queued the match to start in 5 seconds
+[22:28:33] BanchoBot: Match starts in 4 seconds
+[22:28:34] BanchoBot: Match starts in 3 seconds
+[22:28:35] BanchoBot: Good luck, have fun!
+[22:28:37] BanchoBot: The match has started!
+[22:31:06] BanchoBot: Potatoer finished playing (Score: 91756, PASSED).
+[22:31:06] BanchoBot: The match has finished!
+[22:31:18] BCraftMG: !mp map 3599311 0
+[22:31:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3599311 Suzuki Konomi - Inochi no Tomoshibi
+[22:31:19] BanchoBot: Changed match mode to Osu
+[22:31:20] BCraftMG: !mp mods 17
+[22:31:21] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[22:31:52] BanchoBot: All players are ready
+[22:31:55] BCraftMG: !mp settings
+[22:31:56] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-EX10), History: https://osu.ppy.sh/mp/112309934
+[22:31:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/3599311 Suzuki Konomi - Inochi no Tomoshibi
+[22:31:56] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:31:56] BanchoBot: Active mods: NoFail, HardRock
+[22:31:56] BanchoBot: Players: 1
+[22:31:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17064456 Potatoer        
+[22:31:56] BCraftMG: !mp start 5 glhf
+[22:31:57] BanchoBot: Match starts in 5 seconds
+[22:31:57] BanchoBot: Queued the match to start in 5 seconds
+[22:31:59] BanchoBot: Match starts in 4 seconds
+[22:32:00] BanchoBot: Match starts in 3 seconds
+[22:32:01] BanchoBot: Good luck, have fun!
+[22:32:02] BanchoBot: The match has started!
+[22:35:49] BanchoBot: Potatoer finished playing (Score: 99664, PASSED).
+[22:35:49] BanchoBot: The match has finished!
+[22:36:01] BCraftMG: !mp map 4027832 0
+[22:36:01] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4027832 Frog96 - Letter to the Black World
+[22:36:01] BanchoBot: Changed match mode to Osu
+[22:36:13] Potatoer: I got 69 combo at the end
+[22:36:19] Potatoer: B)
+[22:36:22] BanchoBot: All players are ready
+[22:37:25] Potatoer: BCraft
+[22:37:27] Potatoer: wake up broki
+[22:37:42] BCraftMG: nu!
+[22:37:42] BCraftMG: !mp settings
+[22:37:43] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-EX10), History: https://osu.ppy.sh/mp/112309934
+[22:37:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/4027832 Frog96 - Letter to the Black World
+[22:37:43] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:37:43] BanchoBot: Active mods: NoFail, HardRock
+[22:37:43] BanchoBot: Players: 1
+[22:37:43] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17064456 Potatoer        
+[22:37:44] BCraftMG: !mp start 5 glhf
+[22:37:45] BanchoBot: Match starts in 5 seconds
+[22:37:45] BanchoBot: Queued the match to start in 5 seconds
+[22:37:46] BanchoBot: Match starts in 4 seconds
+[22:37:47] BanchoBot: Match starts in 3 seconds
+[22:37:48] BanchoBot: Good luck, have fun!
+[22:37:50] Potatoer: NU?
+[22:37:50] BanchoBot: The match has started!
+[22:39:38] BanchoBot: Potatoer finished playing (Score: 133924, PASSED).
+[22:39:38] BanchoBot: The match has finished!
+[22:39:42] BCraftMG: !mp map 1048276 0
+[22:39:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1048276 Camellia - kodama
+[22:39:43] BanchoBot: Changed match mode to Osu
+[22:39:56] Potatoer: how did I get a higher hr2 score compared to hr1
+[22:40:10] BanchoBot: All players are ready
+[22:40:31] BCraftMG: !mp settings
+[22:40:32] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-EX10), History: https://osu.ppy.sh/mp/112309934
+[22:40:32] BanchoBot: Beatmap: https://osu.ppy.sh/b/1048276 Camellia - kodama
+[22:40:32] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:40:32] BanchoBot: Active mods: NoFail, HardRock
+[22:40:32] BanchoBot: Players: 1
+[22:40:32] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17064456 Potatoer        
+[22:40:33] BCraftMG: !mp start 5 glhf
+[22:40:34] BanchoBot: Match starts in 5 seconds
+[22:40:34] BanchoBot: Queued the match to start in 5 seconds
+[22:40:35] BanchoBot: Match starts in 4 seconds
+[22:40:37] BanchoBot: Match starts in 3 seconds
+[22:40:38] BanchoBot: Good luck, have fun!
+[22:40:40] BanchoBot: The match has started!
+[22:44:30] BanchoBot: Potatoer finished playing (Score: 118259, PASSED).
+[22:44:30] BanchoBot: The match has finished!
+[22:44:46] BCraftMG: !mp map 3288202 0
+[22:44:47] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3288202 Yuika - Suki Dakara. (feat. Ren)
+[22:44:47] BanchoBot: Changed match mode to Osu
+[22:44:58] BCraftMG: !mp mods 65
+[22:44:59] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[22:45:08] BanchoBot: All players are ready
+[22:45:13] BCraftMG: !mp settings
+[22:45:14] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-EX10), History: https://osu.ppy.sh/mp/112309934
+[22:45:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/3288202 Yuika - Suki Dakara. (feat. Ren)
+[22:45:14] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:45:14] BanchoBot: Active mods: NoFail, DoubleTime
+[22:45:14] BanchoBot: Players: 1
+[22:45:14] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17064456 Potatoer        
+[22:45:14] BCraftMG: !mp start 5 glhf
+[22:45:15] BanchoBot: Match starts in 5 seconds
+[22:45:15] BanchoBot: Queued the match to start in 5 seconds
+[22:45:17] BanchoBot: Match starts in 4 seconds
+[22:45:18] BanchoBot: Match starts in 3 seconds
+[22:45:18] BanchoBot: Good luck, have fun!
+[22:45:21] BanchoBot: The match has started!
+[22:48:42] BanchoBot: Potatoer finished playing (Score: 150461, PASSED).
+[22:48:42] BanchoBot: The match has finished!
+[22:48:50] BCraftMG: !mp map 1319822 0
+[22:48:51] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1319822 dj TAKA - Colors -sasakure.UK Futurelogic Remix-
+[22:48:51] BanchoBot: Changed match mode to Osu
+[22:49:00] BanchoBot: All players are ready
+[22:49:04] BCraftMG: !mp settings
+[22:49:06] Potatoer: wait I have the map??
+[22:49:06] Potatoer: crazy
+[22:49:06] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-EX10), History: https://osu.ppy.sh/mp/112309934
+[22:49:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/1319822 dj TAKA - Colors -sasakure.UK Futurelogic Remix-
+[22:49:06] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:49:06] BanchoBot: Active mods: NoFail, DoubleTime
+[22:49:06] BanchoBot: Players: 1
+[22:49:06] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17064456 Potatoer        
+[22:49:06] BCraftMG: !mp start 5 glhf
+[22:49:07] BanchoBot: Match starts in 5 seconds
+[22:49:07] BanchoBot: Queued the match to start in 5 seconds
+[22:49:08] BanchoBot: Match starts in 4 seconds
+[22:49:10] BanchoBot: Match starts in 3 seconds
+[22:49:10] BanchoBot: Good luck, have fun!
+[22:49:12] Potatoer: tq
+[22:49:13] BanchoBot: The match has started!
+[22:51:57] BanchoBot: Potatoer finished playing (Score: 76717, PASSED).
+[22:51:57] BanchoBot: The match has finished!
+[22:52:05] BCraftMG: !mp map 465022 0
+[22:52:06] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/465022 sakuzyo - Neurotoxin
+[22:52:06] BanchoBot: Changed match mode to Osu
+[22:52:16] Potatoer: last mp?
+[22:52:17] Potatoer: map?
+[22:52:43] BanchoBot: All players are ready
+[22:52:52] Potatoer: where my beloved BCraft :(
+[22:53:08] BCraftMG: !mp settings
+[22:53:08] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-EX10), History: https://osu.ppy.sh/mp/112309934
+[22:53:08] BanchoBot: Beatmap: https://osu.ppy.sh/b/465022 sakuzyo - Neurotoxin
+[22:53:08] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:53:08] BanchoBot: Active mods: NoFail, DoubleTime
+[22:53:08] BanchoBot: Players: 1
+[22:53:08] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17064456 Potatoer        
+[22:53:12] BCraftMG: ua sao lai last map
+[22:53:18] Potatoer: what
+[22:53:19] Potatoer: chua het a
+[22:53:23] Potatoer: wut the hell
+[22:53:35] BCraftMG: coon
+[22:53:37] BCraftMG: 3fm
+[22:53:38] BCraftMG: 1tb
+[22:53:45] BCraftMG: dt4 nua
+[22:53:46] Potatoer: ;-;
+[22:53:46] BCraftMG: !mp settings
+[22:53:48] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-EX10), History: https://osu.ppy.sh/mp/112309934
+[22:53:48] BanchoBot: Beatmap: https://osu.ppy.sh/b/465022 sakuzyo - Neurotoxin
+[22:53:48] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:53:48] BanchoBot: Active mods: NoFail, DoubleTime
+[22:53:48] BanchoBot: Players: 1
+[22:53:48] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17064456 Potatoer        
+[22:53:48] BCraftMG: !mp start 5 glhf
+[22:53:49] BanchoBot: Match starts in 5 seconds
+[22:53:49] BanchoBot: Queued the match to start in 5 seconds
+[22:53:50] BanchoBot: Match starts in 4 seconds
+[22:53:52] Potatoer: WHAHTTTT
+[22:53:52] BanchoBot: Match starts in 3 seconds
+[22:53:52] BanchoBot: Good luck, have fun!
+[22:53:55] BanchoBot: The match has started!
+[22:55:44] BanchoBot: Potatoer finished playing (Score: 111683, PASSED).
+[22:55:44] BanchoBot: The match has finished!
+[22:55:50] Potatoer: gg
+[22:55:56] Potatoer: Im actually tweaking
+[22:55:57] BCraftMG: !mp map 2814386 0
+[22:55:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2814386 Good Charlotte - The Anthem
+[22:55:59] BanchoBot: Changed match mode to Osu
+[22:56:45] BanchoBot: All players are ready
+[22:56:50] BCraftMG: !mp settings
+[22:56:51] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-EX10), History: https://osu.ppy.sh/mp/112309934
+[22:56:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/2814386 Good Charlotte - The Anthem
+[22:56:51] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:56:51] BanchoBot: Active mods: NoFail, DoubleTime
+[22:56:51] BanchoBot: Players: 1
+[22:56:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17064456 Potatoer        
+[22:56:52] BCraftMG: !mp start 5 glhf
+[22:56:53] BanchoBot: Match starts in 5 seconds
+[22:56:53] BanchoBot: Queued the match to start in 5 seconds
+[22:56:54] BanchoBot: Match starts in 4 seconds
+[22:56:56] BanchoBot: Match starts in 3 seconds
+[22:56:57] BanchoBot: Good luck, have fun!
+[22:56:59] BanchoBot: The match has started!
+[22:58:59] BanchoBot: Potatoer finished playing (Score: 132111, PASSED).
+[22:58:59] BanchoBot: The match has finished!
+[22:59:05] Potatoer: aww man
+[22:59:08] Potatoer: just got back from the mine
+[22:59:23] Potatoer: swinging my pickaxe from side to side
+[22:59:25] BCraftMG: !mp map 3587013 0
+[22:59:26] Potatoer: side side to side
+[22:59:26] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3587013 Link"0 - Finixtahv
+[22:59:26] BanchoBot: Changed match mode to Osu
+[22:59:33] BCraftMG: !mp mods Freemod
+[22:59:34] BanchoBot: Disabled all mods, enabled FreeMod
+[22:59:56] Potatoer: what is a good mod to play when you are sightreading
+[23:00:14] BanchoBot: All players are ready
+[23:00:23] BCraftMG: !mp settings
+[23:00:25] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-EX10), History: https://osu.ppy.sh/mp/112309934
+[23:00:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/3587013 Link"0 - Finixtahv
+[23:00:25] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:00:25] BanchoBot: Active mods: Freemod
+[23:00:25] BanchoBot: Players: 1
+[23:00:25] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17064456 Potatoer        [NoFail, HardRock]
+[23:00:29] BCraftMG: not hr
+[23:00:30] BCraftMG: !mp start 5 glhf
+[23:00:32] BanchoBot: Match starts in 5 seconds
+[23:00:32] BanchoBot: Queued the match to start in 5 seconds
+[23:00:33] BanchoBot: Match starts in 4 seconds
+[23:00:35] BanchoBot: Match starts in 3 seconds
+[23:00:36] BanchoBot: Good luck, have fun!
+[23:00:38] BanchoBot: The match has started!
+[23:00:38] Potatoer: ;-;
+[23:03:08] BanchoBot: Potatoer finished playing (Score: 124299, PASSED).
+[23:03:08] BanchoBot: The match has finished!
+[23:03:17] BCraftMG: !mp map 3590175 0
+[23:03:18] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3590175 ginkiha - EOS
+[23:03:18] BanchoBot: Changed match mode to Osu
+[23:04:37] Potatoer: giv me a moment
+[23:04:43] BCraftMG: banana
+[23:04:44] Potatoer: my fore arm is cramping
+[23:04:49] BCraftMG: aight
+[23:05:55] Potatoer: Ima get banana
+[23:07:56] BanchoBot: All players are ready
+[23:08:02] BCraftMG: !mp settings
+[23:08:04] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-EX10), History: https://osu.ppy.sh/mp/112309934
+[23:08:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/3590175 ginkiha - EOS
+[23:08:04] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:08:04] BanchoBot: Active mods: Freemod
+[23:08:04] BanchoBot: Players: 1
+[23:08:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17064456 Potatoer        [NoFail, HardRock]
+[23:08:05] BCraftMG: !mp start 5 glhf
+[23:08:05] BanchoBot: Match starts in 5 seconds
+[23:08:05] BanchoBot: Queued the match to start in 5 seconds
+[23:08:07] BanchoBot: Match starts in 4 seconds
+[23:08:08] BanchoBot: Match starts in 3 seconds
+[23:08:10] BanchoBot: Good luck, have fun!
+[23:08:11] BanchoBot: The match has started!
+[23:10:48] BanchoBot: Potatoer finished playing (Score: 78794, PASSED).
+[23:10:48] BanchoBot: The match has finished!
+[23:11:01] Potatoer: cool map
+[23:11:26] BCraftMG: !mp map 3830777 0
+[23:11:26] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3830777 seatrus - Stargaze Station
+[23:11:26] BanchoBot: Changed match mode to Osu
+[23:11:36] Potatoer: wait
+[23:11:36] Potatoer: no
+[23:11:42] Potatoer: not this map on freemod
+[23:11:42] Potatoer: firetruck
+[23:11:53] BanchoBot: All players are ready
+[23:12:01] BCraftMG: !mp settings
+[23:12:02] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-EX10), History: https://osu.ppy.sh/mp/112309934
+[23:12:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/3830777 seatrus - Stargaze Station
+[23:12:02] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:12:02] BanchoBot: Active mods: Freemod
+[23:12:02] BanchoBot: Players: 1
+[23:12:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17064456 Potatoer        [NoFail, Hidden]
+[23:12:04] BCraftMG: yes
+[23:12:04] BCraftMG: !mp start 5 glhf
+[23:12:06] BanchoBot: Match starts in 5 seconds
+[23:12:06] BanchoBot: Queued the match to start in 5 seconds
+[23:12:07] BanchoBot: Match starts in 4 seconds
+[23:12:09] BanchoBot: Match starts in 3 seconds
+[23:12:09] BanchoBot: Good luck, have fun!
+[23:12:12] BanchoBot: The match has started!
+[23:14:39] BanchoBot: Potatoer finished playing (Score: 59321, PASSED).
+[23:14:39] BanchoBot: The match has finished!
+[23:14:45] BCraftMG: !mp map 3429000 0
+[23:14:45] BCraftMG: tb
+[23:14:46] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3429000 Yooh - RPG
+[23:14:46] BanchoBot: Changed match mode to Osu
+[23:15:20] Potatoer: FINALLY
+[23:15:23] Potatoer: I CAN LEAVE THIS HELL
+[23:15:27] BCraftMG: chac chua
+[23:15:39] Potatoer: chac
+[23:15:45] Potatoer: tuan sau tai trai se lanh
+[23:15:46] Potatoer: se tap dc
+[23:15:55] Potatoer: tay*
+[23:16:00] BanchoBot: All players are ready
+[23:16:04] BanchoBot: All players are ready
+[23:16:10] BCraftMG: !mp settings
+[23:16:11] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-EX10), History: https://osu.ppy.sh/mp/112309934
+[23:16:11] BanchoBot: Beatmap: https://osu.ppy.sh/b/3429000 Yooh - RPG
+[23:16:11] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:16:11] BanchoBot: Active mods: Freemod
+[23:16:11] BanchoBot: Players: 1
+[23:16:11] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17064456 Potatoer        [NoFail]
+[23:16:13] BCraftMG: !mp start 5 glhf
+[23:16:14] BanchoBot: Match starts in 5 seconds
+[23:16:14] BanchoBot: Queued the match to start in 5 seconds
+[23:16:16] BanchoBot: Match starts in 4 seconds
+[23:16:17] BanchoBot: Match starts in 3 seconds
+[23:16:19] BanchoBot: Good luck, have fun!
+[23:16:20] BanchoBot: The match has started!
+[23:22:27] BanchoBot: Potatoer finished playing (Score: 54893, PASSED).
+[23:22:27] BanchoBot: The match has finished!
+[23:22:32] BCraftMG: lego
+[23:22:36] Potatoer: finally
+[23:22:39] Potatoer: I'm free
+[23:22:40] Potatoer: lego
+[23:22:45] Potatoer: tyssm for ref
+[23:22:51] Potatoer: I hope I don't have to suffer like this again
+[23:22:52] Potatoer: see ya
+[23:22:54] Potatoer: uwu
+[23:22:54] BanchoBot: Potatoer left the game.
+[23:23:21] BCraftMG: !mp close
+[23:23:22] BanchoBot: Closed the match

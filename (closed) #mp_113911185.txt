@@ -1,0 +1,300 @@
+[11:17:15] Joined #mp_113911185
+[11:17:15] BCraftMG: !mp settings
+[11:17:16] BanchoBot: Room name: DACHO: (Div2 Qualifier) vs (Lobby Q39), History: https://osu.ppy.sh/mp/113911185
+[11:17:16] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[11:17:16] BanchoBot: Players: 0
+[11:17:22] BCraftMG: !mp set 0 3 16
+[11:17:22] BanchoBot: Changed match settings to 16 slots, HeadToHead, ScoreV2
+[11:17:26] BCraftMG: !mp invite Celery
+[11:17:27] BanchoBot: Invited Celery to the room
+[11:17:38] BCraftMG: !mp map 3802263
+[11:17:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3802263 Alestorm - Shipwrecked
+[11:17:40] BCraftMG: !mp mods 1
+[11:17:41] BanchoBot: Enabled NoFail, disabled FreeMod
+[11:18:28] BanchoBot: Celery joined in slot 1.
+[11:18:36] BCraftMG: hiii
+[11:18:41] Celery: hi
+[11:18:41] BCraftMG: sorry for being late
+[11:18:46] Celery: its ok
+[11:18:55] BanchoBot: All players are ready
+[11:18:56] BCraftMG: !mp settings
+[11:18:57] BanchoBot: Room name: DACHO: (Div2 Qualifier) vs (Lobby Q39), History: https://osu.ppy.sh/mp/113911185
+[11:18:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/3802263 Alestorm - Shipwrecked
+[11:18:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:18:57] BanchoBot: Active mods: NoFail
+[11:18:57] BanchoBot: Players: 1
+[11:18:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3909969 Celery          
+[11:18:57] BCraftMG: !mp start 5 glhf
+[11:18:58] BanchoBot: Match starts in 5 seconds
+[11:18:58] BanchoBot: Queued the match to start in 5 seconds
+[11:18:59] BanchoBot: Match starts in 4 seconds
+[11:19:00] BanchoBot: Match starts in 3 seconds
+[11:19:01] BanchoBot: Good luck, have fun!
+[11:19:03] BanchoBot: The match has started!
+[11:22:39] BanchoBot: Celery finished playing (Score: 442285, PASSED).
+[11:22:39] BanchoBot: The match has finished!
+[11:22:42] BCraftMG: !mp map 3141960
+[11:22:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3141960 MisomyL - Ring ! Run ! Nyan!!
+[11:22:53] BanchoBot: All players are ready
+[11:22:55] BCraftMG: !mp settings
+[11:22:56] BanchoBot: Room name: DACHO: (Div2 Qualifier) vs (Lobby Q39), History: https://osu.ppy.sh/mp/113911185
+[11:22:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/3141960 MisomyL - Ring ! Run ! Nyan!!
+[11:22:56] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:22:56] BanchoBot: Active mods: NoFail
+[11:22:56] BanchoBot: Players: 1
+[11:22:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3909969 Celery          
+[11:22:57] BCraftMG: !mp start 5 glhf
+[11:22:58] BanchoBot: Match starts in 5 seconds
+[11:22:58] BanchoBot: Queued the match to start in 5 seconds
+[11:22:59] BanchoBot: Match starts in 4 seconds
+[11:23:00] BanchoBot: Match starts in 3 seconds
+[11:23:01] BanchoBot: Good luck, have fun!
+[11:23:03] BanchoBot: The match has started!
+[11:25:09] BanchoBot: Celery finished playing (Score: 350867, PASSED).
+[11:25:09] BanchoBot: The match has finished!
+[11:25:12] BCraftMG: !mp map 3154910
+[11:25:13] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3154910 PeriTune - Prairie4
+[11:25:19] BanchoBot: All players are ready
+[11:25:21] BCraftMG: !mp settings
+[11:25:21] BanchoBot: Room name: DACHO: (Div2 Qualifier) vs (Lobby Q39), History: https://osu.ppy.sh/mp/113911185
+[11:25:21] BanchoBot: Beatmap: https://osu.ppy.sh/b/3154910 PeriTune - Prairie4
+[11:25:21] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:25:21] BanchoBot: Active mods: NoFail
+[11:25:21] BanchoBot: Players: 1
+[11:25:21] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3909969 Celery          
+[11:25:26] BCraftMG: !mp start 5 glhf
+[11:25:27] BanchoBot: Match starts in 5 seconds
+[11:25:27] BanchoBot: Queued the match to start in 5 seconds
+[11:25:28] BanchoBot: Match starts in 4 seconds
+[11:25:29] BanchoBot: Match starts in 3 seconds
+[11:25:30] BanchoBot: Good luck, have fun!
+[11:25:32] BanchoBot: The match has started!
+[11:28:03] BanchoBot: Celery finished playing (Score: 233803, PASSED).
+[11:28:03] BanchoBot: The match has finished!
+[11:28:06] BCraftMG: !mp map 2915478
+[11:28:07] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2915478 Zekk - Turbulence
+[11:28:11] BanchoBot: All players are ready
+[11:28:13] BCraftMG: !mp settings
+[11:28:14] BanchoBot: Room name: DACHO: (Div2 Qualifier) vs (Lobby Q39), History: https://osu.ppy.sh/mp/113911185
+[11:28:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/2915478 Zekk - Turbulence
+[11:28:14] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:28:14] BanchoBot: Active mods: NoFail
+[11:28:14] BanchoBot: Players: 1
+[11:28:14] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3909969 Celery          
+[11:28:15] BCraftMG: !mp start 5 glhf
+[11:28:15] BanchoBot: Match starts in 5 seconds
+[11:28:15] BanchoBot: Queued the match to start in 5 seconds
+[11:28:17] BanchoBot: Match starts in 4 seconds
+[11:28:18] BanchoBot: Match starts in 3 seconds
+[11:28:19] BanchoBot: Good luck, have fun!
+[11:28:21] BanchoBot: The match has started!
+[11:31:18] BanchoBot: Celery finished playing (Score: 422119, PASSED).
+[11:31:18] BanchoBot: The match has finished!
+[11:31:21] BCraftMG: !mp map 3802071
+[11:31:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3802071 john - Utage
+[11:31:58] BanchoBot: All players are ready
+[11:32:00] BCraftMG: !mp settings
+[11:32:01] BanchoBot: Room name: DACHO: (Div2 Qualifier) vs (Lobby Q39), History: https://osu.ppy.sh/mp/113911185
+[11:32:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/3802071 john - Utage
+[11:32:01] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:32:01] BanchoBot: Active mods: NoFail
+[11:32:01] BanchoBot: Players: 1
+[11:32:01] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3909969 Celery          
+[11:32:02] BCraftMG: !mp start 5 glhf
+[11:32:03] BanchoBot: Match starts in 5 seconds
+[11:32:03] BanchoBot: Queued the match to start in 5 seconds
+[11:32:04] BanchoBot: Match starts in 4 seconds
+[11:32:05] BanchoBot: Match starts in 3 seconds
+[11:32:06] BanchoBot: Good luck, have fun!
+[11:32:08] BanchoBot: The match has started!
+[11:34:52] BanchoBot: Celery finished playing (Score: 451862, PASSED).
+[11:34:52] BanchoBot: The match has finished!
+[11:34:56] BCraftMG: !mp map 3451160
+[11:34:57] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3451160 Rib - Tsukiakari
+[11:34:59] BCraftMG: !mp mods 9
+[11:35:00] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[11:35:19] BanchoBot: All players are ready
+[11:35:21] BCraftMG: !mp settings
+[11:35:21] BanchoBot: Room name: DACHO: (Div2 Qualifier) vs (Lobby Q39), History: https://osu.ppy.sh/mp/113911185
+[11:35:21] BanchoBot: Beatmap: https://osu.ppy.sh/b/3451160 Rib - Tsukiakari
+[11:35:21] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:35:21] BanchoBot: Active mods: NoFail, Hidden
+[11:35:21] BanchoBot: Players: 1
+[11:35:21] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3909969 Celery          
+[11:35:25] BCraftMG: !mp start 5 glhf
+[11:35:25] BanchoBot: Match starts in 5 seconds
+[11:35:25] BanchoBot: Queued the match to start in 5 seconds
+[11:35:26] BanchoBot: Match starts in 4 seconds
+[11:35:27] BanchoBot: Match starts in 3 seconds
+[11:35:28] BanchoBot: Good luck, have fun!
+[11:35:30] BanchoBot: The match has started!
+[11:39:28] BanchoBot: Celery finished playing (Score: 352976, PASSED).
+[11:39:28] BanchoBot: The match has finished!
+[11:39:33] BCraftMG: !mp map 4058452
+[11:39:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4058452 Kairiki bear feat. Hatsune Miku - BUG
+[11:40:11] BanchoBot: All players are ready
+[11:40:13] BCraftMG: !mp settings
+[11:40:14] BanchoBot: Room name: DACHO: (Div2 Qualifier) vs (Lobby Q39), History: https://osu.ppy.sh/mp/113911185
+[11:40:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/4058452 Kairiki bear feat. Hatsune Miku - BUG
+[11:40:14] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:40:14] BanchoBot: Active mods: NoFail, Hidden
+[11:40:14] BanchoBot: Players: 1
+[11:40:14] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3909969 Celery          
+[11:40:16] BCraftMG: !mp start 5 glhf
+[11:40:16] BanchoBot: Match starts in 5 seconds
+[11:40:16] BanchoBot: Queued the match to start in 5 seconds
+[11:40:18] BanchoBot: Match starts in 4 seconds
+[11:40:19] BanchoBot: Match starts in 3 seconds
+[11:40:20] BanchoBot: Good luck, have fun!
+[11:40:22] BanchoBot: The match has started!
+[11:43:05] BanchoBot: Celery finished playing (Score: 379919, PASSED).
+[11:43:05] BanchoBot: The match has finished!
+[11:45:13] Celery: yo
+[11:46:12] Celery: BCraftMG
+[11:46:40] BCraftMG: !mp map 4011062!mp map 2798816
+[11:46:41] BanchoBot: Invalid map ID provided
+[11:46:45] BCraftMG: !mp map 4011062
+[11:46:46] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4011062 Street - firewall
+[11:47:07] BanchoBot: All players are ready
+[11:47:09] BCraftMG: !mp settings
+[11:47:09] BanchoBot: Room name: DACHO: (Div2 Qualifier) vs (Lobby Q39), History: https://osu.ppy.sh/mp/113911185
+[11:47:09] BanchoBot: Beatmap: https://osu.ppy.sh/b/4011062 Street - firewall
+[11:47:09] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:47:09] BanchoBot: Active mods: NoFail, Hidden
+[11:47:09] BanchoBot: Players: 1
+[11:47:09] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3909969 Celery          
+[11:47:10] BCraftMG: !mp start 5 glhf
+[11:47:10] BanchoBot: Match starts in 5 seconds
+[11:47:10] BanchoBot: Queued the match to start in 5 seconds
+[11:47:11] BanchoBot: Match starts in 4 seconds
+[11:47:12] BanchoBot: Match starts in 3 seconds
+[11:47:13] BanchoBot: Good luck, have fun!
+[11:47:16] BanchoBot: The match has started!
+[11:50:31] BanchoBot: Celery finished playing (Score: 155618, PASSED).
+[11:50:31] BanchoBot: The match has finished!
+[11:50:33] BCraftMG: !mp map 2798816
+[11:50:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2798816 Aimer - twoface
+[11:50:36] BCraftMG: !mp mods 17
+[11:50:37] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[11:51:17] BanchoBot: All players are ready
+[11:51:20] BCraftMG: !mp settings
+[11:51:20] BanchoBot: Room name: DACHO: (Div2 Qualifier) vs (Lobby Q39), History: https://osu.ppy.sh/mp/113911185
+[11:51:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/2798816 Aimer - twoface
+[11:51:20] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:51:20] BanchoBot: Active mods: NoFail, HardRock
+[11:51:20] BanchoBot: Players: 1
+[11:51:20] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3909969 Celery          
+[11:51:22] BCraftMG: !mp start 5 glhf
+[11:51:22] BanchoBot: Match starts in 5 seconds
+[11:51:22] BanchoBot: Queued the match to start in 5 seconds
+[11:51:24] BanchoBot: Match starts in 4 seconds
+[11:51:25] BanchoBot: Match starts in 3 seconds
+[11:51:26] BanchoBot: Good luck, have fun!
+[11:51:28] BanchoBot: The match has started!
+[11:54:36] BanchoBot: Celery finished playing (Score: 583220, PASSED).
+[11:54:36] BanchoBot: The match has finished!
+[11:54:39] BCraftMG: !mp map 332962
+[11:54:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/332962 Qrispy Joybox - snow prism
+[11:55:16] BanchoBot: All players are ready
+[11:55:17] BCraftMG: !mp settings
+[11:55:18] BanchoBot: Room name: DACHO: (Div2 Qualifier) vs (Lobby Q39), History: https://osu.ppy.sh/mp/113911185
+[11:55:18] BanchoBot: Beatmap: https://osu.ppy.sh/b/332962 Qrispy Joybox - snow prism
+[11:55:18] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:55:18] BanchoBot: Active mods: NoFail, HardRock
+[11:55:18] BanchoBot: Players: 1
+[11:55:18] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3909969 Celery          
+[11:55:19] BCraftMG: !mp start 5 glhf
+[11:55:20] BanchoBot: Match starts in 5 seconds
+[11:55:20] BanchoBot: Queued the match to start in 5 seconds
+[11:55:21] BanchoBot: Match starts in 4 seconds
+[11:55:22] BanchoBot: Match starts in 3 seconds
+[11:55:23] BanchoBot: Good luck, have fun!
+[11:55:25] BanchoBot: The match has started!
+[11:57:24] BanchoBot: Celery finished playing (Score: 550916, PASSED).
+[11:57:24] BanchoBot: The match has finished!
+[11:57:26] BCraftMG: !mp map 4598559
+[11:57:27] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4598559 Dz'Xa - Izumi 7983
+[11:57:55] BanchoBot: All players are ready
+[11:57:56] BCraftMG: !mp settings
+[11:57:57] BanchoBot: Room name: DACHO: (Div2 Qualifier) vs (Lobby Q39), History: https://osu.ppy.sh/mp/113911185
+[11:57:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/4598559 Dz'Xa - Izumi 7983
+[11:57:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:57:57] BanchoBot: Active mods: NoFail, HardRock
+[11:57:57] BanchoBot: Players: 1
+[11:57:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3909969 Celery          
+[11:57:59] BCraftMG: !mp start 5 glhf
+[11:57:59] BanchoBot: Match starts in 5 seconds
+[11:57:59] BanchoBot: Queued the match to start in 5 seconds
+[11:58:00] BanchoBot: Match starts in 4 seconds
+[11:58:01] BanchoBot: Match starts in 3 seconds
+[11:58:02] BanchoBot: Good luck, have fun!
+[11:58:04] BanchoBot: The match has started!
+[12:01:14] BanchoBot: Celery finished playing (Score: 138861, PASSED).
+[12:01:14] BanchoBot: The match has finished!
+[12:01:19] BCraftMG: !mp map 4551067
+[12:01:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4551067 Isekaijoucho - Kaki Tsuzuketa Kimi e
+[12:01:21] BCraftMG: !mp mods 65
+[12:01:22] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[12:01:57] BanchoBot: All players are ready
+[12:02:00] BCraftMG: !mp settings
+[12:02:00] BanchoBot: Room name: DACHO: (Div2 Qualifier) vs (Lobby Q39), History: https://osu.ppy.sh/mp/113911185
+[12:02:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/4551067 Isekaijoucho - Kaki Tsuzuketa Kimi e
+[12:02:00] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[12:02:00] BanchoBot: Active mods: NoFail, DoubleTime
+[12:02:00] BanchoBot: Players: 1
+[12:02:00] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3909969 Celery          
+[12:02:06] BCraftMG: !mp start 5 glhf
+[12:02:06] BanchoBot: Match starts in 5 seconds
+[12:02:06] BanchoBot: Queued the match to start in 5 seconds
+[12:02:08] BanchoBot: Match starts in 4 seconds
+[12:02:08] BanchoBot: Match starts in 3 seconds
+[12:02:10] BanchoBot: Good luck, have fun!
+[12:02:12] BanchoBot: The match has started!
+[12:05:22] BanchoBot: Celery finished playing (Score: 149061, PASSED).
+[12:05:22] BanchoBot: The match has finished!
+[12:05:27] BCraftMG: !mp map 3993328
+[12:05:27] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3993328 KAMELOT - Phantom Divine (Shadow Empire)
+[12:05:58] BanchoBot: All players are ready
+[12:06:01] BCraftMG: !mp settings
+[12:06:01] BanchoBot: Room name: DACHO: (Div2 Qualifier) vs (Lobby Q39), History: https://osu.ppy.sh/mp/113911185
+[12:06:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/3993328 KAMELOT - Phantom Divine (Shadow Empire)
+[12:06:01] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[12:06:01] BanchoBot: Active mods: NoFail, DoubleTime
+[12:06:01] BanchoBot: Players: 1
+[12:06:01] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3909969 Celery          
+[12:06:03] BCraftMG: !mp start 5 glhf
+[12:06:03] BanchoBot: Match starts in 5 seconds
+[12:06:03] BanchoBot: Queued the match to start in 5 seconds
+[12:06:04] BanchoBot: Match starts in 4 seconds
+[12:06:05] BanchoBot: Match starts in 3 seconds
+[12:06:06] BanchoBot: Good luck, have fun!
+[12:06:08] BanchoBot: The match has started!
+[12:08:56] BanchoBot: Celery finished playing (Score: 95277, PASSED).
+[12:08:56] BanchoBot: The match has finished!
+[12:09:01] BCraftMG: !mp map 3687259
+[12:09:01] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3687259 MIHARU - Yakkami-Okami
+[12:09:19] BanchoBot: All players are ready
+[12:09:22] BCraftMG: !mp settings
+[12:09:23] BanchoBot: Room name: DACHO: (Div2 Qualifier) vs (Lobby Q39), History: https://osu.ppy.sh/mp/113911185
+[12:09:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/3687259 MIHARU - Yakkami-Okami
+[12:09:23] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[12:09:23] BanchoBot: Active mods: NoFail, DoubleTime
+[12:09:23] BanchoBot: Players: 1
+[12:09:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3909969 Celery          
+[12:09:24] BCraftMG: !mp start 5 glhf
+[12:09:25] BanchoBot: Match starts in 5 seconds
+[12:09:25] BanchoBot: Queued the match to start in 5 seconds
+[12:09:26] BanchoBot: Match starts in 4 seconds
+[12:09:27] BanchoBot: Match starts in 3 seconds
+[12:09:28] BanchoBot: Good luck, have fun!
+[12:09:30] BanchoBot: The match has started!
+[12:11:50] BanchoBot: Celery finished playing (Score: 86470, PASSED).
+[12:11:50] BanchoBot: The match has finished!
+[12:11:56] Celery: ty for ref
+[12:12:02] BCraftMG: ggwp
+[12:12:05] BCraftMG: sorry for the delays again
+[12:12:10] Celery: nw
+[12:12:15] Celery: o/
+[12:12:16] BanchoBot: Celery left the game.
+[12:12:22] BCraftMG: !mp close
+[12:12:23] BanchoBot: Closed the match

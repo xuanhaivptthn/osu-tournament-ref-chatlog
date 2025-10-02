@@ -1,0 +1,460 @@
+[16:52:59] Joined #mp_101341903
+[16:52:59] BCraftMG: !mp settings
+[16:53:00] BanchoBot: Room name: STT3: (Q18) vs (Qualifiers), History: https://osu.ppy.sh/mp/101341903
+[16:53:00] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[16:53:00] BanchoBot: Players: 0
+[16:53:12] BCraftMG: !mp set 0 3 16
+[16:53:12] BanchoBot: Changed match settings to 16 slots, HeadToHead, ScoreV2
+[16:53:19] BCraftMG: !mp settings
+[16:53:20] BanchoBot: Room name: STT3: (Q18) vs (Qualifiers), History: https://osu.ppy.sh/mp/101341903
+[16:53:20] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:53:20] BanchoBot: Players: 0
+[16:55:00] BCraftMG: !mp invite #16197865
+[16:55:01] BanchoBot: Invited Supernye to the room
+[16:56:00] BanchoBot: Supernye joined in slot 1.
+[16:56:22] BanchoBot: yogurt hose joined in slot 2.
+[16:56:28] BanchoBot: TheTopaz joined in slot 3.
+[16:56:34] BCraftMG: I invited a bit early in case Bancho eats invite
+[16:56:41] TheTopaz: hello mr bcraftmg
+[16:56:46] BCraftMG: o/
+[16:56:57] BanchoBot: Supernye left the game.
+[16:57:07] TheTopaz: its freezing
+[16:57:09] BanchoBot: Supernye joined in slot 1.
+[16:57:10] TheTopaz: my fingers no work
+[16:57:40] BCraftMG: !mp map 3044298 0
+[16:57:41] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3044298 CHiCO with HoneyWorks - Kessen Spirit
+[16:57:41] BanchoBot: Changed match mode to Osu
+[16:57:41] BCraftMG: !mp mods 1
+[16:57:42] BanchoBot: Enabled NoFail, disabled FreeMod
+[16:57:57] yogurt_hose: we are going to roll to see whos in for nm1
+[16:57:59] BCraftMG: take your tame
+[16:58:01] BCraftMG: time
+[16:58:05] BanchoBot: Insurgentz joined in slot 4.
+[16:58:06] BCraftMG: we are a bit early
+[16:58:34] BanchoBot: Nylme joined in slot 5.
+[16:58:41] Supernye: !roll 5
+[16:58:41] BanchoBot: Supernye rolls 5 point(s)
+[16:58:47] Supernye: !roll 5
+[16:58:47] BanchoBot: Supernye rolls 5 point(s)
+[16:58:51] Supernye: !roll 5
+[16:58:51] BanchoBot: Supernye rolls 5 point(s)
+[16:58:55] BCraftMG: yo
+[16:58:57] Supernye: !roll 4
+[16:58:57] BanchoBot: Supernye rolls 4 point(s)
+[16:59:03] Supernye: !roll 3
+[16:59:03] BanchoBot: Supernye rolls 3 point(s)
+[16:59:03] TheTopaz: ????
+[16:59:05] TheTopaz: ??????
+[16:59:07] TheTopaz: ??????????
+[16:59:08] Supernye: ok hold on
+[16:59:09] TheTopaz: bancho plz
+[16:59:10] Nylme: ??
+[16:59:10] Insurgentz: o/
+[16:59:14] Supernye: bancho
+[16:59:15] Supernye: !roll
+[16:59:15] BanchoBot: Supernye rolls 76 point(s)
+[16:59:17] BCraftMG: RNG MOMENT
+[16:59:19] yogurt_hose: bancho knows what it wants
+[16:59:22] Supernye: !roll 100
+[16:59:22] BanchoBot: Supernye rolls 74 point(s)
+[16:59:25] Supernye: !roll 5
+[16:59:25] BanchoBot: Supernye rolls 5 point(s)
+[16:59:29] TheTopaz: ????
+[16:59:30] BCraftMG: !roll 5
+[16:59:30] BanchoBot: BCraftMG rolls 5 point(s)
+[16:59:34] Supernye: ????????
+[16:59:36] TheTopaz: what
+[16:59:37] Insurgentz: wtf
+[16:59:37] TheTopaz: is happening
+[16:59:38] TheTopaz: LMAO
+[16:59:41] Supernye: !roll 100
+[16:59:41] BanchoBot: Supernye rolls 14 point(s)
+[16:59:56] BanchoBot: yogurt hose left the game.
+[16:59:57] BanchoBot: Supernye left the game.
+[17:00:00] BanchoBot: TheTopaz moved to slot 2
+[17:00:00] BanchoBot: Nylme moved to slot 1
+[17:00:12] BanchoBot: Insurgentz moved to slot 3
+[17:00:31] BanchoBot: All players are ready
+[17:00:33] BCraftMG: !mp settings
+[17:00:33] BanchoBot: Room name: STT3: (Q18) vs (Qualifiers), History: https://osu.ppy.sh/mp/101341903
+[17:00:33] BanchoBot: Beatmap: https://osu.ppy.sh/b/3044298 CHiCO with HoneyWorks - Kessen Spirit
+[17:00:33] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:00:33] BanchoBot: Active mods: NoFail
+[17:00:33] BanchoBot: Players: 3
+[17:00:33] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6747548 Nylme           
+[17:00:33] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7588992 TheTopaz        
+[17:00:33] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11906790 Insurgentz      
+[17:00:34] Nylme: glglk
+[17:00:37] BCraftMG: !mp start 5
+[17:00:38] BanchoBot: Match starts in 5 seconds
+[17:00:38] BanchoBot: Queued the match to start in 5 seconds
+[17:00:39] BanchoBot: Match starts in 4 seconds
+[17:00:40] TheTopaz: tyty
+[17:00:40] BanchoBot: Match starts in 3 seconds
+[17:00:41] BanchoBot: Good luck, have fun!
+[17:00:43] BanchoBot: The match has started!
+[17:00:48] BCraftMG: gl :D
+[17:05:21] BanchoBot: Insurgentz finished playing (Score: 652256, PASSED).
+[17:05:21] BanchoBot: Nylme finished playing (Score: 561467, PASSED).
+[17:05:21] BanchoBot: TheTopaz finished playing (Score: 619128, PASSED).
+[17:05:21] BanchoBot: The match has finished!
+[17:05:28] BCraftMG: !mp map 3056724 0
+[17:05:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3056724 Plum - Halloween Candystore
+[17:05:29] BanchoBot: Changed match mode to Osu
+[17:05:31] BCraftMG: !mp mods 1
+[17:05:31] BanchoBot: Enabled NoFail, disabled FreeMod
+[17:05:32] BanchoBot: Supernye joined in slot 4.
+[17:06:00] BanchoBot: TheTopaz left the game.
+[17:06:05] BanchoBot: Supernye moved to slot 2
+[17:06:19] BanchoBot: All players are ready
+[17:06:23] BCraftMG: !mp settings
+[17:06:24] BanchoBot: Room name: STT3: (Q18) vs (Qualifiers), History: https://osu.ppy.sh/mp/101341903
+[17:06:24] BanchoBot: Beatmap: https://osu.ppy.sh/b/3056724 Plum - Halloween Candystore
+[17:06:24] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:06:24] BanchoBot: Active mods: NoFail
+[17:06:24] BanchoBot: Players: 3
+[17:06:24] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6747548 Nylme           
+[17:06:24] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16197865 Supernye        
+[17:06:24] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11906790 Insurgentz      
+[17:06:30] BCraftMG: !mp start 5
+[17:06:30] BanchoBot: Match starts in 5 seconds
+[17:06:30] BanchoBot: Queued the match to start in 5 seconds
+[17:06:31] Nylme: glgl
+[17:06:31] BanchoBot: Match starts in 4 seconds
+[17:06:32] BanchoBot: Match starts in 3 seconds
+[17:06:34] BanchoBot: Good luck, have fun!
+[17:06:36] BanchoBot: The match has started!
+[17:09:07] BanchoBot: Insurgentz finished playing (Score: 601610, PASSED).
+[17:09:08] BanchoBot: Supernye finished playing (Score: 357018, PASSED).
+[17:09:08] BanchoBot: Nylme finished playing (Score: 641377, PASSED).
+[17:09:08] BanchoBot: The match has finished!
+[17:09:19] BCraftMG: !mp map 3580667 0
+[17:09:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3580667 Tanchiky - REDOUT feat. Torika (Cut Ver.)
+[17:09:20] BanchoBot: Changed match mode to Osu
+[17:09:30] BanchoBot: Insurgentz left the game.
+[17:09:32] BanchoBot: TheTopaz joined in slot 3.
+[17:09:48] BanchoBot: All players are ready
+[17:09:51] Nylme: glg
+[17:09:56] BCraftMG: !mp start 5
+[17:09:57] BanchoBot: Match starts in 5 seconds
+[17:09:57] BanchoBot: Queued the match to start in 5 seconds
+[17:09:58] BanchoBot: Match starts in 4 seconds
+[17:09:59] TheTopaz: glgl
+[17:09:59] BanchoBot: Match starts in 3 seconds
+[17:10:00] BanchoBot: Good luck, have fun!
+[17:10:02] BanchoBot: The match has started!
+[17:12:00] BanchoBot: Supernye finished playing (Score: 357186, PASSED).
+[17:12:00] BanchoBot: TheTopaz finished playing (Score: 863780, PASSED).
+[17:12:03] BanchoBot: Nylme finished playing (Score: 378348, PASSED).
+[17:12:03] BanchoBot: The match has finished!
+[17:12:08] BCraftMG: woah
+[17:12:09] BCraftMG: nice score
+[17:12:11] BCraftMG: !mp map 2675202 0
+[17:12:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2675202 Kagemori Michiru (CV: Morohoshi Sumire) - Ready to
+[17:12:12] BanchoBot: Changed match mode to Osu
+[17:12:29] TheTopaz: my sightread was 250k LMAO
+[17:12:46] BCraftMG: was that an fc
+[17:12:54] TheTopaz: crazy how learning a map helps
+[17:12:54] TheTopaz: yeah
+[17:12:56] TheTopaz: low acc
+[17:12:59] TheTopaz: ;-;
+[17:13:06] BCraftMG: you did great :D
+[17:13:12] TheTopaz: ty boss
+[17:13:18] BanchoBot: All players are ready
+[17:13:25] BCraftMG: but we still have 8 maps
+[17:13:27] BCraftMG: !mp start 5
+[17:13:28] BanchoBot: Match starts in 5 seconds
+[17:13:28] BanchoBot: Queued the match to start in 5 seconds
+[17:13:29] BanchoBot: Match starts in 4 seconds
+[17:13:30] BanchoBot: Match starts in 3 seconds
+[17:13:31] Supernye: golf
+[17:13:31] BanchoBot: Good luck, have fun!
+[17:13:34] BanchoBot: The match has started!
+[17:16:33] BanchoBot: Nylme finished playing (Score: 341283, PASSED).
+[17:16:33] BanchoBot: Supernye finished playing (Score: 921724, PASSED).
+[17:16:34] BanchoBot: TheTopaz finished playing (Score: 368796, PASSED).
+[17:16:34] BanchoBot: The match has finished!
+[17:16:36] BCraftMG: YO
+[17:16:48] BCraftMG: here come the first hd
+[17:16:48] BCraftMG: !mp map 2844710 0
+[17:16:50] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2844710 solfa feat. Shimotsuki Haruka - leap in your mind
+[17:16:50] BanchoBot: Changed match mode to Osu
+[17:16:50] BCraftMG: !mp mods 9
+[17:16:51] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[17:17:11] BanchoBot: Nylme left the game.
+[17:17:48] BanchoBot: Insurgentz joined in slot 1.
+[17:18:03] TheTopaz: why am i in for this sir
+[17:18:20] BanchoBot: All players are ready
+[17:18:25] BCraftMG: !mp start 5
+[17:18:26] BanchoBot: Match starts in 5 seconds
+[17:18:26] BanchoBot: Queued the match to start in 5 seconds
+[17:18:27] BCraftMG: !mp settings
+[17:18:27] BanchoBot: Match starts in 4 seconds
+[17:18:28] BanchoBot: Match starts in 3 seconds
+[17:18:28] BanchoBot: Room name: STT3: (Q18) vs (Qualifiers), History: https://osu.ppy.sh/mp/101341903
+[17:18:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/2844710 solfa feat. Shimotsuki Haruka - leap in your mind
+[17:18:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:18:28] BanchoBot: Active mods: NoFail, Hidden
+[17:18:28] BanchoBot: Players: 3
+[17:18:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11906790 Insurgentz      
+[17:18:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16197865 Supernye        
+[17:18:28] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7588992 TheTopaz        
+[17:18:29] BanchoBot: Good luck, have fun!
+[17:18:31] BanchoBot: The match has started!
+[17:23:24] BanchoBot: TheTopaz finished playing (Score: 259913, PASSED).
+[17:23:24] BanchoBot: Insurgentz finished playing (Score: 265575, PASSED).
+[17:23:25] BanchoBot: Supernye finished playing (Score: 453918, PASSED).
+[17:23:25] BanchoBot: The match has finished!
+[17:23:30] BCraftMG: !mp map 1524996 0
+[17:23:31] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1524996 Casandra - Freaks Romanticism
+[17:23:31] BanchoBot: Changed match mode to Osu
+[17:23:36] BCraftMG: one day i will hit those patterns
+[17:23:45] BanchoBot: Insurgentz left the game.
+[17:23:51] BanchoBot: yogurt hose joined in slot 1.
+[17:23:54] BanchoBot: Supernye left the game.
+[17:24:00] BanchoBot: Nylme joined in slot 2.
+[17:24:06] BanchoBot: TheTopaz left the game.
+[17:24:09] BanchoBot: Supernye joined in slot 3.
+[17:24:23] BanchoBot: All players are ready
+[17:24:24] BCraftMG: !mp settings
+[17:24:25] BanchoBot: Room name: STT3: (Q18) vs (Qualifiers), History: https://osu.ppy.sh/mp/101341903
+[17:24:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/1524996 Casandra - Freaks Romanticism
+[17:24:25] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:24:25] BanchoBot: Active mods: NoFail, Hidden
+[17:24:25] BanchoBot: Players: 3
+[17:24:25] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14754208 yogurt hose     
+[17:24:25] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6747548 Nylme           
+[17:24:25] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16197865 Supernye        
+[17:24:28] BCraftMG: !mp start 5
+[17:24:29] BanchoBot: Match starts in 5 seconds
+[17:24:29] BanchoBot: Queued the match to start in 5 seconds
+[17:24:30] BanchoBot: Match starts in 4 seconds
+[17:24:31] BanchoBot: Match starts in 3 seconds
+[17:24:32] Nylme: glgl
+[17:24:32] BanchoBot: Good luck, have fun!
+[17:24:34] BanchoBot: The match has started!
+[17:26:31] BanchoBot: Nylme finished playing (Score: 210805, PASSED).
+[17:26:32] BanchoBot: yogurt hose finished playing (Score: 418980, PASSED).
+[17:26:32] BanchoBot: Supernye finished playing (Score: 410959, PASSED).
+[17:26:32] BanchoBot: The match has finished!
+[17:26:37] BCraftMG: !mp map 230127 0
+[17:26:38] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/230127 TOTAL OBJECTION - Higurashi Moratorium
+[17:26:38] BanchoBot: Changed match mode to Osu
+[17:26:40] BCraftMG: !mp mods 17
+[17:26:40] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[17:26:45] BanchoBot: Supernye left the game.
+[17:26:48] BanchoBot: Nylme left the game.
+[17:26:54] BanchoBot: TheTopaz joined in slot 2.
+[17:27:08] BanchoBot: Insurgentz joined in slot 3.
+[17:27:33] BanchoBot: All players are ready
+[17:27:34] BCraftMG: !mp settings
+[17:27:35] BCraftMG: !mp start 10
+[17:27:35] BanchoBot: Room name: STT3: (Q18) vs (Qualifiers), History: https://osu.ppy.sh/mp/101341903
+[17:27:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/230127 TOTAL OBJECTION - Higurashi Moratorium
+[17:27:35] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:27:35] BanchoBot: Active mods: NoFail, HardRock
+[17:27:35] BanchoBot: Players: 3
+[17:27:35] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14754208 yogurt hose     
+[17:27:35] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7588992 TheTopaz        
+[17:27:35] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11906790 Insurgentz      
+[17:27:37] BanchoBot: Match starts in 10 seconds
+[17:27:37] BanchoBot: Queued the match to start in 10 seconds
+[17:27:42] BanchoBot: Match starts in 5 seconds
+[17:27:43] BanchoBot: Match starts in 4 seconds
+[17:27:44] BanchoBot: Match starts in 3 seconds
+[17:27:45] BanchoBot: Good luck, have fun!
+[17:27:46] TheTopaz: glgl
+[17:27:48] BanchoBot: The match has started!
+[17:31:22] BanchoBot: TheTopaz finished playing (Score: 542077, PASSED).
+[17:31:22] BanchoBot: Insurgentz finished playing (Score: 407360, PASSED).
+[17:31:23] BanchoBot: yogurt hose finished playing (Score: 345689, PASSED).
+[17:31:23] BanchoBot: The match has finished!
+[17:31:29] BCraftMG: !mp map 2258540 0
+[17:31:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2258540 Jin Zhen - Sakura Snow
+[17:31:29] BanchoBot: Changed match mode to Osu
+[17:32:39] BanchoBot: All players are ready
+[17:32:42] BCraftMG: !mp settings
+[17:32:42] BanchoBot: Room name: STT3: (Q18) vs (Qualifiers), History: https://osu.ppy.sh/mp/101341903
+[17:32:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/2258540 Jin Zhen - Sakura Snow
+[17:32:42] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:32:42] BanchoBot: Active mods: NoFail, HardRock
+[17:32:42] BanchoBot: Players: 3
+[17:32:42] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14754208 yogurt hose     
+[17:32:42] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7588992 TheTopaz        
+[17:32:42] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11906790 Insurgentz      
+[17:32:43] BCraftMG: !mp start 10
+[17:32:43] TheTopaz: glgl
+[17:32:43] BanchoBot: Match starts in 10 seconds
+[17:32:43] BanchoBot: Queued the match to start in 10 seconds
+[17:32:49] BanchoBot: Match starts in 5 seconds
+[17:32:50] BanchoBot: Match starts in 4 seconds
+[17:32:50] BanchoBot: Match starts in 3 seconds
+[17:32:52] BanchoBot: Good luck, have fun!
+[17:32:54] BanchoBot: The match has started!
+[17:35:09] BanchoBot: yogurt hose finished playing (Score: 369730, PASSED).
+[17:35:09] BanchoBot: Insurgentz finished playing (Score: 497050, PASSED).
+[17:35:09] BanchoBot: TheTopaz finished playing (Score: 520701, PASSED).
+[17:35:09] BanchoBot: The match has finished!
+[17:35:13] BCraftMG: !mp map 630739 0
+[17:35:13] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/630739 Parov Stelar - Catgroove
+[17:35:13] BanchoBot: Changed match mode to Osu
+[17:35:16] BCraftMG: !mp mods 65
+[17:35:17] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[17:35:23] BanchoBot: yogurt hose left the game.
+[17:35:24] TheTopaz: I HAD
+[17:35:26] BanchoBot: Insurgentz left the game.
+[17:35:26] TheTopaz: MOUSE BUTTONS ON
+[17:35:29] TheTopaz: AT THE START
+[17:35:30] TheTopaz: LMAO
+[17:35:37] BCraftMG: RIP
+[17:35:46] BanchoBot: Supernye joined in slot 1.
+[17:35:48] BCraftMG: but you still have the highest score
+[17:35:58] TheTopaz: ;-;
+[17:36:01] TheTopaz: its okay
+[17:36:03] TheTopaz: tactical int
+[17:36:04] BanchoBot: Nylme joined in slot 3.
+[17:36:12] TheTopaz: so they pick hr into us
+[17:36:19] BanchoBot: All players are ready
+[17:36:22] BCraftMG: !mp settings
+[17:36:24] BanchoBot: Room name: STT3: (Q18) vs (Qualifiers), History: https://osu.ppy.sh/mp/101341903
+[17:36:24] BanchoBot: Beatmap: https://osu.ppy.sh/b/630739 Parov Stelar - Catgroove
+[17:36:24] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:36:24] BanchoBot: Active mods: NoFail, DoubleTime
+[17:36:24] BanchoBot: Players: 3
+[17:36:24] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16197865 Supernye        
+[17:36:24] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7588992 TheTopaz        
+[17:36:24] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6747548 Nylme           
+[17:36:24] BCraftMG: !mp start 10
+[17:36:25] BanchoBot: Match starts in 10 seconds
+[17:36:25] BanchoBot: Queued the match to start in 10 seconds
+[17:36:31] BanchoBot: Match starts in 5 seconds
+[17:36:32] BanchoBot: Match starts in 4 seconds
+[17:36:32] BanchoBot: Match starts in 3 seconds
+[17:36:33] BanchoBot: Good luck, have fun!
+[17:36:36] BanchoBot: The match has started!
+[17:39:18] BanchoBot: Supernye finished playing (Score: 277650, PASSED).
+[17:39:18] BanchoBot: TheTopaz finished playing (Score: 650025, PASSED).
+[17:39:19] BanchoBot: Nylme finished playing (Score: 531883, PASSED).
+[17:39:19] BanchoBot: The match has finished!
+[17:39:24] BCraftMG: !mp map 838602 0
+[17:39:25] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/838602 goreshit - with all my heart.
+[17:39:25] BanchoBot: Changed match mode to Osu
+[17:39:41] BanchoBot: TheTopaz left the game.
+[17:40:07] BanchoBot: Insurgentz joined in slot 2.
+[17:40:39] BanchoBot: All players are ready
+[17:40:40] BCraftMG: !mp settings
+[17:40:41] BanchoBot: Room name: STT3: (Q18) vs (Qualifiers), History: https://osu.ppy.sh/mp/101341903
+[17:40:41] BanchoBot: Beatmap: https://osu.ppy.sh/b/838602 goreshit - with all my heart.
+[17:40:41] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:40:41] BanchoBot: Active mods: NoFail, DoubleTime
+[17:40:41] BanchoBot: Players: 3
+[17:40:41] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16197865 Supernye        
+[17:40:41] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11906790 Insurgentz      
+[17:40:41] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6747548 Nylme           
+[17:40:43] BCraftMG: !mp start 10
+[17:40:44] BanchoBot: Match starts in 10 seconds
+[17:40:44] BanchoBot: Queued the match to start in 10 seconds
+[17:40:50] BanchoBot: Match starts in 5 seconds
+[17:40:51] BanchoBot: Match starts in 4 seconds
+[17:40:51] BanchoBot: Match starts in 3 seconds
+[17:40:52] BanchoBot: Good luck, have fun!
+[17:40:55] BanchoBot: The match has started!
+[17:41:49] Supernye: :tf:
+[17:41:59] Supernye: break section
+[17:42:13] BCraftMG: chillin
+[17:44:46] BanchoBot: Insurgentz finished playing (Score: 356127, PASSED).
+[17:44:47] BanchoBot: Supernye finished playing (Score: 178254, PASSED).
+[17:44:47] BanchoBot: Nylme finished playing (Score: 282835, PASSED).
+[17:44:47] BanchoBot: The match has finished!
+[17:45:00] BCraftMG: here comes ez
+[17:45:01] BanchoBot: yogurt hose joined in slot 4.
+[17:45:01] BCraftMG: !mp map 2589788 0
+[17:45:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2589788 Hoshimachi Suisei - NEXT COLOR PLANET
+[17:45:02] BanchoBot: Changed match mode to Osu
+[17:45:03] BCraftMG: !mp mods 3
+[17:45:04] BanchoBot: Enabled NoFail, Easy, disabled FreeMod
+[17:45:08] BanchoBot: Insurgentz left the game.
+[17:45:14] BanchoBot: yogurt hose moved to slot 2
+[17:45:27] BCraftMG: its ez no need to try :tf:
+[17:45:29] BanchoBot: Nylme left the game.
+[17:45:34] yogurt_hose: u rite
+[17:45:37] BanchoBot: TheTopaz joined in slot 3.
+[17:45:37] Supernye: yes there is
+[17:45:39] Supernye: :tf:
+[17:45:47] yogurt_hose: switch brain off to play ez
+[17:45:49] yogurt_hose: thats how i do it
+[17:45:53] BanchoBot: All players are ready
+[17:45:56] TheTopaz: mr ref man
+[17:45:56] TheTopaz: bless me
+[17:45:59] Supernye: golf
+[17:46:02] TheTopaz: to not get 30k
+[17:46:02] BCraftMG: here come a glhf
+[17:46:07] BCraftMG: !mp settings
+[17:46:08] BanchoBot: Room name: STT3: (Q18) vs (Qualifiers), History: https://osu.ppy.sh/mp/101341903
+[17:46:08] BanchoBot: Beatmap: https://osu.ppy.sh/b/2589788 Hoshimachi Suisei - NEXT COLOR PLANET
+[17:46:08] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:46:08] BanchoBot: Active mods: NoFail, Easy
+[17:46:08] BanchoBot: Players: 3
+[17:46:08] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16197865 Supernye        
+[17:46:08] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14754208 yogurt hose     
+[17:46:08] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7588992 TheTopaz        
+[17:46:09] BCraftMG: !mp start
+[17:46:10] BanchoBot: The match has started!
+[17:46:10] BanchoBot: Started the match
+[17:46:16] BCraftMG: gl yall
+[17:50:40] BanchoBot: Supernye finished playing (Score: 85421, PASSED).
+[17:50:40] BanchoBot: yogurt hose finished playing (Score: 341432, PASSED).
+[17:50:40] BanchoBot: TheTopaz finished playing (Score: 52655, PASSED).
+[17:50:40] BanchoBot: The match has finished!
+[17:50:52] BCraftMG: !mp map 2716029 0
+[17:50:53] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2716029 Camellia - FLYING OUT TO THE SKY (covered by Nanahira, moimoi, Nana Takahashi) (Cut Ver.)
+[17:50:53] BanchoBot: Changed match mode to Osu
+[17:50:56] BanchoBot: Nylme joined in slot 4.
+[17:50:57] BCraftMG: thats a weird mod id
+[17:51:00] BCraftMG: !mp mods 257
+[17:51:01] BanchoBot: Enabled NoFail, HalfTime, disabled FreeMod
+[17:51:12] BCraftMG: Topaz 50k lets go
+[17:51:13] BanchoBot: TheTopaz left the game.
+[17:51:16] BanchoBot: Nylme moved to slot 3
+[17:51:17] BCraftMG: and he left
+[17:51:35] Supernye: yogurt hose my beloved
+[17:51:58] BanchoBot: All players are ready
+[17:52:06] BCraftMG: !mp settings
+[17:52:06] BanchoBot: Room name: STT3: (Q18) vs (Qualifiers), History: https://osu.ppy.sh/mp/101341903
+[17:52:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/2716029 Camellia - FLYING OUT TO THE SKY (covered by Nanahira, moimoi, Nana Takahashi) (Cut Ver.)
+[17:52:06] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:52:06] BanchoBot: Active mods: NoFail, HalfTime
+[17:52:06] BanchoBot: Players: 3
+[17:52:06] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16197865 Supernye        
+[17:52:06] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14754208 yogurt hose     
+[17:52:06] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6747548 Nylme           
+[17:52:10] BCraftMG: LAST ONE
+[17:52:11] BCraftMG: !Mp start 5
+[17:52:13] BanchoBot: Match starts in 5 seconds
+[17:52:13] BanchoBot: Queued the match to start in 5 seconds
+[17:52:14] BanchoBot: Match starts in 4 seconds
+[17:52:15] BanchoBot: Match starts in 3 seconds
+[17:52:16] BanchoBot: Good luck, have fun!
+[17:52:17] yogurt_hose: last one boys
+[17:52:19] BanchoBot: The match has started!
+[17:52:19] Supernye: LETS GO BOYS
+[17:55:25] BanchoBot: Supernye finished playing (Score: 87507, PASSED).
+[17:55:25] BanchoBot: Nylme finished playing (Score: 20733, PASSED).
+[17:55:25] BanchoBot: yogurt hose finished playing (Score: 93655, PASSED).
+[17:55:25] BanchoBot: The match has finished!
+[17:55:34] BCraftMG: GGWP :D
+[17:55:39] yogurt_hose: gg
+[17:55:39] Nylme: gg!
+[17:55:42] yogurt_hose: thanks for ref
+[17:55:49] Nylme: ty for ref <3
+[17:55:51] BanchoBot: Nylme left the game.
+[17:55:55] BanchoBot: Supernye left the game.
+[17:55:58] BanchoBot: TheTopaz joined in slot 1.
+[17:55:59] BanchoBot: yogurt hose left the game.
+[17:56:02] TheTopaz: ty mr ref man
+[17:56:05] TheTopaz: o7
+[17:56:07] BCraftMG: Np <3
+[17:56:15] TheTopaz: <3
+[17:56:15] BanchoBot: TheTopaz left the game.
+[17:56:24] BCraftMG: !mp close
+[17:56:26] BanchoBot: Closed the match

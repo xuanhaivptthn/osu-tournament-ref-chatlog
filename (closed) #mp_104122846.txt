@@ -1,0 +1,349 @@
+[20:55:13] Joined #mp_104122846
+[20:55:13] BCraftMG: !mp settings
+[20:55:15] BanchoBot: Room name: THT3: (Qualifiers) vs (E6), History: https://osu.ppy.sh/mp/104122846
+[20:55:15] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[20:55:15] BanchoBot: Players: 0
+[20:55:39] BCraftMG: !mp set 0 3 8
+[20:55:41] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[20:55:42] BCraftMG: !mp invite #14279837
+[20:55:43] BanchoBot: Invited namiee to the room
+[20:56:44] BCraftMG: !mp invite #5449433
+[20:56:45] BanchoBot: Invited Ui chan to the room
+[20:56:46] BCraftMG: !mp invite #7936917
+[20:56:48] BanchoBot: Invited Uzuru to the room
+[20:57:29] BCraftMG: !mp invite #14279837
+[20:57:30] BanchoBot: User not found
+[20:57:38] BCraftMG: !mp invite #14279837
+[20:57:40] BanchoBot: User not found
+[20:57:54] BCraftMG: !mp invite #14279837
+[20:57:56] BanchoBot: User not found
+[20:58:38] BCraftMG: !mp invite #14279837
+[20:58:40] BanchoBot: Invited namiee to the room
+[20:58:45] BCraftMG: !mp invite #14279837
+[20:58:47] BanchoBot: namiee joined in slot 1.
+[20:58:47] BanchoBot: User is already in the room
+[20:58:55] BCraftMG: !mp map 3276259 0
+[20:58:56] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3276259 Imy - Divine's Game
+[20:58:56] BanchoBot: Changed match mode to Osu
+[20:59:00] BCraftMG: !mp mods 1
+[20:59:01] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:59:47] BanchoBot: Uzuru joined in slot 2.
+[21:00:31] BanchoBot: Ui chan joined in slot 3.
+[21:01:25] BanchoBot: All players are ready
+[21:01:27] BCraftMG: !mp settings
+[21:01:30] BanchoBot: Room name: THT3: (Qualifiers) vs (E6), History: https://osu.ppy.sh/mp/104122846
+[21:01:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/3276259 Imy - Divine's Game
+[21:01:30] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:01:30] BanchoBot: Active mods: NoFail
+[21:01:30] BanchoBot: Players: 3
+[21:01:30] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14279837 namiee          
+[21:01:30] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7936917 Uzuru           
+[21:01:30] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/5449433 Ui chan         
+[21:01:30] BCraftMG: !mp start 5 glhf
+[21:01:32] BanchoBot: Match starts in 5 seconds
+[21:01:32] BanchoBot: Queued the match to start in 5 seconds
+[21:01:34] BanchoBot: Match starts in 4 seconds
+[21:01:34] BanchoBot: Match starts in 3 seconds
+[21:01:36] BanchoBot: Good luck, have fun!
+[21:01:36] Uzuru: glhf
+[21:01:36] Ui_chan: 6.55 luôn
+[21:01:39] BanchoBot: The match has started!
+[21:01:41] Ui_chan: cao thế
+[21:01:41] namiee: glhf
+[21:01:45] Uzuru: zz
+[21:04:40] Ui_chan: slow slider
+[21:04:42] Ui_chan: :yum:
+[21:05:24] BanchoBot: namiee finished playing (Score: 178268, PASSED).
+[21:05:26] BanchoBot: Uzuru finished playing (Score: 386487, PASSED).
+[21:05:27] BanchoBot: Ui chan finished playing (Score: 649277, PASSED).
+[21:05:27] BanchoBot: The match has finished!
+[21:05:29] BCraftMG: !mp map 3332936 0
+[21:05:32] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3332936 HyuN feat. YURI - Disorder
+[21:05:32] BanchoBot: Changed match mode to Osu
+[21:06:05] BanchoBot: All players are ready
+[21:06:11] BCraftMG: !mp settings
+[21:06:13] BanchoBot: Room name: THT3: (Qualifiers) vs (E6), History: https://osu.ppy.sh/mp/104122846
+[21:06:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/3332936 HyuN feat. YURI - Disorder
+[21:06:13] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:06:13] BanchoBot: Active mods: NoFail
+[21:06:13] BanchoBot: Players: 3
+[21:06:13] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14279837 namiee          
+[21:06:13] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7936917 Uzuru           
+[21:06:13] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/5449433 Ui chan         
+[21:06:14] BCraftMG: !mp start 5 glhf
+[21:06:15] BanchoBot: Match starts in 5 seconds
+[21:06:15] BanchoBot: Queued the match to start in 5 seconds
+[21:06:18] BanchoBot: Match starts in 4 seconds
+[21:06:18] BanchoBot: Match starts in 3 seconds
+[21:06:20] BanchoBot: Good luck, have fun!
+[21:06:22] Uzuru: glhf
+[21:06:22] BanchoBot: The match has started!
+[21:08:43] BanchoBot: namiee finished playing (Score: 65772, PASSED).
+[21:08:43] BanchoBot: Ui chan finished playing (Score: 425873, PASSED).
+[21:08:43] BanchoBot: Uzuru finished playing (Score: 455161, PASSED).
+[21:08:43] BanchoBot: The match has finished!
+[21:08:46] BCraftMG: !mp map 3734887 0
+[21:08:48] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3734887 BlackY feat. Risa Yuzuki - Shuumatsu Kinema
+[21:08:48] BanchoBot: Changed match mode to Osu
+[21:08:59] namiee: :|
+[21:09:18] BanchoBot: All players are ready
+[21:09:22] BCraftMG: !mp settings
+[21:09:23] BanchoBot: Room name: THT3: (Qualifiers) vs (E6), History: https://osu.ppy.sh/mp/104122846
+[21:09:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/3734887 BlackY feat. Risa Yuzuki - Shuumatsu Kinema
+[21:09:23] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:09:23] BanchoBot: Active mods: NoFail
+[21:09:23] BanchoBot: Players: 3
+[21:09:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14279837 namiee          
+[21:09:23] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7936917 Uzuru           
+[21:09:23] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/5449433 Ui chan         
+[21:09:26] BCraftMG: !mp start 5 glhf
+[21:09:27] BanchoBot: Match starts in 5 seconds
+[21:09:27] BanchoBot: Queued the match to start in 5 seconds
+[21:09:29] BanchoBot: Match starts in 4 seconds
+[21:09:29] BanchoBot: Match starts in 3 seconds
+[21:09:31] BanchoBot: Good luck, have fun!
+[21:09:34] BanchoBot: The match has started!
+[21:09:38] Uzuru: glhf
+[21:13:28] BanchoBot: namiee finished playing (Score: 45683, PASSED).
+[21:13:32] BanchoBot: Uzuru finished playing (Score: 174288, PASSED).
+[21:13:37] BanchoBot: Ui chan finished playing (Score: 638135, PASSED).
+[21:13:37] BanchoBot: The match has finished!
+[21:13:41] BCraftMG: !mp map 2803777 0
+[21:13:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2803777 PSYQUI - Eyes on me feat. Such
+[21:13:43] BanchoBot: Changed match mode to Osu
+[21:14:08] BanchoBot: All players are ready
+[21:14:20] Ui_chan: toàn miss read
+[21:14:22] Ui_chan: xđ
+[21:14:25] BCraftMG: !mp settings
+[21:14:26] BanchoBot: Room name: THT3: (Qualifiers) vs (E6), History: https://osu.ppy.sh/mp/104122846
+[21:14:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/2803777 PSYQUI - Eyes on me feat. Such
+[21:14:26] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:14:26] BanchoBot: Active mods: NoFail
+[21:14:26] BanchoBot: Players: 3
+[21:14:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14279837 namiee          
+[21:14:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7936917 Uzuru           
+[21:14:26] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/5449433 Ui chan         
+[21:14:28] BCraftMG: !mp start 5 glhf
+[21:14:28] BanchoBot: Match starts in 5 seconds
+[21:14:28] BanchoBot: Queued the match to start in 5 seconds
+[21:14:31] BanchoBot: Match starts in 4 seconds
+[21:14:31] BanchoBot: Match starts in 3 seconds
+[21:14:33] BanchoBot: Good luck, have fun!
+[21:14:35] BanchoBot: The match has started!
+[21:14:35] namiee: glhf
+[21:14:40] Uzuru: glhf
+[21:16:31] BanchoBot: Uzuru finished playing (Score: 160354, PASSED).
+[21:16:31] BanchoBot: namiee finished playing (Score: 85863, PASSED).
+[21:16:31] BanchoBot: Ui chan finished playing (Score: 459128, PASSED).
+[21:16:31] BanchoBot: The match has finished!
+[21:16:34] BCraftMG: !mp map 3287710 0
+[21:16:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3287710 Denkishiki Karen Ongaku Shuudan - Shinoburedo
+[21:16:36] BanchoBot: Changed match mode to Osu
+[21:16:37] BCraftMG: !mp mods 9
+[21:16:38] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:16:58] namiee: map
+[21:17:09] BanchoBot: All players are ready
+[21:17:10] BCraftMG: !mp settings
+[21:17:11] BanchoBot: Room name: THT3: (Qualifiers) vs (E6), History: https://osu.ppy.sh/mp/104122846
+[21:17:11] BanchoBot: Beatmap: https://osu.ppy.sh/b/3287710 Denkishiki Karen Ongaku Shuudan - Shinoburedo
+[21:17:11] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:17:11] BanchoBot: Active mods: NoFail, Hidden
+[21:17:11] BanchoBot: Players: 3
+[21:17:11] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14279837 namiee          
+[21:17:11] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7936917 Uzuru           
+[21:17:11] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/5449433 Ui chan         
+[21:17:15] BCraftMG: !mp start 5 glhf
+[21:17:17] BanchoBot: Match starts in 5 seconds
+[21:17:17] BanchoBot: Queued the match to start in 5 seconds
+[21:17:20] BanchoBot: Match starts in 4 seconds
+[21:17:20] BanchoBot: Match starts in 3 seconds
+[21:17:22] BanchoBot: Good luck, have fun!
+[21:17:24] namiee: glhf
+[21:17:24] BanchoBot: The match has started!
+[21:21:42] BanchoBot: Uzuru finished playing (Score: 439731, PASSED).
+[21:21:42] BanchoBot: namiee finished playing (Score: 254425, PASSED).
+[21:21:44] BanchoBot: Ui chan finished playing (Score: 1011538, PASSED).
+[21:21:44] BanchoBot: The match has finished!
+[21:21:49] BCraftMG: !mp map 1580739 0
+[21:21:51] Uzuru: holy shit
+[21:21:51] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1580739 SUPER STAR -MITSURU- - NEW GENERATION -mou, omae shika mienai-
+[21:21:51] BanchoBot: Changed match mode to Osu
+[21:21:56] namiee: real
+[21:22:00] Uzuru: sightread fc no way
+[21:22:04] Ui_chan: dead
+[21:22:13] Uzuru: ar 8 hd ded
+[21:22:18] BCraftMG: no ded
+[21:22:20] BCraftMG: pls live
+[21:22:22] Ui_chan: 6* ko fc dc
+[21:22:25] Ui_chan: i cry
+[21:22:45] BanchoBot: All players are ready
+[21:22:49] BCraftMG: !mp settings
+[21:22:49] namiee: L(
+[21:22:49] Ui_chan: BeepCraftMaGaming
+[21:22:52] BanchoBot: Room name: THT3: (Qualifiers) vs (E6), History: https://osu.ppy.sh/mp/104122846
+[21:22:52] BanchoBot: Beatmap: https://osu.ppy.sh/b/1580739 SUPER STAR -MITSURU- - NEW GENERATION -mou, omae shika mienai-
+[21:22:52] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:22:52] BanchoBot: Active mods: NoFail, Hidden
+[21:22:52] BanchoBot: Players: 3
+[21:22:52] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14279837 namiee          
+[21:22:52] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7936917 Uzuru           
+[21:22:52] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/5449433 Ui chan         
+[21:22:56] BCraftMG: wat da faq
+[21:22:59] BCraftMG: !mp start 5 glhf
+[21:23:00] BanchoBot: Match starts in 5 seconds
+[21:23:00] BanchoBot: Queued the match to start in 5 seconds
+[21:23:02] BanchoBot: Match starts in 4 seconds
+[21:23:03] BanchoBot: Match starts in 3 seconds
+[21:23:05] BanchoBot: Good luck, have fun!
+[21:23:05] Uzuru: glhf
+[21:23:07] BanchoBot: The match has started!
+[21:25:13] BanchoBot: Uzuru finished playing (Score: 342187, PASSED).
+[21:25:13] BanchoBot: namiee finished playing (Score: 449479, PASSED).
+[21:25:13] BanchoBot: Ui chan finished playing (Score: 420133, PASSED).
+[21:25:13] BanchoBot: The match has finished!
+[21:25:40] namiee: D
+[21:25:42] Ui_chan: no combo
+[21:25:51] Uzuru: k lết nổi lên b so sad
+[21:25:52] BCraftMG: !mp map 2241585 0
+[21:25:54] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2241585 Rita - Winter Diamond
+[21:25:54] BanchoBot: Changed match mode to Osu
+[21:25:54] BCraftMG: !mp mods 17
+[21:25:56] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[21:26:14] Ui_chan: map gì 36mb thế này
+[21:26:30] namiee: map storyboard
+[21:26:39] Uzuru: zz
+[21:26:47] BCraftMG: map
+[21:27:00] BanchoBot: All players are ready
+[21:27:28] BCraftMG: !mp setting
+[21:27:30] BCraftMG: !mp settings
+[21:27:31] namiee: @bcraftmg
+[21:27:31] BanchoBot: Room name: THT3: (Qualifiers) vs (E6), History: https://osu.ppy.sh/mp/104122846
+[21:27:31] BanchoBot: Beatmap: https://osu.ppy.sh/b/2241585 Rita - Winter Diamond
+[21:27:31] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:27:31] BanchoBot: Active mods: NoFail, HardRock
+[21:27:31] BanchoBot: Players: 3
+[21:27:31] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14279837 namiee          
+[21:27:31] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7936917 Uzuru           
+[21:27:31] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/5449433 Ui chan         
+[21:27:36] BCraftMG: !mp start 5 glhf
+[21:27:38] BanchoBot: Match starts in 5 seconds
+[21:27:38] BanchoBot: Queued the match to start in 5 seconds
+[21:27:40] BanchoBot: Match starts in 4 seconds
+[21:27:40] BanchoBot: Match starts in 3 seconds
+[21:27:42] BanchoBot: Good luck, have fun!
+[21:27:42] namiee: glhf
+[21:27:44] BanchoBot: The match has started!
+[21:31:46] BanchoBot: namiee finished playing (Score: 34021, PASSED).
+[21:31:46] BanchoBot: Uzuru finished playing (Score: 271453, PASSED).
+[21:31:46] BanchoBot: Ui chan finished playing (Score: 340913, PASSED).
+[21:31:46] BanchoBot: The match has finished!
+[21:31:49] BCraftMG: !mp map 3021082 0
+[21:31:51] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3021082 PinocchioP feat. Hatsune Miku - Ghosts Play to the Audience
+[21:31:51] BanchoBot: Changed match mode to Osu
+[21:32:16] Ui_chan: không stream đc r map toàn stream
+[21:32:16] Ui_chan: dead
+[21:32:27] BanchoBot: All players are ready
+[21:32:36] namiee: godish
+[21:32:42] BCraftMG: !mp settings
+[21:32:43] BanchoBot: Room name: THT3: (Qualifiers) vs (E6), History: https://osu.ppy.sh/mp/104122846
+[21:32:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/3021082 PinocchioP feat. Hatsune Miku - Ghosts Play to the Audience
+[21:32:43] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:32:43] BanchoBot: Active mods: NoFail, HardRock
+[21:32:43] BanchoBot: Players: 3
+[21:32:43] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14279837 namiee          
+[21:32:43] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7936917 Uzuru           
+[21:32:43] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/5449433 Ui chan         
+[21:32:47] BCraftMG: wat
+[21:32:48] BCraftMG: !mp start 5 glhf
+[21:32:50] BanchoBot: Match starts in 5 seconds
+[21:32:50] BanchoBot: Queued the match to start in 5 seconds
+[21:32:52] BanchoBot: Match starts in 4 seconds
+[21:32:52] BanchoBot: Match starts in 3 seconds
+[21:32:55] BanchoBot: Good luck, have fun!
+[21:32:55] Uzuru: glhf
+[21:32:57] BanchoBot: The match has started!
+[21:33:01] namiee: glhf
+[21:36:49] BanchoBot: namiee finished playing (Score: 24099, PASSED).
+[21:36:49] BanchoBot: Uzuru finished playing (Score: 68209, PASSED).
+[21:36:51] BanchoBot: Ui chan finished playing (Score: 298055, PASSED).
+[21:36:51] BanchoBot: The match has finished!
+[21:37:00] BCraftMG: !mp map 3243641 0
+[21:37:03] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3243641 FELT - Flower Flag
+[21:37:03] BanchoBot: Changed match mode to Osu
+[21:37:03] BCraftMG: !mp mods 65
+[21:37:07] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:38:19] BCraftMG: !mp settings
+[21:38:20] BanchoBot: Room name: THT3: (Qualifiers) vs (E6), History: https://osu.ppy.sh/mp/104122846
+[21:38:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/3243641 FELT - Flower Flag
+[21:38:20] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:38:20] BanchoBot: Active mods: NoFail, DoubleTime
+[21:38:20] BanchoBot: Players: 3
+[21:38:20] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/14279837 namiee          
+[21:38:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7936917 Uzuru           
+[21:38:20] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/5449433 Ui chan         
+[21:38:22] BanchoBot: All players are ready
+[21:38:26] BCraftMG: !mp settings
+[21:38:27] BanchoBot: Room name: THT3: (Qualifiers) vs (E6), History: https://osu.ppy.sh/mp/104122846
+[21:38:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/3243641 FELT - Flower Flag
+[21:38:27] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:38:27] BanchoBot: Active mods: NoFail, DoubleTime
+[21:38:27] BanchoBot: Players: 3
+[21:38:27] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14279837 namiee          
+[21:38:27] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7936917 Uzuru           
+[21:38:27] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/5449433 Ui chan         
+[21:38:27] BCraftMG: !mp start 5 glhf
+[21:38:29] BanchoBot: Match starts in 5 seconds
+[21:38:29] BanchoBot: Queued the match to start in 5 seconds
+[21:38:31] BanchoBot: Match starts in 4 seconds
+[21:38:31] BanchoBot: Match starts in 3 seconds
+[21:38:34] BanchoBot: Good luck, have fun!
+[21:38:34] Uzuru: glhf
+[21:38:36] BanchoBot: The match has started!
+[21:38:36] namiee: glhf
+[21:41:41] BanchoBot: Uzuru finished playing (Score: 350092, PASSED).
+[21:41:41] BanchoBot: namiee finished playing (Score: 100690, PASSED).
+[21:41:43] BanchoBot: Ui chan finished playing (Score: 1090853, PASSED).
+[21:41:43] BanchoBot: The match has finished!
+[21:41:45] BCraftMG: !mp map 3047429 0
+[21:41:45] Uzuru: vãi
+[21:41:48] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3047429 Touhou LostWord x RichaadEB - Lost Word Chronicle
+[21:41:48] BanchoBot: Changed match mode to Osu
+[21:41:50] namiee: !!!!!
+[21:41:59] Uzuru: 1 miss so sad
+[21:42:04] BanchoBot: All players are ready
+[21:42:08] BCraftMG: !mp settings
+[21:42:10] BanchoBot: Room name: THT3: (Qualifiers) vs (E6), History: https://osu.ppy.sh/mp/104122846
+[21:42:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/3047429 Touhou LostWord x RichaadEB - Lost Word Chronicle
+[21:42:10] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:42:10] BanchoBot: Active mods: NoFail, DoubleTime
+[21:42:10] BanchoBot: Players: 3
+[21:42:10] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14279837 namiee          
+[21:42:10] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7936917 Uzuru           
+[21:42:10] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/5449433 Ui chan         
+[21:42:17] BCraftMG: !mp start 5 glhf
+[21:42:17] BanchoBot: Match starts in 5 seconds
+[21:42:17] BanchoBot: Queued the match to start in 5 seconds
+[21:42:19] BanchoBot: Match starts in 4 seconds
+[21:42:19] BanchoBot: Match starts in 3 seconds
+[21:42:22] BanchoBot: Good luck, have fun!
+[21:42:24] BanchoBot: The match has started!
+[21:42:24] Ui_chan: not dt player
+[21:44:56] BanchoBot: Ui chan finished playing (Score: 528336, PASSED).
+[21:44:56] BanchoBot: namiee finished playing (Score: 35041, PASSED).
+[21:44:58] BanchoBot: Uzuru finished playing (Score: 446001, PASSED).
+[21:44:58] BanchoBot: The match has finished!
+[21:45:02] Uzuru: ggwp
+[21:45:07] Ui_chan: done
+[21:45:09] BCraftMG: geegee
+[21:45:11] Ui_chan: đi ngủ teim
+[21:45:16] namiee: gg
+[21:45:21] Uzuru: cảm ơn đã ref
+[21:45:23] BanchoBot: Ui chan left the game.
+[21:45:26] namiee: :man_running:
+[21:45:30] Uzuru: bye gúy
+[21:45:30] namiee: thanks for ref !!
+[21:45:30] namiee: o/
+[21:45:33] BanchoBot: Uzuru left the game.
+[21:45:33] BanchoBot: namiee left the game.
+[21:45:38] BCraftMG: !mp close
+[21:45:39] BanchoBot: Closed the match

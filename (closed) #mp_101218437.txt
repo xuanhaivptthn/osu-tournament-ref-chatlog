@@ -1,0 +1,1018 @@
+[23:57:37] Joined #mp_101218437
+[23:57:37] BCraftMG: !mp settings
+[23:57:38] BanchoBot: Room name: THH: (taco salad) vs (Team 18), History: https://osu.ppy.sh/mp/101218437
+[23:57:38] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[23:57:38] BanchoBot: Players: 0
+[23:57:42] BCraftMG: !mp set 2 3 11
+[23:57:43] BanchoBot: Changed match settings to 11 slots, TeamVs, ScoreV2
+[23:57:46] BCraftMG: !mp addref Rimuru_Uruha
+[23:57:47] BanchoBot: Added Rimuru_Uruha to the match referees
+[23:58:03] BCraftMG: !mp invite #7701428
+[23:58:05] BanchoBot: Invited Eunha to the room
+[23:58:13] BCraftMG: !mp invite #6094894
+[23:58:14] BanchoBot: Invited Snakeq to the room
+[23:58:33] BanchoBot: Eunha joined in slot 1 for team blue.
+[23:59:33] BanchoBot: Snakeq joined in slot 2 for team red.
+[23:59:34] BanchoBot: Nyarue joined in slot 3 for team blue.
+[23:59:38] Nyarue: o/
+[23:59:41] BanchoBot: Snakeq moved to slot 5
+[23:59:52] BCraftMG: o/
+[23:59:54] Snakeq: o/
+[00:00:04] BanchoBot: Eunha left the game.
+[00:00:04] BanchoBot: Sukiye joined in slot 1 for team blue.
+[00:00:07] BanchoBot: Sukiye moved to slot 2
+[00:00:15] BCraftMG: taco salad is red slot 1-4; team 18 is blue slot 5-8
+[00:00:21] BCraftMG: anyone want warm up?
+[00:00:27] BanchoBot: glyph on osu joined in slot 1 for team blue.
+[00:00:50] BanchoBot: Nyarue changed to Red
+[00:01:02] BanchoBot: BodenMyMommy joined in slot 4 for team red.
+[00:01:09] BanchoBot: Snakeq changed to Blue
+[00:01:53] BodenMyMommy: o/
+[00:02:02] BCraftMG: o//
+[00:02:21] BanchoBot: Sukiye left the game.
+[00:02:41] BanchoBot: Tuco joined in slot 2 for team red.
+[00:02:43] BanchoBot: BodenMyMommy left the game.
+[00:02:49] BanchoBot: YoshiLover456 joined in slot 4 for team red.
+[00:03:13] BanchoBot: glyph on osu changed to Red
+[00:03:58] BCraftMG: um
+[00:04:00] BCraftMG: warm up?
+[00:04:14] Tuco: sure
+[00:04:28] BCraftMG: wheres your captain
+[00:04:30] BCraftMG: !mp host Tuco
+[00:04:31] BanchoBot: Tuco became the host.
+[00:04:31] BanchoBot: Changed match host to Tuco
+[00:04:34] BanchoBot: Beatmap changed to: xi - Finder Keepers [Mine Now] (https://osu.ppy.sh/b/2680271)
+[00:04:34] Tuco: around
+[00:04:37] Tuco: i'll do the captain stuff
+[00:04:40] BanchoBot: Host is changing map...
+[00:04:42] BanchoBot: BodenMyMommy joined in slot 6 for team red.
+[00:04:42] BCraftMG: !mp mods 1 freemod
+[00:04:43] BanchoBot: Disabled all mods, enabled FreeMod
+[00:04:50] BanchoBot: glyph on osu left the game.
+[00:05:03] BanchoBot: Beatmap changed to: Daddy Yankee feat. Danzing Lizard - Gasolina [Glaceon's 1-2 Gasolina] (https://osu.ppy.sh/b/1768479)
+[00:05:10] Nyarue: sdkfjgsdfklhgjsf
+[00:05:18] BanchoBot: Eunha joined in slot 1 for team blue.
+[00:05:33] BanchoBot: The match has started!
+[00:05:54] BanchoBot: Tuco finished playing (Score: 465074, PASSED).
+[00:05:54] BanchoBot: YoshiLover456 finished playing (Score: 428721, PASSED).
+[00:05:54] BanchoBot: Nyarue finished playing (Score: 535380, PASSED).
+[00:05:54] BanchoBot: Snakeq finished playing (Score: 425451, PASSED).
+[00:05:55] BanchoBot: BodenMyMommy finished playing (Score: 555573, PASSED).
+[00:05:55] BanchoBot: Eunha finished playing (Score: 964448, PASSED).
+[00:05:55] BanchoBot: The match has finished!
+[00:06:04] BanchoBot: Snakeq became the host.
+[00:06:09] BanchoBot: KRZY joined in slot 7 for team blue.
+[00:06:19] BCraftMG: lol
+[00:06:20] BCraftMG: ok
+[00:06:21] BanchoBot: KRZY became the host.
+[00:06:28] BanchoBot: KRZY changed to Red
+[00:06:42] BanchoBot: -Garrick joined in slot 8 for team red.
+[00:06:44] BanchoBot: CamperLt joined in slot 9 for team blue.
+[00:06:50] BanchoBot: -Maxy joined in slot 10 for team red.
+[00:07:02] BanchoBot: danthesodacan joined in slot 11 for team blue.
+[00:07:11] KRZY: is this the warmup
+[00:07:12] BanchoBot: -Maxy changed to Blue
+[00:07:22] Eunha: your warm up now\
+[00:07:23] BodenMyMommy: no this is nm1
+[00:07:23] Tuco: your turn to pick wawrmup
+[00:07:24] Tuco: if you want
+[00:07:40] BCraftMG: owo
+[00:07:45] BanchoBot: -Garrick left the game.
+[00:07:46] BanchoBot: Fwuffy joined in slot 8 for team red.
+[00:07:46] CamperLt: open more space
+[00:07:52] BanchoBot: Fwuffy became the host.
+[00:07:54] BCraftMG: !mp size 16
+[00:07:54] BanchoBot: Host is changing map...
+[00:07:54] BanchoBot: Changed match to size 16
+[00:08:07] BanchoBot: -Garrick joined in slot 12 for team red.
+[00:08:10] BCraftMG: is that enough slots
+[00:08:13] BanchoBot: KRZY changed to Blue
+[00:08:14] BanchoBot: CamperLt changed to Red
+[00:08:16] BanchoBot: CamperLt changed to Blue
+[00:08:19] -Garrick: full 16 player lobby?
+[00:08:27] BanchoBot: -Garrick changed to Blue
+[00:08:29] BanchoBot: -Garrick changed to Red
+[00:08:29] BanchoBot: -Garrick changed to Blue
+[00:08:31] CamperLt: 8v8
+[00:08:36] BanchoBot: Beatmap changed to: cinnamons  evening cinema - summertime [Come And Get Boba With Me?] (https://osu.ppy.sh/b/2583680)
+[00:08:41] Fwuffy: THIS IS FOR YOU KOLIN
+[00:08:49] BanchoBot: Fwuffy changed to Blue
+[00:08:57] BanchoBot: Eunha left the game.
+[00:08:57] BanchoBot: realshin joined in slot 1 for team blue.
+[00:08:58] -Garrick: kolin o/
+[00:09:19] BanchoBot: Chugger joined in slot 13 for team blue.
+[00:09:21] BCraftMG: please start when you ready
+[00:09:26] Tuco: hi chugman
+[00:09:29] BCraftMG: im trying to save my steam
+[00:09:32] YoshiLover456: wtf chugger
+[00:09:36] Chugger: hi
+[00:09:40] -Maxy: wtf chugger
+[00:09:46] danthesodacan: wtf chugger
+[00:09:46] Tuco: he's our dt player
+[00:09:51] Fwuffy: chugger wtf
+[00:09:52] YoshiLover456: :froggy
+[00:09:58] danthesodacan: hi taco
+[00:09:59] Chugger: golf?
+[00:10:00] danthesodacan: i like tacos
+[00:10:01] BanchoBot: All players are ready
+[00:10:03] BanchoBot: All players are ready
+[00:10:03] BanchoBot: The match has started!
+[00:11:11] BanchoBot: Boden joined in slot 14 for team red.
+[00:11:41] BanchoBot: Boden left the game.
+[00:14:08] BanchoBot: danthesodacan finished playing (Score: 246713, PASSED).
+[00:14:08] BanchoBot: Nyarue finished playing (Score: 120947, PASSED).
+[00:14:08] BanchoBot: KRZY finished playing (Score: 386195, PASSED).
+[00:14:10] BanchoBot: realshin finished playing (Score: 199046, PASSED).
+[00:14:11] BanchoBot: -Garrick finished playing (Score: 122744, PASSED).
+[00:14:11] BanchoBot: -Maxy finished playing (Score: 233904, PASSED).
+[00:14:11] BanchoBot: YoshiLover456 finished playing (Score: 197087, PASSED).
+[00:14:11] BanchoBot: Tuco finished playing (Score: 201369, PASSED).
+[00:14:11] BanchoBot: Chugger finished playing (Score: 171318, PASSED).
+[00:14:11] BanchoBot: Fwuffy finished playing (Score: 222931, PASSED).
+[00:14:11] BanchoBot: CamperLt finished playing (Score: 77547, PASSED).
+[00:14:12] BanchoBot: Snakeq finished playing (Score: 182277, PASSED).
+[00:14:12] BanchoBot: BodenMyMommy finished playing (Score: 181188, PASSED).
+[00:14:12] BanchoBot: The match has finished!
+[00:14:26] Chugger: ah shit wrong team
+[00:14:29] BanchoBot: Chugger changed to Red
+[00:14:31] BanchoBot: Eunha joined in slot 14 for team red.
+[00:14:32] Tuco: you had one job
+[00:14:39] BanchoBot: Fwuffy left the game.
+[00:14:41] -Garrick: lol
+[00:14:45] Chugger: ur scores were so shit it doesn't matter
+[00:14:58] Tuco: :fair:
+[00:15:06] BanchoBot: realshin moved to slot 8
+[00:15:07] -Maxy: wtf,
+[00:15:09] BCraftMG: !mp clearhost
+[00:15:10] BanchoBot: BodenMyMommy left the game.
+[00:15:10] Snakeq: !roll
+[00:15:10] BanchoBot: Snakeq rolls 85 point(s)
+[00:15:10] BanchoBot: Cleared match host
+[00:15:16] danthesodacan: wtf,
+[00:15:17] Eunha: wtf
+[00:15:26] Eunha: prayge
+[00:15:27] Eunha: !roll
+[00:15:27] BanchoBot: Eunha rolls 17 point(s)
+[00:15:31] Eunha: dsfllhjkadsgolpjhsdfkhgjnkdfs
+[00:15:47] danthesodacan: dsfllhjkadsgolpjhsdfkhgjnkdfs
+[00:15:49] BCraftMG: Team 18, pick and ban order please
+[00:15:50] BanchoBot: glyph on osu joined in slot 1 for team blue.
+[00:15:50] Chugger: can i pick a warmup
+[00:15:59] Eunha: no
+[00:15:59] BanchoBot: glyph on osu changed to Red
+[00:16:02] Chugger: ???
+[00:16:08] Tuco: man
+[00:16:11] Eunha: ???
+[00:16:40] BCraftMG: wait what
+[00:16:53] Snakeq: first pick
+[00:16:53] -Maxy: first pick
+[00:17:04] -Maxy: wait
+[00:17:05] BCraftMG: Taco, your first ban?
+[00:17:07] Tuco: this match is gonna take so long
+[00:17:16] Chugger: nm1
+[00:17:16] -Maxy: shhh tuco
+[00:17:21] Tuco: dt2
+[00:17:26] danthesodacan: taco
+[00:17:34] -Garrick: T^T
+[00:17:43] YoshiLover456: chugger.
+[00:17:46] Chugger: u call me in for dt and ban dt???
+[00:18:00] Tuco: chugger it's 10.3
+[00:18:06] Chugger: oh gg
+[00:18:21] Chugger: this pool sucks
+[00:18:39] realshin: i thought dt2 is 10.1
+[00:18:46] Tuco: close enough
+[00:18:48] BCraftMG: next is 2 ban from team 18
+[00:18:54] Eunha: sliders are harder tan burst in dt2
+[00:19:04] CamperLt: is chugger even in your team
+[00:19:05] Snakeq: nm3
+[00:19:12] Chugger: ?
+[00:19:24] Chugger: what an odd question
+[00:19:34] Snakeq: hd1
+[00:20:02] Tuco: ban nm2
+[00:20:12] BanchoBot: Sukiye joined in slot 6 for team red.
+[00:20:13] BanchoBot: ocaip joined in slot 15 for team blue.
+[00:20:16] Tuco: aim map
+[00:20:21] BanchoBot: Sukiye moved to slot 16
+[00:20:27] BCraftMG: taco salad | 0 - 0 | Team 18 // First Pick: Team 18
+[00:20:27] -Garrick: every nm2 is an aim map
+[00:20:29] BCraftMG: !mp timer 120
+[00:20:30] BanchoBot: Countdown ends in 2 minutes
+[00:20:30] Nyarue: :ocaip:
+[00:20:38] BanchoBot: BodenMyMommy joined in slot 6 for team red.
+[00:20:55] ocaip: krzy :holaaaa:
+[00:21:09] KRZY: hi
+[00:21:18] BCraftMG: !mp settings
+[00:21:19] BanchoBot: Room name: THH: (taco salad) vs (Team 18), History: https://osu.ppy.sh/mp/101218437
+[00:21:19] BanchoBot: Beatmap: https://osu.ppy.sh/b/2583680 cinnamons  evening cinema - summertime [Come And Get Boba With Me?]
+[00:21:19] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:21:19] BanchoBot: Active mods: Freemod
+[00:21:19] BanchoBot: Players: 16
+[00:21:19] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11612720 glyph on osu    [Team Red ]
+[00:21:19] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/11706350 Tuco            [Team Red ]
+[00:21:19] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/10022433 Nyarue          [Team Red ]
+[00:21:19] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/6843383 YoshiLover456   [Team Red  / NoFail]
+[00:21:19] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/6094894 Snakeq          [Team Blue]
+[00:21:19] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/10858131 BodenMyMommy    [Team Red ]
+[00:21:19] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/114017 KRZY            [Team Blue / NoFail]
+[00:21:19] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/8006029 realshin        [Team Blue / NoFail, Hidden]
+[00:21:19] BanchoBot: Slot 9  Not Ready https://osu.ppy.sh/u/4582149 CamperLt        [Team Blue]
+[00:21:19] BanchoBot: Slot 10 Not Ready https://osu.ppy.sh/u/15173952 -Maxy           [Team Blue]
+[00:21:19] BanchoBot: Slot 11 Not Ready https://osu.ppy.sh/u/11847188 danthesodacan   [Team Blue]
+[00:21:19] BanchoBot: Slot 12 Not Ready https://osu.ppy.sh/u/1756476 -Garrick        [Team Blue / NoFail, HardRock]
+[00:21:19] BanchoBot: Slot 13 Not Ready https://osu.ppy.sh/u/4491713 Chugger         [Team Red ]
+[00:21:19] BanchoBot: Slot 14 Not Ready https://osu.ppy.sh/u/7701428 Eunha           [Team Red ]
+[00:21:19] BanchoBot: Slot 15 No Map    https://osu.ppy.sh/u/10382679 ocaip           [Team Blue]
+[00:21:19] BanchoBot: Slot 16 Not Ready https://osu.ppy.sh/u/3674590 Sukiye          [Team Red ]
+[00:21:30] BanchoBot: Countdown ends in 1 minute
+[00:21:32] Chugger: ocaip hammy dice que eres [REDACTED]
+[00:21:51] Nyarue: ocaip el videojugador ocaip el maestro del juego
+[00:21:54] ocaip: chugger dile al hammy que es como tu nombre pero que empieza con ene y con i
+[00:22:00] ocaip: sin chu
+[00:22:00] BanchoBot: Countdown ends in 30 seconds
+[00:22:14] -Maxy: dt3
+[00:22:15] ocaip: krzy can i have your mutual :pleased:
+[00:22:20] BanchoBot: -Garrick left the game.
+[00:22:20] BanchoBot: Countdown ends in 10 seconds
+[00:22:21] BanchoBot: YoshiLover456 left the game.
+[00:22:23] BanchoBot: Tuco left the game.
+[00:22:23] KRZY: sure
+[00:22:25] BanchoBot: Countdown ends in 5 seconds
+[00:22:26] BanchoBot: Countdown ends in 4 seconds
+[00:22:27] BanchoBot: BodenMyMommy moved to slot 4
+[00:22:27] BanchoBot: Countdown ends in 3 seconds
+[00:22:28] BanchoBot: Countdown ends in 2 seconds
+[00:22:28] glyph_on_osu: maxy can i have mutual :3
+[00:22:29] BanchoBot: Countdown ends in 1 second
+[00:22:30] BanchoBot: Countdown finished
+[00:22:32] BCraftMG: !mp map 2680273 0
+[00:22:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2680273 Nekomata Master - dahaca
+[00:22:33] BanchoBot: Changed match mode to Osu
+[00:22:34] BCraftMG: !mp mods 65
+[00:22:35] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[00:22:35] BCraftMG: !mp timer 120
+[00:22:36] BanchoBot: Countdown ends in 2 minutes
+[00:22:41] BanchoBot: CamperLt left the game.
+[00:22:42] BanchoBot: glyph on osu left the game.
+[00:22:44] BanchoBot: Nyarue left the game.
+[00:22:46] BanchoBot: Snakeq left the game.
+[00:22:47] BanchoBot: -Maxy moved to slot 2
+[00:22:48] BanchoBot: -Maxy moved to slot 1
+[00:22:49] BanchoBot: -Maxy moved to slot 5
+[00:22:49] BanchoBot: ocaip left the game.
+[00:22:52] BCraftMG: please leave and move up
+[00:22:59] BanchoBot: Eunha moved to slot 1
+[00:22:59] BanchoBot: KRZY moved to slot 6
+[00:23:01] BanchoBot: Chugger moved to slot 2
+[00:23:07] BanchoBot: Sukiye left the game.
+[00:23:11] BCraftMG: taco salad is red slot 1-4; team 18 is blue slot 5-8
+[00:23:15] BCraftMG: please move up
+[00:23:15] BanchoBot: danthesodacan left the game.
+[00:23:20] BanchoBot: Fwuffy joined in slot 3 for team blue.
+[00:23:33] BanchoBot: Tuco joined in slot 7 for team blue.
+[00:23:37] BanchoBot: Countdown ends in 1 minute
+[00:23:41] BanchoBot: Fwuffy moved to slot 9
+[00:23:43] Tuco: chugger you may leave now
+[00:23:49] Tuco: unfortunately i dont wanna get disqualified
+[00:23:51] BanchoBot: Tuco moved to slot 3
+[00:23:52] BanchoBot: Tuco changed to Red
+[00:23:53] Chugger: awwwwwwwwww
+[00:23:56] BanchoBot: Fwuffy moved to slot 7
+[00:23:59] Chugger: i would own this map
+[00:24:04] Tuco: so true
+[00:24:05] BCraftMG: !mp kick Chugger
+[00:24:06] BanchoBot: Chugger left the game.
+[00:24:06] BanchoBot: Kicked Chugger from the match
+[00:24:07] BanchoBot: Countdown ends in 30 seconds
+[00:24:12] Eunha: ty
+[00:24:15] BanchoBot: SaIad joined in slot 2 for team red.
+[00:24:20] BanchoBot: SaIad moved to slot 9
+[00:24:21] BanchoBot: SaIad moved to slot 2
+[00:24:27] BanchoBot: Countdown ends in 10 seconds
+[00:24:31] BanchoBot: Countdown ends in 5 seconds
+[00:24:33] BanchoBot: All players are ready
+[00:24:33] BanchoBot: Countdown ends in 4 seconds
+[00:24:34] BanchoBot: Countdown ends in 3 seconds
+[00:24:35] BanchoBot: Countdown ends in 2 seconds
+[00:24:36] BCraftMG: !mp settings
+[00:24:36] BanchoBot: Countdown ends in 1 second
+[00:24:36] BodenMyMommy: glhf
+[00:24:36] Fwuffy: golf
+[00:24:36] BanchoBot: Countdown finished
+[00:24:38] BanchoBot: Room name: THH: (taco salad) vs (Team 18), History: https://osu.ppy.sh/mp/101218437
+[00:24:38] BanchoBot: Beatmap: https://osu.ppy.sh/b/2680273 Nekomata Master - dahaca
+[00:24:38] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:24:38] BanchoBot: Active mods: NoFail, DoubleTime
+[00:24:38] BanchoBot: Players: 8
+[00:24:38] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7701428 Eunha           [Team Red ]
+[00:24:38] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5584603 SaIad           [Team Red ]
+[00:24:38] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11706350 Tuco            [Team Red ]
+[00:24:38] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10858131 BodenMyMommy    [Team Red ]
+[00:24:38] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/15173952 -Maxy           [Team Blue]
+[00:24:38] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/114017 KRZY            [Team Blue]
+[00:24:38] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/7374212 Fwuffy          [Team Blue]
+[00:24:38] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/8006029 realshin        [Team Blue]
+[00:24:41] BCraftMG: !mp start
+[00:24:42] BanchoBot: The match has started!
+[00:24:42] BanchoBot: Started the match
+[00:24:53] BCraftMG: !mp size 11
+[00:24:54] BanchoBot: Tuco left the game.
+[00:24:54] BanchoBot: Changed match to size 11
+[00:26:09] BCraftMG: !mp stop
+[00:26:13] BCraftMG: !mp abort
+[00:26:14] BanchoBot: Aborted the match
+[00:26:17] BCraftMG: i am really sorry
+[00:26:19] BodenMyMommy: what
+[00:26:20] Fwuffy: ?
+[00:26:23] BCraftMG: tuco left
+[00:26:58] BanchoBot: Tuco joined in slot 3 for team blue.
+[00:27:01] BanchoBot: Tuco changed to Red
+[00:27:08] BCraftMG: !mp settings
+[00:27:10] BanchoBot: Room name: THH: (taco salad) vs (Team 18), History: https://osu.ppy.sh/mp/101218437
+[00:27:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/2680273 Nekomata Master - dahaca
+[00:27:10] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:27:10] BanchoBot: Active mods: NoFail, DoubleTime
+[00:27:10] BanchoBot: Players: 8
+[00:27:10] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7701428 Eunha           [Team Red ]
+[00:27:10] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/5584603 SaIad           [Team Red ]
+[00:27:10] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/11706350 Tuco            [Team Red ]
+[00:27:10] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/10858131 BodenMyMommy    [Team Red ]
+[00:27:10] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/15173952 -Maxy           [Team Blue]
+[00:27:10] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/114017 KRZY            [Team Blue]
+[00:27:10] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/7374212 Fwuffy          [Team Blue]
+[00:27:10] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/8006029 realshin        [Team Blue]
+[00:27:13] BCraftMG: ready up please
+[00:27:14] realshin: :skull:
+[00:27:14] Fwuffy: golf
+[00:27:19] BanchoBot: All players are ready
+[00:27:26] BodenMyMommy: glhf
+[00:27:33] realshin: golf
+[00:27:36] Tuco: glhf
+[00:27:40] BCraftMG: !mp start
+[00:27:40] BanchoBot: The match has started!
+[00:27:41] BanchoBot: Started the match
+[00:30:59] BanchoBot: -Maxy finished playing (Score: 689734, PASSED).
+[00:30:59] BanchoBot: KRZY finished playing (Score: 446589, PASSED).
+[00:30:59] BanchoBot: Eunha finished playing (Score: 315652, PASSED).
+[00:31:00] BanchoBot: Fwuffy finished playing (Score: 371146, PASSED).
+[00:31:00] BanchoBot: Tuco finished playing (Score: 444932, PASSED).
+[00:31:00] BanchoBot: SaIad finished playing (Score: 281681, PASSED).
+[00:31:00] BanchoBot: BodenMyMommy finished playing (Score: 447440, PASSED).
+[00:31:00] BanchoBot: realshin finished playing (Score: 398882, PASSED).
+[00:31:00] BanchoBot: The match has finished!
+[00:31:12] BanchoBot: Sukiye joined in slot 9 for team blue.
+[00:31:22] BanchoBot: Fwuffy left the game.
+[00:31:28] BCraftMG: taco salad | 0 - 1 | Team 18 // Next Pick: taco salad
+[00:31:30] BCraftMG: !mp timer 120
+[00:31:31] BanchoBot: Countdown ends in 2 minutes
+[00:32:03] BanchoBot: BodenMyMommy left the game.
+[00:32:18] Tuco: dt4
+[00:32:24] BanchoBot: Snakeq joined in slot 4 for team red.
+[00:32:28] BCraftMG: !mp map 1760614 0
+[00:32:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1760614 Nyarons - After The Rain
+[00:32:29] BanchoBot: Changed match mode to Osu
+[00:32:30] BCraftMG: !mp mods 65
+[00:32:31] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[00:32:32] BanchoBot: Countdown ends in 1 minute
+[00:32:35] BCraftMG: !mp timer 120
+[00:32:36] BanchoBot: Countdown aborted
+[00:32:36] BanchoBot: Countdown ends in 2 minutes
+[00:32:37] BanchoBot: Snakeq left the game.
+[00:32:37] BanchoBot: Eunha left the game.
+[00:32:39] BanchoBot: Sukiye moved to slot 1
+[00:32:40] BanchoBot: SaIad left the game.
+[00:32:45] BanchoBot: Sukiye left the game.
+[00:32:58] BanchoBot: Fwuffy joined in slot 1 for team blue.
+[00:33:08] BanchoBot: Snakeq joined in slot 2 for team red.
+[00:33:10] BanchoBot: Fwuffy moved to slot 7
+[00:33:13] BanchoBot: KRZY left the game.
+[00:33:13] BanchoBot: Snakeq changed to Blue
+[00:33:15] BanchoBot: Snakeq moved to slot 6
+[00:33:18] BanchoBot: YoshiLover456 joined in slot 1 for team blue.
+[00:33:19] BanchoBot: YoshiLover456 moved to slot 4
+[00:33:21] BanchoBot: YoshiLover456 changed to Red
+[00:33:21] BanchoBot: YoshiLover456 moved to slot 2
+[00:33:36] BanchoBot: Countdown ends in 1 minute
+[00:33:45] BanchoBot: Sukiye joined in slot 1 for team blue.
+[00:33:48] BanchoBot: Sukiye changed to Red
+[00:33:48] BanchoBot: SaIad joined in slot 4 for team red.
+[00:34:06] BanchoBot: Countdown ends in 30 seconds
+[00:34:10] Fwuffy: golf
+[00:34:11] Tuco: glhf
+[00:34:13] YoshiLover456: glhf~
+[00:34:13] Sukiye: glhf
+[00:34:17] realshin: golf
+[00:34:27] BanchoBot: All players are ready
+[00:34:27] BanchoBot: Countdown ends in 10 seconds
+[00:34:28] BCraftMG: !mp start 5
+[00:34:29] BanchoBot: Countdown aborted
+[00:34:29] BanchoBot: Match starts in 5 seconds
+[00:34:29] BanchoBot: Queued the match to start in 5 seconds
+[00:34:30] BanchoBot: Match starts in 4 seconds
+[00:34:31] BanchoBot: Match starts in 3 seconds
+[00:34:32] BanchoBot: Good luck, have fun!
+[00:34:35] BanchoBot: The match has started!
+[00:37:14] BanchoBot: Snakeq finished playing (Score: 541388, PASSED).
+[00:37:14] BanchoBot: Sukiye finished playing (Score: 525779, PASSED).
+[00:37:14] BanchoBot: SaIad finished playing (Score: 429463, PASSED).
+[00:37:14] BanchoBot: Tuco finished playing (Score: 679355, PASSED).
+[00:37:14] BanchoBot: realshin finished playing (Score: 299784, PASSED).
+[00:37:16] BanchoBot: YoshiLover456 finished playing (Score: 624355, PASSED).
+[00:37:16] BanchoBot: -Maxy finished playing (Score: 621465, PASSED).
+[00:37:16] BanchoBot: Fwuffy finished playing (Score: 411371, PASSED).
+[00:37:16] BanchoBot: The match has finished!
+[00:37:44] BCraftMG: taco salad | 1 - 1 | Team 18 // Next Pick: Team 18
+[00:37:46] BCraftMG: !mp timer 120
+[00:37:46] BanchoBot: Countdown ends in 2 minutes
+[00:37:48] BanchoBot: Snakeq left the game.
+[00:37:50] BanchoBot: KRZY joined in slot 6 for team red.
+[00:37:53] BanchoBot: KRZY changed to Blue
+[00:38:20] BanchoBot: Eunha joined in slot 9 for team blue.
+[00:38:46] BanchoBot: Countdown ends in 1 minute
+[00:39:07] BanchoBot: SaIad left the game.
+[00:39:12] BanchoBot: Eunha moved to slot 4
+[00:39:13] BanchoBot: KRZY left the game.
+[00:39:16] BanchoBot: Countdown ends in 30 seconds
+[00:39:21] -Maxy: fm2
+[00:39:29] BanchoBot: Eunha left the game.
+[00:39:32] BanchoBot: Snakeq joined in slot 4 for team red.
+[00:39:37] BCraftMG: !mp map 3106686 0
+[00:39:37] BanchoBot: Countdown ends in 10 seconds
+[00:39:38] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3106686 M2U - A Bella! (feat. Lucy)
+[00:39:38] BanchoBot: Changed match mode to Osu
+[00:39:39] BCraftMG: !mp mods 1 freemod
+[00:39:41] BanchoBot: Disabled all mods, enabled FreeMod
+[00:39:42] BanchoBot: Countdown ends in 5 seconds
+[00:39:42] BCraftMG: !mp timer 120
+[00:39:43] BanchoBot: Countdown ends in 4 seconds
+[00:39:43] BanchoBot: Countdown aborted
+[00:39:43] BanchoBot: Countdown ends in 2 minutes
+[00:39:45] BanchoBot: Snakeq moved to slot 6
+[00:39:45] BanchoBot: realshin left the game.
+[00:39:49] BanchoBot: Snakeq changed to Blue
+[00:39:58] BanchoBot: Tuco left the game.
+[00:40:03] Fwuffy: sukiye > hates hr
+[00:40:04] Fwuffy: :tf:
+[00:40:10] Sukiye: i do tho
+[00:40:11] Sukiye: xd
+[00:40:27] BanchoBot: -Garrick joined in slot 3 for team blue.
+[00:40:30] BanchoBot: -Garrick moved to slot 8
+[00:40:43] BanchoBot: Countdown ends in 1 minute
+[00:40:47] BanchoBot: Tuco joined in slot 3 for team blue.
+[00:40:52] BanchoBot: SaIad joined in slot 4 for team red.
+[00:41:00] BanchoBot: Tuco changed to Red
+[00:41:07] Fwuffy: golf
+[00:41:13] BanchoBot: -Garrick left the game.
+[00:41:14] BanchoBot: Countdown ends in 30 seconds
+[00:41:18] BanchoBot: realshin joined in slot 8 for team red.
+[00:41:21] BanchoBot: realshin changed to Blue
+[00:41:30] BanchoBot: All players are ready
+[00:41:34] BanchoBot: Countdown ends in 10 seconds
+[00:41:34] YoshiLover456: glhf~
+[00:41:38] BanchoBot: Countdown ends in 5 seconds
+[00:41:40] BanchoBot: Countdown ends in 4 seconds
+[00:41:41] Tuco: glhf
+[00:41:41] BanchoBot: Countdown ends in 3 seconds
+[00:41:42] BanchoBot: Countdown ends in 2 seconds
+[00:41:42] BanchoBot: Countdown ends in 1 second
+[00:41:43] BanchoBot: Countdown finished
+[00:41:48] BCraftMG: !mp start 10
+[00:41:48] SaIad: hr hr hr hr hdhr
+[00:41:48] SaIad: zzz
+[00:41:49] BanchoBot: Match starts in 10 seconds
+[00:41:49] BanchoBot: Queued the match to start in 10 seconds
+[00:41:54] -Maxy: salad
+[00:41:55] BanchoBot: Match starts in 5 seconds
+[00:41:56] BanchoBot: Match starts in 4 seconds
+[00:41:56] BanchoBot: Match starts in 3 seconds
+[00:41:58] BanchoBot: Good luck, have fun!
+[00:42:00] BanchoBot: The match has started!
+[00:42:10] BCraftMG: !mp settings
+[00:42:10] BanchoBot: Room name: THH: (taco salad) vs (Team 18), History: https://osu.ppy.sh/mp/101218437
+[00:42:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/3106686 M2U - A Bella! (feat. Lucy)
+[00:42:10] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:42:10] BanchoBot: Active mods: Freemod
+[00:42:10] BanchoBot: Players: 8
+[00:42:10] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/3674590 Sukiye          [Team Red  / NoFail, Hidden, HardRock]
+[00:42:10] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/6843383 YoshiLover456   [Team Red  / NoFail, Hidden]
+[00:42:10] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/11706350 Tuco            [Team Red  / NoFail, HardRock]
+[00:42:10] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/5584603 SaIad           [Team Red  / NoFail]
+[00:42:11] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/15173952 -Maxy           [Team Blue / NoFail, Hidden]
+[00:42:11] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/6094894 Snakeq          [Team Blue / NoFail, HardRock]
+[00:42:11] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/7374212 Fwuffy          [Team Blue / NoFail, HardRock]
+[00:42:11] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/8006029 realshin        [Team Blue / NoFail, HardRock]
+[00:44:07] BanchoBot: Snakeq finished playing (Score: 341329, PASSED).
+[00:44:07] BanchoBot: Sukiye finished playing (Score: 394324, PASSED).
+[00:44:07] BanchoBot: -Maxy finished playing (Score: 581643, PASSED).
+[00:44:09] BanchoBot: Tuco finished playing (Score: 562855, PASSED).
+[00:44:09] BanchoBot: SaIad finished playing (Score: 400651, PASSED).
+[00:44:09] BanchoBot: Fwuffy finished playing (Score: 471136, PASSED).
+[00:44:09] BanchoBot: YoshiLover456 finished playing (Score: 459967, PASSED).
+[00:44:10] BanchoBot: realshin finished playing (Score: 444153, PASSED).
+[00:44:10] BanchoBot: The match has finished!
+[00:44:31] BanchoBot: Snakeq left the game.
+[00:44:34] BCraftMG: taco salad | 1 - 2 | Team 18 // Next Pick: taco salad
+[00:44:37] BCraftMG: !mp timer 120
+[00:44:38] BanchoBot: Countdown ends in 2 minutes
+[00:44:54] BanchoBot: Fwuffy left the game.
+[00:45:20] BanchoBot: SaIad left the game.
+[00:45:25] Tuco: hd3
+[00:45:31] BanchoBot: Tuco left the game.
+[00:45:37] BanchoBot: Fwuffy joined in slot 3 for team blue.
+[00:45:38] BanchoBot: Countdown ends in 1 minute
+[00:45:42] BCraftMG: !mp map 3418144 0
+[00:45:42] BanchoBot: Fwuffy moved to slot 6
+[00:45:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3418144 EmoCosine - MAGENTA POTION (Extended Mix)
+[00:45:43] BanchoBot: Changed match mode to Osu
+[00:45:43] BCraftMG: !mp mods 9
+[00:45:44] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[00:45:45] BCraftMG: !mp timer 120
+[00:45:45] BanchoBot: Countdown aborted
+[00:45:45] BanchoBot: Countdown ends in 2 minutes
+[00:46:02] BanchoBot: Tuco joined in slot 3 for team blue.
+[00:46:06] BanchoBot: KRZY joined in slot 4 for team red.
+[00:46:15] BanchoBot: Tuco changed to Red
+[00:46:21] BanchoBot: KRZY moved to slot 7
+[00:46:23] BanchoBot: KRZY changed to Blue
+[00:46:37] BanchoBot: SaIad joined in slot 4 for team red.
+[00:46:46] BanchoBot: Countdown ends in 1 minute
+[00:46:58] Fwuffy: golf
+[00:46:59] BCraftMG: !mp settings
+[00:46:59] BanchoBot: Room name: THH: (taco salad) vs (Team 18), History: https://osu.ppy.sh/mp/101218437
+[00:46:59] BanchoBot: Beatmap: https://osu.ppy.sh/b/3418144 EmoCosine - MAGENTA POTION (Extended Mix)
+[00:46:59] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:46:59] BanchoBot: Active mods: NoFail, Hidden
+[00:46:59] BanchoBot: Players: 8
+[00:46:59] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3674590 Sukiye          [Team Red ]
+[00:46:59] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6843383 YoshiLover456   [Team Red ]
+[00:46:59] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/11706350 Tuco            [Team Red ]
+[00:46:59] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5584603 SaIad           [Team Red ]
+[00:46:59] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/15173952 -Maxy           [Team Blue]
+[00:46:59] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/7374212 Fwuffy          [Team Blue]
+[00:46:59] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/114017 KRZY            [Team Blue]
+[00:46:59] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/8006029 realshin        [Team Blue]
+[00:47:04] Fwuffy: i hate hd
+[00:47:04] Sukiye: glhf
+[00:47:04] BanchoBot: All players are ready
+[00:47:05] BCraftMG: !mp settings
+[00:47:06] BanchoBot: Room name: THH: (taco salad) vs (Team 18), History: https://osu.ppy.sh/mp/101218437
+[00:47:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/3418144 EmoCosine - MAGENTA POTION (Extended Mix)
+[00:47:06] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:47:06] BanchoBot: Active mods: NoFail, Hidden
+[00:47:06] BanchoBot: Players: 8
+[00:47:06] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3674590 Sukiye          [Team Red ]
+[00:47:06] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6843383 YoshiLover456   [Team Red ]
+[00:47:06] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11706350 Tuco            [Team Red ]
+[00:47:06] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5584603 SaIad           [Team Red ]
+[00:47:06] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/15173952 -Maxy           [Team Blue]
+[00:47:06] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/7374212 Fwuffy          [Team Blue]
+[00:47:06] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/114017 KRZY            [Team Blue]
+[00:47:06] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/8006029 realshin        [Team Blue]
+[00:47:08] BCraftMG: !mp start 5
+[00:47:09] BanchoBot: Countdown aborted
+[00:47:09] BanchoBot: Match starts in 5 seconds
+[00:47:09] BanchoBot: Queued the match to start in 5 seconds
+[00:47:10] Sukiye: me too
+[00:47:10] BanchoBot: Match starts in 4 seconds
+[00:47:11] BanchoBot: Match starts in 3 seconds
+[00:47:12] BanchoBot: Good luck, have fun!
+[00:47:15] BanchoBot: The match has started!
+[00:50:55] BanchoBot: realshin finished playing (Score: 358223, PASSED).
+[00:50:56] BanchoBot: SaIad finished playing (Score: 246716, PASSED).
+[00:50:56] BanchoBot: -Maxy finished playing (Score: 460532, PASSED).
+[00:50:56] BanchoBot: YoshiLover456 finished playing (Score: 479977, PASSED).
+[00:50:56] BanchoBot: Tuco finished playing (Score: 496211, PASSED).
+[00:50:57] BanchoBot: KRZY finished playing (Score: 294641, PASSED).
+[00:50:57] BanchoBot: Sukiye finished playing (Score: 433007, PASSED).
+[00:50:57] BanchoBot: Fwuffy finished playing (Score: 524186, PASSED).
+[00:50:57] BanchoBot: The match has finished!
+[00:51:10] BCraftMG: taco salad | 2 - 2 | Team 18 // Next Pick: Team 18
+[00:51:12] BCraftMG: !mp timer 120
+[00:51:13] BanchoBot: Countdown ends in 2 minutes
+[00:51:53] -Maxy: nm5
+[00:52:01] BanchoBot: YoshiLover456 left the game.
+[00:52:01] Fwuffy: I HATE HD
+[00:52:01] BanchoBot: Sukiye moved to slot 15
+[00:52:02] BanchoBot: SaIad left the game.
+[00:52:07] BCraftMG: !mp map 3071700 0
+[00:52:08] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3071700 Kabocha - Ego
+[00:52:08] BanchoBot: Changed match mode to Osu
+[00:52:09] BCraftMG: !mp mods 1
+[00:52:09] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:52:10] BCraftMG: !mp timer 120
+[00:52:12] BanchoBot: Countdown aborted
+[00:52:12] BanchoBot: Countdown ends in 2 minutes
+[00:52:22] BanchoBot: Tuco left the game.
+[00:52:23] BanchoBot: BodenMyMommy joined in slot 1 for team blue.
+[00:52:25] BanchoBot: Eunha joined in slot 2 for team red.
+[00:52:28] BanchoBot: BodenMyMommy changed to Red
+[00:52:48] BanchoBot: glyph on osu joined in slot 3 for team blue.
+[00:52:52] BanchoBot: Sukiye left the game.
+[00:53:12] BanchoBot: Countdown ends in 1 minute
+[00:53:30] BanchoBot: glyph on osu changed to Red
+[00:53:42] BanchoBot: Countdown ends in 30 seconds
+[00:53:47] Fwuffy: golf
+[00:53:53] BanchoBot: Tuco joined in slot 4 for team red.
+[00:53:56] -Maxy: gulp
+[00:54:00] BCraftMG: !mp settings
+[00:54:01] BanchoBot: Room name: THH: (taco salad) vs (Team 18), History: https://osu.ppy.sh/mp/101218437
+[00:54:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/3071700 Kabocha - Ego
+[00:54:01] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:54:01] BanchoBot: Active mods: NoFail
+[00:54:01] BanchoBot: Players: 8
+[00:54:01] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10858131 BodenMyMommy    [Team Red ]
+[00:54:01] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/7701428 Eunha           [Team Red ]
+[00:54:01] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11612720 glyph on osu    [Team Red ]
+[00:54:01] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/11706350 Tuco            [Team Red ]
+[00:54:01] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/15173952 -Maxy           [Team Blue]
+[00:54:01] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/7374212 Fwuffy          [Team Blue]
+[00:54:01] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/114017 KRZY            [Team Blue]
+[00:54:01] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/8006029 realshin        [Team Blue]
+[00:54:02] BanchoBot: Countdown ends in 10 seconds
+[00:54:05] glyph_on_osu: golf!
+[00:54:08] BanchoBot: Countdown ends in 5 seconds
+[00:54:08] BodenMyMommy: glhf
+[00:54:09] BanchoBot: Countdown ends in 4 seconds
+[00:54:09] BanchoBot: Countdown ends in 3 seconds
+[00:54:10] BanchoBot: Countdown ends in 2 seconds
+[00:54:11] BanchoBot: All players are ready
+[00:54:11] BanchoBot: Countdown ends in 1 second
+[00:54:12] BanchoBot: Countdown finished
+[00:54:18] BCraftMG: !mp start 10
+[00:54:19] BanchoBot: Match starts in 10 seconds
+[00:54:19] BanchoBot: Queued the match to start in 10 seconds
+[00:54:22] Tuco: i challenge you fwuffy
+[00:54:24] Tuco: whoever gets above 100k
+[00:54:25] BanchoBot: Match starts in 5 seconds
+[00:54:26] BanchoBot: Match starts in 4 seconds
+[00:54:26] BanchoBot: Match starts in 3 seconds
+[00:54:28] BanchoBot: Good luck, have fun!
+[00:54:29] Fwuffy: ok
+[00:54:30] BanchoBot: The match has started!
+[00:56:44] BanchoBot: realshin finished playing (Score: 314517, PASSED).
+[00:56:45] BanchoBot: BodenMyMommy finished playing (Score: 948868, PASSED).
+[00:56:45] BanchoBot: glyph on osu finished playing (Score: 658340, PASSED).
+[00:56:45] BanchoBot: Eunha finished playing (Score: 386059, PASSED).
+[00:56:45] BanchoBot: Fwuffy finished playing (Score: 247188, PASSED).
+[00:56:45] BanchoBot: -Maxy finished playing (Score: 934157, PASSED).
+[00:56:45] BanchoBot: Tuco finished playing (Score: 175594, PASSED).
+[00:56:48] BanchoBot: KRZY finished playing (Score: 259744, PASSED).
+[00:56:48] BanchoBot: The match has finished!
+[00:57:00] BodenMyMommy: gifdfjgnufd
+[00:57:02] Tuco: mission success
+[00:57:10] BCraftMG: taco salad | 3 - 2 | Team 18 // Next Pick: taco salad
+[00:57:13] BCraftMG: !mp timer 120
+[00:57:14] Fwuffy: i won the challenge though :sunglasses:
+[00:57:14] BanchoBot: Countdown ends in 2 minutes
+[00:57:21] BanchoBot: Sukiye joined in slot 9 for team blue.
+[00:58:14] Tuco: gg
+[00:58:14] BanchoBot: Countdown ends in 1 minute
+[00:58:16] Tuco: you're a beast
+[00:58:22] Fwuffy: sheeeeesh
+[00:58:22] BanchoBot: BodenMyMommy left the game.
+[00:58:25] -Maxy: fwuffy dt2
+[00:58:27] -Maxy: now
+[00:58:27] Fwuffy: 200k on nm5
+[00:58:44] BanchoBot: Countdown ends in 30 seconds
+[00:59:05] BanchoBot: Countdown ends in 10 seconds
+[00:59:09] BanchoBot: Countdown ends in 5 seconds
+[00:59:11] BanchoBot: Countdown ends in 4 seconds
+[00:59:12] BanchoBot: Countdown ends in 3 seconds
+[00:59:12] BanchoBot: Countdown ends in 2 seconds
+[00:59:13] Tuco: nm1
+[00:59:13] BanchoBot: Countdown ends in 1 second
+[00:59:14] BanchoBot: Countdown finished
+[00:59:21] BCraftMG: !mp map 2905739 0
+[00:59:22] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2905739 Omoi - Hey William (New Translation)
+[00:59:22] BanchoBot: Changed match mode to Osu
+[00:59:22] BCraftMG: !mp mods 1
+[00:59:23] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:59:25] BCraftMG: !mp timer 120
+[00:59:26] BanchoBot: Countdown ends in 2 minutes
+[00:59:27] BanchoBot: Eunha left the game.
+[00:59:30] BanchoBot: Sukiye left the game.
+[00:59:37] BanchoBot: YoshiLover456 joined in slot 1 for team blue.
+[00:59:39] BanchoBot: YoshiLover456 moved to slot 2
+[00:59:41] BanchoBot: YoshiLover456 changed to Red
+[01:00:14] BanchoBot: Eunha joined in slot 1 for team blue.
+[01:00:19] BanchoBot: Eunha changed to Red
+[01:00:27] BanchoBot: Countdown ends in 1 minute
+[01:00:48] BanchoBot: Sukiye joined in slot 9 for team blue.
+[01:00:57] BanchoBot: Countdown ends in 30 seconds
+[01:01:00] BanchoBot: Sukiye left the game.
+[01:01:12] realshin: golf
+[01:01:17] BanchoBot: Countdown ends in 10 seconds
+[01:01:17] Fwuffy: golf
+[01:01:22] BanchoBot: Countdown ends in 5 seconds
+[01:01:23] BanchoBot: All players are ready
+[01:01:23] YoshiLover456: glhf~
+[01:01:23] BanchoBot: Countdown ends in 4 seconds
+[01:01:24] BanchoBot: Countdown ends in 3 seconds
+[01:01:24] BCraftMG: !mp settings
+[01:01:25] BanchoBot: Countdown ends in 2 seconds
+[01:01:25] BanchoBot: Countdown ends in 1 second
+[01:01:25] BanchoBot: Room name: THH: (taco salad) vs (Team 18), History: https://osu.ppy.sh/mp/101218437
+[01:01:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/2905739 Omoi - Hey William (New Translation)
+[01:01:25] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:01:25] BanchoBot: Active mods: NoFail
+[01:01:25] BanchoBot: Players: 8
+[01:01:25] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7701428 Eunha           [Team Red ]
+[01:01:25] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6843383 YoshiLover456   [Team Red ]
+[01:01:25] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11612720 glyph on osu    [Team Red ]
+[01:01:25] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11706350 Tuco            [Team Red ]
+[01:01:25] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/15173952 -Maxy           [Team Blue]
+[01:01:25] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/7374212 Fwuffy          [Team Blue]
+[01:01:25] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/114017 KRZY            [Team Blue]
+[01:01:25] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/8006029 realshin        [Team Blue]
+[01:01:26] glyph_on_osu: glhf!
+[01:01:26] BanchoBot: Countdown finished
+[01:01:27] BCraftMG: !mp start 10
+[01:01:28] -Maxy: glhf
+[01:01:28] BanchoBot: Match starts in 10 seconds
+[01:01:28] BanchoBot: Queued the match to start in 10 seconds
+[01:01:33] Tuco: glhf
+[01:01:34] BanchoBot: Match starts in 5 seconds
+[01:01:34] BanchoBot: Match starts in 4 seconds
+[01:01:35] BanchoBot: Match starts in 3 seconds
+[01:01:36] BanchoBot: Good luck, have fun!
+[01:01:38] BanchoBot: The match has started!
+[01:05:44] BanchoBot: YoshiLover456 finished playing (Score: 462226, PASSED).
+[01:05:44] BanchoBot: Fwuffy finished playing (Score: 514991, PASSED).
+[01:05:44] BanchoBot: Eunha finished playing (Score: 469945, PASSED).
+[01:05:44] BanchoBot: glyph on osu finished playing (Score: 577035, PASSED).
+[01:05:46] BanchoBot: realshin finished playing (Score: 684469, PASSED).
+[01:05:46] BanchoBot: Tuco finished playing (Score: 473414, PASSED).
+[01:05:46] BanchoBot: -Maxy finished playing (Score: 439776, PASSED).
+[01:05:46] BanchoBot: KRZY finished playing (Score: 566102, PASSED).
+[01:05:46] BanchoBot: The match has finished!
+[01:05:58] BCraftMG: taco salad | 3 - 3 | Team 18 // Next Pick: Team 18
+[01:06:02] BCraftMG: !mp timer 120
+[01:06:03] BanchoBot: Countdown ends in 2 minutes
+[01:06:15] BanchoBot: Sukiye joined in slot 9 for team blue.
+[01:06:22] BanchoBot: Sukiye changed to Red
+[01:07:04] BanchoBot: Countdown ends in 1 minute
+[01:07:11] BanchoBot: Tuco left the game.
+[01:07:34] BanchoBot: Countdown ends in 30 seconds
+[01:07:44] BanchoBot: realshin left the game.
+[01:07:54] BanchoBot: Countdown ends in 10 seconds
+[01:07:55] Fwuffy: im crying
+[01:07:55] -Maxy: hr2
+[01:07:59] BanchoBot: -Maxy left the game.
+[01:07:59] BanchoBot: Countdown ends in 5 seconds
+[01:08:00] BanchoBot: Countdown ends in 4 seconds
+[01:08:01] BanchoBot: Countdown ends in 3 seconds
+[01:08:02] BanchoBot: Countdown ends in 2 seconds
+[01:08:03] BanchoBot: Countdown ends in 1 second
+[01:08:03] BanchoBot: Countdown finished
+[01:08:03] BanchoBot: Fwuffy moved to slot 8
+[01:08:06] BanchoBot: Fwuffy moved to slot 6
+[01:08:07] BanchoBot: Sukiye left the game.
+[01:08:09] BanchoBot: KRZY left the game.
+[01:08:09] BanchoBot: glyph on osu left the game.
+[01:08:10] BCraftMG: !mp map 3206058 0
+[01:08:11] BanchoBot: Snakeq joined in slot 3 for team blue.
+[01:08:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3206058 MK feat. YURiE - Spiral
+[01:08:11] BanchoBot: Changed match mode to Osu
+[01:08:12] BCraftMG: !mp mods 17
+[01:08:13] BanchoBot: Snakeq moved to slot 5
+[01:08:13] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[01:08:15] BCraftMG: !mp timer 120
+[01:08:15] BanchoBot: Countdown ends in 2 minutes
+[01:08:18] BanchoBot: danthesodacan joined in slot 3 for team blue.
+[01:08:29] BanchoBot: danthesodacan moved to slot 4
+[01:08:38] danthesodacan: hi guys
+[01:08:42] danthesodacan: im finally playing
+[01:08:50] BanchoBot: danthesodacan moved to slot 7
+[01:08:52] Fwuffy: dan gonna pop off
+[01:09:05] BanchoBot: realshin joined in slot 3 for team blue.
+[01:09:10] BanchoBot: Tuco joined in slot 4 for team red.
+[01:09:15] BanchoBot: realshin moved to slot 8
+[01:09:15] BanchoBot: Countdown ends in 1 minute
+[01:09:17] BanchoBot: Eunha moved to slot 10
+[01:09:32] BanchoBot: Sukiye joined in slot 1 for team blue.
+[01:09:36] BanchoBot: Sukiye changed to Red
+[01:09:36] BanchoBot: Fwuffy left the game.
+[01:09:36] BanchoBot: CamperLt joined in slot 3 for team blue.
+[01:09:39] BanchoBot: Eunha left the game.
+[01:09:46] BanchoBot: Countdown ends in 30 seconds
+[01:09:52] BanchoBot: CamperLt moved to slot 6
+[01:10:06] BanchoBot: Countdown ends in 10 seconds
+[01:10:11] BanchoBot: Countdown ends in 5 seconds
+[01:10:11] BanchoBot: SaIad joined in slot 3 for team blue.
+[01:10:12] BanchoBot: Countdown ends in 4 seconds
+[01:10:14] BanchoBot: Countdown ends in 3 seconds
+[01:10:14] BanchoBot: Countdown ends in 2 seconds
+[01:10:15] BanchoBot: Countdown ends in 1 second
+[01:10:16] BanchoBot: SaIad changed to Red
+[01:10:16] BanchoBot: Countdown finished
+[01:10:21] BCraftMG: owo
+[01:10:22] Sukiye: glhf
+[01:10:27] YoshiLover456: glhf~
+[01:10:27] danthesodacan: glhf
+[01:10:30] BCraftMG: please ready up
+[01:10:38] BCraftMG: timer is over
+[01:10:38] BanchoBot: All players are ready
+[01:10:43] Tuco: glhf
+[01:10:44] BCraftMG: !mp start 10
+[01:10:46] BanchoBot: Match starts in 10 seconds
+[01:10:46] BanchoBot: Queued the match to start in 10 seconds
+[01:10:51] BanchoBot: Match starts in 5 seconds
+[01:10:52] BanchoBot: Match starts in 4 seconds
+[01:10:52] BanchoBot: Match starts in 3 seconds
+[01:10:54] BanchoBot: Good luck, have fun!
+[01:10:57] BanchoBot: The match has started!
+[01:14:08] BanchoBot: Snakeq finished playing (Score: 628625, PASSED).
+[01:14:10] BanchoBot: YoshiLover456 finished playing (Score: 412705, PASSED).
+[01:14:10] BanchoBot: SaIad finished playing (Score: 363319, PASSED).
+[01:14:10] BanchoBot: Tuco finished playing (Score: 527467, PASSED).
+[01:14:10] BanchoBot: danthesodacan finished playing (Score: 449653, PASSED).
+[01:14:10] BanchoBot: Sukiye finished playing (Score: 386005, PASSED).
+[01:14:10] BanchoBot: CamperLt finished playing (Score: 309533, PASSED).
+[01:14:10] BanchoBot: realshin finished playing (Score: 438633, PASSED).
+[01:14:10] BanchoBot: The match has finished!
+[01:14:51] BCraftMG: taco salad | 3 - 4 | Team 18 // Next Pick: taco salad
+[01:14:54] BCraftMG: !mp timer 120
+[01:14:54] BanchoBot: Countdown ends in 2 minutes
+[01:15:00] BanchoBot: -Maxy joined in slot 9 for team blue.
+[01:15:10] BanchoBot: danthesodacan left the game.
+[01:15:13] BanchoBot: KRZY joined in slot 7 for team blue.
+[01:15:24] BanchoBot: SaIad left the game.
+[01:15:45] BanchoBot: Nyarue joined in slot 3 for team blue.
+[01:15:46] Tuco: hd2
+[01:15:53] BanchoBot: Snakeq left the game.
+[01:15:55] BanchoBot: Countdown ends in 1 minute
+[01:15:55] BanchoBot: CamperLt left the game.
+[01:15:56] BanchoBot: -Maxy moved to slot 5
+[01:16:13] BanchoBot: -Maxy moved to slot 6
+[01:16:15] BanchoBot: -Maxy moved to slot 5
+[01:16:18] BanchoBot: Nyarue changed to Red
+[01:16:19] BanchoBot: Nyarue changed to Blue
+[01:16:20] BanchoBot: Nyarue changed to Red
+[01:16:25] BanchoBot: Countdown ends in 30 seconds
+[01:16:29] BanchoBot: Tuco moved to slot 16
+[01:16:34] BCraftMG: !mp map 3612221 0
+[01:16:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3612221 L.E.D. Vs. Yuuhei Satellite - Torikago no Houou
+[01:16:34] BanchoBot: Changed match mode to Osu
+[01:16:35] BCraftMG: !mp mods 9
+[01:16:36] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[01:16:37] BanchoBot: Tuco left the game.
+[01:16:37] BCraftMG: !mp timer 120
+[01:16:38] BanchoBot: Countdown aborted
+[01:16:38] BanchoBot: Countdown ends in 2 minutes
+[01:16:40] BanchoBot: CamperLt joined in slot 4 for team red.
+[01:16:48] BanchoBot: CamperLt moved to slot 6
+[01:16:59] BanchoBot: CamperLt changed to Blue
+[01:17:38] BanchoBot: Countdown ends in 1 minute
+[01:17:47] BanchoBot: SaIad joined in slot 4 for team red.
+[01:17:52] BanchoBot: All players are ready
+[01:17:55] CamperLt: glhf
+[01:17:59] -Maxy: glfoggfhglfhlokfidjkdfhg
+[01:17:59] realshin: golf
+[01:18:02] Nyarue: gl
+[01:18:07] YoshiLover456: glhf~
+[01:18:08] Sukiye: glhf
+[01:18:08] BanchoBot: Countdown ends in 30 seconds
+[01:18:14] BCraftMG: !mp settings
+[01:18:15] BanchoBot: Room name: THH: (taco salad) vs (Team 18), History: https://osu.ppy.sh/mp/101218437
+[01:18:15] BanchoBot: Beatmap: https://osu.ppy.sh/b/3612221 L.E.D. Vs. Yuuhei Satellite - Torikago no Houou
+[01:18:15] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:18:15] BanchoBot: Active mods: NoFail, Hidden
+[01:18:15] BanchoBot: Players: 8
+[01:18:15] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3674590 Sukiye          [Team Red ]
+[01:18:15] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6843383 YoshiLover456   [Team Red ]
+[01:18:15] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10022433 Nyarue          [Team Red ]
+[01:18:15] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5584603 SaIad           [Team Red ]
+[01:18:15] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/15173952 -Maxy           [Team Blue]
+[01:18:15] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/4582149 CamperLt        [Team Blue]
+[01:18:15] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/114017 KRZY            [Team Blue]
+[01:18:15] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/8006029 realshin        [Team Blue]
+[01:18:17] BCraftMG: !mp start
+[01:18:17] BanchoBot: Countdown aborted
+[01:18:17] BanchoBot: The match has started!
+[01:18:17] BanchoBot: Started the match
+[01:20:37] BanchoBot: -Maxy finished playing (Score: 1051219, PASSED).
+[01:20:37] BanchoBot: SaIad finished playing (Score: 578916, PASSED).
+[01:20:37] BanchoBot: Nyarue finished playing (Score: 250581, PASSED).
+[01:20:37] BanchoBot: YoshiLover456 finished playing (Score: 517049, PASSED).
+[01:20:37] BanchoBot: Sukiye finished playing (Score: 568298, PASSED).
+[01:20:37] BanchoBot: realshin finished playing (Score: 495594, PASSED).
+[01:20:37] BanchoBot: CamperLt finished playing (Score: 296422, PASSED).
+[01:20:37] BanchoBot: KRZY finished playing (Score: 465145, PASSED).
+[01:20:37] BanchoBot: The match has finished!
+[01:21:07] BCraftMG: taco salad | 3 - 5 | Team 18 // Next Pick: Team 18
+[01:21:09] BCraftMG: !mp timer 120
+[01:21:11] BanchoBot: Countdown ends in 2 minutes
+[01:21:13] -Maxy: wtf
+[01:21:28] BCraftMG: what a score
+[01:21:44] Nyarue: :scoer:
+[01:21:48] Nyarue: nice play maxy
+[01:22:10] BanchoBot: Countdown ends in 1 minute
+[01:22:26] BanchoBot: Fwuffy joined in slot 9 for team blue.
+[01:22:34] BanchoBot: Fwuffy left the game.
+[01:22:41] BanchoBot: Countdown ends in 30 seconds
+[01:22:43] BanchoBot: CamperLt left the game.
+[01:23:00] -Maxy: fm1
+[01:23:01] BanchoBot: Countdown ends in 10 seconds
+[01:23:07] BanchoBot: Countdown ends in 5 seconds
+[01:23:07] BanchoBot: SaIad left the game.
+[01:23:07] BanchoBot: Countdown ends in 4 seconds
+[01:23:08] BanchoBot: BodenMyMommy joined in slot 4 for team red.
+[01:23:08] BanchoBot: Countdown ends in 3 seconds
+[01:23:09] BanchoBot: Countdown ends in 2 seconds
+[01:23:10] BanchoBot: Countdown ends in 1 second
+[01:23:11] BanchoBot: Countdown finished
+[01:23:13] BanchoBot: YoshiLover456 left the game.
+[01:23:14] BanchoBot: Nyarue left the game.
+[01:23:18] BanchoBot: Sukiye moved to slot 13
+[01:23:28] BanchoBot: Sukiye left the game.
+[01:23:32] BanchoBot: Eunha joined in slot 1 for team blue.
+[01:23:34] BanchoBot: realshin left the game.
+[01:23:37] BCraftMG: !mp map 2160574 0
+[01:23:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2160574 Yousei Teikoku - Kuusou Mesorogiwi
+[01:23:39] BanchoBot: Changed match mode to Osu
+[01:23:40] BCraftMG: !mp mods 1 freemod
+[01:23:41] BanchoBot: Disabled all mods, enabled FreeMod
+[01:23:46] BanchoBot: realshin joined in slot 2 for team red.
+[01:23:48] BCraftMG: !mp timer 60
+[01:23:48] BanchoBot: realshin moved to slot 8
+[01:23:48] BanchoBot: Countdown ends in 1 minute
+[01:23:49] BanchoBot: Fwuffy joined in slot 2 for team red.
+[01:23:50] BanchoBot: realshin changed to Blue
+[01:23:51] BanchoBot: Eunha changed to Red
+[01:23:55] BanchoBot: Tuco joined in slot 3 for team blue.
+[01:23:57] BanchoBot: Fwuffy moved to slot 6
+[01:24:00] BanchoBot: Fwuffy changed to Blue
+[01:24:14] BanchoBot: Tuco changed to Red
+[01:24:19] BanchoBot: Countdown ends in 30 seconds
+[01:24:37] BanchoBot: SaIad joined in slot 2 for team red.
+[01:24:39] BanchoBot: Countdown ends in 10 seconds
+[01:24:40] BodenMyMommy: im kinda terrified
+[01:24:42] BodenMyMommy: XD
+[01:24:44] BanchoBot: Countdown ends in 5 seconds
+[01:24:45] BanchoBot: Countdown ends in 4 seconds
+[01:24:46] BanchoBot: Countdown ends in 3 seconds
+[01:24:46] BanchoBot: Countdown ends in 2 seconds
+[01:24:48] Eunha: gl
+[01:24:48] BanchoBot: Countdown ends in 1 second
+[01:24:49] KRZY: saten
+[01:24:49] BanchoBot: Countdown finished
+[01:24:49] BanchoBot: All players are ready
+[01:24:51] KRZY: time
+[01:24:51] realshin: golf
+[01:24:51] Fwuffy: golf
+[01:24:51] BodenMyMommy: gl!
+[01:24:51] BCraftMG: !mp settings
+[01:24:52] BanchoBot: Room name: THH: (taco salad) vs (Team 18), History: https://osu.ppy.sh/mp/101218437
+[01:24:52] BanchoBot: Beatmap: https://osu.ppy.sh/b/2160574 Yousei Teikoku - Kuusou Mesorogiwi
+[01:24:52] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:24:52] BanchoBot: Active mods: Freemod
+[01:24:52] BanchoBot: Players: 8
+[01:24:52] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7701428 Eunha           [Team Red  / NoFail, HardRock]
+[01:24:52] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5584603 SaIad           [Team Red  / NoFail]
+[01:24:52] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11706350 Tuco            [Team Red  / NoFail, Hidden]
+[01:24:52] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10858131 BodenMyMommy    [Team Red  / NoFail, HardRock]
+[01:24:52] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/15173952 -Maxy           [Team Blue / NoFail]
+[01:24:52] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/7374212 Fwuffy          [Team Blue / NoFail, HardRock]
+[01:24:52] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/114017 KRZY            [Team Blue / NoFail, Hidden]
+[01:24:52] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/8006029 realshin        [Team Blue / NoFail]
+[01:24:53] BCraftMG: !mp start 10
+[01:24:54] BanchoBot: Match starts in 10 seconds
+[01:24:54] BanchoBot: Queued the match to start in 10 seconds
+[01:24:59] BanchoBot: Match starts in 5 seconds
+[01:25:01] BanchoBot: Match starts in 4 seconds
+[01:25:01] BanchoBot: Match starts in 3 seconds
+[01:25:02] BanchoBot: Good luck, have fun!
+[01:25:04] BanchoBot: The match has started!
+[01:29:07] BanchoBot: -Maxy finished playing (Score: 891662, PASSED).
+[01:29:07] BanchoBot: KRZY finished playing (Score: 480833, PASSED).
+[01:29:07] BanchoBot: Fwuffy finished playing (Score: 269547, PASSED).
+[01:29:07] BanchoBot: Eunha finished playing (Score: 409259, PASSED).
+[01:29:08] BanchoBot: Tuco finished playing (Score: 241471, PASSED).
+[01:29:08] BanchoBot: realshin finished playing (Score: 245349, PASSED).
+[01:29:08] BanchoBot: SaIad finished playing (Score: 142031, PASSED).
+[01:29:08] BanchoBot: BodenMyMommy finished playing (Score: 314917, PASSED).
+[01:29:08] BanchoBot: The match has finished!
+[01:29:15] Eunha: ggwp
+[01:29:16] BCraftMG: Congrats to Team 18 for winning this match! GGWP both teams!
+[01:29:16] BanchoBot: Eunha left the game.
+[01:29:19] BCraftMG: MAXY
+[01:29:19] Fwuffy: ggwp
+[01:29:19] -Maxy: geegeewp
+[01:29:21] SaIad: gg
+[01:29:22] BodenMyMommy: ggwp!
+[01:29:22] BanchoBot: SaIad left the game.
+[01:29:24] BanchoBot: Fwuffy left the game.
+[01:29:27] Tuco: gg maxy is the best tier 1
+[01:29:27] BodenMyMommy: maxy diff²
+[01:29:32] BanchoBot: BodenMyMommy left the game.
+[01:29:45] realshin: ty for reffing
+[01:29:50] realshin: ggwp
+[01:29:51] BCraftMG: gg
+[01:29:52] BCraftMG: wp
+[01:29:53] BanchoBot: Tuco left the game.
+[01:29:57] BCraftMG: o7
+[01:29:59] BanchoBot: realshin left the game.
+[01:30:18] BanchoBot: KRZY left the game.
+[01:30:22] BCraftMG: im closing the lobby
+[01:30:23] BCraftMG: o//
+[01:30:25] BCraftMG: !mp close
+[01:30:26] BanchoBot: Closed the match

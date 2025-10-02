@@ -1,0 +1,424 @@
+[20:28:15] Joined #mp_104178449
+[20:28:15] BCraftMG: !mp settings
+[20:28:17] BanchoBot: Room name: THT3: (Qualifiers) vs (B7), History: https://osu.ppy.sh/mp/104178449
+[20:28:17] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[20:28:17] BanchoBot: Players: 0
+[20:28:25] BCraftMG: !mp set 0 3 8
+[20:28:25] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[20:28:30] BCraftMG: !Mp invite zak1e
+[20:28:32] BanchoBot: Invited zak1e to the room
+[20:28:37] BCraftMG: !mp invite #14953642
+[20:28:39] BanchoBot: Invited Phoeni_ to the room
+[20:28:39] BCraftMG: !mp invite #28035994
+[20:28:41] BanchoBot: zak1e joined in slot 1.
+[20:28:41] BanchoBot: Invited Lunaric to the room
+[20:28:43] BanchoBot: Phoeni_ joined in slot 2.
+[20:28:47] BCraftMG: !mp map 3276259 0
+[20:28:49] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3276259 Imy - Divine's Game
+[20:28:49] BanchoBot: Changed match mode to Osu
+[20:28:49] BCraftMG: !mp mods 1
+[20:28:52] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:28:54] zak1e: !mp invite lunaric
+[20:29:07] BanchoBot: Lunaric joined in slot 3.
+[20:29:11] BCraftMG: !mp settings
+[20:29:14] BanchoBot: Room name: THT3: (Qualifiers) vs (B7), History: https://osu.ppy.sh/mp/104178449
+[20:29:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/3276259 Imy - Divine's Game
+[20:29:14] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:29:14] BanchoBot: Active mods: NoFail
+[20:29:14] BanchoBot: Players: 3
+[20:29:14] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/13381374 zak1e           
+[20:29:14] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/14953642 Phoeni_         
+[20:29:14] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/28035994 Lunaric         
+[20:29:35] BanchoBot: All players are ready
+[20:29:36] BCraftMG: !mp settings
+[20:29:37] BanchoBot: Room name: THT3: (Qualifiers) vs (B7), History: https://osu.ppy.sh/mp/104178449
+[20:29:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/3276259 Imy - Divine's Game
+[20:29:37] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:29:37] BanchoBot: Active mods: NoFail
+[20:29:37] BanchoBot: Players: 3
+[20:29:37] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13381374 zak1e           
+[20:29:37] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14953642 Phoeni_         
+[20:29:37] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28035994 Lunaric         
+[20:29:38] BCraftMG: !mp start 5 glhf
+[20:29:40] BanchoBot: Match starts in 5 seconds
+[20:29:40] BanchoBot: Queued the match to start in 5 seconds
+[20:29:42] zak1e: go
+[20:29:42] BanchoBot: Match starts in 4 seconds
+[20:29:42] BanchoBot: Match starts in 3 seconds
+[20:29:43] BCraftMG: :sob:
+[20:29:44] BanchoBot: Good luck, have fun!
+[20:29:46] BanchoBot: The match has started!
+[20:33:32] BanchoBot: Phoeni_ finished playing (Score: 305718, PASSED).
+[20:33:34] BanchoBot: Lunaric finished playing (Score: 215975, PASSED).
+[20:33:34] BanchoBot: zak1e finished playing (Score: 349365, PASSED).
+[20:33:34] BanchoBot: The match has finished!
+[20:33:38] zak1e: quen tat quat
+[20:33:39] BCraftMG: !mp map 3332936 0
+[20:33:40] zak1e: lanh vai cut
+[20:33:40] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3332936 HyuN feat. YURI - Disorder
+[20:33:40] BanchoBot: Changed match mode to Osu
+[20:33:45] Phoeni_: di ia xong quen me grip
+[20:33:45] Phoeni_: chet
+[20:33:53] zak1e: darc a nhen
+[20:34:17] zak1e: wait
+[20:34:19] Lunaric: toang that roi
+[20:34:21] zak1e: 10s
+[20:34:28] zak1e: khong sao
+[20:34:31] zak1e: 2 ganh' team
+[20:34:33] BanchoBot: All players are ready
+[20:34:34] BCraftMG: !mp settings
+[20:34:35] BanchoBot: Room name: THT3: (Qualifiers) vs (B7), History: https://osu.ppy.sh/mp/104178449
+[20:34:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/3332936 HyuN feat. YURI - Disorder
+[20:34:35] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:34:35] BanchoBot: Active mods: NoFail
+[20:34:35] BanchoBot: Players: 3
+[20:34:35] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13381374 zak1e           
+[20:34:35] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14953642 Phoeni_         
+[20:34:35] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28035994 Lunaric         
+[20:34:35] BCraftMG: !mp start 5 glhf
+[20:34:37] BanchoBot: Match starts in 5 seconds
+[20:34:37] BanchoBot: Queued the match to start in 5 seconds
+[20:34:39] BanchoBot: Match starts in 4 seconds
+[20:34:39] BanchoBot: Match starts in 3 seconds
+[20:34:41] BanchoBot: Good luck, have fun!
+[20:34:44] BanchoBot: The match has started!
+[20:34:44] Phoeni_: mu 0 - 2 mc roi
+[20:37:01] BanchoBot: Phoeni_ finished playing (Score: 921395, PASSED).
+[20:37:01] BanchoBot: Lunaric finished playing (Score: 84548, PASSED).
+[20:37:01] BanchoBot: zak1e finished playing (Score: 428608, PASSED).
+[20:37:01] BanchoBot: The match has finished!
+[20:37:06] BCraftMG: !mp map 3734887 0
+[20:37:08] Lunaric: ;-;
+[20:37:08] zak1e: lon me
+[20:37:08] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3734887 BlackY feat. Risa Yuzuki - Shuumatsu Kinema
+[20:37:08] BanchoBot: Changed match mode to Osu
+[20:37:16] Phoeni_: lunaric oi
+[20:37:16] Lunaric: no stam
+[20:37:16] zak1e: -200k point
+[20:37:16] Phoeni_: :skull:
+[20:37:18] zak1e: rip bozo
+[20:37:25] zak1e: vas
+[20:37:29] zak1e: 80k
+[20:37:31] zak1e: dude
+[20:37:31] zak1e: :sob:
+[20:37:42] Lunaric: ;--;
+[20:38:08] BCraftMG: !mp settings
+[20:38:11] Phoeni_: MC 3-0 MU ROI
+[20:38:11] Phoeni_: DJKASBDIBASHIDBASD
+[20:38:11] BanchoBot: Room name: THT3: (Qualifiers) vs (B7), History: https://osu.ppy.sh/mp/104178449
+[20:38:11] BanchoBot: Beatmap: https://osu.ppy.sh/b/3734887 BlackY feat. Risa Yuzuki - Shuumatsu Kinema
+[20:38:11] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:38:11] BanchoBot: Active mods: NoFail
+[20:38:11] BanchoBot: Players: 3
+[20:38:11] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/13381374 zak1e           
+[20:38:11] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14953642 Phoeni_         
+[20:38:11] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28035994 Lunaric         
+[20:38:12] Phoeni_: AAAAAAAAAA
+[20:38:23] zak1e: xem hang phong ngu cua mu
+[20:38:23] zak1e: buon ngu vl
+[20:38:36] BanchoBot: All players are ready
+[20:38:39] BCraftMG: !mp settings
+[20:38:41] BanchoBot: Room name: THT3: (Qualifiers) vs (B7), History: https://osu.ppy.sh/mp/104178449
+[20:38:41] BanchoBot: Beatmap: https://osu.ppy.sh/b/3734887 BlackY feat. Risa Yuzuki - Shuumatsu Kinema
+[20:38:41] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:38:41] BanchoBot: Active mods: NoFail
+[20:38:41] BanchoBot: Players: 3
+[20:38:41] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13381374 zak1e           
+[20:38:41] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14953642 Phoeni_         
+[20:38:41] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28035994 Lunaric         
+[20:38:41] BCraftMG: !mp start 5 glhf
+[20:38:43] BanchoBot: Match starts in 5 seconds
+[20:38:43] BanchoBot: Queued the match to start in 5 seconds
+[20:38:45] BanchoBot: Match starts in 4 seconds
+[20:38:45] BanchoBot: Match starts in 3 seconds
+[20:38:47] BanchoBot: Good luck, have fun!
+[20:38:50] BanchoBot: The match has started!
+[20:42:44] BanchoBot: zak1e finished playing (Score: 346344, PASSED).
+[20:42:44] BanchoBot: Lunaric finished playing (Score: 150868, PASSED).
+[20:42:44] BanchoBot: Phoeni_ finished playing (Score: 481344, PASSED).
+[20:42:44] BanchoBot: The match has finished!
+[20:42:50] zak1e: tran do phoeni_ best ganh team
+[20:42:58] BCraftMG: !mp map 2803777 0
+[20:42:59] Phoeni_: haiya
+[20:42:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2803777 PSYQUI - Eyes on me feat. Such
+[20:42:59] BanchoBot: Changed match mode to Osu
+[20:43:06] zak1e: dude
+[20:43:10] zak1e: sightread every map
+[20:43:23] Phoeni_: ye
+[20:43:26] zak1e: this mf
+[20:43:46] zak1e: !roll 3
+[20:43:46] BanchoBot: zak1e rolls 3 point(s)
+[20:43:50] zak1e: cac
+[20:43:52] BanchoBot: All players are ready
+[20:43:59] Phoeni_: !roll 1000
+[20:43:59] BanchoBot: Phoeni_ rolls 299 point(s)
+[20:44:04] BCraftMG: !mp settings
+[20:44:06] BanchoBot: Room name: THT3: (Qualifiers) vs (B7), History: https://osu.ppy.sh/mp/104178449
+[20:44:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/2803777 PSYQUI - Eyes on me feat. Such
+[20:44:06] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:44:06] BanchoBot: Active mods: NoFail
+[20:44:06] BanchoBot: Players: 3
+[20:44:06] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13381374 zak1e           
+[20:44:06] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14953642 Phoeni_         
+[20:44:06] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28035994 Lunaric         
+[20:44:06] BCraftMG: !mp start 5 glhf
+[20:44:08] BanchoBot: Match starts in 5 seconds
+[20:44:08] BanchoBot: Queued the match to start in 5 seconds
+[20:44:10] BanchoBot: Match starts in 4 seconds
+[20:44:10] BanchoBot: Match starts in 3 seconds
+[20:44:12] BanchoBot: Good luck, have fun!
+[20:44:15] BanchoBot: The match has started!
+[20:46:09] BanchoBot: Phoeni_ finished playing (Score: 401955, PASSED).
+[20:46:09] BanchoBot: Lunaric finished playing (Score: 90874, PASSED).
+[20:46:09] BanchoBot: zak1e finished playing (Score: 194581, PASSED).
+[20:46:09] BanchoBot: The match has finished!
+[20:46:29] Lunaric: .-.
+[20:46:29] zak1e: 4-0 r
+[20:46:36] BCraftMG: !mp map 3287710 0
+[20:46:38] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3287710 Denkishiki Karen Ongaku Shuudan - Shinoburedo
+[20:46:38] BanchoBot: Changed match mode to Osu
+[20:46:38] BCraftMG: !mp mods 9
+[20:46:40] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[20:47:35] BanchoBot: All players are ready
+[20:47:37] BCraftMG: !mp settings
+[20:47:39] BanchoBot: Room name: THT3: (Qualifiers) vs (B7), History: https://osu.ppy.sh/mp/104178449
+[20:47:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/3287710 Denkishiki Karen Ongaku Shuudan - Shinoburedo
+[20:47:39] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:47:39] BanchoBot: Active mods: NoFail, Hidden
+[20:47:39] BanchoBot: Players: 3
+[20:47:39] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13381374 zak1e           
+[20:47:39] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14953642 Phoeni_         
+[20:47:39] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28035994 Lunaric         
+[20:47:40] BCraftMG: !mp start 5 glhf
+[20:47:41] BanchoBot: Match starts in 5 seconds
+[20:47:41] BanchoBot: Queued the match to start in 5 seconds
+[20:47:44] BanchoBot: Match starts in 4 seconds
+[20:47:44] BanchoBot: Match starts in 3 seconds
+[20:47:46] BanchoBot: Good luck, have fun!
+[20:47:48] BanchoBot: The match has started!
+[20:52:06] BanchoBot: Lunaric finished playing (Score: 231300, PASSED).
+[20:52:06] BanchoBot: zak1e finished playing (Score: 323985, PASSED).
+[20:52:06] BanchoBot: Phoeni_ finished playing (Score: 353210, PASSED).
+[20:52:06] BanchoBot: The match has finished!
+[20:52:10] zak1e: clm
+[20:52:12] zak1e: shit miss nhieu qua
+[20:52:13] BCraftMG: !mp map 1580739 0
+[20:52:14] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1580739 SUPER STAR -MITSURU- - NEW GENERATION -mou, omae shika mienai-
+[20:52:14] BanchoBot: Changed match mode to Osu
+[20:52:32] Phoeni_: quen doi skin
+[20:52:46] Phoeni_: cu tuong co nm5 nhu vnoc
+[20:53:01] zak1e: :skull:
+[20:53:10] BanchoBot: All players are ready
+[20:53:10] zak1e: ti danh vnoc nay
+[20:53:12] zak1e: 22h
+[20:53:12] zak1e: lol
+[20:53:15] BCraftMG: !mp settings
+[20:53:17] BanchoBot: Room name: THT3: (Qualifiers) vs (B7), History: https://osu.ppy.sh/mp/104178449
+[20:53:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/1580739 SUPER STAR -MITSURU- - NEW GENERATION -mou, omae shika mienai-
+[20:53:17] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:53:17] BanchoBot: Active mods: NoFail, Hidden
+[20:53:17] BanchoBot: Players: 3
+[20:53:17] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13381374 zak1e           
+[20:53:17] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14953642 Phoeni_         
+[20:53:17] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28035994 Lunaric         
+[20:53:17] BCraftMG: !mp start 5 glhf
+[20:53:19] BanchoBot: Match starts in 5 seconds
+[20:53:19] BanchoBot: Queued the match to start in 5 seconds
+[20:53:21] BanchoBot: Match starts in 4 seconds
+[20:53:21] Phoeni_: glory glory man uniiiiiiiiiiiiiiiiited
+[20:53:21] BanchoBot: Match starts in 3 seconds
+[20:53:23] BanchoBot: Good luck, have fun!
+[20:53:26] BanchoBot: The match has started!
+[20:55:34] BanchoBot: Phoeni_ finished playing (Score: 182170, PASSED).
+[20:55:38] BanchoBot: Lunaric finished playing (Score: 57538, PASSED).
+[20:55:38] BanchoBot: zak1e finished playing (Score: 111584, PASSED).
+[20:55:38] BanchoBot: The match has finished!
+[20:55:42] zak1e: holy shit
+[20:55:42] BCraftMG: !mp map 2241585 0
+[20:55:45] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2241585 Rita - Winter Diamond
+[20:55:45] BanchoBot: Changed match mode to Osu
+[20:55:45] BCraftMG: !mp mods 17
+[20:55:47] Phoeni_: lunaric
+[20:55:47] Phoeni_: ong oi
+[20:55:47] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[20:55:49] Lunaric: bruh lag
+[20:55:51] Phoeni_: chuyen gi da xay ra
+[20:55:54] Phoeni_: troi oi
+[20:56:00] zak1e: non HD player va HD player
+[20:56:03] zak1e: :sob:
+[20:56:03] zak1e: man
+[20:56:07] Lunaric: lag ao qua
+[20:56:09] zak1e: khong co y gi nhung
+[20:56:12] zak1e: choi nhieu len
+[20:56:14] zak1e: :sob:
+[20:56:14] Phoeni_: bip
+[20:56:18] Lunaric: co lam roi
+[20:56:18] Lunaric: ;-;
+[20:56:23] Lunaric: 5k play moi thang
+[20:56:25] zak1e: focus vao
+[20:56:25] Lunaric: is that enough
+[20:56:27] Phoeni_: haiya
+[20:56:29] zak1e: no
+[20:56:29] Phoeni_: thoi ke di
+[20:56:32] Phoeni_: next map
+[20:56:34] Phoeni_: map kia xong roi
+[20:56:41] Lunaric: sorry vi ta
+[20:56:41] Lunaric: ;-l
+[20:56:41] Phoeni_: forget about it
+[20:56:44] BCraftMG: !mp settings
+[20:56:45] Phoeni_: khum sao ong
+[20:56:45] zak1e: doi khi phai
+[20:56:45] BanchoBot: Room name: THT3: (Qualifiers) vs (B7), History: https://osu.ppy.sh/mp/104178449
+[20:56:45] BanchoBot: Beatmap: https://osu.ppy.sh/b/2241585 Rita - Winter Diamond
+[20:56:45] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:56:45] BanchoBot: Active mods: NoFail, HardRock
+[20:56:45] BanchoBot: Players: 3
+[20:56:45] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/13381374 zak1e           
+[20:56:45] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/14953642 Phoeni_         
+[20:56:45] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28035994 Lunaric         
+[20:56:48] zak1e: play less
+[20:56:54] zak1e: yeah
+[20:56:54] Phoeni_: gio quan tam map tiep theo
+[20:56:56] zak1e: tap trung thoi
+[20:57:01] BanchoBot: All players are ready
+[20:57:05] BCraftMG: !mp settings
+[20:57:05] BanchoBot: Room name: THT3: (Qualifiers) vs (B7), History: https://osu.ppy.sh/mp/104178449
+[20:57:05] BanchoBot: Beatmap: https://osu.ppy.sh/b/2241585 Rita - Winter Diamond
+[20:57:05] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:57:05] BanchoBot: Active mods: NoFail, HardRock
+[20:57:05] BanchoBot: Players: 3
+[20:57:05] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13381374 zak1e           
+[20:57:05] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14953642 Phoeni_         
+[20:57:05] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28035994 Lunaric         
+[20:57:06] BCraftMG: !mp start 5 glhf
+[20:57:08] BanchoBot: Match starts in 5 seconds
+[20:57:08] BanchoBot: Queued the match to start in 5 seconds
+[20:57:10] BanchoBot: Match starts in 4 seconds
+[20:57:10] BanchoBot: Match starts in 3 seconds
+[20:57:12] BanchoBot: Good luck, have fun!
+[20:57:14] BanchoBot: The match has started!
+[21:01:14] BanchoBot: Lunaric finished playing (Score: 79176, PASSED).
+[21:01:14] BanchoBot: Phoeni_ finished playing (Score: 520690, PASSED).
+[21:01:14] BanchoBot: zak1e finished playing (Score: 419380, PASSED).
+[21:01:14] BanchoBot: The match has finished!
+[21:01:19] zak1e: bad perform tonight
+[21:01:19] BCraftMG: !mp map 3021082 0
+[21:01:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3021082 PinocchioP feat. Hatsune Miku - Ghosts Play to the Audience
+[21:01:21] BanchoBot: Changed match mode to Osu
+[21:01:28] Lunaric: *sigh*
+[21:01:32] Phoeni_: pool kho the
+[21:01:32] zak1e: man
+[21:01:39] Lunaric: i hate hr
+[21:01:42] Phoeni_: kho hon ca vnoc
+[21:01:46] zak1e: block 3 gap pool nay
+[21:01:51] zak1e: ngop vl
+[21:02:18] Phoeni_: pool nay ngang quarterfinals day
+[21:02:31] Phoeni_: nen la neu qualify thi pool do ngop cho block 3
+[21:02:42] zak1e: vo RO16 thi` de tho hon
+[21:02:58] zak1e: vo
+[21:03:00] BanchoBot: All players are ready
+[21:03:14] BCraftMG: !mp settings
+[21:03:16] BanchoBot: Room name: THT3: (Qualifiers) vs (B7), History: https://osu.ppy.sh/mp/104178449
+[21:03:16] BanchoBot: Beatmap: https://osu.ppy.sh/b/3021082 PinocchioP feat. Hatsune Miku - Ghosts Play to the Audience
+[21:03:16] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:03:16] BanchoBot: Active mods: NoFail, HardRock
+[21:03:16] BanchoBot: Players: 3
+[21:03:16] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13381374 zak1e           
+[21:03:16] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14953642 Phoeni_         
+[21:03:16] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28035994 Lunaric         
+[21:03:16] BCraftMG: !mp start 5 glhf
+[21:03:18] BanchoBot: Match starts in 5 seconds
+[21:03:18] BanchoBot: Queued the match to start in 5 seconds
+[21:03:20] BanchoBot: Match starts in 4 seconds
+[21:03:20] BanchoBot: Match starts in 3 seconds
+[21:03:23] BanchoBot: Good luck, have fun!
+[21:03:23] zak1e: hen la dao gan day choi HR nhieu
+[21:03:25] BanchoBot: The match has started!
+[21:07:17] BanchoBot: Lunaric finished playing (Score: 20392, PASSED).
+[21:07:19] BanchoBot: Phoeni_ finished playing (Score: 531156, PASSED).
+[21:07:19] BanchoBot: zak1e finished playing (Score: 136589, PASSED).
+[21:07:19] BanchoBot: The match has finished!
+[21:07:23] BCraftMG: !mp map 3243641 0
+[21:07:26] zak1e: best ganh keo phoeni_
+[21:07:26] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3243641 FELT - Flower Flag
+[21:07:26] BanchoBot: Changed match mode to Osu
+[21:07:27] BCraftMG: !mp mods 65
+[21:07:28] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:07:30] Phoeni_: ay ya
+[21:07:30] Phoeni_: lung toi
+[21:07:37] zak1e: man
+[21:07:48] Phoeni_: hr2 kho
+[21:07:50] Phoeni_: ko sao cac ong
+[21:08:02] Phoeni_: gio sang dt ne
+[21:08:13] zak1e: 2 map nua
+[21:08:18] zak1e: lets go
+[21:08:22] zak1e: lam bai tap xong qua vnoc
+[21:08:22] BanchoBot: All players are ready
+[21:08:24] BanchoBot: All players are ready
+[21:08:25] BCraftMG: !mp settings
+[21:08:27] BanchoBot: Room name: THT3: (Qualifiers) vs (B7), History: https://osu.ppy.sh/mp/104178449
+[21:08:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/3243641 FELT - Flower Flag
+[21:08:27] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:08:27] BanchoBot: Active mods: NoFail, DoubleTime
+[21:08:27] BanchoBot: Players: 3
+[21:08:27] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13381374 zak1e           
+[21:08:27] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14953642 Phoeni_         
+[21:08:27] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28035994 Lunaric         
+[21:08:43] BCraftMG: zak1e chung ta se gap lai nhau sau
+[21:08:43] BCraftMG: !mp start 5 glhf
+[21:08:46] BanchoBot: Match starts in 5 seconds
+[21:08:46] BanchoBot: Queued the match to start in 5 seconds
+[21:08:49] BanchoBot: Match starts in 4 seconds
+[21:08:49] BanchoBot: Match starts in 3 seconds
+[21:08:51] BanchoBot: Good luck, have fun!
+[21:08:53] zak1e: kek
+[21:08:53] BanchoBot: The match has started!
+[21:11:58] BanchoBot: Phoeni_ finished playing (Score: 1139593, PASSED).
+[21:11:58] BanchoBot: Lunaric finished playing (Score: 246644, PASSED).
+[21:11:58] BanchoBot: zak1e finished playing (Score: 300119, PASSED).
+[21:11:58] BanchoBot: The match has finished!
+[21:12:00] BCraftMG: !mp map 3047429 0
+[21:12:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3047429 Touhou LostWord x RichaadEB - Lost Word Chronicle
+[21:12:02] BanchoBot: Changed match mode to Osu
+[21:12:06] Lunaric: fc ._.
+[21:12:15] Phoeni_: vai
+[21:12:22] Phoeni_: map nay quali bip qua
+[21:12:42] Lunaric: 276 bpm .-.
+[21:12:53] zak1e: map nay hen xui
+[21:12:58] zak1e: pray for 400k
+[21:12:58] BanchoBot: All players are ready
+[21:12:59] BCraftMG: !mp settings
+[21:13:00] BanchoBot: Room name: THT3: (Qualifiers) vs (B7), History: https://osu.ppy.sh/mp/104178449
+[21:13:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/3047429 Touhou LostWord x RichaadEB - Lost Word Chronicle
+[21:13:00] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:13:00] BanchoBot: Active mods: NoFail, DoubleTime
+[21:13:00] BanchoBot: Players: 3
+[21:13:00] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13381374 zak1e           
+[21:13:00] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14953642 Phoeni_         
+[21:13:00] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28035994 Lunaric         
+[21:13:08] BCraftMG: !mp start 5 glhf
+[21:13:09] BanchoBot: Match starts in 5 seconds
+[21:13:09] BanchoBot: Queued the match to start in 5 seconds
+[21:13:11] BanchoBot: Match starts in 4 seconds
+[21:13:11] BanchoBot: Match starts in 3 seconds
+[21:13:13] BanchoBot: Good luck, have fun!
+[21:13:16] BanchoBot: The match has started!
+[21:15:49] BanchoBot: zak1e finished playing (Score: 206226, PASSED).
+[21:15:49] BanchoBot: Phoeni_ finished playing (Score: 455173, PASSED).
+[21:15:49] BanchoBot: Lunaric finished playing (Score: 180472, PASSED).
+[21:15:49] BanchoBot: The match has finished!
+[21:16:00] Phoeni_: map bip vcl
+[21:16:18] Phoeni_: thoi xong roi
+[21:16:22] Phoeni_: toi di truoc day
+[21:16:24] Phoeni_: o7
+[21:16:26] BCraftMG: :skull:
+[21:16:27] BanchoBot: Phoeni_ left the game.
+[21:16:28] BCraftMG: o/
+[21:16:33] Lunaric: o/
+[21:16:35] zak1e: haiya
+[21:16:35] BanchoBot: Lunaric left the game.
+[21:16:45] zak1e: dieu toi te nhat
+[21:16:45] zak1e: o7
+[21:16:45] BanchoBot: zak1e left the game.
+[21:17:05] BCraftMG: !mp close
+[21:17:07] BanchoBot: Closed the match

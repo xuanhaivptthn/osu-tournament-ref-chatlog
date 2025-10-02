@@ -1,0 +1,904 @@
+[02:21:09] Joined #mp_101797989
+[02:21:09] BCraftMG: !mp settings
+[02:21:11] BanchoBot: Room name: STT3: (egg) vs (O TIME 17), History: https://osu.ppy.sh/mp/101797989
+[02:21:11] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[02:21:11] BanchoBot: Players: 0
+[02:21:37] BCraftMG: !mp settings
+[02:21:37] BanchoBot: Room name: STT3: (egg) vs (O TIME 17), History: https://osu.ppy.sh/mp/101797989
+[02:21:37] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[02:21:37] BanchoBot: Players: 0
+[02:21:55] BCraftMG: !mp invite #5221058
+[02:21:55] BanchoBot: Invited finalbang4 to the room
+[02:21:58] BCraftMG: !mp invite #4207965
+[02:21:58] BanchoBot: Invited Nekoraw to the room
+[02:22:00] BCraftMG: !mp invite #10956448
+[02:22:00] BanchoBot: Invited luscajooj to the room
+[02:22:00] BCraftMG: !mp invite #10384720
+[02:22:00] BanchoBot: Invited 999kalel999 to the room
+[02:22:02] BCraftMG: !mp invite #11655352
+[02:22:02] BanchoBot: Invited Chuva to the room
+[02:22:02] BCraftMG: !mp invite #12620242
+[02:22:02] BanchoBot: Invited Kyulke to the room
+[02:22:05] BCraftMG: !mp invite #14552545
+[02:22:05] BanchoBot: Invited viktorju123 to the room
+[02:22:05] BCraftMG: !mp invite #16765314
+[02:22:05] BanchoBot: User not found
+[02:22:05] BCraftMG: !mp invite #7671790
+[02:22:05] BanchoBot: User not found
+[02:22:07] BCraftMG: !mp invite #8549010
+[02:22:07] BanchoBot: User not found
+[02:22:07] BCraftMG: !mp invite #13972957
+[02:22:07] BanchoBot: Invited furytail to the room
+[02:22:09] BCraftMG: !mp invite #8909292
+[02:22:09] BanchoBot: Invited electimon to the room
+[02:23:11] BanchoBot: finalbang4 joined in slot 1.
+[02:23:49] BanchoBot: Chuva joined in slot 2.
+[02:23:58] BanchoBot: Chuva left the game.
+[02:26:18] BCraftMG: !mp host finalbang4
+[02:26:19] BanchoBot: finalbang4 became the host.
+[02:26:19] BanchoBot: Changed match host to finalbang4
+[02:26:23] BCraftMG: you wanna pick warm up while waiting?
+[02:26:24] BanchoBot: Beatmap changed to: Silentroom - Aulture [Extra] (https://osu.ppy.sh/b/2732602)
+[02:26:54] finalbang4: alright
+[02:26:59] BanchoBot: Host is changing map...
+[02:27:12] BanchoBot: Beatmap changed to: Logic - Homicide [Genocide] (https://osu.ppy.sh/b/2068897)
+[02:28:48] BCraftMG: Warmups must be between 4.0 and 7.0 stars and must be 3:30 in drain time or less after mods are applied. A warmup map cannot be from the current week's pool.
+[02:28:56] BCraftMG: you might want to pick a lower diff or a different map
+[02:28:57] BanchoBot: Host is changing map...
+[02:28:59] finalbang4: ops
+[02:29:38] BanchoBot: Beatmap changed to: katagiri - Naopura2000 -Daybreak- [the second] (https://osu.ppy.sh/b/3117956)
+[02:30:34] BanchoBot: viktorju123 joined in slot 2.
+[02:30:38] BCraftMG: yay
+[02:30:48] viktorju123: yay
+[02:30:52] BanchoBot: Chuva joined in slot 3.
+[02:30:59] viktorju123: we do a little stalling :tf:
+[02:31:15] finalbang4: its head to head scorev1
+[02:31:18] finalbang4: might wanna change that
+[02:31:25] BanchoBot: luscajooj joined in slot 4.
+[02:31:29] BCraftMG: a i forgot
+[02:31:37] BCraftMG: !mp set 2 3 12
+[02:31:39] BanchoBot: Changed match settings to 12 slots, TeamVs, ScoreV2
+[02:31:44] BCraftMG: thanks for reminding
+[02:31:46] viktorju123: noooo that means i have to be on a different team
+[02:32:00] BanchoBot: luscajooj changed to Blue
+[02:32:00] BanchoBot: viktorju123 moved to slot 5
+[02:32:04] BanchoBot: luscajooj moved to slot 2
+[02:32:04] BCraftMG: egg will be red
+[02:32:07] BanchoBot: finalbang4 moved to slot 6
+[02:32:07] BanchoBot: finalbang4 moved to slot 4
+[02:32:09] BanchoBot: finalbang4 moved to slot 6
+[02:32:11] BanchoBot: luscajooj moved to slot 7
+[02:32:14] BCraftMG: O TIME 17 will be blue
+[02:32:18] viktorju123: yay i am red
+[02:32:32] BanchoBot: Chuva moved to slot 8
+[02:32:39] BanchoBot: viktorju123 moved to slot 1
+[02:32:43] BanchoBot: luscajooj moved to slot 5
+[02:32:46] BanchoBot: Chuva moved to slot 7
+[02:32:47] BCraftMG: slots are not important for now but please stay near your teammates
+[02:32:52] BCraftMG: !mp settings
+[02:32:53] BanchoBot: Room name: STT3: (egg) vs (O TIME 17), History: https://osu.ppy.sh/mp/101797989
+[02:32:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/3117956 katagiri - Naopura2000 -Daybreak- [the second]
+[02:32:53] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:32:53] BanchoBot: Players: 4
+[02:32:53] BanchoBot: Slot 1  No Map    https://osu.ppy.sh/u/14552545 viktorju123     [Team Red ]
+[02:32:53] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/10956448 luscajooj       [Team Blue]
+[02:32:53] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/5221058 finalbang4      [Host / Team Blue]
+[02:32:53] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/11655352 Chuva           [Team Blue]
+[02:32:57] BanchoBot: finalbang4 moved to slot 4
+[02:32:57] BanchoBot: electimon joined in slot 2 for team red.
+[02:32:59] BanchoBot: Chuva moved to slot 6
+[02:33:06] viktorju123: omg its electromon
+[02:33:11] viktorju123: i didnt inv u
+[02:33:13] viktorju123: get out
+[02:33:32] electimon: you werent planning on inving me???
+[02:34:04] luscajooj: so...
+[02:34:35] BCraftMG: !mp settings
+[02:34:36] viktorju123: so...
+[02:34:36] BanchoBot: Room name: STT3: (egg) vs (O TIME 17), History: https://osu.ppy.sh/mp/101797989
+[02:34:36] BanchoBot: Beatmap: https://osu.ppy.sh/b/3117956 katagiri - Naopura2000 -Daybreak- [the second]
+[02:34:36] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:34:36] BanchoBot: Players: 5
+[02:34:36] BanchoBot: Slot 1  No Map    https://osu.ppy.sh/u/14552545 viktorju123     [Team Red ]
+[02:34:36] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/8909292 electimon       [Team Red ]
+[02:34:36] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5221058 finalbang4      [Host / Team Blue]
+[02:34:36] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/10956448 luscajooj       [Team Blue]
+[02:34:36] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11655352 Chuva           [Team Blue]
+[02:34:41] viktorju123: 1 of our teammates died B)
+[02:35:16] BCraftMG: can we forcestart :3c:
+[02:35:41] finalbang4: i guess?
+[02:35:50] luscajooj: viktorju123 [no map]
+[02:35:50] finalbang4: viktor has no map idk if he wants to play warmup or not
+[02:35:59] BCraftMG: !mp settings
+[02:36:02] BanchoBot: Room name: STT3: (egg) vs (O TIME 17), History: https://osu.ppy.sh/mp/101797989
+[02:36:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/3117956 katagiri - Naopura2000 -Daybreak- [the second]
+[02:36:02] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:36:02] BanchoBot: Players: 5
+[02:36:02] BanchoBot: Slot 1  No Map    https://osu.ppy.sh/u/14552545 viktorju123     [Team Red ]
+[02:36:02] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/8909292 electimon       [Team Red ]
+[02:36:02] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5221058 finalbang4      [Host / Team Blue]
+[02:36:02] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/10956448 luscajooj       [Team Blue]
+[02:36:02] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11655352 Chuva           [Team Blue]
+[02:36:08] BCraftMG: just force start ig
+[02:36:18] finalbang4: aight
+[02:36:18] BanchoBot: The match has started!
+[02:36:22] viktorju123: oh wait
+[02:36:25] viktorju123: i was afk
+[02:36:38] BCraftMG: :skull:
+[02:36:44] BCraftMG: you can try to get your 3rd
+[02:36:48] BCraftMG: in this time
+[02:37:13] viktorju123: they playing the pool lol
+[02:37:15] viktorju123: we didnt play it
+[02:37:15] BanchoBot: electimon finished playing (Score: 59168, FAILED).
+[02:37:15] BanchoBot: Chuva finished playing (Score: 78449, PASSED).
+[02:37:15] BanchoBot: finalbang4 finished playing (Score: 141409, PASSED).
+[02:37:15] BanchoBot: luscajooj finished playing (Score: 136728, PASSED).
+[02:37:15] BanchoBot: The match has finished!
+[02:37:18] viktorju123: i only played 2 maps from it
+[02:37:22] electimon: u guys win
+[02:37:27] viktorju123: oh wow that was a quick warmup
+[02:37:33] BCraftMG: kekw
+[02:37:48] BanchoBot: luscajooj moved to slot 3
+[02:37:55] BanchoBot: viktorju123 became the host.
+[02:37:55] BanchoBot: luscajooj moved to slot 5
+[02:38:04] viktorju123: ok ok time for the epicest warmup
+[02:38:04] BanchoBot: Host is changing map...
+[02:38:26] BCraftMG: Warmups must be between 4.0 and 7.0 stars and must be 3:30 in drain time or less after mods are applied. A warmup map cannot be from the current week's pool.
+[02:38:32] BCraftMG: within rules xd
+[02:38:43] luscajooj: xd
+[02:39:04] BanchoBot: Beatmap changed to: Various Artist - Long Stream Practice Maps [Oblivion BPM170] (https://osu.ppy.sh/b/207539)
+[02:39:06] viktorju123: wooooooooooo
+[02:39:08] BanchoBot: luscajooj left the game.
+[02:39:08] viktorju123: this is what all pros play
+[02:39:10] viktorju123: i am osu pro
+[02:39:43] viktorju123: make sure to put nf on guys!
+[02:39:45] BanchoBot: Chuva moved to slot 5
+[02:39:47] BCraftMG: theres no way it <3:30
+[02:39:52] BCraftMG: ITS 2:56
+[02:39:55] BanchoBot: luscajooj joined in slot 3 for team blue.
+[02:40:00] BCraftMG: WHAT
+[02:40:08] viktorju123: L
+[02:40:11] BanchoBot: Chuva moved to slot 6
+[02:40:24] BCraftMG: wait can i play warm up too
+[02:40:31] electimon: yes
+[02:40:34] BanchoBot: furytail joined in slot 5 for team blue.
+[02:40:34] viktorju123: sure
+[02:40:36] viktorju123: join
+[02:40:40] BanchoBot: furytail changed to Red
+[02:40:47] furytail: HI
+[02:40:47] BanchoBot: luscajooj moved to slot 7
+[02:40:48] BCraftMG: !mp invite BCraftMG
+[02:40:50] BanchoBot: Chuva moved to slot 8
+[02:40:50] BanchoBot: Invited BCraftMG to the room
+[02:40:54] BanchoBot: luscajooj moved to slot 6
+[02:40:54] BanchoBot: BCraftMG joined in slot 3 for team blue.
+[02:40:57] BanchoBot: Chuva moved to slot 7
+[02:41:17] BCraftMG: :3c:
+[02:41:20] BanchoBot: BCraftMG moved to slot 12
+[02:41:22] BanchoBot: electimon moved to slot 11
+[02:41:25] electimon: we can be buddies
+[02:41:41] BanchoBot: viktorju123 moved to slot 10
+[02:41:41] luscajooj: bora
+[02:41:45] viktorju123: i am bottom bitch too
+[02:41:50] electimon: tru
+[02:41:52] BanchoBot: All players are ready
+[02:41:54] BCraftMG: start xd
+[02:41:57] Chuva: e
+[02:42:03] BanchoBot: The match has started!
+[02:42:10] viktorju123: GOLF
+[02:45:11] BanchoBot: finalbang4 finished playing (Score: 6927, PASSED).
+[02:45:11] BanchoBot: furytail finished playing (Score: 847850, PASSED).
+[02:45:11] BanchoBot: electimon finished playing (Score: 386549, PASSED).
+[02:45:11] BanchoBot: viktorju123 finished playing (Score: 0, PASSED).
+[02:45:14] BanchoBot: luscajooj finished playing (Score: 592201, PASSED).
+[02:45:14] BanchoBot: Chuva finished playing (Score: 211848, PASSED).
+[02:45:14] BanchoBot: BCraftMG finished playing (Score: 43717, PASSED).
+[02:45:14] BanchoBot: The match has finished!
+[02:45:19] BCraftMG: !mp clearhost
+[02:45:19] BanchoBot: Cleared match host
+[02:45:24] viktorju123: furytail is so god at strems wowzers
+[02:45:28] BCraftMG: alright first let start with protect order
+[02:45:33] BCraftMG: both captain please roll
+[02:45:35] furytail: wow square
+[02:45:35] finalbang4: !roll
+[02:45:35] BanchoBot: finalbang4 rolls 72 point(s)
+[02:45:42] viktorju123: !roll higher
+[02:45:42] BanchoBot: viktorju123 rolls 19 point(s)
+[02:45:46] viktorju123: aw
+[02:46:09] BCraftMG: 0 time 17 please pick your protected map
+[02:46:19] finalbang4: nm3
+[02:46:30] BCraftMG: egg, please pick your protected map
+[02:46:32] electimon: bruh moment
+[02:47:04] BCraftMG: !mp timer 120
+[02:47:05] furytail: im captain now
+[02:47:07] furytail: viktor has died
+[02:47:07] BanchoBot: Countdown ends in 2 minutes
+[02:47:11] BCraftMG: what
+[02:47:19] BCraftMG: sure ig
+[02:47:35] furytail: dt2
+[02:48:02] BanchoBot: Kyulke joined in slot 1 for team blue.
+[02:48:04] BanchoBot: viktorju123 left the game.
+[02:48:09] BanchoBot: Countdown ends in 1 minute
+[02:48:10] BCraftMG: !mp invite viktorju123
+[02:48:11] BanchoBot: Invited viktorju123 to the room
+[02:48:23] BanchoBot: viktorju123 joined in slot 2 for team red.
+[02:48:25] BanchoBot: Kyulke moved to slot 8
+[02:48:26] BCraftMG: there we go
+[02:48:30] viktorju123: hello gamers i am back for the 2nd roll
+[02:48:34] viktorju123: !roll
+[02:48:34] BanchoBot: viktorju123 rolls 84 point(s)
+[02:48:34] viktorju123: i won
+[02:48:37] BCraftMG: now for the pick and ban order please !roll again
+[02:48:39] BanchoBot: Countdown ends in 30 seconds
+[02:48:39] finalbang4: !roll
+[02:48:39] BanchoBot: finalbang4 rolls 15 point(s)
+[02:48:42] BCraftMG: i didnt said roll
+[02:48:43] electimon: !roll
+[02:48:43] BanchoBot: electimon rolls 19 point(s)
+[02:48:48] electimon: not me
+[02:48:52] viktorju123: nooooooooo
+[02:48:57] BanchoBot: Countdown ends in 10 seconds
+[02:48:59] BCraftMG: :SKULL:
+[02:49:02] viktorju123: but that counts right?
+[02:49:02] BCraftMG: !mp aborttimer
+[02:49:04] BanchoBot: Countdown ends in 5 seconds
+[02:49:04] BanchoBot: Countdown ends in 4 seconds
+[02:49:04] BanchoBot: Countdown ends in 3 seconds
+[02:49:04] BanchoBot: Countdown aborted
+[02:49:12] BCraftMG: yes
+[02:49:19] BCraftMG: i was typing
+[02:49:21] viktorju123: yay
+[02:49:21] electimon: pog
+[02:49:28] BCraftMG: egg, please choose your pick or ban order
+[02:49:44] viktorju123: hd2
+[02:49:48] viktorju123: wait
+[02:49:48] viktorju123: firetruck
+[02:49:53] viktorju123: im stoopid
+[02:49:53] furytail: LOL
+[02:49:58] BCraftMG: tatical
+[02:50:00] furytail: holy shit whats wrong with my captain
+[02:50:00] viktorju123: tabbing out too much
+[02:50:09] electimon: tatical
+[02:50:11] viktorju123: so true
+[02:50:12] BCraftMG: please choose
+[02:50:25] BanchoBot: luscajooj left the game.
+[02:50:32] BCraftMG: !mp timer 120
+[02:50:34] furytail: PICK ORDER
+[02:50:34] BanchoBot: Countdown ends in 2 minutes
+[02:50:48] viktorju123: first pick :P
+[02:50:50] BanchoBot: Kyulke left the game.
+[02:50:53] viktorju123: wait do we choose both?
+[02:50:55] viktorju123: i forgor
+[02:51:00] BCraftMG: O TIME 17 your ban order please
+[02:51:02] BCraftMG: !mp timer 120
+[02:51:04] BanchoBot: Countdown aborted
+[02:51:04] BanchoBot: Countdown ends in 2 minutes
+[02:51:32] BanchoBot: BCraftMG left the game.
+[02:51:39] finalbang4: we'll ban second
+[02:51:46] BanchoBot: Chuva left the game.
+[02:51:49] BCraftMG: egg, your first ban please
+[02:51:51] BCraftMG: !mp timer 120
+[02:51:52] BanchoBot: Countdown aborted
+[02:51:52] BanchoBot: Countdown ends in 2 minutes
+[02:52:05] BCraftMG: !mp settings
+[02:52:06] BanchoBot: Room name: STT3: (egg) vs (O TIME 17), History: https://osu.ppy.sh/mp/101797989
+[02:52:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/207539 Various Artist - Long Stream Practice Maps [Oblivion BPM170]
+[02:52:06] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:52:06] BanchoBot: Active mods: Freemod
+[02:52:06] BanchoBot: Players: 4
+[02:52:06] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/14552545 viktorju123     [Team Red ]
+[02:52:06] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/5221058 finalbang4      [Team Blue / NoFail]
+[02:52:06] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/13972957 furytail        [Team Red ]
+[02:52:06] BanchoBot: Slot 11 Not Ready https://osu.ppy.sh/u/8909292 electimon       [Team Red  / NoFail]
+[02:52:43] BanchoBot: luscajooj joined in slot 1 for team blue.
+[02:52:50] viktorju123: hd2
+[02:52:54] BanchoBot: Countdown ends in 1 minute
+[02:52:59] BCraftMG: O TIME 17, your ban?
+[02:53:01] BCraftMG: !mp timer 120
+[02:53:04] BanchoBot: Countdown aborted
+[02:53:04] BanchoBot: Countdown ends in 2 minutes
+[02:53:10] finalbang4: hr2
+[02:53:53] BCraftMG: egg | 0 - 0 | O TIME 17 // First Pick: egg
+[02:53:56] BCraftMG: !mp timer 120
+[02:53:57] BanchoBot: Countdown aborted
+[02:53:57] BanchoBot: Countdown ends in 2 minutes
+[02:54:03] BanchoBot: luscajooj moved to slot 6
+[02:54:56] BanchoBot: sami__ joined in slot 1 for team blue.
+[02:54:58] BanchoBot: Countdown ends in 1 minute
+[02:55:01] viktorju123: dt2
+[02:55:03] sami__: hello
+[02:55:08] BanchoBot: Chuva joined in slot 3 for team blue.
+[02:55:13] BCraftMG: !mp mods DT NF
+[02:55:13] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[02:55:15] sami__: hows everyone doing?
+[02:55:17] BCraftMG: !mp map 3335524 0
+[02:55:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3335524 Keeno - EOS
+[02:55:17] BanchoBot: Changed match mode to Osu
+[02:55:17] BCraftMG: !mp timer 120
+[02:55:17] BanchoBot: Countdown aborted
+[02:55:17] BanchoBot: Countdown ends in 2 minutes
+[02:55:17] viktorju123: omg the big famous sami
+[02:55:19] BanchoBot: viktorju123 left the game.
+[02:55:24] BanchoBot: finalbang4 moved to slot 2
+[02:55:24] BanchoBot: Dabelek18 joined in slot 4 for team red.
+[02:55:29] BanchoBot: luscajooj left the game.
+[02:55:29] BanchoBot: Dabelek18 left the game.
+[02:55:29] BanchoBot: electimon moved to slot 6
+[02:55:31] BanchoBot: sami__ changed to Red
+[02:55:31] BanchoBot: Kyulke joined in slot 4 for team red.
+[02:55:35] sami__: DonoWall
+[02:55:38] BanchoBot: finalbang4 moved to slot 7
+[02:55:38] BanchoBot: finalbang4 moved to slot 2
+[02:55:40] BanchoBot: sami__ moved to slot 7
+[02:55:42] BanchoBot: Kyulke changed to Blue
+[02:55:42] BanchoBot: finalbang4 moved to slot 1
+[02:55:45] BanchoBot: Kyulke moved to slot 2
+[02:56:05] BanchoBot: All players are ready
+[02:56:11] BCraftMG: !mp size 8
+[02:56:12] BanchoBot: Changed match to size 8
+[02:56:13] BCraftMG: !mp settings
+[02:56:14] finalbang4: glhf
+[02:56:14] BanchoBot: Room name: STT3: (egg) vs (O TIME 17), History: https://osu.ppy.sh/mp/101797989
+[02:56:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/3335524 Keeno - EOS
+[02:56:14] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:56:14] BanchoBot: Active mods: NoFail, DoubleTime
+[02:56:14] BanchoBot: Players: 6
+[02:56:14] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/5221058 finalbang4      [Team Blue]
+[02:56:14] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12620242 Kyulke          [Team Blue]
+[02:56:14] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11655352 Chuva           [Team Blue]
+[02:56:14] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13972957 furytail        [Team Red ]
+[02:56:14] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/8909292 electimon       [Team Red ]
+[02:56:14] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/16765314 sami__          [Team Red ]
+[02:56:16] BCraftMG: !mp start 10
+[02:56:17] BanchoBot: Countdown aborted
+[02:56:17] BanchoBot: Match starts in 10 seconds
+[02:56:17] BanchoBot: Queued the match to start in 10 seconds
+[02:56:19] BCraftMG: GLHF
+[02:56:19] Kyulke: glgl
+[02:56:23] BanchoBot: Match starts in 5 seconds
+[02:56:23] furytail: gl
+[02:56:23] BanchoBot: Match starts in 4 seconds
+[02:56:26] BanchoBot: Match starts in 3 seconds
+[02:56:26] BanchoBot: Good luck, have fun!
+[02:56:28] BanchoBot: The match has started!
+[02:58:41] BanchoBot: Kyulke finished playing (Score: 583835, PASSED).
+[02:58:41] BanchoBot: finalbang4 finished playing (Score: 523192, PASSED).
+[02:58:41] BanchoBot: sami__ finished playing (Score: 1145403, PASSED).
+[02:58:43] BanchoBot: electimon finished playing (Score: 628207, PASSED).
+[02:58:43] BanchoBot: Chuva finished playing (Score: 840728, PASSED).
+[02:58:43] BanchoBot: furytail finished playing (Score: 842309, PASSED).
+[02:58:43] BanchoBot: The match has finished!
+[02:58:45] BCraftMG: egg : 1 | 0 : O TIME 17
+[02:58:48] BCraftMG: Next team to pick: O TIME 17
+[02:58:50] BCraftMG: !mp timer 120
+[02:58:50] BanchoBot: Countdown ends in 2 minutes
+[02:59:20] BanchoBot: Kyulke left the game.
+[02:59:22] BanchoBot: luscajooj joined in slot 2 for team red.
+[02:59:22] BanchoBot: Chuva left the game.
+[02:59:24] finalbang4: fm2
+[02:59:33] BanchoBot: Nekoraw joined in slot 3 for team blue.
+[02:59:33] BCraftMG: !mp mods Freemod NF
+[02:59:33] BanchoBot: Disabled all mods, enabled FreeMod
+[02:59:36] BCraftMG: !mp map 2643263 0
+[02:59:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2643263 Shawn Wasabi - LEMONS feat. kennedi
+[02:59:36] BanchoBot: Changed match mode to Osu
+[02:59:38] BanchoBot: luscajooj changed to Blue
+[02:59:38] BCraftMG: !mp timer 120
+[02:59:38] BanchoBot: Countdown aborted
+[02:59:38] BanchoBot: Countdown ends in 2 minutes
+[02:59:40] BanchoBot: electimon left the game.
+[02:59:41] BCraftMG: LEMONS
+[02:59:47] furytail: banger
+[02:59:53] BCraftMG: holy
+[02:59:59] BCraftMG: happy birthday to beast
+[03:00:17] BanchoBot: sami__ left the game.
+[03:00:35] BanchoBot: finalbang4 left the game.
+[03:00:39] BanchoBot: Countdown ends in 1 minute
+[03:00:53] BanchoBot: Nekoraw left the game.
+[03:00:55] BanchoBot: finalbang4 joined in slot 1 for team blue.
+[03:01:08] BanchoBot: Countdown ends in 30 seconds
+[03:01:29] BanchoBot: Countdown ends in 10 seconds
+[03:01:29] BanchoBot: Nekoraw joined in slot 3 for team blue.
+[03:01:34] BanchoBot: Countdown ends in 5 seconds
+[03:01:34] BanchoBot: viktorju123 joined in slot 4 for team red.
+[03:01:36] BanchoBot: Countdown ends in 4 seconds
+[03:01:36] BanchoBot: Dabelek18 joined in slot 6 for team red.
+[03:01:36] BanchoBot: Countdown ends in 3 seconds
+[03:01:36] BanchoBot: Countdown ends in 2 seconds
+[03:01:38] BanchoBot: Countdown ends in 1 second
+[03:01:38] BanchoBot: Countdown finished
+[03:01:40] finalbang4: .
+[03:01:43] finalbang4: XD
+[03:01:43] BCraftMG: !mp settings
+[03:01:45] BanchoBot: Room name: STT3: (egg) vs (O TIME 17), History: https://osu.ppy.sh/mp/101797989
+[03:01:45] BanchoBot: Beatmap: https://osu.ppy.sh/b/2643263 Shawn Wasabi - LEMONS feat. kennedi
+[03:01:45] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:01:45] BanchoBot: Active mods: Freemod
+[03:01:45] BanchoBot: Players: 6
+[03:01:45] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/5221058 finalbang4      [Team Blue / NoFail, HardRock]
+[03:01:45] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10956448 luscajooj       [Team Blue / NoFail, Hidden]
+[03:01:45] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/4207965 Nekoraw         [Team Blue / NoFail, Hidden]
+[03:01:45] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/14552545 viktorju123     [Team Red ]
+[03:01:45] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/13972957 furytail        [Team Red  / Hidden]
+[03:01:45] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/8549010 Dabelek18       [Team Red  / NoFail, HardRock]
+[03:02:01] luscajooj: glhf
+[03:02:02] BCraftMG: make sure to take NF with you
+[03:02:21] furytail: OK GO
+[03:02:22] BCraftMG: !mp settings
+[03:02:23] BanchoBot: Room name: STT3: (egg) vs (O TIME 17), History: https://osu.ppy.sh/mp/101797989
+[03:02:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/2643263 Shawn Wasabi - LEMONS feat. kennedi
+[03:02:23] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:02:23] BanchoBot: Active mods: Freemod
+[03:02:23] BanchoBot: Players: 6
+[03:02:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/5221058 finalbang4      [Team Blue / NoFail, HardRock]
+[03:02:23] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10956448 luscajooj       [Team Blue / NoFail, Hidden]
+[03:02:23] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4207965 Nekoraw         [Team Blue / NoFail, Hidden]
+[03:02:23] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14552545 viktorju123     [Team Red  / NoFail, Easy]
+[03:02:23] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13972957 furytail        [Team Red  / NoFail, Hidden]
+[03:02:23] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/8549010 Dabelek18       [Team Red  / NoFail, HardRock]
+[03:02:26] BanchoBot: All players are ready
+[03:02:28] furytail: gl
+[03:02:31] BCraftMG: why easy
+[03:02:35] BCraftMG: ill have to calculate score
+[03:02:37] BCraftMG: :stare:
+[03:02:39] BCraftMG: !mp start 10
+[03:02:39] luscajooj: just
+[03:02:39] luscajooj: start
+[03:02:41] furytail: cringe
+[03:02:41] luscajooj: pls
+[03:02:41] viktorju123: idk i just havent tried it with hd
+[03:02:41] BanchoBot: Match starts in 10 seconds
+[03:02:41] BanchoBot: Queued the match to start in 10 seconds
+[03:02:46] finalbang4: PLEASE
+[03:02:48] BanchoBot: Match starts in 5 seconds
+[03:02:48] BanchoBot: Match starts in 4 seconds
+[03:02:50] BanchoBot: Match starts in 3 seconds
+[03:02:50] BanchoBot: Good luck, have fun!
+[03:02:52] Dabelek18: glhf
+[03:02:53] BanchoBot: The match has started!
+[03:05:34] BanchoBot: furytail finished playing (Score: 255232, PASSED).
+[03:05:34] BanchoBot: luscajooj finished playing (Score: 491058, PASSED).
+[03:05:37] BanchoBot: Nekoraw finished playing (Score: 690067, PASSED).
+[03:05:37] BanchoBot: Dabelek18 finished playing (Score: 403889, PASSED).
+[03:05:37] BanchoBot: viktorju123 finished playing (Score: 152626, PASSED).
+[03:05:37] BanchoBot: finalbang4 finished playing (Score: 348003, PASSED).
+[03:05:37] BanchoBot: The match has finished!
+[03:05:48] BCraftMG: Next team to pick: egg
+[03:05:51] BCraftMG: !mp timer 120
+[03:05:52] BanchoBot: Countdown ends in 2 minutes
+[03:06:19] Nekoraw: hey guys
+[03:06:21] Nekoraw: can we go faster
+[03:06:26] furytail: ez gets 3x score multiplier right
+[03:06:33] finalbang4: Still isn't enough
+[03:06:37] furytail: :tf:
+[03:06:39] viktorju123: nm2
+[03:06:42] BanchoBot: Dabelek18 left the game.
+[03:06:48] BanchoBot: Nekoraw left the game.
+[03:06:53] BanchoBot: Countdown ends in 1 minute
+[03:07:02] BanchoBot: Kyulke joined in slot 3 for team blue.
+[03:07:06] BanchoBot: sami__ joined in slot 6 for team red.
+[03:07:08] BCraftMG: !mp mods NF
+[03:07:08] BanchoBot: Enabled NoFail, disabled FreeMod
+[03:07:11] BanchoBot: viktorju123 left the game.
+[03:07:11] BCraftMG: !mp map 734096 0
+[03:07:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/734096 Azel - -Astraia-
+[03:07:11] BanchoBot: Changed match mode to Osu
+[03:07:13] BCraftMG: !mp timer 120
+[03:07:13] BanchoBot: Countdown aborted
+[03:07:13] BanchoBot: Countdown ends in 2 minutes
+[03:07:13] BanchoBot: Chuva joined in slot 4 for team red.
+[03:07:17] BCraftMG: not enough
+[03:07:17] BanchoBot: Chuva left the game.
+[03:07:38] furytail: how about 10x
+[03:07:38] furytail: x)
+[03:07:45] sami__: !roll 1000
+[03:07:45] BanchoBot: sami__ rolls 117 point(s)
+[03:07:51] BanchoBot: electimon joined in slot 4 for team red.
+[03:08:00] BanchoBot: All players are ready
+[03:08:05] furytail: gl
+[03:08:05] BCraftMG: !mp settings
+[03:08:05] BanchoBot: Room name: STT3: (egg) vs (O TIME 17), History: https://osu.ppy.sh/mp/101797989
+[03:08:05] BanchoBot: Beatmap: https://osu.ppy.sh/b/734096 Azel - -Astraia-
+[03:08:05] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:08:05] BanchoBot: Active mods: NoFail
+[03:08:05] BanchoBot: Players: 6
+[03:08:05] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/5221058 finalbang4      [Team Blue]
+[03:08:05] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10956448 luscajooj       [Team Blue]
+[03:08:05] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12620242 Kyulke          [Team Blue]
+[03:08:05] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8909292 electimon       [Team Red ]
+[03:08:05] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13972957 furytail        [Team Red ]
+[03:08:05] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/16765314 sami__          [Team Red ]
+[03:08:06] BCraftMG: !mp start 10
+[03:08:07] BanchoBot: Countdown aborted
+[03:08:07] BanchoBot: Match starts in 10 seconds
+[03:08:07] BanchoBot: Queued the match to start in 10 seconds
+[03:08:09] Kyulke: glhf
+[03:08:14] BanchoBot: Match starts in 5 seconds
+[03:08:14] finalbang4: glhf
+[03:08:14] electimon: gggglglglgllg
+[03:08:14] BanchoBot: Match starts in 4 seconds
+[03:08:16] BanchoBot: Match starts in 3 seconds
+[03:08:16] BanchoBot: Good luck, have fun!
+[03:08:18] BanchoBot: The match has started!
+[03:10:59] BanchoBot: luscajooj finished playing (Score: 557502, PASSED).
+[03:10:59] BanchoBot: sami__ finished playing (Score: 692863, PASSED).
+[03:10:59] BanchoBot: finalbang4 finished playing (Score: 626295, PASSED).
+[03:11:01] BanchoBot: Kyulke finished playing (Score: 982076, PASSED).
+[03:11:01] BanchoBot: electimon finished playing (Score: 389041, PASSED).
+[03:11:01] BanchoBot: furytail finished playing (Score: 646256, PASSED).
+[03:11:01] BanchoBot: The match has finished!
+[03:11:24] electimon: pain
+[03:11:25] BCraftMG: egg : 1 | 2 : O TIME 17
+[03:11:26] BanchoBot: electimon left the game.
+[03:11:30] BCraftMG: Next team to pick: O TIME 17
+[03:11:32] BCraftMG: !mp timer 120
+[03:11:33] BanchoBot: Countdown ends in 2 minutes
+[03:11:36] BanchoBot: luscajooj left the game.
+[03:11:58] furytail: is it first to 5?
+[03:11:58] finalbang4: nm3
+[03:11:58] BanchoBot: luscajooj joined in slot 2 for team red.
+[03:12:00] furytail: or 6
+[03:12:00] BanchoBot: sami__ left the game.
+[03:12:00] BanchoBot: Kyulke left the game.
+[03:12:07] BanchoBot: luscajooj changed to Blue
+[03:12:13] BCraftMG: first to 5
+[03:12:14] BCraftMG: !mp mods NF
+[03:12:14] BanchoBot: Enabled NoFail, disabled FreeMod
+[03:12:16] BCraftMG: !mp map 3215999 0
+[03:12:16] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3215999 cybermiso - FFT
+[03:12:16] BanchoBot: Changed match mode to Osu
+[03:12:18] BCraftMG: !mp timer 120
+[03:12:18] BanchoBot: Countdown aborted
+[03:12:18] BanchoBot: Countdown ends in 2 minutes
+[03:12:20] furytail: okay
+[03:12:25] BanchoBot: Chuva joined in slot 3 for team blue.
+[03:13:05] BanchoBot: electimon joined in slot 4 for team red.
+[03:13:09] BanchoBot: Dabelek18 joined in slot 6 for team red.
+[03:13:18] BanchoBot: Countdown ends in 1 minute
+[03:13:25] furytail: gl
+[03:13:29] luscajooj: glhd
+[03:13:29] BanchoBot: All players are ready
+[03:13:31] BCraftMG: !mp settings
+[03:13:31] electimon: glhf
+[03:13:31] luscajooj: f
+[03:13:31] BanchoBot: Room name: STT3: (egg) vs (O TIME 17), History: https://osu.ppy.sh/mp/101797989
+[03:13:31] BanchoBot: Beatmap: https://osu.ppy.sh/b/3215999 cybermiso - FFT
+[03:13:31] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:13:31] BanchoBot: Active mods: NoFail
+[03:13:31] BanchoBot: Players: 6
+[03:13:31] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/5221058 finalbang4      [Team Blue]
+[03:13:31] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10956448 luscajooj       [Team Blue]
+[03:13:31] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11655352 Chuva           [Team Blue]
+[03:13:31] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8909292 electimon       [Team Red ]
+[03:13:31] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13972957 furytail        [Team Red ]
+[03:13:31] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/8549010 Dabelek18       [Team Red ]
+[03:13:32] BCraftMG: !mp start 10
+[03:13:34] finalbang4: glhf
+[03:13:34] Dabelek18: glhf
+[03:13:34] BanchoBot: Countdown aborted
+[03:13:34] BanchoBot: Match starts in 10 seconds
+[03:13:34] BanchoBot: Queued the match to start in 10 seconds
+[03:13:40] BanchoBot: Match starts in 5 seconds
+[03:13:40] furytail: glgl
+[03:13:41] BanchoBot: Match starts in 4 seconds
+[03:13:43] BanchoBot: Match starts in 3 seconds
+[03:13:43] BanchoBot: Good luck, have fun!
+[03:13:45] BanchoBot: The match has started!
+[03:15:57] BanchoBot: electimon finished playing (Score: 906101, PASSED).
+[03:15:57] BanchoBot: Chuva finished playing (Score: 411799, PASSED).
+[03:15:57] BanchoBot: luscajooj finished playing (Score: 516156, PASSED).
+[03:15:57] BanchoBot: finalbang4 finished playing (Score: 768220, PASSED).
+[03:15:57] BanchoBot: furytail finished playing (Score: 526879, PASSED).
+[03:15:57] BanchoBot: Dabelek18 finished playing (Score: 938400, PASSED).
+[03:15:57] BanchoBot: The match has finished!
+[03:15:59] BCraftMG: egg : 2 | 2 : O TIME 17
+[03:16:01] BCraftMG: Next team to pick: egg
+[03:16:04] BCraftMG: !mp timer 120
+[03:16:04] BanchoBot: Countdown ends in 2 minutes
+[03:16:28] BanchoBot: electimon left the game.
+[03:17:04] BanchoBot: Countdown ends in 1 minute
+[03:17:25] BCraftMG: quick reminder
+[03:17:26] BCraftMG: If a timer runs out due to a team failing to protect, ban, or pick, the team will forfeit that choice and as punishment for delay of game, their opponent will be given an additional choice in protecting, picking, or banning (depending on whichever decision is currently underway). A 3 second buffer for Bancho is permitted after the timer has concluded, strictly according to the referee's IRC and no other source.
+[03:17:35] BanchoBot: Countdown ends in 30 seconds
+[03:17:55] BanchoBot: Countdown ends in 10 seconds
+[03:18:00] BanchoBot: Countdown ends in 5 seconds
+[03:18:00] BanchoBot: Countdown ends in 4 seconds
+[03:18:02] BanchoBot: Countdown ends in 3 seconds
+[03:18:02] BanchoBot: Countdown ends in 2 seconds
+[03:18:04] BanchoBot: Countdown ends in 1 second
+[03:18:04] BanchoBot: Countdown finished
+[03:18:06] furytail: hr1
+[03:18:13] furytail: captain still vanished
+[03:18:13] BanchoBot: luscajooj left the game.
+[03:18:15] BCraftMG: !mp mods HD NF
+[03:18:15] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[03:18:17] BCraftMG: !mp map 3254176 0
+[03:18:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3254176 Annabel - lilac slumber -cosmic ver.-
+[03:18:17] BanchoBot: Changed match mode to Osu
+[03:18:20] BCraftMG: !mp timer 120
+[03:18:20] BanchoBot: Countdown ends in 2 minutes
+[03:18:21] BCraftMG: 2 seconds
+[03:18:26] furytail: this isnt hr
+[03:18:29] furytail: :wtf:
+[03:18:42] BCraftMG: !mp mods HR NF
+[03:18:42] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[03:18:44] BCraftMG: !mp map 863037 0
+[03:18:44] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/863037 Silent Siren - Routine
+[03:18:44] BanchoBot: Changed match mode to Osu
+[03:18:46] BCraftMG: !mp timer 120
+[03:18:46] BanchoBot: Countdown aborted
+[03:18:46] BanchoBot: Countdown ends in 2 minutes
+[03:18:47] BCraftMG: :trolldespair:
+[03:19:09] BanchoBot: viktorju123 joined in slot 2 for team red.
+[03:19:20] BanchoBot: Chuva left the game.
+[03:19:22] BanchoBot: 999kalel999 joined in slot 3 for team blue.
+[03:19:24] BanchoBot: Kyulke joined in slot 4 for team red.
+[03:19:35] BanchoBot: Kyulke changed to Blue
+[03:19:47] 999kalel999: how to become good at osu google search anonymous
+[03:19:47] BanchoBot: Countdown ends in 1 minute
+[03:20:16] BanchoBot: viktorju123 moved to slot 7
+[03:20:18] BanchoBot: Countdown ends in 30 seconds
+[03:20:29] BanchoBot: All players are ready
+[03:20:32] BCraftMG: !mp settings
+[03:20:34] BanchoBot: Room name: STT3: (egg) vs (O TIME 17), History: https://osu.ppy.sh/mp/101797989
+[03:20:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/863037 Silent Siren - Routine
+[03:20:34] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:20:34] BanchoBot: Active mods: NoFail, HardRock
+[03:20:34] BanchoBot: Players: 6
+[03:20:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/5221058 finalbang4      [Team Blue]
+[03:20:34] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10384720 999kalel999     [Team Blue]
+[03:20:34] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12620242 Kyulke          [Team Blue]
+[03:20:34] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13972957 furytail        [Team Red ]
+[03:20:34] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/8549010 Dabelek18       [Team Red ]
+[03:20:34] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/14552545 viktorju123     [Team Red ]
+[03:20:35] BCraftMG: !mp start 10
+[03:20:36] finalbang4: Glhf
+[03:20:36] BanchoBot: Countdown aborted
+[03:20:36] BanchoBot: Match starts in 10 seconds
+[03:20:36] BanchoBot: Queued the match to start in 10 seconds
+[03:20:38] Dabelek18: glhf
+[03:20:40] furytail: glhf
+[03:20:43] BanchoBot: Match starts in 5 seconds
+[03:20:43] 999kalel999: hf
+[03:20:43] BanchoBot: Match starts in 4 seconds
+[03:20:45] BanchoBot: Match starts in 3 seconds
+[03:20:45] BanchoBot: Good luck, have fun!
+[03:20:47] BanchoBot: The match has started!
+[03:24:57] BanchoBot: furytail finished playing (Score: 385057, PASSED).
+[03:24:57] BanchoBot: finalbang4 finished playing (Score: 593685, PASSED).
+[03:24:57] BanchoBot: Kyulke finished playing (Score: 369299, PASSED).
+[03:24:57] BanchoBot: 999kalel999 finished playing (Score: 925508, PASSED).
+[03:24:57] BanchoBot: Dabelek18 finished playing (Score: 413877, PASSED).
+[03:24:57] BanchoBot: viktorju123 finished playing (Score: 205763, PASSED).
+[03:24:57] BanchoBot: The match has finished!
+[03:25:01] BCraftMG: egg : 2 | 3 : O TIME 17
+[03:25:03] BCraftMG: Next team to pick: O TIME 17
+[03:25:05] BCraftMG: !mp timer 120
+[03:25:05] BanchoBot: Countdown ends in 2 minutes
+[03:25:54] finalbang4: fm1
+[03:26:01] BanchoBot: Chuva joined in slot 2 for team red.
+[03:26:03] BanchoBot: Kyulke left the game.
+[03:26:05] BanchoBot: Countdown ends in 1 minute
+[03:26:08] BanchoBot: 999kalel999 left the game.
+[03:26:12] BanchoBot: Chuva changed to Blue
+[03:26:14] BCraftMG: !mp mods Freemod NF
+[03:26:14] BanchoBot: Disabled all mods, enabled FreeMod
+[03:26:16] BCraftMG: !mp map 2623025 0
+[03:26:16] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2623025 Nekomata Master+ - chaos eater -IIDX edition-
+[03:26:16] BanchoBot: Changed match mode to Osu
+[03:26:19] BCraftMG: !mp timer 120
+[03:26:19] BanchoBot: Countdown aborted
+[03:26:19] BanchoBot: Countdown ends in 2 minutes
+[03:26:39] BanchoBot: luscajooj joined in slot 3 for team blue.
+[03:26:45] BanchoBot: sami__ joined in slot 4 for team red.
+[03:26:50] BanchoBot: viktorju123 left the game.
+[03:27:20] BanchoBot: Countdown ends in 1 minute
+[03:27:49] BanchoBot: Countdown ends in 30 seconds
+[03:27:51] BCraftMG: !mp settings
+[03:27:51] BanchoBot: Room name: STT3: (egg) vs (O TIME 17), History: https://osu.ppy.sh/mp/101797989
+[03:27:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/2623025 Nekomata Master+ - chaos eater -IIDX edition-
+[03:27:51] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:27:51] BanchoBot: Active mods: Freemod
+[03:27:51] BanchoBot: Players: 6
+[03:27:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/5221058 finalbang4      [Team Blue / NoFail, HardRock]
+[03:27:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11655352 Chuva           [Team Blue / NoFail, Hidden]
+[03:27:51] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10956448 luscajooj       [Team Blue / NoFail, Hidden]
+[03:27:51] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/16765314 sami__          [Team Red  / NoFail, HardRock]
+[03:27:51] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13972957 furytail        [Team Red  / NoFail, Hidden]
+[03:27:51] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/8549010 Dabelek18       [Team Red  / NoFail, HardRock]
+[03:27:56] finalbang4: glhf
+[03:28:02] Dabelek18: glhf
+[03:28:10] BanchoBot: Countdown ends in 10 seconds
+[03:28:14] BanchoBot: All players are ready
+[03:28:14] BanchoBot: Countdown ends in 5 seconds
+[03:28:16] BanchoBot: Countdown ends in 4 seconds
+[03:28:16] BanchoBot: Countdown ends in 3 seconds
+[03:28:17] BCraftMG: !mp settings
+[03:28:18] BanchoBot: Countdown ends in 2 seconds
+[03:28:18] BanchoBot: Countdown ends in 1 second
+[03:28:18] BanchoBot: Countdown finished
+[03:28:18] BanchoBot: Room name: STT3: (egg) vs (O TIME 17), History: https://osu.ppy.sh/mp/101797989
+[03:28:18] BanchoBot: Beatmap: https://osu.ppy.sh/b/2623025 Nekomata Master+ - chaos eater -IIDX edition-
+[03:28:18] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:28:18] BanchoBot: Active mods: Freemod
+[03:28:18] BanchoBot: Players: 6
+[03:28:18] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/5221058 finalbang4      [Team Blue / NoFail, HardRock]
+[03:28:18] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11655352 Chuva           [Team Blue / NoFail, Hidden]
+[03:28:18] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10956448 luscajooj       [Team Blue / NoFail, Hidden]
+[03:28:18] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16765314 sami__          [Team Red  / NoFail, HardRock]
+[03:28:18] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13972957 furytail        [Team Red  / NoFail, Hidden]
+[03:28:18] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/8549010 Dabelek18       [Team Red  / NoFail, HardRock]
+[03:28:19] BCraftMG: !mp start 10
+[03:28:21] furytail: glhf
+[03:28:21] luscajooj: glhf
+[03:28:21] BanchoBot: Match starts in 10 seconds
+[03:28:21] BanchoBot: Queued the match to start in 10 seconds
+[03:28:27] BanchoBot: Match starts in 5 seconds
+[03:28:27] BanchoBot: Match starts in 4 seconds
+[03:28:29] BanchoBot: Match starts in 3 seconds
+[03:28:29] BanchoBot: Good luck, have fun!
+[03:28:32] BanchoBot: The match has started!
+[03:30:31] BanchoBot: finalbang4 finished playing (Score: 294959, PASSED).
+[03:30:31] BanchoBot: luscajooj finished playing (Score: 799775, PASSED).
+[03:30:33] BanchoBot: Dabelek18 finished playing (Score: 416609, PASSED).
+[03:30:33] BanchoBot: sami__ finished playing (Score: 372556, PASSED).
+[03:30:33] BanchoBot: Chuva finished playing (Score: 560853, PASSED).
+[03:30:33] BanchoBot: furytail finished playing (Score: 410303, PASSED).
+[03:30:33] BanchoBot: The match has finished!
+[03:30:35] BCraftMG: egg : 2 | 4 : O TIME 17
+[03:30:38] BCraftMG: Next team to pick: egg
+[03:30:40] BCraftMG: !mp timer 120
+[03:30:40] BanchoBot: Countdown ends in 2 minutes
+[03:31:17] BanchoBot: Chuva left the game.
+[03:31:24] BanchoBot: Nekoraw joined in slot 2 for team red.
+[03:31:28] BanchoBot: Nekoraw changed to Blue
+[03:31:35] BanchoBot: electimon joined in slot 7 for team blue.
+[03:31:42] BanchoBot: Countdown ends in 1 minute
+[03:31:42] BanchoBot: furytail left the game.
+[03:31:53] BanchoBot: Dabelek18 left the game.
+[03:32:10] BanchoBot: Countdown ends in 30 seconds
+[03:32:19] BCraftMG: god
+[03:32:21] BanchoBot: viktorju123 joined in slot 5 for team blue.
+[03:32:30] BCraftMG: 30s
+[03:32:30] BanchoBot: Countdown ends in 10 seconds
+[03:32:34] BCraftMG: nvm
+[03:32:35] BanchoBot: Countdown ends in 5 seconds
+[03:32:37] BanchoBot: Countdown ends in 4 seconds
+[03:32:37] BanchoBot: Countdown ends in 3 seconds
+[03:32:39] BanchoBot: Countdown ends in 2 seconds
+[03:32:39] BanchoBot: Countdown ends in 1 second
+[03:32:41] BanchoBot: Countdown finished
+[03:32:46] finalbang4: i will literally gouge my eyes out
+[03:32:48] sami__: team?
+[03:32:52] sami__: captain?
+[03:32:52] electimon: ht1?
+[03:32:52] electimon: ht1
+[03:32:57] sami__: ht1?
+[03:32:57] sami__: ht1
+[03:32:57] BCraftMG: egg forfeited picks
+[03:32:59] BCraftMG: too late
+[03:33:03] BanchoBot: Chuva joined in slot 6 for team red.
+[03:33:05] viktorju123: didnt furytail say it???????
+[03:33:05] sami__: stfu
+[03:33:08] viktorju123: what?
+[03:33:17] BanchoBot: Chuva left the game.
+[03:33:17] BCraftMG: i dont see it
+[03:33:41] finalbang4: We pick hd1
+[03:33:41] viktorju123: massive l
+[03:33:43] BCraftMG: check #chat
+[03:33:45] sami__: wtf
+[03:33:47] sami__: 5 seconds
+[03:33:49] BanchoBot: Chuva joined in slot 6 for team red.
+[03:33:52] BanchoBot: finalbang4 left the game.
+[03:33:54] BanchoBot: Chuva changed to Blue
+[03:33:56] BanchoBot: Chuva moved to slot 1
+[03:34:04] BanchoBot: furytail joined in slot 6 for team red.
+[03:34:05] BCraftMG: O TIME 17 have the pick now
+[03:34:08] BCraftMG: !mp timer 120
+[03:34:09] BanchoBot: Countdown ends in 2 minutes
+[03:34:11] BanchoBot: electimon changed to Red
+[03:34:11] Nekoraw: hd1
+[03:34:11] BanchoBot: electimon changed to Blue
+[03:34:11] Nekoraw: lets go
+[03:34:14] Nekoraw: hd1
+[03:34:22] luscajooj: hd1
+[03:34:24] luscajooj: now
+[03:34:25] sami__: shut up
+[03:34:29] sami__: shush
+[03:34:31] luscajooj: immediately
+[03:34:34] sami__: shush
+[03:34:40] luscajooj: sheesh
+[03:34:40] BCraftMG: !mp mods HD NF
+[03:34:40] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[03:34:43] BCraftMG: !mp map 3254176 0
+[03:34:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3254176 Annabel - lilac slumber -cosmic ver.-
+[03:34:43] BanchoBot: Changed match mode to Osu
+[03:34:45] BCraftMG: !mp timer 120
+[03:34:45] BanchoBot: Countdown aborted
+[03:34:45] BanchoBot: Countdown ends in 2 minutes
+[03:34:53] furytail is listening to [https://osu.ppy.sh/beatmapsets/1593278#/3254176 Annabel - lilac slumber (cosmic ver.)]
+[03:34:53] BanchoBot: electimon changed to Red
+[03:34:53] Nekoraw is listening to [https://osu.ppy.sh/beatmapsets/1593278#/3254176 Annabel - lilac slumber -cosmic ver.-]
+[03:34:56] Nekoraw: redownload it
+[03:34:58] Nekoraw: my link
+[03:35:00] BanchoBot: viktorju123 changed to Red
+[03:35:08] BCraftMG: A 3 second buffer for Bancho is permitted after the timer has concluded, strictly according to the referee's IRC and no other source.
+[03:35:09] Nekoraw: they renamed ( to -
+[03:35:10] BCraftMG: 5>3
+[03:35:20] sami__: gimp
+[03:35:46] BanchoBot: Countdown ends in 1 minute
+[03:35:48] BanchoBot: finalbang4 joined in slot 8 for team red.
+[03:35:55] BanchoBot: finalbang4 left the game.
+[03:36:06] Nekoraw: brazil route to bancho
+[03:36:08] luscajooj: MY MAP ISNT DOWNLOADING
+[03:36:14] luscajooj: 1 MIN LEFT
+[03:36:17] BanchoBot: Countdown ends in 30 seconds
+[03:36:17] luscajooj: wtf
+[03:36:23] BanchoBot: luscajooj left the game.
+[03:36:23] furytail: if they dont download then we get free win right
+[03:36:27] furytail: according to the rules
+[03:36:30] BanchoBot: Chuva left the game.
+[03:36:30] viktorju123: ref i think they are ffing the pick
+[03:36:36] BanchoBot: Countdown ends in 10 seconds
+[03:36:36] BanchoBot: luscajooj joined in slot 1 for team blue.
+[03:36:38] BanchoBot: Chuva joined in slot 3 for team blue.
+[03:36:40] BanchoBot: Countdown ends in 5 seconds
+[03:36:40] BanchoBot: Countdown ends in 4 seconds
+[03:36:43] BanchoBot: Countdown ends in 3 seconds
+[03:36:43] BanchoBot: Countdown ends in 2 seconds
+[03:36:45] BanchoBot: Countdown ends in 1 second
+[03:36:45] BanchoBot: Countdown finished
+[03:36:49] sami__: welp
+[03:36:49] BanchoBot: sami__ left the game.
+[03:36:54] BanchoBot: electimon moved to slot 4
+[03:36:54] luscajooj: welp not
+[03:36:56] BanchoBot: All players are ready
+[03:36:56] luscajooj: go
+[03:36:56] luscajooj: glhf
+[03:36:58] BCraftMG: !mp settings
+[03:37:00] BanchoBot: Room name: STT3: (egg) vs (O TIME 17), History: https://osu.ppy.sh/mp/101797989
+[03:37:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/3254176 Annabel - lilac slumber -cosmic ver.-
+[03:37:00] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:37:00] BanchoBot: Active mods: NoFail, Hidden
+[03:37:00] BanchoBot: Players: 6
+[03:37:00] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10956448 luscajooj       [Team Blue]
+[03:37:00] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4207965 Nekoraw         [Team Blue]
+[03:37:00] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11655352 Chuva           [Team Blue]
+[03:37:00] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8909292 electimon       [Team Red ]
+[03:37:00] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/14552545 viktorju123     [Team Red ]
+[03:37:00] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/13972957 furytail        [Team Red ]
+[03:37:02] furytail: !
+[03:37:05] luscajooj: !
+[03:37:05] BCraftMG: !mp start 10
+[03:37:07] electimon: !
+[03:37:07] BanchoBot: Match starts in 10 seconds
+[03:37:07] BanchoBot: Queued the match to start in 10 seconds
+[03:37:13] BanchoBot: Match starts in 5 seconds
+[03:37:13] BanchoBot: Match starts in 4 seconds
+[03:37:15] BanchoBot: Match starts in 3 seconds
+[03:37:15] BanchoBot: Good luck, have fun!
+[03:37:18] BanchoBot: The match has started!
+[03:41:32] BanchoBot: electimon finished playing (Score: 287582, PASSED).
+[03:41:32] BanchoBot: luscajooj finished playing (Score: 491978, PASSED).
+[03:41:32] BanchoBot: furytail finished playing (Score: 431273, PASSED).
+[03:41:32] BanchoBot: Chuva finished playing (Score: 498373, PASSED).
+[03:41:32] BanchoBot: viktorju123 finished playing (Score: 202721, PASSED).
+[03:41:34] BanchoBot: Nekoraw finished playing (Score: 584204, PASSED).
+[03:41:34] BanchoBot: The match has finished!
+[03:41:36] BCraftMG: egg : 2 | 5 : O TIME 17
+[03:41:39] BCraftMG: **O TIME 17 wins the match**
+[03:41:39] BanchoBot: sami__ joined in slot 7 for team blue.
+[03:41:43] BanchoBot: electimon left the game.
+[03:41:45] Chuva: ggwp
+[03:41:47] BanchoBot: viktorju123 left the game.
+[03:41:51] sami__: referees a wanka
+[03:41:54] BanchoBot: sami__ left the game.
+[03:41:54] luscajooj: ggwp
+[03:41:54] BanchoBot: furytail left the game.
+[03:41:56] BanchoBot: luscajooj left the game.
+[03:42:05] Nekoraw: 1h10m to play a bo9 match
+[03:42:07] Nekoraw: thanks for the patience
+[03:42:15] BanchoBot: Chuva left the game.
+[03:42:29] BCraftMG: :(
+[03:42:37] BanchoBot: Nekoraw left the game.
+[03:42:59] BCraftMG: !mp close
+[03:43:00] BanchoBot: Closed the match

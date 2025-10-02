@@ -1,0 +1,394 @@
+[16:48:44] Joined #mp_115035492
+[16:48:44] BCraftMG: !mp settings
+[16:48:45] BanchoBot: Room name: STT: Qualifiers Lobby B5, History: https://osu.ppy.sh/mp/115035492
+[16:48:45] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[16:48:45] BanchoBot: Players: 0
+[16:50:01] BCraftMG: !mp set 0 3 6
+[16:50:01] BanchoBot: Changed match settings to 6 slots, HeadToHead, ScoreV2
+[16:50:04] BCraftMG: !mp mods 1
+[16:50:04] BanchoBot: Enabled NoFail, disabled FreeMod
+[16:50:05] BCraftMG: !mp map 3895683
+[16:50:05] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3895683 rN - Harumachi Elevator
+[16:52:33] BCraftMG: !mp invite #10302933
+[16:52:34] BanchoBot: Invited bromothymolblue to the room
+[16:58:14] BanchoBot: bromothymolblue joined in slot 1.
+[16:58:18] bromothymolblue: o/
+[16:58:22] Error processing your command
+[16:58:24] BCraftMG: o/
+[16:58:48] BCraftMG: !mp map 1046293
+[16:58:49] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1046293 Wagakki Band - Roku Chounen to Ichiya Monogatari
+[16:59:04] BanchoBot: Dumb-Andy joined in slot 2.
+[17:00:01] Dumb-Andy: wait i go piss
+[17:00:19] BanchoBot: JGLF joined in slot 3.
+[17:00:23] BanchoBot: bromothymolblue left the game.
+[17:00:26] BanchoBot: JGLF moved to slot 1
+[17:00:45] Dumb-Andy: back
+[17:00:47] BanchoBot: All players are ready
+[17:00:48] BCraftMG: !mp settings
+[17:00:49] BanchoBot: Room name: STT: Qualifiers Lobby B5, History: https://osu.ppy.sh/mp/115035492
+[17:00:49] BanchoBot: Beatmap: https://osu.ppy.sh/b/1046293 Wagakki Band - Roku Chounen to Ichiya Monogatari
+[17:00:49] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:00:49] BanchoBot: Active mods: NoFail
+[17:00:49] BanchoBot: Players: 2
+[17:00:49] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10665363 JGLF            
+[17:00:49] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20963631 Dumb-Andy       
+[17:00:50] BCraftMG: !mp start 5 glhf
+[17:00:51] BanchoBot: Match starts in 5 seconds
+[17:00:51] BanchoBot: Queued the match to start in 5 seconds
+[17:00:52] BanchoBot: Match starts in 4 seconds
+[17:00:53] BanchoBot: Match starts in 3 seconds
+[17:00:54] BanchoBot: Good luck, have fun!
+[17:00:56] BanchoBot: The match has started!
+[17:00:56] JGLF: glglgl
+[17:00:56] Dumb-Andy: glhf
+[17:04:48] BanchoBot: Dumb-Andy finished playing (Score: 888424, PASSED).
+[17:04:49] BanchoBot: JGLF finished playing (Score: 510551, PASSED).
+[17:04:49] BanchoBot: The match has finished!
+[17:04:53] Dumb-Andy: that was a fc guys
+[17:05:02] BanchoBot: bromothymolblue joined in slot 3.
+[17:05:08] BanchoBot: bromothymolblue left the game.
+[17:05:16] BCraftMG: !mp map 3192005
+[17:05:17] Dumb-Andy: i hold my pen at the top so it doesnt matter for me
+[17:05:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3192005 Demetori - Fuujin Shoujo
+[17:05:18] BCraftMG: close enough
+[17:05:26] BanchoBot: All players are ready
+[17:05:27] BCraftMG: !mp settings
+[17:05:28] BanchoBot: Room name: STT: Qualifiers Lobby B5, History: https://osu.ppy.sh/mp/115035492
+[17:05:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/3192005 Demetori - Fuujin Shoujo
+[17:05:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:05:28] BanchoBot: Active mods: NoFail
+[17:05:28] BanchoBot: Players: 2
+[17:05:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10665363 JGLF            
+[17:05:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20963631 Dumb-Andy       
+[17:05:29] BCraftMG: !mp start 5 glhf
+[17:05:29] BanchoBot: Match starts in 5 seconds
+[17:05:29] BanchoBot: Queued the match to start in 5 seconds
+[17:05:30] BanchoBot: Match starts in 4 seconds
+[17:05:31] BanchoBot: Match starts in 3 seconds
+[17:05:32] BanchoBot: Good luck, have fun!
+[17:05:33] JGLF: GLGL
+[17:05:34] BanchoBot: The match has started!
+[17:05:38] Dumb-Andy: glhf
+[17:08:56] BanchoBot: Dumb-Andy finished playing (Score: 500280, PASSED).
+[17:08:56] BanchoBot: JGLF finished playing (Score: 491718, PASSED).
+[17:08:56] BanchoBot: The match has finished!
+[17:09:04] BCraftMG: !mp map 4622438
+[17:09:05] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4622438 AJURIKA - BEAT PRISONER -Extended Mix-
+[17:09:12] Dumb-Andy: me too
+[17:09:25] BanchoBot: All players are ready
+[17:09:29] BCraftMG: !mp settings
+[17:09:29] BanchoBot: Room name: STT: Qualifiers Lobby B5, History: https://osu.ppy.sh/mp/115035492
+[17:09:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/4622438 AJURIKA - BEAT PRISONER -Extended Mix-
+[17:09:29] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:09:29] BanchoBot: Active mods: NoFail
+[17:09:29] BanchoBot: Players: 2
+[17:09:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10665363 JGLF            
+[17:09:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20963631 Dumb-Andy       
+[17:09:31] BCraftMG: !mp start 5 glhf
+[17:09:32] BanchoBot: Match starts in 5 seconds
+[17:09:32] BanchoBot: Queued the match to start in 5 seconds
+[17:09:33] BanchoBot: Match starts in 4 seconds
+[17:09:35] BanchoBot: Match starts in 3 seconds
+[17:09:35] BanchoBot: Good luck, have fun!
+[17:09:37] Dumb-Andy: glhf
+[17:09:37] BanchoBot: The match has started!
+[17:09:40] Dumb-Andy: jglf
+[17:13:33] BanchoBot: JGLF finished playing (Score: 389215, PASSED).
+[17:13:33] BanchoBot: Dumb-Andy finished playing (Score: 435724, PASSED).
+[17:13:33] BanchoBot: The match has finished!
+[17:13:40] Dumb-Andy: damn i fell apart at the end
+[17:13:47] BanchoBot: Dumb-Andy left the game.
+[17:14:16] JGLF: reitak just finishing playing a map rq
+[17:14:26] BanchoBot: bromothymolblue joined in slot 2.
+[17:14:35] BCraftMG: !mp map 1979462
+[17:14:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1979462 HyuN - Grin
+[17:15:09] BanchoBot: All players are ready
+[17:15:16] JGLF: glglgl
+[17:15:23] bromothymolblue: golf
+[17:15:33] JGLF: jglf
+[17:15:41] bromothymolblue: JGLF
+[17:15:48] JGLF: bcraftmg
+[17:15:56] BCraftMG: !mp settings
+[17:15:58] BanchoBot: Room name: STT: Qualifiers Lobby B5, History: https://osu.ppy.sh/mp/115035492
+[17:15:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/1979462 HyuN - Grin
+[17:15:58] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:15:58] BanchoBot: Active mods: NoFail
+[17:15:58] BanchoBot: Players: 2
+[17:15:58] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10665363 JGLF            
+[17:15:58] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10302933 bromothymolblue 
+[17:15:59] BCraftMG: !mp start 5 glhf
+[17:16:00] BanchoBot: Match starts in 5 seconds
+[17:16:00] BanchoBot: Queued the match to start in 5 seconds
+[17:16:01] BanchoBot: Match starts in 4 seconds
+[17:16:03] BanchoBot: Match starts in 3 seconds
+[17:16:03] BanchoBot: Good luck, have fun!
+[17:16:05] JGLF: glglgl
+[17:16:05] BanchoBot: The match has started!
+[17:18:42] BanchoBot: JGLF finished playing (Score: 813201, PASSED).
+[17:18:42] BanchoBot: bromothymolblue finished playing (Score: 331595, PASSED).
+[17:18:42] BanchoBot: The match has finished!
+[17:18:59] BanchoBot: JGLF left the game.
+[17:19:04] BCraftMG: !mp map 4459402
+[17:19:04] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4459402 RuLu - Bad End Donuts feat. tug
+[17:19:10] BCraftMG: !mp mods 9
+[17:19:10] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[17:19:53] BanchoBot: Dumb-Andy joined in slot 1.
+[17:19:59] Dumb-Andy: 89 acc time
+[17:20:03] BanchoBot: All players are ready
+[17:20:06] bromothymolblue: gglglglgl
+[17:20:09] Dumb-Andy: glhf
+[17:20:11] BCraftMG: !mp settings
+[17:20:12] BanchoBot: Room name: STT: Qualifiers Lobby B5, History: https://osu.ppy.sh/mp/115035492
+[17:20:12] BanchoBot: Beatmap: https://osu.ppy.sh/b/4459402 RuLu - Bad End Donuts feat. tug
+[17:20:12] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:20:12] BanchoBot: Active mods: NoFail, Hidden
+[17:20:12] BanchoBot: Players: 2
+[17:20:12] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/20963631 Dumb-Andy       
+[17:20:12] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10302933 bromothymolblue 
+[17:20:12] BCraftMG: !mp start 5 glhf
+[17:20:13] BanchoBot: Match starts in 5 seconds
+[17:20:13] BanchoBot: Queued the match to start in 5 seconds
+[17:20:14] BanchoBot: Match starts in 4 seconds
+[17:20:15] BanchoBot: Match starts in 3 seconds
+[17:20:16] BanchoBot: Good luck, have fun!
+[17:20:18] BanchoBot: The match has started!
+[17:20:19] bromothymolblue: yippee!
+[17:23:09] BCraftMG: !mp map 3765312
+[17:23:09] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3765312 A.SAKA - Nanatsu Hiiragisuikou (scenic mix)
+[17:23:31] BanchoBot: bromothymolblue finished playing (Score: 313084, PASSED).
+[17:23:31] BanchoBot: Dumb-Andy finished playing (Score: 496928, PASSED).
+[17:23:31] BanchoBot: The match has finished!
+[17:23:43] BCraftMG: !mp map 3765312
+[17:23:44] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3765312 A.SAKA - Nanatsu Hiiragisuikou (scenic mix)
+[17:23:46] BCraftMG: i was scammed
+[17:23:50] BanchoBot: Dumb-Andy left the game.
+[17:24:12] BCraftMG: !mp settings
+[17:24:13] BanchoBot: Room name: STT: Qualifiers Lobby B5, History: https://osu.ppy.sh/mp/115035492
+[17:24:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/3765312 A.SAKA - Nanatsu Hiiragisuikou (scenic mix)
+[17:24:13] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:24:13] BanchoBot: Active mods: NoFail, Hidden
+[17:24:13] BanchoBot: Players: 1
+[17:24:13] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/10302933 bromothymolblue 
+[17:24:43] BanchoBot: All players are ready
+[17:24:44] BanchoBot: JGLF joined in slot 1.
+[17:24:46] BanchoBot: All players are ready
+[17:24:48] BCraftMG: !mp settings
+[17:24:49] BanchoBot: Room name: STT: Qualifiers Lobby B5, History: https://osu.ppy.sh/mp/115035492
+[17:24:49] BanchoBot: Beatmap: https://osu.ppy.sh/b/3765312 A.SAKA - Nanatsu Hiiragisuikou (scenic mix)
+[17:24:49] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:24:49] BanchoBot: Active mods: NoFail, Hidden
+[17:24:49] BanchoBot: Players: 2
+[17:24:49] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10665363 JGLF            
+[17:24:49] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10302933 bromothymolblue 
+[17:24:50] BCraftMG: !mp start 5 glhf
+[17:24:50] BanchoBot: Match starts in 5 seconds
+[17:24:50] BanchoBot: Queued the match to start in 5 seconds
+[17:24:51] BanchoBot: Match starts in 4 seconds
+[17:24:52] BanchoBot: Match starts in 3 seconds
+[17:24:53] BanchoBot: Good luck, have fun!
+[17:24:54] JGLF: jglf
+[17:24:55] BanchoBot: The match has started!
+[17:27:00] BanchoBot: bromothymolblue finished playing (Score: 331186, PASSED).
+[17:27:01] BanchoBot: JGLF finished playing (Score: 363873, PASSED).
+[17:27:01] BanchoBot: The match has finished!
+[17:27:10] BanchoBot: JGLF left the game.
+[17:27:12] BanchoBot: Dumb-Andy joined in slot 1.
+[17:27:14] BCraftMG: !mp map 2534559
+[17:27:15] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2534559 Camellia - FLYING OUT TO THE SKY (covered by Nanahira, moimoi, Nana Takahashi)
+[17:27:16] BCraftMG: !mp mods 16
+[17:27:18] BanchoBot: Enabled HardRock, disabled FreeMod
+[17:27:18] BCraftMG: !mp mods 17
+[17:27:20] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[17:27:34] BanchoBot: All players are ready
+[17:27:41] BanchoBot: All players are ready
+[17:27:51] BCraftMG: !mp settings
+[17:27:52] BanchoBot: Room name: STT: Qualifiers Lobby B5, History: https://osu.ppy.sh/mp/115035492
+[17:27:52] BanchoBot: Beatmap: https://osu.ppy.sh/b/2534559 Camellia - FLYING OUT TO THE SKY (covered by Nanahira, moimoi, Nana Takahashi)
+[17:27:52] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:27:52] BanchoBot: Active mods: NoFail, HardRock
+[17:27:52] BanchoBot: Players: 2
+[17:27:52] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/20963631 Dumb-Andy       
+[17:27:52] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10302933 bromothymolblue 
+[17:27:53] BCraftMG: !mp start 5 glhf
+[17:27:53] BanchoBot: Match starts in 5 seconds
+[17:27:53] BanchoBot: Queued the match to start in 5 seconds
+[17:27:55] BanchoBot: Match starts in 4 seconds
+[17:27:55] BanchoBot: Match starts in 3 seconds
+[17:27:56] BanchoBot: Good luck, have fun!
+[17:27:58] BanchoBot: The match has started!
+[17:28:04] Dumb-Andy: glhf
+[17:32:33] BanchoBot: Dumb-Andy finished playing (Score: 608043, PASSED).
+[17:32:33] BanchoBot: bromothymolblue finished playing (Score: 481362, PASSED).
+[17:32:33] BanchoBot: The match has finished!
+[17:32:41] BCraftMG: !mp map 4723947
+[17:32:42] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4723947 paranoid void - Foamy Sky, Eternal City
+[17:33:15] Dumb-Andy: !roll 1000
+[17:33:15] BanchoBot: Dumb-Andy rolls 479 point(s)
+[17:33:20] Dumb-Andy: can we end this
+[17:33:26] Dumb-Andy: pool too long
+[17:33:29] BanchoBot: All players are ready
+[17:33:31] BCraftMG: !mp settings
+[17:33:32] BanchoBot: Room name: STT: Qualifiers Lobby B5, History: https://osu.ppy.sh/mp/115035492
+[17:33:32] BanchoBot: Beatmap: https://osu.ppy.sh/b/4723947 paranoid void - Foamy Sky, Eternal City
+[17:33:32] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:33:32] BanchoBot: Active mods: NoFail, HardRock
+[17:33:32] BanchoBot: Players: 2
+[17:33:32] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/20963631 Dumb-Andy       
+[17:33:32] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10302933 bromothymolblue 
+[17:33:33] BCraftMG: !mp start 5 glhf
+[17:33:34] bromothymolblue: LOL
+[17:33:34] BanchoBot: Match starts in 5 seconds
+[17:33:34] BanchoBot: Queued the match to start in 5 seconds
+[17:33:35] BanchoBot: Match starts in 4 seconds
+[17:33:36] BanchoBot: Match starts in 3 seconds
+[17:33:37] BanchoBot: Good luck, have fun!
+[17:33:39] BanchoBot: The match has started!
+[17:37:01] BanchoBot: bromothymolblue finished playing (Score: 433607, PASSED).
+[17:37:01] BanchoBot: Dumb-Andy finished playing (Score: 565324, PASSED).
+[17:37:01] BanchoBot: The match has finished!
+[17:37:08] Dumb-Andy: wow i really cant fc anything
+[17:37:15] BCraftMG: !mp map 2097324
+[17:37:16] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2097324 lapix - Kill The Beat
+[17:37:17] BCraftMG: !mp mods 65
+[17:37:18] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[17:37:19] BanchoBot: JGLF joined in slot 3.
+[17:37:24] BanchoBot: JGLF left the game.
+[17:37:25] BanchoBot: bromothymolblue left the game.
+[17:37:27] BanchoBot: JGLF joined in slot 2.
+[17:37:28] BanchoBot: JGLF moved to slot 5
+[17:37:43] Dumb-Andy: !roll 1000
+[17:37:43] BanchoBot: Dumb-Andy rolls 120 point(s)
+[17:37:57] BanchoBot: bromothymolblue joined in slot 2.
+[17:38:03] BanchoBot: JGLF left the game.
+[17:38:06] BanchoBot: All players are ready
+[17:38:09] BCraftMG: !mp settings
+[17:38:10] BanchoBot: Room name: STT: Qualifiers Lobby B5, History: https://osu.ppy.sh/mp/115035492
+[17:38:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/2097324 lapix - Kill The Beat
+[17:38:10] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:38:10] BanchoBot: Active mods: NoFail, DoubleTime
+[17:38:10] BanchoBot: Players: 2
+[17:38:10] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/20963631 Dumb-Andy       
+[17:38:10] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10302933 bromothymolblue 
+[17:38:11] BCraftMG: !mp start 5 glhf
+[17:38:11] BanchoBot: Match starts in 5 seconds
+[17:38:11] BanchoBot: Queued the match to start in 5 seconds
+[17:38:13] Dumb-Andy: why is it 1 minute
+[17:38:13] BanchoBot: Match starts in 4 seconds
+[17:38:14] BanchoBot: Match starts in 3 seconds
+[17:38:15] BanchoBot: Good luck, have fun!
+[17:38:17] BanchoBot: The match has started!
+[17:39:26] BanchoBot: Dumb-Andy finished playing (Score: 749858, PASSED).
+[17:39:26] BanchoBot: bromothymolblue finished playing (Score: 243877, PASSED).
+[17:39:26] BanchoBot: The match has finished!
+[17:39:32] Dumb-Andy: it really isnt let me fc anythuing
+[17:39:38] BCraftMG: !mp map 3611592
+[17:39:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3611592 tapimiru - Motenai Kuse ni ( ' ; w ; ' )
+[17:39:51] Dumb-Andy: do not look at sr
+[17:39:59] BanchoBot: JGLF joined in slot 3.
+[17:40:02] BanchoBot: Dumb-Andy left the game.
+[17:40:08] BanchoBot: JGLF moved to slot 1
+[17:41:03] BanchoBot: All players are ready
+[17:41:11] JGLF: jglf
+[17:41:12] BCraftMG: !mp settings
+[17:41:13] BanchoBot: Room name: STT: Qualifiers Lobby B5, History: https://osu.ppy.sh/mp/115035492
+[17:41:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/3611592 tapimiru - Motenai Kuse ni ( ' ; w ; ' )
+[17:41:13] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:41:13] BanchoBot: Active mods: NoFail, DoubleTime
+[17:41:13] BanchoBot: Players: 2
+[17:41:13] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10665363 JGLF            
+[17:41:13] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10302933 bromothymolblue 
+[17:41:14] BCraftMG: !mp start 5 glhf
+[17:41:14] BanchoBot: Match starts in 5 seconds
+[17:41:14] BanchoBot: Queued the match to start in 5 seconds
+[17:41:15] bromothymolblue: JGLF
+[17:41:15] BanchoBot: Match starts in 4 seconds
+[17:41:16] BanchoBot: Match starts in 3 seconds
+[17:41:17] BanchoBot: Good luck, have fun!
+[17:41:19] BanchoBot: The match has started!
+[17:44:03] BanchoBot: JGLF finished playing (Score: 237783, PASSED).
+[17:44:03] BanchoBot: bromothymolblue finished playing (Score: 178163, PASSED).
+[17:44:03] BanchoBot: The match has finished!
+[17:44:08] BCraftMG: !mp map 2709018
+[17:44:08] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2709018 BAND-MAID - Spirit!!
+[17:44:10] BanchoBot: Dumb-Andy joined in slot 3.
+[17:44:11] BCraftMG: !mp mods ez nf
+[17:44:13] Dumb-Andy: stealing link
+[17:44:13] BanchoBot: Enabled NoFail, Easy, disabled FreeMod
+[17:44:16] BanchoBot: Dumb-Andy left the game.
+[17:44:41] BanchoBot: All players are ready
+[17:44:50] BCraftMG: !mp settings
+[17:44:51] BanchoBot: Room name: STT: Qualifiers Lobby B5, History: https://osu.ppy.sh/mp/115035492
+[17:44:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/2709018 BAND-MAID - Spirit!!
+[17:44:51] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:44:51] BanchoBot: Active mods: NoFail, Easy
+[17:44:51] BanchoBot: Players: 2
+[17:44:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10665363 JGLF            
+[17:44:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10302933 bromothymolblue 
+[17:44:51] BCraftMG: !mp start 5 glhf
+[17:44:52] BanchoBot: Match starts in 5 seconds
+[17:44:52] BanchoBot: Queued the match to start in 5 seconds
+[17:44:53] BanchoBot: Match starts in 4 seconds
+[17:44:54] BanchoBot: Match starts in 3 seconds
+[17:44:55] BanchoBot: Good luck, have fun!
+[17:44:57] BanchoBot: The match has started!
+[17:48:42] BanchoBot: bromothymolblue finished playing (Score: 193461, PASSED).
+[17:48:43] BanchoBot: JGLF finished playing (Score: 232066, PASSED).
+[17:48:43] BanchoBot: The match has finished!
+[17:48:47] BCraftMG: !mp map 1532489
+[17:48:48] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1532489 Infected Mushroom - Spitfire
+[17:48:53] BanchoBot: JGLF left the game.
+[17:48:54] BanchoBot: bromothymolblue left the game.
+[17:48:58] BCraftMG: !mp mods nf ez dt
+[17:48:59] BanchoBot: Enabled NoFail, Easy, DoubleTime, disabled FreeMod
+[17:49:27] BanchoBot: JGLF joined in slot 1.
+[17:49:33] BanchoBot: bromothymolblue joined in slot 2.
+[17:49:42] BanchoBot: All players are ready
+[17:49:43] BCraftMG: !mp settings
+[17:49:44] BanchoBot: Room name: STT: Qualifiers Lobby B5, History: https://osu.ppy.sh/mp/115035492
+[17:49:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/1532489 Infected Mushroom - Spitfire
+[17:49:44] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:49:44] BanchoBot: Active mods: NoFail, Easy, DoubleTime
+[17:49:44] BanchoBot: Players: 2
+[17:49:44] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10665363 JGLF            
+[17:49:44] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10302933 bromothymolblue 
+[17:49:47] BCraftMG: !mp start 5 glhf
+[17:49:47] BanchoBot: Match starts in 5 seconds
+[17:49:47] BanchoBot: Queued the match to start in 5 seconds
+[17:49:48] BanchoBot: Match starts in 4 seconds
+[17:49:49] BanchoBot: Match starts in 3 seconds
+[17:49:51] BanchoBot: Good luck, have fun!
+[17:49:53] BanchoBot: The match has started!
+[17:54:33] BanchoBot: bromothymolblue finished playing (Score: 114448, PASSED).
+[17:54:34] BanchoBot: JGLF finished playing (Score: 185044, PASSED).
+[17:54:34] BanchoBot: The match has finished!
+[17:54:39] BCraftMG: !mp map 1128184
+[17:54:40] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1128184 Vicetone - Kaleidoscope
+[17:54:42] BCraftMG: !mp mods hr dt nf
+[17:54:43] BanchoBot: Enabled NoFail, HardRock, DoubleTime, disabled FreeMod
+[17:55:09] BanchoBot: All players are ready
+[17:55:11] BCraftMG: !mp settings
+[17:55:12] BanchoBot: Room name: STT: Qualifiers Lobby B5, History: https://osu.ppy.sh/mp/115035492
+[17:55:12] BanchoBot: Beatmap: https://osu.ppy.sh/b/1128184 Vicetone - Kaleidoscope
+[17:55:12] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:55:12] BanchoBot: Active mods: NoFail, HardRock, DoubleTime
+[17:55:12] BanchoBot: Players: 2
+[17:55:12] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10665363 JGLF            
+[17:55:12] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10302933 bromothymolblue 
+[17:55:14] BCraftMG: !mp start 5 glhf
+[17:55:15] BanchoBot: Match starts in 5 seconds
+[17:55:15] BanchoBot: Queued the match to start in 5 seconds
+[17:55:16] BanchoBot: Match starts in 4 seconds
+[17:55:18] BanchoBot: Match starts in 3 seconds
+[17:55:19] BanchoBot: Good luck, have fun!
+[17:55:21] BanchoBot: The match has started!
+[17:56:37] BanchoBot: JGLF finished playing (Score: 641622, PASSED).
+[17:56:38] BanchoBot: bromothymolblue finished playing (Score: 1164997, PASSED).
+[17:56:38] BanchoBot: The match has finished!
+[17:56:47] JGLF: thanks for ref
+[17:56:50] bromothymolblue: thanks for ref!
+[17:57:01] BCraftMG: :3c
+[17:57:05] BCraftMG: ggwp
+[17:57:06] BanchoBot: bromothymolblue left the game.
+[17:57:08] BanchoBot: JGLF left the game.
+[17:58:00] BCraftMG: !mp close
+[17:58:00] BanchoBot: Closed the match

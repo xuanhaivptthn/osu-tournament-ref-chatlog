@@ -1,0 +1,368 @@
+[21:56:33] Joined #mp_108718150
+[21:56:33] BCraftMG: !mp settings
+[21:56:35] BanchoBot: Room name: PTSP: (Qualifiers) vs (EX10), History: https://osu.ppy.sh/mp/108718150
+[21:56:35] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[21:56:35] BanchoBot: Players: 0
+[21:56:44] BCraftMG: !mp invite Icun
+[21:56:44] BanchoBot: User not found
+[21:56:48] BCraftMG: !mp set 0 3 8
+[21:56:49] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[21:57:34] BCraftMG: !mp invite Icun
+[21:57:35] BanchoBot: User not found
+[21:58:51] BCraftMG: !mp invite Icun
+[21:58:51] BanchoBot: User not found
+[22:00:02] BCraftMG: !mp invite Icun
+[22:00:03] BanchoBot: Invited Icun to the room
+[22:00:11] BCraftMG: !mp map 1985106
+[22:00:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1985106 BLUE ENCOUNT - FREEDOM
+[22:00:12] BCraftMG: !mp mods 1
+[22:00:12] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:00:15] BanchoBot: Icun joined in slot 1.
+[22:00:29] BanchoBot: lucidators joined in slot 2.
+[22:01:57] BanchoBot: All players are ready
+[22:02:00] BCraftMG: !mp settings
+[22:02:02] BanchoBot: Room name: PTSP: (Qualifiers) vs (EX10), History: https://osu.ppy.sh/mp/108718150
+[22:02:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/1985106 BLUE ENCOUNT - FREEDOM
+[22:02:02] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:02:02] BanchoBot: Active mods: NoFail
+[22:02:02] BanchoBot: Players: 2
+[22:02:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17908427 Icun            
+[22:02:02] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10154981 lucidators      
+[22:02:03] BCraftMG: !mp start 5 glhf
+[22:02:04] BanchoBot: Match starts in 5 seconds
+[22:02:04] BanchoBot: Queued the match to start in 5 seconds
+[22:02:05] BanchoBot: Match starts in 4 seconds
+[22:02:06] BanchoBot: Match starts in 3 seconds
+[22:02:07] BanchoBot: Good luck, have fun!
+[22:02:10] BanchoBot: The match has started!
+[22:02:25] Icun: ahh abort
+[22:02:33] Icun: my kb wasnt plugged in
+[22:02:37] Icun: bcraftmg
+[22:02:45] BCraftMG: !mp abort
+[22:02:46] BanchoBot: Aborted the match
+[22:02:50] BCraftMG: !mp settings
+[22:02:51] BanchoBot: Room name: PTSP: (Qualifiers) vs (EX10), History: https://osu.ppy.sh/mp/108718150
+[22:02:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/1985106 BLUE ENCOUNT - FREEDOM
+[22:02:51] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:02:51] BanchoBot: Active mods: NoFail
+[22:02:51] BanchoBot: Players: 2
+[22:02:51] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/17908427 Icun            
+[22:02:51] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/10154981 lucidators      
+[22:02:59] Icun: ok were good now
+[22:03:04] BanchoBot: All players are ready
+[22:03:05] BCraftMG: !mp settings
+[22:03:06] BanchoBot: Room name: PTSP: (Qualifiers) vs (EX10), History: https://osu.ppy.sh/mp/108718150
+[22:03:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/1985106 BLUE ENCOUNT - FREEDOM
+[22:03:06] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:03:06] BanchoBot: Active mods: NoFail
+[22:03:06] BanchoBot: Players: 2
+[22:03:06] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17908427 Icun            
+[22:03:06] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10154981 lucidators      
+[22:03:06] BCraftMG: !mp start 5 glhf
+[22:03:07] BanchoBot: Match starts in 5 seconds
+[22:03:07] BanchoBot: Queued the match to start in 5 seconds
+[22:03:08] BanchoBot: Match starts in 4 seconds
+[22:03:10] BanchoBot: Match starts in 3 seconds
+[22:03:11] BanchoBot: Good luck, have fun!
+[22:03:13] BanchoBot: The match has started!
+[22:07:19] BanchoBot: Icun finished playing (Score: 332124, PASSED).
+[22:07:19] BanchoBot: lucidators finished playing (Score: 466312, PASSED).
+[22:07:19] BanchoBot: The match has finished!
+[22:07:23] BCraftMG: !mp map 3944144
+[22:07:25] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3944144 Sabaton - Twilight of the Thunder God
+[22:07:56] BanchoBot: lucidators left the game.
+[22:08:27] BanchoBot: kilgo joined in slot 2.
+[22:08:34] BanchoBot: All players are ready
+[22:08:36] BCraftMG: !mp settings
+[22:08:37] BanchoBot: Room name: PTSP: (Qualifiers) vs (EX10), History: https://osu.ppy.sh/mp/108718150
+[22:08:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/3944144 Sabaton - Twilight of the Thunder God
+[22:08:37] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:08:37] BanchoBot: Active mods: NoFail
+[22:08:37] BanchoBot: Players: 2
+[22:08:37] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17908427 Icun            
+[22:08:37] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9692053 kilgo           
+[22:08:37] BCraftMG: !mp start 5 glhf
+[22:08:38] BanchoBot: Match starts in 5 seconds
+[22:08:38] BanchoBot: Queued the match to start in 5 seconds
+[22:08:39] BanchoBot: Match starts in 4 seconds
+[22:08:40] BanchoBot: Match starts in 3 seconds
+[22:08:41] BanchoBot: Good luck, have fun!
+[22:08:44] BanchoBot: The match has started!
+[22:12:21] BanchoBot: Icun finished playing (Score: 532986, PASSED).
+[22:12:22] BanchoBot: kilgo finished playing (Score: 132696, PASSED).
+[22:12:22] BanchoBot: The match has finished!
+[22:12:52] BCraftMG: !mp map 3323779
+[22:12:53] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3323779 Yonekura Chihiro - DEAR MY WAKER
+[22:13:03] BanchoBot: All players are ready
+[22:13:06] BCraftMG: !mp settings
+[22:13:07] BanchoBot: Room name: PTSP: (Qualifiers) vs (EX10), History: https://osu.ppy.sh/mp/108718150
+[22:13:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/3323779 Yonekura Chihiro - DEAR MY WAKER
+[22:13:07] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:13:07] BanchoBot: Active mods: NoFail
+[22:13:07] BanchoBot: Players: 2
+[22:13:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17908427 Icun            
+[22:13:07] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9692053 kilgo           
+[22:13:07] BCraftMG: !mp start 5 glhf
+[22:13:08] BanchoBot: Match starts in 5 seconds
+[22:13:08] BanchoBot: Queued the match to start in 5 seconds
+[22:13:09] BanchoBot: Match starts in 4 seconds
+[22:13:10] BanchoBot: Match starts in 3 seconds
+[22:13:11] BanchoBot: Good luck, have fun!
+[22:13:14] BanchoBot: The match has started!
+[22:17:23] BanchoBot: Icun finished playing (Score: 209215, PASSED).
+[22:17:25] BanchoBot: kilgo finished playing (Score: 100821, PASSED).
+[22:17:25] BanchoBot: The match has finished!
+[22:17:44] BCraftMG: !mp map 3695129
+[22:17:44] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3695129 MYUKKE. - NO ONE YES MAN
+[22:17:46] BanchoBot: kilgo left the game.
+[22:17:49] BanchoBot: lucidators joined in slot 2.
+[22:18:07] BanchoBot: All players are ready
+[22:18:15] BCraftMG: !mp settings
+[22:18:15] BanchoBot: Room name: PTSP: (Qualifiers) vs (EX10), History: https://osu.ppy.sh/mp/108718150
+[22:18:15] BanchoBot: Beatmap: https://osu.ppy.sh/b/3695129 MYUKKE. - NO ONE YES MAN
+[22:18:15] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:18:15] BanchoBot: Active mods: NoFail
+[22:18:15] BanchoBot: Players: 2
+[22:18:15] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17908427 Icun            
+[22:18:15] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10154981 lucidators      
+[22:18:16] BCraftMG: !mp start 5 glhf
+[22:18:18] BanchoBot: Match starts in 5 seconds
+[22:18:18] BanchoBot: Queued the match to start in 5 seconds
+[22:18:19] BanchoBot: Match starts in 4 seconds
+[22:18:20] BanchoBot: Match starts in 3 seconds
+[22:18:21] BanchoBot: Good luck, have fun!
+[22:18:23] BanchoBot: The match has started!
+[22:20:33] BanchoBot: lucidators finished playing (Score: 283230, PASSED).
+[22:20:34] BanchoBot: Icun finished playing (Score: 437440, PASSED).
+[22:20:34] BanchoBot: The match has finished!
+[22:20:35] BCraftMG: !mp map 4140823
+[22:20:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4140823 Inoue Bona - Usouso Doki
+[22:20:37] BCraftMG: !mp mods 9
+[22:20:37] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[22:20:51] BanchoBot: Icun moved to slot 7
+[22:20:58] BanchoBot: Icun left the game.
+[22:21:02] BanchoBot: kilgo joined in slot 1.
+[22:21:11] BanchoBot: All players are ready
+[22:21:19] BCraftMG: !mp settings
+[22:21:19] BanchoBot: Room name: PTSP: (Qualifiers) vs (EX10), History: https://osu.ppy.sh/mp/108718150
+[22:21:19] BanchoBot: Beatmap: https://osu.ppy.sh/b/4140823 Inoue Bona - Usouso Doki
+[22:21:19] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:21:19] BanchoBot: Active mods: NoFail, Hidden
+[22:21:20] BanchoBot: Players: 2
+[22:21:20] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9692053 kilgo           
+[22:21:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10154981 lucidators      
+[22:21:20] BCraftMG: !mp start 5 glhf
+[22:21:22] BanchoBot: Match starts in 5 seconds
+[22:21:22] BanchoBot: Queued the match to start in 5 seconds
+[22:21:23] BanchoBot: Match starts in 4 seconds
+[22:21:24] BanchoBot: Match starts in 3 seconds
+[22:21:25] BanchoBot: Good luck, have fun!
+[22:21:27] BanchoBot: The match has started!
+[22:23:36] BanchoBot: kilgo finished playing (Score: 219106, PASSED).
+[22:23:37] BanchoBot: lucidators finished playing (Score: 116374, PASSED).
+[22:23:37] BanchoBot: The match has finished!
+[22:23:45] BCraftMG: !mp map 3264072
+[22:23:45] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3264072 Two Door Cinema Club - Cigarettes in the Theatre
+[22:23:48] BCraftMG: !mp mods 17
+[22:23:48] BanchoBot: kilgo left the game.
+[22:23:48] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[22:23:58] BanchoBot: Icun joined in slot 1.
+[22:24:28] BanchoBot: All players are ready
+[22:24:29] BCraftMG: !mp settings
+[22:24:31] BanchoBot: Room name: PTSP: (Qualifiers) vs (EX10), History: https://osu.ppy.sh/mp/108718150
+[22:24:31] BanchoBot: Beatmap: https://osu.ppy.sh/b/3264072 Two Door Cinema Club - Cigarettes in the Theatre
+[22:24:31] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:24:31] BanchoBot: Active mods: NoFail, HardRock
+[22:24:31] BanchoBot: Players: 2
+[22:24:31] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17908427 Icun            
+[22:24:31] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10154981 lucidators      
+[22:24:31] BCraftMG: !mp start 5 glhf
+[22:24:32] BanchoBot: Match starts in 5 seconds
+[22:24:32] BanchoBot: Queued the match to start in 5 seconds
+[22:24:33] BanchoBot: Match starts in 4 seconds
+[22:24:34] BanchoBot: Match starts in 3 seconds
+[22:24:35] BanchoBot: Good luck, have fun!
+[22:24:37] BanchoBot: The match has started!
+[22:28:04] BanchoBot: lucidators finished playing (Score: 116682, PASSED).
+[22:28:07] BanchoBot: Icun finished playing (Score: 139726, PASSED).
+[22:28:07] BanchoBot: The match has finished!
+[22:28:16] BCraftMG: !mp map 2292493
+[22:28:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2292493 Soken Masayoshi - Sunrise
+[22:28:18] BCraftMG: !mp mods 65
+[22:28:18] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[22:28:46] Icun is listening to [https://osu.ppy.sh/beatmapsets/1097108#/2292493 Soken Masayoshi - Sunrise]
+[22:28:51] Icun: https://api.nerinyan.moe/d/1097108?nv=1
+[22:29:39] BanchoBot: All players are ready
+[22:29:42] BCraftMG: !mp settings
+[22:29:44] BanchoBot: Room name: PTSP: (Qualifiers) vs (EX10), History: https://osu.ppy.sh/mp/108718150
+[22:29:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/2292493 Soken Masayoshi - Sunrise
+[22:29:44] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:29:44] BanchoBot: Active mods: NoFail, DoubleTime
+[22:29:44] BanchoBot: Players: 2
+[22:29:44] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17908427 Icun            
+[22:29:44] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10154981 lucidators      
+[22:29:45] BCraftMG: !mp start 5 glhf
+[22:29:46] BanchoBot: Match starts in 5 seconds
+[22:29:46] BanchoBot: Queued the match to start in 5 seconds
+[22:29:47] BanchoBot: Match starts in 4 seconds
+[22:29:48] BanchoBot: Match starts in 3 seconds
+[22:29:50] BanchoBot: Good luck, have fun!
+[22:29:51] Icun: ty
+[22:29:52] BanchoBot: The match has started!
+[22:30:00] BCraftMG: dw
+[22:33:00] BanchoBot: lucidators finished playing (Score: 64861, PASSED).
+[22:33:01] BanchoBot: Icun finished playing (Score: 100999, PASSED).
+[22:33:01] BanchoBot: The match has finished!
+[22:33:15] BCraftMG: !mp map 3363306
+[22:33:15] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3363306 Fred V - Already Disappeared
+[22:33:22] BanchoBot: All players are ready
+[22:33:37] BCraftMG: id like to remind that Each player per team must play at least 5 maps
+[22:33:37] BCraftMG: !mp settings
+[22:33:39] BCraftMG: !mp start 5 glhf
+[22:33:39] BanchoBot: Room name: PTSP: (Qualifiers) vs (EX10), History: https://osu.ppy.sh/mp/108718150
+[22:33:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/3363306 Fred V - Already Disappeared
+[22:33:39] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:33:39] BanchoBot: Active mods: NoFail, DoubleTime
+[22:33:39] BanchoBot: Players: 2
+[22:33:39] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17908427 Icun            
+[22:33:39] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10154981 lucidators      
+[22:33:40] BanchoBot: Match starts in 5 seconds
+[22:33:40] BanchoBot: Queued the match to start in 5 seconds
+[22:33:41] BanchoBot: Match starts in 4 seconds
+[22:33:42] BanchoBot: Match starts in 3 seconds
+[22:33:44] BanchoBot: Good luck, have fun!
+[22:33:46] BanchoBot: The match has started!
+[22:33:47] Icun: yeah
+[22:36:25] BanchoBot: lucidators finished playing (Score: 190947, PASSED).
+[22:36:26] BanchoBot: Icun finished playing (Score: 236568, PASSED).
+[22:36:26] BanchoBot: The match has finished!
+[22:36:35] BCraftMG: !mp map 2069969
+[22:36:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2069969 Enter Shikari - Rat Race
+[22:36:38] BCraftMG: !mp mods Freemod
+[22:36:39] BanchoBot: Disabled all mods, enabled FreeMod
+[22:36:56] BCraftMG: !mp map 4082592 0
+[22:36:57] Icun: whats the fm rule again?
+[22:36:57] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4082592 BlackY feat. Risa Yuzuki - Tadashisa ni Michizure
+[22:36:57] BanchoBot: Changed match mode to Osu
+[22:37:00] BCraftMG: oops
+[22:37:03] Icun: mod combination
+[22:37:08] BCraftMG: !mp map 2069969
+[22:37:09] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2069969 Enter Shikari - Rat Race
+[22:37:21] BCraftMG: "Freemod rules (Qualifiers) At least 1 mod per map, NF: .6x,  SD: 1.16x if Pass, 0.4x if Fail,  1.3x if SS, EZ: 1.85x.  "
+[22:38:03] Icun: can we double hd?
+[22:38:10] BCraftMG: yes
+[22:38:16] BanchoBot: All players are ready
+[22:38:17] BCraftMG: !mp settings
+[22:38:18] BanchoBot: Room name: PTSP: (Qualifiers) vs (EX10), History: https://osu.ppy.sh/mp/108718150
+[22:38:18] BanchoBot: Beatmap: https://osu.ppy.sh/b/2069969 Enter Shikari - Rat Race
+[22:38:18] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:38:18] BanchoBot: Active mods: Freemod
+[22:38:18] BanchoBot: Players: 2
+[22:38:18] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17908427 Icun            [NoFail, Hidden]
+[22:38:18] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10154981 lucidators      [NoFail, Hidden]
+[22:38:19] BCraftMG: !mp start 5 glhf
+[22:38:20] BanchoBot: Match starts in 5 seconds
+[22:38:20] BanchoBot: Queued the match to start in 5 seconds
+[22:38:21] BanchoBot: Match starts in 4 seconds
+[22:38:22] BanchoBot: Match starts in 3 seconds
+[22:38:23] BanchoBot: Good luck, have fun!
+[22:38:25] BanchoBot: The match has started!
+[22:41:51] BanchoBot: Icun finished playing (Score: 867616, PASSED).
+[22:41:51] BanchoBot: lucidators finished playing (Score: 691794, PASSED).
+[22:41:51] BanchoBot: The match has finished!
+[22:41:54] BCraftMG: !mp map 905724
+[22:41:54] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/905724 senya - Kimiiro Subliminal
+[22:42:05] BanchoBot: lucidators left the game.
+[22:42:10] BanchoBot: kilgo joined in slot 2.
+[22:42:41] BanchoBot: All players are ready
+[22:42:47] BCraftMG: !mp settings
+[22:42:48] BanchoBot: Room name: PTSP: (Qualifiers) vs (EX10), History: https://osu.ppy.sh/mp/108718150
+[22:42:48] BanchoBot: Beatmap: https://osu.ppy.sh/b/905724 senya - Kimiiro Subliminal
+[22:42:48] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:42:48] BanchoBot: Active mods: Freemod
+[22:42:48] BanchoBot: Players: 2
+[22:42:48] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17908427 Icun            [NoFail, Hidden]
+[22:42:48] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9692053 kilgo           [NoFail, Hidden]
+[22:42:51] BCraftMG: !mp start 5 glhf
+[22:42:52] BanchoBot: Match starts in 5 seconds
+[22:42:52] BanchoBot: Queued the match to start in 5 seconds
+[22:42:53] BanchoBot: Match starts in 4 seconds
+[22:42:54] BanchoBot: Match starts in 3 seconds
+[22:42:55] BanchoBot: Good luck, have fun!
+[22:42:57] BanchoBot: The match has started!
+[22:46:17] BCraftMG: !mp map 2415770
+[22:46:18] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2415770 Hino Isuka - Moonheart (Mameyudoufu Remix)
+[22:46:19] BCraftMG: !mp mods EZ NF
+[22:46:20] BanchoBot: Enabled NoFail, Easy, disabled FreeMod
+[22:46:54] BCraftMG: uhhh
+[22:47:01] BCraftMG: kilgo currently has 3 plays
+[22:47:07] BanchoBot: Icun finished playing (Score: 232980, PASSED).
+[22:47:09] BanchoBot: kilgo finished playing (Score: 288793, PASSED).
+[22:47:09] BanchoBot: The match has finished!
+[22:47:14] BCraftMG: ok now 4
+[22:47:14] kilgo: okay
+[22:47:18] BCraftMG: !mp map 2415770
+[22:47:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2415770 Hino Isuka - Moonheart (Mameyudoufu Remix)
+[22:47:25] BCraftMG: !mp mods NF EZ
+[22:47:26] BanchoBot: Enabled NoFail, Easy, disabled FreeMod
+[22:47:44] kilgo: how many plays does lucidator have?
+[22:48:08] BCraftMG: 7
+[22:48:10] BanchoBot: All players are ready
+[22:48:17] kilgo: okay thanks
+[22:48:22] BCraftMG: !mp settings
+[22:48:23] BanchoBot: Room name: PTSP: (Qualifiers) vs (EX10), History: https://osu.ppy.sh/mp/108718150
+[22:48:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/2415770 Hino Isuka - Moonheart (Mameyudoufu Remix)
+[22:48:23] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:48:23] BanchoBot: Active mods: NoFail, Easy
+[22:48:23] BanchoBot: Players: 2
+[22:48:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17908427 Icun            
+[22:48:23] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9692053 kilgo           
+[22:48:24] BCraftMG: !mp start 5 glhf
+[22:48:25] BanchoBot: Match starts in 5 seconds
+[22:48:25] BanchoBot: Queued the match to start in 5 seconds
+[22:48:26] BanchoBot: Match starts in 4 seconds
+[22:48:27] BanchoBot: Match starts in 3 seconds
+[22:48:28] BanchoBot: Good luck, have fun!
+[22:48:30] BanchoBot: The match has started!
+[22:51:26] BanchoBot: Icun finished playing (Score: 30138, PASSED).
+[22:51:27] BanchoBot: kilgo finished playing (Score: 182003, PASSED).
+[22:51:27] BanchoBot: The match has finished!
+[22:51:30] BCraftMG: !mp map 1618998
+[22:51:30] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1618998 dark cat - BUBBLE TEA (feat. juu & cinders)
+[22:51:32] BCraftMG: !mp mods FL NF
+[22:51:33] BanchoBot: Enabled NoFail, Flashlight, disabled FreeMod
+[22:51:56] BanchoBot: lucidators joined in slot 3.
+[22:52:07] BanchoBot: Icun left the game.
+[22:52:12] BanchoBot: Icun joined in slot 1.
+[22:52:18] BanchoBot: Icun left the game.
+[22:52:23] BanchoBot: All players are ready
+[22:52:24] BCraftMG: !mp settings
+[22:52:26] BanchoBot: Room name: PTSP: (Qualifiers) vs (EX10), History: https://osu.ppy.sh/mp/108718150
+[22:52:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/1618998 dark cat - BUBBLE TEA (feat. juu & cinders)
+[22:52:26] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:52:26] BanchoBot: Active mods: NoFail, Flashlight
+[22:52:26] BanchoBot: Players: 2
+[22:52:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9692053 kilgo           
+[22:52:26] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10154981 lucidators      
+[22:52:29] BCraftMG: !mp start 5 glhf
+[22:52:29] BanchoBot: Match starts in 5 seconds
+[22:52:29] BanchoBot: Queued the match to start in 5 seconds
+[22:52:30] BanchoBot: Match starts in 4 seconds
+[22:52:31] BanchoBot: Match starts in 3 seconds
+[22:52:32] BanchoBot: Good luck, have fun!
+[22:52:35] BanchoBot: The match has started!
+[22:55:04] BanchoBot: lucidators finished playing (Score: 65421, PASSED).
+[22:55:06] BanchoBot: kilgo finished playing (Score: 391524, PASSED).
+[22:55:06] BanchoBot: The match has finished!
+[22:55:19] BanchoBot: lucidators left the game.
+[22:55:27] kilgo: thanks for reffing <3
+[22:55:28] BanchoBot: kilgo left the game.
+[22:55:41] BCraftMG: o/
+[22:55:50] BCraftMG: !mp settings
+[22:55:51] BanchoBot: Room name: PTSP: (Qualifiers) vs (EX10), History: https://osu.ppy.sh/mp/108718150
+[22:55:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/1618998 dark cat - BUBBLE TEA (feat. juu & cinders)
+[22:55:51] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:55:51] BanchoBot: Active mods: NoFail, Flashlight
+[22:55:51] BanchoBot: Players: 0
+[22:55:54] BCraftMG: !mp close
+[22:55:55] BanchoBot: Closed the match

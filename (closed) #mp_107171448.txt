@@ -1,0 +1,264 @@
+[19:50:30] Joined #mp_107171448
+[19:50:30] BCraftMG: !mp settings
+[19:50:31] BanchoBot: Room name: RROH: (Asuka Sakairi) vs (Razomori), History: https://osu.ppy.sh/mp/107171448
+[19:50:31] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[19:50:31] BanchoBot: Players: 0
+[19:51:53] BCraftMG: !mp set 2 3 8
+[19:51:54] BanchoBot: Changed match settings to 8 slots, TeamVs, ScoreV2
+[19:55:29] BCraftMG: !mp invite #12092544
+[19:55:30] BanchoBot: Invited Asuka Sakairi to the room
+[19:55:32] BCraftMG: !mp invite #24978051
+[19:55:33] BanchoBot: Invited Razomori to the room
+[19:56:08] BanchoBot: Asuka Sakairi joined in slot 1 for team blue.
+[19:56:11] BanchoBot: Razomori joined in slot 2 for team red.
+[19:56:19] BCraftMG: o/
+[19:56:27] BCraftMG: 2 Người đổi team color nhé
+[19:56:31] BCraftMG: warm up?
+[19:56:45] BanchoBot: Asuka Sakairi changed to Red
+[19:56:51] Asuka_Sakairi: ye sure
+[19:57:03] BCraftMG: !mp host Asuka Sakairi
+[19:57:05] BanchoBot: Asuka Sakairi became the host.
+[19:57:05] BanchoBot: Changed match host to Asuka Sakairi
+[19:57:07] BanchoBot: Beatmap changed to: halca - Kokuhaku Bungee Jump [Flowziee's Hard] (https://osu.ppy.sh/b/2757829)
+[19:57:15] BanchoBot: Host is changing map...
+[19:57:21] Razomori: how can i change team color
+[19:57:35] Asuka_Sakairi: warmup map nao cung dc dung ko
+[19:58:06] BCraftMG: ko trong pool la dc
+[19:58:07] BanchoBot: Beatmap changed to: DJ Okawari - Flower Dance (Short Ver.) [Dance AR10] (https://osu.ppy.sh/b/580937)
+[19:58:11] BCraftMG: !Mp team Razomori blue
+[19:58:11] BanchoBot: Razomori changed to Blue
+[19:58:11] BanchoBot: Moved Razomori to team Blue
+[19:58:26] BanchoBot: Host is changing map...
+[19:58:27] BanchoBot: Beatmap changed to: DJ Okawari - Flower Dance (Short Ver.) [Dance AR9.5] (https://osu.ppy.sh/b/674350)
+[19:58:57] BanchoBot: All players are ready
+[19:59:04] Razomori: um sry
+[19:59:04] BanchoBot: The match has started!
+[20:00:23] BanchoBot: Razomori finished playing (Score: 96384, FAILED).
+[20:00:23] BanchoBot: Asuka Sakairi finished playing (Score: 189997, PASSED).
+[20:00:23] BanchoBot: The match has finished!
+[20:00:40] BanchoBot: Razomori became the host.
+[20:00:42] Razomori: im about to get destroyed
+[20:00:44] BanchoBot: Host is changing map...
+[20:00:54] Asuka_Sakairi: nah bro
+[20:00:55] Asuka_Sakairi: chill
+[20:01:12] BanchoBot: Beatmap changed to: supercell - Mr.Downer [Deception] (https://osu.ppy.sh/b/2078961)
+[20:01:22] BanchoBot: Host is changing map...
+[20:01:40] BanchoBot: Beatmap changed to: supercell - Mr.Downer [Deception] (https://osu.ppy.sh/b/2078961)
+[20:01:43] BanchoBot: All players are ready
+[20:01:44] BanchoBot: The match has started!
+[20:03:26] BanchoBot: Razomori finished playing (Score: 130592, FAILED).
+[20:03:26] BanchoBot: Asuka Sakairi finished playing (Score: 602398, PASSED).
+[20:03:26] BanchoBot: The match has finished!
+[20:03:45] Razomori: i think im ready
+[20:03:47] BCraftMG: woo
+[20:03:51] BCraftMG: !mp clearhost
+[20:03:52] BanchoBot: Cleared match host
+[20:03:53] BCraftMG: roll time
+[20:04:09] Razomori: !roll
+[20:04:09] BanchoBot: Razomori rolls 17 point(s)
+[20:04:14] Asuka_Sakairi: !roll
+[20:04:14] BanchoBot: Asuka Sakairi rolls 18 point(s)
+[20:04:17] BCraftMG: Winner chooses pick/ban first.
+[20:04:18] Asuka_Sakairi: lmao
+[20:04:19] BCraftMG: ok 1 point
+[20:04:21] Razomori: bruh
+[20:04:36] Asuka_Sakairi: first pick
+[20:04:56] BCraftMG: Razomori ban trc
+[20:04:58] BCraftMG: !mp timer 120
+[20:04:59] BanchoBot: Countdown ends in 2 minutes
+[20:05:13] Razomori: ban HD2
+[20:05:35] BCraftMG: Asuka ban
+[20:05:36] BCraftMG: !mp timer 120
+[20:05:37] BanchoBot: Countdown aborted
+[20:05:37] BanchoBot: Countdown ends in 2 minutes
+[20:05:40] Asuka_Sakairi: ban NM4
+[20:06:09] Asuka_Sakairi: pick NM3
+[20:06:10] BCraftMG: Asuka Sakairi | 0 - 0 | Razomori // Bo7 - First Pick: Asuka Sakairi
+[20:06:18] BCraftMG: !mp map 3479401 0
+[20:06:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3479401 Yorushika - Hirutonbi
+[20:06:19] BanchoBot: Changed match mode to Osu
+[20:06:20] BCraftMG: !mp mods 1
+[20:06:20] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:06:20] BCraftMG: !mp timer 120
+[20:06:21] BanchoBot: Countdown aborted
+[20:06:21] BanchoBot: Countdown ends in 2 minutes
+[20:06:26] Asuka_Sakairi: banger song
+[20:06:39] BanchoBot: All players are ready
+[20:07:22] BanchoBot: Countdown ends in 1 minute
+[20:07:52] BanchoBot: Countdown ends in 30 seconds
+[20:08:12] BanchoBot: Countdown ends in 10 seconds
+[20:08:17] BCraftMG: !mp settings
+[20:08:17] BanchoBot: Countdown ends in 5 seconds
+[20:08:19] BanchoBot: Countdown ends in 4 seconds
+[20:08:19] BanchoBot: Countdown ends in 3 seconds
+[20:08:19] BanchoBot: Room name: RROH: (Asuka Sakairi) vs (Razomori), History: https://osu.ppy.sh/mp/107171448
+[20:08:19] BanchoBot: Beatmap: https://osu.ppy.sh/b/3479401 Yorushika - Hirutonbi
+[20:08:19] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:08:19] BanchoBot: Active mods: NoFail
+[20:08:19] BanchoBot: Players: 2
+[20:08:19] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12092544 Asuka Sakairi   [Team Red ]
+[20:08:19] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/24978051 Razomori        [Team Blue]
+[20:08:19] BCraftMG: !mp start 5 glhf
+[20:08:20] BanchoBot: Countdown ends in 2 seconds
+[20:08:21] BanchoBot: Countdown ends in 1 second
+[20:08:21] BanchoBot: Countdown aborted
+[20:08:21] BanchoBot: Match starts in 5 seconds
+[20:08:21] BanchoBot: Queued the match to start in 5 seconds
+[20:08:23] BanchoBot: Match starts in 4 seconds
+[20:08:24] BanchoBot: Match starts in 3 seconds
+[20:08:25] BanchoBot: Good luck, have fun!
+[20:08:28] BanchoBot: The match has started!
+[20:11:16] BanchoBot: Razomori finished playing (Score: 311127, PASSED).
+[20:11:16] BanchoBot: Asuka Sakairi finished playing (Score: 703351, PASSED).
+[20:11:16] BanchoBot: The match has finished!
+[20:11:37] Razomori: iomor
+[20:11:37] BCraftMG: Asuka Sakairi | 1 - 0 | Razomori // Bo7 - Next Pick: Razomori
+[20:11:38] BCraftMG: !mp timer 120
+[20:11:39] BanchoBot: Countdown ends in 2 minutes
+[20:12:14] Razomori: HR2
+[20:12:23] BCraftMG: !mp map 195611 0
+[20:12:24] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/195611 Silver Forest - Tsundere Arisu no Yuuutsu
+[20:12:24] BanchoBot: Changed match mode to Osu
+[20:12:25] BCraftMG: !Mp mods 17
+[20:12:25] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[20:12:26] BCraftMG: !mp timer 120
+[20:12:26] BanchoBot: Countdown aborted
+[20:12:26] BanchoBot: Countdown ends in 2 minutes
+[20:12:37] BanchoBot: All players are ready
+[20:13:11] BCraftMG: !mp settings
+[20:13:12] BanchoBot: Room name: RROH: (Asuka Sakairi) vs (Razomori), History: https://osu.ppy.sh/mp/107171448
+[20:13:12] BanchoBot: Beatmap: https://osu.ppy.sh/b/195611 Silver Forest - Tsundere Arisu no Yuuutsu
+[20:13:12] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:13:12] BanchoBot: Active mods: NoFail, HardRock
+[20:13:12] BanchoBot: Players: 2
+[20:13:12] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12092544 Asuka Sakairi   [Team Red ]
+[20:13:12] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/24978051 Razomori        [Team Blue]
+[20:13:14] BCraftMG: !mp start 5 glhf
+[20:13:15] BanchoBot: Countdown aborted
+[20:13:15] BanchoBot: Match starts in 5 seconds
+[20:13:15] BanchoBot: Queued the match to start in 5 seconds
+[20:13:17] BanchoBot: Match starts in 4 seconds
+[20:13:18] BanchoBot: Match starts in 3 seconds
+[20:13:19] BanchoBot: Good luck, have fun!
+[20:13:20] BanchoBot: The match has started!
+[20:13:24] BanchoBot: Razomori left the game.
+[20:13:36] Asuka_Sakairi: wait whut
+[20:13:39] BCraftMG: !mp abort
+[20:13:41] BanchoBot: Aborted the match
+[20:14:00] BanchoBot: Razomori joined in slot 2 for team red.
+[20:14:10] Razomori: SRY
+[20:14:20] Razomori: i pressed the back button
+[20:14:27] BCraftMG: ready up xd
+[20:14:38] BanchoBot: All players are ready
+[20:14:45] BCraftMG: !mp settings
+[20:14:46] BanchoBot: Room name: RROH: (Asuka Sakairi) vs (Razomori), History: https://osu.ppy.sh/mp/107171448
+[20:14:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/195611 Silver Forest - Tsundere Arisu no Yuuutsu
+[20:14:46] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:14:46] BanchoBot: Active mods: NoFail, HardRock
+[20:14:46] BanchoBot: Players: 2
+[20:14:46] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/12092544 Asuka Sakairi   [Team Red ]
+[20:14:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/24978051 Razomori        [Team Red ]
+[20:14:47] Asuka_Sakairi: doi team di ong
+[20:14:56] BanchoBot: Razomori changed to Blue
+[20:14:56] BanchoBot: Razomori changed to Red
+[20:14:57] BanchoBot: Razomori changed to Blue
+[20:14:59] BanchoBot: All players are ready
+[20:15:21] BCraftMG: !mp settings
+[20:15:21] BanchoBot: Room name: RROH: (Asuka Sakairi) vs (Razomori), History: https://osu.ppy.sh/mp/107171448
+[20:15:21] BanchoBot: Beatmap: https://osu.ppy.sh/b/195611 Silver Forest - Tsundere Arisu no Yuuutsu
+[20:15:21] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:15:21] BanchoBot: Active mods: NoFail, HardRock
+[20:15:21] BanchoBot: Players: 2
+[20:15:21] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12092544 Asuka Sakairi   [Team Red ]
+[20:15:21] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/24978051 Razomori        [Team Blue]
+[20:15:22] BCraftMG: !mp start 5 glhf
+[20:15:24] BanchoBot: Match starts in 5 seconds
+[20:15:24] BanchoBot: Queued the match to start in 5 seconds
+[20:15:25] BanchoBot: Match starts in 4 seconds
+[20:15:26] BanchoBot: Match starts in 3 seconds
+[20:15:27] BanchoBot: Good luck, have fun!
+[20:15:30] BanchoBot: The match has started!
+[20:18:00] BanchoBot: Razomori finished playing (Score: 223612, PASSED).
+[20:18:01] BanchoBot: Asuka Sakairi finished playing (Score: 524755, PASSED).
+[20:18:01] BanchoBot: The match has finished!
+[20:18:17] BCraftMG: Asuka Sakairi | 2 - 0 | Razomori // Bo7 - Next Pick: Asuka Sakairi
+[20:18:19] Asuka_Sakairi: HD1
+[20:18:19] BCraftMG: !mp timer 120
+[20:18:20] BanchoBot: Countdown ends in 2 minutes
+[20:18:25] BCraftMG: !mp map 2393980 0
+[20:18:26] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2393980 TUYU - Kuraberarekko
+[20:18:26] BanchoBot: Changed match mode to Osu
+[20:18:27] BCraftMG: !mp mods 9
+[20:18:27] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[20:18:28] BCraftMG: !mp timer 120
+[20:18:29] BanchoBot: Countdown aborted
+[20:18:29] BanchoBot: Countdown ends in 2 minutes
+[20:18:37] Asuka_Sakairi: another banger song
+[20:18:50] BanchoBot: All players are ready
+[20:19:29] BanchoBot: Countdown ends in 1 minute
+[20:19:39] BCraftMG: !mp settings
+[20:19:41] BanchoBot: Room name: RROH: (Asuka Sakairi) vs (Razomori), History: https://osu.ppy.sh/mp/107171448
+[20:19:41] BanchoBot: Beatmap: https://osu.ppy.sh/b/2393980 TUYU - Kuraberarekko
+[20:19:41] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:19:41] BanchoBot: Active mods: NoFail, Hidden
+[20:19:41] BanchoBot: Players: 2
+[20:19:41] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12092544 Asuka Sakairi   [Team Red ]
+[20:19:41] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/24978051 Razomori        [Team Blue]
+[20:19:42] BCraftMG: !mp start 5 glhf
+[20:19:42] BanchoBot: Countdown aborted
+[20:19:42] BanchoBot: Match starts in 5 seconds
+[20:19:42] BanchoBot: Queued the match to start in 5 seconds
+[20:19:44] BanchoBot: Match starts in 4 seconds
+[20:19:45] BanchoBot: Match starts in 3 seconds
+[20:19:46] BanchoBot: Good luck, have fun!
+[20:19:47] BanchoBot: The match has started!
+[20:23:29] BanchoBot: Razomori finished playing (Score: 450897, PASSED).
+[20:23:30] BanchoBot: Asuka Sakairi finished playing (Score: 591257, PASSED).
+[20:23:30] BanchoBot: The match has finished!
+[20:23:44] BCraftMG: Asuka Sakairi | 3 - 0 | Razomori // Bo7 - Next Pick: Razomori
+[20:23:44] BCraftMG: !mp timer 120
+[20:23:45] BanchoBot: Countdown ends in 2 minutes
+[20:23:53] Razomori: NM2
+[20:24:21] BCraftMG: !mp map 3298983 0
+[20:24:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3298983 Giga x TENKOMORI - Netoge Haijin Sprechchor (Cut Ver.)
+[20:24:21] BanchoBot: Changed match mode to Osu
+[20:24:22] BCraftMG: !mp mods 1
+[20:24:23] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:24:23] BCraftMG: !mp timer 120
+[20:24:24] BanchoBot: Countdown aborted
+[20:24:24] BanchoBot: Countdown ends in 2 minutes
+[20:24:35] BanchoBot: All players are ready
+[20:24:38] BCraftMG: !mp settings
+[20:24:39] BanchoBot: Room name: RROH: (Asuka Sakairi) vs (Razomori), History: https://osu.ppy.sh/mp/107171448
+[20:24:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/3298983 Giga x TENKOMORI - Netoge Haijin Sprechchor (Cut Ver.)
+[20:24:39] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:24:39] BanchoBot: Active mods: NoFail
+[20:24:39] BanchoBot: Players: 2
+[20:24:39] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12092544 Asuka Sakairi   [Team Red ]
+[20:24:39] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/24978051 Razomori        [Team Blue]
+[20:24:40] BCraftMG: !mp start 5 glhf
+[20:24:40] BanchoBot: Countdown aborted
+[20:24:40] BanchoBot: Match starts in 5 seconds
+[20:24:40] BanchoBot: Queued the match to start in 5 seconds
+[20:24:42] BanchoBot: Match starts in 4 seconds
+[20:24:43] BanchoBot: Match starts in 3 seconds
+[20:24:44] BanchoBot: Good luck, have fun!
+[20:24:46] BanchoBot: The match has started!
+[20:27:38] BanchoBot: Razomori finished playing (Score: 480282, PASSED).
+[20:27:40] BanchoBot: Asuka Sakairi finished playing (Score: 529858, PASSED).
+[20:27:40] BanchoBot: The match has finished!
+[20:27:54] BCraftMG: Asuka Sakairi | 4 - 0 | Razomori // Asuka Sakairi wins! GGWP
+[20:28:01] Razomori: dam gg
+[20:28:02] Asuka_Sakairi: ggs
+[20:28:27] Razomori: thanks for the match
+[20:28:39] Asuka_Sakairi: ko co gi ong
+[20:28:47] Asuka_Sakairi: good luck match tiep theo nha
+[20:29:00] Razomori: cam on ong
+[20:29:18] BCraftMG: 2 ng co the roi lobby roi
+[20:29:19] Asuka_Sakairi: thanks 4 ref
+[20:29:23] Asuka_Sakairi: 0/
+[20:29:28] BanchoBot: Asuka Sakairi left the game.
+[20:29:29] Razomori: o/
+[20:29:29] BanchoBot: Razomori left the game.
+[20:29:37] BCraftMG: !mp close
+[20:29:38] BanchoBot: Closed the match

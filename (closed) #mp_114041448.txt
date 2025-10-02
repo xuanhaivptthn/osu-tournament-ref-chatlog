@@ -1,0 +1,511 @@
+[23:52:32] Joined #mp_114041448
+[23:52:32] BCraftMG: !mp settings
+[23:52:33] BanchoBot: Room name: YAP: Qualifiers Lobby B11, History: https://osu.ppy.sh/mp/114041448
+[23:52:33] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[23:52:33] BanchoBot: Players: 0
+[23:52:57] BCraftMG: !mp set 0 3 8
+[23:52:58] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[23:53:03] BCraftMG: !mp map 3205642
+[23:53:04] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3205642 BUD VIRGIN LOGIC - x Senritsu -Schlehit Melodie-
+[23:53:05] BCraftMG: !mp mods 1
+[23:53:05] BanchoBot: Enabled NoFail, disabled FreeMod
+[23:53:11] BCraftMG: !mp invite #14272234
+[23:53:12] BanchoBot: Invited Hide in closet to the room
+[23:53:13] BCraftMG: !mp invite #10941055
+[23:53:13] BanchoBot: Invited Suchodolsky to the room
+[23:53:14] BCraftMG: !mp invite #12115298
+[23:53:15] BanchoBot: User not found
+[23:54:18] BanchoBot: Suchodolsky joined in slot 1.
+[23:54:31] BanchoBot: Suchodolsky left the game.
+[23:55:30] BCraftMG: !mp invite #11129034
+[23:55:31] BanchoBot: Invited Spektre to the room
+[23:55:32] BCraftMG: !mp invite #10903510
+[23:55:33] BanchoBot: Invited trumpatino69 to the room
+[23:56:19] BanchoBot: Spektre joined in slot 1.
+[23:57:36] BanchoBot: Suchodolsky joined in slot 2.
+[23:59:18] BanchoBot: trumpatino69 joined in slot 3.
+[23:59:23] BanchoBot: Hide in closet joined in slot 4.
+[23:59:24] BanchoBot: teffek joined in slot 5.
+[23:59:28] Hide_in_closet: o/
+[23:59:31] BanchoBot: Hide in closet moved to slot 8
+[23:59:33] trumpatino69: o/
+[23:59:45] BCraftMG: !mp settings
+[23:59:47] BanchoBot: Room name: YAP: Qualifiers Lobby B11, History: https://osu.ppy.sh/mp/114041448
+[23:59:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/3205642 BUD VIRGIN LOGIC - x Senritsu -Schlehit Melodie-
+[23:59:47] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:59:47] BanchoBot: Active mods: NoFail
+[23:59:47] BanchoBot: Players: 5
+[23:59:47] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/11129034 Spektre         
+[23:59:47] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/10941055 Suchodolsky     
+[23:59:47] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/10903510 trumpatino69    
+[23:59:47] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/8250297 teffek          
+[23:59:47] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/14272234 Hide in closet  
+[23:59:49] BanchoBot: CharlioM9 joined in slot 4.
+[23:59:54] BanchoBot: CharlioM9 left the game.
+[00:00:03] BanchoBot: aokana joined in slot 4.
+[00:00:09] aokana: que mapas entro?
+[00:00:27] BCraftMG: !mp settings
+[00:00:29] BanchoBot: Room name: YAP: Qualifiers Lobby B11, History: https://osu.ppy.sh/mp/114041448
+[00:00:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/3205642 BUD VIRGIN LOGIC - x Senritsu -Schlehit Melodie-
+[00:00:29] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:00:29] BanchoBot: Active mods: NoFail
+[00:00:29] BanchoBot: Players: 6
+[00:00:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11129034 Spektre         
+[00:00:29] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/10941055 Suchodolsky     
+[00:00:29] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10903510 trumpatino69    
+[00:00:29] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/6216284 aokana          
+[00:00:29] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/8250297 teffek          
+[00:00:29] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/14272234 Hide in closet  
+[00:00:31] BCraftMG: ready up
+[00:00:55] BanchoBot: All players are ready
+[00:00:56] trumpatino69: GLHFUMO ^w^
+[00:01:03] Hide_in_closet: glgl
+[00:01:04] aokana: gl
+[00:01:39] Suchodolsky: !mp start 10
+[00:01:41] BCraftMG: !mp settings
+[00:01:42] BanchoBot: Room name: YAP: Qualifiers Lobby B11, History: https://osu.ppy.sh/mp/114041448
+[00:01:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/3205642 BUD VIRGIN LOGIC - x Senritsu -Schlehit Melodie-
+[00:01:42] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:01:42] BanchoBot: Active mods: NoFail
+[00:01:42] BanchoBot: Players: 6
+[00:01:42] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11129034 Spektre         
+[00:01:42] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10941055 Suchodolsky     
+[00:01:42] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10903510 trumpatino69    
+[00:01:42] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6216284 aokana          
+[00:01:42] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/8250297 teffek          
+[00:01:42] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/14272234 Hide in closet  
+[00:01:42] BCraftMG: !mp start 5 glhf
+[00:01:43] BanchoBot: Match starts in 5 seconds
+[00:01:43] BanchoBot: Queued the match to start in 5 seconds
+[00:01:44] BanchoBot: Match starts in 4 seconds
+[00:01:46] BanchoBot: Match starts in 3 seconds
+[00:01:47] BanchoBot: Good luck, have fun!
+[00:01:48] BanchoBot: The match has started!
+[00:05:39] BanchoBot: Spektre finished playing (Score: 636592, PASSED).
+[00:05:39] BanchoBot: Suchodolsky finished playing (Score: 379051, PASSED).
+[00:05:39] BanchoBot: aokana finished playing (Score: 404544, PASSED).
+[00:05:39] BanchoBot: teffek finished playing (Score: 238692, PASSED).
+[00:05:40] BanchoBot: Hide in closet finished playing (Score: 437047, PASSED).
+[00:05:40] BanchoBot: trumpatino69 finished playing (Score: 272533, PASSED).
+[00:05:40] BanchoBot: The match has finished!
+[00:06:01] BCraftMG: !mp map 3880108
+[00:06:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3880108 xi - Longinus
+[00:06:04] BanchoBot: CharlioM9 joined in slot 6.
+[00:06:04] BCraftMG: !mp timer 120
+[00:06:05] BanchoBot: Countdown ends in 2 minutes
+[00:06:11] BanchoBot: Hide in closet left the game.
+[00:07:05] BanchoBot: Countdown ends in 1 minute
+[00:07:17] BanchoBot: All players are ready
+[00:07:19] BCraftMG: !mp settings
+[00:07:21] BanchoBot: Room name: YAP: Qualifiers Lobby B11, History: https://osu.ppy.sh/mp/114041448
+[00:07:21] BanchoBot: Beatmap: https://osu.ppy.sh/b/3880108 xi - Longinus
+[00:07:21] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:07:21] BanchoBot: Active mods: NoFail
+[00:07:21] BanchoBot: Players: 6
+[00:07:21] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11129034 Spektre         
+[00:07:21] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10941055 Suchodolsky     
+[00:07:21] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10903510 trumpatino69    
+[00:07:21] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6216284 aokana          
+[00:07:21] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/8250297 teffek          
+[00:07:21] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/13560194 CharlioM9       
+[00:07:21] BCraftMG: !mp start 5 glhf
+[00:07:22] BanchoBot: Countdown aborted
+[00:07:22] BanchoBot: Match starts in 5 seconds
+[00:07:22] BanchoBot: Queued the match to start in 5 seconds
+[00:07:23] BanchoBot: Match starts in 4 seconds
+[00:07:25] BanchoBot: Match starts in 3 seconds
+[00:07:26] BanchoBot: Good luck, have fun!
+[00:07:27] BanchoBot: The match has started!
+[00:12:07] BanchoBot: aokana finished playing (Score: 419443, PASSED).
+[00:12:07] BanchoBot: Spektre finished playing (Score: 349311, PASSED).
+[00:12:07] BanchoBot: CharlioM9 finished playing (Score: 344325, PASSED).
+[00:12:07] BanchoBot: teffek finished playing (Score: 347871, PASSED).
+[00:12:08] BanchoBot: trumpatino69 finished playing (Score: 420872, PASSED).
+[00:12:11] BanchoBot: Suchodolsky finished playing (Score: 333593, PASSED).
+[00:12:11] BanchoBot: The match has finished!
+[00:12:31] BanchoBot: Hide in closet joined in slot 7.
+[00:12:33] BanchoBot: CharlioM9 left the game.
+[00:12:39] BCraftMG: !mp map 3644107
+[00:12:40] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3644107 BlackY - Campanula
+[00:12:40] BCraftMG: !mp timer 120
+[00:12:41] BanchoBot: Countdown ends in 2 minutes
+[00:13:00] Spektre: I'll go to bathroom a moment
+[00:13:42] BanchoBot: Countdown ends in 1 minute
+[00:14:12] BanchoBot: Countdown ends in 30 seconds
+[00:14:31] BanchoBot: Countdown ends in 10 seconds
+[00:14:37] BCraftMG: doomed
+[00:14:37] BanchoBot: Countdown ends in 5 seconds
+[00:14:38] BanchoBot: Countdown ends in 4 seconds
+[00:14:39] BanchoBot: Countdown ends in 3 seconds
+[00:14:39] BanchoBot: Countdown ends in 2 seconds
+[00:14:41] BanchoBot: Countdown ends in 1 second
+[00:14:42] BanchoBot: Countdown finished
+[00:14:42] BCraftMG: !mp timer 120
+[00:14:43] trumpatino69: GLHF!!
+[00:14:43] BanchoBot: Countdown ends in 2 minutes
+[00:14:44] BCraftMG: !mp settings
+[00:14:45] BanchoBot: Room name: YAP: Qualifiers Lobby B11, History: https://osu.ppy.sh/mp/114041448
+[00:14:45] BanchoBot: Beatmap: https://osu.ppy.sh/b/3644107 BlackY - Campanula
+[00:14:45] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:14:45] BanchoBot: Active mods: NoFail
+[00:14:45] BanchoBot: Players: 6
+[00:14:45] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11129034 Spektre         
+[00:14:45] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/10941055 Suchodolsky     
+[00:14:45] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10903510 trumpatino69    
+[00:14:45] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6216284 aokana          
+[00:14:45] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/8250297 teffek          
+[00:14:45] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/14272234 Hide in closet  
+[00:14:47] BCraftMG: wait
+[00:14:50] BanchoBot: All players are ready
+[00:14:53] BCraftMG: okay
+[00:14:53] BCraftMG: !mp settings
+[00:14:55] BanchoBot: Room name: YAP: Qualifiers Lobby B11, History: https://osu.ppy.sh/mp/114041448
+[00:14:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/3644107 BlackY - Campanula
+[00:14:55] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:14:55] BanchoBot: Active mods: NoFail
+[00:14:55] BanchoBot: Players: 6
+[00:14:55] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11129034 Spektre         
+[00:14:55] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10941055 Suchodolsky     
+[00:14:55] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10903510 trumpatino69    
+[00:14:55] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6216284 aokana          
+[00:14:55] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/8250297 teffek          
+[00:14:55] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/14272234 Hide in closet  
+[00:14:56] BCraftMG: !mp start 5 glhf
+[00:14:56] BanchoBot: Countdown aborted
+[00:14:56] BanchoBot: Match starts in 5 seconds
+[00:14:56] BanchoBot: Queued the match to start in 5 seconds
+[00:14:58] BanchoBot: Match starts in 4 seconds
+[00:14:59] BanchoBot: Match starts in 3 seconds
+[00:15:00] BanchoBot: Good luck, have fun!
+[00:15:02] BanchoBot: The match has started!
+[00:17:22] BanchoBot: Spektre finished playing (Score: 350657, PASSED).
+[00:17:22] BanchoBot: Hide in closet finished playing (Score: 343436, PASSED).
+[00:17:22] BanchoBot: teffek finished playing (Score: 132108, PASSED).
+[00:17:22] BanchoBot: Suchodolsky finished playing (Score: 113955, PASSED).
+[00:17:24] BanchoBot: aokana finished playing (Score: 205499, PASSED).
+[00:17:25] BanchoBot: trumpatino69 finished playing (Score: 514586, PASSED).
+[00:17:25] BanchoBot: The match has finished!
+[00:17:44] BCraftMG: !mp map 2569027
+[00:17:45] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2569027 Kakeru - Do you love me? feat. Rntl
+[00:17:46] BCraftMG: !mp timer 120
+[00:17:47] BanchoBot: Countdown ends in 2 minutes
+[00:17:48] BanchoBot: trumpatino69 left the game.
+[00:17:51] BanchoBot: CharlioM9 joined in slot 3.
+[00:17:57] BanchoBot: CharlioM9 moved to slot 6
+[00:17:59] BanchoBot: CharlioM9 moved to slot 3
+[00:18:01] BanchoBot: Hide in closet left the game.
+[00:18:43] BanchoBot: mreow joined in slot 6.
+[00:18:47] BanchoBot: Countdown ends in 1 minute
+[00:19:11] BanchoBot: All players are ready
+[00:19:17] BanchoBot: Countdown ends in 30 seconds
+[00:19:37] BanchoBot: Countdown ends in 10 seconds
+[00:19:40] mreow: ccczczzczczczczczczczczczczczczczczczczczczczczczczczczcccczc
+[00:19:42] BanchoBot: Countdown ends in 5 seconds
+[00:19:44] BanchoBot: Countdown ends in 4 seconds
+[00:19:44] BanchoBot: Countdown ends in 3 seconds
+[00:19:45] BanchoBot: Countdown ends in 2 seconds
+[00:19:46] BanchoBot: Countdown ends in 1 second
+[00:19:48] BanchoBot: Countdown finished
+[00:19:53] BCraftMG: !mp settings
+[00:19:53] BanchoBot: Room name: YAP: Qualifiers Lobby B11, History: https://osu.ppy.sh/mp/114041448
+[00:19:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/2569027 Kakeru - Do you love me? feat. Rntl
+[00:19:53] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:19:53] BanchoBot: Active mods: NoFail
+[00:19:53] BanchoBot: Players: 6
+[00:19:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11129034 Spektre         
+[00:19:53] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10941055 Suchodolsky     
+[00:19:53] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13560194 CharlioM9       
+[00:19:53] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6216284 aokana          
+[00:19:53] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/8250297 teffek          
+[00:19:53] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12115298 mreow           
+[00:19:54] BCraftMG: !mp start 5 glhf
+[00:19:55] BanchoBot: Match starts in 5 seconds
+[00:19:55] BanchoBot: Queued the match to start in 5 seconds
+[00:19:56] BanchoBot: Match starts in 4 seconds
+[00:19:57] BanchoBot: Match starts in 3 seconds
+[00:19:58] BanchoBot: Good luck, have fun!
+[00:19:58] mreow: cccz
+[00:20:00] mreow: gl;
+[00:20:00] BanchoBot: The match has started!
+[00:23:13] BanchoBot: aokana finished playing (Score: 446209, PASSED).
+[00:23:13] BanchoBot: mreow finished playing (Score: 505628, PASSED).
+[00:23:13] BanchoBot: Spektre finished playing (Score: 479522, PASSED).
+[00:23:14] BanchoBot: teffek finished playing (Score: 179937, PASSED).
+[00:23:14] BanchoBot: CharlioM9 finished playing (Score: 274137, PASSED).
+[00:23:14] BanchoBot: Suchodolsky finished playing (Score: 222465, PASSED).
+[00:23:16] BanchoBot: The match has finished!
+[00:23:19] BCraftMG: !mp map 3089374
+[00:23:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3089374 Elliot Hsu - Reality Purge
+[00:23:27] BCraftMG: !mp mods 9
+[00:23:28] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[00:23:28] BCraftMG: !mp timer 120
+[00:23:29] BanchoBot: Countdown ends in 2 minutes
+[00:23:30] BanchoBot: mreow left the game.
+[00:23:41] BanchoBot: aokana left the game.
+[00:24:10] BanchoBot: mreow joined in slot 4.
+[00:24:19] Spektre: sorry toilet time
+[00:24:30] BanchoBot: aokana joined in slot 6.
+[00:24:30] BanchoBot: Countdown ends in 1 minute
+[00:24:50] BCraftMG: may i interest you with a bottle
+[00:24:52] BCraftMG: :tf:
+[00:25:00] BanchoBot: Countdown ends in 30 seconds
+[00:25:18] mreow: cut a hole in your chauir
+[00:25:19] BanchoBot: Countdown ends in 10 seconds
+[00:25:25] BanchoBot: Countdown ends in 5 seconds
+[00:25:26] BanchoBot: Countdown ends in 4 seconds
+[00:25:26] BanchoBot: Countdown ends in 3 seconds
+[00:25:27] BanchoBot: Countdown ends in 2 seconds
+[00:25:29] BanchoBot: Countdown ends in 1 second
+[00:25:30] BanchoBot: Countdown finished
+[00:25:31] BCraftMG: !mp settings
+[00:25:33] BanchoBot: Room name: YAP: Qualifiers Lobby B11, History: https://osu.ppy.sh/mp/114041448
+[00:25:33] BanchoBot: Beatmap: https://osu.ppy.sh/b/3089374 Elliot Hsu - Reality Purge
+[00:25:33] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:25:33] BanchoBot: Active mods: NoFail, Hidden
+[00:25:33] BanchoBot: Players: 6
+[00:25:33] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/11129034 Spektre         
+[00:25:33] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10941055 Suchodolsky     
+[00:25:33] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13560194 CharlioM9       
+[00:25:33] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12115298 mreow           
+[00:25:33] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/8250297 teffek          
+[00:25:33] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/6216284 aokana          
+[00:25:40] BCraftMG: :stareeeeeeeeeeeeeeeeeeeeeeeee:
+[00:25:44] BCraftMG: @Spektre
+[00:25:46] BanchoBot: All players are ready
+[00:25:51] Spektre: yo
+[00:25:57] BCraftMG: !mp settings
+[00:25:58] BanchoBot: Room name: YAP: Qualifiers Lobby B11, History: https://osu.ppy.sh/mp/114041448
+[00:25:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/3089374 Elliot Hsu - Reality Purge
+[00:25:58] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:25:58] BanchoBot: Active mods: NoFail, Hidden
+[00:25:58] BanchoBot: Players: 6
+[00:25:58] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11129034 Spektre         
+[00:25:58] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10941055 Suchodolsky     
+[00:25:58] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13560194 CharlioM9       
+[00:25:58] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12115298 mreow           
+[00:25:58] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/8250297 teffek          
+[00:25:58] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/6216284 aokana          
+[00:25:58] BCraftMG: !mp start 5 glhf
+[00:25:59] BanchoBot: Match starts in 5 seconds
+[00:25:59] BanchoBot: Queued the match to start in 5 seconds
+[00:26:00] BanchoBot: Match starts in 4 seconds
+[00:26:02] BanchoBot: Match starts in 3 seconds
+[00:26:03] BanchoBot: Good luck, have fun!
+[00:26:04] BanchoBot: The match has started!
+[00:28:33] BanchoBot: mreow finished playing (Score: 342977, PASSED).
+[00:28:33] BanchoBot: Suchodolsky finished playing (Score: 192664, PASSED).
+[00:28:33] BanchoBot: Spektre finished playing (Score: 289558, PASSED).
+[00:28:35] BanchoBot: aokana finished playing (Score: 380735, PASSED).
+[00:28:35] BanchoBot: CharlioM9 finished playing (Score: 317286, PASSED).
+[00:28:35] BanchoBot: teffek finished playing (Score: 202696, PASSED).
+[00:28:35] BanchoBot: The match has finished!
+[00:28:36] BCraftMG: !mp map 3081403
+[00:28:37] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3081403 Masahiro "Godspeed" Aoki - Frostbite (Cut Ver.)
+[00:28:42] BCraftMG: !mp timer 120
+[00:28:43] BanchoBot: Countdown ends in 2 minutes
+[00:28:52] BanchoBot: mreow left the game.
+[00:29:17] BanchoBot: trumpatino69 joined in slot 4.
+[00:29:43] BanchoBot: Countdown ends in 1 minute
+[00:29:43] BanchoBot: All players are ready
+[00:29:49] BCraftMG: !mp settings
+[00:29:50] BanchoBot: Room name: YAP: Qualifiers Lobby B11, History: https://osu.ppy.sh/mp/114041448
+[00:29:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/3081403 Masahiro "Godspeed" Aoki - Frostbite (Cut Ver.)
+[00:29:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:29:50] BanchoBot: Active mods: NoFail, Hidden
+[00:29:50] BanchoBot: Players: 6
+[00:29:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11129034 Spektre         
+[00:29:50] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10941055 Suchodolsky     
+[00:29:50] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13560194 CharlioM9       
+[00:29:50] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10903510 trumpatino69    
+[00:29:50] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/8250297 teffek          
+[00:29:50] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/6216284 aokana          
+[00:29:51] BCraftMG: !mp start 5 glhf
+[00:29:51] BanchoBot: Countdown aborted
+[00:29:51] BanchoBot: Match starts in 5 seconds
+[00:29:51] BanchoBot: Queued the match to start in 5 seconds
+[00:29:53] BanchoBot: Match starts in 4 seconds
+[00:29:54] BanchoBot: Match starts in 3 seconds
+[00:29:55] BanchoBot: Good luck, have fun!
+[00:29:55] trumpatino69: GLHF!!!
+[00:29:56] BanchoBot: The match has started!
+[00:31:50] BanchoBot: Suchodolsky finished playing (Score: 227475, PASSED).
+[00:31:50] BanchoBot: teffek finished playing (Score: 176697, PASSED).
+[00:31:52] BanchoBot: Spektre finished playing (Score: 302527, PASSED).
+[00:31:52] BanchoBot: trumpatino69 finished playing (Score: 304530, PASSED).
+[00:31:52] BanchoBot: CharlioM9 finished playing (Score: 158190, PASSED).
+[00:31:53] BanchoBot: aokana finished playing (Score: 151911, PASSED).
+[00:31:53] BanchoBot: The match has finished!
+[00:31:55] BCraftMG: !mp map 4518924
+[00:31:56] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4518924 rejection x PANXI - PERSONA
+[00:31:57] BCraftMG: !mp mods 17
+[00:31:58] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[00:31:59] BCraftMG: !mp timer 120
+[00:32:00] BanchoBot: Countdown ends in 2 minutes
+[00:32:15] BanchoBot: trumpatino69 left the game.
+[00:32:17] BanchoBot: CharlioM9 moved to slot 8
+[00:32:19] BanchoBot: mreow joined in slot 3.
+[00:32:22] BanchoBot: CharlioM9 left the game.
+[00:32:23] BanchoBot: Hide in closet joined in slot 4.
+[00:33:00] BanchoBot: Countdown ends in 1 minute
+[00:33:28] BanchoBot: All players are ready
+[00:33:30] BanchoBot: Countdown ends in 30 seconds
+[00:33:40] BCraftMG: !mp settings
+[00:33:41] BanchoBot: Room name: YAP: Qualifiers Lobby B11, History: https://osu.ppy.sh/mp/114041448
+[00:33:41] BanchoBot: Beatmap: https://osu.ppy.sh/b/4518924 rejection x PANXI - PERSONA
+[00:33:41] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:33:41] BanchoBot: Active mods: NoFail, HardRock
+[00:33:41] BanchoBot: Players: 6
+[00:33:41] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11129034 Spektre         
+[00:33:41] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10941055 Suchodolsky     
+[00:33:41] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12115298 mreow           
+[00:33:41] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14272234 Hide in closet  
+[00:33:41] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/8250297 teffek          
+[00:33:41] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/6216284 aokana          
+[00:33:43] BCraftMG: !mp start 5 glhf
+[00:33:44] BanchoBot: Countdown aborted
+[00:33:44] BanchoBot: Match starts in 5 seconds
+[00:33:44] BanchoBot: Queued the match to start in 5 seconds
+[00:33:45] BanchoBot: Match starts in 4 seconds
+[00:33:46] BanchoBot: Match starts in 3 seconds
+[00:33:48] BanchoBot: Good luck, have fun!
+[00:33:49] BanchoBot: The match has started!
+[00:38:32] BanchoBot: teffek finished playing (Score: 234891, PASSED).
+[00:38:32] BanchoBot: aokana finished playing (Score: 327824, PASSED).
+[00:38:32] BanchoBot: mreow finished playing (Score: 341601, PASSED).
+[00:38:32] BanchoBot: Hide in closet finished playing (Score: 346503, PASSED).
+[00:38:32] BanchoBot: Spektre finished playing (Score: 409487, PASSED).
+[00:38:33] BanchoBot: Suchodolsky finished playing (Score: 317935, PASSED).
+[00:38:33] BanchoBot: The match has finished!
+[00:38:36] BCraftMG: !mp map 1268530
+[00:38:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1268530 Sota Fujimori - DANCE ALL NIGHT
+[00:38:41] BCraftMG: !mp timer 120
+[00:38:41] BanchoBot: Countdown ends in 2 minutes
+[00:39:41] BanchoBot: Countdown ends in 1 minute
+[00:39:51] BanchoBot: All players are ready
+[00:39:57] BCraftMG: !mp settings
+[00:39:59] BanchoBot: Room name: YAP: Qualifiers Lobby B11, History: https://osu.ppy.sh/mp/114041448
+[00:39:59] BanchoBot: Beatmap: https://osu.ppy.sh/b/1268530 Sota Fujimori - DANCE ALL NIGHT
+[00:39:59] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:39:59] BanchoBot: Active mods: NoFail, HardRock
+[00:39:59] BanchoBot: Players: 6
+[00:39:59] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11129034 Spektre         
+[00:39:59] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10941055 Suchodolsky     
+[00:39:59] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12115298 mreow           
+[00:39:59] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14272234 Hide in closet  
+[00:39:59] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/8250297 teffek          
+[00:39:59] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/6216284 aokana          
+[00:39:59] BCraftMG: !mp start 5 glhf
+[00:40:00] BanchoBot: Countdown aborted
+[00:40:00] BanchoBot: Match starts in 5 seconds
+[00:40:00] BanchoBot: Queued the match to start in 5 seconds
+[00:40:01] BanchoBot: Match starts in 4 seconds
+[00:40:03] BanchoBot: Match starts in 3 seconds
+[00:40:04] BanchoBot: Good luck, have fun!
+[00:40:05] BanchoBot: The match has started!
+[00:42:06] BanchoBot: Hide in closet finished playing (Score: 395486, PASSED).
+[00:42:06] BanchoBot: teffek finished playing (Score: 206716, PASSED).
+[00:42:06] BanchoBot: Spektre finished playing (Score: 647625, PASSED).
+[00:42:06] BanchoBot: Suchodolsky finished playing (Score: 306155, PASSED).
+[00:42:08] BanchoBot: aokana finished playing (Score: 301644, PASSED).
+[00:42:09] BanchoBot: mreow finished playing (Score: 256563, PASSED).
+[00:42:09] BanchoBot: The match has finished!
+[00:42:12] BCraftMG: !mp map 1963589
+[00:42:13] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1963589 Rachel (CV: Chisuga Haruka) - Pray
+[00:42:15] BCraftMG: !mp mods 65
+[00:42:16] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[00:42:16] BCraftMG: !mp timer 120
+[00:42:17] BanchoBot: Countdown ends in 2 minutes
+[00:42:41] BanchoBot: trumpatino69 joined in slot 7.
+[00:42:42] BanchoBot: Spektre left the game.
+[00:42:45] BanchoBot: trumpatino69 moved to slot 1
+[00:43:14] BanchoBot: aokana left the game.
+[00:43:18] BanchoBot: Countdown ends in 1 minute
+[00:43:48] BanchoBot: Countdown ends in 30 seconds
+[00:44:02] BanchoBot: aokana joined in slot 6.
+[00:44:08] BanchoBot: Countdown ends in 10 seconds
+[00:44:13] BanchoBot: Countdown ends in 5 seconds
+[00:44:14] BanchoBot: Countdown ends in 4 seconds
+[00:44:14] BanchoBot: All players are ready
+[00:44:14] BanchoBot: Countdown ends in 3 seconds
+[00:44:15] BCraftMG: !mp settings
+[00:44:16] BanchoBot: Countdown ends in 2 seconds
+[00:44:17] BanchoBot: Countdown ends in 1 second
+[00:44:17] BanchoBot: Room name: YAP: Qualifiers Lobby B11, History: https://osu.ppy.sh/mp/114041448
+[00:44:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/1963589 Rachel (CV: Chisuga Haruka) - Pray
+[00:44:17] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:44:17] BanchoBot: Active mods: NoFail, DoubleTime
+[00:44:17] BanchoBot: Players: 6
+[00:44:17] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10903510 trumpatino69    
+[00:44:17] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10941055 Suchodolsky     
+[00:44:17] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12115298 mreow           
+[00:44:17] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14272234 Hide in closet  
+[00:44:17] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/8250297 teffek          
+[00:44:17] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/6216284 aokana          
+[00:44:18] BCraftMG: !mp start 5 glhf
+[00:44:18] BanchoBot: Countdown finished
+[00:44:18] trumpatino69: GLHFUMO ^w^
+[00:44:18] BanchoBot: Match starts in 5 seconds
+[00:44:18] BanchoBot: Queued the match to start in 5 seconds
+[00:44:20] BanchoBot: Match starts in 4 seconds
+[00:44:21] BanchoBot: Match starts in 3 seconds
+[00:44:22] BanchoBot: Good luck, have fun!
+[00:44:24] BanchoBot: The match has started!
+[00:47:33] BanchoBot: Hide in closet finished playing (Score: 425822, PASSED).
+[00:47:33] BanchoBot: teffek finished playing (Score: 381001, PASSED).
+[00:47:33] BanchoBot: aokana finished playing (Score: 834138, PASSED).
+[00:47:33] BanchoBot: mreow finished playing (Score: 709620, PASSED).
+[00:47:35] BanchoBot: trumpatino69 finished playing (Score: 587108, PASSED).
+[00:47:35] BanchoBot: Suchodolsky finished playing (Score: 578295, PASSED).
+[00:47:35] BanchoBot: The match has finished!
+[00:47:58] BCraftMG: !mp map 3426304
+[00:47:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3426304 S2TB Recording - Super Luminal
+[00:47:59] BCraftMG: !mp timer 120
+[00:48:00] BanchoBot: Countdown ends in 2 minutes
+[00:48:07] BanchoBot: mreow left the game.
+[00:49:01] BanchoBot: Countdown ends in 1 minute
+[00:49:02] BanchoBot: mreow joined in slot 3.
+[00:49:05] BanchoBot: CharlioM9 joined in slot 7.
+[00:49:09] BanchoBot: Hide in closet left the game.
+[00:49:13] BanchoBot: CharlioM9 moved to slot 4
+[00:49:21] BanchoBot: All players are ready
+[00:49:24] BCraftMG: !mp settings
+[00:49:25] BanchoBot: Room name: YAP: Qualifiers Lobby B11, History: https://osu.ppy.sh/mp/114041448
+[00:49:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/3426304 S2TB Recording - Super Luminal
+[00:49:25] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:49:25] BanchoBot: Active mods: NoFail, DoubleTime
+[00:49:25] BanchoBot: Players: 6
+[00:49:25] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10903510 trumpatino69    
+[00:49:25] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10941055 Suchodolsky     
+[00:49:25] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12115298 mreow           
+[00:49:25] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13560194 CharlioM9       
+[00:49:25] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/8250297 teffek          
+[00:49:25] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/6216284 aokana          
+[00:49:25] BCraftMG: !mp start 5 glhf
+[00:49:26] BanchoBot: Countdown aborted
+[00:49:26] BanchoBot: Match starts in 5 seconds
+[00:49:26] BanchoBot: Queued the match to start in 5 seconds
+[00:49:27] BanchoBot: Match starts in 4 seconds
+[00:49:29] BanchoBot: Match starts in 3 seconds
+[00:49:29] trumpatino69: GLHF!!!!
+[00:49:30] BanchoBot: Good luck, have fun!
+[00:49:31] BanchoBot: The match has started!
+[00:51:23] BanchoBot: teffek finished playing (Score: 1005126, PASSED).
+[00:51:23] BanchoBot: Suchodolsky finished playing (Score: 210983, PASSED).
+[00:51:23] BanchoBot: trumpatino69 finished playing (Score: 1117419, PASSED).
+[00:51:23] BanchoBot: CharlioM9 finished playing (Score: 97592, PASSED).
+[00:51:24] BanchoBot: mreow finished playing (Score: 452013, PASSED).
+[00:51:31] BanchoBot: aokana finished playing (Score: 592999, PASSED).
+[00:51:31] BanchoBot: The match has finished!
+[00:51:48] BanchoBot: mreow left the game.
+[00:51:56] CharlioM9: ggs
+[00:51:57] BanchoBot: teffek left the game.
+[00:51:57] BanchoBot: CharlioM9 left the game.
+[00:51:59] BCraftMG: that should be all
+[00:52:00] BCraftMG: :)
+[00:52:00] BanchoBot: aokana left the game.
+[00:52:01] BCraftMG: ggwo
+[00:52:02] BCraftMG: ggwp
+[00:52:04] BanchoBot: Suchodolsky left the game.
+[00:52:13] BanchoBot: trumpatino69 left the game.
+[00:52:21] BCraftMG: !mp close
+[00:52:23] BanchoBot: Closed the match

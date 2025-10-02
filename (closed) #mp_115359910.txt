@@ -1,0 +1,307 @@
+[17:03:21] Joined #mp_115359910
+[17:03:21] BCraftMG: !mp settings
+[17:03:22] BanchoBot: Room name: SFBB: (Qualifiers) vs (X1), History: https://osu.ppy.sh/mp/115359910
+[17:03:22] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[17:03:22] BanchoBot: Players: 0
+[17:04:00] BCraftMG: !mp set 0 6 3
+[17:04:01] BanchoBot: Changed match settings to 3 slots, HeadToHead, ScoreV2
+[17:04:05] BCraftMG: !mp set 0 3 6
+[17:04:05] BanchoBot: Changed match settings to 6 slots, HeadToHead, ScoreV2
+[17:04:07] BCraftMG: !mp invite enri\
+[17:04:08] BanchoBot: User not found
+[17:04:14] BCraftMG: !mp invite enri
+[17:04:14] BanchoBot: Invited enri to the room
+[17:04:21] BanchoBot: enri joined in slot 1.
+[17:04:37] BCraftMG: !mp map 829921
+[17:04:37] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/829921 Nanahira - Bikkurisasetara okoruyo!
+[17:04:38] BCraftMG: !mp mods 1
+[17:04:39] BanchoBot: Enabled NoFail, disabled FreeMod
+[17:04:40] BanchoBot: aaabattery22 joined in slot 2.
+[17:05:28] BCraftMG: :p
+[17:05:34] BCraftMG: just ready when you are
+[17:05:44] BanchoBot: HbaHgt joined in slot 3.
+[17:05:45] BCraftMG: reminder you have 90s in between maps
+[17:06:02] BanchoBot: aaabattery22 left the game.
+[17:06:04] BanchoBot: All players are ready
+[17:06:05] BCraftMG: !mp settings
+[17:06:05] BanchoBot: Room name: SFBB: (Qualifiers) vs (X1), History: https://osu.ppy.sh/mp/115359910
+[17:06:05] BanchoBot: Beatmap: https://osu.ppy.sh/b/829921 Nanahira - Bikkurisasetara okoruyo!
+[17:06:05] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:06:05] BanchoBot: Active mods: NoFail
+[17:06:05] BanchoBot: Players: 2
+[17:06:05] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8640970 enri            
+[17:06:05] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/19002364 HbaHgt          
+[17:06:08] BCraftMG: !mp start 5 glhf
+[17:06:08] BanchoBot: Match starts in 5 seconds
+[17:06:08] BanchoBot: Queued the match to start in 5 seconds
+[17:06:10] BanchoBot: Match starts in 4 seconds
+[17:06:11] BanchoBot: Match starts in 3 seconds
+[17:06:12] BanchoBot: Good luck, have fun!
+[17:06:14] BanchoBot: The match has started!
+[17:10:09] BanchoBot: HbaHgt finished playing (Score: 79827, PASSED).
+[17:10:11] BanchoBot: enri finished playing (Score: 830132, PASSED).
+[17:10:11] BanchoBot: The match has finished!
+[17:10:16] HbaHgt: im teh goat
+[17:10:19] enri: GOAT
+[17:10:30] BCraftMG: !mp map 3249380 0
+[17:10:30] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3249380 Plum - Dustwind
+[17:10:30] BanchoBot: Changed match mode to Osu
+[17:10:31] BCraftMG: !mp timer 90
+[17:10:32] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[17:11:02] BanchoBot: Countdown ends in 1 minute
+[17:11:06] HbaHgt: !roll
+[17:11:06] BanchoBot: HbaHgt rolls 69 point(s)
+[17:11:19] BanchoBot: All players are ready
+[17:11:27] BCraftMG: !mp settings
+[17:11:28] BanchoBot: Room name: SFBB: (Qualifiers) vs (X1), History: https://osu.ppy.sh/mp/115359910
+[17:11:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/3249380 Plum - Dustwind
+[17:11:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:11:28] BanchoBot: Active mods: NoFail
+[17:11:28] BanchoBot: Players: 2
+[17:11:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8640970 enri            
+[17:11:28] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/19002364 HbaHgt          
+[17:11:29] BCraftMG: !mp start 5 glhf
+[17:11:29] BanchoBot: Countdown aborted
+[17:11:29] BanchoBot: Match starts in 5 seconds
+[17:11:29] BanchoBot: Queued the match to start in 5 seconds
+[17:11:31] BanchoBot: Match starts in 4 seconds
+[17:11:32] BanchoBot: Match starts in 3 seconds
+[17:11:33] BanchoBot: Good luck, have fun!
+[17:11:35] BanchoBot: The match has started!
+[17:14:08] BanchoBot: HbaHgt finished playing (Score: 35195, PASSED).
+[17:14:08] BanchoBot: enri finished playing (Score: 987578, PASSED).
+[17:14:08] BanchoBot: The match has finished!
+[17:14:12] BCraftMG: !mp map 4518951 0
+[17:14:13] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4518951 Machico - TOMORROW
+[17:14:13] BanchoBot: Changed match mode to Osu
+[17:14:22] BCraftMG: screw the timer
+[17:14:35] BanchoBot: aaabattery22 joined in slot 2.
+[17:14:42] BanchoBot: HbaHgt left the game.
+[17:14:45] BanchoBot: All players are ready
+[17:14:48] BCraftMG: !mp settings
+[17:14:49] BanchoBot: Room name: SFBB: (Qualifiers) vs (X1), History: https://osu.ppy.sh/mp/115359910
+[17:14:49] BanchoBot: Beatmap: https://osu.ppy.sh/b/4518951 Machico - TOMORROW
+[17:14:49] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:14:49] BanchoBot: Active mods: NoFail
+[17:14:49] BanchoBot: Players: 2
+[17:14:49] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8640970 enri            
+[17:14:49] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19001495 aaabattery22    
+[17:14:49] BCraftMG: !mp start 5 glhf
+[17:14:49] BanchoBot: Match starts in 5 seconds
+[17:14:49] BanchoBot: Queued the match to start in 5 seconds
+[17:14:51] BanchoBot: Match starts in 4 seconds
+[17:14:52] BanchoBot: Match starts in 3 seconds
+[17:14:53] BanchoBot: Good luck, have fun!
+[17:14:55] BanchoBot: The match has started!
+[17:19:34] BanchoBot: enri finished playing (Score: 467744, PASSED).
+[17:19:34] BanchoBot: aaabattery22 finished playing (Score: 5121, PASSED).
+[17:19:34] BanchoBot: The match has finished!
+[17:19:40] BCraftMG: !mp map 3831280 0
+[17:19:41] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3831280 polysha - Hypnos Metropolis
+[17:19:41] BanchoBot: Changed match mode to Osu
+[17:19:52] BanchoBot: aaabattery22 left the game.
+[17:19:56] BanchoBot: impogi joined in slot 2.
+[17:20:02] BanchoBot: All players are ready
+[17:20:07] BCraftMG: !mp settings
+[17:20:07] BanchoBot: Room name: SFBB: (Qualifiers) vs (X1), History: https://osu.ppy.sh/mp/115359910
+[17:20:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/3831280 polysha - Hypnos Metropolis
+[17:20:07] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:20:07] BanchoBot: Active mods: NoFail
+[17:20:07] BanchoBot: Players: 2
+[17:20:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8640970 enri            
+[17:20:07] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19059954 impogi          
+[17:20:08] BCraftMG: !mp start 5 glhf
+[17:20:08] BanchoBot: Match starts in 5 seconds
+[17:20:08] BanchoBot: Queued the match to start in 5 seconds
+[17:20:10] BanchoBot: Match starts in 4 seconds
+[17:20:11] BanchoBot: Match starts in 3 seconds
+[17:20:11] BanchoBot: Good luck, have fun!
+[17:20:13] BanchoBot: The match has started!
+[17:22:11] BanchoBot: impogi finished playing (Score: 43789, PASSED).
+[17:22:12] BanchoBot: enri finished playing (Score: 990546, PASSED).
+[17:22:12] BanchoBot: The match has finished!
+[17:22:17] BCraftMG: !mp map 4645349 0
+[17:22:18] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4645349 Sandio - i dream colors
+[17:22:18] BanchoBot: Changed match mode to Osu
+[17:22:22] BCraftMG: !mp mods 9
+[17:22:23] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[17:22:39] BanchoBot: All players are ready
+[17:22:42] BCraftMG: !mp settings
+[17:22:43] BanchoBot: Room name: SFBB: (Qualifiers) vs (X1), History: https://osu.ppy.sh/mp/115359910
+[17:22:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/4645349 Sandio - i dream colors
+[17:22:43] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:22:43] BanchoBot: Active mods: NoFail, Hidden
+[17:22:43] BanchoBot: Players: 2
+[17:22:43] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8640970 enri            
+[17:22:43] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19059954 impogi          
+[17:22:44] BCraftMG: !mp start 5 glhf
+[17:22:44] BanchoBot: Match starts in 5 seconds
+[17:22:44] BanchoBot: Queued the match to start in 5 seconds
+[17:22:46] BanchoBot: Match starts in 4 seconds
+[17:22:47] BanchoBot: Match starts in 3 seconds
+[17:22:48] BanchoBot: Good luck, have fun!
+[17:22:49] BanchoBot: The match has started!
+[17:24:36] BanchoBot: impogi finished playing (Score: 22870, PASSED).
+[17:24:36] BanchoBot: enri finished playing (Score: 838381, PASSED).
+[17:24:36] BanchoBot: The match has finished!
+[17:24:42] BCraftMG: !mp map 4330159 0
+[17:24:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4330159 DECO*27 - Volt Tackle
+[17:24:43] BanchoBot: Changed match mode to Osu
+[17:24:50] BanchoBot: All players are ready
+[17:24:52] BCraftMG: !mp settings
+[17:24:53] BanchoBot: Room name: SFBB: (Qualifiers) vs (X1), History: https://osu.ppy.sh/mp/115359910
+[17:24:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/4330159 DECO*27 - Volt Tackle
+[17:24:53] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:24:53] BanchoBot: Active mods: NoFail, Hidden
+[17:24:53] BanchoBot: Players: 2
+[17:24:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8640970 enri            
+[17:24:53] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19059954 impogi          
+[17:24:53] BCraftMG: !mp start 5 glhf
+[17:24:54] BanchoBot: Match starts in 5 seconds
+[17:24:54] BanchoBot: Queued the match to start in 5 seconds
+[17:24:55] BanchoBot: Match starts in 4 seconds
+[17:24:56] BanchoBot: Match starts in 3 seconds
+[17:24:57] BanchoBot: Good luck, have fun!
+[17:25:00] BanchoBot: The match has started!
+[17:27:34] BanchoBot: enri finished playing (Score: 934208, PASSED).
+[17:27:34] BanchoBot: impogi finished playing (Score: 24916, PASSED).
+[17:27:34] BanchoBot: The match has finished!
+[17:27:39] BCraftMG: !mp mods 2407152 0
+[17:27:40] BanchoBot: Enabled HardRock, SuddenDeath, DoubleTime, Relax, Nightcore, SpunOut, Relax2, disabled FreeMod
+[17:27:42] BCraftMG: !mp mods 17
+[17:27:42] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[17:27:48] BanchoBot: HbaHgt joined in slot 3.
+[17:27:52] BanchoBot: impogi left the game.
+[17:27:52] BCraftMG: !mp map 2407152  0
+[17:27:52] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2407152 angela - Otome no Route wa Hitotsu Janai!
+[17:27:52] BanchoBot: Changed match mode to Osu
+[17:27:58] BCraftMG: that was the wrong command
+[17:27:59] BCraftMG: lmao
+[17:28:04] enri: LOL
+[17:28:04] enri: nw
+[17:28:13] BanchoBot: All players are ready
+[17:28:15] BCraftMG: !mp settings
+[17:28:16] BanchoBot: Room name: SFBB: (Qualifiers) vs (X1), History: https://osu.ppy.sh/mp/115359910
+[17:28:16] BanchoBot: Beatmap: https://osu.ppy.sh/b/2407152 angela - Otome no Route wa Hitotsu Janai!
+[17:28:16] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:28:16] BanchoBot: Active mods: NoFail, HardRock
+[17:28:16] BanchoBot: Players: 2
+[17:28:16] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8640970 enri            
+[17:28:16] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/19002364 HbaHgt          
+[17:28:17] BCraftMG: !mp start 5 glhf
+[17:28:18] BanchoBot: Match starts in 5 seconds
+[17:28:18] BanchoBot: Queued the match to start in 5 seconds
+[17:28:19] BanchoBot: Match starts in 4 seconds
+[17:28:20] BanchoBot: Match starts in 3 seconds
+[17:28:21] BanchoBot: Good luck, have fun!
+[17:28:24] BanchoBot: The match has started!
+[17:32:23] BanchoBot: HbaHgt finished playing (Score: 33798, PASSED).
+[17:32:24] BanchoBot: enri finished playing (Score: 807623, PASSED).
+[17:32:24] BanchoBot: The match has finished!
+[17:32:28] BCraftMG: !mp map 2320392 0
+[17:32:28] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2320392 ginkiha, TEA - Haruka (Short Ver.)
+[17:32:28] BanchoBot: Changed match mode to Osu
+[17:32:37] HbaHgt: @aaabattery22 stop screaming in my ear
+[17:32:52] BanchoBot: All players are ready
+[17:32:55] BanchoBot: All players are ready
+[17:32:57] BCraftMG: !mp settings
+[17:32:57] BanchoBot: Room name: SFBB: (Qualifiers) vs (X1), History: https://osu.ppy.sh/mp/115359910
+[17:32:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/2320392 ginkiha, TEA - Haruka (Short Ver.)
+[17:32:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:32:57] BanchoBot: Active mods: NoFail, HardRock
+[17:32:57] BanchoBot: Players: 2
+[17:32:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8640970 enri            
+[17:32:57] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/19002364 HbaHgt          
+[17:32:58] BCraftMG: !mp start 5 glhf
+[17:32:59] BanchoBot: Match starts in 5 seconds
+[17:32:59] BanchoBot: Queued the match to start in 5 seconds
+[17:33:01] BanchoBot: Match starts in 4 seconds
+[17:33:02] BanchoBot: Match starts in 3 seconds
+[17:33:03] BanchoBot: Good luck, have fun!
+[17:33:05] BanchoBot: The match has started!
+[17:35:26] BanchoBot: HbaHgt finished playing (Score: 29396, PASSED).
+[17:35:27] BanchoBot: enri finished playing (Score: 357761, PASSED).
+[17:35:27] BanchoBot: The match has finished!
+[17:35:29] BCraftMG: !mp map 4346545 0
+[17:35:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4346545 Shiro (CV: Kayano Ai) - Oracion
+[17:35:29] BanchoBot: Changed match mode to Osu
+[17:35:35] BCraftMG: !mp mods 65
+[17:35:36] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[17:35:57] BanchoBot: All players are ready
+[17:36:05] BCraftMG: !mp settings
+[17:36:06] BanchoBot: Room name: SFBB: (Qualifiers) vs (X1), History: https://osu.ppy.sh/mp/115359910
+[17:36:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/4346545 Shiro (CV: Kayano Ai) - Oracion
+[17:36:06] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:36:06] BanchoBot: Active mods: NoFail, DoubleTime
+[17:36:06] BanchoBot: Players: 2
+[17:36:06] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8640970 enri            
+[17:36:06] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/19002364 HbaHgt          
+[17:36:06] BCraftMG: !mp start 5 glhf
+[17:36:07] BanchoBot: Match starts in 5 seconds
+[17:36:07] BanchoBot: Queued the match to start in 5 seconds
+[17:36:08] BanchoBot: Match starts in 4 seconds
+[17:36:09] BanchoBot: Match starts in 3 seconds
+[17:36:10] BanchoBot: Good luck, have fun!
+[17:36:12] BanchoBot: The match has started!
+[17:39:21] BanchoBot: enri finished playing (Score: 1173382, PASSED).
+[17:39:21] BanchoBot: HbaHgt finished playing (Score: 46602, PASSED).
+[17:39:21] BanchoBot: The match has finished!
+[17:39:25] BCraftMG: !mp map 4246549 0
+[17:39:26] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4246549 Tomodachi Tsukuri-tai - Zannen-kei Rinjin-bu Hoshi Futatsuhan
+[17:39:26] BanchoBot: Changed match mode to Osu
+[17:39:45] BanchoBot: impogi joined in slot 2.
+[17:39:55] BanchoBot: impogi left the game.
+[17:40:09] BanchoBot: All players are ready
+[17:40:10] BCraftMG: !mp settings
+[17:40:11] BanchoBot: Room name: SFBB: (Qualifiers) vs (X1), History: https://osu.ppy.sh/mp/115359910
+[17:40:11] BanchoBot: Beatmap: https://osu.ppy.sh/b/4246549 Tomodachi Tsukuri-tai - Zannen-kei Rinjin-bu Hoshi Futatsuhan
+[17:40:11] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:40:11] BanchoBot: Active mods: NoFail, DoubleTime
+[17:40:11] BanchoBot: Players: 2
+[17:40:11] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8640970 enri            
+[17:40:11] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/19002364 HbaHgt          
+[17:40:12] BCraftMG: !mp start 5 glhf
+[17:40:13] BanchoBot: Match starts in 5 seconds
+[17:40:13] BanchoBot: Queued the match to start in 5 seconds
+[17:40:14] BanchoBot: Match starts in 4 seconds
+[17:40:15] BanchoBot: Match starts in 3 seconds
+[17:40:16] BanchoBot: Good luck, have fun!
+[17:40:18] BanchoBot: The match has started!
+[17:43:17] BanchoBot: enri finished playing (Score: 1183241, PASSED).
+[17:43:18] BanchoBot: HbaHgt finished playing (Score: 56733, PASSED).
+[17:43:18] BanchoBot: The match has finished!
+[17:43:21] BCraftMG: !mp map 3205479 0
+[17:43:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3205479 MisteryCircle - Beyond the boundary
+[17:43:21] BanchoBot: Changed match mode to Osu
+[17:43:30] BanchoBot: HbaHgt left the game.
+[17:43:36] BanchoBot: impogi joined in slot 2.
+[17:43:40] BanchoBot: All players are ready
+[17:43:45] BCraftMG: !mp settings
+[17:43:46] BanchoBot: Room name: SFBB: (Qualifiers) vs (X1), History: https://osu.ppy.sh/mp/115359910
+[17:43:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/3205479 MisteryCircle - Beyond the boundary
+[17:43:46] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[17:43:46] BanchoBot: Active mods: NoFail, DoubleTime
+[17:43:46] BanchoBot: Players: 2
+[17:43:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8640970 enri            
+[17:43:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19059954 impogi          
+[17:43:46] BCraftMG: !mp start 5 glhf
+[17:43:47] BanchoBot: Match starts in 5 seconds
+[17:43:47] BanchoBot: Queued the match to start in 5 seconds
+[17:43:48] BanchoBot: Match starts in 4 seconds
+[17:43:49] BanchoBot: Match starts in 3 seconds
+[17:43:50] BanchoBot: Good luck, have fun!
+[17:43:52] BanchoBot: The match has started!
+[17:46:47] BanchoBot: enri finished playing (Score: 1117708, PASSED).
+[17:46:48] BanchoBot: impogi finished playing (Score: 30010, PASSED).
+[17:46:48] BanchoBot: The match has finished!
+[17:46:57] enri: ty for ref
+[17:47:02] enri: sry for inconvenience again ;-;
+[17:47:15] enri: o/
+[17:47:17] BanchoBot: enri left the game.
+[17:47:19] BanchoBot: enri joined in slot 1.
+[17:47:19] BCraftMG: :p
+[17:47:21] BanchoBot: impogi left the game.
+[17:47:22] BanchoBot: enri left the game.
+[17:47:23] BCraftMG: is ok
+[17:47:25] BCraftMG: !mp close
+[17:47:26] BanchoBot: Closed the match

@@ -1,0 +1,824 @@
+[21:49:04] Joined #mp_101735433
+[21:49:04] BCraftMG: !mp settings
+[21:49:07] BanchoBot: Room name: SOSF: (Qualifiers) vs (EX6), History: https://osu.ppy.sh/mp/101735433
+[21:49:07] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[21:49:07] BanchoBot: Players: 0
+[21:49:10] Join channel /join {channel}, /j {channel}, /msg {channel}, /chat {channel}, /query {channel}
+[21:49:10] Leave channel /leave, /part, /p
+[21:49:10] Clear channel /clear
+[21:49:10] Send action /me {msg}
+[21:49:10] Save logs /savelog, /save, /log
+[21:49:10]  -----
+[21:49:10] MP set cheat sheet !mp set {teammode} [{scoremode} {size}]
+[21:49:10] teammode 0: Head To Head, 1: Tag Coop, 2: Team Vs, 3: Tag Team Vs
+[21:49:10] scoremode 0: Score, 1: Accuracy, 2: Combo, 3: Score V2
+[21:49:21] BCraftMG: !mp set 0 3 8
+[21:49:23] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[21:49:28] BCraftMG: !mp set 0 3 6
+[21:49:30] BanchoBot: Changed match settings to 6 slots, HeadToHead, ScoreV2
+[21:50:33] BCraftMG: !mp invite #6790404
+[21:50:35] BanchoBot: Invited MyAimGenoKiller to the room
+[21:50:37] BCraftMG: !mp invite #6790404
+[21:50:40] BanchoBot: Invited MyAimGenoKiller to the room
+[21:50:40] BCraftMG: !mp invite #8006029
+[21:50:42] BanchoBot: User not found
+[21:50:42] BCraftMG: !mp invite #8006029
+[21:50:53] BCraftMG: !mp invite realshin
+[21:50:54] BanchoBot: User not found
+[21:52:15] BCraftMG: !mp invite #16396650
+[21:52:16] BanchoBot: Invited Markurii to the room
+[21:52:20] BCraftMG: !mp invite #7696512
+[21:52:21] BanchoBot: Invited Hoaq to the room
+[21:56:34] BCraftMG: !mp invite #7696512
+[21:56:36] BanchoBot: Invited Hoaq to the room
+[21:57:31] BCraftMG: !mp invite #7696512
+[21:57:31] BCraftMG: !mp invite #7696512
+[21:57:31] BCraftMG: !mp invite #7696512
+[21:57:32] BCraftMG: !mp invite #7696512
+[21:57:32] BanchoBot: Invited Hoaq to the room
+[21:57:33] BCraftMG: !mp invite #7696512
+[21:57:46] BanchoBot: Hoaq joined in slot 1.
+[21:58:06] BCraftMG: !mp invite #6790404
+[21:58:07] BanchoBot: Invited MyAimGenoKiller to the room
+[21:59:10] BCraftMG: !mp invite #6790404
+[21:59:13] BanchoBot: Invited MyAimGenoKiller to the room
+[21:59:15] BCraftMG: !mp invite #6790404
+[21:59:15] BCraftMG: !mp invite #6790404
+[21:59:17] BanchoBot: MyAimGenoKiller joined in slot 2.
+[21:59:17] BanchoBot: User is already in the room
+[21:59:24] Hoaq: chao ong
+[21:59:24] MyAimGenoKiller: henlo
+[21:59:39] BCraftMG: vnpt :trolley:
+[21:59:49] BCraftMG: !mp map 2335100 0
+[21:59:50] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2335100 AliA - utopia
+[21:59:50] BanchoBot: Changed match mode to Osu
+[21:59:51] BCraftMG: !mp mods 1
+[21:59:52] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:00:32] Hoaq: tuong tuong nm1
+[22:00:53] BanchoBot: realshin joined in slot 3.
+[22:00:58] BanchoBot: Hoaq moved to slot 4
+[22:01:24] realshin: chap warmup momen
+[22:01:31] Hoaq: cung ge
+[22:01:52] BanchoBot: budget lighto joined in slot 1.
+[22:01:56] MyAimGenoKiller: gvs
+[22:02:01] budget_lighto: hello my geno kill aim
+[22:02:06] budget_lighto: hello fakeshin
+[22:02:08] realshin: cx ge
+[22:02:10] budget_lighto: helo qaoH
+[22:02:17] Hoaq: roi ai hoi
+[22:02:20] Hoaq: dm bip
+[22:02:29] MyAimGenoKiller: hi quality lighto
+[22:02:32] budget_lighto: cung ge
+[22:02:41] Hoaq: helo mr ref can we ban bip thanks
+[22:02:41] realshin: 200k avg lets go
+[22:02:46] Hoaq: go
+[22:02:49] BCraftMG: !mp settings
+[22:02:50] BanchoBot: Room name: SOSF: (Qualifiers) vs (EX6), History: https://osu.ppy.sh/mp/101735433
+[22:02:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/2335100 AliA - utopia
+[22:02:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:02:50] BanchoBot: Active mods: NoFail
+[22:02:50] BanchoBot: Players: 4
+[22:02:50] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/6489819 budget lighto   
+[22:02:50] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/6790404 MyAimGenoKiller 
+[22:02:50] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8006029 realshin        
+[22:02:50] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/7696512 Hoaq            
+[22:02:53] Hoaq: 1/7 toi ve nha la laptop gaming
+[22:02:53] MyAimGenoKiller: 100k avg let's go
+[22:03:04] BanchoBot: Orei joined in slot 5.
+[22:03:07] Orei: oh
+[22:03:07] Orei: nm1
+[22:03:09] Orei: g9
+[22:03:09] BanchoBot: Orei left the game.
+[22:03:18] MyAimGenoKiller: kek
+[22:03:23] BCraftMG: ready di a
+[22:03:27] BCraftMG: !mp timer 60
+[22:03:28] Hoaq: co co gang
+[22:03:30] realshin: troi oi san sang de toi con di ngu
+[22:03:30] BanchoBot: Countdown ends in 1 minute
+[22:03:37] Hoaq: ai cho ngu
+[22:03:39] Hoaq: dm riusheen
+[22:03:39] MyAimGenoKiller: bip qua
+[22:03:56] realshin: tha
+[22:04:00] BanchoBot: Countdown ends in 30 seconds
+[22:04:22] BanchoBot: Countdown ends in 10 seconds
+[22:04:22] budget_lighto: co nen ready ko ta
+[22:04:24] budget_lighto: may ban pro qua
+[22:04:27] budget_lighto: khum dam
+[22:04:27] BanchoBot: Countdown ends in 5 seconds
+[22:04:27] BanchoBot: Countdown ends in 4 seconds
+[22:04:27] Hoaq: :madge
+[22:04:29] BanchoBot: Countdown ends in 3 seconds
+[22:04:29] BanchoBot: Countdown ends in 2 seconds
+[22:04:29] BanchoBot: Countdown ends in 1 second
+[22:04:31] BanchoBot: Countdown finished
+[22:04:34] BCraftMG: !mp settings
+[22:04:36] BanchoBot: Room name: SOSF: (Qualifiers) vs (EX6), History: https://osu.ppy.sh/mp/101735433
+[22:04:36] BanchoBot: Beatmap: https://osu.ppy.sh/b/2335100 AliA - utopia
+[22:04:36] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:04:36] BanchoBot: Active mods: NoFail
+[22:04:36] BanchoBot: Players: 4
+[22:04:36] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/6489819 budget lighto   
+[22:04:36] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6790404 MyAimGenoKiller 
+[22:04:36] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8006029 realshin        
+[22:04:36] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7696512 Hoaq            
+[22:04:38] BCraftMG: !mp start 60
+[22:04:41] BanchoBot: All players are ready
+[22:04:41] BanchoBot: Match starts in 1 minute
+[22:04:41] BanchoBot: Queued the match to start in 1 minute
+[22:04:46] MyAimGenoKiller: seggs
+[22:04:48] BCraftMG: !mp aborttimer
+[22:04:50] budget_lighto: toi ready vi toi thay ae pro do
+[22:04:50] BanchoBot: Aborted the match start timer
+[22:04:50] BanchoBot: Countdown aborted
+[22:04:51] BCraftMG: !mp start 10
+[22:04:52] realshin: kick con cho nay duoc khum ref
+[22:04:52] Hoaq: start 60 :dankge
+[22:04:52] BanchoBot: Match starts in 10 seconds
+[22:04:52] BanchoBot: Queued the match to start in 10 seconds
+[22:04:55] budget_lighto: chu ko thi toi khum ready dau
+[22:05:00] BanchoBot: Match starts in 5 seconds
+[22:05:00] MyAimGenoKiller: kekw
+[22:05:00] BanchoBot: Match starts in 4 seconds
+[22:05:00] BanchoBot: Match starts in 3 seconds
+[22:05:02] BanchoBot: Good luck, have fun!
+[22:05:04] BanchoBot: The match has started!
+[22:05:04] Hoaq: golf
+[22:05:09] budget_lighto: abort di ref hoaq doc ac qua
+[22:05:41] BCraftMG: jz
+[22:09:36] BanchoBot: realshin finished playing (Score: 291849, PASSED).
+[22:09:36] BanchoBot: Hoaq finished playing (Score: 958221, PASSED).
+[22:09:36] BanchoBot: MyAimGenoKiller finished playing (Score: 263581, PASSED).
+[22:09:36] BanchoBot: budget lighto finished playing (Score: 402326, PASSED).
+[22:09:36] BanchoBot: The match has finished!
+[22:09:40] MyAimGenoKiller: pog
+[22:09:42] BCraftMG: !mp map 2905806 0
+[22:09:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2905806 ke-ji feat. Nanahira - Ange du Blanc Pur
+[22:09:43] BanchoBot: Changed match mode to Osu
+[22:09:44] BCraftMG: !mp timer 120
+[22:09:45] MyAimGenoKiller: 200k avg
+[22:09:45] BanchoBot: Countdown ends in 2 minutes
+[22:09:47] realshin: :thumbsup
+[22:09:57] budget_lighto: ref oi kick hoaq di
+[22:09:57] budget_lighto: bip qua
+[22:10:02] BanchoBot: realshin left the game.
+[22:10:02] budget_lighto: lam sang chan tam ly nguoi khac
+[22:10:05] BCraftMG: !mp kick bip
+[22:10:06] budget_lighto: duoc co 400k a`
+[22:10:06] budget_lighto: huhu
+[22:10:06] BanchoBot: User not found
+[22:10:23] BanchoBot: realshin joined in slot 3.
+[22:10:25] BanchoBot: Markurii joined in slot 5.
+[22:10:29] BanchoBot: realshin left the game.
+[22:10:32] BanchoBot: Markurii moved to slot 3
+[22:10:39] budget_lighto: thua
+[22:10:43] BanchoBot: budget lighto left the game.
+[22:10:46] BanchoBot: Countdown ends in 1 minute
+[22:10:50] BanchoBot: budget lighto joined in slot 1.
+[22:10:50] BanchoBot: Orei joined in slot 5.
+[22:10:53] Hoaq: chet ngay
+[22:10:58] BCraftMG: 🥺
+[22:11:10] BCraftMG: em cung muon di ngu
+[22:11:16] BanchoBot: Countdown ends in 30 seconds
+[22:11:16] Orei: hieu
+[22:11:18] Orei: may keu t
+[22:11:18] Orei: danh
+[22:11:18] Orei: nm2
+[22:11:20] Orei: trong khi
+[22:11:20] Orei: t dang
+[22:11:23] Orei: no map
+[22:11:27] Orei: cmm
+[22:11:27] BanchoBot: Orei left the game.
+[22:11:29] Hoaq: xin timeout di uong nuoc cai
+[22:11:32] budget_lighto: nhung m co sta
+[22:11:32] budget_lighto: du ma
+[22:11:34] MyAimGenoKiller: kekw
+[22:11:34] budget_lighto: chao mung cac ban den voi chuyen muc triple tap
+[22:11:37] BanchoBot: Countdown ends in 10 seconds
+[22:11:39] budget_lighto: ai cho uong nuoc
+[22:11:41] BanchoBot: Countdown ends in 5 seconds
+[22:11:41] BanchoBot: Countdown ends in 4 seconds
+[22:11:41] budget_lighto: phat 50k diem nhe
+[22:11:44] BanchoBot: Countdown ends in 3 seconds
+[22:11:44] BanchoBot: Countdown ends in 2 seconds
+[22:11:46] budget_lighto: hay la 500k
+[22:11:46] BanchoBot: Countdown ends in 1 second
+[22:11:46] BanchoBot: Countdown finished
+[22:11:48] Hoaq: ok done
+[22:11:51] BanchoBot: All players are ready
+[22:11:53] BCraftMG: !mp settings
+[22:11:53] budget_lighto: 500k
+[22:11:55] BanchoBot: Room name: SOSF: (Qualifiers) vs (EX6), History: https://osu.ppy.sh/mp/101735433
+[22:11:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/2905806 ke-ji feat. Nanahira - Ange du Blanc Pur
+[22:11:55] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:11:55] BanchoBot: Active mods: NoFail
+[22:11:55] BanchoBot: Players: 4
+[22:11:55] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6489819 budget lighto   
+[22:11:55] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6790404 MyAimGenoKiller 
+[22:11:55] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16396650 Markurii        
+[22:11:55] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7696512 Hoaq            
+[22:11:58] budget_lighto: ko thi len phuong`
+[22:12:01] BCraftMG: !mp start 10
+[22:12:02] BanchoBot: Match starts in 10 seconds
+[22:12:02] BanchoBot: Queued the match to start in 10 seconds
+[22:12:09] BanchoBot: Match starts in 5 seconds
+[22:12:09] BanchoBot: Match starts in 4 seconds
+[22:12:12] BanchoBot: Match starts in 3 seconds
+[22:12:12] budget_lighto: ae cut ra
+[22:12:12] BanchoBot: Good luck, have fun!
+[22:12:12] MyAimGenoKiller: seggs
+[22:12:14] budget_lighto: cai ghe nay la cua toi
+[22:12:14] BanchoBot: The match has started!
+[22:15:58] BanchoBot: budget lighto finished playing (Score: 290895, PASSED).
+[22:15:58] BanchoBot: Markurii finished playing (Score: 497416, PASSED).
+[22:15:58] BanchoBot: Hoaq finished playing (Score: 471617, PASSED).
+[22:15:58] BanchoBot: MyAimGenoKiller finished playing (Score: 445245, PASSED).
+[22:15:58] BanchoBot: The match has finished!
+[22:16:03] BCraftMG: !mp map 2692632 0
+[22:16:04] budget_lighto: VAI
+[22:16:04] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2692632 THE BINARY mido - Ego mo Id mo Tanjun ni
+[22:16:04] BanchoBot: Changed match mode to Osu
+[22:16:06] BCraftMG: !mp timer 120
+[22:16:07] BanchoBot: Countdown ends in 2 minutes
+[22:16:09] budget_lighto: moi nguoi bully qua
+[22:16:09] MyAimGenoKiller: haiyaa doan dau choke vai
+[22:16:11] budget_lighto: toi quit giai duoc ko ref
+[22:16:14] MyAimGenoKiller: chua warm huhu
+[22:16:23] Hoaq: same
+[22:16:28] BCraftMG: kia anh
+[22:16:30] budget_lighto: im di bip
+[22:16:30] MyAimGenoKiller: ay daa nhay cam q ua
+[22:16:32] BCraftMG: lai mathi a
+[22:16:32] budget_lighto: 3 con nguoi bip
+[22:16:35] budget_lighto: thua
+[22:16:39] budget_lighto: dung roi lam mathi tu vong do xe
+[22:16:42] MyAimGenoKiller: 3 con gian bip
+[22:16:49] budget_lighto: ko
+[22:16:51] budget_lighto: 2 con gian bip
+[22:16:53] budget_lighto: 1 con sieu uy tin
+[22:16:58] BanchoBot: budget lighto left the game.
+[22:17:07] BanchoBot: Countdown ends in 1 minute
+[22:17:12] Markurii: em moi off lego warm up duoc 15p
+[22:17:26] Hoaq: @geno ong oi tham hoa glitchy
+[22:17:30] Hoaq: :D
+[22:17:30] MyAimGenoKiller: uoc
+[22:17:31] BanchoBot: budget lighto joined in slot 1.
+[22:17:38] BanchoBot: Countdown ends in 30 seconds
+[22:17:40] MyAimGenoKiller: =))
+[22:17:47] MyAimGenoKiller: uoc
+[22:17:47] Hoaq: same
+[22:17:49] Hoaq: toi khong danh lai duoc luon
+[22:17:56] Hoaq: mindblock tu day den gio
+[22:17:59] BanchoBot: Countdown ends in 10 seconds
+[22:17:59] MyAimGenoKiller: lan trc god mode h het r huhu
+[22:18:03] BanchoBot: Countdown ends in 5 seconds
+[22:18:03] BanchoBot: Countdown ends in 4 seconds
+[22:18:06] BanchoBot: Countdown ends in 3 seconds
+[22:18:06] BanchoBot: Countdown ends in 2 seconds
+[22:18:06] Hoaq: con dau 1 thoi de nho
+[22:18:08] BanchoBot: Countdown ends in 1 second
+[22:18:08] BanchoBot: Countdown finished
+[22:18:08] Hoaq: golf
+[22:18:11] BCraftMG: !mp settings
+[22:18:13] BanchoBot: Room name: SOSF: (Qualifiers) vs (EX6), History: https://osu.ppy.sh/mp/101735433
+[22:18:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/2692632 THE BINARY mido - Ego mo Id mo Tanjun ni
+[22:18:13] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:18:13] BanchoBot: Active mods: NoFail
+[22:18:13] BanchoBot: Players: 4
+[22:18:13] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6489819 budget lighto   
+[22:18:13] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/6790404 MyAimGenoKiller 
+[22:18:13] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16396650 Markurii        
+[22:18:13] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7696512 Hoaq            
+[22:18:15] BanchoBot: All players are ready
+[22:18:18] BCraftMG: !mp settings
+[22:18:19] budget_lighto: khum
+[22:18:20] BanchoBot: Room name: SOSF: (Qualifiers) vs (EX6), History: https://osu.ppy.sh/mp/101735433
+[22:18:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/2692632 THE BINARY mido - Ego mo Id mo Tanjun ni
+[22:18:20] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:18:20] BanchoBot: Active mods: NoFail
+[22:18:20] BanchoBot: Players: 4
+[22:18:20] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6489819 budget lighto   
+[22:18:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6790404 MyAimGenoKiller 
+[22:18:20] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16396650 Markurii        
+[22:18:20] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7696512 Hoaq            
+[22:18:20] BCraftMG: !mp start 10
+[22:18:22] budget_lighto: ko golf
+[22:18:22] BanchoBot: Match starts in 10 seconds
+[22:18:22] BanchoBot: Queued the match to start in 10 seconds
+[22:18:24] budget_lighto: tennis pls
+[22:18:26] MyAimGenoKiller: seggggggs
+[22:18:29] Hoaq: khum
+[22:18:29] BanchoBot: Match starts in 5 seconds
+[22:18:29] BanchoBot: Match starts in 4 seconds
+[22:18:31] BanchoBot: Match starts in 3 seconds
+[22:18:31] BanchoBot: Good luck, have fun!
+[22:18:31] Hoaq: ggff
+[22:18:33] BanchoBot: The match has started!
+[22:18:33] Markurii: seg
+[22:22:43] BanchoBot: MyAimGenoKiller finished playing (Score: 254822, PASSED).
+[22:22:46] BanchoBot: Markurii finished playing (Score: 406802, PASSED).
+[22:22:46] BanchoBot: Hoaq finished playing (Score: 376205, PASSED).
+[22:22:53] BanchoBot: budget lighto finished playing (Score: 284421, PASSED).
+[22:22:53] BanchoBot: The match has finished!
+[22:22:57] BCraftMG: !mp map 2973666 0
+[22:22:57] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2973666 BEMANI Sound Team "Expander" - STOIC HYPOTHESIS
+[22:22:57] BanchoBot: Changed match mode to Osu
+[22:23:02] BCraftMG: !mp timer 120
+[22:23:04] BanchoBot: Countdown ends in 2 minutes
+[22:23:09] MyAimGenoKiller: ket qua cua viec nghi qua 2 tuan haiyaaa
+[22:23:14] Hoaq: cai chet
+[22:23:18] Hoaq: toi lai xe nhieu qua ong
+[22:23:28] Hoaq: gio dung vo lang choi game con hon dung tab nua
+[22:23:30] BanchoBot: Markurii left the game.
+[22:23:35] budget_lighto: o kia
+[22:23:37] budget_lighto: keu marky vao lai
+[22:23:42] budget_lighto: con xolo
+[22:23:42] BanchoBot: realshin joined in slot 3.
+[22:23:42] BanchoBot: Markurii joined in slot 5.
+[22:23:44] budget_lighto: sao sui roi
+[22:23:44] BanchoBot: Markurii left the game.
+[22:23:46] budget_lighto: uay thiet luon
+[22:23:49] MyAimGenoKiller: tron
+[22:23:49] budget_lighto: thua
+[22:23:56] budget_lighto: hello fake shin
+[22:24:00] realshin: ko
+[22:24:00] budget_lighto: r u real
+[22:24:03] realshin: hello cc
+[22:24:05] BanchoBot: Countdown ends in 1 minute
+[22:24:08] BCraftMG: hello
+[22:24:12] budget_lighto: thua
+[22:24:17] Hoaq: https://media.discordapp.net/attachments/890218410682773504/989913841301340243/unknown.png
+[22:24:17] MyAimGenoKiller: hello artificial shin
+[22:24:19] Hoaq: :thumbsup:
+[22:24:19] budget_lighto: realshin nay hang rep 1 1 trung quoc roi
+[22:24:24] budget_lighto: ong den tu kho nao
+[22:24:28] MyAimGenoKiller: gvs
+[22:24:30] budget_lighto: tham quyen thuong hai hay la nghia o
+[22:24:35] BanchoBot: Countdown ends in 30 seconds
+[22:24:38] BanchoBot: All players are ready
+[22:24:42] Hoaq: soccer
+[22:24:43] BCraftMG: !mp settings
+[22:24:45] realshin: ai hoi
+[22:24:45] BanchoBot: Room name: SOSF: (Qualifiers) vs (EX6), History: https://osu.ppy.sh/mp/101735433
+[22:24:45] BanchoBot: Beatmap: https://osu.ppy.sh/b/2973666 BEMANI Sound Team "Expander" - STOIC HYPOTHESIS
+[22:24:45] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:24:45] BanchoBot: Active mods: NoFail
+[22:24:45] BanchoBot: Players: 4
+[22:24:45] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6489819 budget lighto   
+[22:24:45] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6790404 MyAimGenoKiller 
+[22:24:45] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8006029 realshin        
+[22:24:45] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7696512 Hoaq            
+[22:24:47] BCraftMG: !mp start 10
+[22:24:49] BanchoBot: Countdown aborted
+[22:24:49] BanchoBot: Match starts in 10 seconds
+[22:24:49] BanchoBot: Queued the match to start in 10 seconds
+[22:24:50] BCraftMG: baseball
+[22:24:54] MyAimGenoKiller: football
+[22:24:56] BanchoBot: Match starts in 5 seconds
+[22:24:56] budget_lighto: thua
+[22:24:56] BanchoBot: Match starts in 4 seconds
+[22:24:59] BanchoBot: Match starts in 3 seconds
+[22:24:59] BanchoBot: Good luck, have fun!
+[22:25:01] Hoaq: badminton
+[22:25:01] BanchoBot: The match has started!
+[22:27:09] BanchoBot: realshin finished playing (Score: 375596, PASSED).
+[22:27:09] BanchoBot: budget lighto finished playing (Score: 236924, PASSED).
+[22:27:09] BanchoBot: MyAimGenoKiller finished playing (Score: 296076, PASSED).
+[22:27:12] BanchoBot: Hoaq finished playing (Score: 304470, PASSED).
+[22:27:12] BanchoBot: The match has finished!
+[22:27:17] BCraftMG: !mp map 3168337 0
+[22:27:19] MyAimGenoKiller: oge
+[22:27:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3168337 HiTECH NINJA - Memecore
+[22:27:19] BanchoBot: Changed match mode to Osu
+[22:27:21] BCraftMG: !mp mods 9
+[22:27:23] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[22:27:28] MyAimGenoKiller: skkskskssksksksks
+[22:27:33] MyAimGenoKiller: tron team
+[22:27:34] BCraftMG: !mp timer 120
+[22:27:35] BanchoBot: Countdown ends in 2 minutes
+[22:27:42] BanchoBot: Orei joined in slot 5.
+[22:27:49] Orei: ui
+[22:27:49] Hoaq: funly map
+[22:27:49] Orei: hd1
+[22:27:51] BanchoBot: Hoaq left the game.
+[22:27:51] BanchoBot: budget lighto left the game.
+[22:27:51] Orei: funny map
+[22:27:51] Orei: g9
+[22:27:51] BanchoBot: Orei left the game.
+[22:27:53] BanchoBot: realshin left the game.
+[22:28:03] BCraftMG: ua roi anh orei co choi ko z
+[22:28:14] MyAimGenoKiller: kekw
+[22:28:21] MyAimGenoKiller: minh t choi thoi nhe
+[22:28:29] BCraftMG: ok
+[22:28:30] BCraftMG: mp start
+[22:28:35] BanchoBot: Countdown ends in 1 minute
+[22:28:42] MyAimGenoKiller: seggs
+[22:28:47] BanchoBot: Hoaq joined in slot 1.
+[22:28:52] BanchoBot: Hoaq moved to slot 3
+[22:28:54] BanchoBot: realshin joined in slot 1.
+[22:29:03] realshin: haha funly
+[22:29:06] BanchoBot: Countdown ends in 30 seconds
+[22:29:13] BanchoBot: budget lighto joined in slot 4.
+[22:29:20] MyAimGenoKiller: oke googo
+[22:29:27] BanchoBot: Countdown ends in 10 seconds
+[22:29:29] BCraftMG: 🛌🛌🛌
+[22:29:31] realshin: ong oi
+[22:29:31] BanchoBot: Countdown ends in 5 seconds
+[22:29:31] BanchoBot: All players are ready
+[22:29:31] BanchoBot: Countdown ends in 4 seconds
+[22:29:33] BCraftMG: !mp settings
+[22:29:34] BanchoBot: Countdown ends in 3 seconds
+[22:29:34] realshin: lay ro32
+[22:29:34] BanchoBot: Countdown ends in 2 seconds
+[22:29:34] BanchoBot: Room name: SOSF: (Qualifiers) vs (EX6), History: https://osu.ppy.sh/mp/101735433
+[22:29:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/3168337 HiTECH NINJA - Memecore
+[22:29:34] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:29:34] BanchoBot: Active mods: NoFail, Hidden
+[22:29:34] BanchoBot: Players: 4
+[22:29:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8006029 realshin        
+[22:29:34] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6790404 MyAimGenoKiller 
+[22:29:34] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7696512 Hoaq            
+[22:29:34] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6489819 budget lighto   
+[22:29:36] realshin: :skull:
+[22:29:36] BanchoBot: Countdown ends in 1 second
+[22:29:36] BanchoBot: Countdown finished
+[22:29:36] budget_lighto: hi xin chao moi nguoi da quay lai voi channel cua minh
+[22:29:39] BCraftMG: !mp start 10
+[22:29:41] Hoaq: golf
+[22:29:41] budget_lighto: hom nay minh lam vlog danh giai osi nhe ae
+[22:29:41] BanchoBot: Match starts in 10 seconds
+[22:29:41] BanchoBot: Queued the match to start in 10 seconds
+[22:29:48] BanchoBot: Match starts in 5 seconds
+[22:29:48] BanchoBot: Match starts in 4 seconds
+[22:29:50] BanchoBot: Match starts in 3 seconds
+[22:29:50] BanchoBot: Good luck, have fun!
+[22:29:50] MyAimGenoKiller: glhfffffffffffffffffff
+[22:29:52] BanchoBot: The match has started!
+[22:32:40] BanchoBot: Hoaq finished playing (Score: 296289, PASSED).
+[22:32:40] BanchoBot: MyAimGenoKiller finished playing (Score: 238056, PASSED).
+[22:32:40] BanchoBot: budget lighto finished playing (Score: 385630, PASSED).
+[22:32:40] BanchoBot: realshin finished playing (Score: 372202, PASSED).
+[22:32:40] BanchoBot: The match has finished!
+[22:32:43] BanchoBot: Markurii joined in slot 5.
+[22:32:45] BCraftMG: !mp map 2405667 0
+[22:32:47] MyAimGenoKiller: oge i ded
+[22:32:47] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2405667 raito - Blood Drain -Again-
+[22:32:47] BanchoBot: Changed match mode to Osu
+[22:32:50] BanchoBot: MyAimGenoKiller left the game.
+[22:32:50] BCraftMG: !mp timer 120
+[22:32:52] BanchoBot: Countdown ends in 2 minutes
+[22:32:57] BanchoBot: Hoaq left the game.
+[22:33:01] BanchoBot: Markurii moved to slot 3
+[22:33:01] BanchoBot: Orei joined in slot 2.
+[22:33:04] budget_lighto: o kia
+[22:33:08] budget_lighto: keu hoaq quay lai coi
+[22:33:08] budget_lighto: sao sui roi
+[22:33:15] Orei: hd2 thoi anh em
+[22:33:24] BCraftMG: anh orei
+[22:33:29] BCraftMG: sao anh bi osu staff screen the
+[22:33:32] Orei: j chao
+[22:33:52] BanchoBot: Countdown ends in 1 minute
+[22:34:11] budget_lighto: ai biet
+[22:34:13] budget_lighto: staff cringe
+[22:34:18] budget_lighto: chu ko phai screen dau
+[22:34:22] BanchoBot: Countdown ends in 30 seconds
+[22:34:25] Orei: la sao
+[22:34:27] Orei: toi co dc danh k
+[22:34:29] Orei: troi oi
+[22:34:34] BCraftMG: có anh ơi
+[22:34:38] BCraftMG: giải này có screening đâu
+[22:34:42] budget_lighto: bip
+[22:34:44] BanchoBot: Countdown ends in 10 seconds
+[22:34:46] BanchoBot: All players are ready
+[22:34:48] BCraftMG: !mp settings
+[22:34:49] BanchoBot: Countdown ends in 5 seconds
+[22:34:49] Orei: ok
+[22:34:49] BanchoBot: Countdown ends in 4 seconds
+[22:34:49] Orei: hf
+[22:34:49] BanchoBot: Room name: SOSF: (Qualifiers) vs (EX6), History: https://osu.ppy.sh/mp/101735433
+[22:34:49] BanchoBot: Beatmap: https://osu.ppy.sh/b/2405667 raito - Blood Drain -Again-
+[22:34:49] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:34:49] BanchoBot: Active mods: NoFail, Hidden
+[22:34:49] BanchoBot: Players: 4
+[22:34:49] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8006029 realshin        
+[22:34:49] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14658394 Orei            
+[22:34:49] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16396650 Markurii        
+[22:34:49] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6489819 budget lighto   
+[22:34:51] BanchoBot: Countdown ends in 3 seconds
+[22:34:51] BanchoBot: Countdown ends in 2 seconds
+[22:34:52] BCraftMG: !mp start 10
+[22:34:53] BanchoBot: Countdown ends in 1 second
+[22:34:53] BanchoBot: Countdown finished
+[22:34:53] BanchoBot: Match starts in 10 seconds
+[22:34:53] BanchoBot: Queued the match to start in 10 seconds
+[22:35:00] BanchoBot: Match starts in 5 seconds
+[22:35:00] BanchoBot: Match starts in 4 seconds
+[22:35:00] budget_lighto: https://cdn.discordapp.com/attachments/754565473907245066/983263751690149918/trim.CAF6D5A5-966C-4E61-A183-23A01C57835A.mov
+[22:35:02] BanchoBot: Match starts in 3 seconds
+[22:35:02] BanchoBot: Good luck, have fun!
+[22:35:05] BanchoBot: The match has started!
+[22:35:05] Markurii: uoc
+[22:38:51] BanchoBot: realshin finished playing (Score: 493250, PASSED).
+[22:38:51] BanchoBot: budget lighto finished playing (Score: 829383, PASSED).
+[22:38:53] BanchoBot: Markurii finished playing (Score: 520475, PASSED).
+[22:38:53] BanchoBot: Orei finished playing (Score: 980521, PASSED).
+[22:38:53] BanchoBot: The match has finished!
+[22:38:56] BCraftMG: !mp map 1176958 0
+[22:38:58] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1176958 Toromaru - Enigma
+[22:38:58] BanchoBot: Changed match mode to Osu
+[22:39:00] BanchoBot: Hoaq joined in slot 5.
+[22:39:02] BCraftMG: !mp mods 17
+[22:39:02] Hoaq: cung ge
+[22:39:05] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[22:39:12] BanchoBot: Markurii left the game.
+[22:39:16] BanchoBot: budget lighto left the game.
+[22:39:21] realshin: [no map]
+[22:39:21] Orei: fc thoi ae
+[22:39:25] BanchoBot: realshin left the game.
+[22:39:28] Orei: thua
+[22:39:32] BanchoBot: Orei moved to slot 1
+[22:39:42] BanchoBot: Hoaq moved to slot 2
+[22:39:44] Hoaq: solo
+[22:39:58] BanchoBot: All players are ready
+[22:39:58] Orei: zo
+[22:40:00] Orei: solo
+[22:40:08] Hoaq: @ref
+[22:40:08] Hoaq: !mp start
+[22:40:25] BCraftMG: mp stảt
+[22:40:48] BCraftMG: !mp timer 120
+[22:40:49] BanchoBot: Countdown ends in 2 minutes
+[22:40:56] BanchoBot: realshin joined in slot 3.
+[22:41:17] BanchoBot: MyAimGenoKiller joined in slot 4.
+[22:41:31] Hoaq: glitchy lineup
+[22:41:35] Orei: true
+[22:41:38] MyAimGenoKiller: gvs
+[22:41:42] MyAimGenoKiller: huhuhuhu
+[22:41:42] Hoaq: cung ge
+[22:41:45] Orei: gke vay dok
+[22:41:47] Hoaq: huuuuuu
+[22:41:49] BanchoBot: All players are ready
+[22:41:51] BanchoBot: Countdown ends in 1 minute
+[22:41:51] Orei: :huuuuuuuuuuu:
+[22:41:54] realshin: tai sao toi phai choi osu luc moi ngu day
+[22:41:54] Orei: golf
+[22:42:01] Hoaq: vi ong 4 chan
+[22:42:08] realshin: loai nguoi
+[22:42:15] Hoaq: @ref again
+[22:42:20] MyAimGenoKiller: nhay cam qua
+[22:42:20] BanchoBot: Countdown ends in 30 seconds
+[22:42:36] Orei: oi k
+[22:42:38] BCraftMG: !mp settings
+[22:42:38] BanchoBot: Room name: SOSF: (Qualifiers) vs (EX6), History: https://osu.ppy.sh/mp/101735433
+[22:42:38] BanchoBot: Beatmap: https://osu.ppy.sh/b/1176958 Toromaru - Enigma
+[22:42:38] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:42:38] BanchoBot: Active mods: NoFail, HardRock
+[22:42:38] BanchoBot: Players: 4
+[22:42:38] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14658394 Orei            
+[22:42:38] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7696512 Hoaq            
+[22:42:38] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8006029 realshin        
+[22:42:38] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6790404 MyAimGenoKiller 
+[22:42:40] BCraftMG: !mp start 10
+[22:42:41] BanchoBot: Countdown ends in 10 seconds
+[22:42:43] BCraftMG: :tf:
+[22:42:43] BanchoBot: Countdown aborted
+[22:42:43] BanchoBot: Match starts in 10 seconds
+[22:42:43] BanchoBot: Queued the match to start in 10 seconds
+[22:42:45] Hoaq: soccer
+[22:42:48] MyAimGenoKiller: glhfhfhfhfhfhfhfhfhfhf
+[22:42:48] Orei: golf#2
+[22:42:50] BanchoBot: Match starts in 5 seconds
+[22:42:50] BanchoBot: Match starts in 4 seconds
+[22:42:51] BCraftMG: football
+[22:42:52] BanchoBot: Match starts in 3 seconds
+[22:42:52] BanchoBot: Good luck, have fun!
+[22:42:54] BanchoBot: The match has started!
+[22:44:57] BanchoBot: Orei finished playing (Score: 236717, PASSED).
+[22:44:57] BanchoBot: Hoaq finished playing (Score: 681443, PASSED).
+[22:44:57] BanchoBot: realshin finished playing (Score: 373920, PASSED).
+[22:44:57] BanchoBot: MyAimGenoKiller finished playing (Score: 280765, PASSED).
+[22:44:57] BanchoBot: The match has finished!
+[22:45:03] BCraftMG: !mp map 2202224 0
+[22:45:06] BCraftMG: !mp timer 120
+[22:45:06] MyAimGenoKiller: 80 acc moment
+[22:45:06] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2202224 nana(Sevencolors) - chameleon
+[22:45:06] BanchoBot: Changed match mode to Osu
+[22:45:08] BanchoBot: Countdown ends in 2 minutes
+[22:45:13] BanchoBot: realshin left the game.
+[22:45:17] BanchoBot: MyAimGenoKiller left the game.
+[22:45:19] Hoaq: pri
+[22:45:22] Hoaq: what happened
+[22:45:49] BanchoBot: budget lighto joined in slot 3.
+[22:46:04] budget_lighto: chao ae da quay lai voi hieutrollmc vlog
+[22:46:08] BanchoBot: Countdown ends in 1 minute
+[22:46:13] budget_lighto: hom nay minh se hr2 game ing nhe
+[22:46:18] budget_lighto: truoc khi video nay bat dau
+[22:46:27] budget_lighto: minh xin cam on my and my wallet da tai tro video nay
+[22:46:33] BanchoBot: realshin joined in slot 4.
+[22:46:33] Hoaq: my and my
+[22:46:36] Hoaq: smh my head
+[22:46:38] realshin: dm cay mat qua
+[22:46:38] BanchoBot: Countdown ends in 30 seconds
+[22:46:40] budget_lighto: nham
+[22:46:40] budget_lighto: du ma
+[22:46:43] realshin: huuuuuuuuuuuuuu
+[22:46:45] budget_lighto: me and my*
+[22:46:45] budget_lighto: tri the nhi
+[22:46:47] budget_lighto: this video is sponsored by tri do dai
+[22:46:55] BCraftMG: !mp settings
+[22:46:56] realshin: ai hoi
+[22:46:56] BanchoBot: Room name: SOSF: (Qualifiers) vs (EX6), History: https://osu.ppy.sh/mp/101735433
+[22:46:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/2202224 nana(Sevencolors) - chameleon
+[22:46:56] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:46:56] BanchoBot: Active mods: NoFail, HardRock
+[22:46:56] BanchoBot: Players: 4
+[22:46:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14658394 Orei            
+[22:46:56] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/7696512 Hoaq            
+[22:46:56] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6489819 budget lighto   
+[22:46:56] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8006029 realshin        
+[22:46:59] realshin: ready
+[22:46:59] BanchoBot: Countdown ends in 10 seconds
+[22:47:03] BanchoBot: Countdown ends in 5 seconds
+[22:47:06] BanchoBot: Countdown ends in 4 seconds
+[22:47:06] BanchoBot: Countdown ends in 3 seconds
+[22:47:08] BanchoBot: Countdown ends in 2 seconds
+[22:47:08] BanchoBot: Countdown ends in 1 second
+[22:47:08] BanchoBot: Countdown finished
+[22:47:11] BCraftMG: !mp settings
+[22:47:13] BanchoBot: Room name: SOSF: (Qualifiers) vs (EX6), History: https://osu.ppy.sh/mp/101735433
+[22:47:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/2202224 nana(Sevencolors) - chameleon
+[22:47:13] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:47:13] BanchoBot: Active mods: NoFail, HardRock
+[22:47:13] BanchoBot: Players: 4
+[22:47:13] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14658394 Orei            
+[22:47:13] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/7696512 Hoaq            
+[22:47:13] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6489819 budget lighto   
+[22:47:13] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8006029 realshin        
+[22:47:15] BanchoBot: All players are ready
+[22:47:17] BCraftMG: !mp settings
+[22:47:20] BanchoBot: Room name: SOSF: (Qualifiers) vs (EX6), History: https://osu.ppy.sh/mp/101735433
+[22:47:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/2202224 nana(Sevencolors) - chameleon
+[22:47:20] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:47:20] BanchoBot: Active mods: NoFail, HardRock
+[22:47:20] BanchoBot: Players: 4
+[22:47:20] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14658394 Orei            
+[22:47:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7696512 Hoaq            
+[22:47:20] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6489819 budget lighto   
+[22:47:20] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8006029 realshin        
+[22:47:21] BCraftMG: !mp start 10
+[22:47:22] BanchoBot: Match starts in 10 seconds
+[22:47:22] BanchoBot: Queued the match to start in 10 seconds
+[22:47:27] Orei: golf
+[22:47:29] BanchoBot: Match starts in 5 seconds
+[22:47:29] BanchoBot: Match starts in 4 seconds
+[22:47:31] BanchoBot: Match starts in 3 seconds
+[22:47:31] BanchoBot: Good luck, have fun!
+[22:47:31] Orei: den luc orei aim roi
+[22:47:33] BanchoBot: The match has started!
+[22:48:55] budget_lighto: thua
+[22:50:57] BanchoBot: budget lighto finished playing (Score: 650576, PASSED).
+[22:50:59] BanchoBot: Orei finished playing (Score: 517251, PASSED).
+[22:50:59] BanchoBot: Hoaq finished playing (Score: 498087, PASSED).
+[22:50:59] BanchoBot: realshin finished playing (Score: 608999, PASSED).
+[22:50:59] BanchoBot: The match has finished!
+[22:51:08] BCraftMG: !mp map 2750914 0
+[22:51:10] BanchoBot: MyAimGenoKiller joined in slot 5.
+[22:51:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2750914 Yousei Teikoku - Paradiso=Inferno
+[22:51:10] BanchoBot: Changed match mode to Osu
+[22:51:13] BanchoBot: Hoaq left the game.
+[22:51:14] BCraftMG: !mp mods 65
+[22:51:15] BanchoBot: budget lighto left the game.
+[22:51:15] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[22:51:17] BanchoBot: Orei moved to slot 2
+[22:51:18] BCraftMG: !mp timer 120
+[22:51:20] realshin: gui cuu
+[22:51:20] BanchoBot: Orei moved to slot 1
+[22:51:20] BanchoBot: Countdown ends in 2 minutes
+[22:51:22] Orei: troi oi
+[22:51:22] BanchoBot: Markurii joined in slot 2.
+[22:51:22] Orei: gui cuu
+[22:51:24] Orei: moi bi tai nan xong
+[22:51:27] Orei: h danh speed
+[22:51:31] BanchoBot: MyAimGenoKiller moved to slot 3
+[22:51:34] Orei: tay no keu cap cuu mat
+[22:51:36] realshin: marky
+[22:51:39] realshin: ong phan than ra danh giup toi duoc k
+[22:51:50] Orei: geno
+[22:51:53] Orei: phan than ra di ong
+[22:51:59] Markurii: uoc
+[22:52:06] Orei: k thi
+[22:52:16] Orei: marky phan than lam 3 cung dc
+[22:52:20] BanchoBot: Countdown ends in 1 minute
+[22:52:32] realshin: ai cho
+[22:52:34] Markurii: hom nay toi k speed duoc
+[22:52:36] realshin: lao' z
+[22:52:36] BanchoBot: All players are ready
+[22:52:41] BCraftMG: !mp settings
+[22:52:43] Orei: troi oi
+[22:52:43] BanchoBot: Room name: SOSF: (Qualifiers) vs (EX6), History: https://osu.ppy.sh/mp/101735433
+[22:52:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/2750914 Yousei Teikoku - Paradiso=Inferno
+[22:52:43] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:52:43] BanchoBot: Active mods: NoFail, DoubleTime
+[22:52:43] BanchoBot: Players: 4
+[22:52:43] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14658394 Orei            
+[22:52:43] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16396650 Markurii        
+[22:52:43] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6790404 MyAimGenoKiller 
+[22:52:43] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8006029 realshin        
+[22:52:44] BCraftMG: !mp start 10
+[22:52:45] Orei: the thi
+[22:52:45] MyAimGenoKiller: seggs
+[22:52:45] BanchoBot: Countdown aborted
+[22:52:45] BanchoBot: Match starts in 10 seconds
+[22:52:45] BanchoBot: Queued the match to start in 10 seconds
+[22:52:48] Orei: geno
+[22:52:48] Orei: phan than di ong
+[22:52:50] Orei: asdhksad
+[22:52:50] Orei: golf
+[22:52:52] BanchoBot: Match starts in 5 seconds
+[22:52:52] BanchoBot: Match starts in 4 seconds
+[22:52:55] BanchoBot: Match starts in 3 seconds
+[22:52:55] BanchoBot: Good luck, have fun!
+[22:52:57] BanchoBot: The match has started!
+[22:54:43] BanchoBot: Hoaq joined in slot 5.
+[22:55:24] BanchoBot: Markurii finished playing (Score: 553295, PASSED).
+[22:55:24] BanchoBot: MyAimGenoKiller finished playing (Score: 379840, PASSED).
+[22:55:24] BanchoBot: realshin finished playing (Score: 638069, PASSED).
+[22:55:27] BanchoBot: Orei finished playing (Score: 412630, PASSED).
+[22:55:27] BanchoBot: The match has finished!
+[22:55:34] MyAimGenoKiller: cai chet
+[22:55:35] BCraftMG: !mp map 1694417 0
+[22:55:37] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1694417 UNISON SQUARE GARDEN - Sugar Song to Bitter Step
+[22:55:37] BanchoBot: Changed match mode to Osu
+[22:55:39] realshin: thua
+[22:55:44] Hoaq: marky
+[22:55:48] Hoaq: choi duoc dt2 khong ong
+[22:56:04] Orei: tay cap cuu roi
+[22:56:04] Orei: du ma
+[22:56:05] BCraftMG: !mp timer 120
+[22:56:07] BanchoBot: Countdown ends in 2 minutes
+[22:56:09] Orei: 2 miss = 2 lan tay bi dau
+[22:56:21] BanchoBot: realshin left the game.
+[22:56:37] BanchoBot: Hoaq moved to slot 4
+[22:56:55] BanchoBot: realshin joined in slot 5.
+[22:57:07] BanchoBot: Countdown ends in 1 minute
+[22:57:11] BanchoBot: Hoaq left the game.
+[22:57:21] realshin: ready ik mn
+[22:57:21] realshin: cho toi di an toi
+[22:57:25] realshin: toi con phai rua chen
+[22:57:33] BCraftMG: !mp settings
+[22:57:35] BanchoBot: Room name: SOSF: (Qualifiers) vs (EX6), History: https://osu.ppy.sh/mp/101735433
+[22:57:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/1694417 UNISON SQUARE GARDEN - Sugar Song to Bitter Step
+[22:57:35] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:57:35] BanchoBot: Active mods: NoFail, DoubleTime
+[22:57:35] BanchoBot: Players: 4
+[22:57:35] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/14658394 Orei            
+[22:57:35] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16396650 Markurii        
+[22:57:35] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/6790404 MyAimGenoKiller 
+[22:57:35] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/8006029 realshin        
+[22:57:37] BanchoBot: Countdown ends in 30 seconds
+[22:57:49] BanchoBot: All players are ready
+[22:57:51] BCraftMG: !mp settings
+[22:57:53] BanchoBot: Room name: SOSF: (Qualifiers) vs (EX6), History: https://osu.ppy.sh/mp/101735433
+[22:57:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/1694417 UNISON SQUARE GARDEN - Sugar Song to Bitter Step
+[22:57:53] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:57:53] BanchoBot: Active mods: NoFail, DoubleTime
+[22:57:53] BanchoBot: Players: 4
+[22:57:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14658394 Orei            
+[22:57:53] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16396650 Markurii        
+[22:57:53] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6790404 MyAimGenoKiller 
+[22:57:53] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/8006029 realshin        
+[22:57:54] BCraftMG: !mp start 10
+[22:57:55] BanchoBot: Countdown aborted
+[22:57:55] BanchoBot: Match starts in 10 seconds
+[22:57:55] BanchoBot: Queued the match to start in 10 seconds
+[22:58:02] BanchoBot: Match starts in 5 seconds
+[22:58:02] BanchoBot: Match starts in 4 seconds
+[22:58:05] BanchoBot: Match starts in 3 seconds
+[22:58:05] BanchoBot: Good luck, have fun!
+[22:58:05] MyAimGenoKiller: glhf
+[22:58:07] BanchoBot: The match has started!
+[23:01:02] BanchoBot: Orei finished playing (Score: 256353, PASSED).
+[23:01:02] BanchoBot: Markurii finished playing (Score: 301621, PASSED).
+[23:01:02] BanchoBot: MyAimGenoKiller finished playing (Score: 153596, PASSED).
+[23:01:02] BanchoBot: realshin finished playing (Score: 292262, PASSED).
+[23:01:02] BanchoBot: The match has finished!
+[23:01:07] MyAimGenoKiller: huh
+[23:01:13] MyAimGenoKiller: ggwp i die
+[23:01:16] MyAimGenoKiller: no
+[23:01:16] realshin: cam on ref va tam biet moi nguoi
+[23:01:18] MyAimGenoKiller: i died
+[23:01:18] realshin: o/
+[23:01:18] BanchoBot: realshin left the game.
+[23:01:20] BCraftMG: tam biet
+[23:01:21] MyAimGenoKiller: x.x
+[23:01:21] MyAimGenoKiller: o/
+[23:01:23] Orei: ggwp
+[23:01:25] Orei: pool nhu cac
+[23:01:25] Orei: o/
+[23:01:25] BanchoBot: Orei left the game.
+[23:01:27] BanchoBot: MyAimGenoKiller left the game.
+[23:01:30] Markurii: pool hay
+[23:01:31] BCraftMG: based
+[23:01:34] Markurii: ty for ref <3
+[23:01:37] BCraftMG: <3
+[23:01:39] BanchoBot: Markurii left the game.
+[23:01:41] BCraftMG: !mp close
+[23:01:44] BanchoBot: Closed the match

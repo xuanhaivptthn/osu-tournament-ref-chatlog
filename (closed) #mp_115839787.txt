@@ -1,0 +1,507 @@
+[21:55:13] Joined #mp_115839787
+[21:55:13] BCraftMG: !mp settings
+[21:55:15] BanchoBot: Room name: OWC24VN: (Tryouts) vs (Match C4), History: https://osu.ppy.sh/mp/115839787
+[21:55:15] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[21:55:15] BanchoBot: Players: 0
+[21:55:21] BCraftMG: !mp set 0 3 6
+[21:55:22] BanchoBot: Changed match settings to 6 slots, HeadToHead, ScoreV2
+[21:55:23] BCraftMG: !mp map 3895683
+[21:55:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3895683 rN - Harumachi Elevator
+[21:55:27] BCraftMG: !mp mods 1
+[21:55:29] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:55:31] BCraftMG: !mp invite #3999831
+[21:55:32] BCraftMG: !mp invite #8006029
+[21:55:33] BanchoBot: Invited _ Freedom _ to the room
+[21:55:34] BCraftMG: !mp invite #4039647
+[21:55:34] BanchoBot: Invited realshin to the room
+[21:55:35] BCraftMG: !mp invite #5449433
+[21:55:36] BanchoBot: Invited SkyArrow to the room
+[21:55:37] BanchoBot: User not found
+[21:55:40] BanchoBot: _ Freedom _ joined in slot 1.
+[21:55:57] BanchoBot: realshin joined in slot 2.
+[21:56:12] BanchoBot: SkyArrow joined in slot 3.
+[21:56:26] realshin: !mp start
+[21:56:32] __Freedom__: !mp start
+[21:56:37] BCraftMG: !mp start 5 glhf
+[21:56:37] BanchoBot: Match starts in 5 seconds
+[21:56:37] BanchoBot: Queued the match to start in 5 seconds
+[21:56:39] BanchoBot: Match starts in 4 seconds
+[21:56:40] BanchoBot: Match starts in 3 seconds
+[21:56:42] BanchoBot: Good luck, have fun!
+[21:56:43] BanchoBot: The match has started!
+[21:57:04] BCraftMG: !mp invite #5449433
+[21:57:05] BanchoBot: Invited Ui chan to the room
+[21:57:13] BanchoBot: Ui chan joined in slot 4.
+[21:57:21] Ui_chan: !roll 1000
+[21:57:21] BanchoBot: Ui chan rolls 398 point(s)
+[21:57:21] BanchoBot: realshin finished playing (Score: 783444, PASSED).
+[21:57:21] BanchoBot: _ Freedom _ finished playing (Score: 818757, PASSED).
+[21:57:21] BanchoBot: The match has finished!
+[21:57:25] SkyArrow: !roll 1000
+[21:57:25] BanchoBot: SkyArrow rolls 766 point(s)
+[21:57:29] BCraftMG: not even 1m
+[21:57:29] SkyArrow: !roll 1000
+[21:57:29] BanchoBot: SkyArrow rolls 366 point(s)
+[21:57:30] BCraftMG: smh
+[21:57:31] BCraftMG: !mp map 4761392 0
+[21:57:33] BCraftMG: !mp mods 1
+[21:57:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4761392 Hayami Saori - Toumei Singer
+[21:57:34] BanchoBot: Changed match mode to Osu
+[21:57:35] SkyArrow: !roll 1000
+[21:57:35] BanchoBot: SkyArrow rolls 667 point(s)
+[21:57:35] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:57:56] realshin: !roll 1000
+[21:57:56] BanchoBot: realshin rolls 278 point(s)
+[21:58:02] __Freedom__: !roll 1000
+[21:58:02] BanchoBot: _ Freedom _ rolls 39 point(s)
+[21:58:07] SkyArrow: !roll 1000
+[21:58:07] BanchoBot: SkyArrow rolls 440 point(s)
+[21:58:11] BCraftMG: roll 727 de bi ban
+[21:58:19] SkyArrow: !roll 1000
+[21:58:19] BanchoBot: SkyArrow rolls 538 point(s)
+[21:58:22] BanchoBot: All players are ready
+[21:58:23] BCraftMG: !mp settings
+[21:58:24] Ui_chan: !roll 1000
+[21:58:24] BanchoBot: Ui chan rolls 907 point(s)
+[21:58:24] BanchoBot: Room name: OWC24VN: (Tryouts) vs (Match C4), History: https://osu.ppy.sh/mp/115839787
+[21:58:24] BanchoBot: Beatmap: https://osu.ppy.sh/b/4761392 Hayami Saori - Toumei Singer
+[21:58:24] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:58:24] BanchoBot: Active mods: NoFail
+[21:58:24] BanchoBot: Players: 4
+[21:58:24] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     
+[21:58:24] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8006029 realshin        
+[21:58:24] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        
+[21:58:24] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5449433 Ui chan         
+[21:58:25] BCraftMG: !mp start 5 glhf
+[21:58:25] realshin: !roll 1000
+[21:58:25] BanchoBot: realshin rolls 84 point(s)
+[21:58:25] BanchoBot: Match starts in 5 seconds
+[21:58:25] BanchoBot: Queued the match to start in 5 seconds
+[21:58:27] BanchoBot: Match starts in 4 seconds
+[21:58:28] BanchoBot: Match starts in 3 seconds
+[21:58:29] BanchoBot: Good luck, have fun!
+[21:58:31] BanchoBot: The match has started!
+[22:01:27] BanchoBot: _ Freedom _ finished playing (Score: 582978, PASSED).
+[22:01:27] BanchoBot: SkyArrow finished playing (Score: 405997, PASSED).
+[22:01:27] BanchoBot: realshin finished playing (Score: 299020, PASSED).
+[22:01:27] BanchoBot: Ui chan finished playing (Score: 274301, PASSED).
+[22:01:27] BanchoBot: The match has finished!
+[22:01:30] BCraftMG: !mp map 3784901 0
+[22:01:31] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3784901 Zmey Gorynich - Aynane
+[22:01:31] BanchoBot: Changed match mode to Osu
+[22:02:19] Ui_chan: !roll 1000
+[22:02:19] BanchoBot: Ui chan rolls 845 point(s)
+[22:02:26] __Freedom__: !roll 1000
+[22:02:26] BanchoBot: _ Freedom _ rolls 269 point(s)
+[22:02:27] SkyArrow: !roll 1000
+[22:02:27] BanchoBot: SkyArrow rolls 361 point(s)
+[22:02:29] BCraftMG: too bad bcraft cam stats sheet
+[22:02:48] BanchoBot: All players are ready
+[22:02:50] BCraftMG: !mp settings
+[22:02:51] BanchoBot: Room name: OWC24VN: (Tryouts) vs (Match C4), History: https://osu.ppy.sh/mp/115839787
+[22:02:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/3784901 Zmey Gorynich - Aynane
+[22:02:51] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:02:51] BanchoBot: Active mods: NoFail
+[22:02:51] BanchoBot: Players: 4
+[22:02:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     
+[22:02:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8006029 realshin        
+[22:02:51] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        
+[22:02:51] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5449433 Ui chan         
+[22:02:52] BCraftMG: !mp start 5 glhf
+[22:02:54] BanchoBot: Match starts in 5 seconds
+[22:02:54] BanchoBot: Queued the match to start in 5 seconds
+[22:02:55] BanchoBot: Match starts in 4 seconds
+[22:02:56] BanchoBot: Match starts in 3 seconds
+[22:02:58] BanchoBot: Good luck, have fun!
+[22:02:59] BanchoBot: The match has started!
+[22:06:10] BanchoBot: SkyArrow finished playing (Score: 227012, PASSED).
+[22:06:11] BanchoBot: Ui chan finished playing (Score: 75793, PASSED).
+[22:06:11] BanchoBot: _ Freedom _ finished playing (Score: 194572, PASSED).
+[22:06:13] BanchoBot: realshin finished playing (Score: 252177, PASSED).
+[22:06:13] BanchoBot: The match has finished!
+[22:06:20] BCraftMG: !mp map 3771872 0
+[22:06:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3771872 Kano - Batsu to Batsu
+[22:06:21] BanchoBot: Changed match mode to Osu
+[22:06:48] BCraftMG: trời ơi
+[22:06:50] BanchoBot: All players are ready
+[22:06:52] BanchoBot: All players are ready
+[22:06:56] Ui_chan: !roll 1000
+[22:06:56] BanchoBot: Ui chan rolls 924 point(s)
+[22:06:56] BCraftMG: 3/4 người trong lobby điểm thấp hơn auroradieu nm1
+[22:07:00] BCraftMG: doomed
+[22:07:01] BCraftMG: !mp settings
+[22:07:03] BanchoBot: Room name: OWC24VN: (Tryouts) vs (Match C4), History: https://osu.ppy.sh/mp/115839787
+[22:07:03] BanchoBot: Beatmap: https://osu.ppy.sh/b/3771872 Kano - Batsu to Batsu
+[22:07:03] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:07:03] BanchoBot: Active mods: NoFail
+[22:07:03] BanchoBot: Players: 4
+[22:07:03] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     
+[22:07:03] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8006029 realshin        
+[22:07:03] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        
+[22:07:03] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5449433 Ui chan         
+[22:07:04] BCraftMG: !mp start 5 glhf
+[22:07:06] Ui_chan: real
+[22:07:06] BanchoBot: Match starts in 5 seconds
+[22:07:06] BanchoBot: Queued the match to start in 5 seconds
+[22:07:07] BanchoBot: Match starts in 4 seconds
+[22:07:08] BanchoBot: Match starts in 3 seconds
+[22:07:08] realshin: xin loi
+[22:07:10] BanchoBot: Good luck, have fun!
+[22:07:11] BanchoBot: The match has started!
+[22:08:47] BCraftMG: hopium
+[22:10:48] BCraftMG: chào mừng đến với realshin pooling
+[22:10:59] BCraftMG: bao mùa giải danx vẫn chưa sợ :trolley:
+[22:11:26] BanchoBot: SkyArrow finished playing (Score: 210943, PASSED).
+[22:11:27] BanchoBot: _ Freedom _ finished playing (Score: 219952, PASSED).
+[22:11:27] BanchoBot: Ui chan finished playing (Score: 256873, PASSED).
+[22:11:28] BanchoBot: realshin finished playing (Score: 217350, PASSED).
+[22:11:28] BanchoBot: The match has finished!
+[22:11:32] BCraftMG: !mp map 4378608 0
+[22:11:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4378608 Sephid - YJC Ultrastyle
+[22:11:33] BanchoBot: Changed match mode to Osu
+[22:12:09] BanchoBot: All players are ready
+[22:12:32] BCraftMG: !mp settings
+[22:12:34] BanchoBot: Room name: OWC24VN: (Tryouts) vs (Match C4), History: https://osu.ppy.sh/mp/115839787
+[22:12:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/4378608 Sephid - YJC Ultrastyle
+[22:12:34] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:12:34] BanchoBot: Active mods: NoFail
+[22:12:34] BanchoBot: Players: 4
+[22:12:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     
+[22:12:34] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8006029 realshin        
+[22:12:34] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        
+[22:12:34] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5449433 Ui chan         
+[22:12:34] BCraftMG: !mp start 5 glhf
+[22:12:35] BanchoBot: Match starts in 5 seconds
+[22:12:35] BanchoBot: Queued the match to start in 5 seconds
+[22:12:36] BanchoBot: Match starts in 4 seconds
+[22:12:38] BanchoBot: Match starts in 3 seconds
+[22:12:39] BanchoBot: Good luck, have fun!
+[22:12:41] BanchoBot: The match has started!
+[22:15:16] BanchoBot: _ Freedom _ finished playing (Score: 250464, PASSED).
+[22:15:16] BanchoBot: SkyArrow finished playing (Score: 283104, PASSED).
+[22:15:17] BanchoBot: realshin finished playing (Score: 191988, PASSED).
+[22:15:19] BanchoBot: Ui chan finished playing (Score: 328229, PASSED).
+[22:15:19] BanchoBot: The match has finished!
+[22:15:30] BCraftMG: !mp map 3592328 0
+[22:15:31] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3592328 Pixel Terror - Millennia
+[22:15:31] BanchoBot: Changed match mode to Osu
+[22:15:36] BCraftMG: mic skyarrow
+[22:16:10] BCraftMG: chit chit
+[22:16:37] BanchoBot: All players are ready
+[22:16:37] BCraftMG: du ma whale ha
+[22:16:40] BCraftMG: !mp settings
+[22:16:41] BanchoBot: Room name: OWC24VN: (Tryouts) vs (Match C4), History: https://osu.ppy.sh/mp/115839787
+[22:16:41] BanchoBot: Beatmap: https://osu.ppy.sh/b/3592328 Pixel Terror - Millennia
+[22:16:41] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:16:41] BanchoBot: Active mods: NoFail
+[22:16:41] BanchoBot: Players: 4
+[22:16:41] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     
+[22:16:41] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8006029 realshin        
+[22:16:41] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        
+[22:16:41] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5449433 Ui chan         
+[22:16:42] BCraftMG: !mp start 5 glhf
+[22:16:43] BanchoBot: Match starts in 5 seconds
+[22:16:43] BanchoBot: Queued the match to start in 5 seconds
+[22:16:45] BanchoBot: Match starts in 4 seconds
+[22:16:46] BanchoBot: Match starts in 3 seconds
+[22:16:47] BanchoBot: Good luck, have fun!
+[22:16:49] BanchoBot: The match has started!
+[22:19:40] BanchoBot: Ui chan finished playing (Score: 203113, PASSED).
+[22:19:40] BanchoBot: realshin finished playing (Score: 217314, PASSED).
+[22:19:41] BanchoBot: _ Freedom _ finished playing (Score: 46835, PASSED).
+[22:19:42] BanchoBot: SkyArrow finished playing (Score: 146730, PASSED).
+[22:19:42] BanchoBot: The match has finished!
+[22:19:58] BCraftMG: !mp map 4074836 0
+[22:19:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4074836 Demon Hunter - Collapsing (feat. Bjorn "Speed" Strid)
+[22:19:59] BanchoBot: Changed match mode to Osu
+[22:19:59] BCraftMG: !mp mods 9
+[22:20:00] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[22:20:14] BanchoBot: All players are ready
+[22:20:26] BCraftMG: !mp settings
+[22:20:27] BanchoBot: Room name: OWC24VN: (Tryouts) vs (Match C4), History: https://osu.ppy.sh/mp/115839787
+[22:20:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/4074836 Demon Hunter - Collapsing (feat. Bjorn "Speed" Strid)
+[22:20:27] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:20:27] BanchoBot: Active mods: NoFail, Hidden
+[22:20:27] BanchoBot: Players: 4
+[22:20:27] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     
+[22:20:27] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8006029 realshin        
+[22:20:27] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        
+[22:20:27] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5449433 Ui chan         
+[22:20:27] BCraftMG: !mp start 5 glhf
+[22:20:28] BanchoBot: Match starts in 5 seconds
+[22:20:28] BanchoBot: Queued the match to start in 5 seconds
+[22:20:29] BanchoBot: Match starts in 4 seconds
+[22:20:31] BanchoBot: Match starts in 3 seconds
+[22:20:32] BanchoBot: Good luck, have fun!
+[22:20:34] BanchoBot: The match has started!
+[22:24:19] BanchoBot: _ Freedom _ finished playing (Score: 177377, PASSED).
+[22:24:19] BanchoBot: realshin finished playing (Score: 223164, PASSED).
+[22:24:21] BanchoBot: SkyArrow finished playing (Score: 111162, PASSED).
+[22:24:22] BanchoBot: Ui chan finished playing (Score: 128689, PASSED).
+[22:24:22] BanchoBot: The match has finished!
+[22:24:35] BCraftMG: !mp map 4344469 0
+[22:24:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4344469 Yunosuke - GLAZ
+[22:24:36] BanchoBot: Changed match mode to Osu
+[22:25:05] BanchoBot: All players are ready
+[22:25:11] BCraftMG: !mp settings
+[22:25:12] BanchoBot: Room name: OWC24VN: (Tryouts) vs (Match C4), History: https://osu.ppy.sh/mp/115839787
+[22:25:12] BanchoBot: Beatmap: https://osu.ppy.sh/b/4344469 Yunosuke - GLAZ
+[22:25:12] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:25:12] BanchoBot: Active mods: NoFail, Hidden
+[22:25:12] BanchoBot: Players: 4
+[22:25:12] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     
+[22:25:12] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8006029 realshin        
+[22:25:12] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        
+[22:25:12] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5449433 Ui chan         
+[22:25:13] BCraftMG: !mp start 5 glhf
+[22:25:15] BanchoBot: Match starts in 5 seconds
+[22:25:15] BanchoBot: Queued the match to start in 5 seconds
+[22:25:16] BanchoBot: Match starts in 4 seconds
+[22:25:17] BanchoBot: Match starts in 3 seconds
+[22:25:19] BanchoBot: Good luck, have fun!
+[22:25:20] BanchoBot: The match has started!
+[22:27:56] BanchoBot: SkyArrow finished playing (Score: 83952, PASSED).
+[22:27:58] BanchoBot: Ui chan finished playing (Score: 173289, PASSED).
+[22:27:58] BanchoBot: _ Freedom _ finished playing (Score: 236654, PASSED).
+[22:27:58] BanchoBot: realshin finished playing (Score: 133628, PASSED).
+[22:27:58] BanchoBot: The match has finished!
+[22:28:08] BCraftMG: !mp map 2819481 0
+[22:28:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2819481 yuikonnu - Gigantic O.T.N
+[22:28:10] BanchoBot: Changed match mode to Osu
+[22:28:11] BCraftMG: !mp mods 17
+[22:28:12] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[22:28:40] BanchoBot: All players are ready
+[22:28:43] BCraftMG: !mp settings
+[22:28:44] BanchoBot: Room name: OWC24VN: (Tryouts) vs (Match C4), History: https://osu.ppy.sh/mp/115839787
+[22:28:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/2819481 yuikonnu - Gigantic O.T.N
+[22:28:44] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:28:44] BanchoBot: Active mods: NoFail, HardRock
+[22:28:44] BanchoBot: Players: 4
+[22:28:44] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     
+[22:28:44] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8006029 realshin        
+[22:28:44] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        
+[22:28:44] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5449433 Ui chan         
+[22:28:45] BCraftMG: !mp start 5 glhf
+[22:28:45] BanchoBot: Match starts in 5 seconds
+[22:28:45] BanchoBot: Queued the match to start in 5 seconds
+[22:28:47] BanchoBot: Match starts in 4 seconds
+[22:28:48] BanchoBot: Match starts in 3 seconds
+[22:28:49] BanchoBot: Good luck, have fun!
+[22:28:51] BanchoBot: The match has started!
+[22:32:15] BanchoBot: realshin finished playing (Score: 327840, PASSED).
+[22:32:15] BanchoBot: Ui chan finished playing (Score: 281755, PASSED).
+[22:32:17] BanchoBot: _ Freedom _ finished playing (Score: 206074, PASSED).
+[22:32:17] BanchoBot: SkyArrow finished playing (Score: 330116, PASSED).
+[22:32:17] BanchoBot: The match has finished!
+[22:32:18] BCraftMG: !mp map 3724231 0
+[22:32:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3724231 NayutalieN - Ray Tuning
+[22:32:20] BanchoBot: Changed match mode to Osu
+[22:32:55] BanchoBot: All players are ready
+[22:32:59] BCraftMG: !mp settings
+[22:33:00] BanchoBot: Room name: OWC24VN: (Tryouts) vs (Match C4), History: https://osu.ppy.sh/mp/115839787
+[22:33:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/3724231 NayutalieN - Ray Tuning
+[22:33:00] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:33:00] BanchoBot: Active mods: NoFail, HardRock
+[22:33:00] BanchoBot: Players: 4
+[22:33:00] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     
+[22:33:00] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8006029 realshin        
+[22:33:00] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        
+[22:33:00] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5449433 Ui chan         
+[22:33:00] BCraftMG: !mp start 5 glhf
+[22:33:01] BanchoBot: Match starts in 5 seconds
+[22:33:01] BanchoBot: Queued the match to start in 5 seconds
+[22:33:02] BanchoBot: Match starts in 4 seconds
+[22:33:03] BanchoBot: Match starts in 3 seconds
+[22:33:05] BanchoBot: Good luck, have fun!
+[22:33:06] BanchoBot: The match has started!
+[22:35:41] BanchoBot: realshin finished playing (Score: 342189, PASSED).
+[22:35:41] BanchoBot: SkyArrow finished playing (Score: 374986, PASSED).
+[22:35:43] BanchoBot: _ Freedom _ finished playing (Score: 288214, PASSED).
+[22:35:46] BanchoBot: Ui chan finished playing (Score: 470686, PASSED).
+[22:35:46] BanchoBot: The match has finished!
+[22:35:48] BCraftMG: !mp map 3958382 0
+[22:35:50] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3958382 Momota Momo - Akogare! Mirai! Kimi to!
+[22:35:50] BanchoBot: Changed match mode to Osu
+[22:35:51] BCraftMG: !mp mods 65
+[22:35:52] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[22:36:52] BanchoBot: All players are ready
+[22:36:58] BCraftMG: !mp settings
+[22:36:59] BanchoBot: Room name: OWC24VN: (Tryouts) vs (Match C4), History: https://osu.ppy.sh/mp/115839787
+[22:36:59] BanchoBot: Beatmap: https://osu.ppy.sh/b/3958382 Momota Momo - Akogare! Mirai! Kimi to!
+[22:36:59] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:36:59] BanchoBot: Active mods: NoFail, DoubleTime
+[22:36:59] BanchoBot: Players: 4
+[22:36:59] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     
+[22:36:59] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8006029 realshin        
+[22:36:59] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        
+[22:36:59] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5449433 Ui chan         
+[22:37:00] BCraftMG: !mp start 5 glhf
+[22:37:00] BanchoBot: Match starts in 5 seconds
+[22:37:00] BanchoBot: Queued the match to start in 5 seconds
+[22:37:01] BanchoBot: Match starts in 4 seconds
+[22:37:03] Ui_chan: !roll 1000
+[22:37:03] BanchoBot: Ui chan rolls 853 point(s)
+[22:37:03] BanchoBot: Match starts in 3 seconds
+[22:37:04] BanchoBot: Good luck, have fun!
+[22:37:05] BanchoBot: The match has started!
+[22:39:47] BanchoBot: realshin finished playing (Score: 369740, PASSED).
+[22:39:47] BanchoBot: Ui chan finished playing (Score: 455528, PASSED).
+[22:39:48] BanchoBot: _ Freedom _ finished playing (Score: 139842, PASSED).
+[22:39:50] BanchoBot: SkyArrow finished playing (Score: 135855, PASSED).
+[22:39:50] BanchoBot: The match has finished!
+[22:39:56] BCraftMG: !mp map 3311366 0
+[22:39:58] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3311366 ZUN - Nemureru Kyoufu ~ Sleeping Terror
+[22:39:58] BanchoBot: Changed match mode to Osu
+[22:40:34] BanchoBot: All players are ready
+[22:40:35] BCraftMG: !mp settings
+[22:40:37] BanchoBot: Room name: OWC24VN: (Tryouts) vs (Match C4), History: https://osu.ppy.sh/mp/115839787
+[22:40:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/3311366 ZUN - Nemureru Kyoufu ~ Sleeping Terror
+[22:40:37] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:40:37] BanchoBot: Active mods: NoFail, DoubleTime
+[22:40:37] BanchoBot: Players: 4
+[22:40:37] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     
+[22:40:37] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8006029 realshin        
+[22:40:37] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        
+[22:40:37] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5449433 Ui chan         
+[22:40:37] BCraftMG: !mp start 5 glhf
+[22:40:38] BanchoBot: Match starts in 5 seconds
+[22:40:38] BanchoBot: Queued the match to start in 5 seconds
+[22:40:39] BanchoBot: Match starts in 4 seconds
+[22:40:40] BanchoBot: Match starts in 3 seconds
+[22:40:42] BanchoBot: Good luck, have fun!
+[22:40:43] BanchoBot: The match has started!
+[22:43:44] BanchoBot: _ Freedom _ finished playing (Score: 91944, PASSED).
+[22:43:45] BanchoBot: Ui chan finished playing (Score: 61446, PASSED).
+[22:43:45] BanchoBot: SkyArrow finished playing (Score: 128320, PASSED).
+[22:43:45] BanchoBot: realshin finished playing (Score: 434560, PASSED).
+[22:43:45] BanchoBot: The match has finished!
+[22:43:57] BCraftMG: hong
+[22:43:57] BCraftMG: !mp map 3853742 0
+[22:43:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3853742 lapix - Flamenco House
+[22:43:59] BanchoBot: Changed match mode to Osu
+[22:44:29] BanchoBot: All players are ready
+[22:44:32] BCraftMG: !mp settings
+[22:44:34] BanchoBot: Room name: OWC24VN: (Tryouts) vs (Match C4), History: https://osu.ppy.sh/mp/115839787
+[22:44:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/3853742 lapix - Flamenco House
+[22:44:34] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:44:34] BanchoBot: Active mods: NoFail, DoubleTime
+[22:44:34] BanchoBot: Players: 4
+[22:44:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     
+[22:44:34] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8006029 realshin        
+[22:44:34] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        
+[22:44:34] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5449433 Ui chan         
+[22:44:35] BCraftMG: !mp start 5 glhf
+[22:44:36] BanchoBot: Match starts in 5 seconds
+[22:44:36] BanchoBot: Queued the match to start in 5 seconds
+[22:44:37] BanchoBot: Match starts in 4 seconds
+[22:44:39] BanchoBot: Match starts in 3 seconds
+[22:44:40] BanchoBot: Good luck, have fun!
+[22:44:42] BanchoBot: The match has started!
+[22:46:25] BanchoBot: realshin finished playing (Score: 293598, PASSED).
+[22:46:25] BanchoBot: Ui chan finished playing (Score: 158735, PASSED).
+[22:46:27] BanchoBot: _ Freedom _ finished playing (Score: 142343, PASSED).
+[22:46:27] BanchoBot: SkyArrow finished playing (Score: 88391, PASSED).
+[22:46:27] BanchoBot: The match has finished!
+[22:46:29] BCraftMG: !mp map 3902585 0
+[22:46:31] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3902585 Dark PHOENiX - Taketori Hishou
+[22:46:31] BanchoBot: Changed match mode to Osu
+[22:46:31] BCraftMG: !mp mods Freemod
+[22:46:32] BanchoBot: Disabled all mods, enabled FreeMod
+[22:47:02] BCraftMG: anh dom oi viet nam thieu hd
+[22:47:11] __Freedom__: che^
+[22:47:12] Ui_chan: true
+[22:47:23] BanchoBot: All players are ready
+[22:47:27] BCraftMG: !mp settings
+[22:47:28] BanchoBot: Room name: OWC24VN: (Tryouts) vs (Match C4), History: https://osu.ppy.sh/mp/115839787
+[22:47:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/3902585 Dark PHOENiX - Taketori Hishou
+[22:47:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:47:28] BanchoBot: Active mods: Freemod
+[22:47:28] BanchoBot: Players: 4
+[22:47:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     [NoFail, Hidden]
+[22:47:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8006029 realshin        [NoFail, Hidden]
+[22:47:28] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        [NoFail, HardRock]
+[22:47:28] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5449433 Ui chan         [NoFail, HardRock]
+[22:47:29] BCraftMG: !mp start 5 glhf
+[22:47:30] BanchoBot: Match starts in 5 seconds
+[22:47:30] BanchoBot: Queued the match to start in 5 seconds
+[22:47:32] BanchoBot: Match starts in 4 seconds
+[22:47:33] BanchoBot: Match starts in 3 seconds
+[22:47:34] BanchoBot: Good luck, have fun!
+[22:47:36] BanchoBot: The match has started!
+[22:51:17] BanchoBot: SkyArrow finished playing (Score: 358603, PASSED).
+[22:51:17] BanchoBot: _ Freedom _ finished playing (Score: 236868, PASSED).
+[22:51:17] BanchoBot: Ui chan finished playing (Score: 328555, PASSED).
+[22:51:19] BanchoBot: realshin finished playing (Score: 242395, PASSED).
+[22:51:19] BanchoBot: The match has finished!
+[22:51:23] BCraftMG: !mp map 4360358 0
+[22:51:24] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4360358 Toromaru - Ebb Tide
+[22:51:24] BanchoBot: Changed match mode to Osu
+[22:51:56] BanchoBot: All players are ready
+[22:52:00] BCraftMG: !mp settings
+[22:52:00] BanchoBot: Room name: OWC24VN: (Tryouts) vs (Match C4), History: https://osu.ppy.sh/mp/115839787
+[22:52:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/4360358 Toromaru - Ebb Tide
+[22:52:00] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:52:00] BanchoBot: Active mods: Freemod
+[22:52:00] BanchoBot: Players: 4
+[22:52:00] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     [NoFail, Hidden]
+[22:52:00] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8006029 realshin        [NoFail, Hidden]
+[22:52:00] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        [NoFail, HardRock]
+[22:52:00] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5449433 Ui chan         [NoFail, Hidden]
+[22:52:02] BCraftMG: !mp start 5 glhf
+[22:52:03] BanchoBot: Match starts in 5 seconds
+[22:52:03] BanchoBot: Queued the match to start in 5 seconds
+[22:52:04] BanchoBot: Match starts in 4 seconds
+[22:52:06] BanchoBot: Match starts in 3 seconds
+[22:52:07] BanchoBot: Good luck, have fun!
+[22:52:08] BanchoBot: The match has started!
+[22:55:15] BanchoBot: Ui chan finished playing (Score: 241216, PASSED).
+[22:55:15] BanchoBot: SkyArrow finished playing (Score: 171369, PASSED).
+[22:55:17] BanchoBot: _ Freedom _ finished playing (Score: 106792, PASSED).
+[22:55:18] BanchoBot: realshin finished playing (Score: 184674, PASSED).
+[22:55:18] BanchoBot: The match has finished!
+[22:55:23] BCraftMG: !mp map 3905767 0
+[22:55:24] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3905767 Tokyo Jihen - Jusui Negai -The Suicide-
+[22:55:24] BanchoBot: Changed match mode to Osu
+[22:56:02] BanchoBot: All players are ready
+[22:56:12] BCraftMG: !mp settings
+[22:56:14] BanchoBot: Room name: OWC24VN: (Tryouts) vs (Match C4), History: https://osu.ppy.sh/mp/115839787
+[22:56:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/3905767 Tokyo Jihen - Jusui Negai -The Suicide-
+[22:56:14] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:56:14] BanchoBot: Active mods: Freemod
+[22:56:14] BanchoBot: Players: 4
+[22:56:14] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     [NoFail, Hidden]
+[22:56:14] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8006029 realshin        [NoFail, Hidden]
+[22:56:14] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        [NoFail, HardRock]
+[22:56:14] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5449433 Ui chan         [NoFail, HardRock]
+[22:56:15] BCraftMG: !mp start 5 glhf
+[22:56:16] BanchoBot: Match starts in 5 seconds
+[22:56:16] BanchoBot: Queued the match to start in 5 seconds
+[22:56:17] Ui_chan: bgminecraft
+[22:56:17] BanchoBot: Match starts in 4 seconds
+[22:56:19] SkyArrow: MINING AWAY
+[22:56:19] BanchoBot: Match starts in 3 seconds
+[22:56:20] BanchoBot: Good luck, have fun!
+[22:56:22] BanchoBot: The match has started!
+[22:59:54] BanchoBot: Ui chan finished playing (Score: 164072, PASSED).
+[22:59:54] BanchoBot: SkyArrow finished playing (Score: 107111, PASSED).
+[22:59:54] BanchoBot: realshin finished playing (Score: 238192, PASSED).
+[22:59:55] BanchoBot: _ Freedom _ finished playing (Score: 237051, PASSED).
+[22:59:55] BanchoBot: The match has finished!
+[23:00:10] realshin: update sheet ik
+[23:00:12] realshin: ngoi pick team
+[23:00:13] __Freedom__: o nha r
+[23:00:16] __Freedom__: yum
+[23:00:17] SkyArrow: o nha oi
+[23:00:19] SkyArrow: roi
+[23:00:21] SkyArrow: no way
+[23:00:21] Ui_chan: !roll 1000
+[23:00:21] BanchoBot: Ui chan rolls 785 point(s)
+[23:00:22] BCraftMG: còn gui với seami btw
+[23:00:28] SkyArrow: yippeeeee
+[23:00:45] Ui_chan: https://youtu.be/SJAkyqyH0FU?t=62
+[23:00:46] BanchoBot: realshin left the game.
+[23:00:50] BanchoBot: _ Freedom _ left the game.
+[23:00:50] BanchoBot: SkyArrow left the game.
+[23:00:54] BanchoBot: Ui chan left the game.
+[23:01:15] BCraftMG: !mp close
+[23:01:16] BanchoBot: Closed the match

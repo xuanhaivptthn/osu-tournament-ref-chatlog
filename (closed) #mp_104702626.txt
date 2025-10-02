@@ -1,0 +1,499 @@
+[21:50:33] Joined #mp_104702626
+[21:50:33] DaddyStage: !mp settings
+[21:50:34] BanchoBot: Room name: VNOC4: (Markurii) vs (hotcat190), History: https://osu.ppy.sh/mp/104702626
+[21:50:34] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[21:50:34] BanchoBot: Players: 0
+[21:50:56] DaddyStage: !mp set 0 3 3
+[21:50:57] BanchoBot: Changed match settings to 3 slots, HeadToHead, ScoreV2
+[21:51:35] DaddyStage: !mp addref Hoaq
+[21:51:37] BanchoBot: Added Hoaq to the match referees
+[21:54:17] DaddyStage: !mp invite #16396650
+[21:54:18] BanchoBot: Invited Markurii to the room
+[21:54:21] DaddyStage: !mp invite #10143086
+[21:54:22] BanchoBot: Invited hotcat190 to the room
+[21:55:01] BanchoBot: hotcat190 joined in slot 1.
+[21:55:46] DaddyStage: helo
+[21:56:20] DaddyStage: xuong slot 2 nha anh
+[21:56:46] DaddyStage: !mp invite #16396650
+[21:56:47] BanchoBot: Invited Markurii to the room
+[21:56:57] Hoaq: !mp settings
+[21:56:57] BanchoBot: Room name: VNOC4: (Markurii) vs (hotcat190), History: https://osu.ppy.sh/mp/104702626
+[21:56:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:56:57] BanchoBot: Players: 1
+[21:56:57] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/10143086 hotcat190       
+[21:57:11] DaddyStage: how
+[21:57:27] Hoaq: magic
+[21:59:01] DaddyStage: !mp invite #16396650
+[21:59:02] BanchoBot: Invited Markurii to the room
+[21:59:27] Hoaq: where my man marky at
+[21:59:38] BanchoBot: Markurii joined in slot 2.
+[21:59:44] DaddyStage: day rui
+[22:00:11] Hoaq: nhớ đổi slot nhé các ng ae
+[22:00:14] Hoaq: đang lộn chỗ r
+[22:00:22] BanchoBot: Markurii moved to slot 3
+[22:00:25] BanchoBot: Markurii moved to slot 2
+[22:00:25] BanchoBot: Markurii moved to slot 3
+[22:00:35] DaddyStage: !mp move hotcat190 2
+[22:00:36] BanchoBot: hotcat190 moved to slot 2
+[22:00:36] BanchoBot: Moved hotcat190 into slot 2
+[22:00:40] BanchoBot: Markurii moved to slot 1
+[22:00:50] hotcat190: ola
+[22:00:54] DaddyStage: ola
+[22:00:55] Markurii: o/
+[22:00:57] DaddyStage: warm up?
+[22:01:00] Hoaq: alo
+[22:01:04] Markurii: oge
+[22:01:11] DaddyStage: !mp host Markurii
+[22:01:12] BanchoBot: Markurii became the host.
+[22:01:12] BanchoBot: Changed match host to Markurii
+[22:01:13] BanchoBot: Beatmap changed to: USAO - Climax (Extended Mix) [Master] (https://osu.ppy.sh/b/2779139)
+[22:01:14] hotcat190: oge
+[22:01:19] BanchoBot: Host is changing map...
+[22:01:24] DaddyStage: chắc anh nghe nhiều r nhưng <4p nha
+[22:01:34] BanchoBot: Beatmap changed to: Camellia - WYSI (When You See It) [KLEE DIMENSIONS] (https://osu.ppy.sh/b/3160036)
+[22:02:26] BanchoBot: All players are ready
+[22:02:32] BanchoBot: The match has started!
+[22:04:03] DaddyStage: !mp listrefs
+[22:04:03] BanchoBot: Match referees:
+[22:04:03] BanchoBot: Hoaq
+[22:04:03] BanchoBot: DaddyStage
+[22:05:56] BanchoBot: hotcat190 finished playing (Score: 10821, PASSED).
+[22:05:56] BanchoBot: Markurii finished playing (Score: 24176, PASSED).
+[22:05:56] BanchoBot: The match has finished!
+[22:06:15] DaddyStage: !mp host hotcat190
+[22:06:16] BanchoBot: hotcat190 became the host.
+[22:06:16] BanchoBot: Changed match host to hotcat190
+[22:06:19] BanchoBot: Host is changing map...
+[22:06:28] BanchoBot: Beatmap changed to: sasakure.UK - The EmpErroR (Full ver.) [GLiTChed REaLiTY] (https://osu.ppy.sh/b/2833079)
+[22:06:35] DaddyStage: map da brokey client cua Hoaq :tf:
+[22:07:38] BanchoBot: All players are ready
+[22:07:41] BanchoBot: The match has started!
+[22:09:47] BanchoBot: hotcat190 finished playing (Score: 62196, FAILED).
+[22:09:50] BanchoBot: Markurii finished playing (Score: 53005, FAILED).
+[22:09:50] BanchoBot: The match has finished!
+[22:10:02] DaddyStage: !mp clearhost
+[22:10:03] BanchoBot: Cleared match host
+[22:10:08] DaddyStage: ua fail
+[22:10:22] DaddyStage: anyway 2 anh roll đi
+[22:10:25] Hoaq: :yep:
+[22:10:30] hotcat190: !roll
+[22:10:30] BanchoBot: hotcat190 rolls 46 point(s)
+[22:10:30] Hoaq: !vcl pool on
+[22:10:36] Markurii: tron time
+[22:10:38] Markurii: !roll
+[22:10:38] BanchoBot: Markurii rolls 50 point(s)
+[22:10:58] Markurii: sheeszh
+[22:11:00] DaddyStage: Markurii chọn pick/ban order
+[22:11:12] DaddyStage: 1st ban = 1st protect
+[22:11:21] Markurii: ban first
+[22:11:47] DaddyStage: hotcat190 chọn ban order
+[22:11:51] DaddyStage: pick*
+[22:12:09] hotcat190: la sao
+[22:12:12] hotcat190: a
+[22:12:14] hotcat190: pick trc
+[22:12:27] Hoaq: !vcl setf --protect red --ban red --pick blue
+[22:12:42] Hoaq: protect đi các pri
+[22:12:43] DaddyStage: Markurii protect
+[22:12:58] Markurii: hd2
+[22:13:12] Hoaq: !vcl protect red 3035172 0
+[22:13:23] hotcat190: hr2
+[22:13:34] DaddyStage: :D
+[22:13:35] Hoaq: !vcl protect blue 2457802 0
+[22:13:44] DaddyStage: đến lượt ban của Markurii
+[22:13:45] DaddyStage: !mp timer 120
+[22:13:46] BanchoBot: Countdown ends in 2 minutes
+[22:13:46] Markurii: AAAAAAAAAAAAAAAAAAA
+[22:13:56] hotcat190: la sao
+[22:14:09] Markurii: ban hr3
+[22:14:20] DaddyStage: hotcat190 ban
+[22:14:23] Hoaq: !vcl ban red 1740092 1
+[22:14:23] DaddyStage: !mp timer 120
+[22:14:24] BanchoBot: Countdown aborted
+[22:14:24] BanchoBot: Countdown ends in 2 minutes
+[22:14:51] hotcat190: nm6
+[22:15:05] Hoaq: !vcl ban blue 3583984 1
+[22:15:08] DaddyStage: Markurii | 0 - 0 | hotcat190 // First Pick: hotcat190
+[22:15:11] DaddyStage: !mp timer 120
+[22:15:11] BanchoBot: Countdown aborted
+[22:15:11] BanchoBot: Countdown ends in 2 minutes
+[22:15:29] hotcat190: nm3
+[22:15:41] DaddyStage: !mp map 3157178 0
+[22:15:42] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3157178 Tsukuyomi - Dareka no Shinzou ni Nareta nara
+[22:15:42] BanchoBot: Changed match mode to Osu
+[22:15:43] DaddyStage: !mp mods 1
+[22:15:44] Hoaq: !vcl pick blue 3157178 2
+[22:15:44] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:15:45] DaddyStage: !mp timer 120
+[22:15:45] BanchoBot: Countdown aborted
+[22:15:45] BanchoBot: Countdown ends in 2 minutes
+[22:16:08] BanchoBot: All players are ready
+[22:16:13] DaddyStage: !mp settings
+[22:16:14] BanchoBot: Room name: VNOC4: (Markurii) vs (hotcat190), History: https://osu.ppy.sh/mp/104702626
+[22:16:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/3157178 Tsukuyomi - Dareka no Shinzou ni Nareta nara
+[22:16:14] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:16:14] BanchoBot: Active mods: NoFail
+[22:16:14] BanchoBot: Players: 2
+[22:16:14] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16396650 Markurii        
+[22:16:14] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10143086 hotcat190       
+[22:16:17] DaddyStage: !mp start 5 glhf
+[22:16:18] BanchoBot: Countdown aborted
+[22:16:18] BanchoBot: Match starts in 5 seconds
+[22:16:18] BanchoBot: Queued the match to start in 5 seconds
+[22:16:19] BanchoBot: Match starts in 4 seconds
+[22:16:20] BanchoBot: Match starts in 3 seconds
+[22:16:21] BanchoBot: Good luck, have fun!
+[22:16:23] BanchoBot: The match has started!
+[22:20:21] BanchoBot: Markurii finished playing (Score: 297257, PASSED).
+[22:20:21] BanchoBot: hotcat190 finished playing (Score: 310126, PASSED).
+[22:20:21] BanchoBot: The match has finished!
+[22:20:25] DaddyStage: Markurii | 0 - 1 | hotcat190 // Next Pick: Markurii
+[22:20:28] DaddyStage: !mp timer 120
+[22:20:29] BanchoBot: Countdown ends in 2 minutes
+[22:21:00] Markurii: dt2
+[22:21:12] Hoaq: !vcl pick red 1761258 2
+[22:21:15] DaddyStage: !mp map 1761258 0
+[22:21:15] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1761258 HACHI feat. Hatsune Miku - Suna no Wakusei
+[22:21:15] BanchoBot: Changed match mode to Osu
+[22:21:18] DaddyStage: !mp mods 65
+[22:21:18] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[22:21:21] DaddyStage: !mp timer 120
+[22:21:22] BanchoBot: Countdown aborted
+[22:21:22] BanchoBot: Countdown ends in 2 minutes
+[22:21:43] Markurii: [no map]
+[22:21:45] DaddyStage: !mp settings
+[22:21:45] BanchoBot: Room name: VNOC4: (Markurii) vs (hotcat190), History: https://osu.ppy.sh/mp/104702626
+[22:21:45] BanchoBot: Beatmap: https://osu.ppy.sh/b/1761258 HACHI feat. Hatsune Miku - Suna no Wakusei
+[22:21:45] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:21:45] BanchoBot: Active mods: NoFail, DoubleTime
+[22:21:45] BanchoBot: Players: 2
+[22:21:45] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/16396650 Markurii        
+[22:21:45] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/10143086 hotcat190       
+[22:21:54] BanchoBot: All players are ready
+[22:21:56] DaddyStage: !mp settings
+[22:21:57] BanchoBot: Room name: VNOC4: (Markurii) vs (hotcat190), History: https://osu.ppy.sh/mp/104702626
+[22:21:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/1761258 HACHI feat. Hatsune Miku - Suna no Wakusei
+[22:21:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:21:57] BanchoBot: Active mods: NoFail, DoubleTime
+[22:21:57] BanchoBot: Players: 2
+[22:21:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16396650 Markurii        
+[22:21:57] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10143086 hotcat190       
+[22:21:57] hotcat190: cai nay nhac maimai ha
+[22:22:01] DaddyStage: !mp start 5 glhf
+[22:22:01] BanchoBot: Countdown aborted
+[22:22:01] BanchoBot: Match starts in 5 seconds
+[22:22:01] BanchoBot: Queued the match to start in 5 seconds
+[22:22:02] BanchoBot: Match starts in 4 seconds
+[22:22:03] BanchoBot: Match starts in 3 seconds
+[22:22:04] BanchoBot: Good luck, have fun!
+[22:22:06] BanchoBot: The match has started!
+[22:24:48] BanchoBot: hotcat190 finished playing (Score: 370717, PASSED).
+[22:24:49] BanchoBot: Markurii finished playing (Score: 439185, PASSED).
+[22:24:49] BanchoBot: The match has finished!
+[22:25:00] DaddyStage: Markurii | 1 - 1 | hotcat190 // Next Pick: hotcat190
+[22:25:02] DaddyStage: !mp timer 120
+[22:25:02] BanchoBot: Countdown ends in 2 minutes
+[22:25:33] hotcat190: hr1
+[22:25:44] DaddyStage: !mp map 1419954 0
+[22:25:44] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1419954 EMILIA (CV: Takahashi Rie) - Stay Alive (Jun Kuroda Bootleg Remix)
+[22:25:44] BanchoBot: Changed match mode to Osu
+[22:25:47] DaddyStage: !vcl pick blue 1419954 3
+[22:25:51] DaddyStage: !mp mods 17
+[22:25:52] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[22:25:53] DaddyStage: !mp timer 120
+[22:25:54] BanchoBot: Countdown aborted
+[22:25:54] BanchoBot: Countdown ends in 2 minutes
+[22:25:57] Hoaq: !vcl pick blue 1419954 3
+[22:26:20] Hoaq: !vcl pool off
+[22:26:50] BanchoBot: All players are ready
+[22:26:55] BanchoBot: Countdown ends in 1 minute
+[22:26:55] DaddyStage: !mp settings
+[22:26:56] BanchoBot: Room name: VNOC4: (Markurii) vs (hotcat190), History: https://osu.ppy.sh/mp/104702626
+[22:26:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/1419954 EMILIA (CV: Takahashi Rie) - Stay Alive (Jun Kuroda Bootleg Remix)
+[22:26:56] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:26:56] BanchoBot: Active mods: NoFail, HardRock
+[22:26:56] BanchoBot: Players: 2
+[22:26:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16396650 Markurii        
+[22:26:56] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10143086 hotcat190       
+[22:27:00] DaddyStage: !mp start 5 glhf
+[22:27:01] BanchoBot: Countdown aborted
+[22:27:01] BanchoBot: Match starts in 5 seconds
+[22:27:01] BanchoBot: Queued the match to start in 5 seconds
+[22:27:03] BanchoBot: Match starts in 4 seconds
+[22:27:03] BanchoBot: Match starts in 3 seconds
+[22:27:04] BanchoBot: Good luck, have fun!
+[22:27:07] BanchoBot: The match has started!
+[22:31:00] BanchoBot: Markurii finished playing (Score: 325358, PASSED).
+[22:31:04] BanchoBot: hotcat190 finished playing (Score: 351527, PASSED).
+[22:31:04] BanchoBot: The match has finished!
+[22:31:20] DaddyStage: Markurii | 1 - 2 | hotcat190 // Next Pick: Markurii
+[22:31:21] DaddyStage: !mp timer 120
+[22:31:22] BanchoBot: Countdown ends in 2 minutes
+[22:32:00] Markurii: dt1
+[22:32:10] DaddyStage: !mp map 2699138 0
+[22:32:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2699138 Murasaki Shion - KING
+[22:32:10] BanchoBot: Changed match mode to Osu
+[22:32:12] DaddyStage: !mp mods 65
+[22:32:13] Hoaq: !vcl pick red 2699138 3
+[22:32:13] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[22:32:15] DaddyStage: !mp timer 120
+[22:32:15] BanchoBot: Countdown aborted
+[22:32:15] BanchoBot: Countdown ends in 2 minutes
+[22:32:26] Hoaq: !vcl pick red 2699138 3
+[22:32:41] BanchoBot: All players are ready
+[22:32:52] DaddyStage: nhung tai sao hotcat win dt2 @hoaq
+[22:33:00] Hoaq: idk
+[22:33:01] DaddyStage: !mp settings
+[22:33:02] BanchoBot: Room name: VNOC4: (Markurii) vs (hotcat190), History: https://osu.ppy.sh/mp/104702626
+[22:33:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/2699138 Murasaki Shion - KING
+[22:33:02] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:33:02] BanchoBot: Active mods: NoFail, DoubleTime
+[22:33:02] BanchoBot: Players: 2
+[22:33:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16396650 Markurii        
+[22:33:02] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10143086 hotcat190       
+[22:33:02] DaddyStage: !mp start 5 glhf
+[22:33:03] BanchoBot: Countdown aborted
+[22:33:03] BanchoBot: Match starts in 5 seconds
+[22:33:03] BanchoBot: Queued the match to start in 5 seconds
+[22:33:04] BanchoBot: Match starts in 4 seconds
+[22:33:05] BanchoBot: Match starts in 3 seconds
+[22:33:06] hotcat190: la sao
+[22:33:06] BanchoBot: Good luck, have fun!
+[22:33:08] BanchoBot: The match has started!
+[22:34:45] BanchoBot: Markurii finished playing (Score: 992970, PASSED).
+[22:34:46] BanchoBot: hotcat190 finished playing (Score: 485858, PASSED).
+[22:34:46] BanchoBot: The match has finished!
+[22:35:03] Markurii: la sao
+[22:35:05] DaddyStage: Markurii | 2 - 2 | hotcat190 // Next Ban: Markurii
+[22:35:09] DaddyStage: !mp timer 120
+[22:35:10] BanchoBot: Countdown ends in 2 minutes
+[22:35:21] Hoaq: !vcl pool on
+[22:35:35] Markurii: hd3
+[22:35:44] Hoaq: !vcl ban red 3829082 4
+[22:35:49] DaddyStage: hotcat190 ban
+[22:35:51] DaddyStage: !mp timer 120
+[22:35:52] BanchoBot: Countdown aborted
+[22:35:52] BanchoBot: Countdown ends in 2 minutes
+[22:35:55] hotcat190: dt3
+[22:36:14] DaddyStage: !vcl ban blue 146299 4
+[22:36:27] DaddyStage: Next Pick: hotcat190
+[22:36:28] DaddyStage: !mp timer 120
+[22:36:30] BanchoBot: Countdown aborted
+[22:36:30] BanchoBot: Countdown ends in 2 minutes
+[22:36:35] hotcat190: hr2
+[22:36:57] DaddyStage: !mp map 2457802 0
+[22:36:58] Hoaq: !vcl pick blue 2457802 5
+[22:36:58] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2457802 Laur - Fairy in Strasbourg
+[22:36:58] BanchoBot: Changed match mode to Osu
+[22:37:00] DaddyStage: !mp mods 17
+[22:37:01] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[22:37:04] DaddyStage: !mp timer 120
+[22:37:05] BanchoBot: Countdown aborted
+[22:37:05] BanchoBot: Countdown ends in 2 minutes
+[22:37:22] BanchoBot: All players are ready
+[22:37:38] DaddyStage: !mp settings
+[22:37:38] BanchoBot: Room name: VNOC4: (Markurii) vs (hotcat190), History: https://osu.ppy.sh/mp/104702626
+[22:37:38] BanchoBot: Beatmap: https://osu.ppy.sh/b/2457802 Laur - Fairy in Strasbourg
+[22:37:38] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:37:38] BanchoBot: Active mods: NoFail, HardRock
+[22:37:38] BanchoBot: Players: 2
+[22:37:38] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16396650 Markurii        
+[22:37:38] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10143086 hotcat190       
+[22:37:40] DaddyStage: !mp start 5 glhf
+[22:37:41] BanchoBot: Countdown aborted
+[22:37:41] BanchoBot: Match starts in 5 seconds
+[22:37:41] BanchoBot: Queued the match to start in 5 seconds
+[22:37:43] BanchoBot: Match starts in 4 seconds
+[22:37:44] BanchoBot: Match starts in 3 seconds
+[22:37:45] BanchoBot: Good luck, have fun!
+[22:37:47] BanchoBot: The match has started!
+[22:39:50] BanchoBot: Markurii finished playing (Score: 144241, PASSED).
+[22:39:50] BanchoBot: hotcat190 finished playing (Score: 453535, PASSED).
+[22:39:50] BanchoBot: The match has finished!
+[22:40:01] DaddyStage: Markurii | 2 - 3 | hotcat190 // Next Pick: Markurii
+[22:40:02] DaddyStage: !mp timer 120
+[22:40:02] BanchoBot: Countdown ends in 2 minutes
+[22:40:26] Markurii: hd2
+[22:40:39] DaddyStage: !mp map 3035172 0
+[22:40:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3035172 ALiCE'S EMOTiON - Lorelei
+[22:40:39] BanchoBot: Changed match mode to Osu
+[22:40:41] DaddyStage: !mp mods 9
+[22:40:42] Hoaq: !vcl pick red 3035172 5
+[22:40:42] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[22:40:43] DaddyStage: !mp timer 120
+[22:40:44] BanchoBot: Countdown aborted
+[22:40:44] BanchoBot: Countdown ends in 2 minutes
+[22:41:17] BanchoBot: All players are ready
+[22:41:19] DaddyStage: !mp settings
+[22:41:20] BanchoBot: Room name: VNOC4: (Markurii) vs (hotcat190), History: https://osu.ppy.sh/mp/104702626
+[22:41:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/3035172 ALiCE'S EMOTiON - Lorelei
+[22:41:20] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:41:20] BanchoBot: Active mods: NoFail, Hidden
+[22:41:20] BanchoBot: Players: 2
+[22:41:20] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16396650 Markurii        
+[22:41:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10143086 hotcat190       
+[22:41:23] DaddyStage: !mp start 5 glhf
+[22:41:24] BanchoBot: Countdown aborted
+[22:41:24] BanchoBot: Match starts in 5 seconds
+[22:41:24] BanchoBot: Queued the match to start in 5 seconds
+[22:41:25] BanchoBot: Match starts in 4 seconds
+[22:41:26] BanchoBot: Match starts in 3 seconds
+[22:41:27] BanchoBot: Good luck, have fun!
+[22:41:29] BanchoBot: The match has started!
+[22:43:39] DaddyStage: !mp addref Salt-Ranocchio
+[22:43:39] BanchoBot: Added Salt-Ranocchio to the match referees
+[22:43:58] Salt-Ranocchio: !mp settings
+[22:43:58] BanchoBot: Room name: VNOC4: (Markurii) vs (hotcat190), History: https://osu.ppy.sh/mp/104702626
+[22:43:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/3035172 ALiCE'S EMOTiON - Lorelei
+[22:43:58] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:43:58] BanchoBot: Active mods: NoFail, Hidden
+[22:43:58] BanchoBot: Players: 2
+[22:43:58] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/16396650 Markurii        
+[22:43:58] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/10143086 hotcat190       
+[22:44:54] BanchoBot: Markurii finished playing (Score: 360307, PASSED).
+[22:44:54] BanchoBot: hotcat190 finished playing (Score: 172653, PASSED).
+[22:44:54] BanchoBot: The match has finished!
+[22:44:55] Hoaq: ai hoi khong guru
+[22:44:58] DaddyStage: Markurii | 3 - 3 | hotcat190 // Next Pick: hotcat190
+[22:44:59] DaddyStage: !mp timer 120
+[22:44:59] Hoaq: vao go lai lenh tu dau nhe
+[22:44:59] BanchoBot: Countdown ends in 2 minutes
+[22:45:00] Hoaq: thx
+[22:45:23] DaddyStage: augh
+[22:45:31] Salt-Ranocchio: hi
+[22:45:32] DaddyStage: !vcl pool on
+[22:45:33] hotcat190: dt4
+[22:45:35] Salt-Ranocchio: chảo cả 2
+[22:45:39] Salt-Ranocchio: buổi tối vui vẻ
+[22:45:45] Salt-Ranocchio: tb go brrr
+[22:45:56] DaddyStage: !vcl protect red 3035172 0
+[22:46:00] BanchoBot: Countdown ends in 1 minute
+[22:46:13] DaddyStage: !mp aborttimer
+[22:46:14] BanchoBot: Countdown aborted
+[22:46:14] DaddyStage: !vcl protect blue 2457802 0
+[22:46:20] DaddyStage: !vcl ban red 1740092 1
+[22:46:25] DaddyStage: !vcl ban blue 3583984 1
+[22:46:30] DaddyStage: !vcl pick blue 3157178 2
+[22:46:35] DaddyStage: !vcl pick red 1761258 2
+[22:46:42] DaddyStage: !vcl pick blue 1419954 3
+[22:46:46] DaddyStage: !vcl pick red 2699138 3
+[22:46:50] DaddyStage: !vcl ban red 3829082 4
+[22:46:54] DaddyStage: !vcl ban blue 146299 4
+[22:46:58] DaddyStage: !vcl pick blue 2457802 5
+[22:47:02] DaddyStage: !vcl pick red 3035172 5
+[22:47:06] DaddyStage: !vcl pick blue 3121053 6
+[22:47:09] DaddyStage: !mp map 3121053 0
+[22:47:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3121053 Mark Keali'i Ho'omalu & Kamehameha Schools Children's Chorus - Hawaiian Roller Coaster Ride
+[22:47:10] BanchoBot: Changed match mode to Osu
+[22:47:12] DaddyStage: !mp mods 65
+[22:47:12] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[22:47:14] DaddyStage: !mp timer 120
+[22:47:14] BanchoBot: Countdown ends in 2 minutes
+[22:47:37] BanchoBot: All players are ready
+[22:47:40] DaddyStage: !mp settings
+[22:47:42] BanchoBot: Room name: VNOC4: (Markurii) vs (hotcat190), History: https://osu.ppy.sh/mp/104702626
+[22:47:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/3121053 Mark Keali'i Ho'omalu & Kamehameha Schools Children's Chorus - Hawaiian Roller Coaster Ride
+[22:47:42] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:47:42] BanchoBot: Active mods: NoFail, DoubleTime
+[22:47:42] BanchoBot: Players: 2
+[22:47:42] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16396650 Markurii        
+[22:47:42] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10143086 hotcat190       
+[22:47:43] DaddyStage: !mp start 5 glhf
+[22:47:44] BanchoBot: Countdown aborted
+[22:47:44] BanchoBot: Match starts in 5 seconds
+[22:47:44] BanchoBot: Queued the match to start in 5 seconds
+[22:47:45] BanchoBot: Match starts in 4 seconds
+[22:47:46] BanchoBot: Match starts in 3 seconds
+[22:47:47] BanchoBot: Good luck, have fun!
+[22:47:49] BanchoBot: The match has started!
+[22:50:15] BanchoBot: Markurii finished playing (Score: 317854, PASSED).
+[22:50:15] BanchoBot: hotcat190 finished playing (Score: 610554, PASSED).
+[22:50:15] BanchoBot: The match has finished!
+[22:50:29] Salt-Ranocchio: Markurii | 3 - 4 | hotcat190 // Next Pick: Markurii
+[22:50:34] Salt-Ranocchio: !mp timer 120
+[22:50:34] BanchoBot: Countdown ends in 2 minutes
+[22:51:00] Markurii: nm5
+[22:51:10] DaddyStage: !mp map 2646572 0
+[22:51:10] Salt-Ranocchio: !vcl pick red 2646572 6
+[22:51:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2646572 UNDEAD CORPORATION - Bleed, hate, curse, and die
+[22:51:11] BanchoBot: Changed match mode to Osu
+[22:51:12] Salt-Ranocchio: !mp map 2646572 0
+[22:51:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2646572 UNDEAD CORPORATION - Bleed, hate, curse, and die
+[22:51:12] BanchoBot: Changed match mode to Osu
+[22:51:15] Salt-Ranocchio: !mp mods 1
+[22:51:15] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:51:17] DaddyStage: :tf:
+[22:51:28] BanchoBot: All players are ready
+[22:51:29] hotcat190: omg sr akwi
+[22:51:32] Salt-Ranocchio: !mp start 5 GLHF!
+[22:51:32] BanchoBot: Countdown aborted
+[22:51:32] BanchoBot: Match starts in 5 seconds
+[22:51:32] BanchoBot: Queued the match to start in 5 seconds
+[22:51:33] BanchoBot: Match starts in 4 seconds
+[22:51:34] BanchoBot: Match starts in 3 seconds
+[22:51:35] BanchoBot: Good luck, have fun!
+[22:51:37] BanchoBot: The match has started!
+[22:55:10] BanchoBot: hotcat190 finished playing (Score: 305354, PASSED).
+[22:55:10] BanchoBot: Markurii finished playing (Score: 392863, PASSED).
+[22:55:10] BanchoBot: The match has finished!
+[22:55:29] Salt-Ranocchio: Markurii | 4 - 4 | hotcat190 // Next Pick: hotcat190
+[22:55:30] Salt-Ranocchio: !mp timer 120
+[22:55:30] BanchoBot: Countdown ends in 2 minutes
+[22:55:48] hotcat190: nm4
+[22:55:57] Salt-Ranocchio: !vcl pick blue 2779139 7
+[22:56:00] Salt-Ranocchio: !mp map 2779139 0
+[22:56:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2779139 USAO - Climax (Extended Mix)
+[22:56:00] BanchoBot: Changed match mode to Osu
+[22:56:02] Salt-Ranocchio: !mp mods 1
+[22:56:02] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:56:14] BanchoBot: All players are ready
+[22:56:23] Salt-Ranocchio: !mp start 5 GLHF!
+[22:56:23] BanchoBot: Countdown aborted
+[22:56:23] BanchoBot: Match starts in 5 seconds
+[22:56:23] BanchoBot: Queued the match to start in 5 seconds
+[22:56:24] BanchoBot: Match starts in 4 seconds
+[22:56:25] BanchoBot: Match starts in 3 seconds
+[22:56:26] BanchoBot: Good luck, have fun!
+[22:56:28] BanchoBot: The match has started!
+[23:00:14] BanchoBot: Markurii finished playing (Score: 244248, PASSED).
+[23:00:15] BanchoBot: hotcat190 finished playing (Score: 195189, PASSED).
+[23:00:15] BanchoBot: The match has finished!
+[23:00:32] Salt-Ranocchio: Markurii | 5 - 4 | hotcat190 // Next Pick: Markurii
+[23:00:33] Salt-Ranocchio: !mp timer 120
+[23:00:33] BanchoBot: Countdown ends in 2 minutes
+[23:01:02] Markurii: nm1
+[23:01:03] Salt-Ranocchio: Nm1 Nm2 Hd1
+[23:01:11] Salt-Ranocchio: !vcl pick red 3056372 7
+[23:01:14] DaddyStage: !mp mods 1
+[23:01:14] Salt-Ranocchio: !mp map 3056372 0
+[23:01:14] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3056372 ShinRa-Bansho - Pink Kurage to, Sotto, Kiss o Shita.
+[23:01:14] BanchoBot: Changed match mode to Osu
+[23:01:14] BanchoBot: Enabled NoFail, disabled FreeMod
+[23:01:16] Salt-Ranocchio: !mp mods 1
+[23:01:16] BanchoBot: Enabled NoFail, disabled FreeMod
+[23:01:33] BanchoBot: Countdown ends in 1 minute
+[23:01:49] BanchoBot: All players are ready
+[23:01:50] Salt-Ranocchio: !mp start 5 GLHF!
+[23:01:50] BanchoBot: Countdown aborted
+[23:01:50] BanchoBot: Match starts in 5 seconds
+[23:01:50] BanchoBot: Queued the match to start in 5 seconds
+[23:01:51] BanchoBot: Match starts in 4 seconds
+[23:01:52] BanchoBot: Match starts in 3 seconds
+[23:01:52] Salt-Ranocchio: ngủ
+[23:01:53] BanchoBot: Good luck, have fun!
+[23:01:54] BanchoBot: The match has started!
+[23:01:55] Salt-Ranocchio: glhf
+[23:05:51] BanchoBot: hotcat190 finished playing (Score: 356916, PASSED).
+[23:05:51] BanchoBot: Markurii finished playing (Score: 434163, PASSED).
+[23:05:51] BanchoBot: The match has finished!
+[23:05:59] hotcat190: ggwp
+[23:06:03] hotcat190: tks for
+[23:06:03] Markurii: GGWP
+[23:06:06] hotcat190: o/
+[23:06:07] Salt-Ranocchio: Congrats to Markurii for winning this match! GGWP both teams!
+[23:06:07] BanchoBot: hotcat190 left the game.
+[23:06:17] Markurii: LETSG O
+[23:06:23] Markurii: TY FOR REF AND STREAM
+[23:06:30] DaddyStage: o7
+[23:06:33] BanchoBot: Markurii left the game.
+[23:06:42] DaddyStage: !mp close
+[23:06:42] BanchoBot: Closed the match

@@ -1,0 +1,268 @@
+[01:10:06] Joined #mp_112275826
+[01:10:06] BCraftMG: !mp settings
+[01:10:07] BanchoBot: Room name: PTFM2: (Qualifiers) vs (A5), History: https://osu.ppy.sh/mp/112275826
+[01:10:07] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[01:10:07] BanchoBot: Players: 0
+[01:10:26] BCraftMG: !mp set 0 3 3
+[01:10:27] BanchoBot: Changed match settings to 3 slots, HeadToHead, ScoreV2
+[01:10:27] BCraftMG: !mp invite ielia
+[01:10:28] BanchoBot: Invited ielia to the room
+[01:10:29] BCraftMG: !mp mods 1
+[01:10:30] BanchoBot: Enabled NoFail, disabled FreeMod
+[01:10:33] BCraftMG: !mp map 3956470
+[01:10:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3956470 Draw the Emotional - Leia - Remind
+[01:10:36] BanchoBot: ielia joined in slot 1.
+[01:10:46] ielia: hii
+[01:10:48] BanchoBot: All players are ready
+[01:10:50] BCraftMG: !mp settings
+[01:10:51] BanchoBot: Room name: PTFM2: (Qualifiers) vs (A5), History: https://osu.ppy.sh/mp/112275826
+[01:10:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/3956470 Draw the Emotional - Leia - Remind
+[01:10:51] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:10:51] BanchoBot: Active mods: NoFail
+[01:10:51] BanchoBot: Players: 1
+[01:10:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15145155 ielia           
+[01:10:52] BCraftMG: !mp start 5 glhf
+[01:10:52] BanchoBot: Match starts in 5 seconds
+[01:10:52] BanchoBot: Queued the match to start in 5 seconds
+[01:10:54] BanchoBot: Match starts in 4 seconds
+[01:10:54] BanchoBot: Match starts in 3 seconds
+[01:10:55] BanchoBot: Good luck, have fun!
+[01:10:57] BanchoBot: The match has started!
+[01:15:14] BanchoBot: ielia finished playing (Score: 600252, PASSED).
+[01:15:14] BanchoBot: The match has finished!
+[01:15:16] BCraftMG: !mp map 4190716
+[01:15:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4190716 69 de 74 - RTTR
+[01:15:47] BanchoBot: All players are ready
+[01:15:55] BCraftMG: !mp settings
+[01:15:56] BanchoBot: Room name: PTFM2: (Qualifiers) vs (A5), History: https://osu.ppy.sh/mp/112275826
+[01:15:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/4190716 69 de 74 - RTTR
+[01:15:56] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:15:56] BanchoBot: Active mods: NoFail
+[01:15:56] BanchoBot: Players: 1
+[01:15:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15145155 ielia           
+[01:15:56] BCraftMG: !mp start 5 glhf
+[01:15:57] BanchoBot: Match starts in 5 seconds
+[01:15:57] BanchoBot: Queued the match to start in 5 seconds
+[01:15:58] BanchoBot: Match starts in 4 seconds
+[01:15:59] BanchoBot: Match starts in 3 seconds
+[01:16:00] BanchoBot: Good luck, have fun!
+[01:16:02] BanchoBot: The match has started!
+[01:18:17] BanchoBot: ielia finished playing (Score: 389962, PASSED).
+[01:18:17] BanchoBot: The match has finished!
+[01:18:20] BCraftMG: !mp map 4187402
+[01:18:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4187402 FELT - Summer Fever
+[01:18:37] BanchoBot: All players are ready
+[01:18:39] BCraftMG: !mp settings
+[01:18:39] BanchoBot: Room name: PTFM2: (Qualifiers) vs (A5), History: https://osu.ppy.sh/mp/112275826
+[01:18:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/4187402 FELT - Summer Fever
+[01:18:39] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:18:39] BanchoBot: Active mods: NoFail
+[01:18:40] BanchoBot: Players: 1
+[01:18:40] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15145155 ielia           
+[01:18:40] BCraftMG: !mp start 5 glhf
+[01:18:40] BanchoBot: Match starts in 5 seconds
+[01:18:40] BanchoBot: Queued the match to start in 5 seconds
+[01:18:42] BanchoBot: Match starts in 4 seconds
+[01:18:43] BanchoBot: Match starts in 3 seconds
+[01:18:44] BanchoBot: Good luck, have fun!
+[01:18:46] BanchoBot: The match has started!
+[01:22:48] BanchoBot: ielia finished playing (Score: 639988, PASSED).
+[01:22:48] BanchoBot: The match has finished!
+[01:22:59] BCraftMG: !mp map 4457737
+[01:23:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4457737 tokiwa - Gemini
+[01:23:13] BanchoBot: All players are ready
+[01:23:15] BCraftMG: !mp settings
+[01:23:15] BanchoBot: Room name: PTFM2: (Qualifiers) vs (A5), History: https://osu.ppy.sh/mp/112275826
+[01:23:15] BanchoBot: Beatmap: https://osu.ppy.sh/b/4457737 tokiwa - Gemini
+[01:23:15] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:23:15] BanchoBot: Active mods: NoFail
+[01:23:15] BanchoBot: Players: 1
+[01:23:15] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15145155 ielia           
+[01:23:16] BCraftMG: !mp start 5 glhf
+[01:23:16] BanchoBot: Match starts in 5 seconds
+[01:23:16] BanchoBot: Queued the match to start in 5 seconds
+[01:23:17] BanchoBot: Match starts in 4 seconds
+[01:23:18] BanchoBot: Match starts in 3 seconds
+[01:23:19] BanchoBot: Good luck, have fun!
+[01:23:21] BanchoBot: The match has started!
+[01:26:21] BanchoBot: ielia finished playing (Score: 928373, PASSED).
+[01:26:21] BanchoBot: The match has finished!
+[01:26:25] BCraftMG: !mp map 3701331
+[01:26:25] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3701331 Ryu - I'm so Happy
+[01:26:26] BCraftMG: !mp mods NF HD
+[01:26:27] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[01:27:06] BanchoBot: All players are ready
+[01:27:08] BCraftMG: !mp settings
+[01:27:09] BanchoBot: Room name: PTFM2: (Qualifiers) vs (A5), History: https://osu.ppy.sh/mp/112275826
+[01:27:09] BanchoBot: Beatmap: https://osu.ppy.sh/b/3701331 Ryu - I'm so Happy
+[01:27:09] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:27:09] BanchoBot: Active mods: NoFail, Hidden
+[01:27:09] BanchoBot: Players: 1
+[01:27:09] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15145155 ielia           
+[01:27:10] BCraftMG: !mp start 5 glhf
+[01:27:10] BanchoBot: Match starts in 5 seconds
+[01:27:10] BanchoBot: Queued the match to start in 5 seconds
+[01:27:12] BanchoBot: Match starts in 4 seconds
+[01:27:12] BanchoBot: Match starts in 3 seconds
+[01:27:13] BanchoBot: Good luck, have fun!
+[01:27:15] BanchoBot: The match has started!
+[01:29:03] BanchoBot: ielia finished playing (Score: 332396, PASSED).
+[01:29:03] BanchoBot: The match has finished!
+[01:29:05] BCraftMG: !mp map 3686466
+[01:29:06] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3686466 Last Note. - Mukiryoku Coup D'Etat
+[01:29:06] BCraftMG: !mp mods NF HR
+[01:29:07] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[01:29:21] BanchoBot: All players are ready
+[01:29:27] BCraftMG: !mp settings
+[01:29:29] BanchoBot: Room name: PTFM2: (Qualifiers) vs (A5), History: https://osu.ppy.sh/mp/112275826
+[01:29:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/3686466 Last Note. - Mukiryoku Coup D'Etat
+[01:29:29] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:29:29] BanchoBot: Active mods: NoFail, HardRock
+[01:29:29] BanchoBot: Players: 1
+[01:29:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15145155 ielia           
+[01:29:30] BCraftMG: !mp start 5 glhf
+[01:29:30] BanchoBot: Match starts in 5 seconds
+[01:29:30] BanchoBot: Queued the match to start in 5 seconds
+[01:29:32] BanchoBot: Match starts in 4 seconds
+[01:29:32] BanchoBot: Match starts in 3 seconds
+[01:29:33] BanchoBot: Good luck, have fun!
+[01:29:36] BanchoBot: The match has started!
+[01:33:37] BanchoBot: ielia finished playing (Score: 436088, PASSED).
+[01:33:37] BanchoBot: The match has finished!
+[01:33:53] BCraftMG: !mp map 2833027
+[01:33:53] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2833027 Wavves - Super Soaker
+[01:34:01] BCraftMG: !mp mods NF EZ
+[01:34:01] BanchoBot: Enabled NoFail, Easy, disabled FreeMod
+[01:34:24] BanchoBot: All players are ready
+[01:34:26] BCraftMG: !mp settings
+[01:34:27] BanchoBot: Room name: PTFM2: (Qualifiers) vs (A5), History: https://osu.ppy.sh/mp/112275826
+[01:34:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/2833027 Wavves - Super Soaker
+[01:34:27] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:34:27] BanchoBot: Active mods: NoFail, Easy
+[01:34:27] BanchoBot: Players: 1
+[01:34:27] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15145155 ielia           
+[01:34:27] BCraftMG: !mp start 5 glhf
+[01:34:28] BanchoBot: Match starts in 5 seconds
+[01:34:28] BanchoBot: Queued the match to start in 5 seconds
+[01:34:29] BanchoBot: Match starts in 4 seconds
+[01:34:30] BanchoBot: Match starts in 3 seconds
+[01:34:31] BanchoBot: Good luck, have fun!
+[01:34:33] BanchoBot: The match has started!
+[01:37:10] BanchoBot: ielia finished playing (Score: 483518, PASSED).
+[01:37:10] BanchoBot: The match has finished!
+[01:37:15] BCraftMG: !mp map 4171278
+[01:37:16] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4171278 Slam Bamboo - House on Fire
+[01:37:17] BCraftMG: !mp mods NF Freemod
+[01:37:18] BanchoBot: Disabled all mods, enabled FreeMod
+[01:38:01] BanchoBot: All players are ready
+[01:38:04] BCraftMG: !mp settings
+[01:38:05] BanchoBot: Room name: PTFM2: (Qualifiers) vs (A5), History: https://osu.ppy.sh/mp/112275826
+[01:38:05] BanchoBot: Beatmap: https://osu.ppy.sh/b/4171278 Slam Bamboo - House on Fire
+[01:38:05] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:38:05] BanchoBot: Active mods: Freemod
+[01:38:05] BanchoBot: Players: 1
+[01:38:05] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15145155 ielia           [NoFail, Hidden]
+[01:38:08] BCraftMG: !mp start 5 glhf
+[01:38:09] BanchoBot: Match starts in 5 seconds
+[01:38:09] BanchoBot: Queued the match to start in 5 seconds
+[01:38:10] BanchoBot: Match starts in 4 seconds
+[01:38:11] BanchoBot: Match starts in 3 seconds
+[01:38:12] BanchoBot: Good luck, have fun!
+[01:38:14] BanchoBot: The match has started!
+[01:41:13] BanchoBot: ielia finished playing (Score: 481936, PASSED).
+[01:41:13] BanchoBot: The match has finished!
+[01:41:26] BCraftMG: !mp map 4042951
+[01:41:26] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4042951 Komiya Mao - Yozakura
+[01:41:34] BCraftMG: "Freemod rules (Qualifiers) -  At least 1 mod per map,  NF only: .85x, EZ: 1.65x,  EZHD: 1.5x "
+[01:41:36] BCraftMG: i forgor
+[01:42:03] BanchoBot: All players are ready
+[01:42:06] BCraftMG: !mp settings
+[01:42:07] BanchoBot: Room name: PTFM2: (Qualifiers) vs (A5), History: https://osu.ppy.sh/mp/112275826
+[01:42:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/4042951 Komiya Mao - Yozakura
+[01:42:07] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:42:07] BanchoBot: Active mods: Freemod
+[01:42:07] BanchoBot: Players: 1
+[01:42:07] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/15145155 ielia           
+[01:42:10] ielia: oh right
+[01:42:17] BCraftMG: this is still fm
+[01:42:23] BCraftMG: !mp settings
+[01:42:24] BanchoBot: Room name: PTFM2: (Qualifiers) vs (A5), History: https://osu.ppy.sh/mp/112275826
+[01:42:24] BanchoBot: Beatmap: https://osu.ppy.sh/b/4042951 Komiya Mao - Yozakura
+[01:42:24] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:42:24] BanchoBot: Active mods: Freemod
+[01:42:24] BanchoBot: Players: 1
+[01:42:24] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/15145155 ielia           [NoFail, HardRock]
+[01:42:39] BanchoBot: All players are ready
+[01:42:40] BCraftMG: !mp settings
+[01:42:42] BanchoBot: Room name: PTFM2: (Qualifiers) vs (A5), History: https://osu.ppy.sh/mp/112275826
+[01:42:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/4042951 Komiya Mao - Yozakura
+[01:42:42] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:42:42] BanchoBot: Active mods: Freemod
+[01:42:42] BanchoBot: Players: 1
+[01:42:42] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15145155 ielia           [NoFail, HardRock]
+[01:42:44] BCraftMG: !mp start 5 glhf
+[01:42:45] BanchoBot: Match starts in 5 seconds
+[01:42:45] BanchoBot: Queued the match to start in 5 seconds
+[01:42:47] BanchoBot: Match starts in 4 seconds
+[01:42:47] BanchoBot: Match starts in 3 seconds
+[01:42:48] BanchoBot: Good luck, have fun!
+[01:42:50] BanchoBot: The match has started!
+[01:45:13] BanchoBot: ielia finished playing (Score: 677678, PASSED).
+[01:45:13] BanchoBot: The match has finished!
+[01:46:26] BCraftMG: !mp map 2624224
+[01:46:26] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2624224 Chiyoko - Come Home! Princess
+[01:46:31] BCraftMG: !mp mods NF Freemod DT
+[01:46:32] BanchoBot: Enabled DoubleTime, enabled FreeMod
+[01:46:33] BCraftMG: "FMDT Rules (Qualifiers) -  Mods are not required,  No penalties for NF only. EZ: 1.65x, EZHD: 1.5x"
+[01:46:57] BanchoBot: All players are ready
+[01:47:02] BCraftMG: !mp settings
+[01:47:02] BanchoBot: Room name: PTFM2: (Qualifiers) vs (A5), History: https://osu.ppy.sh/mp/112275826
+[01:47:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/2624224 Chiyoko - Come Home! Princess
+[01:47:02] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:47:02] BanchoBot: Active mods: DoubleTime, Freemod
+[01:47:02] BanchoBot: Players: 1
+[01:47:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15145155 ielia           
+[01:47:09] BanchoBot: All players are ready
+[01:47:10] BCraftMG: !mp settings
+[01:47:11] BanchoBot: Room name: PTFM2: (Qualifiers) vs (A5), History: https://osu.ppy.sh/mp/112275826
+[01:47:11] BanchoBot: Beatmap: https://osu.ppy.sh/b/2624224 Chiyoko - Come Home! Princess
+[01:47:11] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:47:11] BanchoBot: Active mods: DoubleTime, Freemod
+[01:47:11] BanchoBot: Players: 1
+[01:47:11] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15145155 ielia           [NoFail]
+[01:47:12] BCraftMG: !mp start 5 glhf
+[01:47:13] BanchoBot: Match starts in 5 seconds
+[01:47:13] BanchoBot: Queued the match to start in 5 seconds
+[01:47:14] BanchoBot: Match starts in 4 seconds
+[01:47:15] BanchoBot: Match starts in 3 seconds
+[01:47:16] BanchoBot: Good luck, have fun!
+[01:47:18] BanchoBot: The match has started!
+[01:49:55] BanchoBot: ielia finished playing (Score: 568747, PASSED).
+[01:49:55] BanchoBot: The match has finished!
+[01:50:12] BCraftMG: !mp map 3764144
+[01:50:13] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3764144 -45 - Millarca
+[01:50:34] BanchoBot: All players are ready
+[01:50:37] BCraftMG: !mp settings
+[01:50:38] BanchoBot: Room name: PTFM2: (Qualifiers) vs (A5), History: https://osu.ppy.sh/mp/112275826
+[01:50:38] BanchoBot: Beatmap: https://osu.ppy.sh/b/3764144 -45 - Millarca
+[01:50:38] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:50:38] BanchoBot: Active mods: DoubleTime, Freemod
+[01:50:38] BanchoBot: Players: 1
+[01:50:38] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15145155 ielia           [NoFail]
+[01:50:38] BCraftMG: !mp start 5 glhf
+[01:50:40] BanchoBot: Match starts in 5 seconds
+[01:50:40] BanchoBot: Queued the match to start in 5 seconds
+[01:50:41] BanchoBot: Match starts in 4 seconds
+[01:50:42] BanchoBot: Match starts in 3 seconds
+[01:50:43] BanchoBot: Good luck, have fun!
+[01:50:45] BanchoBot: The match has started!
+[01:53:40] BanchoBot: ielia finished playing (Score: 340281, PASSED).
+[01:53:40] BanchoBot: The match has finished!
+[01:54:10] ielia: ty for the ref
+[01:54:41] BCraftMG: npnp
+[01:54:45] BCraftMG: :3c
+[01:54:48] ielia: o/
+[01:54:52] BanchoBot: ielia left the game.
+[01:54:52] BCraftMG: o//
+[01:54:55] BCraftMG: !mp close
+[01:54:56] BanchoBot: Closed the match

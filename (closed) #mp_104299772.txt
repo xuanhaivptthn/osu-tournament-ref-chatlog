@@ -1,0 +1,301 @@
+[20:51:03] Joined #mp_104299772
+[20:51:04] BCraftMG: !mp settings
+[20:51:06] BanchoBot: Room name: SMB: (Qualifiers) vs (X2), History: https://osu.ppy.sh/mp/104299772
+[20:51:06] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[20:51:06] BanchoBot: Players: 0
+[20:51:13] BCraftMG: !mp set 0 3 8
+[20:51:14] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[20:52:08] BCraftMG: !mp map 2103821 0
+[20:52:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2103821 Suzuki Konomi - My Days
+[20:52:10] BanchoBot: Changed match mode to Osu
+[20:52:10] BCraftMG: !mp mods 1
+[20:52:11] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:54:00] BCraftMG: !mp invite #3580864
+[20:54:01] BanchoBot: Invited Niwata to the room
+[20:54:05] BCraftMG: !mp invite #7396542
+[20:54:07] BanchoBot: User not found
+[20:58:02] BanchoBot: Niwata joined in slot 1.
+[20:58:06] BCraftMG: ah
+[20:58:08] BCraftMG: alrite
+[20:58:48] BanchoBot: Lesperry joined in slot 2.
+[20:59:16] BCraftMG: !mp settings
+[20:59:18] BanchoBot: Room name: SMB: (Qualifiers) vs (X2), History: https://osu.ppy.sh/mp/104299772
+[20:59:18] BanchoBot: Beatmap: https://osu.ppy.sh/b/2103821 Suzuki Konomi - My Days
+[20:59:18] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:59:18] BanchoBot: Active mods: NoFail
+[20:59:18] BanchoBot: Players: 2
+[20:59:18] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/3580864 Niwata          
+[20:59:18] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/18092331 Lesperry        
+[20:59:50] BanchoBot: -Kedama joined in slot 3.
+[21:00:01] Niwata: ใครจะเล่น
+[21:00:07] Niwata: 55555
+[21:00:16] -Kedama: ฉันได้ 400k
+[21:00:27] Lesperry: dai 500k
+[21:00:41] BanchoBot: Lesperry left the game.
+[21:00:52] BanchoBot: Lesperry joined in slot 2.
+[21:01:12] Niwata: เอาไง
+[21:01:29] -Kedama: พี่จีน
+[21:01:31] -Kedama: ไปเลย
+[21:01:38] -Kedama: หรือพี่อยากฝึกแมพอื้่น
+[21:02:07] BCraftMG: !mp settings
+[21:02:09] BanchoBot: Room name: SMB: (Qualifiers) vs (X2), History: https://osu.ppy.sh/mp/104299772
+[21:02:09] BanchoBot: Beatmap: https://osu.ppy.sh/b/2103821 Suzuki Konomi - My Days
+[21:02:09] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:02:09] BanchoBot: Active mods: NoFail
+[21:02:09] BanchoBot: Players: 3
+[21:02:09] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/3580864 Niwata          
+[21:02:09] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/18092331 Lesperry        
+[21:02:09] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/12147277 -Kedama         
+[21:02:16] BCraftMG: okay im not insane
+[21:02:23] BCraftMG: the other team probably not playing
+[21:02:30] Lesperry: wa
+[21:02:34] Niwata: กรรไกร
+[21:02:34] -Kedama: ค้อน
+[21:02:43] BanchoBot: -Kedama left the game.
+[21:02:50] BCraftMG: they only have 1 i think
+[21:02:54] BCraftMG: so we gonna start
+[21:03:00] Lesperry: that sad
+[21:03:00] Niwata: sure
+[21:03:03] BanchoBot: All players are ready
+[21:03:05] BCraftMG: !mp settings
+[21:03:07] BanchoBot: Room name: SMB: (Qualifiers) vs (X2), History: https://osu.ppy.sh/mp/104299772
+[21:03:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/2103821 Suzuki Konomi - My Days
+[21:03:07] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:03:07] BanchoBot: Active mods: NoFail
+[21:03:07] BanchoBot: Players: 2
+[21:03:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3580864 Niwata          
+[21:03:07] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18092331 Lesperry        
+[21:03:08] BCraftMG: !mp start 5 glhf
+[21:03:09] BanchoBot: Match starts in 5 seconds
+[21:03:09] BanchoBot: Queued the match to start in 5 seconds
+[21:03:11] BanchoBot: Match starts in 4 seconds
+[21:03:11] BanchoBot: Match starts in 3 seconds
+[21:03:13] BanchoBot: Good luck, have fun!
+[21:03:16] BanchoBot: The match has started!
+[21:07:51] BanchoBot: Niwata finished playing (Score: 409830, PASSED).
+[21:07:51] BanchoBot: Lesperry finished playing (Score: 1005527, PASSED).
+[21:07:51] BanchoBot: The match has finished!
+[21:07:52] BCraftMG: !mp map 2970030 0
+[21:07:53] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2970030 Camellia feat. Aitsuki Nakuru - Oborozuki Oou Kumo wo mo Sakinu
+[21:07:53] BanchoBot: Changed match mode to Osu
+[21:08:15] BanchoBot: -Kedama joined in slot 3.
+[21:08:17] BanchoBot: Niwata left the game.
+[21:08:45] BanchoBot: All players are ready
+[21:08:54] BCraftMG: !mp settings
+[21:08:54] BanchoBot: Room name: SMB: (Qualifiers) vs (X2), History: https://osu.ppy.sh/mp/104299772
+[21:08:54] BanchoBot: Beatmap: https://osu.ppy.sh/b/2970030 Camellia feat. Aitsuki Nakuru - Oborozuki Oou Kumo wo mo Sakinu
+[21:08:54] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:08:54] BanchoBot: Active mods: NoFail
+[21:08:54] BanchoBot: Players: 2
+[21:08:54] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18092331 Lesperry        
+[21:08:54] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12147277 -Kedama         
+[21:08:56] BCraftMG: !mp start 5 glhf
+[21:08:57] BanchoBot: Match starts in 5 seconds
+[21:08:57] BanchoBot: Queued the match to start in 5 seconds
+[21:08:59] BanchoBot: Match starts in 4 seconds
+[21:08:59] BanchoBot: Match starts in 3 seconds
+[21:09:01] BanchoBot: Good luck, have fun!
+[21:09:03] BanchoBot: The match has started!
+[21:11:09] BanchoBot: Lesperry finished playing (Score: 455433, PASSED).
+[21:11:09] BanchoBot: -Kedama finished playing (Score: 572952, PASSED).
+[21:11:09] BanchoBot: The match has finished!
+[21:11:26] BCraftMG: !mp map 2623955 0
+[21:11:27] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2623955 PSYQUI - Multicoloured
+[21:11:27] BanchoBot: Changed match mode to Osu
+[21:11:51] BanchoBot: All players are ready
+[21:11:53] BCraftMG: !mp settings
+[21:11:55] BanchoBot: Room name: SMB: (Qualifiers) vs (X2), History: https://osu.ppy.sh/mp/104299772
+[21:11:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/2623955 PSYQUI - Multicoloured
+[21:11:55] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:11:55] BanchoBot: Active mods: NoFail
+[21:11:55] BanchoBot: Players: 2
+[21:11:55] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18092331 Lesperry        
+[21:11:55] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12147277 -Kedama         
+[21:11:56] BCraftMG: !mp start 5 glhf
+[21:11:57] BanchoBot: Match starts in 5 seconds
+[21:11:57] BanchoBot: Queued the match to start in 5 seconds
+[21:12:00] BanchoBot: Match starts in 4 seconds
+[21:12:00] BanchoBot: Match starts in 3 seconds
+[21:12:02] BanchoBot: Good luck, have fun!
+[21:12:02] Lesperry: hlhfgd
+[21:12:04] BanchoBot: The match has started!
+[21:15:42] BanchoBot: -Kedama finished playing (Score: 417314, PASSED).
+[21:15:42] BanchoBot: Lesperry finished playing (Score: 908450, PASSED).
+[21:15:42] BanchoBot: The match has finished!
+[21:15:45] BCraftMG: !mp map 2708979 0
+[21:15:47] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2708979 Camellia - #1f1e33
+[21:15:47] BanchoBot: Changed match mode to Osu
+[21:16:02] Lesperry: oh my
+[21:16:40] BanchoBot: All players are ready
+[21:16:41] BCraftMG: !mp settings
+[21:16:42] BanchoBot: Room name: SMB: (Qualifiers) vs (X2), History: https://osu.ppy.sh/mp/104299772
+[21:16:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/2708979 Camellia - #1f1e33
+[21:16:42] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:16:42] BanchoBot: Active mods: NoFail
+[21:16:42] BanchoBot: Players: 2
+[21:16:42] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18092331 Lesperry        
+[21:16:42] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12147277 -Kedama         
+[21:16:43] BCraftMG: !mp start 5 glhf
+[21:16:46] BanchoBot: Match starts in 5 seconds
+[21:16:46] BanchoBot: Queued the match to start in 5 seconds
+[21:16:48] BanchoBot: Match starts in 4 seconds
+[21:16:48] BanchoBot: Match starts in 3 seconds
+[21:16:50] BanchoBot: Good luck, have fun!
+[21:16:52] BanchoBot: The match has started!
+[21:19:37] BanchoBot: -Kedama finished playing (Score: 336123, PASSED).
+[21:19:37] BanchoBot: Lesperry finished playing (Score: 259652, PASSED).
+[21:19:37] BanchoBot: The match has finished!
+[21:19:40] BCraftMG: !mp map 3267248 0
+[21:19:42] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3267248 BEMANI Sound Team "Yvya" - Vitrum
+[21:19:42] BanchoBot: Changed match mode to Osu
+[21:19:43] BCraftMG: !mp mods 9
+[21:19:44] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:20:04] BanchoBot: All players are ready
+[21:20:05] BCraftMG: !mp settings
+[21:20:06] BanchoBot: Room name: SMB: (Qualifiers) vs (X2), History: https://osu.ppy.sh/mp/104299772
+[21:20:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/3267248 BEMANI Sound Team "Yvya" - Vitrum
+[21:20:06] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:20:06] BanchoBot: Active mods: NoFail, Hidden
+[21:20:06] BanchoBot: Players: 2
+[21:20:06] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18092331 Lesperry        
+[21:20:06] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12147277 -Kedama         
+[21:20:07] BCraftMG: !mp start 5 glhf
+[21:20:08] BanchoBot: Match starts in 5 seconds
+[21:20:08] BanchoBot: Queued the match to start in 5 seconds
+[21:20:10] BanchoBot: Match starts in 4 seconds
+[21:20:10] BanchoBot: Match starts in 3 seconds
+[21:20:12] BanchoBot: Good luck, have fun!
+[21:20:14] BanchoBot: The match has started!
+[21:22:23] BanchoBot: Lesperry finished playing (Score: 187508, PASSED).
+[21:22:23] BanchoBot: -Kedama finished playing (Score: 526615, PASSED).
+[21:22:23] BanchoBot: The match has finished!
+[21:22:32] BCraftMG: !mp map 3132790 0
+[21:22:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3132790 Zebrahead - HIS WORLD (Zebrahead Version)
+[21:22:33] BanchoBot: Changed match mode to Osu
+[21:23:20] BCraftMG: !mp settings
+[21:23:22] BanchoBot: All players are ready
+[21:23:22] BanchoBot: Room name: SMB: (Qualifiers) vs (X2), History: https://osu.ppy.sh/mp/104299772
+[21:23:22] BanchoBot: Beatmap: https://osu.ppy.sh/b/3132790 Zebrahead - HIS WORLD (Zebrahead Version)
+[21:23:22] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:23:22] BanchoBot: Active mods: NoFail, Hidden
+[21:23:22] BanchoBot: Players: 2
+[21:23:22] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18092331 Lesperry        
+[21:23:22] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12147277 -Kedama         
+[21:23:26] BCraftMG: !mp start 5 glhf
+[21:23:28] BanchoBot: Match starts in 5 seconds
+[21:23:28] BanchoBot: Queued the match to start in 5 seconds
+[21:23:31] BanchoBot: Match starts in 4 seconds
+[21:23:31] BanchoBot: Match starts in 3 seconds
+[21:23:32] BanchoBot: Good luck, have fun!
+[21:23:35] BanchoBot: The match has started!
+[21:27:11] BanchoBot: -Kedama finished playing (Score: 606794, PASSED).
+[21:27:14] BanchoBot: Lesperry finished playing (Score: 394772, PASSED).
+[21:27:14] BanchoBot: The match has finished!
+[21:27:16] BCraftMG: !mp map 2689459 0
+[21:27:18] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2689459 Thousand Leaves - Temptation
+[21:27:18] BanchoBot: Changed match mode to Osu
+[21:27:18] BCraftMG: !mp mods 17
+[21:27:20] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[21:27:57] BanchoBot: All players are ready
+[21:27:59] BCraftMG: !mp settings
+[21:28:02] BanchoBot: Room name: SMB: (Qualifiers) vs (X2), History: https://osu.ppy.sh/mp/104299772
+[21:28:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/2689459 Thousand Leaves - Temptation
+[21:28:02] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:28:02] BanchoBot: Active mods: NoFail, HardRock
+[21:28:02] BanchoBot: Players: 2
+[21:28:02] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18092331 Lesperry        
+[21:28:02] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12147277 -Kedama         
+[21:28:02] BCraftMG: !mp start 5 glhf
+[21:28:03] BanchoBot: Match starts in 5 seconds
+[21:28:03] BanchoBot: Queued the match to start in 5 seconds
+[21:28:06] BanchoBot: Match starts in 4 seconds
+[21:28:06] BanchoBot: Match starts in 3 seconds
+[21:28:08] BanchoBot: Good luck, have fun!
+[21:28:10] BanchoBot: The match has started!
+[21:31:17] BanchoBot: Lesperry finished playing (Score: 405714, PASSED).
+[21:31:17] BanchoBot: -Kedama finished playing (Score: 483012, PASSED).
+[21:31:17] BanchoBot: The match has finished!
+[21:31:28] BCraftMG: !mp map 1658362 0
+[21:31:30] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1658362 slythe - cyber imagination
+[21:31:30] BanchoBot: Changed match mode to Osu
+[21:31:35] BanchoBot: Lesperry left the game.
+[21:31:41] BanchoBot: Niwata joined in slot 1.
+[21:31:53] BanchoBot: All players are ready
+[21:31:53] BanchoBot: -Kedama moved to slot 2
+[21:31:57] BCraftMG: !mp settings
+[21:32:00] BanchoBot: Room name: SMB: (Qualifiers) vs (X2), History: https://osu.ppy.sh/mp/104299772
+[21:32:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/1658362 slythe - cyber imagination
+[21:32:00] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:32:00] BanchoBot: Active mods: NoFail, HardRock
+[21:32:00] BanchoBot: Players: 2
+[21:32:00] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3580864 Niwata          
+[21:32:00] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12147277 -Kedama         
+[21:32:01] BCraftMG: !mp start 5 glhf
+[21:32:01] BanchoBot: Match starts in 5 seconds
+[21:32:01] BanchoBot: Queued the match to start in 5 seconds
+[21:32:03] BanchoBot: Match starts in 4 seconds
+[21:32:03] BanchoBot: Match starts in 3 seconds
+[21:32:05] BanchoBot: Good luck, have fun!
+[21:32:08] BanchoBot: The match has started!
+[21:34:29] BanchoBot: Niwata finished playing (Score: 408392, PASSED).
+[21:34:31] BanchoBot: -Kedama finished playing (Score: 390164, PASSED).
+[21:34:31] BanchoBot: The match has finished!
+[21:34:32] BCraftMG: !mp map 1290503 0
+[21:34:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1290503 Ito Kanako - Find the blue
+[21:34:33] BanchoBot: Changed match mode to Osu
+[21:34:36] BCraftMG: !mp mods 65
+[21:34:38] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:34:51] BanchoBot: Niwata left the game.
+[21:35:22] BanchoBot: Lesperry joined in slot 1.
+[21:35:33] BanchoBot: All players are ready
+[21:35:37] BCraftMG: !mp settings
+[21:35:38] BanchoBot: Room name: SMB: (Qualifiers) vs (X2), History: https://osu.ppy.sh/mp/104299772
+[21:35:38] BanchoBot: Beatmap: https://osu.ppy.sh/b/1290503 Ito Kanako - Find the blue
+[21:35:38] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:35:38] BanchoBot: Active mods: NoFail, DoubleTime
+[21:35:38] BanchoBot: Players: 2
+[21:35:38] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18092331 Lesperry        
+[21:35:38] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12147277 -Kedama         
+[21:35:38] BCraftMG: !mp start 5 glhf
+[21:35:40] BanchoBot: Match starts in 5 seconds
+[21:35:40] BanchoBot: Queued the match to start in 5 seconds
+[21:35:42] BanchoBot: Match starts in 4 seconds
+[21:35:42] BanchoBot: Match starts in 3 seconds
+[21:35:44] BanchoBot: Good luck, have fun!
+[21:35:46] BanchoBot: The match has started!
+[21:39:09] BanchoBot: Niwata joined in slot 3.
+[21:39:18] BanchoBot: -Kedama finished playing (Score: 515219, PASSED).
+[21:39:18] BanchoBot: Lesperry finished playing (Score: 458191, PASSED).
+[21:39:18] BanchoBot: The match has finished!
+[21:39:29] BCraftMG: !mp map 2684766 0
+[21:39:31] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2684766 Kabuki, MYLK - Talk 2 Me
+[21:39:31] BanchoBot: Changed match mode to Osu
+[21:39:37] BanchoBot: Lesperry left the game.
+[21:39:58] BanchoBot: All players are ready
+[21:39:59] BCraftMG: !mp settings
+[21:40:00] BanchoBot: Room name: SMB: (Qualifiers) vs (X2), History: https://osu.ppy.sh/mp/104299772
+[21:40:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/2684766 Kabuki, MYLK - Talk 2 Me
+[21:40:00] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:40:00] BanchoBot: Active mods: NoFail, DoubleTime
+[21:40:00] BanchoBot: Players: 2
+[21:40:00] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12147277 -Kedama         
+[21:40:00] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/3580864 Niwata          
+[21:40:03] BCraftMG: last map
+[21:40:04] BCraftMG: !mp start 5 glhf
+[21:40:06] BanchoBot: Match starts in 5 seconds
+[21:40:06] BanchoBot: Queued the match to start in 5 seconds
+[21:40:08] BanchoBot: Match starts in 4 seconds
+[21:40:08] BanchoBot: Match starts in 3 seconds
+[21:40:11] BanchoBot: Good luck, have fun!
+[21:40:13] BanchoBot: The match has started!
+[21:43:18] BanchoBot: Niwata finished playing (Score: 465950, PASSED).
+[21:43:20] BanchoBot: -Kedama finished playing (Score: 378496, PASSED).
+[21:43:20] BanchoBot: The match has finished!
+[21:43:53] -Kedama: ty for lobby!
+[21:43:55] Niwata: gg
+[21:43:58] BanchoBot: Niwata left the game.
+[21:44:00] BanchoBot: -Kedama left the game.
+[21:45:10] BanchoBot: Niwata joined in slot 1.
+[21:45:16] BanchoBot: Niwata left the game.
+[21:45:26] BCraftMG: !mp close
+[21:45:27] BanchoBot: Closed the match

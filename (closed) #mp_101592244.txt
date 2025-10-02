@@ -1,0 +1,466 @@
+[13:48:24] Joined #mp_101592244
+[13:48:24] BCraftMG: !mp settings
+[13:48:25] BanchoBot: Room name: OMMT2: ([MY]Sol) vs (Tranxcision), History: https://osu.ppy.sh/mp/101592244
+[13:48:25] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[13:48:25] BanchoBot: Players: 0
+[13:48:51] BCraftMG: !mp set 0 3 3
+[13:48:52] BanchoBot: Changed match settings to 3 slots, HeadToHead, ScoreV2
+[13:48:55] BCraftMG: !mp addref Laphii
+[13:48:55] BanchoBot: Added Laphii to the match referees
+[13:48:58] BCraftMG: !mp addref PotassiumF
+[13:48:59] BanchoBot: User not found: PotassiumF
+[13:49:07] BCraftMG: !mp invite [MY]Sol
+[13:49:08] BanchoBot: Invited [MY]Sol to the room
+[13:49:10] BCraftMG: !mp invite Tranxcision
+[13:49:11] BanchoBot: Invited Tranxcision to the room
+[13:51:32] BCraftMG: !mp listrefs
+[13:51:32] BanchoBot: Match referees:
+[13:51:32] BanchoBot: Laphii
+[13:51:32] BanchoBot: BCraftMG
+[13:52:45] BCraftMG: !mp invite Tranxcision
+[13:52:45] BanchoBot: Invited Tranxcision to the room
+[13:52:49] BanchoBot: Tranxcision joined in slot 1.
+[13:53:07] BCraftMG: !mp listrefs
+[13:53:08] BanchoBot: Match referees:
+[13:53:08] BanchoBot: Laphii
+[13:53:08] BanchoBot: BCraftMG
+[13:54:17] BCraftMG: !mp addref Laphii
+[13:54:17] BanchoBot: Added Laphii to the match referees
+[13:54:31] BCraftMG: !mp invite [MY]Sol
+[13:54:32] BanchoBot: Invited [MY]Sol to the room
+[13:54:34] BanchoBot: [MY]Sol joined in slot 2.
+[13:54:51] [MY]Sol: streamed match or no
+[13:54:58] BCraftMG: yes streamed
+[13:55:05] [MY]Sol: crazy
+[13:55:16] Join channel /join {channel}, /j {channel}, /msg {channel}, /chat {channel}, /query {channel}
+[13:55:16] Leave channel /leave, /part, /p
+[13:55:16] Clear channel /clear
+[13:55:16] Send action /me {msg}
+[13:55:16] Save logs /savelog, /save, /log
+[13:55:16]  -----
+[13:55:16] MP set cheat sheet !mp set {teammode} [{scoremode} {size}]
+[13:55:16] teammode 0: Head To Head, 1: Tag Coop, 2: Team Vs, 3: Tag Team Vs
+[13:55:16] scoremode 0: Score, 1: Accuracy, 2: Combo, 3: Score V2
+[13:55:30] Tranxcision: crazy uwu
+[13:55:33] BCraftMG: !mp map 3454815 3
+[13:55:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3454815 DJ SHARPNEL - Pacific Girls
+[13:55:34] BanchoBot: Changed match mode to OsuMania
+[13:55:46] Tranxcision: why is my fingers sweaty
+[13:55:47] Tranxcision: wtf
+[13:55:54] [MY]Sol: i can see myself lose twice!
+[13:56:02] [MY]Sol: my fingers always sweaty
+[13:56:09] Tranxcision: bro 1.4
+[13:56:13] Tranxcision: :moyai"
+[13:56:16] [MY]Sol: yes
+[13:56:20] Tranxcision: :moyai:
+[13:56:21] [MY]Sol: we both die!
+[13:56:29] [MY]Sol: my stamina rusty so ill die aswell!
+[13:56:30] Tranxcision: i can barely do 1.2
+[13:56:37] [MY]Sol: i almost S 1.5
+[13:56:42] [MY]Sol: but that was months back
+[13:56:43] Tranxcision: tf
+[13:56:45] Tranxcision: crazy
+[13:57:06] BCraftMG: can you two swap slots please
+[13:57:12] BanchoBot: [MY]Sol moved to slot 3
+[13:57:15] BanchoBot: Tranxcision moved to slot 2
+[13:57:18] BanchoBot: [MY]Sol moved to slot 1
+[13:57:26] Tranxcision: ready now?
+[13:57:49] BanchoBot: All players are ready
+[13:57:49] [MY]Sol: its a almost 4 minute map we should start i guess idk
+[13:57:49] BCraftMG: !mp settings
+[13:57:51] BanchoBot: Room name: OMMT2: ([MY]Sol) vs (Tranxcision), History: https://osu.ppy.sh/mp/101592244
+[13:57:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/3454815 DJ SHARPNEL - Pacific Girls
+[13:57:51] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[13:57:51] BanchoBot: Players: 2
+[13:57:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12054898 [MY]Sol         
+[13:57:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14931745 Tranxcision     
+[13:57:55] BCraftMG: !mp start 10
+[13:57:56] BanchoBot: Match starts in 10 seconds
+[13:57:56] BanchoBot: Queued the match to start in 10 seconds
+[13:58:01] BanchoBot: Match starts in 5 seconds
+[13:58:02] BanchoBot: Match starts in 4 seconds
+[13:58:03] BanchoBot: Match starts in 3 seconds
+[13:58:04] BanchoBot: Good luck, have fun!
+[13:58:06] BanchoBot: The match has started!
+[14:02:07] BanchoBot: [MY]Sol finished playing (Score: 578296, PASSED).
+[14:02:12] BanchoBot: Tranxcision finished playing (Score: 275483, FAILED).
+[14:02:12] BanchoBot: The match has finished!
+[14:02:14] BCraftMG: Tranxcision you wanna pick warm up?
+[14:02:30] Tranxcision: no
+[14:02:33] Tranxcision: no more warm up
+[14:02:37] Tranxcision: that was despair
+[14:02:40] [MY]Sol: we are extremely warmed
+[14:02:44] BCraftMG: :skull:
+[14:02:52] BCraftMG: both players please !roll
+[14:02:55] Tranxcision: i can comfirm
+[14:02:55] [MY]Sol: the map warms us up :thumbsup:
+[14:02:55] Tranxcision: xd
+[14:02:58] [MY]Sol: !roll
+[14:02:58] BanchoBot: [MY]Sol rolls 42 point(s)
+[14:03:01] Tranxcision: !roll
+[14:03:01] BanchoBot: Tranxcision rolls 9 point(s)
+[14:03:02] [MY]Sol: oh no
+[14:03:05] [MY]Sol: ok cool
+[14:03:05] Tranxcision: BRO
+[14:03:06] Tranxcision: kjlasdskadjlsadjklsjkladsadjkldaslkj
+[14:03:15] Tranxcision: what is my luck today man
+[14:03:26] [MY]Sol: i protect first can?
+[14:03:29] BCraftMG: [MY]Sol, please choose your pick ban order
+[14:03:52] [MY]Sol: ok i ban rc2
+[14:04:01] Tranxcision: oh ban speed
+[14:04:04] Tranxcision: hmm
+[14:04:04] BCraftMG: so you ban first?
+[14:04:09] [MY]Sol: ban sv2 pls!!
+[14:04:13] BCraftMG: okay Tranxcision your ban please
+[14:04:20] Tranxcision: ban sv2
+[14:04:23] [MY]Sol: yay
+[14:04:29] [MY]Sol: i dont liken rc2
+[14:04:33] Tranxcision: i didnt even download sv2
+[14:04:40] BCraftMG: but why ppl ban twins
+[14:04:54] Tranxcision: because the strongest survives
+[14:04:56] Tranxcision: what am i saying
+[14:05:00] BCraftMG: [MY]Sol | 0 : 0 | Tranxcision // Next to pick: Tranxcision
+[14:05:02] BCraftMG: !mp timer 120
+[14:05:03] BanchoBot: Countdown ends in 2 minutes
+[14:05:10] Tranxcision: rc 1
+[14:05:21] BCraftMG: !mp map 3244610 3
+[14:05:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3244610 Marmalade butcher - Ushinahareru Runazuki
+[14:05:21] BanchoBot: Changed match mode to OsuMania
+[14:05:25] BCraftMG: !mp mods Freemod
+[14:05:26] BanchoBot: Disabled all mods, enabled FreeMod
+[14:05:28] BCraftMG: !mp timer 120
+[14:05:29] [MY]Sol: oh god
+[14:05:29] BanchoBot: Countdown aborted
+[14:05:29] BanchoBot: Countdown ends in 2 minutes
+[14:05:34] BanchoBot: All players are ready
+[14:05:36] [MY]Sol: my acc ain it today
+[14:05:38] [MY]Sol: aint*
+[14:06:05] [MY]Sol: i will choke this
+[14:06:18] Tranxcision: bro
+[14:06:21] Tranxcision: no ur et
+[14:06:21] BCraftMG: !mp settings
+[14:06:22] BanchoBot: Room name: OMMT2: ([MY]Sol) vs (Tranxcision), History: https://osu.ppy.sh/mp/101592244
+[14:06:22] BanchoBot: Beatmap: https://osu.ppy.sh/b/3244610 Marmalade butcher - Ushinahareru Runazuki
+[14:06:22] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[14:06:22] BanchoBot: Active mods: Freemod
+[14:06:22] BanchoBot: Players: 2
+[14:06:22] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12054898 [MY]Sol         
+[14:06:22] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14931745 Tranxcision     
+[14:06:24] BCraftMG: !mp start 10
+[14:06:25] BanchoBot: Countdown aborted
+[14:06:25] BanchoBot: Match starts in 10 seconds
+[14:06:25] BanchoBot: Queued the match to start in 10 seconds
+[14:06:28] BCraftMG: glhf
+[14:06:28] [MY]Sol: yes im extremely trash
+[14:06:30] BanchoBot: Match starts in 5 seconds
+[14:06:31] BanchoBot: Match starts in 4 seconds
+[14:06:32] [MY]Sol: gl
+[14:06:32] BanchoBot: Match starts in 3 seconds
+[14:06:34] BanchoBot: Good luck, have fun!
+[14:06:36] BanchoBot: The match has started!
+[14:09:36] BanchoBot: [MY]Sol finished playing (Score: 988713, PASSED).
+[14:09:36] BanchoBot: Tranxcision finished playing (Score: 994073, PASSED).
+[14:09:36] BanchoBot: The match has finished!
+[14:09:42] [MY]Sol: my game
+[14:09:44] [MY]Sol: im firetrucking done
+[14:09:47] [MY]Sol: it froze
+[14:09:47] BCraftMG: [MY]Sol | 0 : 1 | Tranxcision // Next to pick: [MY]Sol
+[14:09:49] BCraftMG: !mp timer 120
+[14:09:50] BanchoBot: Countdown ends in 2 minutes
+[14:09:56] [MY]Sol: MY GAME
+[14:10:05] BCraftMG: NOOOOOOOOO
+[14:10:11] [MY]Sol: GO SHAKUSHAIN
+[14:10:13] [MY]Sol: IM PISSED
+[14:10:50] BanchoBot: Countdown ends in 1 minute
+[14:11:08] [MY]Sol: i pick hb1
+[14:11:20] BanchoBot: Countdown ends in 30 seconds
+[14:11:23] BCraftMG: !mp map 3079993 3
+[14:11:24] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3079993 Wednesday Campanella - Shakushain
+[14:11:24] BanchoBot: Changed match mode to OsuMania
+[14:11:27] BCraftMG: !mp mods Freemod
+[14:11:27] BanchoBot: Disabled all mods, enabled FreeMod
+[14:11:29] BCraftMG: !mp timer 120
+[14:11:30] BanchoBot: Countdown aborted
+[14:11:30] BanchoBot: Countdown ends in 2 minutes
+[14:11:42] [MY]Sol: oh wait
+[14:11:46] [MY]Sol: i practiced the wrong rate
+[14:11:47] [MY]Sol: all good
+[14:11:55] Tranxcision: xd
+[14:11:56] BCraftMG: what a jam
+[14:12:03] [MY]Sol: i practiced 1.35 lmao
+[14:12:08] BanchoBot: All players are ready
+[14:12:13] BCraftMG: !mp settings
+[14:12:14] BanchoBot: Room name: OMMT2: ([MY]Sol) vs (Tranxcision), History: https://osu.ppy.sh/mp/101592244
+[14:12:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/3079993 Wednesday Campanella - Shakushain
+[14:12:14] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[14:12:14] BanchoBot: Active mods: Freemod
+[14:12:14] BanchoBot: Players: 2
+[14:12:14] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12054898 [MY]Sol         
+[14:12:14] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14931745 Tranxcision     
+[14:12:16] BCraftMG: !mp start 10
+[14:12:18] BanchoBot: Countdown aborted
+[14:12:18] BanchoBot: Match starts in 10 seconds
+[14:12:18] BanchoBot: Queued the match to start in 10 seconds
+[14:12:23] BanchoBot: Match starts in 5 seconds
+[14:12:24] BanchoBot: Match starts in 4 seconds
+[14:12:25] BanchoBot: Match starts in 3 seconds
+[14:12:26] BanchoBot: Good luck, have fun!
+[14:12:28] BanchoBot: The match has started!
+[14:15:36] BanchoBot: Tranxcision finished playing (Score: 977560, PASSED).
+[14:15:37] BanchoBot: [MY]Sol finished playing (Score: 990969, PASSED).
+[14:15:37] BanchoBot: The match has finished!
+[14:15:49] BCraftMG: [MY]Sol | 1 : 1 | Tranxcision // Next to pick: Tranxcision
+[14:15:52] BCraftMG: !mp timer 120
+[14:15:53] BanchoBot: Countdown ends in 2 minutes
+[14:15:58] Tranxcision: rc3
+[14:16:07] BCraftMG: !mp map 3597908 3
+[14:16:07] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3597908 Mr. Bill, kLL sMTH - Slamurai
+[14:16:07] BanchoBot: Changed match mode to OsuMania
+[14:16:12] BCraftMG: !mp timer 120
+[14:16:14] BanchoBot: Countdown aborted
+[14:16:14] BanchoBot: Countdown ends in 2 minutes
+[14:16:24] BanchoBot: All players are ready
+[14:16:34] BCraftMG: !mp settings
+[14:16:35] BanchoBot: Room name: OMMT2: ([MY]Sol) vs (Tranxcision), History: https://osu.ppy.sh/mp/101592244
+[14:16:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/3597908 Mr. Bill, kLL sMTH - Slamurai
+[14:16:35] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[14:16:35] BanchoBot: Active mods: Freemod
+[14:16:35] BanchoBot: Players: 2
+[14:16:35] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12054898 [MY]Sol         
+[14:16:35] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14931745 Tranxcision     
+[14:16:38] BCraftMG: glhf
+[14:16:39] BCraftMG: !mp start 10
+[14:16:40] BanchoBot: Countdown aborted
+[14:16:40] BanchoBot: Match starts in 10 seconds
+[14:16:40] BanchoBot: Queued the match to start in 10 seconds
+[14:16:45] BanchoBot: Match starts in 5 seconds
+[14:16:46] BanchoBot: Match starts in 4 seconds
+[14:16:47] BanchoBot: Match starts in 3 seconds
+[14:16:48] BanchoBot: Good luck, have fun!
+[14:16:51] BanchoBot: The match has started!
+[14:17:33] BanchoBot: Tranxcision left the game.
+[14:17:42] BCraftMG: !mp abort
+[14:17:43] BanchoBot: Aborted the match
+[14:17:48] [MY]Sol: ?
+[14:18:05] [MY]Sol: why did he left
+[14:18:16] [MY]Sol: did he dc'd
+[14:18:23] BCraftMG: i think
+[14:18:40] BCraftMG: !mp invite Tranxcision
+[14:18:41] BanchoBot: Invited Tranxcision to the room
+[14:18:47] BanchoBot: Tranxcision joined in slot 2.
+[14:18:57] [MY]Sol: what happened
+[14:18:59] Tranxcision: please dont freeze
+[14:19:02] Tranxcision: my osu froze
+[14:19:09] [MY]Sol: bad pc gang
+[14:19:11] BanchoBot: All players are ready
+[14:19:17] BCraftMG: !mp settings
+[14:19:18] BanchoBot: Room name: OMMT2: ([MY]Sol) vs (Tranxcision), History: https://osu.ppy.sh/mp/101592244
+[14:19:18] BanchoBot: Beatmap: https://osu.ppy.sh/b/3597908 Mr. Bill, kLL sMTH - Slamurai
+[14:19:18] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[14:19:18] BanchoBot: Active mods: Freemod
+[14:19:18] BanchoBot: Players: 2
+[14:19:18] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12054898 [MY]Sol         
+[14:19:18] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14931745 Tranxcision     
+[14:19:25] BCraftMG: !mp start 10
+[14:19:26] BanchoBot: Match starts in 10 seconds
+[14:19:26] BanchoBot: Queued the match to start in 10 seconds
+[14:19:31] BanchoBot: Match starts in 5 seconds
+[14:19:32] BCraftMG: :prayge:
+[14:19:32] BanchoBot: Match starts in 4 seconds
+[14:19:33] BanchoBot: Match starts in 3 seconds
+[14:19:34] BanchoBot: Good luck, have fun!
+[14:19:36] BanchoBot: The match has started!
+[14:22:14] BanchoBot: Tranxcision finished playing (Score: 981589, PASSED).
+[14:22:15] BanchoBot: [MY]Sol finished playing (Score: 978113, PASSED).
+[14:22:15] BanchoBot: The match has finished!
+[14:22:26] BCraftMG: [MY]Sol | 1 : 2 | Tranxcision // Next to pick: [MY]Sol
+[14:22:27] BCraftMG: !mp timer 120
+[14:22:28] Tranxcision: WTF SAME RATIO
+[14:22:28] BanchoBot: Countdown ends in 2 minutes
+[14:22:29] Tranxcision: LMAO
+[14:22:31] Tranxcision: mkasdfjklasxdfl,jmkasdxlm,daszjkl,sadjklsadjoklsda
+[14:22:31] [MY]Sol: sv1
+[14:22:32] Tranxcision: dfasojkasdfjkoksfjladjsklad,sjklad
+[14:22:46] BCraftMG: !mp map 3655832 3
+[14:22:47] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3655832 YUC'e - Sengoku HOP (c/f Athenarium)
+[14:22:47] BanchoBot: Changed match mode to OsuMania
+[14:22:49] BCraftMG: !mp mods Freemod
+[14:22:50] BanchoBot: Disabled all mods, enabled FreeMod
+[14:22:51] BCraftMG: !mp timer 120
+[14:22:52] BanchoBot: Countdown aborted
+[14:22:52] BanchoBot: Countdown ends in 2 minutes
+[14:22:57] Tranxcision: 'oh no dont tell u did homework
+[14:23:01] Tranxcision: >:(
+[14:23:04] BanchoBot: All players are ready
+[14:23:09] [MY]Sol: i played this once
+[14:23:20] BCraftMG: !mp settings
+[14:23:21] BanchoBot: Room name: OMMT2: ([MY]Sol) vs (Tranxcision), History: https://osu.ppy.sh/mp/101592244
+[14:23:21] BanchoBot: Beatmap: https://osu.ppy.sh/b/3655832 YUC'e - Sengoku HOP (c/f Athenarium)
+[14:23:21] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[14:23:21] BanchoBot: Active mods: Freemod
+[14:23:21] BanchoBot: Players: 2
+[14:23:21] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12054898 [MY]Sol         
+[14:23:21] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14931745 Tranxcision     
+[14:23:24] BCraftMG: !mp start 10
+[14:23:25] BanchoBot: Countdown aborted
+[14:23:25] BanchoBot: Match starts in 10 seconds
+[14:23:25] BanchoBot: Queued the match to start in 10 seconds
+[14:23:30] BanchoBot: Match starts in 5 seconds
+[14:23:31] BanchoBot: Match starts in 4 seconds
+[14:23:32] BanchoBot: Match starts in 3 seconds
+[14:23:33] BanchoBot: Good luck, have fun!
+[14:23:35] BanchoBot: The match has started!
+[14:26:58] BanchoBot: [MY]Sol finished playing (Score: 976572, PASSED).
+[14:26:58] BanchoBot: Tranxcision finished playing (Score: 929435, PASSED).
+[14:26:58] BanchoBot: The match has finished!
+[14:27:01] BCraftMG: [MY]Sol | 2 : 2 | Tranxcision // Next to pick: Tranxcision
+[14:27:07] BCraftMG: !mp timer 120
+[14:27:08] BanchoBot: Countdown ends in 2 minutes
+[14:27:16] Tranxcision: rc4
+[14:27:32] BCraftMG: !mp map 2323041 3
+[14:27:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2323041 Nekomata Master - Avalon no Oka
+[14:27:33] BanchoBot: Changed match mode to OsuMania
+[14:27:36] BCraftMG: !mp mods freemod
+[14:27:37] BanchoBot: Disabled all mods, enabled FreeMod
+[14:27:40] BCraftMG: !mp timer 120
+[14:27:40] BanchoBot: Countdown aborted
+[14:27:40] BanchoBot: Countdown ends in 2 minutes
+[14:27:43] [MY]Sol: we are secretly twins
+[14:27:48] BanchoBot: All players are ready
+[14:27:55] Tranxcision: msdammsaddasmsdamsadmdas
+[14:27:57] BCraftMG: !mp settings
+[14:27:57] Tranxcision: how do i win
+[14:27:57] BanchoBot: Room name: OMMT2: ([MY]Sol) vs (Tranxcision), History: https://osu.ppy.sh/mp/101592244
+[14:27:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/2323041 Nekomata Master - Avalon no Oka
+[14:27:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[14:27:57] BanchoBot: Active mods: Freemod
+[14:27:57] BanchoBot: Players: 2
+[14:27:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12054898 [MY]Sol         
+[14:27:57] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14931745 Tranxcision     
+[14:28:01] BCraftMG: gl
+[14:28:01] BCraftMG: !mp start 10
+[14:28:03] BanchoBot: Countdown aborted
+[14:28:03] BanchoBot: Match starts in 10 seconds
+[14:28:03] BanchoBot: Queued the match to start in 10 seconds
+[14:28:08] BanchoBot: Match starts in 5 seconds
+[14:28:09] BanchoBot: Match starts in 4 seconds
+[14:28:10] BanchoBot: Match starts in 3 seconds
+[14:28:11] BanchoBot: Good luck, have fun!
+[14:28:13] BanchoBot: The match has started!
+[14:30:17] BanchoBot: [MY]Sol finished playing (Score: 998042, PASSED).
+[14:30:17] BanchoBot: Tranxcision finished playing (Score: 995468, PASSED).
+[14:30:17] BanchoBot: The match has finished!
+[14:30:26] [MY]Sol: ok pb
+[14:30:29] BCraftMG: [MY]Sol | 3 : 2 | Tranxcision // Next to pick: [MY]Sol
+[14:30:32] BCraftMG: !mp timer 120
+[14:30:33] BanchoBot: Countdown ends in 2 minutes
+[14:30:50] [MY]Sol: LN2
+[14:30:59] BCraftMG: !mp map 2082016 3
+[14:31:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2082016 Maizang - Wind Island
+[14:31:01] BanchoBot: Changed match mode to OsuMania
+[14:31:02] BCraftMG: !mp timer 120
+[14:31:03] BanchoBot: Countdown aborted
+[14:31:03] BanchoBot: Countdown ends in 2 minutes
+[14:31:09] BanchoBot: All players are ready
+[14:31:18] BCraftMG: !mp settings
+[14:31:19] [MY]Sol: former jack main moments
+[14:31:19] BanchoBot: Room name: OMMT2: ([MY]Sol) vs (Tranxcision), History: https://osu.ppy.sh/mp/101592244
+[14:31:19] BanchoBot: Beatmap: https://osu.ppy.sh/b/2082016 Maizang - Wind Island
+[14:31:19] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[14:31:19] BanchoBot: Active mods: Freemod
+[14:31:19] BanchoBot: Players: 2
+[14:31:19] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12054898 [MY]Sol         
+[14:31:19] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14931745 Tranxcision     
+[14:31:23] BCraftMG: !mp start 10
+[14:31:23] BanchoBot: Countdown aborted
+[14:31:23] BanchoBot: Match starts in 10 seconds
+[14:31:23] BanchoBot: Queued the match to start in 10 seconds
+[14:31:25] BCraftMG: ^^
+[14:31:29] BanchoBot: Match starts in 5 seconds
+[14:31:30] BanchoBot: Match starts in 4 seconds
+[14:31:31] BanchoBot: Match starts in 3 seconds
+[14:31:32] BanchoBot: Good luck, have fun!
+[14:31:34] BanchoBot: The match has started!
+[14:34:35] BanchoBot: Tranxcision finished playing (Score: 974685, PASSED).
+[14:34:37] BanchoBot: [MY]Sol finished playing (Score: 988258, PASSED).
+[14:34:37] BanchoBot: The match has finished!
+[14:34:49] BCraftMG: [MY]Sol | 4 : 2 | Tranxcision // Next to pick: Tranxcision
+[14:34:50] BCraftMG: !mp timer 120
+[14:34:51] BanchoBot: Countdown ends in 2 minutes
+[14:35:02] Tranxcision: rc 5
+[14:35:19] BCraftMG: !mp map 967884 3
+[14:35:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/967884 Sta - The Silence
+[14:35:19] BanchoBot: Changed match mode to OsuMania
+[14:35:21] BCraftMG: !mp timer 120
+[14:35:22] BanchoBot: Countdown aborted
+[14:35:22] BanchoBot: Countdown ends in 2 minutes
+[14:35:29] [MY]Sol: ok
+[14:35:30] [MY]Sol: please
+[14:35:33] BanchoBot: All players are ready
+[14:35:34] [MY]Sol: computer
+[14:35:41] BCraftMG: death
+[14:35:42] BCraftMG: !mp settings
+[14:35:43] BanchoBot: Room name: OMMT2: ([MY]Sol) vs (Tranxcision), History: https://osu.ppy.sh/mp/101592244
+[14:35:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/967884 Sta - The Silence
+[14:35:44] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[14:35:44] BanchoBot: Active mods: Freemod
+[14:35:44] BanchoBot: Players: 2
+[14:35:44] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12054898 [MY]Sol         
+[14:35:44] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14931745 Tranxcision     
+[14:35:44] BCraftMG: !mp start 10
+[14:35:45] BanchoBot: Countdown aborted
+[14:35:45] BanchoBot: Match starts in 10 seconds
+[14:35:45] BanchoBot: Queued the match to start in 10 seconds
+[14:35:51] BanchoBot: Match starts in 5 seconds
+[14:35:52] BanchoBot: Match starts in 4 seconds
+[14:35:53] BanchoBot: Match starts in 3 seconds
+[14:35:54] BanchoBot: Good luck, have fun!
+[14:35:56] BanchoBot: The match has started!
+[14:37:58] BanchoBot: [MY]Sol finished playing (Score: 991819, PASSED).
+[14:37:59] BanchoBot: Tranxcision finished playing (Score: 994781, PASSED).
+[14:37:59] BanchoBot: The match has finished!
+[14:38:07] BCraftMG: [MY]Sol | 4 : 3 | Tranxcision // Next to pick: [MY]Sol
+[14:38:08] BCraftMG: !mp timer1 20
+[14:38:12] BCraftMG: !mp timer 120
+[14:38:12] BanchoBot: Countdown ends in 2 minutes
+[14:38:30] [MY]Sol: hb2
+[14:38:39] BCraftMG: !mp map 2885987 3
+[14:38:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2885987 MYUKKE. - BUNA*SYNERGY!!!
+[14:38:39] BanchoBot: Changed match mode to OsuMania
+[14:38:43] BCraftMG: !mp timer 120
+[14:38:44] BanchoBot: Countdown aborted
+[14:38:44] BanchoBot: Countdown ends in 2 minutes
+[14:38:57] Tranxcision: hmm
+[14:38:58] BanchoBot: All players are ready
+[14:39:07] BCraftMG: !mp settings
+[14:39:08] BanchoBot: Room name: OMMT2: ([MY]Sol) vs (Tranxcision), History: https://osu.ppy.sh/mp/101592244
+[14:39:08] BanchoBot: Beatmap: https://osu.ppy.sh/b/2885987 MYUKKE. - BUNA*SYNERGY!!!
+[14:39:08] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[14:39:08] BanchoBot: Active mods: Freemod
+[14:39:08] BanchoBot: Players: 2
+[14:39:08] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12054898 [MY]Sol         
+[14:39:08] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14931745 Tranxcision     
+[14:39:10] Tranxcision: maybe sightreading mappool was not a good idea
+[14:39:10] Tranxcision: xd
+[14:39:14] [MY]Sol: maybe
+[14:39:15] BCraftMG: GL
+[14:39:16] BCraftMG: !mp start 10
+[14:39:17] BanchoBot: Countdown aborted
+[14:39:17] BanchoBot: Match starts in 10 seconds
+[14:39:17] BanchoBot: Queued the match to start in 10 seconds
+[14:39:23] BanchoBot: Match starts in 5 seconds
+[14:39:24] BanchoBot: Match starts in 4 seconds
+[14:39:25] BanchoBot: Match starts in 3 seconds
+[14:39:26] BanchoBot: Good luck, have fun!
+[14:39:28] BanchoBot: The match has started!
+[14:41:36] BanchoBot: Tranxcision finished playing (Score: 979877, PASSED).
+[14:41:37] BanchoBot: [MY]Sol finished playing (Score: 994175, PASSED).
+[14:41:37] BanchoBot: The match has finished!
+[14:41:45] [MY]Sol: ggs
+[14:41:47] BCraftMG: Congrats [MY]Sol for winning the match! GGWP! You can leave now :)
+[14:41:56] [MY]Sol: i should take a break now
+[14:42:12] [MY]Sol: god my wrist dont feel good
+[14:42:14] BanchoBot: Tranxcision left the game.
+[14:42:18] BanchoBot: [MY]Sol left the game.
+[14:42:30] BCraftMG: !mp close
+[14:42:31] BanchoBot: Closed the match

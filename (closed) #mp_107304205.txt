@@ -1,0 +1,413 @@
+[19:59:04] Joined #mp_107304205
+[19:59:04] BCraftMG: !mp settings
+[19:59:05] BanchoBot: Room name: RROH: ([ - AtLast ]) vs (Minkuzu), History: https://osu.ppy.sh/mp/107304205
+[19:59:05] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[19:59:05] BanchoBot: Players: 0
+[19:59:23] BCraftMG: !mp set 2 3 8
+[19:59:24] BanchoBot: Changed match settings to 8 slots, TeamVs, ScoreV2
+[19:59:26] BCraftMG: !mp invite #24105319
+[19:59:28] BanchoBot: Invited [ - AtLast ] to the room
+[19:59:28] BCraftMG: !mp invite #24679796
+[19:59:29] BanchoBot: Invited Minkuzu to the room
+[19:59:33] BanchoBot: [ - AtLast ] joined in slot 1 for team blue.
+[19:59:36] BanchoBot: Minkuzu joined in slot 2 for team red.
+[19:59:36] BCraftMG: o/
+[19:59:41] BCraftMG: warm up khong 2 ng
+[19:59:42] [_-_AtLast_]: hi
+[19:59:44] Minkuzu: o/
+[19:59:52] Minkuzu: tuy`
+[19:59:59] [_-_AtLast_]: kh
+[20:00:02] [_-_AtLast_]: skip
+[20:00:11] Minkuzu: ok
+[20:00:11] BCraftMG: uhh
+[20:00:13] BCraftMG: oke
+[20:00:14] BCraftMG: roll luon
+[20:00:20] [_-_AtLast_]: !roll
+[20:00:20] BanchoBot: [ - AtLast ] rolls 84 point(s)
+[20:00:22] Minkuzu: !roll
+[20:00:22] BanchoBot: Minkuzu rolls 18 point(s)
+[20:00:27] [_-_AtLast_]: ban
+[20:00:41] [_-_AtLast_]: hd2
+[20:00:58] BCraftMG: Minkuzu ban
+[20:00:58] BCraftMG: !mp timer 120
+[20:01:01] BanchoBot: Countdown ends in 2 minutes
+[20:01:21] Minkuzu: hr1
+[20:01:43] BCraftMG: 1 sec
+[20:01:54] BCraftMG: Minkuzu pick luon di
+[20:01:55] BCraftMG: !mp timer 120
+[20:01:57] BanchoBot: Countdown aborted
+[20:01:57] BanchoBot: Countdown ends in 2 minutes
+[20:02:04] Minkuzu: nm1
+[20:02:20] BCraftMG: !mp map 3261801 0
+[20:02:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3261801 Primary - Sweets Weekend
+[20:02:21] BanchoBot: Changed match mode to Osu
+[20:02:21] BCraftMG: !mp mods 1
+[20:02:22] [_-_AtLast_]: sightread nha ae
+[20:02:22] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:02:22] BCraftMG: !mp timer 120
+[20:02:23] BanchoBot: Countdown aborted
+[20:02:23] BanchoBot: Countdown ends in 2 minutes
+[20:02:26] BanchoBot: All players are ready
+[20:02:28] Minkuzu: vc
+[20:02:37] BCraftMG: !mp settings
+[20:02:39] BanchoBot: Room name: RROH: ([ - AtLast ]) vs (Minkuzu), History: https://osu.ppy.sh/mp/107304205
+[20:02:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/3261801 Primary - Sweets Weekend
+[20:02:39] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:02:39] BanchoBot: Active mods: NoFail
+[20:02:39] BanchoBot: Players: 2
+[20:02:39] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/24105319 [ - AtLast ]    [Team Blue]
+[20:02:39] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/24679796 Minkuzu         [Team Red ]
+[20:02:40] BCraftMG: !mp start 5 glhf
+[20:02:40] BanchoBot: Countdown aborted
+[20:02:40] BanchoBot: Match starts in 5 seconds
+[20:02:40] BanchoBot: Queued the match to start in 5 seconds
+[20:02:41] BanchoBot: Match starts in 4 seconds
+[20:02:43] BanchoBot: Match starts in 3 seconds
+[20:02:43] BanchoBot: Good luck, have fun!
+[20:02:44] Minkuzu: glhf
+[20:02:45] BanchoBot: The match has started!
+[20:06:18] BanchoBot: Minkuzu finished playing (Score: 805007, PASSED).
+[20:06:20] BanchoBot: [ - AtLast ] finished playing (Score: 844183, PASSED).
+[20:06:20] BanchoBot: The match has finished!
+[20:06:30] [_-_AtLast_]: oac
+[20:06:32] [_-_AtLast_]: choke a
+[20:06:37] BCraftMG: [ - AtLast ] | 1 - 0 | Minkuzu // Bo9 - Next Pick: [ - AtLast ]
+[20:06:37] BCraftMG: !mp timer 120
+[20:06:39] BanchoBot: Countdown ends in 2 minutes
+[20:06:40] Minkuzu: ~`
+[20:06:44] Minkuzu: wa bun
+[20:06:58] [_-_AtLast_]: dt2
+[20:07:01] [_-_AtLast_]: huhu
+[20:07:13] [_-_AtLast_]: imagine sliderbreak dau` map
+[20:07:14] BCraftMG: !mp map 2619226 0
+[20:07:15] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2619226 ALEPH - The Evil Spirit
+[20:07:15] BanchoBot: Changed match mode to Osu
+[20:07:15] BCraftMG: !mp mods 65
+[20:07:17] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[20:07:17] BCraftMG: !mp timer 120
+[20:07:18] BanchoBot: Countdown aborted
+[20:07:18] BanchoBot: Countdown ends in 2 minutes
+[20:07:22] BanchoBot: All players are ready
+[20:07:23] BCraftMG: !mp settings
+[20:07:24] BanchoBot: Room name: RROH: ([ - AtLast ]) vs (Minkuzu), History: https://osu.ppy.sh/mp/107304205
+[20:07:24] BanchoBot: Beatmap: https://osu.ppy.sh/b/2619226 ALEPH - The Evil Spirit
+[20:07:24] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:07:24] BanchoBot: Active mods: NoFail, DoubleTime
+[20:07:24] BanchoBot: Players: 2
+[20:07:24] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/24105319 [ - AtLast ]    [Team Blue]
+[20:07:24] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/24679796 Minkuzu         [Team Red ]
+[20:07:25] BCraftMG: !mp start 5 glhf
+[20:07:25] BanchoBot: Countdown aborted
+[20:07:25] BanchoBot: Match starts in 5 seconds
+[20:07:25] BanchoBot: Queued the match to start in 5 seconds
+[20:07:27] BanchoBot: Match starts in 4 seconds
+[20:07:28] BanchoBot: Match starts in 3 seconds
+[20:07:29] BanchoBot: Good luck, have fun!
+[20:07:30] BanchoBot: The match has started!
+[20:09:39] BanchoBot: Minkuzu finished playing (Score: 515542, PASSED).
+[20:09:41] BanchoBot: [ - AtLast ] finished playing (Score: 717400, PASSED).
+[20:09:41] BanchoBot: The match has finished!
+[20:09:53] BCraftMG: [ - AtLast ] | 2 - 0 | Minkuzu // Bo9 - Next Pick: Minkuzu
+[20:09:53] BCraftMG: !mp timer 120
+[20:09:55] BanchoBot: Countdown ends in 2 minutes
+[20:10:09] Minkuzu: nm4
+[20:10:21] BCraftMG: !mp map 3546172 0
+[20:10:22] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3546172 Aethral - It's Boss Time, dude
+[20:10:22] BanchoBot: Changed match mode to Osu
+[20:10:22] BCraftMG: !mp mods 1
+[20:10:23] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:10:23] BCraftMG: !mp timer 120
+[20:10:24] BanchoBot: Countdown aborted
+[20:10:24] BanchoBot: Countdown ends in 2 minutes
+[20:10:28] BanchoBot: All players are ready
+[20:10:29] BanchoBot: All players are ready
+[20:10:53] [_-_AtLast_]: glhf
+[20:10:59] Minkuzu: glhf
+[20:11:22] BCraftMG: !mp settings
+[20:11:23] BanchoBot: Room name: RROH: ([ - AtLast ]) vs (Minkuzu), History: https://osu.ppy.sh/mp/107304205
+[20:11:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/3546172 Aethral - It's Boss Time, dude
+[20:11:23] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:11:23] BanchoBot: Active mods: NoFail
+[20:11:23] BanchoBot: Players: 2
+[20:11:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/24105319 [ - AtLast ]    [Team Blue]
+[20:11:23] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/24679796 Minkuzu         [Team Red ]
+[20:11:23] BCraftMG: !mp start 5 glhf
+[20:11:24] BanchoBot: Countdown aborted
+[20:11:24] BanchoBot: Match starts in 5 seconds
+[20:11:24] BanchoBot: Queued the match to start in 5 seconds
+[20:11:25] BanchoBot: Match starts in 4 seconds
+[20:11:27] BanchoBot: Match starts in 3 seconds
+[20:11:28] BanchoBot: Good luck, have fun!
+[20:11:29] BanchoBot: The match has started!
+[20:13:57] BanchoBot: [ - AtLast ] finished playing (Score: 364314, PASSED).
+[20:13:57] BanchoBot: Minkuzu finished playing (Score: 440026, PASSED).
+[20:13:57] BanchoBot: The match has finished!
+[20:14:08] Minkuzu: oh
+[20:14:11] Minkuzu: @@!
+[20:14:17] BCraftMG: [ - AtLast ] | 2 - 1 | Minkuzu // Bo9 - Next Pick: [ - AtLast ]
+[20:14:18] [_-_AtLast_]: dt1
+[20:14:19] BCraftMG: !mp timer 120
+[20:14:19] BanchoBot: Countdown ends in 2 minutes
+[20:14:22] [_-_AtLast_]: huhu
+[20:14:24] BCraftMG: !mp map 1560857 0
+[20:14:25] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1560857 XX:me - Torikago
+[20:14:25] BanchoBot: Changed match mode to Osu
+[20:14:26] BCraftMG: !mp mods 65
+[20:14:27] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[20:14:27] BCraftMG: !mp timer 120
+[20:14:28] BanchoBot: Countdown aborted
+[20:14:28] BanchoBot: Countdown ends in 2 minutes
+[20:14:32] BanchoBot: All players are ready
+[20:14:56] BCraftMG: !mp settings
+[20:14:57] BanchoBot: Room name: RROH: ([ - AtLast ]) vs (Minkuzu), History: https://osu.ppy.sh/mp/107304205
+[20:14:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/1560857 XX:me - Torikago
+[20:14:57] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:14:57] BanchoBot: Active mods: NoFail, DoubleTime
+[20:14:57] BanchoBot: Players: 2
+[20:14:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/24105319 [ - AtLast ]    [Team Blue]
+[20:14:57] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/24679796 Minkuzu         [Team Red ]
+[20:14:58] BCraftMG: !mp start 5 glhf
+[20:14:58] BanchoBot: Countdown aborted
+[20:14:58] BanchoBot: Match starts in 5 seconds
+[20:14:58] BanchoBot: Queued the match to start in 5 seconds
+[20:14:59] BanchoBot: Match starts in 4 seconds
+[20:15:01] BanchoBot: Match starts in 3 seconds
+[20:15:02] BanchoBot: Good luck, have fun!
+[20:15:03] BanchoBot: The match has started!
+[20:17:38] BanchoBot: [ - AtLast ] finished playing (Score: 472179, PASSED).
+[20:17:38] BanchoBot: Minkuzu finished playing (Score: 503924, PASSED).
+[20:17:38] BanchoBot: The match has finished!
+[20:17:59] Minkuzu: dau
+[20:17:59] Minkuzu: tim
+[20:18:00] Minkuzu: qa
+[20:18:04] [_-_AtLast_]: HUHU
+[20:18:12] BCraftMG: [ - AtLast ] | 2 - 2 | Minkuzu // Bo9 - Next Pick: Minkuzu
+[20:18:16] BCraftMG: !mp timer 120
+[20:18:18] BanchoBot: Countdown ends in 2 minutes
+[20:18:18] Minkuzu: dt3
+[20:18:36] [_-_AtLast_]: co dt3 a
+[20:18:37] BCraftMG: !mp map 2210582 0
+[20:18:37] [_-_AtLast_]: adu
+[20:18:37] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2210582 -45 - Midorigo Queen Bee
+[20:18:37] BanchoBot: Changed match mode to Osu
+[20:18:38] BCraftMG: !mp mods 65
+[20:18:39] BCraftMG: yes
+[20:18:39] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[20:18:40] BCraftMG: lmfao
+[20:18:40] BCraftMG: !mp timer 120
+[20:18:42] BanchoBot: Countdown aborted
+[20:18:42] BanchoBot: Countdown ends in 2 minutes
+[20:18:45] [_-_AtLast_]: moi biet
+[20:18:45] [_-_AtLast_]: =)))
+[20:18:53] Minkuzu: :v
+[20:18:54] BanchoBot: All players are ready
+[20:18:56] BCraftMG: !mp settings
+[20:18:57] BanchoBot: Room name: RROH: ([ - AtLast ]) vs (Minkuzu), History: https://osu.ppy.sh/mp/107304205
+[20:18:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/2210582 -45 - Midorigo Queen Bee
+[20:18:57] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:18:57] BanchoBot: Active mods: NoFail, DoubleTime
+[20:18:57] BanchoBot: Players: 2
+[20:18:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/24105319 [ - AtLast ]    [Team Blue]
+[20:18:57] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/24679796 Minkuzu         [Team Red ]
+[20:18:58] BCraftMG: !mp start 5 glhf
+[20:18:59] BanchoBot: Countdown aborted
+[20:18:59] BanchoBot: Match starts in 5 seconds
+[20:18:59] BanchoBot: Queued the match to start in 5 seconds
+[20:19:00] BanchoBot: Match starts in 4 seconds
+[20:19:02] BanchoBot: Match starts in 3 seconds
+[20:19:03] BanchoBot: Good luck, have fun!
+[20:19:04] BanchoBot: The match has started!
+[20:21:44] BanchoBot: [ - AtLast ] finished playing (Score: 892656, PASSED).
+[20:21:46] BanchoBot: Minkuzu finished playing (Score: 661101, PASSED).
+[20:21:46] BanchoBot: The match has finished!
+[20:22:00] [_-_AtLast_]: CMN DAU TIM QUA
+[20:22:01] Minkuzu: wtf fc
+[20:22:05] BCraftMG: [ - AtLast ] | 3 - 2 | Minkuzu // Bo9 - Next Pick: [ - AtLast ]
+[20:22:07] BCraftMG: !mp timer 120
+[20:22:08] [_-_AtLast_]: kh
+[20:22:08] BanchoBot: Countdown ends in 2 minutes
+[20:22:12] [_-_AtLast_]: sliderbreak r
+[20:22:17] Minkuzu: @@!
+[20:22:23] Minkuzu: still crazy
+[20:22:23] [_-_AtLast_]: hr2
+[20:22:43] [_-_AtLast_]: @@
+[20:23:05] BCraftMG: !mp map 21108 0
+[20:23:06] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/21108 DJ - Mocha - Fallen Angel
+[20:23:06] BanchoBot: Changed match mode to Osu
+[20:23:07] BCraftMG: !mp mods 17
+[20:23:07] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[20:23:09] BanchoBot: Countdown ends in 1 minute
+[20:23:13] BanchoBot: All players are ready
+[20:23:15] BCraftMG: !mp settings
+[20:23:15] BanchoBot: Room name: RROH: ([ - AtLast ]) vs (Minkuzu), History: https://osu.ppy.sh/mp/107304205
+[20:23:15] BanchoBot: Beatmap: https://osu.ppy.sh/b/21108 DJ - Mocha - Fallen Angel
+[20:23:15] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:23:15] BanchoBot: Active mods: NoFail, HardRock
+[20:23:15] BanchoBot: Players: 2
+[20:23:15] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/24105319 [ - AtLast ]    [Team Blue]
+[20:23:15] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/24679796 Minkuzu         [Team Red ]
+[20:23:16] BCraftMG: !mp start 5 glhf
+[20:23:16] BanchoBot: Countdown aborted
+[20:23:16] BanchoBot: Match starts in 5 seconds
+[20:23:16] BanchoBot: Queued the match to start in 5 seconds
+[20:23:17] BanchoBot: Match starts in 4 seconds
+[20:23:19] BanchoBot: Match starts in 3 seconds
+[20:23:20] BanchoBot: Good luck, have fun!
+[20:23:22] BanchoBot: The match has started!
+[20:25:25] BanchoBot: Minkuzu finished playing (Score: 214520, PASSED).
+[20:25:25] BanchoBot: [ - AtLast ] finished playing (Score: 179217, PASSED).
+[20:25:25] BanchoBot: The match has finished!
+[20:25:37] [_-_AtLast_]: huhu
+[20:25:37] BCraftMG: [ - AtLast ] | 3 - 3 | Minkuzu // Bo9 - Next Pick: Minkuzu
+[20:25:38] [_-_AtLast_]: tb incoming
+[20:25:39] Minkuzu: @@!
+[20:25:39] BCraftMG: !mp timer 120
+[20:25:41] BanchoBot: Countdown ends in 2 minutes
+[20:25:46] Minkuzu: hd1
+[20:25:49] [_-_AtLast_]: cmn toi chua danh tb dau
+[20:25:52] [_-_AtLast_]: bo me hd danh sao
+[20:25:55] [_-_AtLast_]: :skull:
+[20:26:01] Minkuzu: toi ccung chua choi tb =))
+[20:26:12] Minkuzu: it's fine we both gonna sightread
+[20:26:17] [_-_AtLast_]: :sob:
+[20:26:34] Minkuzu: ong cu bo me hd danh sao di
+[20:26:36] Minkuzu: xong ty' thay' win
+[20:26:40] Minkuzu: :skull:
+[20:26:41] BanchoBot: Countdown ends in 1 minute
+[20:26:50] BCraftMG: !mp map 3925789 0
+[20:26:51] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3925789 YOASOBI - Shukufuku
+[20:26:51] BanchoBot: Changed match mode to Osu
+[20:26:52] BCraftMG: !mp mods 9
+[20:26:52] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[20:26:52] BCraftMG: !mp timer 120
+[20:26:53] [_-_AtLast_]: kh biet danh hd riel
+[20:26:53] Minkuzu: so. lam'
+[20:26:53] BanchoBot: Countdown aborted
+[20:26:53] BanchoBot: Countdown ends in 2 minutes
+[20:26:57] BanchoBot: All players are ready
+[20:27:04] BCraftMG: !mp settings
+[20:27:05] BanchoBot: Room name: RROH: ([ - AtLast ]) vs (Minkuzu), History: https://osu.ppy.sh/mp/107304205
+[20:27:05] BanchoBot: Beatmap: https://osu.ppy.sh/b/3925789 YOASOBI - Shukufuku
+[20:27:05] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:27:05] BanchoBot: Active mods: NoFail, Hidden
+[20:27:05] BanchoBot: Players: 2
+[20:27:05] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/24105319 [ - AtLast ]    [Team Blue]
+[20:27:05] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/24679796 Minkuzu         [Team Red ]
+[20:27:05] BCraftMG: !mp start 5 glhf
+[20:27:06] BanchoBot: Countdown aborted
+[20:27:06] BanchoBot: Match starts in 5 seconds
+[20:27:06] BanchoBot: Queued the match to start in 5 seconds
+[20:27:07] BanchoBot: Match starts in 4 seconds
+[20:27:09] BanchoBot: Match starts in 3 seconds
+[20:27:10] BanchoBot: Good luck, have fun!
+[20:27:11] BanchoBot: The match has started!
+[20:30:31] BanchoBot: [ - AtLast ] finished playing (Score: 256852, PASSED).
+[20:30:32] BanchoBot: Minkuzu finished playing (Score: 741249, PASSED).
+[20:30:32] BanchoBot: The match has finished!
+[20:30:39] [_-_AtLast_]: riel chua
+[20:30:41] Minkuzu: riel
+[20:30:44] BCraftMG: [ - AtLast ] | 3 - 4 | Minkuzu // Bo9 - Next Pick: [ - AtLast ]
+[20:30:45] BCraftMG: !mp timer 120
+[20:30:47] BanchoBot: Countdown ends in 2 minutes
+[20:31:09] [_-_AtLast_]: nm2
+[20:31:18] BCraftMG: !mp map 3297107 0
+[20:31:19] BCraftMG: !mp mods 1
+[20:31:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3297107 Jun Kuroda - Terpsichore
+[20:31:19] BanchoBot: Changed match mode to Osu
+[20:31:20] BCraftMG: !mp timer 120
+[20:31:20] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:31:22] BanchoBot: Countdown aborted
+[20:31:22] BanchoBot: Countdown ends in 2 minutes
+[20:31:26] BanchoBot: All players are ready
+[20:32:00] BCraftMG: !mp settings
+[20:32:01] BanchoBot: Room name: RROH: ([ - AtLast ]) vs (Minkuzu), History: https://osu.ppy.sh/mp/107304205
+[20:32:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/3297107 Jun Kuroda - Terpsichore
+[20:32:01] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:32:01] BanchoBot: Active mods: NoFail
+[20:32:01] BanchoBot: Players: 2
+[20:32:01] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/24105319 [ - AtLast ]    [Team Blue]
+[20:32:01] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/24679796 Minkuzu         [Team Red ]
+[20:32:02] BCraftMG: !mp start 5 glhf
+[20:32:02] BanchoBot: Countdown aborted
+[20:32:02] BanchoBot: Match starts in 5 seconds
+[20:32:02] BanchoBot: Queued the match to start in 5 seconds
+[20:32:04] BanchoBot: Match starts in 4 seconds
+[20:32:05] BanchoBot: Match starts in 3 seconds
+[20:32:06] BanchoBot: Good luck, have fun!
+[20:32:08] BanchoBot: The match has started!
+[20:34:28] BanchoBot: Minkuzu finished playing (Score: 485062, PASSED).
+[20:34:28] BanchoBot: [ - AtLast ] finished playing (Score: 684208, PASSED).
+[20:34:28] BanchoBot: The match has finished!
+[20:34:36] [_-_AtLast_]: TB AE
+[20:34:37] [_-_AtLast_]: =))))
+[20:34:40] Minkuzu: tb
+[20:34:45] Minkuzu: troi oi :((
+[20:34:46] [_-_AtLast_]: TB HYPE
+[20:34:52] Minkuzu: ro64 da danh tb 1 lan r
+[20:34:54] Minkuzu: not again
+[20:35:01] [_-_AtLast_]: vvai
+[20:35:03] BCraftMG: !mp map 2991582 0
+[20:35:04] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2991582 Kawada Mami - Wings of Courage -Sora o Koete- (Epsilon Remix)
+[20:35:04] BanchoBot: Changed match mode to Osu
+[20:35:06] BCraftMG: !mp mods Freemod
+[20:35:06] BanchoBot: Disabled all mods, enabled FreeMod
+[20:35:06] BCraftMG: !mp timer 120
+[20:35:08] BanchoBot: Countdown ends in 2 minutes
+[20:35:10] [_-_AtLast_]: ro64 toi 0-4
+[20:35:18] [_-_AtLast_]: seed 58 moment
+[20:35:22] Minkuzu: :((
+[20:35:27] BanchoBot: All players are ready
+[20:35:31] BCraftMG: !mp settings
+[20:35:31] BanchoBot: Room name: RROH: ([ - AtLast ]) vs (Minkuzu), History: https://osu.ppy.sh/mp/107304205
+[20:35:31] BanchoBot: Beatmap: https://osu.ppy.sh/b/2991582 Kawada Mami - Wings of Courage -Sora o Koete- (Epsilon Remix)
+[20:35:31] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:35:31] BanchoBot: Active mods: Freemod
+[20:35:31] BanchoBot: Players: 2
+[20:35:31] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/24105319 [ - AtLast ]    [Team Blue]
+[20:35:31] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/24679796 Minkuzu         [Team Red  / Hidden]
+[20:35:35] BCraftMG: nf pliz
+[20:35:52] BanchoBot: All players are ready
+[20:35:54] BCraftMG: !mp settings
+[20:35:55] BanchoBot: Room name: RROH: ([ - AtLast ]) vs (Minkuzu), History: https://osu.ppy.sh/mp/107304205
+[20:35:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/2991582 Kawada Mami - Wings of Courage -Sora o Koete- (Epsilon Remix)
+[20:35:55] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:35:55] BanchoBot: Active mods: Freemod
+[20:35:55] BanchoBot: Players: 2
+[20:35:55] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/24105319 [ - AtLast ]    [Team Blue / NoFail]
+[20:35:55] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/24679796 Minkuzu         [Team Red  / NoFail, Hidden]
+[20:35:56] Minkuzu: glhf
+[20:35:57] BCraftMG: !mp start 5 glhf
+[20:35:57] BanchoBot: Countdown aborted
+[20:35:57] BanchoBot: Match starts in 5 seconds
+[20:35:57] BanchoBot: Queued the match to start in 5 seconds
+[20:35:59] BanchoBot: Match starts in 4 seconds
+[20:36:00] BanchoBot: Match starts in 3 seconds
+[20:36:01] BanchoBot: Good luck, have fun!
+[20:36:03] BanchoBot: The match has started!
+[20:41:09] BanchoBot: Minkuzu finished playing (Score: 364605, PASSED).
+[20:41:09] BanchoBot: [ - AtLast ] finished playing (Score: 173104, PASSED).
+[20:41:09] BanchoBot: The match has finished!
+[20:41:21] Minkuzu: ggwp
+[20:41:21] BCraftMG: [ - AtLast ] | 4 - 5 | Minkuzu // Minkuzu wins! GGWP
+[20:41:22] [_-_AtLast_]: gg
+[20:41:31] Minkuzu: thanks for going easy on me
+[20:41:33] [_-_AtLast_]: toi tuot drip =))
+[20:41:34] Minkuzu: :pray:
+[20:41:37] [_-_AtLast_]: nhac dai` qua
+[20:41:37] [_-_AtLast_]: j
+[20:41:39] Minkuzu: :v
+[20:41:42] [_-_AtLast_]: lau r toi kh choi std
+[20:41:46] Minkuzu: yeah
+[20:41:51] Minkuzu: i see you rank 13k
+[20:41:53] [_-_AtLast_]: toi moi danh giai malia ve`
+[20:41:54] [_-_AtLast_]: =))
+[20:41:55] Minkuzu: like wtf lol
+[20:42:03] [_-_AtLast_]: ty for the match
+[20:42:06] [_-_AtLast_]: grats
+[20:42:10] [_-_AtLast_]: gl on next round
+[20:42:11] [_-_AtLast_]: xD
+[20:42:16] Minkuzu: thanks
+[20:42:40] BCraftMG: toi dang uhh panik nen la
+[20:42:41] BCraftMG: o/
+[20:42:42] BCraftMG: !mp close
+[20:42:43] BanchoBot: Closed the match

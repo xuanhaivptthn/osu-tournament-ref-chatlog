@@ -1,0 +1,569 @@
+[01:51:45] Joined #mp_102897353
+[01:51:46] BCraftMG: !mp settings
+[01:51:47] BanchoBot: Room name: KNOT: (McPickle) vs (Grass Touchers), History: https://osu.ppy.sh/mp/102897353
+[01:51:47] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[01:51:47] BanchoBot: Players: 0
+[01:52:06] BCraftMG: !mp addref Kikoyu
+[01:52:07] BanchoBot: Added Kikoyu to the match referees
+[01:52:21] BCraftMG: !mp set 2 3 8
+[01:52:21] BanchoBot: Changed match settings to 8 slots, TeamVs, ScoreV2
+[01:52:37] BCraftMG: !mp invite #13730858
+[01:52:38] BanchoBot: Invited AhMeowcus to the room
+[01:52:44] BCraftMG: !mp invite #5774467
+[01:52:45] BanchoBot: Invited Jolerty to the room
+[01:52:53] Kikoyu: !mp settings
+[01:52:53] BanchoBot: Room name: KNOT: (McPickle) vs (Grass Touchers), History: https://osu.ppy.sh/mp/102897353
+[01:52:53] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:52:53] BanchoBot: Players: 0
+[01:53:36] BCraftMG: !mp invite #13730858
+[01:53:36] BanchoBot: Invited AhMeowcus to the room
+[01:53:39] BCraftMG: !mp invite #5774467
+[01:53:39] BanchoBot: Invited Jolerty to the room
+[01:58:25] BCraftMG: um
+[02:02:11] BCraftMG: !mp invite #13730858
+[02:02:12] BanchoBot: Invited AhMeowcus to the room
+[02:02:20] BCraftMG: !mp invite #13730858
+[02:02:21] BanchoBot: Invited AhMeowcus to the room
+[02:02:24] BanchoBot: AhMeowcus joined in slot 1 for team blue.
+[02:02:24] BCraftMG: !mp invite #5774467
+[02:02:25] BanchoBot: Invited Jolerty to the room
+[02:02:42] BCraftMG: !mp invite #5774467
+[02:02:43] BanchoBot: Invited Jolerty to the room
+[02:02:44] BCraftMG: bancho hello
+[02:03:09] BCraftMG: you wanna pick warm up? AhMeowcus
+[02:04:15] BanchoBot: Ryuji joined in slot 2 for team red.
+[02:04:18] BanchoBot: Jolerty joined in slot 3 for team blue.
+[02:04:23] BanchoBot: -- Waffle -- joined in slot 4 for team red.
+[02:04:25] BCraftMG: o/
+[02:04:31] Jolerty: o/
+[02:04:35] AhMeowcus: sure
+[02:04:40] BanchoBot: AhMeowcus changed to Red
+[02:04:40] BanchoBot: AhMeowcus changed to Blue
+[02:04:41] BanchoBot: AhMeowcus changed to Red
+[02:04:43] BCraftMG: McPickle is red
+[02:04:48] BCraftMG: Grass Touchers is blue
+[02:04:51] BanchoBot: Ryuji moved to slot 5
+[02:04:52] BanchoBot: Ryuji moved to slot 6
+[02:04:53] BCraftMG: !mp host ahmeowcus
+[02:04:54] BanchoBot: AhMeowcus became the host.
+[02:04:54] BanchoBot: Changed match host to AhMeowcus
+[02:04:56] BanchoBot: Beatmap changed to: Akira Complex - Ether Strike [Rhonen's Insane] (https://osu.ppy.sh/b/1979370)
+[02:04:56] BanchoBot: Ryuji moved to slot 5
+[02:04:56] BanchoBot: Host is changing map...
+[02:05:10] BanchoBot: Beatmap changed to: Zekk - Calling [Komore's Extra] (https://osu.ppy.sh/b/1432320)
+[02:05:12] BanchoBot: -- Waffle -- became the host.
+[02:05:14] BanchoBot: Host is changing map...
+[02:05:37] BanchoBot: Beatmap changed to: Silent Siren - Routine [Jumpy Route] (https://osu.ppy.sh/b/827317)
+[02:05:42] BanchoBot: -- Waffle -- moved to slot 2
+[02:05:43] BanchoBot: Host is changing map...
+[02:05:44] BanchoBot: sma11ow joined in slot 4 for team red.
+[02:05:47] BanchoBot: Beatmap changed to: Silent Siren - Routine [Jumpy Route] (https://osu.ppy.sh/b/827317)
+[02:05:52] BanchoBot: sma11ow changed to Blue
+[02:05:59] BanchoBot: Host is changing map...
+[02:06:04] BanchoBot: Beatmap changed to: Silent Siren - Routine [Jumpy Route] (https://osu.ppy.sh/b/827317)
+[02:06:23] sma11ow: o/
+[02:06:37] BCraftMG: o//
+[02:06:37] sma11ow: im so sleepy
+[02:06:49] BanchoBot: regosu_ joined in slot 6 for team red.
+[02:06:53] Jolerty: yo
+[02:06:56] regosu_: meow
+[02:07:09] sma11ow: reg switch teams
+[02:07:11] Jolerty: we are blue team
+[02:07:17] regosu_: I come in after warmup
+[02:07:20] BCraftMG: wakey wakey its time for osu
+[02:07:22] Jolerty: okey
+[02:07:23] sma11ow: oh ok
+[02:07:31] regosu_: I warmed up
+[02:07:35] regosu_: now im resting shortly
+[02:07:36] BanchoBot: regosu_ left the game.
+[02:07:38] BanchoBot: All players are ready
+[02:07:43] BanchoBot: The match has started!
+[02:07:46] Jolerty: oh no we are 2v3
+[02:11:50] BanchoBot: Ryuji finished playing (Score: 214263, PASSED).
+[02:11:50] BanchoBot: Jolerty finished playing (Score: 266144, PASSED).
+[02:11:50] BanchoBot: -- Waffle -- finished playing (Score: 264844, PASSED).
+[02:11:51] BanchoBot: sma11ow finished playing (Score: 145998, PASSED).
+[02:11:52] BanchoBot: AhMeowcus finished playing (Score: 81637, PASSED).
+[02:11:52] BanchoBot: The match has finished!
+[02:12:16] sma11ow: my aim hand hurts
+[02:12:42] Jolerty: osu how
+[02:12:43] BCraftMG: Jolerty you wanna pick warm up?
+[02:12:48] Jolerty: yeah
+[02:12:52] BCraftMG: !mp host Jolerty
+[02:12:53] BanchoBot: Jolerty became the host.
+[02:12:53] BanchoBot: Changed match host to Jolerty
+[02:12:59] BanchoBot: Host is changing map...
+[02:13:09] BanchoBot: Beatmap changed to: Pavel Volya - Ofigenno (Cut Ver.) [Collab Chill] (https://osu.ppy.sh/b/3447941)
+[02:13:35] sma11ow: AHHAHAHAHA
+[02:14:05] BanchoBot: The match has started!
+[02:16:09] BanchoBot: -- Waffle -- finished playing (Score: 319010, PASSED).
+[02:16:09] BanchoBot: AhMeowcus finished playing (Score: 125342, PASSED).
+[02:16:09] BanchoBot: Jolerty finished playing (Score: 284350, PASSED).
+[02:16:10] BanchoBot: Ryuji finished playing (Score: 170008, PASSED).
+[02:16:10] BanchoBot: sma11ow finished playing (Score: 254221, PASSED).
+[02:16:10] BanchoBot: The match has finished!
+[02:16:23] BCraftMG: !mp clearhost
+[02:16:24] BanchoBot: Cleared match host
+[02:16:30] BCraftMG: captain time to roll
+[02:16:42] AhMeowcus: !roll
+[02:16:42] BanchoBot: AhMeowcus rolls 31 point(s)
+[02:17:20] BCraftMG: Jolerty knock knock
+[02:17:31] Jolerty: !roll
+[02:17:31] BanchoBot: Jolerty rolls 50 point(s)
+[02:17:46] BCraftMG: Grass Touchers please choose your pick or ban order
+[02:18:09] Jolerty: pick order
+[02:18:46] BCraftMG: please choose the order
+[02:19:09] Jolerty: we first
+[02:19:37] BCraftMG: McPickle please choose the ban order
+[02:19:37] Jolerty: nm5
+[02:19:50] Jolerty: oops
+[02:19:55] sma11ow: he meant pick ban
+[02:20:01] sma11ow: nm5 pick
+[02:20:05] sma11ow: :D
+[02:20:09] AhMeowcus: its bo9 1 ban?
+[02:20:12] BCraftMG: yea
+[02:20:20] AhMeowcus: ok we ban first
+[02:20:22] AhMeowcus: hr1 ban
+[02:20:37] BCraftMG: Grass Touchers your ban please
+[02:20:39] BCraftMG: !mp timer 120
+[02:20:40] BanchoBot: Countdown ends in 2 minutes
+[02:21:03] Jolerty: fm2
+[02:21:30] BCraftMG: McPickle | 0 - 0 | Grass Touchers // First Pick: Grass Touchers
+[02:21:39] Jolerty: nm5
+[02:21:41] BanchoBot: Countdown ends in 1 minute
+[02:21:42] BCraftMG: so nm5 right
+[02:21:43] BCraftMG: okay
+[02:21:44] BCraftMG: !mp map 3303203 0
+[02:21:45] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3303203 cosMo@BousouP feat. Hatsune Miku - Machinegun Poem Doll
+[02:21:45] BanchoBot: Changed match mode to Osu
+[02:21:45] BCraftMG: !mp mods 1
+[02:21:46] BanchoBot: Enabled NoFail, disabled FreeMod
+[02:21:47] BCraftMG: !mp timer 90
+[02:21:48] BanchoBot: Countdown aborted
+[02:21:48] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[02:21:59] BanchoBot: AhMeowcus left the game.
+[02:22:03] BanchoBot: Ryuji moved to slot 1
+[02:22:14] BanchoBot: All players are ready
+[02:22:18] BanchoBot: Countdown ends in 1 minute
+[02:22:22] BCraftMG: !mp settings
+[02:22:23] BanchoBot: Room name: KNOT: (McPickle) vs (Grass Touchers), History: https://osu.ppy.sh/mp/102897353
+[02:22:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/3303203 cosMo@BousouP feat. Hatsune Miku - Machinegun Poem Doll
+[02:22:23] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:22:23] BanchoBot: Active mods: NoFail
+[02:22:23] BanchoBot: Players: 4
+[02:22:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14869297 Ryuji           [Team Red ]
+[02:22:23] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18365259 -- Waffle --    [Team Red ]
+[02:22:23] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/5774467 Jolerty         [Team Blue]
+[02:22:23] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15165714 sma11ow         [Team Blue]
+[02:22:25] BCraftMG: !mp start 10
+[02:22:26] BanchoBot: Countdown aborted
+[02:22:26] BanchoBot: Match starts in 10 seconds
+[02:22:26] BanchoBot: Queued the match to start in 10 seconds
+[02:22:30] Ryuji: goodruck
+[02:22:31] BanchoBot: Match starts in 5 seconds
+[02:22:32] BanchoBot: Match starts in 4 seconds
+[02:22:33] BanchoBot: Match starts in 3 seconds
+[02:22:34] BanchoBot: Good luck, have fun!
+[02:22:36] BanchoBot: The match has started!
+[02:22:40] Jolerty: +
+[02:25:02] BanchoBot: -- Waffle -- finished playing (Score: 921009, PASSED).
+[02:25:02] BanchoBot: Ryuji finished playing (Score: 668350, PASSED).
+[02:25:02] BanchoBot: Jolerty finished playing (Score: 451524, PASSED).
+[02:25:03] BanchoBot: sma11ow finished playing (Score: 369678, PASSED).
+[02:25:03] BanchoBot: The match has finished!
+[02:25:15] BCraftMG: McPickle | 1 - 0 | Grass Touchers // Next Pick: McPickle
+[02:25:16] BCraftMG: !mp timer 120
+[02:25:17] BanchoBot: Countdown ends in 2 minutes
+[02:26:17] BanchoBot: regosu_ joined in slot 5 for team blue.
+[02:26:18] BanchoBot: Countdown ends in 1 minute
+[02:26:25] regosu_: hey guys
+[02:26:31] regosu_: whats ur pick
+[02:26:47] BanchoBot: Countdown ends in 30 seconds
+[02:26:49] Jolerty: w8
+[02:27:07] BanchoBot: Countdown ends in 10 seconds
+[02:27:12] Ryuji: hd1
+[02:27:12] BanchoBot: Countdown ends in 5 seconds
+[02:27:13] BanchoBot: Countdown ends in 4 seconds
+[02:27:14] BanchoBot: Countdown ends in 3 seconds
+[02:27:15] BanchoBot: Countdown ends in 2 seconds
+[02:27:16] BanchoBot: Countdown ends in 1 second
+[02:27:18] BanchoBot: Countdown finished
+[02:27:20] BanchoBot: AhMeowcus joined in slot 6 for team red.
+[02:27:22] BCraftMG: !mp map 2772767 0
+[02:27:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2772767 Post Malone - Wow.
+[02:27:23] BanchoBot: Changed match mode to Osu
+[02:27:25] AhMeowcus: hd1
+[02:27:25] BCraftMG: !mp mods 9
+[02:27:26] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[02:27:28] BCraftMG: !mp timer 120
+[02:27:28] BanchoBot: Countdown ends in 2 minutes
+[02:27:31] Jolerty: 727
+[02:27:38] BCraftMG: !mp timer 90
+[02:27:40] BanchoBot: Countdown aborted
+[02:27:40] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[02:27:42] BanchoBot: AhMeowcus left the game.
+[02:28:01] BanchoBot: regosu_ left the game.
+[02:28:10] BanchoBot: Countdown ends in 1 minute
+[02:28:13] Jolerty: gl hf будда баф моисей баф
+[02:28:15] BanchoBot: All players are ready
+[02:28:18] BCraftMG: !mp settings
+[02:28:18] BanchoBot: Room name: KNOT: (McPickle) vs (Grass Touchers), History: https://osu.ppy.sh/mp/102897353
+[02:28:18] BanchoBot: Beatmap: https://osu.ppy.sh/b/2772767 Post Malone - Wow.
+[02:28:18] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:28:18] BanchoBot: Active mods: NoFail, Hidden
+[02:28:18] BanchoBot: Players: 4
+[02:28:18] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14869297 Ryuji           [Team Red ]
+[02:28:18] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18365259 -- Waffle --    [Team Red ]
+[02:28:18] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/5774467 Jolerty         [Team Blue]
+[02:28:18] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15165714 sma11ow         [Team Blue]
+[02:28:20] BCraftMG: !mp start 10
+[02:28:21] BanchoBot: Countdown aborted
+[02:28:21] BanchoBot: Match starts in 10 seconds
+[02:28:21] BanchoBot: Queued the match to start in 10 seconds
+[02:28:23] Ryuji: glhf
+[02:28:25] sma11ow: gl hf
+[02:28:26] BanchoBot: Match starts in 5 seconds
+[02:28:28] BanchoBot: Match starts in 4 seconds
+[02:28:29] BanchoBot: Match starts in 3 seconds
+[02:28:30] BanchoBot: Good luck, have fun!
+[02:28:31] BanchoBot: The match has started!
+[02:30:59] BanchoBot: Ryuji finished playing (Score: 314680, PASSED).
+[02:30:59] BanchoBot: Jolerty finished playing (Score: 222592, PASSED).
+[02:30:59] BanchoBot: -- Waffle -- finished playing (Score: 386774, PASSED).
+[02:30:59] BanchoBot: sma11ow finished playing (Score: 222137, PASSED).
+[02:30:59] BanchoBot: The match has finished!
+[02:31:18] BCraftMG: McPickle | 2 - 0 | Grass Touchers // Next Pick: Grass Touchers
+[02:31:19] BCraftMG: !mp timer 120
+[02:31:20] BanchoBot: Countdown ends in 2 minutes
+[02:31:38] sma11ow: wtf happened to me
+[02:32:21] BanchoBot: Countdown ends in 1 minute
+[02:32:37] sma11ow: hr2
+[02:32:46] BCraftMG: !mp map 2563126 0
+[02:32:47] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2563126 paranoid void - Utakata no Sora, Eien no Machi
+[02:32:47] BanchoBot: Changed match mode to Osu
+[02:32:51] BCraftMG: !mp mods 17
+[02:32:51] BanchoBot: Countdown ends in 30 seconds
+[02:32:52] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[02:32:53] BCraftMG: !mp timer 90
+[02:32:53] BanchoBot: Countdown aborted
+[02:32:53] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[02:33:04] BanchoBot: Ryuji left the game.
+[02:33:23] BanchoBot: Countdown ends in 1 minute
+[02:33:29] BanchoBot: AhMeowcus joined in slot 1 for team blue.
+[02:33:35] BanchoBot: AhMeowcus changed to Red
+[02:33:42] sma11ow: sleepy debuff
+[02:33:43] sma11ow: :c
+[02:33:54] BanchoBot: Countdown ends in 30 seconds
+[02:34:14] BanchoBot: Countdown ends in 10 seconds
+[02:34:19] BanchoBot: Countdown ends in 5 seconds
+[02:34:20] BanchoBot: Countdown ends in 4 seconds
+[02:34:21] BanchoBot: Countdown ends in 3 seconds
+[02:34:21] BanchoBot: Countdown ends in 2 seconds
+[02:34:22] BanchoBot: Countdown ends in 1 second
+[02:34:23] BanchoBot: Countdown finished
+[02:34:26] BCraftMG: !mp settings
+[02:34:28] BanchoBot: Room name: KNOT: (McPickle) vs (Grass Touchers), History: https://osu.ppy.sh/mp/102897353
+[02:34:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/2563126 paranoid void - Utakata no Sora, Eien no Machi
+[02:34:28] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:34:28] BanchoBot: Active mods: NoFail, HardRock
+[02:34:28] BanchoBot: Players: 4
+[02:34:28] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/13730858 AhMeowcus       [Team Red ]
+[02:34:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18365259 -- Waffle --    [Team Red ]
+[02:34:28] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/5774467 Jolerty         [Team Blue]
+[02:34:28] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15165714 sma11ow         [Team Blue]
+[02:34:32] BanchoBot: All players are ready
+[02:34:34] BCraftMG: !mp settings
+[02:34:35] BanchoBot: Room name: KNOT: (McPickle) vs (Grass Touchers), History: https://osu.ppy.sh/mp/102897353
+[02:34:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/2563126 paranoid void - Utakata no Sora, Eien no Machi
+[02:34:35] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:34:35] BanchoBot: Active mods: NoFail, HardRock
+[02:34:35] BanchoBot: Players: 4
+[02:34:35] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13730858 AhMeowcus       [Team Red ]
+[02:34:35] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18365259 -- Waffle --    [Team Red ]
+[02:34:35] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/5774467 Jolerty         [Team Blue]
+[02:34:35] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15165714 sma11ow         [Team Blue]
+[02:34:37] BCraftMG: !mp start 10
+[02:34:38] BanchoBot: Match starts in 10 seconds
+[02:34:38] BanchoBot: Queued the match to start in 10 seconds
+[02:34:42] AhMeowcus: glhf
+[02:34:43] BanchoBot: Match starts in 5 seconds
+[02:34:45] BanchoBot: Match starts in 4 seconds
+[02:34:45] --_Waffle_--: james what happened to mewoing
+[02:34:46] BanchoBot: Match starts in 3 seconds
+[02:34:46] BanchoBot: Good luck, have fun!
+[02:34:46] --_Waffle_--: :(
+[02:34:48] BanchoBot: The match has started!
+[02:34:49] BCraftMG: :c
+[02:38:10] BanchoBot: -- Waffle -- finished playing (Score: 451530, PASSED).
+[02:38:10] BanchoBot: sma11ow finished playing (Score: 216521, PASSED).
+[02:38:11] BanchoBot: AhMeowcus finished playing (Score: 131326, PASSED).
+[02:38:12] BanchoBot: Jolerty finished playing (Score: 290742, PASSED).
+[02:38:12] BanchoBot: The match has finished!
+[02:38:24] BCraftMG: McPickle | 3 - 0 | Grass Touchers // Next Pick: McPickle
+[02:38:26] BCraftMG: !mp timer 120
+[02:38:27] BanchoBot: Countdown ends in 2 minutes
+[02:38:32] BanchoBot: Ryuji joined in slot 5 for team blue.
+[02:38:35] sma11ow: u guys are insane
+[02:38:40] Ryuji: hd2
+[02:39:07] BCraftMG: thats a double pick
+[02:39:20] AhMeowcus: ok
+[02:39:22] AhMeowcus: sorry
+[02:39:28] BanchoBot: Countdown ends in 1 minute
+[02:39:32] AhMeowcus: nm4
+[02:39:46] BCraftMG: !mp map 1979370 0
+[02:39:47] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1979370 Akira Complex - Ether Strike
+[02:39:47] BanchoBot: Changed match mode to Osu
+[02:39:49] BCraftMG: !mp mods 1
+[02:39:49] BanchoBot: Enabled NoFail, disabled FreeMod
+[02:39:50] BanchoBot: AhMeowcus left the game.
+[02:39:54] BCraftMG: !mp timer 90
+[02:39:54] BanchoBot: Countdown aborted
+[02:39:54] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[02:39:58] BanchoBot: sma11ow left the game.
+[02:40:02] BanchoBot: Ryuji moved to slot 1
+[02:40:03] BanchoBot: Ryuji changed to Red
+[02:40:15] BanchoBot: regosu_ joined in slot 4 for team red.
+[02:40:20] regosu_: meow guys
+[02:40:24] BanchoBot: regosu_ changed to Blue
+[02:40:25] BanchoBot: Countdown ends in 1 minute
+[02:40:47] BanchoBot: All players are ready
+[02:40:54] BanchoBot: Countdown ends in 30 seconds
+[02:41:01] regosu_: glhf
+[02:41:02] BCraftMG: !mp settings
+[02:41:03] BanchoBot: Room name: KNOT: (McPickle) vs (Grass Touchers), History: https://osu.ppy.sh/mp/102897353
+[02:41:03] BanchoBot: Beatmap: https://osu.ppy.sh/b/1979370 Akira Complex - Ether Strike
+[02:41:03] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:41:03] BanchoBot: Active mods: NoFail
+[02:41:03] BanchoBot: Players: 4
+[02:41:03] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14869297 Ryuji           [Team Red ]
+[02:41:03] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18365259 -- Waffle --    [Team Red ]
+[02:41:03] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/5774467 Jolerty         [Team Blue]
+[02:41:03] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/20619130 regosu_         [Team Blue]
+[02:41:06] BCraftMG: !mp start 10
+[02:41:07] BanchoBot: Countdown aborted
+[02:41:07] BanchoBot: Match starts in 10 seconds
+[02:41:07] BanchoBot: Queued the match to start in 10 seconds
+[02:41:12] BanchoBot: Match starts in 5 seconds
+[02:41:13] BanchoBot: Match starts in 4 seconds
+[02:41:13] Jolerty: glhf
+[02:41:14] BanchoBot: Match starts in 3 seconds
+[02:41:15] BanchoBot: Good luck, have fun!
+[02:41:18] BanchoBot: The match has started!
+[02:43:45] BanchoBot: regosu_ finished playing (Score: 283674, PASSED).
+[02:43:45] BanchoBot: Jolerty finished playing (Score: 426471, PASSED).
+[02:43:45] BanchoBot: Ryuji finished playing (Score: 816533, PASSED).
+[02:43:46] BanchoBot: -- Waffle -- finished playing (Score: 345013, PASSED).
+[02:43:46] BanchoBot: The match has finished!
+[02:44:23] BCraftMG: McPickle | 4 - 0 | Grass Touchers // Next Pick: Grass Touchers
+[02:44:28] BCraftMG: !mp timer 120
+[02:44:28] BanchoBot: Countdown ends in 2 minutes
+[02:44:46] BanchoBot: sma11ow joined in slot 5 for team blue.
+[02:44:48] BanchoBot: AhMeowcus joined in slot 6 for team red.
+[02:44:52] BanchoBot: Ryuji left the game.
+[02:45:28] BanchoBot: Countdown ends in 1 minute
+[02:45:30] Jolerty: dt3
+[02:45:31] BanchoBot: regosu_ left the game.
+[02:45:42] BCraftMG: !mp map 3214999 0
+[02:45:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3214999 paraoka feat. haru*nya - Free Waltz
+[02:45:43] BanchoBot: Changed match mode to Osu
+[02:45:44] BCraftMG: !mp mods 65
+[02:45:45] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[02:45:47] BCraftMG: !mp timer 90
+[02:45:47] BanchoBot: Countdown aborted
+[02:45:47] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[02:46:04] BanchoBot: AhMeowcus moved to slot 1
+[02:46:09] sma11ow: if u sightread fc it i will stab myself
+[02:46:12] BanchoBot: sma11ow moved to slot 4
+[02:46:18] BanchoBot: Countdown ends in 1 minute
+[02:46:21] --_Waffle_--: Okay
+[02:46:28] --_Waffle_--: my team wants to play HD2 so badly
+[02:46:36] --_Waffle_--: so I am gonna try to 2v1
+[02:46:40] sma11ow: i wanna just die
+[02:46:42] --_Waffle_--: so no fc I lose
+[02:46:42] sma11ow: :D
+[02:46:48] BanchoBot: Countdown ends in 30 seconds
+[02:46:48] BanchoBot: All players are ready
+[02:47:08] BanchoBot: Countdown ends in 10 seconds
+[02:47:12] BCraftMG: !mp settings
+[02:47:13] BanchoBot: Countdown ends in 5 seconds
+[02:47:13] BanchoBot: Room name: KNOT: (McPickle) vs (Grass Touchers), History: https://osu.ppy.sh/mp/102897353
+[02:47:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/3214999 paraoka feat. haru*nya - Free Waltz
+[02:47:13] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:47:13] BanchoBot: Active mods: NoFail, DoubleTime
+[02:47:13] BanchoBot: Players: 4
+[02:47:13] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13730858 AhMeowcus       [Team Red ]
+[02:47:13] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18365259 -- Waffle --    [Team Red ]
+[02:47:13] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/5774467 Jolerty         [Team Blue]
+[02:47:13] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15165714 sma11ow         [Team Blue]
+[02:47:14] BanchoBot: Countdown ends in 4 seconds
+[02:47:15] BanchoBot: Countdown ends in 3 seconds
+[02:47:15] BCraftMG: !mp start 10
+[02:47:16] BanchoBot: Countdown ends in 2 seconds
+[02:47:16] sma11ow: :deadge:
+[02:47:16] BanchoBot: Countdown aborted
+[02:47:16] BanchoBot: Match starts in 10 seconds
+[02:47:16] BanchoBot: Queued the match to start in 10 seconds
+[02:47:21] BanchoBot: Match starts in 5 seconds
+[02:47:22] BanchoBot: Match starts in 4 seconds
+[02:47:23] BanchoBot: Match starts in 3 seconds
+[02:47:24] BanchoBot: Good luck, have fun!
+[02:47:26] BanchoBot: The match has started!
+[02:50:20] BanchoBot: AhMeowcus finished playing (Score: 3375, PASSED).
+[02:50:23] BanchoBot: Jolerty finished playing (Score: 403006, PASSED).
+[02:50:24] BanchoBot: -- Waffle -- finished playing (Score: 536758, PASSED).
+[02:50:24] BanchoBot: sma11ow finished playing (Score: 171980, PASSED).
+[02:50:24] BanchoBot: The match has finished!
+[02:50:29] --_Waffle_--: NOOOOOOO
+[02:50:30] --_Waffle_--: ;:(
+[02:50:32] BanchoBot: Ryuji joined in slot 5 for team blue.
+[02:50:34] Ryuji: hd2
+[02:50:36] BCraftMG: McPickle | 4 - 1 | Grass Touchers // Next Pick: McPickle
+[02:50:39] --_Waffle_--: I lost:(
+[02:50:39] BanchoBot: -- Waffle -- left the game.
+[02:50:42] BanchoBot: AhMeowcus moved to slot 2
+[02:50:42] BCraftMG: !mp map 318204 0
+[02:50:42] BanchoBot: AhMeowcus moved to slot 1
+[02:50:42] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/318204 Yoko Shimomura - Final Battle
+[02:50:42] BanchoBot: Changed match mode to Osu
+[02:50:44] BCraftMG: !mp mods 9
+[02:50:45] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[02:50:45] sma11ow: i think it is disrespectful asf
+[02:50:50] BCraftMG: !mp timer 90
+[02:50:50] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[02:50:54] BanchoBot: regosu_ joined in slot 2 for team red.
+[02:50:59] Jolerty: уёбище тролит
+[02:51:01] sma11ow: just play the goddamn map
+[02:51:17] BanchoBot: sma11ow left the game.
+[02:51:19] Jolerty: сидит гыгы хд2 ща пикнем обоссым в 2 сса надо показать
+[02:51:19] BanchoBot: regosu_ moved to slot 4
+[02:51:20] BanchoBot: Ryuji changed to Red
+[02:51:21] BanchoBot: Ryuji moved to slot 2
+[02:51:21] BanchoBot: Countdown ends in 1 minute
+[02:51:22] BanchoBot: regosu_ changed to Blue
+[02:51:51] BanchoBot: Countdown ends in 30 seconds
+[02:52:02] BanchoBot: All players are ready
+[02:52:05] BCraftMG: !mp settings
+[02:52:06] BanchoBot: Room name: KNOT: (McPickle) vs (Grass Touchers), History: https://osu.ppy.sh/mp/102897353
+[02:52:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/318204 Yoko Shimomura - Final Battle
+[02:52:06] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:52:06] BanchoBot: Active mods: NoFail, Hidden
+[02:52:06] BanchoBot: Players: 4
+[02:52:06] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13730858 AhMeowcus       [Team Red ]
+[02:52:06] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14869297 Ryuji           [Team Red ]
+[02:52:06] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/5774467 Jolerty         [Team Blue]
+[02:52:06] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/20619130 regosu_         [Team Blue]
+[02:52:11] BanchoBot: Countdown ends in 10 seconds
+[02:52:16] BanchoBot: Countdown ends in 5 seconds
+[02:52:17] BanchoBot: Countdown ends in 4 seconds
+[02:52:18] BanchoBot: Countdown ends in 3 seconds
+[02:52:18] BanchoBot: Countdown ends in 2 seconds
+[02:52:19] BanchoBot: All players are ready
+[02:52:19] BanchoBot: Countdown ends in 1 second
+[02:52:20] BanchoBot: Countdown finished
+[02:52:21] BCraftMG: !mp settings
+[02:52:22] BanchoBot: Room name: KNOT: (McPickle) vs (Grass Touchers), History: https://osu.ppy.sh/mp/102897353
+[02:52:22] BanchoBot: Beatmap: https://osu.ppy.sh/b/318204 Yoko Shimomura - Final Battle
+[02:52:22] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:52:22] BanchoBot: Active mods: NoFail, Hidden
+[02:52:22] BanchoBot: Players: 4
+[02:52:22] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13730858 AhMeowcus       [Team Red ]
+[02:52:22] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14869297 Ryuji           [Team Red ]
+[02:52:22] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/5774467 Jolerty         [Team Blue]
+[02:52:22] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/20619130 regosu_         [Team Blue]
+[02:52:23] BCraftMG: !mp start 10
+[02:52:24] BanchoBot: Match starts in 10 seconds
+[02:52:24] BanchoBot: Queued the match to start in 10 seconds
+[02:52:27] AhMeowcus: glhf
+[02:52:29] BanchoBot: Match starts in 5 seconds
+[02:52:30] BanchoBot: Match starts in 4 seconds
+[02:52:30] regosu_: glhf
+[02:52:31] BanchoBot: Match starts in 3 seconds
+[02:52:32] BanchoBot: Good luck, have fun!
+[02:52:34] BanchoBot: The match has started!
+[02:54:13] BanchoBot: Ryuji finished playing (Score: 806461, PASSED).
+[02:54:13] BanchoBot: AhMeowcus finished playing (Score: 193243, PASSED).
+[02:54:13] BanchoBot: regosu_ finished playing (Score: 780575, PASSED).
+[02:54:14] BanchoBot: Jolerty finished playing (Score: 308005, PASSED).
+[02:54:14] BanchoBot: The match has finished!
+[02:54:27] BCraftMG: McPickle | 4 - 2 | Grass Touchers // Next Pick: Grass Touchers
+[02:54:29] BCraftMG: !mp timer 120
+[02:54:29] BanchoBot: Countdown ends in 2 minutes
+[02:54:43] Jolerty: get firetrucked bitches
+[02:55:06] BanchoBot: -- Waffle -- joined in slot 5 for team blue.
+[02:55:12] BanchoBot: sma11ow joined in slot 6 for team red.
+[02:55:28] BanchoBot: sma11ow changed to Blue
+[02:55:30] BanchoBot: Countdown ends in 1 minute
+[02:55:34] BanchoBot: -- Waffle -- changed to Red
+[02:56:00] BanchoBot: Countdown ends in 30 seconds
+[02:56:20] BanchoBot: Countdown ends in 10 seconds
+[02:56:24] Jolerty: nm2
+[02:56:25] BanchoBot: Countdown ends in 5 seconds
+[02:56:26] BanchoBot: Countdown ends in 4 seconds
+[02:56:27] BanchoBot: Countdown ends in 3 seconds
+[02:56:28] BanchoBot: Countdown ends in 2 seconds
+[02:56:29] BanchoBot: Countdown ends in 1 second
+[02:56:30] BanchoBot: Countdown finished
+[02:56:35] BanchoBot: AhMeowcus left the game.
+[02:56:38] BCraftMG: !mp map 3010348 0
+[02:56:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3010348 vierre cloud - moment
+[02:56:39] BanchoBot: Changed match mode to Osu
+[02:56:40] BCraftMG: !mp timer 90
+[02:56:41] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[02:56:46] BanchoBot: -- Waffle -- moved to slot 1
+[02:56:50] BanchoBot: sma11ow left the game.
+[02:56:52] --_Waffle_--: HD btw
+[02:56:55] --_Waffle_--: :tf:
+[02:57:09] BCraftMG: !mp mods 1
+[02:57:10] BCraftMG: :tf:
+[02:57:10] BanchoBot: Enabled NoFail, disabled FreeMod
+[02:57:11] BanchoBot: Countdown ends in 1 minute
+[02:57:19] --_Waffle_--: glhf
+[02:57:23] BanchoBot: All players are ready
+[02:57:26] regosu_: glhf
+[02:57:30] BCraftMG: !mp settings
+[02:57:31] BanchoBot: Room name: KNOT: (McPickle) vs (Grass Touchers), History: https://osu.ppy.sh/mp/102897353
+[02:57:31] BanchoBot: Beatmap: https://osu.ppy.sh/b/3010348 vierre cloud - moment
+[02:57:31] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:57:31] BanchoBot: Active mods: NoFail
+[02:57:31] BanchoBot: Players: 4
+[02:57:31] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18365259 -- Waffle --    [Team Red ]
+[02:57:31] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14869297 Ryuji           [Team Red ]
+[02:57:31] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/5774467 Jolerty         [Team Blue]
+[02:57:31] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/20619130 regosu_         [Team Blue]
+[02:57:33] BCraftMG: !mp start 10
+[02:57:33] BanchoBot: Countdown aborted
+[02:57:33] BanchoBot: Match starts in 10 seconds
+[02:57:33] BanchoBot: Queued the match to start in 10 seconds
+[02:57:38] BanchoBot: Match starts in 5 seconds
+[02:57:39] BanchoBot: Match starts in 4 seconds
+[02:57:40] BanchoBot: Match starts in 3 seconds
+[02:57:41] BanchoBot: Good luck, have fun!
+[02:57:43] BanchoBot: The match has started!
+[02:59:53] BanchoBot: Jolerty finished playing (Score: 446969, PASSED).
+[02:59:54] BanchoBot: Ryuji finished playing (Score: 934598, PASSED).
+[02:59:55] BanchoBot: -- Waffle -- finished playing (Score: 502692, PASSED).
+[02:59:55] BanchoBot: regosu_ finished playing (Score: 319898, PASSED).
+[02:59:55] BanchoBot: The match has finished!
+[03:00:05] BCraftMG: Congrats to McPickle for winning this match! GGWP both teams!
+[03:00:10] BanchoBot: sma11ow joined in slot 5 for team blue.
+[03:00:11] regosu_: ggwp
+[03:00:14] sma11ow: ggwp
+[03:00:15] --_Waffle_--: sry for trolling
+[03:00:16] --_Waffle_--: ggs
+[03:00:18] BanchoBot: -- Waffle -- left the game.
+[03:00:21] Ryuji: ggs
+[03:00:23] Ryuji: ty for ref
+[03:00:25] BanchoBot: Ryuji left the game.
+[03:00:26] BCraftMG: <3
+[03:00:28] Jolerty: ty ref
+[03:00:31] sma11ow: gl in winners
+[03:00:34] sma11ow: ty for reg
+[03:00:38] sma11ow: ref i mean
+[03:00:44] BanchoBot: sma11ow left the game.
+[03:00:46] regosu_: np man
+[03:00:48] regosu_: :tf:
+[03:00:51] regosu_: ty for ref
+[03:00:52] BanchoBot: Jolerty left the game.
+[03:00:53] BanchoBot: regosu_ left the game.
+[03:00:58] BCraftMG: !mp close
+[03:00:59] BanchoBot: Closed the match

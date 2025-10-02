@@ -1,0 +1,436 @@
+[23:23:30] Joined #mp_106273908
+[23:23:30] DaddyStage: !mp settings
+[23:23:31] BanchoBot: Room name: PTFM: (iamanewb) vs (-4EPHbILLI-), History: https://osu.ppy.sh/mp/106273908
+[23:23:31] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[23:23:31] BanchoBot: Players: 0
+[23:23:45] DaddyStage: !mp invite iamanewb
+[23:23:46] BanchoBot: Invited iamanewb to the room
+[23:23:47] DaddyStage: !mp invite -4EPHbILLI-
+[23:23:48] BanchoBot: Invited -4EPHbILLI- to the room
+[23:23:51] DaddyStage: !mp set 2 3 5
+[23:23:52] BanchoBot: Changed match settings to 5 slots, TeamVs, ScoreV2
+[23:23:58] BanchoBot: -4EPHbILLI- joined in slot 1 for team blue.
+[23:24:02] -4EPHbILLI-: o/
+[23:24:37] DaddyStage: o.
+[23:24:46] DaddyStage: !mp host -4EPHbILLI-
+[23:24:46] BanchoBot: -4EPHbILLI- became the host.
+[23:24:46] BanchoBot: Changed match host to -4EPHbILLI-
+[23:24:47] BanchoBot: Beatmap changed to: ak+q & Redeilia - Enigma Helix [Celeslashed's Hard] (https://osu.ppy.sh/b/1814067)
+[23:24:51] DaddyStage: u can pick warm up while waiting
+[23:25:05] -4EPHbILLI-: ok
+[23:25:06] BanchoBot: Host is changing map...
+[23:26:14] BanchoBot: Beatmap changed to: Seishun Buta Yarou Cast - Fukashigi no Karte (K@keru Bootleg Remix) [Afternoon Deathstream] (https://osu.ppy.sh/b/3854581)
+[23:27:15] BanchoBot: iamanewb joined in slot 2 for team red.
+[23:27:20] -4EPHbILLI-: o/
+[23:27:37] iamanewb: o/
+[23:27:58] BanchoBot: All players are ready
+[23:28:03] BanchoBot: The match has started!
+[23:28:40] BanchoBot: iamanewb finished playing (Score: 61801, FAILED).
+[23:28:42] BanchoBot: -4EPHbILLI- finished playing (Score: 230521, PASSED).
+[23:28:42] BanchoBot: The match has finished!
+[23:28:47] iamanewb: oh
+[23:28:48] BanchoBot: iamanewb became the host.
+[23:28:49] DaddyStage: oops
+[23:28:53] iamanewb: we can retry if u want
+[23:28:58] -4EPHbILLI-: no
+[23:29:09] iamanewb: i would like to skip my warmup
+[23:29:16] -4EPHbILLI-: ok
+[23:29:20] DaddyStage: !mp clearhost
+[23:29:21] BanchoBot: Cleared match host
+[23:29:22] DaddyStage: roll then
+[23:29:27] -4EPHbILLI-: !roll
+[23:29:27] BanchoBot: -4EPHbILLI- rolls 35 point(s)
+[23:29:29] iamanewb: !roll
+[23:29:29] BanchoBot: iamanewb rolls 73 point(s)
+[23:29:47] DaddyStage: The winner will get to choose between First Ban - Second Pick or Second Ban - First Pick.
+[23:29:55] iamanewb: 2nd pick first ban
+[23:29:57] DaddyStage: but first
+[23:30:09] DaddyStage: roll loser will protect a map
+[23:30:15] DaddyStage: then roll winner
+[23:30:31] DaddyStage: -4EPHbILLI- your protect please
+[23:30:32] DaddyStage: !mp timer 120
+[23:30:34] BanchoBot: Countdown ends in 2 minutes
+[23:30:36] -4EPHbILLI-: !roll
+[23:30:36] BanchoBot: -4EPHbILLI- rolls 100 point(s)
+[23:30:41] -4EPHbILLI-: 0-0
+[23:30:44] -4EPHbILLI-: hr1
+[23:31:20] DaddyStage: iamanewb protect
+[23:31:24] iamanewb: hd1
+[23:31:34] BanchoBot: Countdown ends in 1 minute
+[23:31:54] DaddyStage: now to bans
+[23:32:02] DaddyStage: iamanewb ban
+[23:32:05] BanchoBot: Countdown ends in 30 seconds
+[23:32:05] DaddyStage: !mp timer 120
+[23:32:06] BanchoBot: Countdown aborted
+[23:32:06] BanchoBot: Countdown ends in 2 minutes
+[23:32:21] iamanewb: ban dt2
+[23:32:32] -4EPHbILLI-: nm1 ban
+[23:32:56] DaddyStage: iamanewb | 0 : 0 | -4EPHbILLI- // Next to pick: -4EPHbILLI-
+[23:32:57] DaddyStage: !mp timer 120
+[23:32:59] BanchoBot: Countdown aborted
+[23:32:59] BanchoBot: Countdown ends in 2 minutes
+[23:33:07] -4EPHbILLI-: hr1
+[23:33:18] DaddyStage: !mp map 374776 0
+[23:33:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/374776 Yooh - Dynasty
+[23:33:19] BanchoBot: Changed match mode to Osu
+[23:33:19] DaddyStage: !mp mods 17
+[23:33:20] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[23:33:23] DaddyStage: !mp timer 90
+[23:33:23] BanchoBot: Countdown aborted
+[23:33:23] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[23:33:39] BanchoBot: All players are ready
+[23:33:41] DaddyStage: !mp settings
+[23:33:42] BanchoBot: Room name: PTFM: (iamanewb) vs (-4EPHbILLI-), History: https://osu.ppy.sh/mp/106273908
+[23:33:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/374776 Yooh - Dynasty
+[23:33:42] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:33:42] BanchoBot: Active mods: NoFail, HardRock
+[23:33:42] BanchoBot: Players: 2
+[23:33:42] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17219661 -4EPHbILLI-     [Team Blue]
+[23:33:42] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10350809 iamanewb        [Team Red ]
+[23:33:43] DaddyStage: !mp start 5 glhf
+[23:33:44] -4EPHbILLI-: gl
+[23:33:44] BanchoBot: Countdown aborted
+[23:33:44] BanchoBot: Match starts in 5 seconds
+[23:33:44] BanchoBot: Queued the match to start in 5 seconds
+[23:33:46] BanchoBot: Match starts in 4 seconds
+[23:33:47] iamanewb: glhf
+[23:33:47] BanchoBot: Match starts in 3 seconds
+[23:33:48] BanchoBot: Good luck, have fun!
+[23:33:49] BanchoBot: The match has started!
+[23:35:50] BanchoBot: iamanewb finished playing (Score: 367693, PASSED).
+[23:35:52] BanchoBot: -4EPHbILLI- finished playing (Score: 511006, PASSED).
+[23:35:52] BanchoBot: The match has finished!
+[23:36:14] DaddyStage: iamanewb | 0 : 1 | -4EPHbILLI- // Next to pick: iamanewb
+[23:36:16] DaddyStage: !mp timer 120
+[23:36:17] BanchoBot: Countdown ends in 2 minutes
+[23:36:27] iamanewb: hd1
+[23:37:09] DaddyStage: !mp map 2938091 0
+[23:37:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2938091 capsule - RGB
+[23:37:10] BanchoBot: Changed match mode to Osu
+[23:37:11] DaddyStage: !mp mods 9
+[23:37:11] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[23:37:12] DaddyStage: !mp timer 90
+[23:37:13] BanchoBot: Countdown aborted
+[23:37:13] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[23:37:17] BanchoBot: All players are ready
+[23:37:24] -4EPHbILLI-: gl
+[23:37:24] DaddyStage: !mp settings
+[23:37:28] iamanewb: glhf
+[23:37:28] BanchoBot: Room name: PTFM: (iamanewb) vs (-4EPHbILLI-), History: https://osu.ppy.sh/mp/106273908
+[23:37:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/2938091 capsule - RGB
+[23:37:28] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:37:28] BanchoBot: Active mods: NoFail, Hidden
+[23:37:28] BanchoBot: Players: 2
+[23:37:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17219661 -4EPHbILLI-     [Team Blue]
+[23:37:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10350809 iamanewb        [Team Red ]
+[23:37:28] DaddyStage: !mp start 5 glhf
+[23:37:30] BanchoBot: Countdown aborted
+[23:37:30] BanchoBot: Match starts in 5 seconds
+[23:37:30] BanchoBot: Queued the match to start in 5 seconds
+[23:37:31] BanchoBot: Match starts in 4 seconds
+[23:37:32] BanchoBot: Match starts in 3 seconds
+[23:37:33] BanchoBot: Good luck, have fun!
+[23:37:35] BanchoBot: The match has started!
+[23:41:15] BanchoBot: iamanewb finished playing (Score: 436017, PASSED).
+[23:41:16] BanchoBot: -4EPHbILLI- finished playing (Score: 67099, PASSED).
+[23:41:16] BanchoBot: The match has finished!
+[23:41:25] -4EPHbILLI-: )
+[23:41:39] DaddyStage: iamanewb | 1 : 1 | -4EPHbILLI- // Next to pick: -4EPHbILLI-
+[23:41:40] DaddyStage: !mp timer 120
+[23:41:41] BanchoBot: Countdown ends in 2 minutes
+[23:41:50] -4EPHbILLI-: dt1
+[23:42:06] DaddyStage: !mp map 2459999 0
+[23:42:06] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2459999 TROISANGES - Angel Lamp
+[23:42:06] BanchoBot: Changed match mode to Osu
+[23:42:08] DaddyStage: !mp mods 65
+[23:42:09] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[23:42:11] DaddyStage: !mp timer 90
+[23:42:11] BanchoBot: Countdown aborted
+[23:42:11] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[23:42:28] BanchoBot: All players are ready
+[23:42:32] -4EPHbILLI-: gl
+[23:42:34] DaddyStage: !mp settings
+[23:42:35] BanchoBot: Room name: PTFM: (iamanewb) vs (-4EPHbILLI-), History: https://osu.ppy.sh/mp/106273908
+[23:42:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/2459999 TROISANGES - Angel Lamp
+[23:42:35] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:42:35] BanchoBot: Active mods: NoFail, DoubleTime
+[23:42:35] BanchoBot: Players: 2
+[23:42:35] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17219661 -4EPHbILLI-     [Team Blue]
+[23:42:35] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10350809 iamanewb        [Team Red ]
+[23:42:36] DaddyStage: !mp start 5 glhf
+[23:42:37] iamanewb: glhf
+[23:42:37] BanchoBot: Countdown aborted
+[23:42:37] BanchoBot: Match starts in 5 seconds
+[23:42:37] BanchoBot: Queued the match to start in 5 seconds
+[23:42:38] BanchoBot: Match starts in 4 seconds
+[23:42:39] BanchoBot: Match starts in 3 seconds
+[23:42:40] BanchoBot: Good luck, have fun!
+[23:42:42] BanchoBot: The match has started!
+[23:45:44] BanchoBot: iamanewb finished playing (Score: 394196, PASSED).
+[23:45:44] BanchoBot: -4EPHbILLI- finished playing (Score: 645549, PASSED).
+[23:45:44] BanchoBot: The match has finished!
+[23:46:09] DaddyStage: iamanewb | 1 : 2 | -4EPHbILLI- // Next to pick: iamanewb
+[23:46:11] DaddyStage: !mp timer 120
+[23:46:12] BanchoBot: Countdown ends in 2 minutes
+[23:46:21] iamanewb: dtfm1
+[23:47:13] BanchoBot: Countdown ends in 1 minute
+[23:47:28] -4EPHbILLI-: bo9 or bo11?
+[23:47:35] DaddyStage: bo9
+[23:47:42] BanchoBot: Countdown ends in 30 seconds
+[23:48:02] BanchoBot: Countdown ends in 10 seconds
+[23:48:07] BanchoBot: Countdown ends in 5 seconds
+[23:48:07] iamanewb: did u get my pick?
+[23:48:09] BanchoBot: Countdown ends in 4 seconds
+[23:48:10] BanchoBot: Countdown ends in 3 seconds
+[23:48:11] BanchoBot: Countdown ends in 2 seconds
+[23:48:11] BanchoBot: Countdown ends in 1 second
+[23:48:12] BanchoBot: Countdown finished
+[23:48:43] DaddyStage: !mp map 50761 0
+[23:48:44] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/50761 Amane - Melt in the sky
+[23:48:44] BanchoBot: Changed match mode to Osu
+[23:48:45] DaddyStage: !mp mods Freemod DT
+[23:48:46] BanchoBot: Enabled DoubleTime, enabled FreeMod
+[23:48:47] DaddyStage: yea i did
+[23:48:53] iamanewb: okok
+[23:48:53] DaddyStage: i put it in the wrong lobby LMFAO
+[23:48:59] iamanewb: got scared for a sec
+[23:49:07] iamanewb: damn
+[23:49:47] BanchoBot: All players are ready
+[23:49:51] -4EPHbILLI-: gl
+[23:49:54] iamanewb: glhf
+[23:50:06] DaddyStage: !mp settings
+[23:50:07] BanchoBot: Room name: PTFM: (iamanewb) vs (-4EPHbILLI-), History: https://osu.ppy.sh/mp/106273908
+[23:50:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/50761 Amane - Melt in the sky
+[23:50:07] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:50:07] BanchoBot: Active mods: DoubleTime, Freemod
+[23:50:07] BanchoBot: Players: 2
+[23:50:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17219661 -4EPHbILLI-     [Team Blue / NoFail, HardRock]
+[23:50:07] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10350809 iamanewb        [Team Red  / NoFail, HardRock]
+[23:50:11] DaddyStage: !mp start 5 glhf
+[23:50:12] BanchoBot: Match starts in 5 seconds
+[23:50:12] BanchoBot: Queued the match to start in 5 seconds
+[23:50:13] BanchoBot: Match starts in 4 seconds
+[23:50:15] BanchoBot: Match starts in 3 seconds
+[23:50:16] BanchoBot: Good luck, have fun!
+[23:50:18] BanchoBot: The match has started!
+[23:52:57] BanchoBot: -4EPHbILLI- finished playing (Score: 704148, PASSED).
+[23:52:59] BanchoBot: iamanewb finished playing (Score: 478342, PASSED).
+[23:52:59] BanchoBot: The match has finished!
+[23:53:18] DaddyStage: iamanewb | 1 : 3 | -4EPHbILLI- // Next to pick: -4EPHbILLI-
+[23:53:19] DaddyStage: !mp timer 120
+[23:53:20] BanchoBot: Countdown ends in 2 minutes
+[23:54:01] -4EPHbILLI-: nm2
+[23:54:20] BanchoBot: Countdown ends in 1 minute
+[23:54:22] DaddyStage: !mp map 3904331 0
+[23:54:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3904331 Plum - Halloween Candystore
+[23:54:23] BanchoBot: Changed match mode to Osu
+[23:54:24] DaddyStage: !mp mods 1
+[23:54:25] BanchoBot: Enabled NoFail, disabled FreeMod
+[23:54:26] DaddyStage: !mp timer 90
+[23:54:27] BanchoBot: Countdown aborted
+[23:54:27] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[23:54:48] BanchoBot: All players are ready
+[23:54:51] -4EPHbILLI-: gl
+[23:54:55] DaddyStage: !mp settings
+[23:54:55] iamanewb: glhf
+[23:54:56] BanchoBot: Room name: PTFM: (iamanewb) vs (-4EPHbILLI-), History: https://osu.ppy.sh/mp/106273908
+[23:54:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/3904331 Plum - Halloween Candystore
+[23:54:56] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:54:56] BanchoBot: Active mods: NoFail
+[23:54:56] BanchoBot: Players: 2
+[23:54:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17219661 -4EPHbILLI-     [Team Blue]
+[23:54:56] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10350809 iamanewb        [Team Red ]
+[23:54:57] DaddyStage: !mp start 5 glhf
+[23:54:57] BanchoBot: Countdown ends in 1 minute
+[23:54:58] BanchoBot: Countdown aborted
+[23:54:58] BanchoBot: Match starts in 5 seconds
+[23:54:58] BanchoBot: Queued the match to start in 5 seconds
+[23:55:00] BanchoBot: Match starts in 4 seconds
+[23:55:01] BanchoBot: Match starts in 3 seconds
+[23:55:02] BanchoBot: Good luck, have fun!
+[23:55:03] BanchoBot: The match has started!
+[23:57:37] BanchoBot: -4EPHbILLI- finished playing (Score: 338738, PASSED).
+[23:57:38] BanchoBot: iamanewb finished playing (Score: 438193, PASSED).
+[23:57:38] BanchoBot: The match has finished!
+[23:57:58] DaddyStage: iamanewb | 2 : 3 | -4EPHbILLI- // Next to pick: iamanewb
+[23:58:00] DaddyStage: !mp timer 120
+[23:58:01] BanchoBot: Countdown ends in 2 minutes
+[23:58:03] iamanewb: fm2
+[23:58:32] DaddyStage: !mp map 3807918 0
+[23:58:32] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3807918 Son Tung M-TP - Lac Troi
+[23:58:32] BanchoBot: Changed match mode to Osu
+[23:58:34] DaddyStage: !mp mods Freemod
+[23:58:35] BanchoBot: Disabled all mods, enabled FreeMod
+[23:58:37] DaddyStage: !mp timer 90
+[23:58:39] BanchoBot: Countdown aborted
+[23:58:39] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[23:59:06] iamanewb: wait he can still go hr?
+[23:59:09] BanchoBot: Countdown ends in 1 minute
+[23:59:27] DaddyStage: dtfm is seperate from fm
+[23:59:32] iamanewb: wtf
+[23:59:34] iamanewb: oh
+[23:59:39] BanchoBot: Countdown ends in 30 seconds
+[23:59:54] BanchoBot: All players are ready
+[23:59:56] DaddyStage: !mp settings
+[23:59:57] BanchoBot: Room name: PTFM: (iamanewb) vs (-4EPHbILLI-), History: https://osu.ppy.sh/mp/106273908
+[23:59:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/3807918 Son Tung M-TP - Lac Troi
+[23:59:57] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:59:57] BanchoBot: Active mods: Freemod
+[23:59:57] BanchoBot: Players: 2
+[23:59:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17219661 -4EPHbILLI-     [Team Blue / NoFail, HardRock]
+[23:59:57] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10350809 iamanewb        [Team Red  / NoFail]
+[23:59:59] BanchoBot: Countdown ends in 10 seconds
+[00:00:02] iamanewb: thats crazy reading rules moment D:
+[00:00:05] BanchoBot: Countdown ends in 5 seconds
+[00:00:06] BanchoBot: Countdown ends in 4 seconds
+[00:00:06] BanchoBot: Countdown ends in 3 seconds
+[00:00:07] BanchoBot: Countdown ends in 2 seconds
+[00:00:08] BanchoBot: Countdown ends in 1 second
+[00:00:09] BanchoBot: Countdown finished
+[00:00:18] DaddyStage: !mp settings
+[00:00:18] BanchoBot: Room name: PTFM: (iamanewb) vs (-4EPHbILLI-), History: https://osu.ppy.sh/mp/106273908
+[00:00:18] BanchoBot: Beatmap: https://osu.ppy.sh/b/3807918 Son Tung M-TP - Lac Troi
+[00:00:18] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:00:18] BanchoBot: Active mods: Freemod
+[00:00:18] BanchoBot: Players: 2
+[00:00:18] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17219661 -4EPHbILLI-     [Team Blue / NoFail, HardRock]
+[00:00:18] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10350809 iamanewb        [Team Red  / NoFail]
+[00:00:21] DaddyStage: !mp start 5 glhf
+[00:00:21] BanchoBot: Match starts in 5 seconds
+[00:00:21] BanchoBot: Queued the match to start in 5 seconds
+[00:00:22] BanchoBot: Match starts in 4 seconds
+[00:00:23] BanchoBot: Match starts in 3 seconds
+[00:00:25] BanchoBot: Good luck, have fun!
+[00:00:26] BanchoBot: The match has started!
+[00:04:23] BanchoBot: -4EPHbILLI- finished playing (Score: 158725, PASSED).
+[00:04:23] BanchoBot: iamanewb finished playing (Score: 289377, PASSED).
+[00:04:23] BanchoBot: The match has finished!
+[00:04:47] DaddyStage: iamanewb | 3 : 3 | -4EPHbILLI- // Next to pick: -4EPHbILLI-
+[00:04:49] DaddyStage: !mp timer 120
+[00:04:49] BanchoBot: Countdown ends in 2 minutes
+[00:05:08] -4EPHbILLI-: nm3
+[00:05:09] DaddyStage: newb score was 217032,75
+[00:05:15] DaddyStage: !mp map 3153693 0
+[00:05:16] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3153693 Hatsuki Yura - Halloween of the Dead 2
+[00:05:16] BanchoBot: Changed match mode to Osu
+[00:05:17] DaddyStage: !Mp mods 1
+[00:05:17] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:05:21] DaddyStage: !mp timer 90
+[00:05:21] BanchoBot: Countdown aborted
+[00:05:21] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:05:36] BanchoBot: All players are ready
+[00:05:40] -4EPHbILLI-: gl
+[00:05:41] iamanewb: glhf
+[00:05:45] DaddyStage: !mp settings
+[00:05:47] BanchoBot: Room name: PTFM: (iamanewb) vs (-4EPHbILLI-), History: https://osu.ppy.sh/mp/106273908
+[00:05:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/3153693 Hatsuki Yura - Halloween of the Dead 2
+[00:05:47] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:05:47] BanchoBot: Active mods: NoFail
+[00:05:47] BanchoBot: Players: 2
+[00:05:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17219661 -4EPHbILLI-     [Team Blue]
+[00:05:47] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10350809 iamanewb        [Team Red ]
+[00:05:51] BanchoBot: Countdown ends in 1 minute
+[00:05:54] DaddyStage: !mp start 5 glhf
+[00:05:55] BanchoBot: Countdown aborted
+[00:05:55] BanchoBot: Match starts in 5 seconds
+[00:05:55] BanchoBot: Queued the match to start in 5 seconds
+[00:05:56] BanchoBot: Match starts in 4 seconds
+[00:05:58] BanchoBot: Match starts in 3 seconds
+[00:05:59] BanchoBot: Good luck, have fun!
+[00:06:00] BanchoBot: The match has started!
+[00:09:59] BanchoBot: -4EPHbILLI- finished playing (Score: 551294, PASSED).
+[00:09:59] BanchoBot: iamanewb finished playing (Score: 641207, PASSED).
+[00:09:59] BanchoBot: The match has finished!
+[00:10:22] DaddyStage: iamanewb | 4 : 3 | -4EPHbILLI- // Next to pick: iamanewb
+[00:10:24] DaddyStage: !mp timer 120
+[00:10:24] BanchoBot: Countdown ends in 2 minutes
+[00:10:27] -4EPHbILLI-: (
+[00:10:41] iamanewb: is double picking fm allowed or not?
+[00:11:25] BanchoBot: Countdown ends in 1 minute
+[00:11:36] DaddyStage: yes
+[00:11:39] DaddyStage: ig
+[00:11:42] DaddyStage: no rules on that
+[00:11:55] BanchoBot: Countdown ends in 30 seconds
+[00:12:02] iamanewb: fm1
+[00:12:15] BanchoBot: Countdown ends in 10 seconds
+[00:12:18] DaddyStage: !mp map 2692365 0
+[00:12:20] BanchoBot: Countdown ends in 5 seconds
+[00:12:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2692365 BLANKFIELD - THE WORLD REVOLVING
+[00:12:20] BanchoBot: Changed match mode to Osu
+[00:12:21] BanchoBot: Countdown ends in 4 seconds
+[00:12:22] BanchoBot: Countdown ends in 3 seconds
+[00:12:22] DaddyStage: !Mp mods Freemod
+[00:12:23] BanchoBot: Countdown ends in 2 seconds
+[00:12:23] BanchoBot: Countdown ends in 1 second
+[00:12:23] BanchoBot: Disabled all mods, enabled FreeMod
+[00:12:25] BanchoBot: Countdown finished
+[00:13:00] -4EPHbILLI-: double pick is allowed besides fm
+[00:13:09] DaddyStage: uhh wheres that
+[00:13:25] -4EPHbILLI-: Cartoon wrote
+[00:13:31] -4EPHbILLI-: questions
+[00:13:33] -4EPHbILLI-: idk
+[00:13:40] -4EPHbILLI-: its true or not
+[00:14:04] iamanewb: i mean im fine with playing it safe and going nm4 is needed
+[00:14:11] iamanewb: if*
+[00:14:29] DaddyStage: !mp map 3672524 0
+[00:14:30] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3672524 Kenshi Yonezu - LOSER
+[00:14:30] BanchoBot: Changed match mode to Osu
+[00:14:31] DaddyStage: !Mp mods 1
+[00:14:31] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:14:43] DaddyStage: lol its allowed
+[00:14:49] -4EPHbILLI-: xd
+[00:14:50] iamanewb: oh its allowed
+[00:14:53] DaddyStage: wanna back to fm>
+[00:14:53] DaddyStage: ?
+[00:14:56] -4EPHbILLI-: ok fm1
+[00:14:56] iamanewb: then i guess fm1
+[00:15:04] DaddyStage: !mp map 3672524 0
+[00:15:04] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3672524 Kenshi Yonezu - LOSER
+[00:15:04] BanchoBot: Changed match mode to Osu
+[00:15:06] DaddyStage: !Mp mods Freemod
+[00:15:06] BanchoBot: Disabled all mods, enabled FreeMod
+[00:15:09] DaddyStage: !mp timer 90
+[00:15:10] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:15:19] iamanewb: map didnt switch
+[00:15:29] DaddyStage: !mp map 2692365 0
+[00:15:30] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2692365 BLANKFIELD - THE WORLD REVOLVING
+[00:15:30] BanchoBot: Changed match mode to Osu
+[00:15:35] DaddyStage: wrong id there whoops
+[00:15:39] -4EPHbILLI-: can i pick hr on fm1?
+[00:15:40] BanchoBot: Countdown ends in 1 minute
+[00:15:45] DaddyStage: you cant
+[00:15:50] -4EPHbILLI-: ok
+[00:15:52] DaddyStage: you already used hr
+[00:16:01] BanchoBot: All players are ready
+[00:16:03] DaddyStage: !mp settings
+[00:16:04] BanchoBot: Room name: PTFM: (iamanewb) vs (-4EPHbILLI-), History: https://osu.ppy.sh/mp/106273908
+[00:16:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/2692365 BLANKFIELD - THE WORLD REVOLVING
+[00:16:04] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:16:04] BanchoBot: Active mods: Freemod
+[00:16:04] BanchoBot: Players: 2
+[00:16:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17219661 -4EPHbILLI-     [Team Blue / NoFail]
+[00:16:04] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10350809 iamanewb        [Team Red  / NoFail, Hidden]
+[00:16:07] DaddyStage: !mp start 5 glhf
+[00:16:07] BanchoBot: Countdown aborted
+[00:16:07] BanchoBot: Match starts in 5 seconds
+[00:16:07] BanchoBot: Queued the match to start in 5 seconds
+[00:16:09] BanchoBot: Match starts in 4 seconds
+[00:16:10] BanchoBot: Match starts in 3 seconds
+[00:16:11] iamanewb: glhf
+[00:16:11] BanchoBot: Good luck, have fun!
+[00:16:12] -4EPHbILLI-: gl
+[00:16:14] BanchoBot: The match has started!
+[00:19:19] BanchoBot: iamanewb finished playing (Score: 432443, PASSED).
+[00:19:19] BanchoBot: -4EPHbILLI- finished playing (Score: 171075, PASSED).
+[00:19:19] BanchoBot: The match has finished!
+[00:19:22] -4EPHbILLI-: gg
+[00:19:22] -4EPHbILLI-: !
+[00:19:28] iamanewb: ggwp
+[00:19:38] iamanewb: ty for match and ref o/
+[00:19:47] -4EPHbILLI-: o/
+[00:19:47] iamanewb: and gl on ur future matches o/
+[00:19:47] BanchoBot: -4EPHbILLI- left the game.
+[00:19:56] DaddyStage: o./
+[00:20:03] BanchoBot: iamanewb left the game.
+[00:20:08] DaddyStage: !mp close
+[00:20:09] BanchoBot: Closed the match

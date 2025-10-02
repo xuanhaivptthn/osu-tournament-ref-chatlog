@@ -1,0 +1,259 @@
+[11:06:10] Joined #mp_112302739
+[11:06:10] BCraftMG: !mp settings
+[11:06:11] BanchoBot: Room name: PTFM2: (Qualifiers) vs (EX8), History: https://osu.ppy.sh/mp/112302739
+[11:06:11] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[11:06:11] BanchoBot: Players: 0
+[11:06:26] BCraftMG: !mp set 0 3 3
+[11:06:27] BanchoBot: Changed match settings to 3 slots, HeadToHead, ScoreV2
+[11:06:30] BCraftMG: !mp invite JoshuaGC
+[11:06:31] BanchoBot: Invited JoshuaGC to the room
+[11:06:35] BCraftMG: !mp mods 1
+[11:06:36] BanchoBot: Enabled NoFail, disabled FreeMod
+[11:06:38] BCraftMG: !mp map 3956470
+[11:06:38] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3956470 Draw the Emotional - Leia - Remind
+[11:06:56] BanchoBot: JoshuaGC joined in slot 1.
+[11:07:07] JoshuaGC: o/
+[11:07:10] JoshuaGC: thanks for ref
+[11:07:11] BanchoBot: All players are ready
+[11:07:13] BCraftMG: !mp settings
+[11:07:14] BanchoBot: Room name: PTFM2: (Qualifiers) vs (EX8), History: https://osu.ppy.sh/mp/112302739
+[11:07:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/3956470 Draw the Emotional - Leia - Remind
+[11:07:14] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:07:14] BanchoBot: Active mods: NoFail
+[11:07:14] BanchoBot: Players: 1
+[11:07:14] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17636394 JoshuaGC        
+[11:07:16] BCraftMG: dw
+[11:07:16] BCraftMG: !mp start 5 glhf
+[11:07:17] BanchoBot: Match starts in 5 seconds
+[11:07:17] BanchoBot: Queued the match to start in 5 seconds
+[11:07:18] BanchoBot: Match starts in 4 seconds
+[11:07:20] BanchoBot: Match starts in 3 seconds
+[11:07:21] BanchoBot: Good luck, have fun!
+[11:07:23] BanchoBot: The match has started!
+[11:11:41] BanchoBot: JoshuaGC finished playing (Score: 719278, PASSED).
+[11:11:41] BanchoBot: The match has finished!
+[11:11:46] BCraftMG: !mp map 4190716
+[11:11:46] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4190716 69 de 74 - RTTR
+[11:11:53] BanchoBot: All players are ready
+[11:11:55] BCraftMG: !mp settings
+[11:11:55] BanchoBot: Room name: PTFM2: (Qualifiers) vs (EX8), History: https://osu.ppy.sh/mp/112302739
+[11:11:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/4190716 69 de 74 - RTTR
+[11:11:55] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:11:55] BanchoBot: Active mods: NoFail
+[11:11:55] BanchoBot: Players: 1
+[11:11:55] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17636394 JoshuaGC        
+[11:11:56] BCraftMG: !mp start 5 glhf
+[11:11:56] BanchoBot: Match starts in 5 seconds
+[11:11:56] BanchoBot: Queued the match to start in 5 seconds
+[11:11:57] BanchoBot: Match starts in 4 seconds
+[11:11:58] BanchoBot: Match starts in 3 seconds
+[11:11:59] BanchoBot: Good luck, have fun!
+[11:12:02] BanchoBot: The match has started!
+[11:14:16] BanchoBot: JoshuaGC finished playing (Score: 662136, PASSED).
+[11:14:16] BanchoBot: The match has finished!
+[11:14:24] BCraftMG: !mp map 4187402
+[11:14:24] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4187402 FELT - Summer Fever
+[11:14:25] BCraftMG: !mp settings
+[11:14:25] BanchoBot: Room name: PTFM2: (Qualifiers) vs (EX8), History: https://osu.ppy.sh/mp/112302739
+[11:14:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/4187402 FELT - Summer Fever
+[11:14:25] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:14:25] BanchoBot: Active mods: NoFail
+[11:14:25] BanchoBot: Players: 1
+[11:14:25] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/17636394 JoshuaGC        
+[11:14:28] BanchoBot: All players are ready
+[11:14:31] BCraftMG: !mp settings
+[11:14:32] BanchoBot: Room name: PTFM2: (Qualifiers) vs (EX8), History: https://osu.ppy.sh/mp/112302739
+[11:14:32] BanchoBot: Beatmap: https://osu.ppy.sh/b/4187402 FELT - Summer Fever
+[11:14:32] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:14:32] BanchoBot: Active mods: NoFail
+[11:14:32] BanchoBot: Players: 1
+[11:14:32] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17636394 JoshuaGC        
+[11:14:32] BCraftMG: !mp start 5 glhf
+[11:14:33] BanchoBot: Match starts in 5 seconds
+[11:14:33] BanchoBot: Queued the match to start in 5 seconds
+[11:14:34] BanchoBot: Match starts in 4 seconds
+[11:14:35] BanchoBot: Match starts in 3 seconds
+[11:14:36] BanchoBot: Good luck, have fun!
+[11:14:38] BanchoBot: The match has started!
+[11:18:41] BanchoBot: JoshuaGC finished playing (Score: 412880, PASSED).
+[11:18:41] BanchoBot: The match has finished!
+[11:18:43] BCraftMG: !mp map 4457737
+[11:18:44] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4457737 tokiwa - Gemini
+[11:18:54] BanchoBot: All players are ready
+[11:18:59] BCraftMG: !mp settings
+[11:18:59] BanchoBot: Room name: PTFM2: (Qualifiers) vs (EX8), History: https://osu.ppy.sh/mp/112302739
+[11:18:59] BanchoBot: Beatmap: https://osu.ppy.sh/b/4457737 tokiwa - Gemini
+[11:18:59] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:18:59] BanchoBot: Active mods: NoFail
+[11:18:59] BanchoBot: Players: 1
+[11:18:59] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17636394 JoshuaGC        
+[11:19:00] BCraftMG: !mp start 5 glhf
+[11:19:01] BanchoBot: Match starts in 5 seconds
+[11:19:01] BanchoBot: Queued the match to start in 5 seconds
+[11:19:02] BanchoBot: Match starts in 4 seconds
+[11:19:03] BanchoBot: Match starts in 3 seconds
+[11:19:04] BanchoBot: Good luck, have fun!
+[11:19:06] BanchoBot: The match has started!
+[11:22:05] BanchoBot: JoshuaGC finished playing (Score: 893354, PASSED).
+[11:22:05] BanchoBot: The match has finished!
+[11:22:08] BCraftMG: !mp map 3701331
+[11:22:08] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3701331 Ryu - I'm so Happy
+[11:22:12] BCraftMG: !mp mods 9
+[11:22:13] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[11:22:16] BCraftMG: are u happy
+[11:22:32] JoshuaGC: I was happy
+[11:22:35] JoshuaGC: and then I saw ar 8
+[11:22:38] BanchoBot: All players are ready
+[11:22:40] BCraftMG: !mp settings
+[11:22:42] BanchoBot: Room name: PTFM2: (Qualifiers) vs (EX8), History: https://osu.ppy.sh/mp/112302739
+[11:22:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/3701331 Ryu - I'm so Happy
+[11:22:42] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:22:42] BanchoBot: Active mods: NoFail, Hidden
+[11:22:42] BanchoBot: Players: 1
+[11:22:42] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17636394 JoshuaGC        
+[11:22:43] BCraftMG: !mp start 5 glhf
+[11:22:44] BanchoBot: Match starts in 5 seconds
+[11:22:44] BanchoBot: Queued the match to start in 5 seconds
+[11:22:45] BanchoBot: Match starts in 4 seconds
+[11:22:46] BanchoBot: Match starts in 3 seconds
+[11:22:47] BanchoBot: Good luck, have fun!
+[11:22:49] BanchoBot: The match has started!
+[11:24:35] BanchoBot: JoshuaGC finished playing (Score: 159702, PASSED).
+[11:24:35] BanchoBot: The match has finished!
+[11:24:44] BCraftMG: !mp map 3686466
+[11:24:45] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3686466 Last Note. - Mukiryoku Coup D'Etat
+[11:24:48] BCraftMG: !mp mods 17
+[11:24:48] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[11:25:03] BanchoBot: All players are ready
+[11:25:06] BCraftMG: !mp settings
+[11:25:07] BanchoBot: Room name: PTFM2: (Qualifiers) vs (EX8), History: https://osu.ppy.sh/mp/112302739
+[11:25:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/3686466 Last Note. - Mukiryoku Coup D'Etat
+[11:25:07] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:25:07] BanchoBot: Active mods: NoFail, HardRock
+[11:25:07] BanchoBot: Players: 1
+[11:25:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17636394 JoshuaGC        
+[11:25:08] BCraftMG: !mp start 5 glhf
+[11:25:09] BanchoBot: Match starts in 5 seconds
+[11:25:09] BanchoBot: Queued the match to start in 5 seconds
+[11:25:10] BanchoBot: Match starts in 4 seconds
+[11:25:11] BanchoBot: Match starts in 3 seconds
+[11:25:12] BanchoBot: Good luck, have fun!
+[11:25:14] BanchoBot: The match has started!
+[11:29:15] BanchoBot: JoshuaGC finished playing (Score: 369855, PASSED).
+[11:29:15] BanchoBot: The match has finished!
+[11:29:19] BCraftMG: !mp map 2833027
+[11:29:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2833027 Wavves - Super Soaker
+[11:29:23] BCraftMG: !mp mods 129
+[11:29:24] BanchoBot: Enabled NoFail, Relax, disabled FreeMod
+[11:29:34] BCraftMG: !mp mods NF EZ
+[11:29:34] BanchoBot: Enabled NoFail, Easy, disabled FreeMod
+[11:29:49] JoshuaGC: keep the relax please
+[11:29:50] BanchoBot: All players are ready
+[11:29:51] BanchoBot: All players are ready
+[11:29:52] BCraftMG: !mp settings
+[11:29:52] BanchoBot: Room name: PTFM2: (Qualifiers) vs (EX8), History: https://osu.ppy.sh/mp/112302739
+[11:29:52] BanchoBot: Beatmap: https://osu.ppy.sh/b/2833027 Wavves - Super Soaker
+[11:29:52] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:29:52] BanchoBot: Active mods: NoFail, Easy
+[11:29:52] BanchoBot: Players: 1
+[11:29:52] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17636394 JoshuaGC        
+[11:29:56] BCraftMG: :tf:
+[11:29:56] BCraftMG: !mp start 5 glhf
+[11:29:58] BanchoBot: Match starts in 5 seconds
+[11:29:58] BanchoBot: Queued the match to start in 5 seconds
+[11:30:00] BanchoBot: Match starts in 4 seconds
+[11:30:00] BanchoBot: Match starts in 3 seconds
+[11:30:01] BanchoBot: Good luck, have fun!
+[11:30:03] BanchoBot: The match has started!
+[11:32:39] BanchoBot: JoshuaGC finished playing (Score: 163157, PASSED).
+[11:32:39] BanchoBot: The match has finished!
+[11:32:41] BCraftMG: !mp map 4171278
+[11:32:42] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4171278 Slam Bamboo - House on Fire
+[11:32:43] BCraftMG: !mp mods Freemod
+[11:32:44] BanchoBot: Disabled all mods, enabled FreeMod
+[11:32:46] BCraftMG: "Freemod rules (Qualifiers) -  At least 1 mod per map,  NF only: .85x, EZ: 1.65x,  EZHD: 1.5x "
+[11:33:13] BanchoBot: All players are ready
+[11:33:21] BCraftMG: !mp settings
+[11:33:22] BanchoBot: Room name: PTFM2: (Qualifiers) vs (EX8), History: https://osu.ppy.sh/mp/112302739
+[11:33:22] BanchoBot: Beatmap: https://osu.ppy.sh/b/4171278 Slam Bamboo - House on Fire
+[11:33:22] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:33:22] BanchoBot: Active mods: Freemod
+[11:33:22] BanchoBot: Players: 1
+[11:33:22] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17636394 JoshuaGC        [NoFail, Hidden, HardRock]
+[11:33:24] BCraftMG: !mp start 5 glhf
+[11:33:24] BanchoBot: Match starts in 5 seconds
+[11:33:24] BanchoBot: Queued the match to start in 5 seconds
+[11:33:25] BanchoBot: Match starts in 4 seconds
+[11:33:26] BanchoBot: Match starts in 3 seconds
+[11:33:27] BanchoBot: Good luck, have fun!
+[11:33:30] BanchoBot: The match has started!
+[11:36:29] BanchoBot: JoshuaGC finished playing (Score: 235409, PASSED).
+[11:36:29] BanchoBot: The match has finished!
+[11:36:41] BCraftMG: !mp map 4042951
+[11:36:41] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4042951 Komiya Mao - Yozakura
+[11:36:50] BanchoBot: All players are ready
+[11:36:50] BanchoBot: All players are ready
+[11:36:57] BCraftMG: !mp settings
+[11:36:58] BanchoBot: Room name: PTFM2: (Qualifiers) vs (EX8), History: https://osu.ppy.sh/mp/112302739
+[11:36:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/4042951 Komiya Mao - Yozakura
+[11:36:58] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:36:58] BanchoBot: Active mods: Freemod
+[11:36:58] BanchoBot: Players: 1
+[11:36:58] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17636394 JoshuaGC        [NoFail, HardRock]
+[11:36:59] BCraftMG: !mp start 5 glhf
+[11:37:00] BanchoBot: Match starts in 5 seconds
+[11:37:00] BanchoBot: Queued the match to start in 5 seconds
+[11:37:01] BanchoBot: Match starts in 4 seconds
+[11:37:02] BanchoBot: Match starts in 3 seconds
+[11:37:03] BanchoBot: Good luck, have fun!
+[11:37:05] BanchoBot: The match has started!
+[11:39:28] BanchoBot: JoshuaGC finished playing (Score: 540759, PASSED).
+[11:39:28] BanchoBot: The match has finished!
+[11:39:37] BCraftMG: !mp map 2624224
+[11:39:37] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2624224 Chiyoko - Come Home! Princess
+[11:39:44] BCraftMG: !mp mods DT Freemod
+[11:39:45] BanchoBot: Enabled DoubleTime, enabled FreeMod
+[11:39:48] BCraftMG: "FMDT Rules (Qualifiers) -  Mods are not required,  No penalties for NF only. EZ: 1.65x, EZHD: 1.5x"
+[11:41:04] BanchoBot: All players are ready
+[11:41:08] BCraftMG: !mp settings
+[11:41:09] BanchoBot: Room name: PTFM2: (Qualifiers) vs (EX8), History: https://osu.ppy.sh/mp/112302739
+[11:41:09] BanchoBot: Beatmap: https://osu.ppy.sh/b/2624224 Chiyoko - Come Home! Princess
+[11:41:09] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:41:09] BanchoBot: Active mods: DoubleTime, Freemod
+[11:41:09] BanchoBot: Players: 1
+[11:41:09] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17636394 JoshuaGC        [NoFail]
+[11:41:11] BCraftMG: !mp start 5 glhf
+[11:41:12] BanchoBot: Match starts in 5 seconds
+[11:41:12] BanchoBot: Queued the match to start in 5 seconds
+[11:41:14] BanchoBot: Match starts in 4 seconds
+[11:41:15] BanchoBot: Match starts in 3 seconds
+[11:41:15] BanchoBot: Good luck, have fun!
+[11:41:18] BanchoBot: The match has started!
+[11:43:52] BanchoBot: JoshuaGC finished playing (Score: 620594, PASSED).
+[11:43:52] BanchoBot: The match has finished!
+[11:43:54] BCraftMG: !mp map 3764144
+[11:43:55] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3764144 -45 - Millarca
+[11:44:26] BanchoBot: All players are ready
+[11:44:28] BCraftMG: !mp settings
+[11:44:29] BanchoBot: Room name: PTFM2: (Qualifiers) vs (EX8), History: https://osu.ppy.sh/mp/112302739
+[11:44:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/3764144 -45 - Millarca
+[11:44:29] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:44:29] BanchoBot: Active mods: DoubleTime, Freemod
+[11:44:29] BanchoBot: Players: 1
+[11:44:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17636394 JoshuaGC        [NoFail]
+[11:44:30] BCraftMG: !mp start 5 glhf
+[11:44:31] BanchoBot: Match starts in 5 seconds
+[11:44:31] BanchoBot: Queued the match to start in 5 seconds
+[11:44:32] BanchoBot: Match starts in 4 seconds
+[11:44:33] BanchoBot: Match starts in 3 seconds
+[11:44:34] BanchoBot: Good luck, have fun!
+[11:44:37] BanchoBot: The match has started!
+[11:47:31] BanchoBot: JoshuaGC finished playing (Score: 1053346, PASSED).
+[11:47:31] BanchoBot: The match has finished!
+[11:47:38] BCraftMG: geegee
+[11:47:40] JoshuaGC: ty for ref!
+[11:47:45] JoshuaGC: geegee
+[11:47:49] JoshuaGC: o/
+[11:47:51] BanchoBot: JoshuaGC left the game.
+[11:47:59] BCraftMG: !mp close
+[11:48:00] BanchoBot: Closed the match

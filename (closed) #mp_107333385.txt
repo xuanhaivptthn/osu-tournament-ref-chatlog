@@ -1,0 +1,855 @@
+[22:50:20] Joined #mp_107333385
+[22:50:20] BCraftMG: !mp settings
+[22:50:21] BanchoBot: Room name: 5WC2023: (Malaysia) vs (United Kingdom), History: https://osu.ppy.sh/mp/107333385
+[22:50:21] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[22:50:21] BanchoBot: Players: 0
+[22:50:38] BCraftMG: !mp set 2 3 16
+[22:50:39] BanchoBot: Changed match settings to 16 slots, TeamVs, ScoreV2
+[22:50:56] BCraftMG: !mp addref Peti
+[22:50:57] BanchoBot: Added Peti to the match referees
+[22:51:28] BCraftMG: !mp map 3907939  0
+[22:51:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3907939 YurryCanon feat. GUMI - humanly
+[22:51:29] BanchoBot: Changed match mode to Osu
+[22:51:36] BCraftMG: !mp mods Freemod
+[22:51:37] BanchoBot: Disabled all mods, enabled FreeMod
+[22:52:43] BCraftMG: !mp settings
+[22:52:43] BanchoBot: Room name: 5WC2023: (Malaysia) vs (United Kingdom), History: https://osu.ppy.sh/mp/107333385
+[22:52:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/3907939 YurryCanon feat. GUMI - humanly
+[22:52:43] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:52:43] BanchoBot: Active mods: Freemod
+[22:52:43] BanchoBot: Players: 0
+[22:55:12] BCraftMG: !mp invite #16218750
+[22:55:13] BanchoBot: Invited Humsterlol to the room
+[22:55:15] BCraftMG: !mp invite #1626983
+[22:55:16] BanchoBot: Invited Cryolien to the room
+[22:55:55] BanchoBot: Cryolien joined in slot 1 for team blue.
+[22:56:09] Cryolien: o/
+[22:56:14] BCraftMG: o/
+[22:56:24] BCraftMG: Cryolien your team will be red 1-4 btw
+[22:56:32] BanchoBot: Cryolien changed to Red
+[22:57:03] BCraftMG: !mp host Cryolien
+[22:57:04] BanchoBot: Cryolien became the host.
+[22:57:04] BanchoBot: Changed match host to Cryolien
+[22:57:34] BanchoBot: Hu_Ai joined in slot 2 for team red.
+[22:57:51] BanchoBot: GG_com2016 joined in slot 3 for team blue.
+[22:57:58] BanchoBot: GG_com2016 changed to Red
+[22:58:11] BanchoBot: Humsterlol joined in slot 4 for team red.
+[22:58:53] BCraftMG: Malaysia red + slots 1-4 and United Kingdom blue + slots 5-8
+[22:58:58] Cryolien: !faq ping
+[22:58:58] BanchoBot: Pong!
+[22:59:19] BanchoBot: Humsterlol changed to Blue
+[22:59:19] BanchoBot: Humsterlol moved to slot 5
+[23:00:17] BanchoBot: polski1 joined in slot 4 for team red.
+[23:00:20] BanchoBot: NinoMyAngel joined in slot 6 for team red.
+[23:00:42] BanchoBot: velcro shoes joined in slot 7 for team blue.
+[23:00:50] BanchoBot: velcro shoes changed to Red
+[23:00:56] BanchoBot: furytail joined in slot 8 for team red.
+[23:01:17] BanchoBot: okiari joined in slot 9 for team blue.
+[23:01:32] Cryolien: o//
+[23:01:51] BanchoBot: polski1 changed to Blue
+[23:01:55] Hu_Ai: o/
+[23:01:56] BanchoBot: polski1 changed to Red
+[23:01:56] NinoMyAngel: o/
+[23:02:02] okiari: o/
+[23:02:08] BanchoBot: okiari changed to Red
+[23:02:08] BanchoBot: topeks joined in slot 10 for team red.
+[23:02:08] BanchoBot: okiari changed to Blue
+[23:02:08] furytail: does anyone have any jam
+[23:02:09] BanchoBot: okiari changed to Red
+[23:02:09] BanchoBot: Fluxey joined in slot 11 for team blue.
+[23:02:12] velcro_shoes: may lay zia
+[23:02:14] topeks: waoaw good mornign
+[23:02:22] polski1: skip warmups
+[23:02:22] polski1: grrr
+[23:02:28] Cryolien: noh
+[23:02:42] Humsterlol: bonjour
+[23:03:09] Cryolien: are we uh ready or
+[23:03:32] Cryolien: hu_ai dl?
+[23:03:46] BanchoBot: Fluxey changed to Red
+[23:03:49] BanchoBot: NinoMyAngel changed to Blue
+[23:03:51] BanchoBot: Fluxey changed to Blue
+[23:04:07] Cryolien: !faq ping
+[23:04:07] BanchoBot: Pong!
+[23:04:39] BanchoBot: topeks left the game.
+[23:04:41] Hu_Ai: ah
+[23:04:46] BanchoBot: Fluxey moved to slot 10
+[23:04:48] Hu_Ai: was downloading
+[23:04:52] Cryolien: ok
+[23:04:57] BCraftMG: !mp settings
+[23:04:59] BanchoBot: Room name: 5WC2023: (Malaysia) vs (United Kingdom), History: https://osu.ppy.sh/mp/107333385
+[23:04:59] BanchoBot: Beatmap: https://osu.ppy.sh/b/3907939 YurryCanon feat. GUMI - humanly
+[23:04:59] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:04:59] BanchoBot: Active mods: Freemod
+[23:04:59] BanchoBot: Players: 10
+[23:04:59] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/1626983 Cryolien        [Host / Team Red ]
+[23:04:59] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10910261 Hu_Ai           [Team Red ]
+[23:04:59] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/9229968 GG_com2016      [Team Red ]
+[23:04:59] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/18131614 polski1         [Team Red ]
+[23:04:59] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/16218750 Humsterlol      [Team Blue]
+[23:04:59] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/14801826 NinoMyAngel     [Team Blue]
+[23:04:59] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11345690 velcro shoes    [Team Red ]
+[23:04:59] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/13972957 furytail        [Team Red  / NoFail]
+[23:04:59] BanchoBot: Slot 9  Not Ready https://osu.ppy.sh/u/11889106 okiari          [Team Red ]
+[23:04:59] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/9098192 Fluxey          [Team Blue / NoFail, SpunOut]
+[23:05:01] BCraftMG: are we starting :3c
+[23:05:09] Cryolien: yea
+[23:05:11] furytail: START
+[23:05:15] BanchoBot: All players are ready
+[23:05:16] polski1: START
+[23:05:20] BanchoBot: The match has started!
+[23:08:49] BanchoBot: Cryolien finished playing (Score: 380176, PASSED).
+[23:08:49] BanchoBot: Humsterlol finished playing (Score: 438716, PASSED).
+[23:08:50] BanchoBot: velcro shoes finished playing (Score: 524222, PASSED).
+[23:08:50] BanchoBot: Hu_Ai finished playing (Score: 486903, PASSED).
+[23:08:50] BanchoBot: furytail finished playing (Score: 140671, PASSED).
+[23:08:50] BanchoBot: NinoMyAngel finished playing (Score: 532977, PASSED).
+[23:08:50] BanchoBot: Fluxey finished playing (Score: 347690, PASSED).
+[23:08:50] BanchoBot: polski1 finished playing (Score: 267739, PASSED).
+[23:08:51] BanchoBot: GG_com2016 finished playing (Score: 439791, PASSED).
+[23:08:51] BanchoBot: okiari finished playing (Score: 210951, PASSED).
+[23:08:51] BanchoBot: The match has finished!
+[23:08:58] BCraftMG: !mp clearhost
+[23:08:59] BanchoBot: Cleared match host
+[23:09:03] BCraftMG: time to roll!
+[23:09:06] BanchoBot: okiari left the game.
+[23:09:08] BanchoBot: Fluxey moved to slot 9
+[23:09:08] BanchoBot: furytail changed to Blue
+[23:09:10] BanchoBot: velcro shoes changed to Blue
+[23:09:13] polski1: lads
+[23:09:14] polski1: let me rtoll
+[23:09:15] polski1: !roll
+[23:09:15] BanchoBot: polski1 rolls 9 point(s)
+[23:09:18] polski1: nvm
+[23:09:19] Cryolien: !roll
+[23:09:19] BanchoBot: Cryolien rolls 25 point(s)
+[23:09:19] polski1: humster
+[23:09:20] polski1: lol
+[23:09:20] BanchoBot: NinoMyAngel left the game.
+[23:09:22] polski1: roll
+[23:09:28] polski1: i did mine for the goofs
+[23:09:28] Humsterlol: !roll
+[23:09:28] BanchoBot: Humsterlol rolls 87 point(s)
+[23:09:33] Humsterlol: on god
+[23:09:34] polski1: there we go
+[23:09:44] BCraftMG: The winner of the roll will protect second, ban first, and pick first
+[23:10:00] BCraftMG: First Protect: Malaysia
+[23:10:02] BCraftMG: !mp timer 120
+[23:10:02] BanchoBot: Countdown ends in 2 minutes
+[23:10:07] Cryolien: hd2
+[23:10:14] BCraftMG: Next Protect: United Kingdom
+[23:10:15] BCraftMG: !mp timer 120
+[23:10:16] Fluxey: WOW!!!!!!!!!
+[23:10:16] BanchoBot: Countdown aborted
+[23:10:16] BanchoBot: Countdown ends in 2 minutes
+[23:10:30] polski1: holy shit
+[23:10:34] polski1: why would you protect hd2
+[23:10:35] polski1: bit braindead that
+[23:10:51] Cryolien: ok and
+[23:10:56] BanchoBot: Fluxey moved to slot 6
+[23:11:01] BanchoBot: NinoMyAngel joined in slot 9 for team blue.
+[23:11:04] Humsterlol: dt3
+[23:11:17] BanchoBot: Countdown ends in 1 minute
+[23:11:20] BCraftMG: First Ban: United Kingdom
+[23:11:22] BCraftMG: !mp timer 120
+[23:11:23] polski1: ur braindead and clapped
+[23:11:23] BanchoBot: Countdown aborted
+[23:11:23] BanchoBot: Countdown ends in 2 minutes
+[23:11:26] polski1: stop talking and concede
+[23:11:35] Humsterlol: nm5
+[23:11:46] BCraftMG: Next Ban: Malaysia
+[23:11:46] BCraftMG: !mp timer 120
+[23:11:48] BanchoBot: Countdown aborted
+[23:11:48] BanchoBot: Countdown ends in 2 minutes
+[23:11:49] Humsterlol: ok i concede :tf:
+[23:12:19] NinoMyAngel: who is this polski guy fr
+[23:12:28] velcro_shoes: polski is above us all
+[23:12:28] polski1: fr
+[23:12:40] BanchoBot: Fluxey left the game.
+[23:12:43] Cryolien: hr2
+[23:12:46] BanchoBot: NinoMyAngel left the game.
+[23:12:48] BanchoBot: Countdown ends in 1 minute
+[23:12:56] BCraftMG: Malaysia | 0 - 0 | United Kingdom // Bo9 - First Pick: United Kingdom
+[23:12:57] BCraftMG: !mp timer 120
+[23:12:59] BanchoBot: Countdown aborted
+[23:12:59] BanchoBot: Countdown ends in 2 minutes
+[23:13:02] polski1: anda mati otak dan bertepuk tangan
+[23:13:23] Cryolien: sure
+[23:13:26] BanchoBot: furytail left the game.
+[23:13:54] polski1: (i was told to say that)
+[23:13:59] BanchoBot: Countdown ends in 1 minute
+[23:13:59] polski1: (i love you all)
+[23:14:06] BanchoBot: Wingo joined in slot 6 for team red.
+[23:14:07] BanchoBot: NinoMyAngel joined in slot 8 for team red.
+[23:14:09] Humsterlol: dt1
+[23:14:12] BanchoBot: NinoMyAngel changed to Blue
+[23:14:30] BanchoBot: Countdown ends in 30 seconds
+[23:14:35] BCraftMG: !mp map 1905916 0
+[23:14:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1905916 ONE OK ROCK - American Girls
+[23:14:36] BanchoBot: Changed match mode to Osu
+[23:14:39] BCraftMG: !Mp mods 65
+[23:14:40] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[23:14:40] BCraftMG: !mp timer 120
+[23:14:41] BanchoBot: Countdown aborted
+[23:14:41] BanchoBot: Countdown ends in 2 minutes
+[23:14:49] BanchoBot: Wingo changed to Blue
+[23:14:50] BanchoBot: polski1 moved to slot 9
+[23:14:51] BanchoBot: polski1 changed to Blue
+[23:14:54] BanchoBot: polski1 moved to slot 4
+[23:14:54] BanchoBot: DuoX joined in slot 9 for team blue.
+[23:15:04] BanchoBot: Blethz joined in slot 10 for team red.
+[23:15:10] BanchoBot: Blethz left the game.
+[23:15:19] BanchoBot: DuoX changed to Red
+[23:15:31] BanchoBot: Blethz joined in slot 10 for team red.
+[23:15:41] BanchoBot: Countdown ends in 1 minute
+[23:15:47] BCraftMG: !mp size 12
+[23:15:47] BanchoBot: Changed match to size 12
+[23:15:55] BanchoBot: Fluxey joined in slot 11 for team blue.
+[23:15:59] BanchoBot: okiari joined in slot 12 for team red.
+[23:16:11] BanchoBot: Countdown ends in 30 seconds
+[23:16:13] BanchoBot: GG_com2016 left the game.
+[23:16:14] BanchoBot: Cryolien left the game.
+[23:16:15] BanchoBot: Blethz moved to slot 3
+[23:16:16] BanchoBot: Blethz moved to slot 1
+[23:16:23] BanchoBot: okiari moved to slot 3
+[23:16:23] DuoX: er
+[23:16:28] BanchoBot: velcro shoes left the game.
+[23:16:32] BanchoBot: Countdown ends in 10 seconds
+[23:16:32] BanchoBot: Fluxey left the game.
+[23:16:37] BanchoBot: Countdown ends in 5 seconds
+[23:16:37] BanchoBot: Countdown ends in 4 seconds
+[23:16:38] BanchoBot: Countdown ends in 3 seconds
+[23:16:40] BanchoBot: DuoX moved to slot 7
+[23:16:40] BanchoBot: Countdown ends in 2 seconds
+[23:16:41] BanchoBot: Countdown ends in 1 second
+[23:16:42] BanchoBot: Countdown finished
+[23:16:45] BanchoBot: polski1 moved to slot 9
+[23:16:47] BanchoBot: DuoX moved to slot 4
+[23:16:48] BanchoBot: polski1 moved to slot 7
+[23:16:55] Blethz: glhf
+[23:16:56] BanchoBot: All players are ready
+[23:16:58] NinoMyAngel: gglglg
+[23:17:00] Wingo: glhf
+[23:17:00] DuoX: glgl
+[23:17:00] polski1: glhmeow
+[23:17:00] BCraftMG: !mp settings
+[23:17:01] Humsterlol: glhf
+[23:17:01] BanchoBot: Room name: 5WC2023: (Malaysia) vs (United Kingdom), History: https://osu.ppy.sh/mp/107333385
+[23:17:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/1905916 ONE OK ROCK - American Girls
+[23:17:01] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:17:01] BanchoBot: Active mods: NoFail, DoubleTime
+[23:17:01] BanchoBot: Players: 8
+[23:17:01] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11918602 Blethz          [Team Red ]
+[23:17:01] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10910261 Hu_Ai           [Team Red ]
+[23:17:01] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11889106 okiari          [Team Red ]
+[23:17:01] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9560694 DuoX            [Team Red ]
+[23:17:01] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/16218750 Humsterlol      [Team Blue]
+[23:17:01] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/9047034 Wingo           [Team Blue]
+[23:17:01] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/18131614 polski1         [Team Blue]
+[23:17:01] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/14801826 NinoMyAngel     [Team Blue]
+[23:17:06] okiari: glhf
+[23:17:07] BCraftMG: !mp start 5 glhf
+[23:17:08] BanchoBot: Match starts in 5 seconds
+[23:17:08] BanchoBot: Queued the match to start in 5 seconds
+[23:17:10] BanchoBot: Match starts in 4 seconds
+[23:17:11] Hu_Ai: glhff
+[23:17:11] BanchoBot: Match starts in 3 seconds
+[23:17:12] BanchoBot: Good luck, have fun!
+[23:17:15] BanchoBot: The match has started!
+[23:19:15] BanchoBot: NinoMyAngel finished playing (Score: 601071, PASSED).
+[23:19:15] BanchoBot: polski1 finished playing (Score: 954259, PASSED).
+[23:19:15] BanchoBot: DuoX finished playing (Score: 560409, PASSED).
+[23:19:15] BanchoBot: Hu_Ai finished playing (Score: 673793, PASSED).
+[23:19:16] BanchoBot: okiari finished playing (Score: 439272, PASSED).
+[23:19:19] BanchoBot: Wingo finished playing (Score: 1138472, PASSED).
+[23:19:19] BanchoBot: Blethz finished playing (Score: 607138, PASSED).
+[23:19:19] BanchoBot: Humsterlol finished playing (Score: 639678, PASSED).
+[23:19:19] BanchoBot: The match has finished!
+[23:19:30] BanchoBot: Wingo left the game.
+[23:19:31] BCraftMG: Malaysia | 0 - 1 | United Kingdom // Bo9 - Next Pick: Malaysia
+[23:19:32] BCraftMG: !mp timer 120
+[23:19:32] BanchoBot: Cryolien joined in slot 6 for team red.
+[23:19:33] BanchoBot: Countdown ends in 2 minutes
+[23:19:40] BanchoBot: okiari left the game.
+[23:20:21] Cryolien: hd2
+[23:20:27] BanchoBot: NinoMyAngel left the game.
+[23:20:31] BanchoBot: furytail joined in slot 3 for team blue.
+[23:20:34] BanchoBot: Countdown ends in 1 minute
+[23:20:34] BCraftMG: !mp map 3815518 0
+[23:20:35] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3815518 yanaginagi - continue
+[23:20:35] BanchoBot: Changed match mode to Osu
+[23:20:36] BCraftMG: !Mp mods 9
+[23:20:37] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[23:20:38] BCraftMG: !mp timer 120
+[23:20:39] BanchoBot: Countdown aborted
+[23:20:39] BanchoBot: Countdown ends in 2 minutes
+[23:20:45] BanchoBot: furytail moved to slot 8
+[23:20:49] BanchoBot: Cryolien moved to slot 3
+[23:21:05] BanchoBot: heyimcrunchy joined in slot 6 for team red.
+[23:21:26] BanchoBot: DuoX moved to slot 10
+[23:21:32] BanchoBot: heyimcrunchy moved to slot 4
+[23:21:33] BanchoBot: Wingo joined in slot 6 for team red.
+[23:21:39] BanchoBot: Wingo changed to Blue
+[23:21:39] BanchoBot: DuoX left the game.
+[23:21:39] BanchoBot: Countdown ends in 1 minute
+[23:21:53] Humsterlol: polski hd :prayge:
+[23:22:08] BanchoBot: All players are ready
+[23:22:09] BanchoBot: Countdown ends in 30 seconds
+[23:22:11] BCraftMG: !mp settings
+[23:22:12] BanchoBot: Room name: 5WC2023: (Malaysia) vs (United Kingdom), History: https://osu.ppy.sh/mp/107333385
+[23:22:12] BanchoBot: Beatmap: https://osu.ppy.sh/b/3815518 yanaginagi - continue
+[23:22:12] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:22:12] BanchoBot: Active mods: NoFail, Hidden
+[23:22:12] BanchoBot: Players: 8
+[23:22:12] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11918602 Blethz          [Team Red ]
+[23:22:12] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10910261 Hu_Ai           [Team Red ]
+[23:22:12] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/1626983 Cryolien        [Team Red ]
+[23:22:12] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13067221 heyimcrunchy    [Team Red ]
+[23:22:12] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/16218750 Humsterlol      [Team Blue]
+[23:22:12] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/9047034 Wingo           [Team Blue]
+[23:22:12] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/18131614 polski1         [Team Blue]
+[23:22:12] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/13972957 furytail        [Team Blue]
+[23:22:13] BCraftMG: !mp start 5 glhf
+[23:22:13] Blethz: glhf
+[23:22:13] BanchoBot: Countdown aborted
+[23:22:13] BanchoBot: Match starts in 5 seconds
+[23:22:13] BanchoBot: Queued the match to start in 5 seconds
+[23:22:15] BanchoBot: Match starts in 4 seconds
+[23:22:15] Humsterlol: glhf
+[23:22:16] BanchoBot: Match starts in 3 seconds
+[23:22:16] polski1: GLHMEOW
+[23:22:17] BanchoBot: Good luck, have fun!
+[23:22:20] BanchoBot: The match has started!
+[23:26:20] BanchoBot: Cryolien finished playing (Score: 823534, PASSED).
+[23:26:20] BanchoBot: Humsterlol finished playing (Score: 326785, PASSED).
+[23:26:20] BanchoBot: Hu_Ai finished playing (Score: 442690, PASSED).
+[23:26:20] BanchoBot: Wingo finished playing (Score: 504877, PASSED).
+[23:26:20] BanchoBot: Blethz finished playing (Score: 939262, PASSED).
+[23:26:20] BanchoBot: heyimcrunchy finished playing (Score: 640889, PASSED).
+[23:26:21] BanchoBot: furytail finished playing (Score: 324055, PASSED).
+[23:26:21] BanchoBot: polski1 finished playing (Score: 215937, PASSED).
+[23:26:21] BanchoBot: The match has finished!
+[23:26:33] BCraftMG: Malaysia | 1 - 1 | United Kingdom // Bo9 - Next Pick: United Kingdom
+[23:26:34] BCraftMG: !mp timer 120
+[23:26:35] BanchoBot: Countdown ends in 2 minutes
+[23:27:35] BanchoBot: Wingo left the game.
+[23:27:35] BanchoBot: Countdown ends in 1 minute
+[23:27:40] Humsterlol: nm2
+[23:27:44] BanchoBot: furytail left the game.
+[23:27:49] BanchoBot: heyimcrunchy left the game.
+[23:27:51] BCraftMG: !mp map 4020280 0
+[23:27:51] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4020280 SOUND HOLIC feat. YURiCa - WITCH HUNT
+[23:27:51] BanchoBot: Changed match mode to Osu
+[23:27:52] BCraftMG: !mp mods 1
+[23:27:54] BanchoBot: Enabled NoFail, disabled FreeMod
+[23:27:55] BCraftMG: !mp timer 120
+[23:27:55] BanchoBot: Countdown aborted
+[23:27:55] BanchoBot: Countdown ends in 2 minutes
+[23:28:13] BanchoBot: polski1 moved to slot 4
+[23:28:13] BanchoBot: polski1 moved to slot 6
+[23:28:38] BanchoBot: topeks joined in slot 4 for team red.
+[23:28:42] BanchoBot: Blethz left the game.
+[23:28:45] BanchoBot: DuoX joined in slot 1 for team blue.
+[23:28:49] BanchoBot: topeks changed to Blue
+[23:28:53] BanchoBot: topeks moved to slot 7
+[23:28:54] BanchoBot: velcro shoes joined in slot 4 for team red.
+[23:28:54] BanchoBot: DuoX changed to Red
+[23:28:55] BanchoBot: DuoX moved to slot 9
+[23:28:55] BanchoBot: Countdown ends in 1 minute
+[23:28:59] BanchoBot: velcro shoes changed to Blue
+[23:29:03] BanchoBot: velcro shoes moved to slot 8
+[23:29:11] BanchoBot: DuoX moved to slot 1
+[23:29:11] topeks: good morning
+[23:29:11] BanchoBot: DuoX moved to slot 4
+[23:29:16] BanchoBot: GG_com2016 joined in slot 1 for team blue.
+[23:29:19] velcro_shoes: topeks you will fc
+[23:29:23] velcro_shoes: ss even
+[23:29:23] topeks: hahahah
+[23:29:23] BanchoBot: GG_com2016 changed to Red
+[23:29:25] topeks: hahahahhahahaha
+[23:29:25] BanchoBot: Countdown ends in 30 seconds
+[23:29:35] BanchoBot: Blethz joined in slot 9 for team blue.
+[23:29:37] topeks: comedian over here on uk team
+[23:29:38] BanchoBot: Hu_Ai left the game.
+[23:29:45] BanchoBot: Countdown ends in 10 seconds
+[23:29:50] velcro_shoes: russel howard
+[23:29:50] BanchoBot: Countdown ends in 5 seconds
+[23:29:52] BanchoBot: Countdown ends in 4 seconds
+[23:29:52] BanchoBot: Blethz moved to slot 2
+[23:29:53] BanchoBot: Countdown ends in 3 seconds
+[23:29:53] BanchoBot: Blethz changed to Red
+[23:29:54] BanchoBot: Countdown ends in 2 seconds
+[23:29:55] BanchoBot: Countdown ends in 1 second
+[23:29:55] BanchoBot: Countdown finished
+[23:30:00] BanchoBot: Hu_Ai joined in slot 9 for team blue.
+[23:30:02] Humsterlol: glhf
+[23:30:03] BanchoBot: Hu_Ai left the game.
+[23:30:03] BanchoBot: Cryolien left the game.
+[23:30:05] BanchoBot: Hu_Ai joined in slot 3 for team blue.
+[23:30:10] DuoX: sorry
+[23:30:12] BanchoBot: Hu_Ai changed to Red
+[23:30:14] DuoX: glgl
+[23:30:14] Blethz: glhf
+[23:30:18] GG_com2016: glhf
+[23:30:23] BanchoBot: All players are ready
+[23:30:24] polski1: glhmeow
+[23:30:27] velcro_shoes: sfddf
+[23:30:27] Hu_Ai: glhff
+[23:30:27] BCraftMG: !mp settings
+[23:30:28] BanchoBot: Room name: 5WC2023: (Malaysia) vs (United Kingdom), History: https://osu.ppy.sh/mp/107333385
+[23:30:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/4020280 SOUND HOLIC feat. YURiCa - WITCH HUNT
+[23:30:28] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:30:28] BanchoBot: Active mods: NoFail
+[23:30:28] BanchoBot: Players: 8
+[23:30:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9229968 GG_com2016      [Team Red ]
+[23:30:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11918602 Blethz          [Team Red ]
+[23:30:28] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10910261 Hu_Ai           [Team Red ]
+[23:30:28] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9560694 DuoX            [Team Red ]
+[23:30:28] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/16218750 Humsterlol      [Team Blue]
+[23:30:28] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/18131614 polski1         [Team Blue]
+[23:30:28] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/20589414 topeks          [Team Blue]
+[23:30:28] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/11345690 velcro shoes    [Team Blue]
+[23:30:31] BCraftMG: !mp start 5 glhf
+[23:30:32] BanchoBot: Match starts in 5 seconds
+[23:30:32] BanchoBot: Queued the match to start in 5 seconds
+[23:30:33] BanchoBot: Match starts in 4 seconds
+[23:30:34] BanchoBot: Match starts in 3 seconds
+[23:30:35] BanchoBot: Good luck, have fun!
+[23:30:38] BanchoBot: The match has started!
+[23:32:39] BanchoBot: Humsterlol finished playing (Score: 850097, PASSED).
+[23:32:40] BanchoBot: velcro shoes finished playing (Score: 960966, PASSED).
+[23:32:40] BanchoBot: DuoX finished playing (Score: 576566, PASSED).
+[23:32:40] BanchoBot: Blethz finished playing (Score: 903464, PASSED).
+[23:32:40] BanchoBot: GG_com2016 finished playing (Score: 636283, PASSED).
+[23:32:40] BanchoBot: Hu_Ai finished playing (Score: 551758, PASSED).
+[23:32:41] BanchoBot: topeks finished playing (Score: 483461, PASSED).
+[23:32:41] BanchoBot: polski1 finished playing (Score: 575980, PASSED).
+[23:32:41] BanchoBot: The match has finished!
+[23:32:55] BCraftMG: Malaysia | 1 - 2 | United Kingdom // Bo9 - Next Pick: Malaysia
+[23:32:56] BCraftMG: !mp timer 120
+[23:32:56] BanchoBot: Countdown ends in 2 minutes
+[23:33:08] BanchoBot: Cryolien joined in slot 9 for team blue.
+[23:33:09] topeks: velcro
+[23:33:13] topeks: can you like
+[23:33:14] BanchoBot: Hu_Ai left the game.
+[23:33:18] topeks: stop debuffing me
+[23:33:21] velcro_shoes: topeks
+[23:33:23] BanchoBot: GG_com2016 left the game.
+[23:33:23] velcro_shoes: fc
+[23:33:24] velcro_shoes: now
+[23:33:31] topeks: yeah sure
+[23:33:34] topeks: ill fc in solo
+[23:33:38] BanchoBot: NinoMyAngel joined in slot 1 for team blue.
+[23:33:38] velcro_shoes: ok thanks
+[23:33:40] BanchoBot: NinoMyAngel moved to slot 10
+[23:33:40] BanchoBot: NinoMyAngel moved to slot 12
+[23:33:49] BanchoBot: okiari joined in slot 1 for team blue.
+[23:33:57] BanchoBot: Countdown ends in 1 minute
+[23:34:13] BanchoBot: okiari changed to Red
+[23:34:13] BanchoBot: okiari changed to Blue
+[23:34:14] BanchoBot: okiari changed to Red
+[23:34:23] Cryolien: fm2
+[23:34:26] BanchoBot: topeks left the game.
+[23:34:27] BanchoBot: Countdown ends in 30 seconds
+[23:34:38] BanchoBot: heyimcrunchy joined in slot 3 for team blue.
+[23:34:38] BCraftMG: !mp map 95901 0
+[23:34:39] BanchoBot: NinoMyAngel moved to slot 7
+[23:34:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/95901 Kawada Mami - masterpiece
+[23:34:39] BanchoBot: Changed match mode to Osu
+[23:34:46] BCraftMG: !mp mods Freemod
+[23:34:47] BanchoBot: Countdown ends in 10 seconds
+[23:34:47] BanchoBot: Disabled all mods, enabled FreeMod
+[23:34:49] BCraftMG: !mp timer 120
+[23:34:51] BanchoBot: Countdown aborted
+[23:34:51] BanchoBot: Countdown ends in 2 minutes
+[23:35:22] BanchoBot: heyimcrunchy changed to Red
+[23:35:22] BanchoBot: Cryolien left the game.
+[23:35:51] BanchoBot: Countdown ends in 1 minute
+[23:36:04] BanchoBot: velcro shoes left the game.
+[23:36:12] BanchoBot: Fluxey joined in slot 8 for team red.
+[23:36:14] BanchoBot: Fluxey changed to Blue
+[23:36:17] BanchoBot: Wingo joined in slot 9 for team blue.
+[23:36:21] BanchoBot: Countdown ends in 30 seconds
+[23:36:41] BanchoBot: Countdown ends in 10 seconds
+[23:36:46] BanchoBot: Countdown ends in 5 seconds
+[23:36:48] BanchoBot: Fluxey left the game.
+[23:36:48] BanchoBot: Countdown ends in 4 seconds
+[23:36:48] BanchoBot: Countdown ends in 3 seconds
+[23:36:49] BanchoBot: Countdown ends in 2 seconds
+[23:36:50] BanchoBot: Countdown ends in 1 second
+[23:36:51] BanchoBot: Countdown finished
+[23:36:52] BCraftMG: !mp settings
+[23:36:53] BanchoBot: Room name: 5WC2023: (Malaysia) vs (United Kingdom), History: https://osu.ppy.sh/mp/107333385
+[23:36:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/95901 Kawada Mami - masterpiece
+[23:36:53] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:36:53] BanchoBot: Active mods: Freemod
+[23:36:53] BanchoBot: Players: 8
+[23:36:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11889106 okiari          [Team Red  / NoFail, HardRock]
+[23:36:53] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11918602 Blethz          [Team Red  / NoFail, Hidden]
+[23:36:53] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13067221 heyimcrunchy    [Team Red  / NoFail, Hidden]
+[23:36:53] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9560694 DuoX            [Team Red  / NoFail, Hidden]
+[23:36:53] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/16218750 Humsterlol      [Team Blue / NoFail, Hidden]
+[23:36:53] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/18131614 polski1         [Team Blue / NoFail, HardRock]
+[23:36:53] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/14801826 NinoMyAngel     [Team Blue / NoFail, HardRock]
+[23:36:53] BanchoBot: Slot 9  Not Ready https://osu.ppy.sh/u/9047034 Wingo           [Team Blue / NoFail, Hidden, HardRock]
+[23:36:58] BanchoBot: Wingo moved to slot 8
+[23:37:01] Humsterlol: glhf
+[23:37:04] okiari: glhf
+[23:37:04] DuoX: glgl
+[23:37:05] BCraftMG: !mp settings
+[23:37:06] BanchoBot: Room name: 5WC2023: (Malaysia) vs (United Kingdom), History: https://osu.ppy.sh/mp/107333385
+[23:37:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/95901 Kawada Mami - masterpiece
+[23:37:06] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:37:06] BanchoBot: Active mods: Freemod
+[23:37:07] BanchoBot: Players: 8
+[23:37:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11889106 okiari          [Team Red  / NoFail, HardRock]
+[23:37:07] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11918602 Blethz          [Team Red  / NoFail, Hidden]
+[23:37:07] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13067221 heyimcrunchy    [Team Red  / NoFail, Hidden]
+[23:37:07] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9560694 DuoX            [Team Red  / NoFail, Hidden]
+[23:37:07] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/16218750 Humsterlol      [Team Blue / NoFail, Hidden]
+[23:37:07] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/18131614 polski1         [Team Blue / NoFail, HardRock]
+[23:37:07] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/14801826 NinoMyAngel     [Team Blue / NoFail, HardRock]
+[23:37:07] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/9047034 Wingo           [Team Blue / NoFail, Hidden, HardRock]
+[23:37:07] BanchoBot: All players are ready
+[23:37:07] heyimcrunchy: glgl
+[23:37:09] NinoMyAngel: glglg
+[23:37:10] BCraftMG: REady up!
+[23:37:10] BCraftMG: !mp settings
+[23:37:11] BanchoBot: Room name: 5WC2023: (Malaysia) vs (United Kingdom), History: https://osu.ppy.sh/mp/107333385
+[23:37:11] BanchoBot: Beatmap: https://osu.ppy.sh/b/95901 Kawada Mami - masterpiece
+[23:37:12] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:37:12] BanchoBot: Active mods: Freemod
+[23:37:12] BanchoBot: Players: 8
+[23:37:12] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11889106 okiari          [Team Red  / NoFail, HardRock]
+[23:37:12] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11918602 Blethz          [Team Red  / NoFail, Hidden]
+[23:37:12] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13067221 heyimcrunchy    [Team Red  / NoFail, Hidden]
+[23:37:12] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9560694 DuoX            [Team Red  / NoFail, Hidden]
+[23:37:12] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/16218750 Humsterlol      [Team Blue / NoFail, Hidden]
+[23:37:12] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/18131614 polski1         [Team Blue / NoFail, HardRock]
+[23:37:12] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/14801826 NinoMyAngel     [Team Blue / NoFail, HardRock]
+[23:37:12] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/9047034 Wingo           [Team Blue / NoFail, Hidden, HardRock]
+[23:37:17] BCraftMG: !mp start 5 glhf
+[23:37:17] Blethz: glhf
+[23:37:17] BanchoBot: Match starts in 5 seconds
+[23:37:17] BanchoBot: Queued the match to start in 5 seconds
+[23:37:19] BanchoBot: Match starts in 4 seconds
+[23:37:20] BanchoBot: Match starts in 3 seconds
+[23:37:21] BanchoBot: Good luck, have fun!
+[23:37:21] Wingo: glhf
+[23:37:22] BanchoBot: The match has started!
+[23:41:51] BanchoBot: polski1 finished playing (Score: 471422, PASSED).
+[23:41:51] BanchoBot: Humsterlol finished playing (Score: 689053, PASSED).
+[23:41:51] BanchoBot: Blethz finished playing (Score: 672764, PASSED).
+[23:41:51] BanchoBot: NinoMyAngel finished playing (Score: 390463, PASSED).
+[23:41:51] BanchoBot: DuoX finished playing (Score: 1034033, PASSED).
+[23:41:51] BanchoBot: Wingo finished playing (Score: 466074, PASSED).
+[23:41:51] BanchoBot: heyimcrunchy finished playing (Score: 477761, PASSED).
+[23:41:52] BanchoBot: okiari finished playing (Score: 303987, PASSED).
+[23:41:52] BanchoBot: The match has finished!
+[23:42:07] BCraftMG: Malaysia | 2 - 2 | United Kingdom // Bo9 - Next Pick: United Kingdom
+[23:42:08] BCraftMG: !mp timer 120
+[23:42:09] BanchoBot: Countdown ends in 2 minutes
+[23:42:12] BanchoBot: okiari left the game.
+[23:42:16] BanchoBot: Cryolien joined in slot 1 for team blue.
+[23:43:01] BanchoBot: heyimcrunchy left the game.
+[23:43:09] BanchoBot: Countdown ends in 1 minute
+[23:43:16] Humsterlol: dt3
+[23:43:32] BCraftMG: !mp map 3077480 0
+[23:43:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3077480 Ogura Yui - Doki Doki Labyrinth
+[23:43:33] BanchoBot: Changed match mode to Osu
+[23:43:34] BCraftMG: !mp mods 65
+[23:43:35] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[23:43:35] BCraftMG: !mp timer 120
+[23:43:36] BanchoBot: Countdown aborted
+[23:43:36] BanchoBot: Countdown ends in 2 minutes
+[23:43:38] BanchoBot: velcro shoes joined in slot 3 for team blue.
+[23:43:46] velcro_shoes: no map in question:
+[23:43:48] BanchoBot: velcro shoes moved to slot 9
+[23:43:52] Humsterlol: :wtf:
+[23:43:57] BanchoBot: Wingo left the game.
+[23:43:57] Cryolien: ye
+[23:43:58] polski1: :wtf:
+[23:44:00] BanchoBot: velcro shoes moved to slot 8
+[23:44:13] NinoMyAngel: :wtf:
+[23:44:14] BanchoBot: Hu_Ai joined in slot 3 for team blue.
+[23:44:27] BanchoBot: Hu_Ai changed to Red
+[23:44:37] BanchoBot: Countdown ends in 1 minute
+[23:44:44] BanchoBot: okiari joined in slot 9 for team blue.
+[23:45:07] BanchoBot: Countdown ends in 30 seconds
+[23:45:13] BanchoBot: Shocola joined in slot 10 for team red.
+[23:45:14] BanchoBot: Cryolien left the game.
+[23:45:17] BanchoBot: okiari changed to Red
+[23:45:20] BanchoBot: okiari moved to slot 1
+[23:45:24] BanchoBot: okiari left the game.
+[23:45:27] BanchoBot: Countdown ends in 10 seconds
+[23:45:29] BanchoBot: Shocola moved to slot 1
+[23:45:32] BanchoBot: Countdown ends in 5 seconds
+[23:45:33] BanchoBot: Countdown ends in 4 seconds
+[23:45:34] BanchoBot: Countdown ends in 3 seconds
+[23:45:36] BanchoBot: Countdown ends in 2 seconds
+[23:45:36] BanchoBot: Countdown ends in 1 second
+[23:45:37] BanchoBot: Countdown finished
+[23:45:37] BCraftMG: !mp settings
+[23:45:38] BanchoBot: Room name: 5WC2023: (Malaysia) vs (United Kingdom), History: https://osu.ppy.sh/mp/107333385
+[23:45:38] BanchoBot: Beatmap: https://osu.ppy.sh/b/3077480 Ogura Yui - Doki Doki Labyrinth
+[23:45:38] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:45:38] BanchoBot: Active mods: NoFail, DoubleTime
+[23:45:38] BanchoBot: Players: 8
+[23:45:38] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6781232 Shocola         [Team Red ]
+[23:45:38] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/11918602 Blethz          [Team Red ]
+[23:45:38] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10910261 Hu_Ai           [Team Red ]
+[23:45:38] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9560694 DuoX            [Team Red ]
+[23:45:38] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/16218750 Humsterlol      [Team Blue]
+[23:45:38] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/18131614 polski1         [Team Blue]
+[23:45:38] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/14801826 NinoMyAngel     [Team Blue]
+[23:45:38] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/11345690 velcro shoes    [Team Blue]
+[23:45:39] Humsterlol: uh
+[23:45:44] Humsterlol: apparently polski's game crashed
+[23:45:47] BCraftMG: ready up.
+[23:45:50] BCraftMG: oh
+[23:45:52] Humsterlol: can u kick him
+[23:45:52] DuoX: ow
+[23:45:58] BCraftMG: !mp kick polski1
+[23:45:59] BanchoBot: polski1 left the game.
+[23:45:59] BanchoBot: Kicked polski1 from the match
+[23:46:12] Blethz: damn
+[23:46:12] BCraftMG: please get a replacement or get him back please
+[23:46:16] BCraftMG: !mp timer 90
+[23:46:17] BanchoBot: polski1 joined in slot 6 for team red.
+[23:46:17] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[23:46:19] velcro_shoes: hes coming hback
+[23:46:21] Humsterlol: ok
+[23:46:21] BanchoBot: polski1 changed to Blue
+[23:46:22] Humsterlol: he came back
+[23:46:22] velcro_shoes: see
+[23:46:24] velcro_shoes: he came
+[23:46:27] Humsterlol: ty for waiting
+[23:46:32] BanchoBot: All players are ready
+[23:46:34] BCraftMG: !mp settings
+[23:46:35] BanchoBot: Room name: 5WC2023: (Malaysia) vs (United Kingdom), History: https://osu.ppy.sh/mp/107333385
+[23:46:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/3077480 Ogura Yui - Doki Doki Labyrinth
+[23:46:35] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:46:35] BanchoBot: Active mods: NoFail, DoubleTime
+[23:46:35] BanchoBot: Players: 8
+[23:46:35] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6781232 Shocola         [Team Red ]
+[23:46:35] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11918602 Blethz          [Team Red ]
+[23:46:35] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10910261 Hu_Ai           [Team Red ]
+[23:46:35] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9560694 DuoX            [Team Red ]
+[23:46:35] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/16218750 Humsterlol      [Team Blue]
+[23:46:35] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/18131614 polski1         [Team Blue]
+[23:46:35] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/14801826 NinoMyAngel     [Team Blue]
+[23:46:35] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/11345690 velcro shoes    [Team Blue]
+[23:46:36] DuoX: glgls
+[23:46:37] BCraftMG: !mp start 5 glhf
+[23:46:37] BanchoBot: Countdown aborted
+[23:46:37] BanchoBot: Match starts in 5 seconds
+[23:46:37] BanchoBot: Queued the match to start in 5 seconds
+[23:46:38] Humsterlol: glhf
+[23:46:38] BanchoBot: Match starts in 4 seconds
+[23:46:40] BanchoBot: Match starts in 3 seconds
+[23:46:40] NinoMyAngel: bad luck have a bad time !
+[23:46:41] BanchoBot: Good luck, have fun!
+[23:46:42] BanchoBot: The match has started!
+[23:46:43] Hu_Ai: glhf
+[23:46:44] velcro_shoes: rere
+[23:49:25] BanchoBot: Humsterlol finished playing (Score: 1094490, PASSED).
+[23:49:25] BanchoBot: polski1 finished playing (Score: 582624, PASSED).
+[23:49:25] BanchoBot: Shocola finished playing (Score: 271893, PASSED).
+[23:49:25] BanchoBot: Hu_Ai finished playing (Score: 980362, PASSED).
+[23:49:25] BanchoBot: Blethz finished playing (Score: 1032131, PASSED).
+[23:49:26] BanchoBot: DuoX finished playing (Score: 553205, PASSED).
+[23:49:26] BanchoBot: NinoMyAngel finished playing (Score: 1096219, PASSED).
+[23:49:26] BanchoBot: velcro shoes finished playing (Score: 1051181, PASSED).
+[23:49:26] BanchoBot: The match has finished!
+[23:49:36] BanchoBot: Shocola left the game.
+[23:49:41] BCraftMG: Malaysia | 2 - 3 | United Kingdom // Bo9 - Next Pick: Malaysia
+[23:49:42] BCraftMG: !mp timer 120
+[23:49:43] BanchoBot: Countdown ends in 2 minutes
+[23:49:46] BanchoBot: Cryolien joined in slot 1 for team blue.
+[23:50:19] NinoMyAngel: guys pick tb trust
+[23:50:19] BanchoBot: Hu_Ai left the game.
+[23:50:38] BanchoBot: Blethz left the game.
+[23:50:44] BanchoBot: Countdown ends in 1 minute
+[23:51:04] Cryolien: hd1
+[23:51:09] BanchoBot: NinoMyAngel left the game.
+[23:51:09] BanchoBot: heyimcrunchy joined in slot 2 for team red.
+[23:51:12] BCraftMG: !mp map 3666660 0
+[23:51:12] velcro_shoes: what a surprise
+[23:51:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3666660 kors k - Insane Techniques
+[23:51:12] BanchoBot: Changed match mode to Osu
+[23:51:14] BanchoBot: Countdown ends in 30 seconds
+[23:51:14] BanchoBot: Wingo joined in slot 3 for team blue.
+[23:51:14] BCraftMG: !mp mods 9
+[23:51:15] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[23:51:17] BCraftMG: !mp timer 120
+[23:51:17] BanchoBot: Countdown aborted
+[23:51:17] BanchoBot: Countdown ends in 2 minutes
+[23:51:20] BanchoBot: Wingo moved to slot 7
+[23:51:24] Cryolien: oh i typed tb but it changed to hd whoops
+[23:51:25] Cryolien: oh well
+[23:51:31] velcro_shoes: wowwww
+[23:51:39] velcro_shoes: do u have a macro to type hd1
+[23:51:54] BanchoBot: DuoX left the game.
+[23:52:00] BanchoBot: Hu_Ai joined in slot 3 for team blue.
+[23:52:07] BanchoBot: heyimcrunchy left the game.
+[23:52:09] BanchoBot: Hu_Ai changed to Red
+[23:52:18] BanchoBot: heyimcrunchy joined in slot 2 for team red.
+[23:52:18] BanchoBot: Countdown ends in 1 minute
+[23:52:21] BanchoBot: Blethz joined in slot 4 for team red.
+[23:52:33] Blethz: duo game crash
+[23:52:46] Humsterlol: this lobby is cursed
+[23:52:48] BanchoBot: Countdown ends in 30 seconds
+[23:52:53] velcro_shoes: malaysian type pc
+[23:53:00] BanchoBot: Shocola joined in slot 9 for team blue.
+[23:53:03] BanchoBot: Cryolien left the game.
+[23:53:07] BanchoBot: Shocola moved to slot 1
+[23:53:08] BanchoBot: Countdown ends in 10 seconds
+[23:53:10] BanchoBot: Shocola changed to Red
+[23:53:13] BanchoBot: Countdown ends in 5 seconds
+[23:53:15] BanchoBot: Countdown ends in 4 seconds
+[23:53:15] BanchoBot: Countdown ends in 3 seconds
+[23:53:16] BanchoBot: Countdown ends in 2 seconds
+[23:53:17] BanchoBot: Countdown ends in 1 second
+[23:53:18] BanchoBot: Countdown finished
+[23:53:23] BanchoBot: All players are ready
+[23:53:24] BCraftMG: !mp settings
+[23:53:25] BanchoBot: Room name: 5WC2023: (Malaysia) vs (United Kingdom), History: https://osu.ppy.sh/mp/107333385
+[23:53:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/3666660 kors k - Insane Techniques
+[23:53:25] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:53:25] BanchoBot: Active mods: NoFail, Hidden
+[23:53:25] BanchoBot: Players: 8
+[23:53:25] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6781232 Shocola         [Team Red ]
+[23:53:25] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13067221 heyimcrunchy    [Team Red ]
+[23:53:25] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10910261 Hu_Ai           [Team Red ]
+[23:53:25] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11918602 Blethz          [Team Red ]
+[23:53:25] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/16218750 Humsterlol      [Team Blue]
+[23:53:25] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/18131614 polski1         [Team Blue]
+[23:53:25] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/9047034 Wingo           [Team Blue]
+[23:53:25] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/11345690 velcro shoes    [Team Blue]
+[23:53:28] BCraftMG: !mp start 5 glhf
+[23:53:28] BanchoBot: Match starts in 5 seconds
+[23:53:28] BanchoBot: Queued the match to start in 5 seconds
+[23:53:30] BanchoBot: Match starts in 4 seconds
+[23:53:31] BanchoBot: Match starts in 3 seconds
+[23:53:32] BanchoBot: Good luck, have fun!
+[23:53:32] Blethz: glhf
+[23:53:32] Wingo: glhf
+[23:53:32] polski1: glhmeow
+[23:53:33] BanchoBot: The match has started!
+[23:53:36] velcro_shoes: rere[o0
+[23:53:41] Humsterlol: glhf
+[23:55:47] BanchoBot: Humsterlol finished playing (Score: 509134, PASSED).
+[23:55:48] BanchoBot: Blethz finished playing (Score: 418929, PASSED).
+[23:55:48] BanchoBot: Hu_Ai finished playing (Score: 333444, PASSED).
+[23:55:48] BanchoBot: Wingo finished playing (Score: 258478, PASSED).
+[23:55:48] BanchoBot: polski1 finished playing (Score: 299581, PASSED).
+[23:55:48] BanchoBot: Shocola finished playing (Score: 340182, PASSED).
+[23:55:50] BanchoBot: velcro shoes finished playing (Score: 507202, PASSED).
+[23:55:50] BanchoBot: heyimcrunchy finished playing (Score: 336678, PASSED).
+[23:55:50] BanchoBot: The match has finished!
+[23:56:02] BCraftMG: Malaysia | 2 - 4 | United Kingdom // Bo9 - Next Pick: United Kingdom
+[23:56:03] BCraftMG: !mp timer 120
+[23:56:05] BanchoBot: Countdown ends in 2 minutes
+[23:56:11] BanchoBot: NinoMyAngel joined in slot 9 for team blue.
+[23:56:12] BanchoBot: Cryolien joined in slot 10 for team red.
+[23:56:14] BanchoBot: Wingo left the game.
+[23:56:14] BanchoBot: Shocola left the game.
+[23:56:20] BanchoBot: NinoMyAngel moved to slot 7
+[23:57:06] BanchoBot: Countdown ends in 1 minute
+[23:57:13] Humsterlol: dt2
+[23:57:17] BanchoBot: heyimcrunchy left the game.
+[23:57:23] BCraftMG: !mp map 4042257 0
+[23:57:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4042257 ABSOLUTE CASTAWAY - Shiroi Tsuki, Hohoenda Taiyou
+[23:57:23] BanchoBot: Changed match mode to Osu
+[23:57:24] BCraftMG: !mp mods 65
+[23:57:25] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[23:57:26] BCraftMG: !mp timer 120
+[23:57:27] BanchoBot: Countdown aborted
+[23:57:27] BanchoBot: Countdown ends in 2 minutes
+[23:57:40] Blethz: is this speed abuse
+[23:57:48] NinoMyAngel: no its love
+[23:57:48] velcro_shoes: main shut yo stupdi
+[23:57:58] Humsterlol: wtf toxic!!!!
+[23:58:04] NinoMyAngel: we pick speed bc we love you guys
+[23:58:07] polski1: if i throw
+[23:58:09] polski1: will you guys pick hr1
+[23:58:12] velcro_shoes: speed is literally my middle name
+[23:58:20] Cryolien: velcro speed shoes
+[23:58:22] velcro_shoes: yes pls
+[23:58:28] BanchoBot: Countdown ends in 1 minute
+[23:58:29] velcro_shoes: yeah velcro speed shoes
+[23:58:46] BanchoBot: DuoX joined in slot 1 for team blue.
+[23:58:55] BanchoBot: okiari joined in slot 2 for team red.
+[23:58:57] BanchoBot: Countdown ends in 30 seconds
+[23:59:02] BanchoBot: DuoX changed to Red
+[23:59:05] BanchoBot: Cryolien left the game.
+[23:59:17] BanchoBot: Countdown ends in 10 seconds
+[23:59:21] BanchoBot: All players are ready
+[23:59:22] BanchoBot: Countdown ends in 5 seconds
+[23:59:23] BCraftMG: !mp settings
+[23:59:23] BanchoBot: Countdown ends in 4 seconds
+[23:59:23] Blethz: glhf
+[23:59:23] BanchoBot: Room name: 5WC2023: (Malaysia) vs (United Kingdom), History: https://osu.ppy.sh/mp/107333385
+[23:59:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/4042257 ABSOLUTE CASTAWAY - Shiroi Tsuki, Hohoenda Taiyou
+[23:59:23] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:59:23] BanchoBot: Active mods: NoFail, DoubleTime
+[23:59:23] BanchoBot: Players: 8
+[23:59:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9560694 DuoX            [Team Red ]
+[23:59:23] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11889106 okiari          [Team Red ]
+[23:59:23] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10910261 Hu_Ai           [Team Red ]
+[23:59:23] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11918602 Blethz          [Team Red ]
+[23:59:23] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/16218750 Humsterlol      [Team Blue]
+[23:59:23] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/18131614 polski1         [Team Blue]
+[23:59:23] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/14801826 NinoMyAngel     [Team Blue]
+[23:59:23] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/11345690 velcro shoes    [Team Blue]
+[23:59:24] BanchoBot: Countdown ends in 3 seconds
+[23:59:25] BanchoBot: Countdown ends in 2 seconds
+[23:59:26] BanchoBot: Countdown ends in 1 second
+[23:59:26] DuoX: glgl
+[23:59:27] BanchoBot: Countdown finished
+[23:59:27] Humsterlol: glhf
+[23:59:29] BCraftMG: !mp start 5 glhf
+[23:59:30] BanchoBot: Match starts in 5 seconds
+[23:59:30] BanchoBot: Queued the match to start in 5 seconds
+[23:59:31] BanchoBot: Match starts in 4 seconds
+[23:59:32] BanchoBot: Match starts in 3 seconds
+[23:59:33] velcro_shoes: trtere
+[23:59:33] BanchoBot: Good luck, have fun!
+[23:59:34] okiari: gl
+[23:59:35] BanchoBot: The match has started!
+[23:59:35] polski1: glhmeow
+[00:02:18] BanchoBot: NinoMyAngel finished playing (Score: 756384, PASSED).
+[00:02:20] BanchoBot: okiari finished playing (Score: 562426, PASSED).
+[00:02:20] BanchoBot: DuoX finished playing (Score: 1113992, PASSED).
+[00:02:20] BanchoBot: Blethz finished playing (Score: 671033, PASSED).
+[00:02:20] BanchoBot: Hu_Ai finished playing (Score: 724841, PASSED).
+[00:02:20] BanchoBot: Humsterlol finished playing (Score: 1009222, PASSED).
+[00:02:21] BanchoBot: polski1 finished playing (Score: 1108198, PASSED).
+[00:02:21] BanchoBot: velcro shoes finished playing (Score: 1163664, PASSED).
+[00:02:21] BanchoBot: The match has finished!
+[00:02:35] BCraftMG: Malaysia | 2 - 5 | United Kingdom // United Kingdom wins! GGWP
+[00:02:41] polski1: ggwp
+[00:02:41] Humsterlol: ggwp
+[00:02:45] Blethz: ggwp
+[00:02:47] Blethz: thanks for game
+[00:02:47] velcro_shoes: ggg
+[00:02:47] BanchoBot: Cryolien joined in slot 9 for team blue.
+[00:02:47] okiari: ggwp
+[00:02:48] BanchoBot: okiari left the game.
+[00:02:50] DuoX: thanks for the game and ref
+[00:02:50] DuoX: gl further
+[00:02:50] DuoX: ggs !
+[00:02:50] Hu_Ai: ggwpp
+[00:02:51] BanchoBot: DuoX left the game.
+[00:02:52] BanchoBot: NinoMyAngel left the game.
+[00:02:56] polski1: ty for ref and match
+[00:02:58] Cryolien: thx for ref
+[00:02:58] BanchoBot: polski1 left the game.
+[00:03:02] Hu_Ai: thanks for ref'ing
+[00:03:03] Humsterlol: ty for ref
+[00:03:11] BanchoBot: Humsterlol left the game.
+[00:03:11] BanchoBot: Hu_Ai left the game.
+[00:03:14] BanchoBot: velcro shoes left the game.
+[00:03:17] BanchoBot: Cryolien left the game.
+[00:03:34] BanchoBot: Blethz left the game.
+[00:03:35] BCraftMG: !mp close
+[00:03:35] BanchoBot: Closed the match

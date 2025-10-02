@@ -1,0 +1,305 @@
+[03:01:33] Joined #mp_107033329
+[03:01:33] BCraftMG: !mp settings
+[03:01:35] BanchoBot: Room name: 5WC2023: (Qualifiers) vs (Match GB), History: https://osu.ppy.sh/mp/107033329
+[03:01:35] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[03:01:35] BanchoBot: Players: 0
+[03:01:58] BCraftMG: !mp set 0 3 8
+[03:02:00] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[03:02:02] BCraftMG: !mp invite #16218750
+[03:02:03] BanchoBot: Invited Humsterlol to the room
+[03:02:13] BanchoBot: Humsterlol joined in slot 1.
+[03:02:15] Humsterlol: ty
+[03:02:24] BCraftMG: !mp map 3386357 0
+[03:02:25] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3386357 nonoc - Relive
+[03:02:25] BanchoBot: Changed match mode to Osu
+[03:02:25] BCraftMG: !mp mods 1
+[03:02:26] BanchoBot: Enabled NoFail, disabled FreeMod
+[03:03:43] BCraftMG: Please get your teammates in :3c
+[03:03:46] BanchoBot: velcro shoes joined in slot 2.
+[03:03:56] BanchoBot: polski1 joined in slot 3.
+[03:03:59] BanchoBot: NinoMyAngel joined in slot 4.
+[03:04:01] BanchoBot: NinoMyAngel left the game.
+[03:04:09] BanchoBot: furytail joined in slot 4.
+[03:04:31] BanchoBot: topeks joined in slot 5.
+[03:04:48] BanchoBot: topeks left the game.
+[03:05:06] BanchoBot: All players are ready
+[03:05:08] BCraftMG: !mp settings
+[03:05:10] BanchoBot: Room name: 5WC2023: (Qualifiers) vs (Match GB), History: https://osu.ppy.sh/mp/107033329
+[03:05:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/3386357 nonoc - Relive
+[03:05:10] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[03:05:10] BanchoBot: Active mods: NoFail
+[03:05:10] BanchoBot: Players: 4
+[03:05:10] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16218750 Humsterlol      
+[03:05:10] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11345690 velcro shoes    
+[03:05:10] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/18131614 polski1         
+[03:05:10] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13972957 furytail        
+[03:05:11] BCraftMG: !mp start 5 glhf
+[03:05:11] BanchoBot: Match starts in 5 seconds
+[03:05:11] BanchoBot: Queued the match to start in 5 seconds
+[03:05:13] BanchoBot: Match starts in 4 seconds
+[03:05:15] BanchoBot: Match starts in 3 seconds
+[03:05:15] BanchoBot: Good luck, have fun!
+[03:05:16] BanchoBot: The match has started!
+[03:09:22] BanchoBot: velcro shoes finished playing (Score: 880947, PASSED).
+[03:09:22] BanchoBot: Humsterlol finished playing (Score: 633927, PASSED).
+[03:09:22] BanchoBot: polski1 finished playing (Score: 989696, PASSED).
+[03:09:22] BanchoBot: furytail finished playing (Score: 494518, PASSED).
+[03:09:22] BanchoBot: The match has finished!
+[03:09:25] BCraftMG: !mp map 3798373 0
+[03:09:25] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3798373 Metrik - We Got It (feat. Rothwell)
+[03:09:25] BanchoBot: Changed match mode to Osu
+[03:10:14] BanchoBot: topeks joined in slot 5.
+[03:10:17] BanchoBot: Humsterlol left the game.
+[03:10:18] BanchoBot: topeks moved to slot 1
+[03:10:25] topeks: im going to int
+[03:10:30] furytail: ok
+[03:10:30] furytail: cool
+[03:10:32] furytail: we dont care
+[03:10:43] BanchoBot: All players are ready
+[03:10:45] topeks: start caring then
+[03:10:52] furytail: no i wont
+[03:10:53] BCraftMG: !mp settings
+[03:10:54] polski1: glhmeow
+[03:10:54] BanchoBot: Room name: 5WC2023: (Qualifiers) vs (Match GB), History: https://osu.ppy.sh/mp/107033329
+[03:10:54] BanchoBot: Beatmap: https://osu.ppy.sh/b/3798373 Metrik - We Got It (feat. Rothwell)
+[03:10:54] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[03:10:54] BanchoBot: Active mods: NoFail
+[03:10:54] BanchoBot: Players: 4
+[03:10:54] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/20589414 topeks          
+[03:10:54] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11345690 velcro shoes    
+[03:10:54] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/18131614 polski1         
+[03:10:54] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13972957 furytail        
+[03:10:56] BCraftMG: !mp start 5 glhf
+[03:10:57] BanchoBot: Match starts in 5 seconds
+[03:10:57] BanchoBot: Queued the match to start in 5 seconds
+[03:10:59] BanchoBot: Match starts in 4 seconds
+[03:11:00] BanchoBot: Match starts in 3 seconds
+[03:11:00] BanchoBot: Good luck, have fun!
+[03:11:02] BanchoBot: The match has started!
+[03:14:30] BanchoBot: polski1 finished playing (Score: 826161, PASSED).
+[03:14:30] BanchoBot: topeks finished playing (Score: 997879, PASSED).
+[03:14:31] BanchoBot: furytail finished playing (Score: 589817, PASSED).
+[03:14:31] BanchoBot: velcro shoes finished playing (Score: 1003284, PASSED).
+[03:14:31] BanchoBot: The match has finished!
+[03:14:36] BCraftMG: !mp map 4011061 0
+[03:14:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4011061 Street - firewall
+[03:14:36] BanchoBot: Changed match mode to Osu
+[03:14:41] BanchoBot: Wingo joined in slot 5.
+[03:14:45] topeks: thank god
+[03:14:45] BanchoBot: furytail left the game.
+[03:14:48] topeks: cya
+[03:14:48] BanchoBot: Wingo moved to slot 4
+[03:14:48] BanchoBot: topeks left the game.
+[03:15:07] BanchoBot: Humsterlol joined in slot 1.
+[03:16:38] BanchoBot: All players are ready
+[03:16:40] BCraftMG: !mp settings
+[03:16:42] BanchoBot: Room name: 5WC2023: (Qualifiers) vs (Match GB), History: https://osu.ppy.sh/mp/107033329
+[03:16:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/4011061 Street - firewall
+[03:16:42] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[03:16:42] BanchoBot: Active mods: NoFail
+[03:16:42] BanchoBot: Players: 4
+[03:16:42] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16218750 Humsterlol      
+[03:16:42] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11345690 velcro shoes    
+[03:16:42] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/18131614 polski1         
+[03:16:42] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9047034 Wingo           
+[03:16:43] BCraftMG: !mp start 5 glhf
+[03:16:45] BanchoBot: Match starts in 5 seconds
+[03:16:45] BanchoBot: Queued the match to start in 5 seconds
+[03:16:46] polski1: glhmeow
+[03:16:46] BanchoBot: Match starts in 4 seconds
+[03:16:48] BanchoBot: Match starts in 3 seconds
+[03:16:48] BanchoBot: Good luck, have fun!
+[03:16:51] BanchoBot: The match has started!
+[03:20:08] BanchoBot: Humsterlol finished playing (Score: 407153, PASSED).
+[03:20:08] BanchoBot: polski1 finished playing (Score: 269645, PASSED).
+[03:20:08] BanchoBot: velcro shoes finished playing (Score: 374546, PASSED).
+[03:20:08] BanchoBot: Wingo finished playing (Score: 209851, PASSED).
+[03:20:08] BanchoBot: The match has finished!
+[03:20:14] BCraftMG: !mp map 3967162 0
+[03:20:15] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3967162 Street - Hestia
+[03:20:15] BanchoBot: Changed match mode to Osu
+[03:20:17] BanchoBot: furytail joined in slot 5.
+[03:20:18] BanchoBot: Wingo left the game.
+[03:20:37] BanchoBot: furytail moved to slot 4
+[03:21:02] BanchoBot: All players are ready
+[03:21:05] BCraftMG: !mp settings
+[03:21:07] BanchoBot: Room name: 5WC2023: (Qualifiers) vs (Match GB), History: https://osu.ppy.sh/mp/107033329
+[03:21:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/3967162 Street - Hestia
+[03:21:07] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[03:21:07] BanchoBot: Active mods: NoFail
+[03:21:07] BanchoBot: Players: 4
+[03:21:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16218750 Humsterlol      
+[03:21:07] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11345690 velcro shoes    
+[03:21:07] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/18131614 polski1         
+[03:21:07] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13972957 furytail        
+[03:21:09] BCraftMG: !mp start 5 glhf
+[03:21:10] BanchoBot: Match starts in 5 seconds
+[03:21:10] BanchoBot: Queued the match to start in 5 seconds
+[03:21:12] BanchoBot: Match starts in 4 seconds
+[03:21:12] polski1: glhmeow
+[03:21:13] BanchoBot: Match starts in 3 seconds
+[03:21:13] BanchoBot: Good luck, have fun!
+[03:21:15] velcro_shoes: ''''ewd
+[03:21:16] BanchoBot: The match has started!
+[03:23:27] BanchoBot: polski1 finished playing (Score: 511283, PASSED).
+[03:23:29] BanchoBot: velcro shoes finished playing (Score: 955457, PASSED).
+[03:23:29] BanchoBot: Humsterlol finished playing (Score: 580243, PASSED).
+[03:23:29] BanchoBot: furytail finished playing (Score: 765897, PASSED).
+[03:23:29] BanchoBot: The match has finished!
+[03:23:33] BCraftMG: !mp map 2453711 0
+[03:23:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2453711 sekai - Zange Mairi
+[03:23:34] BanchoBot: Changed match mode to Osu
+[03:23:34] BCraftMG: !mp mods 9
+[03:23:36] BanchoBot: Wingo joined in slot 5.
+[03:23:36] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[03:24:01] BanchoBot: polski1 left the game.
+[03:24:27] BanchoBot: Wingo moved to slot 3
+[03:24:31] Wingo: golf
+[03:24:37] BanchoBot: All players are ready
+[03:24:40] BCraftMG: !mp settings
+[03:24:41] BanchoBot: Room name: 5WC2023: (Qualifiers) vs (Match GB), History: https://osu.ppy.sh/mp/107033329
+[03:24:41] BanchoBot: Beatmap: https://osu.ppy.sh/b/2453711 sekai - Zange Mairi
+[03:24:41] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[03:24:41] BanchoBot: Active mods: NoFail, Hidden
+[03:24:41] BanchoBot: Players: 4
+[03:24:41] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16218750 Humsterlol      
+[03:24:41] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11345690 velcro shoes    
+[03:24:41] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9047034 Wingo           
+[03:24:41] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13972957 furytail        
+[03:24:42] BCraftMG: !mp start 5 glhf
+[03:24:44] BanchoBot: Match starts in 5 seconds
+[03:24:44] BanchoBot: Queued the match to start in 5 seconds
+[03:24:46] BanchoBot: Match starts in 4 seconds
+[03:24:47] BanchoBot: Match starts in 3 seconds
+[03:24:47] BanchoBot: Good luck, have fun!
+[03:24:51] BanchoBot: The match has started!
+[03:28:16] BanchoBot: velcro shoes finished playing (Score: 514818, PASSED).
+[03:28:16] BanchoBot: furytail finished playing (Score: 529725, PASSED).
+[03:28:16] BanchoBot: Humsterlol finished playing (Score: 459253, PASSED).
+[03:28:16] BanchoBot: Wingo finished playing (Score: 343707, PASSED).
+[03:28:16] BanchoBot: The match has finished!
+[03:28:20] BCraftMG: !mp map 4010479 0
+[03:28:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4010479 PUP - My Life Is Over And I Couldn't Be Happier
+[03:28:21] BanchoBot: Changed match mode to Osu
+[03:28:44] furytail: cant wait to bleach me eyes after this
+[03:28:48] furytail: :DDDDDDDDDD
+[03:28:53] velcro_shoes: 'this map sucks
+[03:28:58] furytail: song sucks map sucks
+[03:28:58] Wingo: true
+[03:29:03] Wingo: 40k incoming
+[03:29:13] BanchoBot: All players are ready
+[03:29:16] BCraftMG: !mp settings
+[03:29:18] BanchoBot: Room name: 5WC2023: (Qualifiers) vs (Match GB), History: https://osu.ppy.sh/mp/107033329
+[03:29:18] BanchoBot: Beatmap: https://osu.ppy.sh/b/4010479 PUP - My Life Is Over And I Couldn't Be Happier
+[03:29:18] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[03:29:18] BanchoBot: Active mods: NoFail, Hidden
+[03:29:18] BanchoBot: Players: 4
+[03:29:18] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16218750 Humsterlol      
+[03:29:18] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11345690 velcro shoes    
+[03:29:18] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9047034 Wingo           
+[03:29:18] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13972957 furytail        
+[03:29:19] BCraftMG: !mp start 5 glhf
+[03:29:19] BanchoBot: Match starts in 5 seconds
+[03:29:19] BanchoBot: Queued the match to start in 5 seconds
+[03:29:21] BanchoBot: Match starts in 4 seconds
+[03:29:23] BanchoBot: Match starts in 3 seconds
+[03:29:23] BanchoBot: Good luck, have fun!
+[03:29:24] BanchoBot: The match has started!
+[03:31:59] BanchoBot: Wingo finished playing (Score: 230705, PASSED).
+[03:32:03] BanchoBot: Humsterlol finished playing (Score: 376510, PASSED).
+[03:32:03] BanchoBot: furytail finished playing (Score: 174723, PASSED).
+[03:32:03] BanchoBot: velcro shoes finished playing (Score: 204665, PASSED).
+[03:32:03] BanchoBot: The match has finished!
+[03:32:06] BCraftMG: !mp map 904351 0
+[03:32:07] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/904351 Virtual Riot feat. Varia - Edge
+[03:32:07] BanchoBot: Changed match mode to Osu
+[03:32:10] BCraftMG: !mp mods 17
+[03:32:11] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[03:32:14] BanchoBot: furytail left the game.
+[03:32:18] BanchoBot: Wingo left the game.
+[03:32:34] BanchoBot: NinoMyAngel joined in slot 3.
+[03:32:36] BanchoBot: Humsterlol left the game.
+[03:32:36] BanchoBot: Fluxey joined in slot 1.
+[03:32:39] BanchoBot: velcro shoes left the game.
+[03:32:41] BanchoBot: polski1 joined in slot 2.
+[03:33:08] BanchoBot: Humsterlol joined in slot 4.
+[03:33:20] BanchoBot: All players are ready
+[03:33:29] BCraftMG: !mp settings
+[03:33:30] BanchoBot: Room name: 5WC2023: (Qualifiers) vs (Match GB), History: https://osu.ppy.sh/mp/107033329
+[03:33:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/904351 Virtual Riot feat. Varia - Edge
+[03:33:30] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[03:33:30] BanchoBot: Active mods: NoFail, HardRock
+[03:33:30] BanchoBot: Players: 4
+[03:33:30] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9098192 Fluxey          
+[03:33:30] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18131614 polski1         
+[03:33:30] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14801826 NinoMyAngel     
+[03:33:30] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16218750 Humsterlol      
+[03:33:31] BCraftMG: !mp start 5 glhf
+[03:33:33] BanchoBot: Match starts in 5 seconds
+[03:33:33] BanchoBot: Queued the match to start in 5 seconds
+[03:33:35] polski1: glhmeow
+[03:33:35] BanchoBot: Match starts in 4 seconds
+[03:33:36] BanchoBot: Match starts in 3 seconds
+[03:33:36] BanchoBot: Good luck, have fun!
+[03:33:38] BanchoBot: The match has started!
+[03:35:53] BanchoBot: Fluxey finished playing (Score: 577590, PASSED).
+[03:35:55] BanchoBot: Humsterlol finished playing (Score: 552677, PASSED).
+[03:35:55] BanchoBot: NinoMyAngel finished playing (Score: 421086, PASSED).
+[03:35:55] BanchoBot: polski1 finished playing (Score: 564591, PASSED).
+[03:35:55] BanchoBot: The match has finished!
+[03:35:58] BCraftMG: !mp map 4011065 0
+[03:35:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4011065 Tkay Maidza - So Cold
+[03:35:59] BanchoBot: Changed match mode to Osu
+[03:36:03] BanchoBot: Wingo joined in slot 5.
+[03:36:08] BanchoBot: NinoMyAngel left the game.
+[03:36:44] BanchoBot: Wingo moved to slot 3
+[03:37:15] BCraftMG: !mp settings
+[03:37:16] BanchoBot: Room name: 5WC2023: (Qualifiers) vs (Match GB), History: https://osu.ppy.sh/mp/107033329
+[03:37:16] BanchoBot: Beatmap: https://osu.ppy.sh/b/4011065 Tkay Maidza - So Cold
+[03:37:16] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[03:37:16] BanchoBot: Active mods: NoFail, HardRock
+[03:37:16] BanchoBot: Players: 4
+[03:37:16] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/9098192 Fluxey          
+[03:37:16] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/18131614 polski1         
+[03:37:16] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/9047034 Wingo           
+[03:37:16] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/16218750 Humsterlol      
+[03:37:19] BanchoBot: NinoMyAngel joined in slot 5.
+[03:37:24] Humsterlol: !roll 2
+[03:37:24] BanchoBot: Humsterlol rolls 2 point(s)
+[03:37:27] BanchoBot: Humsterlol left the game.
+[03:37:29] BanchoBot: NinoMyAngel moved to slot 4
+[03:37:49] BanchoBot: All players are ready
+[03:38:02] polski1: glhmeow
+[03:38:09] Wingo: golfballs
+[03:38:29] Fluxey: bcraftmg
+[03:38:54] NinoMyAngel: ref ded?
+[03:38:57] Fluxey: uhhh
+[03:39:27] polski1: BCraftMG
+[03:39:35] polski1: cold
+[03:39:40] Wingo: freezing
+[03:39:49] BanchoBot: Humsterlol joined in slot 5.
+[03:39:55] Fluxey: BCraftMG hellooooooooo
+[03:40:00] Humsterlol: BCraftMG
+[03:40:52] Wingo: naptime
+[03:41:13] BanchoBot: NinoMyAngel left the game.
+[03:43:06] BanchoBot: Humsterlol moved to slot 4
+[03:43:09] BanchoBot: Humsterlol moved to slot 5
+[03:43:11] BanchoBot: Humsterlol left the game.
+[03:43:12] BanchoBot: polski1 moved to slot 4
+[03:43:14] BanchoBot: polski1 moved to slot 5
+[03:43:14] BanchoBot: Wingo left the game.
+[03:43:16] BanchoBot: polski1 moved to slot 2
+[03:43:16] BanchoBot: polski1 left the game.
+[03:45:12] BanchoBot: NinoMyAngel joined in slot 2.
+[03:45:18] BanchoBot: Humsterlol joined in slot 3.
+[03:45:20] NinoMyAngel: moshi moshi?
+[03:46:10] BanchoBot: NinoMyAngel left the game.
+[03:49:25] BanchoBot: NinoMyAngel joined in slot 2.
+[03:49:33] BanchoBot: NinoMyAngel left the game.
+[03:50:04] BanchoBot: Fluxey left the game.
+[03:50:08] BanchoBot: Humsterlol moved to slot 1
+[03:56:41] BanchoBot: Humsterlol left the game.
+[03:56:45] BanchoBot: Wingo joined in slot 1.
+[03:56:53] BanchoBot: Wingo left the game.
+[04:06:17] BCraftMG: !mp close
+[04:06:18] BanchoBot: Closed the match

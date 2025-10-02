@@ -1,0 +1,552 @@
+[19:50:49] Joined #mp_109621376
+[19:50:49] BCraftMG: !mp settings
+[19:50:51] BanchoBot: Room name: VOT3: (Hgiang) vs (TooNakko), History: https://osu.ppy.sh/mp/109621376
+[19:50:51] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[19:50:51] BanchoBot: Players: 0
+[19:51:01] BCraftMG: !mp set 0 3 3
+[19:51:03] BanchoBot: Changed match settings to 3 slots, HeadToHead, ScoreV2
+[19:51:09] BCraftMG: !mp map 1588162 2
+[19:51:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1588162 Sota Fujimori - polygon
+[19:51:10] BanchoBot: Changed match mode to CatchTheBeat
+[19:51:13] BCraftMG: !mp map 1588162 1
+[19:51:15] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1588162 Sota Fujimori - polygon
+[19:51:15] BanchoBot: Changed match mode to Taiko
+[19:53:48] BCraftMG: !mp addref gasmask-chan
+[19:53:49] BanchoBot: User not found: gasmask-chan
+[19:53:54] BCraftMG: !mp addref gasmask chan
+[19:53:55] BanchoBot: User not found: gasmask chan
+[19:53:58] BCraftMG: !mp addref gasmaskchan
+[19:53:59] BanchoBot: Added gasmaskchan to the match referees
+[19:54:06] BCraftMG: !mp invite Hgiang
+[19:54:07] BanchoBot: Invited Hgiang to the room
+[19:54:10] BCraftMG: !mp invite TooNakko
+[19:54:11] BanchoBot: Invited TooNakko to the room
+[19:54:19] BanchoBot: TooNakko joined in slot 1.
+[19:54:35] BanchoBot: Hgiang joined in slot 2.
+[19:54:42] BCraftMG: 2 ng đổi chỗ cho nhau nhá
+[19:54:48] BanchoBot: TooNakko moved to slot 3
+[19:55:16] Hgiang: what
+[19:55:18] BanchoBot: Hgiang moved to slot 1
+[19:55:21] BanchoBot: TooNakko moved to slot 2
+[19:55:27] Hgiang: is this streamed?
+[19:55:38] BCraftMG: trên lý thuyết là có
+[19:55:43] BCraftMG: thực tế thì toi k biết
+[19:56:20] TooNakko: co 1 tran vao 20:15 iirc
+[19:56:25] TooNakko: co the tran day se duoc stream
+[19:56:53] Hgiang: tahts cringe
+[19:56:57] Hgiang: where our match :(
+[19:57:08] Hgiang: insane diff name
+[19:57:09] TooNakko: wut
+[19:57:17] BanchoBot: All players are ready
+[19:57:18] BCraftMG: !mp settings
+[19:57:20] BanchoBot: Room name: VOT3: (Hgiang) vs (TooNakko), History: https://osu.ppy.sh/mp/109621376
+[19:57:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/1588162 Sota Fujimori - polygon
+[19:57:20] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[19:57:20] BanchoBot: Players: 2
+[19:57:20] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11442899 Hgiang          
+[19:57:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/26455059 TooNakko        
+[19:57:21] BCraftMG: !mp start 5 glhf
+[19:57:21] BanchoBot: Match starts in 5 seconds
+[19:57:21] BanchoBot: Queued the match to start in 5 seconds
+[19:57:23] BanchoBot: Match starts in 4 seconds
+[19:57:24] BanchoBot: Match starts in 3 seconds
+[19:57:26] BanchoBot: Good luck, have fun!
+[19:57:27] BanchoBot: The match has started!
+[19:59:29] BanchoBot: TooNakko finished playing (Score: 563841, PASSED).
+[19:59:30] BanchoBot: Hgiang finished playing (Score: 585941, PASSED).
+[19:59:30] BanchoBot: The match has finished!
+[19:59:40] BCraftMG: aight
+[19:59:41] BCraftMG: roll time
+[19:59:48] TooNakko: !rolll
+[19:59:51] TooNakko: !roll
+[19:59:51] BanchoBot: TooNakko rolls 47 point(s)
+[19:59:54] Hgiang: !roll
+[19:59:54] BanchoBot: Hgiang rolls 4 point(s)
+[19:59:57] Hgiang: wow
+[20:00:01] Hgiang: insane
+[20:00:16] TooNakko: fck
+[20:00:18] TooNakko: toi dang ngoi cyber
+[20:00:22] TooNakko: dieu hoa cua ho lanh vl
+[20:00:25] Hgiang: lol
+[20:00:28] BCraftMG: Hgiang ban trc
+[20:00:28] BCraftMG: !mp timer 90
+[20:00:30] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:00:34] Hgiang: hd1
+[20:00:47] BCraftMG: Toonakko ban
+[20:00:55] BCraftMG: !mp timer 120
+[20:00:57] TooNakko: ban hr2
+[20:00:57] BanchoBot: Countdown aborted
+[20:00:57] BanchoBot: Countdown ends in 2 minutes
+[20:01:06] Hgiang: damn
+[20:01:09] Hgiang: instant ban
+[20:01:58] BanchoBot: Countdown ends in 1 minute
+[20:01:59] BCraftMG: Hgiang | 0 - 0 | TooNakko // Best of 11, TooNakko you have 90 seconds to pick a map
+[20:02:00] BCraftMG: !mp timer 90
+[20:02:01] BanchoBot: Countdown aborted
+[20:02:01] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:02:16] TooNakko: nm4
+[20:02:33] BanchoBot: Countdown ends in 1 minute
+[20:02:36] Hgiang: are we getting it out of the way now
+[20:02:38] BCraftMG: !mp map 4226033 1
+[20:02:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4226033 sasakure.UK - the EmpErroR
+[20:02:39] BanchoBot: Changed match mode to Taiko
+[20:02:40] BCraftMG: !mp mods 1
+[20:02:40] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:02:41] BCraftMG: !mp timer 90
+[20:02:42] BanchoBot: Countdown aborted
+[20:02:42] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:02:51] BanchoBot: All players are ready
+[20:02:52] TooNakko: golf
+[20:02:57] BCraftMG: !mp settings
+[20:02:58] BanchoBot: Room name: VOT3: (Hgiang) vs (TooNakko), History: https://osu.ppy.sh/mp/109621376
+[20:02:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/4226033 sasakure.UK - the EmpErroR
+[20:02:58] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:02:58] BanchoBot: Active mods: NoFail
+[20:02:58] BanchoBot: Players: 2
+[20:02:58] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11442899 Hgiang          
+[20:02:58] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/26455059 TooNakko        
+[20:02:59] BCraftMG: !mp start 5 glhf
+[20:03:00] BanchoBot: Countdown aborted
+[20:03:00] BanchoBot: Match starts in 5 seconds
+[20:03:00] BanchoBot: Queued the match to start in 5 seconds
+[20:03:01] BanchoBot: Match starts in 4 seconds
+[20:03:03] BanchoBot: Match starts in 3 seconds
+[20:03:03] BanchoBot: Good luck, have fun!
+[20:03:06] BanchoBot: The match has started!
+[20:05:19] BanchoBot: TooNakko finished playing (Score: 720894, PASSED).
+[20:05:19] BanchoBot: Hgiang finished playing (Score: 761573, PASSED).
+[20:05:19] BanchoBot: The match has finished!
+[20:05:27] TooNakko: nice acc
+[20:05:31] TooNakko: such an acc player
+[20:05:32] BCraftMG: Hgiang | 1 - 0 | TooNakko // Best of 11, Hgiang you have 90 seconds to pick a map
+[20:05:33] BCraftMG: !mp timer 90
+[20:05:34] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:05:36] Hgiang: how do you only have 12 miss
+[20:05:43] TooNakko: i used to only 3 misses
+[20:05:51] TooNakko: :sadge:
+[20:05:57] Hgiang: ez1
+[20:05:58] TooNakko: this one is a choke
+[20:05:58] Hgiang: have fun
+[20:06:06] BanchoBot: Countdown ends in 1 minute
+[20:06:07] TooNakko: ez is mindblock
+[20:06:10] TooNakko: sound harsh
+[20:06:22] BCraftMG: !mp map 2954454 1
+[20:06:24] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2954454 Ikitama - sun and spirit
+[20:06:24] BanchoBot: Changed match mode to Taiko
+[20:06:25] BCraftMG: !mp mods EZ NF
+[20:06:25] BanchoBot: Enabled NoFail, Easy, disabled FreeMod
+[20:06:35] BanchoBot: Countdown ends in 30 seconds
+[20:06:45] BCraftMG: !mp timer 90
+[20:06:45] BanchoBot: Countdown aborted
+[20:06:45] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:07:12] BanchoBot: All players are ready
+[20:07:12] Hgiang: omg ready when
+[20:07:14] TooNakko: ok golf
+[20:07:14] Hgiang: oh
+[20:07:17] BanchoBot: Countdown ends in 1 minute
+[20:07:18] BCraftMG: !mp settings
+[20:07:18] Hgiang: glhf
+[20:07:20] BanchoBot: Room name: VOT3: (Hgiang) vs (TooNakko), History: https://osu.ppy.sh/mp/109621376
+[20:07:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/2954454 Ikitama - sun and spirit
+[20:07:20] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:07:20] BanchoBot: Active mods: NoFail, Easy
+[20:07:20] BanchoBot: Players: 2
+[20:07:20] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11442899 Hgiang          
+[20:07:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/26455059 TooNakko        
+[20:07:21] BCraftMG: !mp start 5 glhf
+[20:07:21] TooNakko: i just change some setting
+[20:07:23] BanchoBot: Countdown aborted
+[20:07:23] BanchoBot: Match starts in 5 seconds
+[20:07:23] BanchoBot: Queued the match to start in 5 seconds
+[20:07:24] BanchoBot: Match starts in 4 seconds
+[20:07:26] BanchoBot: Match starts in 3 seconds
+[20:07:27] BanchoBot: Good luck, have fun!
+[20:07:29] BanchoBot: The match has started!
+[20:10:18] BanchoBot: TooNakko finished playing (Score: 470615, PASSED).
+[20:10:18] BanchoBot: Hgiang finished playing (Score: 469018, PASSED).
+[20:10:18] BanchoBot: The match has finished!
+[20:10:47] TooNakko: I choked at a very single note
+[20:10:48] BCraftMG: Hgiang | 1 - 1 | TooNakko // Best of 11, TooNakko you have 90 seconds to pick a map
+[20:10:50] BCraftMG: !mp timer 90
+[20:10:51] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:11:20] TooNakko: fm1
+[20:11:23] BanchoBot: Countdown ends in 1 minute
+[20:11:50] TooNakko: fm1
+[20:11:53] BanchoBot: Countdown ends in 30 seconds
+[20:11:59] BCraftMG: !mp map 3747418 1
+[20:12:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3747418 Caladborg - invoker
+[20:12:00] BanchoBot: Changed match mode to Taiko
+[20:12:01] BCraftMG: !mp mods FreeMod
+[20:12:02] BanchoBot: Disabled all mods, enabled FreeMod
+[20:12:03] BCraftMG: !mp timer 120
+[20:12:03] BanchoBot: Countdown aborted
+[20:12:03] BanchoBot: Countdown ends in 2 minutes
+[20:12:03] BCraftMG: !mp timer 90
+[20:12:05] BanchoBot: Countdown aborted
+[20:12:05] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:12:09] Hgiang: i havent even play this
+[20:12:26] TooNakko: fm so you need to pick mod
+[20:12:36] BanchoBot: Countdown ends in 1 minute
+[20:12:44] BanchoBot: All players are ready
+[20:12:48] BCraftMG: !mp settings
+[20:12:50] BanchoBot: Room name: VOT3: (Hgiang) vs (TooNakko), History: https://osu.ppy.sh/mp/109621376
+[20:12:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/3747418 Caladborg - invoker
+[20:12:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:12:50] BanchoBot: Active mods: Freemod
+[20:12:50] BanchoBot: Players: 2
+[20:12:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11442899 Hgiang          [NoFail]
+[20:12:50] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/26455059 TooNakko        [NoFail, HardRock]
+[20:12:50] BCraftMG: !mp start 5 glhf
+[20:12:51] BanchoBot: Countdown aborted
+[20:12:51] BanchoBot: Match starts in 5 seconds
+[20:12:51] BanchoBot: Queued the match to start in 5 seconds
+[20:12:53] BanchoBot: Match starts in 4 seconds
+[20:12:54] BanchoBot: Match starts in 3 seconds
+[20:12:54] TooNakko: a mod is compulsory,
+[20:12:54] BanchoBot: Good luck, have fun!
+[20:12:56] TooNakko: what
+[20:12:57] TooNakko: wait
+[20:12:57] BanchoBot: The match has started!
+[20:12:58] BCraftMG: !mp abort
+[20:12:59] BanchoBot: Aborted the match
+[20:13:23] Hgiang: wait what
+[20:13:26] Hgiang: its needed?
+[20:13:27] TooNakko: yes
+[20:13:30] TooNakko: compulsory
+[20:13:34] TooNakko: hr, hd or hdhr
+[20:13:53] Hgiang: havent even play this
+[20:13:58] Hgiang: but alright
+[20:13:58] TooNakko: oh ok
+[20:14:05] BanchoBot: All players are ready
+[20:14:17] TooNakko: golf
+[20:14:36] BCraftMG: !mp settings
+[20:14:37] TooNakko: actually this one is an hr-anti map
+[20:14:37] BanchoBot: Room name: VOT3: (Hgiang) vs (TooNakko), History: https://osu.ppy.sh/mp/109621376
+[20:14:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/3747418 Caladborg - invoker
+[20:14:37] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:14:37] BanchoBot: Active mods: Freemod
+[20:14:37] BanchoBot: Players: 2
+[20:14:37] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11442899 Hgiang          [NoFail, HardRock]
+[20:14:37] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/26455059 TooNakko        [NoFail, HardRock]
+[20:14:38] BCraftMG: !mp start 5 glhf
+[20:14:40] TooNakko: but i cant hd it properly
+[20:14:40] BanchoBot: Match starts in 5 seconds
+[20:14:40] BanchoBot: Queued the match to start in 5 seconds
+[20:14:41] BanchoBot: Match starts in 4 seconds
+[20:14:43] BanchoBot: Match starts in 3 seconds
+[20:14:44] BanchoBot: Good luck, have fun!
+[20:14:46] BanchoBot: The match has started!
+[20:16:58] BanchoBot: TooNakko finished playing (Score: 826902, PASSED).
+[20:16:58] BanchoBot: Hgiang finished playing (Score: 738778, PASSED).
+[20:16:58] BanchoBot: The match has finished!
+[20:17:20] BCraftMG: Hgiang | 1 - 2 | TooNakko // Best of 11, Hgiang you have 90 seconds to pick a map
+[20:17:21] BCraftMG: !mp timer 90
+[20:17:22] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:17:41] Hgiang: nm2
+[20:17:53] BanchoBot: Countdown ends in 1 minute
+[20:18:09] BCraftMG: !mp map 3378065 1
+[20:18:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3378065 Rohi - Slan Leat
+[20:18:11] BanchoBot: Changed match mode to Taiko
+[20:18:13] BCraftMG: !mp mods 1
+[20:18:14] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:18:16] BCraftMG: !mp timer 90
+[20:18:17] BanchoBot: Countdown aborted
+[20:18:17] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:18:47] BanchoBot: Countdown ends in 1 minute
+[20:19:04] BanchoBot: All players are ready
+[20:19:05] TooNakko: golf
+[20:19:08] BCraftMG: !mp settings
+[20:19:08] Hgiang: gold
+[20:19:10] BanchoBot: Room name: VOT3: (Hgiang) vs (TooNakko), History: https://osu.ppy.sh/mp/109621376
+[20:19:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/3378065 Rohi - Slan Leat
+[20:19:10] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:19:10] BanchoBot: Active mods: NoFail
+[20:19:10] BanchoBot: Players: 2
+[20:19:10] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11442899 Hgiang          
+[20:19:10] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/26455059 TooNakko        
+[20:19:11] BCraftMG: !mp start 5 glhf
+[20:19:13] BanchoBot: Countdown aborted
+[20:19:13] BanchoBot: Match starts in 5 seconds
+[20:19:13] BanchoBot: Queued the match to start in 5 seconds
+[20:19:14] BanchoBot: Match starts in 4 seconds
+[20:19:16] BanchoBot: Match starts in 3 seconds
+[20:19:17] BanchoBot: Good luck, have fun!
+[20:19:19] BanchoBot: The match has started!
+[20:21:18] BanchoBot: TooNakko finished playing (Score: 888659, PASSED).
+[20:21:20] BanchoBot: Hgiang finished playing (Score: 988948, PASSED).
+[20:21:20] BanchoBot: The match has finished!
+[20:21:26] TooNakko: nice
+[20:21:31] Hgiang: lol
+[20:21:46] TooNakko: even this is my best score i have ever got, i still cant beaet you
+[20:21:58] Hgiang: i still choked a bit
+[20:22:01] Hgiang: in the middle
+[20:22:15] TooNakko: 6 100x is insane
+[20:22:27] Hgiang: didnt ss smh
+[20:22:52] BCraftMG: Hgiang | 2 - 2 | TooNakko // Best of 11, TooNakko you have 90 seconds to pick a map
+[20:23:12] TooNakko: fm3
+[20:23:14] TooNakko: fm2
+[20:23:29] Hgiang: this dude choosing all the map i havent play :(
+[20:23:40] TooNakko: wut I donno
+[20:23:41] Hgiang: i thought it was freemod not forcemod
+[20:23:44] Hgiang: :skull
+[20:23:54] TooNakko: :skull:
+[20:23:57] TooNakko: fm2 is a HR map
+[20:23:58] TooNakko: dw
+[20:23:59] BCraftMG: í it 3 ỏ 2
+[20:24:00] Hgiang: i could of just play nofail and out acc you
+[20:24:06] Hgiang: there is no 3
+[20:24:07] Hgiang: lol
+[20:24:10] TooNakko: fm2
+[20:24:15] TooNakko: I misstype
+[20:24:16] TooNakko: :skull:
+[20:24:26] BCraftMG: !mp map 3908257 1
+[20:24:27] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3908257 Zenpaku - Blast+ (feat. DEMONDICE)
+[20:24:27] BanchoBot: Changed match mode to Taiko
+[20:24:31] BCraftMG: !mp mods Freemod
+[20:24:33] BanchoBot: Disabled all mods, enabled FreeMod
+[20:24:54] BanchoBot: All players are ready
+[20:25:02] BCraftMG: !mp settings
+[20:25:04] BanchoBot: Room name: VOT3: (Hgiang) vs (TooNakko), History: https://osu.ppy.sh/mp/109621376
+[20:25:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/3908257 Zenpaku - Blast+ (feat. DEMONDICE)
+[20:25:04] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:25:04] BanchoBot: Active mods: Freemod
+[20:25:04] BanchoBot: Players: 2
+[20:25:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11442899 Hgiang          [NoFail, HardRock]
+[20:25:04] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/26455059 TooNakko        [NoFail, HardRock]
+[20:25:06] BCraftMG: !mp start 5 glhf
+[20:25:06] BanchoBot: Match starts in 5 seconds
+[20:25:06] BanchoBot: Queued the match to start in 5 seconds
+[20:25:08] BanchoBot: Match starts in 4 seconds
+[20:25:10] BanchoBot: Match starts in 3 seconds
+[20:25:10] BanchoBot: Good luck, have fun!
+[20:25:13] BanchoBot: The match has started!
+[20:28:00] BanchoBot: TooNakko finished playing (Score: 854563, PASSED).
+[20:28:00] BanchoBot: Hgiang finished playing (Score: 958526, PASSED).
+[20:28:00] BanchoBot: The match has finished!
+[20:28:11] Hgiang: kinda messed up at the start but i got the rhythm in
+[20:28:18] TooNakko: i shouldnt pick this
+[20:28:21] TooNakko: so hard for me to acc
+[20:28:29] BCraftMG: Hgiang | 3 - 2 | TooNakko // Best of 11, Hgiang you have 90 seconds to pick a map
+[20:28:37] Hgiang: nm1
+[20:28:55] BCraftMG: !mp map 3902427 1
+[20:28:56] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3902427 Toccoyaki feat. somunia - China Advice (Llama bootleg remix)
+[20:28:56] BanchoBot: Changed match mode to Taiko
+[20:29:00] BCraftMG: !mp kods 1
+[20:29:05] BCraftMG: !mp mods 1
+[20:29:07] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:29:27] Hgiang: oh wai ni
+[20:29:34] Hgiang: i just realized its chinese
+[20:29:47] BanchoBot: All players are ready
+[20:29:48] TooNakko: yes
+[20:29:48] TooNakko: it is
+[20:29:51] Hgiang: lol
+[20:29:53] Hgiang: the song name
+[20:29:53] TooNakko: golf
+[20:29:56] Hgiang: is literally china advice
+[20:29:57] Hgiang: golf
+[20:30:03] BCraftMG: !mp settings
+[20:30:03] BanchoBot: Room name: VOT3: (Hgiang) vs (TooNakko), History: https://osu.ppy.sh/mp/109621376
+[20:30:03] BanchoBot: Beatmap: https://osu.ppy.sh/b/3902427 Toccoyaki feat. somunia - China Advice (Llama bootleg remix)
+[20:30:03] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:30:03] BanchoBot: Active mods: NoFail
+[20:30:03] BanchoBot: Players: 2
+[20:30:03] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11442899 Hgiang          
+[20:30:03] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/26455059 TooNakko        
+[20:30:05] BCraftMG: !mp start 5 glhf
+[20:30:06] BanchoBot: Match starts in 5 seconds
+[20:30:06] BanchoBot: Queued the match to start in 5 seconds
+[20:30:08] BanchoBot: Match starts in 4 seconds
+[20:30:09] BanchoBot: Match starts in 3 seconds
+[20:30:09] BanchoBot: Good luck, have fun!
+[20:30:12] BanchoBot: The match has started!
+[20:34:12] BanchoBot: TooNakko finished playing (Score: 926005, PASSED).
+[20:34:12] BanchoBot: Hgiang finished playing (Score: 966281, PASSED).
+[20:34:12] BanchoBot: The match has finished!
+[20:34:22] Hgiang: i kinda threw mid match
+[20:34:25] Hgiang: by singletapping :skull
+[20:34:49] BCraftMG: Hgiang | 4 - 2 | TooNakko // Best of 11, TooNakko you have 90 seconds to pick a map
+[20:34:56] TooNakko: i kinda tried my best and this is my best score
+[20:34:58] TooNakko: :skull:
+[20:35:36] TooNakko: dt2
+[20:35:46] Hgiang: ah
+[20:35:52] Hgiang: time to lose
+[20:35:56] BCraftMG: !mp map 2434870 1
+[20:35:57] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2434870 meganeko - Computer Blues
+[20:35:57] BanchoBot: Changed match mode to Taiko
+[20:36:00] BCraftMG: !mp mods 65
+[20:36:00] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[20:36:34] TooNakko: waiut
+[20:36:41] TooNakko: i said dt2
+[20:36:43] TooNakko: this is dt1
+[20:36:44] Hgiang: oh i thought he meant
+[20:36:48] Hgiang: kiritosen
+[20:37:02] BCraftMG: !mp map 1766888 1
+[20:37:03] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1766888 chano & 40mP - Kiritorisen
+[20:37:03] BanchoBot: Changed match mode to Taiko
+[20:37:04] BCraftMG: sorryy
+[20:37:10] Hgiang: ref bad :skull
+[20:37:14] TooNakko: daijoubu
+[20:37:20] BanchoBot: All players are ready
+[20:37:23] TooNakko: golf
+[20:37:26] BCraftMG: !mp settings
+[20:37:27] BanchoBot: Room name: VOT3: (Hgiang) vs (TooNakko), History: https://osu.ppy.sh/mp/109621376
+[20:37:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/1766888 chano & 40mP - Kiritorisen
+[20:37:27] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:37:27] BanchoBot: Active mods: NoFail, DoubleTime
+[20:37:27] BanchoBot: Players: 2
+[20:37:27] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11442899 Hgiang          
+[20:37:27] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/26455059 TooNakko        
+[20:37:27] BCraftMG: !mp start 5 glhf
+[20:37:28] BanchoBot: Match starts in 5 seconds
+[20:37:28] BanchoBot: Queued the match to start in 5 seconds
+[20:37:29] BanchoBot: Match starts in 4 seconds
+[20:37:31] BanchoBot: Match starts in 3 seconds
+[20:37:31] BanchoBot: Good luck, have fun!
+[20:37:34] TooNakko: we may play dt1 later if Hgiang want to throw
+[20:37:34] BanchoBot: The match has started!
+[20:40:15] BanchoBot: TooNakko finished playing (Score: 893225, PASSED).
+[20:40:15] BanchoBot: Hgiang finished playing (Score: 933215, PASSED).
+[20:40:15] BanchoBot: The match has finished!
+[20:40:41] Hgiang: hr1
+[20:40:43] BCraftMG: Hgiang | 5 - 2 | TooNakko // Best of 11, Hgiang you have 90 seconds to pick a map
+[20:40:55] Hgiang: i pick before you ask im one step above fr
+[20:40:59] BCraftMG: !mp map 3838206 1
+[20:40:59] TooNakko: NICE
+[20:40:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3838206 AAAA + Umeboshi Chazuke - Cait Sith
+[20:40:59] BanchoBot: Changed match mode to Taiko
+[20:41:05] BCraftMG: !mp mods 17
+[20:41:06] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[20:41:12] BCraftMG: t dang phai ref dien thoai r
+[20:41:13] BCraftMG: aughh
+[20:41:13] Hgiang: my favorite map
+[20:41:18] Hgiang: lol
+[20:41:18] TooNakko: not mine
+[20:41:20] TooNakko: :sob:
+[20:41:20] Hgiang: red bad
+[20:41:21] TooNakko: this is hard
+[20:41:30] BanchoBot: All players are ready
+[20:41:38] BCraftMG: !mp settings
+[20:41:40] BanchoBot: Room name: VOT3: (Hgiang) vs (TooNakko), History: https://osu.ppy.sh/mp/109621376
+[20:41:40] BanchoBot: Beatmap: https://osu.ppy.sh/b/3838206 AAAA + Umeboshi Chazuke - Cait Sith
+[20:41:40] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:41:40] BanchoBot: Active mods: NoFail, HardRock
+[20:41:40] BanchoBot: Players: 2
+[20:41:40] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11442899 Hgiang          
+[20:41:40] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/26455059 TooNakko        
+[20:41:40] BCraftMG: !mp start 5 glhf
+[20:41:41] BanchoBot: Match starts in 5 seconds
+[20:41:41] BanchoBot: Queued the match to start in 5 seconds
+[20:41:43] BanchoBot: Match starts in 4 seconds
+[20:41:43] TooNakko: gofl
+[20:41:44] BanchoBot: Match starts in 3 seconds
+[20:41:44] BanchoBot: Good luck, have fun!
+[20:41:47] BanchoBot: The match has started!
+[20:45:03] BanchoBot: Hgiang finished playing (Score: 936907, PASSED).
+[20:45:03] BanchoBot: TooNakko finished playing (Score: 950972, PASSED).
+[20:45:03] BanchoBot: The match has finished!
+[20:45:19] TooNakko: HOW
+[20:45:25] TooNakko: i have not ever fc it be4
+[20:45:31] TooNakko: but still, nice acc
+[20:45:33] Hgiang: i always fc this map
+[20:45:36] Hgiang: but i got the funny kb
+[20:45:37] Hgiang: its fine
+[20:45:40] TooNakko: oh
+[20:45:42] TooNakko: kb issues
+[20:45:45] TooNakko: sorry
+[20:45:51] Hgiang: its your turn
+[20:45:54] TooNakko: you know what
+[20:46:02] TooNakko: i always around 85 acc with DT1
+[20:46:13] TooNakko: but i have nothing left
+[20:46:15] TooNakko: dt1 please
+[20:46:22] Hgiang: i havent play dt1
+[20:46:24] Hgiang: but alright
+[20:46:33] TooNakko: dt1
+[20:46:43] BCraftMG: !mp settings
+[20:46:44] BanchoBot: Room name: VOT3: (Hgiang) vs (TooNakko), History: https://osu.ppy.sh/mp/109621376
+[20:46:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/3838206 AAAA + Umeboshi Chazuke - Cait Sith
+[20:46:44] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:46:44] BanchoBot: Active mods: NoFail, HardRock
+[20:46:44] BanchoBot: Players: 2
+[20:46:44] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/11442899 Hgiang          
+[20:46:44] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/26455059 TooNakko        
+[20:47:16] BCraftMG: !mp map 2434870 1
+[20:47:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2434870 meganeko - Computer Blues
+[20:47:17] BanchoBot: Changed match mode to Taiko
+[20:47:22] BCraftMG: !mp mods 65
+[20:47:23] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[20:47:58] BanchoBot: All players are ready
+[20:47:58] TooNakko: golf
+[20:48:38] BCraftMG: !mp settings
+[20:48:39] BanchoBot: Room name: VOT3: (Hgiang) vs (TooNakko), History: https://osu.ppy.sh/mp/109621376
+[20:48:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/2434870 meganeko - Computer Blues
+[20:48:39] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:48:39] BanchoBot: Active mods: NoFail, DoubleTime
+[20:48:39] BanchoBot: Players: 2
+[20:48:39] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11442899 Hgiang          
+[20:48:39] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/26455059 TooNakko        
+[20:48:40] TooNakko: hi
+[20:48:42] BCraftMG: !mp start 5 glhf
+[20:48:43] BanchoBot: Match starts in 5 seconds
+[20:48:43] BanchoBot: Queued the match to start in 5 seconds
+[20:48:45] BanchoBot: Match starts in 4 seconds
+[20:48:46] BanchoBot: Match starts in 3 seconds
+[20:48:46] BanchoBot: Good luck, have fun!
+[20:48:49] BanchoBot: The match has started!
+[20:51:33] BanchoBot: Hgiang finished playing (Score: 822113, PASSED).
+[20:51:33] BanchoBot: TooNakko finished playing (Score: 822661, PASSED).
+[20:51:33] BanchoBot: The match has finished!
+[20:51:42] Hgiang: damn]
+[20:51:53] TooNakko: nice
+[20:51:55] TooNakko: close
+[20:52:01] BCraftMG: Hgiang | 5 - 4 | TooNakko // Best of 11, Hgiang you have 90 seconds to pick a map
+[20:52:02] Hgiang: nm3
+[20:52:17] BCraftMG: !mp map 3019372 1
+[20:52:18] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3019372 Co shu Nie - asphyxia
+[20:52:18] BanchoBot: Changed match mode to Taiko
+[20:52:20] BCraftMG: !mp mods 1
+[20:52:21] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:53:00] BanchoBot: All players are ready
+[20:53:11] Hgiang: i havent play this map much but whatever
+[20:53:13] Hgiang: this map hard
+[20:53:19] TooNakko: i played
+[20:53:21] TooNakko: and 94 acc
+[20:53:22] TooNakko: i mean
+[20:53:24] Hgiang: damn
+[20:53:29] TooNakko: you will get this
+[20:53:29] BCraftMG: !mp settings
+[20:53:30] Hgiang: alright lets start
+[20:53:30] BanchoBot: Room name: VOT3: (Hgiang) vs (TooNakko), History: https://osu.ppy.sh/mp/109621376
+[20:53:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/3019372 Co shu Nie - asphyxia
+[20:53:30] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:53:30] BanchoBot: Active mods: NoFail
+[20:53:30] BanchoBot: Players: 2
+[20:53:30] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11442899 Hgiang          
+[20:53:30] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/26455059 TooNakko        
+[20:53:31] BCraftMG: !mp start 5 glhf
+[20:53:32] BanchoBot: Match starts in 5 seconds
+[20:53:32] BanchoBot: Queued the match to start in 5 seconds
+[20:53:33] TooNakko: thanks for playing
+[20:53:33] BanchoBot: Match starts in 4 seconds
+[20:53:35] BanchoBot: Match starts in 3 seconds
+[20:53:35] BanchoBot: Good luck, have fun!
+[20:53:36] Hgiang: glhf
+[20:53:36] TooNakko: golf
+[20:53:38] BanchoBot: The match has started!
+[20:53:40] Hgiang: golf
+[20:56:42] BanchoBot: TooNakko finished playing (Score: 884020, PASSED).
+[20:56:42] BanchoBot: Hgiang finished playing (Score: 900183, PASSED).
+[20:56:42] BanchoBot: The match has finished!
+[20:57:02] BCraftMG: Congratulations to Hgiang for winning the match! GGWP to both! You are now free to leave :)
+[20:57:08] Hgiang: gg
+[20:57:09] TooNakko: nice play
+[20:57:13] TooNakko: nice acc, again
+[20:57:24] TooNakko: i choked acc at the mono paterns
+[20:57:33] TooNakko: but even if I ss them and win, TB is still a question
+[20:57:36] TooNakko: gg
+[20:57:39] TooNakko: bye
+[20:57:39] BanchoBot: TooNakko left the game.
+[20:57:47] Hgiang: igoing to
+[20:57:49] Hgiang: pay tiebreaker
+[20:57:50] BanchoBot: Hgiang left the game.
+[20:58:31] BCraftMG: !mp close
+[20:58:31] BanchoBot: Closed the match

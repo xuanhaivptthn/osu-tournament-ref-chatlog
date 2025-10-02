@@ -1,0 +1,496 @@
+[21:51:44] Joined #mp_117558276
+[21:51:44] BCraftMG: !mp settings
+[21:51:46] BanchoBot: Room name: PHKC: (Hetzer Corp) vs (Eagle Cement), History: https://osu.ppy.sh/mp/117558276
+[21:51:46] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[21:51:46] BanchoBot: Players: 0
+[21:51:56] BCraftMG: !mp addref Bastaku
+[21:51:57] BanchoBot: User not found: Bastaku
+[21:52:03] BCraftMG: !mp set 2 3 6
+[21:52:04] BanchoBot: Changed match settings to 6 slots, TeamVs, ScoreV2
+[21:53:37] BCraftMG: !mp invite #22690359
+[21:53:38] BanchoBot: Invited Hetzer357 to the room
+[21:53:40] BCraftMG: !mp invite #5315077
+[21:53:41] BanchoBot: Invited vdc to the room
+[21:58:01] BCraftMG: !mp addref Bastaku
+[21:58:02] BanchoBot: Added Bastaku to the match referees
+[21:58:32] BanchoBot: vdc joined in slot 1 for team blue.
+[21:59:27] BCraftMG: hai
+[22:00:16] vdc: yo
+[22:00:59] BanchoBot: Hetzer357 joined in slot 2 for team red.
+[22:01:45] BCraftMG: yey
+[22:02:02] BCraftMG: hetzner red 1-2
+[22:02:06] BCraftMG: eagle blue 3-4
+[22:02:07] BanchoBot: Hetzer357 moved to slot 5
+[22:02:12] BanchoBot: vdc moved to slot 3
+[22:02:14] BCraftMG: i got no warmups so we can start the rolls now
+[22:02:17] BanchoBot: Hetzer357 moved to slot 1
+[22:02:40] Hetzer357: !roll
+[22:02:40] BanchoBot: Hetzer357 rolls 70 point(s)
+[22:03:04] vdc: !roll
+[22:03:04] BanchoBot: vdc rolls 16 point(s)
+[22:03:19] BanchoBot: maxim joined in slot 2 for team red.
+[22:03:44] BCraftMG: hetzner choose pick or protect and ban order
+[22:03:56] Hetzer357: 1st pick
+[22:04:30] BCraftMG: vdc choose prot and ban order
+[22:04:34] vdc: ban 2nd
+[22:04:47] BCraftMG: Hetzer Corp protect
+[22:05:00] BCraftMG: !mp timer 120
+[22:05:01] BanchoBot: Countdown ends in 2 minutes
+[22:05:10] Hetzer357: DT2
+[22:05:19] BCraftMG: Eagle protect
+[22:05:22] BCraftMG: !mp timer 120
+[22:05:23] BanchoBot: Countdown aborted
+[22:05:23] BanchoBot: Countdown ends in 2 minutes
+[22:05:30] vdc: hd1
+[22:05:49] BCraftMG: Hetzner ban
+[22:05:50] BCraftMG: !mp timer 120
+[22:05:51] BanchoBot: Countdown aborted
+[22:05:51] BanchoBot: Countdown ends in 2 minutes
+[22:06:03] BCraftMG: honest question why hetzner but not digitalocean or something else
+[22:06:12] Hetzer357: HD2 ban
+[22:06:31] vdc: hetzer is a tank
+[22:06:36] BCraftMG: vdc ban
+[22:06:37] BCraftMG: !mp timer 120
+[22:06:39] BanchoBot: Countdown aborted
+[22:06:39] BanchoBot: Countdown ends in 2 minutes
+[22:06:46] vdc: nm4
+[22:07:29] BanchoBot: MatalisFanGirl joined in slot 4 for team red.
+[22:07:40] BanchoBot: Countdown ends in 1 minute
+[22:07:51] MatalisFanGirl: good morning
+[22:07:57] vdc: yo
+[22:07:58] BCraftMG: Hetzer Corp | 0 - 0 | Eagle Cement // Best of 9 - Next pick: Hetzer Corp
+[22:07:59] BCraftMG: !mp timer 120
+[22:07:59] Hetzer357: DT3
+[22:08:01] BanchoBot: MatalisFanGirl changed to Blue
+[22:08:01] BanchoBot: Countdown aborted
+[22:08:01] BanchoBot: Countdown ends in 2 minutes
+[22:08:06] BanchoBot: Hetzer357 left the game.
+[22:08:11] BCraftMG: !mp map 1831280 0
+[22:08:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1831280 Culprate, Keota & Sophie Meiers - Mechanic Heartbeat
+[22:08:12] BanchoBot: Changed match mode to Osu
+[22:08:16] BCraftMG: !mp mods 65
+[22:08:16] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[22:08:18] BanchoBot: MatalisFanGirl left the game.
+[22:08:29] vdc: c rank
+[22:08:54] maxim: low acc fc map
+[22:09:01] BanchoBot: MatalisFanGirl joined in slot 1 for team blue.
+[22:09:01] BanchoBot: Countdown ends in 1 minute
+[22:09:04] BanchoBot: MatalisFanGirl moved to slot 4
+[22:09:05] maxim: or 100k
+[22:09:08] maxim: map
+[22:09:13] BanchoBot: Hetzer357 joined in slot 1 for team blue.
+[22:09:22] BanchoBot: Hetzer357 changed to Red
+[22:09:28] BanchoBot: All players are ready
+[22:09:31] BCraftMG: !mp settings
+[22:09:31] maxim: glhf
+[22:09:31] BanchoBot: Countdown ends in 30 seconds
+[22:09:33] vdc: hglffhgl
+[22:09:33] BanchoBot: Room name: PHKC: (Hetzer Corp) vs (Eagle Cement), History: https://osu.ppy.sh/mp/117558276
+[22:09:33] BanchoBot: Beatmap: https://osu.ppy.sh/b/1831280 Culprate, Keota & Sophie Meiers - Mechanic Heartbeat
+[22:09:33] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:09:33] BanchoBot: Active mods: NoFail, DoubleTime
+[22:09:33] BanchoBot: Players: 4
+[22:09:33] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/22690359 Hetzer357       [Team Red ]
+[22:09:33] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9459674 maxim           [Team Red ]
+[22:09:33] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/5315077 vdc             [Team Blue]
+[22:09:33] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/28214037 MatalisFanGirl  [Team Blue]
+[22:09:37] BCraftMG: !mp start 5 glhf!
+[22:09:38] Hetzer357: glhfumo
+[22:09:38] BanchoBot: Countdown aborted
+[22:09:38] BanchoBot: Match starts in 5 seconds
+[22:09:38] BanchoBot: Queued the match to start in 5 seconds
+[22:09:40] BanchoBot: Match starts in 4 seconds
+[22:09:41] BanchoBot: Match starts in 3 seconds
+[22:09:42] BanchoBot: Good luck, have fun!
+[22:09:44] BanchoBot: The match has started!
+[22:12:11] BanchoBot: maxim finished playing (Score: 888861, PASSED).
+[22:12:11] BanchoBot: vdc finished playing (Score: 331793, PASSED).
+[22:12:12] BanchoBot: MatalisFanGirl finished playing (Score: 286922, PASSED).
+[22:12:12] BanchoBot: Hetzer357 finished playing (Score: 260992, PASSED).
+[22:12:12] BanchoBot: The match has finished!
+[22:12:27] vdc: holy 8888
+[22:12:30] vdc: globe telecom
+[22:12:34] maxim: jackpot
+[22:12:35] BCraftMG: Hetzer Corp | 1 - 0 | Eagle Cement // Best of 9 - Next pick: Eagle Cement
+[22:12:36] BCraftMG: !mp timer 120
+[22:12:37] BanchoBot: Countdown ends in 2 minutes
+[22:12:54] MatalisFanGirl: nice score
+[22:12:56] maxim: thx
+[22:13:38] BanchoBot: Countdown ends in 1 minute
+[22:14:07] BanchoBot: Countdown ends in 30 seconds
+[22:14:19] vdc: hd1
+[22:14:26] BanchoBot: Hetzer357 left the game.
+[22:14:28] BanchoBot: Countdown ends in 10 seconds
+[22:14:28] BCraftMG: !mp map 4350139 0
+[22:14:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4350139 Cocteau Twins - Summerhead
+[22:14:29] BanchoBot: Changed match mode to Osu
+[22:14:32] BCraftMG: !mp mods HD NF
+[22:14:33] BanchoBot: Countdown ends in 5 seconds
+[22:14:33] BanchoBot: Countdown ends in 4 seconds
+[22:14:33] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[22:14:33] BCraftMG: !mp timer 120
+[22:14:35] BanchoBot: Countdown ends in 3 seconds
+[22:14:35] BanchoBot: Countdown aborted
+[22:14:35] BanchoBot: Countdown ends in 2 minutes
+[22:14:47] BanchoBot: maxim left the game.
+[22:15:05] BanchoBot: maxim joined in slot 1 for team blue.
+[22:15:24] BanchoBot: Hetzer357 joined in slot 2 for team red.
+[22:15:28] BanchoBot: maxim changed to Red
+[22:15:35] BanchoBot: Countdown ends in 1 minute
+[22:15:40] BanchoBot: All players are ready
+[22:15:41] BCraftMG: !mp settings
+[22:15:43] maxim: glhf
+[22:15:43] BanchoBot: Room name: PHKC: (Hetzer Corp) vs (Eagle Cement), History: https://osu.ppy.sh/mp/117558276
+[22:15:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/4350139 Cocteau Twins - Summerhead
+[22:15:43] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:15:43] BanchoBot: Active mods: NoFail, Hidden
+[22:15:43] BanchoBot: Players: 4
+[22:15:43] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9459674 maxim           [Team Red ]
+[22:15:43] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/22690359 Hetzer357       [Team Red ]
+[22:15:43] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/5315077 vdc             [Team Blue]
+[22:15:43] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/28214037 MatalisFanGirl  [Team Blue]
+[22:15:44] BCraftMG: !mp start 5 glhf!
+[22:15:45] vdc: ghlflfhg
+[22:15:45] BanchoBot: Countdown aborted
+[22:15:45] BanchoBot: Match starts in 5 seconds
+[22:15:45] BanchoBot: Queued the match to start in 5 seconds
+[22:15:47] BanchoBot: Match starts in 4 seconds
+[22:15:48] BanchoBot: Match starts in 3 seconds
+[22:15:49] BanchoBot: Good luck, have fun!
+[22:15:51] BanchoBot: The match has started!
+[22:19:35] BanchoBot: MatalisFanGirl finished playing (Score: 336076, PASSED).
+[22:19:35] BanchoBot: vdc finished playing (Score: 569013, PASSED).
+[22:19:35] BanchoBot: maxim finished playing (Score: 664563, PASSED).
+[22:19:35] BanchoBot: Hetzer357 finished playing (Score: 162530, PASSED).
+[22:19:35] BanchoBot: The match has finished!
+[22:19:49] BCraftMG: Hetzer Corp | 1 - 1 | Eagle Cement // Best of 9 - Next pick: Hetzer Corp
+[22:19:50] BCraftMG: !mp timer 120
+[22:19:52] BanchoBot: Countdown ends in 2 minutes
+[22:20:45] Hetzer357: nm5
+[22:20:53] BanchoBot: Countdown ends in 1 minute
+[22:20:55] BCraftMG: !mp map 2680247 0
+[22:20:56] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2680247 t+pazolite - Tempestissimo
+[22:20:56] BanchoBot: Changed match mode to Osu
+[22:20:58] BCraftMG: !mp mods NF
+[22:20:59] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:21:06] BCraftMG: !mp timer 120
+[22:21:07] BanchoBot: Countdown aborted
+[22:21:07] BanchoBot: Countdown ends in 2 minutes
+[22:21:49] BanchoBot: All players are ready
+[22:21:51] BCraftMG: !mp settings
+[22:21:52] BanchoBot: Room name: PHKC: (Hetzer Corp) vs (Eagle Cement), History: https://osu.ppy.sh/mp/117558276
+[22:21:52] BanchoBot: Beatmap: https://osu.ppy.sh/b/2680247 t+pazolite - Tempestissimo
+[22:21:52] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:21:52] BanchoBot: Active mods: NoFail
+[22:21:52] BanchoBot: Players: 4
+[22:21:52] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9459674 maxim           [Team Red ]
+[22:21:52] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/22690359 Hetzer357       [Team Red ]
+[22:21:52] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/5315077 vdc             [Team Blue]
+[22:21:52] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/28214037 MatalisFanGirl  [Team Blue]
+[22:21:53] maxim: glhf
+[22:21:54] BCraftMG: !mp start 5 glhf!
+[22:21:54] BanchoBot: Countdown aborted
+[22:21:54] BanchoBot: Match starts in 5 seconds
+[22:21:54] BanchoBot: Queued the match to start in 5 seconds
+[22:21:56] vdc: hgflhfgl
+[22:21:56] BanchoBot: Match starts in 4 seconds
+[22:21:57] BanchoBot: Match starts in 3 seconds
+[22:21:59] BanchoBot: Good luck, have fun!
+[22:22:00] BanchoBot: The match has started!
+[22:24:26] BanchoBot: maxim finished playing (Score: 739940, PASSED).
+[22:24:26] BanchoBot: vdc finished playing (Score: 322162, PASSED).
+[22:24:26] BanchoBot: Hetzer357 finished playing (Score: 531538, PASSED).
+[22:24:27] BanchoBot: MatalisFanGirl finished playing (Score: 573381, PASSED).
+[22:24:27] BanchoBot: The match has finished!
+[22:24:43] BCraftMG: Hetzer Corp | 2 - 1 | Eagle Cement // Best of 9 - Next pick: Eagle Cement
+[22:24:45] BCraftMG: !mp timer 120
+[22:24:45] BanchoBot: Countdown ends in 2 minutes
+[22:25:17] vdc: fm2
+[22:25:31] BCraftMG: !mp map 48386 0
+[22:25:32] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/48386 Shiki mixed by Djsmalls - Air
+[22:25:32] BanchoBot: Changed match mode to Osu
+[22:25:35] BCraftMG: !mp mods Freemod
+[22:25:35] BanchoBot: MatalisFanGirl left the game.
+[22:25:35] BanchoBot: Disabled all mods, enabled FreeMod
+[22:25:38] BanchoBot: Hetzer357 left the game.
+[22:25:46] BanchoBot: Countdown ends in 1 minute
+[22:26:16] BanchoBot: Countdown ends in 30 seconds
+[22:26:27] BanchoBot: MatalisFanGirl joined in slot 2 for team red.
+[22:26:29] BanchoBot: Hetzer357 joined in slot 4 for team red.
+[22:26:30] BanchoBot: Hetzer357 moved to slot 5
+[22:26:34] BanchoBot: MatalisFanGirl moved to slot 4
+[22:26:36] BanchoBot: MatalisFanGirl changed to Blue
+[22:26:36] BanchoBot: Countdown ends in 10 seconds
+[22:26:36] BanchoBot: Hetzer357 moved to slot 2
+[22:26:40] BanchoBot: All players are ready
+[22:26:41] BanchoBot: Countdown ends in 5 seconds
+[22:26:41] BanchoBot: Countdown ends in 4 seconds
+[22:26:42] BCraftMG: !mp settings
+[22:26:43] maxim: glhf
+[22:26:43] BanchoBot: Countdown ends in 3 seconds
+[22:26:43] vdc: gfhllhgf
+[22:26:43] BanchoBot: Room name: PHKC: (Hetzer Corp) vs (Eagle Cement), History: https://osu.ppy.sh/mp/117558276
+[22:26:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/48386 Shiki mixed by Djsmalls - Air
+[22:26:43] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:26:43] BanchoBot: Active mods: Freemod
+[22:26:43] BanchoBot: Players: 4
+[22:26:43] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9459674 maxim           [Team Red  / NoFail, Hidden]
+[22:26:43] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/22690359 Hetzer357       [Team Red  / NoFail, HardRock]
+[22:26:43] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/5315077 vdc             [Team Blue / NoFail, Hidden]
+[22:26:43] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/28214037 MatalisFanGirl  [Team Blue / NoFail, HardRock]
+[22:26:44] BanchoBot: Countdown ends in 2 seconds
+[22:26:45] BanchoBot: Countdown ends in 1 second
+[22:26:45] BanchoBot: Countdown finished
+[22:26:48] BCraftMG: !mp start 5 glhf!
+[22:26:48] BanchoBot: Match starts in 5 seconds
+[22:26:48] BanchoBot: Queued the match to start in 5 seconds
+[22:26:50] BanchoBot: Match starts in 4 seconds
+[22:26:51] BanchoBot: Match starts in 3 seconds
+[22:26:52] BanchoBot: Good luck, have fun!
+[22:26:54] BanchoBot: The match has started!
+[22:29:29] BanchoBot: Hetzer357 finished playing (Score: 709056, PASSED).
+[22:29:29] BanchoBot: MatalisFanGirl finished playing (Score: 507180, PASSED).
+[22:29:29] BanchoBot: vdc finished playing (Score: 411075, PASSED).
+[22:29:29] BanchoBot: maxim finished playing (Score: 172560, PASSED).
+[22:29:29] BanchoBot: The match has finished!
+[22:29:33] Hetzer357: zxczxczxczxczxczxczxczxczxzxczxczxczxczxczxczxzxzxzxczxczxczxczxczxSFSDFSDJFHSDJKFHKSD
+[22:29:35] Hetzer357: I GOT NERVOUS
+[22:29:44] vdc: i lagged
+[22:29:46] BCraftMG: Hetzer Corp | 2 - 2 | Eagle Cement // Best of 9 - Next pick: Hetzer Corp
+[22:29:48] BCraftMG: !mp timer 120
+[22:29:50] BanchoBot: Countdown ends in 2 minutes
+[22:30:02] Hetzer357: DT2
+[22:30:17] BCraftMG: !mp map 344619 0
+[22:30:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/344619 Akiyama Uni - The Grimoire of Alice
+[22:30:17] BanchoBot: Changed match mode to Osu
+[22:30:20] BCraftMG: !mp mods DT NF
+[22:30:21] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[22:30:27] BCraftMG: !mp timer 120
+[22:30:28] BanchoBot: Countdown aborted
+[22:30:28] BanchoBot: Countdown ends in 2 minutes
+[22:30:54] BanchoBot: All players are ready
+[22:30:57] BCraftMG: !mp settings
+[22:30:58] BanchoBot: Room name: PHKC: (Hetzer Corp) vs (Eagle Cement), History: https://osu.ppy.sh/mp/117558276
+[22:30:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/344619 Akiyama Uni - The Grimoire of Alice
+[22:30:58] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:30:58] BanchoBot: Active mods: NoFail, DoubleTime
+[22:30:58] BanchoBot: Players: 4
+[22:30:58] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9459674 maxim           [Team Red ]
+[22:30:58] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/22690359 Hetzer357       [Team Red ]
+[22:30:58] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/5315077 vdc             [Team Blue]
+[22:30:58] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/28214037 MatalisFanGirl  [Team Blue]
+[22:30:59] BCraftMG: !mp start 5 glhf!
+[22:31:00] maxim: glhf
+[22:31:00] BanchoBot: Countdown aborted
+[22:31:00] BanchoBot: Match starts in 5 seconds
+[22:31:00] BanchoBot: Queued the match to start in 5 seconds
+[22:31:02] vdc: fghllfhg
+[22:31:02] BanchoBot: Match starts in 4 seconds
+[22:31:03] BanchoBot: Match starts in 3 seconds
+[22:31:05] BanchoBot: Good luck, have fun!
+[22:31:06] BanchoBot: The match has started!
+[22:33:16] BanchoBot: vdc finished playing (Score: 385973, PASSED).
+[22:33:18] BanchoBot: Hetzer357 finished playing (Score: 522377, PASSED).
+[22:33:18] BanchoBot: maxim finished playing (Score: 1155586, PASSED).
+[22:33:19] BanchoBot: MatalisFanGirl finished playing (Score: 582692, PASSED).
+[22:33:19] BanchoBot: The match has finished!
+[22:33:26] Hetzer357: damn ok nice fc
+[22:33:27] MatalisFanGirl: nice fc
+[22:33:29] vdc: nice fc
+[22:33:31] BCraftMG: Hetzer Corp | 3 - 2 | Eagle Cement // Best of 9 - Next pick: Eagle Cement
+[22:33:32] BCraftMG: !mp timer 120
+[22:33:33] maxim: thanks
+[22:33:33] BanchoBot: Countdown ends in 2 minutes
+[22:34:34] BanchoBot: Countdown ends in 1 minute
+[22:34:57] vdc: nm3
+[22:35:04] BanchoBot: Countdown ends in 30 seconds
+[22:35:04] BanchoBot: Hetzer357 left the game.
+[22:35:17] BCraftMG: !mp map 4341537 0
+[22:35:18] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4341537 petit milady - Koi wa Milk Tea
+[22:35:18] BanchoBot: Changed match mode to Osu
+[22:35:20] BCraftMG: !mp mods NF
+[22:35:21] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:35:23] BanchoBot: Countdown ends in 10 seconds
+[22:35:29] BanchoBot: Countdown ends in 5 seconds
+[22:35:30] BanchoBot: Countdown ends in 4 seconds
+[22:35:30] BanchoBot: Countdown ends in 3 seconds
+[22:35:32] BanchoBot: Countdown ends in 2 seconds
+[22:35:33] BanchoBot: Countdown ends in 1 second
+[22:35:33] BanchoBot: Countdown finished
+[22:35:36] BCraftMG: !mp timer 120
+[22:35:37] BanchoBot: Countdown ends in 2 minutes
+[22:35:55] BanchoBot: Hetzer357 joined in slot 2 for team red.
+[22:36:02] BanchoBot: All players are ready
+[22:36:05] BCraftMG: !mp settings
+[22:36:05] maxim: glhf
+[22:36:06] BanchoBot: Room name: PHKC: (Hetzer Corp) vs (Eagle Cement), History: https://osu.ppy.sh/mp/117558276
+[22:36:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/4341537 petit milady - Koi wa Milk Tea
+[22:36:06] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:36:06] BanchoBot: Active mods: NoFail
+[22:36:06] BanchoBot: Players: 4
+[22:36:06] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9459674 maxim           [Team Red ]
+[22:36:06] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/22690359 Hetzer357       [Team Red ]
+[22:36:06] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/5315077 vdc             [Team Blue]
+[22:36:06] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/28214037 MatalisFanGirl  [Team Blue]
+[22:36:07] BCraftMG: !mp start 5 glhf!
+[22:36:08] BanchoBot: Countdown aborted
+[22:36:08] BanchoBot: Match starts in 5 seconds
+[22:36:08] BanchoBot: Queued the match to start in 5 seconds
+[22:36:09] vdc: hgflfghl
+[22:36:09] BanchoBot: Match starts in 4 seconds
+[22:36:10] MatalisFanGirl: gl
+[22:36:10] BanchoBot: Match starts in 3 seconds
+[22:36:12] BanchoBot: Good luck, have fun!
+[22:36:13] BanchoBot: The match has started!
+[22:39:43] BanchoBot: maxim finished playing (Score: 490975, PASSED).
+[22:39:43] BanchoBot: MatalisFanGirl finished playing (Score: 459755, PASSED).
+[22:39:44] BanchoBot: Hetzer357 finished playing (Score: 491515, PASSED).
+[22:39:44] BanchoBot: vdc finished playing (Score: 734582, PASSED).
+[22:39:44] BanchoBot: The match has finished!
+[22:39:58] maxim: song that might play when you fight sans
+[22:39:59] BCraftMG: Hetzer Corp | 3 - 3 | Eagle Cement // Best of 9 - Next pick: Hetzer Corp
+[22:39:59] maxim: nice score
+[22:40:00] BCraftMG: !mp timer 120
+[22:40:01] BanchoBot: Countdown ends in 2 minutes
+[22:40:02] Hetzer357: DT1
+[22:40:03] vdc: thanks
+[22:40:20] BCraftMG: !mp map 648129 0
+[22:40:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/648129 senya - Akatsuki no Suiheisen ni
+[22:40:20] BanchoBot: Changed match mode to Osu
+[22:40:23] BCraftMG: !mp mods DT NF
+[22:40:24] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[22:40:26] BCraftMG: !mp timer 120
+[22:40:27] BanchoBot: Countdown aborted
+[22:40:27] BanchoBot: Countdown ends in 2 minutes
+[22:40:42] BanchoBot: All players are ready
+[22:40:44] BCraftMG: !mp settings
+[22:40:45] BanchoBot: Room name: PHKC: (Hetzer Corp) vs (Eagle Cement), History: https://osu.ppy.sh/mp/117558276
+[22:40:45] BanchoBot: Beatmap: https://osu.ppy.sh/b/648129 senya - Akatsuki no Suiheisen ni
+[22:40:45] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:40:45] BanchoBot: Active mods: NoFail, DoubleTime
+[22:40:45] BanchoBot: Players: 4
+[22:40:45] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9459674 maxim           [Team Red ]
+[22:40:45] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/22690359 Hetzer357       [Team Red ]
+[22:40:45] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/5315077 vdc             [Team Blue]
+[22:40:45] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/28214037 MatalisFanGirl  [Team Blue]
+[22:40:45] BCraftMG: !mp start 5 glhf!
+[22:40:46] vdc: gfhlfhgl
+[22:40:46] BanchoBot: Countdown aborted
+[22:40:46] BanchoBot: Match starts in 5 seconds
+[22:40:46] BanchoBot: Queued the match to start in 5 seconds
+[22:40:47] BanchoBot: Match starts in 4 seconds
+[22:40:49] BanchoBot: Match starts in 3 seconds
+[22:40:50] BanchoBot: Good luck, have fun!
+[22:40:51] BanchoBot: The match has started!
+[22:43:09] BanchoBot: MatalisFanGirl finished playing (Score: 674351, PASSED).
+[22:43:09] BanchoBot: vdc finished playing (Score: 743077, PASSED).
+[22:43:10] BanchoBot: maxim finished playing (Score: 1217788, PASSED).
+[22:43:10] BanchoBot: Hetzer357 finished playing (Score: 517769, PASSED).
+[22:43:10] BanchoBot: The match has finished!
+[22:43:19] MatalisFanGirl: WHAT>
+[22:43:19] Hetzer357: SS ?
+[22:43:22] MatalisFanGirl: nice s
+[22:43:22] Hetzer357: BWUH
+[22:43:24] BCraftMG: Hetzer Corp | 4 - 3 | Eagle Cement // Best of 9 - Next pick: Eagle Cement
+[22:43:26] BCraftMG: !mp timer 120
+[22:43:26] vdc: what the
+[22:43:26] BanchoBot: Countdown ends in 2 minutes
+[22:43:29] maxim: thanks
+[22:43:33] BCraftMG: wtf?
+[22:44:16] Hetzer357: oh god we might have to play welcome to the black parade
+[22:44:24] vdc: fm1
+[22:44:27] BanchoBot: Countdown ends in 1 minute
+[22:44:32] BCraftMG: !mp map 228679 0
+[22:44:32] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/228679 kano - Houkago Stride
+[22:44:32] BanchoBot: Changed match mode to Osu
+[22:44:35] BCraftMG: !mp mods Freemod
+[22:44:36] BanchoBot: Disabled all mods, enabled FreeMod
+[22:44:37] BCraftMG: !mp timer 120
+[22:44:38] MatalisFanGirl: i hope so
+[22:44:38] BanchoBot: Countdown aborted
+[22:44:38] BanchoBot: Countdown ends in 2 minutes
+[22:44:41] MatalisFanGirl: that would be fire
+[22:44:54] BanchoBot: MatalisFanGirl left the game.
+[22:45:01] BanchoBot: MatalisFanGirl joined in slot 4 for team red.
+[22:45:15] BanchoBot: MatalisFanGirl changed to Blue
+[22:45:21] maxim: song that might play when you welcome the black parade
+[22:45:22] BanchoBot: All players are ready
+[22:45:28] vdc: hlfgfhgl
+[22:45:28] BCraftMG: !mp settings
+[22:45:29] BanchoBot: Room name: PHKC: (Hetzer Corp) vs (Eagle Cement), History: https://osu.ppy.sh/mp/117558276
+[22:45:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/228679 kano - Houkago Stride
+[22:45:29] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:45:29] BanchoBot: Active mods: Freemod
+[22:45:29] BanchoBot: Players: 4
+[22:45:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9459674 maxim           [Team Red  / NoFail, Hidden]
+[22:45:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/22690359 Hetzer357       [Team Red  / NoFail, HardRock]
+[22:45:29] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/5315077 vdc             [Team Blue / NoFail, Hidden, HardRock]
+[22:45:29] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/28214037 MatalisFanGirl  [Team Blue / NoFail, Hidden]
+[22:45:31] BCraftMG: !mp start 5 glhf!
+[22:45:32] maxim: glhf
+[22:45:32] BanchoBot: Countdown aborted
+[22:45:32] BanchoBot: Match starts in 5 seconds
+[22:45:32] BanchoBot: Queued the match to start in 5 seconds
+[22:45:33] BanchoBot: Match starts in 4 seconds
+[22:45:35] BanchoBot: Match starts in 3 seconds
+[22:45:36] BanchoBot: Good luck, have fun!
+[22:45:37] BanchoBot: The match has started!
+[22:49:24] BanchoBot: vdc finished playing (Score: 535126, PASSED).
+[22:49:24] BanchoBot: MatalisFanGirl finished playing (Score: 484682, PASSED).
+[22:49:24] BanchoBot: Hetzer357 finished playing (Score: 293640, PASSED).
+[22:49:25] BanchoBot: maxim finished playing (Score: 502596, PASSED).
+[22:49:25] BanchoBot: The match has finished!
+[22:49:30] MatalisFanGirl: TB
+[22:49:41] Hetzer357: never change your pen nibs mid match worst mistake of my life
+[22:49:42] BCraftMG: !mp map 3351879 0
+[22:49:42] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3351879 My Chemical Romance - Welcome To The Black Parade
+[22:49:42] BanchoBot: Changed match mode to Osu
+[22:49:45] BCraftMG: !mp mods Freemod
+[22:49:46] BanchoBot: Disabled all mods, enabled FreeMod
+[22:50:52] BanchoBot: All players are ready
+[22:50:52] Hetzer357: glhfumo
+[22:50:56] BCraftMG: !mp settings
+[22:50:56] vdc: lfghgflhfhgl
+[22:50:56] MatalisFanGirl: GL
+[22:50:56] maxim: glhf
+[22:50:58] BanchoBot: Room name: PHKC: (Hetzer Corp) vs (Eagle Cement), History: https://osu.ppy.sh/mp/117558276
+[22:50:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/3351879 My Chemical Romance - Welcome To The Black Parade
+[22:50:58] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:50:58] BanchoBot: Active mods: Freemod
+[22:50:58] BanchoBot: Players: 4
+[22:50:58] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9459674 maxim           [Team Red  / NoFail]
+[22:50:58] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/22690359 Hetzer357       [Team Red  / NoFail]
+[22:50:58] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/5315077 vdc             [Team Blue / NoFail, Hidden]
+[22:50:58] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/28214037 MatalisFanGirl  [Team Blue / NoFail, Hidden]
+[22:51:00] BCraftMG: !mp start 5 glhf!
+[22:51:01] BanchoBot: Match starts in 5 seconds
+[22:51:01] BanchoBot: Queued the match to start in 5 seconds
+[22:51:02] BanchoBot: Match starts in 4 seconds
+[22:51:03] BanchoBot: Match starts in 3 seconds
+[22:51:05] BanchoBot: Good luck, have fun!
+[22:51:06] BanchoBot: The match has started!
+[22:56:01] BanchoBot: MatalisFanGirl finished playing (Score: 197536, PASSED).
+[22:56:01] BanchoBot: Hetzer357 finished playing (Score: 323774, PASSED).
+[22:56:01] BanchoBot: vdc finished playing (Score: 316547, PASSED).
+[22:56:01] BanchoBot: maxim finished playing (Score: 725260, PASSED).
+[22:56:01] BanchoBot: The match has finished!
+[22:56:11] Hetzer357: gg
+[22:56:11] maxim: gg
+[22:56:19] vdc: gg !
+[22:56:22] vdc: thanks for game
+[22:56:22] MatalisFanGirl: gg
+[22:56:22] BCraftMG: Hetzer Corp | 5 - 4 | Eagle Cement // Congratulations Hetzer Corp for winning the match! GGWP!
+[22:56:23] MatalisFanGirl: aim gapped
+[22:56:23] maxim: thanks for match
+[22:56:26] maxim: thanks for ref
+[22:56:26] MatalisFanGirl: thx for ref
+[22:56:27] BanchoBot: MatalisFanGirl left the game.
+[22:56:30] maxim: o/
+[22:56:35] BanchoBot: maxim left the game.
+[22:56:42] vdc: thanks for ref and stream
+[22:56:45] vdc: bye
+[22:56:45] BanchoBot: vdc left the game.
+[22:56:45] Hetzer357: ty for ref and stream
+[22:56:48] BanchoBot: Hetzer357 left the game.
+[23:01:14] BCraftMG: !mp  close
+[23:01:14] BanchoBot: Closed the match

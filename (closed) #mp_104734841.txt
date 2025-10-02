@@ -1,0 +1,514 @@
+[02:22:15] Joined #mp_104734841
+[02:22:15] DaddyStage: !mp settings
+[02:22:15] BanchoBot: Room name: SMB: (balddumii) vs (widepeepoHappy), History: https://osu.ppy.sh/mp/104734841
+[02:22:15] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[02:22:15] BanchoBot: Players: 0
+[02:22:40] DaddyStage: !mp addref GRR_SNARL_GROWL
+[02:22:41] BanchoBot: Added GRR_SNARL_GROWL to the match referees
+[02:22:55] DaddyStage: !mp set 2 3 7
+[02:22:56] BanchoBot: Changed match settings to 7 slots, TeamVs, ScoreV2
+[02:23:54] DaddyStage: !mp invite #2848604
+[02:23:54] BanchoBot: Invited toybot to the room
+[02:23:57] DaddyStage: !mp invite #13207763
+[02:23:58] BanchoBot: Invited Flameztear to the room
+[02:23:59] DaddyStage: !mp invite #8861593
+[02:24:00] BanchoBot: User not found
+[02:27:50] DaddyStage: !mp invite #13207763
+[02:27:51] BanchoBot: Invited Flameztear to the room
+[02:27:54] DaddyStage: !mp invite #2848604
+[02:27:54] BanchoBot: Invited toybot to the room
+[02:28:16] BanchoBot: Flameztear joined in slot 1 for team blue.
+[02:28:31] DaddyStage: !mp invite #2848604
+[02:28:33] BanchoBot: Invited toybot to the room
+[02:29:04] BanchoBot: Karomi joined in slot 2 for team red.
+[02:29:19] DaddyStage: !mp invite #2848604
+[02:29:20] BanchoBot: Invited toybot to the room
+[02:29:27] DaddyStage: i swear if bancho go funny on me again
+[02:29:48] Flameztear: venpris gone again :doomed:
+[02:30:10] DaddyStage: !mp invite #12133744
+[02:30:10] BanchoBot: Invited Warpscon to the room
+[02:30:12] DaddyStage: !mp invite #10651106
+[02:30:12] BanchoBot: Invited rhythm game to the room
+[02:30:14] DaddyStage: !mp invite #2848604
+[02:30:14] BanchoBot: Invited toybot to the room
+[02:30:50] BanchoBot: toybot joined in slot 3 for team blue.
+[02:31:03] DaddyStage: okay helo
+[02:31:05] Flameztear: toyboy
+[02:31:15] DaddyStage: balddumii on red 1-2
+[02:31:17] BanchoBot: Flameztear changed to Red
+[02:31:19] toybot: what up
+[02:31:19] BanchoBot: Flameztear changed to Blue
+[02:31:21] BanchoBot: toybot moved to slot 5
+[02:31:22] DaddyStage: widepeepohappy blue 3-4
+[02:31:24] BanchoBot: Flameztear moved to slot 3
+[02:31:26] BanchoBot: toybot moved to slot 1
+[02:31:28] BanchoBot: toybot changed to Red
+[02:31:39] BanchoBot: Karomi moved to slot 4
+[02:31:41] BanchoBot: Karomi changed to Blue
+[02:32:07] BanchoBot: rhythm game joined in slot 2 for team red.
+[02:32:09] DaddyStage: can we start the rolls?
+[02:32:16] Flameztear: !roll
+[02:32:16] BanchoBot: Flameztear rolls 100 point(s)
+[02:32:19] toybot: !roll
+[02:32:19] BanchoBot: toybot rolls 46 point(s)
+[02:32:29] rhythm_game: oh
+[02:32:29] DaddyStage: wooh
+[02:32:30] rhythm_game: ok
+[02:32:30] rhythm_game: thanks
+[02:32:33] DaddyStage: Winner chooses pick or ban order, first ban=second protect
+[02:32:35] toybot: epic
+[02:33:14] Flameztear: first pick
+[02:34:10] toybot: we pick ban?
+[02:34:20] DaddyStage: !mp settings
+[02:34:21] BanchoBot: Room name: SMB: (balddumii) vs (widepeepoHappy), History: https://osu.ppy.sh/mp/104734841
+[02:34:21] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:34:21] BanchoBot: Players: 4
+[02:34:21] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/2848604 toybot          [Team Red ]
+[02:34:21] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/10651106 rhythm game     [Team Red ]
+[02:34:21] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/13207763 Flameztear      [Team Blue]
+[02:34:21] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/9331403 Karomi          [Team Blue]
+[02:34:23] DaddyStage: whoops
+[02:34:31] DaddyStage: ok i got the first pick tho
+[02:34:46] DaddyStage: toybot choose ban order
+[02:35:02] toybot: both protect then both ban right
+[02:35:07] toybot: making sure
+[02:35:24] DaddyStage: yes.?
+[02:35:27] DaddyStage: yes
+[02:35:37] toybot: k
+[02:35:41] toybot: first ban
+[02:36:04] DaddyStage: widepeepohappy protect
+[02:36:05] DaddyStage: !mp timer 90
+[02:36:06] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[02:36:16] Flameztear: aim
+[02:36:36] BanchoBot: Countdown ends in 1 minute
+[02:36:42] DaddyStage: balddumii protect
+[02:36:44] DaddyStage: !mp timer 90
+[02:36:45] BanchoBot: Countdown aborted
+[02:36:45] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[02:37:15] BanchoBot: Countdown ends in 1 minute
+[02:37:19] BanchoBot: rhythm game left the game.
+[02:37:22] toybot: control
+[02:37:42] DaddyStage: now to bans
+[02:37:46] BanchoBot: Countdown ends in 30 seconds
+[02:37:46] DaddyStage: balddumii ban first
+[02:37:47] DaddyStage: !mp timer 90
+[02:37:48] BanchoBot: Countdown aborted
+[02:37:48] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[02:38:18] BanchoBot: Countdown ends in 1 minute
+[02:38:37] toybot: and then ban tech
+[02:38:48] BanchoBot: Countdown ends in 30 seconds
+[02:39:04] DaddyStage: widepeepohappy ban
+[02:39:05] DaddyStage: !mp timer 90
+[02:39:06] BanchoBot: Countdown aborted
+[02:39:06] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[02:39:07] Flameztear: ban reading
+[02:39:25] DaddyStage: balddumii | 0 - 0 | widepeepoHappy // First Pick: widepeepoHappy
+[02:39:28] DaddyStage: !mp timer 90
+[02:39:29] BanchoBot: Countdown aborted
+[02:39:29] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[02:39:59] BanchoBot: Countdown ends in 1 minute
+[02:40:02] Flameztear: a1
+[02:40:13] DaddyStage: !mp map 2808923 0
+[02:40:13] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2808923 Kuribayashi Minami - Zankoku na Yume to Nemure
+[02:40:13] BanchoBot: Changed match mode to Osu
+[02:40:16] DaddyStage: !mp mods 1
+[02:40:17] BanchoBot: Enabled NoFail, disabled FreeMod
+[02:40:18] DaddyStage: !mp timer 90
+[02:40:20] BanchoBot: Countdown aborted
+[02:40:20] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[02:40:48] BanchoBot: rhythm game joined in slot 2 for team red.
+[02:40:50] BanchoBot: Countdown ends in 1 minute
+[02:40:55] Karomi: toybot mutual? :3
+[02:41:01] Flameztear: glhf
+[02:41:04] toybot: uhhhhhhhh
+[02:41:05] Karomi: glhf
+[02:41:06] toybot: xdd
+[02:41:07] BanchoBot: All players are ready
+[02:41:08] toybot: glhf
+[02:41:09] rhythm_game: glhf
+[02:41:09] DaddyStage: !mp settings
+[02:41:10] BanchoBot: Room name: SMB: (balddumii) vs (widepeepoHappy), History: https://osu.ppy.sh/mp/104734841
+[02:41:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/2808923 Kuribayashi Minami - Zankoku na Yume to Nemure
+[02:41:10] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:41:10] BanchoBot: Active mods: NoFail
+[02:41:10] BanchoBot: Players: 4
+[02:41:10] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/2848604 toybot          [Team Red ]
+[02:41:10] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10651106 rhythm game     [Team Red ]
+[02:41:10] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13207763 Flameztear      [Team Blue]
+[02:41:10] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9331403 Karomi          [Team Blue]
+[02:41:14] DaddyStage: !mp start 5 glhf
+[02:41:14] BanchoBot: Countdown aborted
+[02:41:14] BanchoBot: Match starts in 5 seconds
+[02:41:14] BanchoBot: Queued the match to start in 5 seconds
+[02:41:15] BanchoBot: Match starts in 4 seconds
+[02:41:17] BanchoBot: Match starts in 3 seconds
+[02:41:18] BanchoBot: Good luck, have fun!
+[02:41:20] BanchoBot: The match has started!
+[02:45:48] BanchoBot: Flameztear finished playing (Score: 443615, PASSED).
+[02:45:48] BanchoBot: Karomi finished playing (Score: 420068, PASSED).
+[02:45:48] BanchoBot: toybot finished playing (Score: 682283, PASSED).
+[02:45:49] BanchoBot: rhythm game finished playing (Score: 484762, PASSED).
+[02:45:49] BanchoBot: The match has finished!
+[02:45:54] DaddyStage: balddumii | 1 - 0 | widepeepoHappy // Next Pick: balddumii
+[02:45:59] DaddyStage: !mp timer 90
+[02:46:00] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[02:46:30] BanchoBot: Countdown ends in 1 minute
+[02:47:01] BanchoBot: Countdown ends in 30 seconds
+[02:47:12] DaddyStage: !!!
+[02:47:12] toybot: rhythm 3
+[02:47:15] BanchoBot: rhythm game left the game.
+[02:47:21] BanchoBot: Countdown ends in 10 seconds
+[02:47:24] DaddyStage: !mp map 2631202 0
+[02:47:24] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2631202 Silentroom - Alt Futur
+[02:47:24] BanchoBot: Changed match mode to Osu
+[02:47:25] BanchoBot: Countdown ends in 5 seconds
+[02:47:26] BanchoBot: Countdown ends in 4 seconds
+[02:47:27] DaddyStage: !mp mods 1 freemod
+[02:47:27] BanchoBot: Countdown ends in 3 seconds
+[02:47:27] BanchoBot: Disabled all mods, enabled FreeMod
+[02:47:28] BanchoBot: Countdown ends in 2 seconds
+[02:47:30] BanchoBot: Countdown ends in 1 second
+[02:47:31] BanchoBot: Countdown finished
+[02:47:31] DaddyStage: !mp timer 90
+[02:47:32] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[02:47:35] BanchoBot: toybot left the game.
+[02:48:03] BanchoBot: Countdown ends in 1 minute
+[02:48:18] BanchoBot: toybot joined in slot 1 for team blue.
+[02:48:19] BanchoBot: toybot changed to Red
+[02:48:28] BanchoBot: rhythm game joined in slot 2 for team red.
+[02:48:33] BanchoBot: Countdown ends in 30 seconds
+[02:48:47] Flameztear: texan who can read vs texan who can't read
+[02:48:49] Flameztear: scp939
+[02:48:52] BanchoBot: Countdown ends in 10 seconds
+[02:48:57] BanchoBot: Countdown ends in 5 seconds
+[02:48:57] BanchoBot: All players are ready
+[02:48:58] BanchoBot: Countdown ends in 4 seconds
+[02:48:59] BanchoBot: Countdown ends in 3 seconds
+[02:49:00] rhythm_game: glhf
+[02:49:00] BanchoBot: Countdown ends in 2 seconds
+[02:49:01] BanchoBot: Countdown ends in 1 second
+[02:49:03] BanchoBot: Countdown finished
+[02:49:03] toybot: sightread its fine xd
+[02:49:04] Flameztear: glhf
+[02:49:04] toybot: glhf
+[02:49:05] DaddyStage: !mp settings
+[02:49:07] BanchoBot: Room name: SMB: (balddumii) vs (widepeepoHappy), History: https://osu.ppy.sh/mp/104734841
+[02:49:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/2631202 Silentroom - Alt Futur
+[02:49:07] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:49:07] BanchoBot: Active mods: Freemod
+[02:49:07] BanchoBot: Players: 4
+[02:49:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/2848604 toybot          [Team Red  / NoFail, Hidden]
+[02:49:07] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10651106 rhythm game     [Team Red  / NoFail, HardRock]
+[02:49:07] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13207763 Flameztear      [Team Blue / NoFail, Hidden]
+[02:49:07] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9331403 Karomi          [Team Blue / NoFail, HardRock]
+[02:49:12] DaddyStage: !mp start 5 glhf
+[02:49:12] BanchoBot: Match starts in 5 seconds
+[02:49:12] BanchoBot: Queued the match to start in 5 seconds
+[02:49:13] BanchoBot: Match starts in 4 seconds
+[02:49:14] BanchoBot: Match starts in 3 seconds
+[02:49:15] BanchoBot: Good luck, have fun!
+[02:49:18] BanchoBot: The match has started!
+[02:51:25] BanchoBot: toybot finished playing (Score: 490650, PASSED).
+[02:51:25] BanchoBot: Karomi finished playing (Score: 267421, PASSED).
+[02:51:25] BanchoBot: rhythm game finished playing (Score: 878721, PASSED).
+[02:51:25] BanchoBot: Flameztear finished playing (Score: 121813, PASSED).
+[02:51:25] BanchoBot: The match has finished!
+[02:51:28] DaddyStage: balddumii | 2 - 0 | widepeepoHappy // Next Pick: widepeepoHappy
+[02:51:31] DaddyStage: !mp timer 90
+[02:51:32] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[02:51:44] Flameztear: s3
+[02:52:03] BanchoBot: Countdown ends in 1 minute
+[02:52:24] DaddyStage: !mp map 3227634 0
+[02:52:25] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3227634 Xi - Densetsu no Sabori Gami ~ Make a quick escape
+[02:52:25] BanchoBot: Changed match mode to Osu
+[02:52:30] DaddyStage: !mp mods Freemod
+[02:52:31] BanchoBot: Disabled all mods, enabled FreeMod
+[02:52:33] BanchoBot: Countdown ends in 30 seconds
+[02:52:53] BanchoBot: Countdown ends in 10 seconds
+[02:52:56] BanchoBot: All players are ready
+[02:52:56] Flameztear: glhf
+[02:52:58] BanchoBot: Countdown ends in 5 seconds
+[02:52:59] BanchoBot: Countdown ends in 4 seconds
+[02:52:59] toybot: glhf
+[02:52:59] BanchoBot: Countdown ends in 3 seconds
+[02:53:00] Karomi: glhf
+[02:53:00] BanchoBot: Countdown ends in 2 seconds
+[02:53:02] BanchoBot: Countdown ends in 1 second
+[02:53:02] DaddyStage: !mp settings
+[02:53:02] BanchoBot: Room name: SMB: (balddumii) vs (widepeepoHappy), History: https://osu.ppy.sh/mp/104734841
+[02:53:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/3227634 Xi - Densetsu no Sabori Gami ~ Make a quick escape
+[02:53:02] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:53:02] BanchoBot: Active mods: Freemod
+[02:53:02] BanchoBot: Players: 4
+[02:53:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/2848604 toybot          [Team Red  / NoFail, Hidden]
+[02:53:02] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10651106 rhythm game     [Team Red  / NoFail, HardRock]
+[02:53:02] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13207763 Flameztear      [Team Blue / NoFail, HardRock]
+[02:53:02] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9331403 Karomi          [Team Blue / NoFail]
+[02:53:03] BanchoBot: Countdown finished
+[02:53:04] rhythm_game: glhf
+[02:53:09] DaddyStage: !mp start 5 glhf
+[02:53:10] BanchoBot: Match starts in 5 seconds
+[02:53:10] BanchoBot: Queued the match to start in 5 seconds
+[02:53:11] BanchoBot: Match starts in 4 seconds
+[02:53:13] BanchoBot: Match starts in 3 seconds
+[02:53:13] BanchoBot: Good luck, have fun!
+[02:53:13] DaddyStage: yo i love this map
+[02:53:16] BanchoBot: The match has started!
+[02:56:21] BanchoBot: rhythm game finished playing (Score: 355887, PASSED).
+[02:56:21] BanchoBot: Karomi finished playing (Score: 248467, PASSED).
+[02:56:21] BanchoBot: Flameztear finished playing (Score: 501804, PASSED).
+[02:56:21] BanchoBot: toybot finished playing (Score: 250394, PASSED).
+[02:56:21] BanchoBot: The match has finished!
+[02:56:30] DaddyStage: balddumii | 2 - 1 | widepeepoHappy // Next Pick: balddumii
+[02:56:32] Karomi: i dont my left hand is broke nnow
+[02:56:33] DaddyStage: !mp timer 90
+[02:56:34] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[02:56:40] rhythm_game: understandable
+[02:56:56] toybot: i shouldntve played hidden
+[02:56:58] toybot: despair
+[02:56:59] Flameztear: i nearly fc'd everything after the first chorus
+[02:57:05] BanchoBot: Countdown ends in 1 minute
+[02:57:05] Flameztear: i had 1 sb
+[02:57:20] rhythm_game: yeah totally same
+[02:57:27] toybot: same
+[02:57:35] BanchoBot: Countdown ends in 30 seconds
+[02:57:45] BanchoBot: rhythm game left the game.
+[02:57:55] BanchoBot: Countdown ends in 10 seconds
+[02:58:00] BanchoBot: Countdown ends in 5 seconds
+[02:58:01] toybot: rhythm1
+[02:58:01] BanchoBot: Countdown ends in 4 seconds
+[02:58:02] BanchoBot: Countdown ends in 3 seconds
+[02:58:03] BanchoBot: Countdown ends in 2 seconds
+[02:58:04] BanchoBot: Countdown ends in 1 second
+[02:58:05] BanchoBot: Countdown finished
+[02:58:06] BanchoBot: Warpscon joined in slot 2 for team red.
+[02:58:18] Flameztear: can't doublepick right?
+[02:58:20] DaddyStage: whoops
+[02:58:22] DaddyStage: double pick
+[02:58:30] DaddyStage: !mp timer 60
+[02:58:31] BanchoBot: Countdown ends in 1 minute
+[02:58:33] toybot: oh xd
+[02:59:02] BanchoBot: Countdown ends in 30 seconds
+[02:59:22] BanchoBot: Countdown ends in 10 seconds
+[02:59:26] BanchoBot: Countdown ends in 5 seconds
+[02:59:27] BanchoBot: Countdown ends in 4 seconds
+[02:59:28] BanchoBot: Countdown ends in 3 seconds
+[02:59:29] BanchoBot: Countdown ends in 2 seconds
+[02:59:30] BanchoBot: Countdown ends in 1 second
+[02:59:31] toybot: control1
+[02:59:31] BanchoBot: Countdown finished
+[02:59:39] DaddyStage: !mp map 2604336 0
+[02:59:41] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2604336 Daisuke Ishiwatari - Bump
+[02:59:41] BanchoBot: Changed match mode to Osu
+[02:59:41] DaddyStage: !mp mods 9
+[02:59:42] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[02:59:43] DaddyStage: !mp timer 90
+[02:59:44] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[03:00:15] Karomi: venpris is like my dad
+[03:00:15] BanchoBot: Countdown ends in 1 minute
+[03:00:45] BanchoBot: Countdown ends in 30 seconds
+[03:00:46] toybot: tf
+[03:00:50] BanchoBot: All players are ready
+[03:00:54] Karomi: gl
+[03:00:54] Flameztear: glhf
+[03:00:55] toybot: glhf
+[03:00:56] Warpscon: glgl
+[03:00:57] Karomi: hf
+[03:00:59] DaddyStage: have you ever heard of Stage
+[03:01:00] DaddyStage: !mp settings
+[03:01:01] BanchoBot: Room name: SMB: (balddumii) vs (widepeepoHappy), History: https://osu.ppy.sh/mp/104734841
+[03:01:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/2604336 Daisuke Ishiwatari - Bump
+[03:01:01] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:01:01] BanchoBot: Active mods: NoFail, Hidden
+[03:01:01] BanchoBot: Players: 4
+[03:01:01] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/2848604 toybot          [Team Red ]
+[03:01:01] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12133744 Warpscon        [Team Red ]
+[03:01:01] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13207763 Flameztear      [Team Blue]
+[03:01:01] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9331403 Karomi          [Team Blue]
+[03:01:03] DaddyStage: !mp start 5 glhf
+[03:01:04] BanchoBot: Countdown aborted
+[03:01:04] BanchoBot: Match starts in 5 seconds
+[03:01:04] BanchoBot: Queued the match to start in 5 seconds
+[03:01:05] BanchoBot: Match starts in 4 seconds
+[03:01:06] BanchoBot: Match starts in 3 seconds
+[03:01:07] Karomi: true
+[03:01:07] BanchoBot: Good luck, have fun!
+[03:01:09] BanchoBot: The match has started!
+[03:04:35] BanchoBot: toybot finished playing (Score: 444008, PASSED).
+[03:04:35] BanchoBot: Flameztear finished playing (Score: 201354, PASSED).
+[03:04:35] BanchoBot: Warpscon finished playing (Score: 224428, PASSED).
+[03:04:35] BanchoBot: Karomi finished playing (Score: 246463, PASSED).
+[03:04:35] BanchoBot: The match has finished!
+[03:04:43] DaddyStage: balddumii | 3 - 1 | widepeepoHappy // Next Pick: widepeepoHappy
+[03:04:45] DaddyStage: !mp timer 90
+[03:04:46] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[03:04:51] Flameztear: aim3
+[03:05:16] BanchoBot: Countdown ends in 1 minute
+[03:05:18] DaddyStage: !mp map 75689 0
+[03:05:18] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/75689 kaztora, eba, Misaki Nakajima - Messiah
+[03:05:18] BanchoBot: Changed match mode to Osu
+[03:05:20] DaddyStage: !mp mods 65
+[03:05:21] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[03:05:21] DaddyStage: !mp timer 90
+[03:05:22] BanchoBot: Countdown aborted
+[03:05:22] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[03:05:24] BanchoBot: rhythm game joined in slot 5 for team blue.
+[03:05:33] BanchoBot: toybot left the game.
+[03:05:36] BanchoBot: rhythm game moved to slot 1
+[03:05:38] BanchoBot: rhythm game changed to Red
+[03:05:52] BanchoBot: Countdown ends in 1 minute
+[03:06:05] Warpscon: GLGL
+[03:06:07] rhythm_game: glhf
+[03:06:08] BanchoBot: All players are ready
+[03:06:10] Karomi: glhf
+[03:06:10] DaddyStage: !mp settings
+[03:06:12] BanchoBot: Room name: SMB: (balddumii) vs (widepeepoHappy), History: https://osu.ppy.sh/mp/104734841
+[03:06:12] BanchoBot: Beatmap: https://osu.ppy.sh/b/75689 kaztora, eba, Misaki Nakajima - Messiah
+[03:06:12] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:06:12] BanchoBot: Active mods: NoFail, DoubleTime
+[03:06:12] BanchoBot: Players: 4
+[03:06:12] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10651106 rhythm game     [Team Red ]
+[03:06:12] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12133744 Warpscon        [Team Red ]
+[03:06:12] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13207763 Flameztear      [Team Blue]
+[03:06:12] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9331403 Karomi          [Team Blue]
+[03:06:13] Flameztear: glhf
+[03:06:15] DaddyStage: !mp start 5 glhf
+[03:06:16] BanchoBot: Countdown aborted
+[03:06:16] BanchoBot: Match starts in 5 seconds
+[03:06:16] BanchoBot: Queued the match to start in 5 seconds
+[03:06:17] BanchoBot: Match starts in 4 seconds
+[03:06:18] BanchoBot: Match starts in 3 seconds
+[03:06:19] BanchoBot: Good luck, have fun!
+[03:06:21] BanchoBot: The match has started!
+[03:08:52] BanchoBot: Warpscon finished playing (Score: 706459, PASSED).
+[03:08:52] BanchoBot: Karomi finished playing (Score: 618689, PASSED).
+[03:08:52] BanchoBot: Flameztear finished playing (Score: 635420, PASSED).
+[03:08:52] BanchoBot: rhythm game finished playing (Score: 1074340, PASSED).
+[03:08:52] BanchoBot: The match has finished!
+[03:09:03] DaddyStage: balddumii | 4 - 1 | widepeepoHappy // Next Pick: balddumii
+[03:09:04] DaddyStage: !mp timer 90
+[03:09:06] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[03:09:12] BanchoBot: toybot joined in slot 5 for team blue.
+[03:09:36] BanchoBot: Countdown ends in 1 minute
+[03:09:39] toybot: rhythm1
+[03:09:39] rhythm_game: rhythm 1
+[03:09:45] BanchoBot: rhythm game left the game.
+[03:09:46] BanchoBot: toybot moved to slot 1
+[03:09:47] BanchoBot: toybot changed to Red
+[03:09:54] DaddyStage: !mp map 3395093 0
+[03:09:55] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3395093 xi - Mirage Garden
+[03:09:55] BanchoBot: Changed match mode to Osu
+[03:09:58] DaddyStage: !mp mods 1
+[03:09:59] BanchoBot: Enabled NoFail, disabled FreeMod
+[03:09:59] DaddyStage: !mp timer 90
+[03:10:00] BanchoBot: Countdown aborted
+[03:10:00] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[03:10:15] BanchoBot: All players are ready
+[03:10:18] Karomi: glhf
+[03:10:18] toybot: glhf
+[03:10:19] Flameztear: glhf
+[03:10:19] Warpscon: glglglglglgl
+[03:10:25] DaddyStage: !mp settings
+[03:10:27] BanchoBot: Room name: SMB: (balddumii) vs (widepeepoHappy), History: https://osu.ppy.sh/mp/104734841
+[03:10:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/3395093 xi - Mirage Garden
+[03:10:27] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:10:27] BanchoBot: Active mods: NoFail
+[03:10:27] BanchoBot: Players: 4
+[03:10:27] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/2848604 toybot          [Team Red ]
+[03:10:27] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12133744 Warpscon        [Team Red ]
+[03:10:27] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13207763 Flameztear      [Team Blue]
+[03:10:27] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9331403 Karomi          [Team Blue]
+[03:10:29] DaddyStage: !mp start 5 glhf
+[03:10:29] BanchoBot: Countdown aborted
+[03:10:29] BanchoBot: Match starts in 5 seconds
+[03:10:29] BanchoBot: Queued the match to start in 5 seconds
+[03:10:31] BanchoBot: Match starts in 4 seconds
+[03:10:32] BanchoBot: Match starts in 3 seconds
+[03:10:33] BanchoBot: Good luck, have fun!
+[03:10:35] BanchoBot: The match has started!
+[03:13:02] BanchoBot: toybot finished playing (Score: 427696, PASSED).
+[03:13:02] BanchoBot: Warpscon finished playing (Score: 493752, PASSED).
+[03:13:03] BanchoBot: Karomi finished playing (Score: 124289, PASSED).
+[03:13:03] BanchoBot: Flameztear finished playing (Score: 353932, PASSED).
+[03:13:03] BanchoBot: The match has finished!
+[03:13:15] DaddyStage: Congrats to balddumii for winning this match! GGWP both teams!
+[03:13:16] Karomi: gg
+[03:13:17] Karomi: ty for ref
+[03:13:19] Flameztear: ggs
+[03:13:21] Flameztear: thanks for reffing
+[03:13:24] Warpscon: gg
+[03:13:26] toybot: ggwp
+[03:13:27] Warpscon: ty ref!!
+[03:13:33] toybot: ty for ref!
+[03:13:45] BanchoBot: rhythm game joined in slot 5 for team blue.
+[03:13:54] rhythm_game: oh if its over can w e
+[03:13:54] rhythm_game: play
+[03:13:54] BanchoBot: Karomi left the game.
+[03:13:55] rhythm_game: uh
+[03:13:59] rhythm_game: c3
+[03:14:00] rhythm_game: anyway
+[03:14:01] toybot: YES
+[03:14:02] rhythm_game: is that ok
+[03:14:03] Flameztear: i'm down
+[03:14:04] rhythm_game: is that allowed
+[03:14:14] toybot: ill be sightread hd that shit
+[03:14:15] DaddyStage: !mp map 3564151 0
+[03:14:16] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3564151 Fall Out Boy - XO
+[03:14:16] BanchoBot: Changed match mode to Osu
+[03:14:20] DaddyStage: !mp mods Freemod
+[03:14:20] BanchoBot: rhythm game moved to slot 4
+[03:14:21] BanchoBot: Disabled all mods, enabled FreeMod
+[03:14:28] BanchoBot: Warpscon left the game.
+[03:14:33] BanchoBot: rhythm game moved to slot 2
+[03:14:34] BanchoBot: rhythm game moved to slot 5
+[03:14:34] BanchoBot: Warpscon joined in slot 2 for team red.
+[03:14:34] BanchoBot: rhythm game moved to slot 4
+[03:14:38] DaddyStage: i mean if yall wants
+[03:14:43] Warpscon: what mod should i go
+[03:14:46] DaddyStage: dunno if this one gonna be streamed tho
+[03:14:54] rhythm_game: its cool
+[03:14:56] BanchoBot: All players are ready
+[03:15:01] Warpscon: alright lets go
+[03:15:05] toybot: LFG
+[03:15:06] DaddyStage: !mp settings
+[03:15:06] Flameztear: banger
+[03:15:06] BanchoBot: Room name: SMB: (balddumii) vs (widepeepoHappy), History: https://osu.ppy.sh/mp/104734841
+[03:15:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/3564151 Fall Out Boy - XO
+[03:15:06] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:15:06] BanchoBot: Active mods: Freemod
+[03:15:06] BanchoBot: Players: 4
+[03:15:06] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/2848604 toybot          [Team Red  / NoFail, Hidden]
+[03:15:06] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12133744 Warpscon        [Team Red  / NoFail]
+[03:15:06] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13207763 Flameztear      [Team Blue / NoFail, HardRock]
+[03:15:06] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10651106 rhythm game     [Team Blue / NoFail, HardRock]
+[03:15:09] DaddyStage: !mp start 5 glhf
+[03:15:10] BanchoBot: Match starts in 5 seconds
+[03:15:10] BanchoBot: Queued the match to start in 5 seconds
+[03:15:11] BanchoBot: Match starts in 4 seconds
+[03:15:12] rhythm_game: glhf
+[03:15:12] BanchoBot: Match starts in 3 seconds
+[03:15:13] BanchoBot: Good luck, have fun!
+[03:15:14] Warpscon: glgl
+[03:15:15] BanchoBot: The match has started!
+[03:18:59] BanchoBot: toybot finished playing (Score: 628271, PASSED).
+[03:18:59] BanchoBot: Flameztear finished playing (Score: 280757, PASSED).
+[03:19:00] BanchoBot: rhythm game finished playing (Score: 564482, PASSED).
+[03:19:00] BanchoBot: Warpscon finished playing (Score: 514540, PASSED).
+[03:19:00] BanchoBot: The match has finished!
+[03:19:09] Flameztear: wow thats a good hr score
+[03:19:11] rhythm_game: ty for reffing
+[03:19:12] Flameztear: thats a hard map
+[03:19:12] rhythm_game: ggs
+[03:19:12] Warpscon: gg
+[03:19:13] toybot: ggss
+[03:19:18] rhythm_game: not as good as practice score still
+[03:19:20] Warpscon: ty ref
+[03:19:20] Flameztear: ggs
+[03:19:23] rhythm_game: o/
+[03:19:23] BanchoBot: rhythm game left the game.
+[03:19:23] DaddyStage: :3c
+[03:19:28] BanchoBot: Warpscon left the game.
+[03:19:29] BanchoBot: Flameztear left the game.
+[03:19:36] BanchoBot: toybot left the game.
+[03:19:45] DaddyStage: !mp close
+[03:19:46] BanchoBot: Closed the match

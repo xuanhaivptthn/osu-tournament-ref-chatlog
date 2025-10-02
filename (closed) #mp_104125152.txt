@@ -1,0 +1,330 @@
+[22:27:07] Joined #mp_104125152
+[22:27:07] BCraftMG: !mp settings
+[22:27:09] BanchoBot: Room name: THT3: (Qualifiers) vs (E7), History: https://osu.ppy.sh/mp/104125152
+[22:27:09] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[22:27:09] BanchoBot: Players: 0
+[22:27:23] BCraftMG: !mp set 0 3 8
+[22:27:25] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[22:27:46] BCraftMG: !mp invite #8431549
+[22:27:47] BanchoBot: Invited walle to the room
+[22:29:32] BCraftMG: !mp invite #3318668
+[22:29:33] BanchoBot: Invited Fakazki to the room
+[22:29:35] BCraftMG: !mp invite #16128060
+[22:29:36] BanchoBot: Invited Meownomia to the room
+[22:29:40] BCraftMG: !mp invite #8431549
+[22:29:41] BanchoBot: Invited walle to the room
+[22:31:37] BCraftMG: !mp invite #8431549
+[22:31:39] BanchoBot: Invited walle to the room
+[22:32:07] BanchoBot: Fakazki joined in slot 1.
+[22:32:16] Fakazki: hi
+[22:32:21] BCraftMG: hi
+[22:32:44] BCraftMG: anh Fakazki co the inv walle khong
+[22:32:50] BCraftMG: hinh nhu em khong co duyen voi walle
+[22:32:50] BanchoBot: walle joined in slot 2.
+[22:32:53] BCraftMG: invite khong bao gio dc
+[22:32:59] Fakazki: roi do
+[22:33:00] BCraftMG: :sob:
+[22:33:01] walle: TRUE
+[22:33:04] BanchoBot: Meownomia joined in slot 3.
+[22:33:18] BCraftMG: !mp map 3276259 0
+[22:33:20] BCraftMG: !mp mods 1
+[22:33:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3276259 Imy - Divine's Game
+[22:33:21] BanchoBot: Changed match mode to Osu
+[22:33:23] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:34:12] BanchoBot: All players are ready
+[22:34:27] walle: glhf
+[22:34:30] BCraftMG: !mp settings
+[22:34:31] Fakazki: golf
+[22:34:31] Meownomia: glhf
+[22:34:31] BanchoBot: Room name: THT3: (Qualifiers) vs (E7), History: https://osu.ppy.sh/mp/104125152
+[22:34:31] BanchoBot: Beatmap: https://osu.ppy.sh/b/3276259 Imy - Divine's Game
+[22:34:31] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:34:31] BanchoBot: Active mods: NoFail
+[22:34:31] BanchoBot: Players: 3
+[22:34:31] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3318668 Fakazki         
+[22:34:31] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8431549 walle           
+[22:34:31] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16128060 Meownomia       
+[22:34:32] BCraftMG: !mp start 5 glhf
+[22:34:34] walle: golf
+[22:34:34] BanchoBot: Match starts in 5 seconds
+[22:34:34] BanchoBot: Queued the match to start in 5 seconds
+[22:34:36] Meownomia: golfumo
+[22:34:36] BanchoBot: Match starts in 4 seconds
+[22:34:36] BanchoBot: Match starts in 3 seconds
+[22:34:39] BanchoBot: Good luck, have fun!
+[22:34:41] BanchoBot: The match has started!
+[22:38:29] BanchoBot: Meownomia finished playing (Score: 361391, PASSED).
+[22:38:29] BanchoBot: Fakazki finished playing (Score: 513000, PASSED).
+[22:38:29] BanchoBot: walle finished playing (Score: 575447, PASSED).
+[22:38:29] BanchoBot: The match has finished!
+[22:38:39] BCraftMG: !mp map 3332936 0
+[22:38:41] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3332936 HyuN feat. YURI - Disorder
+[22:38:41] BanchoBot: Changed match mode to Osu
+[22:39:16] BanchoBot: All players are ready
+[22:39:24] BCraftMG: !mp settings
+[22:39:26] BanchoBot: Room name: THT3: (Qualifiers) vs (E7), History: https://osu.ppy.sh/mp/104125152
+[22:39:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/3332936 HyuN feat. YURI - Disorder
+[22:39:26] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:39:26] BanchoBot: Active mods: NoFail
+[22:39:26] BanchoBot: Players: 3
+[22:39:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3318668 Fakazki         
+[22:39:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8431549 walle           
+[22:39:26] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16128060 Meownomia       
+[22:39:29] BCraftMG: !mp settings
+[22:39:30] Meownomia: glhf
+[22:39:30] BanchoBot: Room name: THT3: (Qualifiers) vs (E7), History: https://osu.ppy.sh/mp/104125152
+[22:39:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/3332936 HyuN feat. YURI - Disorder
+[22:39:30] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:39:30] BanchoBot: Active mods: NoFail
+[22:39:30] BanchoBot: Players: 3
+[22:39:30] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3318668 Fakazki         
+[22:39:30] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8431549 walle           
+[22:39:30] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16128060 Meownomia       
+[22:39:32] BCraftMG: !mp start 10
+[22:39:33] BanchoBot: Match starts in 10 seconds
+[22:39:33] BanchoBot: Queued the match to start in 10 seconds
+[22:39:40] BanchoBot: Match starts in 5 seconds
+[22:39:40] BanchoBot: Match starts in 4 seconds
+[22:39:40] BanchoBot: Match starts in 3 seconds
+[22:39:42] BanchoBot: Good luck, have fun!
+[22:39:44] BanchoBot: The match has started!
+[22:42:03] BanchoBot: Fakazki finished playing (Score: 675221, PASSED).
+[22:42:03] BanchoBot: Meownomia finished playing (Score: 269509, PASSED).
+[22:42:03] BanchoBot: walle finished playing (Score: 980232, PASSED).
+[22:42:03] BanchoBot: The match has finished!
+[22:42:25] BCraftMG: !mp map 3734887 0
+[22:42:27] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3734887 BlackY feat. Risa Yuzuki - Shuumatsu Kinema
+[22:42:27] BanchoBot: Changed match mode to Osu
+[22:42:56] BanchoBot: All players are ready
+[22:43:00] BCraftMG: !mp settings
+[22:43:03] BanchoBot: Room name: THT3: (Qualifiers) vs (E7), History: https://osu.ppy.sh/mp/104125152
+[22:43:03] BanchoBot: Beatmap: https://osu.ppy.sh/b/3734887 BlackY feat. Risa Yuzuki - Shuumatsu Kinema
+[22:43:03] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:43:03] BanchoBot: Active mods: NoFail
+[22:43:03] BanchoBot: Players: 3
+[22:43:03] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3318668 Fakazki         
+[22:43:03] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8431549 walle           
+[22:43:03] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16128060 Meownomia       
+[22:43:04] BCraftMG: !mp start 5 glhf
+[22:43:06] BanchoBot: Match starts in 5 seconds
+[22:43:06] BanchoBot: Queued the match to start in 5 seconds
+[22:43:08] BanchoBot: Match starts in 4 seconds
+[22:43:08] BanchoBot: Match starts in 3 seconds
+[22:43:10] BanchoBot: Good luck, have fun!
+[22:43:12] BanchoBot: The match has started!
+[22:47:03] BanchoBot: walle finished playing (Score: 414599, PASSED).
+[22:47:06] BanchoBot: Meownomia finished playing (Score: 270966, PASSED).
+[22:47:06] BanchoBot: Fakazki finished playing (Score: 635376, PASSED).
+[22:47:06] BanchoBot: The match has finished!
+[22:47:09] BCraftMG: !mp map 2803777 0
+[22:47:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2803777 PSYQUI - Eyes on me feat. Such
+[22:47:10] BanchoBot: Changed match mode to Osu
+[22:47:13] BCraftMG: !mp settings 9
+[22:47:15] BanchoBot: Room name: THT3: (Qualifiers) vs (E7), History: https://osu.ppy.sh/mp/104125152
+[22:47:15] BanchoBot: Beatmap: https://osu.ppy.sh/b/2803777 PSYQUI - Eyes on me feat. Such
+[22:47:15] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:47:15] BanchoBot: Active mods: NoFail
+[22:47:15] BanchoBot: Players: 3
+[22:47:15] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/3318668 Fakazki         
+[22:47:15] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/8431549 walle           
+[22:47:15] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/16128060 Meownomia       
+[22:47:18] BCraftMG: wait no
+[22:47:20] BCraftMG: !Mp mods 1
+[22:47:22] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:47:53] BanchoBot: All players are ready
+[22:48:09] BCraftMG: !mp settings
+[22:48:12] BanchoBot: Room name: THT3: (Qualifiers) vs (E7), History: https://osu.ppy.sh/mp/104125152
+[22:48:12] BanchoBot: Beatmap: https://osu.ppy.sh/b/2803777 PSYQUI - Eyes on me feat. Such
+[22:48:12] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:48:12] BanchoBot: Active mods: NoFail
+[22:48:12] BanchoBot: Players: 3
+[22:48:12] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3318668 Fakazki         
+[22:48:12] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8431549 walle           
+[22:48:12] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16128060 Meownomia       
+[22:48:13] BCraftMG: !mp start 5 glhf
+[22:48:14] BanchoBot: Match starts in 5 seconds
+[22:48:14] BanchoBot: Queued the match to start in 5 seconds
+[22:48:16] BanchoBot: Match starts in 4 seconds
+[22:48:16] BanchoBot: Match starts in 3 seconds
+[22:48:19] BanchoBot: Good luck, have fun!
+[22:48:21] BanchoBot: The match has started!
+[22:50:16] BanchoBot: Meownomia finished playing (Score: 244837, PASSED).
+[22:50:16] BanchoBot: walle finished playing (Score: 492184, PASSED).
+[22:50:16] BanchoBot: Fakazki finished playing (Score: 345804, PASSED).
+[22:50:16] BanchoBot: The match has finished!
+[22:50:19] BCraftMG: !mp map 3287710 0
+[22:50:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3287710 Denkishiki Karen Ongaku Shuudan - Shinoburedo
+[22:50:21] BanchoBot: Changed match mode to Osu
+[22:50:22] BCraftMG: !mp mods 9
+[22:50:23] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[22:51:01] walle: toilet buff bro
+[22:51:15] BanchoBot: All players are ready
+[22:51:31] BCraftMG: !mp settings
+[22:51:31] BanchoBot: Room name: THT3: (Qualifiers) vs (E7), History: https://osu.ppy.sh/mp/104125152
+[22:51:31] BanchoBot: Beatmap: https://osu.ppy.sh/b/3287710 Denkishiki Karen Ongaku Shuudan - Shinoburedo
+[22:51:31] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:51:31] BanchoBot: Active mods: NoFail, Hidden
+[22:51:31] BanchoBot: Players: 3
+[22:51:31] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3318668 Fakazki         
+[22:51:31] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8431549 walle           
+[22:51:31] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16128060 Meownomia       
+[22:51:33] BCraftMG: !mp start 5 glhf
+[22:51:34] walle: zanei bro
+[22:51:36] BanchoBot: Match starts in 5 seconds
+[22:51:36] BanchoBot: Queued the match to start in 5 seconds
+[22:51:38] BanchoBot: Match starts in 4 seconds
+[22:51:38] BanchoBot: Match starts in 3 seconds
+[22:51:41] BanchoBot: Good luck, have fun!
+[22:51:41] Meownomia: glhf
+[22:51:43] BanchoBot: The match has started!
+[22:55:59] BanchoBot: Fakazki finished playing (Score: 675812, PASSED).
+[22:55:59] BanchoBot: walle finished playing (Score: 438387, PASSED).
+[22:55:59] BanchoBot: Meownomia finished playing (Score: 353423, PASSED).
+[22:55:59] BanchoBot: The match has finished!
+[22:56:16] walle: tai sao pooler ko de map nay la zanei me di
+[22:56:17] BCraftMG: !mp map 1580739 0
+[22:56:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1580739 SUPER STAR -MITSURU- - NEW GENERATION -mou, omae shika mienai-
+[22:56:19] BanchoBot: Changed match mode to Osu
+[22:56:53] BanchoBot: All players are ready
+[22:56:56] walle: zthe method
+[22:56:57] BCraftMG: !mp settings
+[22:56:58] BanchoBot: Room name: THT3: (Qualifiers) vs (E7), History: https://osu.ppy.sh/mp/104125152
+[22:56:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/1580739 SUPER STAR -MITSURU- - NEW GENERATION -mou, omae shika mienai-
+[22:56:58] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:56:58] BanchoBot: Active mods: NoFail, Hidden
+[22:56:58] BanchoBot: Players: 3
+[22:56:58] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3318668 Fakazki         
+[22:56:58] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8431549 walle           
+[22:56:58] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16128060 Meownomia       
+[22:57:00] BCraftMG: !mp start 5 glhf
+[22:57:01] BanchoBot: Match starts in 5 seconds
+[22:57:01] BanchoBot: Queued the match to start in 5 seconds
+[22:57:03] BanchoBot: Match starts in 4 seconds
+[22:57:03] BanchoBot: Match starts in 3 seconds
+[22:57:05] BanchoBot: Good luck, have fun!
+[22:57:08] BanchoBot: The match has started!
+[22:59:13] BanchoBot: Fakazki finished playing (Score: 965492, PASSED).
+[22:59:13] BanchoBot: Meownomia finished playing (Score: 838359, PASSED).
+[22:59:13] BanchoBot: walle finished playing (Score: 414432, PASSED).
+[22:59:13] BanchoBot: The match has finished!
+[22:59:57] walle: bcraft oi
+[23:00:00] walle: cho a xin mp link cua team sakuya voi
+[23:00:04] BCraftMG: !mp map 2241585 0
+[23:00:06] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2241585 Rita - Winter Diamond
+[23:00:06] BanchoBot: Changed match mode to Osu
+[23:00:09] BCraftMG: !mp mods 17
+[23:00:11] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[23:01:21] walle: bcraft
+[23:01:27] BCraftMG: gui rieng r anh oi
+[23:01:28] walle: cho anh xin mp link cua team sakuya voi
+[23:01:33] walle: nvm thay r
+[23:02:36] BanchoBot: All players are ready
+[23:02:43] BCraftMG: !mp settings
+[23:02:43] BanchoBot: Room name: THT3: (Qualifiers) vs (E7), History: https://osu.ppy.sh/mp/104125152
+[23:02:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/2241585 Rita - Winter Diamond
+[23:02:44] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:02:44] BanchoBot: Active mods: NoFail, HardRock
+[23:02:44] BanchoBot: Players: 3
+[23:02:44] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3318668 Fakazki         
+[23:02:44] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8431549 walle           
+[23:02:44] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16128060 Meownomia       
+[23:02:45] BCraftMG: !mp start 5 glhf
+[23:02:46] BanchoBot: Match starts in 5 seconds
+[23:02:46] BanchoBot: Queued the match to start in 5 seconds
+[23:02:48] BanchoBot: Match starts in 4 seconds
+[23:02:48] BanchoBot: Match starts in 3 seconds
+[23:02:51] BanchoBot: Good luck, have fun!
+[23:02:53] BanchoBot: The match has started!
+[23:07:03] BanchoBot: Meownomia finished playing (Score: 279171, PASSED).
+[23:07:03] BanchoBot: Fakazki finished playing (Score: 436685, PASSED).
+[23:07:10] BanchoBot: walle finished playing (Score: 729402, PASSED).
+[23:07:10] BanchoBot: The match has finished!
+[23:07:14] BCraftMG: !mp map 3021082 0
+[23:07:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3021082 PinocchioP feat. Hatsune Miku - Ghosts Play to the Audience
+[23:07:17] BanchoBot: Changed match mode to Osu
+[23:08:22] BanchoBot: All players are ready
+[23:08:26] BCraftMG: !mp settings
+[23:08:28] BanchoBot: Room name: THT3: (Qualifiers) vs (E7), History: https://osu.ppy.sh/mp/104125152
+[23:08:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/3021082 PinocchioP feat. Hatsune Miku - Ghosts Play to the Audience
+[23:08:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:08:28] BanchoBot: Active mods: NoFail, HardRock
+[23:08:28] BanchoBot: Players: 3
+[23:08:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3318668 Fakazki         
+[23:08:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8431549 walle           
+[23:08:28] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16128060 Meownomia       
+[23:08:30] BCraftMG: !mp start 4
+[23:08:32] BanchoBot: Match starts in 4 seconds
+[23:08:32] BanchoBot: Queued the match to start in 4 seconds
+[23:08:34] BanchoBot: Match starts in 3 seconds
+[23:08:34] BanchoBot: Good luck, have fun!
+[23:08:36] BanchoBot: The match has started!
+[23:12:31] BanchoBot: Meownomia finished playing (Score: 165983, PASSED).
+[23:12:31] BanchoBot: walle finished playing (Score: 592957, PASSED).
+[23:12:31] BanchoBot: Fakazki finished playing (Score: 232686, PASSED).
+[23:12:31] BanchoBot: The match has finished!
+[23:12:33] BCraftMG: !mp map 3243641 0
+[23:12:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3243641 FELT - Flower Flag
+[23:12:34] BanchoBot: Changed match mode to Osu
+[23:12:36] BCraftMG: !mp mods 65
+[23:12:38] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[23:13:55] BanchoBot: All players are ready
+[23:14:01] BCraftMG: !mp settings
+[23:14:05] BanchoBot: Room name: THT3: (Qualifiers) vs (E7), History: https://osu.ppy.sh/mp/104125152
+[23:14:05] BanchoBot: Beatmap: https://osu.ppy.sh/b/3243641 FELT - Flower Flag
+[23:14:05] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:14:05] BanchoBot: Active mods: NoFail, DoubleTime
+[23:14:05] BanchoBot: Players: 3
+[23:14:05] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3318668 Fakazki         
+[23:14:05] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8431549 walle           
+[23:14:05] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16128060 Meownomia       
+[23:14:05] BCraftMG: !mp start 5 glhf
+[23:14:07] BanchoBot: Match starts in 5 seconds
+[23:14:07] BanchoBot: Queued the match to start in 5 seconds
+[23:14:09] BanchoBot: Match starts in 4 seconds
+[23:14:09] BanchoBot: Match starts in 3 seconds
+[23:14:11] BanchoBot: Good luck, have fun!
+[23:14:14] BanchoBot: The match has started!
+[23:17:17] BanchoBot: Meownomia finished playing (Score: 498436, PASSED).
+[23:17:17] BanchoBot: Fakazki finished playing (Score: 616835, PASSED).
+[23:17:17] BanchoBot: walle finished playing (Score: 622813, PASSED).
+[23:17:17] BanchoBot: The match has finished!
+[23:17:32] BCraftMG: !mp map 3047429 0
+[23:17:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3047429 Touhou LostWord x RichaadEB - Lost Word Chronicle
+[23:17:33] BanchoBot: Changed match mode to Osu
+[23:18:10] BanchoBot: All players are ready
+[23:18:18] BCraftMG: !mp settings
+[23:18:20] BanchoBot: Room name: THT3: (Qualifiers) vs (E7), History: https://osu.ppy.sh/mp/104125152
+[23:18:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/3047429 Touhou LostWord x RichaadEB - Lost Word Chronicle
+[23:18:20] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:18:20] BanchoBot: Active mods: NoFail, DoubleTime
+[23:18:20] BanchoBot: Players: 3
+[23:18:20] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3318668 Fakazki         
+[23:18:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8431549 walle           
+[23:18:20] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16128060 Meownomia       
+[23:18:20] BCraftMG: !mp start 5 glhf
+[23:18:22] BanchoBot: Match starts in 5 seconds
+[23:18:22] BanchoBot: Queued the match to start in 5 seconds
+[23:18:25] BanchoBot: Match starts in 4 seconds
+[23:18:25] BanchoBot: Match starts in 3 seconds
+[23:18:27] BanchoBot: Good luck, have fun!
+[23:18:29] BanchoBot: The match has started!
+[23:21:00] BanchoBot: Fakazki finished playing (Score: 755122, PASSED).
+[23:21:00] BanchoBot: Meownomia finished playing (Score: 365928, PASSED).
+[23:21:02] BanchoBot: walle finished playing (Score: 583503, PASSED).
+[23:21:02] BanchoBot: The match has finished!
+[23:21:40] walle: thx for ref
+[23:21:42] BanchoBot: walle left the game.
+[23:21:44] Fakazki: thx for rè
+[23:21:49] Meownomia: thanks for ref
+[23:21:49] BanchoBot: Meownomia left the game.
+[23:21:53] BCraftMG: owu
+[23:21:56] BCraftMG: o/
+[23:21:58] BanchoBot: Fakazki left the game.
+[23:23:00] BCraftMG: !mp settings
+[23:23:01] BanchoBot: Room name: THT3: (Qualifiers) vs (E7), History: https://osu.ppy.sh/mp/104125152
+[23:23:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/3047429 Touhou LostWord x RichaadEB - Lost Word Chronicle
+[23:23:01] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:23:01] BanchoBot: Active mods: NoFail, DoubleTime
+[23:23:01] BanchoBot: Players: 0
+[23:23:15] BCraftMG: !mp close
+[23:23:17] BanchoBot: Closed the match

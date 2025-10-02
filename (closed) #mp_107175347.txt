@@ -1,0 +1,625 @@
+[22:54:37] Joined #mp_107175347
+[22:54:37] BCraftMG: !mp settings
+[22:54:38] BanchoBot: Room name: 5WC2023: (Taiwan) vs (Peru), History: https://osu.ppy.sh/mp/107175347
+[22:54:38] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[22:54:38] BanchoBot: Players: 0
+[22:54:47] BCraftMG: !mp addref Peti
+[22:54:47] BanchoBot: Added Peti to the match referees
+[22:54:49] BCraftMG: !mp set 2 3 16
+[22:54:51] BanchoBot: Changed match settings to 16 slots, TeamVs, ScoreV2
+[22:54:55] BCraftMG: !mp invite #15184992
+[22:54:56] BanchoBot: Invited Yue0430 to the room
+[22:55:00] BCraftMG: !mp invite #18495184
+[22:55:01] BanchoBot: Invited Takodachi to the room
+[22:55:07] BanchoBot: Yue0430 joined in slot 1 for team blue.
+[22:55:32] BanchoBot: Yue0427 joined in slot 2 for team red.
+[22:55:35] BCraftMG: Taiwan red + slots 1-4 and Peru blue + slots 5-8
+[22:55:42] BanchoBot: Takodachi joined in slot 3 for team blue.
+[22:55:44] BanchoBot: Takodachi moved to slot 6
+[22:55:48] BanchoBot: Takodachi moved to slot 5
+[22:56:22] BanchoBot: Yue0430 changed to Red
+[22:56:44] BCraftMG: yall wants warm up?
+[22:56:48] BanchoBot: -Yuuu joined in slot 3 for team blue.
+[22:57:00] Yue0430: YES we want
+[22:57:06] BCraftMG: !mp host Yue0430
+[22:57:07] BanchoBot: Yue0430 became the host.
+[22:57:07] BanchoBot: Changed match host to Yue0430
+[22:57:09] BanchoBot: Beatmap changed to: Amaryllis - Never Again [Regretful (5WC Ver.)] (https://osu.ppy.sh/b/4027501)
+[22:57:11] BanchoBot: Yue0427 became the host.
+[22:57:12] BanchoBot: Rulz joined in slot 4 for team red.
+[22:57:12] BanchoBot: Yue0425 joined in slot 6 for team red.
+[22:57:16] BanchoBot: Yue0430 became the host.
+[22:57:19] BanchoBot: Yue0425 became the host.
+[22:57:23] BanchoBot: Host is changing map...
+[22:57:26] BanchoBot: Yue0427 left the game.
+[22:57:38] BanchoBot: Yue0427 joined in slot 2 for team red.
+[22:57:44] BCraftMG: again Taiwan red + slots 1-4 and Peru blue + slots 5-8
+[22:57:44] Yue0425: whats warmup length
+[22:57:50] BanchoBot: Yue0423 joined in slot 7 for team blue.
+[22:57:55] BanchoBot: Rulz changed to Blue
+[22:57:59] BanchoBot: -Kairy- joined in slot 8 for team red.
+[22:58:03] BanchoBot: Rulz moved to slot 9
+[22:58:04] BanchoBot: -Kairy- changed to Blue
+[22:58:06] BanchoBot: Yue0430 moved to slot 4
+[22:58:10] BanchoBot: Yue0423 moved to slot 1
+[22:58:11] BanchoBot: Yue0423 changed to Red
+[22:58:12] BanchoBot: Rulz moved to slot 7
+[22:58:36] BCraftMG: Max 3 min, no explicit audio (refs can veto)
+[22:59:11] BanchoBot: Beatmap changed to: rei sirose - Hakidasu [Splooge] (https://osu.ppy.sh/b/3601518)
+[23:00:42] BanchoBot: Yue0428 joined in slot 9 for team blue.
+[23:00:54] BanchoBot: Yue0428 left the game.
+[23:01:20] BanchoBot: Yue0424 joined in slot 9 for team blue.
+[23:01:28] Yue0425: can i start the map?
+[23:01:29] BanchoBot: All players are ready
+[23:01:35] Yue0430: sure
+[23:01:36] BanchoBot: The match has started!
+[23:01:44] BanchoBot: Yue0426 joined in slot 10 for team red.
+[23:01:48] BanchoBot: Yue0426 left the game.
+[23:02:08] BanchoBot: Yue0424 left the game.
+[23:04:25] BanchoBot: Yue0423 finished playing (Score: 264421, PASSED).
+[23:04:25] BanchoBot: -Kairy- finished playing (Score: 199572, PASSED).
+[23:04:26] BanchoBot: Yue0427 finished playing (Score: 517590, PASSED).
+[23:04:26] BanchoBot: Yue0430 finished playing (Score: 399167, PASSED).
+[23:04:26] BanchoBot: Yue0425 finished playing (Score: 473101, PASSED).
+[23:04:26] BanchoBot: Takodachi finished playing (Score: 0, PASSED).
+[23:04:26] BanchoBot: Rulz finished playing (Score: 175815, PASSED).
+[23:04:27] BanchoBot: -Yuuu finished playing (Score: 207720, PASSED).
+[23:04:27] BanchoBot: The match has finished!
+[23:04:39] BanchoBot: Yue0424 joined in slot 9 for team blue.
+[23:04:43] BanchoBot: Rulz became the host.
+[23:04:49] BanchoBot: Yue0424 changed to Red
+[23:05:04] BanchoBot: Yue0423 moved to slot 10
+[23:05:08] BanchoBot: Yue0425 moved to slot 1
+[23:05:25] BanchoBot: -Kairy- moved to slot 6
+[23:05:25] BanchoBot: Yue0424 moved to slot 11
+[23:05:26] BanchoBot: Yue0424 moved to slot 12
+[23:05:28] Yue0430: Rulz
+[23:05:28] BanchoBot: Yue0424 moved to slot 8
+[23:05:29] BanchoBot: Yue0424 moved to slot 9
+[23:05:32] BanchoBot: Yue0426 joined in slot 8 for team red.
+[23:05:38] Rulz: what
+[23:05:38] BanchoBot: Yue0427 left the game.
+[23:05:45] Yue0430: you are host
+[23:05:47] BanchoBot: Yue0426 left the game.
+[23:05:47] Yue0430: pick warmups!!
+[23:05:52] BCraftMG: !mp addref [K]itten
+[23:05:53] BanchoBot: User not found: [K]itten
+[23:06:03] BanchoBot: Host is changing map...
+[23:06:09] BCraftMG: !mp addref [K]itten
+[23:06:10] BanchoBot: User not found: [K]itten
+[23:06:28] BCraftMG: !mp addref [K]itten
+[23:06:31] BanchoBot: Added [K]itten to the match referees
+[23:06:49] BanchoBot: Beatmap changed to: EBIMAYO - GOODBOUNCE [TIME IS OVER (2017 Original)] (https://osu.ppy.sh/b/2950368)
+[23:07:10] BanchoBot: Yue0423 moved to slot 2
+[23:07:26] BanchoBot: Yue0427 joined in slot 8 for team red.
+[23:07:27] BanchoBot: Yue0424 left the game.
+[23:07:38] BanchoBot: All players are ready
+[23:07:39] BCraftMG: -Yuuu please move down
+[23:07:40] BanchoBot: Yue0427 changed to Blue
+[23:07:41] BanchoBot: Yue0427 changed to Red
+[23:07:45] BanchoBot: Yue0427 moved to slot 10
+[23:07:47] BanchoBot: -Yuuu moved to slot 9
+[23:07:48] BanchoBot: Yue0427 moved to slot 3
+[23:07:51] BanchoBot: -Yuuu moved to slot 8
+[23:08:01] Rulz: ready?
+[23:08:04] BanchoBot: All players are ready
+[23:08:07] BanchoBot: The match has started!
+[23:10:23] BanchoBot: -Yuuu finished playing (Score: 566245, PASSED).
+[23:10:24] BanchoBot: Takodachi finished playing (Score: 645317, PASSED).
+[23:10:24] BanchoBot: -Kairy- finished playing (Score: 327349, PASSED).
+[23:10:24] BanchoBot: Yue0423 finished playing (Score: 542586, PASSED).
+[23:10:24] BanchoBot: Yue0427 finished playing (Score: 630028, PASSED).
+[23:10:24] BanchoBot: Yue0430 finished playing (Score: 968724, PASSED).
+[23:10:26] BanchoBot: Yue0425 finished playing (Score: 954886, PASSED).
+[23:10:26] BanchoBot: Rulz finished playing (Score: 878747, PASSED).
+[23:10:26] BanchoBot: The match has finished!
+[23:10:30] BCraftMG: !mp clearhost
+[23:10:31] BanchoBot: Cleared match host
+[23:10:39] BCraftMG: Time to roll!
+[23:10:51] Takodachi: !roll
+[23:10:51] BanchoBot: Takodachi rolls 19 point(s)
+[23:10:56] Yue0430: !roll
+[23:10:56] BanchoBot: Yue0430 rolls 44 point(s)
+[23:10:59] BCraftMG: The winner of the roll will protect second, ban first, and pick first.
+[23:11:15] BanchoBot: -Kairy- left the game.
+[23:11:28] BCraftMG: Peru protect
+[23:11:28] BCraftMG: !mp timer 120
+[23:11:31] BanchoBot: Countdown ends in 2 minutes
+[23:11:35] Takodachi: HR2
+[23:11:45] BCraftMG: Taiwan protect?
+[23:11:48] BCraftMG: !mp timer 120
+[23:11:50] BanchoBot: Countdown aborted
+[23:11:50] BanchoBot: Countdown ends in 2 minutes
+[23:12:02] Yue0430: NM5
+[23:12:14] BCraftMG: Taiwan ban
+[23:12:17] BCraftMG: !mp timer 120
+[23:12:17] BanchoBot: Countdown aborted
+[23:12:17] BanchoBot: Countdown ends in 2 minutes
+[23:13:15] Yue0430: FM1
+[23:13:18] BanchoBot: Countdown ends in 1 minute
+[23:13:25] BCraftMG: Next Ban: Peru
+[23:13:28] BCraftMG: !mp timer 120
+[23:13:29] BanchoBot: Countdown aborted
+[23:13:29] BanchoBot: Countdown ends in 2 minutes
+[23:13:37] Takodachi: HD2
+[23:13:47] BCraftMG: Taiwan | 0 - 0 | Peru // Bo9 - First Pick: Taiwan
+[23:13:49] BCraftMG: !mp timer 120
+[23:13:50] BanchoBot: Countdown aborted
+[23:13:50] BanchoBot: Countdown ends in 2 minutes
+[23:13:51] BanchoBot: Miqt joined in slot 6 for team red.
+[23:14:02] BanchoBot: Miqt left the game.
+[23:14:31] BanchoBot: Yue0426 joined in slot 6 for team red.
+[23:14:35] BanchoBot: Yue0426 moved to slot 12
+[23:14:51] BanchoBot: Countdown ends in 1 minute
+[23:14:52] BanchoBot: Yue0425 left the game.
+[23:14:56] Yue0430: NM5
+[23:14:59] BanchoBot: Yue0426 moved to slot 1
+[23:15:18] BCraftMG: !mp map 2800663 0
+[23:15:19] BanchoBot: -Yuuu left the game.
+[23:15:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2800663 Maison book girl - snow irony_
+[23:15:19] BanchoBot: Changed match mode to Osu
+[23:15:19] BCraftMG: !mp mods 1
+[23:15:20] BanchoBot: Countdown ends in 30 seconds
+[23:15:20] BanchoBot: Enabled NoFail, disabled FreeMod
+[23:15:22] BCraftMG: !mp settings
+[23:15:23] BanchoBot: Yue0425 joined in slot 6 for team red.
+[23:15:23] BanchoBot: Miqt joined in slot 8 for team red.
+[23:15:23] BanchoBot: Room name: 5WC2023: (Taiwan) vs (Peru), History: https://osu.ppy.sh/mp/107175347
+[23:15:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/2800663 Maison book girl - snow irony_
+[23:15:23] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:15:23] BanchoBot: Active mods: NoFail
+[23:15:23] BanchoBot: Players: 8
+[23:15:23] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/8186536 Yue0426         [Team Red ]
+[23:15:23] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/3538079 Yue0423         [Team Red ]
+[23:15:23] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/16288992 Yue0427         [Team Red ]
+[23:15:23] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/15184992 Yue0430         [Team Red ]
+[23:15:23] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/18495184 Takodachi       [Team Blue]
+[23:15:23] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/7989469 Yue0425         [Team Red ]
+[23:15:23] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/12027165 Rulz            [Team Blue]
+[23:15:23] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/11405734 Miqt            [Team Red ]
+[23:15:25] BCraftMG: !mp timer 120
+[23:15:26] BanchoBot: Countdown aborted
+[23:15:26] BanchoBot: Countdown ends in 2 minutes
+[23:15:28] BanchoBot: Yue0423 moved to slot 11
+[23:15:35] BanchoBot: Yue0425 moved to slot 2
+[23:15:36] BanchoBot: Yue0423 left the game.
+[23:15:38] BanchoBot: Miqt left the game.
+[23:15:40] BanchoBot: Yue0424 joined in slot 6 for team red.
+[23:16:08] BanchoBot: Yue0426 moved to slot 8
+[23:16:14] BanchoBot: Yue0426 moved to slot 1
+[23:16:20] BanchoBot: Yue0430 moved to slot 11
+[23:16:24] BanchoBot: Yue0424 moved to slot 4
+[23:16:27] BanchoBot: Countdown ends in 1 minute
+[23:16:34] BanchoBot: Yue0430 left the game.
+[23:16:40] BanchoBot: Miqt joined in slot 6 for team red.
+[23:16:46] BanchoBot: Miqt changed to Blue
+[23:16:56] BanchoBot: Countdown ends in 30 seconds
+[23:17:07] BanchoBot: -Yuuu joined in slot 8 for team red.
+[23:17:12] BanchoBot: -Yuuu changed to Blue
+[23:17:16] BanchoBot: Countdown ends in 10 seconds
+[23:17:19] Yue0424: glhf
+[23:17:21] BanchoBot: Countdown ends in 5 seconds
+[23:17:23] BanchoBot: Countdown ends in 4 seconds
+[23:17:23] BanchoBot: Countdown ends in 3 seconds
+[23:17:24] BanchoBot: Countdown ends in 2 seconds
+[23:17:25] Yue0427: gl
+[23:17:25] BanchoBot: Countdown ends in 1 second
+[23:17:27] BanchoBot: Countdown finished
+[23:17:28] Miqt: glhf
+[23:17:33] BCraftMG: !mp settings
+[23:17:35] BanchoBot: Room name: 5WC2023: (Taiwan) vs (Peru), History: https://osu.ppy.sh/mp/107175347
+[23:17:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/2800663 Maison book girl - snow irony_
+[23:17:35] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:17:35] BanchoBot: Active mods: NoFail
+[23:17:35] BanchoBot: Players: 8
+[23:17:35] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8186536 Yue0426         [Team Red ]
+[23:17:35] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7989469 Yue0425         [Team Red ]
+[23:17:35] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16288992 Yue0427         [Team Red ]
+[23:17:35] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/4113311 Yue0424         [Team Red ]
+[23:17:35] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/18495184 Takodachi       [Team Blue]
+[23:17:35] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11405734 Miqt            [Team Blue]
+[23:17:35] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/12027165 Rulz            [Team Blue]
+[23:17:35] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/16851538 -Yuuu           [Team Blue]
+[23:17:36] Yue0425: glhf!!!
+[23:17:40] Yue0426: glgl
+[23:17:40] Takodachi: glhf
+[23:17:40] BCraftMG: -Yuuu?
+[23:17:45] -Yuuu: glhf
+[23:17:47] BanchoBot: All players are ready
+[23:17:47] BCraftMG: !mp settings
+[23:17:48] BanchoBot: Room name: 5WC2023: (Taiwan) vs (Peru), History: https://osu.ppy.sh/mp/107175347
+[23:17:48] BanchoBot: Beatmap: https://osu.ppy.sh/b/2800663 Maison book girl - snow irony_
+[23:17:48] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:17:48] BanchoBot: Active mods: NoFail
+[23:17:48] BanchoBot: Players: 8
+[23:17:48] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8186536 Yue0426         [Team Red ]
+[23:17:48] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7989469 Yue0425         [Team Red ]
+[23:17:48] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16288992 Yue0427         [Team Red ]
+[23:17:48] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/4113311 Yue0424         [Team Red ]
+[23:17:48] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/18495184 Takodachi       [Team Blue]
+[23:17:48] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11405734 Miqt            [Team Blue]
+[23:17:48] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/12027165 Rulz            [Team Blue]
+[23:17:48] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/16851538 -Yuuu           [Team Blue]
+[23:17:49] BCraftMG: !mp start 5 glhf
+[23:17:51] BanchoBot: Match starts in 5 seconds
+[23:17:51] BanchoBot: Queued the match to start in 5 seconds
+[23:17:52] BanchoBot: Match starts in 4 seconds
+[23:17:53] BanchoBot: Match starts in 3 seconds
+[23:17:54] BanchoBot: Good luck, have fun!
+[23:17:56] BanchoBot: The match has started!
+[23:22:18] BanchoBot: Yue0425 finished playing (Score: 987321, PASSED).
+[23:22:18] BanchoBot: Takodachi finished playing (Score: 309273, PASSED).
+[23:22:18] BanchoBot: Rulz finished playing (Score: 587929, PASSED).
+[23:22:18] BanchoBot: Yue0424 finished playing (Score: 372252, PASSED).
+[23:22:19] BanchoBot: Yue0426 finished playing (Score: 344603, PASSED).
+[23:22:19] BanchoBot: Miqt finished playing (Score: 294707, PASSED).
+[23:22:19] BanchoBot: Yue0427 finished playing (Score: 713982, PASSED).
+[23:22:19] BanchoBot: -Yuuu finished playing (Score: 80403, PASSED).
+[23:22:19] BanchoBot: The match has finished!
+[23:22:28] BanchoBot: Yue0430 joined in slot 9 for team blue.
+[23:22:33] BCraftMG: Taiwan | 1 - 0 | Peru // Bo9 - Next Pick: Peru
+[23:22:37] BCraftMG: !mp timer 120
+[23:22:38] BanchoBot: Countdown ends in 2 minutes
+[23:23:38] BanchoBot: Yue0426 left the game.
+[23:23:38] BanchoBot: Countdown ends in 1 minute
+[23:23:46] BanchoBot: Yue0427 left the game.
+[23:23:49] BanchoBot: Yue0426 joined in slot 1 for team blue.
+[23:24:02] Takodachi: HR2
+[23:24:06] BanchoBot: Yue0424 left the game.
+[23:24:09] BanchoBot: Countdown ends in 30 seconds
+[23:24:12] BCraftMG: !mp map 3428310 0
+[23:24:13] BanchoBot: -Yuuu left the game.
+[23:24:13] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3428310 Cady Groves - This Little Girl (Sped Up Ver.)
+[23:24:13] BanchoBot: Changed match mode to Osu
+[23:24:14] BCraftMG: !mp mods 17
+[23:24:14] BanchoBot: Rulz left the game.
+[23:24:15] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[23:24:16] BCraftMG: !mp timer 120
+[23:24:17] BanchoBot: Countdown aborted
+[23:24:17] BanchoBot: Countdown ends in 2 minutes
+[23:24:20] BanchoBot: Yue0426 changed to Red
+[23:24:21] BanchoBot: Yue0426 left the game.
+[23:24:23] BanchoBot: Yue0430 moved to slot 3
+[23:24:25] BanchoBot: Yue0430 changed to Red
+[23:24:25] BanchoBot: -Kairy- joined in slot 1 for team blue.
+[23:24:28] BanchoBot: Yue0423 joined in slot 4 for team red.
+[23:24:31] BanchoBot: Yue0425 left the game.
+[23:24:38] BanchoBot: Yue0423 moved to slot 2
+[23:24:40] BanchoBot: -Kairy- moved to slot 7
+[23:24:50] BanchoBot: Yue0430 left the game.
+[23:24:51] BanchoBot: Yue0425 joined in slot 1 for team blue.
+[23:24:58] BanchoBot: Yue0425 changed to Red
+[23:25:16] BanchoBot: Miqt left the game.
+[23:25:17] BanchoBot: Countdown ends in 1 minute
+[23:25:21] BanchoBot: -Kairy- moved to slot 6
+[23:25:24] BanchoBot: AkaiSenpai joined in slot 3 for team blue.
+[23:25:37] BanchoBot: Miqt joined in slot 4 for team red.
+[23:25:38] BanchoBot: Yue0426 joined in slot 7 for team blue.
+[23:25:41] BanchoBot: Miqt moved to slot 8
+[23:25:41] BanchoBot: Miqt changed to Blue
+[23:25:42] BanchoBot: Yue0426 changed to Red
+[23:25:42] BanchoBot: Yue0426 moved to slot 4
+[23:25:45] BanchoBot: AkaiSenpai moved to slot 7
+[23:25:48] BanchoBot: Countdown ends in 30 seconds
+[23:25:54] BanchoBot: Yue0430 joined in slot 3 for team blue.
+[23:26:06] BanchoBot: Yue0430 changed to Red
+[23:26:08] BanchoBot: Countdown ends in 10 seconds
+[23:26:12] BanchoBot: Countdown ends in 5 seconds
+[23:26:13] Yue0430: GLHF
+[23:26:13] BanchoBot: Countdown ends in 4 seconds
+[23:26:14] BanchoBot: Countdown ends in 3 seconds
+[23:26:16] BanchoBot: Countdown ends in 2 seconds
+[23:26:17] BanchoBot: Countdown ends in 1 second
+[23:26:17] Miqt: glhf
+[23:26:17] Yue0425: glhf
+[23:26:17] BanchoBot: Countdown finished
+[23:26:19] BCraftMG: !mp settings
+[23:26:21] Yue0423: gl
+[23:26:21] BanchoBot: Room name: 5WC2023: (Taiwan) vs (Peru), History: https://osu.ppy.sh/mp/107175347
+[23:26:21] BanchoBot: Beatmap: https://osu.ppy.sh/b/3428310 Cady Groves - This Little Girl (Sped Up Ver.)
+[23:26:21] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:26:21] BanchoBot: Active mods: NoFail, HardRock
+[23:26:21] BanchoBot: Players: 8
+[23:26:21] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7989469 Yue0425         [Team Red ]
+[23:26:21] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3538079 Yue0423         [Team Red ]
+[23:26:21] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15184992 Yue0430         [Team Red ]
+[23:26:21] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8186536 Yue0426         [Team Red ]
+[23:26:21] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/18495184 Takodachi       [Team Blue]
+[23:26:21] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/2791044 -Kairy-         [Team Blue]
+[23:26:21] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/13072209 AkaiSenpai      [Team Blue]
+[23:26:21] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/11405734 Miqt            [Team Blue]
+[23:26:28] BanchoBot: All players are ready
+[23:26:29] BCraftMG: !mp settings
+[23:26:29] BanchoBot: Room name: 5WC2023: (Taiwan) vs (Peru), History: https://osu.ppy.sh/mp/107175347
+[23:26:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/3428310 Cady Groves - This Little Girl (Sped Up Ver.)
+[23:26:29] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:26:29] BanchoBot: Active mods: NoFail, HardRock
+[23:26:29] BanchoBot: Players: 8
+[23:26:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7989469 Yue0425         [Team Red ]
+[23:26:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3538079 Yue0423         [Team Red ]
+[23:26:29] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15184992 Yue0430         [Team Red ]
+[23:26:29] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8186536 Yue0426         [Team Red ]
+[23:26:29] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/18495184 Takodachi       [Team Blue]
+[23:26:29] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/2791044 -Kairy-         [Team Blue]
+[23:26:29] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/13072209 AkaiSenpai      [Team Blue]
+[23:26:29] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/11405734 Miqt            [Team Blue]
+[23:26:30] BCraftMG: !mp start 5 glhf
+[23:26:31] BanchoBot: Match starts in 5 seconds
+[23:26:31] BanchoBot: Queued the match to start in 5 seconds
+[23:26:32] BanchoBot: Match starts in 4 seconds
+[23:26:33] Yue0426: !roll 1000
+[23:26:33] BanchoBot: Yue0426 rolls 279 point(s)
+[23:26:34] BanchoBot: Match starts in 3 seconds
+[23:26:34] AkaiSenpai: gl
+[23:26:35] BanchoBot: Good luck, have fun!
+[23:26:36] BanchoBot: The match has started!
+[23:29:33] BanchoBot: Yue0425 finished playing (Score: 449443, PASSED).
+[23:29:33] BanchoBot: -Kairy- finished playing (Score: 544073, PASSED).
+[23:29:35] BanchoBot: Yue0423 finished playing (Score: 884996, PASSED).
+[23:29:35] BanchoBot: Yue0430 finished playing (Score: 446409, PASSED).
+[23:29:36] BanchoBot: Yue0426 finished playing (Score: 394780, PASSED).
+[23:29:36] BanchoBot: AkaiSenpai finished playing (Score: 253149, PASSED).
+[23:29:36] BanchoBot: Takodachi finished playing (Score: 572972, PASSED).
+[23:29:36] BanchoBot: Miqt finished playing (Score: 519685, PASSED).
+[23:29:36] BanchoBot: The match has finished!
+[23:29:49] BCraftMG: Taiwan | 2 - 0 | Peru // Bo9 - Next Pick: Taiwan
+[23:29:52] BCraftMG: !mp timer 120
+[23:29:52] BanchoBot: Countdown ends in 2 minutes
+[23:30:53] BanchoBot: Countdown ends in 1 minute
+[23:31:01] BanchoBot: Yue0426 left the game.
+[23:31:13] BanchoBot: -Kairy- left the game.
+[23:31:17] BanchoBot: Yue0427 joined in slot 4 for team red.
+[23:31:23] BanchoBot: Countdown ends in 30 seconds
+[23:31:42] BanchoBot: Countdown ends in 10 seconds
+[23:31:48] Yue0430: FM2
+[23:31:48] BanchoBot: Countdown ends in 5 seconds
+[23:31:49] BanchoBot: Countdown ends in 4 seconds
+[23:31:50] BanchoBot: Countdown ends in 3 seconds
+[23:31:52] BanchoBot: Countdown ends in 2 seconds
+[23:31:52] BanchoBot: Countdown ends in 1 second
+[23:31:54] BanchoBot: AkaiSenpai left the game.
+[23:31:54] BanchoBot: Countdown finished
+[23:31:57] BCraftMG: !mp map 4027503 0
+[23:31:58] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4027503 cactus flower - glide
+[23:31:58] BanchoBot: Changed match mode to Osu
+[23:32:00] BCraftMG: !mp mods Freemod
+[23:32:01] BanchoBot: Rulz joined in slot 6 for team red.
+[23:32:01] BanchoBot: Disabled all mods, enabled FreeMod
+[23:32:04] BanchoBot: Rulz changed to Blue
+[23:32:06] BCraftMG: !mp timer 120
+[23:32:08] BanchoBot: Countdown ends in 2 minutes
+[23:32:27] BanchoBot: Yue0430 moved to slot 12
+[23:32:32] BanchoBot: Miqt moved to slot 7
+[23:32:47] BanchoBot: Yue0426 joined in slot 3 for team blue.
+[23:32:50] BanchoBot: Yue0426 changed to Red
+[23:33:00] BanchoBot: Yue0430 left the game.
+[23:33:04] BanchoBot: -Kairy- joined in slot 8 for team red.
+[23:33:09] BanchoBot: Countdown ends in 1 minute
+[23:33:16] BanchoBot: -Kairy- changed to Blue
+[23:33:38] BanchoBot: Countdown ends in 30 seconds
+[23:33:58] BanchoBot: Countdown ends in 10 seconds
+[23:34:01] BCraftMG: !mp settings
+[23:34:03] BanchoBot: All players are ready
+[23:34:03] BanchoBot: Room name: 5WC2023: (Taiwan) vs (Peru), History: https://osu.ppy.sh/mp/107175347
+[23:34:03] BanchoBot: Beatmap: https://osu.ppy.sh/b/4027503 cactus flower - glide
+[23:34:03] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:34:03] BanchoBot: Active mods: Freemod
+[23:34:03] BanchoBot: Players: 8
+[23:34:03] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7989469 Yue0425         [Team Red  / NoFail, Hidden]
+[23:34:03] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3538079 Yue0423         [Team Red  / NoFail, HardRock]
+[23:34:03] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8186536 Yue0426         [Team Red  / NoFail, HardRock]
+[23:34:03] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16288992 Yue0427         [Team Red  / NoFail, Hidden]
+[23:34:03] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/18495184 Takodachi       [Team Blue / NoFail, Hidden]
+[23:34:03] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12027165 Rulz            [Team Blue / NoFail, Hidden]
+[23:34:03] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11405734 Miqt            [Team Blue / NoFail, HardRock]
+[23:34:03] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/2791044 -Kairy-         [Team Blue / NoFail, HardRock]
+[23:34:04] BanchoBot: Countdown ends in 5 seconds
+[23:34:05] BanchoBot: Countdown ends in 4 seconds
+[23:34:05] Yue0426: glgl
+[23:34:06] BanchoBot: Countdown ends in 3 seconds
+[23:34:06] BanchoBot: Countdown ends in 2 seconds
+[23:34:08] BanchoBot: Countdown ends in 1 second
+[23:34:08] BanchoBot: Countdown finished
+[23:34:09] Miqt: glgl
+[23:34:10] BCraftMG: !mp start 5 glhf
+[23:34:10] BanchoBot: Match starts in 5 seconds
+[23:34:10] BanchoBot: Queued the match to start in 5 seconds
+[23:34:12] BanchoBot: Match starts in 4 seconds
+[23:34:12] -Kairy-: :3
+[23:34:13] BanchoBot: Match starts in 3 seconds
+[23:34:14] BanchoBot: Good luck, have fun!
+[23:34:14] Yue0423: gl
+[23:34:16] BanchoBot: The match has started!
+[23:36:54] BanchoBot: -Kairy- finished playing (Score: 418587, PASSED).
+[23:36:54] BanchoBot: Takodachi finished playing (Score: 417748, PASSED).
+[23:36:54] BanchoBot: Yue0425 finished playing (Score: 564978, PASSED).
+[23:36:54] BanchoBot: Yue0423 finished playing (Score: 761564, PASSED).
+[23:36:55] BanchoBot: Yue0426 finished playing (Score: 275162, PASSED).
+[23:36:55] BanchoBot: Yue0427 finished playing (Score: 422480, PASSED).
+[23:36:56] BanchoBot: Miqt finished playing (Score: 532255, PASSED).
+[23:36:56] BanchoBot: Rulz finished playing (Score: 591886, PASSED).
+[23:36:56] BanchoBot: The match has finished!
+[23:37:10] BCraftMG: Taiwan | 3 - 0 | Peru // Bo9 - Next Pick: Peru
+[23:37:13] BanchoBot: Yue0430 joined in slot 9 for team blue.
+[23:37:13] BCraftMG: !mp timer 120
+[23:37:14] BanchoBot: Countdown ends in 2 minutes
+[23:38:11] BanchoBot: -Kairy- left the game.
+[23:38:14] BanchoBot: Countdown ends in 1 minute
+[23:38:15] BanchoBot: Yue0430 changed to Red
+[23:38:36] Takodachi: nm1
+[23:38:44] BanchoBot: Countdown ends in 30 seconds
+[23:38:48] BCraftMG: !mp map 3581594 0
+[23:38:48] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3581594 Ryokuoushoku Shakai - S.T.U.D
+[23:38:48] BanchoBot: Changed match mode to Osu
+[23:38:49] BCraftMG: !mp mods 1
+[23:38:50] BanchoBot: Enabled NoFail, disabled FreeMod
+[23:38:54] BCraftMG: !mp timer 120
+[23:38:54] Yue0426: :rage:
+[23:38:55] BanchoBot: Countdown aborted
+[23:38:55] BanchoBot: Countdown ends in 2 minutes
+[23:38:58] BanchoBot: Yue0425 left the game.
+[23:39:02] BanchoBot: Yue0426 left the game.
+[23:39:06] BanchoBot: Yue0430 moved to slot 3
+[23:39:07] BanchoBot: Yue0425 joined in slot 1 for team blue.
+[23:39:12] BanchoBot: -Kairy- joined in slot 8 for team red.
+[23:39:15] BanchoBot: Yue0425 changed to Red
+[23:39:18] BanchoBot: Yue0423 moved to slot 10
+[23:39:19] BanchoBot: -Kairy- changed to Blue
+[23:39:40] BanchoBot: Yue0423 left the game.
+[23:39:55] BanchoBot: Countdown ends in 1 minute
+[23:40:11] BanchoBot: Yue0426 joined in slot 2 for team red.
+[23:40:24] BanchoBot: All players are ready
+[23:40:26] BanchoBot: Countdown ends in 30 seconds
+[23:40:26] Yue0430: glhf
+[23:40:26] BCraftMG: !mp settings
+[23:40:27] BanchoBot: Room name: 5WC2023: (Taiwan) vs (Peru), History: https://osu.ppy.sh/mp/107175347
+[23:40:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/3581594 Ryokuoushoku Shakai - S.T.U.D
+[23:40:27] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:40:27] BanchoBot: Active mods: NoFail
+[23:40:27] BanchoBot: Players: 8
+[23:40:27] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7989469 Yue0425         [Team Red ]
+[23:40:27] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8186536 Yue0426         [Team Red ]
+[23:40:27] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15184992 Yue0430         [Team Red ]
+[23:40:27] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16288992 Yue0427         [Team Red ]
+[23:40:27] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/18495184 Takodachi       [Team Blue]
+[23:40:27] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12027165 Rulz            [Team Blue]
+[23:40:27] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11405734 Miqt            [Team Blue]
+[23:40:27] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/2791044 -Kairy-         [Team Blue]
+[23:40:30] BCraftMG: !mp start 5 glhf
+[23:40:31] Miqt: glgl
+[23:40:31] BanchoBot: Countdown aborted
+[23:40:31] BanchoBot: Match starts in 5 seconds
+[23:40:31] BanchoBot: Queued the match to start in 5 seconds
+[23:40:32] BanchoBot: Match starts in 4 seconds
+[23:40:33] BanchoBot: Match starts in 3 seconds
+[23:40:34] BanchoBot: Good luck, have fun!
+[23:40:36] BanchoBot: The match has started!
+[23:44:42] BanchoBot: Miqt finished playing (Score: 760253, PASSED).
+[23:44:42] BanchoBot: Takodachi finished playing (Score: 941060, PASSED).
+[23:44:43] BanchoBot: Yue0430 finished playing (Score: 549914, PASSED).
+[23:44:43] BanchoBot: -Kairy- finished playing (Score: 668422, PASSED).
+[23:44:43] BanchoBot: Yue0425 finished playing (Score: 963857, PASSED).
+[23:44:43] BanchoBot: Yue0427 finished playing (Score: 966102, PASSED).
+[23:44:45] BanchoBot: Rulz finished playing (Score: 610822, PASSED).
+[23:44:45] BanchoBot: Yue0426 finished playing (Score: 914762, PASSED).
+[23:44:45] BanchoBot: The match has finished!
+[23:45:02] BCraftMG: Taiwan | 4 - 0 | Peru // Bo9 - Next Pick: Taiwan
+[23:45:06] BCraftMG: !mp timer 120
+[23:45:06] BanchoBot: Countdown ends in 2 minutes
+[23:45:34] BanchoBot: Yue0426 left the game.
+[23:45:59] BanchoBot: Yue0428 joined in slot 2 for team red.
+[23:46:03] Yue0430: DT2
+[23:46:07] BanchoBot: Countdown ends in 1 minute
+[23:46:09] BanchoBot: Yue0425 left the game.
+[23:46:23] BCraftMG: !mp map 2813113 0
+[23:46:24] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2813113 Kasokaso (Prismagic) feat. Sennzai - Watashi wa Yume to Kimi no Tame ni
+[23:46:24] BanchoBot: Changed match mode to Osu
+[23:46:25] BCraftMG: !mp mods 65
+[23:46:27] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[23:46:27] BCraftMG: !mp timer 120
+[23:46:28] BanchoBot: Countdown aborted
+[23:46:28] BanchoBot: Countdown ends in 2 minutes
+[23:46:37] BanchoBot: Rulz left the game.
+[23:46:39] BanchoBot: Yue0430 moved to slot 9
+[23:46:45] BanchoBot: -Yuuu joined in slot 1 for team blue.
+[23:46:46] BanchoBot: Yue0426 joined in slot 3 for team blue.
+[23:46:50] BanchoBot: -Yuuu left the game.
+[23:46:57] BanchoBot: Yue0426 changed to Red
+[23:47:17] BanchoBot: Yue0425 joined in slot 1 for team blue.
+[23:47:22] BanchoBot: Yue0425 changed to Red
+[23:47:26] BanchoBot: Yue0430 left the game.
+[23:47:29] BanchoBot: Countdown ends in 1 minute
+[23:47:30] BanchoBot: Miqt moved to slot 6
+[23:47:33] BanchoBot: -Kairy- moved to slot 7
+[23:47:42] BanchoBot: AkaiSenpai joined in slot 8 for team red.
+[23:47:58] BanchoBot: Countdown ends in 30 seconds
+[23:48:18] BanchoBot: Countdown ends in 10 seconds
+[23:48:24] BanchoBot: Countdown ends in 5 seconds
+[23:48:25] BanchoBot: Countdown ends in 4 seconds
+[23:48:25] BanchoBot: Countdown ends in 3 seconds
+[23:48:26] BanchoBot: Countdown ends in 2 seconds
+[23:48:26] BanchoBot: AkaiSenpai changed to Blue
+[23:48:28] BanchoBot: Countdown ends in 1 second
+[23:48:29] BanchoBot: Countdown finished
+[23:48:32] BCraftMG: !mp settings
+[23:48:33] BanchoBot: Room name: 5WC2023: (Taiwan) vs (Peru), History: https://osu.ppy.sh/mp/107175347
+[23:48:33] BanchoBot: Beatmap: https://osu.ppy.sh/b/2813113 Kasokaso (Prismagic) feat. Sennzai - Watashi wa Yume to Kimi no Tame ni
+[23:48:33] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:48:33] BanchoBot: Active mods: NoFail, DoubleTime
+[23:48:33] BanchoBot: Players: 8
+[23:48:33] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7989469 Yue0425         [Team Red ]
+[23:48:33] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13291701 Yue0428         [Team Red ]
+[23:48:33] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8186536 Yue0426         [Team Red ]
+[23:48:33] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16288992 Yue0427         [Team Red ]
+[23:48:33] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/18495184 Takodachi       [Team Blue]
+[23:48:33] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11405734 Miqt            [Team Blue]
+[23:48:33] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/2791044 -Kairy-         [Team Blue]
+[23:48:33] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/13072209 AkaiSenpai      [Team Blue]
+[23:48:35] BanchoBot: All players are ready
+[23:48:36] BCraftMG: Ready up!
+[23:48:37] BCraftMG: !mp settings
+[23:48:39] BanchoBot: Room name: 5WC2023: (Taiwan) vs (Peru), History: https://osu.ppy.sh/mp/107175347
+[23:48:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/2813113 Kasokaso (Prismagic) feat. Sennzai - Watashi wa Yume to Kimi no Tame ni
+[23:48:39] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:48:39] BanchoBot: Active mods: NoFail, DoubleTime
+[23:48:39] BanchoBot: Players: 8
+[23:48:39] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7989469 Yue0425         [Team Red ]
+[23:48:39] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13291701 Yue0428         [Team Red ]
+[23:48:39] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8186536 Yue0426         [Team Red ]
+[23:48:39] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16288992 Yue0427         [Team Red ]
+[23:48:39] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/18495184 Takodachi       [Team Blue]
+[23:48:39] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11405734 Miqt            [Team Blue]
+[23:48:39] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/2791044 -Kairy-         [Team Blue]
+[23:48:39] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/13072209 AkaiSenpai      [Team Blue]
+[23:48:40] BCraftMG: !mp start 5 glhf
+[23:48:41] Takodachi: GLHF!!!!!
+[23:48:41] BanchoBot: Match starts in 5 seconds
+[23:48:41] BanchoBot: Queued the match to start in 5 seconds
+[23:48:42] Yue0428: glhf
+[23:48:42] BanchoBot: Match starts in 4 seconds
+[23:48:43] BanchoBot: Match starts in 3 seconds
+[23:48:43] Miqt: glgl
+[23:48:45] BanchoBot: Good luck, have fun!
+[23:48:45] AkaiSenpai: gl
+[23:48:45] Yue0425: glhf!!!
+[23:48:46] BanchoBot: The match has started!
+[23:51:39] BanchoBot: -Kairy- finished playing (Score: 492597, PASSED).
+[23:51:39] BanchoBot: Miqt finished playing (Score: 563131, PASSED).
+[23:51:39] BanchoBot: Takodachi finished playing (Score: 431098, PASSED).
+[23:51:39] BanchoBot: Yue0425 finished playing (Score: 443151, PASSED).
+[23:51:40] BanchoBot: Yue0427 finished playing (Score: 598050, PASSED).
+[23:51:40] BanchoBot: AkaiSenpai finished playing (Score: 332329, PASSED).
+[23:51:40] BanchoBot: Yue0428 finished playing (Score: 449774, PASSED).
+[23:51:40] BanchoBot: Yue0426 finished playing (Score: 1012477, PASSED).
+[23:51:40] BanchoBot: The match has finished!
+[23:51:47] BanchoBot: Yue0428 left the game.
+[23:51:48] BanchoBot: Yue0430 joined in slot 2 for team red.
+[23:51:48] BanchoBot: Yue0423 joined in slot 9 for team blue.
+[23:51:52] -Kairy-: gg
+[23:51:54] BCraftMG: Taiwan | 5 - 0 | Peru // Taiwan wins! GGWP
+[23:51:59] Yue0425: ggwp!
+[23:52:00] Yue0430: ggwp
+[23:52:02] AkaiSenpai: ggwp
+[23:52:02] Yue0427: ggwp
+[23:52:02] Yue0430: ty for ref
+[23:52:03] BanchoBot: Yue0423 changed to Red
+[23:52:03] Yue0426: gg
+[23:52:05] Yue0426: ty for ref~
+[23:52:08] BanchoBot: Yue0426 left the game.
+[23:52:09] Miqt: ggs
+[23:52:11] BanchoBot: Miqt left the game.
+[23:52:11] Yue0423: ggs
+[23:52:11] Yue0425: ty for ref!
+[23:52:13] BanchoBot: AkaiSenpai left the game.
+[23:52:20] BanchoBot: Yue0430 left the game.
+[23:52:21] BanchoBot: Yue0427 left the game.
+[23:52:21] Takodachi: ggwp all
+[23:52:21] Yue0423: thx for ref and streaming
+[23:52:22] BanchoBot: Yue0423 left the game.
+[23:52:25] Takodachi: thx 4 ref and cast
+[23:52:25] BanchoBot: Yue0425 left the game.
+[23:52:26] Takodachi: o/////
+[23:52:29] BanchoBot: Takodachi left the game.
+[23:52:33] BanchoBot: -Kairy- left the game.
+[23:54:10] BCraftMG: !mp close
+[23:54:12] BanchoBot: Closed the match

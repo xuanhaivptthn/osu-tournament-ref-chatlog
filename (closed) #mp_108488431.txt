@@ -1,0 +1,574 @@
+[22:52:32] Joined #mp_108488431
+[22:52:32] BCraftMG: !mp settings
+[22:52:33] BanchoBot: Room name: 4WC23:VN: (Qualifiers) vs (Match C5), History: https://osu.ppy.sh/mp/108488431
+[22:52:33] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[22:52:33] BanchoBot: Players: 0
+[22:52:58] BCraftMG: !mp set 0 3 8
+[22:52:59] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[22:53:32] BCraftMG: !mp invite #8266808
+[22:53:33] BanchoBot: Invited [Boy]DaLat to the room
+[22:53:35] BCraftMG: !mp invite #10976903
+[22:53:36] BanchoBot: Invited Satxri to the room
+[22:54:25] BCraftMG: !mp map 3168035 0
+[22:54:26] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3168035 ZAQ - Last Proof
+[22:54:26] BanchoBot: Changed match mode to Osu
+[22:54:26] BCraftMG: !mp mods 1
+[22:54:27] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:55:18] BanchoBot: [Boy]DaLat joined in slot 1.
+[22:55:58] BCraftMG: mp invite #10976903
+[22:56:00] BCraftMG: !mp invite #10976903
+[22:56:01] BanchoBot: User not found
+[22:56:06] BCraftMG: USER NOT FOUND
+[22:56:17] BCraftMG: mp invite #10976903
+[22:56:23] BCraftMG: !mp invite #10976903
+[22:56:23] BanchoBot: Invited Satxri to the room
+[22:56:26] BanchoBot: Satxri joined in slot 2.
+[22:56:34] BanchoBot: All players are ready
+[22:56:36] BCraftMG: !mp settings
+[22:56:37] BanchoBot: Room name: 4WC23:VN: (Qualifiers) vs (Match C5), History: https://osu.ppy.sh/mp/108488431
+[22:56:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/3168035 ZAQ - Last Proof
+[22:56:37] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:56:37] BanchoBot: Active mods: NoFail
+[22:56:37] BanchoBot: Players: 2
+[22:56:37] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      
+[22:56:37] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10976903 Satxri          
+[22:56:38] BCraftMG: !mp start 5 glhf
+[22:56:39] BanchoBot: Match starts in 5 seconds
+[22:56:39] BanchoBot: Queued the match to start in 5 seconds
+[22:56:40] BanchoBot: Match starts in 4 seconds
+[22:56:41] BanchoBot: Match starts in 3 seconds
+[22:56:42] BanchoBot: Good luck, have fun!
+[22:56:44] BanchoBot: The match has started!
+[22:56:47] BCraftMG: satxri sang mau
+[23:01:32] BanchoBot: [Boy]DaLat finished playing (Score: 315481, PASSED).
+[23:01:33] BanchoBot: Satxri finished playing (Score: 307720, PASSED).
+[23:01:33] BanchoBot: The match has finished!
+[23:01:37] BCraftMG: !mp map 3831190 0
+[23:01:37] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3831190 DUAL ALTER WORLD - Dimension Expander
+[23:01:37] BanchoBot: Changed match mode to Osu
+[23:02:14] BanchoBot: All players are ready
+[23:02:20] BCraftMG: !mp settings
+[23:02:21] BanchoBot: Room name: 4WC23:VN: (Qualifiers) vs (Match C5), History: https://osu.ppy.sh/mp/108488431
+[23:02:21] BanchoBot: Beatmap: https://osu.ppy.sh/b/3831190 DUAL ALTER WORLD - Dimension Expander
+[23:02:21] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:02:21] BanchoBot: Active mods: NoFail
+[23:02:21] BanchoBot: Players: 2
+[23:02:21] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      
+[23:02:21] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10976903 Satxri          
+[23:02:22] BCraftMG: !mp start 5 glhf
+[23:02:22] BanchoBot: Match starts in 5 seconds
+[23:02:22] BanchoBot: Queued the match to start in 5 seconds
+[23:02:23] BanchoBot: Match starts in 4 seconds
+[23:02:24] BanchoBot: Match starts in 3 seconds
+[23:02:25] BanchoBot: Good luck, have fun!
+[23:02:28] BanchoBot: The match has started!
+[23:06:25] BanchoBot: Satxri finished playing (Score: 250591, PASSED).
+[23:06:25] BanchoBot: [Boy]DaLat finished playing (Score: 97915, PASSED).
+[23:06:25] BanchoBot: The match has finished!
+[23:06:35] BCraftMG: !mp map 2994140 0
+[23:06:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2994140 RichaadEB - Night of Fire
+[23:06:36] BanchoBot: Changed match mode to Osu
+[23:06:50] BCraftMG: @satxri xin stream co audio
+[23:07:12] BanchoBot: All players are ready
+[23:07:14] BCraftMG: !mp settings
+[23:07:15] BanchoBot: Room name: 4WC23:VN: (Qualifiers) vs (Match C5), History: https://osu.ppy.sh/mp/108488431
+[23:07:15] BanchoBot: Beatmap: https://osu.ppy.sh/b/2994140 RichaadEB - Night of Fire
+[23:07:15] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:07:15] BanchoBot: Active mods: NoFail
+[23:07:15] BanchoBot: Players: 2
+[23:07:15] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      
+[23:07:15] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10976903 Satxri          
+[23:07:20] BCraftMG: !mp start 5 glhf
+[23:07:21] BanchoBot: Match starts in 5 seconds
+[23:07:21] BanchoBot: Queued the match to start in 5 seconds
+[23:07:22] BanchoBot: Match starts in 4 seconds
+[23:07:24] BanchoBot: Match starts in 3 seconds
+[23:07:25] BanchoBot: Good luck, have fun!
+[23:07:27] BanchoBot: The match has started!
+[23:11:33] BCraftMG: !mp invite Tuon
+[23:11:34] BanchoBot: Invited Tuon to the room
+[23:11:40] BanchoBot: Tuon joined in slot 3.
+[23:11:49] BCraftMG: no map
+[23:11:50] BanchoBot: Tuon left the game.
+[23:11:51] BCraftMG: mp kick
+[23:12:09] BanchoBot: Satxri finished playing (Score: 149656, PASSED).
+[23:12:11] BanchoBot: [Boy]DaLat finished playing (Score: 310422, PASSED).
+[23:12:11] BanchoBot: The match has finished!
+[23:12:21] BCraftMG: !mp map 3271906 0
+[23:12:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3271906 3R2 - Blow My Mind (tpz Overheat Remix)
+[23:12:21] BanchoBot: Changed match mode to Osu
+[23:12:30] BanchoBot: Tuon joined in slot 3.
+[23:12:33] BanchoBot: Tuon moved to slot 8
+[23:12:46] BCraftMG: !mp size 16
+[23:12:46] BanchoBot: Changed match to size 16
+[23:12:50] Satxri: bat hd dc k
+[23:12:56] Satxri: dau mat qua
+[23:13:07] BanchoBot: Tuon moved to slot 16
+[23:13:23] BanchoBot: All players are ready
+[23:13:24] BCraftMG: !mp settings
+[23:13:26] BanchoBot: Room name: 4WC23:VN: (Qualifiers) vs (Match C5), History: https://osu.ppy.sh/mp/108488431
+[23:13:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/3271906 3R2 - Blow My Mind (tpz Overheat Remix)
+[23:13:26] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:13:26] BanchoBot: Active mods: NoFail
+[23:13:26] BanchoBot: Players: 3
+[23:13:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      
+[23:13:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10976903 Satxri          
+[23:13:26] BanchoBot: Slot 16 Ready     https://osu.ppy.sh/u/6673790 Tuon            
+[23:13:27] BCraftMG: !mp start 5 glhf
+[23:13:27] BanchoBot: Match starts in 5 seconds
+[23:13:28] BanchoBot: Queued the match to start in 5 seconds
+[23:13:29] BanchoBot: Match starts in 4 seconds
+[23:13:30] BanchoBot: Match starts in 3 seconds
+[23:13:31] BanchoBot: Good luck, have fun!
+[23:13:33] BanchoBot: The match has started!
+[23:16:11] BanchoBot: Tuon finished playing (Score: 299020, PASSED).
+[23:16:11] BanchoBot: [Boy]DaLat finished playing (Score: 314564, PASSED).
+[23:16:12] BanchoBot: Satxri finished playing (Score: 117418, PASSED).
+[23:16:12] BanchoBot: The match has finished!
+[23:16:30] BCraftMG: !mp map 3868006 0
+[23:16:31] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3868006 Powerless - Noblesse Oblige (Long Version)
+[23:16:31] BanchoBot: Changed match mode to Osu
+[23:16:41] BCraftMG: !mp start
+[23:16:42] BanchoBot: The match has started!
+[23:16:42] BanchoBot: Started the match
+[23:16:47] BCraftMG: !mp abort
+[23:16:48] BanchoBot: Aborted the match
+[23:17:01] BanchoBot: All players are ready
+[23:17:03] BCraftMG: !mp settings
+[23:17:04] BanchoBot: Room name: 4WC23:VN: (Qualifiers) vs (Match C5), History: https://osu.ppy.sh/mp/108488431
+[23:17:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/3868006 Powerless - Noblesse Oblige (Long Version)
+[23:17:04] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:17:04] BanchoBot: Active mods: NoFail
+[23:17:04] BanchoBot: Players: 3
+[23:17:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      
+[23:17:04] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10976903 Satxri          
+[23:17:04] BanchoBot: Slot 16 Ready     https://osu.ppy.sh/u/6673790 Tuon            
+[23:17:05] BCraftMG: !mp start 5 glhf
+[23:17:06] BanchoBot: Match starts in 5 seconds
+[23:17:06] BanchoBot: Queued the match to start in 5 seconds
+[23:17:07] BanchoBot: Match starts in 4 seconds
+[23:17:08] BanchoBot: Match starts in 3 seconds
+[23:17:09] BanchoBot: Good luck, have fun!
+[23:17:12] BanchoBot: The match has started!
+[23:20:59] BanchoBot: Tuon finished playing (Score: 158904, PASSED).
+[23:21:00] BanchoBot: [Boy]DaLat finished playing (Score: 291876, PASSED).
+[23:21:00] BanchoBot: Satxri finished playing (Score: 64649, PASSED).
+[23:21:00] BanchoBot: The match has finished!
+[23:21:06] BCraftMG: !mp map 2843995 0
+[23:21:07] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2843995 Unlucky Morpheus - Top of the "M"
+[23:21:07] BanchoBot: Changed match mode to Osu
+[23:21:07] BCraftMG: !mp mods 9
+[23:21:08] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[23:21:34] BCraftMG: sound compression cung ra gi day
+[23:21:52] BCraftMG: thua
+[23:22:03] Tuon: !mp start
+[23:22:05] BanchoBot: All players are ready
+[23:22:07] BCraftMG: !mp settings
+[23:22:08] BanchoBot: Room name: 4WC23:VN: (Qualifiers) vs (Match C5), History: https://osu.ppy.sh/mp/108488431
+[23:22:08] BanchoBot: Beatmap: https://osu.ppy.sh/b/2843995 Unlucky Morpheus - Top of the "M"
+[23:22:08] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:22:08] BanchoBot: Active mods: NoFail, Hidden
+[23:22:08] BanchoBot: Players: 3
+[23:22:08] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      
+[23:22:08] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10976903 Satxri          
+[23:22:08] BanchoBot: Slot 16 Ready     https://osu.ppy.sh/u/6673790 Tuon            
+[23:22:08] BCraftMG: !mp start 5 glhf
+[23:22:08] BanchoBot: Match starts in 5 seconds
+[23:22:08] BanchoBot: Queued the match to start in 5 seconds
+[23:22:10] BanchoBot: Match starts in 4 seconds
+[23:22:11] BanchoBot: Match starts in 3 seconds
+[23:22:12] BanchoBot: Good luck, have fun!
+[23:22:14] BanchoBot: The match has started!
+[23:23:09] BCraftMG: :copium:
+[23:25:28] BCraftMG: vcl stream fb
+[23:25:30] BCraftMG: deo ai ngo duoc
+[23:25:40] BanchoBot: Satxri finished playing (Score: 255735, PASSED).
+[23:25:41] BanchoBot: Tuon finished playing (Score: 170120, PASSED).
+[23:25:41] BanchoBot: [Boy]DaLat finished playing (Score: 335980, PASSED).
+[23:25:41] BanchoBot: The match has finished!
+[23:25:51] BCraftMG: !mp map 3959365 0
+[23:25:52] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3959365 Mitsukiyo - Rolling Beat
+[23:25:52] BanchoBot: Changed match mode to Osu
+[23:26:25] BanchoBot: All players are ready
+[23:26:28] BCraftMG: !mp settings
+[23:26:28] BanchoBot: Room name: 4WC23:VN: (Qualifiers) vs (Match C5), History: https://osu.ppy.sh/mp/108488431
+[23:26:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/3959365 Mitsukiyo - Rolling Beat
+[23:26:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:26:28] BanchoBot: Active mods: NoFail, Hidden
+[23:26:28] BanchoBot: Players: 3
+[23:26:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      
+[23:26:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10976903 Satxri          
+[23:26:28] BanchoBot: Slot 16 Ready     https://osu.ppy.sh/u/6673790 Tuon            
+[23:26:31] BCraftMG: !mp start 5 glhf
+[23:26:32] BanchoBot: Match starts in 5 seconds
+[23:26:32] BanchoBot: Queued the match to start in 5 seconds
+[23:26:33] BanchoBot: Match starts in 4 seconds
+[23:26:35] BanchoBot: Match starts in 3 seconds
+[23:26:36] BanchoBot: Good luck, have fun!
+[23:26:38] BanchoBot: The match has started!
+[23:29:05] BanchoBot: Tuon finished playing (Score: 231929, PASSED).
+[23:29:05] BanchoBot: [Boy]DaLat finished playing (Score: 240118, PASSED).
+[23:29:05] BanchoBot: Satxri finished playing (Score: 135541, PASSED).
+[23:29:05] BanchoBot: The match has finished!
+[23:29:09] BCraftMG: !mp map 3743840 0
+[23:29:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3743840 Coconatsu - Ronron e Rairairai!
+[23:29:10] BanchoBot: Changed match mode to Osu
+[23:29:12] BanchoBot: Tuon left the game.
+[23:30:19] BanchoBot: All players are ready
+[23:30:25] BCraftMG: !mp settings
+[23:30:25] BanchoBot: Room name: 4WC23:VN: (Qualifiers) vs (Match C5), History: https://osu.ppy.sh/mp/108488431
+[23:30:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/3743840 Coconatsu - Ronron e Rairairai!
+[23:30:25] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:30:25] BanchoBot: Active mods: NoFail, Hidden
+[23:30:25] BanchoBot: Players: 2
+[23:30:25] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      
+[23:30:25] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10976903 Satxri          
+[23:30:26] BCraftMG: !mp start 5 glhf
+[23:30:26] BanchoBot: Match starts in 5 seconds
+[23:30:26] BanchoBot: Queued the match to start in 5 seconds
+[23:30:27] BanchoBot: Match starts in 4 seconds
+[23:30:28] BanchoBot: Match starts in 3 seconds
+[23:30:29] BanchoBot: Good luck, have fun!
+[23:30:31] BanchoBot: The match has started!
+[23:32:36] BanchoBot: [Boy]DaLat finished playing (Score: 132494, PASSED).
+[23:32:37] BanchoBot: Satxri finished playing (Score: 60076, PASSED).
+[23:32:37] BanchoBot: The match has finished!
+[23:32:44] BCraftMG: !mp map 2278105 0
+[23:32:44] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2278105 Itowokashi - Kanadeai
+[23:32:44] BanchoBot: Changed match mode to Osu
+[23:32:47] BCraftMG: !mpm ods 17
+[23:32:52] BCraftMG: !mp mods 1
+[23:32:53] BanchoBot: Enabled NoFail, disabled FreeMod
+[23:32:54] BCraftMG: !mp mods 17
+[23:32:55] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[23:33:03] BanchoBot: Tuon joined in slot 3.
+[23:33:16] BanchoBot: Tuon moved to slot 16
+[23:33:19] BanchoBot: All players are ready
+[23:33:22] BCraftMG: !mp settings
+[23:33:23] BanchoBot: Room name: 4WC23:VN: (Qualifiers) vs (Match C5), History: https://osu.ppy.sh/mp/108488431
+[23:33:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/2278105 Itowokashi - Kanadeai
+[23:33:23] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:33:23] BanchoBot: Active mods: NoFail, HardRock
+[23:33:23] BanchoBot: Players: 3
+[23:33:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      
+[23:33:23] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10976903 Satxri          
+[23:33:23] BanchoBot: Slot 16 Ready     https://osu.ppy.sh/u/6673790 Tuon            
+[23:33:23] BCraftMG: !mp start 5 glhf
+[23:33:24] BanchoBot: Match starts in 5 seconds
+[23:33:24] BanchoBot: Queued the match to start in 5 seconds
+[23:33:25] BanchoBot: Match starts in 4 seconds
+[23:33:26] BanchoBot: Match starts in 3 seconds
+[23:33:27] BanchoBot: Good luck, have fun!
+[23:33:29] BanchoBot: The match has started!
+[23:37:27] BanchoBot: [Boy]DaLat finished playing (Score: 550928, PASSED).
+[23:37:28] BanchoBot: Satxri finished playing (Score: 242400, PASSED).
+[23:37:28] BanchoBot: Tuon finished playing (Score: 491440, PASSED).
+[23:37:28] BanchoBot: The match has finished!
+[23:37:30] BCraftMG: !mp map 2996890 0
+[23:37:31] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2996890 PSYQUI - Decay
+[23:37:31] BanchoBot: Changed match mode to Osu
+[23:37:40] Satxri: dien 0 dc k
+[23:37:58] BCraftMG: ha
+[23:38:05] BanchoBot: All players are ready
+[23:38:07] BCraftMG: !mp settings
+[23:38:08] BanchoBot: Room name: 4WC23:VN: (Qualifiers) vs (Match C5), History: https://osu.ppy.sh/mp/108488431
+[23:38:08] BanchoBot: Beatmap: https://osu.ppy.sh/b/2996890 PSYQUI - Decay
+[23:38:08] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:38:08] BanchoBot: Active mods: NoFail, HardRock
+[23:38:08] BanchoBot: Players: 3
+[23:38:08] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      
+[23:38:08] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10976903 Satxri          
+[23:38:08] BanchoBot: Slot 16 Ready     https://osu.ppy.sh/u/6673790 Tuon            
+[23:38:10] BCraftMG: !mp start 5 glhf
+[23:38:10] BanchoBot: Match starts in 5 seconds
+[23:38:10] BanchoBot: Queued the match to start in 5 seconds
+[23:38:11] BanchoBot: Match starts in 4 seconds
+[23:38:12] BanchoBot: Match starts in 3 seconds
+[23:38:14] BanchoBot: Good luck, have fun!
+[23:38:16] BanchoBot: The match has started!
+[23:41:31] BanchoBot: Satxri finished playing (Score: 0, PASSED).
+[23:41:36] BanchoBot: Tuon finished playing (Score: 171291, PASSED).
+[23:41:36] BanchoBot: [Boy]DaLat finished playing (Score: 354146, PASSED).
+[23:41:36] BanchoBot: The match has finished!
+[23:41:42] BCraftMG: !mp map 2819029 0
+[23:41:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2819029 Feryquitous - Quon-Extend-
+[23:41:43] BanchoBot: Changed match mode to Osu
+[23:41:50] BanchoBot: [Boy]DaLat left the game.
+[23:42:06] BanchoBot: [Boy]DaLat joined in slot 1.
+[23:42:14] BCraftMG: happi happi happi
+[23:42:19] BanchoBot: All players are ready
+[23:42:19] BCraftMG: happi happi happi happi happi
+[23:42:22] BCraftMG: !mp settings
+[23:42:23] BanchoBot: Room name: 4WC23:VN: (Qualifiers) vs (Match C5), History: https://osu.ppy.sh/mp/108488431
+[23:42:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/2819029 Feryquitous - Quon-Extend-
+[23:42:23] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:42:23] BanchoBot: Active mods: NoFail, HardRock
+[23:42:23] BanchoBot: Players: 3
+[23:42:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      
+[23:42:23] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10976903 Satxri          
+[23:42:23] BanchoBot: Slot 16 Ready     https://osu.ppy.sh/u/6673790 Tuon            
+[23:42:24] BCraftMG: !mp start 5 glhf
+[23:42:25] BanchoBot: Match starts in 5 seconds
+[23:42:25] BanchoBot: Queued the match to start in 5 seconds
+[23:42:26] BanchoBot: Match starts in 4 seconds
+[23:42:27] BanchoBot: Match starts in 3 seconds
+[23:42:28] BanchoBot: Good luck, have fun!
+[23:42:31] BanchoBot: The match has started!
+[23:45:37] BanchoBot: Satxri finished playing (Score: 263478, PASSED).
+[23:45:37] BanchoBot: [Boy]DaLat finished playing (Score: 374254, PASSED).
+[23:45:37] BanchoBot: Tuon finished playing (Score: 575908, PASSED).
+[23:45:37] BanchoBot: The match has finished!
+[23:45:42] BCraftMG: !mp map 3880866 0
+[23:45:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3880866 mamenoi - Kleinchen
+[23:45:43] BanchoBot: Changed match mode to Osu
+[23:46:06] BCraftMG: !mp mods 65
+[23:46:07] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[23:47:10] BanchoBot: All players are ready
+[23:47:12] BCraftMG: !mp settings
+[23:47:13] BanchoBot: Room name: 4WC23:VN: (Qualifiers) vs (Match C5), History: https://osu.ppy.sh/mp/108488431
+[23:47:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/3880866 mamenoi - Kleinchen
+[23:47:13] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:47:13] BanchoBot: Active mods: NoFail, DoubleTime
+[23:47:13] BanchoBot: Players: 3
+[23:47:13] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      
+[23:47:13] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10976903 Satxri          
+[23:47:13] BanchoBot: Slot 16 Ready     https://osu.ppy.sh/u/6673790 Tuon            
+[23:47:17] BCraftMG: !mp start 5 glhf
+[23:47:18] BanchoBot: Match starts in 5 seconds
+[23:47:18] BanchoBot: Queued the match to start in 5 seconds
+[23:47:19] BanchoBot: Match starts in 4 seconds
+[23:47:20] BanchoBot: Match starts in 3 seconds
+[23:47:21] BanchoBot: Good luck, have fun!
+[23:47:23] BanchoBot: The match has started!
+[23:50:49] BanchoBot: [Boy]DaLat finished playing (Score: 254310, PASSED).
+[23:50:49] BanchoBot: Satxri finished playing (Score: 46727, PASSED).
+[23:50:50] BanchoBot: Tuon finished playing (Score: 419350, PASSED).
+[23:50:50] BanchoBot: The match has finished!
+[23:50:53] BCraftMG: !mp map 3857700 0
+[23:50:54] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3857700 senya - Nihil Kagura
+[23:50:54] BanchoBot: Changed match mode to Osu
+[23:51:28] BanchoBot: All players are ready
+[23:51:33] BCraftMG: !mp settings
+[23:51:34] BanchoBot: Room name: 4WC23:VN: (Qualifiers) vs (Match C5), History: https://osu.ppy.sh/mp/108488431
+[23:51:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/3857700 senya - Nihil Kagura
+[23:51:34] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:51:34] BanchoBot: Active mods: NoFail, DoubleTime
+[23:51:34] BanchoBot: Players: 3
+[23:51:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      
+[23:51:34] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10976903 Satxri          
+[23:51:34] BanchoBot: Slot 16 Ready     https://osu.ppy.sh/u/6673790 Tuon            
+[23:51:35] BCraftMG: !mp start 5 glhf
+[23:51:35] BanchoBot: Match starts in 5 seconds
+[23:51:35] BanchoBot: Queued the match to start in 5 seconds
+[23:51:36] BanchoBot: Match starts in 4 seconds
+[23:51:38] BanchoBot: Match starts in 3 seconds
+[23:51:39] BanchoBot: Good luck, have fun!
+[23:51:41] BanchoBot: The match has started!
+[23:54:38] BanchoBot: [Boy]DaLat finished playing (Score: 362033, PASSED).
+[23:54:38] BanchoBot: Tuon finished playing (Score: 562619, PASSED).
+[23:54:40] BanchoBot: Satxri finished playing (Score: 309603, PASSED).
+[23:54:40] BanchoBot: The match has finished!
+[23:54:41] BCraftMG: !mp map 3822652 0
+[23:54:42] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3822652 Katakiri Rekka - TSUBASA
+[23:54:42] BanchoBot: Changed match mode to Osu
+[23:55:00] BanchoBot: All players are ready
+[23:55:02] BCraftMG: !mp settings
+[23:55:04] BanchoBot: Room name: 4WC23:VN: (Qualifiers) vs (Match C5), History: https://osu.ppy.sh/mp/108488431
+[23:55:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/3822652 Katakiri Rekka - TSUBASA
+[23:55:04] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:55:04] BanchoBot: Active mods: NoFail, DoubleTime
+[23:55:04] BanchoBot: Players: 3
+[23:55:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      
+[23:55:04] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10976903 Satxri          
+[23:55:04] BanchoBot: Slot 16 Ready     https://osu.ppy.sh/u/6673790 Tuon            
+[23:55:04] BCraftMG: !mp start 5 glhf
+[23:55:04] BanchoBot: Match starts in 5 seconds
+[23:55:04] BanchoBot: Queued the match to start in 5 seconds
+[23:55:05] BanchoBot: Match starts in 4 seconds
+[23:55:06] BanchoBot: Match starts in 3 seconds
+[23:55:08] BanchoBot: Good luck, have fun!
+[23:55:10] BanchoBot: The match has started!
+[23:57:14] BanchoBot: Tuon finished playing (Score: 236753, PASSED).
+[23:57:16] BanchoBot: [Boy]DaLat finished playing (Score: 550181, PASSED).
+[23:57:17] BanchoBot: Satxri finished playing (Score: 202048, PASSED).
+[23:57:17] BanchoBot: The match has finished!
+[23:57:24] BCraftMG: !mp map 2624072 0
+[23:57:24] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2624072 Rin - Eientewi set 13 ~ Extend Ash
+[23:57:24] BanchoBot: Changed match mode to Osu
+[23:57:36] BanchoBot: Tuon left the game.
+[23:57:39] BanchoBot: All players are ready
+[23:57:44] BCraftMG: !mp settings
+[23:57:45] BanchoBot: Room name: 4WC23:VN: (Qualifiers) vs (Match C5), History: https://osu.ppy.sh/mp/108488431
+[23:57:45] BanchoBot: Beatmap: https://osu.ppy.sh/b/2624072 Rin - Eientewi set 13 ~ Extend Ash
+[23:57:45] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:57:45] BanchoBot: Active mods: NoFail, DoubleTime
+[23:57:45] BanchoBot: Players: 2
+[23:57:45] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      
+[23:57:45] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10976903 Satxri          
+[23:57:50] BanchoBot: Tuon joined in slot 3.
+[23:57:58] BanchoBot: All players are ready
+[23:58:00] BCraftMG: !mp settings
+[23:58:01] BanchoBot: Tuon moved to slot 16
+[23:58:01] BanchoBot: Room name: 4WC23:VN: (Qualifiers) vs (Match C5), History: https://osu.ppy.sh/mp/108488431
+[23:58:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/2624072 Rin - Eientewi set 13 ~ Extend Ash
+[23:58:01] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:58:01] BanchoBot: Active mods: NoFail, DoubleTime
+[23:58:01] BanchoBot: Players: 3
+[23:58:01] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      
+[23:58:01] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10976903 Satxri          
+[23:58:01] BanchoBot: Slot 16 Ready     https://osu.ppy.sh/u/6673790 Tuon            
+[23:58:02] BCraftMG: !mp start 5 glhf
+[23:58:03] BanchoBot: Match starts in 5 seconds
+[23:58:03] BanchoBot: Queued the match to start in 5 seconds
+[23:58:04] BanchoBot: Match starts in 4 seconds
+[23:58:05] BanchoBot: Match starts in 3 seconds
+[23:58:06] BanchoBot: Good luck, have fun!
+[23:58:08] BanchoBot: The match has started!
+[00:00:57] BanchoBot: Tuon finished playing (Score: 174801, PASSED).
+[00:00:58] BanchoBot: [Boy]DaLat finished playing (Score: 118681, PASSED).
+[00:00:58] BanchoBot: Satxri finished playing (Score: 49144, PASSED).
+[00:00:58] BanchoBot: The match has finished!
+[00:01:01] BCraftMG: !mp map 3287485 0
+[00:01:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3287485 Project Gabbangelion - Lolit Speed (Cut Ver.)
+[00:01:02] BanchoBot: Changed match mode to Osu
+[00:01:06] BCraftMG: !mp mods Freemod
+[00:01:07] BanchoBot: Disabled all mods, enabled FreeMod
+[00:01:16] BCraftMG: a the a
+[00:01:18] BCraftMG: !mp mods dt
+[00:01:19] BanchoBot: Enabled DoubleTime, disabled FreeMod
+[00:01:31] BCraftMG: !mp mods Freemod
+[00:01:32] BanchoBot: Disabled all mods, enabled FreeMod
+[00:01:42] BanchoBot: All players are ready
+[00:01:43] BCraftMG: FM1 SPEED BTW
+[00:01:48] BCraftMG: !mp settings
+[00:01:49] BanchoBot: All players are ready
+[00:01:49] BanchoBot: Room name: 4WC23:VN: (Qualifiers) vs (Match C5), History: https://osu.ppy.sh/mp/108488431
+[00:01:49] BanchoBot: Beatmap: https://osu.ppy.sh/b/3287485 Project Gabbangelion - Lolit Speed (Cut Ver.)
+[00:01:49] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:01:49] BanchoBot: Active mods: Freemod
+[00:01:49] BanchoBot: Players: 3
+[00:01:49] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      [NoFail, Hidden]
+[00:01:49] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10976903 Satxri          [NoFail, Hidden]
+[00:01:49] BanchoBot: Slot 16 Ready     https://osu.ppy.sh/u/6673790 Tuon            [NoFail, Hidden, HardRock]
+[00:01:52] BCraftMG: !mp start 5 glhf
+[00:01:54] BanchoBot: Match starts in 5 seconds
+[00:01:54] BanchoBot: Queued the match to start in 5 seconds
+[00:01:55] BanchoBot: Match starts in 4 seconds
+[00:01:56] BanchoBot: Match starts in 3 seconds
+[00:01:57] BanchoBot: Good luck, have fun!
+[00:01:59] BanchoBot: The match has started!
+[00:04:48] BanchoBot: Tuon finished playing (Score: 194778, PASSED).
+[00:04:48] BanchoBot: [Boy]DaLat finished playing (Score: 396494, PASSED).
+[00:04:48] BanchoBot: Satxri finished playing (Score: 102129, PASSED).
+[00:04:48] BanchoBot: The match has finished!
+[00:04:50] BCraftMG: !mp map 3940190 0
+[00:04:51] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3940190 USAO - Knight Rider (Extended Mix)
+[00:04:51] BanchoBot: Changed match mode to Osu
+[00:05:27] BanchoBot: All players are ready
+[00:05:29] BCraftMG: !mp settings
+[00:05:29] BanchoBot: Room name: 4WC23:VN: (Qualifiers) vs (Match C5), History: https://osu.ppy.sh/mp/108488431
+[00:05:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/3940190 USAO - Knight Rider (Extended Mix)
+[00:05:29] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:05:29] BanchoBot: Active mods: Freemod
+[00:05:29] BanchoBot: Players: 3
+[00:05:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      [NoFail, Hidden]
+[00:05:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10976903 Satxri          [NoFail, Hidden]
+[00:05:29] BanchoBot: Slot 16 Ready     https://osu.ppy.sh/u/6673790 Tuon            [NoFail, Hidden, HardRock]
+[00:05:32] BCraftMG: !mp start 5 glhf
+[00:05:32] BanchoBot: Match starts in 5 seconds
+[00:05:32] BanchoBot: Queued the match to start in 5 seconds
+[00:05:33] BanchoBot: Match starts in 4 seconds
+[00:05:35] BanchoBot: Match starts in 3 seconds
+[00:05:36] BanchoBot: Good luck, have fun!
+[00:05:38] BanchoBot: The match has started!
+[00:09:21] BanchoBot: Satxri finished playing (Score: 227873, PASSED).
+[00:09:21] BanchoBot: Tuon finished playing (Score: 305276, PASSED).
+[00:09:21] BanchoBot: [Boy]DaLat finished playing (Score: 221919, PASSED).
+[00:09:21] BanchoBot: The match has finished!
+[00:09:27] BCraftMG: !mp map 3535586 0
+[00:09:28] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3535586 Silver Forest - Tsurupettan (Game Ver.)
+[00:09:28] BanchoBot: Changed match mode to Osu
+[00:09:39] BCraftMG: pettan pettan
+[00:09:42] BCraftMG: tsurupettan
+[00:10:51] BCraftMG: !mp settings
+[00:10:52] BanchoBot: Room name: 4WC23:VN: (Qualifiers) vs (Match C5), History: https://osu.ppy.sh/mp/108488431
+[00:10:52] BanchoBot: Beatmap: https://osu.ppy.sh/b/3535586 Silver Forest - Tsurupettan (Game Ver.)
+[00:10:52] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:10:52] BanchoBot: Active mods: Freemod
+[00:10:52] BanchoBot: Players: 3
+[00:10:52] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      [NoFail, Hidden]
+[00:10:52] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10976903 Satxri          [NoFail, Hidden]
+[00:10:52] BanchoBot: Slot 16 No Map    https://osu.ppy.sh/u/6673790 Tuon            [NoFail, Hidden, HardRock]
+[00:12:03] BanchoBot: Tuon left the game.
+[00:12:05] BanchoBot: Tuon joined in slot 3.
+[00:12:22] BCraftMG: !mp settings
+[00:12:24] BanchoBot: Room name: 4WC23:VN: (Qualifiers) vs (Match C5), History: https://osu.ppy.sh/mp/108488431
+[00:12:24] BanchoBot: Beatmap: https://osu.ppy.sh/b/3535586 Silver Forest - Tsurupettan (Game Ver.)
+[00:12:24] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:12:24] BanchoBot: Active mods: Freemod
+[00:12:24] BanchoBot: Players: 3
+[00:12:24] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      [NoFail, Hidden]
+[00:12:24] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10976903 Satxri          [NoFail, Hidden]
+[00:12:24] BanchoBot: Slot 3  No Map    https://osu.ppy.sh/u/6673790 Tuon            
+[00:12:46] BanchoBot: All players are ready
+[00:12:49] BCraftMG: !mp settings
+[00:12:50] BanchoBot: Room name: 4WC23:VN: (Qualifiers) vs (Match C5), History: https://osu.ppy.sh/mp/108488431
+[00:12:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/3535586 Silver Forest - Tsurupettan (Game Ver.)
+[00:12:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:12:50] BanchoBot: Active mods: Freemod
+[00:12:50] BanchoBot: Players: 3
+[00:12:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      [NoFail, Hidden]
+[00:12:50] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10976903 Satxri          [NoFail, Hidden]
+[00:12:50] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6673790 Tuon            [NoFail, Hidden, HardRock]
+[00:12:50] BCraftMG: !mp start 5 glhf
+[00:12:51] BanchoBot: Match starts in 5 seconds
+[00:12:51] BanchoBot: Queued the match to start in 5 seconds
+[00:12:52] BanchoBot: Match starts in 4 seconds
+[00:12:53] BanchoBot: Match starts in 3 seconds
+[00:12:54] BanchoBot: Good luck, have fun!
+[00:12:56] BanchoBot: The match has started!
+[00:15:42] BanchoBot: Satxri finished playing (Score: 87103, PASSED).
+[00:15:43] BanchoBot: [Boy]DaLat finished playing (Score: 265746, PASSED).
+[00:15:44] BanchoBot: Tuon finished playing (Score: 268190, PASSED).
+[00:15:44] BanchoBot: The match has finished!
+[00:15:48] BCraftMG: !mp map 3873990 0
+[00:15:49] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3873990 Sad Keyboard Guy, sleepless & Myntian - Alter//Strife feat. vally.exe
+[00:15:49] BanchoBot: Changed match mode to Osu
+[00:15:53] BanchoBot: Tuon left the game.
+[00:16:05] BCraftMG: !mp invite SkyArrow
+[00:16:06] BanchoBot: User not found
+[00:16:10] Satxri: out dc chua
+[00:16:11] BCraftMG: !mp invite SkyArrow
+[00:16:12] BanchoBot: User not found
+[00:16:14] BCraftMG: chua
+[00:16:15] Satxri: duma thg bcraft
+[00:16:30] BCraftMG: !mp invite SkyArrow
+[00:16:31] BanchoBot: Invited SkyArrow to the room
+[00:16:34] Satxri: ok dien 0 diem nhe
+[00:16:34] BanchoBot: Satxri left the game.
+[00:16:40] BanchoBot: SkyArrow joined in slot 2.
+[00:17:10] BCraftMG: vai
+[00:17:11] BanchoBot: All players are ready
+[00:17:16] BCraftMG: !mp settings
+[00:17:17] BanchoBot: Room name: 4WC23:VN: (Qualifiers) vs (Match C5), History: https://osu.ppy.sh/mp/108488431
+[00:17:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/3873990 Sad Keyboard Guy, sleepless & Myntian - Alter//Strife feat. vally.exe
+[00:17:17] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:17:17] BanchoBot: Active mods: Freemod
+[00:17:17] BanchoBot: Players: 2
+[00:17:17] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      [NoFail]
+[00:17:17] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        [NoFail, Hidden]
+[00:17:18] BCraftMG: !mp start 5 glhf
+[00:17:19] BanchoBot: Match starts in 5 seconds
+[00:17:19] BanchoBot: Queued the match to start in 5 seconds
+[00:17:20] BanchoBot: Match starts in 4 seconds
+[00:17:21] BanchoBot: Match starts in 3 seconds
+[00:17:22] BanchoBot: Good luck, have fun!
+[00:17:24] BanchoBot: The match has started!
+[00:24:21] BanchoBot: SkyArrow finished playing (Score: 171261, PASSED).
+[00:24:23] BanchoBot: [Boy]DaLat finished playing (Score: 204989, PASSED).
+[00:24:23] BanchoBot: The match has finished!
+[00:24:58] BanchoBot: SkyArrow left the game.
+[00:25:16] BanchoBot: [Boy]DaLat left the game.
+[00:25:18] BCraftMG: banana
+[00:25:23] BCraftMG: !mp close
+[00:25:24] BanchoBot: Closed the match

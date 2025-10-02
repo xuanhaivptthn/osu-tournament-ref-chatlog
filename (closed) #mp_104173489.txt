@@ -1,0 +1,386 @@
+[15:54:24] Joined #mp_104173489
+[15:54:24] BCraftMG: !mp settings
+[15:54:26] BanchoBot: Room name: THT3: (Qualifiers) vs (B5), History: https://osu.ppy.sh/mp/104173489
+[15:54:26] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[15:54:26] BanchoBot: Players: 0
+[15:54:30] BCraftMG: !mp set 0 3 8
+[15:54:30] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[15:54:50] BCraftMG: !mp settings
+[15:54:50] BanchoBot: Room name: THT3: (Qualifiers) vs (B5), History: https://osu.ppy.sh/mp/104173489
+[15:54:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[15:54:50] BanchoBot: Players: 0
+[15:55:10] BCraftMG: !mp mods NF
+[15:55:10] BanchoBot: Enabled NoFail, disabled FreeMod
+[15:55:12] BCraftMG: !mp map 3276259 0
+[15:55:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3276259 Imy - Divine's Game
+[15:55:12] BanchoBot: Changed match mode to Osu
+[15:55:14] BCraftMG: !mp timer 120
+[15:55:14] BanchoBot: Countdown ends in 2 minutes
+[15:55:15] BCraftMG: !mp invite #16396650
+[15:55:15] BanchoBot: Invited Markurii to the room
+[15:55:17] BCraftMG: !mp invite #14783137
+[15:55:17] BanchoBot: Invited Kriatix to the room
+[15:55:18] BCraftMG: !mp invite #12223059
+[15:55:18] BanchoBot: Invited Plugin to the room
+[15:55:22] BCraftMG: !mp aborttimer
+[15:55:22] BanchoBot: Countdown aborted
+[15:56:03] BanchoBot: Markurii joined in slot 1.
+[15:56:16] BanchoBot: Kriatix joined in slot 2.
+[15:56:27] Kriatix: o/
+[15:56:32] BCraftMG: o/
+[15:56:37] Markurii: o//
+[15:56:48] Markurii: going to warm up real quick
+[15:56:50] BanchoBot: Markurii left the game.
+[15:56:59] BCraftMG: o
+[15:57:32] Kriatix: e
+[15:58:37] BanchoBot: Plugin joined in slot 1.
+[15:59:01] BanchoBot: Markurii joined in slot 3.
+[15:59:27] BCraftMG: ready yet?
+[15:59:57] BanchoBot: All players are ready
+[16:00:07] BCraftMG: !mp settings
+[16:00:07] BanchoBot: Room name: THT3: (Qualifiers) vs (B5), History: https://osu.ppy.sh/mp/104173489
+[16:00:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/3276259 Imy - Divine's Game
+[16:00:07] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:00:07] BanchoBot: Active mods: NoFail
+[16:00:07] BanchoBot: Players: 3
+[16:00:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12223059 Plugin          
+[16:00:07] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[16:00:07] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16396650 Markurii        
+[16:00:07] Kriatix: yes
+[16:00:10] BCraftMG: !mp start 5
+[16:00:10] BanchoBot: Match starts in 5 seconds
+[16:00:10] BanchoBot: Queued the match to start in 5 seconds
+[16:00:10] BanchoBot: Match starts in 4 seconds
+[16:00:11] BanchoBot: Match starts in 3 seconds
+[16:00:13] BanchoBot: Good luck, have fun!
+[16:00:14] BanchoBot: The match has started!
+[16:04:01] BanchoBot: Markurii finished playing (Score: 369466, PASSED).
+[16:04:03] BanchoBot: Kriatix finished playing (Score: 342977, PASSED).
+[16:04:03] BanchoBot: Plugin finished playing (Score: 320147, PASSED).
+[16:04:03] BanchoBot: The match has finished!
+[16:04:09] BCraftMG: !mp mods NF
+[16:04:09] BanchoBot: Enabled NoFail, disabled FreeMod
+[16:04:10] BCraftMG: !mp map 3332936 0
+[16:04:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3332936 HyuN feat. YURI - Disorder
+[16:04:10] BanchoBot: Changed match mode to Osu
+[16:04:14] Kriatix: goofy
+[16:04:20] Plugin: shitty ass slow slider
+[16:04:30] Plugin: :xelan:
+[16:04:32] Markurii: goofy ah slider
+[16:04:48] BanchoBot: All players are ready
+[16:04:52] BCraftMG: !mp settings
+[16:04:53] BanchoBot: Room name: THT3: (Qualifiers) vs (B5), History: https://osu.ppy.sh/mp/104173489
+[16:04:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/3332936 HyuN feat. YURI - Disorder
+[16:04:53] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:04:53] BanchoBot: Active mods: NoFail
+[16:04:53] BanchoBot: Players: 3
+[16:04:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12223059 Plugin          
+[16:04:53] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[16:04:53] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16396650 Markurii        
+[16:04:53] BCraftMG: !mp start 5 glhf
+[16:04:54] BanchoBot: Match starts in 5 seconds
+[16:04:54] BanchoBot: Queued the match to start in 5 seconds
+[16:04:56] BanchoBot: Match starts in 4 seconds
+[16:04:57] BanchoBot: Match starts in 3 seconds
+[16:04:57] BanchoBot: Good luck, have fun!
+[16:05:01] BanchoBot: The match has started!
+[16:07:21] BanchoBot: Markurii finished playing (Score: 404232, PASSED).
+[16:07:24] BanchoBot: Kriatix finished playing (Score: 598222, PASSED).
+[16:07:26] BanchoBot: Plugin finished playing (Score: 138042, PASSED).
+[16:07:26] BanchoBot: The match has finished!
+[16:07:33] BCraftMG: !mp mods NF
+[16:07:33] BanchoBot: Enabled NoFail, disabled FreeMod
+[16:07:33] Kriatix: wtf
+[16:07:34] Plugin: cht
+[16:07:34] BCraftMG: !mp map 3734887 0
+[16:07:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3734887 BlackY feat. Risa Yuzuki - Shuumatsu Kinema
+[16:07:34] BanchoBot: Changed match mode to Osu
+[16:07:34] Plugin: chet
+[16:07:55] BanchoBot: All players are ready
+[16:07:59] Plugin: nice one kriatix
+[16:08:00] BCraftMG: !mp settings
+[16:08:00] BanchoBot: Room name: THT3: (Qualifiers) vs (B5), History: https://osu.ppy.sh/mp/104173489
+[16:08:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/3734887 BlackY feat. Risa Yuzuki - Shuumatsu Kinema
+[16:08:00] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:08:00] BanchoBot: Active mods: NoFail
+[16:08:00] BanchoBot: Players: 3
+[16:08:00] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12223059 Plugin          
+[16:08:00] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[16:08:00] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16396650 Markurii        
+[16:08:03] BCraftMG: !mp start 5
+[16:08:03] BanchoBot: Match starts in 5 seconds
+[16:08:03] BanchoBot: Queued the match to start in 5 seconds
+[16:08:03] BanchoBot: Match starts in 4 seconds
+[16:08:05] BanchoBot: Match starts in 3 seconds
+[16:08:07] BanchoBot: Good luck, have fun!
+[16:08:07] Kriatix: thank
+[16:08:08] BanchoBot: The match has started!
+[16:08:28] BanchoBot: Plugin left the game.
+[16:08:34] BCraftMG: !mp abort
+[16:08:36] BanchoBot: Aborted the match
+[16:08:44] Kriatix: ?
+[16:08:56] BCraftMG: !mp invite Plugin
+[16:08:57] BanchoBot: Invited Plugin to the room
+[16:08:58] BCraftMG: man
+[16:09:00] BanchoBot: Plugin joined in slot 1.
+[16:09:05] Kriatix: wat happen
+[16:09:07] Plugin: oxi bjp qua
+[16:09:09] BCraftMG: stable is not stable at all
+[16:09:11] BCraftMG: his client crashed
+[16:09:16] Plugin: riu
+[16:09:18] BanchoBot: All players are ready
+[16:09:20] Kriatix: vai
+[16:09:20] BCraftMG: !mp settings
+[16:09:22] Markurii: damn riu
+[16:09:22] BanchoBot: Room name: THT3: (Qualifiers) vs (B5), History: https://osu.ppy.sh/mp/104173489
+[16:09:22] BanchoBot: Beatmap: https://osu.ppy.sh/b/3734887 BlackY feat. Risa Yuzuki - Shuumatsu Kinema
+[16:09:22] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:09:22] BanchoBot: Active mods: NoFail
+[16:09:22] BanchoBot: Players: 3
+[16:09:22] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12223059 Plugin          
+[16:09:22] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[16:09:22] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16396650 Markurii        
+[16:09:23] BCraftMG: !mp start 5 glhf
+[16:09:25] BanchoBot: Match starts in 5 seconds
+[16:09:25] BanchoBot: Queued the match to start in 5 seconds
+[16:09:26] BanchoBot: Match starts in 4 seconds
+[16:09:28] BanchoBot: Match starts in 3 seconds
+[16:09:28] BanchoBot: Good luck, have fun!
+[16:09:31] BanchoBot: The match has started!
+[16:13:23] BanchoBot: Markurii finished playing (Score: 329110, PASSED).
+[16:13:23] BanchoBot: Kriatix finished playing (Score: 325995, PASSED).
+[16:13:25] BanchoBot: Plugin finished playing (Score: 228902, PASSED).
+[16:13:25] BanchoBot: The match has finished!
+[16:13:40] Kriatix: woah
+[16:14:07] Kriatix: comeback
+[16:14:24] Plugin: di ngu
+[16:15:00] BCraftMG: !mp mods NF
+[16:15:00] BanchoBot: Enabled NoFail, disabled FreeMod
+[16:15:00] Plugin: ref di choi roi ak hay la toi mat mang?
+[16:15:02] BCraftMG: !mp map 2803777 0
+[16:15:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2803777 PSYQUI - Eyes on me feat. Such
+[16:15:02] BanchoBot: Changed match mode to Osu
+[16:15:05] Plugin: ah ok
+[16:15:33] BanchoBot: All players are ready
+[16:15:33] BCraftMG: !mp settings
+[16:15:34] BanchoBot: Room name: THT3: (Qualifiers) vs (B5), History: https://osu.ppy.sh/mp/104173489
+[16:15:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/2803777 PSYQUI - Eyes on me feat. Such
+[16:15:34] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:15:34] BanchoBot: Active mods: NoFail
+[16:15:34] BanchoBot: Players: 3
+[16:15:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12223059 Plugin          
+[16:15:34] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[16:15:34] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16396650 Markurii        
+[16:15:35] BCraftMG: !mp start 5 glhf
+[16:15:36] BanchoBot: Match starts in 5 seconds
+[16:15:36] BanchoBot: Queued the match to start in 5 seconds
+[16:15:37] BanchoBot: Match starts in 4 seconds
+[16:15:39] BanchoBot: Match starts in 3 seconds
+[16:15:39] BanchoBot: Good luck, have fun!
+[16:15:41] Kriatix: e
+[16:15:41] BanchoBot: The match has started!
+[16:17:39] BanchoBot: Kriatix finished playing (Score: 352183, PASSED).
+[16:17:39] BanchoBot: Markurii finished playing (Score: 432539, PASSED).
+[16:17:42] BanchoBot: Plugin finished playing (Score: 185448, PASSED).
+[16:17:42] BanchoBot: The match has finished!
+[16:17:47] BCraftMG: !mp mods HD NF
+[16:17:47] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[16:17:48] BCraftMG: !mp map 3287710 0
+[16:17:48] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3287710 Denkishiki Karen Ongaku Shuudan - Shinoburedo
+[16:17:48] BanchoBot: Changed match mode to Osu
+[16:17:48] Kriatix: dam
+[16:18:00] Markurii: nice map
+[16:18:05] Kriatix: ko ngờ score dấy lun
+[16:18:08] Plugin: biet lam sao h
+[16:18:08] Kriatix: wao
+[16:18:45] Plugin: bi skill capped thi thua
+[16:18:52] BanchoBot: All players are ready
+[16:19:04] BCraftMG: !mp settings
+[16:19:04] BanchoBot: Room name: THT3: (Qualifiers) vs (B5), History: https://osu.ppy.sh/mp/104173489
+[16:19:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/3287710 Denkishiki Karen Ongaku Shuudan - Shinoburedo
+[16:19:04] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:19:04] BanchoBot: Active mods: NoFail, Hidden
+[16:19:04] BanchoBot: Players: 3
+[16:19:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12223059 Plugin          
+[16:19:04] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[16:19:04] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16396650 Markurii        
+[16:19:05] BCraftMG: !mp start 5
+[16:19:05] BanchoBot: Match starts in 5 seconds
+[16:19:05] BanchoBot: Queued the match to start in 5 seconds
+[16:19:05] BanchoBot: Match starts in 4 seconds
+[16:19:07] BanchoBot: Match starts in 3 seconds
+[16:19:08] BanchoBot: Good luck, have fun!
+[16:19:10] BanchoBot: The match has started!
+[16:23:28] BanchoBot: Markurii finished playing (Score: 609454, PASSED).
+[16:23:30] BanchoBot: Kriatix finished playing (Score: 364652, PASSED).
+[16:23:32] BanchoBot: Plugin finished playing (Score: 234926, PASSED).
+[16:23:32] BanchoBot: The match has finished!
+[16:23:35] BCraftMG: !mp mods HD NF
+[16:23:35] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[16:23:36] BCraftMG: !mp map 1580739 0
+[16:23:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1580739 SUPER STAR -MITSURU- - NEW GENERATION -mou, omae shika mienai-
+[16:23:37] BanchoBot: Changed match mode to Osu
+[16:23:56] Kriatix: trolling time
+[16:23:58] Kriatix: :tf:
+[16:24:39] Plugin: xelantime
+[16:25:19] Markurii: sightread moment
+[16:25:19] BanchoBot: All players are ready
+[16:25:27] Kriatix: same
+[16:25:29] BCraftMG: !mp settings
+[16:25:29] BanchoBot: Room name: THT3: (Qualifiers) vs (B5), History: https://osu.ppy.sh/mp/104173489
+[16:25:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/1580739 SUPER STAR -MITSURU- - NEW GENERATION -mou, omae shika mienai-
+[16:25:29] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:25:29] BanchoBot: Active mods: NoFail, Hidden
+[16:25:29] BanchoBot: Players: 3
+[16:25:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12223059 Plugin          
+[16:25:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[16:25:29] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16396650 Markurii        
+[16:25:31] BCraftMG: !mp start 5
+[16:25:31] BanchoBot: Match starts in 5 seconds
+[16:25:31] BanchoBot: Queued the match to start in 5 seconds
+[16:25:31] BanchoBot: Match starts in 4 seconds
+[16:25:32] BanchoBot: Match starts in 3 seconds
+[16:25:34] BanchoBot: Good luck, have fun!
+[16:25:35] BanchoBot: The match has started!
+[16:27:40] BanchoBot: Plugin finished playing (Score: 133863, PASSED).
+[16:27:42] BanchoBot: Kriatix finished playing (Score: 331341, PASSED).
+[16:27:42] BanchoBot: Markurii finished playing (Score: 335281, PASSED).
+[16:27:42] BanchoBot: The match has finished!
+[16:27:50] Kriatix: not bad
+[16:27:52] BCraftMG: !mp mods HR NF
+[16:27:52] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[16:27:52] BCraftMG: !mp map 2241585 0
+[16:27:52] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2241585 Rita - Winter Diamond
+[16:27:52] BanchoBot: Changed match mode to Osu
+[16:29:28] BanchoBot: All players are ready
+[16:29:33] BCraftMG: !mp settings
+[16:29:34] BanchoBot: Room name: THT3: (Qualifiers) vs (B5), History: https://osu.ppy.sh/mp/104173489
+[16:29:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/2241585 Rita - Winter Diamond
+[16:29:34] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:29:34] BanchoBot: Active mods: NoFail, HardRock
+[16:29:34] BanchoBot: Players: 3
+[16:29:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12223059 Plugin          
+[16:29:34] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[16:29:34] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16396650 Markurii        
+[16:29:36] BCraftMG: !mp start 5
+[16:29:36] BanchoBot: Match starts in 5 seconds
+[16:29:36] BanchoBot: Queued the match to start in 5 seconds
+[16:29:36] BanchoBot: Match starts in 4 seconds
+[16:29:38] BanchoBot: Match starts in 3 seconds
+[16:29:40] BanchoBot: Good luck, have fun!
+[16:29:41] BanchoBot: The match has started!
+[16:33:46] BanchoBot: Kriatix finished playing (Score: 305459, PASSED).
+[16:33:46] BanchoBot: Markurii finished playing (Score: 462696, PASSED).
+[16:33:51] BanchoBot: Plugin finished playing (Score: 270550, PASSED).
+[16:33:51] BanchoBot: The match has finished!
+[16:33:53] Kriatix: ntnt
+[16:34:05] BCraftMG: !mp mods HR NF
+[16:34:05] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[16:34:06] BCraftMG: !mp map 3021082 0
+[16:34:06] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3021082 PinocchioP feat. Hatsune Miku - Ghosts Play to the Audience
+[16:34:06] BanchoBot: Changed match mode to Osu
+[16:34:10] Plugin: that's not diamond, that's a star?
+[16:35:33] BanchoBot: All players are ready
+[16:35:36] BCraftMG: !mp settings
+[16:35:36] BanchoBot: Room name: THT3: (Qualifiers) vs (B5), History: https://osu.ppy.sh/mp/104173489
+[16:35:36] BanchoBot: Beatmap: https://osu.ppy.sh/b/3021082 PinocchioP feat. Hatsune Miku - Ghosts Play to the Audience
+[16:35:36] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:35:36] BanchoBot: Active mods: NoFail, HardRock
+[16:35:36] BanchoBot: Players: 3
+[16:35:36] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12223059 Plugin          
+[16:35:36] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[16:35:36] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16396650 Markurii        
+[16:35:38] BCraftMG: !mp start 5
+[16:35:38] BanchoBot: Match starts in 5 seconds
+[16:35:38] BanchoBot: Queued the match to start in 5 seconds
+[16:35:38] BanchoBot: Match starts in 4 seconds
+[16:35:39] BanchoBot: Match starts in 3 seconds
+[16:35:41] BanchoBot: Good luck, have fun!
+[16:35:43] BanchoBot: The match has started!
+[16:39:36] BanchoBot: Markurii finished playing (Score: 371839, PASSED).
+[16:39:36] BanchoBot: Plugin finished playing (Score: 86993, PASSED).
+[16:39:36] BanchoBot: Kriatix finished playing (Score: 106517, PASSED).
+[16:39:36] BanchoBot: The match has finished!
+[16:39:47] BCraftMG: !mp settings
+[16:39:47] BanchoBot: Room name: THT3: (Qualifiers) vs (B5), History: https://osu.ppy.sh/mp/104173489
+[16:39:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/3021082 PinocchioP feat. Hatsune Miku - Ghosts Play to the Audience
+[16:39:47] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:39:47] BanchoBot: Active mods: NoFail, HardRock
+[16:39:47] BanchoBot: Players: 3
+[16:39:47] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/12223059 Plugin          
+[16:39:47] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/14783137 Kriatix         
+[16:39:47] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/16396650 Markurii        
+[16:39:48] Plugin: damn
+[16:39:51] BCraftMG: !mp mods DT NF
+[16:39:51] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[16:39:51] BCraftMG: !mp map 3243641 0
+[16:39:51] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3243641 FELT - Flower Flag
+[16:39:51] BanchoBot: Changed match mode to Osu
+[16:39:51] Kriatix: a
+[16:40:05] Markurii: i heckin LOVE precision
+[16:40:33] Kriatix: wowzersd
+[16:40:37] Plugin: dau mat
+[16:41:07] BanchoBot: All players are ready
+[16:41:16] BCraftMG: !mp settings
+[16:41:16] BanchoBot: Room name: THT3: (Qualifiers) vs (B5), History: https://osu.ppy.sh/mp/104173489
+[16:41:16] BanchoBot: Beatmap: https://osu.ppy.sh/b/3243641 FELT - Flower Flag
+[16:41:16] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:41:16] BanchoBot: Active mods: NoFail, DoubleTime
+[16:41:16] BanchoBot: Players: 3
+[16:41:16] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12223059 Plugin          
+[16:41:16] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[16:41:16] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16396650 Markurii        
+[16:41:19] BCraftMG: !mp start 5
+[16:41:19] BanchoBot: Match starts in 5 seconds
+[16:41:19] BanchoBot: Queued the match to start in 5 seconds
+[16:41:19] BanchoBot: Match starts in 4 seconds
+[16:41:20] BanchoBot: Match starts in 3 seconds
+[16:41:22] BanchoBot: Good luck, have fun!
+[16:41:24] BanchoBot: The match has started!
+[16:44:29] BanchoBot: Markurii finished playing (Score: 579717, PASSED).
+[16:44:29] BanchoBot: Kriatix finished playing (Score: 422971, PASSED).
+[16:44:31] BanchoBot: Plugin finished playing (Score: 215743, PASSED).
+[16:44:31] BanchoBot: The match has finished!
+[16:44:40] BCraftMG: !mp mods DT NF
+[16:44:40] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[16:44:41] BCraftMG: !mp map 3047429 0
+[16:44:41] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3047429 Touhou LostWord x RichaadEB - Lost Word Chronicle
+[16:44:41] BanchoBot: Changed match mode to Osu
+[16:45:03] Kriatix: this stupid goofy burst speed map
+[16:45:44] Plugin: this map is funni
+[16:45:59] BanchoBot: All players are ready
+[16:46:05] BCraftMG: !mp settings
+[16:46:05] BanchoBot: Room name: THT3: (Qualifiers) vs (B5), History: https://osu.ppy.sh/mp/104173489
+[16:46:05] BanchoBot: Beatmap: https://osu.ppy.sh/b/3047429 Touhou LostWord x RichaadEB - Lost Word Chronicle
+[16:46:05] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:46:05] BanchoBot: Active mods: NoFail, DoubleTime
+[16:46:05] BanchoBot: Players: 3
+[16:46:05] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12223059 Plugin          
+[16:46:05] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[16:46:05] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16396650 Markurii        
+[16:46:08] BCraftMG: !mp start 5
+[16:46:08] BanchoBot: Match starts in 5 seconds
+[16:46:08] BanchoBot: Queued the match to start in 5 seconds
+[16:46:08] BanchoBot: Match starts in 4 seconds
+[16:46:10] BanchoBot: Match starts in 3 seconds
+[16:46:11] BanchoBot: Good luck, have fun!
+[16:46:13] BanchoBot: The match has started!
+[16:48:45] BanchoBot: Markurii finished playing (Score: 468671, PASSED).
+[16:48:47] BanchoBot: Plugin finished playing (Score: 181303, PASSED).
+[16:48:47] BanchoBot: Kriatix finished playing (Score: 178558, PASSED).
+[16:48:47] BanchoBot: The match has finished!
+[16:48:57] BCraftMG: ;3c
+[16:49:00] Plugin: un fun
+[16:49:09] Plugin: thx for carry
+[16:49:26] Markurii: couldve done better
+[16:49:28] Kriatix: speed bad
+[16:49:30] Markurii: but it iz what it iz
+[16:49:36] Markurii: ty for ref <3
+[16:49:43] BanchoBot: Markurii left the game.
+[16:49:45] Kriatix: thank ref
+[16:49:48] Kriatix: so cool
+[16:49:57] BanchoBot: Kriatix left the game.
+[16:49:59] BanchoBot: Plugin left the game.
+[16:50:07] BCraftMG: !mp clóe
+[16:50:09] BCraftMG: !mp close
+[16:50:10] BanchoBot: Closed the match

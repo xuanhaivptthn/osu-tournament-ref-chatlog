@@ -1,0 +1,686 @@
+[18:55:33] Joined #mp_101973649
+[18:55:33] BCraftMG: !mp settings
+[18:55:35] BanchoBot: Room name: STT3: (la planta) vs (a), History: https://osu.ppy.sh/mp/101973649
+[18:55:35] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[18:55:35] BanchoBot: Players: 0
+[18:56:38] BCraftMG: !mp invite #9501611
+[18:56:39] BanchoBot: Invited lamy1 to the room
+[18:56:41] BCraftMG: !mp invite #19641527
+[18:56:43] BanchoBot: Invited Amber397 to the room
+[18:57:17] BanchoBot: Amber397 joined in slot 1.
+[18:57:31] BCraftMG: !mp addref TimperNL
+[18:57:33] BanchoBot: Added TimperNL to the match referees
+[18:57:36] BCraftMG: o/
+[18:57:38] BCraftMG: !mp set 2 3 12
+[18:57:40] BanchoBot: Changed match settings to 12 slots, TeamVs, ScoreV2
+[18:57:42] Amber397: o/
+[18:57:46] BanchoBot: lamy1 joined in slot 2 for team red.
+[18:57:50] BCraftMG: o h
+[18:58:07] BCraftMG: who want to pick warm up?
+[18:58:25] BanchoBot: Fejlan joined in slot 3 for team blue.
+[18:58:25] BanchoBot: ScautTheGamer joined in slot 4 for team red.
+[18:58:27] BanchoBot: _Hachikun_ joined in slot 5 for team blue.
+[18:58:31] Amber397: yes plz
+[18:58:32] BanchoBot: Fejlan moved to slot 12
+[18:58:32] BanchoBot: Poke714 joined in slot 3 for team blue.
+[18:58:38] BanchoBot: _Hachikun_ moved to slot 11
+[18:58:41] BanchoBot: Amber397 moved to slot 7
+[18:58:41] lamy1: sure
+[18:58:44] BCraftMG: !mp host Amber397
+[18:58:45] BanchoBot: Amber397 became the host.
+[18:58:45] BanchoBot: Changed match host to Amber397
+[18:58:47] BanchoBot: Poke714 changed to Red
+[18:58:47] BanchoBot: Fejlan moved to slot 1
+[18:58:47] BanchoBot: Beatmap changed to: rejection - Aimai Attitude (feat. Nakamura Sanso) [kouhan muzui] (https://osu.ppy.sh/b/0)
+[18:58:49] BanchoBot: Host is changing map...
+[18:58:49] BanchoBot: mirinshoyu joined in slot 5 for team blue.
+[18:58:52] BCraftMG: Warmups must be between 4.0 and 7.0 stars and must be 3:30 in drain time or less after mods are applied. A warmup map cannot be from the current week's pool.
+[18:59:10] Poke714: hello o/
+[18:59:41] BanchoBot: Loazo joined in slot 6 for team red.
+[18:59:49] _Hachikun_: o/
+[18:59:49] BanchoBot: Defectum joined in slot 8 for team red.
+[18:59:50] BanchoBot: _Hachikun_ moved to slot 12
+[18:59:52] Loazo: o/
+[19:00:06] ScautTheGamer: i/
+[19:00:10] BanchoBot: Defectum left the game.
+[19:00:12] ScautTheGamer: o/
+[19:00:16] BanchoBot: Beatmap changed to: Feryquitous - Ordirehv [Extra] (https://osu.ppy.sh/b/2154182)
+[19:00:31] mirinshoyu: \o/
+[19:00:33] BanchoBot: Fejlan changed to Red
+[19:00:37] Fejlan: o/
+[19:00:39] BCraftMG: la planta will be red 1-3
+[19:00:44] BCraftMG: a will be blue 4-6
+[19:00:49] BanchoBot: Loazo changed to Blue
+[19:01:06] BCraftMG: this match is being streamed so make sure to stay in the correct slots
+[19:01:24] BanchoBot: ScautTheGamer changed to Blue
+[19:01:34] BanchoBot: mirinshoyu moved to slot 8
+[19:01:36] ScautTheGamer: who streaming
+[19:01:42] BanchoBot: _Hachikun_ moved to slot 5
+[19:01:44] Loazo: me
+[19:01:50] mirinshoyu: :D
+[19:01:53] Amber397: :0
+[19:01:53] _Hachikun_: :o
+[19:02:03] lamy1: can we have freemod
+[19:02:08] BCraftMG: !mp listrefs
+[19:02:09] BanchoBot: Match referees:
+[19:02:09] BanchoBot: TimperNL
+[19:02:09] BanchoBot: BCraftMG
+[19:02:17] BanchoBot: mirinshoyu became the host.
+[19:02:23] BanchoBot: Amber397 became the host.
+[19:02:32] Amber397: sry
+[19:02:36] lamy1: ty
+[19:02:44] BanchoBot: All players are ready
+[19:02:50] Fejlan: glhf!
+[19:02:54] BanchoBot: The match has started!
+[19:04:33] BCraftMG: !mp settings
+[19:04:33] BanchoBot: Room name: STT3: (la planta) vs (a), History: https://osu.ppy.sh/mp/101973649
+[19:04:33] BanchoBot: Beatmap: https://osu.ppy.sh/b/2154182 Feryquitous - Ordirehv [Extra]
+[19:04:33] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:04:33] BanchoBot: Active mods: Freemod
+[19:04:33] BanchoBot: Players: 8
+[19:04:33] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/8150535 Fejlan          [Team Red  / NoFail, Hidden]
+[19:04:33] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/9501611 lamy1           [Team Red  / NoFail, HardRock]
+[19:04:33] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/8084370 Poke714         [Team Red  / NoFail]
+[19:04:33] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/10398422 ScautTheGamer   [Team Blue]
+[19:04:33] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/14463439 _Hachikun_      [Team Blue / NoFail, HardRock]
+[19:04:33] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/3925586 Loazo           [Team Blue / HardRock]
+[19:04:33] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/19641527 Amber397        [Host / Team Blue / NoFail]
+[19:04:33] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/18365113 mirinshoyu      [Team Blue / NoFail]
+[19:05:52] BanchoBot: Loazo finished playing (Score: 278712, PASSED).
+[19:05:52] BanchoBot: Poke714 finished playing (Score: 342027, PASSED).
+[19:05:52] BanchoBot: Fejlan finished playing (Score: 651231, PASSED).
+[19:05:52] BanchoBot: _Hachikun_ finished playing (Score: 81855, PASSED).
+[19:05:52] BanchoBot: ScautTheGamer finished playing (Score: 469141, PASSED).
+[19:05:54] BanchoBot: Amber397 finished playing (Score: 315302, PASSED).
+[19:05:54] BanchoBot: mirinshoyu finished playing (Score: 653145, PASSED).
+[19:05:54] BanchoBot: lamy1 finished playing (Score: 436966, PASSED).
+[19:05:54] BanchoBot: The match has finished!
+[19:06:08] BCraftMG: !mp host lamy1
+[19:06:09] BanchoBot: lamy1 became the host.
+[19:06:09] BanchoBot: Changed match host to lamy1
+[19:06:25] BanchoBot: Host is changing map...
+[19:06:31] BanchoBot: Defectum joined in slot 9 for team blue.
+[19:06:31] BCraftMG: test
+[19:06:35] BanchoBot: Beatmap changed to: Kagemori Michiru (CV: Morohoshi Sumire) - Ready to (TV Size) [Go Ahead!] (https://osu.ppy.sh/b/3687454)
+[19:06:35] BanchoBot: Amber397 left the game.
+[19:06:44] BanchoBot: Defectum changed to Red
+[19:06:53] BanchoBot: Amber397 joined in slot 7 for team blue.
+[19:08:02] BanchoBot: All players are ready
+[19:08:02] BanchoBot: All players are ready
+[19:08:04] BanchoBot: The match has started!
+[19:09:15] BanchoBot: Poke714 finished playing (Score: 202588, PASSED).
+[19:09:15] BanchoBot: mirinshoyu finished playing (Score: 135422, PASSED).
+[19:09:15] BanchoBot: ScautTheGamer finished playing (Score: 622964, PASSED).
+[19:09:15] BanchoBot: Amber397 finished playing (Score: 162465, PASSED).
+[19:09:15] BanchoBot: Fejlan finished playing (Score: 773732, PASSED).
+[19:09:15] BanchoBot: Loazo finished playing (Score: 293879, PASSED).
+[19:09:15] BanchoBot: _Hachikun_ finished playing (Score: 19475, PASSED).
+[19:09:15] BanchoBot: lamy1 finished playing (Score: 303102, PASSED).
+[19:09:15] BanchoBot: Defectum finished playing (Score: 474514, PASSED).
+[19:09:15] BanchoBot: The match has finished!
+[19:09:24] BCraftMG: !mp clearhost
+[19:09:24] BanchoBot: Cleared match host
+[19:09:26] ScautTheGamer: nice song
+[19:09:33] BCraftMG: hi first is !roll for protect order
+[19:09:36] Loazo: ?_?
+[19:09:44] _Hachikun_: nice map i like it
+[19:09:44] lamy1: !roll
+[19:09:44] BanchoBot: lamy1 rolls 79 point(s)
+[19:09:48] Amber397: !roll
+[19:09:48] BanchoBot: Amber397 rolls 36 point(s)
+[19:09:54] BanchoBot: Defectum left the game.
+[19:10:11] BCraftMG: la planta, please choose your protect order
+[19:10:25] lamy1: second
+[19:10:34] BCraftMG: a, please pick your protected map
+[19:10:38] BCraftMG: !mp timer 120
+[19:10:38] BanchoBot: Countdown ends in 2 minutes
+[19:11:02] Amber397: fm1
+[19:11:12] BCraftMG: la planta, please pick your protected map
+[19:11:14] BCraftMG: !mp timer 120
+[19:11:15] BanchoBot: Countdown aborted
+[19:11:15] BanchoBot: Countdown ends in 2 minutes
+[19:11:23] lamy1: dt2
+[19:11:31] BCraftMG: great
+[19:11:35] BCraftMG: !mp aborttimer
+[19:11:35] BanchoBot: Countdown aborted
+[19:11:40] BCraftMG: now is !roll for pick or ban order
+[19:11:45] lamy1: !roll
+[19:11:45] BanchoBot: lamy1 rolls 99 point(s)
+[19:11:45] BCraftMG: 2 captains please roll again
+[19:11:47] BCraftMG: HOLY
+[19:11:49] mirinshoyu: pog
+[19:11:53] lamy1: beastmode
+[19:11:55] ScautTheGamer: wtf XD]
+[19:11:57] Amber397: !roll
+[19:11:57] BanchoBot: Amber397 rolls 15 point(s)
+[19:12:00] BCraftMG: welp
+[19:12:04] Amber397: :0
+[19:12:04] ScautTheGamer: XDD
+[19:12:05] BCraftMG: la planta, please choose your pick or ban order
+[19:12:27] BCraftMG: !mp timer 120
+[19:12:28] BanchoBot: Countdown ends in 2 minutes
+[19:12:30] lamy1: second pick
+[19:12:38] BCraftMG: a, please choose your ban order
+[19:13:01] Amber397: 2nd ban
+[19:13:08] BCraftMG: okay
+[19:13:14] BCraftMG: la planta, your ban please
+[19:13:16] BCraftMG: !mp timer 120
+[19:13:17] BanchoBot: Countdown aborted
+[19:13:17] BanchoBot: Countdown ends in 2 minutes
+[19:13:26] BanchoBot: mirinshoyu left the game.
+[19:13:32] BanchoBot: Loazo left the game.
+[19:14:05] lamy1: !roll 2
+[19:14:05] BanchoBot: lamy1 rolls 1 point(s)
+[19:14:07] lamy1: nm1
+[19:14:13] BCraftMG: a, your ban please
+[19:14:15] BCraftMG: !mp timer 120
+[19:14:17] BanchoBot: Countdown ends in 1 minute
+[19:14:17] BanchoBot: Countdown aborted
+[19:14:17] BanchoBot: Countdown ends in 2 minutes
+[19:14:31] Amber397: hr1
+[19:14:39] BCraftMG: la planta | 0 - 0 | a // First Pick: a
+[19:14:41] BCraftMG: !mp timer 120
+[19:14:41] BanchoBot: Countdown aborted
+[19:14:41] BanchoBot: Countdown ends in 2 minutes
+[19:15:09] BanchoBot: Loazo joined in slot 6 for team red.
+[19:15:11] BanchoBot: _Hachikun_ moved to slot 12
+[19:15:11] BanchoBot: _Hachikun_ left the game.
+[19:15:13] BanchoBot: ScautTheGamer left the game.
+[19:15:13] Amber397: ez1
+[19:15:18] BanchoBot: Loazo changed to Blue
+[19:15:18] BanchoBot: lamy1 left the game.
+[19:15:18] BanchoBot: Poke714 moved to slot 12
+[19:15:18] BanchoBot: Loazo moved to slot 4
+[19:15:18] BanchoBot: Loazo moved to slot 5
+[19:15:22] BanchoBot: Defectum joined in slot 2 for team red.
+[19:15:22] BCraftMG: !mp mods NoMod
+[19:15:22] BanchoBot: Disabled all mods, disabled FreeMod
+[19:15:24] BCraftMG: !mp map 3302600 0
+[19:15:24] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3302600 rejection - Aimai Attitude (feat. Nakamura Sanso)
+[19:15:24] BanchoBot: Changed match mode to Osu
+[19:15:24] BanchoBot: Fejlan left the game.
+[19:15:26] BCraftMG: !mp timer 120
+[19:15:26] BanchoBot: Countdown aborted
+[19:15:26] BanchoBot: Countdown ends in 2 minutes
+[19:15:26] BanchoBot: Amber397 moved to slot 6
+[19:15:29] BCraftMG: !mp mods EZ NF
+[19:15:30] BanchoBot: Enabled NoFail, Easy, disabled FreeMod
+[19:15:36] BanchoBot: mirinshoyu joined in slot 1 for team blue.
+[19:15:38] BanchoBot: mirinshoyu moved to slot 4
+[19:15:40] BanchoBot: Defectum moved to slot 1
+[19:15:54] BCraftMG: Once again, la planta is Red 1-3; a is Blue 4-6
+[19:15:56] BanchoBot: Fejlan joined in slot 2 for team red.
+[19:16:11] BCraftMG: Make sure you are in the correct slots for the match
+[19:16:11] BanchoBot: Poke714 left the game.
+[19:16:27] BanchoBot: Countdown ends in 1 minute
+[19:16:54] BanchoBot: Poke714 joined in slot 3 for team blue.
+[19:16:56] BanchoBot: Countdown ends in 30 seconds
+[19:16:58] BanchoBot: Poke714 changed to Red
+[19:17:12] BanchoBot: All players are ready
+[19:17:14] BCraftMG: !mp settings
+[19:17:17] BanchoBot: Countdown ends in 10 seconds
+[19:17:17] Defectum: glhf!
+[19:17:17] BanchoBot: Room name: STT3: (la planta) vs (a), History: https://osu.ppy.sh/mp/101973649
+[19:17:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/3302600 rejection - Aimai Attitude (feat. Nakamura Sanso)
+[19:17:17] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:17:17] BanchoBot: Active mods: NoFail, Easy
+[19:17:17] BanchoBot: Players: 6
+[19:17:17] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8631719 Defectum        [Team Red ]
+[19:17:17] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8150535 Fejlan          [Team Red ]
+[19:17:17] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8084370 Poke714         [Team Red ]
+[19:17:17] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/18365113 mirinshoyu      [Team Blue]
+[19:17:17] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/3925586 Loazo           [Team Blue]
+[19:17:17] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/19641527 Amber397        [Team Blue]
+[19:17:20] mirinshoyu: gl
+[19:17:20] Amber397: glgl
+[19:17:22] BanchoBot: Countdown ends in 5 seconds
+[19:17:22] Loazo: gl
+[19:17:22] Fejlan: glhf!
+[19:17:22] BanchoBot: Countdown ends in 4 seconds
+[19:17:22] Poke714: wait
+[19:17:24] BanchoBot: Countdown ends in 3 seconds
+[19:17:24] BanchoBot: Countdown ends in 2 seconds
+[19:17:25] BCraftMG: !mp start 10
+[19:17:26] BanchoBot: Countdown ends in 1 second
+[19:17:26] BanchoBot: Countdown finished
+[19:17:26] BanchoBot: Match starts in 10 seconds
+[19:17:26] BanchoBot: Queued the match to start in 10 seconds
+[19:17:31] BCraftMG: !mp abort
+[19:17:32] BanchoBot: Match starts in 5 seconds
+[19:17:32] BanchoBot: Countdown aborted
+[19:17:32] BanchoBot: Aborted the match
+[19:17:33] BCraftMG: what
+[19:17:43] BCraftMG: Poke714?
+[19:17:50] BCraftMG: !mp settings
+[19:17:52] Poke714: teammate messaged
+[19:17:52] BanchoBot: Room name: STT3: (la planta) vs (a), History: https://osu.ppy.sh/mp/101973649
+[19:17:52] BanchoBot: Beatmap: https://osu.ppy.sh/b/3302600 rejection - Aimai Attitude (feat. Nakamura Sanso)
+[19:17:52] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:17:52] BanchoBot: Active mods: NoFail, Easy
+[19:17:52] BanchoBot: Players: 6
+[19:17:52] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8631719 Defectum        [Team Red ]
+[19:17:52] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8150535 Fejlan          [Team Red ]
+[19:17:52] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8084370 Poke714         [Team Red ]
+[19:17:52] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/18365113 mirinshoyu      [Team Blue]
+[19:17:52] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/3925586 Loazo           [Team Blue]
+[19:17:52] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/19641527 Amber397        [Team Blue]
+[19:18:04] BCraftMG: ill start
+[19:18:05] BCraftMG: !mp start 10
+[19:18:07] BanchoBot: Match starts in 10 seconds
+[19:18:07] BanchoBot: Queued the match to start in 10 seconds
+[19:18:11] Poke714: ok
+[19:18:13] Poke714: sry
+[19:18:14] BanchoBot: Match starts in 5 seconds
+[19:18:16] BanchoBot: Match starts in 4 seconds
+[19:18:16] BanchoBot: Match starts in 3 seconds
+[19:18:17] BanchoBot: Good luck, have fun!
+[19:18:19] BanchoBot: The match has started!
+[19:22:51] BanchoBot: Defectum finished playing (Score: 358410, PASSED).
+[19:22:51] BanchoBot: Poke714 finished playing (Score: 90551, PASSED).
+[19:22:51] BanchoBot: Fejlan finished playing (Score: 484892, PASSED).
+[19:22:51] BanchoBot: mirinshoyu finished playing (Score: 347162, PASSED).
+[19:22:51] BanchoBot: Loazo finished playing (Score: 372160, PASSED).
+[19:22:51] BanchoBot: Amber397 finished playing (Score: 261594, PASSED).
+[19:22:51] BanchoBot: The match has finished!
+[19:22:55] BCraftMG: la planta : 0 | 1 : a
+[19:22:57] BCraftMG: Next team to pick: la planta
+[19:22:59] BCraftMG: !mp timer 120
+[19:22:59] BanchoBot: Countdown ends in 2 minutes
+[19:23:19] Defectum: we played with wrong roster
+[19:23:20] Defectum: lol
+[19:23:38] BanchoBot: ScautTheGamer joined in slot 7 for team blue.
+[19:23:58] BanchoBot: Countdown ends in 1 minute
+[19:24:14] Loazo: not our problem :D
+[19:24:16] BanchoBot: lamy1 joined in slot 8 for team red.
+[19:24:20] lamy1: dt2
+[19:24:24] BanchoBot: mirinshoyu left the game.
+[19:24:26] BanchoBot: ScautTheGamer moved to slot 4
+[19:24:28] BanchoBot: Countdown ends in 30 seconds
+[19:24:38] BCraftMG: !mp mods DT NF
+[19:24:38] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[19:24:40] BCraftMG: !mp map 2075562 0
+[19:24:40] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2075562 Wyvern's Spirit - Force Zero
+[19:24:40] BanchoBot: Changed match mode to Osu
+[19:24:40] Poke714: true
+[19:24:42] BCraftMG: !mp timer 120
+[19:24:42] BanchoBot: Countdown aborted
+[19:24:42] BanchoBot: Countdown ends in 2 minutes
+[19:24:46] BanchoBot: Amber397 moved to slot 7
+[19:24:52] BanchoBot: Amber397 left the game.
+[19:25:00] BanchoBot: _Hachikun_ joined in slot 6 for team red.
+[19:25:06] BanchoBot: lamy1 left the game.
+[19:25:18] BanchoBot: _Hachikun_ changed to Blue
+[19:25:42] BanchoBot: Countdown ends in 1 minute
+[19:26:08] BanchoBot: All players are ready
+[19:26:12] BanchoBot: Countdown ends in 30 seconds
+[19:26:12] Defectum: glhf!
+[19:26:15] BCraftMG: !mp settings
+[19:26:16] BanchoBot: Room name: STT3: (la planta) vs (a), History: https://osu.ppy.sh/mp/101973649
+[19:26:16] BanchoBot: Beatmap: https://osu.ppy.sh/b/2075562 Wyvern's Spirit - Force Zero
+[19:26:16] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:26:16] BanchoBot: Active mods: NoFail, DoubleTime
+[19:26:16] BanchoBot: Players: 6
+[19:26:16] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8631719 Defectum        [Team Red ]
+[19:26:16] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8150535 Fejlan          [Team Red ]
+[19:26:16] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8084370 Poke714         [Team Red ]
+[19:26:16] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10398422 ScautTheGamer   [Team Blue]
+[19:26:16] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/3925586 Loazo           [Team Blue]
+[19:26:16] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/14463439 _Hachikun_      [Team Blue]
+[19:26:17] BCraftMG: !mp start 10
+[19:26:18] BanchoBot: Countdown aborted
+[19:26:18] BanchoBot: Match starts in 10 seconds
+[19:26:18] BanchoBot: Queued the match to start in 10 seconds
+[19:26:20] ScautTheGamer: glhf
+[19:26:24] BanchoBot: Match starts in 5 seconds
+[19:26:24] BanchoBot: Match starts in 4 seconds
+[19:26:26] Fejlan: glhf!
+[19:26:26] BanchoBot: Match starts in 3 seconds
+[19:26:26] BanchoBot: Good luck, have fun!
+[19:26:28] BanchoBot: The match has started!
+[19:26:30] _Hachikun_: glgl
+[19:26:30] Poke714: glhf
+[19:29:34] BanchoBot: ScautTheGamer finished playing (Score: 835827, PASSED).
+[19:29:34] BanchoBot: Loazo finished playing (Score: 1074485, PASSED).
+[19:29:34] BanchoBot: Fejlan finished playing (Score: 822957, PASSED).
+[19:29:34] BanchoBot: Defectum finished playing (Score: 1153439, PASSED).
+[19:29:36] BanchoBot: _Hachikun_ finished playing (Score: 348063, PASSED).
+[19:29:36] BanchoBot: Poke714 finished playing (Score: 475207, PASSED).
+[19:29:36] BanchoBot: The match has finished!
+[19:29:38] BCraftMG: la planta : 1 | 1 : a
+[19:29:40] BCraftMG: Next team to pick: a
+[19:29:42] BCraftMG: !mp timer 120
+[19:29:42] BanchoBot: Countdown ends in 2 minutes
+[19:30:04] BanchoBot: Amber397 joined in slot 7 for team blue.
+[19:30:43] BanchoBot: Countdown ends in 1 minute
+[19:30:47] BanchoBot: Poke714 left the game.
+[19:30:57] BanchoBot: Defectum left the game.
+[19:31:13] BanchoBot: Countdown ends in 30 seconds
+[19:31:28] Amber397: dt1
+[19:31:32] BanchoBot: Countdown ends in 10 seconds
+[19:31:37] BanchoBot: Countdown ends in 5 seconds
+[19:31:37] BanchoBot: _Hachikun_ left the game.
+[19:31:39] BanchoBot: Countdown ends in 4 seconds
+[19:31:39] BCraftMG: !mp mods DT NF
+[19:31:39] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[19:31:39] BanchoBot: Countdown ends in 3 seconds
+[19:31:41] BanchoBot: Countdown ends in 2 seconds
+[19:31:41] BCraftMG: !mp map 1240566 0
+[19:31:41] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1240566 Ito Kanako - Glass no Kutsu
+[19:31:41] BanchoBot: Changed match mode to Osu
+[19:31:41] BCraftMG: !mp timer 120
+[19:31:41] BanchoBot: Countdown aborted
+[19:31:41] BanchoBot: Countdown ends in 2 minutes
+[19:32:37] BanchoBot: _Hachikun_ joined in slot 1 for team blue.
+[19:32:41] BanchoBot: Countdown ends in 1 minute
+[19:32:44] BanchoBot: _Hachikun_ moved to slot 6
+[19:32:55] BanchoBot: lamy1 joined in slot 1 for team blue.
+[19:33:01] BanchoBot: lamy1 changed to Red
+[19:33:07] BanchoBot: Tatze joined in slot 3 for team blue.
+[19:33:09] BanchoBot: Amber397 left the game.
+[19:33:09] BanchoBot: Fejlan left the game.
+[19:33:09] BanchoBot: Tatze changed to Red
+[19:33:11] BanchoBot: Countdown ends in 30 seconds
+[19:33:31] BanchoBot: Countdown ends in 10 seconds
+[19:33:35] BanchoBot: Countdown ends in 5 seconds
+[19:33:37] BanchoBot: Countdown ends in 4 seconds
+[19:33:37] BanchoBot: Countdown ends in 3 seconds
+[19:33:39] BanchoBot: Countdown ends in 2 seconds
+[19:33:39] BanchoBot: Countdown ends in 1 second
+[19:33:41] BanchoBot: Countdown finished
+[19:33:41] BanchoBot: Fejlan joined in slot 2 for team red.
+[19:33:44] BCraftMG: !mp settings
+[19:33:45] BanchoBot: Room name: STT3: (la planta) vs (a), History: https://osu.ppy.sh/mp/101973649
+[19:33:45] BanchoBot: Beatmap: https://osu.ppy.sh/b/1240566 Ito Kanako - Glass no Kutsu
+[19:33:45] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:33:45] BanchoBot: Active mods: NoFail, DoubleTime
+[19:33:45] BanchoBot: Players: 6
+[19:33:45] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9501611 lamy1           [Team Red ]
+[19:33:45] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8150535 Fejlan          [Team Red ]
+[19:33:45] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/12090610 Tatze           [Team Red ]
+[19:33:45] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10398422 ScautTheGamer   [Team Blue]
+[19:33:45] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/3925586 Loazo           [Team Blue]
+[19:33:45] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/14463439 _Hachikun_      [Team Blue]
+[19:33:50] BCraftMG: timer is p
+[19:33:51] BCraftMG: up
+[19:33:53] Tatze: glhf~!
+[19:33:55] BanchoBot: All players are ready
+[19:33:55] lamy1: glhf !
+[19:33:55] BCraftMG: get ready please
+[19:33:57] BanchoBot: All players are ready
+[19:33:59] Fejlan: glhf!
+[19:34:01] BCraftMG: !mp settings
+[19:34:01] BanchoBot: Room name: STT3: (la planta) vs (a), History: https://osu.ppy.sh/mp/101973649
+[19:34:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/1240566 Ito Kanako - Glass no Kutsu
+[19:34:01] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:34:01] BanchoBot: Active mods: NoFail, DoubleTime
+[19:34:01] BanchoBot: Players: 6
+[19:34:01] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9501611 lamy1           [Team Red ]
+[19:34:01] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8150535 Fejlan          [Team Red ]
+[19:34:01] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12090610 Tatze           [Team Red ]
+[19:34:01] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10398422 ScautTheGamer   [Team Blue]
+[19:34:01] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/3925586 Loazo           [Team Blue]
+[19:34:01] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/14463439 _Hachikun_      [Team Blue]
+[19:34:03] _Hachikun_: glhf!
+[19:34:03] ScautTheGamer: glhf
+[19:34:04] BCraftMG: !mp start 10
+[19:34:05] BanchoBot: Match starts in 10 seconds
+[19:34:05] BanchoBot: Queued the match to start in 10 seconds
+[19:34:07] Loazo: gl
+[19:34:11] Tatze: vbvbvbvbvbvbvb
+[19:34:11] BanchoBot: Match starts in 5 seconds
+[19:34:11] BanchoBot: Match starts in 4 seconds
+[19:34:13] BanchoBot: Match starts in 3 seconds
+[19:34:13] BanchoBot: Good luck, have fun!
+[19:34:15] BanchoBot: The match has started!
+[19:37:53] BanchoBot: _Hachikun_ finished playing (Score: 808082, PASSED).
+[19:37:53] BanchoBot: Loazo finished playing (Score: 637103, PASSED).
+[19:37:53] BanchoBot: Tatze finished playing (Score: 1207393, PASSED).
+[19:37:53] BanchoBot: Fejlan finished playing (Score: 820955, PASSED).
+[19:37:53] BanchoBot: lamy1 finished playing (Score: 791423, PASSED).
+[19:37:53] BanchoBot: ScautTheGamer finished playing (Score: 1082063, PASSED).
+[19:37:53] BanchoBot: The match has finished!
+[19:37:59] BCraftMG: la planta : 2 | 1 : a
+[19:37:59] BCraftMG: Next team to pick: la planta
+[19:38:01] BCraftMG: !mp timer 120
+[19:38:01] BanchoBot: Countdown ends in 2 minutes
+[19:39:01] BanchoBot: Countdown ends in 1 minute
+[19:39:32] BanchoBot: Countdown ends in 30 seconds
+[19:39:34] lamy1: hd1
+[19:39:36] BanchoBot: lamy1 left the game.
+[19:39:40] BanchoBot: _Hachikun_ left the game.
+[19:39:50] BCraftMG: !mp mods HD NF
+[19:39:50] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[19:39:50] BanchoBot: Countdown ends in 10 seconds
+[19:39:52] BCraftMG: !mp map 3178140 0
+[19:39:52] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3178140 Chicala Lpis - Blackest Luxury Car
+[19:39:52] BanchoBot: Changed match mode to Osu
+[19:39:52] BanchoBot: Defectum joined in slot 1 for team blue.
+[19:39:54] BCraftMG: !mp timer 120
+[19:39:54] BanchoBot: Countdown aborted
+[19:39:54] BanchoBot: Countdown ends in 2 minutes
+[19:40:00] Loazo: banger
+[19:40:02] BanchoBot: Poke714 joined in slot 6 for team red.
+[19:40:04] Fejlan: banger
+[19:40:04] BanchoBot: Poke714 left the game.
+[19:40:07] BanchoBot: Amber397 joined in slot 6 for team red.
+[19:40:07] BanchoBot: Defectum changed to Red
+[19:40:09] BanchoBot: Xyphox joined in slot 7 for team blue.
+[19:40:09] ScautTheGamer: banger
+[19:40:11] BanchoBot: Amber397 changed to Blue
+[19:40:17] BanchoBot: Tatze moved to slot 8
+[19:40:17] BanchoBot: Tatze left the game.
+[19:40:19] Defectum: banger
+[19:40:23] Loazo: everyone agree on that
+[19:40:39] BanchoBot: Xyphox moved to slot 3
+[19:40:39] BanchoBot: Xyphox moved to slot 8
+[19:40:39] BanchoBot: Xyphox moved to slot 3
+[19:40:43] BanchoBot: Xyphox changed to Red
+[19:40:53] BanchoBot: Countdown ends in 1 minute
+[19:40:57] BanchoBot: All players are ready
+[19:40:59] Defectum: glhf!
+[19:41:01] Fejlan: glhf!
+[19:41:03] BCraftMG: !mp settings
+[19:41:04] Amber397: glgl
+[19:41:04] ScautTheGamer: glhf
+[19:41:04] BanchoBot: Room name: STT3: (la planta) vs (a), History: https://osu.ppy.sh/mp/101973649
+[19:41:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/3178140 Chicala Lpis - Blackest Luxury Car
+[19:41:04] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:41:04] BanchoBot: Active mods: NoFail, Hidden
+[19:41:04] BanchoBot: Players: 6
+[19:41:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8631719 Defectum        [Team Red ]
+[19:41:04] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8150535 Fejlan          [Team Red ]
+[19:41:04] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8315885 Xyphox          [Team Red ]
+[19:41:04] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10398422 ScautTheGamer   [Team Blue]
+[19:41:04] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/3925586 Loazo           [Team Blue]
+[19:41:04] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/19641527 Amber397        [Team Blue]
+[19:41:06] BCraftMG: !mp start 10
+[19:41:07] Loazo: gl
+[19:41:07] BanchoBot: Countdown aborted
+[19:41:07] BanchoBot: Match starts in 10 seconds
+[19:41:07] BanchoBot: Queued the match to start in 10 seconds
+[19:41:13] BanchoBot: Match starts in 5 seconds
+[19:41:13] BanchoBot: Match starts in 4 seconds
+[19:41:15] BanchoBot: Match starts in 3 seconds
+[19:41:15] BanchoBot: Good luck, have fun!
+[19:41:17] BanchoBot: The match has started!
+[19:43:41] BanchoBot: Defectum finished playing (Score: 392220, PASSED).
+[19:43:41] BanchoBot: Loazo finished playing (Score: 232328, PASSED).
+[19:43:41] BanchoBot: Fejlan finished playing (Score: 871542, PASSED).
+[19:43:41] BanchoBot: ScautTheGamer finished playing (Score: 399793, PASSED).
+[19:43:43] BanchoBot: Amber397 finished playing (Score: 454913, PASSED).
+[19:43:43] BanchoBot: Xyphox finished playing (Score: 553028, PASSED).
+[19:43:43] BanchoBot: The match has finished!
+[19:43:47] BCraftMG: la planta : 3 | 1 : a
+[19:43:49] BCraftMG: Next team to pick: a
+[19:43:51] BCraftMG: !mp timer 120
+[19:43:51] BanchoBot: Countdown ends in 2 minutes
+[19:44:13] BanchoBot: Tatze joined in slot 7 for team blue.
+[19:44:18] Tatze: Hello
+[19:44:28] Defectum: o/
+[19:44:50] BanchoBot: Countdown ends in 1 minute
+[19:45:04] BanchoBot: _Hachikun_ joined in slot 8 for team red.
+[19:45:09] BanchoBot: _Hachikun_ changed to Blue
+[19:45:17] Amber397: nm2
+[19:45:21] BanchoBot: Countdown ends in 30 seconds
+[19:45:27] BCraftMG: !mp mods NF
+[19:45:27] BanchoBot: Enabled NoFail, disabled FreeMod
+[19:45:29] BCraftMG: !mp map 2105741 0
+[19:45:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2105741 K A Z M A S A - Bon Appetit S (Oldskool HappyHardcore Remix) (Short Ver.)
+[19:45:29] BanchoBot: Changed match mode to Osu
+[19:45:31] BanchoBot: Xyphox left the game.
+[19:45:31] BCraftMG: !mp timer 120
+[19:45:31] BanchoBot: Countdown aborted
+[19:45:31] BanchoBot: Countdown ends in 2 minutes
+[19:45:33] BanchoBot: Tatze moved to slot 3
+[19:45:35] BanchoBot: Amber397 left the game.
+[19:45:38] BanchoBot: Defectum left the game.
+[19:45:39] BanchoBot: Fejlan left the game.
+[19:45:41] BanchoBot: _Hachikun_ moved to slot 6
+[19:45:41] BanchoBot: _Hachikun_ changed to Red
+[19:45:52] Loazo: sadistic \o/
+[19:46:14] ScautTheGamer: we are stile :pepehands:
+[19:46:18] BanchoBot: Defectum joined in slot 1 for team blue.
+[19:46:20] BanchoBot: Fejlan joined in slot 2 for team red.
+[19:46:24] BanchoBot: Defectum changed to Red
+[19:46:24] BanchoBot: _Hachikun_ changed to Blue
+[19:46:30] BanchoBot: Countdown ends in 1 minute
+[19:46:55] BanchoBot: Tatze changed to Red
+[19:47:01] BanchoBot: Countdown ends in 30 seconds
+[19:47:15] _Hachikun_: catJAM
+[19:47:21] BanchoBot: Countdown ends in 10 seconds
+[19:47:26] BanchoBot: Countdown ends in 5 seconds
+[19:47:28] BanchoBot: All players are ready
+[19:47:28] Tatze: glhf~!
+[19:47:28] BanchoBot: Countdown ends in 4 seconds
+[19:47:28] BanchoBot: Countdown ends in 3 seconds
+[19:47:30] BanchoBot: Countdown ends in 2 seconds
+[19:47:30] Defectum: glhf!
+[19:47:30] BanchoBot: Countdown ends in 1 second
+[19:47:32] BanchoBot: Countdown finished
+[19:47:33] BCraftMG: !mp settings
+[19:47:34] _Hachikun_: glhf
+[19:47:34] Fejlan: glhf!
+[19:47:34] ScautTheGamer: glhf
+[19:47:34] BanchoBot: Room name: STT3: (la planta) vs (a), History: https://osu.ppy.sh/mp/101973649
+[19:47:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/2105741 K A Z M A S A - Bon Appetit S (Oldskool HappyHardcore Remix) (Short Ver.)
+[19:47:34] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:47:34] BanchoBot: Active mods: NoFail
+[19:47:34] BanchoBot: Players: 6
+[19:47:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8631719 Defectum        [Team Red ]
+[19:47:34] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8150535 Fejlan          [Team Red ]
+[19:47:34] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12090610 Tatze           [Team Red ]
+[19:47:34] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10398422 ScautTheGamer   [Team Blue]
+[19:47:34] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/3925586 Loazo           [Team Blue]
+[19:47:34] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/14463439 _Hachikun_      [Team Blue]
+[19:47:35] BCraftMG: !mp start 10
+[19:47:36] Loazo: glll
+[19:47:36] BanchoBot: Match starts in 10 seconds
+[19:47:36] BanchoBot: Queued the match to start in 10 seconds
+[19:47:42] BanchoBot: Match starts in 5 seconds
+[19:47:42] BanchoBot: Match starts in 4 seconds
+[19:47:44] BanchoBot: Match starts in 3 seconds
+[19:47:44] BanchoBot: Good luck, have fun!
+[19:47:47] BanchoBot: The match has started!
+[19:51:18] BanchoBot: ScautTheGamer finished playing (Score: 704475, PASSED).
+[19:51:18] BanchoBot: Tatze finished playing (Score: 650652, PASSED).
+[19:51:18] BanchoBot: Defectum finished playing (Score: 708908, PASSED).
+[19:51:18] BanchoBot: Fejlan finished playing (Score: 880080, PASSED).
+[19:51:18] BanchoBot: Loazo finished playing (Score: 368653, PASSED).
+[19:51:18] BanchoBot: _Hachikun_ finished playing (Score: 257924, PASSED).
+[19:51:18] BanchoBot: The match has finished!
+[19:51:22] BCraftMG: la planta : 4 | 1 : a
+[19:51:24] BCraftMG: Next team to pick: la planta
+[19:51:26] BCraftMG: !mp timer 120
+[19:51:26] BanchoBot: Countdown ends in 2 minutes
+[19:51:45] BanchoBot: lamy1 joined in slot 7 for team blue.
+[19:52:16] lamy1: ht1
+[19:52:18] BanchoBot: lamy1 left the game.
+[19:52:26] BanchoBot: Countdown ends in 1 minute
+[19:52:33] BanchoBot: _Hachikun_ left the game.
+[19:52:33] BCraftMG: !mp mods NoMod
+[19:52:33] BanchoBot: Disabled all mods, disabled FreeMod
+[19:52:35] BCraftMG: !mp map 2218881 0
+[19:52:35] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2218881 Blueberry Sunshine - Act My Age
+[19:52:35] BanchoBot: Changed match mode to Osu
+[19:52:35] BanchoBot: Amber397 joined in slot 6 for team red.
+[19:52:37] BCraftMG: !mp timer 120
+[19:52:37] BanchoBot: Countdown aborted
+[19:52:37] BanchoBot: Countdown ends in 2 minutes
+[19:52:37] BanchoBot: Amber397 changed to Blue
+[19:52:41] BCraftMG: !mp mods HT NF
+[19:52:41] BanchoBot: Enabled NoFail, HalfTime, disabled FreeMod
+[19:52:47] Defectum: !mp mods NoMod
+[19:52:51] Tatze: I accept nomod
+[19:52:56] Tatze: glhf~!
+[19:52:56] Defectum: I agree!
+[19:53:00] BanchoBot: All players are ready
+[19:53:04] Defectum: glhf!
+[19:53:04] BCraftMG: !mp settings
+[19:53:06] BanchoBot: Room name: STT3: (la planta) vs (a), History: https://osu.ppy.sh/mp/101973649
+[19:53:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/2218881 Blueberry Sunshine - Act My Age
+[19:53:06] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:53:06] BanchoBot: Active mods: NoFail, HalfTime
+[19:53:06] BanchoBot: Players: 6
+[19:53:06] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8631719 Defectum        [Team Red ]
+[19:53:06] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8150535 Fejlan          [Team Red ]
+[19:53:06] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12090610 Tatze           [Team Red ]
+[19:53:06] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10398422 ScautTheGamer   [Team Blue]
+[19:53:06] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/3925586 Loazo           [Team Blue]
+[19:53:06] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/19641527 Amber397        [Team Blue]
+[19:53:09] BCraftMG: !mp start 10
+[19:53:10] Fejlan: glhf!
+[19:53:10] BanchoBot: Countdown aborted
+[19:53:10] BanchoBot: Match starts in 10 seconds
+[19:53:10] BanchoBot: Queued the match to start in 10 seconds
+[19:53:14] Amber397: glgl
+[19:53:16] BanchoBot: Match starts in 5 seconds
+[19:53:16] BanchoBot: Match starts in 4 seconds
+[19:53:18] BanchoBot: Match starts in 3 seconds
+[19:53:18] BanchoBot: Good luck, have fun!
+[19:53:20] Defectum: this is like budget nm3
+[19:53:20] BanchoBot: The match has started!
+[19:56:53] BanchoBot: Tatze finished playing (Score: 107228, PASSED).
+[19:56:53] BanchoBot: Defectum finished playing (Score: 115481, PASSED).
+[19:56:53] BanchoBot: Fejlan finished playing (Score: 205961, PASSED).
+[19:56:53] BanchoBot: Loazo finished playing (Score: 116074, PASSED).
+[19:56:55] BanchoBot: ScautTheGamer finished playing (Score: 132183, PASSED).
+[19:56:55] BanchoBot: Amber397 finished playing (Score: 114200, PASSED).
+[19:56:55] BanchoBot: The match has finished!
+[19:56:57] BCraftMG: la planta : 5 | 1 : a
+[19:56:59] BCraftMG: **la planta wins the match**
+[19:57:05] ScautTheGamer: ggwp
+[19:57:09] Loazo: gg
+[19:57:09] Tatze: ggwp
+[19:57:11] Defectum: ggwp
+[19:57:11] BanchoBot: lamy1 joined in slot 7 for team blue.
+[19:57:11] Tatze: ty4ref
+[19:57:16] lamy1: ggwp
+[19:57:16] Amber397: ggwp
+[19:57:23] BCraftMG: <3
+[19:57:24] lamy1: ty for match, ref and stream <3
+[19:57:24] lamy1: o/
+[19:57:26] BanchoBot: lamy1 left the game.
+[19:57:28] BanchoBot: Poke714 joined in slot 7 for team blue.
+[19:57:30] Fejlan: ty4ref!
+[19:57:32] Amber397: ty for ref!
+[19:57:32] BanchoBot: Tatze left the game.
+[19:57:34] Poke714: ggwp
+[19:57:36] ScautTheGamer: ty for ref and stream !
+[19:57:36] Poke714: thanks for reffing
+[19:57:36] Fejlan: gl in future matches!
+[19:57:38] BanchoBot: Defectum left the game.
+[19:57:40] Fejlan: c:
+[19:57:40] Loazo: o/
+[19:57:43] Loazo: bb
+[19:57:45] ScautTheGamer: gl!
+[19:57:47] BanchoBot: Poke714 left the game.
+[19:57:49] ScautTheGamer: o/
+[19:57:51] Amber397: :)
+[19:57:53] Amber397: o/
+[19:57:55] BanchoBot: Loazo left the game.
+[19:57:55] BanchoBot: ScautTheGamer left the game.
+[19:59:11] BCraftMG: o/
+[19:59:36] BCraftMG: would you mind leaving please Fejlan and Amber397 c:
+[19:59:45] BanchoBot: Amber397 left the game.
+[19:59:55] BanchoBot: Fejlan left the game.
+[19:59:59] BCraftMG: !mp close

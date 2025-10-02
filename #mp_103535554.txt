@@ -1,0 +1,559 @@
+[20:56:07] Joined #mp_103535554
+[20:56:07] BCraftMG: !mp settings
+[20:56:07] BanchoBot: Room name: GWK: (Muggers) vs (adu cung ghe), History: https://osu.ppy.sh/mp/103535554
+[20:56:07] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[20:56:07] BanchoBot: Players: 0
+[20:56:38] BCraftMG: !mp set 2 3 12
+[20:57:28] BCraftMG: !mp invite Arkyon
+[20:57:29] BanchoBot: Invited Arkyon to the room
+[20:57:31] BCraftMG: !mp invite realshin
+[20:57:31] BanchoBot: Invited realshin to the room
+[21:00:03] BCraftMG: !mp invite Arkyon
+[21:00:03] BanchoBot: Invited Arkyon to the room
+[21:00:17] BCraftMG: !mp invite realshin
+[21:00:18] BanchoBot: Invited realshin to the room
+[21:00:58] BCraftMG: !mp invite Arkyon
+[21:01:00] BanchoBot: Invited Arkyon to the room
+[21:01:08] BCraftMG: !mp invite realshin
+[21:01:09] BanchoBot: Invited realshin to the room
+[21:01:13] BCraftMG: !mp invite Arkyon
+[21:01:13] BanchoBot: realshin joined in slot 1.
+[21:01:13] BanchoBot: Invited Arkyon to the room
+[21:01:21] BCraftMG: !mp invite Arkyon
+[21:01:22] BanchoBot: Invited Arkyon to the room
+[21:01:47] BanchoBot: Arkyon joined in slot 2.
+[21:01:57] BanchoBot: nemq joined in slot 3.
+[21:02:05] BanchoBot: Arkyon left the game.
+[21:02:05] BCraftMG: !mp settings
+[21:02:06] BanchoBot: Room name: GWK: (Muggers) vs (adu cung ghe), History: https://osu.ppy.sh/mp/103535554
+[21:02:06] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[21:02:06] BanchoBot: Players: 2
+[21:02:06] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/8006029 realshin        
+[21:02:06] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/11644972 nemq            
+[21:02:09] BCraftMG: !mp set 2 3 12
+[21:02:10] BanchoBot: Changed match settings to 12 slots, TeamVs, ScoreV2
+[21:02:30] BanchoBot: Arkyon joined in slot 2 for team red.
+[21:02:57] BanchoBot: Hoaq joined in slot 4 for team red.
+[21:03:01] BanchoBot: Hoaq moved to slot 5
+[21:03:07] BanchoBot: Hoaq moved to slot 4
+[21:03:09] BCraftMG: Muggers on Red; adu cung ghe on Blue
+[21:03:10] BanchoBot: Hoaq changed to Blue
+[21:03:13] BCraftMG: anyone wanna do warm up?
+[21:03:19] BanchoBot: Hytix joined in slot 5 for team blue.
+[21:03:30] Arkyon: yep
+[21:03:43] BCraftMG: !mp host Arkyon
+[21:03:44] BanchoBot: Arkyon became the host.
+[21:03:44] BanchoBot: Changed match host to Arkyon
+[21:03:45] BanchoBot: Beatmap changed to: KoikinGO - The Magikarp Song [maziari's Drawing Song] (https://osu.ppy.sh/b/1312686)
+[21:03:49] BCraftMG: <4mins please
+[21:03:50] BanchoBot: [Boy]DaLat joined in slot 6 for team red.
+[21:03:52] BanchoBot: Grippeh joined in slot 7 for team blue.
+[21:03:53] BanchoBot: Host is changing map...
+[21:03:55] BanchoBot: Beatmap changed to: KoikinGO - The Magikarp Song [maziari's Drawing Song] (https://osu.ppy.sh/b/1312686)
+[21:03:57] BanchoBot: Host is changing map...
+[21:03:58] BanchoBot: Beatmap changed to: KoikinGO - The Magikarp Song [maziari's Drawing Song] (https://osu.ppy.sh/b/1312686)
+[21:04:35] BanchoBot: Grippeh changed to Red
+[21:04:38] BanchoBot: nemq changed to Red
+[21:04:42] BanchoBot: Vekkrem joined in slot 8 for team red.
+[21:04:44] BanchoBot: Hytix changed to Red
+[21:04:50] nemq: !where walle
+[21:04:50] BanchoBot: walle is in Vietnam
+[21:05:09] Grippeh: !where nemq
+[21:05:09] BanchoBot: nemq is in Finland
+[21:05:17] Arkyon: !where dad
+[21:05:17] BanchoBot: The user is currently not online.
+[21:05:22] Vekkrem: !where my dad
+[21:05:22] BanchoBot: The user is currently not online.
+[21:05:24] BanchoBot: [Boy]DaLat left the game.
+[21:05:27] BanchoBot: walle joined in slot 6 for team red.
+[21:05:33] BCraftMG: !mp settings
+[21:05:34] BanchoBot: Room name: GWK: (Muggers) vs (adu cung ghe), History: https://osu.ppy.sh/mp/103535554
+[21:05:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/1312686 KoikinGO - The Magikarp Song [maziari's Drawing Song]
+[21:05:34] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:05:34] BanchoBot: Active mods: Freemod
+[21:05:34] BanchoBot: Players: 8
+[21:05:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8006029 realshin        [Team Blue / HardRock]
+[21:05:34] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11896500 Arkyon          [Host / Team Red  / NoFail, Easy]
+[21:05:34] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11644972 nemq            [Team Red ]
+[21:05:34] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/7696512 Hoaq            [Team Blue]
+[21:05:34] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13501252 Hytix           [Team Red ]
+[21:05:34] BanchoBot: Slot 6  No Map    https://osu.ppy.sh/u/8431549 walle           [Team Red ]
+[21:05:34] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11749569 Grippeh         [Team Red ]
+[21:05:34] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/14885765 Vekkrem         [Team Red ]
+[21:05:35] nemq: walle!!!
+[21:05:44] Vekkrem: !roll
+[21:05:44] BanchoBot: Vekkrem rolls 36 point(s)
+[21:05:51] Arkyon: !roll 1000
+[21:05:51] BanchoBot: Arkyon rolls 603 point(s)
+[21:05:51] walle: hi nemq!!!
+[21:06:15] Grippeh: !roll 1000
+[21:06:15] BanchoBot: Grippeh rolls 641 point(s)
+[21:06:33] Vekkrem: walle internet
+[21:06:40] walle: yes
+[21:06:40] walle: sorry
+[21:06:45] Vekkrem: no worries
+[21:06:48] Hoaq: vn internet :skull:
+[21:06:51] Arkyon: swap teams as well
+[21:06:54] BanchoBot: walle changed to Blue
+[21:06:59] walle: but what if i wanted to be red
+[21:07:06] Arkyon: you can join us :)
+[21:07:10] walle: awesome
+[21:07:21] Hoaq: aight cant download lol
+[21:07:27] Hoaq: skip me then
+[21:07:32] BanchoBot: The match has started!
+[21:07:33] BanchoBot: Hoaq left the game.
+[21:07:33] Vekkrem: haha
+[21:07:46] BanchoBot: budget lighto joined in slot 4 for team red.
+[21:08:25] BanchoBot: nemq finished playing (Score: 350316, PASSED).
+[21:08:25] BanchoBot: Hytix finished playing (Score: 48929, PASSED).
+[21:08:26] BanchoBot: Arkyon finished playing (Score: 420523, PASSED).
+[21:08:26] BanchoBot: Grippeh finished playing (Score: 40596, FAILED).
+[21:08:26] BanchoBot: realshin finished playing (Score: 49721, FAILED).
+[21:08:26] BanchoBot: walle finished playing (Score: 34659, PASSED).
+[21:08:27] BanchoBot: Vekkrem finished playing (Score: 68925, PASSED).
+[21:08:27] BanchoBot: The match has finished!
+[21:08:40] walle: That map is the best map ive ever played
+[21:08:49] BanchoBot: realshin became the host.
+[21:08:57] BanchoBot: Hoaq joined in slot 9 for team blue.
+[21:09:00] BanchoBot: Host is changing map...
+[21:09:09] Vekkrem: my eyes are burnig
+[21:09:12] Grippeh: i can't draw
+[21:09:16] BanchoBot: Beatmap changed to: Leo/need x Hatsune Miku - needLe [Zettai] (https://osu.ppy.sh/b/3389647)
+[21:09:17] BanchoBot: Host is changing map...
+[21:09:36] BanchoBot: Vekkrem left the game.
+[21:09:54] BanchoBot: budget lighto moved to slot 8
+[21:09:55] BanchoBot: budget lighto moved to slot 4
+[21:09:56] BanchoBot: Beatmap changed to: BUTAOTOME - Gensou no Satellite [Taeyang's Extra] (https://osu.ppy.sh/b/2094367)
+[21:09:56] BanchoBot: Hoaq moved to slot 8
+[21:10:03] Arkyon: banger song
+[21:10:39] Arkyon: any maimai players
+[21:10:42] Arkyon: maimai song
+[21:10:45] walle: YES
+[21:10:46] realshin: you just mentioned
+[21:10:48] realshin: a team of maimai players
+[21:10:49] Grippeh: miami player here
+[21:10:50] budget_lighto: yes
+[21:10:50] Arkyon: POG
+[21:10:52] walle: drop your friend code RIGHT NOW
+[21:10:55] budget_lighto: my fc bro
+[21:10:55] Arkyon: LOL
+[21:10:58] realshin: LMAO
+[21:11:06] walle: ok see you at the arcade this match is cancelled
+[21:11:23] realshin: 2v2 arcade gaming
+[21:11:28] Hytix: lets go
+[21:11:31] BanchoBot: All players are ready
+[21:11:32] BanchoBot: The match has started!
+[21:11:42] Arkyon: 8007677728122
+[21:11:46] Arkyon: 1v1 me maimai
+[21:13:35] BanchoBot: Arkyon left the game.
+[21:13:38] BanchoBot: Arkyon joined in slot 2 for team red.
+[21:13:44] BanchoBot: realshin finished playing (Score: 276344, PASSED).
+[21:13:44] BanchoBot: Grippeh finished playing (Score: 298853, PASSED).
+[21:13:45] BanchoBot: nemq finished playing (Score: 340009, PASSED).
+[21:13:45] BanchoBot: Hytix finished playing (Score: 142469, PASSED).
+[21:13:45] BanchoBot: walle finished playing (Score: 479875, PASSED).
+[21:13:46] BanchoBot: budget lighto finished playing (Score: 155593, PASSED).
+[21:13:46] BanchoBot: Hoaq finished playing (Score: 438875, PASSED).
+[21:13:46] BanchoBot: The match has finished!
+[21:13:51] Arkyon: that do be one of the 13+s of all time
+[21:13:58] BanchoBot: budget lighto changed to Blue
+[21:14:04] budget_lighto: true
+[21:14:05] walle: ok wait let me ad du
+[21:14:07] walle: add*
+[21:14:14] Arkyon: fun fact
+[21:14:14] BCraftMG: !mp clearhost
+[21:14:15] BanchoBot: Cleared match host
+[21:14:19] Arkyon: we got mrekk into maimai a couple weeks ago
+[21:14:23] budget_lighto: 7098795845410
+[21:14:24] BCraftMG: Lets start the rolls
+[21:14:24] Hoaq: 8084074305031
+[21:14:31] realshin: holy f 16k
+[21:14:32] walle: Zamn
+[21:14:38] realshin: walle do the roll
+[21:14:39] walle: !roll
+[21:14:39] BanchoBot: walle rolls 13 point(s)
+[21:14:42] BCraftMG: nice
+[21:14:50] Hoaq: YEP
+[21:14:50] walle: nice
+[21:14:54] nemq: !roll
+[21:14:54] BanchoBot: nemq rolls 33 point(s)
+[21:14:55] Arkyon: i designate nemq my roll
+[21:15:08] nemq: 8)
+[21:15:11] BanchoBot: [Boy]DaLat joined in slot 9 for team blue.
+[21:15:11] realshin: 8078738056302
+[21:15:15] [Boy]DaLat: HELLO ANY MAIMAI PLAYERS?
+[21:15:20] [Boy]DaLat: I HEARD MAIMAI PLAYER
+[21:15:21] budget_lighto: maimai alert
+[21:15:23] BCraftMG: Roll winner chooses between first pick or ban
+[21:15:28] walle: dude ur 16k WTFFFFf
+[21:15:34] Arkyon: MAIMAI GAMING
+[21:15:41] Arkyon: wait can we pick second pick
+[21:15:55] BCraftMG: then choose first ban
+[21:16:12] Arkyon: oh
+[21:16:14] Arkyon: first ban then
+[21:16:14] budget_lighto: ban pandora paradoxxx
+[21:16:24] Hoaq: ban goodbye merry go round
+[21:16:26] [Boy]DaLat: ban break^3
+[21:16:28] realshin: ban m15
+[21:16:34] Arkyon: i wish i could ban pp remas
+[21:16:35] Arkyon: remove from game
+[21:16:42] BCraftMG: okay, Muggers ban then
+[21:16:43] Hoaq: same
+[21:16:43] BCraftMG: !mp timer 120
+[21:16:45] budget_lighto: pp remas overrated chart
+[21:16:45] BanchoBot: Countdown ends in 2 minutes
+[21:17:02] Arkyon: ban hr2
+[21:17:17] Arkyon: goodbye merry go round slaps though
+[21:17:24] Arkyon: ngl so many good maimai songs that aren't in osu
+[21:17:24] walle: :true:
+[21:17:28] Arkyon: someone chart now or never nm1
+[21:17:31] Arkyon: or justified nm1
+[21:17:31] BCraftMG: adu cung ghe ban
+[21:17:32] realshin: ban ez1
+[21:17:33] BCraftMG: !mp timer 120
+[21:17:34] BanchoBot: Countdown aborted
+[21:17:34] BanchoBot: Countdown ends in 2 minutes
+[21:17:43] Hoaq: adu cung ghe
+[21:17:45] realshin: ban ez1
+[21:17:45] [Boy]DaLat: adu cx ghe nha pri
+[21:17:59] walle: i wanna play battle no 1
+[21:18:02] walle: jammers
+[21:18:08] [Boy]DaLat: battle no sus
+[21:18:08] Arkyon: any solips havers
+[21:18:19] Arkyon: i cannot solips
+[21:18:21] BCraftMG: Muggers | 0 : 0 | adu cung ghe // Next to pick: adu cung ghe
+[21:18:23] BCraftMG: !mp timer 120
+[21:18:24] BanchoBot: Countdown aborted
+[21:18:24] BanchoBot: Countdown ends in 2 minutes
+[21:18:24] walle: no i dont have solips :d
+[21:18:44] realshin: !roll 2
+[21:18:44] BanchoBot: realshin rolls 2 point(s)
+[21:18:48] realshin: hd2
+[21:19:06] BanchoBot: Hoaq left the game.
+[21:19:06] budget_lighto: goodbye merry go round one of the bangers in universe+
+[21:19:09] BanchoBot: Hytix left the game.
+[21:19:09] BCraftMG: !mp map 2877776 0
+[21:19:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2877776 Falcom Sound Team jdk - A-TO-Z
+[21:19:10] BanchoBot: Changed match mode to Osu
+[21:19:11] BanchoBot: [Boy]DaLat moved to slot 5
+[21:19:11] Arkyon: real
+[21:19:11] BCraftMG: !mp mods 9
+[21:19:12] walle: i am forced to play hd2
+[21:19:12] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:19:13] BCraftMG: !mp timer 120
+[21:19:14] BanchoBot: Countdown aborted
+[21:19:14] BanchoBot: Countdown ends in 2 minutes
+[21:19:15] BanchoBot: realshin left the game.
+[21:19:17] BanchoBot: Grippeh left the game.
+[21:19:19] BCraftMG: theres a funni hd1
+[21:19:25] BanchoBot: budget lighto left the game.
+[21:19:28] Arkyon: ngl swift swing looks awesome
+[21:19:40] BanchoBot: nemq left the game.
+[21:19:52] walle: i just went maimai earlier
+[21:19:54] BanchoBot: Vekkrem joined in slot 1 for team blue.
+[21:19:56] BanchoBot: Grippeh joined in slot 3 for team blue.
+[21:19:57] walle: I had to go home because of this match
+[21:19:57] walle: saljkhfljashljghasdg
+[21:19:59] BanchoBot: Arkyon left the game.
+[21:20:02] BanchoBot: budget lighto joined in slot 2 for team red.
+[21:20:03] BanchoBot: budget lighto moved to slot 4
+[21:20:06] BanchoBot: budget lighto changed to Blue
+[21:20:13] BanchoBot: Grippeh changed to Red
+[21:20:14] BanchoBot: Countdown ends in 1 minute
+[21:20:35] Vekkrem: hold on
+[21:20:35] BanchoBot: Arkyon joined in slot 2 for team red.
+[21:20:39] Vekkrem: downloading cookiezi skin to win
+[21:20:48] BanchoBot: Countdown ends in 30 seconds
+[21:20:51] BanchoBot: Vekkrem left the game.
+[21:20:51] Arkyon: dumii also started maimai recently
+[21:20:55] Arkyon: very cool
+[21:21:05] BanchoBot: Countdown ends in 10 seconds
+[21:21:08] BanchoBot: Arkyon moved to slot 1
+[21:21:09] BanchoBot: Countdown ends in 5 seconds
+[21:21:10] BanchoBot: Countdown ends in 4 seconds
+[21:21:11] BanchoBot: Countdown ends in 3 seconds
+[21:21:12] BanchoBot: Countdown ends in 2 seconds
+[21:21:14] BanchoBot: Countdown ends in 1 second
+[21:21:14] walle: mrekk is coming here and we're taking him to arcades
+[21:21:15] BanchoBot: Countdown finished
+[21:21:15] walle: :3
+[21:21:16] BCraftMG: !mp settings
+[21:21:17] BanchoBot: Room name: GWK: (Muggers) vs (adu cung ghe), History: https://osu.ppy.sh/mp/103535554
+[21:21:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/2877776 Falcom Sound Team jdk - A-TO-Z
+[21:21:17] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:21:17] BanchoBot: Active mods: NoFail, Hidden
+[21:21:17] BanchoBot: Players: 5
+[21:21:17] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11896500 Arkyon          [Team Red ]
+[21:21:17] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11749569 Grippeh         [Team Red ]
+[21:21:17] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6489819 budget lighto   [Team Blue]
+[21:21:17] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/8266808 [Boy]DaLat      [Team Blue]
+[21:21:17] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/8431549 walle           [Team Blue]
+[21:21:19] Arkyon: vekkrem client is broken
+[21:21:19] [Boy]DaLat: omg dumii also
+[21:21:20] Arkyon: need to restart
+[21:21:24] [Boy]DaLat: when the guys starting to play maimai
+[21:21:27] Arkyon: need invite
+[21:21:37] BanchoBot: Vekkrem joined in slot 2 for team red.
+[21:21:38] BCraftMG: deadge
+[21:21:42] BCraftMG: !mp settings
+[21:21:44] BanchoBot: Room name: GWK: (Muggers) vs (adu cung ghe), History: https://osu.ppy.sh/mp/103535554
+[21:21:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/2877776 Falcom Sound Team jdk - A-TO-Z
+[21:21:44] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:21:44] BanchoBot: Active mods: NoFail, Hidden
+[21:21:44] BanchoBot: Players: 6
+[21:21:44] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11896500 Arkyon          [Team Red ]
+[21:21:44] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14885765 Vekkrem         [Team Red ]
+[21:21:44] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11749569 Grippeh         [Team Red ]
+[21:21:44] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6489819 budget lighto   [Team Blue]
+[21:21:44] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      [Team Blue]
+[21:21:44] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/8431549 walle           [Team Blue]
+[21:21:50] BanchoBot: All players are ready
+[21:21:50] Arkyon: yeah a bunch of aus osu players started mai
+[21:21:52] BanchoBot: All players are ready
+[21:22:00] Arkyon: jaye the taiko guy also plays
+[21:22:02] Arkyon: hes also 16k
+[21:22:03] BCraftMG: !mp settings
+[21:22:04] BanchoBot: Room name: GWK: (Muggers) vs (adu cung ghe), History: https://osu.ppy.sh/mp/103535554
+[21:22:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/2877776 Falcom Sound Team jdk - A-TO-Z
+[21:22:04] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:22:04] BanchoBot: Active mods: NoFail, Hidden
+[21:22:04] BanchoBot: Players: 6
+[21:22:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11896500 Arkyon          [Team Red ]
+[21:22:04] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14885765 Vekkrem         [Team Red ]
+[21:22:04] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11749569 Grippeh         [Team Red ]
+[21:22:04] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6489819 budget lighto   [Team Blue]
+[21:22:04] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      [Team Blue]
+[21:22:04] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/8431549 walle           [Team Blue]
+[21:22:06] BCraftMG: !mp start 10
+[21:22:07] BanchoBot: Match starts in 10 seconds
+[21:22:07] BanchoBot: Queued the match to start in 10 seconds
+[21:22:10] walle: 16k players O_O
+[21:22:12] walle: glhf
+[21:22:13] BanchoBot: Match starts in 5 seconds
+[21:22:13] [Boy]DaLat: glglglglgl
+[21:22:15] BanchoBot: Match starts in 4 seconds
+[21:22:16] BanchoBot: Match starts in 3 seconds
+[21:22:16] Arkyon: glhf
+[21:22:16] BanchoBot: Good luck, have fun!
+[21:22:18] BanchoBot: The match has started!
+[21:24:32] BanchoBot: Grippeh finished playing (Score: 568288, PASSED).
+[21:24:32] BanchoBot: [Boy]DaLat finished playing (Score: 442674, PASSED).
+[21:24:33] BanchoBot: Arkyon finished playing (Score: 598555, PASSED).
+[21:24:33] BanchoBot: walle finished playing (Score: 1019338, PASSED).
+[21:24:33] BanchoBot: Vekkrem finished playing (Score: 476977, PASSED).
+[21:24:35] BanchoBot: budget lighto finished playing (Score: 702979, PASSED).
+[21:24:35] BanchoBot: The match has finished!
+[21:24:46] BanchoBot: realshin joined in slot 7 for team blue.
+[21:24:46] BCraftMG: Muggers | 0 : 1 | adu cung ghe // Next to pick: Muggers
+[21:24:47] BCraftMG: !mp timer 120
+[21:24:49] BanchoBot: Countdown ends in 2 minutes
+[21:24:59] walle: i was forced to play hd2
+[21:25:00] realshin: WTF WALE HD2 ACTAULY WIN
+[21:25:09] BanchoBot: budget lighto left the game.
+[21:25:10] BanchoBot: Vekkrem left the game.
+[21:25:11] [Boy]DaLat: alright my responsibility here is done
+[21:25:15] [Boy]DaLat: see ya chat
+[21:25:20] BanchoBot: realshin moved to slot 4
+[21:25:23] BanchoBot: Grippeh left the game.
+[21:25:24] BanchoBot: realshin moved to slot 2
+[21:25:25] BanchoBot: realshin moved to slot 4
+[21:25:29] [Boy]DaLat: thx for ref
+[21:25:29] BanchoBot: [Boy]DaLat left the game.
+[21:25:33] Arkyon: go back to studying maimai charts
+[21:25:35] Arkyon: :D
+[21:25:49] BanchoBot: Countdown ends in 1 minute
+[21:25:53] Arkyon: pick nm5
+[21:26:12] BCraftMG: !mp map 3651733 0
+[21:26:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3651733 Gram - Nibelungen
+[21:26:12] BanchoBot: Changed match mode to Osu
+[21:26:15] BCraftMG: !Mp timer 120
+[21:26:16] BanchoBot: Countdown aborted
+[21:26:16] BanchoBot: Countdown ends in 2 minutes
+[21:26:16] BCraftMG: !Mp mods 1
+[21:26:17] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:26:20] BanchoBot: Vekkrem joined in slot 2 for team red.
+[21:26:22] BanchoBot: Arkyon left the game.
+[21:26:30] BanchoBot: Grippeh joined in slot 1 for team blue.
+[21:26:32] BanchoBot: nemq joined in slot 3 for team blue.
+[21:26:40] BanchoBot: nemq changed to Red
+[21:27:03] BanchoBot: Grippeh changed to Red
+[21:27:07] BanchoBot: budget lighto joined in slot 5 for team blue.
+[21:27:12] BanchoBot: Hoaq joined in slot 7 for team blue.
+[21:27:13] BanchoBot: budget lighto left the game.
+[21:27:17] BanchoBot: Countdown ends in 1 minute
+[21:27:17] BanchoBot: Hoaq moved to slot 5
+[21:27:25] walle: glhf
+[21:27:33] BanchoBot: All players are ready
+[21:27:36] BCraftMG: !mp settings
+[21:27:37] BanchoBot: Room name: GWK: (Muggers) vs (adu cung ghe), History: https://osu.ppy.sh/mp/103535554
+[21:27:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/3651733 Gram - Nibelungen
+[21:27:37] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:27:37] BanchoBot: Active mods: NoFail
+[21:27:37] BanchoBot: Players: 6
+[21:27:37] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11749569 Grippeh         [Team Red ]
+[21:27:37] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14885765 Vekkrem         [Team Red ]
+[21:27:37] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11644972 nemq            [Team Red ]
+[21:27:37] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8006029 realshin        [Team Blue]
+[21:27:37] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/7696512 Hoaq            [Team Blue]
+[21:27:37] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/8431549 walle           [Team Blue]
+[21:27:38] Hoaq: golf
+[21:27:40] BCraftMG: !mp start 10
+[21:27:40] BanchoBot: Countdown aborted
+[21:27:40] BanchoBot: Match starts in 10 seconds
+[21:27:40] BanchoBot: Queued the match to start in 10 seconds
+[21:27:43] Grippeh: golf
+[21:27:43] Vekkrem: golf
+[21:27:44] nemq: glgl
+[21:27:46] BanchoBot: Match starts in 5 seconds
+[21:27:48] BanchoBot: Match starts in 4 seconds
+[21:27:50] BanchoBot: Match starts in 3 seconds
+[21:27:50] BanchoBot: Good luck, have fun!
+[21:27:52] BanchoBot: The match has started!
+[21:30:31] BanchoBot: Hoaq finished playing (Score: 810615, PASSED).
+[21:30:32] BanchoBot: Vekkrem finished playing (Score: 970930, PASSED).
+[21:30:32] BanchoBot: nemq finished playing (Score: 908654, PASSED).
+[21:30:32] BanchoBot: Grippeh finished playing (Score: 538587, PASSED).
+[21:30:32] BanchoBot: walle finished playing (Score: 495347, PASSED).
+[21:30:32] BanchoBot: realshin finished playing (Score: 944894, PASSED).
+[21:30:32] BanchoBot: The match has finished!
+[21:30:44] BCraftMG: Muggers | 1 : 1 | adu cung ghe // Next to pick: adu cung ghe
+[21:30:45] BCraftMG: !mp timer 120
+[21:30:47] BanchoBot: Countdown ends in 2 minutes
+[21:30:57] BanchoBot: Arkyon joined in slot 7 for team blue.
+[21:31:02] BanchoBot: Arkyon changed to Red
+[21:31:35] BanchoBot: Vekkrem left the game.
+[21:31:47] BanchoBot: Countdown ends in 1 minute
+[21:32:03] realshin: dt1
+[21:32:17] BanchoBot: Countdown ends in 30 seconds
+[21:32:17] BanchoBot: Arkyon moved to slot 2
+[21:32:21] BCraftMG: !mp map 1086008 0
+[21:32:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1086008 Mami Kawada - Contrail ~Kiseki~
+[21:32:23] BanchoBot: Changed match mode to Osu
+[21:32:23] BCraftMG: !mp mods 65
+[21:32:25] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:32:26] BCraftMG: !Mp timer 120
+[21:32:26] BanchoBot: Countdown aborted
+[21:32:26] BanchoBot: Countdown ends in 2 minutes
+[21:32:35] BanchoBot: Vekkrem joined in slot 7 for team blue.
+[21:33:04] BanchoBot: Arkyon moved to slot 8
+[21:33:08] BanchoBot: nemq moved to slot 9
+[21:33:10] BanchoBot: nemq moved to slot 10
+[21:33:11] BanchoBot: Arkyon moved to slot 3
+[21:33:13] BanchoBot: Vekkrem moved to slot 2
+[21:33:15] BanchoBot: Vekkrem changed to Red
+[21:33:16] BanchoBot: nemq left the game.
+[21:33:26] BanchoBot: Countdown ends in 1 minute
+[21:33:29] BanchoBot: Hoaq left the game.
+[21:34:00] BanchoBot: Hoaq joined in slot 5 for team blue.
+[21:34:00] BanchoBot: Countdown ends in 30 seconds
+[21:34:04] BanchoBot: All players are ready
+[21:34:06] BCraftMG: !mp settings
+[21:34:07] BanchoBot: Room name: GWK: (Muggers) vs (adu cung ghe), History: https://osu.ppy.sh/mp/103535554
+[21:34:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/1086008 Mami Kawada - Contrail ~Kiseki~
+[21:34:07] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:34:07] BanchoBot: Active mods: NoFail, DoubleTime
+[21:34:07] BanchoBot: Players: 6
+[21:34:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11749569 Grippeh         [Team Red ]
+[21:34:07] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14885765 Vekkrem         [Team Red ]
+[21:34:07] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11896500 Arkyon          [Team Red ]
+[21:34:07] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8006029 realshin        [Team Blue]
+[21:34:07] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/7696512 Hoaq            [Team Blue]
+[21:34:07] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/8431549 walle           [Team Blue]
+[21:34:10] Hoaq: golf
+[21:34:13] BCraftMG: Golf
+[21:34:13] BCraftMG: !mp start 10
+[21:34:14] Vekkrem: golf
+[21:34:15] BanchoBot: Countdown aborted
+[21:34:15] BanchoBot: Match starts in 10 seconds
+[21:34:15] BanchoBot: Queued the match to start in 10 seconds
+[21:34:17] Arkyon: golf
+[21:34:21] BanchoBot: Match starts in 5 seconds
+[21:34:22] BanchoBot: Match starts in 4 seconds
+[21:34:22] BanchoBot: Match starts in 3 seconds
+[21:34:23] BanchoBot: Good luck, have fun!
+[21:34:25] walle: golf
+[21:34:25] BanchoBot: The match has started!
+[21:37:38] BanchoBot: walle finished playing (Score: 865058, PASSED).
+[21:37:38] BanchoBot: realshin finished playing (Score: 1175134, PASSED).
+[21:37:38] BanchoBot: Grippeh finished playing (Score: 916423, PASSED).
+[21:37:38] BanchoBot: Arkyon finished playing (Score: 858540, PASSED).
+[21:37:41] BanchoBot: Vekkrem finished playing (Score: 658649, PASSED).
+[21:37:41] BanchoBot: Hoaq finished playing (Score: 1014210, PASSED).
+[21:37:41] BanchoBot: The match has finished!
+[21:37:53] BCraftMG: Muggers | 1 : 2 | adu cung ghe // Next to pick: Muggers
+[21:37:55] BCraftMG: !mp timer 120
+[21:37:56] BanchoBot: Countdown ends in 2 minutes
+[21:38:52] Arkyon: pick dt2
+[21:38:56] BanchoBot: Countdown ends in 1 minute
+[21:39:06] BanchoBot: nemq joined in slot 7 for team blue.
+[21:39:14] BCraftMG: !mp map 114384 0
+[21:39:15] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/114384 KISIDA KYODAN & THE AKEBOSI ROCKETS - Akebosi Rocket
+[21:39:15] BanchoBot: Changed match mode to Osu
+[21:39:16] BCraftMG: !mp mods 65
+[21:39:17] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:39:18] BCraftMG: !Mp timer 120
+[21:39:20] BanchoBot: Countdown aborted
+[21:39:20] BanchoBot: Countdown ends in 2 minutes
+[21:39:20] BanchoBot: Hoaq left the game.
+[21:39:23] BanchoBot: walle moved to slot 5
+[21:39:37] BanchoBot: Grippeh left the game.
+[21:39:40] BanchoBot: nemq moved to slot 1
+[21:39:42] BanchoBot: nemq changed to Red
+[21:40:04] BanchoBot: Hoaq joined in slot 6 for team red.
+[21:40:06] BanchoBot: Hoaq changed to Blue
+[21:40:17] BanchoBot: All players are ready
+[21:40:19] BanchoBot: Countdown ends in 1 minute
+[21:40:21] BCraftMG: !mp settings
+[21:40:23] BanchoBot: Room name: GWK: (Muggers) vs (adu cung ghe), History: https://osu.ppy.sh/mp/103535554
+[21:40:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/114384 KISIDA KYODAN & THE AKEBOSI ROCKETS - Akebosi Rocket
+[21:40:23] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:40:23] BanchoBot: Active mods: NoFail, DoubleTime
+[21:40:23] BanchoBot: Players: 6
+[21:40:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11644972 nemq            [Team Red ]
+[21:40:23] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14885765 Vekkrem         [Team Red ]
+[21:40:23] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11896500 Arkyon          [Team Red ]
+[21:40:23] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8006029 realshin        [Team Blue]
+[21:40:23] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/8431549 walle           [Team Blue]
+[21:40:23] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/7696512 Hoaq            [Team Blue]
+[21:40:24] BCraftMG: !mp start 10
+[21:40:25] BanchoBot: Countdown aborted
+[21:40:25] BanchoBot: Match starts in 10 seconds
+[21:40:25] BanchoBot: Queued the match to start in 10 seconds
+[21:40:28] nemq: glgl
+[21:40:31] Arkyon: glgl
+[21:40:31] BanchoBot: Match starts in 5 seconds
+[21:40:32] BanchoBot: Match starts in 4 seconds
+[21:40:32] BanchoBot: Match starts in 3 seconds
+[21:40:34] Vekkrem: golf
+[21:40:34] walle: glhf
+[21:40:34] BanchoBot: Good luck, have fun!
+[21:40:36] BanchoBot: The match has started!
+[21:40:37] Hoaq: golf
+[21:42:57] BanchoBot: realshin finished playing (Score: 623335, PASSED).
+[21:42:57] BanchoBot: Hoaq finished playing (Score: 410569, PASSED).
+[21:42:57] BanchoBot: nemq finished playing (Score: 958349, PASSED).
+[21:42:58] BanchoBot: walle finished playing (Score: 539425, PASSED).
+[21:42:58] BanchoBot: Arkyon finished playing (Score: 418299, PASSED).
+[21:42:59] BanchoBot: Vekkrem finished playing (Score: 662306, PASSED).
+[21:42:59] BanchoBot: The match has finished!
+[21:43:12] nemq: aim map
+[21:43:16] BCraftMG: Muggers | 2 : 2 | adu cung ghe // Next to pick: adu cung ghe
+[21:43:17] BCraftMG: !mp timer 120
+[21:43:18] realshin: true
+[21:43:18] walle: missed on aim
+[21:43:18] BanchoBot: Countdown ends in 2 minutes
+[21:43:19] walle: awesome
+[21:43:19] Hoaq: aim map.
+[21:43:35] realshin: nm2
+[21:43:59] BCraftMG: !mp map 3066224 0
+[21:44:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3066224 Touhou LostWord x RichaadEB - Lost Word Chronicle
+[21:44:00] BanchoBot: Changed match mode to Osu
+[21:44:01] BCraftMG: !mp timer 120
+[21:44:02] BanchoBot: Arkyon left the game.
+[21:44:02] BanchoBot: Grippeh joined in slot 3 for team blue.
+[21:44:03] BCraftMG: !Mp mods 1
+[21:44:04] BanchoBot: Countdown aborted
+[21:44:04] BanchoBot: Countdown ends in 2 minutes
+[21:44:07] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:44:21] BCraftMG: am i seriously gonna have 2 tbs at the same time
+[21:46:16] BCraftMG: !mp settings

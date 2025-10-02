@@ -1,0 +1,1502 @@
+[21:21:32] Joined #mp_107869566
+[21:21:32] BCraftMG: !mp settings
+[21:21:33] BanchoBot: Room name: 5WC2023: (Russian Federation) vs (France), History: https://osu.ppy.sh/mp/107869566
+[21:21:33] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[21:21:33] BanchoBot: Players: 0
+[21:24:19] BCraftMG: !mp set 2 3 16
+[21:24:21] BanchoBot: Changed match settings to 16 slots, TeamVs, ScoreV2
+[21:24:36] BCraftMG: !mp addref Rob_
+[21:24:36] BanchoBot: Added Rob_ to the match referees
+[21:25:24] BCraftMG: !mp invite #10204748
+[21:25:24] BanchoBot: Invited hrds to the room
+[21:25:27] BCraftMG: !mp invite #11129041
+[21:25:28] BanchoBot: Invited XiaoMyMommy to the room
+[21:25:32] BanchoBot: hrds joined in slot 1 for team blue.
+[21:25:34] BanchoBot: hrds changed to Red
+[21:25:52] BanchoBot: Light135 joined in slot 2 for team red.
+[21:25:57] BanchoBot: N7TR0 joined in slot 3 for team blue.
+[21:26:35] BCraftMG: !mp settings
+[21:26:36] BanchoBot: Room name: 5WC2023: (Russian Federation) vs (France), History: https://osu.ppy.sh/mp/107869566
+[21:26:36] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:26:36] BanchoBot: Players: 3
+[21:26:36] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/10204748 hrds            [Team Red ]
+[21:26:36] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/6420308 Light135        [Team Red ]
+[21:26:36] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/14518295 N7TR0           [Team Blue]
+[21:26:37] BanchoBot: Filtrator joined in slot 4 for team red.
+[21:26:43] BanchoBot: ImaginaryVaxei joined in slot 5 for team blue.
+[21:26:50] BanchoBot: ImaginaryVaxei left the game.
+[21:27:06] BCraftMG: !mp mods Freemod
+[21:27:07] BanchoBot: Disabled all mods, enabled FreeMod
+[21:27:10] BCraftMG: !mp map 4092709 0
+[21:27:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4092709 Lou Bega - Mambo No. 5
+[21:27:10] BanchoBot: Changed match mode to Osu
+[21:27:30] BCraftMG: Russian Federation red + slots 1-4 and France blue + slots 5-8
+[21:27:40] BanchoBot: MakiBrony joined in slot 5 for team blue.
+[21:27:44] BanchoBot: N7TR0 changed to Red
+[21:28:10] BanchoBot: ImaginaryVaxei joined in slot 6 for team red.
+[21:28:16] BanchoBot: ImaginaryVaxei changed to Blue
+[21:28:18] BanchoBot: hrds left the game.
+[21:28:31] BanchoBot: ImaginaryVaxei moved to slot 1
+[21:28:37] BanchoBot: hrds joined in slot 6 for team red.
+[21:28:40] BanchoBot: hrds changed to Blue
+[21:28:41] BanchoBot: hrds changed to Red
+[21:28:45] BanchoBot: XiaoMyMommy joined in slot 7 for team blue.
+[21:28:52] BCraftMG: o/
+[21:29:01] BCraftMG: Russian Federation red + slots 1-4 and France blue + slots 5-8
+[21:29:03] BanchoBot: Afmun joined in slot 8 for team red.
+[21:29:03] BanchoBot: Nuage joined in slot 9 for team blue.
+[21:29:11] N7TR0: HELLOOOOOOW
+[21:29:16] BanchoBot: Qumania joined in slot 10 for team red.
+[21:29:16] Filtrator: HALOOO
+[21:29:20] Afmun: this is mambo number 5 !!
+[21:29:29] Qumania: o/
+[21:29:33] XiaoMyMommy: o/
+[21:29:34] Qumania: It's time è_é
+[21:29:35] BanchoBot: MakiBrony changed to Red
+[21:29:42] BanchoBot: MyzeJD joined in slot 11 for team blue.
+[21:29:46] BanchoBot: Afmun changed to Blue
+[21:29:50] MakiBrony: o/
+[21:29:53] BCraftMG: !mp settings
+[21:29:53] BanchoBot: Afmun moved to slot 12
+[21:29:55] BanchoBot: Room name: 5WC2023: (Russian Federation) vs (France), History: https://osu.ppy.sh/mp/107869566
+[21:29:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/4092709 Lou Bega - Mambo No. 5
+[21:29:55] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:29:55] BanchoBot: Active mods: Freemod
+[21:29:55] BanchoBot: Players: 11
+[21:29:55] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/12483293 ImaginaryVaxei  [Team Blue / NoFail]
+[21:29:55] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/6420308 Light135        [Team Red  / NoFail]
+[21:29:55] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/14518295 N7TR0           [Team Red  / NoFail, HardRock]
+[21:29:55] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/12949657 Filtrator       [Team Red  / NoFail, Hidden]
+[21:29:55] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/7101953 MakiBrony       [Team Red  / NoFail]
+[21:29:55] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/10204748 hrds            [Team Red ]
+[21:29:55] BanchoBot: Slot 7  No Map    https://osu.ppy.sh/u/11129041 XiaoMyMommy     [Team Blue]
+[21:29:55] BanchoBot: Slot 9  Not Ready https://osu.ppy.sh/u/4784772 Nuage           [Team Blue / NoFail]
+[21:29:55] BanchoBot: Slot 10 Not Ready https://osu.ppy.sh/u/17467899 Qumania         [Team Red ]
+[21:29:55] BanchoBot: Slot 11 Not Ready https://osu.ppy.sh/u/3257847 MyzeJD          [Team Blue]
+[21:29:55] BanchoBot: Slot 12 Not Ready https://osu.ppy.sh/u/4869346 Afmun           [Team Blue]
+[21:29:57] BanchoBot: Nuage moved to slot 8
+[21:30:06] MyzeJD: o/
+[21:30:23] Nuage: give us our slots...
+[21:30:32] N7TR0: мама
+[21:30:32] Light135: :tf:
+[21:30:36] ImaginaryVaxei: 100руб
+[21:30:38] ImaginaryVaxei: за 1 слот
+[21:30:42] MakiBrony: мама намба файв
+[21:30:44] ImaginaryVaxei: +79087561777 переводите
+[21:31:00] N7TR0: перевожу
+[21:31:34] BCraftMG: !mp settings
+[21:31:35] BanchoBot: Room name: 5WC2023: (Russian Federation) vs (France), History: https://osu.ppy.sh/mp/107869566
+[21:31:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/4092709 Lou Bega - Mambo No. 5
+[21:31:35] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:31:35] BanchoBot: Active mods: Freemod
+[21:31:35] BanchoBot: Players: 11
+[21:31:35] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12483293 ImaginaryVaxei  [Team Blue / NoFail]
+[21:31:35] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6420308 Light135        [Team Red  / NoFail]
+[21:31:35] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14518295 N7TR0           [Team Red  / NoFail, HardRock]
+[21:31:35] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12949657 Filtrator       [Team Red  / NoFail, Hidden]
+[21:31:35] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/7101953 MakiBrony       [Team Red  / NoFail]
+[21:31:35] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10204748 hrds            [Team Red  / NoFail]
+[21:31:35] BanchoBot: Slot 7  No Map    https://osu.ppy.sh/u/11129041 XiaoMyMommy     [Team Blue]
+[21:31:35] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/4784772 Nuage           [Team Blue / NoFail, Hidden]
+[21:31:35] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/17467899 Qumania         [Team Red  / NoFail]
+[21:31:35] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Blue / NoFail]
+[21:31:35] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/4869346 Afmun           [Team Blue / NoFail]
+[21:31:40] BCraftMG: yall wanna start :3c
+[21:32:04] BanchoBot: All players are ready
+[21:32:05] BCraftMG: !mp settings
+[21:32:06] BanchoBot: Room name: 5WC2023: (Russian Federation) vs (France), History: https://osu.ppy.sh/mp/107869566
+[21:32:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/4092709 Lou Bega - Mambo No. 5
+[21:32:06] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:32:06] BanchoBot: Active mods: Freemod
+[21:32:06] BanchoBot: Players: 11
+[21:32:06] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12483293 ImaginaryVaxei  [Team Blue / NoFail]
+[21:32:06] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6420308 Light135        [Team Red  / NoFail]
+[21:32:06] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14518295 N7TR0           [Team Red  / NoFail, HardRock]
+[21:32:06] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12949657 Filtrator       [Team Red  / NoFail, Hidden]
+[21:32:06] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/7101953 MakiBrony       [Team Red  / NoFail]
+[21:32:06] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10204748 hrds            [Team Red  / NoFail]
+[21:32:06] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11129041 XiaoMyMommy     [Team Blue / NoFail, Hidden]
+[21:32:06] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/4784772 Nuage           [Team Blue / NoFail, Hidden]
+[21:32:06] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/17467899 Qumania         [Team Red  / NoFail]
+[21:32:06] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Blue / NoFail]
+[21:32:06] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/4869346 Afmun           [Team Blue / NoFail]
+[21:32:07] BCraftMG: !mp start 5 glhf
+[21:32:07] BanchoBot: Match starts in 5 seconds
+[21:32:07] BanchoBot: Queued the match to start in 5 seconds
+[21:32:08] ImaginaryVaxei: start pls
+[21:32:08] hrds: lets gooo
+[21:32:08] BanchoBot: Match starts in 4 seconds
+[21:32:10] BanchoBot: Match starts in 3 seconds
+[21:32:11] N7TR0: ГЛ
+[21:32:11] BanchoBot: Good luck, have fun!
+[21:32:13] BanchoBot: The match has started!
+[21:34:36] BanchoBot: kirndy joined in slot 9 for team blue.
+[21:35:05] BanchoBot: ImaginaryVaxei finished playing (Score: 273632, PASSED).
+[21:35:05] BanchoBot: MyzeJD finished playing (Score: 141261, PASSED).
+[21:35:06] BanchoBot: hrds finished playing (Score: 111925, PASSED).
+[21:35:07] BanchoBot: Afmun finished playing (Score: 126528, PASSED).
+[21:35:07] BanchoBot: Qumania finished playing (Score: 173478, PASSED).
+[21:35:07] BanchoBot: XiaoMyMommy finished playing (Score: 143942, PASSED).
+[21:35:08] BanchoBot: Filtrator finished playing (Score: 57901, PASSED).
+[21:35:08] BanchoBot: MakiBrony finished playing (Score: 144656, PASSED).
+[21:35:08] BanchoBot: N7TR0 finished playing (Score: 81290, PASSED).
+[21:35:08] BanchoBot: Nuage finished playing (Score: 117213, PASSED).
+[21:35:08] BanchoBot: Light135 finished playing (Score: 145546, PASSED).
+[21:35:08] BanchoBot: The match has finished!
+[21:35:11] BCraftMG: !mp map 3238282 0
+[21:35:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3238282 chelmico - Easy Breezy (7_7 bootleg)
+[21:35:12] BanchoBot: Changed match mode to Osu
+[21:35:28] hrds: nice warmup france
+[21:35:35] N7TR0: ok this is epic
+[21:35:37] BanchoBot: DanFi joined in slot 13 for team blue.
+[21:35:38] BanchoBot: kirndy left the game.
+[21:35:38] BanchoBot: MakiBrony left the game.
+[21:35:39] Afmun: the right version of dt2
+[21:35:39] ImaginaryVaxei: i need to update
+[21:35:39] ImaginaryVaxei: np pls
+[21:35:39] ImaginaryVaxei is listening to [https://osu.ppy.sh/beatmapsets/1585404#/3238282 Chelmico - Easy Breezy (7_7 bootleg)]
+[21:35:43] BanchoBot: BioTyC joined in slot 5 for team blue.
+[21:35:46] hrds is listening to [https://osu.ppy.sh/beatmapsets/1585404#/3238282 chelmico - Easy Breezy (7_7 bootleg)]
+[21:35:46] BanchoBot: kirndy joined in slot 9 for team blue.
+[21:35:51] BanchoBot: kirndy left the game.
+[21:35:53] BanchoBot: MakiBrony joined in slot 9 for team blue.
+[21:36:02] BanchoBot: kirndy joined in slot 14 for team red.
+[21:36:08] BanchoBot: MakiBrony changed to Red
+[21:36:17] ImaginaryVaxei: i cant update
+[21:36:19] ImaginaryVaxei: 1min
+[21:36:19] BanchoBot: ImaginaryVaxei left the game.
+[21:36:24] BanchoBot: ImaginaryVaxei joined in slot 1 for team blue.
+[21:36:24] BanchoBot: DanFi changed to Red
+[21:36:26] Light135: занимайте слот
+[21:36:28] Light135: не успели
+[21:36:31] BCraftMG: !mp settings
+[21:36:32] N7TR0: проеб
+[21:36:32] BanchoBot: Room name: 5WC2023: (Russian Federation) vs (France), History: https://osu.ppy.sh/mp/107869566
+[21:36:32] BanchoBot: Beatmap: https://osu.ppy.sh/b/3238282 chelmico - Easy Breezy (7_7 bootleg)
+[21:36:32] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:36:32] BanchoBot: Active mods: Freemod
+[21:36:32] BanchoBot: Players: 14
+[21:36:32] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/12483293 ImaginaryVaxei  [Team Blue / NoFail]
+[21:36:32] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/6420308 Light135        [Team Red  / NoFail]
+[21:36:32] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14518295 N7TR0           [Team Red  / NoFail]
+[21:36:32] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12949657 Filtrator       [Team Red  / NoFail, Hidden]
+[21:36:32] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13935409 BioTyC          [Team Blue / NoFail]
+[21:36:32] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10204748 hrds            [Team Red  / NoFail, HardRock]
+[21:36:32] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/11129041 XiaoMyMommy     [Team Blue / NoFail, Hidden]
+[21:36:32] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/4784772 Nuage           [Team Blue / NoFail]
+[21:36:32] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/7101953 MakiBrony       [Team Red  / NoFail, HardRock]
+[21:36:32] BanchoBot: Slot 10 Not Ready https://osu.ppy.sh/u/17467899 Qumania         [Team Red  / NoFail]
+[21:36:32] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Blue / NoFail]
+[21:36:32] BanchoBot: Slot 12 Not Ready https://osu.ppy.sh/u/4869346 Afmun           [Team Blue / NoFail]
+[21:36:32] BanchoBot: Slot 13 Ready     https://osu.ppy.sh/u/12654242 DanFi           [Team Red  / NoFail]
+[21:36:32] BanchoBot: Slot 14 Not Ready https://osu.ppy.sh/u/9027651 kirndy          [Team Red  / NoFail]
+[21:36:40] ImaginaryVaxei: пососите
+[21:36:42] ImaginaryVaxei: я не жму
+[21:36:44] N7TR0: 7к бпм ГОГОГО
+[21:36:47] hrds: ладо
+[21:36:51] BanchoBot: All players are ready
+[21:36:54] BCraftMG: !mp settings
+[21:36:55] BanchoBot: Room name: 5WC2023: (Russian Federation) vs (France), History: https://osu.ppy.sh/mp/107869566
+[21:36:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/3238282 chelmico - Easy Breezy (7_7 bootleg)
+[21:36:55] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:36:55] BanchoBot: Active mods: Freemod
+[21:36:55] BanchoBot: Players: 14
+[21:36:55] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12483293 ImaginaryVaxei  [Team Blue / NoFail]
+[21:36:55] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6420308 Light135        [Team Red  / NoFail]
+[21:36:55] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14518295 N7TR0           [Team Red  / NoFail]
+[21:36:55] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12949657 Filtrator       [Team Red  / NoFail, Hidden]
+[21:36:55] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13935409 BioTyC          [Team Blue / NoFail]
+[21:36:55] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10204748 hrds            [Team Red  / NoFail, HardRock]
+[21:36:55] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11129041 XiaoMyMommy     [Team Blue / NoFail, Hidden]
+[21:36:55] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/4784772 Nuage           [Team Blue / NoFail]
+[21:36:55] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/7101953 MakiBrony       [Team Red  / NoFail, HardRock]
+[21:36:55] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/17467899 Qumania         [Team Red  / NoFail]
+[21:36:55] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Blue / NoFail]
+[21:36:55] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/4869346 Afmun           [Team Blue / NoFail]
+[21:36:55] BanchoBot: Slot 13 Ready     https://osu.ppy.sh/u/12654242 DanFi           [Team Red  / NoFail]
+[21:36:55] BanchoBot: Slot 14 Ready     https://osu.ppy.sh/u/9027651 kirndy          [Team Red  / NoFail]
+[21:36:56] BCraftMG: !mp start 5 glhf
+[21:36:56] BanchoBot: Match starts in 5 seconds
+[21:36:56] BanchoBot: Queued the match to start in 5 seconds
+[21:36:57] BanchoBot: Match starts in 4 seconds
+[21:36:59] BanchoBot: Match starts in 3 seconds
+[21:37:00] BanchoBot: Good luck, have fun!
+[21:37:02] BanchoBot: The match has started!
+[21:37:02] DanFi: ЖИМЕРЫ ИДИТЕ НА***
+[21:37:35] BanchoBot: N7TR0 left the game.
+[21:37:43] BanchoBot: N7TR0 joined in slot 3 for team blue.
+[21:37:57] N7TR0: ну и чё вы поставили
+[21:38:10] BanchoBot: DanFi left the game.
+[21:39:27] BanchoBot: MakiBrony finished playing (Score: 86668, PASSED).
+[21:39:27] BanchoBot: hrds finished playing (Score: 54063, PASSED).
+[21:39:27] BanchoBot: ImaginaryVaxei finished playing (Score: 90574, PASSED).
+[21:39:27] BanchoBot: Afmun finished playing (Score: 51254, PASSED).
+[21:39:28] BanchoBot: Filtrator finished playing (Score: 14654, PASSED).
+[21:39:28] BanchoBot: BioTyC finished playing (Score: 45380, PASSED).
+[21:39:28] BanchoBot: XiaoMyMommy finished playing (Score: 47567, PASSED).
+[21:39:28] BanchoBot: kirndy finished playing (Score: 31393, PASSED).
+[21:39:28] BanchoBot: Light135 finished playing (Score: 85516, PASSED).
+[21:39:29] BanchoBot: MyzeJD finished playing (Score: 96186, PASSED).
+[21:39:29] BanchoBot: Qumania finished playing (Score: 14275, PASSED).
+[21:39:29] BanchoBot: Nuage finished playing (Score: 9933, PASSED).
+[21:39:29] BanchoBot: The match has finished!
+[21:39:32] BCraftMG: !mp clearhost
+[21:39:33] BanchoBot: Cleared match host
+[21:39:36] BanchoBot: N7TR0 changed to Red
+[21:39:37] BCraftMG: Roll time! The winner of the roll will protect second, ban first, and pick first
+[21:39:57] BanchoBot: DanFi joined in slot 13 for team blue.
+[21:39:58] ImaginaryVaxei: 94% -> 83%
+[21:40:33] XiaoMyMommy: !roll
+[21:40:33] BanchoBot: XiaoMyMommy rolls 77 point(s)
+[21:40:38] hrds: !roll
+[21:40:38] BanchoBot: hrds rolls 73 point(s)
+[21:40:44] hrds: close
+[21:40:51] BCraftMG: First Protect: Russian Federation
+[21:40:52] BCraftMG: !mp timer 120
+[21:40:52] BanchoBot: Countdown ends in 2 minutes
+[21:40:59] N7TR0: ЗАЛЕТАЕМ
+[21:41:05] hrds: protect hd3
+[21:41:09] N7TR0: УРАААА
+[21:41:20] BCraftMG: Next Protect: France
+[21:41:21] BCraftMG: !mp timer 120
+[21:41:22] hrds: хDDDDDDDDDD
+[21:41:22] BanchoBot: Countdown aborted
+[21:41:22] BanchoBot: Countdown ends in 2 minutes
+[21:41:41] BanchoBot: DanFi left the game.
+[21:41:48] Light135: WTF NO HD2 PROTECT RUSSIA READING SKILL ISSUE??
+[21:41:49] BanchoBot: Nuage left the game.
+[21:41:54] BanchoBot: Filtrator left the game.
+[21:41:57] N7TR0: OMFG
+[21:41:58] BanchoBot: DanFi joined in slot 4 for team red.
+[21:41:59] hrds: ???????????
+[21:41:59] MakiBrony: :sKULL:
+[21:42:00] XiaoMyMommy: FM3
+[21:42:01] BanchoBot: BioTyC left the game.
+[21:42:01] hrds: OMAGAD
+[21:42:06] BanchoBot: ImaginaryVaxei left the game.
+[21:42:06] N7TR0: AHU
+[21:42:09] hrds: huh
+[21:42:09] BCraftMG: First Ban: France
+[21:42:10] BCraftMG: !mp timer 120
+[21:42:11] BanchoBot: Countdown aborted
+[21:42:11] BanchoBot: Countdown ends in 2 minutes
+[21:42:13] MakiBrony: КРИТИЧЕСКАЯ
+[21:42:15] MakiBrony: ДРУЗЬЯ
+[21:42:18] XiaoMyMommy: HR3
+[21:42:28] N7TR0: Норм норм
+[21:42:28] BCraftMG: Next Ban: Russian Federation
+[21:42:30] BCraftMG: !mp timer 120
+[21:42:30] BanchoBot: Countdown aborted
+[21:42:30] BanchoBot: Countdown ends in 2 minutes
+[21:42:38] hrds: nm4
+[21:42:43] hrds: dt1
+[21:43:01] BCraftMG: Next Ban: France
+[21:43:03] BCraftMG: !mp timer 120
+[21:43:03] BanchoBot: Countdown aborted
+[21:43:03] BanchoBot: Countdown ends in 2 minutes
+[21:43:20] BanchoBot: kirndy left the game.
+[21:43:57] N7TR0: :Jokerge:
+[21:43:59] BanchoBot: Light135 left the game.
+[21:44:03] MyzeJD: :jokerge:
+[21:44:03] XiaoMyMommy: HR1
+[21:44:03] hrds: :jokerge:
+[21:44:04] BanchoBot: Countdown ends in 1 minute
+[21:44:06] hrds: ?
+[21:44:07] hrds: db?
+[21:44:15] BCraftMG: Russian Federation | 0 - 0 | France // Bo13 - First Pick: France
+[21:44:16] BCraftMG: !mp timer 120
+[21:44:17] BanchoBot: Countdown aborted
+[21:44:17] BanchoBot: Countdown ends in 2 minutes
+[21:44:19] N7TR0: okayy
+[21:44:25] hrds: okay
+[21:44:40] BanchoBot: hrds moved to slot 1
+[21:44:49] BanchoBot: DanFi left the game.
+[21:45:16] BanchoBot: Nuage joined in slot 2 for team red.
+[21:45:18] BanchoBot: Countdown ends in 1 minute
+[21:45:19] BanchoBot: Nuage moved to slot 4
+[21:45:20] BanchoBot: Nuage moved to slot 5
+[21:45:32] BanchoBot: Nuage changed to Blue
+[21:45:38] BanchoBot: N7TR0 left the game.
+[21:45:41] BanchoBot: Qumania left the game.
+[21:45:44] XiaoMyMommy: FM3
+[21:45:47] BanchoBot: XiaoMyMommy left the game.
+[21:45:48] BanchoBot: Countdown ends in 30 seconds
+[21:45:55] BanchoBot: ImaginaryVaxei joined in slot 2 for team red.
+[21:45:56] BanchoBot: kirndy joined in slot 3 for team blue.
+[21:45:58] BCraftMG: !mp map 4082981 0
+[21:45:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4082981 Frums - parvorbital
+[21:45:59] BanchoBot: Changed match mode to Osu
+[21:46:00] BanchoBot: MakiBrony moved to slot 4
+[21:46:00] BanchoBot: Afmun left the game.
+[21:46:01] BanchoBot: MakiBrony changed to Blue
+[21:46:02] BCraftMG: !mp mods Freemod
+[21:46:02] BanchoBot: Disabled all mods, enabled FreeMod
+[21:46:04] BanchoBot: MakiBrony changed to Red
+[21:46:05] BCraftMG: !mp timer 120
+[21:46:06] BanchoBot: kirndy changed to Red
+[21:46:06] BanchoBot: Countdown aborted
+[21:46:06] BanchoBot: Countdown ends in 2 minutes
+[21:46:20] BCraftMG: Reminder Russian Federation red + slots 1-4 and France blue + slots 5-8
+[21:46:22] BanchoBot: hrds moved to slot 8
+[21:46:22] BanchoBot: MyzeJD moved to slot 6
+[21:46:23] BanchoBot: hrds moved to slot 14
+[21:46:33] BanchoBot: MakiBrony moved to slot 1
+[21:46:36] BanchoBot: kirndy left the game.
+[21:46:38] BanchoBot: Drakkles joined in slot 3 for team blue.
+[21:46:41] BanchoBot: XiaoMyMommy joined in slot 4 for team red.
+[21:46:43] BanchoBot: XiaoMyMommy moved to slot 7
+[21:46:45] BanchoBot: XiaoMyMommy changed to Blue
+[21:46:48] BanchoBot: Drakkles moved to slot 8
+[21:46:48] BanchoBot: Filtrator joined in slot 3 for team blue.
+[21:46:52] BanchoBot: Filtrator changed to Red
+[21:47:07] BanchoBot: Countdown ends in 1 minute
+[21:47:20] BanchoBot: kirndy joined in slot 4 for team red.
+[21:47:26] BanchoBot: hrds left the game.
+[21:47:27] kirndy: glgl
+[21:47:37] BanchoBot: Countdown ends in 30 seconds
+[21:47:37] BanchoBot: All players are ready
+[21:47:38] BCraftMG: !mp settings
+[21:47:39] BanchoBot: Room name: 5WC2023: (Russian Federation) vs (France), History: https://osu.ppy.sh/mp/107869566
+[21:47:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/4082981 Frums - parvorbital
+[21:47:39] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:47:39] BanchoBot: Active mods: Freemod
+[21:47:39] BanchoBot: Players: 8
+[21:47:39] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7101953 MakiBrony       [Team Red  / NoFail, Hidden, HardRock]
+[21:47:39] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12483293 ImaginaryVaxei  [Team Red  / NoFail, HardRock]
+[21:47:39] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12949657 Filtrator       [Team Red  / NoFail, Hidden]
+[21:47:39] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9027651 kirndy          [Team Red  / NoFail]
+[21:47:39] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4784772 Nuage           [Team Blue / NoFail, Hidden]
+[21:47:39] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Blue / NoFail]
+[21:47:39] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11129041 XiaoMyMommy     [Team Blue / NoFail, Hidden, HardRock]
+[21:47:39] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/13963691 Drakkles        [Team Blue / NoFail, HardRock]
+[21:47:39] MakiBrony: GLHF!
+[21:47:39] Filtrator: gl
+[21:47:42] MyzeJD: glglg
+[21:47:44] Nuage: gl
+[21:47:46] Drakkles: glhf
+[21:47:46] BCraftMG: !mp start 5 glhf
+[21:47:47] BanchoBot: Countdown aborted
+[21:47:47] BanchoBot: Match starts in 5 seconds
+[21:47:47] BanchoBot: Queued the match to start in 5 seconds
+[21:47:48] BanchoBot: Match starts in 4 seconds
+[21:47:49] BanchoBot: Match starts in 3 seconds
+[21:47:50] BanchoBot: Good luck, have fun!
+[21:47:53] BanchoBot: The match has started!
+[21:50:34] BanchoBot: Filtrator finished playing (Score: 275553, PASSED).
+[21:50:35] BanchoBot: MakiBrony finished playing (Score: 184034, PASSED).
+[21:50:35] BanchoBot: MyzeJD finished playing (Score: 429286, PASSED).
+[21:50:35] BanchoBot: Nuage finished playing (Score: 296510, PASSED).
+[21:50:37] BanchoBot: XiaoMyMommy finished playing (Score: 391193, PASSED).
+[21:50:37] BanchoBot: ImaginaryVaxei finished playing (Score: 431910, PASSED).
+[21:50:37] BanchoBot: Drakkles finished playing (Score: 584659, PASSED).
+[21:50:37] BanchoBot: kirndy finished playing (Score: 296095, PASSED).
+[21:50:37] BanchoBot: The match has finished!
+[21:50:49] BCraftMG: Russian Federation | 0 - 1 | France // Bo13 - Next Pick: Russian Federation
+[21:50:50] BCraftMG: !mp timer 120
+[21:50:51] BanchoBot: Countdown ends in 2 minutes
+[21:51:11] BanchoBot: kirndy left the game.
+[21:51:16] BanchoBot: Qumania joined in slot 4 for team red.
+[21:51:17] BanchoBot: Filtrator left the game.
+[21:51:17] BanchoBot: hrds joined in slot 3 for team blue.
+[21:51:23] hrds: nm2
+[21:51:23] BanchoBot: Light135 joined in slot 9 for team blue.
+[21:51:26] BanchoBot: Nuage left the game.
+[21:51:28] BanchoBot: Drakkles left the game.
+[21:51:29] BanchoBot: XiaoMyMommy left the game.
+[21:51:30] BanchoBot: Light135 moved to slot 5
+[21:51:32] BCraftMG: !mp map 3841861 0
+[21:51:33] BanchoBot: Light135 changed to Red
+[21:51:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3841861 UNDEAD CORPORATION - Evil But Innocent
+[21:51:33] BanchoBot: Changed match mode to Osu
+[21:51:33] BCraftMG: !mp mods 1
+[21:51:34] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:51:35] BCraftMG: !mp timer 120
+[21:51:36] BanchoBot: Countdown aborted
+[21:51:36] BanchoBot: Countdown ends in 2 minutes
+[21:51:43] BanchoBot: DanFi joined in slot 7 for team blue.
+[21:51:43] BanchoBot: hrds moved to slot 10
+[21:51:47] BanchoBot: Qumania changed to Blue
+[21:51:48] BanchoBot: Light135 moved to slot 3
+[21:51:50] BanchoBot: Qumania moved to slot 8
+[21:51:53] BanchoBot: Qumania moved to slot 5
+[21:51:56] BanchoBot: BioTyC joined in slot 4 for team red.
+[21:52:02] BanchoBot: hrds left the game.
+[21:52:03] BanchoBot: BioTyC changed to Blue
+[21:52:04] BanchoBot: BioTyC moved to slot 8
+[21:52:08] BanchoBot: DanFi moved to slot 4
+[21:52:09] BanchoBot: DanFi changed to Red
+[21:52:11] BanchoBot: BioTyC moved to slot 7
+[21:52:36] BanchoBot: Countdown ends in 1 minute
+[21:52:36] BanchoBot: XiaoMyMommy joined in slot 8 for team red.
+[21:52:47] BanchoBot: XiaoMyMommy changed to Blue
+[21:52:55] Light135: glhf
+[21:52:57] MyzeJD: glhf
+[21:52:59] BanchoBot: All players are ready
+[21:53:00] BCraftMG: !mp settings
+[21:53:01] BanchoBot: Room name: 5WC2023: (Russian Federation) vs (France), History: https://osu.ppy.sh/mp/107869566
+[21:53:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/3841861 UNDEAD CORPORATION - Evil But Innocent
+[21:53:01] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:53:01] BanchoBot: Active mods: NoFail
+[21:53:01] BanchoBot: Players: 8
+[21:53:01] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7101953 MakiBrony       [Team Red ]
+[21:53:01] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12483293 ImaginaryVaxei  [Team Red ]
+[21:53:01] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6420308 Light135        [Team Red ]
+[21:53:01] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12654242 DanFi           [Team Red ]
+[21:53:01] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/17467899 Qumania         [Team Blue]
+[21:53:01] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Blue]
+[21:53:01] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/13935409 BioTyC          [Team Blue]
+[21:53:01] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/11129041 XiaoMyMommy     [Team Blue]
+[21:53:02] BCraftMG: !mp start 5 glhf
+[21:53:03] BioTyC: glhf!
+[21:53:03] BanchoBot: Countdown aborted
+[21:53:03] BanchoBot: Match starts in 5 seconds
+[21:53:03] BanchoBot: Queued the match to start in 5 seconds
+[21:53:04] BanchoBot: Match starts in 4 seconds
+[21:53:05] BanchoBot: Match starts in 3 seconds
+[21:53:07] BanchoBot: Good luck, have fun!
+[21:53:09] BanchoBot: The match has started!
+[21:56:29] BanchoBot: ImaginaryVaxei finished playing (Score: 587079, PASSED).
+[21:56:29] BanchoBot: BioTyC finished playing (Score: 481816, PASSED).
+[21:56:29] BanchoBot: Qumania finished playing (Score: 469062, PASSED).
+[21:56:30] BanchoBot: DanFi finished playing (Score: 556679, PASSED).
+[21:56:30] BanchoBot: Light135 finished playing (Score: 651390, PASSED).
+[21:56:30] BanchoBot: MakiBrony finished playing (Score: 387022, PASSED).
+[21:56:30] BanchoBot: MyzeJD finished playing (Score: 714301, PASSED).
+[21:56:30] BanchoBot: XiaoMyMommy finished playing (Score: 441078, PASSED).
+[21:56:30] BanchoBot: The match has finished!
+[21:56:41] BCraftMG: Russian Federation | 1 - 1 | France // Bo13 - Next Pick: France
+[21:56:41] BCraftMG: !mp timer 120
+[21:56:42] BanchoBot: Countdown ends in 2 minutes
+[21:57:22] BanchoBot: BioTyC left the game.
+[21:57:32] BanchoBot: N7TR0 joined in slot 7 for team blue.
+[21:57:40] BanchoBot: MakiBrony left the game.
+[21:57:43] BanchoBot: N7TR0 moved to slot 10
+[21:57:43] BanchoBot: Countdown ends in 1 minute
+[21:57:44] BanchoBot: N7TR0 changed to Red
+[21:57:54] BCraftMG: !mp map 3841861 0
+[21:57:55] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3841861 UNDEAD CORPORATION - Evil But Innocent
+[21:57:55] BanchoBot: Changed match mode to Osu
+[21:57:58] BanchoBot: MakiBrony joined in slot 1 for team blue.
+[21:58:07] BCraftMG: !mp map 1839581 0
+[21:58:08] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1839581 Culprate & Skope - Blowfish
+[21:58:08] BanchoBot: Changed match mode to Osu
+[21:58:13] BanchoBot: Countdown ends in 30 seconds
+[21:58:21] BanchoBot: DanFi left the game.
+[21:58:26] BanchoBot: DanFi joined in slot 4 for team red.
+[21:58:31] N7TR0: ??
+[21:58:33] BanchoBot: Countdown ends in 10 seconds
+[21:58:34] Light135: :tf:
+[21:58:34] MakiBrony: isnt nm4 banelings
+[21:58:38] BCraftMG: yes
+[21:58:38] MakiBrony: oi
+[21:58:38] BanchoBot: Countdown ends in 5 seconds
+[21:58:38] XiaoMyMommy: FM1
+[21:58:39] BanchoBot: Countdown ends in 4 seconds
+[21:58:41] BanchoBot: Countdown ends in 3 seconds
+[21:58:41] BanchoBot: Countdown ends in 2 seconds
+[21:58:42] BanchoBot: Qumania left the game.
+[21:58:42] BanchoBot: Countdown ends in 1 second
+[21:58:43] BanchoBot: Countdown finished
+[21:58:44] BanchoBot: Nuage joined in slot 5 for team blue.
+[21:58:45] BCraftMG: !mp map 2225300 0
+[21:58:46] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2225300 Katakiri Rekka - Answer
+[21:58:46] BanchoBot: Changed match mode to Osu
+[21:58:47] BanchoBot: DanFi left the game.
+[21:58:47] BCraftMG: !mp mods Freemod
+[21:58:48] BanchoBot: Disabled all mods, enabled FreeMod
+[21:58:49] BanchoBot: N7TR0 left the game.
+[21:58:50] BanchoBot: XiaoMyMommy left the game.
+[21:58:57] BCraftMG: im just trying to save stream :skull:
+[21:58:58] BCraftMG: !mp timer 120
+[21:58:59] BanchoBot: Countdown ends in 2 minutes
+[21:59:00] BanchoBot: ImaginaryVaxei left the game.
+[21:59:04] BanchoBot: BioTyC joined in slot 2 for team red.
+[21:59:13] BanchoBot: kirndy joined in slot 4 for team red.
+[21:59:15] BanchoBot: BioTyC moved to slot 7
+[21:59:17] BanchoBot: BioTyC changed to Blue
+[21:59:23] BanchoBot: MakiBrony changed to Red
+[21:59:27] BanchoBot: hrds joined in slot 2 for team red.
+[21:59:33] BanchoBot: XiaoMyMommy joined in slot 8 for team red.
+[21:59:45] BanchoBot: XiaoMyMommy changed to Blue
+[21:59:59] BanchoBot: Countdown ends in 1 minute
+[22:00:14] BanchoBot: Filtrator joined in slot 9 for team blue.
+[22:00:16] BanchoBot: MakiBrony left the game.
+[22:00:17] BanchoBot: hrds moved to slot 13
+[22:00:18] BanchoBot: Filtrator changed to Red
+[22:00:21] BanchoBot: Filtrator moved to slot 2
+[22:00:21] BanchoBot: N7TR0 joined in slot 1 for team blue.
+[22:00:26] BanchoBot: hrds left the game.
+[22:00:28] BanchoBot: N7TR0 changed to Red
+[22:00:30] BanchoBot: Countdown ends in 30 seconds
+[22:00:39] BanchoBot: All players are ready
+[22:00:40] MyzeJD: GLGL
+[22:00:42] BCraftMG: !mp settings
+[22:00:43] kirndy: hfhf
+[22:00:43] BanchoBot: Room name: 5WC2023: (Russian Federation) vs (France), History: https://osu.ppy.sh/mp/107869566
+[22:00:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/2225300 Katakiri Rekka - Answer
+[22:00:43] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:00:43] BanchoBot: Active mods: Freemod
+[22:00:43] BanchoBot: Players: 8
+[22:00:43] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14518295 N7TR0           [Team Red  / NoFail, HardRock]
+[22:00:43] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12949657 Filtrator       [Team Red  / NoFail, Hidden]
+[22:00:43] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6420308 Light135        [Team Red  / NoFail, Hidden]
+[22:00:43] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9027651 kirndy          [Team Red  / NoFail, Hidden]
+[22:00:43] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4784772 Nuage           [Team Blue / NoFail, Hidden]
+[22:00:43] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Blue / NoFail]
+[22:00:43] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/13935409 BioTyC          [Team Blue / NoFail, HardRock]
+[22:00:43] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/11129041 XiaoMyMommy     [Team Blue / NoFail, Hidden, HardRock]
+[22:00:44] Nuage: gl
+[22:00:46] BioTyC: glgl!
+[22:00:46] Filtrator: GL
+[22:00:47] BCraftMG: !mp start 5 glhf
+[22:00:48] N7TR0: щзщзщзщзщзщ
+[22:00:48] BanchoBot: Countdown aborted
+[22:00:48] BanchoBot: Match starts in 5 seconds
+[22:00:48] BanchoBot: Queued the match to start in 5 seconds
+[22:00:49] BanchoBot: Match starts in 4 seconds
+[22:00:50] BanchoBot: Match starts in 3 seconds
+[22:00:51] BanchoBot: Good luck, have fun!
+[22:00:54] BanchoBot: The match has started!
+[22:04:42] BanchoBot: Light135 finished playing (Score: 457269, PASSED).
+[22:04:42] BanchoBot: kirndy finished playing (Score: 688940, PASSED).
+[22:04:44] BanchoBot: XiaoMyMommy finished playing (Score: 288473, PASSED).
+[22:04:44] BanchoBot: Filtrator finished playing (Score: 448283, PASSED).
+[22:04:44] BanchoBot: N7TR0 finished playing (Score: 375914, PASSED).
+[22:04:44] BanchoBot: MyzeJD finished playing (Score: 921189, PASSED).
+[22:04:44] BanchoBot: Nuage finished playing (Score: 504511, PASSED).
+[22:04:44] BanchoBot: BioTyC finished playing (Score: 305502, PASSED).
+[22:04:44] BanchoBot: The match has finished!
+[22:04:55] N7TR0: nice fc
+[22:05:00] BCraftMG: Russian Federation | 1 - 2 | France // Bo13 - Next Pick: Russian Federation
+[22:05:00] BCraftMG: !mp timer 120
+[22:05:01] BanchoBot: Countdown ends in 2 minutes
+[22:05:05] Filtrator: nice
+[22:05:05] MyzeJD: :skull:
+[22:05:06] BanchoBot: MakiBrony joined in slot 9 for team blue.
+[22:05:06] BanchoBot: Filtrator left the game.
+[22:05:10] BanchoBot: BioTyC left the game.
+[22:05:11] BanchoBot: kirndy left the game.
+[22:05:11] N7TR0: ah not fc
+[22:05:13] N7TR0: sadge
+[22:05:13] BanchoBot: MakiBrony moved to slot 2
+[22:05:15] BanchoBot: MakiBrony changed to Red
+[22:05:15] BanchoBot: MakiBrony changed to Blue
+[22:05:15] MyzeJD: i did not miss at the end
+[22:05:16] BanchoBot: MakiBrony changed to Red
+[22:05:18] BanchoBot: hrds joined in slot 4 for team red.
+[22:05:20] MyzeJD: :tf:
+[22:05:24] BanchoBot: ImaginaryVaxei joined in slot 7 for team blue.
+[22:05:27] BanchoBot: N7TR0 left the game.
+[22:05:27] BanchoBot: Qumania joined in slot 1 for team blue.
+[22:05:33] BanchoBot: ImaginaryVaxei moved to slot 10
+[22:05:34] BanchoBot: ImaginaryVaxei changed to Red
+[22:05:41] BanchoBot: DanFi joined in slot 7 for team blue.
+[22:05:44] hrds: nm5
+[22:05:46] BanchoBot: hrds left the game.
+[22:05:48] BanchoBot: ImaginaryVaxei moved to slot 4
+[22:05:49] BanchoBot: Nuage left the game.
+[22:05:51] BanchoBot: XiaoMyMommy left the game.
+[22:05:53] BanchoBot: DanFi moved to slot 5
+[22:05:54] BanchoBot: DanFi changed to Red
+[22:05:55] BanchoBot: DanFi changed to Blue
+[22:05:55] BanchoBot: DanFi changed to Red
+[22:05:57] BanchoBot: Qumania left the game.
+[22:05:58] BanchoBot: DanFi moved to slot 1
+[22:06:01] BanchoBot: Countdown ends in 1 minute
+[22:06:02] BCraftMG: !mp map 3764516 0
+[22:06:03] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3764516 CLOCKWORKS TRACER - Behind The Wall Of Apathy
+[22:06:03] BanchoBot: Changed match mode to Osu
+[22:06:03] BCraftMG: !mp mods 1
+[22:06:04] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:06:06] BCraftMG: !mp timer 120
+[22:06:07] BanchoBot: Countdown aborted
+[22:06:07] BanchoBot: Countdown ends in 2 minutes
+[22:06:20] BanchoBot: MyzeJD moved to slot 5
+[22:06:27] BanchoBot: Qumania joined in slot 6 for team red.
+[22:06:33] BanchoBot: Qumania changed to Blue
+[22:06:42] BanchoBot: BioTyC joined in slot 7 for team blue.
+[22:06:55] BanchoBot: XiaoMyMommy joined in slot 8 for team red.
+[22:07:02] BanchoBot: XiaoMyMommy changed to Blue
+[22:07:08] BanchoBot: Countdown ends in 1 minute
+[22:07:19] MakiBrony: glhf!
+[22:07:27] ImaginaryVaxei: ready up pls
+[22:07:34] BanchoBot: All players are ready
+[22:07:37] MyzeJD: sry
+[22:07:38] BanchoBot: Countdown ends in 30 seconds
+[22:07:38] DanFi: как скажешь
+[22:07:38] BCraftMG: !mp settings
+[22:07:39] MyzeJD: glgl
+[22:07:39] BanchoBot: Room name: 5WC2023: (Russian Federation) vs (France), History: https://osu.ppy.sh/mp/107869566
+[22:07:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/3764516 CLOCKWORKS TRACER - Behind The Wall Of Apathy
+[22:07:39] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:07:39] BanchoBot: Active mods: NoFail
+[22:07:39] BanchoBot: Players: 8
+[22:07:39] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12654242 DanFi           [Team Red ]
+[22:07:39] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7101953 MakiBrony       [Team Red ]
+[22:07:39] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6420308 Light135        [Team Red ]
+[22:07:39] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12483293 ImaginaryVaxei  [Team Red ]
+[22:07:39] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Blue]
+[22:07:39] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/17467899 Qumania         [Team Blue]
+[22:07:39] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/13935409 BioTyC          [Team Blue]
+[22:07:39] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/11129041 XiaoMyMommy     [Team Blue]
+[22:07:40] BioTyC: glhf
+[22:07:41] BCraftMG: !mp start 5 glhf
+[22:07:43] BanchoBot: Countdown aborted
+[22:07:43] BanchoBot: Match starts in 5 seconds
+[22:07:43] BanchoBot: Queued the match to start in 5 seconds
+[22:07:44] BanchoBot: Match starts in 4 seconds
+[22:07:45] BanchoBot: Match starts in 3 seconds
+[22:07:46] BanchoBot: Good luck, have fun!
+[22:07:48] BanchoBot: The match has started!
+[22:10:14] BanchoBot: MakiBrony finished playing (Score: 556866, PASSED).
+[22:10:14] BanchoBot: MyzeJD finished playing (Score: 977363, PASSED).
+[22:10:14] BanchoBot: Light135 finished playing (Score: 393008, PASSED).
+[22:10:15] BanchoBot: XiaoMyMommy finished playing (Score: 725496, PASSED).
+[22:10:15] BanchoBot: DanFi finished playing (Score: 446753, PASSED).
+[22:10:15] BanchoBot: ImaginaryVaxei finished playing (Score: 531988, PASSED).
+[22:10:16] BanchoBot: Qumania finished playing (Score: 494438, PASSED).
+[22:10:16] BanchoBot: BioTyC finished playing (Score: 278711, PASSED).
+[22:10:16] BanchoBot: The match has finished!
+[22:10:30] BCraftMG: Russian Federation | 1 - 3 | France // Bo13 - Next Pick: France
+[22:10:32] BCraftMG: !mp timer 120
+[22:10:33] BanchoBot: Countdown ends in 2 minutes
+[22:10:56] BanchoBot: N7TR0 joined in slot 9 for team blue.
+[22:10:59] BanchoBot: BioTyC left the game.
+[22:11:07] BanchoBot: DanFi left the game.
+[22:11:33] BanchoBot: Countdown ends in 1 minute
+[22:11:38] BanchoBot: ImaginaryVaxei left the game.
+[22:11:46] BanchoBot: DanFi joined in slot 1 for team blue.
+[22:11:52] BanchoBot: DanFi changed to Red
+[22:12:03] BanchoBot: Countdown ends in 30 seconds
+[22:12:04] BanchoBot: Nuage joined in slot 4 for team red.
+[22:12:13] BanchoBot: Nuage moved to slot 7
+[22:12:13] BanchoBot: MyzeJD left the game.
+[22:12:14] BanchoBot: Nuage changed to Blue
+[22:12:23] BanchoBot: Countdown ends in 10 seconds
+[22:12:28] N7TR0: zzz
+[22:12:28] BanchoBot: Countdown ends in 5 seconds
+[22:12:29] BanchoBot: Countdown ends in 4 seconds
+[22:12:30] XiaoMyMommy: NM3
+[22:12:30] BanchoBot: Countdown ends in 3 seconds
+[22:12:32] BanchoBot: Countdown ends in 2 seconds
+[22:12:33] BanchoBot: Countdown ends in 1 second
+[22:12:34] BanchoBot: Countdown finished
+[22:12:39] BCraftMG: !mp map 2633685 0
+[22:12:40] BanchoBot: DanFi left the game.
+[22:12:40] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2633685 Misty Rain - Sakura no Sakanu wa Eiketsu no
+[22:12:40] BanchoBot: Changed match mode to Osu
+[22:12:41] BCraftMG: !mp mods 1
+[22:12:41] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:12:43] BCraftMG: !mp timer 120
+[22:12:44] BanchoBot: Countdown ends in 2 minutes
+[22:12:45] N7TR0: holy shet
+[22:12:46] BanchoBot: XiaoMyMommy left the game.
+[22:12:46] BanchoBot: MakiBrony left the game.
+[22:12:48] BanchoBot: N7TR0 moved to slot 1
+[22:12:48] BanchoBot: N7TR0 changed to Red
+[22:12:58] BanchoBot: N7TR0 left the game.
+[22:13:13] BanchoBot: ImaginaryVaxei joined in slot 1 for team blue.
+[22:13:20] BanchoBot: kirndy joined in slot 2 for team red.
+[22:13:22] ImaginaryVaxei: time for worst map in pool
+[22:13:23] BanchoBot: Nuage moved to slot 5
+[22:13:24] BanchoBot: MyzeJD joined in slot 4 for team red.
+[22:13:28] BanchoBot: MyzeJD moved to slot 7
+[22:13:28] BanchoBot: ImaginaryVaxei changed to Red
+[22:13:29] BanchoBot: MyzeJD changed to Blue
+[22:13:30] BanchoBot: XiaoMyMommy joined in slot 4 for team red.
+[22:13:37] BanchoBot: XiaoMyMommy moved to slot 8
+[22:13:38] BanchoBot: XiaoMyMommy changed to Blue
+[22:13:44] BanchoBot: Countdown ends in 1 minute
+[22:14:12] BanchoBot: N7TR0 joined in slot 4 for team red.
+[22:14:15] BanchoBot: Countdown ends in 30 seconds
+[22:14:21] BanchoBot: All players are ready
+[22:14:22] BCraftMG: !mp settings
+[22:14:23] BanchoBot: Room name: 5WC2023: (Russian Federation) vs (France), History: https://osu.ppy.sh/mp/107869566
+[22:14:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/2633685 Misty Rain - Sakura no Sakanu wa Eiketsu no
+[22:14:23] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:14:23] BanchoBot: Active mods: NoFail
+[22:14:23] BanchoBot: Players: 8
+[22:14:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12483293 ImaginaryVaxei  [Team Red ]
+[22:14:23] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9027651 kirndy          [Team Red ]
+[22:14:23] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6420308 Light135        [Team Red ]
+[22:14:23] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14518295 N7TR0           [Team Red ]
+[22:14:23] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4784772 Nuage           [Team Blue]
+[22:14:23] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/17467899 Qumania         [Team Blue]
+[22:14:23] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Blue]
+[22:14:23] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/11129041 XiaoMyMommy     [Team Blue]
+[22:14:24] MyzeJD: glgl
+[22:14:25] BCraftMG: !mp start 5 glhf
+[22:14:27] BanchoBot: Countdown aborted
+[22:14:27] BanchoBot: Match starts in 5 seconds
+[22:14:27] BanchoBot: Queued the match to start in 5 seconds
+[22:14:28] BanchoBot: Match starts in 4 seconds
+[22:14:29] BanchoBot: Match starts in 3 seconds
+[22:14:30] BanchoBot: Good luck, have fun!
+[22:14:32] BanchoBot: The match has started!
+[22:18:28] BanchoBot: MyzeJD finished playing (Score: 544618, PASSED).
+[22:18:28] BanchoBot: ImaginaryVaxei finished playing (Score: 346201, PASSED).
+[22:18:28] BanchoBot: Nuage finished playing (Score: 362942, PASSED).
+[22:18:28] BanchoBot: Light135 finished playing (Score: 418707, PASSED).
+[22:18:28] BanchoBot: Qumania finished playing (Score: 487977, PASSED).
+[22:18:28] BanchoBot: XiaoMyMommy finished playing (Score: 425876, PASSED).
+[22:18:28] BanchoBot: kirndy finished playing (Score: 378795, PASSED).
+[22:18:29] BanchoBot: N7TR0 finished playing (Score: 336049, PASSED).
+[22:18:29] BanchoBot: The match has finished!
+[22:18:33] BanchoBot: N7TR0 left the game.
+[22:18:38] ImaginaryVaxei: last nm3 was better
+[22:18:42] BCraftMG: Russian Federation | 1 - 4 | France // Bo13 - Next Pick: Russian Federation
+[22:18:43] Nuage: tru
+[22:18:43] BCraftMG: !mp timer 120
+[22:18:44] BanchoBot: Countdown ends in 2 minutes
+[22:19:11] BanchoBot: ImaginaryVaxei left the game.
+[22:19:43] MyzeJD: :<
+[22:19:45] BanchoBot: Countdown ends in 1 minute
+[22:19:47] BanchoBot: hrds joined in slot 1 for team blue.
+[22:19:57] BanchoBot: MakiBrony joined in slot 4 for team red.
+[22:20:09] hrds: hd3
+[22:20:14] BanchoBot: N7TR0 joined in slot 9 for team blue.
+[22:20:15] BanchoBot: Countdown ends in 30 seconds
+[22:20:17] BanchoBot: XiaoMyMommy moved to slot 10
+[22:20:22] BanchoBot: Nuage left the game.
+[22:20:22] BCraftMG: !mp map 3845870 0
+[22:20:23] BanchoBot: N7TR0 moved to slot 11
+[22:20:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3845870 Zekk - Opal
+[22:20:23] BanchoBot: Changed match mode to Osu
+[22:20:24] BCraftMG: !mp mods 9
+[22:20:24] BanchoBot: hrds left the game.
+[22:20:24] BanchoBot: N7TR0 changed to Red
+[22:20:24] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[22:20:25] BCraftMG: !mp timer 120
+[22:20:25] BanchoBot: Countdown aborted
+[22:20:25] BanchoBot: Countdown ends in 2 minutes
+[22:20:34] BanchoBot: MakiBrony moved to slot 1
+[22:20:38] BanchoBot: N7TR0 moved to slot 4
+[22:20:50] BanchoBot: XiaoMyMommy left the game.
+[22:21:08] BanchoBot: Nuage joined in slot 5 for team blue.
+[22:21:22] BanchoBot: Drakkles joined in slot 8 for team red.
+[22:21:26] BanchoBot: Countdown ends in 1 minute
+[22:21:30] BanchoBot: Drakkles changed to Blue
+[22:21:40] MakiBrony: ГЛ
+[22:21:41] kirndy: glhf
+[22:21:44] BanchoBot: All players are ready
+[22:21:45] BCraftMG: !mp settings
+[22:21:46] BanchoBot: Room name: 5WC2023: (Russian Federation) vs (France), History: https://osu.ppy.sh/mp/107869566
+[22:21:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/3845870 Zekk - Opal
+[22:21:46] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:21:46] BanchoBot: Active mods: NoFail, Hidden
+[22:21:46] BanchoBot: Players: 8
+[22:21:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7101953 MakiBrony       [Team Red ]
+[22:21:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9027651 kirndy          [Team Red ]
+[22:21:46] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6420308 Light135        [Team Red ]
+[22:21:46] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14518295 N7TR0           [Team Red ]
+[22:21:46] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4784772 Nuage           [Team Blue]
+[22:21:46] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/17467899 Qumania         [Team Blue]
+[22:21:46] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Blue]
+[22:21:46] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/13963691 Drakkles        [Team Blue]
+[22:21:47] BCraftMG: !mp start 5 glhf
+[22:21:47] MyzeJD: glglg
+[22:21:48] BanchoBot: Countdown aborted
+[22:21:48] BanchoBot: Match starts in 5 seconds
+[22:21:48] BanchoBot: Queued the match to start in 5 seconds
+[22:21:50] BanchoBot: Match starts in 4 seconds
+[22:21:51] BanchoBot: Match starts in 3 seconds
+[22:21:52] BanchoBot: Good luck, have fun!
+[22:21:53] Nuage: gl
+[22:21:53] Drakkles: glhf
+[22:21:54] BanchoBot: The match has started!
+[22:25:27] BanchoBot: Drakkles finished playing (Score: 301938, PASSED).
+[22:25:27] BanchoBot: Qumania finished playing (Score: 331417, PASSED).
+[22:25:27] BanchoBot: MakiBrony finished playing (Score: 273666, PASSED).
+[22:25:27] BanchoBot: MyzeJD finished playing (Score: 379526, PASSED).
+[22:25:28] BanchoBot: Light135 finished playing (Score: 272979, PASSED).
+[22:25:28] BanchoBot: kirndy finished playing (Score: 434518, PASSED).
+[22:25:28] BanchoBot: N7TR0 finished playing (Score: 759401, PASSED).
+[22:25:28] BanchoBot: Nuage finished playing (Score: 356527, PASSED).
+[22:25:28] BanchoBot: The match has finished!
+[22:25:39] MyzeJD: akodaok
+[22:25:41] BCraftMG: Russian Federation | 2 - 4 | France // Bo13 - Next Pick: France
+[22:25:42] BCraftMG: !mp timer 120
+[22:25:43] BanchoBot: Countdown ends in 2 minutes
+[22:25:46] MyzeJD: n7troo
+[22:25:46] N7TR0: god
+[22:25:48] MyzeJD: nice score
+[22:25:51] N7TR0: my heaaaart
+[22:25:59] BanchoBot: Drakkles left the game.
+[22:26:01] BanchoBot: Nuage left the game.
+[22:26:01] MakiBrony: это пиздец
+[22:26:03] BanchoBot: MyzeJD left the game.
+[22:26:07] BanchoBot: Qumania left the game.
+[22:26:12] BanchoBot: XiaoMyMommy joined in slot 5 for team blue.
+[22:26:25] N7TR0: ахуй
+[22:26:26] BanchoBot: N7TR0 left the game.
+[22:26:29] BanchoBot: MakiBrony left the game.
+[22:26:43] BanchoBot: Countdown ends in 1 minute
+[22:27:13] BanchoBot: Countdown ends in 30 seconds
+[22:27:34] BanchoBot: Countdown ends in 10 seconds
+[22:27:38] BanchoBot: Countdown ends in 5 seconds
+[22:27:39] BanchoBot: Countdown ends in 4 seconds
+[22:27:41] BanchoBot: Countdown ends in 3 seconds
+[22:27:42] BanchoBot: Countdown ends in 2 seconds
+[22:27:42] BanchoBot: Countdown ends in 1 second
+[22:27:43] XiaoMyMommy: FM2
+[22:27:43] BanchoBot: Countdown finished
+[22:27:51] BCraftMG: !mp map 3192828 0
+[22:27:52] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3192828 COOL&CREATE - Cirno to Mario no Perfect Sansuu Kyoushitsu
+[22:27:52] BanchoBot: Changed match mode to Osu
+[22:27:54] BCraftMG: !mp mods Freemod
+[22:27:55] BanchoBot: Disabled all mods, enabled FreeMod
+[22:27:56] BCraftMG: !mp timer 120
+[22:27:56] BanchoBot: hrds joined in slot 1 for team blue.
+[22:27:58] BanchoBot: Countdown ends in 2 minutes
+[22:28:05] BanchoBot: Light135 left the game.
+[22:28:09] BanchoBot: MakiBrony joined in slot 3 for team blue.
+[22:28:22] BanchoBot: MakiBrony changed to Red
+[22:28:23] BanchoBot: Drakkles joined in slot 4 for team red.
+[22:28:25] BanchoBot: Drakkles moved to slot 6
+[22:28:28] BanchoBot: Drakkles changed to Blue
+[22:28:34] BanchoBot: N7TR0 joined in slot 4 for team red.
+[22:28:36] BanchoBot: Light135 joined in slot 7 for team blue.
+[22:28:38] BanchoBot: Qumania joined in slot 8 for team red.
+[22:28:42] BanchoBot: Qumania changed to Blue
+[22:28:50] BanchoBot: Nuage joined in slot 9 for team blue.
+[22:28:57] BanchoBot: MakiBrony left the game.
+[22:28:58] BanchoBot: Countdown ends in 1 minute
+[22:29:06] BanchoBot: MakiBrony joined in slot 3 for team blue.
+[22:29:09] BanchoBot: MakiBrony changed to Red
+[22:29:15] BanchoBot: hrds moved to slot 11
+[22:29:17] BanchoBot: MakiBrony moved to slot 1
+[22:29:21] BanchoBot: Light135 moved to slot 3
+[22:29:23] BanchoBot: Nuage moved to slot 7
+[22:29:23] BanchoBot: Light135 changed to Red
+[22:29:28] BanchoBot: Countdown ends in 30 seconds
+[22:29:38] BanchoBot: hrds left the game.
+[22:29:46] N7TR0: GL
+[22:29:48] BanchoBot: Countdown ends in 10 seconds
+[22:29:51] BanchoBot: All players are ready
+[22:29:51] BCraftMG: !mp settings
+[22:29:52] Nuage: gl
+[22:29:52] Drakkles: glhf
+[22:29:52] BanchoBot: Room name: 5WC2023: (Russian Federation) vs (France), History: https://osu.ppy.sh/mp/107869566
+[22:29:52] BanchoBot: Beatmap: https://osu.ppy.sh/b/3192828 COOL&CREATE - Cirno to Mario no Perfect Sansuu Kyoushitsu
+[22:29:52] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:29:52] BanchoBot: Active mods: Freemod
+[22:29:52] BanchoBot: Players: 8
+[22:29:52] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7101953 MakiBrony       [Team Red  / NoFail, Hidden, HardRock]
+[22:29:52] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9027651 kirndy          [Team Red  / NoFail, Hidden]
+[22:29:52] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6420308 Light135        [Team Red  / NoFail]
+[22:29:52] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14518295 N7TR0           [Team Red  / NoFail, HardRock]
+[22:29:52] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11129041 XiaoMyMommy     [Team Blue / NoFail, Hidden, HardRock]
+[22:29:52] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/13963691 Drakkles        [Team Blue / NoFail, HardRock]
+[22:29:52] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/4784772 Nuage           [Team Blue / NoFail, Hidden]
+[22:29:52] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17467899 Qumania         [Team Blue / NoFail]
+[22:29:53] BanchoBot: Countdown ends in 5 seconds
+[22:29:54] BanchoBot: Countdown ends in 4 seconds
+[22:29:55] BanchoBot: Countdown ends in 3 seconds
+[22:29:56] BCraftMG: !mp start 5 glhf
+[22:29:56] BanchoBot: Countdown ends in 2 seconds
+[22:29:56] BanchoBot: Countdown aborted
+[22:29:56] BanchoBot: Match starts in 5 seconds
+[22:29:56] BanchoBot: Queued the match to start in 5 seconds
+[22:29:58] BanchoBot: Match starts in 4 seconds
+[22:29:59] BanchoBot: Match starts in 3 seconds
+[22:30:00] BanchoBot: Good luck, have fun!
+[22:30:00] Nuage: gl
+[22:30:00] MakiBrony: gl
+[22:30:02] BanchoBot: The match has started!
+[22:30:08] kirndy: glgl
+[22:32:12] BanchoBot: kirndy finished playing (Score: 531456, PASSED).
+[22:32:12] BanchoBot: Light135 finished playing (Score: 708829, PASSED).
+[22:32:14] BanchoBot: Qumania finished playing (Score: 518690, PASSED).
+[22:32:14] BanchoBot: XiaoMyMommy finished playing (Score: 575603, PASSED).
+[22:32:14] BanchoBot: Drakkles finished playing (Score: 450225, PASSED).
+[22:32:15] BanchoBot: N7TR0 finished playing (Score: 588134, PASSED).
+[22:32:15] BanchoBot: Nuage finished playing (Score: 557049, PASSED).
+[22:32:17] BanchoBot: MakiBrony finished playing (Score: 494280, PASSED).
+[22:32:17] BanchoBot: The match has finished!
+[22:32:30] BCraftMG: Russian Federation | 3 - 4 | France // Bo13 - Next Pick: Russian Federation
+[22:32:31] BCraftMG: !mp timer 120
+[22:32:32] BanchoBot: Countdown ends in 2 minutes
+[22:32:39] BanchoBot: Drakkles left the game.
+[22:32:53] BanchoBot: N7TR0 left the game.
+[22:33:03] BanchoBot: Nuage left the game.
+[22:33:10] BanchoBot: Light135 left the game.
+[22:33:14] BanchoBot: MyzeJD joined in slot 3 for team blue.
+[22:33:19] BanchoBot: MyzeJD moved to slot 7
+[22:33:22] BanchoBot: MyzeJD moved to slot 12
+[22:33:32] BanchoBot: Countdown ends in 1 minute
+[22:33:34] BanchoBot: hrds joined in slot 3 for team blue.
+[22:34:02] BanchoBot: Countdown ends in 30 seconds
+[22:34:06] hrds: hd2
+[22:34:13] BanchoBot: XiaoMyMommy left the game.
+[22:34:15] BanchoBot: Afmun joined in slot 4 for team red.
+[22:34:18] BanchoBot: Qumania moved to slot 6
+[22:34:22] BanchoBot: Countdown ends in 10 seconds
+[22:34:23] BanchoBot: Afmun moved to slot 7
+[22:34:26] BanchoBot: Afmun changed to Blue
+[22:34:27] BanchoBot: MyzeJD moved to slot 8
+[22:34:27] BanchoBot: Countdown ends in 5 seconds
+[22:34:28] BanchoBot: Countdown ends in 4 seconds
+[22:34:28] BCraftMG: !mp map 2623967 0
+[22:34:29] BanchoBot: Countdown ends in 3 seconds
+[22:34:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2623967 Miku Fujimoto - Mari-Temari
+[22:34:29] BanchoBot: Changed match mode to Osu
+[22:34:31] BanchoBot: Countdown ends in 2 seconds
+[22:34:32] BanchoBot: Countdown ends in 1 second
+[22:34:33] BanchoBot: Countdown finished
+[22:34:33] BCraftMG: !,[ ,pods 9
+[22:34:35] MakiBrony: MAKI HD IS REAL
+[22:34:36] BCraftMG: !mp mods 9
+[22:34:36] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[22:34:40] MyzeJD: !!!
+[22:34:40] BCraftMG: !mp timer 120
+[22:34:41] BanchoBot: Countdown ends in 2 minutes
+[22:34:42] BanchoBot: hrds moved to slot 14
+[22:34:43] BanchoBot: hrds moved to slot 13
+[22:34:46] BanchoBot: Filtrator joined in slot 3 for team blue.
+[22:34:51] BanchoBot: Filtrator changed to Red
+[22:35:02] BanchoBot: Qumania moved to slot 5
+[22:35:06] BanchoBot: Nuage joined in slot 4 for team red.
+[22:35:07] BanchoBot: Light135 joined in slot 6 for team red.
+[22:35:09] BanchoBot: hrds left the game.
+[22:35:15] BanchoBot: Nuage moved to slot 9
+[22:35:16] BanchoBot: Nuage changed to Blue
+[22:35:22] BanchoBot: Light135 moved to slot 4
+[22:35:24] BanchoBot: Nuage moved to slot 6
+[22:35:28] MyzeJD: glglgl
+[22:35:34] MakiBrony: GLHF
+[22:35:35] Nuage: gl
+[22:35:38] Filtrator: GL
+[22:35:41] kirndy: glhf
+[22:35:41] BanchoBot: Countdown ends in 1 minute
+[22:35:46] Afmun: hfhf
+[22:36:05] Light135: Я БОЮСЬ
+[22:36:06] BanchoBot: All players are ready
+[22:36:07] BCraftMG: !mp settings
+[22:36:09] Filtrator: +
+[22:36:09] BanchoBot: Room name: 5WC2023: (Russian Federation) vs (France), History: https://osu.ppy.sh/mp/107869566
+[22:36:09] BanchoBot: Beatmap: https://osu.ppy.sh/b/2623967 Miku Fujimoto - Mari-Temari
+[22:36:09] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:36:09] BanchoBot: Active mods: NoFail, Hidden
+[22:36:09] BanchoBot: Players: 8
+[22:36:09] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7101953 MakiBrony       [Team Red ]
+[22:36:09] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9027651 kirndy          [Team Red ]
+[22:36:09] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12949657 Filtrator       [Team Red ]
+[22:36:09] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6420308 Light135        [Team Red ]
+[22:36:09] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/17467899 Qumania         [Team Blue]
+[22:36:09] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/4784772 Nuage           [Team Blue]
+[22:36:09] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/4869346 Afmun           [Team Blue]
+[22:36:09] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Blue]
+[22:36:10] BCraftMG: !mp start 5 glhf
+[22:36:11] BanchoBot: Countdown aborted
+[22:36:11] BanchoBot: Match starts in 5 seconds
+[22:36:11] BanchoBot: Queued the match to start in 5 seconds
+[22:36:12] Nuage: gl
+[22:36:12] BanchoBot: Match starts in 4 seconds
+[22:36:13] BanchoBot: Match starts in 3 seconds
+[22:36:14] BanchoBot: Good luck, have fun!
+[22:36:17] BanchoBot: The match has started!
+[22:38:32] BanchoBot: Afmun finished playing (Score: 362988, PASSED).
+[22:38:32] BanchoBot: MakiBrony finished playing (Score: 386571, PASSED).
+[22:38:32] BanchoBot: Qumania finished playing (Score: 408538, PASSED).
+[22:38:33] BanchoBot: Light135 finished playing (Score: 316018, PASSED).
+[22:38:33] BanchoBot: Nuage finished playing (Score: 466728, PASSED).
+[22:38:33] BanchoBot: MyzeJD finished playing (Score: 505939, PASSED).
+[22:38:34] BanchoBot: Filtrator finished playing (Score: 381616, PASSED).
+[22:38:34] BanchoBot: kirndy finished playing (Score: 355812, PASSED).
+[22:38:34] BanchoBot: The match has finished!
+[22:38:50] BCraftMG: Russian Federation | 3 - 5 | France // Bo13 - Next Pick: France
+[22:38:52] BCraftMG: !mp timer 120
+[22:38:52] BanchoBot: Countdown ends in 2 minutes
+[22:39:26] BanchoBot: Nuage left the game.
+[22:39:34] Qumania: dt3
+[22:39:40] BanchoBot: Filtrator left the game.
+[22:39:42] BanchoBot: ImaginaryVaxei joined in slot 3 for team blue.
+[22:39:47] BanchoBot: kirndy moved to slot 12
+[22:39:47] BanchoBot: kirndy left the game.
+[22:39:48] BanchoBot: ImaginaryVaxei changed to Red
+[22:39:53] BanchoBot: Countdown ends in 1 minute
+[22:39:54] BanchoBot: Afmun left the game.
+[22:39:56] BCraftMG: !mp map 2659640 0
+[22:39:56] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2659640 Nekomata Master - Spiral 2005
+[22:39:56] BanchoBot: Changed match mode to Osu
+[22:39:58] BCraftMG: !mp mods 65
+[22:39:59] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[22:39:59] BCraftMG: !mp timer 120
+[22:40:00] BanchoBot: Countdown aborted
+[22:40:00] BanchoBot: Countdown ends in 2 minutes
+[22:40:07] BanchoBot: BioTyC joined in slot 2 for team red.
+[22:40:14] BanchoBot: BioTyC moved to slot 6
+[22:40:16] BanchoBot: BioTyC changed to Blue
+[22:40:39] BanchoBot: DanFi joined in slot 2 for team red.
+[22:40:47] BanchoBot: Drakkles joined in slot 7 for team blue.
+[22:41:01] BanchoBot: Countdown ends in 1 minute
+[22:41:20] Light135: кто такой зомбир
+[22:41:27] BanchoBot: All players are ready
+[22:41:29] BCraftMG: !mp settings
+[22:41:29] BanchoBot: Room name: 5WC2023: (Russian Federation) vs (France), History: https://osu.ppy.sh/mp/107869566
+[22:41:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/2659640 Nekomata Master - Spiral 2005
+[22:41:29] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:41:29] BanchoBot: Active mods: NoFail, DoubleTime
+[22:41:29] BanchoBot: Players: 8
+[22:41:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7101953 MakiBrony       [Team Red ]
+[22:41:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12654242 DanFi           [Team Red ]
+[22:41:29] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12483293 ImaginaryVaxei  [Team Red ]
+[22:41:29] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6420308 Light135        [Team Red ]
+[22:41:29] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/17467899 Qumania         [Team Blue]
+[22:41:29] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/13935409 BioTyC          [Team Blue]
+[22:41:29] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/13963691 Drakkles        [Team Blue]
+[22:41:29] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Blue]
+[22:41:30] BanchoBot: Countdown ends in 30 seconds
+[22:41:30] MyzeJD: golf
+[22:41:32] Drakkles: glhf
+[22:41:32] BCraftMG: !mp start 5 glhf
+[22:41:33] BioTyC: glhf!
+[22:41:33] MakiBrony: GLHF
+[22:41:33] BanchoBot: Countdown aborted
+[22:41:33] BanchoBot: Match starts in 5 seconds
+[22:41:33] BanchoBot: Queued the match to start in 5 seconds
+[22:41:34] BanchoBot: Match starts in 4 seconds
+[22:41:35] BanchoBot: Match starts in 3 seconds
+[22:41:36] BanchoBot: Good luck, have fun!
+[22:41:39] BanchoBot: The match has started!
+[22:43:55] BanchoBot: Qumania finished playing (Score: 423467, PASSED).
+[22:43:55] BanchoBot: Drakkles finished playing (Score: 634893, PASSED).
+[22:43:55] BanchoBot: DanFi finished playing (Score: 590121, PASSED).
+[22:43:55] BanchoBot: MakiBrony finished playing (Score: 475366, PASSED).
+[22:43:56] BanchoBot: Light135 finished playing (Score: 497505, PASSED).
+[22:43:58] BanchoBot: BioTyC finished playing (Score: 379664, PASSED).
+[22:43:58] BanchoBot: ImaginaryVaxei finished playing (Score: 1020121, PASSED).
+[22:43:58] BanchoBot: MyzeJD finished playing (Score: 837480, PASSED).
+[22:43:58] BanchoBot: The match has finished!
+[22:44:10] BCraftMG: Russian Federation | 4 - 5 | France // Bo13 - Next Pick: Russian Federation
+[22:44:11] BCraftMG: !mp timer 120
+[22:44:12] BanchoBot: Countdown ends in 2 minutes
+[22:44:30] MyzeJD: nice scoresss
+[22:44:36] BanchoBot: BioTyC left the game.
+[22:44:36] Drakkles: I agree!
+[22:44:39] BanchoBot: DanFi left the game.
+[22:44:40] BanchoBot: Drakkles left the game.
+[22:44:41] MakiBrony: smh combo gamers all arond
+[22:44:50] BanchoBot: Qumania left the game.
+[22:44:56] MyzeJD: grrgrr
+[22:45:05] BanchoBot: hrds joined in slot 2 for team red.
+[22:45:05] MakiBrony: DT4
+[22:45:06] BanchoBot: N7TR0 joined in slot 5 for team blue.
+[22:45:12] BanchoBot: Countdown ends in 1 minute
+[22:45:14] BanchoBot: Afmun joined in slot 6 for team red.
+[22:45:14] BanchoBot: N7TR0 changed to Red
+[22:45:17] BanchoBot: kirndy joined in slot 7 for team blue.
+[22:45:17] BanchoBot: N7TR0 moved to slot 14
+[22:45:20] BCraftMG: !mp map 3754385 0
+[22:45:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3754385 Lamp - Autumn In City "A"
+[22:45:20] BanchoBot: Changed match mode to Osu
+[22:45:22] BCraftMG: !mp timer 120
+[22:45:23] BanchoBot: Afmun changed to Blue
+[22:45:23] BanchoBot: Countdown aborted
+[22:45:23] BanchoBot: Countdown ends in 2 minutes
+[22:45:26] BanchoBot: Light135 left the game.
+[22:45:28] BanchoBot: kirndy changed to Red
+[22:45:31] BanchoBot: kirndy moved to slot 4
+[22:45:32] BanchoBot: hrds left the game.
+[22:45:33] BanchoBot: N7TR0 moved to slot 2
+[22:45:44] BanchoBot: Drakkles joined in slot 5 for team blue.
+[22:46:07] BanchoBot: XiaoMyMommy joined in slot 7 for team blue.
+[22:46:13] BanchoBot: XiaoMyMommy moved to slot 11
+[22:46:15] BanchoBot: XiaoMyMommy left the game.
+[22:46:17] N7TR0: Пук пук пук
+[22:46:24] BanchoBot: Countdown ends in 1 minute
+[22:46:34] BanchoBot: MyzeJD moved to slot 7
+[22:46:37] BanchoBot: Qumania joined in slot 8 for team red.
+[22:46:39] N7TR0: Где кумания
+[22:46:41] N7TR0: А вот
+[22:46:42] BanchoBot: Qumania changed to Blue
+[22:46:47] MakiBrony: GLHF
+[22:46:51] MyzeJD: GLGLL
+[22:46:53] BanchoBot: Countdown ends in 30 seconds
+[22:46:55] N7TR0: GLGLG
+[22:46:55] kirndy: glgl
+[22:46:59] Afmun: hfhf
+[22:47:05] N7TR0: POPOPOPOPOPPOPOPOIPOPOPOPOPOPO
+[22:47:06] BanchoBot: All players are ready
+[22:47:09] BCraftMG: !mp settings
+[22:47:11] BanchoBot: Room name: 5WC2023: (Russian Federation) vs (France), History: https://osu.ppy.sh/mp/107869566
+[22:47:11] BanchoBot: Beatmap: https://osu.ppy.sh/b/3754385 Lamp - Autumn In City "A"
+[22:47:11] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:47:11] BanchoBot: Active mods: NoFail, DoubleTime
+[22:47:11] BanchoBot: Players: 8
+[22:47:11] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7101953 MakiBrony       [Team Red ]
+[22:47:11] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14518295 N7TR0           [Team Red ]
+[22:47:11] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12483293 ImaginaryVaxei  [Team Red ]
+[22:47:11] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9027651 kirndy          [Team Red ]
+[22:47:11] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13963691 Drakkles        [Team Blue]
+[22:47:11] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/4869346 Afmun           [Team Blue]
+[22:47:11] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Blue]
+[22:47:11] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17467899 Qumania         [Team Blue]
+[22:47:12] Drakkles: glhf
+[22:47:13] BCraftMG: !mp start 5 glhf
+[22:47:13] BanchoBot: Countdown ends in 10 seconds
+[22:47:13] BanchoBot: Countdown aborted
+[22:47:13] BanchoBot: Match starts in 5 seconds
+[22:47:13] BanchoBot: Queued the match to start in 5 seconds
+[22:47:14] BanchoBot: Match starts in 4 seconds
+[22:47:15] BanchoBot: Match starts in 3 seconds
+[22:47:16] BanchoBot: Good luck, have fun!
+[22:47:19] BanchoBot: The match has started!
+[22:50:07] BanchoBot: MakiBrony finished playing (Score: 646534, PASSED).
+[22:50:07] BanchoBot: Afmun finished playing (Score: 474682, PASSED).
+[22:50:07] BanchoBot: N7TR0 finished playing (Score: 437301, PASSED).
+[22:50:07] BanchoBot: Qumania finished playing (Score: 444722, PASSED).
+[22:50:07] BanchoBot: Drakkles finished playing (Score: 698975, PASSED).
+[22:50:08] BanchoBot: kirndy finished playing (Score: 666535, PASSED).
+[22:50:08] BanchoBot: MyzeJD finished playing (Score: 559183, PASSED).
+[22:50:08] BanchoBot: ImaginaryVaxei finished playing (Score: 785199, PASSED).
+[22:50:08] BanchoBot: The match has finished!
+[22:50:18] N7TR0: ну заебись
+[22:50:20] N7TR0: команда хорош
+[22:50:22] BCraftMG: Russian Federation | 5 - 5 | France // Bo13 - Next Pick: France
+[22:50:23] BCraftMG: !mp timer 120
+[22:50:25] BanchoBot: Countdown ends in 2 minutes
+[22:50:31] BanchoBot: Drakkles left the game.
+[22:50:31] BanchoBot: N7TR0 left the game.
+[22:50:42] BanchoBot: Nuage joined in slot 2 for team red.
+[22:50:51] BanchoBot: Nuage moved to slot 5
+[22:50:53] BanchoBot: Nuage changed to Blue
+[22:51:26] BanchoBot: Countdown ends in 1 minute
+[22:51:55] BanchoBot: Countdown ends in 30 seconds
+[22:52:02] BanchoBot: Afmun left the game.
+[22:52:09] MyzeJD: NM6 pick
+[22:52:15] BanchoBot: Drakkles joined in slot 2 for team red.
+[22:52:15] BanchoBot: Countdown ends in 10 seconds
+[22:52:17] BanchoBot: Light135 joined in slot 6 for team red.
+[22:52:21] BanchoBot: Countdown ends in 5 seconds
+[22:52:21] BanchoBot: ImaginaryVaxei left the game.
+[22:52:22] BanchoBot: Countdown ends in 4 seconds
+[22:52:22] BanchoBot: Drakkles left the game.
+[22:52:22] BanchoBot: Countdown ends in 3 seconds
+[22:52:23] BanchoBot: Light135 moved to slot 3
+[22:52:23] BanchoBot: Countdown ends in 2 seconds
+[22:52:24] BanchoBot: Countdown ends in 1 second
+[22:52:25] BanchoBot: Countdown finished
+[22:52:25] BCraftMG: !mp map 1490377 0
+[22:52:27] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1490377 FUJIN CLUB - Tabi to Ferry
+[22:52:27] BanchoBot: Changed match mode to Osu
+[22:52:28] BCraftMG: !mp mods 1
+[22:52:29] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:52:30] BCraftMG: !mp timer 120
+[22:52:31] BanchoBot: Countdown ends in 2 minutes
+[22:52:45] BanchoBot: ImaginaryVaxei joined in slot 2 for team red.
+[22:52:50] BanchoBot: Filtrator joined in slot 6 for team red.
+[22:52:57] ImaginaryVaxei: sightread time
+[22:53:30] MyzeJD: o.o
+[22:53:32] BanchoBot: Countdown ends in 1 minute
+[22:53:35] BanchoBot: MakiBrony left the game.
+[22:53:39] BanchoBot: Filtrator moved to slot 1
+[22:53:39] ImaginaryVaxei: bruh bancho sucks
+[22:53:43] BanchoBot: Drakkles joined in slot 6 for team red.
+[22:53:50] BanchoBot: Afmun joined in slot 9 for team blue.
+[22:53:50] BanchoBot: Drakkles left the game.
+[22:53:52] BanchoBot: Afmun moved to slot 6
+[22:53:59] MyzeJD is listening to [https://osu.ppy.sh/beatmapsets/704541#/1490377 FUJIN CLUB - Tabi to Ferry]
+[22:54:02] BanchoBot: Countdown ends in 30 seconds
+[22:54:03] ImaginaryVaxei: 1min
+[22:54:04] BCraftMG: !mp settings
+[22:54:05] BanchoBot: Room name: 5WC2023: (Russian Federation) vs (France), History: https://osu.ppy.sh/mp/107869566
+[22:54:05] BanchoBot: Beatmap: https://osu.ppy.sh/b/1490377 FUJIN CLUB - Tabi to Ferry
+[22:54:05] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:54:05] BanchoBot: Active mods: NoFail
+[22:54:05] BanchoBot: Players: 8
+[22:54:05] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/12949657 Filtrator       [Team Red ]
+[22:54:05] BanchoBot: Slot 2  No Map    https://osu.ppy.sh/u/12483293 ImaginaryVaxei  [Team Red ]
+[22:54:05] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/6420308 Light135        [Team Red ]
+[22:54:05] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/9027651 kirndy          [Team Red ]
+[22:54:05] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4784772 Nuage           [Team Blue]
+[22:54:05] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/4869346 Afmun           [Team Blue]
+[22:54:05] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Blue]
+[22:54:05] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17467899 Qumania         [Team Blue]
+[22:54:06] ImaginaryVaxei: dowloading from bloodcat
+[22:54:21] BanchoBot: Countdown ends in 10 seconds
+[22:54:24] ImaginaryVaxei: 80%
+[22:54:27] BanchoBot: Countdown ends in 5 seconds
+[22:54:28] BanchoBot: Countdown ends in 4 seconds
+[22:54:28] BanchoBot: Countdown ends in 3 seconds
+[22:54:29] BanchoBot: Countdown ends in 2 seconds
+[22:54:31] BanchoBot: Countdown ends in 1 second
+[22:54:32] BanchoBot: Countdown finished
+[22:54:33] BCraftMG: !mp settings
+[22:54:33] BanchoBot: Room name: 5WC2023: (Russian Federation) vs (France), History: https://osu.ppy.sh/mp/107869566
+[22:54:33] BanchoBot: Beatmap: https://osu.ppy.sh/b/1490377 FUJIN CLUB - Tabi to Ferry
+[22:54:33] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:54:33] BanchoBot: Active mods: NoFail
+[22:54:33] BanchoBot: Players: 8
+[22:54:33] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/12949657 Filtrator       [Team Red ]
+[22:54:33] BanchoBot: Slot 2  No Map    https://osu.ppy.sh/u/12483293 ImaginaryVaxei  [Team Red ]
+[22:54:33] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/6420308 Light135        [Team Red ]
+[22:54:33] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9027651 kirndy          [Team Red ]
+[22:54:33] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4784772 Nuage           [Team Blue]
+[22:54:33] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/4869346 Afmun           [Team Blue]
+[22:54:33] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Blue]
+[22:54:33] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17467899 Qumania         [Team Blue]
+[22:54:34] ImaginaryVaxei: 90%
+[22:54:53] BanchoBot: All players are ready
+[22:54:54] BCraftMG: :prayge:
+[22:54:54] Light135: glhf
+[22:54:54] BCraftMG: !mp settings
+[22:54:57] Nuage: gl
+[22:54:57] BanchoBot: Room name: 5WC2023: (Russian Federation) vs (France), History: https://osu.ppy.sh/mp/107869566
+[22:54:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/1490377 FUJIN CLUB - Tabi to Ferry
+[22:54:57] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:54:57] BanchoBot: Active mods: NoFail
+[22:54:57] BanchoBot: Players: 8
+[22:54:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12949657 Filtrator       [Team Red ]
+[22:54:57] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12483293 ImaginaryVaxei  [Team Red ]
+[22:54:57] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6420308 Light135        [Team Red ]
+[22:54:57] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9027651 kirndy          [Team Red ]
+[22:54:57] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4784772 Nuage           [Team Blue]
+[22:54:57] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/4869346 Afmun           [Team Blue]
+[22:54:57] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Blue]
+[22:54:57] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17467899 Qumania         [Team Blue]
+[22:54:57] BCraftMG: !mp start 5 glhf
+[22:54:57] MyzeJD: glhf
+[22:54:57] BanchoBot: Match starts in 5 seconds
+[22:54:57] BanchoBot: Queued the match to start in 5 seconds
+[22:54:59] BanchoBot: Match starts in 4 seconds
+[22:55:00] kirndy: glglhfhf
+[22:55:00] BanchoBot: Match starts in 3 seconds
+[22:55:00] Afmun: hfhf
+[22:55:01] BanchoBot: Good luck, have fun!
+[22:55:01] Filtrator: GL
+[22:55:02] Nuage: gl
+[22:55:03] BanchoBot: The match has started!
+[22:58:42] BanchoBot: kirndy finished playing (Score: 342107, PASSED).
+[22:58:42] BanchoBot: MyzeJD finished playing (Score: 236393, PASSED).
+[22:58:42] BanchoBot: Filtrator finished playing (Score: 301406, PASSED).
+[22:58:43] BanchoBot: Nuage finished playing (Score: 335454, PASSED).
+[22:58:43] BanchoBot: Light135 finished playing (Score: 480295, PASSED).
+[22:58:43] BanchoBot: Afmun finished playing (Score: 284894, PASSED).
+[22:58:45] BanchoBot: Qumania finished playing (Score: 546940, PASSED).
+[22:58:45] BanchoBot: ImaginaryVaxei finished playing (Score: 233062, PASSED).
+[22:58:45] BanchoBot: The match has finished!
+[22:58:55] BCraftMG: Russian Federation | 5 - 6 | France // Bo13 - Next Pick: Russian Federation
+[22:58:56] BCraftMG: !mp timer 120
+[22:58:57] BanchoBot: Countdown ends in 2 minutes
+[22:59:23] BanchoBot: Filtrator left the game.
+[22:59:26] BanchoBot: MakiBrony joined in slot 1 for team blue.
+[22:59:39] BanchoBot: hrds joined in slot 9 for team blue.
+[22:59:39] BanchoBot: MakiBrony changed to Red
+[22:59:46] BanchoBot: N7TR0 joined in slot 10 for team red.
+[22:59:58] BanchoBot: Countdown ends in 1 minute
+[22:59:58] BanchoBot: Nuage left the game.
+[23:00:06] hrds: hr2
+[23:00:11] BanchoBot: hrds moved to slot 12
+[23:00:16] BanchoBot: Qumania left the game.
+[23:00:18] BanchoBot: Light135 left the game.
+[23:00:21] BCraftMG: !mp map 2610216 0
+[23:00:22] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2610216 TOMOSUKE - Ergosphere
+[23:00:22] BanchoBot: Changed match mode to Osu
+[23:00:23] BCraftMG: !mp mods 17
+[23:00:24] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[23:00:25] BCraftMG: !mp timer 120
+[23:00:25] BanchoBot: Countdown aborted
+[23:00:25] BanchoBot: Countdown ends in 2 minutes
+[23:00:27] BanchoBot: N7TR0 moved to slot 3
+[23:00:36] BanchoBot: Afmun left the game.
+[23:00:37] BanchoBot: MyzeJD moved to slot 8
+[23:00:47] N7TR0: а я кто вообще
+[23:01:14] BanchoBot: Qumania joined in slot 5 for team blue.
+[23:01:18] BanchoBot: Afmun joined in slot 6 for team red.
+[23:01:21] BanchoBot: Afmun changed to Blue
+[23:01:21] BanchoBot: Drakkles joined in slot 7 for team blue.
+[23:01:26] BanchoBot: Countdown ends in 1 minute
+[23:01:36] MyzeJD: glglglglgl
+[23:01:38] MyzeJD: ggllglg
+[23:01:38] BanchoBot: hrds left the game.
+[23:01:40] Drakkles: glhf
+[23:01:41] MakiBrony: glglglglglglglgllgl
+[23:01:43] N7TR0: пдпдпдпд
+[23:01:47] kirndy: glglhfhf
+[23:01:52] BanchoBot: All players are ready
+[23:01:54] BCraftMG: !mp settings
+[23:01:55] BanchoBot: Room name: 5WC2023: (Russian Federation) vs (France), History: https://osu.ppy.sh/mp/107869566
+[23:01:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/2610216 TOMOSUKE - Ergosphere
+[23:01:55] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:01:55] BanchoBot: Active mods: NoFail, HardRock
+[23:01:55] BanchoBot: Players: 8
+[23:01:55] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7101953 MakiBrony       [Team Red ]
+[23:01:55] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12483293 ImaginaryVaxei  [Team Red ]
+[23:01:55] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14518295 N7TR0           [Team Red ]
+[23:01:55] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9027651 kirndy          [Team Red ]
+[23:01:55] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/17467899 Qumania         [Team Blue]
+[23:01:55] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/4869346 Afmun           [Team Blue]
+[23:01:55] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/13963691 Drakkles        [Team Blue]
+[23:01:55] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Blue]
+[23:01:56] BanchoBot: Countdown ends in 30 seconds
+[23:01:57] BCraftMG: !mp start 5 glhf
+[23:01:57] BanchoBot: Countdown aborted
+[23:01:57] BanchoBot: Match starts in 5 seconds
+[23:01:57] BanchoBot: Queued the match to start in 5 seconds
+[23:01:58] BanchoBot: Match starts in 4 seconds
+[23:02:00] BanchoBot: Match starts in 3 seconds
+[23:02:01] Afmun: hfhf
+[23:02:01] BanchoBot: Good luck, have fun!
+[23:02:03] BanchoBot: The match has started!
+[23:03:56] BanchoBot: ImaginaryVaxei finished playing (Score: 339956, PASSED).
+[23:03:56] BanchoBot: Afmun finished playing (Score: 269759, PASSED).
+[23:03:56] BanchoBot: Qumania finished playing (Score: 318158, PASSED).
+[23:03:58] BanchoBot: N7TR0 finished playing (Score: 460243, PASSED).
+[23:03:58] BanchoBot: MyzeJD finished playing (Score: 236990, PASSED).
+[23:03:58] BanchoBot: Drakkles finished playing (Score: 377002, PASSED).
+[23:03:58] BanchoBot: MakiBrony finished playing (Score: 357441, PASSED).
+[23:03:58] BanchoBot: kirndy finished playing (Score: 290074, PASSED).
+[23:03:58] BanchoBot: The match has finished!
+[23:04:03] N7TR0: какой ужас
+[23:04:09] BanchoBot: N7TR0 left the game.
+[23:04:15] ImaginaryVaxei: most rng map in pool
+[23:04:20] Drakkles: ¨
+[23:04:20] BCraftMG: !mp map 4082580 0
+[23:04:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4082580 Sydosys - MALEVOLENT VORTEX
+[23:04:21] BanchoBot: Changed match mode to Osu
+[23:04:22] Drakkles: I agree!
+[23:04:24] BCraftMG: !mp mods 1 freemod
+[23:04:24] BanchoBot: Drakkles left the game.
+[23:04:24] BanchoBot: Disabled all mods, enabled FreeMod
+[23:04:32] BanchoBot: Qumania left the game.
+[23:04:34] BCraftMG: Welcome to Tiebreaker.
+[23:04:55] BCraftMG: Remember you have a 2 mins timeout
+[23:04:56] BCraftMG: !mp timer 120
+[23:04:58] BanchoBot: Countdown ends in 2 minutes
+[23:05:01] BanchoBot: hrds joined in slot 3 for team blue.
+[23:05:04] hrds: hi
+[23:05:05] hrds: we would
+[23:05:05] hrds: like
+[23:05:08] hrds: to issue a timeout
+[23:05:10] hrds: :3c
+[23:05:24] BanchoBot: Drakkles joined in slot 5 for team blue.
+[23:05:28] BanchoBot: Qumania joined in slot 7 for team blue.
+[23:05:58] BanchoBot: Countdown ends in 1 minute
+[23:06:06] BanchoBot: MyzeJD left the game.
+[23:06:08] BCraftMG: :3c
+[23:06:15] BanchoBot: Qumania left the game.
+[23:06:18] BanchoBot: hrds moved to slot 15
+[23:06:26] BanchoBot: Afmun left the game.
+[23:06:29] BanchoBot: Countdown ends in 30 seconds
+[23:06:40] BanchoBot: MyzeJD joined in slot 3 for team blue.
+[23:06:42] BanchoBot: MyzeJD moved to slot 6
+[23:06:47] MyzeJD: :3c
+[23:06:48] BanchoBot: Nuage joined in slot 3 for team blue.
+[23:06:49] BanchoBot: Countdown ends in 10 seconds
+[23:06:53] BanchoBot: Countdown ends in 5 seconds
+[23:06:55] BanchoBot: Countdown ends in 4 seconds
+[23:06:56] BanchoBot: Countdown ends in 3 seconds
+[23:06:56] BanchoBot: Nuage moved to slot 7
+[23:06:57] BanchoBot: Countdown ends in 2 seconds
+[23:06:58] BanchoBot: Countdown ends in 1 second
+[23:06:58] BanchoBot: Countdown finished
+[23:07:11] BCraftMG: !mp timer 120
+[23:07:12] BanchoBot: Countdown ends in 2 minutes
+[23:07:34] BanchoBot: XiaoMyMommy joined in slot 3 for team blue.
+[23:07:43] BanchoBot: XiaoMyMommy moved to slot 8
+[23:08:03] BanchoBot: Light135 joined in slot 3 for team blue.
+[23:08:07] BanchoBot: N7TR0 joined in slot 9 for team blue.
+[23:08:11] BanchoBot: Light135 changed to Red
+[23:08:13] BanchoBot: Countdown ends in 1 minute
+[23:08:42] BanchoBot: Countdown ends in 30 seconds
+[23:08:47] N7TR0: !roll 2
+[23:08:47] BanchoBot: N7TR0 rolls 2 point(s)
+[23:08:52] BanchoBot: N7TR0 left the game.
+[23:08:54] BanchoBot: hrds left the game.
+[23:08:55] Nuage: !roll 1000
+[23:08:55] BanchoBot: Nuage rolls 488 point(s)
+[23:09:02] BanchoBot: Countdown ends in 10 seconds
+[23:09:08] BanchoBot: Countdown ends in 5 seconds
+[23:09:08] BanchoBot: Countdown ends in 4 seconds
+[23:09:09] XiaoMyMommy: !roll fc
+[23:09:09] BanchoBot: XiaoMyMommy rolls 26 point(s)
+[23:09:09] BanchoBot: Countdown ends in 3 seconds
+[23:09:10] BanchoBot: Countdown ends in 2 seconds
+[23:09:11] BanchoBot: Countdown ends in 1 second
+[23:09:13] BanchoBot: Countdown finished
+[23:09:14] Nuage: gl
+[23:09:22] BCraftMG: !mp settings
+[23:09:22] ImaginaryVaxei: nf ?
+[23:09:22] BanchoBot: Room name: 5WC2023: (Russian Federation) vs (France), History: https://osu.ppy.sh/mp/107869566
+[23:09:22] BanchoBot: Beatmap: https://osu.ppy.sh/b/4082580 Sydosys - MALEVOLENT VORTEX
+[23:09:22] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:09:22] BanchoBot: Active mods: Freemod
+[23:09:22] BanchoBot: Players: 8
+[23:09:22] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/7101953 MakiBrony       [Team Red ]
+[23:09:22] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/12483293 ImaginaryVaxei  [Team Red  / NoFail]
+[23:09:22] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/6420308 Light135        [Team Red  / NoFail]
+[23:09:22] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/9027651 kirndy          [Team Red ]
+[23:09:22] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13963691 Drakkles        [Team Blue / NoFail]
+[23:09:22] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Blue / NoFail]
+[23:09:22] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/4784772 Nuage           [Team Blue / NoFail, Hidden]
+[23:09:22] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/11129041 XiaoMyMommy     [Team Blue / NoFail]
+[23:09:23] XiaoMyMommy: gl
+[23:09:30] BCraftMG: Ready up!
+[23:09:31] Drakkles: glhf
+[23:09:37] BCraftMG: And put on NF please
+[23:09:39] XiaoMyMommy: zz
+[23:09:42] MyzeJD: glhf!!:!!!:!
+[23:09:51] ImaginaryVaxei: kirndy nf
+[23:09:59] XiaoMyMommy: z
+[23:10:06] BanchoBot: All players are ready
+[23:10:06] XiaoMyMommy: gl
+[23:10:07] BCraftMG: !mp settings
+[23:10:07] ImaginaryVaxei: ОСУЖДАЮ
+[23:10:09] Nuage: gl
+[23:10:09] BanchoBot: Room name: 5WC2023: (Russian Federation) vs (France), History: https://osu.ppy.sh/mp/107869566
+[23:10:09] BanchoBot: Beatmap: https://osu.ppy.sh/b/4082580 Sydosys - MALEVOLENT VORTEX
+[23:10:09] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:10:09] BanchoBot: Active mods: Freemod
+[23:10:09] BanchoBot: Players: 8
+[23:10:09] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7101953 MakiBrony       [Team Red  / NoFail]
+[23:10:09] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12483293 ImaginaryVaxei  [Team Red  / NoFail]
+[23:10:09] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6420308 Light135        [Team Red  / NoFail]
+[23:10:09] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9027651 kirndy          [Team Red  / NoFail]
+[23:10:09] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13963691 Drakkles        [Team Blue / NoFail]
+[23:10:09] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Blue / NoFail]
+[23:10:09] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/4784772 Nuage           [Team Blue / NoFail, Hidden]
+[23:10:09] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/11129041 XiaoMyMommy     [Team Blue / NoFail]
+[23:10:09] kirndy: GLGL
+[23:10:13] MyzeJD: d-_-b
+[23:10:16] BCraftMG: !mp start 5 glhf
+[23:10:16] BanchoBot: Match starts in 5 seconds
+[23:10:16] BanchoBot: Queued the match to start in 5 seconds
+[23:10:18] BanchoBot: Match starts in 4 seconds
+[23:10:19] BanchoBot: Match starts in 3 seconds
+[23:10:20] BanchoBot: Good luck, have fun!
+[23:10:22] BanchoBot: The match has started!
+[23:16:38] BanchoBot: Nuage finished playing (Score: 189945, PASSED).
+[23:16:38] BanchoBot: Light135 finished playing (Score: 294742, PASSED).
+[23:16:38] BanchoBot: Drakkles finished playing (Score: 292556, PASSED).
+[23:16:38] BanchoBot: MakiBrony finished playing (Score: 213070, PASSED).
+[23:16:39] BanchoBot: XiaoMyMommy finished playing (Score: 267315, PASSED).
+[23:16:39] BanchoBot: kirndy finished playing (Score: 237635, PASSED).
+[23:16:39] BanchoBot: MyzeJD finished playing (Score: 334077, PASSED).
+[23:16:40] BanchoBot: ImaginaryVaxei finished playing (Score: 311643, PASSED).
+[23:16:40] BanchoBot: The match has finished!
+[23:16:48] BCraftMG: Russian Federation | 6 - 7 | France // France wins! GGWP
+[23:16:49] MyzeJD: CZKOFZOKTKOZ
+[23:17:01] BCraftMG: We will have BR in ~10mins
+[23:17:07] BCraftMG: unless yall wannna do it now
+[23:17:20] XiaoMyMommy: GGWP
+[23:17:26] MyzeJD: we need a lil break yh
+[23:17:30] BanchoBot: N7TR0 joined in slot 9 for team blue.
+[23:17:31] BCraftMG: :3c
+[23:17:32] XiaoMyMommy: 10 min pls M. ref
+[23:17:35] BCraftMG: yall can leave now
+[23:17:36] MyzeJD: :3c
+[23:17:39] MyzeJD: o7
+[23:17:41] BCraftMG: we will have a new lobby
+[23:17:42] XiaoMyMommy: o/
+[23:17:42] BanchoBot: MyzeJD left the game.
+[23:17:44] BanchoBot: XiaoMyMommy left the game.
+[23:17:44] N7TR0: you guys are insane
+[23:17:48] BanchoBot: N7TR0 left the game.
+[23:17:48] BanchoBot: MakiBrony left the game.
+[23:18:20] BanchoBot: ImaginaryVaxei left the game.
+[23:18:26] BanchoBot: Drakkles left the game.
+[23:18:32] BanchoBot: Drakkles joined in slot 1 for team blue.
+[23:18:58] BanchoBot: Drakkles left the game.
+[23:22:25] BCraftMG: !mp close
+[23:22:26] BanchoBot: Closed the match

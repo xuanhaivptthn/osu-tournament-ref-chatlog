@@ -1,0 +1,558 @@
+[20:46:19] Joined #mp_101627489
+[20:46:19] BCraftMG: !mp settings
+[20:46:21] BanchoBot: Room name: STT3: (no ideas) vs (YURI ENJOYERS), History: https://osu.ppy.sh/mp/101627489
+[20:46:21] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[20:46:21] BanchoBot: Players: 0
+[20:46:55] BCraftMG: !mp set 2 3 11
+[20:46:57] BanchoBot: Changed match settings to 11 slots, TeamVs, ScoreV2
+[20:47:05] BCraftMG: !mp invite Hanamaru_
+[20:47:06] BanchoBot: Invited Hanamaru_ to the room
+[20:47:08] BCraftMG: !mp invite Zeigler
+[20:47:11] BanchoBot: Invited Zeigler to the room
+[20:47:31] BanchoBot: Hanamaru_ joined in slot 1 for team blue.
+[20:47:47] BCraftMG: !mp host Hanamaru_
+[20:47:49] BanchoBot: Hanamaru_ became the host.
+[20:47:49] BanchoBot: Changed match host to Hanamaru_
+[20:47:52] BanchoBot: Beatmap changed to: DJ YOSHITAKA - FLOWER [Intense] (https://osu.ppy.sh/b/104635)
+[20:48:03] BCraftMG: chua inv team kia dau a
+[20:48:18] BanchoBot: Host is changing map...
+[20:48:18] BanchoBot: Beatmap changed to: DJ YOSHITAKA - FLOWER [Intense] (https://osu.ppy.sh/b/104635)
+[20:49:21] BCraftMG: !mp invite #14860270
+[20:49:23] BanchoBot: Invited Zoleks to the room
+[20:49:26] BCraftMG: !mp invite #14860270
+[20:49:28] BanchoBot: Invited Zoleks to the room
+[20:49:35] BanchoBot: Zoleks joined in slot 2 for team red.
+[20:49:44] Zoleks: o/
+[20:50:13] Zoleks: We're first protecting maps or playing warmups?
+[20:50:28] BanchoBot: Koteykaaa joined in slot 3 for team blue.
+[20:50:31] BanchoBot: Bullet4fun joined in slot 4 for team red.
+[20:50:33] Hanamaru_: yo can i use mania for the warm up
+[20:50:33] BanchoBot: Koteykaaa changed to Red
+[20:50:35] Koteykaaa: o/
+[20:50:38] BanchoBot: Bullet4fun moved to slot 11
+[20:50:47] BCraftMG: warm up first ig
+[20:51:13] BanchoBot: - Nebby - joined in slot 4 for team red.
+[20:51:16] BanchoBot: - Nebby - changed to Blue
+[20:51:18] Bullet4fun: :face_with_raised_eyebrow:
+[20:51:20] BanchoBot: - Nebby - moved to slot 5
+[20:51:22] BanchoBot: Romcom Enjoyer joined in slot 4 for team red.
+[20:51:31] Hanamaru_: can we do mania :bbb
+[20:51:49] BanchoBot: Paracat joined in slot 6 for team red.
+[20:51:49] Hanamaru_: just for the warm up :bbb
+[20:51:53] Bullet4fun: Maybe ctb?
+[20:51:56] Bullet4fun: :tf:
+[20:52:04] BCraftMG: play taiko
+[20:52:32] BanchoBot: Host is changing map...
+[20:52:43] BanchoBot: Beatmap changed to: Akira Complex - Ether Strike ('Divine Mercy' Extended) [insane] (https://osu.ppy.sh/b/2603935)
+[20:52:56] Hanamaru_: ;bbb
+[20:53:14] BanchoBot: Paracat moved to slot 9
+[20:53:21] BanchoBot: Romcom Enjoyer changed to Blue
+[20:53:22] BCraftMG: must be 3:30 in drain time or less after mods are applied.
+[20:53:24] BCraftMG: hm
+[20:53:25] Zoleks: I think warmups should't be longer than 4 mins
+[20:53:30] BanchoBot: Host is changing map...
+[20:53:32] BanchoBot: Beatmap changed to: Akira Complex - Ether Strike ('Divine Mercy' Extended) [insane] (https://osu.ppy.sh/b/2603935)
+[20:53:39] BanchoBot: Host is changing map...
+[20:53:39] BCraftMG: Warmups must be between 4.0 and 7.0 stars and must be 3:30 in drain time or less after mods are applied. A warmup map cannot be from the current week's pool.
+[20:53:57] Zoleks: Lol what
+[20:53:59] BanchoBot: Beatmap changed to: Maozon - Stasis [Master] (https://osu.ppy.sh/b/1699713)
+[20:54:11] BanchoBot: Paracat left the game.
+[20:54:32] BCraftMG: :stare:
+[20:54:36] Zoleks: Starrate limit on warmups O_o
+[20:54:39] BCraftMG: !mp settings
+[20:54:40] BanchoBot: Room name: STT3: (no ideas) vs (YURI ENJOYERS), History: https://osu.ppy.sh/mp/101627489
+[20:54:40] BanchoBot: Beatmap: https://osu.ppy.sh/b/1699713 Maozon - Stasis [Master]
+[20:54:40] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:54:40] BanchoBot: Players: 6
+[20:54:40] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/13004516 Hanamaru_       [Host / Team Blue]
+[20:54:40] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/14860270 Zoleks          [Team Red ]
+[20:54:40] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/7804244 Koteykaaa       [Team Red ]
+[20:54:40] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16587033 Romcom Enjoyer  [Team Blue]
+[20:54:40] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/10635981 - Nebby -       [Team Blue]
+[20:54:40] BanchoBot: Slot 11 No Map    https://osu.ppy.sh/u/10113201 Bullet4fun      [Team Red ]
+[20:54:42] -_Nebby_-: o_O
+[20:54:51] Romcom_Enjoyer: 4*
+[20:55:02] Romcom_Enjoyer: thats enough right? :trol:
+[20:55:12] Romcom_Enjoyer: legit trolling
+[20:55:12] BCraftMG: technically yes
+[20:55:15] BCraftMG: based on web
+[20:55:16] Bullet4fun: Mania in std tournament on warmups o_O
+[20:55:23] Hanamaru_: o_O
+[20:55:34] -_Nebby_-: we do a little bit trolling
+[20:55:34] BanchoBot: All players are ready
+[20:55:38] Romcom_Enjoyer: gg
+[20:55:43] Romcom_Enjoyer: glhf
+[20:55:43] BanchoBot: The match has started!
+[20:56:15] BanchoBot: Bullet4fun finished playing (Score: 34316, FAILED).
+[20:56:15] BanchoBot: Koteykaaa finished playing (Score: 18441, FAILED).
+[20:56:15] BanchoBot: Hanamaru_ finished playing (Score: 73682, PASSED).
+[20:56:15] BanchoBot: Romcom Enjoyer finished playing (Score: 46104, FAILED).
+[20:56:15] BanchoBot: - Nebby - finished playing (Score: 121264, PASSED).
+[20:56:15] BanchoBot: - Nebby - finished playing (Score: 121264, PASSED).
+[20:56:15] BanchoBot: Zoleks finished playing (Score: 20020, FAILED).
+[20:56:15] BanchoBot: The match has finished!
+[20:56:24] Bullet4fun: GG
+[20:56:24] Zoleks: xd
+[20:56:29] Hanamaru_: GG
+[20:56:29] Bullet4fun: Time to play next map
+[20:56:29] Koteykaaa: nice map
+[20:56:31] Zoleks: Well played
+[20:56:35] BCraftMG: momento
+[20:56:38] BanchoBot: Zoleks became the host.
+[20:56:40] BanchoBot: Host is changing map...
+[20:56:49] BCraftMG: !mp mods freemod
+[20:56:51] BanchoBot: Disabled all mods, enabled FreeMod
+[20:57:31] BanchoBot: Beatmap changed to: tsunamix_underground - Period. ~ Seishin no Kousoku to Jiyuu o Tsukamu Jouka (Cut Ver.) [Extra Stage] (https://osu.ppy.sh/b/3561488)
+[20:58:19] BCraftMG: you can start when everyone is ready ^^
+[20:58:34] BanchoBot: All players are ready
+[20:58:37] BanchoBot: The match has started!
+[21:00:39] BanchoBot: Hanamaru_ finished playing (Score: 149494, PASSED).
+[21:00:39] BanchoBot: Koteykaaa finished playing (Score: 296361, PASSED).
+[21:00:39] BanchoBot: - Nebby - finished playing (Score: 185655, PASSED).
+[21:00:39] BanchoBot: Bullet4fun finished playing (Score: 117671, FAILED).
+[21:00:39] BanchoBot: Zoleks finished playing (Score: 166965, PASSED).
+[21:00:41] BanchoBot: Romcom Enjoyer finished playing (Score: 241581, PASSED).
+[21:00:41] BanchoBot: The match has finished!
+[21:00:42] BCraftMG: !mp clearhost
+[21:00:43] BanchoBot: Cleared match host
+[21:00:45] BCraftMG: First, both captains please !roll for protect order, whoever win get to protect first
+[21:01:03] Zoleks: !roll
+[21:01:03] BanchoBot: Zoleks rolls 100 point(s)
+[21:01:08] Hanamaru_: ?
+[21:01:08] BCraftMG: gg
+[21:01:10] Romcom_Enjoyer: ?
+[21:01:12] Bullet4fun: ??????????
+[21:01:12] Romcom_Enjoyer: rigged
+[21:01:19] Hanamaru_: ALLAH
+[21:01:24] BCraftMG: now you will lose picks and ban order
+[21:01:26] Hanamaru_: !roll
+[21:01:26] BanchoBot: Hanamaru_ rolls 27 point(s)
+[21:01:30] -_Nebby_-: ALLAH
+[21:01:33] Romcom_Enjoyer: nt
+[21:01:35] Romcom_Enjoyer: close
+[21:01:44] Bullet4fun: Really close
+[21:01:46] Bullet4fun: :tf:
+[21:01:48] Romcom_Enjoyer: sadge
+[21:01:50] Zoleks: Protect: HD2
+[21:01:53] Romcom_Enjoyer: so close :skull:
+[21:02:18] BCraftMG: YURI ENJOYERS, protect please
+[21:02:20] BCraftMG: !mp timer 120
+[21:02:22] BanchoBot: Countdown ends in 2 minutes
+[21:02:31] BanchoBot: Paracat joined in slot 6 for team red.
+[21:02:31] -_Nebby_-: protect Seele Vollerei
+[21:02:58] Hanamaru_: protect dt2
+[21:03:14] BCraftMG: Next please !roll for ban or picks order
+[21:03:22] Zoleks: !roll
+[21:03:22] BanchoBot: Zoleks rolls 62 point(s)
+[21:03:22] BanchoBot: Countdown ends in 1 minute
+[21:03:27] Zoleks: Not bad
+[21:03:28] BCraftMG: !mp aborttimer
+[21:03:29] BanchoBot: Countdown aborted
+[21:03:31] Hanamaru_: !roll
+[21:03:31] BanchoBot: Hanamaru_ rolls 100 point(s)
+[21:03:31] Romcom_Enjoyer: BLESSRNG
+[21:03:36] Koteykaaa: XD
+[21:03:38] -_Nebby_-: ALLAH
+[21:03:38] Bullet4fun: :KIUJADHFLJKASGHFJKL:AHFAJKS:DF
+[21:03:38] BCraftMG: nice
+[21:03:40] Hanamaru_: SHEEEESHH'
+[21:03:40] Paracat: what
+[21:03:43] Romcom_Enjoyer: ALLAH
+[21:03:49] BCraftMG: YURI ENJOYERS, please choose the pick or ban order
+[21:03:54] BanchoBot: - Nebby - left the game.
+[21:03:58] Hanamaru_: pick
+[21:04:09] BanchoBot: Paracat left the game.
+[21:04:15] BCraftMG: pick order please
+[21:04:25] BCraftMG: do you want to pick first or second
+[21:04:34] Hanamaru_: pick first
+[21:04:37] BCraftMG: no ideas, please choose the ban order
+[21:04:48] Zoleks: 1st
+[21:04:50] Zoleks: NM3
+[21:04:57] BCraftMG: YURI ENJOYERS, your ban please
+[21:05:01] Romcom_Enjoyer: NICE
+[21:05:03] Romcom_Enjoyer: LETSGO
+[21:05:03] Romcom_Enjoyer: AIKLjsdankl;ADNKL:msasd
+[21:05:15] BCraftMG: !mp timer 120
+[21:05:17] BanchoBot: Countdown ends in 2 minutes
+[21:05:19] Bullet4fun: Fuсk nm3
+[21:05:24] Bullet4fun: :middle_finger:
+[21:05:26] Hanamaru_: nm4
+[21:05:30] Zoleks: All my teammates hate NM3
+[21:05:36] BCraftMG: no ideas | 0 - 0 | YURI ENJOYERS // First Pick: YURI ENJOYERS
+[21:05:38] BCraftMG: !mp timer 120
+[21:05:39] BanchoBot: Countdown aborted
+[21:05:39] BanchoBot: Countdown ends in 2 minutes
+[21:05:46] Hanamaru_: nm1
+[21:05:52] BCraftMG: !mp map 3137688 0
+[21:05:53] BanchoBot: Paracat joined in slot 5 for team blue.
+[21:05:53] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3137688 JIN - Additional Memory
+[21:05:53] BanchoBot: Changed match mode to Osu
+[21:05:53] BCraftMG: !mp mods 1
+[21:05:55] BCraftMG: !mp timer 120
+[21:05:55] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:05:57] BanchoBot: Countdown aborted
+[21:05:57] BanchoBot: Countdown ends in 2 minutes
+[21:06:00] Zoleks: !!! NM1 ALERT !!!
+[21:06:02] BanchoBot: Bullet4fun left the game.
+[21:06:02] BanchoBot: Paracat changed to Red
+[21:06:04] BanchoBot: Paracat moved to slot 7
+[21:06:08] BanchoBot: - Nebby - joined in slot 5 for team blue.
+[21:06:09] Romcom_Enjoyer: CatJam
+[21:06:15] Hanamaru_: BANGER
+[21:06:20] BanchoBot: - Nebby - moved to slot 6
+[21:06:29] Romcom_Enjoyer: lyrics tho
+[21:06:33] BanchoBot: Hanamaru_ moved to slot 5
+[21:06:36] BanchoBot: Hanamaru_ moved to slot 1
+[21:06:38] BanchoBot: Zoleks moved to slot 5
+[21:06:40] Romcom_Enjoyer: :clueless:
+[21:06:44] BanchoBot: Hanamaru_ moved to slot 2
+[21:06:47] BanchoBot: Zoleks moved to slot 1
+[21:06:51] BanchoBot: Paracat moved to slot 5
+[21:06:58] BanchoBot: Countdown ends in 1 minute
+[21:07:00] BCraftMG: o wait, no ideas is red; YURI ENJOYERS is blue please
+[21:07:09] BanchoBot: - Nebby - left the game.
+[21:07:14] BanchoBot: Zeigler joined in slot 6 for team red.
+[21:07:22] BanchoBot: Zeigler changed to Blue
+[21:07:25] Paracat: well we are red
+[21:07:27] BanchoBot: Hanamaru_ moved to slot 8
+[21:07:27] BanchoBot: Zeigler moved to slot 7
+[21:07:27] BanchoBot: Paracat moved to slot 2
+[21:07:29] BanchoBot: Countdown ends in 30 seconds
+[21:07:29] BanchoBot: Romcom Enjoyer moved to slot 11
+[21:07:29] BanchoBot: Zeigler moved to slot 5
+[21:07:31] BanchoBot: Romcom Enjoyer moved to slot 9
+[21:07:33] BanchoBot: Zeigler moved to slot 7
+[21:07:36] BanchoBot: Hanamaru_ moved to slot 5
+[21:07:36] BanchoBot: Romcom Enjoyer moved to slot 11
+[21:07:38] BanchoBot: Zeigler moved to slot 4
+[21:07:38] BanchoBot: Hanamaru_ moved to slot 10
+[21:07:40] BanchoBot: Hanamaru_ moved to slot 8
+[21:07:45] BanchoBot: Hanamaru_ moved to slot 10
+[21:07:45] BanchoBot: Zeigler moved to slot 9
+[21:07:49] BanchoBot: Countdown ends in 10 seconds
+[21:07:54] BanchoBot: Countdown ends in 5 seconds
+[21:07:54] Romcom_Enjoyer: GOLF!
+[21:07:54] BanchoBot: Countdown ends in 4 seconds
+[21:07:54] Zeigler: gl
+[21:07:56] BanchoBot: Countdown ends in 3 seconds
+[21:07:56] BanchoBot: Countdown ends in 2 seconds
+[21:07:56] Zoleks: пдра
+[21:07:58] BanchoBot: Countdown ends in 1 second
+[21:07:58] Zoleks: glhf
+[21:07:58] BanchoBot: Countdown finished
+[21:07:58] Koteykaaa: hfhf
+[21:07:59] BCraftMG: !mp settings
+[21:08:00] BanchoBot: Room name: STT3: (no ideas) vs (YURI ENJOYERS), History: https://osu.ppy.sh/mp/101627489
+[21:08:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/3137688 JIN - Additional Memory
+[21:08:00] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:08:00] BanchoBot: Active mods: NoFail
+[21:08:00] BanchoBot: Players: 6
+[21:08:00] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14860270 Zoleks          [Team Red ]
+[21:08:00] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13709281 Paracat         [Team Red ]
+[21:08:00] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7804244 Koteykaaa       [Team Red ]
+[21:08:00] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/14047619 Zeigler         [Team Blue]
+[21:08:00] BanchoBot: Slot 10 Not Ready https://osu.ppy.sh/u/13004516 Hanamaru_       [Team Blue]
+[21:08:00] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/16587033 Romcom Enjoyer  [Team Blue]
+[21:08:03] BanchoBot: All players are ready
+[21:08:05] BCraftMG: !mp settings
+[21:08:07] BanchoBot: Room name: STT3: (no ideas) vs (YURI ENJOYERS), History: https://osu.ppy.sh/mp/101627489
+[21:08:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/3137688 JIN - Additional Memory
+[21:08:07] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:08:07] BanchoBot: Active mods: NoFail
+[21:08:07] BanchoBot: Players: 6
+[21:08:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14860270 Zoleks          [Team Red ]
+[21:08:07] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13709281 Paracat         [Team Red ]
+[21:08:07] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7804244 Koteykaaa       [Team Red ]
+[21:08:07] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/14047619 Zeigler         [Team Blue]
+[21:08:07] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13004516 Hanamaru_       [Team Blue]
+[21:08:07] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/16587033 Romcom Enjoyer  [Team Blue]
+[21:08:08] BCraftMG: !mp start 10
+[21:08:09] BanchoBot: Match starts in 10 seconds
+[21:08:09] BanchoBot: Queued the match to start in 10 seconds
+[21:08:16] BanchoBot: Match starts in 5 seconds
+[21:08:16] BanchoBot: Match starts in 4 seconds
+[21:08:18] BanchoBot: Match starts in 3 seconds
+[21:08:18] BanchoBot: Good luck, have fun!
+[21:08:20] BanchoBot: The match has started!
+[21:08:20] Zoleks: Давайте ток не сосать
+[21:08:54] Zoleks: I need to restart game
+[21:08:58] BCraftMG: um
+[21:09:01] Zoleks: Abort pls
+[21:09:02] BCraftMG: !mp abort
+[21:09:03] BanchoBot: Aborted the match
+[21:09:07] BanchoBot: Zoleks left the game.
+[21:09:11] BCraftMG: !mp timer 120
+[21:09:12] BanchoBot: Countdown ends in 2 minutes
+[21:09:21] Hanamaru_: THANG R YEHHH
+[21:09:28] Romcom_Enjoyer: SKULL
+[21:09:34] BanchoBot: Zeigler moved to slot 5
+[21:09:37] BanchoBot: Zeigler moved to slot 9
+[21:09:41] BanchoBot: Zoleks joined in slot 1 for team blue.
+[21:09:43] BanchoBot: Zeigler moved to slot 5
+[21:09:45] BanchoBot: Zeigler moved to slot 9
+[21:09:45] BanchoBot: Zoleks changed to Red
+[21:09:49] BCraftMG: are we good now?
+[21:09:57] Zoleks: I think
+[21:10:01] BCraftMG: ready up please
+[21:10:12] Zoleks: After restart it always works again
+[21:10:12] BanchoBot: Countdown ends in 1 minute
+[21:10:15] BanchoBot: All players are ready
+[21:10:17] BCraftMG: !mp settings
+[21:10:19] Zoleks: glhf x2
+[21:10:19] BanchoBot: Room name: STT3: (no ideas) vs (YURI ENJOYERS), History: https://osu.ppy.sh/mp/101627489
+[21:10:19] BanchoBot: Beatmap: https://osu.ppy.sh/b/3137688 JIN - Additional Memory
+[21:10:19] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:10:19] BanchoBot: Active mods: NoFail
+[21:10:19] BanchoBot: Players: 6
+[21:10:19] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14860270 Zoleks          [Team Red ]
+[21:10:19] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13709281 Paracat         [Team Red ]
+[21:10:19] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7804244 Koteykaaa       [Team Red ]
+[21:10:19] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/14047619 Zeigler         [Team Blue]
+[21:10:19] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13004516 Hanamaru_       [Team Blue]
+[21:10:19] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/16587033 Romcom Enjoyer  [Team Blue]
+[21:10:20] BCraftMG: !mp start 10
+[21:10:21] BanchoBot: Countdown aborted
+[21:10:21] BanchoBot: Match starts in 10 seconds
+[21:10:21] BanchoBot: Queued the match to start in 10 seconds
+[21:10:27] BanchoBot: Match starts in 5 seconds
+[21:10:28] BanchoBot: Match starts in 4 seconds
+[21:10:28] BanchoBot: Match starts in 3 seconds
+[21:10:31] BanchoBot: Good luck, have fun!
+[21:10:33] BanchoBot: The match has started!
+[21:13:59] BanchoBot: Hanamaru_ finished playing (Score: 600738, PASSED).
+[21:13:59] BanchoBot: Koteykaaa finished playing (Score: 500922, PASSED).
+[21:14:01] BanchoBot: Zeigler finished playing (Score: 416681, PASSED).
+[21:14:01] BanchoBot: Zoleks finished playing (Score: 942900, PASSED).
+[21:14:01] BanchoBot: Romcom Enjoyer finished playing (Score: 831660, PASSED).
+[21:14:01] BanchoBot: Paracat finished playing (Score: 523149, PASSED).
+[21:14:01] BanchoBot: The match has finished!
+[21:14:08] BanchoBot: Bullet4fun joined in slot 4 for team red.
+[21:14:17] BCraftMG: no ideas | 1 - 0 | YURI ENJOYERS // Next Pick: no ideas
+[21:14:19] BCraftMG: !mp timer 120
+[21:14:21] BanchoBot: Countdown ends in 2 minutes
+[21:14:24] Zoleks: Combogaming xD
+[21:15:22] BanchoBot: Countdown ends in 1 minute
+[21:15:29] Zoleks: HD2
+[21:15:34] BanchoBot: Bullet4fun left the game.
+[21:15:34] BanchoBot: Hanamaru_ left the game.
+[21:15:36] BCraftMG: !mp map 1236720 0
+[21:15:38] BCraftMG: !mp mods 9
+[21:15:38] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1236720 Sota Fujimori - polygon
+[21:15:38] BanchoBot: Changed match mode to Osu
+[21:15:39] BCraftMG: !Mp timer 120
+[21:15:40] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:15:43] BanchoBot: Countdown aborted
+[21:15:43] BanchoBot: Countdown ends in 2 minutes
+[21:16:12] BanchoBot: - Nebby - joined in slot 4 for team red.
+[21:16:16] BanchoBot: - Nebby - changed to Blue
+[21:16:18] BanchoBot: - Nebby - moved to slot 10
+[21:16:44] BanchoBot: Countdown ends in 1 minute
+[21:16:50] BanchoBot: All players are ready
+[21:16:52] Zoleks: glhf
+[21:16:55] Koteykaaa: hfhf
+[21:16:56] BCraftMG: !mp settings
+[21:16:57] BanchoBot: Room name: STT3: (no ideas) vs (YURI ENJOYERS), History: https://osu.ppy.sh/mp/101627489
+[21:16:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/1236720 Sota Fujimori - polygon
+[21:16:57] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:16:57] BanchoBot: Active mods: NoFail, Hidden
+[21:16:57] BanchoBot: Players: 6
+[21:16:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14860270 Zoleks          [Team Red ]
+[21:16:57] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13709281 Paracat         [Team Red ]
+[21:16:57] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7804244 Koteykaaa       [Team Red ]
+[21:16:57] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/14047619 Zeigler         [Team Blue]
+[21:16:57] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/10635981 - Nebby -       [Team Blue]
+[21:16:57] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/16587033 Romcom Enjoyer  [Team Blue]
+[21:16:59] BCraftMG: !mp start 10
+[21:16:59] Romcom_Enjoyer: GOLF
+[21:17:01] -_Nebby_-: glhf
+[21:17:01] BanchoBot: Countdown aborted
+[21:17:01] BanchoBot: Match starts in 10 seconds
+[21:17:01] BanchoBot: Queued the match to start in 10 seconds
+[21:17:08] BanchoBot: Match starts in 5 seconds
+[21:17:08] BanchoBot: Match starts in 4 seconds
+[21:17:10] BanchoBot: Match starts in 3 seconds
+[21:17:10] BanchoBot: Good luck, have fun!
+[21:17:13] BanchoBot: The match has started!
+[21:19:16] BanchoBot: Koteykaaa finished playing (Score: 661153, PASSED).
+[21:19:16] BanchoBot: - Nebby - finished playing (Score: 502360, PASSED).
+[21:19:16] BanchoBot: Romcom Enjoyer finished playing (Score: 283515, PASSED).
+[21:19:16] BanchoBot: Zoleks finished playing (Score: 484807, PASSED).
+[21:19:16] BanchoBot: Paracat finished playing (Score: 994696, PASSED).
+[21:19:18] BanchoBot: Zeigler finished playing (Score: 181045, PASSED).
+[21:19:18] BanchoBot: The match has finished!
+[21:19:22] BanchoBot: Bullet4fun joined in slot 4 for team red.
+[21:19:29] BCraftMG: no ideas | 2 - 0 | YURI ENJOYERS // Next Pick: YURI ENJOYERS
+[21:19:31] BCraftMG: !mp timer 120
+[21:19:33] BanchoBot: Countdown ends in 2 minutes
+[21:19:38] Bullet4fun: What's bo?
+[21:19:43] BCraftMG: bo9
+[21:19:54] Bullet4fun: Ok ty
+[21:19:58] BanchoBot: Zeigler left the game.
+[21:20:00] BanchoBot: Hanamaru_ joined in slot 5 for team blue.
+[21:20:09] Hanamaru_: hr1
+[21:20:14] BanchoBot: Hanamaru_ moved to slot 9
+[21:20:14] BanchoBot: Koteykaaa left the game.
+[21:20:18] BanchoBot: Bullet4fun moved to slot 3
+[21:20:20] BCraftMG: !mp map 1573242 0
+[21:20:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1573242 Dreamcatcher - Full Moon
+[21:20:21] BanchoBot: Changed match mode to Osu
+[21:20:22] BCraftMG: !mp mods 17
+[21:20:23] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[21:20:23] BCraftMG: !mp timer 120
+[21:20:25] BanchoBot: Countdown aborted
+[21:20:25] BanchoBot: Countdown ends in 2 minutes
+[21:21:26] BanchoBot: Countdown ends in 1 minute
+[21:21:40] BanchoBot: All players are ready
+[21:21:42] BCraftMG: !mp settings
+[21:21:44] Romcom_Enjoyer: glhf
+[21:21:44] BanchoBot: Room name: STT3: (no ideas) vs (YURI ENJOYERS), History: https://osu.ppy.sh/mp/101627489
+[21:21:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/1573242 Dreamcatcher - Full Moon
+[21:21:44] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:21:44] BanchoBot: Active mods: NoFail, HardRock
+[21:21:44] BanchoBot: Players: 6
+[21:21:44] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14860270 Zoleks          [Team Red ]
+[21:21:44] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13709281 Paracat         [Team Red ]
+[21:21:44] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10113201 Bullet4fun      [Team Red ]
+[21:21:44] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/13004516 Hanamaru_       [Team Blue]
+[21:21:44] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/10635981 - Nebby -       [Team Blue]
+[21:21:44] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/16587033 Romcom Enjoyer  [Team Blue]
+[21:21:47] BCraftMG: !mp start 10
+[21:21:49] BanchoBot: Countdown aborted
+[21:21:49] BanchoBot: Match starts in 10 seconds
+[21:21:49] BanchoBot: Queued the match to start in 10 seconds
+[21:21:53] -_Nebby_-: gl di ia
+[21:21:53] Bullet4fun: hfhf
+[21:21:56] BanchoBot: Match starts in 5 seconds
+[21:21:56] BanchoBot: Match starts in 4 seconds
+[21:21:58] BanchoBot: Match starts in 3 seconds
+[21:21:58] BanchoBot: Good luck, have fun!
+[21:22:00] Zoleks: glhf
+[21:22:00] BanchoBot: The match has started!
+[21:25:15] BanchoBot: Zoleks finished playing (Score: 939208, PASSED).
+[21:25:15] BanchoBot: - Nebby - finished playing (Score: 550157, PASSED).
+[21:25:15] BanchoBot: Hanamaru_ finished playing (Score: 977653, PASSED).
+[21:25:15] BanchoBot: Paracat finished playing (Score: 685316, PASSED).
+[21:25:15] BanchoBot: Bullet4fun finished playing (Score: 354099, PASSED).
+[21:25:17] BanchoBot: Romcom Enjoyer finished playing (Score: 394842, PASSED).
+[21:25:17] BanchoBot: The match has finished!
+[21:25:37] Zoleks: Nice fc hanamaru_
+[21:25:41] BCraftMG: no ideas | 3 - 0 | YURI ENJOYERS // Next Pick: no ideas
+[21:25:46] BCraftMG: wait
+[21:25:48] BCraftMG: troll
+[21:25:51] Zoleks: NM2
+[21:25:53] Hanamaru_: thanks man
+[21:25:58] BanchoBot: Hanamaru_ left the game.
+[21:26:02] BCraftMG: !mp map 2680344 0
+[21:26:04] BCraftMG: !mp mods 1
+[21:26:05] BanchoBot: Zeigler joined in slot 4 for team red.
+[21:26:05] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2680344 AVTechNO! - boku-boku SuketchP Remix
+[21:26:05] BanchoBot: Changed match mode to Osu
+[21:26:05] BCraftMG: !mp timer 120
+[21:26:07] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:26:09] BanchoBot: Countdown ends in 2 minutes
+[21:26:16] BanchoBot: Zeigler moved to slot 9
+[21:26:18] BanchoBot: Zeigler changed to Blue
+[21:27:08] Romcom_Enjoyer: glhf
+[21:27:11] BanchoBot: Countdown ends in 1 minute
+[21:27:24] BanchoBot: All players are ready
+[21:27:26] BCraftMG: !mp settings
+[21:27:29] BanchoBot: Room name: STT3: (no ideas) vs (YURI ENJOYERS), History: https://osu.ppy.sh/mp/101627489
+[21:27:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/2680344 AVTechNO! - boku-boku SuketchP Remix
+[21:27:29] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:27:29] BanchoBot: Active mods: NoFail
+[21:27:29] BanchoBot: Players: 6
+[21:27:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14860270 Zoleks          [Team Red ]
+[21:27:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13709281 Paracat         [Team Red ]
+[21:27:29] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10113201 Bullet4fun      [Team Red ]
+[21:27:29] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/14047619 Zeigler         [Team Blue]
+[21:27:29] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/10635981 - Nebby -       [Team Blue]
+[21:27:29] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/16587033 Romcom Enjoyer  [Team Blue]
+[21:27:32] BCraftMG: !mp start 10
+[21:27:33] BanchoBot: Countdown aborted
+[21:27:33] BanchoBot: Match starts in 10 seconds
+[21:27:33] BanchoBot: Queued the match to start in 10 seconds
+[21:27:40] BanchoBot: Match starts in 5 seconds
+[21:27:40] BanchoBot: Match starts in 4 seconds
+[21:27:42] BanchoBot: Match starts in 3 seconds
+[21:27:42] BanchoBot: Good luck, have fun!
+[21:27:44] BanchoBot: The match has started!
+[21:27:49] Zoleks: glhf
+[21:30:02] BanchoBot: Romcom Enjoyer finished playing (Score: 797833, PASSED).
+[21:30:05] BanchoBot: Zoleks finished playing (Score: 969934, PASSED).
+[21:30:05] BanchoBot: Zeigler finished playing (Score: 913918, PASSED).
+[21:30:05] BanchoBot: Paracat finished playing (Score: 952404, PASSED).
+[21:30:05] BanchoBot: - Nebby - finished playing (Score: 243068, PASSED).
+[21:30:07] BanchoBot: Bullet4fun finished playing (Score: 986464, PASSED).
+[21:30:07] BanchoBot: The match has finished!
+[21:30:16] BCraftMG: no ideas | 4 - 0 | YURI ENJOYERS // Next Pick: YURI ENJOYERS
+[21:30:19] BCraftMG: !mp timer 120
+[21:30:21] BanchoBot: Countdown ends in 2 minutes
+[21:31:06] BanchoBot: Hanamaru_ joined in slot 4 for team red.
+[21:31:18] BanchoBot: Hanamaru_ moved to slot 8
+[21:31:20] BanchoBot: Hanamaru_ changed to Blue
+[21:31:22] BanchoBot: Countdown ends in 1 minute
+[21:31:33] Hanamaru_: DT2
+[21:31:42] BCraftMG: !mp map 33401180
+[21:31:45] BCraftMG: !mp map 3340118 0
+[21:31:47] BanchoBot: Koteykaaa joined in slot 4 for team red.
+[21:31:47] BanchoBot: Invalid map ID provided
+[21:31:49] BCraftMG: !mp mods 65
+[21:31:49] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3340118 Cres. - One night in a harem
+[21:31:49] BanchoBot: Changed match mode to Osu
+[21:31:50] BCraftMG: !Mp timer 120
+[21:31:51] BanchoBot: Countdown ends in 30 seconds
+[21:31:51] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:31:54] BanchoBot: Countdown aborted
+[21:31:54] BanchoBot: Countdown ends in 2 minutes
+[21:32:00] BanchoBot: Hanamaru_ left the game.
+[21:32:05] BanchoBot: Koteykaaa left the game.
+[21:32:30] BanchoBot: All players are ready
+[21:32:34] BCraftMG: !mp settings
+[21:32:37] BanchoBot: Room name: STT3: (no ideas) vs (YURI ENJOYERS), History: https://osu.ppy.sh/mp/101627489
+[21:32:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/3340118 Cres. - One night in a harem
+[21:32:37] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:32:37] BanchoBot: Active mods: NoFail, DoubleTime
+[21:32:37] BanchoBot: Players: 6
+[21:32:37] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14860270 Zoleks          [Team Red ]
+[21:32:37] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13709281 Paracat         [Team Red ]
+[21:32:37] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10113201 Bullet4fun      [Team Red ]
+[21:32:37] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/14047619 Zeigler         [Team Blue]
+[21:32:37] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/10635981 - Nebby -       [Team Blue]
+[21:32:37] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/16587033 Romcom Enjoyer  [Team Blue]
+[21:32:39] BCraftMG: !mp start 10
+[21:32:39] BanchoBot: Countdown aborted
+[21:32:39] BanchoBot: Match starts in 10 seconds
+[21:32:39] BanchoBot: Queued the match to start in 10 seconds
+[21:32:41] BCraftMG: glg
+[21:32:43] BCraftMG: glgl
+[21:32:43] Romcom_Enjoyer: glhf!
+[21:32:46] BanchoBot: Match starts in 5 seconds
+[21:32:46] BanchoBot: Match starts in 4 seconds
+[21:32:48] BanchoBot: Match starts in 3 seconds
+[21:32:48] Zoleks: glhf
+[21:32:48] BanchoBot: Good luck, have fun!
+[21:32:48] Zeigler: gl
+[21:32:51] BanchoBot: The match has started!
+[21:34:26] BanchoBot: Zeigler finished playing (Score: 237859, PASSED).
+[21:34:26] BanchoBot: Bullet4fun finished playing (Score: 1098054, PASSED).
+[21:34:26] BanchoBot: Zoleks finished playing (Score: 1032045, PASSED).
+[21:34:26] BanchoBot: Romcom Enjoyer finished playing (Score: 1089321, PASSED).
+[21:34:26] BanchoBot: - Nebby - finished playing (Score: 430184, PASSED).
+[21:34:28] BanchoBot: Paracat finished playing (Score: 952404, PASSED).
+[21:34:28] BanchoBot: The match has finished!
+[21:34:35] BCraftMG: Congrats to no ideas for winning the match! GGWP both teams!
+[21:34:44] BanchoBot: Paracat left the game.
+[21:34:46] Zeigler: gg
+[21:34:49] BanchoBot: Romcom Enjoyer left the game.
+[21:34:49] Bullet4fun: gg
+[21:34:51] Zoleks: GG
+[21:34:54] BanchoBot: - Nebby - left the game.
+[21:34:56] Bullet4fun: Thx for game and ref
+[21:34:58] BanchoBot: Zeigler left the game.
+[21:34:58] Zoleks: Thanks for ref
+[21:35:01] Bullet4fun: GL in LB, dudes o/
+[21:35:03] BanchoBot: Bullet4fun left the game.
+[21:35:03] Zoleks: Bye bye~
+[21:35:05] BanchoBot: Zoleks left the game.
+[21:35:09] BCraftMG: !mp close
+[21:35:10] BanchoBot: Closed the match

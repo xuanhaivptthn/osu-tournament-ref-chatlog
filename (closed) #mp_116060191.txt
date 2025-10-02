@@ -1,0 +1,634 @@
+[23:50:22] Joined #mp_116060191
+[23:50:22] BCraftMG: !mp settings
+[23:50:24] BanchoBot: Room name: s!CL F24: (University of Santo Tomas A) vs (University of Waterloo C), History: https://osu.ppy.sh/mp/116060191
+[23:50:24] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[23:50:24] BanchoBot: Players: 0
+[23:50:31] BCraftMG: !mp addref Aquiii
+[23:50:32] BanchoBot: Added Aquiii to the match referees
+[23:50:35] BCraftMG: !mp mods Freemod
+[23:50:35] BanchoBot: Disabled all mods, enabled FreeMod
+[23:50:41] BCraftMG: !mp map 3311309
+[23:50:42] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3311309 KINEMA106 - N.M.W
+[23:52:03] BCraftMG: !mp invite #10888411
+[23:52:03] BanchoBot: Invited Setsoku to the room
+[23:52:04] BCraftMG: !mp invite #12055633
+[23:52:06] BanchoBot: Invited T1 Minji to the room
+[23:52:13] BanchoBot: Setsoku joined in slot 1.
+[23:52:25] BanchoBot: T1 Minji joined in slot 2.
+[23:52:27] BCraftMG: !mp set 2 3 6
+[23:52:28] BanchoBot: Changed match settings to 6 slots, TeamVs, ScoreV2
+[23:52:30] BCraftMG: woah
+[23:52:31] BCraftMG: !mp settings
+[23:52:32] BanchoBot: Room name: s!CL F24: (University of Santo Tomas A) vs (University of Waterloo C), History: https://osu.ppy.sh/mp/116060191
+[23:52:32] BanchoBot: Beatmap: https://osu.ppy.sh/b/3311309 KINEMA106 - N.M.W
+[23:52:32] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:52:32] BanchoBot: Active mods: Freemod
+[23:52:32] BanchoBot: Players: 2
+[23:52:32] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/10888411 Setsoku         [Team Blue]
+[23:52:32] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/12055633 T1 Minji        [Team Red ]
+[23:52:42] T1_Minji: hellosu
+[23:52:43] BCraftMG: University of Santo Tomas A: red team and slots 1-2 // University of Waterloo C: blue team and slots 3-4
+[23:52:43] BanchoBot: Dunn joined in slot 3 for team blue.
+[23:52:45] T1_Minji: byesu
+[23:52:48] BanchoBot: T1 Minji moved to slot 4
+[23:52:49] BanchoBot: T1 Minji left the game.
+[23:52:51] BCraftMG: this is red's warmup
+[23:52:52] BanchoBot: Setsoku changed to Red
+[23:52:56] BanchoBot: chocomacha joined in slot 2 for team red.
+[23:53:02] BanchoBot: chocomacha moved to slot 5
+[23:53:02] BanchoBot: chocomacha moved to slot 6
+[23:54:30] BanchoBot: chocomacha left the game.
+[23:54:38] BanchoBot: Dunn left the game.
+[23:55:15] BanchoBot: yukixo joined in slot 2 for team red.
+[23:55:53] Setsoku: where other team
+[23:56:22] BCraftMG: good question
+[23:56:32] BCraftMG: :yEP:
+[23:56:47] Setsoku: I think theyre waiting for the other match to end XD
+[23:58:49] BanchoBot: T1 Minji joined in slot 3 for team blue.
+[23:58:53] BCraftMG: hey
+[23:59:01] Setsoku: hellooo
+[23:59:30] BCraftMG: :p red warmup
+[23:59:38] T1_Minji: oh ok
+[23:59:40] BCraftMG: @T1 Minji anyone playing?
+[23:59:47] T1_Minji: yeah sure
+[00:00:15] T1_Minji: just me I think
+[00:00:24] BanchoBot: chocomacha joined in slot 4 for team red.
+[00:00:45] BanchoBot: chocomacha moved to slot 6
+[00:00:46] Setsoku: o//
+[00:01:00] BanchoBot: Dunn joined in slot 4 for team red.
+[00:01:01] BCraftMG: just uh  ready up
+[00:01:06] BCraftMG: stream up
+[00:01:31] chocomacha: I got no time to looosee
+[00:01:36] BanchoBot: chocomacha changed to Blue
+[00:01:37] BanchoBot: chocomacha moved to slot 5
+[00:01:40] BanchoBot: chocomacha moved to slot 6
+[00:01:41] BanchoBot: chocomacha moved to slot 5
+[00:01:43] BCraftMG: !mp settings
+[00:01:44] BanchoBot: Room name: s!CL F24: (University of Santo Tomas A) vs (University of Waterloo C), History: https://osu.ppy.sh/mp/116060191
+[00:01:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/3311309 KINEMA106 - N.M.W
+[00:01:44] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:01:44] BanchoBot: Active mods: Freemod
+[00:01:44] BanchoBot: Players: 5
+[00:01:44] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10888411 Setsoku         [Team Red  / NoFail]
+[00:01:44] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17847877 yukixo          [Team Red  / NoFail, Hidden]
+[00:01:44] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12055633 T1 Minji        [Team Blue / NoFail]
+[00:01:44] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/7241691 Dunn            [Team Red  / NoFail]
+[00:01:44] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/17210485 chocomacha      [Team Blue]
+[00:01:47] T1_Minji: tell ur team to ready :sob:
+[00:01:55] BCraftMG: !mp start 15
+[00:01:55] BanchoBot: Match starts in 15 seconds
+[00:01:55] BanchoBot: Queued the match to start in 15 seconds
+[00:01:58] T1_Minji: !roll 1000
+[00:01:58] BanchoBot: T1 Minji rolls 570 point(s)
+[00:02:01] BanchoBot: Match starts in 10 seconds
+[00:02:04] T1_Minji: !roll 1000
+[00:02:04] BanchoBot: T1 Minji rolls 962 point(s)
+[00:02:07] BanchoBot: Match starts in 5 seconds
+[00:02:07] BanchoBot: Match starts in 4 seconds
+[00:02:08] BanchoBot: Match starts in 3 seconds
+[00:02:10] BanchoBot: Good luck, have fun!
+[00:02:11] BanchoBot: The match has started!
+[00:04:50] BanchoBot: LissMyMommy joined in slot 6 for team red.
+[00:05:11] LissMyMommy: o/
+[00:05:31] BanchoBot: Setsoku finished playing (Score: 225790, PASSED).
+[00:05:31] BanchoBot: Dunn finished playing (Score: 103638, PASSED).
+[00:05:33] BanchoBot: T1 Minji finished playing (Score: 346708, PASSED).
+[00:05:33] BanchoBot: yukixo finished playing (Score: 382831, PASSED).
+[00:05:33] BanchoBot: chocomacha finished playing (Score: 224335, PASSED).
+[00:05:33] BanchoBot: The match has finished!
+[00:05:36] BCraftMG: o/
+[00:05:46] Setsoku: o//
+[00:05:52] T1_Minji: we dont have a warmup
+[00:06:06] T1_Minji: !roll
+[00:06:06] BanchoBot: T1 Minji rolls 2 point(s)
+[00:06:12] BCraftMG: !mp map 4152199
+[00:06:13] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4152199 HOYO-MiX - Space Walk
+[00:06:15] BCraftMG: roll pls
+[00:06:18] LissMyMommy: ...
+[00:06:26] BCraftMG: rip
+[00:06:27] Setsoku: !roll
+[00:06:27] BanchoBot: Setsoku rolls 46 point(s)
+[00:06:42] LissMyMommy: !roll higher
+[00:06:42] BanchoBot: LissMyMommy rolls 17 point(s)
+[00:06:45] Setsoku: XD
+[00:06:49] LissMyMommy: gg
+[00:07:05] BCraftMG: Red choose pick or ban order
+[00:07:13] BanchoBot: LissMyMommy changed to Blue
+[00:07:17] Setsoku: pick order
+[00:07:20] Setsoku: 2nd pick
+[00:07:27] BCraftMG: Blue choose ban order
+[00:07:32] T1_Minji: are bans abab?
+[00:07:52] BCraftMG: abba
+[00:07:53] chocomacha: stan newjean
+[00:08:05] T1_Minji: first ban then
+[00:08:09] T1_Minji: and we ban nm4
+[00:08:16] BCraftMG: First Ban: University of Waterloo C
+[00:08:20] BCraftMG: Next Ban: University of Santo Tomas A
+[00:08:38] Setsoku: HD2, HR3
+[00:08:54] BCraftMG: Next Ban: University of Waterloo C
+[00:08:55] BCraftMG: !mp timer 90
+[00:08:56] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:08:59] T1_Minji: dt3 second ban
+[00:09:07] BCraftMG: University of Santo Tomas A | 0 - 0 | University of Waterloo C // Bo11 - First Pick: University of Waterloo C
+[00:09:08] BCraftMG: !mp timer 90
+[00:09:09] BanchoBot: Countdown aborted
+[00:09:09] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:09:24] BanchoBot: LissMyMommy left the game.
+[00:09:39] BanchoBot: Countdown ends in 1 minute
+[00:09:39] T1_Minji: hd3
+[00:09:45] BanchoBot: Dunn left the game.
+[00:09:52] BanchoBot: jiaxunjason joined in slot 4 for team red.
+[00:09:54] BCraftMG: !mp map 4146525 0
+[00:09:55] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4146525 ginkiha - Shadow Castle
+[00:09:55] BanchoBot: Changed match mode to Osu
+[00:09:56] BCraftMG: !mp mods 9
+[00:09:56] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[00:09:57] BCraftMG: !mp timer 90
+[00:09:59] BanchoBot: yukixo left the game.
+[00:09:59] BanchoBot: T1 Minji left the game.
+[00:09:59] BanchoBot: Countdown aborted
+[00:09:59] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:10:00] BanchoBot: jiaxunjason changed to Blue
+[00:10:00] BanchoBot: mizukuru joined in slot 2 for team red.
+[00:10:02] BanchoBot: chocomacha left the game.
+[00:10:02] BanchoBot: Setsoku left the game.
+[00:10:14] BanchoBot: mizukuru moved to slot 3
+[00:10:15] BanchoBot: mizukuru changed to Blue
+[00:10:29] BanchoBot: Countdown ends in 1 minute
+[00:10:29] BanchoBot: Setsoku joined in slot 1 for team blue.
+[00:10:33] BanchoBot: yukixo joined in slot 2 for team red.
+[00:10:54] BanchoBot: Setsoku changed to Red
+[00:10:58] yukixo: golf
+[00:10:59] BanchoBot: Countdown ends in 30 seconds
+[00:11:02] mizukuru: golf
+[00:11:02] jiaxunjason: glhf
+[00:11:04] BanchoBot: All players are ready
+[00:11:09] Setsoku: glglglgl!!
+[00:11:16] BCraftMG: !mp settings
+[00:11:16] BanchoBot: Room name: s!CL F24: (University of Santo Tomas A) vs (University of Waterloo C), History: https://osu.ppy.sh/mp/116060191
+[00:11:16] BanchoBot: Beatmap: https://osu.ppy.sh/b/4146525 ginkiha - Shadow Castle
+[00:11:16] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:11:16] BanchoBot: Active mods: NoFail, Hidden
+[00:11:16] BanchoBot: Players: 4
+[00:11:16] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10888411 Setsoku         [Team Red ]
+[00:11:16] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17847877 yukixo          [Team Red ]
+[00:11:16] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15251002 mizukuru        [Team Blue]
+[00:11:16] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6925441 jiaxunjason     [Team Blue]
+[00:11:20] BanchoBot: Countdown ends in 10 seconds
+[00:11:21] BCraftMG: !mp start 5 glhf!
+[00:11:23] BanchoBot: Countdown aborted
+[00:11:23] BanchoBot: Match starts in 5 seconds
+[00:11:23] BanchoBot: Queued the match to start in 5 seconds
+[00:11:24] BanchoBot: Match starts in 4 seconds
+[00:11:25] BanchoBot: Match starts in 3 seconds
+[00:11:27] BanchoBot: Good luck, have fun!
+[00:11:28] BanchoBot: The match has started!
+[00:14:25] BanchoBot: jiaxunjason finished playing (Score: 543266, PASSED).
+[00:14:25] BanchoBot: mizukuru finished playing (Score: 445017, PASSED).
+[00:14:27] BanchoBot: Setsoku finished playing (Score: 312670, PASSED).
+[00:14:27] BanchoBot: yukixo finished playing (Score: 591808, PASSED).
+[00:14:27] BanchoBot: The match has finished!
+[00:14:42] BanchoBot: T1 Minji joined in slot 5 for team blue.
+[00:14:50] BCraftMG: University of Santo Tomas A | 0 - 1 | University of Waterloo C // Bo11 - Next Pick: University of Santo Tomas A
+[00:14:51] BCraftMG: !mp timer 90
+[00:14:51] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:15:22] BanchoBot: Countdown ends in 1 minute
+[00:15:52] BanchoBot: Countdown ends in 30 seconds
+[00:16:11] Setsoku: nm3 pick
+[00:16:12] BanchoBot: Countdown ends in 10 seconds
+[00:16:16] BanchoBot: Countdown ends in 5 seconds
+[00:16:18] BanchoBot: T1 Minji left the game.
+[00:16:18] BanchoBot: Countdown ends in 4 seconds
+[00:16:19] BanchoBot: Countdown ends in 3 seconds
+[00:16:21] BanchoBot: Countdown ends in 2 seconds
+[00:16:21] BanchoBot: Countdown ends in 1 second
+[00:16:21] BCraftMG: !mp map 4221006 0
+[00:16:22] BanchoBot: LissMyMommy joined in slot 5 for team blue.
+[00:16:22] BanchoBot: Countdown finished
+[00:16:22] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4221006 Ryokuoushoku Shakai - Character
+[00:16:22] BanchoBot: Changed match mode to Osu
+[00:16:23] BCraftMG: !mp mods 1
+[00:16:23] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:16:24] BCraftMG: !mp timer 90
+[00:16:25] BanchoBot: mizukuru left the game.
+[00:16:25] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:16:30] BanchoBot: LissMyMommy moved to slot 3
+[00:16:49] LissMyMommy: !roll 1000000
+[00:16:49] BanchoBot: LissMyMommy rolls 223021 point(s)
+[00:16:52] LissMyMommy: gg
+[00:16:55] BanchoBot: Countdown ends in 1 minute
+[00:16:59] yukixo: golfff
+[00:17:03] LissMyMommy: gfhl
+[00:17:03] jiaxunjason: glhf
+[00:17:05] BanchoBot: All players are ready
+[00:17:09] Setsoku: glglgl!!
+[00:17:17] BCraftMG: !mp settings
+[00:17:18] BanchoBot: Room name: s!CL F24: (University of Santo Tomas A) vs (University of Waterloo C), History: https://osu.ppy.sh/mp/116060191
+[00:17:18] BanchoBot: Beatmap: https://osu.ppy.sh/b/4221006 Ryokuoushoku Shakai - Character
+[00:17:18] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:17:18] BanchoBot: Active mods: NoFail
+[00:17:18] BanchoBot: Players: 4
+[00:17:18] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10888411 Setsoku         [Team Red ]
+[00:17:18] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17847877 yukixo          [Team Red ]
+[00:17:18] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14177677 LissMyMommy     [Team Blue]
+[00:17:18] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6925441 jiaxunjason     [Team Blue]
+[00:17:19] BCraftMG: !mp start 5 glhf!
+[00:17:20] BanchoBot: Countdown aborted
+[00:17:20] BanchoBot: Match starts in 5 seconds
+[00:17:20] BanchoBot: Queued the match to start in 5 seconds
+[00:17:22] BanchoBot: Match starts in 4 seconds
+[00:17:23] BanchoBot: Match starts in 3 seconds
+[00:17:25] BanchoBot: Good luck, have fun!
+[00:17:26] BanchoBot: The match has started!
+[00:21:42] BanchoBot: jiaxunjason finished playing (Score: 374994, PASSED).
+[00:21:43] BanchoBot: Setsoku finished playing (Score: 398263, PASSED).
+[00:21:43] BanchoBot: LissMyMommy finished playing (Score: 488816, PASSED).
+[00:21:43] BanchoBot: yukixo finished playing (Score: 657572, PASSED).
+[00:21:43] BanchoBot: The match has finished!
+[00:21:50] BCraftMG: University of Santo Tomas A | 1 - 1 | University of Waterloo C // Bo11 - Next Pick: University of Waterloo C
+[00:21:52] BCraftMG: !mp timer 90
+[00:21:53] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:22:02] BanchoBot: T1 Minji joined in slot 5 for team blue.
+[00:22:21] BanchoBot: LissMyMommy left the game.
+[00:22:24] BanchoBot: Countdown ends in 1 minute
+[00:22:28] T1_Minji: hd1
+[00:22:28] BanchoBot: mizukuru joined in slot 3 for team blue.
+[00:22:39] BCraftMG: !mp map 3554814 0
+[00:22:40] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3554814 VESPERBELL - Eclipse
+[00:22:40] BanchoBot: Changed match mode to Osu
+[00:22:40] BCraftMG: !mp mods 9
+[00:22:41] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[00:22:42] BCraftMG: !mp timer 90
+[00:22:43] BanchoBot: Countdown aborted
+[00:22:43] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:22:51] BanchoBot: T1 Minji left the game.
+[00:23:00] BanchoBot: yukixo left the game.
+[00:23:14] BanchoBot: Countdown ends in 1 minute
+[00:23:41] BanchoBot: Dunn joined in slot 2 for team red.
+[00:23:44] BanchoBot: Countdown ends in 30 seconds
+[00:23:44] BanchoBot: yukixo joined in slot 5 for team blue.
+[00:23:46] BanchoBot: Setsoku left the game.
+[00:23:58] BanchoBot: yukixo changed to Red
+[00:23:58] BanchoBot: yukixo moved to slot 1
+[00:24:02] mizukuru: golf
+[00:24:04] BanchoBot: Countdown ends in 10 seconds
+[00:24:04] yukixo: golfff
+[00:24:05] BanchoBot: All players are ready
+[00:24:07] jiaxunjason: glhf
+[00:24:08] BanchoBot: Countdown ends in 5 seconds
+[00:24:09] BanchoBot: Countdown ends in 4 seconds
+[00:24:11] Dunn: GLHF
+[00:24:11] BanchoBot: Countdown ends in 3 seconds
+[00:24:12] BanchoBot: Countdown ends in 2 seconds
+[00:24:12] BanchoBot: Countdown ends in 1 second
+[00:24:13] BCraftMG: !mp settings
+[00:24:13] BanchoBot: Countdown finished
+[00:24:13] BanchoBot: Room name: s!CL F24: (University of Santo Tomas A) vs (University of Waterloo C), History: https://osu.ppy.sh/mp/116060191
+[00:24:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/3554814 VESPERBELL - Eclipse
+[00:24:13] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:24:13] BanchoBot: Active mods: NoFail, Hidden
+[00:24:13] BanchoBot: Players: 4
+[00:24:13] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17847877 yukixo          [Team Red ]
+[00:24:13] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7241691 Dunn            [Team Red ]
+[00:24:13] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15251002 mizukuru        [Team Blue]
+[00:24:13] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6925441 jiaxunjason     [Team Blue]
+[00:24:15] BCraftMG: !mp start 5 glhf!
+[00:24:16] BanchoBot: Match starts in 5 seconds
+[00:24:16] BanchoBot: Queued the match to start in 5 seconds
+[00:24:17] BanchoBot: Match starts in 4 seconds
+[00:24:19] BanchoBot: Match starts in 3 seconds
+[00:24:20] BanchoBot: Good luck, have fun!
+[00:24:21] BanchoBot: The match has started!
+[00:27:24] BanchoBot: mizukuru finished playing (Score: 497179, PASSED).
+[00:27:24] BanchoBot: yukixo finished playing (Score: 957560, PASSED).
+[00:27:24] BanchoBot: Dunn finished playing (Score: 308197, PASSED).
+[00:27:25] BanchoBot: jiaxunjason finished playing (Score: 356968, PASSED).
+[00:27:25] BanchoBot: The match has finished!
+[00:27:39] BCraftMG: University of Santo Tomas A | 2 - 1 | University of Waterloo C // Bo11 - Next Pick: University of Santo Tomas A
+[00:27:42] BCraftMG: !mp timer 90
+[00:27:42] BanchoBot: Setsoku joined in slot 5 for team blue.
+[00:27:42] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:27:46] BanchoBot: T1 Minji joined in slot 6 for team red.
+[00:27:53] BanchoBot: mizukuru left the game.
+[00:28:00] BanchoBot: Dunn left the game.
+[00:28:05] BanchoBot: chocomacha joined in slot 2 for team red.
+[00:28:13] BanchoBot: Countdown ends in 1 minute
+[00:28:18] Setsoku: fm1 pick
+[00:28:22] BanchoBot: yukixo left the game.
+[00:28:25] BCraftMG: !mp map 4663576 0
+[00:28:26] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4663576 Renard - Save the River Valley
+[00:28:26] BanchoBot: Changed match mode to Osu
+[00:28:28] BCraftMG: !mp mods Freemod
+[00:28:28] BanchoBot: Disabled all mods, enabled FreeMod
+[00:28:29] BCraftMG: !mp timer 90
+[00:28:30] BanchoBot: Countdown aborted
+[00:28:30] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:29:00] BanchoBot: Countdown ends in 1 minute
+[00:29:02] BanchoBot: T1 Minji left the game.
+[00:29:11] BanchoBot: mizukuru joined in slot 1 for team blue.
+[00:29:22] BanchoBot: mizukuru moved to slot 6
+[00:29:30] BanchoBot: Countdown ends in 30 seconds
+[00:29:37] BanchoBot: mizukuru moved to slot 3
+[00:29:41] BanchoBot: yukixo joined in slot 1 for team blue.
+[00:29:50] BanchoBot: Countdown ends in 10 seconds
+[00:29:52] BanchoBot: yukixo changed to Red
+[00:29:54] BanchoBot: Setsoku left the game.
+[00:29:56] BanchoBot: Countdown ends in 5 seconds
+[00:29:57] BanchoBot: Countdown ends in 4 seconds
+[00:29:57] jiaxunjason: glhf
+[00:29:57] mizukuru: golf
+[00:29:57] BanchoBot: Countdown ends in 3 seconds
+[00:29:58] yukixo: golff
+[00:29:58] BanchoBot: Countdown ends in 2 seconds
+[00:30:00] BanchoBot: All players are ready
+[00:30:00] BanchoBot: Countdown ends in 1 second
+[00:30:01] BanchoBot: Countdown finished
+[00:30:01] chocomacha: glhf!!
+[00:30:13] chocomacha: xxxxxxxxxx
+[00:30:16] BCraftMG: !mp settings
+[00:30:17] chocomacha: glgl
+[00:30:17] BanchoBot: Room name: s!CL F24: (University of Santo Tomas A) vs (University of Waterloo C), History: https://osu.ppy.sh/mp/116060191
+[00:30:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/4663576 Renard - Save the River Valley
+[00:30:17] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:30:17] BanchoBot: Active mods: Freemod
+[00:30:17] BanchoBot: Players: 4
+[00:30:17] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17847877 yukixo          [Team Red  / NoFail, HardRock]
+[00:30:17] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17210485 chocomacha      [Team Red  / NoFail, Hidden]
+[00:30:17] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15251002 mizukuru        [Team Blue / NoFail, Hidden]
+[00:30:17] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6925441 jiaxunjason     [Team Blue / NoFail, HardRock]
+[00:30:19] BCraftMG: !mp start 5 glhf!
+[00:30:20] BanchoBot: Match starts in 5 seconds
+[00:30:20] BanchoBot: Queued the match to start in 5 seconds
+[00:30:21] BanchoBot: Match starts in 4 seconds
+[00:30:22] BanchoBot: Match starts in 3 seconds
+[00:30:24] BanchoBot: Good luck, have fun!
+[00:30:25] BanchoBot: The match has started!
+[00:33:08] BanchoBot: mizukuru finished playing (Score: 543150, PASSED).
+[00:33:08] BanchoBot: jiaxunjason finished playing (Score: 596290, PASSED).
+[00:33:08] BanchoBot: yukixo finished playing (Score: 1046986, PASSED).
+[00:33:09] BanchoBot: chocomacha finished playing (Score: 650021, PASSED).
+[00:33:09] BanchoBot: The match has finished!
+[00:33:21] BanchoBot: chocomacha left the game.
+[00:33:22] BanchoBot: T1 Minji joined in slot 2 for team red.
+[00:33:30] BanchoBot: mizukuru left the game.
+[00:33:31] BCraftMG: University of Santo Tomas A | 3 - 1 | University of Waterloo C // Bo11 - Next Pick: University of Waterloo C
+[00:33:32] BCraftMG: !mp timer 90
+[00:33:33] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:33:34] BanchoBot: Setsoku joined in slot 3 for team blue.
+[00:33:53] BanchoBot: Setsoku moved to slot 6
+[00:33:59] T1_Minji: dt2
+[00:34:04] BanchoBot: Countdown ends in 1 minute
+[00:34:08] BanchoBot: yukixo left the game.
+[00:34:10] BCraftMG: !mp map 4024733 0
+[00:34:11] BanchoBot: T1 Minji left the game.
+[00:34:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4024733 Giga x TENKOMORI - Netoge Haijin Sprechchor (Cut Ver.)
+[00:34:11] BanchoBot: Changed match mode to Osu
+[00:34:11] BCraftMG: !mp mods 65
+[00:34:12] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[00:34:13] BCraftMG: !mp timer 90
+[00:34:13] BanchoBot: Setsoku moved to slot 1
+[00:34:13] BanchoBot: Countdown aborted
+[00:34:13] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:34:23] BanchoBot: chocomacha joined in slot 2 for team red.
+[00:34:33] BanchoBot: Setsoku changed to Red
+[00:34:43] BanchoBot: chocomacha changed to Blue
+[00:34:44] BanchoBot: Countdown ends in 1 minute
+[00:34:44] BanchoBot: chocomacha changed to Red
+[00:34:51] BanchoBot: yukixo joined in slot 3 for team blue.
+[00:34:51] BanchoBot: chocomacha left the game.
+[00:35:02] BanchoBot: T1 Minji joined in slot 2 for team red.
+[00:35:03] BanchoBot: T1 Minji moved to slot 5
+[00:35:04] BanchoBot: T1 Minji changed to Blue
+[00:35:06] BanchoBot: yukixo moved to slot 6
+[00:35:07] BanchoBot: yukixo changed to Red
+[00:35:10] BanchoBot: yukixo moved to slot 2
+[00:35:12] BanchoBot: T1 Minji moved to slot 3
+[00:35:14] BanchoBot: Countdown ends in 30 seconds
+[00:35:20] yukixo: golf
+[00:35:22] BanchoBot: All players are ready
+[00:35:22] jiaxunjason: glhf
+[00:35:26] Setsoku: glglgl!!
+[00:35:29] T1_Minji: gl gl
+[00:35:31] BCraftMG: !mp settings
+[00:35:31] BanchoBot: Room name: s!CL F24: (University of Santo Tomas A) vs (University of Waterloo C), History: https://osu.ppy.sh/mp/116060191
+[00:35:31] BanchoBot: Beatmap: https://osu.ppy.sh/b/4024733 Giga x TENKOMORI - Netoge Haijin Sprechchor (Cut Ver.)
+[00:35:31] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:35:31] BanchoBot: Active mods: NoFail, DoubleTime
+[00:35:31] BanchoBot: Players: 4
+[00:35:31] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10888411 Setsoku         [Team Red ]
+[00:35:31] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17847877 yukixo          [Team Red ]
+[00:35:31] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12055633 T1 Minji        [Team Blue]
+[00:35:31] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6925441 jiaxunjason     [Team Blue]
+[00:35:32] BCraftMG: !mp start 5 glhf!
+[00:35:33] BanchoBot: Countdown aborted
+[00:35:33] BanchoBot: Match starts in 5 seconds
+[00:35:33] BanchoBot: Queued the match to start in 5 seconds
+[00:35:34] BanchoBot: Match starts in 4 seconds
+[00:35:35] BanchoBot: Match starts in 3 seconds
+[00:35:37] BanchoBot: Good luck, have fun!
+[00:35:38] BanchoBot: The match has started!
+[00:37:32] BanchoBot: jiaxunjason finished playing (Score: 515648, PASSED).
+[00:37:32] BanchoBot: T1 Minji finished playing (Score: 283845, PASSED).
+[00:37:32] BanchoBot: Setsoku finished playing (Score: 452965, PASSED).
+[00:37:33] BanchoBot: yukixo finished playing (Score: 662906, PASSED).
+[00:37:33] BanchoBot: The match has finished!
+[00:37:52] BCraftMG: University of Santo Tomas A | 4 - 1 | University of Waterloo C // Bo11 - Next Pick: University of Santo Tomas A
+[00:37:54] BCraftMG: !mp timer 90
+[00:37:55] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:38:26] BanchoBot: Countdown ends in 1 minute
+[00:38:43] Setsoku: nm1 pick
+[00:38:43] BanchoBot: Dunn joined in slot 5 for team blue.
+[00:38:47] BanchoBot: jiaxunjason left the game.
+[00:38:48] BanchoBot: Setsoku moved to slot 6
+[00:38:51] BanchoBot: T1 Minji left the game.
+[00:38:56] BanchoBot: Countdown ends in 30 seconds
+[00:38:57] BCraftMG: !mp map 1791963 0
+[00:38:59] BanchoBot: LissMyMommy joined in slot 1 for team blue.
+[00:38:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1791963 TRUE - Soundscape
+[00:38:59] BanchoBot: Changed match mode to Osu
+[00:39:00] BCraftMG: !mp mods 1
+[00:39:00] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:39:01] BCraftMG: !mp timer 90
+[00:39:02] BanchoBot: Countdown aborted
+[00:39:02] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:39:07] BanchoBot: Dunn changed to Red
+[00:39:07] BanchoBot: LissMyMommy moved to slot 3
+[00:39:10] BanchoBot: Dunn moved to slot 1
+[00:39:10] BanchoBot: mizukuru joined in slot 4 for team red.
+[00:39:14] BanchoBot: Setsoku left the game.
+[00:39:23] BanchoBot: mizukuru changed to Blue
+[00:39:28] BanchoBot: All players are ready
+[00:39:33] BanchoBot: Countdown ends in 1 minute
+[00:39:34] mizukuru: golf
+[00:39:36] BCraftMG: !mp settings
+[00:39:37] Dunn: glhf
+[00:39:37] LissMyMommy: !roll 1000000
+[00:39:37] BanchoBot: LissMyMommy rolls 694833 point(s)
+[00:39:37] BanchoBot: Room name: s!CL F24: (University of Santo Tomas A) vs (University of Waterloo C), History: https://osu.ppy.sh/mp/116060191
+[00:39:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/1791963 TRUE - Soundscape
+[00:39:37] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:39:37] BanchoBot: Active mods: NoFail
+[00:39:37] BanchoBot: Players: 4
+[00:39:37] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7241691 Dunn            [Team Red ]
+[00:39:37] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17847877 yukixo          [Team Red ]
+[00:39:37] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14177677 LissMyMommy     [Team Blue]
+[00:39:37] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15251002 mizukuru        [Team Blue]
+[00:39:38] BCraftMG: !mp start 5 glhf!
+[00:39:38] BanchoBot: Countdown aborted
+[00:39:38] BanchoBot: Match starts in 5 seconds
+[00:39:38] BanchoBot: Queued the match to start in 5 seconds
+[00:39:40] BanchoBot: Match starts in 4 seconds
+[00:39:41] BanchoBot: Match starts in 3 seconds
+[00:39:41] LissMyMommy: chill
+[00:39:42] BanchoBot: Good luck, have fun!
+[00:39:42] LissMyMommy: gflh
+[00:39:44] BanchoBot: The match has started!
+[00:44:37] BanchoBot: mizukuru finished playing (Score: 441840, PASSED).
+[00:44:37] BanchoBot: yukixo finished playing (Score: 983366, PASSED).
+[00:44:37] BanchoBot: Dunn finished playing (Score: 401348, PASSED).
+[00:44:37] BanchoBot: LissMyMommy finished playing (Score: 682773, PASSED).
+[00:44:37] BanchoBot: The match has finished!
+[00:44:53] BCraftMG: University of Santo Tomas A | 5 - 1 | University of Waterloo C // Bo11 - Next Pick: University of Waterloo C
+[00:44:54] BanchoBot: mizukuru left the game.
+[00:44:55] BCraftMG: !mp timer 90
+[00:44:55] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:45:03] BanchoBot: Setsoku joined in slot 4 for team red.
+[00:45:05] LissMyMommy: wait i almost got the score i rolled
+[00:45:09] LissMyMommy: lets go
+[00:45:14] yukixo: xD
+[00:45:25] BanchoBot: Countdown ends in 1 minute
+[00:45:41] BanchoBot: T1 Minji joined in slot 5 for team blue.
+[00:45:43] T1_Minji: fm2
+[00:45:52] BCraftMG: !mp map 2789103 0
+[00:45:53] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2789103 ZUN - Desire Drive
+[00:45:53] BanchoBot: Changed match mode to Osu
+[00:45:54] BCraftMG: !mp mods Freemod
+[00:45:54] BanchoBot: Disabled all mods, enabled FreeMod
+[00:45:55] BCraftMG: !mp timer 90
+[00:45:56] BanchoBot: Countdown ends in 30 seconds
+[00:45:56] BanchoBot: Countdown aborted
+[00:45:56] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:46:05] BanchoBot: yukixo left the game.
+[00:46:05] BanchoBot: T1 Minji moved to slot 6
+[00:46:05] BanchoBot: jiaxunjason joined in slot 2 for team red.
+[00:46:08] BanchoBot: jiaxunjason moved to slot 5
+[00:46:12] BanchoBot: Setsoku moved to slot 2
+[00:46:15] BanchoBot: Dunn moved to slot 4
+[00:46:18] BanchoBot: T1 Minji left the game.
+[00:46:21] BanchoBot: jiaxunjason changed to Blue
+[00:46:26] BanchoBot: Countdown ends in 1 minute
+[00:46:44] BanchoBot: Dunn left the game.
+[00:46:45] BanchoBot: yukixo joined in slot 1 for team blue.
+[00:46:45] BanchoBot: jiaxunjason moved to slot 4
+[00:46:56] BanchoBot: Countdown ends in 30 seconds
+[00:47:02] BanchoBot: yukixo changed to Red
+[00:47:09] jiaxunjason: glhf
+[00:47:10] LissMyMommy: gfhl
+[00:47:16] Setsoku: glglgl
+[00:47:17] BanchoBot: Countdown ends in 10 seconds
+[00:47:17] LissMyMommy: !roll 1060000
+[00:47:17] BanchoBot: LissMyMommy rolls 963597 point(s)
+[00:47:21] BanchoBot: Countdown ends in 5 seconds
+[00:47:22] BanchoBot: Countdown ends in 4 seconds
+[00:47:24] LissMyMommy: ez
+[00:47:24] BanchoBot: Countdown ends in 3 seconds
+[00:47:24] BanchoBot: Countdown ends in 2 seconds
+[00:47:25] BanchoBot: All players are ready
+[00:47:25] BanchoBot: Countdown ends in 1 second
+[00:47:27] BanchoBot: Countdown finished
+[00:47:30] BCraftMG: !mp settings
+[00:47:31] BanchoBot: Room name: s!CL F24: (University of Santo Tomas A) vs (University of Waterloo C), History: https://osu.ppy.sh/mp/116060191
+[00:47:31] BanchoBot: Beatmap: https://osu.ppy.sh/b/2789103 ZUN - Desire Drive
+[00:47:31] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:47:31] BanchoBot: Active mods: Freemod
+[00:47:31] BanchoBot: Players: 4
+[00:47:31] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17847877 yukixo          [Team Red  / NoFail, Hidden]
+[00:47:31] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10888411 Setsoku         [Team Red  / NoFail, HardRock]
+[00:47:31] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14177677 LissMyMommy     [Team Blue / NoFail, Hidden]
+[00:47:31] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6925441 jiaxunjason     [Team Blue / NoFail, HardRock]
+[00:47:33] BCraftMG: !mp start 5 glhf!
+[00:47:33] BanchoBot: Match starts in 5 seconds
+[00:47:33] BanchoBot: Queued the match to start in 5 seconds
+[00:47:35] BanchoBot: Match starts in 4 seconds
+[00:47:36] BanchoBot: Match starts in 3 seconds
+[00:47:37] BanchoBot: Good luck, have fun!
+[00:47:39] BanchoBot: The match has started!
+[00:50:10] BanchoBot: Setsoku finished playing (Score: 277332, PASSED).
+[00:50:10] BanchoBot: yukixo finished playing (Score: 306077, PASSED).
+[00:50:12] BanchoBot: LissMyMommy finished playing (Score: 376500, PASSED).
+[00:50:12] BanchoBot: jiaxunjason finished playing (Score: 546124, PASSED).
+[00:50:12] BanchoBot: The match has finished!
+[00:50:26] BCraftMG: University of Santo Tomas A | 5 - 2 | University of Waterloo C // Bo11 - Next Pick: University of Santo Tomas A
+[00:50:27] BanchoBot: T1 Minji joined in slot 5 for team blue.
+[00:50:27] BCraftMG: !mp timer 90
+[00:50:28] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:50:42] Setsoku: nm2 pick
+[00:50:47] BCraftMG: !mp map 1039801 0
+[00:50:48] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1039801 xi - over the top
+[00:50:48] BanchoBot: Changed match mode to Osu
+[00:50:49] BCraftMG: !mp mods 1
+[00:50:50] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:50:52] BCraftMG: !mp timer 90
+[00:50:52] BanchoBot: Countdown aborted
+[00:50:52] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:51:01] BanchoBot: T1 Minji left the game.
+[00:51:01] BanchoBot: yukixo left the game.
+[00:51:13] BanchoBot: yukixo joined in slot 1 for team blue.
+[00:51:17] BanchoBot: yukixo changed to Red
+[00:51:24] BanchoBot: Countdown ends in 1 minute
+[00:51:28] jiaxunjason: glhf
+[00:51:28] yukixo: golf
+[00:51:30] LissMyMommy: gflh
+[00:51:36] LissMyMommy: !roll 1000000
+[00:51:36] BanchoBot: LissMyMommy rolls 903498 point(s)
+[00:51:39] BanchoBot: All players are ready
+[00:51:40] LissMyMommy: chill
+[00:51:42] Setsoku: glglgl!!
+[00:51:52] BanchoBot: Countdown ends in 30 seconds
+[00:51:58] yukixo: !roll 1000000
+[00:51:58] BanchoBot: yukixo rolls 314361 point(s)
+[00:52:01] yukixo: ok
+[00:52:09] Setsoku: nice rolls!!
+[00:52:11] LissMyMommy: >:)
+[00:52:13] BanchoBot: Countdown ends in 10 seconds
+[00:52:18] BanchoBot: Countdown ends in 5 seconds
+[00:52:19] BanchoBot: Countdown ends in 4 seconds
+[00:52:19] BanchoBot: Countdown ends in 3 seconds
+[00:52:21] BanchoBot: Countdown ends in 2 seconds
+[00:52:22] BanchoBot: Countdown ends in 1 second
+[00:52:24] BanchoBot: Countdown finished
+[00:52:32] BCraftMG: !mp settings
+[00:52:33] BanchoBot: Room name: s!CL F24: (University of Santo Tomas A) vs (University of Waterloo C), History: https://osu.ppy.sh/mp/116060191
+[00:52:33] BanchoBot: Beatmap: https://osu.ppy.sh/b/1039801 xi - over the top
+[00:52:33] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:52:33] BanchoBot: Active mods: NoFail
+[00:52:33] BanchoBot: Players: 4
+[00:52:33] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17847877 yukixo          [Team Red ]
+[00:52:33] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10888411 Setsoku         [Team Red ]
+[00:52:33] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14177677 LissMyMommy     [Team Blue]
+[00:52:33] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6925441 jiaxunjason     [Team Blue]
+[00:52:36] BCraftMG: !mp start 5 glhf!
+[00:52:36] BanchoBot: Match starts in 5 seconds
+[00:52:36] BanchoBot: Queued the match to start in 5 seconds
+[00:52:37] BanchoBot: Match starts in 4 seconds
+[00:52:38] BanchoBot: Match starts in 3 seconds
+[00:52:40] BanchoBot: Good luck, have fun!
+[00:52:41] BanchoBot: The match has started!
+[00:54:52] BanchoBot: Setsoku finished playing (Score: 511836, PASSED).
+[00:54:53] BanchoBot: yukixo finished playing (Score: 977785, PASSED).
+[00:54:55] BanchoBot: jiaxunjason finished playing (Score: 540724, PASSED).
+[00:54:56] BanchoBot: LissMyMommy finished playing (Score: 600238, PASSED).
+[00:54:56] BanchoBot: The match has finished!
+[00:55:04] LissMyMommy: ggs
+[00:55:07] BanchoBot: jiaxunjason left the game.
+[00:55:09] yukixo: ggs
+[00:55:11] Setsoku: ggs
+[00:55:12] BCraftMG: University of Santo Tomas A | 6 - 2 | University of Waterloo C // University of Santo Tomas A wins! GGWP
+[00:55:13] LissMyMommy: ty for ref!!
+[00:55:19] yukixo: ty for ref and stream
+[00:55:24] LissMyMommy: o/
+[00:55:24] BanchoBot: LissMyMommy left the game.
+[00:55:36] BanchoBot: Setsoku left the game.
+[00:55:55] BanchoBot: yukixo left the game.
+[00:56:23] BCraftMG: !mp close
+[00:56:24] BanchoBot: Closed the match

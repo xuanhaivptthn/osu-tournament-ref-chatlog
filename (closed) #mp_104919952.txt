@@ -1,0 +1,967 @@
+[20:29:10] Joined #mp_104919952
+[20:29:10] DaddyStage: !mp settings
+[20:29:11] BanchoBot: Room name: THT3: (monkey see monkey do) vs (Welcome to maimai!), History: https://osu.ppy.sh/mp/104919952
+[20:29:11] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[20:29:11] BanchoBot: Players: 0
+[20:33:02] DaddyStage: !mp set 2 3 8
+[20:33:03] BanchoBot: Changed match settings to 8 slots, TeamVs, ScoreV2
+[20:33:06] DaddyStage: !mp addref Satxri
+[20:33:06] BanchoBot: Added Satxri to the match referees
+[20:34:24] DaddyStage: !mp invite #8431549
+[20:34:24] BanchoBot: Invited walle to the room
+[20:34:28] DaddyStage: !mp invite #10274874
+[20:34:30] BanchoBot: Invited [Boy]ThanhHoa to the room
+[20:35:46] DaddyStage: !mp listrefs
+[20:35:47] BanchoBot: Match referees:
+[20:35:47] BanchoBot: Satxri
+[20:35:47] BanchoBot: DaddyStage
+[20:38:03] BanchoBot: [Boy]ThanhHoa joined in slot 1 for team blue.
+[20:38:13] BanchoBot: [Boy]ThanhHoa moved to slot 4
+[20:38:14] BanchoBot: [Boy]ThanhHoa changed to Red
+[20:38:15] BanchoBot: [Boy]ThanhHoa changed to Blue
+[20:38:19] DaddyStage: !mp host [Boy]ThanhHoa
+[20:38:19] BanchoBot: [Boy]ThanhHoa became the host.
+[20:38:19] BanchoBot: Changed match host to [Boy]ThanhHoa
+[20:38:20] BanchoBot: Beatmap changed to: Dictate - IMITATE [PorkChop Collab] (https://osu.ppy.sh/b/2502505)
+[20:38:24] BanchoBot: anthan1233 joined in slot 1 for team blue.
+[20:38:27] BanchoBot: Elnory joined in slot 2 for team red.
+[20:38:27] BanchoBot: anthan1233 moved to slot 5
+[20:38:28] BanchoBot: anthan1233 moved to slot 6
+[20:38:28] BanchoBot: anthan1233 moved to slot 7
+[20:38:29] DaddyStage: !mp invite #8431549
+[20:38:30] BanchoBot: Host is changing map...
+[20:38:31] BanchoBot: anthan1233 moved to slot 5
+[20:38:31] BanchoBot: Invited walle to the room
+[20:38:34] DaddyStage: pick warm up trc di
+[20:39:14] BanchoBot: Beatmap changed to: Tsumiki - phony [?????????] (https://osu.ppy.sh/b/3136646)
+[20:39:36] DaddyStage: walle chekc
+[20:39:39] DaddyStage: :question:
+[20:39:45] BanchoBot: Elnory moved to slot 6
+[20:39:52] BanchoBot: Elnory changed to Blue
+[20:40:11] DaddyStage: !mp invite #8431549
+[20:40:12] BanchoBot: Invited walle to the room
+[20:40:13] DaddyStage: !mp invite #3318668
+[20:40:14] BanchoBot: Invited Fakazki to the room
+[20:40:15] DaddyStage: !mp invite #16128060
+[20:40:16] BanchoBot: Invited Meownomia to the room
+[20:41:09] DaddyStage: !mp invite #16128060
+[20:41:10] BanchoBot: Invited Meownomia to the room
+[20:41:11] DaddyStage: !mp invite #3318668
+[20:41:12] BanchoBot: Invited Fakazki to the room
+[20:41:13] DaddyStage: !mp invite #8431549
+[20:41:14] BanchoBot: Invited walle to the room
+[20:42:07] BanchoBot: All players are ready
+[20:42:14] BanchoBot: All players are ready
+[20:42:20] DaddyStage: !mp invite #16128060
+[20:42:20] [Boy]ThanhHoa: @DaddyStage
+[20:42:21] BanchoBot: Invited Meownomia to the room
+[20:42:24] [Boy]ThanhHoa: the bon toi co can warmup truoc k
+[20:42:24] BanchoBot: Meownomia joined in slot 1 for team blue.
+[20:42:24] [Boy]ThanhHoa: hay doi
+[20:42:46] DaddyStage: ola
+[20:42:54] BanchoBot: Fakazki joined in slot 2 for team red.
+[20:43:01] [Boy]ThanhHoa: ola
+[20:43:03] DaddyStage: monkey sang red nha
+[20:43:05] Elnory: ola
+[20:43:06] BanchoBot: Meownomia changed to Red
+[20:43:13] BanchoBot: Meownomia moved to slot 3
+[20:43:18] Fakazki: hello
+[20:43:27] BanchoBot: Meownomia left the game.
+[20:43:30] DaddyStage: wheres walle
+[20:43:36] Fakazki: hi =)))
+[20:43:38] DaddyStage: chac la start di khong lau qua rui
+[20:43:42] Fakazki: chúng ta có thể bắt đầu warmup luôn
+[20:43:44] BanchoBot: Fakazki moved to slot 1
+[20:43:54] [Boy]ThanhHoa: OKAY
+[20:43:58] BanchoBot: All players are ready
+[20:44:00] BanchoBot: The match has started!
+[20:46:23] BanchoBot: Meownomia joined in slot 2 for team red.
+[20:47:15] BanchoBot: anthan1233 finished playing (Score: 49478, PASSED).
+[20:47:15] BanchoBot: Fakazki finished playing (Score: 145704, PASSED).
+[20:47:15] BanchoBot: [Boy]ThanhHoa finished playing (Score: 164883, PASSED).
+[20:47:15] BanchoBot: Elnory finished playing (Score: 63746, PASSED).
+[20:47:15] BanchoBot: The match has finished!
+[20:47:22] BanchoBot: Fakazki became the host.
+[20:47:25] BanchoBot: Host is changing map...
+[20:47:49] [Boy]ThanhHoa: :exploding_head:
+[20:48:40] [Boy]ThanhHoa: ae doan xem team toi bi sweep ti so bao nhieu
+[20:48:46] DaddyStage: 6-6
+[20:48:48] BanchoBot: Beatmap changed to: Camellia vs Akira Complex - Railgun Roulette (VIP) [yf's Extra] (https://osu.ppy.sh/b/1562497)
+[20:49:02] DaddyStage: vai drain<3p thoi
+[20:49:09] Fakazki: ơ
+[20:49:10] Fakazki: <3p à
+[20:49:19] BanchoBot: Host is changing map...
+[20:49:41] DaddyStage: nhưng mà anh ơi walle đâu
+[20:49:50] Meownomia: chết rồi
+[20:49:55] Meownomia: đang cultivation
+[20:50:03] BanchoBot: Beatmap changed to: xi - FREEDOM DiVE (tpz Overcute Remix) [Time Fall] (https://osu.ppy.sh/b/786179)
+[20:50:12] [Boy]ThanhHoa is listening to [https://osu.ppy.sh/beatmapsets/-1#/786179 t+pazolite - FREEDOM DiVE (tpz Overcute Remix)]
+[20:50:16] DaddyStage: cai chet
+[20:50:19] [Boy]ThanhHoa: bruh
+[20:50:20] [Boy]ThanhHoa: missing
+[20:50:24] BanchoBot: Host is changing map...
+[20:50:25] Fakazki: OH
+[20:50:28] Fakazki: wtf
+[20:50:37] Fakazki: https://osu.ppy.sh/beatmapsets/357398#osu/786179
+[20:50:45] [Boy]ThanhHoa: ok cam on
+[20:50:48] BanchoBot: Beatmap changed to: xi - FREEDOM DiVE (tpz Overcute Remix) [Time Fall] (https://osu.ppy.sh/b/786179)
+[20:50:52] [Boy]ThanhHoa: vas
+[20:50:56] [Boy]ThanhHoa: ai NP VOI
+[20:51:01] Fakazki: WTF
+[20:51:02] [Boy]ThanhHoa: su that lo lao
+[20:51:03] DaddyStage: https://osu.ppy.sh/beatmapsets/357398#osu/786179
+[20:51:03] anthan1233 is listening to [https://osu.ppy.sh/beatmapsets/357398#/786179 xi - FREEDOM DiVE (tpz Overcute Remix)]
+[20:51:06] DaddyStage: u gud?
+[20:51:06] [Boy]ThanhHoa: cam on
+[20:51:12] [Boy]ThanhHoa: chac phai ra xoa map
+[20:51:13] BanchoBot: [Boy]ThanhHoa left the game.
+[20:51:22] BanchoBot: [Boy]ThanhHoa joined in slot 3 for team blue.
+[20:51:24] BanchoBot: [Boy]ThanhHoa moved to slot 4
+[20:51:27] [Boy]ThanhHoa: chao ae
+[20:51:29] [Boy]ThanhHoa: toi da xoa map
+[20:51:30] Fakazki: !!!!
+[20:51:36] DaddyStage: !mp settings
+[20:51:37] BanchoBot: Room name: THT3: (monkey see monkey do) vs (Welcome to maimai, History: https://osu.ppy.sh/mp/104919952
+[20:51:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/786179 xi - FREEDOM DiVE (tpz Overcute Remix) [Time Fall]
+[20:51:37] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:51:37] BanchoBot: Active mods: Freemod
+[20:51:37] BanchoBot: Players: 5
+[20:51:37] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/3318668 Fakazki         [Host / Team Red  / NoFail]
+[20:51:37] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/16128060 Meownomia       [Team Red  / NoFail]
+[20:51:37] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10274874 [Boy]ThanhHoa   [Team Blue]
+[20:51:37] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/21180395 anthan1233      [Team Blue / NoFail]
+[20:51:37] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/9983282 Elnory          [Team Blue / NoFail, Hidden]
+[20:51:51] BanchoBot: walle joined in slot 3 for team blue.
+[20:52:11] DaddyStage: !mp team walle red
+[20:52:12] DaddyStage: o/
+[20:52:12] BanchoBot: walle changed to Red
+[20:52:12] BanchoBot: Moved walle to team Red
+[20:52:19] [Boy]ThanhHoa: o/
+[20:52:20] Fakazki: walle wc
+[20:52:21] Fakazki: xd
+[20:52:32] DaddyStage: !mp settings
+[20:52:33] BanchoBot: Room name: THT3: (monkey see monkey do) vs (Welcome to maimai, History: https://osu.ppy.sh/mp/104919952
+[20:52:33] BanchoBot: Beatmap: https://osu.ppy.sh/b/786179 xi - FREEDOM DiVE (tpz Overcute Remix) [Time Fall]
+[20:52:33] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:52:33] BanchoBot: Active mods: Freemod
+[20:52:33] BanchoBot: Players: 6
+[20:52:33] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/3318668 Fakazki         [Host / Team Red  / NoFail]
+[20:52:33] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16128060 Meownomia       [Team Red  / NoFail]
+[20:52:33] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/8431549 walle           [Team Red ]
+[20:52:33] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10274874 [Boy]ThanhHoa   [Team Blue / NoFail]
+[20:52:33] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/21180395 anthan1233      [Team Blue / NoFail]
+[20:52:33] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/9983282 Elnory          [Team Blue / NoFail, Hidden]
+[20:52:37] DaddyStage: !mp start
+[20:52:38] Meownomia: uoghh
+[20:52:38] BanchoBot: The match has started!
+[20:52:38] BanchoBot: Started the match
+[20:55:47] BanchoBot: Fakazki finished playing (Score: 97109, PASSED).
+[20:55:47] BanchoBot: Meownomia finished playing (Score: 80288, PASSED).
+[20:55:47] BanchoBot: anthan1233 finished playing (Score: 10843, PASSED).
+[20:55:47] BanchoBot: Elnory finished playing (Score: 28223, PASSED).
+[20:55:49] BanchoBot: walle finished playing (Score: 82042, PASSED).
+[20:55:53] BanchoBot: [Boy]ThanhHoa finished playing (Score: 205645, PASSED).
+[20:55:53] BanchoBot: The match has finished!
+[20:55:57] DaddyStage: !mp clearhost
+[20:55:57] BanchoBot: Cleared match host
+[20:56:00] DaddyStage: :question:
+[20:56:02] DaddyStage: roll pls
+[20:56:12] [Boy]ThanhHoa: !roll
+[20:56:12] BanchoBot: [Boy]ThanhHoa rolls 35 point(s)
+[20:56:22] DaddyStage: !mp listrefs
+[20:56:22] BanchoBot: Match referees:
+[20:56:22] BanchoBot: Satxri
+[20:56:22] BanchoBot: DaddyStage
+[20:56:30] DaddyStage: !vcl pool on
+[20:56:42] walle: map gi ko co ti spin
+[20:56:42] walle: !roll
+[20:56:42] BanchoBot: walle rolls 71 point(s)
+[20:56:42] walle: ua
+[20:56:42] walle: sao toi ko thay toi duoc roll
+[20:56:42] walle: !roll
+[20:56:42] walle: sao toi ko duoc roll
+[20:56:42] BanchoBot: walle rolls 76 point(s)
+[20:56:42] walle: !roll
+[20:56:42] walle: ???
+[20:56:42] BanchoBot: walle rolls 80 point(s)
+[20:56:46] walle: bruh
+[20:56:49] walle: toi bi lag
+[20:57:01] DaddyStage: monkey chon pick/ban
+[20:57:19] DaddyStage: :prayge:
+[20:57:20] walle: pick 2nd
+[20:57:40] DaddyStage: 1st ban monkey
+[20:57:42] DaddyStage: !mp timer 120
+[20:57:43] BanchoBot: Countdown ends in 2 minutes
+[20:57:48] walle: ban hd2
+[20:57:49] [Boy]ThanhHoa: protect TB1
+[20:57:58] DaddyStage: maimai ban
+[20:57:58] DaddyStage: !mp timer 120
+[20:58:00] BanchoBot: Countdown aborted
+[20:58:00] BanchoBot: Countdown ends in 2 minutes
+[20:58:13] [Boy]ThanhHoa: ban HR2
+[20:58:22] walle: tam biet cs6.5
+[20:58:28] DaddyStage: monkey do ban
+[20:58:32] walle: ban nm6
+[20:58:32] DaddyStage: !mp timer 120
+[20:58:33] BanchoBot: Countdown aborted
+[20:58:33] BanchoBot: Countdown ends in 2 minutes
+[20:58:42] DaddyStage: iamiam ban
+[20:59:07] [Boy]ThanhHoa: DT2
+[20:59:16] DaddyStage: monkey see monkey do | 0 - 0 | Welcome to maimai! // First Pick: Welcome to maimai!
+[20:59:19] DaddyStage: !mp timer 120
+[20:59:19] BanchoBot: Countdown aborted
+[20:59:19] BanchoBot: Countdown ends in 2 minutes
+[20:59:23] DaddyStage: !mp settings
+[20:59:23] BanchoBot: Room name: THT3: (monkey see monkey do) vs (Welcome to maimai, History: https://osu.ppy.sh/mp/104919952
+[20:59:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/786179 xi - FREEDOM DiVE (tpz Overcute Remix) [Time Fall]
+[20:59:23] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:59:23] BanchoBot: Active mods: Freemod
+[20:59:23] BanchoBot: Players: 6
+[20:59:23] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/3318668 Fakazki         [Team Red  / NoFail]
+[20:59:23] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/16128060 Meownomia       [Team Red  / NoFail]
+[20:59:23] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/8431549 walle           [Team Red ]
+[20:59:23] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/10274874 [Boy]ThanhHoa   [Team Blue / NoFail]
+[20:59:23] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/21180395 anthan1233      [Team Blue / NoFail]
+[20:59:23] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/9983282 Elnory          [Team Blue / NoFail, Hidden]
+[20:59:38] [Boy]ThanhHoa: pick umiyuri
+[20:59:47] walle: hoi chieu pick umiyuri 2 lan roi
+[20:59:48] walle: che
+[20:59:54] DaddyStage: huhhh
+[21:00:06] DaddyStage: !mp pick umiyuri
+[21:00:07] [Boy]ThanhHoa: NM3 streamer noi
+[21:00:13] [Boy]ThanhHoa: NM3 vi streamer noi
+[21:00:18] Meownomia: motherfiretruckler
+[21:00:20] BanchoBot: Countdown ends in 1 minute
+[21:00:20] DaddyStage: !mp map 2294521 0
+[21:00:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2294521 umu. - Dareka no Shinzou ni Nareta Nara
+[21:00:21] BanchoBot: Changed match mode to Osu
+[21:00:22] DaddyStage: !mp mods 1
+[21:00:22] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:00:23] DaddyStage: !mp timer 120
+[21:00:24] BanchoBot: Countdown aborted
+[21:00:24] BanchoBot: Countdown ends in 2 minutes
+[21:00:48] walle: ko biet choi alt
+[21:00:48] walle: cuu
+[21:01:00] [Boy]ThanhHoa: chia buon nhung nguoi da bet welcome to maimai
+[21:01:01] walle: waifai mode pls
+[21:01:02] [Boy]ThanhHoa: ban da mat tien
+[21:01:11] walle: chia buon nhung nguoi da bet monkey see monkey do
+[21:01:12] walle: ban da mat tien
+[21:01:13] Elnory: tks for bet
+[21:01:16] BanchoBot: All players are ready
+[21:01:17] Meownomia: chia buon cuoc doi
+[21:01:25] BanchoBot: Countdown ends in 1 minute
+[21:01:25] BanchoBot: All players are ready
+[21:01:28] DaddyStage: tôi có kịch bản sẵn rồi :yum:
+[21:01:29] DaddyStage: !mp settings
+[21:01:30] BanchoBot: Room name: THT3: (monkey see monkey do) vs (Welcome to maimai, History: https://osu.ppy.sh/mp/104919952
+[21:01:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/2294521 umu. - Dareka no Shinzou ni Nareta Nara
+[21:01:30] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:01:30] BanchoBot: Active mods: NoFail
+[21:01:30] BanchoBot: Players: 6
+[21:01:30] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3318668 Fakazki         [Team Red ]
+[21:01:30] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16128060 Meownomia       [Team Red ]
+[21:01:30] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8431549 walle           [Team Red ]
+[21:01:30] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10274874 [Boy]ThanhHoa   [Team Blue]
+[21:01:30] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/21180395 anthan1233      [Team Blue]
+[21:01:30] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/9983282 Elnory          [Team Blue]
+[21:01:31] Meownomia: glhf
+[21:01:33] DaddyStage: !mp start 5 glhf
+[21:01:33] BanchoBot: Countdown aborted
+[21:01:33] BanchoBot: Match starts in 5 seconds
+[21:01:33] BanchoBot: Queued the match to start in 5 seconds
+[21:01:34] BanchoBot: Match starts in 4 seconds
+[21:01:35] walle: glhf
+[21:01:35] BanchoBot: Match starts in 3 seconds
+[21:01:37] BanchoBot: Good luck, have fun!
+[21:01:39] BanchoBot: The match has started!
+[21:05:29] BanchoBot: walle finished playing (Score: 289868, PASSED).
+[21:05:29] BanchoBot: Meownomia finished playing (Score: 127203, PASSED).
+[21:05:29] BanchoBot: Fakazki finished playing (Score: 175869, PASSED).
+[21:05:30] BanchoBot: [Boy]ThanhHoa finished playing (Score: 300640, PASSED).
+[21:05:30] BanchoBot: anthan1233 finished playing (Score: 142108, PASSED).
+[21:05:31] BanchoBot: Elnory finished playing (Score: 173826, PASSED).
+[21:05:31] BanchoBot: The match has finished!
+[21:05:35] DaddyStage: monkey see monkey do | 0 - 1 | Welcome to maimai! // Next Pick: monkey see monkey do
+[21:05:36] DaddyStage: !mp timer 120
+[21:05:37] BanchoBot: Countdown ends in 2 minutes
+[21:05:45] anthan1233: vas
+[21:05:48] walle: 2 ngay ko choi game kieu
+[21:06:12] DaddyStage: vas
+[21:06:14] [Boy]ThanhHoa: ua
+[21:06:15] [Boy]ThanhHoa: sao thang
+[21:06:16] [Boy]ThanhHoa: VAS
+[21:06:17] [Boy]ThanhHoa: 1 DIEM DANH DU
+[21:06:21] [Boy]ThanhHoa: HAY QUA TEAM OI
+[21:06:22] Elnory: 1 diem danh du
+[21:06:23] walle: hr3
+[21:06:31] DaddyStage: !mp map 2939561 0
+[21:06:31] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2939561 EMA - Mafia
+[21:06:31] BanchoBot: Changed match mode to Osu
+[21:06:33] DaddyStage: !mp mods 17
+[21:06:34] Meownomia: gamma 2.9 activate
+[21:06:34] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[21:06:35] DaddyStage: !mp timer 120
+[21:06:36] BanchoBot: Countdown aborted
+[21:06:36] BanchoBot: Countdown ends in 2 minutes
+[21:06:43] walle: banger
+[21:06:50] DaddyStage: smokelind hardrock :susge:
+[21:06:52] [Boy]ThanhHoa: banger
+[21:06:52] walle: makima
+[21:06:59] walle: i want to be ur dog makima
+[21:07:00] [Boy]ThanhHoa: vl nhin bg tuong makima
+[21:07:12] Meownomia: WOOF WOOF
+[21:07:15] walle: de toi mo anh makima da
+[21:07:16] walle: doi ti
+[21:07:16] [Boy]ThanhHoa: WOOF WOOF
+[21:07:16] walle: lay buff
+[21:07:37] BanchoBot: Countdown ends in 1 minute
+[21:07:37] BanchoBot: All players are ready
+[21:07:41] walle: glhf
+[21:07:43] DaddyStage: !mp settings
+[21:07:44] BanchoBot: Room name: THT3: (monkey see monkey do) vs (Welcome to maimai, History: https://osu.ppy.sh/mp/104919952
+[21:07:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/2939561 EMA - Mafia
+[21:07:44] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:07:44] BanchoBot: Active mods: NoFail, HardRock
+[21:07:44] BanchoBot: Players: 6
+[21:07:44] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3318668 Fakazki         [Team Red ]
+[21:07:44] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16128060 Meownomia       [Team Red ]
+[21:07:44] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8431549 walle           [Team Red ]
+[21:07:44] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10274874 [Boy]ThanhHoa   [Team Blue]
+[21:07:44] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/21180395 anthan1233      [Team Blue]
+[21:07:44] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/9983282 Elnory          [Team Blue]
+[21:07:44] Meownomia: glhf
+[21:07:47] DaddyStage: !mp start 5 glhf
+[21:07:48] BanchoBot: Countdown aborted
+[21:07:48] BanchoBot: Match starts in 5 seconds
+[21:07:48] BanchoBot: Queued the match to start in 5 seconds
+[21:07:49] BanchoBot: Match starts in 4 seconds
+[21:07:50] BanchoBot: Match starts in 3 seconds
+[21:07:51] BanchoBot: Good luck, have fun!
+[21:07:53] Elnory: gl
+[21:07:53] BanchoBot: The match has started!
+[21:10:31] DaddyStage: !mp settings
+[21:10:31] BanchoBot: Room name: THT3: (monkey see monkey do) vs (Welcome to maimai, History: https://osu.ppy.sh/mp/104919952
+[21:10:31] BanchoBot: Beatmap: https://osu.ppy.sh/b/2939561 EMA - Mafia
+[21:10:31] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:10:31] BanchoBot: Active mods: NoFail, HardRock
+[21:10:31] BanchoBot: Players: 6
+[21:10:31] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/3318668 Fakazki         [Team Red ]
+[21:10:31] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/16128060 Meownomia       [Team Red ]
+[21:10:31] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/8431549 walle           [Team Red ]
+[21:10:31] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/10274874 [Boy]ThanhHoa   [Team Blue]
+[21:10:31] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/21180395 anthan1233      [Team Blue]
+[21:10:31] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/9983282 Elnory          [Team Blue]
+[21:10:52] BanchoBot: anthan1233 finished playing (Score: 73544, PASSED).
+[21:10:52] BanchoBot: Elnory finished playing (Score: 90885, PASSED).
+[21:10:52] BanchoBot: walle finished playing (Score: 303128, PASSED).
+[21:10:53] BanchoBot: Fakazki finished playing (Score: 174141, PASSED).
+[21:10:53] BanchoBot: Meownomia finished playing (Score: 144394, PASSED).
+[21:10:53] BanchoBot: [Boy]ThanhHoa finished playing (Score: 228289, PASSED).
+[21:10:53] BanchoBot: The match has finished!
+[21:11:10] DaddyStage: monkey see monkey do | 1 - 1 | Welcome to maimai! // Next Pick: Welcome to maimai!	
+[21:11:13] DaddyStage: !mp timer 120
+[21:11:13] BanchoBot: Countdown ends in 2 minutes
+[21:11:52] walle: umiyuri di danh
+[21:11:57] walle: ko thi pick cai gi lv13 cung duoc
+[21:12:01] walle: chill di pri
+[21:12:13] BanchoBot: Countdown ends in 1 minute
+[21:12:13] [Boy]ThanhHoa: HD3
+[21:12:22] DaddyStage: "hoi walle walter white hay saul goodman"
+[21:12:32] DaddyStage: !mp map 2502505 0
+[21:12:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2502505 Dictate - IMITATE
+[21:12:33] BanchoBot: Changed match mode to Osu
+[21:12:37] DaddyStage: !mp mods 9
+[21:12:37] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:12:39] DaddyStage: !mp timer 120
+[21:12:40] BanchoBot: Countdown aborted
+[21:12:40] BanchoBot: Countdown ends in 2 minutes
+[21:12:42] walle: TROI OI
+[21:12:45] walle: CAI NAY SAO MA CHOI
+[21:12:49] walle: ??? RANDOM BULLSHIT GO
+[21:12:50] [Boy]ThanhHoa: lai dieu
+[21:12:54] [Boy]ThanhHoa: lai dieu
+[21:12:56] walle: THANG DUOC CAI NAY TOI BOC CUT AN
+[21:13:03] [Boy]ThanhHoa: NOI NHA
+[21:13:05] [Boy]ThanhHoa: CHAC CHUA
+[21:13:16] walle: ANH KO CHOI CHU GI
+[21:13:16] Meownomia: time to channel my inner hidden player
+[21:13:18] walle: TOI SE DISCONNECT TABLET
+[21:13:24] [Boy]ThanhHoa: VAS
+[21:13:27] walle: toi se an makima
+[21:13:28] walle: VAS
+[21:13:33] [Boy]ThanhHoa: toi cung co choi dc cai nay dau
+[21:13:37] [Boy]ThanhHoa: free win bro
+[21:13:37] BanchoBot: All players are ready
+[21:13:38] DaddyStage: @ cán bộ vui lòng điều tra
+[21:13:40] DaddyStage: !mp settings
+[21:13:41] BanchoBot: Countdown ends in 1 minute
+[21:13:41] BanchoBot: Room name: THT3: (monkey see monkey do) vs (Welcome to maimai, History: https://osu.ppy.sh/mp/104919952
+[21:13:41] BanchoBot: Beatmap: https://osu.ppy.sh/b/2502505 Dictate - IMITATE
+[21:13:41] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:13:41] BanchoBot: Active mods: NoFail, Hidden
+[21:13:41] BanchoBot: Players: 6
+[21:13:41] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3318668 Fakazki         [Team Red ]
+[21:13:41] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16128060 Meownomia       [Team Red ]
+[21:13:41] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8431549 walle           [Team Red ]
+[21:13:41] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10274874 [Boy]ThanhHoa   [Team Blue]
+[21:13:41] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/21180395 anthan1233      [Team Blue]
+[21:13:41] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/9983282 Elnory          [Team Blue]
+[21:13:42] [Boy]ThanhHoa: vao day chi de tau hai
+[21:13:42] walle: shut up bro
+[21:13:44] walle: why bip
+[21:13:48] DaddyStage: !mp start 5 glhf
+[21:13:50] BanchoBot: Countdown aborted
+[21:13:50] BanchoBot: Match starts in 5 seconds
+[21:13:50] BanchoBot: Queued the match to start in 5 seconds
+[21:13:50] [Boy]ThanhHoa: REAL
+[21:13:51] BanchoBot: Match starts in 4 seconds
+[21:13:52] BanchoBot: Match starts in 3 seconds
+[21:13:53] BanchoBot: Good luck, have fun!
+[21:13:55] BanchoBot: The match has started!
+[21:16:36] BanchoBot: [Boy]ThanhHoa finished playing (Score: 305643, PASSED).
+[21:16:36] BanchoBot: Meownomia finished playing (Score: 84149, PASSED).
+[21:16:36] BanchoBot: walle finished playing (Score: 166286, PASSED).
+[21:16:36] BanchoBot: anthan1233 finished playing (Score: 62963, PASSED).
+[21:16:37] BanchoBot: Fakazki finished playing (Score: 320855, PASSED).
+[21:16:37] BanchoBot: Elnory finished playing (Score: 156420, PASSED).
+[21:16:37] BanchoBot: The match has finished!
+[21:16:47] Meownomia: WALLE MOC CUC AN
+[21:16:48] Meownomia: RIU
+[21:16:49] walle: WTF
+[21:16:49] walle: TOI PHAI AN CUT
+[21:16:49] walle: ????
+[21:16:49] Meownomia: ASLGJHAJKGHA
+[21:16:56] [Boy]ThanhHoa: HAHAHA
+[21:16:59] DaddyStage: monkey see monkey do | 2 - 1 | Welcome to maimai! // Next Pick: monkey see monkey do
+[21:17:01] DaddyStage: !mp timer 120
+[21:17:02] BanchoBot: Countdown ends in 2 minutes
+[21:17:05] walle: ?????????
+[21:17:05] Meownomia: CON THÚ TRONG NGƯỜI FAYTH TRỔI DẬY RỒI
+[21:17:07] walle: jsdrhglkjsdlkfjghnsdfg
+[21:17:22] Elnory: :tf:
+[21:17:35] walle: dt3
+[21:17:45] DaddyStage: !mp map 2096920 0
+[21:17:45] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2096920 Utsu-P - Corona
+[21:17:45] BanchoBot: Changed match mode to Osu
+[21:17:47] DaddyStage: !mp mods 65
+[21:17:47] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:17:48] DaddyStage: !mp timer 120
+[21:17:49] BanchoBot: Countdown aborted
+[21:17:49] BanchoBot: Countdown ends in 2 minutes
+[21:18:01] walle: toi tin toi la con cho cua makima
+[21:18:03] walle: makima buff
+[21:18:10] [Boy]ThanhHoa: covid19
+[21:18:28] walle: glhf
+[21:18:34] [Boy]ThanhHoa: golf
+[21:18:34] Meownomia: glhf
+[21:18:34] BanchoBot: All players are ready
+[21:18:36] DaddyStage: !mp settings
+[21:18:36] BanchoBot: Room name: THT3: (monkey see monkey do) vs (Welcome to maimai, History: https://osu.ppy.sh/mp/104919952
+[21:18:36] BanchoBot: Beatmap: https://osu.ppy.sh/b/2096920 Utsu-P - Corona
+[21:18:36] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:18:36] BanchoBot: Active mods: NoFail, DoubleTime
+[21:18:36] BanchoBot: Players: 6
+[21:18:36] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3318668 Fakazki         [Team Red ]
+[21:18:36] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16128060 Meownomia       [Team Red ]
+[21:18:36] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8431549 walle           [Team Red ]
+[21:18:36] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10274874 [Boy]ThanhHoa   [Team Blue]
+[21:18:36] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/21180395 anthan1233      [Team Blue]
+[21:18:36] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/9983282 Elnory          [Team Blue]
+[21:18:40] DaddyStage: !mp start 5 glhf
+[21:18:40] BanchoBot: Countdown aborted
+[21:18:40] BanchoBot: Match starts in 5 seconds
+[21:18:40] BanchoBot: Queued the match to start in 5 seconds
+[21:18:41] BanchoBot: Match starts in 4 seconds
+[21:18:42] BanchoBot: Match starts in 3 seconds
+[21:18:44] BanchoBot: Good luck, have fun!
+[21:18:46] BanchoBot: The match has started!
+[21:21:30] BanchoBot: Fakazki finished playing (Score: 580214, PASSED).
+[21:21:30] BanchoBot: Elnory finished playing (Score: 232303, PASSED).
+[21:21:30] BanchoBot: walle finished playing (Score: 350396, PASSED).
+[21:21:30] BanchoBot: Meownomia finished playing (Score: 234751, PASSED).
+[21:21:30] BanchoBot: anthan1233 finished playing (Score: 129619, PASSED).
+[21:21:30] BanchoBot: [Boy]ThanhHoa finished playing (Score: 408633, PASSED).
+[21:21:30] BanchoBot: The match has finished!
+[21:21:38] DaddyStage: monkey see monkey do | 3 - 1 | Welcome to maimai! // Next Pick: Welcome to maimai!
+[21:21:41] DaddyStage: !mp timer 120
+[21:21:41] BanchoBot: Countdown ends in 2 minutes
+[21:21:49] [Boy]ThanhHoa: fayth ac quy vay
+[21:22:00] BanchoBot: walle left the game.
+[21:22:21] BanchoBot: walle joined in slot 3 for team blue.
+[21:22:24] BanchoBot: walle changed to Red
+[21:22:28] Fakazki: :tf:
+[21:22:40] [Boy]ThanhHoa: DT4
+[21:22:42] BanchoBot: Countdown ends in 1 minute
+[21:22:45] Meownomia: riu?
+[21:22:51] DaddyStage: !mp map 2907160 0
+[21:22:51] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2907160 Silentroom - NULCTRL
+[21:22:51] BanchoBot: Changed match mode to Osu
+[21:22:54] DaddyStage: !mp timer 120
+[21:22:54] BanchoBot: Countdown aborted
+[21:22:54] BanchoBot: Countdown ends in 2 minutes
+[21:22:55] walle: WALLE READING
+[21:22:56] walle: RIU
+[21:23:06] [Boy]ThanhHoa: pick vi nhac maimai ae
+[21:23:50] BanchoBot: All players are ready
+[21:23:53] walle: TOI BI MANG 7 CHU ROI
+[21:23:53] [Boy]ThanhHoa: @nebyb
+[21:23:54] walle: HUUUUUUUUUUU
+[21:23:54] [Boy]ThanhHoa: @nebby
+[21:23:55] BanchoBot: Countdown ends in 1 minute
+[21:24:00] DaddyStage: !mp settings
+[21:24:01] BanchoBot: Room name: THT3: (monkey see monkey do) vs (Welcome to maimai, History: https://osu.ppy.sh/mp/104919952
+[21:24:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/2907160 Silentroom - NULCTRL
+[21:24:01] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:24:01] BanchoBot: Active mods: NoFail, DoubleTime
+[21:24:01] BanchoBot: Players: 6
+[21:24:01] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3318668 Fakazki         [Team Red ]
+[21:24:01] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16128060 Meownomia       [Team Red ]
+[21:24:01] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8431549 walle           [Team Red ]
+[21:24:01] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10274874 [Boy]ThanhHoa   [Team Blue]
+[21:24:01] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/21180395 anthan1233      [Team Blue]
+[21:24:01] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/9983282 Elnory          [Team Blue]
+[21:24:06] DaddyStage: !mp start 5 glhf
+[21:24:07] BanchoBot: Countdown aborted
+[21:24:07] BanchoBot: Match starts in 5 seconds
+[21:24:07] BanchoBot: Queued the match to start in 5 seconds
+[21:24:08] BanchoBot: Match starts in 4 seconds
+[21:24:10] BanchoBot: Match starts in 3 seconds
+[21:24:11] BanchoBot: Good luck, have fun!
+[21:24:13] BanchoBot: The match has started!
+[21:25:54] BanchoBot: Fakazki finished playing (Score: 431606, PASSED).
+[21:25:54] BanchoBot: walle finished playing (Score: 258204, PASSED).
+[21:25:54] BanchoBot: anthan1233 finished playing (Score: 63241, PASSED).
+[21:25:54] BanchoBot: [Boy]ThanhHoa finished playing (Score: 350773, PASSED).
+[21:25:54] BanchoBot: Meownomia finished playing (Score: 81184, PASSED).
+[21:25:54] BanchoBot: Elnory finished playing (Score: 159043, PASSED).
+[21:25:54] BanchoBot: The match has finished!
+[21:26:08] DaddyStage: monkey see monkey do | 4 - 1 | Welcome to maimai! // Next Pick: monkey see monkey do
+[21:26:08] walle: khi fayth choi game
+[21:26:11] DaddyStage: !mp timer 120
+[21:26:12] BanchoBot: Countdown ends in 2 minutes
+[21:26:35] walle: nm5
+[21:26:40] walle: toi muon dm realshin vi toi bi shopee rat nhieu
+[21:26:43] DaddyStage: !mp map 2006819 0
+[21:26:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2006819 Irreversible Mechanism - The Agony
+[21:26:43] BanchoBot: Changed match mode to Osu
+[21:26:45] DaddyStage: !mp mods 1
+[21:26:46] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:26:48] DaddyStage: !mp timer 120
+[21:26:49] BanchoBot: Countdown aborted
+[21:26:49] BanchoBot: Countdown ends in 2 minutes
+[21:26:51] Meownomia: Agony
+[21:27:06] walle: ANY SPEEDERS
+[21:27:18] [Boy]ThanhHoa: no speeders
+[21:27:22] walle: toi dang
+[21:27:28] walle: go dog mode
+[21:27:34] Meownomia: gau gau
+[21:27:40] walle: for real
+[21:27:49] BanchoBot: Countdown ends in 1 minute
+[21:28:04] BanchoBot: All players are ready
+[21:28:06] DaddyStage: !mp settings
+[21:28:07] BanchoBot: Room name: THT3: (monkey see monkey do) vs (Welcome to maimai, History: https://osu.ppy.sh/mp/104919952
+[21:28:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/2006819 Irreversible Mechanism - The Agony
+[21:28:07] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:28:07] BanchoBot: Active mods: NoFail
+[21:28:07] BanchoBot: Players: 6
+[21:28:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3318668 Fakazki         [Team Red ]
+[21:28:07] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16128060 Meownomia       [Team Red ]
+[21:28:07] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8431549 walle           [Team Red ]
+[21:28:07] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10274874 [Boy]ThanhHoa   [Team Blue]
+[21:28:07] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/21180395 anthan1233      [Team Blue]
+[21:28:07] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/9983282 Elnory          [Team Blue]
+[21:28:10] DaddyStage: !mp start 5 glhf
+[21:28:10] BanchoBot: Countdown aborted
+[21:28:10] BanchoBot: Match starts in 5 seconds
+[21:28:10] BanchoBot: Queued the match to start in 5 seconds
+[21:28:11] BanchoBot: Match starts in 4 seconds
+[21:28:13] BanchoBot: Match starts in 3 seconds
+[21:28:14] BanchoBot: Good luck, have fun!
+[21:28:16] BanchoBot: The match has started!
+[21:31:55] BanchoBot: Elnory finished playing (Score: 109821, PASSED).
+[21:31:55] BanchoBot: Fakazki finished playing (Score: 317651, PASSED).
+[21:31:57] BanchoBot: Meownomia finished playing (Score: 202809, PASSED).
+[21:31:57] BanchoBot: anthan1233 finished playing (Score: 41778, PASSED).
+[21:31:57] BanchoBot: walle finished playing (Score: 185420, PASSED).
+[21:31:57] BanchoBot: [Boy]ThanhHoa finished playing (Score: 366564, PASSED).
+[21:31:57] BanchoBot: The match has finished!
+[21:32:12] walle: TOI THAP DIEM NHAT TEAM
+[21:32:13] walle: LETS GOOOOO
+[21:32:15] DaddyStage: monkey see monkey do | 5 - 1 | Welcome to maimai! // Next Pick: Welcome to maimai!
+[21:32:17] DaddyStage: !mp timer 120
+[21:32:18] BanchoBot: Countdown ends in 2 minutes
+[21:32:42] Meownomia: no bro
+[21:32:42] walle: bottom mc
+[21:32:53] [Boy]ThanhHoa: vai team bi out meta roi
+[21:32:54] walle: toi nghe nhieu tieng shopee qua
+[21:32:59] [Boy]ThanhHoa: pick gi do bi out meta
+[21:33:07] walle: Fm1 di anh
+[21:33:18] BanchoBot: Countdown ends in 1 minute
+[21:33:49] BanchoBot: Countdown ends in 30 seconds
+[21:33:50] [Boy]ThanhHoa: HD1
+[21:33:58] walle: TROI OI
+[21:34:00] DaddyStage: !mp map 3439211 0
+[21:34:01] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3439211 ELFENSJoN - Rakuin no Na wa Akaku
+[21:34:01] BanchoBot: Changed match mode to Osu
+[21:34:02] DaddyStage: !mp mods 9
+[21:34:03] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:34:05] DaddyStage: !mp timer 120
+[21:34:05] Meownomia: stamina map
+[21:34:05] BanchoBot: Countdown aborted
+[21:34:05] BanchoBot: Countdown ends in 2 minutes
+[21:34:17] Elnory: nay h toan troi oi ma van cu win
+[21:34:19] Elnory: bjp vai
+[21:34:21] walle: toi se choi skin realshin
+[21:34:29] [Boy]ThanhHoa: uoc troi oi
+[21:34:52] [Boy]ThanhHoa: danh nhanh ra choi stardew valley
+[21:34:54] [Boy]ThanhHoa: +3
+[21:35:05] BanchoBot: Countdown ends in 1 minute
+[21:35:09] Meownomia: riu?
+[21:35:10] BanchoBot: All players are ready
+[21:35:10] DaddyStage: cream_api.dll
+[21:35:12] [Boy]ThanhHoa: riu no face
+[21:35:15] DaddyStage: !mp settings
+[21:35:15] [Boy]ThanhHoa: shut up
+[21:35:15] BanchoBot: Room name: THT3: (monkey see monkey do) vs (Welcome to maimai, History: https://osu.ppy.sh/mp/104919952
+[21:35:15] BanchoBot: Beatmap: https://osu.ppy.sh/b/3439211 ELFENSJoN - Rakuin no Na wa Akaku
+[21:35:15] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:35:15] BanchoBot: Active mods: NoFail, Hidden
+[21:35:15] BanchoBot: Players: 6
+[21:35:15] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3318668 Fakazki         [Team Red ]
+[21:35:15] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16128060 Meownomia       [Team Red ]
+[21:35:15] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8431549 walle           [Team Red ]
+[21:35:15] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10274874 [Boy]ThanhHoa   [Team Blue]
+[21:35:15] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/21180395 anthan1233      [Team Blue]
+[21:35:15] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/9983282 Elnory          [Team Blue]
+[21:35:19] walle: riu no face
+[21:35:19] DaddyStage: !mp start 5 glhf
+[21:35:20] BanchoBot: Countdown aborted
+[21:35:20] BanchoBot: Match starts in 5 seconds
+[21:35:20] BanchoBot: Queued the match to start in 5 seconds
+[21:35:21] BanchoBot: Match starts in 4 seconds
+[21:35:22] BanchoBot: Match starts in 3 seconds
+[21:35:23] Meownomia: glhf
+[21:35:23] BanchoBot: Good luck, have fun!
+[21:35:25] BanchoBot: The match has started!
+[21:35:25] walle: glhf
+[21:35:26] anthan1233: xin slot ik danh
+[21:39:13] BanchoBot: [Boy]ThanhHoa finished playing (Score: 398818, PASSED).
+[21:39:13] BanchoBot: Elnory finished playing (Score: 304433, PASSED).
+[21:39:13] BanchoBot: Fakazki finished playing (Score: 341475, PASSED).
+[21:39:13] BanchoBot: anthan1233 finished playing (Score: 184289, PASSED).
+[21:39:13] BanchoBot: Meownomia finished playing (Score: 218537, PASSED).
+[21:39:13] BanchoBot: walle finished playing (Score: 264875, PASSED).
+[21:39:13] BanchoBot: The match has finished!
+[21:39:25] walle: TOI NGHE NHIEU TIENG SHOPEE QUA
+[21:39:25] DaddyStage: monkey see monkey do | 5 - 2 | Welcome to maimai! // Next Pick: monkey see monkey do
+[21:39:28] DaddyStage: !mp timer 120
+[21:39:28] BanchoBot: Countdown ends in 2 minutes
+[21:39:41] [Boy]ThanhHoa: ok em
+[21:39:43] walle: toi se funny
+[21:39:44] walle: fm1
+[21:39:51] Meownomia: tại sao tôi cứ bị elnory combo game
+[21:39:53] DaddyStage: !mp map 3673268 0
+[21:39:53] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3673268 La priere - Evo
+[21:39:53] BanchoBot: Changed match mode to Osu
+[21:39:59] DaddyStage: !mp mods Freemod
+[21:40:00] BanchoBot: Disabled all mods, enabled FreeMod
+[21:40:10] DaddyStage: !mp timer 120
+[21:40:10] Elnory: vi toi tron game
+[21:40:11] BanchoBot: Countdown aborted
+[21:40:11] BanchoBot: Countdown ends in 2 minutes
+[21:40:13] Elnory: :tf:
+[21:40:29] DaddyStage: hoc theo an than ha troi oi
+[21:40:58] [Boy]ThanhHoa: alo stream ti ai stardew valley k
+[21:41:11] [Boy]ThanhHoa: ok ban guru nhe
+[21:41:12] BanchoBot: Countdown ends in 1 minute
+[21:41:26] DaddyStage: !mp settings
+[21:41:27] BanchoBot: Room name: THT3: (monkey see monkey do) vs (Welcome to maimai, History: https://osu.ppy.sh/mp/104919952
+[21:41:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/3673268 La priere - Evo
+[21:41:27] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:41:27] BanchoBot: Active mods: Freemod
+[21:41:27] BanchoBot: Players: 6
+[21:41:27] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3318668 Fakazki         [Team Red  / NoFail]
+[21:41:27] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16128060 Meownomia       [Team Red  / NoFail, Hidden]
+[21:41:27] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8431549 walle           [Team Red  / NoFail, HardRock]
+[21:41:27] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10274874 [Boy]ThanhHoa   [Team Blue / NoFail]
+[21:41:27] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/21180395 anthan1233      [Team Blue / NoFail, HardRock]
+[21:41:27] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/9983282 Elnory          [Team Blue / NoFail, Hidden]
+[21:41:42] BanchoBot: Countdown ends in 30 seconds
+[21:41:51] BanchoBot: All players are ready
+[21:41:52] DaddyStage: !mp settings
+[21:41:53] BanchoBot: Room name: THT3: (monkey see monkey do) vs (Welcome to maimai, History: https://osu.ppy.sh/mp/104919952
+[21:41:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/3673268 La priere - Evo
+[21:41:53] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:41:53] BanchoBot: Active mods: Freemod
+[21:41:53] BanchoBot: Players: 6
+[21:41:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3318668 Fakazki         [Team Red  / NoFail]
+[21:41:53] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16128060 Meownomia       [Team Red  / NoFail, Hidden]
+[21:41:53] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8431549 walle           [Team Red  / NoFail, HardRock]
+[21:41:53] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10274874 [Boy]ThanhHoa   [Team Blue / NoFail]
+[21:41:53] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/21180395 anthan1233      [Team Blue / NoFail, HardRock]
+[21:41:53] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/9983282 Elnory          [Team Blue / NoFail, Hidden]
+[21:41:54] DaddyStage: !mp start 5 glhf
+[21:41:54] BanchoBot: Countdown aborted
+[21:41:54] BanchoBot: Match starts in 5 seconds
+[21:41:54] BanchoBot: Queued the match to start in 5 seconds
+[21:41:55] BanchoBot: Match starts in 4 seconds
+[21:41:56] BanchoBot: Match starts in 3 seconds
+[21:41:58] walle: glhf
+[21:41:58] BanchoBot: Good luck, have fun!
+[21:41:59] Meownomia: glhf
+[21:42:00] BanchoBot: The match has started!
+[21:45:07] BanchoBot: Elnory finished playing (Score: 436175, PASSED).
+[21:45:07] BanchoBot: Meownomia finished playing (Score: 190762, PASSED).
+[21:45:07] BanchoBot: anthan1233 finished playing (Score: 134229, PASSED).
+[21:45:07] BanchoBot: walle finished playing (Score: 410284, PASSED).
+[21:45:08] BanchoBot: Fakazki finished playing (Score: 436120, PASSED).
+[21:45:08] BanchoBot: [Boy]ThanhHoa finished playing (Score: 530293, PASSED).
+[21:45:08] BanchoBot: The match has finished!
+[21:45:12] DaddyStage: monkey see monkey do | 5 - 3 | Welcome to maimai! // Next Pick: Welcome to maimai!
+[21:45:15] DaddyStage: !mp timer 120
+[21:45:16] BanchoBot: Countdown ends in 2 minutes
+[21:45:18] walle: hr ac quy qua
+[21:45:39] [Boy]ThanhHoa: map xam lol qua
+[21:45:55] walle: map xam lolz vl
+[21:46:16] BanchoBot: Countdown ends in 1 minute
+[21:46:47] BanchoBot: Countdown ends in 30 seconds
+[21:46:53] [Boy]ThanhHoa: NM1
+[21:47:01] DaddyStage: !mp map 2103821 0
+[21:47:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2103821 Suzuki Konomi - My Days
+[21:47:02] BanchoBot: Changed match mode to Osu
+[21:47:02] DaddyStage: !mp mods 1
+[21:47:03] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:47:04] walle: CUU
+[21:47:05] DaddyStage: tat stream di pa
+[21:47:06] BanchoBot: Countdown ends in 10 seconds
+[21:47:07] DaddyStage: !mp timer 120
+[21:47:08] BanchoBot: Countdown aborted
+[21:47:08] BanchoBot: Countdown ends in 2 minutes
+[21:47:09] Fakazki: CUU
+[21:47:13] walle: hoaq oi
+[21:47:14] walle: xin via
+[21:47:22] [Boy]ThanhHoa: hoaq oi
+[21:47:23] [Boy]ThanhHoa: xin via
+[21:47:43] Elnory: xin ke
+[21:47:51] [Boy]ThanhHoa: @hotcat190
+[21:47:52] [Boy]ThanhHoa: xin via
+[21:47:53] Elnory: can binh oxi
+[21:48:02] walle: im blue dabididabadoo
+[21:48:05] anthan1233: moi nguoi cho e xin cai may tho la duoc a.
+[21:48:09] BanchoBot: Countdown ends in 1 minute
+[21:48:14] walle: glhf
+[21:48:15] BanchoBot: All players are ready
+[21:48:21] DaddyStage: !mp settings
+[21:48:22] BanchoBot: Room name: THT3: (monkey see monkey do) vs (Welcome to maimai, History: https://osu.ppy.sh/mp/104919952
+[21:48:22] BanchoBot: Beatmap: https://osu.ppy.sh/b/2103821 Suzuki Konomi - My Days
+[21:48:22] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:48:22] BanchoBot: Active mods: NoFail
+[21:48:22] BanchoBot: Players: 6
+[21:48:22] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3318668 Fakazki         [Team Red ]
+[21:48:22] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16128060 Meownomia       [Team Red ]
+[21:48:22] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8431549 walle           [Team Red ]
+[21:48:22] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10274874 [Boy]ThanhHoa   [Team Blue]
+[21:48:22] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/21180395 anthan1233      [Team Blue]
+[21:48:22] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/9983282 Elnory          [Team Blue]
+[21:48:29] DaddyStage: !mp start 5 glhf
+[21:48:30] BanchoBot: Countdown aborted
+[21:48:30] BanchoBot: Match starts in 5 seconds
+[21:48:30] BanchoBot: Queued the match to start in 5 seconds
+[21:48:31] BanchoBot: Match starts in 4 seconds
+[21:48:32] BanchoBot: Match starts in 3 seconds
+[21:48:33] BanchoBot: Good luck, have fun!
+[21:48:34] Meownomia: glhf
+[21:48:35] BanchoBot: The match has started!
+[21:53:11] BanchoBot: [Boy]ThanhHoa finished playing (Score: 655908, PASSED).
+[21:53:11] BanchoBot: walle finished playing (Score: 482210, PASSED).
+[21:53:12] BanchoBot: Meownomia finished playing (Score: 315782, PASSED).
+[21:53:12] BanchoBot: Elnory finished playing (Score: 336633, PASSED).
+[21:53:13] BanchoBot: Fakazki finished playing (Score: 404942, PASSED).
+[21:53:13] BanchoBot: anthan1233 finished playing (Score: 330575, PASSED).
+[21:53:13] BanchoBot: The match has finished!
+[21:53:22] [Boy]ThanhHoa: who put spacing in my NM1
+[21:53:25] DaddyStage: monkey see monkey do | 5 - 4 | Welcome to maimai! // Next Pick: monkey see monkey do
+[21:53:28] DaddyStage: !mp timer 120
+[21:53:29] BanchoBot: Countdown ends in 2 minutes
+[21:53:37] walle: fm2
+[21:53:50] DaddyStage: !mp map 1239979 0
+[21:53:51] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1239979 NICODE - The Way we Were
+[21:53:51] BanchoBot: Changed match mode to Osu
+[21:53:53] DaddyStage: !mp mods Freemod
+[21:53:54] BanchoBot: Disabled all mods, enabled FreeMod
+[21:53:55] DaddyStage: !mp timer 120
+[21:53:56] BanchoBot: Countdown aborted
+[21:53:56] BanchoBot: Countdown ends in 2 minutes
+[21:54:50] walle: danh oi
+[21:54:50] walle: tha e
+[21:54:53] walle: T_T
+[21:54:55] walle: cau nguyen
+[21:54:55] walle: quy lay
+[21:54:56] BanchoBot: Countdown ends in 1 minute
+[21:54:57] walle: glgl
+[21:55:01] [Boy]ThanhHoa: WTF
+[21:55:03] BanchoBot: All players are ready
+[21:55:04] [Boy]ThanhHoa: kieu j cha thua
+[21:55:05] [Boy]ThanhHoa: :'(
+[21:55:08] DaddyStage: !mp settings
+[21:55:09] walle: :(
+[21:55:10] BanchoBot: Room name: THT3: (monkey see monkey do) vs (Welcome to maimai, History: https://osu.ppy.sh/mp/104919952
+[21:55:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/1239979 NICODE - The Way we Were
+[21:55:10] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:55:10] BanchoBot: Active mods: Freemod
+[21:55:10] BanchoBot: Players: 6
+[21:55:10] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3318668 Fakazki         [Team Red  / NoFail]
+[21:55:10] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16128060 Meownomia       [Team Red  / NoFail, Hidden]
+[21:55:10] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8431549 walle           [Team Red  / NoFail, HardRock]
+[21:55:10] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10274874 [Boy]ThanhHoa   [Team Blue / NoFail]
+[21:55:10] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/21180395 anthan1233      [Team Blue / NoFail, HardRock]
+[21:55:10] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/9983282 Elnory          [Team Blue / NoFail, Hidden]
+[21:55:11] walle: bip
+[21:55:20] DaddyStage: bat ngo z
+[21:55:23] DaddyStage: !mp start 5 glhf
+[21:55:25] BanchoBot: Countdown aborted
+[21:55:25] BanchoBot: Match starts in 5 seconds
+[21:55:25] BanchoBot: Queued the match to start in 5 seconds
+[21:55:26] BanchoBot: Match starts in 4 seconds
+[21:55:27] BanchoBot: Match starts in 3 seconds
+[21:55:28] BanchoBot: Good luck, have fun!
+[21:55:30] BanchoBot: The match has started!
+[21:57:40] BanchoBot: Fakazki finished playing (Score: 564373, PASSED).
+[21:57:40] BanchoBot: anthan1233 finished playing (Score: 110465, PASSED).
+[21:57:40] BanchoBot: walle finished playing (Score: 860616, PASSED).
+[21:57:40] BanchoBot: [Boy]ThanhHoa finished playing (Score: 715713, PASSED).
+[21:57:41] BanchoBot: Elnory finished playing (Score: 222275, PASSED).
+[21:57:41] BanchoBot: Meownomia finished playing (Score: 58747, PASSED).
+[21:57:41] BanchoBot: The match has finished!
+[21:57:51] DaddyStage: monkey see monkey do | 6 - 4 | Welcome to maimai! // Next Pick: Welcome to maimai!
+[21:57:53] DaddyStage: !mp timer 120
+[21:57:54] BanchoBot: Countdown ends in 2 minutes
+[21:57:58] walle: cuoi cung cung co 1 cai fc
+[21:58:00] walle: cam on cuoc doi
+[21:58:37] [Boy]ThanhHoa: NM4
+[21:58:43] [Boy]ThanhHoa: cuoi cung cung co 1 cai fc
+[21:58:45] [Boy]ThanhHoa: cam on cuoc doi
+[21:58:47] DaddyStage: !mp map 2708970 0
+[21:58:47] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2708970 Camellia - #1f1e33
+[21:58:47] BanchoBot: Changed match mode to Osu
+[21:58:48] walle: banger
+[21:58:49] DaddyStage: !mp mods 1
+[21:58:50] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:58:50] DaddyStage: !mp timer 120
+[21:58:51] BanchoBot: Countdown aborted
+[21:58:51] BanchoBot: Countdown ends in 2 minutes
+[21:58:58] walle: map nay tri vl
+[21:59:16] [Boy]ThanhHoa: k biet map nhu nao
+[21:59:20] [Boy]ThanhHoa: nma hay
+[21:59:23] walle: map drake do
+[21:59:32] walle: nhung ma nhac hay
+[21:59:51] BanchoBot: Countdown ends in 1 minute
+[21:59:54] walle: glhf
+[21:59:56] BanchoBot: All players are ready
+[21:59:59] DaddyStage: !mp settings
+[22:00:00] BanchoBot: Room name: THT3: (monkey see monkey do) vs (Welcome to maimai, History: https://osu.ppy.sh/mp/104919952
+[22:00:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/2708970 Camellia - #1f1e33
+[22:00:00] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:00:00] BanchoBot: Active mods: NoFail
+[22:00:00] BanchoBot: Players: 6
+[22:00:00] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3318668 Fakazki         [Team Red ]
+[22:00:00] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16128060 Meownomia       [Team Red ]
+[22:00:00] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8431549 walle           [Team Red ]
+[22:00:00] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10274874 [Boy]ThanhHoa   [Team Blue]
+[22:00:00] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/21180395 anthan1233      [Team Blue]
+[22:00:00] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/9983282 Elnory          [Team Blue]
+[22:00:03] [Boy]ThanhHoa: golf
+[22:00:05] DaddyStage: :prayge:
+[22:00:06] DaddyStage: !mp start 5 glhf
+[22:00:07] BanchoBot: Countdown aborted
+[22:00:07] BanchoBot: Match starts in 5 seconds
+[22:00:07] BanchoBot: Queued the match to start in 5 seconds
+[22:00:08] BanchoBot: Match starts in 4 seconds
+[22:00:10] BanchoBot: Match starts in 3 seconds
+[22:00:11] BanchoBot: Good luck, have fun!
+[22:00:13] BanchoBot: The match has started!
+[22:03:00] BanchoBot: Fakazki finished playing (Score: 202984, PASSED).
+[22:03:00] BanchoBot: anthan1233 finished playing (Score: 146925, PASSED).
+[22:03:00] BanchoBot: Elnory finished playing (Score: 205138, PASSED).
+[22:03:01] BanchoBot: [Boy]ThanhHoa finished playing (Score: 242315, PASSED).
+[22:03:01] BanchoBot: walle finished playing (Score: 223461, PASSED).
+[22:03:02] BanchoBot: Meownomia finished playing (Score: 113084, PASSED).
+[22:03:02] BanchoBot: The match has finished!
+[22:03:13] walle: dt1
+[22:03:13] DaddyStage: monkey see monkey do | 6 - 5 | Welcome to maimai! // Next Pick: monkey see monkey do
+[22:03:21] DaddyStage: NOOOOOOOOOOOO
+[22:03:29] DaddyStage: !mp map 1314590 0
+[22:03:30] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1314590 Okui Aki - Calendrier
+[22:03:30] BanchoBot: Changed match mode to Osu
+[22:03:32] DaddyStage: !mp map 1314590 0
+[22:03:33] walle: gamma
+[22:03:34] DaddyStage: !mp mods 65
+[22:03:34] walle: gamma map
+[22:03:34] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[22:03:36] DaddyStage: !mp timer 120
+[22:03:37] BanchoBot: Countdown ends in 2 minutes
+[22:03:56] walle: de nghi guru ko mac ia nha
+[22:04:09] [Boy]ThanhHoa: toi mac ia
+[22:04:12] DaddyStage: NGHANH
+[22:04:16] walle: ok di ia chung
+[22:04:19] DaddyStage: !MP ADDREF SALT-RANOCCHIO
+[22:04:19] BanchoBot: User not found: SALT-RANOCCHIO
+[22:04:30] walle: glhf
+[22:04:38] BanchoBot: Countdown ends in 1 minute
+[22:04:50] BanchoBot: All players are ready
+[22:04:56] DaddyStage: !mp settings
+[22:04:56] BanchoBot: Room name: THT3: (monkey see monkey do) vs (Welcome to maimai, History: https://osu.ppy.sh/mp/104919952
+[22:04:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/1314590 Okui Aki - Calendrier
+[22:04:56] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:04:56] BanchoBot: Active mods: NoFail, DoubleTime
+[22:04:56] BanchoBot: Players: 6
+[22:04:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3318668 Fakazki         [Team Red ]
+[22:04:56] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16128060 Meownomia       [Team Red ]
+[22:04:56] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8431549 walle           [Team Red ]
+[22:04:56] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10274874 [Boy]ThanhHoa   [Team Blue]
+[22:04:56] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/21180395 anthan1233      [Team Blue]
+[22:04:56] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/9983282 Elnory          [Team Blue]
+[22:05:05] DaddyStage: !mp start 10 GLHF!
+[22:05:05] BanchoBot: Countdown aborted
+[22:05:05] BanchoBot: Match starts in 10 seconds
+[22:05:05] BanchoBot: Queued the match to start in 10 seconds
+[22:05:11] BanchoBot: Match starts in 5 seconds
+[22:05:12] BanchoBot: Match starts in 4 seconds
+[22:05:13] BanchoBot: Match starts in 3 seconds
+[22:05:14] BanchoBot: Good luck, have fun!
+[22:05:15] BanchoBot: The match has started!
+[22:08:02] BanchoBot: walle finished playing (Score: 658439, PASSED).
+[22:08:02] BanchoBot: Elnory finished playing (Score: 234553, PASSED).
+[22:08:03] BanchoBot: Meownomia finished playing (Score: 195486, PASSED).
+[22:08:03] BanchoBot: [Boy]ThanhHoa finished playing (Score: 205290, PASSED).
+[22:08:03] BanchoBot: anthan1233 finished playing (Score: 195444, PASSED).
+[22:08:03] BanchoBot: Fakazki finished playing (Score: 423049, PASSED).
+[22:08:03] BanchoBot: The match has finished!
+[22:08:11] DaddyStage: Congrats to monkey see monkey do for winning this match! GGWP both teams!
+[22:08:14] [Boy]ThanhHoa: ggs
+[22:08:16] anthan1233: ggwp
+[22:08:18] walle: ggs
+[22:08:20] Elnory: ggwp
+[22:08:23] walle: thanks for game
+[22:08:24] walle: thanks for ref
+[22:08:27] DaddyStage: Welcome to maimai! đã làm rất tốt
+[22:08:29] Meownomia: ggwp
+[22:08:29] [Boy]ThanhHoa: thanks for ref
+[22:08:34] Fakazki: tks for ref
+[22:08:36] Fakazki: ggwp
+[22:08:41] Meownomia: thx for ref
+[22:08:42] Meownomia: thx for stream
+[22:08:43] BanchoBot: Meownomia left the game.
+[22:08:44] DaddyStage: monkey cũng vậy :3c
+[22:08:55] Elnory: tks for ref
+[22:08:55] Elnory: :3
+[22:09:04] anthan1233: tks for ref
+[22:09:07] BanchoBot: anthan1233 left the game.
+[22:09:12] BanchoBot: walle left the game.
+[22:09:12] BanchoBot: Elnory left the game.
+[22:09:20] BanchoBot: Fakazki left the game.
+[22:09:21] [Boy]ThanhHoa: o/
+[22:09:22] BanchoBot: [Boy]ThanhHoa left the game.
+[22:11:02] DaddyStage: !mp close
+[22:11:02] BanchoBot: Closed the match

@@ -1,0 +1,464 @@
+[22:53:31] Joined #mp_101349840
+[22:53:31] BCraftMG: !mp settings
+[22:53:32] BanchoBot: Room name: STT3: (Q21) vs (Qualifiers), History: https://osu.ppy.sh/mp/101349840
+[22:53:32] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[22:53:32] BanchoBot: Players: 0
+[22:53:48] BCraftMG: !mp invite #6123978
+[22:53:49] BanchoBot: Invited AleXGG123 to the room
+[22:53:55] BCraftMG: !mp set 0 3 8
+[22:53:56] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[22:55:31] BanchoBot: AleXGG123 joined in slot 1.
+[22:55:34] AleXGG123: o/
+[22:55:40] BCraftMG: o/
+[22:56:16] AleXGG123: do I inv the rest of the team now?
+[22:56:27] BCraftMG: yeay ea
+[22:56:42] BanchoBot: zxz_regular joined in slot 2.
+[22:56:44] BCraftMG: !mp map 3044298 0
+[22:56:45] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3044298 CHiCO with HoneyWorks - Kessen Spirit
+[22:56:45] BanchoBot: Changed match mode to Osu
+[22:56:48] BCraftMG: !mp mods 1
+[22:56:49] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:57:03] BCraftMG: only 3 players per map
+[22:57:12] AleXGG123: yea
+[22:57:16] BanchoBot: Kumagi Eri joined in slot 3.
+[22:58:40] BanchoBot: All players are ready
+[22:58:55] BCraftMG: !mp settings
+[22:58:57] BanchoBot: Room name: STT3: (Q21) vs (Qualifiers), History: https://osu.ppy.sh/mp/101349840
+[22:58:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/3044298 CHiCO with HoneyWorks - Kessen Spirit
+[22:58:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:58:57] BanchoBot: Active mods: NoFail
+[22:58:57] BanchoBot: Players: 3
+[22:58:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6123978 AleXGG123       
+[22:58:57] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3732348 zxz_regular     
+[22:58:57] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9153879 Kumagi Eri      
+[22:59:02] BCraftMG: !mp start 10
+[22:59:03] BanchoBot: Match starts in 10 seconds
+[22:59:03] BanchoBot: Queued the match to start in 10 seconds
+[22:59:09] BanchoBot: Match starts in 5 seconds
+[22:59:09] BanchoBot: Match starts in 4 seconds
+[22:59:10] BanchoBot: Match starts in 3 seconds
+[22:59:11] BanchoBot: Good luck, have fun!
+[22:59:14] BanchoBot: The match has started!
+[22:59:14] Kumagi_Eri: gl
+[22:59:18] BCraftMG: glgl
+[23:03:51] BanchoBot: AleXGG123 finished playing (Score: 233255, PASSED).
+[23:03:51] BanchoBot: zxz_regular finished playing (Score: 527737, PASSED).
+[23:03:51] BanchoBot: Kumagi Eri finished playing (Score: 404077, PASSED).
+[23:03:51] BanchoBot: The match has finished!
+[23:03:59] BCraftMG: !mp map 3056724 0
+[23:04:01] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3056724 Plum - Halloween Candystore
+[23:04:01] BanchoBot: Changed match mode to Osu
+[23:04:11] BanchoBot: -nanashimumei- joined in slot 4.
+[23:04:11] BanchoBot: AleXGG123 left the game.
+[23:04:16] -nanashimumei-: o/
+[23:04:21] BCraftMG: \o
+[23:04:21] Kumagi_Eri: o/
+[23:04:22] zxz_regular: o/
+[23:04:32] -nanashimumei-: 12am debuff
+[23:04:57] Kumagi_Eri: 6pm buff
+[23:05:03] BanchoBot: All players are ready
+[23:05:05] BCraftMG: !mp settings
+[23:05:05] BanchoBot: Room name: STT3: (Q21) vs (Qualifiers), History: https://osu.ppy.sh/mp/101349840
+[23:05:05] BanchoBot: Beatmap: https://osu.ppy.sh/b/3056724 Plum - Halloween Candystore
+[23:05:05] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:05:05] BanchoBot: Active mods: NoFail
+[23:05:05] BanchoBot: Players: 3
+[23:05:05] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3732348 zxz_regular     
+[23:05:05] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9153879 Kumagi Eri      
+[23:05:05] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13471724 -nanashimumei-  
+[23:05:10] zxz_regular: 'debuff'
+[23:05:13] BCraftMG: !mp start 5
+[23:05:14] BanchoBot: Match starts in 5 seconds
+[23:05:14] BanchoBot: Queued the match to start in 5 seconds
+[23:05:15] BanchoBot: Match starts in 4 seconds
+[23:05:16] BanchoBot: Match starts in 3 seconds
+[23:05:17] zxz_regular: glhf
+[23:05:17] BanchoBot: Good luck, have fun!
+[23:05:20] BanchoBot: The match has started!
+[23:07:48] BanchoBot: Kumagi Eri finished playing (Score: 298888, PASSED).
+[23:07:50] BanchoBot: -nanashimumei- finished playing (Score: 234004, PASSED).
+[23:07:51] BanchoBot: zxz_regular finished playing (Score: 362779, PASSED).
+[23:07:51] BanchoBot: The match has finished!
+[23:08:16] BanchoBot: AleXGG123 joined in slot 1.
+[23:08:18] BCraftMG: !mp map 3580667 0
+[23:08:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3580667 Tanchiky - REDOUT feat. Torika (Cut Ver.)
+[23:08:20] BanchoBot: Changed match mode to Osu
+[23:08:43] BanchoBot: Kumagi Eri left the game.
+[23:09:18] BanchoBot: All players are ready
+[23:09:20] BCraftMG: !mp settings
+[23:09:22] BanchoBot: Room name: STT3: (Q21) vs (Qualifiers), History: https://osu.ppy.sh/mp/101349840
+[23:09:22] BanchoBot: Beatmap: https://osu.ppy.sh/b/3580667 Tanchiky - REDOUT feat. Torika (Cut Ver.)
+[23:09:22] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:09:22] BanchoBot: Active mods: NoFail
+[23:09:22] BanchoBot: Players: 3
+[23:09:22] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6123978 AleXGG123       
+[23:09:22] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3732348 zxz_regular     
+[23:09:22] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13471724 -nanashimumei-  
+[23:09:23] BCraftMG: !mp start 10
+[23:09:24] BanchoBot: Match starts in 10 seconds
+[23:09:24] BanchoBot: Queued the match to start in 10 seconds
+[23:09:30] BanchoBot: Match starts in 5 seconds
+[23:09:31] BanchoBot: Match starts in 4 seconds
+[23:09:31] zxz_regular: glhf
+[23:09:31] BanchoBot: Match starts in 3 seconds
+[23:09:32] BanchoBot: Good luck, have fun!
+[23:09:35] BanchoBot: The match has started!
+[23:11:31] BanchoBot: zxz_regular finished playing (Score: 305256, PASSED).
+[23:11:32] BanchoBot: -nanashimumei- finished playing (Score: 183494, PASSED).
+[23:11:32] BanchoBot: AleXGG123 finished playing (Score: 298745, PASSED).
+[23:11:32] BanchoBot: The match has finished!
+[23:11:58] BanchoBot: AleXGG123 left the game.
+[23:12:01] BanchoBot: AleXGG123 joined in slot 1.
+[23:12:14] BCraftMG: !mp map 2675202 0
+[23:12:15] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2675202 Kagemori Michiru (CV: Morohoshi Sumire) - Ready to
+[23:12:15] BanchoBot: Changed match mode to Osu
+[23:13:05] BanchoBot: All players are ready
+[23:13:08] BCraftMG: !mp settings
+[23:13:09] BanchoBot: Room name: STT3: (Q21) vs (Qualifiers), History: https://osu.ppy.sh/mp/101349840
+[23:13:09] BanchoBot: Beatmap: https://osu.ppy.sh/b/2675202 Kagemori Michiru (CV: Morohoshi Sumire) - Ready to
+[23:13:09] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:13:09] BanchoBot: Active mods: NoFail
+[23:13:09] BanchoBot: Players: 3
+[23:13:09] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6123978 AleXGG123       
+[23:13:09] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3732348 zxz_regular     
+[23:13:09] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13471724 -nanashimumei-  
+[23:13:10] BCraftMG: !mp start 10
+[23:13:11] BanchoBot: Match starts in 10 seconds
+[23:13:11] BanchoBot: Queued the match to start in 10 seconds
+[23:13:16] zxz_regular: glhf
+[23:13:17] BanchoBot: Match starts in 5 seconds
+[23:13:17] BanchoBot: Match starts in 4 seconds
+[23:13:19] BanchoBot: Match starts in 3 seconds
+[23:13:20] BanchoBot: Good luck, have fun!
+[23:13:21] BanchoBot: The match has started!
+[23:16:19] BanchoBot: -nanashimumei- finished playing (Score: 132695, PASSED).
+[23:16:21] BanchoBot: AleXGG123 finished playing (Score: 225774, PASSED).
+[23:16:21] BanchoBot: zxz_regular finished playing (Score: 274224, PASSED).
+[23:16:21] BanchoBot: The match has finished!
+[23:16:41] BanchoBot: -nanashimumei- left the game.
+[23:16:41] BanchoBot: Kumagi Eri joined in slot 3.
+[23:16:42] BCraftMG: !mp map 2844710 0
+[23:16:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2844710 solfa feat. Shimotsuki Haruka - leap in your mind
+[23:16:43] BanchoBot: Changed match mode to Osu
+[23:16:45] BCraftMG: !mp mods 9
+[23:16:47] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[23:16:57] BanchoBot: AleXGG123 left the game.
+[23:16:58] BanchoBot: snowymint joined in slot 1.
+[23:17:03] snowymint: yo sup
+[23:17:05] zxz_regular: o/
+[23:17:16] Kumagi_Eri: o/
+[23:17:19] snowymint: sightread time
+[23:17:22] Kumagi_Eri: YEP
+[23:17:25] zxz_regular: lol
+[23:17:25] zxz_regular: gl
+[23:17:27] BanchoBot: All players are ready
+[23:17:31] snowymint: gl
+[23:17:44] BCraftMG: !mp settings
+[23:17:46] BanchoBot: Room name: STT3: (Q21) vs (Qualifiers), History: https://osu.ppy.sh/mp/101349840
+[23:17:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/2844710 solfa feat. Shimotsuki Haruka - leap in your mind
+[23:17:46] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:17:46] BanchoBot: Active mods: NoFail, Hidden
+[23:17:46] BanchoBot: Players: 3
+[23:17:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18322585 snowymint       
+[23:17:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3732348 zxz_regular     
+[23:17:46] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9153879 Kumagi Eri      
+[23:17:47] BCraftMG: !mp start 10
+[23:17:47] BanchoBot: Match starts in 10 seconds
+[23:17:47] BanchoBot: Queued the match to start in 10 seconds
+[23:17:53] BanchoBot: Match starts in 5 seconds
+[23:17:54] BanchoBot: Match starts in 4 seconds
+[23:17:54] BanchoBot: Match starts in 3 seconds
+[23:17:55] BanchoBot: Good luck, have fun!
+[23:17:58] BanchoBot: The match has started!
+[23:19:48] BanchoBot: Kumagi Eri left the game.
+[23:22:50] BanchoBot: snowymint finished playing (Score: 177596, PASSED).
+[23:22:52] BanchoBot: zxz_regular finished playing (Score: 319364, PASSED).
+[23:22:52] BanchoBot: The match has finished!
+[23:23:06] BanchoBot: Kumagi Eri joined in slot 3.
+[23:23:09] Kumagi_Eri: ??????????????????????????????????????
+[23:23:13] Kumagi_Eri: bancho
+[23:23:15] Kumagi_Eri: are u kidding
+[23:23:24] BCraftMG: Your teammate Kumagi Eri has disconnected outside the 30s period according to my irc here
+[23:23:48] Kumagi_Eri: welp
+[23:23:51] BCraftMG: And there is also no score on the mp link
+[23:23:56] Kumagi_Eri: i love bancho for disconnect :3
+[23:24:07] BCraftMG: if you have any way to prove your score you can send me here
+[23:24:15] BCraftMG: or else your score will be 0
+[23:24:17] BanchoBot: Kumagi Eri left the game.
+[23:24:20] BanchoBot: AleXGG123 joined in slot 3.
+[23:24:37] AleXGG123: hi if his score saved on local can he ss that and send on dc or smt?
+[23:24:40] BanchoBot: Kumagi Eri joined in slot 4.
+[23:24:47] Kumagi_Eri: https://osu.ppy.sh/ss/17883185/bf4c
+[23:24:47] BCraftMG: yes
+[23:25:11] AleXGG123: anyways, snowy are u down for HD2?
+[23:25:23] snowymint: yes
+[23:25:26] AleXGG123: okok
+[23:25:27] AleXGG123: glgl
+[23:25:30] BanchoBot: AleXGG123 left the game.
+[23:25:33] BanchoBot: Kumagi Eri moved to slot 3
+[23:25:33] BCraftMG: your score look good
+[23:25:41] BCraftMG: !mp map 1524996 0
+[23:25:42] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1524996 Casandra - Freaks Romanticism
+[23:25:42] BanchoBot: Changed match mode to Osu
+[23:25:47] Kumagi_Eri: EZ
+[23:25:48] BCraftMG: we will continue
+[23:26:15] BanchoBot: All players are ready
+[23:26:26] snowymint: catJAM
+[23:26:31] BCraftMG: !mp settings
+[23:26:32] BanchoBot: Room name: STT3: (Q21) vs (Qualifiers), History: https://osu.ppy.sh/mp/101349840
+[23:26:32] BanchoBot: Beatmap: https://osu.ppy.sh/b/1524996 Casandra - Freaks Romanticism
+[23:26:32] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:26:32] BanchoBot: Active mods: NoFail, Hidden
+[23:26:32] BanchoBot: Players: 3
+[23:26:32] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18322585 snowymint       
+[23:26:32] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3732348 zxz_regular     
+[23:26:32] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9153879 Kumagi Eri      
+[23:26:36] BCraftMG: !mp start 10
+[23:26:38] BanchoBot: Match starts in 10 seconds
+[23:26:38] BanchoBot: Queued the match to start in 10 seconds
+[23:26:43] Kumagi_Eri: catJAM
+[23:26:44] BanchoBot: Match starts in 5 seconds
+[23:26:45] BanchoBot: Match starts in 4 seconds
+[23:26:45] BanchoBot: Match starts in 3 seconds
+[23:26:47] BanchoBot: Good luck, have fun!
+[23:26:48] BanchoBot: The match has started!
+[23:28:47] BanchoBot: Kumagi Eri finished playing (Score: 162636, PASSED).
+[23:28:47] BanchoBot: zxz_regular finished playing (Score: 352127, PASSED).
+[23:28:50] BanchoBot: snowymint finished playing (Score: 204132, PASSED).
+[23:28:50] BanchoBot: The match has finished!
+[23:29:00] BCraftMG: !mp map 230127 0
+[23:29:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/230127 TOTAL OBJECTION - Higurashi Moratorium
+[23:29:00] BanchoBot: Changed match mode to Osu
+[23:29:02] BCraftMG: !mp mods 17
+[23:29:03] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[23:29:05] BanchoBot: snowymint left the game.
+[23:30:04] BanchoBot: AleXGG123 joined in slot 1.
+[23:30:25] BanchoBot: All players are ready
+[23:30:27] BCraftMG: !mp settings
+[23:30:28] BanchoBot: Room name: STT3: (Q21) vs (Qualifiers), History: https://osu.ppy.sh/mp/101349840
+[23:30:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/230127 TOTAL OBJECTION - Higurashi Moratorium
+[23:30:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:30:28] BanchoBot: Active mods: NoFail, HardRock
+[23:30:28] BanchoBot: Players: 3
+[23:30:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6123978 AleXGG123       
+[23:30:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3732348 zxz_regular     
+[23:30:28] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9153879 Kumagi Eri      
+[23:30:31] BCraftMG: !mp start 10
+[23:30:32] zxz_regular: glhf
+[23:30:32] BanchoBot: Match starts in 10 seconds
+[23:30:32] BanchoBot: Queued the match to start in 10 seconds
+[23:30:37] BanchoBot: Match starts in 5 seconds
+[23:30:38] BanchoBot: Match starts in 4 seconds
+[23:30:39] BanchoBot: Match starts in 3 seconds
+[23:30:40] BanchoBot: Good luck, have fun!
+[23:30:42] BanchoBot: The match has started!
+[23:34:17] BanchoBot: Kumagi Eri finished playing (Score: 340873, PASSED).
+[23:34:17] BanchoBot: zxz_regular finished playing (Score: 622456, PASSED).
+[23:34:19] BanchoBot: AleXGG123 finished playing (Score: 232316, PASSED).
+[23:34:19] BanchoBot: The match has finished!
+[23:34:29] BCraftMG: !mp map 2258540 0
+[23:34:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2258540 Jin Zhen - Sakura Snow
+[23:34:29] BanchoBot: Changed match mode to Osu
+[23:34:32] BanchoBot: AleXGG123 left the game.
+[23:34:32] BanchoBot: -nanashimumei- joined in slot 1.
+[23:34:44] BCraftMG: !mp settings
+[23:34:46] BanchoBot: Room name: STT3: (Q21) vs (Qualifiers), History: https://osu.ppy.sh/mp/101349840
+[23:34:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/2258540 Jin Zhen - Sakura Snow
+[23:34:46] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:34:46] BanchoBot: Active mods: NoFail, HardRock
+[23:34:46] BanchoBot: Players: 3
+[23:34:46] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/13471724 -nanashimumei-  
+[23:34:46] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/3732348 zxz_regular     
+[23:34:46] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/9153879 Kumagi Eri      
+[23:35:40] BanchoBot: All players are ready
+[23:35:47] zxz_regular: glhf
+[23:35:51] BCraftMG: gl
+[23:35:51] BCraftMG: !mp settings
+[23:35:52] BanchoBot: Room name: STT3: (Q21) vs (Qualifiers), History: https://osu.ppy.sh/mp/101349840
+[23:35:52] BanchoBot: Beatmap: https://osu.ppy.sh/b/2258540 Jin Zhen - Sakura Snow
+[23:35:52] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:35:52] BanchoBot: Active mods: NoFail, HardRock
+[23:35:52] BanchoBot: Players: 3
+[23:35:52] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13471724 -nanashimumei-  
+[23:35:52] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3732348 zxz_regular     
+[23:35:52] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9153879 Kumagi Eri      
+[23:35:53] BCraftMG: !mp start 10
+[23:35:53] Kumagi_Eri: gl
+[23:35:53] BanchoBot: Match starts in 10 seconds
+[23:35:53] BanchoBot: Queued the match to start in 10 seconds
+[23:35:58] -nanashimumei-: glhf
+[23:35:59] BanchoBot: Match starts in 5 seconds
+[23:36:01] BanchoBot: Match starts in 4 seconds
+[23:36:02] BanchoBot: Match starts in 3 seconds
+[23:36:02] BanchoBot: Good luck, have fun!
+[23:36:04] BanchoBot: The match has started!
+[23:38:18] BanchoBot: Kumagi Eri finished playing (Score: 736985, PASSED).
+[23:38:19] BanchoBot: zxz_regular finished playing (Score: 526275, PASSED).
+[23:38:19] BanchoBot: -nanashimumei- finished playing (Score: 227343, PASSED).
+[23:38:19] BanchoBot: The match has finished!
+[23:38:28] BCraftMG: !mp map 630739 0
+[23:38:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/630739 Parov Stelar - Catgroove
+[23:38:29] BanchoBot: Changed match mode to Osu
+[23:38:30] BCraftMG: !mp mods 65
+[23:38:31] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[23:38:44] zxz_regular: that map requires nerves of steel
+[23:38:51] BanchoBot: Kumagi Eri left the game.
+[23:39:20] BanchoBot: AleXGG123 joined in slot 3.
+[23:40:00] BanchoBot: -nanashimumei- left the game.
+[23:40:09] BanchoBot: snowymint joined in slot 1.
+[23:40:24] BanchoBot: zxz_regular left the game.
+[23:40:43] BanchoBot: zxz_regular joined in slot 2.
+[23:40:54] zxz_regular: bancho is crazy today
+[23:40:58] BanchoBot: All players are ready
+[23:40:59] snowymint: indeed
+[23:41:00] BCraftMG: !mp settings
+[23:41:02] BanchoBot: Room name: STT3: (Q21) vs (Qualifiers), History: https://osu.ppy.sh/mp/101349840
+[23:41:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/630739 Parov Stelar - Catgroove
+[23:41:02] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:41:02] BanchoBot: Active mods: NoFail, DoubleTime
+[23:41:02] BanchoBot: Players: 3
+[23:41:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18322585 snowymint       
+[23:41:02] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3732348 zxz_regular     
+[23:41:02] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6123978 AleXGG123       
+[23:41:02] zxz_regular: glhf
+[23:41:06] BCraftMG: !mp start 10
+[23:41:07] BanchoBot: Match starts in 10 seconds
+[23:41:07] BanchoBot: Queued the match to start in 10 seconds
+[23:41:13] BanchoBot: Match starts in 5 seconds
+[23:41:14] BanchoBot: Match starts in 4 seconds
+[23:41:14] BanchoBot: Match starts in 3 seconds
+[23:41:15] BanchoBot: Good luck, have fun!
+[23:41:18] BanchoBot: The match has started!
+[23:43:52] BanchoBot: zxz_regular finished playing (Score: 477181, PASSED).
+[23:43:53] BanchoBot: AleXGG123 finished playing (Score: 189803, PASSED).
+[23:43:54] BanchoBot: snowymint finished playing (Score: 373407, PASSED).
+[23:43:54] BanchoBot: The match has finished!
+[23:43:59] BCraftMG: !mp map 838602 0
+[23:44:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/838602 goreshit - with all my heart.
+[23:44:00] BanchoBot: Changed match mode to Osu
+[23:44:12] BanchoBot: AleXGG123 left the game.
+[23:44:13] BanchoBot: snowymint left the game.
+[23:44:47] BanchoBot: -nanashimumei- joined in slot 1.
+[23:45:06] BanchoBot: AleXGG123 joined in slot 3.
+[23:45:45] BanchoBot: All players are ready
+[23:45:50] BCraftMG: !mp settings
+[23:45:51] BanchoBot: Room name: STT3: (Q21) vs (Qualifiers), History: https://osu.ppy.sh/mp/101349840
+[23:45:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/838602 goreshit - with all my heart.
+[23:45:51] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:45:51] BanchoBot: Active mods: NoFail, DoubleTime
+[23:45:51] BanchoBot: Players: 3
+[23:45:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13471724 -nanashimumei-  
+[23:45:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3732348 zxz_regular     
+[23:45:51] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6123978 AleXGG123       
+[23:45:51] BCraftMG: !mp start 10
+[23:45:52] BanchoBot: Match starts in 10 seconds
+[23:45:52] BanchoBot: Queued the match to start in 10 seconds
+[23:45:57] BanchoBot: Match starts in 5 seconds
+[23:45:58] BanchoBot: Match starts in 4 seconds
+[23:46:00] BanchoBot: Match starts in 3 seconds
+[23:46:00] zxz_regular: glhf
+[23:46:00] BanchoBot: Good luck, have fun!
+[23:46:03] BanchoBot: The match has started!
+[23:49:51] BanchoBot: AleXGG123 finished playing (Score: 140436, PASSED).
+[23:49:52] BanchoBot: -nanashimumei- finished playing (Score: 423449, PASSED).
+[23:49:52] BanchoBot: zxz_regular finished playing (Score: 492437, PASSED).
+[23:49:52] BanchoBot: The match has finished!
+[23:49:59] BCraftMG: !mp map 2589788 0
+[23:50:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2589788 Hoshimachi Suisei - NEXT COLOR PLANET
+[23:50:00] BanchoBot: Changed match mode to Osu
+[23:50:07] BCraftMG: !mp mods 3
+[23:50:07] BanchoBot: Enabled NoFail, Easy, disabled FreeMod
+[23:50:35] BCraftMG: how confident you are with ez and ht?
+[23:50:48] BanchoBot: -nanashimumei- left the game.
+[23:50:57] zxz_regular: More so with HT
+[23:50:57] AleXGG123: not at all
+[23:50:59] zxz_regular: by 10000000x
+[23:51:09] AleXGG123: on our google spreadsheet we got like 9k score
+[23:51:13] BanchoBot: snowymint joined in slot 1.
+[23:51:57] BCraftMG: well gl to yall ^^
+[23:52:02] BanchoBot: All players are ready
+[23:52:05] zxz_regular: goodluck!
+[23:52:06] AleXGG123: btw ty for reffing :)
+[23:52:06] BCraftMG: !mp settings
+[23:52:07] BanchoBot: Room name: STT3: (Q21) vs (Qualifiers), History: https://osu.ppy.sh/mp/101349840
+[23:52:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/2589788 Hoshimachi Suisei - NEXT COLOR PLANET
+[23:52:07] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:52:07] BanchoBot: Active mods: NoFail, Easy
+[23:52:07] BanchoBot: Players: 3
+[23:52:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18322585 snowymint       
+[23:52:07] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3732348 zxz_regular     
+[23:52:07] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6123978 AleXGG123       
+[23:52:08] zxz_regular: We'll need it! xd
+[23:52:08] snowymint: glhf
+[23:52:15] BCraftMG: !mp start 10
+[23:52:16] BanchoBot: Match starts in 10 seconds
+[23:52:16] BanchoBot: Queued the match to start in 10 seconds
+[23:52:17] BCraftMG: np <3
+[23:52:22] BanchoBot: Match starts in 5 seconds
+[23:52:23] BanchoBot: Match starts in 4 seconds
+[23:52:23] BanchoBot: Match starts in 3 seconds
+[23:52:24] BanchoBot: Good luck, have fun!
+[23:52:26] BanchoBot: The match has started!
+[23:56:54] BanchoBot: snowymint finished playing (Score: 39532, PASSED).
+[23:56:55] BanchoBot: AleXGG123 finished playing (Score: 11627, PASSED).
+[23:56:55] BanchoBot: zxz_regular finished playing (Score: 19426, PASSED).
+[23:56:55] BanchoBot: The match has finished!
+[23:57:00] BCraftMG: !mp map 2716029 0'
+[23:57:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2716029 Camellia - FLYING OUT TO THE SKY (covered by Nanahira, moimoi, Nana Takahashi) (Cut Ver.)
+[23:57:03] BCraftMG: !mp map 2716029 0
+[23:57:04] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2716029 Camellia - FLYING OUT TO THE SKY (covered by Nanahira, moimoi, Nana Takahashi) (Cut Ver.)
+[23:57:04] BanchoBot: Changed match mode to Osu
+[23:57:08] BCraftMG: !mp mods 257
+[23:57:08] BanchoBot: Enabled NoFail, HalfTime, disabled FreeMod
+[23:57:28] BanchoBot: Kumagi Eri joined in slot 4.
+[23:57:42] Kumagi_Eri: catJAM
+[23:58:00] BCraftMG: this pool has many good songs
+[23:58:05] BanchoBot: AleXGG123 left the game.
+[23:58:10] Kumagi_Eri: yeah
+[23:58:12] BCraftMG: this one with ht is something else tho
+[23:58:15] snowymint: catJAM
+[23:58:16] zxz_regular: Agreed
+[23:58:25] BanchoBot: snowymint moved to slot 3
+[23:58:29] zxz_regular: Yeah, HT throws you off beat a little
+[23:58:38] zxz_regular: re-wire the brain
+[23:58:40] BanchoBot: All players are ready
+[23:58:43] zxz_regular: lets see how it goes
+[23:58:46] zxz_regular: glhf
+[23:58:49] Kumagi_Eri: owO
+[23:58:54] Kumagi_Eri: OwO
+[23:58:56] BCraftMG: !mp settings
+[23:58:57] BanchoBot: Room name: STT3: (Q21) vs (Qualifiers), History: https://osu.ppy.sh/mp/101349840
+[23:58:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/2716029 Camellia - FLYING OUT TO THE SKY (covered by Nanahira, moimoi, Nana Takahashi) (Cut Ver.)
+[23:58:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:58:57] BanchoBot: Active mods: NoFail, HalfTime
+[23:58:57] BanchoBot: Players: 3
+[23:58:57] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3732348 zxz_regular     
+[23:58:57] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/18322585 snowymint       
+[23:58:57] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9153879 Kumagi Eri      
+[23:58:59] BCraftMG: !mp start 10
+[23:59:00] BanchoBot: Match starts in 10 seconds
+[23:59:00] BanchoBot: Queued the match to start in 10 seconds
+[23:59:05] BanchoBot: Match starts in 5 seconds
+[23:59:06] BanchoBot: Match starts in 4 seconds
+[23:59:07] BanchoBot: Match starts in 3 seconds
+[23:59:08] BanchoBot: Good luck, have fun!
+[23:59:11] BanchoBot: The match has started!
+[00:02:18] BanchoBot: snowymint finished playing (Score: 21344, PASSED).
+[00:02:19] BanchoBot: zxz_regular finished playing (Score: 42715, PASSED).
+[00:02:21] BanchoBot: Kumagi Eri finished playing (Score: 9809, PASSED).
+[00:02:21] BanchoBot: The match has finished!
+[00:02:34] BCraftMG: welp
+[00:02:39] BCraftMG: ggwp
+[00:02:41] zxz_regular: lol
+[00:02:46] BanchoBot: Kumagi Eri left the game.
+[00:02:47] zxz_regular: gg!
+[00:02:51] BanchoBot: snowymint left the game.
+[00:02:55] BCraftMG: o/
+[00:02:57] zxz_regular: Thanks for the games
+[00:03:01] zxz_regular: And thanks alot of reffing!
+[00:03:09] zxz_regular: Cya in the future maybe, if we go through quals :p
+[00:03:11] zxz_regular: o/
+[00:03:17] BCraftMG: o/o//
+[00:03:22] BanchoBot: zxz_regular left the game.
+[00:03:27] BCraftMG: !mp close
+[00:03:29] BanchoBot: Closed the match

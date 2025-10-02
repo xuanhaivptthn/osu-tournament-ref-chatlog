@@ -1,0 +1,786 @@
+[21:10:09] Joined #mp_103233241
+[21:10:09] BCraftMG: !mp settings
+[21:10:11] BanchoBot: Room name: o!VH: (Grand Finals) vs (GF), History: https://osu.ppy.sh/mp/103233241
+[21:10:11] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[21:10:11] BanchoBot: Players: 0
+[21:10:31] BCraftMG: !mp map 2515388 0
+[21:10:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2515388 Houshou Marine with Holoism Fantasy - Hoihoi*Gensou Holoism
+[21:10:33] BanchoBot: Changed match mode to Osu
+[21:10:34] BCraftMG: !mp settings
+[21:10:35] BanchoBot: Room name: o!VH: (Grand Finals) vs (GF), History: https://osu.ppy.sh/mp/103233241
+[21:10:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/2515388 Houshou Marine with Holoism Fantasy - Hoihoi*Gensou Holoism
+[21:10:35] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[21:10:35] BanchoBot: Players: 0
+[21:11:02] BCraftMG: !mp invite #5209704
+[21:11:02] BanchoBot: Invited Mikizi to the room
+[21:11:04] BCraftMG: !mp mods 1
+[21:11:05] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:11:10] BCraftMG: !mp set 0 3 12
+[21:11:11] BanchoBot: Changed match settings to 12 slots, HeadToHead, ScoreV2
+[21:11:20] BanchoBot: Mikizi joined in slot 1.
+[21:11:23] BCraftMG: !mp invite #14497161
+[21:11:24] BanchoBot: Invited yuriice to the room
+[21:11:26] Mikizi: du`
+[21:11:28] Mikizi: first
+[21:11:30] BCraftMG: !mp invite #13381374
+[21:11:31] BanchoBot: Invited zak1e to the room
+[21:11:36] BCraftMG: !mp invite #11386130
+[21:11:37] BanchoBot: Invited Salt-Elucdator to the room
+[21:11:43] BCraftMG: !mp invite #27128539
+[21:11:44] BanchoBot: Salt-Elucdator joined in slot 2.
+[21:11:46] BanchoBot: Invited [-Dora-] to the room
+[21:11:50] BanchoBot: [-Dora-] joined in slot 3.
+[21:11:50] BCraftMG: !mp invite #11840611
+[21:11:52] BanchoBot: Invited KiuL to the room
+[21:11:54] BCraftMG: !mp invite #13004516
+[21:11:54] BanchoBot: Invited Hanamaru_ to the room
+[21:12:00] BCraftMG: !mp invite #10635981
+[21:12:01] BanchoBot: Hanamaru_ joined in slot 4.
+[21:12:01] BanchoBot: Invited - Nebby - to the room
+[21:12:09] BCraftMG: !mp invite #14658394
+[21:12:09] BanchoBot: Invited Orei to the room
+[21:12:11] BanchoBot: - Nebby - joined in slot 5.
+[21:12:20] BanchoBot: Orei joined in slot 6.
+[21:12:25] BCraftMG: !mp addref Notkl3v3r
+[21:12:27] BanchoBot: Added Notkl3v3r to the match referees
+[21:12:33] Hanamaru_: chào em iu - Nebby -
+[21:12:40] BanchoBot: zak1e joined in slot 7.
+[21:12:42] -_Nebby_-: chào anh iu Hanamaru_
+[21:12:44] BanchoBot: KiuL joined in slot 8.
+[21:13:01] KiuL: map j day
+[21:13:05] Mikizi: ko biet
+[21:13:14] -_Nebby_-: map Hoihoi*Gensou Holoism
+[21:13:25] KiuL: marine ram vai
+[21:13:38] -_Nebby_-: hanamaru ram vai
+[21:13:46] BanchoBot: yuriice joined in slot 9.
+[21:13:55] Mikizi: ahoi
+[21:14:05] BCraftMG: oke
+[21:14:06] BCraftMG: du roi
+[21:14:10] Notkl3v3r: !mp settings
+[21:14:10] BanchoBot: Room name: o!VH: (Grand Finals) vs (GF), History: https://osu.ppy.sh/mp/103233241
+[21:14:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/2515388 Houshou Marine with Holoism Fantasy - Hoihoi*Gensou Holoism
+[21:14:10] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:14:10] BanchoBot: Active mods: NoFail
+[21:14:10] BanchoBot: Players: 9
+[21:14:10] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/5209704 Mikizi          
+[21:14:10] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11386130 Salt-Elucdator  
+[21:14:10] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/27128539 [-Dora-]        
+[21:14:10] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/13004516 Hanamaru_       
+[21:14:10] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/10635981 - Nebby -       
+[21:14:10] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/14658394 Orei            
+[21:14:10] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/13381374 zak1e           
+[21:14:10] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/11840611 KiuL            
+[21:14:10] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/14497161 yuriice         
+[21:14:11] BCraftMG: ready thoi
+[21:14:14] zak1e: thuyen truong hoi ram a ngen
+[21:14:44] BCraftMG: !mp settings
+[21:14:46] BanchoBot: Room name: o!VH: (Grand Finals) vs (GF), History: https://osu.ppy.sh/mp/103233241
+[21:14:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/2515388 Houshou Marine with Holoism Fantasy - Hoihoi*Gensou Holoism
+[21:14:46] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:14:46] BanchoBot: Active mods: NoFail
+[21:14:46] BanchoBot: Players: 9
+[21:14:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/5209704 Mikizi          
+[21:14:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11386130 Salt-Elucdator  
+[21:14:46] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/27128539 [-Dora-]        
+[21:14:46] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/13004516 Hanamaru_       
+[21:14:46] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/10635981 - Nebby -       
+[21:14:46] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/14658394 Orei            
+[21:14:46] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/13381374 zak1e           
+[21:14:46] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/11840611 KiuL            
+[21:14:46] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/14497161 yuriice         
+[21:15:09] BCraftMG: !mp timer 90
+[21:15:11] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:15:25] BanchoBot: All players are ready
+[21:15:38] BanchoBot: All players are ready
+[21:15:40] BCraftMG: !mp settings
+[21:15:42] BanchoBot: Countdown ends in 1 minute
+[21:15:42] BanchoBot: Room name: o!VH: (Grand Finals) vs (GF), History: https://osu.ppy.sh/mp/103233241
+[21:15:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/2515388 Houshou Marine with Holoism Fantasy - Hoihoi*Gensou Holoism
+[21:15:42] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:15:42] BanchoBot: Active mods: NoFail
+[21:15:42] BanchoBot: Players: 9
+[21:15:42] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/5209704 Mikizi          
+[21:15:42] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11386130 Salt-Elucdator  
+[21:15:42] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/27128539 [-Dora-]        
+[21:15:42] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13004516 Hanamaru_       
+[21:15:42] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/10635981 - Nebby -       
+[21:15:42] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/14658394 Orei            
+[21:15:42] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/13381374 zak1e           
+[21:15:42] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/11840611 KiuL            
+[21:15:42] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/14497161 yuriice         
+[21:15:43] BCraftMG: !mp start 10
+[21:15:44] BanchoBot: Countdown aborted
+[21:15:44] BanchoBot: Match starts in 10 seconds
+[21:15:44] BanchoBot: Queued the match to start in 10 seconds
+[21:15:46] zak1e: hoi ram a nghen
+[21:15:49] zak1e: hfhf
+[21:15:49] Mikizi: glhf
+[21:15:51] BanchoBot: Match starts in 5 seconds
+[21:15:51] yuriice: gl
+[21:15:51] BanchoBot: Match starts in 4 seconds
+[21:15:53] BanchoBot: Match starts in 3 seconds
+[21:15:53] BanchoBot: Good luck, have fun!
+[21:15:55] KiuL: gl
+[21:15:55] BanchoBot: The match has started!
+[21:16:38] BCraftMG: uhhhhhhhhhhhh
+[21:20:31] BanchoBot: [-Dora-] finished playing (Score: 132953, PASSED).
+[21:20:31] BanchoBot: - Nebby - finished playing (Score: 144912, PASSED).
+[21:20:31] BanchoBot: yuriice finished playing (Score: 215041, PASSED).
+[21:20:31] BanchoBot: Mikizi finished playing (Score: 422615, PASSED).
+[21:20:31] BanchoBot: zak1e finished playing (Score: 434759, PASSED).
+[21:20:31] BanchoBot: KiuL finished playing (Score: 352094, PASSED).
+[21:20:31] BanchoBot: Hanamaru_ finished playing (Score: 232775, PASSED).
+[21:20:31] BanchoBot: Orei finished playing (Score: 391225, PASSED).
+[21:20:33] BanchoBot: Salt-Elucdator finished playing (Score: 337543, PASSED).
+[21:20:33] BanchoBot: The match has finished!
+[21:20:35] zak1e: siuuu
+[21:20:44] Mikizi: siuuuu
+[21:20:44] zak1e: hoi run ae a
+[21:20:46] Mikizi: gg
+[21:20:57] [-Dora-]: I WAS AFK
+[21:20:57] [-Dora-]: firetruck
+[21:21:00] [-Dora-]: AOISDIASSAJOASDAOISDAMDAMJIDCMWIQMOICDQWMCWOIDQMDQJIOCWQWJIWDQ
+[21:21:03] BCraftMG: kìa anh
+[21:21:08] BCraftMG: anh ready rồi mà
+[21:21:11] BCraftMG: :(
+[21:21:14] Notkl3v3r: :(
+[21:21:23] Mikizi: o7
+[21:21:54] Notkl3v3r: [-Dora-] co the roi lobby duoc roi
+[21:21:58] BanchoBot: [-Dora-] left the game.
+[21:22:31] BanchoBot: - Nebby - moved to slot 3
+[21:22:59] Notkl3v3r: !roll 11
+[21:22:59] BanchoBot: Notkl3v3r rolls 8 point(s)
+[21:23:14] KiuL: HD2???
+[21:23:14] KiuL: KOOOOOO
+[21:23:23] Notkl3v3r: DT1 ma dung k
+[21:23:42] BCraftMG: dt2?
+[21:23:57] Notkl3v3r: 8 la dt1
+[21:24:02] KiuL: ua cai luat roll la sao nhi
+[21:24:08] Notkl3v3r: toi tu che ra
+[21:24:28] Notkl3v3r: !mp settings
+[21:24:28] BanchoBot: Room name: o!VH: (Grand Finals) vs (GF), History: https://osu.ppy.sh/mp/103233241
+[21:24:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/2515388 Houshou Marine with Holoism Fantasy - Hoihoi*Gensou Holoism
+[21:24:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:24:28] BanchoBot: Active mods: NoFail
+[21:24:28] BanchoBot: Players: 8
+[21:24:28] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/5209704 Mikizi          
+[21:24:28] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/11386130 Salt-Elucdator  
+[21:24:28] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/10635981 - Nebby -       
+[21:24:28] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/13004516 Hanamaru_       
+[21:24:28] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/14658394 Orei            
+[21:24:28] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/13381374 zak1e           
+[21:24:28] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/11840611 KiuL            
+[21:24:28] BanchoBot: Slot 9  Not Ready https://osu.ppy.sh/u/14497161 yuriice         
+[21:24:33] BCraftMG: anh yuriice move len di anh
+[21:24:41] BanchoBot: yuriice moved to slot 5
+[21:25:40] Notkl3v3r: !mp map 1761649
+[21:25:40] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1761649 Chata - Present
+[21:25:48] zak1e: adu
+[21:25:48] Notkl3v3r: !mp mods 65
+[21:25:48] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:25:51] zak1e: lum tien
+[21:26:00] KiuL: chet cha
+[21:26:00] Mikizi: thua
+[21:26:01] Mikizi: k biet bam dt
+[21:26:01] KiuL: toi k bit dt
+[21:26:04] KiuL: huhu
+[21:26:08] zak1e: hehe
+[21:26:08] Hanamaru_: AUGHHHHHHHHHHHHHHHH
+[21:26:08] Mikizi: same
+[21:26:21] yuriice: same
+[21:26:32] Orei: AUGHHHHHHHHHHHHHHHHHHHHHH
+[21:26:34] zak1e: spam thoi ae
+[21:26:36] zak1e: co gi ma ko bam dc
+[21:26:41] zak1e: bi kip farm DT
+[21:26:43] KiuL: AUGHHHHHHHHHHHHH
+[21:27:02] Notkl3v3r: !mp timer 120
+[21:27:02] BanchoBot: Countdown ends in 2 minutes
+[21:27:11] zak1e: xem top play toi de co them map farm
+[21:27:11] zak1e: :troll:
+[21:27:13] Mikizi: okie im gud
+[21:27:13] BanchoBot: All players are ready
+[21:27:18] KiuL: uoc farm
+[21:27:20] Mikizi: uoc
+[21:27:31] Notkl3v3r: !mp settings
+[21:27:31] BanchoBot: Room name: o!VH: (Grand Finals) vs (GF), History: https://osu.ppy.sh/mp/103233241
+[21:27:31] BanchoBot: Beatmap: https://osu.ppy.sh/b/1761649 Chata - Present
+[21:27:31] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:27:31] BanchoBot: Active mods: NoFail, DoubleTime
+[21:27:31] BanchoBot: Players: 8
+[21:27:31] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/5209704 Mikizi          
+[21:27:31] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11386130 Salt-Elucdator  
+[21:27:31] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10635981 - Nebby -       
+[21:27:31] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13004516 Hanamaru_       
+[21:27:31] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/14497161 yuriice         
+[21:27:31] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/14658394 Orei            
+[21:27:31] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/13381374 zak1e           
+[21:27:31] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/11840611 KiuL            
+[21:27:41] -_Nebby_-: glhf
+[21:27:44] Notkl3v3r: !mp start 10
+[21:27:44] BanchoBot: Countdown aborted
+[21:27:44] BanchoBot: Match starts in 10 seconds
+[21:27:44] BanchoBot: Queued the match to start in 10 seconds
+[21:27:46] Notkl3v3r: glhf
+[21:27:48] zak1e: hfhf
+[21:27:48] BanchoBot: Match starts in 5 seconds
+[21:27:51] BanchoBot: Match starts in 4 seconds
+[21:27:51] yuriice: gl
+[21:27:51] BanchoBot: Match starts in 3 seconds
+[21:27:51] Mikizi: glhf
+[21:27:52] BanchoBot: Good luck, have fun!
+[21:27:55] BanchoBot: The match has started!
+[21:30:27] BanchoBot: Mikizi finished playing (Score: 367109, PASSED).
+[21:30:27] BanchoBot: - Nebby - finished playing (Score: 290304, PASSED).
+[21:30:27] BanchoBot: yuriice finished playing (Score: 331547, PASSED).
+[21:30:27] BanchoBot: Orei finished playing (Score: 534565, PASSED).
+[21:30:27] BanchoBot: KiuL finished playing (Score: 407067, PASSED).
+[21:30:27] BanchoBot: Salt-Elucdator finished playing (Score: 619313, PASSED).
+[21:30:27] BanchoBot: zak1e finished playing (Score: 841594, PASSED).
+[21:30:29] BanchoBot: Hanamaru_ finished playing (Score: 353800, PASSED).
+[21:30:29] BanchoBot: The match has finished!
+[21:30:31] zak1e: ALMSOT
+[21:30:44] KiuL: uoc s
+[21:30:54] BCraftMG: tam biet anh nebby
+[21:30:58] -_Nebby_-: cau be bi hello
+[21:31:00] Mikizi: uoc speed
+[21:31:00] yuriice: tý thì rụng :C
+[21:31:02] Hanamaru_: NOOOOO CON VỢ
+[21:31:04] -_Nebby_-: tam biet anh iu hanamaru
+[21:31:06] Orei: noooooooooooooooooooo
+[21:31:06] BanchoBot: - Nebby - left the game.
+[21:31:08] KiuL: huhu
+[21:31:11] Orei: neb bi helo roi
+[21:31:11] BanchoBot: yuriice moved to slot 3
+[21:31:11] KiuL: nebby dai ca
+[21:31:13] BanchoBot: yuriice moved to slot 5
+[21:31:26] Notkl3v3r: !roll 10
+[21:31:26] BanchoBot: Notkl3v3r rolls 5 point(s)
+[21:31:35] Notkl3v3r: vay la
+[21:31:42] Mikizi: hr1 a
+[21:31:42] Notkl3v3r: HD2
+[21:31:43] BCraftMG: hd2?
+[21:31:46] Mikizi: :skull:
+[21:31:48] KiuL: HA????
+[21:31:52] Mikizi: thua
+[21:31:52] KiuL: KOOOOOOOO
+[21:31:57] KiuL: KOOOOO
+[21:31:57] Notkl3v3r: hehehehaw
+[21:31:57] Mikizi: khong biet flow aim
+[21:32:06] BCraftMG: :skull:
+[21:32:21] Mikizi: chac toi chi di den day thoi
+[21:32:23] BCraftMG: tức là sau khi chơi map thì đẩy các map khác ở dưới lên rồi roll xd
+[21:32:23] Mikizi: glhf
+[21:32:32] BanchoBot: Hanamaru_ moved to slot 3
+[21:32:32] BanchoBot: Hanamaru_ moved to slot 4
+[21:32:32] BanchoBot: Hanamaru_ moved to slot 3
+[21:32:32] BCraftMG: !mp map 381928 0
+[21:32:34] BanchoBot: Hanamaru_ moved to slot 4
+[21:32:34] BanchoBot: Hanamaru_ moved to slot 3
+[21:32:34] BanchoBot: Hanamaru_ moved to slot 4
+[21:32:34] BanchoBot: Hanamaru_ moved to slot 3
+[21:32:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/381928 xi - .357 Magnum
+[21:32:34] BanchoBot: Changed match mode to Osu
+[21:32:35] BCraftMG: !mp mods 9
+[21:32:36] BanchoBot: Hanamaru_ moved to slot 4
+[21:32:36] BanchoBot: Hanamaru_ moved to slot 3
+[21:32:36] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:32:40] Notkl3v3r: yeah
+[21:32:43] Notkl3v3r: kieu vay
+[21:32:43] KiuL: ua\
+[21:32:45] KiuL: hd12
+[21:32:45] KiuL: hd2
+[21:32:47] Notkl3v3r: de khoi bi trung roll
+[21:32:49] KiuL: k pha ar8 af
+[21:33:00] KiuL: a khoan
+[21:33:02] KiuL: toi k flow dc hnd
+[21:33:04] KiuL: hd
+[21:33:04] KiuL: chet
+[21:33:06] KiuL: thua
+[21:33:09] Mikizi: thua
+[21:33:13] Hanamaru_: wow hd2 become hd3
+[21:33:24] BanchoBot: zak1e moved to slot 4
+[21:33:26] KiuL: wait
+[21:33:28] KiuL: hd2 k phai ar8
+[21:33:31] KiuL: cul
+[21:33:39] BanchoBot: KiuL moved to slot 7
+[21:33:44] zak1e: chit
+[21:34:03] zak1e: xin 30s di pee
+[21:34:14] KiuL: piss
+[21:34:21] KiuL: :tron:
+[21:34:24] BCraftMG: skul
+[21:34:37] BCraftMG: !mp settings
+[21:34:38] BanchoBot: Room name: o!VH: (Grand Finals) vs (GF), History: https://osu.ppy.sh/mp/103233241
+[21:34:38] BanchoBot: Beatmap: https://osu.ppy.sh/b/381928 xi - .357 Magnum
+[21:34:38] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:34:38] BanchoBot: Active mods: NoFail, Hidden
+[21:34:38] BanchoBot: Players: 7
+[21:34:38] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/5209704 Mikizi          
+[21:34:38] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11386130 Salt-Elucdator  
+[21:34:38] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13004516 Hanamaru_       
+[21:34:38] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/13381374 zak1e           
+[21:34:38] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/14497161 yuriice         
+[21:34:38] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/14658394 Orei            
+[21:34:38] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11840611 KiuL            
+[21:34:43] zak1e: ok
+[21:34:49] BCraftMG: ready nha anh
+[21:34:49] BanchoBot: All players are ready
+[21:34:50] BCraftMG: !mp settings
+[21:34:51] BanchoBot: Room name: o!VH: (Grand Finals) vs (GF), History: https://osu.ppy.sh/mp/103233241
+[21:34:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/381928 xi - .357 Magnum
+[21:34:51] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:34:51] BanchoBot: Active mods: NoFail, Hidden
+[21:34:51] BanchoBot: Players: 7
+[21:34:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/5209704 Mikizi          
+[21:34:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11386130 Salt-Elucdator  
+[21:34:51] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13004516 Hanamaru_       
+[21:34:51] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13381374 zak1e           
+[21:34:52] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/14497161 yuriice         
+[21:34:52] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/14658394 Orei            
+[21:34:52] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11840611 KiuL            
+[21:34:53] KiuL: gg
+[21:34:53] KiuL: gnlhfn!
+[21:34:56] zak1e: go
+[21:34:56] zak1e: hfhf
+[21:34:57] BCraftMG: !mp start 10
+[21:34:58] BanchoBot: Match starts in 10 seconds
+[21:34:58] BanchoBot: Queued the match to start in 10 seconds
+[21:35:00] KiuL: glhf!
+[21:35:02] Mikizi: glhfhfhfhfhf
+[21:35:05] BanchoBot: Match starts in 5 seconds
+[21:35:05] BanchoBot: Match starts in 4 seconds
+[21:35:06] BanchoBot: Match starts in 3 seconds
+[21:35:06] BanchoBot: Good luck, have fun!
+[21:35:09] BanchoBot: The match has started!
+[21:37:27] BanchoBot: KiuL finished playing (Score: 248007, PASSED).
+[21:37:27] BanchoBot: Mikizi finished playing (Score: 310397, PASSED).
+[21:37:27] BanchoBot: Orei finished playing (Score: 380071, PASSED).
+[21:37:27] BanchoBot: Salt-Elucdator finished playing (Score: 203253, PASSED).
+[21:37:27] BanchoBot: Hanamaru_ finished playing (Score: 265883, PASSED).
+[21:37:27] BanchoBot: yuriice finished playing (Score: 89860, PASSED).
+[21:37:27] BanchoBot: zak1e finished playing (Score: 211117, PASSED).
+[21:37:27] BanchoBot: The match has finished!
+[21:37:41] BCraftMG: o7 yuriice
+[21:37:46] yuriice: gg
+[21:37:46] Mikizi: godmode
+[21:37:46] BanchoBot: yuriice left the game.
+[21:37:46] KiuL: huhu
+[21:37:48] Mikizi: o7
+[21:37:51] KiuL: bnye dai ca
+[21:37:51] Notkl3v3r: pool bip qua
+[21:37:58] Hanamaru_: AUGHHHHHHHH
+[21:37:58] Notkl3v3r: hd2 la nm2 + hd
+[21:38:08] zak1e: qua la hidden
+[21:38:22] zak1e: prac A rank
+[21:38:24] zak1e: vo 89 acc
+[21:38:28] Notkl3v3r: !roll 9
+[21:38:28] BanchoBot: Notkl3v3r rolls 2 point(s)
+[21:38:31] zak1e: tam ly moment
+[21:38:35] BCraftMG: r xong
+[21:38:35] BCraftMG: nm2
+[21:38:37] Mikizi: :YEP:
+[21:38:37] Notkl3v3r: oi khong
+[21:38:39] Hanamaru_: hd3 bili
+[21:38:43] Notkl3v3r: NM2
+[21:38:48] Notkl3v3r: tiep tuc strim nhe ae
+[21:38:50] Orei: lmao 5p
+[21:38:54] zak1e: NM2 la map nao v
+[21:38:56] KiuL: dua`
+[21:38:59] KiuL: gg
+[21:38:59] Mikizi: stream 5p
+[21:39:04] BCraftMG: !mp map 718679 0
+[21:39:05] BanchoBot: KiuL moved to slot 5
+[21:39:05] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/718679 positive MAD-crew - Mynarco Addiction
+[21:39:05] BanchoBot: Changed match mode to Osu
+[21:39:06] BCraftMG: !mp mods 1
+[21:39:07] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:39:25] KiuL: toi k biet stream
+[21:39:25] KiuL: gg
+[21:39:38] Notkl3v3r: !mp timer 120
+[21:39:38] BanchoBot: Countdown ends in 2 minutes
+[21:39:40] Mikizi: 181bpm 5p
+[21:39:42] zak1e: 1min
+[21:39:44] zak1e: tu tu
+[21:39:46] Mikizi: :monkaw:
+[21:40:32] zak1e: ai fc minh` hon^ nhe
+[21:40:32] zak1e: back
+[21:40:39] BanchoBot: Countdown ends in 1 minute
+[21:40:41] BanchoBot: All players are ready
+[21:40:48] KiuL: nm2 ngang tb
+[21:40:50] KiuL: cul
+[21:40:54] zak1e: j
+[21:40:56] zak1e: tb 9p
+[21:40:56] Notkl3v3r: !mp start 10
+[21:40:56] BanchoBot: Countdown aborted
+[21:40:56] BanchoBot: Match starts in 10 seconds
+[21:40:56] BanchoBot: Queued the match to start in 10 seconds
+[21:40:58] zak1e: ngang gi
+[21:41:01] Notkl3v3r: glhf
+[21:41:03] BanchoBot: Match starts in 5 seconds
+[21:41:03] KiuL: ha
+[21:41:03] BanchoBot: Match starts in 4 seconds
+[21:41:03] KiuL: dua
+[21:41:03] BanchoBot: Match starts in 3 seconds
+[21:41:03] zak1e: hfhf
+[21:41:05] BanchoBot: Good luck, have fun!
+[21:41:05] KiuL: gg
+[21:41:05] Mikizi: tb 8p ma pri
+[21:41:07] BanchoBot: The match has started!
+[21:46:29] BanchoBot: Orei finished playing (Score: 147451, PASSED).
+[21:46:29] BanchoBot: Hanamaru_ finished playing (Score: 212931, PASSED).
+[21:46:29] BanchoBot: Mikizi finished playing (Score: 501556, PASSED).
+[21:46:31] BanchoBot: KiuL finished playing (Score: 221999, PASSED).
+[21:46:34] BanchoBot: zak1e finished playing (Score: 447146, PASSED).
+[21:46:34] BanchoBot: Salt-Elucdator finished playing (Score: 384251, PASSED).
+[21:46:34] BanchoBot: The match has finished!
+[21:46:38] zak1e: RUN VO LO
+[21:46:42] Orei: gg
+[21:46:49] Orei: mình còn giải khác nên cya
+[21:46:49] BCraftMG: anh Orei
+[21:46:51] KiuL: BJP Z ANNH
+[21:46:53] BanchoBot: Orei left the game.
+[21:46:57] Mikizi: o7
+[21:46:57] BCraftMG: vcl toi tuong co ai ting ting anh orei
+[21:47:04] Notkl3v3r: o7
+[21:47:21] Notkl3v3r: !roll 8
+[21:47:21] BanchoBot: Notkl3v3r rolls 7 point(s)
+[21:47:28] Mikizi: sytho skin buff
+[21:47:28] Mikizi: thoi xong
+[21:47:30] Mikizi: nat
+[21:47:30] Notkl3v3r: DT3
+[21:47:37] zak1e: lum tien
+[21:47:37] KiuL: thua
+[21:47:38] BCraftMG: anh Hanamaru xuong slot 6 giup em
+[21:47:39] Mikizi: thua
+[21:47:54] Notkl3v3r: !mp map 1651218 0
+[21:47:54] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1651218 An - Catanoph
+[21:47:54] BanchoBot: Changed match mode to Osu
+[21:47:58] Notkl3v3r: !mp mods 65
+[21:47:58] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:48:03] zak1e: ua
+[21:48:09] zak1e: tuong DT3 la leminhtri insane
+[21:48:12] zak1e: i forgor
+[21:48:12] BanchoBot: Hanamaru_ moved to slot 6
+[21:48:31] Notkl3v3r: LMT insane la DT2
+[21:48:36] Mikizi: THANG NAO
+[21:48:43] Mikizi: THANG NAO DOC TEN TAO LA MIZIKI
+[21:48:45] Notkl3v3r: !mp timer 120
+[21:48:45] BanchoBot: Countdown ends in 2 minutes
+[21:48:47] zak1e: i forgor :skull:
+[21:48:49] KiuL: Miziki
+[21:49:04] zak1e: mai zai key a
+[21:49:04] Mikizi: ty dam thang nao commentator doc ten tao la miziki
+[21:49:07] zak1e: hay la mai ziki
+[21:49:09] Mikizi: no la mi ki zi
+[21:49:16] KiuL: may ki z
+[21:49:17] Mikizi: mi
+[21:49:17] Mikizi: ki
+[21:49:20] Mikizi: zi
+[21:49:20] zak1e: may ki z
+[21:49:31] zak1e: tu tu ae
+[21:49:32] BCraftMG: kizimi
+[21:49:36] KiuL: zak len slot 3 i
+[21:49:36] zak1e: toi binh tinh lai phat
+[21:49:38] BanchoBot: zak1e moved to slot 3
+[21:49:44] BanchoBot: Countdown ends in 1 minute
+[21:50:15] BanchoBot: Countdown ends in 30 seconds
+[21:50:21] BanchoBot: All players are ready
+[21:50:28] BCraftMG: !mp settings
+[21:50:28] BanchoBot: Room name: o!VH: (Grand Finals) vs (GF), History: https://osu.ppy.sh/mp/103233241
+[21:50:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/1651218 An - Catanoph
+[21:50:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:50:28] BanchoBot: Active mods: NoFail, DoubleTime
+[21:50:28] BanchoBot: Players: 5
+[21:50:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/5209704 Mikizi          
+[21:50:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11386130 Salt-Elucdator  
+[21:50:28] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13381374 zak1e           
+[21:50:28] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11840611 KiuL            
+[21:50:28] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/13004516 Hanamaru_       
+[21:50:35] BanchoBot: Countdown ends in 10 seconds
+[21:50:36] BCraftMG: !mp start 10
+[21:50:37] BanchoBot: Countdown aborted
+[21:50:37] BanchoBot: Match starts in 10 seconds
+[21:50:37] BanchoBot: Queued the match to start in 10 seconds
+[21:50:44] BanchoBot: Match starts in 5 seconds
+[21:50:44] zak1e: hfhf
+[21:50:44] BanchoBot: Match starts in 4 seconds
+[21:50:46] BanchoBot: Match starts in 3 seconds
+[21:50:46] BanchoBot: Good luck, have fun!
+[21:50:48] BanchoBot: The match has started!
+[21:51:11] Notkl3v3r: !mp settings
+[21:51:11] BanchoBot: Room name: o!VH: (Grand Finals) vs (GF), History: https://osu.ppy.sh/mp/103233241
+[21:51:11] BanchoBot: Beatmap: https://osu.ppy.sh/b/1651218 An - Catanoph
+[21:51:11] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:51:11] BanchoBot: Active mods: NoFail, DoubleTime
+[21:51:11] BanchoBot: Players: 5
+[21:51:11] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/5209704 Mikizi          
+[21:51:11] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/11386130 Salt-Elucdator  
+[21:51:11] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/13381374 zak1e           
+[21:51:11] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/11840611 KiuL            
+[21:51:11] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/13004516 Hanamaru_       
+[21:53:14] BanchoBot: Mikizi finished playing (Score: 180623, PASSED).
+[21:53:16] BanchoBot: KiuL finished playing (Score: 310087, PASSED).
+[21:53:16] BanchoBot: zak1e finished playing (Score: 333192, PASSED).
+[21:53:16] BanchoBot: Salt-Elucdator finished playing (Score: 237755, PASSED).
+[21:53:16] BanchoBot: Hanamaru_ finished playing (Score: 397904, PASSED).
+[21:53:16] BanchoBot: The match has finished!
+[21:53:23] Mikizi: gg
+[21:53:23] zak1e: vo lo
+[21:53:27] zak1e: doan dau lag spike
+[21:53:27] zak1e: bu cac
+[21:53:29] Mikizi: tam biet ae
+[21:53:31] KiuL: combo gameeee
+[21:53:33] zak1e: ntnt mikizi
+[21:53:36] BanchoBot: Mikizi left the game.
+[21:53:38] Hanamaru_: shesh
+[21:53:41] BCraftMG: :đe;
+[21:53:43] BCraftMG: :ded:
+[21:53:55] zak1e: tam biet nguoi con gai/con trai a tung yeu
+[21:53:58] zak1e: :sob:
+[21:54:08] BCraftMG: !roll 8
+[21:54:08] BanchoBot: BCraftMG rolls 8 point(s)
+[21:54:10] Notkl3v3r: !roll 7
+[21:54:10] BanchoBot: Notkl3v3r rolls 6 point(s)
+[21:54:12] BCraftMG: vai l
+[21:54:19] BCraftMG: thua
+[21:54:28] Notkl3v3r: DT2
+[21:54:29] BCraftMG: VCL THOI ANH OI
+[21:54:30] Notkl3v3r: thua
+[21:54:31] BCraftMG: ROLL LAI DI
+[21:54:37] Notkl3v3r: ok
+[21:54:39] Notkl3v3r: okroll lai
+[21:54:41] Notkl3v3r: khong cho double pick
+[21:54:43] KiuL: lai DT
+[21:54:48] KiuL: thua
+[21:54:48] Notkl3v3r: !roll 7
+[21:54:48] BanchoBot: Notkl3v3r rolls 7 point(s)
+[21:54:55] BCraftMG: FM1
+[21:54:56] BCraftMG: @enester
+[21:55:01] KiuL: ui`
+[21:55:05] KiuL: what a sec
+[21:55:10] KiuL: i need to pee
+[21:55:20] BCraftMG: !mp map 3064146 0
+[21:55:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3064146 cYsmix - Abandoned Shrine Party
+[21:55:21] BanchoBot: Changed match mode to Osu
+[21:55:23] BCraftMG: !mp mods Freemod
+[21:55:25] BanchoBot: Disabled all mods, enabled FreeMod
+[21:55:40] zak1e: VO LO
+[21:55:42] zak1e: DIT ME
+[21:55:42] zak1e: NOOOO
+[21:55:44] BCraftMG: a cac anh move len 1234 giup em
+[21:55:53] BanchoBot: Salt-Elucdator moved to slot 1
+[21:56:00] BanchoBot: Hanamaru_ moved to slot 2
+[21:56:04] Salt-Elucdator: map nay co j z ae
+[21:56:11] BCraftMG: !mp move Kiul 4
+[21:56:13] Hanamaru_: idk :bbb
+[21:56:13] BanchoBot: KiuL moved to slot 4
+[21:56:13] BanchoBot: Moved KiuL into slot 4
+[21:56:40] zak1e: map nay
+[21:56:42] zak1e: bu cac lam pri
+[21:56:44] Notkl3v3r: !mp settings
+[21:56:44] BanchoBot: Room name: o!VH: (Grand Finals) vs (GF), History: https://osu.ppy.sh/mp/103233241
+[21:56:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/3064146 cYsmix - Abandoned Shrine Party
+[21:56:44] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:56:44] BanchoBot: Active mods: Freemod
+[21:56:44] BanchoBot: Players: 4
+[21:56:44] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/11386130 Salt-Elucdator  [NoFail, Hidden]
+[21:56:44] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/13004516 Hanamaru_       [NoFail, Hidden]
+[21:56:44] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/13381374 zak1e           [NoFail, HardRock]
+[21:56:44] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/11840611 KiuL            
+[21:56:46] zak1e: pri khong choi qua 1 lan a
+[21:56:53] Notkl3v3r: !mp set 0 3 4
+[21:56:53] BanchoBot: Changed match settings to 4 slots, HeadToHead, ScoreV2
+[21:57:06] Hanamaru_: sightread nguyên pool
+[21:57:08] Notkl3v3r: lock slot luon
+[21:57:13] zak1e: manh du~
+[21:57:17] Salt-Elucdator: same
+[21:57:31] zak1e: toi choi lai pool trc 1 tieng
+[21:57:33] KiuL: toi sightread
+[21:57:33] KiuL: gg
+[21:57:35] BanchoBot: All players are ready
+[21:57:44] KiuL: glhf!
+[21:57:44] zak1e: sightread = worst mistake day pri
+[21:57:48] zak1e: hfhf
+[21:57:50] KiuL: cul
+[21:57:53] KiuL: hf
+[21:57:55] Notkl3v3r: !mp settings
+[21:57:55] BanchoBot: Room name: o!VH: (Grand Finals) vs (GF), History: https://osu.ppy.sh/mp/103233241
+[21:57:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/3064146 cYsmix - Abandoned Shrine Party
+[21:57:55] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:57:55] BanchoBot: Active mods: Freemod
+[21:57:55] BanchoBot: Players: 4
+[21:57:55] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11386130 Salt-Elucdator  [NoFail, Hidden]
+[21:57:55] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13004516 Hanamaru_       [NoFail, Hidden]
+[21:57:55] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13381374 zak1e           [NoFail, HardRock]
+[21:57:55] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11840611 KiuL            [NoFail, Hidden]
+[21:57:57] Salt-Elucdator: hf
+[21:58:35] BCraftMG: vcl kuina ready chỗ nào
+[21:58:40] BCraftMG: :skull:
+[21:58:58] Notkl3v3r: !mp settings
+[21:58:58] BanchoBot: Room name: o!VH: (Grand Finals) vs (GF), History: https://osu.ppy.sh/mp/103233241
+[21:58:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/3064146 cYsmix - Abandoned Shrine Party
+[21:58:58] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:58:58] BanchoBot: Active mods: Freemod
+[21:58:58] BanchoBot: Players: 4
+[21:58:58] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11386130 Salt-Elucdator  [NoFail, Hidden]
+[21:58:58] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13004516 Hanamaru_       [NoFail, Hidden]
+[21:58:58] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13381374 zak1e           [NoFail, HardRock]
+[21:58:58] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11840611 KiuL            [NoFail, Hidden]
+[21:59:06] Hanamaru_: sao chưa vào z ;bbb
+[21:59:08] Notkl3v3r: !mp start 10
+[21:59:08] BanchoBot: Match starts in 10 seconds
+[21:59:08] BanchoBot: Queued the match to start in 10 seconds
+[21:59:13] Notkl3v3r: tai bcraft
+[21:59:13] BanchoBot: Match starts in 5 seconds
+[21:59:15] BanchoBot: Match starts in 4 seconds
+[21:59:15] BanchoBot: Match starts in 3 seconds
+[21:59:17] zak1e: hfhfhfhfhfhfhf
+[21:59:17] BanchoBot: Good luck, have fun!
+[21:59:19] BanchoBot: The match has started!
+[21:59:19] Notkl3v3r: glhf
+[22:02:31] BanchoBot: KiuL finished playing (Score: 208304, PASSED).
+[22:02:31] BanchoBot: zak1e finished playing (Score: 487512, PASSED).
+[22:02:31] BanchoBot: Hanamaru_ finished playing (Score: 283230, PASSED).
+[22:02:31] BanchoBot: Salt-Elucdator finished playing (Score: 94255, PASSED).
+[22:02:31] BanchoBot: The match has finished!
+[22:02:36] Salt-Elucdator: gg ae
+[22:02:36] zak1e: fc nua map co tinh la fc ko pri
+[22:02:38] BanchoBot: Salt-Elucdator left the game.
+[22:02:40] zak1e: i mean 3/4 map
+[22:02:44] zak1e: free OS plz :sob:
+[22:03:02] BCraftMG: khum pri
+[22:03:15] Notkl3v3r: !roll 6
+[22:03:15] BanchoBot: Notkl3v3r rolls 6 point(s)
+[22:03:20] Notkl3v3r: khonggg
+[22:03:22] Notkl3v3r: khong dt nua
+[22:03:37] BCraftMG: !roll 6
+[22:03:37] BanchoBot: BCraftMG rolls 2 point(s)
+[22:03:49] KiuL: oh nno
+[22:04:02] BanchoBot: KiuL moved to slot 1
+[22:04:04] BCraftMG: chung toi khong muon dt nua
+[22:04:06] BCraftMG: nen
+[22:04:12] BCraftMG: cac ban se choi nm3 nhe
+[22:04:17] Notkl3v3r: vay co cong bang khong
+[22:04:19] Hanamaru_: NM3 YEHHH
+[22:04:23] Hanamaru_: có ạ
+[22:04:32] Hanamaru_: NHẠC MAIMAI
+[22:04:40] Notkl3v3r: nhac tuyu
+[22:04:49] KiuL: thua
+[22:04:51] KiuL: gg
+[22:05:06] BCraftMG: hr non-existence
+[22:05:17] KiuL: hr zzz
+[22:05:19] Notkl3v3r: tai toi roll...
+[22:05:19] BCraftMG: !mp map 3581830 0
+[22:05:22] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3581830 TUYU - Territory Battle
+[22:05:22] BanchoBot: Changed match mode to Osu
+[22:05:23] BCraftMG: !mp mods 1
+[22:05:24] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:05:28] zak1e: thoi xong
+[22:05:37] Hanamaru_: NHẠC MAIMAI
+[22:05:37] Hanamaru_: YEHHHHH
+[22:05:39] Hanamaru_: NHẠC MAIMAI
+[22:05:41] KiuL: toi k alt dc r
+[22:05:44] zak1e: thua
+[22:05:44] KiuL: hnuhu
+[22:05:50] zak1e: kiuL lai bip
+[22:05:50] KiuL: btw tuyu
+[22:05:50] KiuL: +rep
+[22:05:55] KiuL: thiet
+[22:05:57] KiuL: dang xe lann
+[22:06:01] Hanamaru_: map slider tuyu
+[22:06:10] BanchoBot: All players are ready
+[22:06:16] zak1e: map xe lan cuc
+[22:06:19] Notkl3v3r: !mp settings
+[22:06:19] BanchoBot: Room name: o!VH: (Grand Finals) vs (GF), History: https://osu.ppy.sh/mp/103233241
+[22:06:19] BanchoBot: Beatmap: https://osu.ppy.sh/b/3581830 TUYU - Territory Battle
+[22:06:19] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:06:19] BanchoBot: Active mods: NoFail
+[22:06:19] BanchoBot: Players: 3
+[22:06:19] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11840611 KiuL            
+[22:06:19] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13004516 Hanamaru_       
+[22:06:19] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13381374 zak1e           
+[22:06:23] zak1e: why graveyard map
+[22:06:32] Notkl3v3r: !mp start 10
+[22:06:32] BanchoBot: Match starts in 10 seconds
+[22:06:32] BanchoBot: Queued the match to start in 10 seconds
+[22:06:34] zak1e: khong thich nghe nhac tuyu lam
+[22:06:36] zak1e: hfhf
+[22:06:36] BanchoBot: Match starts in 5 seconds
+[22:06:38] BanchoBot: Match starts in 4 seconds
+[22:06:38] Notkl3v3r: glhf
+[22:06:38] BanchoBot: Match starts in 3 seconds
+[22:06:40] BanchoBot: Good luck, have fun!
+[22:06:42] KiuL: gl
+[22:06:42] BanchoBot: The match has started!
+[22:09:18] BanchoBot: KiuL finished playing (Score: 152814, PASSED).
+[22:09:18] BanchoBot: zak1e finished playing (Score: 289915, PASSED).
+[22:09:20] BanchoBot: Hanamaru_ finished playing (Score: 381219, PASSED).
+[22:09:20] BanchoBot: The match has finished!
+[22:09:25] KiuL: gg
+[22:09:29] zak1e: du
+[22:09:29] zak1e: tuong bip
+[22:09:31] KiuL: di ban val thoi
+[22:09:31] zak1e: ntnt
+[22:09:40] KiuL: gl dai ca hanamaru
+[22:09:41] BCraftMG: o7
+[22:09:42] KiuL: :3
+[22:09:46] BanchoBot: KiuL left the game.
+[22:09:46] zak1e: map nay toi te. nhat trong map pool
+[22:09:50] BanchoBot: zak1e moved to slot 1
+[22:09:56] BCraftMG: !mp size 2
+[22:09:57] zak1e: it tap
+[22:09:57] BanchoBot: Changed match to size 2
+[22:09:59] Hanamaru_: hello pri
+[22:10:07] BCraftMG: !mp map 3613084 0
+[22:10:09] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3613084 TUYU - Songs Compilation
+[22:10:09] BanchoBot: Changed match mode to Osu
+[22:10:11] BCraftMG: !mp mods Freemod
+[22:10:13] BanchoBot: Disabled all mods, enabled FreeMod
+[22:10:50] BCraftMG: Không cần mod nhưng ít nhất hãy lấy NF
+[22:10:52] Hanamaru_: need nf?
+[22:11:27] BanchoBot: All players are ready
+[22:11:58] BCraftMG: !mp settings
+[22:12:00] BanchoBot: Room name: o!VH: (Grand Finals) vs (GF), History: https://osu.ppy.sh/mp/103233241
+[22:12:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/3613084 TUYU - Songs Compilation
+[22:12:00] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:12:00] BanchoBot: Active mods: Freemod
+[22:12:00] BanchoBot: Players: 2
+[22:12:00] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13381374 zak1e           [NoFail]
+[22:12:00] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13004516 Hanamaru_       [NoFail]
+[22:12:11] BCraftMG: welp
+[22:12:16] BCraftMG: !mp start 10 GLHF
+[22:12:18] BanchoBot: Match starts in 10 seconds
+[22:12:18] BanchoBot: Queued the match to start in 10 seconds
+[22:12:22] zak1e: hfhf
+[22:12:25] BanchoBot: Match starts in 5 seconds
+[22:12:25] zak1e: <3
+[22:12:25] BanchoBot: Match starts in 4 seconds
+[22:12:27] BanchoBot: Match starts in 3 seconds
+[22:12:27] BanchoBot: Good luck, have fun!
+[22:12:29] BanchoBot: The match has started!
+[22:22:15] BanchoBot: Hanamaru_ finished playing (Score: 271419, PASSED).
+[22:22:15] BanchoBot: zak1e finished playing (Score: 277546, PASSED).
+[22:22:15] BanchoBot: The match has finished!
+[22:22:28] BCraftMG: AUOFSNofsaf
+[22:22:29] BCraftMG: nasf
+[22:22:30] zak1e: GGWP
+[22:22:45] BCraftMG: GGWP
+[22:22:46] Notkl3v3r: gg
+[22:22:48] Hanamaru_: GG
+[22:23:14] Hanamaru_: thanks for play
+[22:23:18] BCraftMG: o7
+[22:23:19] BanchoBot: Hanamaru_ left the game.
+[22:23:43] BanchoBot: zak1e left the game.
+[22:23:53] BCraftMG: cam on anh Notkl3v3r
+[22:24:11] Notkl3v3r: k co gi..
+[22:24:29] Notkl3v3r: cuoi cung toi cung duoc an com
+[22:24:32] BCraftMG: oh no
+[22:24:36] BCraftMG: di an di anh
+[22:24:37] BCraftMG: :(
+[22:25:19] Notkl3v3r: an roi!!
+[22:25:23] Notkl3v3r: :)
+[22:25:25] BCraftMG: paipai
+[22:25:29] BCraftMG: toi close room day
+[22:25:33] BCraftMG: gud meal
+[22:25:40] BCraftMG: !mp close
+[22:25:40] Notkl3v3r: bye
+[22:25:43] BanchoBot: Closed the match

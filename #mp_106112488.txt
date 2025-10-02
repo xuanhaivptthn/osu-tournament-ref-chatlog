@@ -1,0 +1,92 @@
+[20:07:28] Joined #mp_106112488
+[20:07:28] DaddyStage: !mp settings
+[20:07:29] BanchoBot: Room name: MDDC: (BOCCHI THE BLOCK) vs (brown ryo), History: https://osu.ppy.sh/mp/106112488
+[20:07:29] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[20:07:29] BanchoBot: Players: 0
+[20:08:51] DaddyStage: !mp set 2 3 10
+[20:08:52] BanchoBot: Changed match settings to 10 slots, TeamVs, ScoreV2
+[20:08:54] DaddyStage: !mp addref Khavid
+[20:08:55] BanchoBot: User not found: Khavid
+[20:08:58] DaddyStage: !mp addref budget_lighto
+[20:08:59] BanchoBot: User not found: budget_lighto
+[20:09:38] DaddyStage: !mp invite #8266808
+[20:09:40] BanchoBot: Invited [Boy]DaLat to the room
+[20:09:42] BanchoBot: [Boy]DaLat joined in slot 1 for team blue.
+[20:09:42] DaddyStage: !mp invite #11021073
+[20:09:43] BanchoBot: Invited [sin] to the room
+[20:09:45] BanchoBot: [Boy]DaLat moved to slot 5
+[20:09:50] DaddyStage: abcxyz
+[20:10:03] DaddyStage: !mp host [Boy]DaLat
+[20:10:03] BanchoBot: [Boy]DaLat became the host.
+[20:10:03] BanchoBot: Changed match host to [Boy]DaLat
+[20:10:06] BanchoBot: Beatmap changed to: yst - the lost dedicated [jump] (https://osu.ppy.sh/b/462736)
+[20:10:08] BanchoBot: Host is changing map...
+[20:10:15] BanchoBot: Beatmap changed to: Higuchi Madoka (CV: Tsuchiya Rio) - Itsudatte Bokura wa (Higuchi Madoka ver.) [Ready, set!] (https://osu.ppy.sh/b/3574847)
+[20:10:18] BanchoBot: KazutoGGO joined in slot 1 for team blue.
+[20:10:18] BanchoBot: [sin] joined in slot 2 for team red.
+[20:10:23] BanchoBot: KazutoGGO moved to slot 8
+[20:10:27] DaddyStage: bocchi 1-4 red
+[20:10:31] DaddyStage: ryo 5-8 blue
+[20:10:47] BanchoBot: [sin] moved to slot 1
+[20:10:47] BanchoBot: hotcat190 joined in slot 2 for team red.
+[20:10:57] BanchoBot: _ Freedom _ joined in slot 3 for team blue.
+[20:11:26] BanchoBot: _ Freedom _ moved to slot 6
+[20:11:34] BanchoBot: Okayu ASMR joined in slot 3 for team blue.
+[20:11:39] BanchoBot: Okayu ASMR changed to Red
+[20:11:42] BanchoBot: -Krys- joined in slot 4 for team red.
+[20:12:01] BanchoBot: -Krys- moved to slot 7
+[20:12:01] BanchoBot: -Krys- changed to Blue
+[20:12:15] BanchoBot: PolKet joined in slot 4 for team red.
+[20:12:42] -Krys-: tao chang hao
+[20:12:59] DaddyStage: !mp settings
+[20:13:01] BanchoBot: Room name: MDDC: (BOCCHI THE BLOCK) vs (brown ryo), History: https://osu.ppy.sh/mp/106112488
+[20:13:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/3574847 Higuchi Madoka (CV: Tsuchiya Rio) - Itsudatte Bokura wa (Higuchi Madoka ver.) [Ready, set!]
+[20:13:01] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:13:01] BanchoBot: Active mods: Freemod
+[20:13:01] BanchoBot: Players: 8
+[20:13:01] BanchoBot: Slot 1  No Map    https://osu.ppy.sh/u/11021073 [sin]           [Team Red ]
+[20:13:01] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/10143086 hotcat190       [Team Red ]
+[20:13:01] BanchoBot: Slot 3  No Map    https://osu.ppy.sh/u/9685975 Okayu ASMR      [Team Red ]
+[20:13:01] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/14065788 PolKet          [Team Red ]
+[20:13:01] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/8266808 [Boy]DaLat      [Host / Team Blue]
+[20:13:01] BanchoBot: Slot 6  No Map    https://osu.ppy.sh/u/3999831 _ Freedom _     [Team Blue]
+[20:13:01] BanchoBot: Slot 7  No Map    https://osu.ppy.sh/u/12143654 -Krys-          [Team Blue]
+[20:13:01] BanchoBot: Slot 8  No Map    https://osu.ppy.sh/u/7662077 KazutoGGO       [Team Blue]
+[20:13:27] DaddyStage: !mp addref budget_lighto
+[20:13:28] BanchoBot: Added budget_lighto to the match referees
+[20:13:37] [sin]: yoyoyo
+[20:13:46] DaddyStage: !mp listrefs
+[20:13:46] BanchoBot: Match referees:
+[20:13:46] BanchoBot: Budget lighto
+[20:13:46] BanchoBot: DaddyStage
+[20:14:33] DaddyStage: !mp settings
+[20:14:36] BanchoBot: Room name: MDDC: (BOCCHI THE BLOCK) vs (brown ryo), History: https://osu.ppy.sh/mp/106112488
+[20:14:36] BanchoBot: Beatmap: https://osu.ppy.sh/b/3574847 Higuchi Madoka (CV: Tsuchiya Rio) - Itsudatte Bokura wa (Higuchi Madoka ver.) [Ready, set!]
+[20:14:36] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:14:36] BanchoBot: Active mods: Freemod
+[20:14:36] BanchoBot: Players: 8
+[20:14:36] BanchoBot: Slot 1  No Map    https://osu.ppy.sh/u/11021073 [sin]           [Team Red ]
+[20:14:36] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/10143086 hotcat190       [Team Red ]
+[20:14:36] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/9685975 Okayu ASMR      [Team Red ]
+[20:14:36] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14065788 PolKet          [Team Red  / NoFail]
+[20:14:36] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/8266808 [Boy]DaLat      [Host / Team Blue]
+[20:14:36] BanchoBot: Slot 6  No Map    https://osu.ppy.sh/u/3999831 _ Freedom _     [Team Blue]
+[20:14:36] BanchoBot: Slot 7  No Map    https://osu.ppy.sh/u/12143654 -Krys-          [Team Blue]
+[20:14:36] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/7662077 KazutoGGO       [Team Blue]
+[20:15:36] -Krys-: ewwwww map tryz
+[20:15:39] -Krys-: i dead
+[20:16:00] [Boy]DaLat: SAO SIN KO DOWN MAP
+[20:16:02] [Boy]DaLat: HUUUUUUUUUUUUUUUUU
+[20:16:07] -Krys-: khinh
+[20:16:18] [sin]: ủa là warm hả
+[20:16:18] Okayu_ASMR: vnpt
+[20:16:23] [sin]: tại ko ai nói j
+[20:16:23] [Boy]DaLat: warm do
+[20:16:23] [sin]: KEKW
+[20:16:24] [Boy]DaLat: dung rui
+[20:16:40] [sin]: XD
+[20:16:57] BanchoBot: All players are ready
+[20:17:03] [Boy]DaLat: ok letz go
+[20:17:06] BanchoBot: The match has started!
+[20:21:39] DaddyStage: !mp addref Hoaq
+[20:22:08] DaddyStage: !mp settings

@@ -1,0 +1,954 @@
+[20:52:15] Joined #mp_114116324
+[20:52:15] BCraftMG: !mp settings
+[20:52:15] BanchoBot: Room name: DACHO: (Div1 Qualifier) vs (Lobby Q14), History: https://osu.ppy.sh/mp/114116324
+[20:52:16] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[20:52:16] BanchoBot: Players: 0
+[20:53:14] BCraftMG: !mp set 0 3 12
+[20:53:15] BanchoBot: Changed match settings to 12 slots, HeadToHead, ScoreV2
+[20:53:18] BCraftMG: !mp map 3890347
+[20:53:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3890347 KINEMA106 - Nightmare Party
+[20:53:20] BCraftMG: !mp mods 1
+[20:53:20] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:53:23] BCraftMG: !mp invite Lesperry
+[20:53:23] BanchoBot: Invited Lesperry to the room
+[20:53:25] BCraftMG: !mp invite Hanori
+[20:53:26] BanchoBot: Invited Hanori to the room
+[20:53:28] BCraftMG: !mp invite -Kedama
+[20:53:29] BanchoBot: Invited -Kedama to the room
+[20:53:30] BCraftMG: !mp invite soft bunny
+[20:53:32] BanchoBot: Invited soft bunny to the room
+[20:53:34] BCraftMG: !mp invite mihari
+[20:53:35] BanchoBot: Invited mihari to the room
+[20:53:36] BCraftMG: !mp invite CamperLt
+[20:53:37] BanchoBot: Invited CamperLt to the room
+[20:53:39] BCraftMG: !mp invite Garalulu
+[20:53:40] BanchoBot: Invited Garalulu to the room
+[20:54:08] BCraftMG: !mp invite iFakeRz
+[20:54:09] BanchoBot: Invited iFakeRz to the room
+[20:54:10] BanchoBot: Garalulu joined in slot 1.
+[20:54:12] BanchoBot: Garalulu left the game.
+[20:56:36] BanchoBot: iFakeRz joined in slot 1.
+[20:56:37] BanchoBot: iFakeRz left the game.
+[20:57:00] BanchoBot: CamperLt joined in slot 1.
+[20:57:06] BanchoBot: CamperLt left the game.
+[20:57:41] BanchoBot: Garalulu joined in slot 1.
+[20:58:06] BanchoBot: iFakeRz joined in slot 2.
+[20:58:14] BCraftMG: !mp settings
+[20:58:15] BanchoBot: Room name: DACHO: (Div1 Qualifier) vs (Lobby Q14), History: https://osu.ppy.sh/mp/114116324
+[20:58:15] BanchoBot: Beatmap: https://osu.ppy.sh/b/3890347 KINEMA106 - Nightmare Party
+[20:58:15] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:58:15] BanchoBot: Active mods: NoFail
+[20:58:15] BanchoBot: Players: 2
+[20:58:15] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/757783 Garalulu        
+[20:58:15] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/5281485 iFakeRz         
+[20:58:22] iFakeRz: bcraftmg
+[20:58:22] BanchoBot: Hanori joined in slot 3.
+[20:58:24] Garalulu: :3
+[20:58:24] iFakeRz: helo
+[20:58:28] iFakeRz: helo team
+[20:58:28] Hanori: o/
+[20:58:29] BanchoBot: CamperLt joined in slot 4.
+[20:58:34] CamperLt: hello
+[20:58:48] BanchoBot: -Kedama joined in slot 5.
+[20:58:54] -Kedama: ช่าย
+[20:58:56] BCraftMG: minecraft
+[20:59:05] BanchoBot: Lesperry joined in slot 6.
+[20:59:28] Lesperry: HELLO
+[20:59:30] BanchoBot: soft bunny joined in slot 7.
+[20:59:33] iFakeRz: last time i saw lesperry in a lobby he was teaming with gwk in 4digit tourney
+[20:59:35] CamperLt: hi hello
+[20:59:37] iFakeRz: #374 now x_x
+[20:59:38] Lesperry: u do not
+[20:59:55] BanchoBot: mihari joined in slot 8.
+[20:59:55] Lesperry: i will not play any tourneys after this one
+[21:00:10] BanchoBot: mihari left the game.
+[21:00:17] soft_bunny: Hellosu!!!!
+[21:00:17] BanchoBot: mihari joined in slot 8.
+[21:00:20] soft_bunny: garalulusu
+[21:00:28] mihari: me when i update the map and the mp3 goes missing
+[21:00:30] mihari: awesome
+[21:00:36] Garalulu: avg tourney player: i'll quit after this
+[21:00:37] iFakeRz: u dont need mp3
+[21:00:38] iFakeRz: to play osu
+[21:00:43] Garalulu: hi soft bunny
+[21:00:44] CamperLt: a lot of good players in this lobby holy
+[21:00:47] soft_bunny: yay
+[21:00:50] BanchoBot: All players are ready
+[21:00:54] BCraftMG: map update does not affect mp3 tho
+[21:00:58] BCraftMG: anyway
+[21:00:59] BanchoBot: soft bunny moved to slot 9
+[21:00:59] mihari: i mean youre right ill perma 200k this lobby cuz i am not prepared at all
+[21:00:59] BCraftMG: !mp settings
+[21:01:00] mihari: :tf:
+[21:01:00] BanchoBot: Room name: DACHO: (Div1 Qualifier) vs (Lobby Q14), History: https://osu.ppy.sh/mp/114116324
+[21:01:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/3890347 KINEMA106 - Nightmare Party
+[21:01:00] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:01:00] BanchoBot: Active mods: NoFail
+[21:01:00] BanchoBot: Players: 8
+[21:01:00] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/757783 Garalulu        
+[21:01:00] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5281485 iFakeRz         
+[21:01:00] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7078544 Hanori          
+[21:01:00] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/4582149 CamperLt        
+[21:01:00] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12147277 -Kedama         
+[21:01:00] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/18092331 Lesperry        
+[21:01:00] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/5442251 mihari          
+[21:01:00] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/9317938 soft bunny      
+[21:01:01] BCraftMG: !mp start 5 glhf
+[21:01:02] BanchoBot: All players are ready
+[21:01:02] BanchoBot: Match starts in 5 seconds
+[21:01:02] BanchoBot: Queued the match to start in 5 seconds
+[21:01:03] iFakeRz: mnmnmnmnmnmn
+[21:01:03] BanchoBot: Match starts in 4 seconds
+[21:01:04] BanchoBot: Match starts in 3 seconds
+[21:01:06] BanchoBot: Good luck, have fun!
+[21:01:07] CamperLt: glgl
+[21:01:07] BanchoBot: The match has started!
+[21:01:07] soft_bunny: goose luck!!!
+[21:01:07] Hanori: gl hf!!!
+[21:01:10] Lesperry: glhff
+[21:03:06] BanchoBot: Lesperry left the game.
+[21:04:49] BanchoBot: soft bunny finished playing (Score: 419583, PASSED).
+[21:04:49] BanchoBot: -Kedama finished playing (Score: 448780, PASSED).
+[21:04:50] BanchoBot: iFakeRz finished playing (Score: 414112, PASSED).
+[21:04:50] BanchoBot: mihari finished playing (Score: 291190, PASSED).
+[21:04:50] BanchoBot: CamperLt finished playing (Score: 415956, PASSED).
+[21:04:50] BanchoBot: Hanori finished playing (Score: 480640, PASSED).
+[21:04:50] BanchoBot: Garalulu finished playing (Score: 357938, PASSED).
+[21:04:50] BanchoBot: The match has finished!
+[21:05:01] BCraftMG: !mp map 3310526
+[21:05:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3310526 Xi - Densetsu no Sabori Shinigami ~ Make a quick escape
+[21:05:03] Hanori: i only missed on non-aim, thats classic
+[21:05:05] BCraftMG: !mp timer 120
+[21:05:06] iFakeRz: what a dodoo nm1
+[21:05:06] BanchoBot: Countdown ends in 2 minutes
+[21:05:09] BanchoBot: Lesperry joined in slot 6.
+[21:05:10] Lesperry: ??
+[21:05:10] Lesperry: wat
+[21:05:12] soft_bunny: dam leplep fc with 600 combo
+[21:05:16] mihari: could i technically reschedule to some other time i kinda think my hand isnt enjoying this
+[21:05:18] mihari: @ref
+[21:05:19] mihari: or is it too late lmao
+[21:05:23] Lesperry: i played the whole map
+[21:05:32] Lesperry: ref can i send a screenshot
+[21:05:35] BCraftMG: uhhhhh @ksn you might want to ask a host
+[21:06:07] BanchoBot: Countdown ends in 1 minute
+[21:06:24] Garalulu: 350k on every map challenge
+[21:06:33] iFakeRz: hd2
+[21:06:37] BanchoBot: Countdown ends in 30 seconds
+[21:06:38] Garalulu: gg
+[21:06:41] iFakeRz: gg
+[21:06:42] BCraftMG: @Lesperry look in general
+[21:06:57] BanchoBot: Countdown ends in 10 seconds
+[21:07:01] BanchoBot: Countdown ends in 5 seconds
+[21:07:03] BanchoBot: Countdown ends in 4 seconds
+[21:07:04] BanchoBot: Countdown ends in 3 seconds
+[21:07:06] BanchoBot: Countdown ends in 2 seconds
+[21:07:06] BanchoBot: Countdown ends in 1 second
+[21:07:07] BanchoBot: Countdown finished
+[21:07:21] Lesperry: waitr a sec
+[21:07:23] Lesperry: lemme check local
+[21:07:24] BanchoBot: Lesperry left the game.
+[21:07:29] BCraftMG: :)
+[21:07:38] BCraftMG: can yall wait Lesperry a bit
+[21:07:41] BCraftMG: he just got robbed
+[21:07:50] Hanori: my warmup...
+[21:07:54] Hanori: right before a nm2...
+[21:07:56] BanchoBot: Lesperry joined in slot 6.
+[21:08:02] Hanori: :trolley:
+[21:08:16] mihari: BCraftMG: host said no
+[21:08:20] mihari: gg
+[21:08:20] BanchoBot: All players are ready
+[21:08:22] Garalulu: :O
+[21:08:25] soft_bunny: :(
+[21:08:26] BCraftMG: rip
+[21:08:27] BCraftMG: !mp settings
+[21:08:28] BanchoBot: Room name: DACHO: (Div1 Qualifier) vs (Lobby Q14), History: https://osu.ppy.sh/mp/114116324
+[21:08:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/3310526 Xi - Densetsu no Sabori Shinigami ~ Make a quick escape
+[21:08:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:08:28] BanchoBot: Active mods: NoFail
+[21:08:28] BanchoBot: Players: 8
+[21:08:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/757783 Garalulu        
+[21:08:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5281485 iFakeRz         
+[21:08:28] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7078544 Hanori          
+[21:08:28] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/4582149 CamperLt        
+[21:08:28] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12147277 -Kedama         
+[21:08:28] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/18092331 Lesperry        
+[21:08:28] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/5442251 mihari          
+[21:08:28] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/9317938 soft bunny      
+[21:08:31] Hanori: :sobL
+[21:08:32] Hanori: :sob:
+[21:08:32] Lesperry: glhfff
+[21:08:33] BCraftMG: ok ready up then
+[21:08:33] iFakeRz: mnmnmnmnnmnmnbnbmnbmnbmnbmnbmnbmnbmnb
+[21:08:36] BCraftMG: !mp start 5 glhf
+[21:08:36] BanchoBot: Match starts in 5 seconds
+[21:08:36] BanchoBot: Queued the match to start in 5 seconds
+[21:08:38] Hanori: gl hf!!!!
+[21:08:38] BanchoBot: Match starts in 4 seconds
+[21:08:38] mihari: how am i supposed to survive through this pool when my hand is dying
+[21:08:39] mihari: zzz
+[21:08:39] BanchoBot: Match starts in 3 seconds
+[21:08:41] BanchoBot: Good luck, have fun!
+[21:08:41] Garalulu: letsgo
+[21:08:41] CamperLt: gL
+[21:08:42] BanchoBot: The match has started!
+[21:08:44] soft_bunny: goose luck!!!!!
+[21:11:49] BanchoBot: Lesperry finished playing (Score: 974347, PASSED).
+[21:11:49] BanchoBot: mihari finished playing (Score: 153032, PASSED).
+[21:11:49] BanchoBot: Hanori finished playing (Score: 457512, PASSED).
+[21:11:49] BanchoBot: Garalulu finished playing (Score: 286552, PASSED).
+[21:11:49] BanchoBot: CamperLt finished playing (Score: 272803, PASSED).
+[21:11:50] BanchoBot: iFakeRz finished playing (Score: 191589, PASSED).
+[21:11:50] BanchoBot: -Kedama finished playing (Score: 286530, PASSED).
+[21:11:52] BanchoBot: soft bunny finished playing (Score: 357649, PASSED).
+[21:11:52] BanchoBot: The match has finished!
+[21:11:56] Garalulu: failed
+[21:12:01] BCraftMG: !mp map 3920755
+[21:12:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3920755 konoco - LUNDI
+[21:12:03] BCraftMG: !mp timer 120
+[21:12:03] BanchoBot: Countdown ends in 2 minutes
+[21:12:07] Hanori: :Sob:
+[21:12:18] Lesperry: @ref do i need to send my nm1 score to ur dm
+[21:12:18] CamperLt: good warmup ngl
+[21:12:23] Hanori: when will i learn to not miss on easy sections
+[21:12:35] BCraftMG: ive already got the ss
+[21:12:51] Lesperry: oh ok thxx
+[21:12:57] soft_bunny: yahoo
+[21:12:58] Hanori: \o/
+[21:13:04] BanchoBot: Countdown ends in 1 minute
+[21:13:04] BanchoBot: All players are ready
+[21:13:08] Hanori: gl hf!!!!
+[21:13:13] Lesperry: glhff
+[21:13:14] BCraftMG: !mp settings
+[21:13:16] BanchoBot: Room name: DACHO: (Div1 Qualifier) vs (Lobby Q14), History: https://osu.ppy.sh/mp/114116324
+[21:13:16] BanchoBot: Beatmap: https://osu.ppy.sh/b/3920755 konoco - LUNDI
+[21:13:16] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:13:16] BanchoBot: Active mods: NoFail
+[21:13:16] BanchoBot: Players: 8
+[21:13:16] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/757783 Garalulu        
+[21:13:16] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5281485 iFakeRz         
+[21:13:16] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7078544 Hanori          
+[21:13:16] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/4582149 CamperLt        
+[21:13:16] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12147277 -Kedama         
+[21:13:16] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/18092331 Lesperry        
+[21:13:16] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/5442251 mihari          
+[21:13:16] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/9317938 soft bunny      
+[21:13:16] BCraftMG: !mp start 5 glhf
+[21:13:17] CamperLt: golf
+[21:13:17] Garalulu: glglgl
+[21:13:17] BanchoBot: Countdown aborted
+[21:13:17] BanchoBot: Match starts in 5 seconds
+[21:13:17] BanchoBot: Queued the match to start in 5 seconds
+[21:13:18] BanchoBot: Match starts in 4 seconds
+[21:13:20] BanchoBot: Match starts in 3 seconds
+[21:13:21] BanchoBot: Good luck, have fun!
+[21:13:23] BanchoBot: The match has started!
+[21:16:44] BanchoBot: Lesperry finished playing (Score: 657915, PASSED).
+[21:16:44] BanchoBot: CamperLt finished playing (Score: 305890, PASSED).
+[21:16:44] BanchoBot: -Kedama finished playing (Score: 470253, PASSED).
+[21:16:44] BanchoBot: Hanori finished playing (Score: 362217, PASSED).
+[21:16:46] BanchoBot: mihari finished playing (Score: 198945, PASSED).
+[21:16:46] BanchoBot: iFakeRz finished playing (Score: 238138, PASSED).
+[21:16:46] BanchoBot: Garalulu finished playing (Score: 251867, PASSED).
+[21:16:46] BanchoBot: soft bunny finished playing (Score: 272328, PASSED).
+[21:16:46] BanchoBot: The match has finished!
+[21:16:52] BCraftMG: !mp map 3762049
+[21:16:53] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3762049 DJ Myosuke - OX Game (Cut Break ver.)
+[21:16:54] BCraftMG: !mp timer 120
+[21:16:55] BanchoBot: Countdown ends in 2 minutes
+[21:17:56] BanchoBot: Countdown ends in 1 minute
+[21:17:58] BanchoBot: All players are ready
+[21:18:01] BCraftMG: !mp settings
+[21:18:03] BanchoBot: Room name: DACHO: (Div1 Qualifier) vs (Lobby Q14), History: https://osu.ppy.sh/mp/114116324
+[21:18:03] BanchoBot: Beatmap: https://osu.ppy.sh/b/3762049 DJ Myosuke - OX Game (Cut Break ver.)
+[21:18:03] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:18:03] BanchoBot: Active mods: NoFail
+[21:18:03] BanchoBot: Players: 8
+[21:18:03] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/757783 Garalulu        
+[21:18:03] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5281485 iFakeRz         
+[21:18:03] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7078544 Hanori          
+[21:18:03] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/4582149 CamperLt        
+[21:18:03] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12147277 -Kedama         
+[21:18:03] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/18092331 Lesperry        
+[21:18:03] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/5442251 mihari          
+[21:18:03] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/9317938 soft bunny      
+[21:18:05] BCraftMG: !mp start 5 glhf
+[21:18:06] BanchoBot: Countdown aborted
+[21:18:06] BanchoBot: Match starts in 5 seconds
+[21:18:06] BanchoBot: Queued the match to start in 5 seconds
+[21:18:07] BanchoBot: Match starts in 4 seconds
+[21:18:07] Hanori: gl hf!!!!
+[21:18:09] BanchoBot: Match starts in 3 seconds
+[21:18:10] BanchoBot: Good luck, have fun!
+[21:18:12] CamperLt: gl
+[21:18:12] BanchoBot: The match has started!
+[21:18:13] Lesperry: glhff\
+[21:20:56] BanchoBot: Garalulu finished playing (Score: 132194, PASSED).
+[21:20:56] BanchoBot: CamperLt finished playing (Score: 223295, PASSED).
+[21:20:56] BanchoBot: iFakeRz finished playing (Score: 134797, PASSED).
+[21:20:56] BanchoBot: mihari finished playing (Score: 204352, PASSED).
+[21:20:56] BanchoBot: -Kedama finished playing (Score: 321938, PASSED).
+[21:20:56] BanchoBot: Hanori finished playing (Score: 332109, PASSED).
+[21:20:59] BanchoBot: soft bunny finished playing (Score: 371006, PASSED).
+[21:21:03] BanchoBot: Lesperry finished playing (Score: 536881, PASSED).
+[21:21:03] BanchoBot: The match has finished!
+[21:21:18] BCraftMG: !mp map 3362949
+[21:21:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3362949 YOASOBI - Kaibutsu
+[21:21:20] BCraftMG: !mp timer 120
+[21:21:21] BanchoBot: Countdown ends in 2 minutes
+[21:21:31] iFakeRz: wtf
+[21:21:31] iFakeRz: ar6
+[21:21:41] CamperLt: ar6 is fun
+[21:21:44] Garalulu: wtf
+[21:21:53] Garalulu: is it perfect stack map
+[21:22:03] -Kedama: @lesperry buy me
+[21:22:06] CamperLt: yea
+[21:22:09] soft_bunny: you are doomed
+[21:22:13] Lesperry: wd
+[21:22:19] Garalulu: :p
+[21:22:20] BanchoBot: All players are ready
+[21:22:22] BanchoBot: Countdown ends in 1 minute
+[21:22:26] Lesperry: waduh
+[21:22:28] soft_bunny: goose luck!!!!
+[21:22:28] BCraftMG: !mp settings
+[21:22:29] BanchoBot: Room name: DACHO: (Div1 Qualifier) vs (Lobby Q14), History: https://osu.ppy.sh/mp/114116324
+[21:22:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/3362949 YOASOBI - Kaibutsu
+[21:22:29] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:22:29] BanchoBot: Active mods: NoFail
+[21:22:29] BanchoBot: Players: 8
+[21:22:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/757783 Garalulu        
+[21:22:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5281485 iFakeRz         
+[21:22:29] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7078544 Hanori          
+[21:22:29] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/4582149 CamperLt        
+[21:22:29] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12147277 -Kedama         
+[21:22:29] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/18092331 Lesperry        
+[21:22:29] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/5442251 mihari          
+[21:22:29] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/9317938 soft bunny      
+[21:22:30] BCraftMG: !mp start 5 glhf
+[21:22:32] BanchoBot: Countdown aborted
+[21:22:32] BanchoBot: Match starts in 5 seconds
+[21:22:32] BanchoBot: Queued the match to start in 5 seconds
+[21:22:33] BanchoBot: Match starts in 4 seconds
+[21:22:33] Lesperry: GLHF
+[21:22:35] BanchoBot: Match starts in 3 seconds
+[21:22:36] BanchoBot: Good luck, have fun!
+[21:22:38] BanchoBot: The match has started!
+[21:26:10] BanchoBot: iFakeRz finished playing (Score: 21568, PASSED).
+[21:26:10] BanchoBot: -Kedama finished playing (Score: 81449, PASSED).
+[21:26:10] BanchoBot: Garalulu finished playing (Score: 156024, PASSED).
+[21:26:10] BanchoBot: CamperLt finished playing (Score: 60743, PASSED).
+[21:26:10] BanchoBot: Hanori finished playing (Score: 467036, PASSED).
+[21:26:11] BanchoBot: mihari finished playing (Score: 131841, PASSED).
+[21:26:11] BanchoBot: Lesperry finished playing (Score: 221389, PASSED).
+[21:26:11] BanchoBot: soft bunny finished playing (Score: 361089, PASSED).
+[21:26:11] BanchoBot: The match has finished!
+[21:26:17] BCraftMG: !mp map 2358493
+[21:26:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2358493 Sum 41 - No Reason
+[21:26:19] BCraftMG: !mp timer 120
+[21:26:20] Hanori: man why cant i hold a proper combo today
+[21:26:20] BanchoBot: Countdown ends in 2 minutes
+[21:26:21] BCraftMG: !mp mods 9
+[21:26:22] Hanori: ;w;
+[21:26:22] iFakeRz: get me out guys
+[21:26:22] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:26:27] Garalulu: XDD
+[21:26:41] soft_bunny: :(
+[21:27:20] BanchoBot: Countdown ends in 1 minute
+[21:27:22] BanchoBot: All players are ready
+[21:27:23] soft_bunny: goose luck!!!
+[21:27:26] BCraftMG: !mp settings
+[21:27:26] BanchoBot: Room name: DACHO: (Div1 Qualifier) vs (Lobby Q14), History: https://osu.ppy.sh/mp/114116324
+[21:27:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/2358493 Sum 41 - No Reason
+[21:27:26] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:27:26] BanchoBot: Active mods: NoFail, Hidden
+[21:27:26] BanchoBot: Players: 8
+[21:27:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/757783 Garalulu        
+[21:27:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5281485 iFakeRz         
+[21:27:26] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7078544 Hanori          
+[21:27:26] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/4582149 CamperLt        
+[21:27:26] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12147277 -Kedama         
+[21:27:26] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/18092331 Lesperry        
+[21:27:26] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/5442251 mihari          
+[21:27:26] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/9317938 soft bunny      
+[21:27:27] BCraftMG: !mp start 5 glhf
+[21:27:29] Hanori: gl hf!!!!
+[21:27:29] BanchoBot: Countdown aborted
+[21:27:29] BanchoBot: Match starts in 5 seconds
+[21:27:29] BanchoBot: Queued the match to start in 5 seconds
+[21:27:30] BanchoBot: Match starts in 4 seconds
+[21:27:32] Garalulu: glgl
+[21:27:32] BanchoBot: Match starts in 3 seconds
+[21:27:33] BanchoBot: Good luck, have fun!
+[21:27:33] Lesperry: ghfff
+[21:27:35] BanchoBot: The match has started!
+[21:30:47] BanchoBot: Hanori finished playing (Score: 556679, PASSED).
+[21:30:49] BanchoBot: CamperLt finished playing (Score: 505978, PASSED).
+[21:30:49] BanchoBot: mihari finished playing (Score: 366435, PASSED).
+[21:30:49] BanchoBot: soft bunny finished playing (Score: 451624, PASSED).
+[21:30:49] BanchoBot: Garalulu finished playing (Score: 437408, PASSED).
+[21:30:49] BanchoBot: iFakeRz finished playing (Score: 524892, PASSED).
+[21:30:50] BanchoBot: -Kedama finished playing (Score: 924777, PASSED).
+[21:30:56] BanchoBot: Lesperry finished playing (Score: 1035797, PASSED).
+[21:30:56] BanchoBot: The match has finished!
+[21:31:04] BCraftMG: !mp map 3478294
+[21:31:05] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3478294 NIWASHI - (0,0)
+[21:31:06] BCraftMG: !mp timer 120
+[21:31:06] BanchoBot: Countdown ends in 2 minutes
+[21:31:10] Hanori: i knew fcing this in practice would mean underperforming in lobby
+[21:31:13] Hanori: :trolley:
+[21:31:28] iFakeRz: just sightread every map
+[21:31:31] iFakeRz: :^)
+[21:31:34] Garalulu: so real
+[21:31:37] Hanori: i dont think that would've gone well on nm5
+[21:31:38] Hanori: ghdnfjklsghdfs
+[21:31:38] soft_bunny: :(
+[21:31:44] BanchoBot: All players are ready
+[21:31:44] iFakeRz: i mean
+[21:31:47] iFakeRz: i dropped 10k
+[21:31:50] BCraftMG: !mp settings
+[21:31:52] iFakeRz: thats clearly good enough
+[21:31:52] BanchoBot: Room name: DACHO: (Div1 Qualifier) vs (Lobby Q14), History: https://osu.ppy.sh/mp/114116324
+[21:31:52] BanchoBot: Beatmap: https://osu.ppy.sh/b/3478294 NIWASHI - (0,0)
+[21:31:52] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:31:52] BanchoBot: Active mods: NoFail, Hidden
+[21:31:52] BanchoBot: Players: 8
+[21:31:52] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/757783 Garalulu        
+[21:31:52] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5281485 iFakeRz         
+[21:31:52] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7078544 Hanori          
+[21:31:52] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/4582149 CamperLt        
+[21:31:52] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12147277 -Kedama         
+[21:31:52] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/18092331 Lesperry        
+[21:31:52] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/5442251 mihari          
+[21:31:52] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/9317938 soft bunny      
+[21:31:58] BCraftMG: !mp start 5 glhf
+[21:31:59] Hanori: gl hf!!!!
+[21:31:59] BanchoBot: Countdown aborted
+[21:31:59] BanchoBot: Match starts in 5 seconds
+[21:31:59] BanchoBot: Queued the match to start in 5 seconds
+[21:32:00] BanchoBot: Match starts in 4 seconds
+[21:32:02] BanchoBot: Match starts in 3 seconds
+[21:32:02] Lesperry: glhfff
+[21:32:03] BanchoBot: Good luck, have fun!
+[21:32:05] soft_bunny: goose luck
+[21:32:05] BanchoBot: The match has started!
+[21:33:19] Lesperry: ..
+[21:34:16] BanchoBot: Hanori finished playing (Score: 389929, PASSED).
+[21:34:16] BanchoBot: Garalulu finished playing (Score: 389550, PASSED).
+[21:34:16] BanchoBot: CamperLt finished playing (Score: 176135, PASSED).
+[21:34:16] BanchoBot: mihari finished playing (Score: 148242, PASSED).
+[21:34:19] BanchoBot: soft bunny finished playing (Score: 285713, PASSED).
+[21:34:20] BanchoBot: -Kedama finished playing (Score: 417711, PASSED).
+[21:34:23] BanchoBot: iFakeRz finished playing (Score: 83210, PASSED).
+[21:34:28] mihari: what the firetruck did i just play
+[21:34:28] mihari: jkladsdkjlsa
+[21:34:33] Lesperry: dude
+[21:34:33] Lesperry: im waiting for players
+[21:34:35] Garalulu: i mean
+[21:34:36] Lesperry: the entire map
+[21:34:38] CamperLt: REAL
+[21:34:42] BanchoBot: The match has finished!
+[21:34:42] BanchoBot: Lesperry left the game.
+[21:34:45] BanchoBot: Lesperry joined in slot 6.
+[21:34:45] mihari: waiting for players too
+[21:34:45] -Kedama: bro did not get to play
+[21:34:48] BCraftMG: :stareeeeee:
+[21:34:48] Lesperry: BRUH
+[21:34:52] BCraftMG: Lesperry
+[21:34:57] mihari: lesperry internet
+[21:34:57] Lesperry: look dm
+[21:34:58] soft_bunny: gg banelings
+[21:34:58] Lesperry: bro
+[21:34:58] BCraftMG: dm me ss
+[21:35:01] soft_bunny: exposed
+[21:35:06] BCraftMG: !mp map 4098596
+[21:35:07] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4098596 Toromaru - Uncharted Sky
+[21:35:10] iFakeRz: i think im goated at reading
+[21:35:20] soft_bunny: this is what you get from break the lawing on me Lesperry
+[21:35:21] BCraftMG: !mp timer 120
+[21:35:22] BanchoBot: Countdown ends in 2 minutes
+[21:35:25] Garalulu: above 350k on hd2 lets goo
+[21:35:28] Lesperry: wat
+[21:35:40] Hanori: this is going in my list of underperformances, along with every tournament i've played
+[21:35:44] Hanori: :trolley:
+[21:35:57] Lesperry: dmed u
+[21:35:57] Lesperry: thats
+[21:36:08] BanchoBot: All players are ready
+[21:36:08] Garalulu: bid hanori 5000$
+[21:36:15] Hanori: gl hf!!!!
+[21:36:21] Hanori: im worth 50
+[21:36:22] BanchoBot: Countdown ends in 1 minute
+[21:36:24] BCraftMG: !mp settings
+[21:36:25] BanchoBot: Room name: DACHO: (Div1 Qualifier) vs (Lobby Q14), History: https://osu.ppy.sh/mp/114116324
+[21:36:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/4098596 Toromaru - Uncharted Sky
+[21:36:25] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:36:25] BanchoBot: Active mods: NoFail, Hidden
+[21:36:25] BanchoBot: Players: 8
+[21:36:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/757783 Garalulu        
+[21:36:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5281485 iFakeRz         
+[21:36:26] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7078544 Hanori          
+[21:36:26] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/4582149 CamperLt        
+[21:36:26] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12147277 -Kedama         
+[21:36:26] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/18092331 Lesperry        
+[21:36:26] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/5442251 mihari          
+[21:36:26] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/9317938 soft bunny      
+[21:36:37] CamperLt: pls buy me for 100
+[21:36:49] iFakeRz: pls buy me for 1
+[21:36:49] BanchoBot: All players are ready
+[21:36:50] BCraftMG: !mp settings
+[21:36:50] BanchoBot: Room name: DACHO: (Div1 Qualifier) vs (Lobby Q14), History: https://osu.ppy.sh/mp/114116324
+[21:36:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/4098596 Toromaru - Uncharted Sky
+[21:36:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:36:50] BanchoBot: Active mods: NoFail, Hidden
+[21:36:51] BanchoBot: Players: 8
+[21:36:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/757783 Garalulu        
+[21:36:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5281485 iFakeRz         
+[21:36:51] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7078544 Hanori          
+[21:36:51] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/4582149 CamperLt        
+[21:36:51] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12147277 -Kedama         
+[21:36:51] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/18092331 Lesperry        
+[21:36:51] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/5442251 mihari          
+[21:36:51] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/9317938 soft bunny      
+[21:36:51] BCraftMG: !mp start 5 glhf
+[21:36:52] BanchoBot: Countdown aborted
+[21:36:52] BanchoBot: Match starts in 5 seconds
+[21:36:52] BanchoBot: Queued the match to start in 5 seconds
+[21:36:53] BanchoBot: Match starts in 4 seconds
+[21:36:55] BanchoBot: Match starts in 3 seconds
+[21:36:55] BanchoBot: Good luck, have fun!
+[21:36:58] BanchoBot: The match has started!
+[21:36:58] Lesperry: GLHF
+[21:36:59] soft_bunny: goose luck!!!
+[21:39:35] BanchoBot: iFakeRz finished playing (Score: 102492, PASSED).
+[21:39:35] BanchoBot: mihari finished playing (Score: 105094, PASSED).
+[21:39:38] BanchoBot: Garalulu finished playing (Score: 116189, PASSED).
+[21:39:39] BanchoBot: Lesperry finished playing (Score: 247766, PASSED).
+[21:39:41] BanchoBot: Hanori finished playing (Score: 165063, PASSED).
+[21:39:42] BanchoBot: CamperLt finished playing (Score: 211481, PASSED).
+[21:39:45] BanchoBot: -Kedama finished playing (Score: 278996, PASSED).
+[21:39:55] BanchoBot: soft bunny finished playing (Score: 169781, PASSED).
+[21:39:55] BanchoBot: The match has finished!
+[21:39:59] BCraftMG: !mp map 1718994
+[21:40:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1718994 Nanawo Akari - One Room Sugar Life
+[21:40:02] BCraftMG: !mp mods 17
+[21:40:03] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[21:40:04] Hanori: if it couldn't get any worse i had lagspikes
+[21:40:06] BCraftMG: !mp timer 120
+[21:40:07] BanchoBot: Countdown ends in 2 minutes
+[21:40:13] Hanori: this game just hates me or something
+[21:40:25] Garalulu: dw its just ql
+[21:40:44] iFakeRz: maybe u get captain hanori
+[21:40:47] Hanori: im quite nervous about it cuz i have been struggling getting in teams in lft
+[21:40:48] iFakeRz: quals dont matter then
+[21:40:48] iFakeRz: :tf:
+[21:40:48] -Kedama: mapped by fia
+[21:40:58] Garalulu: goat mp
+[21:40:58] Hanori: i've missed out on 5 tournaments the past 2 months cuz i didnt find a team
+[21:41:00] Garalulu: map
+[21:41:07] BanchoBot: Countdown ends in 1 minute
+[21:41:17] BanchoBot: All players are ready
+[21:41:22] BCraftMG: !mp settings
+[21:41:23] BanchoBot: Room name: DACHO: (Div1 Qualifier) vs (Lobby Q14), History: https://osu.ppy.sh/mp/114116324
+[21:41:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/1718994 Nanawo Akari - One Room Sugar Life
+[21:41:23] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:41:23] BanchoBot: Active mods: NoFail, HardRock
+[21:41:23] BanchoBot: Players: 8
+[21:41:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/757783 Garalulu        
+[21:41:23] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5281485 iFakeRz         
+[21:41:23] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7078544 Hanori          
+[21:41:23] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/4582149 CamperLt        
+[21:41:23] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12147277 -Kedama         
+[21:41:23] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/18092331 Lesperry        
+[21:41:23] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/5442251 mihari          
+[21:41:23] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/9317938 soft bunny      
+[21:41:25] BCraftMG: !mp start 5 glhf
+[21:41:25] BanchoBot: Countdown aborted
+[21:41:25] BanchoBot: Match starts in 5 seconds
+[21:41:25] BanchoBot: Queued the match to start in 5 seconds
+[21:41:27] BanchoBot: Match starts in 4 seconds
+[21:41:28] BanchoBot: Match starts in 3 seconds
+[21:41:29] BanchoBot: Good luck, have fun!
+[21:41:31] iFakeRz: mnmnbmnbmnn
+[21:41:31] BanchoBot: The match has started!
+[21:41:34] Lesperry: glhff
+[21:44:26] BanchoBot: Garalulu finished playing (Score: 265839, PASSED).
+[21:44:26] BanchoBot: soft bunny finished playing (Score: 390366, PASSED).
+[21:44:26] BanchoBot: iFakeRz finished playing (Score: 234442, PASSED).
+[21:44:26] BanchoBot: -Kedama finished playing (Score: 524530, PASSED).
+[21:44:26] BanchoBot: mihari finished playing (Score: 348816, PASSED).
+[21:44:27] BanchoBot: Lesperry finished playing (Score: 624867, PASSED).
+[21:44:27] BanchoBot: Hanori finished playing (Score: 360681, PASSED).
+[21:44:29] BanchoBot: CamperLt finished playing (Score: 408316, PASSED).
+[21:44:29] BanchoBot: The match has finished!
+[21:44:38] BCraftMG: !mp map 2285687
+[21:44:40] iFakeRz: wtf are those maps man
+[21:44:40] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2285687 Shakemii - Sarumane Isutori Game
+[21:44:41] BCraftMG: !mp timer 120
+[21:44:42] BanchoBot: Countdown ends in 2 minutes
+[21:44:54] iFakeRz: where are my normal maps
+[21:44:56] iFakeRz: :sob:
+[21:44:56] Hanori: me searching for the raw aim in the pool:
+[21:45:05] mihari: you had nm1..
+[21:45:12] BCraftMG: yummy maps
+[21:45:12] soft_bunny: what is this song :(
+[21:45:13] iFakeRz: nm1 had streams
+[21:45:15] iFakeRz: ...
+[21:45:15] Hanori: that wasnt aim :sob:
+[21:45:22] Hanori: missed on overlaps and flow aim
+[21:45:36] Garalulu: all maps are aim for me
+[21:45:38] Hanori: hd1 and h2 are the only aim maps...
+[21:45:41] Hanori: hr2*
+[21:45:43] mihari: ok look im 100% the worst reading player in this lobby for "non low ar reading" and i dont know what youre talking about hanori
+[21:45:43] BanchoBot: Countdown ends in 1 minute
+[21:45:47] BanchoBot: All players are ready
+[21:45:53] mihari: so hot take..
+[21:45:56] iFakeRz: im
+[21:45:58] iFakeRz: the worst
+[21:45:59] iFakeRz: readinmg player
+[21:45:59] iFakeRz: tf
+[21:46:05] BCraftMG: !mp settings
+[21:46:05] BanchoBot: Room name: DACHO: (Div1 Qualifier) vs (Lobby Q14), History: https://osu.ppy.sh/mp/114116324
+[21:46:05] BanchoBot: Beatmap: https://osu.ppy.sh/b/2285687 Shakemii - Sarumane Isutori Game
+[21:46:05] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:46:05] BanchoBot: Active mods: NoFail, HardRock
+[21:46:05] BanchoBot: Players: 8
+[21:46:05] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/757783 Garalulu        
+[21:46:05] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5281485 iFakeRz         
+[21:46:05] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7078544 Hanori          
+[21:46:05] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/4582149 CamperLt        
+[21:46:05] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12147277 -Kedama         
+[21:46:05] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/18092331 Lesperry        
+[21:46:05] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/5442251 mihari          
+[21:46:05] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/9317938 soft bunny      
+[21:46:07] BCraftMG: !mp start 5 glhf
+[21:46:08] Hanori: i cant read overlaps except if i memorize it
+[21:46:08] BanchoBot: Countdown aborted
+[21:46:08] BanchoBot: Match starts in 5 seconds
+[21:46:08] BanchoBot: Queued the match to start in 5 seconds
+[21:46:09] -Kedama: bro got ratio on twitter
+[21:46:09] mihari: i specifically said "on non low ar" for you
+[21:46:09] BanchoBot: Match starts in 4 seconds
+[21:46:11] BanchoBot: Match starts in 3 seconds
+[21:46:12] BanchoBot: Good luck, have fun!
+[21:46:14] BanchoBot: The match has started!
+[21:46:15] Lesperry: glhf
+[21:46:15] iFakeRz: hehe
+[21:46:20] soft_bunny: gg brah
+[21:50:02] BanchoBot: Lesperry finished playing (Score: 800979, PASSED).
+[21:50:02] BanchoBot: -Kedama finished playing (Score: 359313, PASSED).
+[21:50:02] BanchoBot: soft bunny finished playing (Score: 491422, PASSED).
+[21:50:02] BanchoBot: iFakeRz finished playing (Score: 426930, PASSED).
+[21:50:03] BanchoBot: CamperLt finished playing (Score: 473588, PASSED).
+[21:50:03] BanchoBot: mihari finished playing (Score: 381501, PASSED).
+[21:50:03] BanchoBot: Garalulu finished playing (Score: 399978, PASSED).
+[21:50:03] BanchoBot: Hanori finished playing (Score: 1014526, PASSED).
+[21:50:03] BanchoBot: The match has finished!
+[21:50:18] BCraftMG: !mp map 4626952
+[21:50:18] iFakeRz: nice hanori
+[21:50:18] Lesperry: nice fcc
+[21:50:18] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4626952 factal - Gracefulness
+[21:50:19] BCraftMG: !mp timer 120
+[21:50:20] BanchoBot: Countdown ends in 2 minutes
+[21:50:24] soft_bunny: am i the only one who think thjis song is bad
+[21:50:28] CamperLt: yo nice fc
+[21:50:31] Hanori: :yay:
+[21:50:31] mihari: aw hell naw
+[21:50:33] Hanori: thanks!!
+[21:50:34] soft_bunny: nice fc
+[21:50:42] Hanori: @mihair i was messing around btw LOL
+[21:51:00] Hanori: it was just me memeing about missing on overlaps on everything i play
+[21:51:00] mihari: oki
+[21:51:04] mihari: i mean im the same
+[21:51:09] mihari: i can send you a funny clip later
+[21:51:15] Hanori: we vibing
+[21:51:19] iFakeRz: after that map
+[21:51:21] BanchoBot: Countdown ends in 1 minute
+[21:51:21] iFakeRz: 3 dts right?
+[21:51:24] iFakeRz: im soo cooked
+[21:51:25] Hanori: ye
+[21:51:27] iFakeRz: feel like puking
+[21:51:27] BanchoBot: All players are ready
+[21:51:28] BCraftMG: !mp settings
+[21:51:30] mihari: worst mod coming up
+[21:51:30] BanchoBot: Room name: DACHO: (Div1 Qualifier) vs (Lobby Q14), History: https://osu.ppy.sh/mp/114116324
+[21:51:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/4626952 factal - Gracefulness
+[21:51:30] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:51:30] BanchoBot: Active mods: NoFail, HardRock
+[21:51:30] BanchoBot: Players: 8
+[21:51:30] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/757783 Garalulu        
+[21:51:30] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5281485 iFakeRz         
+[21:51:30] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7078544 Hanori          
+[21:51:30] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/4582149 CamperLt        
+[21:51:30] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12147277 -Kedama         
+[21:51:30] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/18092331 Lesperry        
+[21:51:30] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/5442251 mihari          
+[21:51:30] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/9317938 soft bunny      
+[21:51:32] BCraftMG: !mp start 5 glhf
+[21:51:32] BanchoBot: Countdown aborted
+[21:51:32] BanchoBot: Match starts in 5 seconds
+[21:51:32] BanchoBot: Queued the match to start in 5 seconds
+[21:51:34] Hanori: wa
+[21:51:34] BanchoBot: Match starts in 4 seconds
+[21:51:35] BanchoBot: Match starts in 3 seconds
+[21:51:37] BanchoBot: Good luck, have fun!
+[21:51:37] Lesperry: glhff
+[21:51:37] Hanori: gl hf!!!!
+[21:51:38] BanchoBot: The match has started!
+[21:54:37] BanchoBot: CamperLt finished playing (Score: 152869, PASSED).
+[21:54:37] BanchoBot: Garalulu finished playing (Score: 168954, PASSED).
+[21:54:37] BanchoBot: Hanori finished playing (Score: 511532, PASSED).
+[21:54:37] BanchoBot: soft bunny finished playing (Score: 388780, PASSED).
+[21:54:37] BanchoBot: -Kedama finished playing (Score: 209389, PASSED).
+[21:54:37] BanchoBot: iFakeRz finished playing (Score: 127988, PASSED).
+[21:54:38] BanchoBot: mihari finished playing (Score: 170386, PASSED).
+[21:54:38] BanchoBot: Lesperry finished playing (Score: 658687, PASSED).
+[21:54:38] BanchoBot: The match has finished!
+[21:54:47] Hanori: well thats a bruh moment isnt it
+[21:54:52] Hanori: LOL
+[21:54:55] Garalulu: toilet song
+[21:55:01] BCraftMG: !mp map 3986880
+[21:55:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3986880 Wakeshima Kanon - REUNION
+[21:55:03] BCraftMG: !mp mods 65
+[21:55:04] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:55:04] BCraftMG: !mp timer 120
+[21:55:05] BanchoBot: Countdown ends in 2 minutes
+[21:55:08] Hanori: me when the slider sliders too hard...
+[21:55:23] Garalulu: ifakerz time?
+[21:55:30] iFakeRz: what
+[21:55:33] CamperLt: when dt1 is more speedy than dt2
+[21:55:43] iFakeRz: no donmt think so
+[21:55:46] iFakeRz: i dont know what this map has
+[21:55:51] Hanori: bursts
+[21:55:54] iFakeRz: and i didnt play for a week lol
+[21:56:01] BCraftMG: this map has circles
+[21:56:04] BanchoBot: All players are ready
+[21:56:04] iFakeRz: not gonna get bidded for anyway
+[21:56:06] BanchoBot: Countdown ends in 1 minute
+[21:56:06] iFakeRz: :3
+[21:56:07] CamperLt: get ready for long burst
+[21:56:11] BCraftMG: !mp settings
+[21:56:12] BanchoBot: Room name: DACHO: (Div1 Qualifier) vs (Lobby Q14), History: https://osu.ppy.sh/mp/114116324
+[21:56:12] BanchoBot: Beatmap: https://osu.ppy.sh/b/3986880 Wakeshima Kanon - REUNION
+[21:56:12] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:56:12] BanchoBot: Active mods: NoFail, DoubleTime
+[21:56:12] BanchoBot: Players: 8
+[21:56:12] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/757783 Garalulu        
+[21:56:12] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5281485 iFakeRz         
+[21:56:12] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7078544 Hanori          
+[21:56:12] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/4582149 CamperLt        
+[21:56:12] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12147277 -Kedama         
+[21:56:12] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/18092331 Lesperry        
+[21:56:12] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/5442251 mihari          
+[21:56:12] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/9317938 soft bunny      
+[21:56:12] BCraftMG: !mp start 5 glhf
+[21:56:13] BanchoBot: Countdown aborted
+[21:56:13] BanchoBot: Match starts in 5 seconds
+[21:56:13] BanchoBot: Queued the match to start in 5 seconds
+[21:56:14] BanchoBot: Match starts in 4 seconds
+[21:56:14] iFakeRz: long burst
+[21:56:16] BanchoBot: Match starts in 3 seconds
+[21:56:16] Garalulu: like how lng
+[21:56:16] iFakeRz: joever
+[21:56:17] BanchoBot: Good luck, have fun!
+[21:56:17] Lesperry: glhff
+[21:56:19] BanchoBot: The match has started!
+[21:58:58] BanchoBot: soft bunny finished playing (Score: 384139, PASSED).
+[21:58:58] BanchoBot: -Kedama finished playing (Score: 502936, PASSED).
+[21:59:00] BanchoBot: iFakeRz finished playing (Score: 279172, PASSED).
+[21:59:00] BanchoBot: Hanori finished playing (Score: 593031, PASSED).
+[21:59:00] BanchoBot: CamperLt finished playing (Score: 281061, PASSED).
+[21:59:00] BanchoBot: mihari finished playing (Score: 174420, PASSED).
+[21:59:02] BanchoBot: Lesperry finished playing (Score: 318832, PASSED).
+[21:59:03] BanchoBot: Garalulu finished playing (Score: 334063, PASSED).
+[21:59:03] BanchoBot: The match has finished!
+[21:59:14] BCraftMG: !mp map 3872983
+[21:59:15] iFakeRz: im too old for this
+[21:59:15] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3872983 Gumyu - Party*Night (Eurobeat Mix)
+[21:59:16] iFakeRz: cant alt
+[21:59:18] BCraftMG: !mp timer 120
+[21:59:18] Hanori: :pensive:
+[21:59:18] iFakeRz: cant singletap
+[21:59:19] iFakeRz: cant burst
+[21:59:19] BanchoBot: Countdown ends in 2 minutes
+[21:59:22] iFakeRz: x_x
+[22:00:16] BanchoBot: All players are ready
+[22:00:20] BanchoBot: Countdown ends in 1 minute
+[22:00:22] BCraftMG: !mp settings
+[22:00:23] BanchoBot: Room name: DACHO: (Div1 Qualifier) vs (Lobby Q14), History: https://osu.ppy.sh/mp/114116324
+[22:00:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/3872983 Gumyu - Party*Night (Eurobeat Mix)
+[22:00:23] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:00:23] BanchoBot: Active mods: NoFail, DoubleTime
+[22:00:23] BanchoBot: Players: 8
+[22:00:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/757783 Garalulu        
+[22:00:23] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5281485 iFakeRz         
+[22:00:23] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7078544 Hanori          
+[22:00:23] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/4582149 CamperLt        
+[22:00:23] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12147277 -Kedama         
+[22:00:23] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/18092331 Lesperry        
+[22:00:23] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/5442251 mihari          
+[22:00:23] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/9317938 soft bunny      
+[22:00:24] BCraftMG: !mp start 5 glhf
+[22:00:24] BanchoBot: Countdown aborted
+[22:00:24] BanchoBot: Match starts in 5 seconds
+[22:00:24] BanchoBot: Queued the match to start in 5 seconds
+[22:00:26] Garalulu: xzxzxzxzxzxzxzxzx
+[22:00:26] BanchoBot: Match starts in 4 seconds
+[22:00:27] BanchoBot: Match starts in 3 seconds
+[22:00:27] BanchoBot: Good luck, have fun!
+[22:00:29] Hanori: gl hf!!!! iwi
+[22:00:30] BanchoBot: The match has started!
+[22:00:36] soft_bunny: goose
+[22:02:21] BanchoBot: Lesperry finished playing (Score: 798722, PASSED).
+[22:02:23] BanchoBot: iFakeRz finished playing (Score: 366616, PASSED).
+[22:02:23] BanchoBot: Garalulu finished playing (Score: 485299, PASSED).
+[22:02:23] BanchoBot: -Kedama finished playing (Score: 467752, PASSED).
+[22:02:23] BanchoBot: CamperLt finished playing (Score: 179648, PASSED).
+[22:02:23] BanchoBot: soft bunny finished playing (Score: 755563, PASSED).
+[22:02:23] BanchoBot: Hanori finished playing (Score: 304102, PASSED).
+[22:02:24] BanchoBot: mihari finished playing (Score: 151207, PASSED).
+[22:02:24] BanchoBot: The match has finished!
+[22:02:36] CamperLt: not last
+[22:02:38] Lesperry: RAH
+[22:02:39] iFakeRz: like
+[22:02:41] Garalulu: nah
+[22:02:44] Hanori: me when i forgot how to play the game for an entire map
+[22:02:48] Hanori: ghjfkds
+[22:02:49] iFakeRz: i like every eurobeat song but this one is not it
+[22:02:51] iFakeRz: for me
+[22:03:00] Garalulu: original ver is better
+[22:03:09] BCraftMG: !mp settings
+[22:03:10] BanchoBot: Room name: DACHO: (Div1 Qualifier) vs (Lobby Q14), History: https://osu.ppy.sh/mp/114116324
+[22:03:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/3872983 Gumyu - Party*Night (Eurobeat Mix)
+[22:03:10] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:03:10] BanchoBot: Active mods: NoFail, DoubleTime
+[22:03:10] BanchoBot: Players: 8
+[22:03:10] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/757783 Garalulu        
+[22:03:10] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/5281485 iFakeRz         
+[22:03:10] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/7078544 Hanori          
+[22:03:10] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/4582149 CamperLt        
+[22:03:10] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/12147277 -Kedama         
+[22:03:10] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/18092331 Lesperry        
+[22:03:10] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/5442251 mihari          
+[22:03:10] BanchoBot: Slot 9  Not Ready https://osu.ppy.sh/u/9317938 soft bunny      
+[22:03:13] BCraftMG: !mp map 4368636
+[22:03:14] iFakeRz: yo lesperry
+[22:03:14] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4368636 Nekomata Master+ - Spiral2005
+[22:03:15] BCraftMG: !mp timer 90
+[22:03:16] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[22:03:17] BCraftMG: !mp timer 120
+[22:03:17] BanchoBot: Countdown aborted
+[22:03:17] BanchoBot: Countdown ends in 2 minutes
+[22:03:19] Lesperry: yo
+[22:03:20] iFakeRz: pick me for good mental
+[22:03:23] iFakeRz: thanks
+[22:03:28] Lesperry: i may not be captain...
+[22:03:42] Lesperry: yo we could make
+[22:03:47] iFakeRz: but ur getting picked
+[22:03:48] Lesperry: germany x thailand team
+[22:03:53] Lesperry: now contact zeitfrost
+[22:03:53] iFakeRz: yooo
+[22:03:56] Garalulu: i'll practice reading maps
+[22:03:57] Garalulu: pick me
+[22:03:59] iFakeRz: give me 1 sec
+[22:04:03] iFakeRz: ill ask :tf:
+[22:04:12] BanchoBot: All players are ready
+[22:04:18] BanchoBot: Countdown ends in 1 minute
+[22:04:25] Lesperry: gfaming
+[22:04:28] iFakeRz: is chest playing
+[22:04:33] Lesperry: no
+[22:04:36] BCraftMG: !mp settings
+[22:04:37] BanchoBot: Room name: DACHO: (Div1 Qualifier) vs (Lobby Q14), History: https://osu.ppy.sh/mp/114116324
+[22:04:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/4368636 Nekomata Master+ - Spiral2005
+[22:04:37] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:04:37] BanchoBot: Active mods: NoFail, DoubleTime
+[22:04:37] BanchoBot: Players: 8
+[22:04:37] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/757783 Garalulu        
+[22:04:37] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5281485 iFakeRz         
+[22:04:37] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7078544 Hanori          
+[22:04:37] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/4582149 CamperLt        
+[22:04:37] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12147277 -Kedama         
+[22:04:37] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/18092331 Lesperry        
+[22:04:37] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/5442251 mihari          
+[22:04:37] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/9317938 soft bunny      
+[22:04:39] BCraftMG: !mp start 5 glhf
+[22:04:40] iFakeRz: a
+[22:04:40] BanchoBot: Countdown aborted
+[22:04:40] BanchoBot: Match starts in 5 seconds
+[22:04:40] BanchoBot: Queued the match to start in 5 seconds
+[22:04:42] BanchoBot: Match starts in 4 seconds
+[22:04:43] BanchoBot: Match starts in 3 seconds
+[22:04:45] BanchoBot: Good luck, have fun!
+[22:04:45] soft_bunny: goose
+[22:04:45] Lesperry: GLHF
+[22:04:46] soft_bunny: luck
+[22:04:46] BanchoBot: The match has started!
+[22:06:59] BanchoBot: mihari finished playing (Score: 135853, PASSED).
+[22:06:59] BanchoBot: CamperLt finished playing (Score: 243389, PASSED).
+[22:06:59] BanchoBot: -Kedama finished playing (Score: 343102, PASSED).
+[22:07:00] BanchoBot: soft bunny finished playing (Score: 490284, PASSED).
+[22:07:02] BanchoBot: Hanori finished playing (Score: 459123, PASSED).
+[22:07:02] BanchoBot: iFakeRz finished playing (Score: 392433, PASSED).
+[22:07:02] BanchoBot: Garalulu finished playing (Score: 236991, PASSED).
+[22:07:03] BanchoBot: Lesperry finished playing (Score: 914848, PASSED).
+[22:07:03] BanchoBot: The match has finished!
+[22:07:12] Garalulu: i forgot to turn on gamma
+[22:07:17] BanchoBot: -Kedama left the game.
+[22:07:19] Garalulu: gg
+[22:07:19] Lesperry: GAMING
+[22:07:20] CamperLt: GG
+[22:07:20] iFakeRz: yooo
+[22:07:22] iFakeRz: ggs guys
+[22:07:23] soft_bunny: gg thanks for ref goose luck on qual result yahoo yeehaw yayyay
+[22:07:23] iFakeRz: thank you for ref
+[22:07:23] CamperLt: thanks for ref
+[22:07:25] Hanori: ggwp!! iwi
+[22:07:29] BanchoBot: CamperLt left the game.
+[22:07:31] iFakeRz: o7
+[22:07:31] Garalulu: thx for ref o/
+[22:07:31] BanchoBot: soft bunny left the game.
+[22:07:32] BanchoBot: Garalulu left the game.
+[22:07:32] BanchoBot: iFakeRz left the game.
+[22:07:32] Hanori: good luck on draft and stuff y'all nmn
+[22:07:35] mihari: goodbye
+[22:07:35] BanchoBot: mihari left the game.
+[22:07:35] Hanori: thanks for ref!!!
+[22:07:41] BanchoBot: Hanori left the game.
+[22:07:50] Lesperry: just the two of us
+[22:07:54] Lesperry: we can make it if we try
+[22:07:56] Lesperry: hd2 lego
+[22:09:55] Lesperry: hello
+[22:11:35] BCraftMG: o
+[22:11:40] BCraftMG: !mp map 3478294
+[22:11:41] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3478294 NIWASHI - (0,0)
+[22:11:51] BCraftMG: !mp mods 9
+[22:11:51] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[22:11:56] Lesperry: lesgoo
+[22:11:57] BanchoBot: All players are ready
+[22:12:00] Lesperry: GAMING
+[22:12:10] BCraftMG: !mp settings
+[22:12:11] BanchoBot: Room name: DACHO: (Div1 Qualifier) vs (Lobby Q14), History: https://osu.ppy.sh/mp/114116324
+[22:12:11] BanchoBot: Beatmap: https://osu.ppy.sh/b/3478294 NIWASHI - (0,0)
+[22:12:11] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:12:11] BanchoBot: Active mods: NoFail, Hidden
+[22:12:11] BanchoBot: Players: 1
+[22:12:11] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/18092331 Lesperry        
+[22:12:11] BCraftMG: !mp start 5 glhf
+[22:12:12] BanchoBot: Match starts in 5 seconds
+[22:12:12] BanchoBot: Queued the match to start in 5 seconds
+[22:12:14] BanchoBot: Match starts in 4 seconds
+[22:12:15] BanchoBot: Match starts in 3 seconds
+[22:12:15] BanchoBot: Good luck, have fun!
+[22:12:18] BanchoBot: The match has started!
+[22:14:21] BanchoBot: Lesperry finished playing (Score: 264422, PASSED).
+[22:14:21] BanchoBot: The match has finished!
+[22:14:27] BCraftMG: hgeegee
+[22:14:33] Lesperry: im bombing my house
+[22:14:43] Lesperry: thx for ref!!!!!
+[22:14:45] BCraftMG: might want to bomb ur isp while you at it
+[22:14:58] Lesperry: :prayL
+[22:15:01] Lesperry: sorry );
+[22:15:06] Lesperry: osu just
+[22:15:07] Lesperry: waduiaund
+[22:15:13] Lesperry: anyway o7
+[22:15:16] BanchoBot: Lesperry left the game.
+[22:15:35] BCraftMG: !mp close
+[22:15:37] BanchoBot: Closed the match

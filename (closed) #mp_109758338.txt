@@ -1,0 +1,291 @@
+[00:53:34] Joined #mp_109758338
+[00:53:34] BCraftMG: !mp settings
+[00:53:36] BanchoBot: Room name: o!NNT5: (Qualifiers) vs (Match EX-5), History: https://osu.ppy.sh/mp/109758338
+[00:53:36] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[00:53:36] BanchoBot: Players: 0
+[00:54:27] BCraftMG: !mp set 0 3 3
+[00:54:28] BanchoBot: Changed match settings to 3 slots, HeadToHead, ScoreV2
+[00:54:36] BCraftMG: !mp map 3764599 0
+[00:54:37] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3764599 Shiena Nishizawa - Shark
+[00:54:37] BanchoBot: Changed match mode to Osu
+[00:54:37] BCraftMG: !mp mods 1
+[00:54:38] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:54:40] BCraftMG: !mp invite #10119186
+[00:54:41] BanchoBot: Invited namirin2 to the room
+[00:56:24] BanchoBot: namirin2 joined in slot 1.
+[00:56:28] namirin2: o/
+[00:56:31] BCraftMG: o/
+[00:56:56] BanchoBot: Chipperonio joined in slot 2.
+[00:57:43] BanchoBot: aquasimp joined in slot 3.
+[00:58:17] Chipperonio: t choi nm1 dk
+[00:58:34] namirin2: ye
+[00:58:42] namirin2: aqua chơi nm1 chưa?
+[00:58:56] aquasimp: nah
+[00:59:05] namirin2: dam
+[00:59:22] namirin2: muốn sightread ko chứ tui cũng tầm 340k score là cùng
+[00:59:44] aquasimp: thì đánh vui vẻ thôi, tới đâu tính tới đấy :)
+[01:00:09] namirin2: oke lul
+[01:00:24] namirin2: vậy chắc tí tui vào đánh từ nm3 tới hd2
+[01:00:30] namirin2: còn lại mấy ông gánh pls
+[01:00:43] Chipperonio: okok
+[01:00:46] BanchoBot: namirin2 left the game.
+[01:01:12] Chipperonio: @ref
+[01:01:14] BCraftMG: !mp settings
+[01:01:15] BanchoBot: Room name: o!NNT5: (Qualifiers) vs (Match EX-5), History: https://osu.ppy.sh/mp/109758338
+[01:01:15] BanchoBot: Beatmap: https://osu.ppy.sh/b/3764599 Shiena Nishizawa - Shark
+[01:01:15] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:01:15] BanchoBot: Active mods: NoFail
+[01:01:15] BanchoBot: Players: 2
+[01:01:15] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13141032 Chipperonio     
+[01:01:15] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11976076 aquasimp        
+[01:01:16] BCraftMG: !mp start 5 glhf
+[01:01:17] aquasimp: ref a mirmir
+[01:01:17] BanchoBot: Match starts in 5 seconds
+[01:01:17] BanchoBot: Queued the match to start in 5 seconds
+[01:01:18] BanchoBot: Match starts in 4 seconds
+[01:01:20] BanchoBot: Match starts in 3 seconds
+[01:01:21] BanchoBot: Good luck, have fun!
+[01:01:22] BanchoBot: The match has started!
+[01:02:48] BCraftMG: dung @ref
+[01:02:54] BCraftMG: hãy bấm nút ready
+[01:03:01] BCraftMG: map tự start
+[01:04:56] BanchoBot: Chipperonio finished playing (Score: 371923, PASSED).
+[01:04:58] BanchoBot: aquasimp finished playing (Score: 311936, PASSED).
+[01:04:58] BanchoBot: The match has finished!
+[01:05:00] BCraftMG: !mp map 3944144 0
+[01:05:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3944144 Sabaton - Twilight of the Thunder God
+[01:05:00] BanchoBot: Changed match mode to Osu
+[01:05:09] aquasimp: nhạc éo gì nghe như BAND-MAID
+[01:05:32] BanchoBot: All players are ready
+[01:05:34] BCraftMG: !mp settings
+[01:05:35] BanchoBot: Room name: o!NNT5: (Qualifiers) vs (Match EX-5), History: https://osu.ppy.sh/mp/109758338
+[01:05:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/3944144 Sabaton - Twilight of the Thunder God
+[01:05:35] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:05:35] BanchoBot: Active mods: NoFail
+[01:05:35] BanchoBot: Players: 2
+[01:05:35] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13141032 Chipperonio     
+[01:05:35] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11976076 aquasimp        
+[01:05:36] BCraftMG: !mp start 5 glhf
+[01:05:37] BanchoBot: Match starts in 5 seconds
+[01:05:37] BanchoBot: Queued the match to start in 5 seconds
+[01:05:39] BanchoBot: Match starts in 4 seconds
+[01:05:40] BanchoBot: Match starts in 3 seconds
+[01:05:40] BanchoBot: Good luck, have fun!
+[01:05:43] BanchoBot: The match has started!
+[01:09:19] BanchoBot: aquasimp finished playing (Score: 489045, PASSED).
+[01:09:20] BanchoBot: Chipperonio finished playing (Score: 490470, PASSED).
+[01:09:20] BanchoBot: The match has finished!
+[01:09:22] BCraftMG: !mp map 3193021 0
+[01:09:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3193021 Wiseman (CV: Harada Sayaka & CV: Kito Akari & CV: Mano Ayumi) - Wiseman no Thema
+[01:09:23] BanchoBot: Changed match mode to Osu
+[01:09:44] BanchoBot: namirin2 joined in slot 1.
+[01:10:12] BanchoBot: Chipperonio left the game.
+[01:10:59] BCraftMG: !mp settings
+[01:10:59] BanchoBot: Room name: o!NNT5: (Qualifiers) vs (Match EX-5), History: https://osu.ppy.sh/mp/109758338
+[01:10:59] BanchoBot: Beatmap: https://osu.ppy.sh/b/3193021 Wiseman (CV: Harada Sayaka & CV: Kito Akari & CV: Mano Ayumi) - Wiseman no Thema
+[01:10:59] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:10:59] BanchoBot: Active mods: NoFail
+[01:10:59] BanchoBot: Players: 2
+[01:10:59] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10119186 namirin2        
+[01:10:59] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/11976076 aquasimp        
+[01:11:01] BanchoBot: All players are ready
+[01:11:01] BCraftMG: !mp settings
+[01:11:05] BCraftMG: !mp start 5 glhf
+[01:11:06] BanchoBot: Match starts in 5 seconds
+[01:11:06] BanchoBot: Queued the match to start in 5 seconds
+[01:11:08] BanchoBot: Match starts in 4 seconds
+[01:11:09] BanchoBot: Match starts in 3 seconds
+[01:11:11] BanchoBot: Good luck, have fun!
+[01:11:12] BanchoBot: The match has started!
+[01:14:48] BanchoBot: namirin2 finished playing (Score: 153223, PASSED).
+[01:14:48] BanchoBot: aquasimp finished playing (Score: 206069, PASSED).
+[01:14:48] BanchoBot: The match has finished!
+[01:14:50] BCraftMG: !mp map 3010492 0
+[01:14:51] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3010492 Dollscythe - Flashes
+[01:14:51] BanchoBot: Changed match mode to Osu
+[01:14:57] BanchoBot: Chipperonio joined in slot 2.
+[01:16:15] BanchoBot: namirin2 left the game.
+[01:16:25] BanchoBot: All players are ready
+[01:16:27] BCraftMG: !mp settings
+[01:16:28] BanchoBot: Room name: o!NNT5: (Qualifiers) vs (Match EX-5), History: https://osu.ppy.sh/mp/109758338
+[01:16:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/3010492 Dollscythe - Flashes
+[01:16:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:16:28] BanchoBot: Active mods: NoFail
+[01:16:28] BanchoBot: Players: 2
+[01:16:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13141032 Chipperonio     
+[01:16:28] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11976076 aquasimp        
+[01:16:29] BCraftMG: !mp start 5 glhf
+[01:16:29] BanchoBot: Match starts in 5 seconds
+[01:16:29] BanchoBot: Queued the match to start in 5 seconds
+[01:16:31] BanchoBot: Match starts in 4 seconds
+[01:16:32] BanchoBot: Match starts in 3 seconds
+[01:16:34] BanchoBot: Good luck, have fun!
+[01:16:35] BanchoBot: The match has started!
+[01:18:37] BanchoBot: Chipperonio finished playing (Score: 298678, PASSED).
+[01:18:37] BanchoBot: aquasimp finished playing (Score: 260377, PASSED).
+[01:18:37] BanchoBot: The match has finished!
+[01:18:40] BCraftMG: !mp mods 9
+[01:18:42] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[01:18:43] BCraftMG: !mp map 3617770 0
+[01:18:45] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3617770 Shikiura. - Karada wa Shoujiki datte Ittenno
+[01:18:45] BanchoBot: Changed match mode to Osu
+[01:18:48] Chipperonio: oop
+[01:18:55] aquasimp: ded
+[01:19:34] BanchoBot: namirin2 joined in slot 1.
+[01:21:57] BCraftMG: !mp settings
+[01:21:58] BanchoBot: Room name: o!NNT5: (Qualifiers) vs (Match EX-5), History: https://osu.ppy.sh/mp/109758338
+[01:21:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/3617770 Shikiura. - Karada wa Shoujiki datte Ittenno
+[01:21:58] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:21:58] BanchoBot: Active mods: NoFail, Hidden
+[01:21:58] BanchoBot: Players: 3
+[01:21:58] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10119186 namirin2        
+[01:21:58] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/13141032 Chipperonio     
+[01:21:58] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/11976076 aquasimp        
+[01:22:13] BanchoBot: Chipperonio left the game.
+[01:22:19] BanchoBot: All players are ready
+[01:22:20] BCraftMG: !mp settings
+[01:22:22] BanchoBot: Room name: o!NNT5: (Qualifiers) vs (Match EX-5), History: https://osu.ppy.sh/mp/109758338
+[01:22:22] BanchoBot: Beatmap: https://osu.ppy.sh/b/3617770 Shikiura. - Karada wa Shoujiki datte Ittenno
+[01:22:22] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:22:22] BanchoBot: Active mods: NoFail, Hidden
+[01:22:22] BanchoBot: Players: 2
+[01:22:22] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10119186 namirin2        
+[01:22:22] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11976076 aquasimp        
+[01:22:22] BCraftMG: !mp start 5 glhf
+[01:22:23] BanchoBot: Match starts in 5 seconds
+[01:22:23] BanchoBot: Queued the match to start in 5 seconds
+[01:22:25] BanchoBot: Match starts in 4 seconds
+[01:22:26] BanchoBot: Match starts in 3 seconds
+[01:22:28] BanchoBot: Good luck, have fun!
+[01:22:29] BanchoBot: The match has started!
+[01:24:57] BanchoBot: aquasimp finished playing (Score: 203329, PASSED).
+[01:24:59] BanchoBot: namirin2 finished playing (Score: 228428, PASSED).
+[01:24:59] BanchoBot: The match has finished!
+[01:25:03] BCraftMG: !mp map 3790303 0
+[01:25:05] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3790303 Zektbach - Apocalypse ~dirge of swans~
+[01:25:05] BanchoBot: Changed match mode to Osu
+[01:25:47] BanchoBot: aquasimp left the game.
+[01:25:53] BanchoBot: Chipperonio joined in slot 2.
+[01:26:05] BanchoBot: All players are ready
+[01:26:12] BCraftMG: !mp settings
+[01:26:14] BanchoBot: Room name: o!NNT5: (Qualifiers) vs (Match EX-5), History: https://osu.ppy.sh/mp/109758338
+[01:26:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/3790303 Zektbach - Apocalypse ~dirge of swans~
+[01:26:14] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:26:14] BanchoBot: Active mods: NoFail, Hidden
+[01:26:14] BanchoBot: Players: 2
+[01:26:14] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10119186 namirin2        
+[01:26:14] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13141032 Chipperonio     
+[01:26:14] BCraftMG: !mp start 5 glhf
+[01:26:15] BanchoBot: Match starts in 5 seconds
+[01:26:15] BanchoBot: Queued the match to start in 5 seconds
+[01:26:17] BanchoBot: Match starts in 4 seconds
+[01:26:18] BanchoBot: Match starts in 3 seconds
+[01:26:20] BanchoBot: Good luck, have fun!
+[01:26:21] BanchoBot: The match has started!
+[01:28:32] BanchoBot: Chipperonio finished playing (Score: 185916, PASSED).
+[01:28:34] BanchoBot: namirin2 finished playing (Score: 266471, PASSED).
+[01:28:34] BanchoBot: The match has finished!
+[01:28:36] BCraftMG: !mp mods 17
+[01:28:37] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[01:28:38] BCraftMG: !mp map 3560727 0
+[01:28:40] Chipperonio: damn
+[01:28:40] BanchoBot: namirin2 left the game.
+[01:28:40] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3560727 Will Stetson - Kyu-kurarin
+[01:28:40] BanchoBot: Changed match mode to Osu
+[01:29:02] BanchoBot: aquasimp joined in slot 1.
+[01:29:05] BanchoBot: aquasimp moved to slot 3
+[01:29:37] BanchoBot: All players are ready
+[01:29:40] BCraftMG: !mp settings
+[01:29:42] BanchoBot: Room name: o!NNT5: (Qualifiers) vs (Match EX-5), History: https://osu.ppy.sh/mp/109758338
+[01:29:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/3560727 Will Stetson - Kyu-kurarin
+[01:29:42] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:29:42] BanchoBot: Active mods: NoFail, HardRock
+[01:29:42] BanchoBot: Players: 2
+[01:29:42] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13141032 Chipperonio     
+[01:29:42] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11976076 aquasimp        
+[01:29:42] BCraftMG: !mp start 5 glhf
+[01:29:43] BanchoBot: Match starts in 5 seconds
+[01:29:43] BanchoBot: Queued the match to start in 5 seconds
+[01:29:44] BanchoBot: Match starts in 4 seconds
+[01:29:46] BanchoBot: Match starts in 3 seconds
+[01:29:47] BanchoBot: Good luck, have fun!
+[01:29:49] BanchoBot: The match has started!
+[01:33:32] BanchoBot: aquasimp finished playing (Score: 173403, PASSED).
+[01:33:33] BanchoBot: Chipperonio finished playing (Score: 313886, PASSED).
+[01:33:33] BanchoBot: The match has finished!
+[01:33:35] BCraftMG: !mp map 2662619 0
+[01:33:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2662619 Kawada Mami - Borderland
+[01:33:36] BanchoBot: Changed match mode to Osu
+[01:34:51] BanchoBot: All players are ready
+[01:34:54] BCraftMG: !mp settings
+[01:34:54] BanchoBot: Room name: o!NNT5: (Qualifiers) vs (Match EX-5), History: https://osu.ppy.sh/mp/109758338
+[01:34:54] BanchoBot: Beatmap: https://osu.ppy.sh/b/2662619 Kawada Mami - Borderland
+[01:34:54] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:34:54] BanchoBot: Active mods: NoFail, HardRock
+[01:34:54] BanchoBot: Players: 2
+[01:34:54] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13141032 Chipperonio     
+[01:34:54] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11976076 aquasimp        
+[01:34:56] BCraftMG: !mp start 5 glhf
+[01:34:57] BanchoBot: Match starts in 5 seconds
+[01:34:57] BanchoBot: Queued the match to start in 5 seconds
+[01:34:58] BanchoBot: Match starts in 4 seconds
+[01:35:00] BanchoBot: Match starts in 3 seconds
+[01:35:01] BanchoBot: Good luck, have fun!
+[01:35:03] BanchoBot: The match has started!
+[01:38:47] BanchoBot: aquasimp finished playing (Score: 224943, PASSED).
+[01:38:47] BanchoBot: Chipperonio finished playing (Score: 302980, PASSED).
+[01:38:47] BanchoBot: The match has finished!
+[01:38:52] BCraftMG: !mp mods 65
+[01:38:53] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[01:38:54] BCraftMG: !mp map 303799 0
+[01:38:55] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/303799 Diana Boncheva - Purple Passion
+[01:38:55] BanchoBot: Changed match mode to Osu
+[01:40:01] BanchoBot: All players are ready
+[01:40:04] BCraftMG: !mp settings
+[01:40:06] BanchoBot: Room name: o!NNT5: (Qualifiers) vs (Match EX-5), History: https://osu.ppy.sh/mp/109758338
+[01:40:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/303799 Diana Boncheva - Purple Passion
+[01:40:06] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:40:06] BanchoBot: Active mods: NoFail, DoubleTime
+[01:40:06] BanchoBot: Players: 2
+[01:40:06] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13141032 Chipperonio     
+[01:40:06] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11976076 aquasimp        
+[01:40:07] BCraftMG: !mp start 5 glhf
+[01:40:07] BanchoBot: Match starts in 5 seconds
+[01:40:07] BanchoBot: Queued the match to start in 5 seconds
+[01:40:09] BanchoBot: Match starts in 4 seconds
+[01:40:10] BanchoBot: Match starts in 3 seconds
+[01:40:10] BanchoBot: Good luck, have fun!
+[01:40:13] BanchoBot: The match has started!
+[01:42:50] BanchoBot: aquasimp finished playing (Score: 273016, PASSED).
+[01:42:50] BanchoBot: Chipperonio finished playing (Score: 348226, PASSED).
+[01:42:50] BanchoBot: The match has finished!
+[01:42:53] BCraftMG: !mp map 1768374 0
+[01:42:55] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1768374 -45 - Yomitsu Hirasaka CORRUPTION
+[01:42:55] BanchoBot: Changed match mode to Osu
+[01:43:30] BanchoBot: All players are ready
+[01:43:32] BCraftMG: !mp settings
+[01:43:34] BanchoBot: Room name: o!NNT5: (Qualifiers) vs (Match EX-5), History: https://osu.ppy.sh/mp/109758338
+[01:43:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/1768374 -45 - Yomitsu Hirasaka CORRUPTION
+[01:43:34] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:43:34] BanchoBot: Active mods: NoFail, DoubleTime
+[01:43:34] BanchoBot: Players: 2
+[01:43:34] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13141032 Chipperonio     
+[01:43:34] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11976076 aquasimp        
+[01:43:34] BCraftMG: !mp start 5 glhf
+[01:43:35] BanchoBot: Match starts in 5 seconds
+[01:43:35] BanchoBot: Queued the match to start in 5 seconds
+[01:43:36] BanchoBot: Match starts in 4 seconds
+[01:43:38] BanchoBot: Match starts in 3 seconds
+[01:43:38] BanchoBot: Good luck, have fun!
+[01:43:41] BanchoBot: The match has started!
+[01:46:55] BanchoBot: Chipperonio finished playing (Score: 556637, PASSED).
+[01:46:57] BanchoBot: aquasimp finished playing (Score: 238405, PASSED).
+[01:46:57] BanchoBot: The match has finished!
+[01:47:12] aquasimp: thanks for ref
+[01:47:16] Chipperonio: thanks for ref ,3
+[01:47:16] Chipperonio: <3
+[01:47:19] BanchoBot: Chipperonio left the game.
+[01:47:21] BanchoBot: aquasimp left the game.
+[01:47:21] BCraftMG: gn
+[01:47:30] BCraftMG: !mp close
+[01:47:31] BanchoBot: Closed the match

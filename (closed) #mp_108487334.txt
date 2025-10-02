@@ -1,0 +1,390 @@
+[21:49:56] Joined #mp_108487334
+[21:49:56] BCraftMG: !mp settings
+[21:49:57] BanchoBot: Room name: OHT: (Qualifiers) vs (Match B8), History: https://osu.ppy.sh/mp/108487334
+[21:49:57] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[21:49:57] BanchoBot: Players: 0
+[21:50:39] BCraftMG: !mp set 2 3 8
+[21:50:40] BanchoBot: Changed match settings to 8 slots, TeamVs, ScoreV2
+[21:50:43] BCraftMG: !mp set 0 3 8
+[21:50:44] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[21:53:19] BCraftMG: !mp invite #10542408
+[21:53:20] BanchoBot: Invited DanX to the room
+[21:53:21] BCraftMG: !mp invite #12560465
+[21:53:22] BanchoBot: User not found
+[21:53:23] BCraftMG: !mp invite #7304637
+[21:53:23] BanchoBot: Invited tuanhuy180903 to the room
+[21:53:32] BanchoBot: tuanhuy180903 joined in slot 1.
+[21:53:54] BanchoBot: DanX joined in slot 2.
+[21:54:14] BCraftMG: uwu
+[21:54:42] BCraftMG: !mp map 2964171 0
+[21:54:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2964171 iMarine (CV: Uchida Aya) - DEEP BLUE SONG
+[21:54:43] BanchoBot: Changed match mode to Osu
+[21:54:43] BCraftMG: !mp mods 1
+[21:54:44] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:55:56] BCraftMG: !mp invite #12560465
+[21:55:56] BanchoBot: User not found
+[21:58:27] BCraftMG: !mp invite #12560465
+[21:58:28] BanchoBot: Invited Miyaki to the room
+[21:58:50] BanchoBot: Miyaki joined in slot 3.
+[21:59:13] BCraftMG: lego
+[21:59:15] BCraftMG: đủ người r
+[21:59:16] Miyaki: chua dung mot ti gi o pool
+[21:59:17] Miyaki: help
+[21:59:19] BCraftMG: !mp timer 120
+[21:59:19] BanchoBot: Countdown ends in 2 minutes
+[21:59:25] BanchoBot: All players are ready
+[21:59:28] BCraftMG: !mp settings
+[21:59:30] BanchoBot: Room name: OHT: (Qualifiers) vs (Match B8), History: https://osu.ppy.sh/mp/108487334
+[21:59:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/2964171 iMarine (CV: Uchida Aya) - DEEP BLUE SONG
+[21:59:30] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:59:30] BanchoBot: Active mods: NoFail
+[21:59:30] BanchoBot: Players: 3
+[21:59:30] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7304637 tuanhuy180903   
+[21:59:30] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10542408 DanX            
+[21:59:30] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12560465 Miyaki          
+[21:59:30] BCraftMG: !mp start 5 glhf
+[21:59:31] BanchoBot: Countdown aborted
+[21:59:31] BanchoBot: Match starts in 5 seconds
+[21:59:31] BanchoBot: Queued the match to start in 5 seconds
+[21:59:32] DanX: imagine tap pôl
+[21:59:32] BanchoBot: Match starts in 4 seconds
+[21:59:33] BanchoBot: Match starts in 3 seconds
+[21:59:34] BanchoBot: Good luck, have fun!
+[21:59:37] BanchoBot: The match has started!
+[22:03:40] BanchoBot: tuanhuy180903 finished playing (Score: 211554, PASSED).
+[22:03:41] BanchoBot: Miyaki finished playing (Score: 297654, PASSED).
+[22:03:41] BanchoBot: DanX finished playing (Score: 676222, PASSED).
+[22:03:41] BanchoBot: The match has finished!
+[22:03:47] DanX: bruh
+[22:03:48] BCraftMG: !mp map 4039395 0
+[22:03:49] DanX: bruhhhh
+[22:03:50] Miyaki: choke qua
+[22:03:50] DanX: bruhhhhhhhhh
+[22:03:50] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4039395 xi - ANIMA
+[22:03:50] BanchoBot: Changed match mode to Osu
+[22:03:51] Miyaki: huhu
+[22:03:54] DanX: hhhhhhhhhhhh
+[22:04:08] DanX: deadge
+[22:04:13] Miyaki: ded
+[22:04:14] DanX: tach quali roi
+[22:04:29] BanchoBot: All players are ready
+[22:04:30] BCraftMG: dãn bịp hả
+[22:04:31] BCraftMG: !mp settings
+[22:04:32] BanchoBot: Room name: OHT: (Qualifiers) vs (Match B8), History: https://osu.ppy.sh/mp/108487334
+[22:04:32] BanchoBot: Beatmap: https://osu.ppy.sh/b/4039395 xi - ANIMA
+[22:04:32] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:04:32] BanchoBot: Active mods: NoFail
+[22:04:32] BanchoBot: Players: 3
+[22:04:32] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7304637 tuanhuy180903   
+[22:04:32] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10542408 DanX            
+[22:04:32] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12560465 Miyaki          
+[22:04:32] BCraftMG: !mp start 5 glhf
+[22:04:33] BanchoBot: Match starts in 5 seconds
+[22:04:33] BanchoBot: Queued the match to start in 5 seconds
+[22:04:34] BanchoBot: Match starts in 4 seconds
+[22:04:35] BanchoBot: Match starts in 3 seconds
+[22:04:36] BanchoBot: Good luck, have fun!
+[22:04:37] DanX: snh
+[22:04:38] BanchoBot: The match has started!
+[22:04:44] DanX: smhj'
+[22:06:40] BanchoBot: Miyaki finished playing (Score: 134652, PASSED).
+[22:06:41] BanchoBot: tuanhuy180903 finished playing (Score: 355991, PASSED).
+[22:06:47] BanchoBot: DanX finished playing (Score: 493914, PASSED).
+[22:06:47] BanchoBot: The match has finished!
+[22:06:51] BCraftMG: !mp map 3822394 0
+[22:06:52] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3822394 Tsukuyomi - Tsuki ga Michiru
+[22:06:52] BanchoBot: Changed match mode to Osu
+[22:06:52] BCraftMG: !mp timer 120
+[22:06:53] BanchoBot: Countdown ends in 2 minutes
+[22:06:55] Miyaki: ai roi cung tach qau
+[22:06:57] DanX: gone
+[22:07:03] Miyaki: khong bam noi moment
+[22:07:13] BanchoBot: All players are ready
+[22:07:16] BCraftMG: !mp settings
+[22:07:16] BanchoBot: Room name: OHT: (Qualifiers) vs (Match B8), History: https://osu.ppy.sh/mp/108487334
+[22:07:16] BanchoBot: Beatmap: https://osu.ppy.sh/b/3822394 Tsukuyomi - Tsuki ga Michiru
+[22:07:16] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:07:16] BanchoBot: Active mods: NoFail
+[22:07:16] BanchoBot: Players: 3
+[22:07:16] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7304637 tuanhuy180903   
+[22:07:16] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10542408 DanX            
+[22:07:16] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12560465 Miyaki          
+[22:07:17] BCraftMG: !mp start 5 glhf
+[22:07:17] BanchoBot: Countdown aborted
+[22:07:17] BanchoBot: Match starts in 5 seconds
+[22:07:17] BanchoBot: Queued the match to start in 5 seconds
+[22:07:18] BanchoBot: Match starts in 4 seconds
+[22:07:20] BanchoBot: Match starts in 3 seconds
+[22:07:21] BanchoBot: Good luck, have fun!
+[22:07:23] BanchoBot: The match has started!
+[22:10:51] BanchoBot: Miyaki finished playing (Score: 82398, PASSED).
+[22:10:52] BanchoBot: tuanhuy180903 finished playing (Score: 50671, PASSED).
+[22:10:52] BanchoBot: DanX finished playing (Score: 261244, PASSED).
+[22:10:52] BanchoBot: The match has finished!
+[22:11:05] Miyaki: rip
+[22:11:07] BCraftMG: !mp map 3083586 0
+[22:11:07] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3083586 ak+q x Street - neo kosmo
+[22:11:07] BanchoBot: Changed match mode to Osu
+[22:11:22] Miyaki: ti hd hr chet sml :skull:L
+[22:11:27] BanchoBot: All players are ready
+[22:11:29] BCraftMG: !mp settings
+[22:11:29] BanchoBot: Room name: OHT: (Qualifiers) vs (Match B8), History: https://osu.ppy.sh/mp/108487334
+[22:11:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/3083586 ak+q x Street - neo kosmo
+[22:11:29] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:11:29] BanchoBot: Active mods: NoFail
+[22:11:29] BanchoBot: Players: 3
+[22:11:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7304637 tuanhuy180903   
+[22:11:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10542408 DanX            
+[22:11:29] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12560465 Miyaki          
+[22:11:30] BCraftMG: !mp start 5 glhf
+[22:11:30] DanX: gone
+[22:11:32] BanchoBot: Match starts in 5 seconds
+[22:11:32] BanchoBot: Queued the match to start in 5 seconds
+[22:11:33] BanchoBot: Match starts in 4 seconds
+[22:11:34] Miyaki: gone
+[22:11:34] BanchoBot: Match starts in 3 seconds
+[22:11:35] BanchoBot: Good luck, have fun!
+[22:11:37] BanchoBot: The match has started!
+[22:13:59] BanchoBot: Miyaki finished playing (Score: 205682, PASSED).
+[22:13:59] BanchoBot: DanX finished playing (Score: 381594, PASSED).
+[22:14:01] BanchoBot: tuanhuy180903 finished playing (Score: 122796, PASSED).
+[22:14:01] BanchoBot: The match has finished!
+[22:14:12] Miyaki: 0 miss tri no cu
+[22:14:12] BCraftMG: !mp map 4056372 0
+[22:14:13] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4056372 TUYU - Kore Dakara Yamerannai!
+[22:14:13] BanchoBot: Changed match mode to Osu
+[22:14:14] BCraftMG: !mp mods 9
+[22:14:14] DanX: i diêd
+[22:14:15] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[22:14:18] BCraftMG: !mp timer 120
+[22:14:18] Miyaki: vai ca
+[22:14:20] BanchoBot: Countdown ends in 2 minutes
+[22:14:22] BCraftMG: yes
+[22:14:23] Miyaki: hd nay chua dung ti gi
+[22:14:24] Miyaki: rip
+[22:14:37] DanX: adu tuyu
+[22:14:38] DanX: bedge
+[22:14:42] BanchoBot: All players are ready
+[22:14:44] BCraftMG: !mp settings
+[22:14:45] BanchoBot: Room name: OHT: (Qualifiers) vs (Match B8), History: https://osu.ppy.sh/mp/108487334
+[22:14:45] BanchoBot: Beatmap: https://osu.ppy.sh/b/4056372 TUYU - Kore Dakara Yamerannai!
+[22:14:45] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:14:45] BanchoBot: Active mods: NoFail, Hidden
+[22:14:45] BanchoBot: Players: 3
+[22:14:45] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7304637 tuanhuy180903   
+[22:14:45] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10542408 DanX            
+[22:14:45] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12560465 Miyaki          
+[22:14:46] BCraftMG: !mp start 5 glhf
+[22:14:47] BanchoBot: Countdown aborted
+[22:14:47] BanchoBot: Match starts in 5 seconds
+[22:14:47] BanchoBot: Queued the match to start in 5 seconds
+[22:14:49] BanchoBot: Match starts in 4 seconds
+[22:14:50] BanchoBot: Match starts in 3 seconds
+[22:14:51] BanchoBot: Good luck, have fun!
+[22:14:53] BanchoBot: The match has started!
+[22:14:59] BCraftMG: !mp settings
+[22:15:00] BanchoBot: Room name: OHT: (Qualifiers) vs (Match B8), History: https://osu.ppy.sh/mp/108487334
+[22:15:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/4056372 TUYU - Kore Dakara Yamerannai!
+[22:15:00] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:15:00] BanchoBot: Active mods: NoFail, Hidden
+[22:15:00] BanchoBot: Players: 3
+[22:15:00] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/7304637 tuanhuy180903   
+[22:15:00] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/10542408 DanX            
+[22:15:00] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/12560465 Miyaki          
+[22:17:43] BanchoBot: DanX finished playing (Score: 296382, PASSED).
+[22:17:44] BanchoBot: Miyaki finished playing (Score: 193226, PASSED).
+[22:17:44] BanchoBot: tuanhuy180903 finished playing (Score: 89352, PASSED).
+[22:17:44] BanchoBot: The match has finished!
+[22:17:51] Miyaki: man
+[22:17:54] Miyaki: miss nham qua
+[22:17:56] DanX: man
+[22:17:57] BCraftMG: !mp map 3639234 0
+[22:17:58] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3639234 my sound life - 02:15
+[22:17:58] BanchoBot: Changed match mode to Osu
+[22:18:00] DanX: khong doc duoc hd
+[22:18:01] DanX: gone
+[22:18:01] Miyaki: ok
+[22:18:03] Miyaki: hell
+[22:18:05] Miyaki: this shit
+[22:18:06] Miyaki: gone
+[22:18:17] Miyaki: why this
+[22:18:18] Miyaki: just
+[22:18:19] Miyaki: why
+[22:18:20] BanchoBot: All players are ready
+[22:18:21] Miyaki: :cry:
+[22:18:26] BCraftMG: !mp settings
+[22:18:27] BanchoBot: Room name: OHT: (Qualifiers) vs (Match B8), History: https://osu.ppy.sh/mp/108487334
+[22:18:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/3639234 my sound life - 02:15
+[22:18:27] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:18:27] BanchoBot: Active mods: NoFail, Hidden
+[22:18:27] BanchoBot: Players: 3
+[22:18:27] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7304637 tuanhuy180903   
+[22:18:27] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10542408 DanX            
+[22:18:27] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12560465 Miyaki          
+[22:18:28] BCraftMG: !mp start 5 glhf
+[22:18:29] BanchoBot: Match starts in 5 seconds
+[22:18:29] BanchoBot: Queued the match to start in 5 seconds
+[22:18:30] BanchoBot: Match starts in 4 seconds
+[22:18:32] BanchoBot: Match starts in 3 seconds
+[22:18:33] BanchoBot: Good luck, have fun!
+[22:18:35] BanchoBot: The match has started!
+[22:20:58] BanchoBot: Miyaki finished playing (Score: 156514, PASSED).
+[22:20:59] BanchoBot: tuanhuy180903 finished playing (Score: 52611, PASSED).
+[22:20:59] BanchoBot: DanX finished playing (Score: 609051, PASSED).
+[22:20:59] BanchoBot: The match has finished!
+[22:21:02] DanX: cay
+[22:21:03] Miyaki: wtf
+[22:21:05] Miyaki: 600k
+[22:21:06] DanX: rat cay
+[22:21:07] Miyaki: cool
+[22:21:07] DanX: sieu cay
+[22:21:07] BCraftMG: !mp map 3946653 0
+[22:21:08] DanX: dm
+[22:21:08] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3946653 Marmalade butcher - Waltz for Chroma (feat. Natsushiro Takaaki)
+[22:21:08] BanchoBot: Changed match mode to Osu
+[22:21:10] BCraftMG: !mp mods 17
+[22:21:11] DanX: game l
+[22:21:11] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[22:21:13] BCraftMG: !mp timer 120
+[22:21:14] BanchoBot: Countdown ends in 2 minutes
+[22:21:16] BCraftMG: xoa game di
+[22:21:38] BanchoBot: All players are ready
+[22:21:41] BCraftMG: !mp settings
+[22:21:42] DanX: smh
+[22:21:42] BanchoBot: Room name: OHT: (Qualifiers) vs (Match B8), History: https://osu.ppy.sh/mp/108487334
+[22:21:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/3946653 Marmalade butcher - Waltz for Chroma (feat. Natsushiro Takaaki)
+[22:21:42] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:21:42] BanchoBot: Active mods: NoFail, HardRock
+[22:21:42] BanchoBot: Players: 3
+[22:21:42] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7304637 tuanhuy180903   
+[22:21:42] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10542408 DanX            
+[22:21:42] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12560465 Miyaki          
+[22:21:43] BCraftMG: !mp start 5 glhf
+[22:21:44] BanchoBot: Countdown aborted
+[22:21:44] BanchoBot: Match starts in 5 seconds
+[22:21:44] BanchoBot: Queued the match to start in 5 seconds
+[22:21:45] BanchoBot: Match starts in 4 seconds
+[22:21:46] BanchoBot: Match starts in 3 seconds
+[22:21:47] BanchoBot: Good luck, have fun!
+[22:21:47] Miyaki: tam biet quali
+[22:21:50] BanchoBot: The match has started!
+[22:21:50] Miyaki: cat game vao goc
+[22:25:20] BanchoBot: DanX finished playing (Score: 379785, PASSED).
+[22:25:21] BanchoBot: Miyaki finished playing (Score: 92346, PASSED).
+[22:25:21] BanchoBot: tuanhuy180903 finished playing (Score: 151005, PASSED).
+[22:25:21] BanchoBot: The match has finished!
+[22:25:29] Miyaki: k read duoc hr
+[22:25:31] BCraftMG: !mp map 2161385 0
+[22:25:32] Miyaki: best acc
+[22:25:32] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2161385 Kero Kero Bonito - Flyway
+[22:25:32] BanchoBot: Changed match mode to Osu
+[22:25:32] BCraftMG: !mp timer 120
+[22:25:33] BanchoBot: Countdown ends in 2 minutes
+[22:25:50] BanchoBot: All players are ready
+[22:25:52] BCraftMG: !mp settings
+[22:25:53] BanchoBot: Room name: OHT: (Qualifiers) vs (Match B8), History: https://osu.ppy.sh/mp/108487334
+[22:25:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/2161385 Kero Kero Bonito - Flyway
+[22:25:53] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:25:53] BanchoBot: Active mods: NoFail, HardRock
+[22:25:53] BanchoBot: Players: 3
+[22:25:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7304637 tuanhuy180903   
+[22:25:53] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10542408 DanX            
+[22:25:53] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12560465 Miyaki          
+[22:25:54] BCraftMG: !mp start 5 glhf
+[22:25:54] BanchoBot: Countdown aborted
+[22:25:54] BanchoBot: Match starts in 5 seconds
+[22:25:54] BanchoBot: Queued the match to start in 5 seconds
+[22:25:56] BanchoBot: Match starts in 4 seconds
+[22:25:57] BanchoBot: Match starts in 3 seconds
+[22:25:58] BanchoBot: Good luck, have fun!
+[22:26:00] BanchoBot: The match has started!
+[22:28:02] BanchoBot: tuanhuy180903 finished playing (Score: 99598, PASSED).
+[22:28:02] BanchoBot: DanX finished playing (Score: 229225, PASSED).
+[22:28:07] BanchoBot: Miyaki finished playing (Score: 48460, PASSED).
+[22:28:07] BanchoBot: The match has finished!
+[22:28:15] BCraftMG: !mp map 4109655 0
+[22:28:16] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4109655 Yuzuki Tina - Egaiteta Yume
+[22:28:16] BanchoBot: Changed match mode to Osu
+[22:28:17] BCraftMG: !mp mods 65
+[22:28:17] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[22:28:18] BCraftMG: !mp timer 120
+[22:28:19] BanchoBot: Countdown ends in 2 minutes
+[22:28:23] DanX: ddowif
+[22:28:26] BanchoBot: All players are ready
+[22:28:28] BCraftMG: !mp settings
+[22:28:28] BanchoBot: Room name: OHT: (Qualifiers) vs (Match B8), History: https://osu.ppy.sh/mp/108487334
+[22:28:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/4109655 Yuzuki Tina - Egaiteta Yume
+[22:28:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:28:28] BanchoBot: Active mods: NoFail, DoubleTime
+[22:28:28] BanchoBot: Players: 3
+[22:28:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7304637 tuanhuy180903   
+[22:28:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10542408 DanX            
+[22:28:28] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12560465 Miyaki          
+[22:28:32] Miyaki: sleep
+[22:28:34] BCraftMG: r đợi dữ chưa
+[22:28:37] BCraftMG: !mp settings
+[22:28:38] BanchoBot: Room name: OHT: (Qualifiers) vs (Match B8), History: https://osu.ppy.sh/mp/108487334
+[22:28:38] BanchoBot: Beatmap: https://osu.ppy.sh/b/4109655 Yuzuki Tina - Egaiteta Yume
+[22:28:38] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:28:38] BanchoBot: Active mods: NoFail, DoubleTime
+[22:28:38] BanchoBot: Players: 3
+[22:28:38] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7304637 tuanhuy180903   
+[22:28:38] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10542408 DanX            
+[22:28:38] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12560465 Miyaki          
+[22:28:38] BCraftMG: !mp start 5 glhf
+[22:28:39] BanchoBot: Countdown aborted
+[22:28:39] BanchoBot: Match starts in 5 seconds
+[22:28:39] BanchoBot: Queued the match to start in 5 seconds
+[22:28:40] BanchoBot: Match starts in 4 seconds
+[22:28:41] BanchoBot: Match starts in 3 seconds
+[22:28:42] BanchoBot: Good luck, have fun!
+[22:28:44] BanchoBot: The match has started!
+[22:31:31] BanchoBot: tuanhuy180903 finished playing (Score: 684497, PASSED).
+[22:31:31] BanchoBot: Miyaki finished playing (Score: 284297, PASSED).
+[22:31:31] BanchoBot: DanX finished playing (Score: 652801, PASSED).
+[22:31:31] BanchoBot: The match has finished!
+[22:31:39] BCraftMG: !mp map 3294749 0
+[22:31:40] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3294749 MC Sniper - Minchoui Nan
+[22:31:40] BanchoBot: Changed match mode to Osu
+[22:31:41] BCraftMG: !mp timer 120
+[22:31:42] BanchoBot: Countdown ends in 2 minutes
+[22:31:44] Miyaki: tvai that
+[22:31:47] Miyaki: toan 600-700
+[22:31:49] Miyaki: ma
+[22:31:59] Miyaki: choi dt toan bi mo mat
+[22:32:00] Miyaki: :rip:
+[22:32:07] BanchoBot: All players are ready
+[22:32:10] BCraftMG: !mp settings
+[22:32:11] BanchoBot: Room name: OHT: (Qualifiers) vs (Match B8), History: https://osu.ppy.sh/mp/108487334
+[22:32:11] BanchoBot: Beatmap: https://osu.ppy.sh/b/3294749 MC Sniper - Minchoui Nan
+[22:32:11] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:32:11] BanchoBot: Active mods: NoFail, DoubleTime
+[22:32:11] BanchoBot: Players: 3
+[22:32:11] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7304637 tuanhuy180903   
+[22:32:11] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10542408 DanX            
+[22:32:11] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12560465 Miyaki          
+[22:32:11] BCraftMG: !mp start 5 glhf
+[22:32:12] BanchoBot: Countdown aborted
+[22:32:12] BanchoBot: Match starts in 5 seconds
+[22:32:12] BanchoBot: Queued the match to start in 5 seconds
+[22:32:13] BanchoBot: Match starts in 4 seconds
+[22:32:14] BanchoBot: Match starts in 3 seconds
+[22:32:15] BanchoBot: Good luck, have fun!
+[22:32:17] BanchoBot: The match has started!
+[22:34:11] BanchoBot: Miyaki finished playing (Score: 119962, PASSED).
+[22:34:11] BanchoBot: tuanhuy180903 finished playing (Score: 82002, PASSED).
+[22:34:11] BanchoBot: DanX finished playing (Score: 653849, PASSED).
+[22:34:11] BanchoBot: The match has finished!
+[22:34:15] DanX: deadge
+[22:34:18] BCraftMG: chuc ngu ngon
+[22:34:23] DanX: khong fc noi mot bai nao trong pool
+[22:34:24] Miyaki: ded
+[22:34:24] tuanhuy180903: gg
+[22:34:25] DanX: gone
+[22:34:29] DanX: gg
+[22:34:30] Miyaki: gi gi ep pe
+[22:34:41] BanchoBot: Miyaki left the game.
+[22:34:43] BanchoBot: tuanhuy180903 left the game.
+[22:34:46] BanchoBot: DanX left the game.
+[22:34:50] BCraftMG: !mp close
+[22:34:51] BanchoBot: Closed the match

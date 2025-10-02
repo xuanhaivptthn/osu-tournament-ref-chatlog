@@ -1,0 +1,306 @@
+[08:49:40] Joined #mp_101805622
+[08:49:40] BCraftMG: !mp settings
+[08:49:41] BanchoBot: Room name: SOSF: (Qualifiers) vs (EX14), History: https://osu.ppy.sh/mp/101805622
+[08:49:41] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[08:49:41] BanchoBot: Players: 0
+[08:50:14] BCraftMG: a
+[08:50:54] BCraftMG: !mp set 0 3 4
+[08:50:54] BanchoBot: Changed match settings to 4 slots, HeadToHead, ScoreV2
+[08:51:17] BCraftMG: !mp invite #7678119
+[08:51:17] BanchoBot: Invited Arminator to the room
+[08:56:14] BanchoBot: Arminator joined in slot 1.
+[08:56:25] Arminator: o/
+[08:57:04] BanchoBot: suntan joined in slot 2.
+[08:57:05] BanchoBot: mocaccino joined in slot 3.
+[08:57:05] suntan: jhola
+[08:57:15] suntan: el yuta me esta puteando
+[08:57:21] mocaccino: olaaa
+[08:57:42] Arminator: bloquealo
+[08:57:55] BCraftMG: o
+[08:57:58] Arminator: entra a vc moreno qlo
+[08:57:59] BCraftMG: !mp mods NF
+[08:57:59] BanchoBot: Enabled NoFail, disabled FreeMod
+[08:58:01] BCraftMG: !mp map 2335100 0
+[08:58:01] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2335100 AliA - utopia
+[08:58:01] BanchoBot: Changed match mode to Osu
+[08:58:03] BCraftMG: !mp timer 120
+[08:58:03] BanchoBot: Countdown ends in 2 minutes
+[08:58:07] suntan: este mapa ctm
+[08:58:09] suntan: :rage:
+[08:58:22] BCraftMG: !mp aborttimer
+[08:58:22] Arminator: ya se los dejo
+[08:58:24] BanchoBot: Countdown aborted
+[08:58:28] suntan: nos vemos amigo
+[08:58:30] Arminator: vuelvo pa lo que no me capea
+[08:58:33] BanchoBot: Arminator left the game.
+[08:58:37] BanchoBot: mocaccino moved to slot 1
+[08:59:04] BanchoBot: All players are ready
+[08:59:06] BCraftMG: !mp settings
+[08:59:07] BanchoBot: Room name: SOSF: (Qualifiers) vs (EX14), History: https://osu.ppy.sh/mp/101805622
+[08:59:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/2335100 AliA - utopia
+[08:59:07] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[08:59:07] BanchoBot: Active mods: NoFail
+[08:59:07] BanchoBot: Players: 2
+[08:59:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/5252968 mocaccino       
+[08:59:07] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19998548 suntan          
+[08:59:08] BCraftMG: !mp start 10
+[08:59:09] suntan: gl amigo moca
+[08:59:09] BanchoBot: Match starts in 10 seconds
+[08:59:09] BanchoBot: Queued the match to start in 10 seconds
+[08:59:11] suntan: el chino
+[08:59:14] mocaccino: gl
+[08:59:15] BanchoBot: Match starts in 5 seconds
+[08:59:15] BanchoBot: Match starts in 4 seconds
+[08:59:17] BanchoBot: Match starts in 3 seconds
+[08:59:17] BanchoBot: Good luck, have fun!
+[08:59:20] BanchoBot: The match has started!
+[09:03:49] BanchoBot: mocaccino finished playing (Score: 764876, PASSED).
+[09:03:50] BanchoBot: suntan finished playing (Score: 661421, PASSED).
+[09:03:50] BanchoBot: The match has finished!
+[09:03:55] suntan: acc culia lkdsamlk
+[09:03:58] BCraftMG: !mp mods NF
+[09:03:58] BanchoBot: Enabled NoFail, disabled FreeMod
+[09:04:00] mocaccino: x2
+[09:04:00] BCraftMG: !mp map 2905806 0
+[09:04:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2905806 ke-ji feat. Nanahira - Ange du Blanc Pur
+[09:04:00] BanchoBot: Changed match mode to Osu
+[09:04:43] BanchoBot: All players are ready
+[09:04:46] BCraftMG: !mp settings
+[09:04:47] BanchoBot: Room name: SOSF: (Qualifiers) vs (EX14), History: https://osu.ppy.sh/mp/101805622
+[09:04:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/2905806 ke-ji feat. Nanahira - Ange du Blanc Pur
+[09:04:47] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[09:04:47] BanchoBot: Active mods: NoFail
+[09:04:47] BanchoBot: Players: 2
+[09:04:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/5252968 mocaccino       
+[09:04:47] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19998548 suntan          
+[09:04:48] BCraftMG: !mp start 10
+[09:04:50] BanchoBot: Match starts in 10 seconds
+[09:04:50] BanchoBot: Queued the match to start in 10 seconds
+[09:04:56] BanchoBot: Match starts in 5 seconds
+[09:04:56] BanchoBot: Match starts in 4 seconds
+[09:04:58] BanchoBot: Match starts in 3 seconds
+[09:04:59] BanchoBot: Good luck, have fun!
+[09:05:01] BanchoBot: The match has started!
+[09:08:45] BanchoBot: mocaccino finished playing (Score: 785248, PASSED).
+[09:08:47] BanchoBot: suntan finished playing (Score: 489409, PASSED).
+[09:08:47] BanchoBot: The match has finished!
+[09:08:51] BCraftMG: !mp mods NF
+[09:08:51] BanchoBot: Enabled NoFail, disabled FreeMod
+[09:08:51] BanchoBot: Arminator joined in slot 3.
+[09:08:53] BCraftMG: !mp map 2692632 0
+[09:08:53] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2692632 THE BINARY mido - Ego mo Id mo Tanjun ni
+[09:08:53] BanchoBot: Changed match mode to Osu
+[09:08:56] mocaccino: Xd
+[09:09:34] BanchoBot: mocaccino left the game.
+[09:09:36] BanchoBot: Arminator moved to slot 1
+[09:09:59] BanchoBot: All players are ready
+[09:10:01] BCraftMG: !mp settings
+[09:10:03] BanchoBot: Room name: SOSF: (Qualifiers) vs (EX14), History: https://osu.ppy.sh/mp/101805622
+[09:10:03] BanchoBot: Beatmap: https://osu.ppy.sh/b/2692632 THE BINARY mido - Ego mo Id mo Tanjun ni
+[09:10:03] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[09:10:03] BanchoBot: Active mods: NoFail
+[09:10:03] BanchoBot: Players: 2
+[09:10:03] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7678119 Arminator       
+[09:10:03] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19998548 suntan          
+[09:10:03] BCraftMG: !mp start 10
+[09:10:04] BanchoBot: Match starts in 10 seconds
+[09:10:04] BanchoBot: Queued the match to start in 10 seconds
+[09:10:10] BanchoBot: Match starts in 5 seconds
+[09:10:10] BanchoBot: Match starts in 4 seconds
+[09:10:12] BanchoBot: Match starts in 3 seconds
+[09:10:13] BanchoBot: Good luck, have fun!
+[09:10:15] BanchoBot: The match has started!
+[09:14:25] BanchoBot: Arminator finished playing (Score: 373084, PASSED).
+[09:14:25] BanchoBot: suntan finished playing (Score: 604353, PASSED).
+[09:14:25] BanchoBot: The match has finished!
+[09:14:33] BCraftMG: !mp mods NF
+[09:14:33] BanchoBot: Enabled NoFail, disabled FreeMod
+[09:14:34] BCraftMG: !mp map 2973666 0
+[09:14:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2973666 BEMANI Sound Team "Expander" - STOIC HYPOTHESIS
+[09:14:34] BanchoBot: Changed match mode to Osu
+[09:15:16] BanchoBot: mocaccino joined in slot 3.
+[09:15:22] BanchoBot: mocaccino left the game.
+[09:15:28] BanchoBot: All players are ready
+[09:15:31] BCraftMG: !mp settings
+[09:15:33] BanchoBot: Room name: SOSF: (Qualifiers) vs (EX14), History: https://osu.ppy.sh/mp/101805622
+[09:15:33] BanchoBot: Beatmap: https://osu.ppy.sh/b/2973666 BEMANI Sound Team "Expander" - STOIC HYPOTHESIS
+[09:15:33] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[09:15:33] BanchoBot: Active mods: NoFail
+[09:15:33] BanchoBot: Players: 2
+[09:15:33] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7678119 Arminator       
+[09:15:33] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19998548 suntan          
+[09:15:34] BCraftMG: !mp start 10
+[09:15:36] BanchoBot: Match starts in 10 seconds
+[09:15:36] BanchoBot: Queued the match to start in 10 seconds
+[09:15:43] BanchoBot: Match starts in 5 seconds
+[09:15:43] BanchoBot: Match starts in 4 seconds
+[09:15:44] BanchoBot: Match starts in 3 seconds
+[09:15:46] BanchoBot: Good luck, have fun!
+[09:15:47] BanchoBot: The match has started!
+[09:17:55] BanchoBot: suntan finished playing (Score: 661869, PASSED).
+[09:17:57] BanchoBot: Arminator finished playing (Score: 273696, PASSED).
+[09:17:57] BanchoBot: The match has finished!
+[09:18:03] BCraftMG: !mp mods NF HD
+[09:18:03] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[09:18:04] BCraftMG: !mp map 3168337 0
+[09:18:04] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3168337 HiTECH NINJA - Memecore
+[09:18:04] BanchoBot: Changed match mode to Osu
+[09:18:15] BanchoBot: Arminator left the game.
+[09:18:22] BanchoBot: mocaccino joined in slot 1.
+[09:18:36] BanchoBot: All players are ready
+[09:18:44] BCraftMG: !mp settings
+[09:18:46] BanchoBot: Room name: SOSF: (Qualifiers) vs (EX14), History: https://osu.ppy.sh/mp/101805622
+[09:18:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/3168337 HiTECH NINJA - Memecore
+[09:18:46] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[09:18:46] BanchoBot: Active mods: NoFail, Hidden
+[09:18:46] BanchoBot: Players: 2
+[09:18:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/5252968 mocaccino       
+[09:18:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19998548 suntan          
+[09:18:46] BCraftMG: !mp start 10
+[09:18:47] BanchoBot: Match starts in 10 seconds
+[09:18:47] BanchoBot: Queued the match to start in 10 seconds
+[09:18:53] BanchoBot: Match starts in 5 seconds
+[09:18:53] BanchoBot: Match starts in 4 seconds
+[09:18:55] BanchoBot: Match starts in 3 seconds
+[09:18:57] BanchoBot: Good luck, have fun!
+[09:18:58] BanchoBot: The match has started!
+[09:21:46] BanchoBot: mocaccino finished playing (Score: 452851, PASSED).
+[09:21:46] BanchoBot: suntan finished playing (Score: 463895, PASSED).
+[09:21:46] BanchoBot: The match has finished!
+[09:21:52] BCraftMG: !mp mods NF HD
+[09:21:52] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[09:21:54] BCraftMG: !mp map 2405667 0
+[09:21:54] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2405667 raito - Blood Drain -Again-
+[09:21:54] BanchoBot: Changed match mode to Osu
+[09:22:14] BanchoBot: All players are ready
+[09:22:17] BCraftMG: !mp settings
+[09:22:18] BanchoBot: Room name: SOSF: (Qualifiers) vs (EX14), History: https://osu.ppy.sh/mp/101805622
+[09:22:18] BanchoBot: Beatmap: https://osu.ppy.sh/b/2405667 raito - Blood Drain -Again-
+[09:22:18] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[09:22:18] BanchoBot: Active mods: NoFail, Hidden
+[09:22:18] BanchoBot: Players: 2
+[09:22:18] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/5252968 mocaccino       
+[09:22:18] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19998548 suntan          
+[09:22:18] BCraftMG: !mp start 10
+[09:22:19] BanchoBot: Match starts in 10 seconds
+[09:22:19] BanchoBot: Queued the match to start in 10 seconds
+[09:22:25] BanchoBot: Match starts in 5 seconds
+[09:22:25] BanchoBot: Match starts in 4 seconds
+[09:22:27] BanchoBot: Match starts in 3 seconds
+[09:22:27] BanchoBot: Good luck, have fun!
+[09:22:30] BanchoBot: The match has started!
+[09:26:16] BanchoBot: mocaccino finished playing (Score: 429644, PASSED).
+[09:26:18] BanchoBot: suntan finished playing (Score: 1013011, PASSED).
+[09:26:18] BanchoBot: The match has finished!
+[09:26:24] BCraftMG: !mp mods NF HR
+[09:26:24] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[09:26:26] BCraftMG: !mp map 1176958 0
+[09:26:26] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1176958 Toromaru - Enigma
+[09:26:26] BanchoBot: Changed match mode to Osu
+[09:26:56] BanchoBot: All players are ready
+[09:27:00] BCraftMG: !mp settings
+[09:27:01] BanchoBot: Room name: SOSF: (Qualifiers) vs (EX14), History: https://osu.ppy.sh/mp/101805622
+[09:27:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/1176958 Toromaru - Enigma
+[09:27:01] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[09:27:01] BanchoBot: Active mods: NoFail, HardRock
+[09:27:01] BanchoBot: Players: 2
+[09:27:01] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/5252968 mocaccino       
+[09:27:01] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19998548 suntan          
+[09:27:02] BCraftMG: !mp start 10
+[09:27:02] BanchoBot: Match starts in 10 seconds
+[09:27:02] BanchoBot: Queued the match to start in 10 seconds
+[09:27:09] BanchoBot: Match starts in 5 seconds
+[09:27:09] BanchoBot: Match starts in 4 seconds
+[09:27:11] BanchoBot: Match starts in 3 seconds
+[09:27:11] BanchoBot: Good luck, have fun!
+[09:27:14] BanchoBot: The match has started!
+[09:29:16] BanchoBot: mocaccino finished playing (Score: 520270, PASSED).
+[09:29:16] BanchoBot: suntan finished playing (Score: 979976, PASSED).
+[09:29:16] BanchoBot: The match has finished!
+[09:29:21] BCraftMG: !mp mods NF HR
+[09:29:21] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[09:29:23] BCraftMG: !mp map 2202224 0
+[09:29:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2202224 nana(Sevencolors) - chameleon
+[09:29:23] BanchoBot: Changed match mode to Osu
+[09:29:32] BanchoBot: Arminator joined in slot 3.
+[09:29:35] BanchoBot: suntan left the game.
+[09:29:59] BanchoBot: All players are ready
+[09:30:02] BCraftMG: !mp settings
+[09:30:02] BanchoBot: Room name: SOSF: (Qualifiers) vs (EX14), History: https://osu.ppy.sh/mp/101805622
+[09:30:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/2202224 nana(Sevencolors) - chameleon
+[09:30:02] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[09:30:02] BanchoBot: Active mods: NoFail, HardRock
+[09:30:02] BanchoBot: Players: 2
+[09:30:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/5252968 mocaccino       
+[09:30:02] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7678119 Arminator       
+[09:30:03] BCraftMG: !mp start 10
+[09:30:04] BanchoBot: Match starts in 10 seconds
+[09:30:04] BanchoBot: Queued the match to start in 10 seconds
+[09:30:10] BanchoBot: Match starts in 5 seconds
+[09:30:10] BanchoBot: Match starts in 4 seconds
+[09:30:11] BanchoBot: Match starts in 3 seconds
+[09:30:13] BanchoBot: Good luck, have fun!
+[09:30:15] BanchoBot: The match has started!
+[09:33:33] BanchoBot: mocaccino finished playing (Score: 718544, PASSED).
+[09:33:33] BanchoBot: Arminator finished playing (Score: 432253, PASSED).
+[09:33:33] BanchoBot: The match has finished!
+[09:33:39] BCraftMG: !mp mods NF DT
+[09:33:39] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[09:33:41] BCraftMG: !mp map 2750914 0
+[09:33:41] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2750914 Yousei Teikoku - Paradiso=Inferno
+[09:33:41] BanchoBot: Changed match mode to Osu
+[09:33:49] BanchoBot: Arminator left the game.
+[09:33:54] BanchoBot: suntan joined in slot 2.
+[09:34:07] BanchoBot: All players are ready
+[09:34:13] BCraftMG: !mp settings
+[09:34:15] BanchoBot: Room name: SOSF: (Qualifiers) vs (EX14), History: https://osu.ppy.sh/mp/101805622
+[09:34:15] BanchoBot: Beatmap: https://osu.ppy.sh/b/2750914 Yousei Teikoku - Paradiso=Inferno
+[09:34:15] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[09:34:15] BanchoBot: Active mods: NoFail, DoubleTime
+[09:34:15] BanchoBot: Players: 2
+[09:34:15] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/5252968 mocaccino       
+[09:34:15] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19998548 suntan          
+[09:34:15] BCraftMG: !mp start 10
+[09:34:16] BanchoBot: Match starts in 10 seconds
+[09:34:16] BanchoBot: Queued the match to start in 10 seconds
+[09:34:22] BanchoBot: Match starts in 5 seconds
+[09:34:22] BanchoBot: Match starts in 4 seconds
+[09:34:24] BanchoBot: Match starts in 3 seconds
+[09:34:26] BanchoBot: Good luck, have fun!
+[09:34:27] BanchoBot: The match has started!
+[09:36:55] BanchoBot: mocaccino finished playing (Score: 163388, PASSED).
+[09:36:55] BanchoBot: suntan finished playing (Score: 1111683, PASSED).
+[09:36:55] BanchoBot: The match has finished!
+[09:37:02] BCraftMG: !mp mods NF DT
+[09:37:02] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[09:37:04] BCraftMG: !mp map 1694417 0
+[09:37:04] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1694417 UNISON SQUARE GARDEN - Sugar Song to Bitter Step
+[09:37:04] BanchoBot: Changed match mode to Osu
+[09:37:45] BanchoBot: All players are ready
+[09:37:49] BCraftMG: !mp settings
+[09:37:50] BanchoBot: Room name: SOSF: (Qualifiers) vs (EX14), History: https://osu.ppy.sh/mp/101805622
+[09:37:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/1694417 UNISON SQUARE GARDEN - Sugar Song to Bitter Step
+[09:37:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[09:37:50] BanchoBot: Active mods: NoFail, DoubleTime
+[09:37:50] BanchoBot: Players: 2
+[09:37:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/5252968 mocaccino       
+[09:37:50] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19998548 suntan          
+[09:37:51] BCraftMG: !mp start 10
+[09:37:52] BanchoBot: Match starts in 10 seconds
+[09:37:52] BanchoBot: Queued the match to start in 10 seconds
+[09:37:58] BanchoBot: Match starts in 5 seconds
+[09:37:58] BanchoBot: Match starts in 4 seconds
+[09:38:00] BanchoBot: Match starts in 3 seconds
+[09:38:01] BanchoBot: Good luck, have fun!
+[09:38:02] BanchoBot: The match has started!
+[09:40:57] BanchoBot: suntan finished playing (Score: 505410, PASSED).
+[09:40:59] BanchoBot: mocaccino finished playing (Score: 399211, PASSED).
+[09:40:59] BanchoBot: The match has finished!
+[09:41:11] suntan: ty for ref <3
+[09:41:16] mocaccino: ty 4 refd
+[09:41:18] BCraftMG: np <3
+[09:41:21] mocaccino: :3
+[09:41:22] BanchoBot: suntan left the game.
+[09:41:22] BanchoBot: mocaccino left the game.
+[09:41:48] BCraftMG: !mp close
+[09:41:49] BanchoBot: Closed the match

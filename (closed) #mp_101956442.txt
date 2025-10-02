@@ -1,0 +1,1189 @@
+[01:50:00] Joined #mp_101956442
+[01:50:00] BCraftMG: !mp settings
+[01:50:02] BanchoBot: Room name: STT3: (from :doigby: to :boule:) vs (The Bad Guys), History: https://osu.ppy.sh/mp/101956442
+[01:50:02] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[01:50:02] BanchoBot: Players: 0
+[01:50:37] BCraftMG: !mp set 2 3 12
+[01:50:37] BanchoBot: Changed match settings to 12 slots, TeamVs, ScoreV2
+[01:52:46] BCraftMG: !mp invite #4990127
+[01:52:46] BanchoBot: User not found
+[01:52:48] BCraftMG: !mp invite #14309415
+[01:52:48] BanchoBot: Invited submissive to the room
+[01:52:51] BCraftMG: !mp invite #10463129
+[01:52:51] BanchoBot: User not found
+[01:52:51] BCraftMG: !mp invite #9676459
+[01:52:51] BanchoBot: User not found
+[01:52:52] BCraftMG: !mp invite #10318021
+[01:52:52] BanchoBot: Invited 4rou to the room
+[01:52:52] BCraftMG: !mp invite #3648459
+[01:52:52] BanchoBot: User not found
+[01:52:55] BCraftMG: !mp invite #5850031
+[01:52:55] BanchoBot: Invited Crynless to the room
+[01:52:55] BCraftMG: !mp invite #13935409
+[01:52:55] BanchoBot: Invited BioTyC to the room
+[01:52:57] BCraftMG: !mp invite #4869346
+[01:52:57] BanchoBot: User not found
+[01:52:57] BCraftMG: !mp invite #9652467
+[01:52:57] BanchoBot: Invited LeDes to the room
+[01:52:57] BCraftMG: !mp invite #8284530
+[01:52:57] BanchoBot: Invited Titi- to the room
+[01:52:59] BCraftMG: !mp invite #3257847
+[01:52:59] BanchoBot: Invited MyzeJD to the room
+[01:53:10] BanchoBot: 4rou joined in slot 1 for team blue.
+[01:53:13] BCraftMG: hi
+[01:53:34] 4rou: hello
+[01:53:38] BanchoBot: MyzeJD joined in slot 2 for team red.
+[01:53:51] MyzeJD: o/
+[01:53:56] 4rou: w
+[01:54:31] BanchoBot: Gaz joined in slot 3 for team blue.
+[01:56:37] BanchoBot: Crynless joined in slot 4 for team red.
+[01:57:27] BCraftMG: anyone wanna do warm up?
+[01:57:35] Crynless: Ye
+[01:57:54] BCraftMG: !mp host Crynless
+[01:57:56] BanchoBot: Crynless became the host.
+[01:57:56] BanchoBot: Changed match host to Crynless
+[01:57:58] BanchoBot: Beatmap changed to: Cranky - Luvin' You [MAX] (https://osu.ppy.sh/b/36134)
+[01:58:13] BanchoBot: MyzeJD became the host.
+[01:58:20] BanchoBot: Host is changing map...
+[01:58:48] BanchoBot: submissive joined in slot 5 for team blue.
+[01:58:55] submissive: bon matin
+[01:59:22] BanchoBot: Beatmap changed to: Kakeru - Do you love me? (feat. rintaru) [Extreme] (https://osu.ppy.sh/b/2458261)
+[01:59:45] BanchoBot: LeDes joined in slot 6 for team red.
+[01:59:45] MyzeJD: o/
+[01:59:47] MyzeJD: bon matin
+[01:59:50] LeDes: o/
+[02:00:20] BanchoBot: submissive left the game.
+[02:00:51] BanchoBot: Afmun joined in slot 5 for team blue.
+[02:01:06] BCraftMG: !mp addref Stage
+[02:01:06] BanchoBot: Added Stage to the match referees
+[02:02:13] 4rou: oh uh
+[02:02:26] 4rou: right i forgot im in a socialist nation
+[02:02:31] 4rou: so downloading might take a while
+[02:02:51] BCraftMG: o then
+[02:02:57] BCraftMG: from :doigby: to :boule: will be red
+[02:03:03] BCraftMG: The Bad Guys will be blue
+[02:03:12] BanchoBot: Afmun changed to Red
+[02:03:12] 4rou: like my ball
+[02:03:15] BCraftMG: !mp addref ROB_
+[02:03:17] BanchoBot: User not found: ROB_
+[02:03:19] 4rou: s
+[02:03:19] BanchoBot: MyzeJD moved to slot 7
+[02:04:09] Stage: !mp settings
+[02:04:09] BanchoBot: Room name: STT3: (from :doigby: to :boule:) vs (The Bad Guys), History: https://osu.ppy.sh/mp/101956442
+[02:04:09] BanchoBot: Beatmap: https://osu.ppy.sh/b/2458261 Kakeru - Do you love me? (feat. rintaru) [Extreme]
+[02:04:09] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:04:09] BanchoBot: Active mods: Freemod
+[02:04:09] BanchoBot: Players: 6
+[02:04:09] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/10318021 4rou            [Team Blue / Easy, Hidden]
+[02:04:09] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/3648459 Gaz             [Team Blue]
+[02:04:09] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/5850031 Crynless        [Team Red ]
+[02:04:09] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4869346 Afmun           [Team Red  / NoFail]
+[02:04:09] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/9652467 LeDes           [Team Red ]
+[02:04:09] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/3257847 MyzeJD          [Host / Team Red ]
+[02:06:30] MyzeJD: rdy 4rou?
+[02:06:37] 4rou: ye hld on
+[02:06:37] BanchoBot: All players are ready
+[02:06:45] BanchoBot: The match has started!
+[02:06:47] 4rou: downloaded the funny TRAINING-1 map
+[02:07:47] BanchoBot: submissive joined in slot 2 for team red.
+[02:08:00] BanchoBot: submissive left the game.
+[02:09:15] BanchoBot: Bakugo- joined in slot 2 for team red.
+[02:09:22] BanchoBot: BioTyC joined in slot 8 for team red.
+[02:09:30] BioTyC: o/
+[02:09:33] BCraftMG: o/
+[02:09:48] BanchoBot: Titi- joined in slot 9 for team blue.
+[02:09:55] BioTyC: titiiiii
+[02:09:59] Titi-: biotyc tes bo
+[02:10:03] BioTyC: no u
+[02:10:08] Titi-: jai pas fc le tb :(
+[02:10:21] Titi-: c'est mon futur 400 pp
+[02:10:32] BanchoBot: Bakugo- left the game.
+[02:10:38] BanchoBot: 4rou finished playing (Score: 15088, PASSED).
+[02:10:38] BanchoBot: Gaz finished playing (Score: 60453, PASSED).
+[02:10:38] BanchoBot: Crynless finished playing (Score: 76645, PASSED).
+[02:10:40] BanchoBot: MyzeJD finished playing (Score: 254067, PASSED).
+[02:10:40] BanchoBot: LeDes finished playing (Score: 4772, PASSED).
+[02:10:40] BanchoBot: Afmun finished playing (Score: 46945, PASSED).
+[02:10:40] BanchoBot: The match has finished!
+[02:10:49] BanchoBot: Titi- changed to Red
+[02:11:02] BanchoBot: 4rou became the host.
+[02:11:06] BanchoBot: Host is changing map...
+[02:11:15] MyzeJD: are we going to play training-1 pausechamp
+[02:11:54] BanchoBot: submissive joined in slot 2 for team red.
+[02:12:11] submissive: we're a bit outnumbered today aren't we?
+[02:12:16] BanchoBot: submissive changed to Blue
+[02:12:20] MyzeJD: :seviene:
+[02:12:25] BCraftMG: monkaS
+[02:12:31] BanchoBot: Afmun left the game.
+[02:12:50] BanchoBot: Crynless left the game.
+[02:12:52] 4rou: maybe
+[02:12:55] 4rou: or maybe not
+[02:12:56] BanchoBot: Bakugo- joined in slot 4 for team red.
+[02:12:59] 4rou: idk im asking baku
+[02:13:14] BanchoBot: Beatmap changed to: Kakeru - Do you love me? (feat. rintaru) [Extreme] (https://osu.ppy.sh/b/2458261)
+[02:13:16] BanchoBot: Bakugo- became the host.
+[02:13:18] BanchoBot: Host is changing map...
+[02:13:27] BanchoBot: BioTyC moved to slot 5
+[02:13:27] MyzeJD: we're not playing training-1 4rou?
+[02:13:29] MyzeJD: i cry
+[02:13:29] BanchoBot: Titi- moved to slot 8
+[02:13:44] BanchoBot: submissive changed to Red
+[02:13:46] BanchoBot: submissive moved to slot 12
+[02:13:48] BanchoBot: submissive changed to Blue
+[02:13:55] BanchoBot: Crynless joined in slot 2 for team red.
+[02:13:59] BanchoBot: BioTyC moved to slot 11
+[02:14:01] BanchoBot: Crynless moved to slot 9
+[02:14:01] BanchoBot: BioTyC moved to slot 5
+[02:14:08] submissive: bottom
+[02:14:12] BanchoBot: Beatmap changed to: Various Artist - Long Stream Practice Maps [Identity Part 4 BPM140] (https://osu.ppy.sh/b/207088)
+[02:14:12] BanchoBot: Crynless moved to slot 11
+[02:14:14] Bakugo-: Ok guys lets warm up
+[02:14:14] BanchoBot: Crynless moved to slot 9
+[02:14:18] BanchoBot: LeDes left the game.
+[02:14:20] BanchoBot: Bakugo- moved to slot 2
+[02:14:20] BanchoBot: Afmun joined in slot 4 for team red.
+[02:14:23] BanchoBot: Bakugo- changed to Blue
+[02:14:25] submissive: you motherfiretrucker
+[02:14:52] submissive: nah im out
+[02:14:52] BanchoBot: submissive left the game.
+[02:14:52] Afmun: no dt ?
+[02:14:54] 4rou: lmao
+[02:14:58] BioTyC: afmun ratio
+[02:15:03] Titi-: dt pls
+[02:15:03] BanchoBot: Crynless moved to slot 6
+[02:15:07] BioTyC: titi- ratio
+[02:15:09] Bakugo-: No bitches ?
+[02:15:11] BanchoBot: The match has started!
+[02:17:14] BanchoBot: 4rou finished playing (Score: 1138722, PASSED).
+[02:17:14] BanchoBot: Afmun finished playing (Score: 981357, PASSED).
+[02:17:14] BanchoBot: MyzeJD finished playing (Score: 709871, PASSED).
+[02:17:14] BanchoBot: Gaz finished playing (Score: 990610, PASSED).
+[02:17:14] BanchoBot: BioTyC finished playing (Score: 874411, PASSED).
+[02:17:14] BanchoBot: Crynless finished playing (Score: 155696, PASSED).
+[02:17:16] BanchoBot: Bakugo- finished playing (Score: 199620, PASSED).
+[02:17:16] BanchoBot: Titi- finished playing (Score: 641949, PASSED).
+[02:17:16] BanchoBot: The match has finished!
+[02:17:20] 4rou: thanks pc
+[02:17:27] BCraftMG: !mp clearhost
+[02:17:29] BanchoBot: Cleared match host
+[02:17:38] BCraftMG: alright lets start with !roll for protect order
+[02:17:50] Crynless: !roll
+[02:17:50] BanchoBot: Crynless rolls 87 point(s)
+[02:17:50] Bakugo-: !roll WOLFKNOT
+[02:17:50] BanchoBot: Bakugo- rolls 74 point(s)
+[02:17:57] Bakugo-: firetruck!!!
+[02:18:03] Bakugo-: cant win roll against baguette country
+[02:18:12] MyzeJD: B)
+[02:18:14] BanchoBot: LeDes joined in slot 9 for team blue.
+[02:18:17] BCraftMG: from :doigby: to :boule:, please choose your protect order
+[02:18:20] BCraftMG: !mp timer 120
+[02:18:21] BanchoBot: Countdown ends in 2 minutes
+[02:18:23] BanchoBot: LeDes changed to Red
+[02:18:27] Crynless: Protect NM2
+[02:18:37] BCraftMG: The Bad Guys, your protect pease
+[02:19:02] BCraftMG: !mp timer 120
+[02:19:04] BanchoBot: Countdown aborted
+[02:19:04] BanchoBot: Countdown ends in 2 minutes
+[02:19:15] Bakugo-: We protect DN
+[02:19:24] MyzeJD: :tf:
+[02:19:28] Stage: real funny baku
+[02:19:33] Afmun: :)
+[02:19:35] Afmun: what's DN ? :)
+[02:19:35] Bakugo-: Wait is this streamed???
+[02:19:37] Bakugo-: ??
+[02:19:37] Bakugo-: ?????
+[02:19:39] Bakugo-: ???????????????
+[02:19:41] MyzeJD: :):):):
+[02:19:46] Stage: im in your walls
+[02:19:52] Bakugo-: Ok tahts fair bc im in ur mom
+[02:20:01] 4rou: why are you streaming this
+[02:20:01] Stage: nice nice
+[02:20:01] BanchoBot: submissive joined in slot 10 for team red.
+[02:20:05] BanchoBot: Countdown ends in 1 minute
+[02:20:09] BanchoBot: submissive moved to slot 12
+[02:20:09] Stage: its not streamed
+[02:20:16] Bakugo-: LFG
+[02:20:18] submissive: firetrucking thank god
+[02:20:22] Bakugo-: We protect hidden Two
+[02:20:35] BanchoBot: Countdown ends in 30 seconds
+[02:20:42] BCraftMG: !mp aborttimer
+[02:20:44] BanchoBot: Countdown aborted
+[02:20:49] BCraftMG: okey now !roll for ban or pick order please
+[02:20:59] Crynless: !roll
+[02:20:59] BanchoBot: Crynless rolls 61 point(s)
+[02:21:04] BCraftMG: i have Stage here in case my dad just go and unplug our router
+[02:21:12] Bakugo-: bro hr2 bangs so hard
+[02:21:15] Bakugo-: !roll WOLFKNOT
+[02:21:15] BanchoBot: Bakugo- rolls 27 point(s)
+[02:21:15] BanchoBot: Afmun left the game.
+[02:21:19] 4rou: !roll this is not a ban roll
+[02:21:19] BanchoBot: 4rou rolls 67 point(s)
+[02:21:21] submissive: not big
+[02:21:27] BCraftMG: from :doigby: to :boule: please choose your pick or ban order
+[02:21:32] MyzeJD: 2-0 rolls LFG
+[02:21:34] Crynless: First Pick
+[02:21:45] Bakugo-: winning rolls against france is not possible its just rigged
+[02:21:53] Bakugo-: i roll 99 they roll 100
+[02:21:54] BCraftMG: The Bad Guys, please choose your ban order
+[02:22:04] Bakugo-: We take Second Ban .
+[02:22:16] BCraftMG: from :doigby: to :boule: your ban please
+[02:22:17] BCraftMG: !Mp timer 120
+[02:22:20] BanchoBot: Countdown ends in 2 minutes
+[02:22:52] Crynless: HR1
+[02:22:52] 4rou: imagine being The 5 digit Of osu...
+[02:22:58] Bakugo-: We ban NM2.
+[02:23:02] submissive: WHY?
+[02:23:07] submissive: WHAT THE firetruck
+[02:23:09] BioTyC: protected
+[02:23:11] BioTyC: D:
+[02:23:14] Crynless: Protected
+[02:23:14] BCraftMG: The Bad Guys your ban please
+[02:23:17] MyzeJD: Clueless
+[02:23:17] 4rou: inaaaaaaane
+[02:23:20] BCraftMG: and yes nm2 is protected
+[02:23:21] BanchoBot: Countdown ends in 1 minute
+[02:23:22] BCraftMG: !Mp timer 120
+[02:23:23] Bakugo-: NM2
+[02:23:23] BanchoBot: Countdown aborted
+[02:23:23] BanchoBot: Countdown ends in 2 minutes
+[02:23:36] Bakugo-: Ohhhh I didn't see
+[02:23:38] Bakugo-: Ok we ban NM5
+[02:23:38] 4rou: just ban DT1 :skull:
+[02:23:46] MyzeJD: Bedge
+[02:23:51] BioTyC: there is no nm5 mah dud
+[02:23:51] submissive: k good ban
+[02:23:55] submissive: nm2 we win
+[02:23:55] Bakugo-: WTF
+[02:23:58] submissive: liek last week
+[02:24:02] Bakugo-: Yeah like
+[02:24:10] Bakugo-: they picked it against us because we trolled my stream prac warmup HAHAHAHA
+[02:24:14] BCraftMG: 4 nm
+[02:24:15] BCraftMG: 2hd
+[02:24:17] Bakugo-: And they're about to fall for it again
+[02:24:17] Bakugo-: Too free
+[02:24:17] BCraftMG: 2hr
+[02:24:19] BCraftMG: 2dt
+[02:24:20] BCraftMG: 2fm
+[02:24:22] BCraftMG: 1ez
+[02:24:23] BCraftMG: 1ht
+[02:24:23] BanchoBot: Countdown ends in 1 minute
+[02:24:26] BCraftMG: wdym ban nm5
+[02:24:32] LeDes: can we steal their ban then
+[02:24:34] Bakugo-: Oh ok
+[02:24:36] Bakugo-: We ban NM2
+[02:24:38] submissive: dt1
+[02:24:38] LeDes: its getting long
+[02:24:41] Stage: Baku
+[02:24:41] submissive: ban dt1
+[02:24:43] LeDes: really firetrucking annoying
+[02:24:43] Stage: I will not warn you again
+[02:24:45] Bakugo-: Dt1
+[02:24:45] Stage: Stop
+[02:24:54] BanchoBot: Countdown ends in 30 seconds
+[02:24:56] MyzeJD: Stage prayge
+[02:24:58] BCraftMG: from :doigby: to :boule: | 0 - 0 | The Bad Guys // First Pick: from :doigby: to :boule:
+[02:24:58] Bakugo-: I was stalling bc
+[02:25:01] BCraftMG: !mp timer 120
+[02:25:03] Bakugo-: my team doesnt reply
+[02:25:03] BanchoBot: Countdown aborted
+[02:25:03] BanchoBot: Countdown ends in 2 minutes
+[02:25:07] Bakugo-: Ok guys who plays nm2
+[02:25:16] submissive: :D
+[02:25:16] Crynless: NM2
+[02:25:16] BanchoBot: Crynless left the game.
+[02:25:18] BanchoBot: LeDes left the game.
+[02:25:20] Bakugo-: NO way.
+[02:25:20] 4rou: yeah\
+[02:25:24] 4rou: to be expected
+[02:25:26] BanchoBot: Titi- moved to slot 6
+[02:25:29] Bakugo-: Stream abusers being stream abusers...
+[02:25:29] submissive: winnable :tf:
+[02:25:31] 4rou: hold on let me reset my game
+[02:25:33] BanchoBot: 4rou left the game.
+[02:25:40] Bakugo-: Alright can we get 2min? We're waiting for Mija to get off banchoo
+[02:25:42] BanchoBot: submissive moved to slot 4
+[02:25:44] BanchoBot: submissive moved to slot 1
+[02:25:44] BanchoBot: submissive changed to Blue
+[02:25:44] BanchoBot: submissive moved to slot 4
+[02:25:46] BanchoBot: submissive moved to slot 1
+[02:25:49] BanchoBot: BioTyC moved to slot 4
+[02:25:49] BanchoBot: submissive moved to slot 12
+[02:26:04] BanchoBot: Countdown ends in 1 minute
+[02:26:10] BCraftMG: !mp mods NF
+[02:26:10] BanchoBot: Enabled NoFail, disabled FreeMod
+[02:26:14] BCraftMG: !mp map 2105741 0
+[02:26:14] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2105741 K A Z M A S A - Bon Appetit S (Oldskool HappyHardcore Remix) (Short Ver.)
+[02:26:14] BanchoBot: Changed match mode to Osu
+[02:26:14] BCraftMG: !mp timer 120
+[02:26:14] BanchoBot: Countdown aborted
+[02:26:14] BanchoBot: Countdown ends in 2 minutes
+[02:26:21] BanchoBot: Titi- moved to slot 5
+[02:26:23] BanchoBot: Titi- moved to slot 6
+[02:26:27] BanchoBot: submissive moved to slot 1
+[02:26:27] BanchoBot: MyzeJD moved to slot 5
+[02:26:32] Bakugo-: G*tari
+[02:26:32] BCraftMG: !mp size 8
+[02:26:34] BanchoBot: Changed match to size 8
+[02:26:56] submissive: where's 4 roo
+[02:26:56] Bakugo-: Do u know whats fun
+[02:26:58] Bakugo-: we're down 2 players LOL
+[02:27:09] BanchoBot: 4rou joined in slot 7 for team blue.
+[02:27:11] submissive: why you saying it out loud man D:
+[02:27:13] Bakugo-: Referee they have a 4 digit
+[02:27:15] BanchoBot: Countdown ends in 1 minute
+[02:27:15] 4rou: hopefully it doesnt lag
+[02:27:15] Bakugo-: Why are they allowed to play?
+[02:27:19] BanchoBot: Bakugo- left the game.
+[02:27:19] BanchoBot: 4rou moved to slot 8
+[02:27:21] BanchoBot: 4rou moved to slot 2
+[02:27:25] BCraftMG: :)
+[02:27:26] 4rou: idk
+[02:27:26] BioTyC: true
+[02:27:28] 4rou: osu google
+[02:27:30] BioTyC: why is he here ?
+[02:27:34] BioTyC: titi- reported
+[02:27:43] BanchoBot: Countdown ends in 30 seconds
+[02:27:43] Titi-: why
+[02:27:47] BioTyC: feur
+[02:27:52] Titi-: pff
+[02:27:56] BioTyC: ^^
+[02:28:01] BanchoBot: All players are ready
+[02:28:02] BCraftMG: !mp settings
+[02:28:03] BanchoBot: Room name: STT3: (from :doigby: to :boule:) vs (The Bad Guys), History: https://osu.ppy.sh/mp/101956442
+[02:28:03] BanchoBot: Beatmap: https://osu.ppy.sh/b/2105741 K A Z M A S A - Bon Appetit S (Oldskool HappyHardcore Remix) (Short Ver.)
+[02:28:03] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:28:03] BanchoBot: Active mods: NoFail
+[02:28:03] BanchoBot: Players: 6
+[02:28:03] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14309415 submissive      [Team Blue]
+[02:28:03] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10318021 4rou            [Team Blue]
+[02:28:03] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/3648459 Gaz             [Team Blue]
+[02:28:03] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13935409 BioTyC          [Team Red ]
+[02:28:03] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Red ]
+[02:28:03] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/8284530 Titi-           [Team Red ]
+[02:28:05] BanchoBot: Countdown ends in 10 seconds
+[02:28:05] BioTyC: d-_-b
+[02:28:09] BCraftMG: !mp start 5
+[02:28:10] BanchoBot: All players are ready
+[02:28:10] BanchoBot: Countdown ends in 5 seconds
+[02:28:10] 4rou: cant wait to get 100k
+[02:28:10] BanchoBot: Countdown ends in 4 seconds
+[02:28:10] BanchoBot: Countdown aborted
+[02:28:10] BanchoBot: Match starts in 5 seconds
+[02:28:10] BanchoBot: Queued the match to start in 5 seconds
+[02:28:11] BanchoBot: Match starts in 4 seconds
+[02:28:11] BanchoBot: Match starts in 3 seconds
+[02:28:14] BanchoBot: Good luck, have fun!
+[02:28:16] MyzeJD: glgl
+[02:28:16] BanchoBot: The match has started!
+[02:28:18] Gaz: can't wait to get 50k
+[02:28:21] Gaz: glhf
+[02:30:57] BanchoBot: Bakugo- joined in slot 7 for team blue.
+[02:31:07] BanchoBot: Bakugo- left the game.
+[02:31:46] BanchoBot: submissive finished playing (Score: 977088, PASSED).
+[02:31:46] BanchoBot: 4rou finished playing (Score: 335725, PASSED).
+[02:31:46] BanchoBot: MyzeJD finished playing (Score: 831747, PASSED).
+[02:31:49] BanchoBot: Titi- finished playing (Score: 356524, PASSED).
+[02:31:49] BanchoBot: BioTyC finished playing (Score: 724320, PASSED).
+[02:31:49] BanchoBot: Gaz finished playing (Score: 140432, PASSED).
+[02:31:49] BanchoBot: The match has finished!
+[02:31:53] BCraftMG: from :doigby: to :boule: : 1 | 0 : The Bad Guys
+[02:31:53] 4rou: i love my family so mucjh
+[02:31:55] BCraftMG: Next team to pick: The Bad Guys
+[02:31:57] 4rou: so
+[02:31:57] BCraftMG: !mp timer 120
+[02:31:57] BanchoBot: Countdown ends in 2 minutes
+[02:31:57] 4rou: firetrucking
+[02:31:57] 4rou: much
+[02:31:59] submissive: undlucky
+[02:32:02] BanchoBot: Crynless joined in slot 7 for team blue.
+[02:32:04] BanchoBot: Bakugo- joined in slot 8 for team red.
+[02:32:13] BioTyC: nice score submissive :wtf:
+[02:32:21] submissive: tyty u 2!
+[02:32:26] Bakugo-: imagine getting outscored by Submissive
+[02:32:28] Bakugo-: on nomod Two
+[02:32:34] BioTyC: oh no.
+[02:32:36] submissive: i mean...
+[02:32:39] MyzeJD: Chatting
+[02:32:39] submissive: not that unusual
+[02:32:45] BioTyC: he fced tho
+[02:32:49] BioTyC: + god acc
+[02:32:51] BanchoBot: Crynless changed to Red
+[02:32:58] BanchoBot: Countdown ends in 1 minute
+[02:33:00] submissive: nm2s are liek usually one of my best picks lol
+[02:33:07] submissive: if it's not over 190bpm
+[02:33:22] submissive: BMD map too <3
+[02:33:26] Bakugo-: bmd :/
+[02:33:26] BanchoBot: Countdown ends in 30 seconds
+[02:33:41] BioTyC: bmd my waifu
+[02:33:48] BanchoBot: Countdown ends in 10 seconds
+[02:33:52] BanchoBot: Countdown ends in 5 seconds
+[02:33:54] BanchoBot: Countdown ends in 4 seconds
+[02:33:54] Bakugo-: hidden Two
+[02:33:54] BanchoBot: Countdown ends in 3 seconds
+[02:33:54] BanchoBot: Countdown ends in 2 seconds
+[02:33:56] BanchoBot: Countdown ends in 1 second
+[02:33:56] BanchoBot: Countdown finished
+[02:34:00] BanchoBot: Titi- left the game.
+[02:34:00] BanchoBot: BioTyC left the game.
+[02:34:03] BanchoBot: LeDes joined in slot 4 for team red.
+[02:34:05] BanchoBot: Afmun joined in slot 6 for team red.
+[02:34:09] BCraftMG: !mp mods HD NF
+[02:34:09] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[02:34:11] BanchoBot: MyzeJD left the game.
+[02:34:11] BCraftMG: !mp map 36134 0
+[02:34:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/36134 Cranky - Luvin' You
+[02:34:11] BanchoBot: Changed match mode to Osu
+[02:34:11] BanchoBot: Bakugo- changed to Blue
+[02:34:14] BCraftMG: !mp timer 120
+[02:34:14] BanchoBot: Countdown ends in 2 minutes
+[02:34:14] BanchoBot: Crynless moved to slot 5
+[02:34:31] Bakugo-: Do u know what i just realized
+[02:34:38] Bakugo-: all the 'reading' maps have been cs5 :(
+[02:34:55] Gaz: hr maps
+[02:35:13] BanchoBot: Countdown ends in 1 minute
+[02:35:30] BanchoBot: Gaz left the game.
+[02:35:37] BanchoBot: Bakugo- moved to slot 3
+[02:35:37] BanchoBot: All players are ready
+[02:35:39] BCraftMG: !mp settings
+[02:35:41] Bakugo-: Guys lets play some READING
+[02:35:41] BanchoBot: Room name: STT3: (from :doigby: to :boule:) vs (The Bad Guys), History: https://osu.ppy.sh/mp/101956442
+[02:35:41] BanchoBot: Beatmap: https://osu.ppy.sh/b/36134 Cranky - Luvin' You
+[02:35:41] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:35:41] BanchoBot: Active mods: NoFail, Hidden
+[02:35:41] BanchoBot: Players: 6
+[02:35:41] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14309415 submissive      [Team Blue]
+[02:35:41] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10318021 4rou            [Team Blue]
+[02:35:41] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4990127 Bakugo-         [Team Blue]
+[02:35:41] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9652467 LeDes           [Team Red ]
+[02:35:41] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/5850031 Crynless        [Team Red ]
+[02:35:41] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/4869346 Afmun           [Team Red ]
+[02:35:43] BanchoBot: Countdown ends in 30 seconds
+[02:35:47] BCraftMG: !mp start 10
+[02:35:49] BanchoBot: Countdown aborted
+[02:35:49] BanchoBot: Match starts in 10 seconds
+[02:35:49] BanchoBot: Queued the match to start in 10 seconds
+[02:35:52] submissive: reading :tf:
+[02:35:56] BanchoBot: Match starts in 5 seconds
+[02:35:56] Bakugo-: Fr
+[02:35:56] BanchoBot: Match starts in 4 seconds
+[02:35:58] 4rou: anyone wants to miss at the beginning and nowhere else
+[02:35:58] BanchoBot: Match starts in 3 seconds
+[02:35:58] BanchoBot: Good luck, have fun!
+[02:36:00] 4rou: glf
+[02:36:00] BanchoBot: The match has started!
+[02:38:15] BanchoBot: Crynless finished playing (Score: 155810, PASSED).
+[02:38:17] BanchoBot: submissive finished playing (Score: 344558, PASSED).
+[02:38:17] BanchoBot: 4rou finished playing (Score: 608587, PASSED).
+[02:38:17] BanchoBot: Bakugo- finished playing (Score: 354471, PASSED).
+[02:38:17] BanchoBot: LeDes finished playing (Score: 447609, PASSED).
+[02:38:17] BanchoBot: Afmun finished playing (Score: 402667, PASSED).
+[02:38:17] BanchoBot: The match has finished!
+[02:38:19] BanchoBot: Bakugo- left the game.
+[02:38:21] BCraftMG: from :doigby: to :boule: : 1 | 1 : The Bad Guys
+[02:38:23] BCraftMG: Next team to pick: from :doigby: to :boule:
+[02:38:26] BCraftMG: !mp timer 120
+[02:38:26] BanchoBot: Countdown ends in 2 minutes
+[02:38:30] submissive: oops
+[02:38:34] submissive: shouldnevte played
+[02:38:46] BanchoBot: BioTyC joined in slot 3 for team blue.
+[02:38:48] BanchoBot: Titi- joined in slot 7 for team blue.
+[02:38:50] BanchoBot: BioTyC moved to slot 8
+[02:39:25] BanchoBot: Countdown ends in 1 minute
+[02:39:36] BanchoBot: MyzeJD joined in slot 3 for team blue.
+[02:39:40] BanchoBot: LeDes left the game.
+[02:39:42] BanchoBot: BioTyC moved to slot 4
+[02:39:44] BanchoBot: BioTyC changed to Red
+[02:39:46] BanchoBot: MyzeJD moved to slot 8
+[02:39:46] BanchoBot: MyzeJD changed to Red
+[02:39:55] BanchoBot: Countdown ends in 30 seconds
+[02:39:57] BanchoBot: Gaz joined in slot 3 for team blue.
+[02:40:04] BanchoBot: BioTyC left the game.
+[02:40:04] BanchoBot: Gaz left the game.
+[02:40:06] BanchoBot: Gaz joined in slot 3 for team blue.
+[02:40:10] Crynless: EZ
+[02:40:14] BanchoBot: Titi- left the game.
+[02:40:14] BanchoBot: Gaz left the game.
+[02:40:14] BanchoBot: Countdown ends in 10 seconds
+[02:40:17] BanchoBot: Crynless left the game.
+[02:40:21] BanchoBot: LeDes joined in slot 3 for team blue.
+[02:40:21] BanchoBot: Countdown ends in 5 seconds
+[02:40:21] BanchoBot: Countdown ends in 4 seconds
+[02:40:23] BanchoBot: Countdown ends in 3 seconds
+[02:40:23] BCraftMG: !mp mods NoMod
+[02:40:23] BanchoBot: Disabled all mods, disabled FreeMod
+[02:40:23] BanchoBot: Countdown ends in 2 seconds
+[02:40:23] BanchoBot: Afmun moved to slot 5
+[02:40:25] BanchoBot: Countdown ends in 1 second
+[02:40:25] BCraftMG: !mp map 3302600 0
+[02:40:25] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3302600 rejection - Aimai Attitude (feat. Nakamura Sanso)
+[02:40:25] BanchoBot: Changed match mode to Osu
+[02:40:25] BanchoBot: Countdown finished
+[02:40:27] BCraftMG: !mp timer 120
+[02:40:27] BanchoBot: Countdown ends in 2 minutes
+[02:40:35] BCraftMG: !mp mods EZ NF
+[02:40:36] BanchoBot: Enabled NoFail, Easy, disabled FreeMod
+[02:40:45] BanchoBot: MyzeJD moved to slot 6
+[02:40:47] BanchoBot: LeDes changed to Red
+[02:40:49] BanchoBot: LeDes moved to slot 4
+[02:41:22] submissive: oh
+[02:41:26] 4rou: do i have to "carry" again
+[02:41:28] BanchoBot: Countdown ends in 1 minute
+[02:41:56] BanchoBot: Countdown ends in 30 seconds
+[02:42:05] submissive: yes! :D
+[02:42:18] BanchoBot: Countdown ends in 10 seconds
+[02:42:22] BanchoBot: Countdown ends in 5 seconds
+[02:42:22] BanchoBot: Countdown ends in 4 seconds
+[02:42:24] submissive: carry me shirou the bara wolf
+[02:42:24] BanchoBot: Countdown ends in 3 seconds
+[02:42:24] BanchoBot: Countdown ends in 2 seconds
+[02:42:26] BanchoBot: Countdown ends in 1 second
+[02:42:26] BanchoBot: Countdown finished
+[02:42:27] BCraftMG: !mp settings
+[02:42:29] BanchoBot: Room name: STT3: (from :doigby: to :boule:) vs (The Bad Guys), History: https://osu.ppy.sh/mp/101956442
+[02:42:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/3302600 rejection - Aimai Attitude (feat. Nakamura Sanso)
+[02:42:29] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:42:29] BanchoBot: Active mods: NoFail, Easy
+[02:42:29] BanchoBot: Players: 5
+[02:42:29] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/14309415 submissive      [Team Blue]
+[02:42:29] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/10318021 4rou            [Team Blue]
+[02:42:29] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9652467 LeDes           [Team Red ]
+[02:42:29] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4869346 Afmun           [Team Red ]
+[02:42:29] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Red ]
+[02:42:34] BCraftMG: The Bad Guys
+[02:42:38] BCraftMG: where is your 3rd
+[02:42:56] 4rou: hold up
+[02:42:59] submissive: bro idk
+[02:43:01] BanchoBot: Bakugo- joined in slot 3 for team blue.
+[02:43:05] 4rou: wait for a bit
+[02:43:07] 4rou: there
+[02:43:10] BCraftMG: !mp timer 90
+[02:43:10] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[02:43:12] MyzeJD: did you have time to play map on mcosu?
+[02:43:20] BCraftMG: ready up
+[02:43:23] MyzeJD: :tf:
+[02:43:27] submissive: ew offline players
+[02:43:27] 4rou: no he is sick rn
+[02:43:29] Bakugo-: I had time to throw up and recover by drinking a glass of water!
+[02:43:38] 4rou: yeah that
+[02:43:40] MyzeJD: sadge
+[02:43:40] Bakugo-: Man says had time to play the map while i literally am downloading it rn
+[02:43:40] BanchoBot: Countdown ends in 1 minute
+[02:43:53] BanchoBot: All players are ready
+[02:43:58] BCraftMG: !mp settings
+[02:44:00] BanchoBot: Room name: STT3: (from :doigby: to :boule:) vs (The Bad Guys), History: https://osu.ppy.sh/mp/101956442
+[02:44:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/3302600 rejection - Aimai Attitude (feat. Nakamura Sanso)
+[02:44:00] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:44:00] BanchoBot: Active mods: NoFail, Easy
+[02:44:00] BanchoBot: Players: 6
+[02:44:00] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14309415 submissive      [Team Blue]
+[02:44:00] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10318021 4rou            [Team Blue]
+[02:44:00] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4990127 Bakugo-         [Team Blue]
+[02:44:00] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9652467 LeDes           [Team Red ]
+[02:44:00] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4869346 Afmun           [Team Red ]
+[02:44:00] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Red ]
+[02:44:02] BCraftMG: !mp start 10
+[02:44:02] MyzeJD: hfhf
+[02:44:04] BanchoBot: Countdown aborted
+[02:44:04] BanchoBot: Match starts in 10 seconds
+[02:44:04] BanchoBot: Queued the match to start in 10 seconds
+[02:44:11] BanchoBot: Match starts in 5 seconds
+[02:44:11] BanchoBot: Match starts in 4 seconds
+[02:44:13] BanchoBot: Match starts in 3 seconds
+[02:44:13] BanchoBot: Good luck, have fun!
+[02:44:15] BanchoBot: The match has started!
+[02:44:15] 4rou: uyhvg\]
+[02:48:46] BanchoBot: 4rou finished playing (Score: 323729, PASSED).
+[02:48:46] BanchoBot: submissive finished playing (Score: 15390, PASSED).
+[02:48:46] BanchoBot: Bakugo- finished playing (Score: 11914, PASSED).
+[02:48:46] BanchoBot: Afmun finished playing (Score: 239328, PASSED).
+[02:48:46] BanchoBot: LeDes finished playing (Score: 250863, PASSED).
+[02:48:48] BanchoBot: MyzeJD finished playing (Score: 105201, PASSED).
+[02:48:48] BanchoBot: The match has finished!
+[02:48:50] BCraftMG: from :doigby: to :boule: : 2 | 1 : The Bad Guys
+[02:48:52] BCraftMG: Next team to pick: The Bad Guys
+[02:48:54] BCraftMG: !mp timer 120
+[02:48:54] BanchoBot: Countdown ends in 2 minutes
+[02:48:56] BanchoBot: LeDes left the game.
+[02:48:59] BanchoBot: Crynless joined in slot 4 for team red.
+[02:48:59] 4rou: i love being the only reading player on my team!
+[02:49:03] submissive: yeah, sorry bro
+[02:49:12] BanchoBot: BioTyC joined in slot 7 for team blue.
+[02:49:14] BanchoBot: Titi- joined in slot 8 for team red.
+[02:49:31] Bakugo-: sorry for not investing time in a 4min ar3 pick!
+[02:49:55] BanchoBot: Countdown ends in 1 minute
+[02:50:23] BanchoBot: Countdown ends in 30 seconds
+[02:50:45] BanchoBot: Countdown ends in 10 seconds
+[02:50:49] BanchoBot: Countdown ends in 5 seconds
+[02:50:49] BanchoBot: Countdown ends in 4 seconds
+[02:50:51] BanchoBot: Countdown ends in 3 seconds
+[02:50:51] BanchoBot: Countdown ends in 2 seconds
+[02:50:54] BanchoBot: Countdown ends in 1 second
+[02:50:54] Bakugo-: fm2 ig
+[02:50:54] BanchoBot: Countdown finished
+[02:50:54] Titi-: pls
+[02:51:02] Crynless: ...
+[02:51:02] Crynless: Cmon
+[02:51:04] Crynless: Man
+[02:51:04] BCraftMG: !mp mods Freemod NF
+[02:51:04] BanchoBot: Disabled all mods, enabled FreeMod
+[02:51:07] BCraftMG: !mp map 46827 0
+[02:51:07] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/46827 KOTOKO - Wing my Way
+[02:51:07] BanchoBot: Changed match mode to Osu
+[02:51:09] Bakugo-: wym?
+[02:51:09] Crynless: Stop abusing Time
+[02:51:09] BCraftMG: !mp timer 120
+[02:51:09] BanchoBot: Countdown ends in 2 minutes
+[02:51:13] Bakugo-: ??????
+[02:51:17] BanchoBot: BioTyC left the game.
+[02:51:21] BanchoBot: LeDes joined in slot 7 for team blue.
+[02:51:32] BanchoBot: LeDes changed to Red
+[02:51:32] BanchoBot: MyzeJD left the game.
+[02:51:34] BanchoBot: LeDes moved to slot 6
+[02:51:34] submissive: 4rou HR?
+[02:51:36] BanchoBot: Titi- moved to slot 7
+[02:51:45] 4rou: im not letting you play HR
+[02:51:49] Stage: Why are you like this Baku
+[02:51:51] Stage: who hurt you
+[02:51:54] Stage: where are your parents
+[02:52:00] Bakugo-: i literally picked in time
+[02:52:02] Bakugo-: what is ur problem
+[02:52:02] BanchoBot: Afmun left the game.
+[02:52:09] BanchoBot: Countdown ends in 1 minute
+[02:52:09] Stage: you're my problem
+[02:52:17] Bakugo-: sucks to be you then..
+[02:52:17] BanchoBot: LeDes moved to slot 5
+[02:52:20] 4rou: ik we shouldn't stall and stuff
+[02:52:35] 4rou: but we're 2 people off and there is no communication
+[02:52:35] Bakugo-: we're on 4 players and we pick in time
+[02:52:37] Bakugo-: we're not doing this intentionally
+[02:52:39] BanchoBot: Countdown ends in 30 seconds
+[02:52:45] BanchoBot: Bakugo- moved to slot 8
+[02:52:50] LeDes: you pick in the last 2 seconds every time
+[02:52:50] BanchoBot: Gaz joined in slot 3 for team blue.
+[02:52:52] LeDes: its not intentional ?
+[02:52:58] BanchoBot: Countdown ends in 10 seconds
+[02:53:03] Crynless: We have a potential match after this one
+[02:53:03] BanchoBot: Countdown ends in 5 seconds
+[02:53:05] 4rou: because we were 2 people off
+[02:53:05] BanchoBot: Countdown ends in 4 seconds
+[02:53:05] BanchoBot: Countdown ends in 3 seconds
+[02:53:05] 4rou: twice
+[02:53:07] BanchoBot: Countdown ends in 2 seconds
+[02:53:07] BanchoBot: Countdown ends in 1 second
+[02:53:09] BanchoBot: Countdown finished
+[02:53:09] Crynless: So Don't waste our time pls
+[02:53:11] 4rou: i know im sorry
+[02:53:11] Bakugo-: ok so if you have 20sec to serve in a tennis match you're not allowed to use the 20sec?
+[02:53:13] BanchoBot: Titi- moved to slot 6
+[02:53:18] Bakugo-: if u dont have time, dont play tournaments
+[02:53:18] Bakugo-: idk man
+[02:53:20] BanchoBot: Bakugo- left the game.
+[02:53:20] BCraftMG: !mp settings
+[02:53:22] BanchoBot: Room name: STT3: (from :doigby: to :boule:) vs (The Bad Guys), History: https://osu.ppy.sh/mp/101956442
+[02:53:22] BanchoBot: Beatmap: https://osu.ppy.sh/b/46827 KOTOKO - Wing my Way
+[02:53:22] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:53:22] BanchoBot: Active mods: Freemod
+[02:53:22] BanchoBot: Players: 6
+[02:53:22] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14309415 submissive      [Team Blue / NoFail, Hidden]
+[02:53:22] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/10318021 4rou            [Team Blue / NoFail, HardRock]
+[02:53:22] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/3648459 Gaz             [Team Blue / NoFail, HardRock]
+[02:53:22] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5850031 Crynless        [Team Red  / NoFail, HardRock]
+[02:53:22] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/9652467 LeDes           [Team Red  / NoFail, Hidden]
+[02:53:22] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/8284530 Titi-           [Team Red  / NoFail, HardRock]
+[02:53:24] 4rou: geniunely sorry
+[02:53:28] LeDes: if you have a bit of respect for the other team you make an effort yea
+[02:53:41] BCraftMG: um ready up please
+[02:53:49] BCraftMG: 4rou
+[02:53:52] BanchoBot: All players are ready
+[02:53:53] BCraftMG: !mp settings
+[02:53:54] 4rou: sorry
+[02:53:54] BanchoBot: Room name: STT3: (from :doigby: to :boule:) vs (The Bad Guys), History: https://osu.ppy.sh/mp/101956442
+[02:53:54] BanchoBot: Beatmap: https://osu.ppy.sh/b/46827 KOTOKO - Wing my Way
+[02:53:54] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:53:54] BanchoBot: Active mods: Freemod
+[02:53:54] BanchoBot: Players: 6
+[02:53:54] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14309415 submissive      [Team Blue / NoFail, Hidden]
+[02:53:54] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10318021 4rou            [Team Blue / NoFail, Hidden]
+[02:53:54] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/3648459 Gaz             [Team Blue / NoFail, HardRock]
+[02:53:54] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5850031 Crynless        [Team Red  / NoFail, HardRock]
+[02:53:54] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/9652467 LeDes           [Team Red  / NoFail, Hidden]
+[02:53:54] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/8284530 Titi-           [Team Red  / NoFail, HardRock]
+[02:53:56] BCraftMG: !mp start 10
+[02:53:56] LeDes: ...
+[02:53:58] BCraftMG: ty
+[02:53:58] BanchoBot: Match starts in 10 seconds
+[02:53:58] BanchoBot: Queued the match to start in 10 seconds
+[02:54:05] 4rou: im really sorry
+[02:54:05] BanchoBot: Match starts in 5 seconds
+[02:54:05] BanchoBot: Match starts in 4 seconds
+[02:54:07] BanchoBot: Match starts in 3 seconds
+[02:54:07] 4rou: gl
+[02:54:07] BanchoBot: Good luck, have fun!
+[02:54:09] BanchoBot: The match has started!
+[02:54:11] Gaz: glh
+[02:54:13] Gaz: f
+[02:56:17] BanchoBot: 4rou finished playing (Score: 805876, PASSED).
+[02:56:20] BanchoBot: Crynless finished playing (Score: 247069, PASSED).
+[02:56:20] BanchoBot: submissive finished playing (Score: 240826, PASSED).
+[02:56:20] BanchoBot: Titi- finished playing (Score: 290327, PASSED).
+[02:56:20] BanchoBot: LeDes finished playing (Score: 650202, PASSED).
+[02:56:20] BanchoBot: Gaz finished playing (Score: 421613, PASSED).
+[02:56:20] BanchoBot: The match has finished!
+[02:56:24] BCraftMG: from :doigby: to :boule: : 2 | 2 : The Bad Guys
+[02:56:26] BCraftMG: Next team to pick: from :doigby: to :boule:
+[02:56:28] BCraftMG: !mp timer 120
+[02:56:28] BanchoBot: Countdown ends in 2 minutes
+[02:56:36] BanchoBot: Bakugo- joined in slot 7 for team blue.
+[02:56:45] submissive: this wasn't singletappable D:
+[02:56:57] Crynless: I Single tap
+[02:56:57] Crynless: :D
+[02:56:57] BanchoBot: BioTyC joined in slot 8 for team red.
+[02:57:07] Bakugo-: explains ur score
+[02:57:09] Bakugo-: AKLHJGSHJKASDG Ok jkjkjkjjk
+[02:57:16] Gaz: bro
+[02:57:18] submissive: dude IM TRYINF
+[02:57:28] BanchoBot: Countdown ends in 1 minute
+[02:57:35] submissive: thx for the carry boys c:
+[02:57:37] BanchoBot: LeDes left the game.
+[02:57:50] BanchoBot: MyzeJD joined in slot 5 for team blue.
+[02:57:50] Crynless: DT2
+[02:57:54] BanchoBot: MyzeJD changed to Red
+[02:57:54] Bakugo-: No way.
+[02:57:57] BanchoBot: Crynless left the game.
+[02:57:59] BanchoBot: Countdown ends in 30 seconds
+[02:57:59] BanchoBot: BioTyC moved to slot 4
+[02:57:59] BCraftMG: !mp mods DT NF
+[02:57:59] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[02:57:59] BanchoBot: Titi- left the game.
+[02:58:01] MyzeJD: norway
+[02:58:01] BCraftMG: !mp map 2075562 0
+[02:58:01] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2075562 Wyvern's Spirit - Force Zero
+[02:58:01] BanchoBot: Changed match mode to Osu
+[02:58:03] BCraftMG: !mp timer 120
+[02:58:03] BanchoBot: Countdown aborted
+[02:58:03] BanchoBot: Countdown ends in 2 minutes
+[02:58:07] BanchoBot: Bakugo- left the game.
+[02:58:09] BanchoBot: Afmun joined in slot 6 for team red.
+[02:59:03] BanchoBot: Countdown ends in 1 minute
+[02:59:25] 4rou: please gouhin sticker on my motorola e4 phone from 2014
+[02:59:27] 4rou: bless me
+[02:59:33] BanchoBot: Countdown ends in 30 seconds
+[02:59:35] BanchoBot: All players are ready
+[02:59:38] submissive: gouhin our dt carry D:
+[02:59:38] BCraftMG: !mp settings
+[02:59:40] MyzeJD: glhf
+[02:59:40] BanchoBot: Room name: STT3: (from :doigby: to :boule:) vs (The Bad Guys), History: https://osu.ppy.sh/mp/101956442
+[02:59:40] BanchoBot: Beatmap: https://osu.ppy.sh/b/2075562 Wyvern's Spirit - Force Zero
+[02:59:40] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:59:40] BanchoBot: Active mods: NoFail, DoubleTime
+[02:59:40] BanchoBot: Players: 6
+[02:59:40] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14309415 submissive      [Team Blue]
+[02:59:40] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10318021 4rou            [Team Blue]
+[02:59:40] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/3648459 Gaz             [Team Blue]
+[02:59:40] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13935409 BioTyC          [Team Red ]
+[02:59:40] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Red ]
+[02:59:40] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/4869346 Afmun           [Team Red ]
+[02:59:42] BCraftMG: !mp start 10
+[02:59:44] Gaz: glhf
+[02:59:44] BanchoBot: Countdown aborted
+[02:59:44] BanchoBot: Match starts in 10 seconds
+[02:59:44] BanchoBot: Queued the match to start in 10 seconds
+[02:59:51] BanchoBot: Match starts in 5 seconds
+[02:59:51] BanchoBot: Match starts in 4 seconds
+[02:59:51] BioTyC: glhf
+[02:59:53] BanchoBot: Match starts in 3 seconds
+[02:59:53] BanchoBot: Good luck, have fun!
+[02:59:55] BanchoBot: The match has started!
+[02:59:55] 4rou: gl
+[03:03:00] BanchoBot: 4rou finished playing (Score: 427395, PASSED).
+[03:03:00] BanchoBot: Gaz finished playing (Score: 249275, PASSED).
+[03:03:00] BanchoBot: BioTyC finished playing (Score: 363554, PASSED).
+[03:03:02] BanchoBot: submissive finished playing (Score: 544075, PASSED).
+[03:03:02] BanchoBot: Afmun finished playing (Score: 443271, PASSED).
+[03:03:02] BanchoBot: MyzeJD finished playing (Score: 804186, PASSED).
+[03:03:02] BanchoBot: The match has finished!
+[03:03:04] BCraftMG: from :doigby: to :boule: : 3 | 2 : The Bad Guys
+[03:03:06] BCraftMG: Next team to pick: The Bad Guys
+[03:03:08] BCraftMG: !mp timer 120
+[03:03:08] BanchoBot: Countdown ends in 2 minutes
+[03:03:17] BanchoBot: Crynless joined in slot 7 for team blue.
+[03:04:06] BanchoBot: LeDes joined in slot 8 for team red.
+[03:04:09] BanchoBot: Countdown ends in 1 minute
+[03:04:39] BanchoBot: Countdown ends in 30 seconds
+[03:04:41] BanchoBot: Crynless changed to Red
+[03:04:45] 4rou: NM3
+[03:04:45] Gaz: nm3
+[03:04:54] submissive: nm3
+[03:04:54] BCraftMG: !mp mods NF
+[03:04:54] BanchoBot: Enabled NoFail, disabled FreeMod
+[03:04:56] BCraftMG: !mp map 2952639 0
+[03:04:56] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2952639 Tokyo Machine - BUBBLES
+[03:04:56] BanchoBot: Changed match mode to Osu
+[03:04:58] BanchoBot: BioTyC left the game.
+[03:04:58] BCraftMG: !mp timer 120
+[03:04:58] BanchoBot: Countdown aborted
+[03:04:58] BanchoBot: Countdown ends in 2 minutes
+[03:05:00] BanchoBot: LeDes left the game.
+[03:05:04] BanchoBot: Titi- joined in slot 4 for team red.
+[03:05:11] BanchoBot: Crynless left the game.
+[03:05:32] MyzeJD: catJAM
+[03:05:58] BanchoBot: Countdown ends in 1 minute
+[03:06:14] BanchoBot: All players are ready
+[03:06:16] submissive: jhsdjksadkjhasd sorry
+[03:06:18] BCraftMG: !mp settings
+[03:06:18] MyzeJD: glhf
+[03:06:20] 4rou: golf
+[03:06:20] BanchoBot: Room name: STT3: (from :doigby: to :boule:) vs (The Bad Guys), History: https://osu.ppy.sh/mp/101956442
+[03:06:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/2952639 Tokyo Machine - BUBBLES
+[03:06:20] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:06:20] BanchoBot: Active mods: NoFail
+[03:06:20] BanchoBot: Players: 6
+[03:06:20] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14309415 submissive      [Team Blue]
+[03:06:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10318021 4rou            [Team Blue]
+[03:06:20] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/3648459 Gaz             [Team Blue]
+[03:06:20] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8284530 Titi-           [Team Red ]
+[03:06:20] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Red ]
+[03:06:20] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/4869346 Afmun           [Team Red ]
+[03:06:21] BCraftMG: !mp start 10
+[03:06:22] BanchoBot: Countdown aborted
+[03:06:22] BanchoBot: Match starts in 10 seconds
+[03:06:22] BanchoBot: Queued the match to start in 10 seconds
+[03:06:24] Gaz: glhf
+[03:06:29] Gaz: this map stinks
+[03:06:29] BanchoBot: Match starts in 5 seconds
+[03:06:29] BanchoBot: Match starts in 4 seconds
+[03:06:30] BanchoBot: Match starts in 3 seconds
+[03:06:30] BanchoBot: Good luck, have fun!
+[03:06:33] 4rou: true
+[03:06:33] BanchoBot: The match has started!
+[03:06:35] submissive: yes
+[03:09:17] BanchoBot: Afmun finished playing (Score: 730906, PASSED).
+[03:09:17] BanchoBot: MyzeJD finished playing (Score: 304378, PASSED).
+[03:09:17] BanchoBot: 4rou finished playing (Score: 293048, PASSED).
+[03:09:17] BanchoBot: submissive finished playing (Score: 277436, PASSED).
+[03:09:17] BanchoBot: Gaz finished playing (Score: 314115, PASSED).
+[03:09:17] BanchoBot: Titi- finished playing (Score: 460809, PASSED).
+[03:09:17] BanchoBot: The match has finished!
+[03:09:21] BCraftMG: from :doigby: to :boule: : 4 | 2 : The Bad Guys
+[03:09:23] BCraftMG: Next team to pick: from :doigby: to :boule:
+[03:09:25] BCraftMG: !mp timer 120
+[03:09:25] BanchoBot: Countdown ends in 2 minutes
+[03:09:36] MyzeJD: what is my team on bruh
+[03:09:42] Afmun: acc :)
+[03:10:25] BanchoBot: Countdown ends in 1 minute
+[03:10:32] BanchoBot: BioTyC joined in slot 7 for team blue.
+[03:10:47] BanchoBot: Bakugo- joined in slot 8 for team red.
+[03:10:55] BanchoBot: Countdown ends in 30 seconds
+[03:11:04] Bakugo-: Guys please pick!! You do this intentionally!!!
+[03:11:06] Bakugo-: C'mon guys..
+[03:11:10] BanchoBot: Titi- left the game.
+[03:11:15] BanchoBot: Countdown ends in 10 seconds
+[03:11:19] BanchoBot: Countdown ends in 5 seconds
+[03:11:21] Afmun: ht
+[03:11:21] BanchoBot: Countdown ends in 4 seconds
+[03:11:21] BanchoBot: Countdown ends in 3 seconds
+[03:11:21] BioTyC: ok
+[03:11:23] BanchoBot: Countdown ends in 2 seconds
+[03:11:23] BanchoBot: Countdown ends in 1 second
+[03:11:25] BanchoBot: Countdown finished
+[03:11:25] Bakugo-: LOOOOOOOOOOOOOOOL
+[03:11:30] MyzeJD: ratio fdp
+[03:11:38] BioTyC: myze feur plz
+[03:11:40] BCraftMG: !mp mods NoMod
+[03:11:40] BanchoBot: Disabled all mods, disabled FreeMod
+[03:11:43] BioTyC: ^^
+[03:11:43] BCraftMG: !mp map 2218881 0
+[03:11:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2218881 Blueberry Sunshine - Act My Age
+[03:11:43] BanchoBot: Changed match mode to Osu
+[03:11:45] BCraftMG: !mp timer 120
+[03:11:45] BanchoBot: Countdown ends in 2 minutes
+[03:11:45] MyzeJD: ^^
+[03:11:49] BanchoBot: BioTyC moved to slot 4
+[03:11:50] BCraftMG: !mp mods NF HT
+[03:11:51] BanchoBot: BioTyC changed to Red
+[03:11:51] Bakugo-: STAGE
+[03:11:51] BanchoBot: Enabled NoFail, HalfTime, disabled FreeMod
+[03:11:53] Gaz: [no map]
+[03:11:55] Bakugo-: HE CALLED ME SON OF A BITCH
+[03:11:57] Bakugo-: Can u please disband him
+[03:12:04] BCraftMG: :)
+[03:12:06] submissive: wah c pas gentil qd meme \:
+[03:12:06] BioTyC: our carry D:
+[03:12:12] MyzeJD: fdp = feuille de papier tho
+[03:12:12] MyzeJD: ^^
+[03:12:15] MyzeJD: sheet of paper
+[03:12:17] BioTyC: ^^
+[03:12:19] MyzeJD: you're clueless
+[03:12:21] MyzeJD: leave the lobby
+[03:12:21] Bakugo-: true
+[03:12:21] MyzeJD: noob
+[03:12:21] submissive: oue pas sûr
+[03:12:27] 4rou: ...
+[03:12:27] Bakugo-: je veux baiser ta mere = i want to love ur mom
+[03:12:40] MyzeJD: y not
+[03:12:42] BioTyC: gyze...
+[03:12:44] BanchoBot: Countdown ends in 1 minute
+[03:12:47] BanchoBot: Bakugo- left the game.
+[03:12:52] 4rou: ...
+[03:12:52] MyzeJD: glgl
+[03:13:15] BanchoBot: Countdown ends in 30 seconds
+[03:13:15] BioTyC: glhf
+[03:13:23] BanchoBot: Bakugo- joined in slot 7 for team blue.
+[03:13:28] BanchoBot: Gaz left the game.
+[03:13:30] BanchoBot: Bakugo- moved to slot 3
+[03:13:30] BanchoBot: All players are ready
+[03:13:34] BCraftMG: !mp settings
+[03:13:34] BanchoBot: Countdown ends in 10 seconds
+[03:13:36] MyzeJD: hfhf
+[03:13:36] BanchoBot: Room name: STT3: (from :doigby: to :boule:) vs (The Bad Guys), History: https://osu.ppy.sh/mp/101956442
+[03:13:36] BanchoBot: Beatmap: https://osu.ppy.sh/b/2218881 Blueberry Sunshine - Act My Age
+[03:13:36] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:13:36] BanchoBot: Active mods: NoFail, HalfTime
+[03:13:36] BanchoBot: Players: 6
+[03:13:36] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14309415 submissive      [Team Blue]
+[03:13:36] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10318021 4rou            [Team Blue]
+[03:13:36] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4990127 Bakugo-         [Team Blue]
+[03:13:36] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13935409 BioTyC          [Team Red ]
+[03:13:36] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Red ]
+[03:13:36] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/4869346 Afmun           [Team Red ]
+[03:13:37] BCraftMG: !mp start 10
+[03:13:38] BanchoBot: Countdown ends in 5 seconds
+[03:13:38] BanchoBot: Countdown aborted
+[03:13:38] BanchoBot: Match starts in 10 seconds
+[03:13:38] BanchoBot: Queued the match to start in 10 seconds
+[03:13:40] Bakugo-: Guys please ready up
+[03:13:43] Bakugo-: We have potential after this
+[03:13:45] BanchoBot: Match starts in 5 seconds
+[03:13:45] BanchoBot: Match starts in 4 seconds
+[03:13:47] BanchoBot: Match starts in 3 seconds
+[03:13:47] BanchoBot: Good luck, have fun!
+[03:13:49] 4rou: no
+[03:13:49] BanchoBot: The match has started!
+[03:13:49] Afmun: :)
+[03:17:21] BanchoBot: MyzeJD finished playing (Score: 86101, PASSED).
+[03:17:21] BanchoBot: Bakugo- finished playing (Score: 65189, PASSED).
+[03:17:21] BanchoBot: 4rou finished playing (Score: 98445, PASSED).
+[03:17:21] BanchoBot: submissive finished playing (Score: 130610, PASSED).
+[03:17:21] BanchoBot: Afmun finished playing (Score: 95091, PASSED).
+[03:17:21] BanchoBot: BioTyC finished playing (Score: 100094, PASSED).
+[03:17:21] BanchoBot: The match has finished!
+[03:17:26] Bakugo-: stream abuse FAILED
+[03:17:26] BCraftMG: from :doigby: to :boule: : 4 | 3 : The Bad Guys
+[03:17:28] BCraftMG: Next team to pick: The Bad Guys
+[03:17:30] BCraftMG: !mp timer 120
+[03:17:30] BanchoBot: Countdown ends in 2 minutes
+[03:17:47] BanchoBot: Titi- joined in slot 7 for team blue.
+[03:17:49] BanchoBot: Crynless joined in slot 8 for team red.
+[03:17:53] MyzeJD: half time prodigy submissive :despair:
+[03:18:10] submissive: I didnt know honestly
+[03:18:14] submissive: I thought I was gonna get 30k
+[03:18:29] MyzeJD: well nice job ig then lol
+[03:18:29] BanchoBot: Countdown ends in 1 minute
+[03:18:29] submissive: low bpm streams tho <3
+[03:18:31] MyzeJD: nice performance
+[03:18:36] submissive: tyty <3
+[03:18:44] Bakugo-: i love how we won that despite having 3 people sightreading this
+[03:18:55] 4rou: i played this before
+[03:18:59] BanchoBot: Countdown ends in 30 seconds
+[03:19:01] Bakugo-: Didnt ask
+[03:19:03] BioTyC: sightread buff ? /shrug
+[03:19:08] 4rou: :gato:
+[03:19:08] MyzeJD: real
+[03:19:16] Bakugo-: Ok team
+[03:19:18] Bakugo-: What do we pick!
+[03:19:20] BanchoBot: Countdown ends in 10 seconds
+[03:19:24] submissive: nm1 or fm1?
+[03:19:24] BanchoBot: Countdown ends in 5 seconds
+[03:19:26] BanchoBot: Countdown ends in 4 seconds
+[03:19:26] BanchoBot: Countdown ends in 3 seconds
+[03:19:26] submissive: !roll 2
+[03:19:26] BanchoBot: submissive rolls 1 point(s)
+[03:19:29] BanchoBot: Countdown ends in 2 seconds
+[03:19:29] BanchoBot: Countdown ends in 1 second
+[03:19:29] Bakugo-: Free Modification One (Fm1)
+[03:19:29] BanchoBot: Countdown finished
+[03:19:29] submissive: nm1
+[03:19:33] submissive: fm1*
+[03:19:35] 4rou: hey ref
+[03:19:35] Bakugo-: Yeah
+[03:19:37] submissive: typo
+[03:19:41] 4rou: could you invite gazza
+[03:19:43] Bakugo-: Ref please pick we're in a rush
+[03:19:45] Bakugo-: No
+[03:19:48] BCraftMG: !mp mods Freemod NF
+[03:19:48] BanchoBot: Disabled all mods, enabled FreeMod
+[03:19:48] Bakugo-: 8 people are in the room
+[03:19:50] BCraftMG: !mp map 216272 0
+[03:19:50] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/216272 CON - Cruel Clocks
+[03:19:50] BanchoBot: Changed match mode to Osu
+[03:19:52] BCraftMG: !mp timer 120
+[03:19:52] BanchoBot: Countdown ends in 2 minutes
+[03:19:52] Bakugo-: Idk why they have 5 in room
+[03:19:54] BanchoBot: Afmun left the game.
+[03:19:56] BanchoBot: Gaz joined in slot 6 for team red.
+[03:20:00] BanchoBot: MyzeJD left the game.
+[03:20:00] BanchoBot: Crynless moved to slot 5
+[03:20:04] BanchoBot: Bakugo- moved to slot 8
+[03:20:07] BanchoBot: Gaz moved to slot 3
+[03:20:09] BanchoBot: Gaz changed to Blue
+[03:20:09] BanchoBot: Titi- left the game.
+[03:20:24] BanchoBot: Afmun joined in slot 6 for team red.
+[03:20:38] Bakugo-: Alright guys, gl and please stop stalling
+[03:20:38] BanchoBot: Bakugo- left the game.
+[03:20:38] submissive: brb
+[03:20:42] submissive: give me 60 seconds PLAES
+[03:20:51] BanchoBot: Countdown ends in 1 minute
+[03:21:23] BanchoBot: Countdown ends in 30 seconds
+[03:21:27] submissive: k
+[03:21:39] BanchoBot: All players are ready
+[03:21:41] BCraftMG: !mp settings
+[03:21:42] BanchoBot: Countdown ends in 10 seconds
+[03:21:42] BanchoBot: Room name: STT3: (from :doigby: to :boule:) vs (The Bad Guys), History: https://osu.ppy.sh/mp/101956442
+[03:21:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/216272 CON - Cruel Clocks
+[03:21:42] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:21:42] BanchoBot: Active mods: Freemod
+[03:21:42] BanchoBot: Players: 6
+[03:21:42] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14309415 submissive      [Team Blue / NoFail, Hidden]
+[03:21:42] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10318021 4rou            [Team Blue / NoFail, Hidden]
+[03:21:42] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/3648459 Gaz             [Team Blue / NoFail, HardRock]
+[03:21:42] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13935409 BioTyC          [Team Red  / NoFail, HardRock]
+[03:21:42] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/5850031 Crynless        [Team Red  / NoFail, HardRock]
+[03:21:42] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/4869346 Afmun           [Team Red  / NoFail, Hidden]
+[03:21:44] BCraftMG: !mp start 10
+[03:21:46] BanchoBot: Countdown ends in 5 seconds
+[03:21:46] BanchoBot: Countdown aborted
+[03:21:46] BanchoBot: Match starts in 10 seconds
+[03:21:46] BanchoBot: Queued the match to start in 10 seconds
+[03:21:48] Gaz: glhf
+[03:21:52] BanchoBot: Match starts in 5 seconds
+[03:21:52] BioTyC: glhf
+[03:21:52] 4rou: golf
+[03:21:52] BanchoBot: Match starts in 4 seconds
+[03:21:54] BanchoBot: Match starts in 3 seconds
+[03:21:54] BanchoBot: Good luck, have fun!
+[03:21:56] BanchoBot: The match has started!
+[03:26:35] BanchoBot: submissive finished playing (Score: 715339, PASSED).
+[03:26:35] BanchoBot: Crynless finished playing (Score: 438493, PASSED).
+[03:26:35] BanchoBot: Afmun finished playing (Score: 431666, PASSED).
+[03:26:35] BanchoBot: 4rou finished playing (Score: 1024641, PASSED).
+[03:26:38] BanchoBot: Gaz finished playing (Score: 455081, PASSED).
+[03:26:38] BanchoBot: BioTyC finished playing (Score: 416704, PASSED).
+[03:26:38] BanchoBot: The match has finished!
+[03:26:42] BCraftMG: from :doigby: to :boule: : 4 | 4 : The Bad Guys
+[03:26:44] BCraftMG: The result is a tie. We have to play the tiebreaker.
+[03:26:46] BCraftMG: !mp timer 120
+[03:26:46] BanchoBot: Countdown ends in 2 minutes
+[03:26:53] BanchoBot: Crynless left the game.
+[03:26:59] BCraftMG: !mp mods Freemod NF
+[03:26:59] BanchoBot: Disabled all mods, enabled FreeMod
+[03:27:02] BCraftMG: !mp map 831443 0
+[03:27:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/831443 BoxPlot - Escape With The Clouds
+[03:27:02] BanchoBot: Changed match mode to Osu
+[03:27:03] BCraftMG: !mp timer 120
+[03:27:03] BanchoBot: Countdown aborted
+[03:27:03] BanchoBot: Countdown ends in 2 minutes
+[03:27:18] BanchoBot: Titi- joined in slot 5 for team blue.
+[03:27:22] BanchoBot: MyzeJD joined in slot 7 for team blue.
+[03:27:22] BanchoBot: Afmun left the game.
+[03:27:25] BanchoBot: Titi- moved to slot 6
+[03:27:27] BanchoBot: Titi- moved to slot 5
+[03:27:27] BanchoBot: Titi- changed to Red
+[03:27:29] BanchoBot: MyzeJD changed to Red
+[03:27:33] BanchoBot: MyzeJD moved to slot 6
+[03:28:03] BanchoBot: Countdown ends in 1 minute
+[03:28:13] 4rou: hold on
+[03:28:15] BanchoBot: 4rou left the game.
+[03:28:15] 4rou: brb
+[03:28:17] BanchoBot: submissive left the game.
+[03:28:34] BanchoBot: Countdown ends in 30 seconds
+[03:28:43] BioTyC: yeyye you brb right
+[03:28:45] Titi-: bandes de fdp
+[03:28:53] BanchoBot: Countdown ends in 10 seconds
+[03:28:55] BioTyC: titi calme ça va bien se passer
+[03:28:58] BanchoBot: Countdown ends in 5 seconds
+[03:29:00] BanchoBot: Countdown ends in 4 seconds
+[03:29:00] BanchoBot: Countdown ends in 3 seconds
+[03:29:02] BanchoBot: Countdown ends in 2 seconds
+[03:29:02] BanchoBot: Countdown ends in 1 second
+[03:29:04] BanchoBot: Countdown finished
+[03:29:04] BioTyC: on a juste à jouer et c'est bon
+[03:29:06] BanchoBot: 4rou joined in slot 1 for team blue.
+[03:29:14] BanchoBot: submissive joined in slot 2 for team red.
+[03:29:18] BanchoBot: submissive changed to Blue
+[03:29:27] MyzeJD: glgl
+[03:29:31] 4rou: gl
+[03:29:33] 4rou: goiol
+[03:29:33] 4rou: golf
+[03:29:35] 4rou: egs
+[03:29:37] Gaz: glhf
+[03:29:39] BCraftMG: !mp settings
+[03:29:39] BanchoBot: Room name: STT3: (from :doigby: to :boule:) vs (The Bad Guys), History: https://osu.ppy.sh/mp/101956442
+[03:29:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/831443 BoxPlot - Escape With The Clouds
+[03:29:39] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:29:39] BanchoBot: Active mods: Freemod
+[03:29:39] BanchoBot: Players: 6
+[03:29:39] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/10318021 4rou            [Team Blue / NoFail, Hidden]
+[03:29:39] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14309415 submissive      [Team Blue / NoFail]
+[03:29:39] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/3648459 Gaz             [Team Blue / NoFail]
+[03:29:39] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13935409 BioTyC          [Team Red  / NoFail]
+[03:29:39] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/8284530 Titi-           [Team Red  / NoFail]
+[03:29:39] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Red  / NoFail]
+[03:29:41] BanchoBot: All players are ready
+[03:29:43] BCraftMG: !mp settings
+[03:29:44] BanchoBot: Room name: STT3: (from :doigby: to :boule:) vs (The Bad Guys), History: https://osu.ppy.sh/mp/101956442
+[03:29:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/831443 BoxPlot - Escape With The Clouds
+[03:29:44] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:29:44] BanchoBot: Active mods: Freemod
+[03:29:44] BanchoBot: Players: 6
+[03:29:44] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10318021 4rou            [Team Blue / NoFail, Hidden]
+[03:29:44] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14309415 submissive      [Team Blue / NoFail]
+[03:29:44] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/3648459 Gaz             [Team Blue / NoFail]
+[03:29:44] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13935409 BioTyC          [Team Red  / NoFail]
+[03:29:44] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/8284530 Titi-           [Team Red  / NoFail]
+[03:29:44] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Red  / NoFail]
+[03:29:46] Gaz: sorry this match has taken 5 years
+[03:29:48] BCraftMG: !mp start 10
+[03:29:50] Gaz: most organised tourney team
+[03:29:50] BanchoBot: Match starts in 10 seconds
+[03:29:50] BanchoBot: Queued the match to start in 10 seconds
+[03:29:52] 4rou: ye we apologise
+[03:29:56] BanchoBot: Match starts in 5 seconds
+[03:29:56] BanchoBot: Match starts in 4 seconds
+[03:29:56] submissive: my suffering is over
+[03:29:58] BioTyC: sure
+[03:29:58] BanchoBot: Match starts in 3 seconds
+[03:29:58] BanchoBot: Good luck, have fun!
+[03:30:00] BanchoBot: The match has started!
+[03:30:00] 4rou: hopefully this amount of stalling doesnt happen again
+[03:33:46] 4rou: should i leave
+[03:33:51] 4rou: because there's no hop[e
+[03:33:59] BCraftMG: no
+[03:34:46] BanchoBot: 4rou left the game.
+[03:36:27] BanchoBot: Titi- finished playing (Score: 446758, PASSED).
+[03:36:27] BanchoBot: Gaz finished playing (Score: 392688, PASSED).
+[03:36:29] BanchoBot: submissive finished playing (Score: 438221, PASSED).
+[03:36:29] BanchoBot: BioTyC finished playing (Score: 614546, PASSED).
+[03:36:31] BanchoBot: MyzeJD finished playing (Score: 372561, PASSED).
+[03:36:31] BanchoBot: The match has finished!
+[03:36:36] BCraftMG: from :doigby: to :boule: : 5 | 4 : The Bad Guys
+[03:36:38] BCraftMG: **from :doigby: to :boule: wins the match**
+[03:36:42] BanchoBot: Titi- left the game.
+[03:36:44] submissive: ggwp!
+[03:36:44] BioTyC: thx for ref
+[03:36:49] MyzeJD: ggwp
+[03:36:51] MyzeJD: thx for ref & for match
+[03:36:51] Gaz: ggwp
+[03:36:53] Gaz: ty for ref
+[03:36:53] BanchoBot: Crynless joined in slot 1 for team blue.
+[03:36:57] BioTyC: thx ref for being patient*
+[03:36:59] MyzeJD: have a good day
+[03:37:04] submissive: thx ref
+[03:37:06] BanchoBot: submissive left the game.
+[03:37:10] BioTyC: gg
+[03:37:10] BanchoBot: BioTyC left the game.
+[03:37:12] Crynless: thx ref
+[03:37:14] BanchoBot: MyzeJD left the game.
+[03:37:14] BanchoBot: Crynless left the game.
+[03:37:19] BanchoBot: Gaz left the game.
+[03:37:39] BCraftMG: !mp close
+[03:37:40] BanchoBot: Closed the match

@@ -1,0 +1,506 @@
+[23:54:21] Joined #mp_115595462
+[23:54:21] BCraftMG: !mp settings
+[23:54:23] BanchoBot: Room name: CC5: (Qualifiers) vs (Match I4), History: https://osu.ppy.sh/mp/115595462
+[23:54:23] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[23:54:23] BanchoBot: Players: 0
+[23:54:40] BCraftMG: !mp map 2155805 0
+[23:54:41] BCraftMG: !mp mods 1
+[23:54:41] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2155805 Douglas Robb (Hoobastank) - Fist Bump
+[23:54:41] BanchoBot: Changed match mode to Osu
+[23:54:43] BanchoBot: Enabled NoFail, disabled FreeMod
+[23:54:52] BCraftMG: !mp set 0 3 6
+[23:54:53] BanchoBot: Changed match settings to 6 slots, HeadToHead, ScoreV2
+[23:54:55] BCraftMG: !mp invite #11685498
+[23:54:56] BanchoBot: Invited -ktrihc to the room
+[23:56:40] BanchoBot: -ktrihc joined in slot 1.
+[23:56:54] -ktrihc: hello
+[23:57:03] BCraftMG: hi
+[23:57:06] -ktrihc: who was the original ref?
+[23:57:10] -ktrihc: bastaku?
+[23:57:16] BCraftMG: something came up
+[23:57:22] BCraftMG: im here to replace him
+[23:57:34] -ktrihc: hahaha
+[23:57:35] -ktrihc: sure
+[23:58:20] BanchoBot: vljoy209 joined in slot 2.
+[23:58:36] BanchoBot: -Yuyuko- joined in slot 3.
+[23:58:39] -Yuyuko-: hoal
+[23:58:46] BanchoBot: vljoy209 left the game.
+[23:59:24] BanchoBot: -Yuyuko- left the game.
+[23:59:34] BanchoBot: maTT4132 joined in slot 2.
+[23:59:41] BanchoBot: maTT4132 left the game.
+[23:59:57] BanchoBot: Menoji joined in slot 2.
+[00:00:11] BanchoBot: -ktrihc moved to slot 6
+[00:00:16] BanchoBot: Menoji moved to slot 1
+[00:01:19] BanchoBot: maTT4132 joined in slot 2.
+[00:01:20] BanchoBot: maTT4132 moved to slot 3
+[00:01:21] BanchoBot: maTT4132 moved to slot 2
+[00:01:47] BanchoBot: Christiaaan joined in slot 3.
+[00:01:49] BanchoBot: -ktrihc moved to slot 4
+[00:01:54] BCraftMG: !mp settings
+[00:01:55] BanchoBot: Room name: CC5: (Qualifiers) vs (Match I4), History: https://osu.ppy.sh/mp/115595462
+[00:01:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/2155805 Douglas Robb (Hoobastank) - Fist Bump
+[00:01:55] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:01:55] BanchoBot: Active mods: NoFail
+[00:01:55] BanchoBot: Players: 4
+[00:01:55] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/11034873 Menoji          
+[00:01:55] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/11706972 maTT4132        
+[00:01:55] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/11804019 Christiaaan     
+[00:01:55] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/11685498 -ktrihc         
+[00:02:03] BanchoBot: All players are ready
+[00:02:03] BanchoBot: vljoy209 joined in slot 5.
+[00:02:13] BCraftMG: i wont be putting timer in between maps, but dont take too much time
+[00:02:19] BanchoBot: -ktrihc moved to slot 6
+[00:02:19] BanchoBot: Christiaaan left the game.
+[00:02:21] BanchoBot: -ktrihc moved to slot 3
+[00:02:25] BCraftMG: !mp settings
+[00:02:25] BanchoBot: Room name: CC5: (Qualifiers) vs (Match I4), History: https://osu.ppy.sh/mp/115595462
+[00:02:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/2155805 Douglas Robb (Hoobastank) - Fist Bump
+[00:02:25] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:02:25] BanchoBot: Active mods: NoFail
+[00:02:25] BanchoBot: Players: 4
+[00:02:25] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11034873 Menoji          
+[00:02:25] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11706972 maTT4132        
+[00:02:25] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11685498 -ktrihc         
+[00:02:25] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/16870029 vljoy209        
+[00:02:39] BCraftMG: ill start when yall ready
+[00:02:47] BanchoBot: vljoy209 moved to slot 4
+[00:02:55] Menoji: glglgl
+[00:03:00] maTT4132: glgl
+[00:03:01] -ktrihc: thank you
+[00:03:04] -ktrihc: glgl
+[00:03:07] -ktrihc: vljoy209
+[00:03:09] BanchoBot: vljoy209 left the game.
+[00:03:11] maTT4132: erm
+[00:03:14] -ktrihc: wtf
+[00:03:57] maTT4132: err
+[00:04:04] Menoji: we dont know why he left
+[00:04:20] BCraftMG: this is a 4v4 so
+[00:04:23] BanchoBot: Christiaaan joined in slot 4.
+[00:04:34] BanchoBot: All players are ready
+[00:04:37] maTT4132: glgl
+[00:04:38] BCraftMG: !mp settings
+[00:04:39] -ktrihc: yes yes
+[00:04:39] BanchoBot: Room name: CC5: (Qualifiers) vs (Match I4), History: https://osu.ppy.sh/mp/115595462
+[00:04:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/2155805 Douglas Robb (Hoobastank) - Fist Bump
+[00:04:39] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:04:39] BanchoBot: Active mods: NoFail
+[00:04:39] BanchoBot: Players: 4
+[00:04:39] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11034873 Menoji          
+[00:04:39] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11706972 maTT4132        
+[00:04:39] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11685498 -ktrihc         
+[00:04:39] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11804019 Christiaaan     
+[00:04:39] BCraftMG: !mp start 5 glhf
+[00:04:40] -ktrihc: glgl
+[00:04:40] BanchoBot: Match starts in 5 seconds
+[00:04:40] BanchoBot: Queued the match to start in 5 seconds
+[00:04:42] BanchoBot: Match starts in 4 seconds
+[00:04:43] BanchoBot: Match starts in 3 seconds
+[00:04:44] BanchoBot: Good luck, have fun!
+[00:04:46] BanchoBot: The match has started!
+[00:05:21] BanchoBot: vljoy209 joined in slot 5.
+[00:05:25] BanchoBot: vljoy209 left the game.
+[00:09:16] BanchoBot: Menoji finished playing (Score: 622047, PASSED).
+[00:09:16] BanchoBot: -ktrihc finished playing (Score: 636740, PASSED).
+[00:09:17] BanchoBot: maTT4132 finished playing (Score: 422432, PASSED).
+[00:09:17] BanchoBot: Christiaaan finished playing (Score: 456043, PASSED).
+[00:09:17] BanchoBot: The match has finished!
+[00:09:22] BCraftMG: !mp map 2940824 0
+[00:09:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2940824 DUAL ALTER WORLD - Veracila
+[00:09:23] BanchoBot: Changed match mode to Osu
+[00:09:23] BCraftMG: !mp timer 120
+[00:09:24] BanchoBot: Countdown ends in 2 minutes
+[00:09:26] BanchoBot: maTT4132 left the game.
+[00:09:31] BanchoBot: -Yuyuko- joined in slot 2.
+[00:09:37] BanchoBot: -Yuyuko- left the game.
+[00:09:41] BCraftMG: !mp aborttimer
+[00:09:42] BanchoBot: Countdown aborted
+[00:09:56] BanchoBot: maTT4132 joined in slot 2.
+[00:10:03] BanchoBot: vljoy209 joined in slot 5.
+[00:10:16] BanchoBot: -ktrihc left the game.
+[00:10:21] BanchoBot: vljoy209 moved to slot 3
+[00:10:26] BanchoBot: All players are ready
+[00:10:27] BCraftMG: !mp settings
+[00:10:29] BanchoBot: Room name: CC5: (Qualifiers) vs (Match I4), History: https://osu.ppy.sh/mp/115595462
+[00:10:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/2940824 DUAL ALTER WORLD - Veracila
+[00:10:29] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:10:29] BanchoBot: Active mods: NoFail
+[00:10:29] BanchoBot: Players: 4
+[00:10:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11034873 Menoji          
+[00:10:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11706972 maTT4132        
+[00:10:29] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16870029 vljoy209        
+[00:10:29] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11804019 Christiaaan     
+[00:10:29] BCraftMG: !mp start 5 glhf
+[00:10:30] maTT4132: glhf!
+[00:10:30] BanchoBot: Match starts in 5 seconds
+[00:10:30] BanchoBot: Queued the match to start in 5 seconds
+[00:10:31] BanchoBot: Match starts in 4 seconds
+[00:10:31] Menoji: glglg
+[00:10:33] BanchoBot: Match starts in 3 seconds
+[00:10:34] BanchoBot: Good luck, have fun!
+[00:10:36] BanchoBot: The match has started!
+[00:14:26] BanchoBot: Christiaaan finished playing (Score: 506591, PASSED).
+[00:14:28] BanchoBot: maTT4132 finished playing (Score: 572082, PASSED).
+[00:14:28] BanchoBot: Menoji finished playing (Score: 671109, PASSED).
+[00:14:28] BanchoBot: vljoy209 finished playing (Score: 782546, PASSED).
+[00:14:28] BanchoBot: The match has finished!
+[00:14:34] BCraftMG: !mp map 4654341 0
+[00:14:35] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4654341 AZKi - Intersection
+[00:14:35] BanchoBot: Changed match mode to Osu
+[00:14:35] BCraftMG: !mp timer 120
+[00:14:36] BanchoBot: Countdown ends in 2 minutes
+[00:14:45] BanchoBot: -ktrihc joined in slot 5.
+[00:14:51] BCraftMG: !mp aborttimer
+[00:14:52] BanchoBot: Christiaaan left the game.
+[00:14:52] BanchoBot: Countdown aborted
+[00:14:53] BCraftMG: argh
+[00:15:31] BanchoBot: -ktrihc moved to slot 4
+[00:15:31] BanchoBot: vljoy209 left the game.
+[00:15:47] BanchoBot: Jotmo joined in slot 3.
+[00:15:57] Jotmo: hello world
+[00:16:05] maTT4132: glgl
+[00:16:05] Menoji: glgl
+[00:16:09] BanchoBot: All players are ready
+[00:16:10] BCraftMG: !mp settings
+[00:16:11] BanchoBot: Room name: CC5: (Qualifiers) vs (Match I4), History: https://osu.ppy.sh/mp/115595462
+[00:16:11] BanchoBot: Beatmap: https://osu.ppy.sh/b/4654341 AZKi - Intersection
+[00:16:11] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:16:11] BanchoBot: Active mods: NoFail
+[00:16:11] BanchoBot: Players: 4
+[00:16:11] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11034873 Menoji          
+[00:16:11] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11706972 maTT4132        
+[00:16:11] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10516802 Jotmo           
+[00:16:11] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11685498 -ktrihc         
+[00:16:11] BCraftMG: !mp start 5 glhf
+[00:16:12] Jotmo: gl
+[00:16:12] BanchoBot: Match starts in 5 seconds
+[00:16:12] BanchoBot: Queued the match to start in 5 seconds
+[00:16:13] -ktrihc: glglgl
+[00:16:13] BanchoBot: Match starts in 4 seconds
+[00:16:15] BanchoBot: Match starts in 3 seconds
+[00:16:16] BanchoBot: Good luck, have fun!
+[00:16:18] BanchoBot: The match has started!
+[00:16:31] BanchoBot: vljoy209 joined in slot 5.
+[00:16:48] BanchoBot: vljoy209 left the game.
+[00:19:55] BanchoBot: Jotmo finished playing (Score: 378602, PASSED).
+[00:19:55] BanchoBot: -ktrihc finished playing (Score: 977733, PASSED).
+[00:19:57] BanchoBot: maTT4132 finished playing (Score: 379617, PASSED).
+[00:19:57] BanchoBot: Menoji finished playing (Score: 383099, PASSED).
+[00:19:57] BanchoBot: The match has finished!
+[00:20:02] BCraftMG: !mp map 4187148 0
+[00:20:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4187148 Silentroom - NULCTRL (factal Remix)
+[00:20:02] BanchoBot: Changed match mode to Osu
+[00:20:25] BanchoBot: Menoji left the game.
+[00:20:28] BanchoBot: RAiMEi_BOTTliUM joined in slot 1.
+[00:20:36] BanchoBot: Jotmo moved to slot 6
+[00:20:54] BanchoBot: vljoy209 joined in slot 3.
+[00:20:59] BanchoBot: Jotmo left the game.
+[00:21:39] BanchoBot: All players are ready
+[00:21:44] RAiMEi_BOTTliUM: glhf
+[00:21:45] maTT4132: glgl
+[00:21:52] BCraftMG: !mp settings
+[00:21:53] BanchoBot: Room name: CC5: (Qualifiers) vs (Match I4), History: https://osu.ppy.sh/mp/115595462
+[00:21:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/4187148 Silentroom - NULCTRL (factal Remix)
+[00:21:53] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:21:53] BanchoBot: Active mods: NoFail
+[00:21:53] BanchoBot: Players: 4
+[00:21:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18212788 RAiMEi_BOTTliUM 
+[00:21:53] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11706972 maTT4132        
+[00:21:53] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16870029 vljoy209        
+[00:21:53] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11685498 -ktrihc         
+[00:21:53] BCraftMG: !mp start 5 glhf
+[00:21:54] BanchoBot: Match starts in 5 seconds
+[00:21:54] BanchoBot: Queued the match to start in 5 seconds
+[00:21:55] BanchoBot: Match starts in 4 seconds
+[00:21:57] BanchoBot: Match starts in 3 seconds
+[00:21:58] BanchoBot: Good luck, have fun!
+[00:21:58] -ktrihc: glgl
+[00:22:00] BanchoBot: The match has started!
+[00:25:04] BanchoBot: vljoy209 finished playing (Score: 488561, PASSED).
+[00:25:04] BanchoBot: RAiMEi_BOTTliUM finished playing (Score: 334926, PASSED).
+[00:25:05] BanchoBot: -ktrihc finished playing (Score: 422489, PASSED).
+[00:25:05] BanchoBot: maTT4132 finished playing (Score: 318072, PASSED).
+[00:25:05] BanchoBot: The match has finished!
+[00:25:23] BanchoBot: maTT4132 left the game.
+[00:25:45] BanchoBot: Menoji joined in slot 2.
+[00:25:51] BCraftMG: !mp map 3679870 0
+[00:25:52] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3679870 Srav3R - Hereafter (feat. shully)
+[00:25:52] BanchoBot: Changed match mode to Osu
+[00:25:53] BCraftMG: !mp mods 9
+[00:25:54] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[00:26:04] BanchoBot: vljoy209 left the game.
+[00:26:33] BanchoBot: vljoy209 joined in slot 3.
+[00:26:46] BanchoBot: All players are ready
+[00:26:50] -ktrihc: glgl
+[00:26:51] RAiMEi_BOTTliUM: glhf
+[00:26:55] BCraftMG: !mp settings
+[00:26:56] Menoji: glgl
+[00:26:56] BanchoBot: Room name: CC5: (Qualifiers) vs (Match I4), History: https://osu.ppy.sh/mp/115595462
+[00:26:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/3679870 Srav3R - Hereafter (feat. shully)
+[00:26:56] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:26:56] BanchoBot: Active mods: NoFail, Hidden
+[00:26:56] BanchoBot: Players: 4
+[00:26:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18212788 RAiMEi_BOTTliUM 
+[00:26:56] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11034873 Menoji          
+[00:26:56] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16870029 vljoy209        
+[00:26:56] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11685498 -ktrihc         
+[00:26:57] BCraftMG: !mp start 5 glhf
+[00:26:57] BanchoBot: Match starts in 5 seconds
+[00:26:57] BanchoBot: Queued the match to start in 5 seconds
+[00:26:59] BanchoBot: Match starts in 4 seconds
+[00:27:00] BanchoBot: Match starts in 3 seconds
+[00:27:02] BanchoBot: Good luck, have fun!
+[00:27:03] BanchoBot: The match has started!
+[00:31:05] BanchoBot: RAiMEi_BOTTliUM finished playing (Score: 296221, PASSED).
+[00:31:05] BanchoBot: vljoy209 finished playing (Score: 346069, PASSED).
+[00:31:05] BanchoBot: -ktrihc finished playing (Score: 340798, PASSED).
+[00:31:07] BanchoBot: Menoji finished playing (Score: 415244, PASSED).
+[00:31:07] BanchoBot: The match has finished!
+[00:31:10] BCraftMG: !mp map 4010621 0
+[00:31:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4010621 Bronco (El Gigante de America) - Chocheman
+[00:31:11] BanchoBot: Changed match mode to Osu
+[00:31:23] BanchoBot: vljoy209 left the game.
+[00:31:23] BanchoBot: Menoji left the game.
+[00:31:39] BanchoBot: Jotmo joined in slot 2.
+[00:31:51] BanchoBot: -Yuyuko- joined in slot 3.
+[00:32:03] Jotmo: el chocheman
+[00:32:07] BanchoBot: All players are ready
+[00:32:16] BanchoBot: vljoy209 joined in slot 5.
+[00:32:18] BCraftMG: !mp settings
+[00:32:20] BanchoBot: Room name: CC5: (Qualifiers) vs (Match I4), History: https://osu.ppy.sh/mp/115595462
+[00:32:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/4010621 Bronco (El Gigante de America) - Chocheman
+[00:32:20] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:32:20] BanchoBot: Active mods: NoFail, Hidden
+[00:32:20] BanchoBot: Players: 5
+[00:32:20] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18212788 RAiMEi_BOTTliUM 
+[00:32:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10516802 Jotmo           
+[00:32:20] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6482909 -Yuyuko-        
+[00:32:20] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11685498 -ktrihc         
+[00:32:20] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/16870029 vljoy209        
+[00:32:31] BanchoBot: vljoy209 left the game.
+[00:32:33] BCraftMG: !mp settings
+[00:32:34] BanchoBot: Room name: CC5: (Qualifiers) vs (Match I4), History: https://osu.ppy.sh/mp/115595462
+[00:32:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/4010621 Bronco (El Gigante de America) - Chocheman
+[00:32:34] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:32:34] BanchoBot: Active mods: NoFail, Hidden
+[00:32:34] BanchoBot: Players: 4
+[00:32:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18212788 RAiMEi_BOTTliUM 
+[00:32:34] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10516802 Jotmo           
+[00:32:34] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6482909 -Yuyuko-        
+[00:32:34] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11685498 -ktrihc         
+[00:32:35] BCraftMG: !mp start 5 glhf
+[00:32:36] BanchoBot: Match starts in 5 seconds
+[00:32:36] BanchoBot: Queued the match to start in 5 seconds
+[00:32:37] RAiMEi_BOTTliUM: glhf
+[00:32:37] BanchoBot: Match starts in 4 seconds
+[00:32:38] Jotmo: glgl
+[00:32:38] BanchoBot: Match starts in 3 seconds
+[00:32:40] BanchoBot: Good luck, have fun!
+[00:32:41] BanchoBot: The match has started!
+[00:32:41] -Yuyuko-: golf
+[00:35:22] BanchoBot: Jotmo finished playing (Score: 430819, PASSED).
+[00:35:22] BanchoBot: -ktrihc finished playing (Score: 372322, PASSED).
+[00:35:23] BanchoBot: -Yuyuko- finished playing (Score: 464155, PASSED).
+[00:35:25] BanchoBot: RAiMEi_BOTTliUM finished playing (Score: 372978, PASSED).
+[00:35:25] BanchoBot: The match has finished!
+[00:35:31] BanchoBot: RAiMEi_BOTTliUM left the game.
+[00:35:32] BCraftMG: !mp map 4069029 0
+[00:35:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4069029 Yorushika - Semi-Transparent Boy
+[00:35:34] BanchoBot: Changed match mode to Osu
+[00:35:35] BCraftMG: !mp mods 17
+[00:35:37] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[00:35:54] BanchoBot: maTT4132 joined in slot 1.
+[00:35:56] BanchoBot: Christiaaan joined in slot 5.
+[00:35:57] BanchoBot: Jotmo moved to slot 6
+[00:35:59] BanchoBot: Jotmo left the game.
+[00:36:04] BanchoBot: Menoji joined in slot 2.
+[00:36:12] BanchoBot: -ktrihc moved to slot 6
+[00:36:16] BanchoBot: Christiaaan moved to slot 4
+[00:36:19] BanchoBot: -Yuyuko- left the game.
+[00:36:26] BanchoBot: Christiaaan moved to slot 3
+[00:36:54] BanchoBot: vljoy209 joined in slot 4.
+[00:36:56] BanchoBot: -ktrihc left the game.
+[00:37:17] BanchoBot: All players are ready
+[00:37:30] maTT4132: glgl
+[00:37:35] Menoji: GLGL
+[00:37:48] BCraftMG: !mp settings
+[00:37:50] Christiaaan: glgl
+[00:37:50] BanchoBot: Room name: CC5: (Qualifiers) vs (Match I4), History: https://osu.ppy.sh/mp/115595462
+[00:37:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/4069029 Yorushika - Semi-Transparent Boy
+[00:37:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:37:50] BanchoBot: Active mods: NoFail, HardRock
+[00:37:50] BanchoBot: Players: 4
+[00:37:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11706972 maTT4132        
+[00:37:50] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11034873 Menoji          
+[00:37:50] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11804019 Christiaaan     
+[00:37:50] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16870029 vljoy209        
+[00:37:51] BCraftMG: !mp start 5 glhf
+[00:37:51] BanchoBot: Match starts in 5 seconds
+[00:37:51] BanchoBot: Queued the match to start in 5 seconds
+[00:37:53] BanchoBot: Match starts in 4 seconds
+[00:37:54] BanchoBot: Match starts in 3 seconds
+[00:37:55] BanchoBot: Good luck, have fun!
+[00:37:57] BanchoBot: The match has started!
+[00:42:46] BanchoBot: vljoy209 finished playing (Score: 558858, PASSED).
+[00:42:46] BanchoBot: Menoji finished playing (Score: 502079, PASSED).
+[00:42:46] BanchoBot: Christiaaan finished playing (Score: 384777, PASSED).
+[00:42:47] BanchoBot: maTT4132 finished playing (Score: 569935, PASSED).
+[00:42:47] BanchoBot: The match has finished!
+[00:42:50] BCraftMG: !mp map 2270319 0
+[00:42:50] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2270319 Cranky - Libera me
+[00:42:50] BanchoBot: Changed match mode to Osu
+[00:43:06] BanchoBot: Christiaaan left the game.
+[00:43:09] BanchoBot: -ktrihc joined in slot 3.
+[00:43:13] BanchoBot: maTT4132 left the game.
+[00:43:41] BanchoBot: Jotmo joined in slot 1.
+[00:43:42] BanchoBot: Menoji left the game.
+[00:43:42] BanchoBot: -Yuyuko- joined in slot 2.
+[00:43:56] BanchoBot: All players are ready
+[00:43:59] BCraftMG: !mp settings
+[00:44:01] BanchoBot: Room name: CC5: (Qualifiers) vs (Match I4), History: https://osu.ppy.sh/mp/115595462
+[00:44:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/2270319 Cranky - Libera me
+[00:44:01] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:44:01] BanchoBot: Active mods: NoFail, HardRock
+[00:44:01] BanchoBot: Players: 4
+[00:44:01] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10516802 Jotmo           
+[00:44:01] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6482909 -Yuyuko-        
+[00:44:01] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11685498 -ktrihc         
+[00:44:01] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16870029 vljoy209        
+[00:44:01] BCraftMG: !mp start 5 glhf
+[00:44:02] BanchoBot: Match starts in 5 seconds
+[00:44:02] BanchoBot: Queued the match to start in 5 seconds
+[00:44:04] BanchoBot: Match starts in 4 seconds
+[00:44:05] BanchoBot: Match starts in 3 seconds
+[00:44:05] Jotmo: glgl
+[00:44:07] BanchoBot: Good luck, have fun!
+[00:44:08] BanchoBot: The match has started!
+[00:46:45] BanchoBot: Jotmo finished playing (Score: 592135, PASSED).
+[00:46:45] BanchoBot: vljoy209 finished playing (Score: 489624, PASSED).
+[00:46:45] BanchoBot: -Yuyuko- finished playing (Score: 502460, PASSED).
+[00:46:46] BanchoBot: -ktrihc finished playing (Score: 893852, PASSED).
+[00:46:46] BanchoBot: The match has finished!
+[00:46:52] BCraftMG: !mp map 431147 0
+[00:46:52] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/431147 Sakamoto Maaya - Okaerinasai (tomatomerde Remix)
+[00:46:52] BanchoBot: Changed match mode to Osu
+[00:47:00] BCraftMG: !mp mods 65
+[00:47:01] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[00:47:05] BanchoBot: -Yuyuko- left the game.
+[00:47:08] BanchoBot: -ktrihc left the game.
+[00:47:09] BanchoBot: Jotmo left the game.
+[00:47:14] BanchoBot: Christiaaan joined in slot 1.
+[00:47:16] BanchoBot: Menoji joined in slot 2.
+[00:47:21] BanchoBot: vljoy209 moved to slot 3
+[00:48:10] BanchoBot: maTT4132 joined in slot 4.
+[00:48:28] BanchoBot: All players are ready
+[00:48:38] Christiaaan: gl
+[00:48:40] Menoji: glgl
+[00:48:41] maTT4132: glgl
+[00:48:45] BCraftMG: !mp settings
+[00:48:46] BanchoBot: Room name: CC5: (Qualifiers) vs (Match I4), History: https://osu.ppy.sh/mp/115595462
+[00:48:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/431147 Sakamoto Maaya - Okaerinasai (tomatomerde Remix)
+[00:48:46] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:48:46] BanchoBot: Active mods: NoFail, DoubleTime
+[00:48:46] BanchoBot: Players: 4
+[00:48:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11804019 Christiaaan     
+[00:48:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11034873 Menoji          
+[00:48:46] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16870029 vljoy209        
+[00:48:46] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11706972 maTT4132        
+[00:48:47] BCraftMG: !mp start 5 glhf
+[00:48:47] BanchoBot: Match starts in 5 seconds
+[00:48:47] BanchoBot: Queued the match to start in 5 seconds
+[00:48:49] BanchoBot: Match starts in 4 seconds
+[00:48:50] BanchoBot: Match starts in 3 seconds
+[00:48:52] BanchoBot: Good luck, have fun!
+[00:48:53] BanchoBot: The match has started!
+[00:52:52] BanchoBot: maTT4132 finished playing (Score: 898298, PASSED).
+[00:52:52] BanchoBot: Christiaaan finished playing (Score: 431576, PASSED).
+[00:52:53] BanchoBot: Menoji finished playing (Score: 613425, PASSED).
+[00:52:54] BanchoBot: vljoy209 finished playing (Score: 624373, PASSED).
+[00:52:54] BanchoBot: The match has finished!
+[00:52:56] BCraftMG: !mp map 3902731 0
+[00:52:56] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3902731 TJ Davis - Can You Feel the Sunshine?
+[00:52:56] BanchoBot: Changed match mode to Osu
+[00:53:16] BanchoBot: maTT4132 left the game.
+[00:53:58] BanchoBot: -ktrihc joined in slot 4.
+[00:54:35] BanchoBot: All players are ready
+[00:54:38] Menoji: glgl
+[00:54:43] BCraftMG: !mp settings
+[00:54:43] -ktrihc: glgl
+[00:54:43] BanchoBot: Room name: CC5: (Qualifiers) vs (Match I4), History: https://osu.ppy.sh/mp/115595462
+[00:54:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/3902731 TJ Davis - Can You Feel the Sunshine?
+[00:54:43] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:54:43] BanchoBot: Active mods: NoFail, DoubleTime
+[00:54:43] BanchoBot: Players: 4
+[00:54:43] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11804019 Christiaaan     
+[00:54:43] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11034873 Menoji          
+[00:54:43] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16870029 vljoy209        
+[00:54:43] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11685498 -ktrihc         
+[00:54:44] BCraftMG: !mp start 5 glhf
+[00:54:45] BanchoBot: Match starts in 5 seconds
+[00:54:45] BanchoBot: Queued the match to start in 5 seconds
+[00:54:46] BanchoBot: Match starts in 4 seconds
+[00:54:48] BanchoBot: Match starts in 3 seconds
+[00:54:49] BanchoBot: Good luck, have fun!
+[00:54:50] BanchoBot: The match has started!
+[00:58:13] BanchoBot: Menoji finished playing (Score: 595728, PASSED).
+[00:58:13] BanchoBot: vljoy209 finished playing (Score: 964531, PASSED).
+[00:58:13] BanchoBot: -ktrihc finished playing (Score: 297823, PASSED).
+[00:58:13] BanchoBot: Christiaaan finished playing (Score: 581638, PASSED).
+[00:58:13] BanchoBot: The match has finished!
+[00:58:17] BCraftMG: !mp map 1124630 0
+[00:58:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1124630 Feint - We Won't Be Alone (feat. Laura Brehm)
+[00:58:17] BanchoBot: Changed match mode to Osu
+[00:58:20] BanchoBot: maTT4132 joined in slot 5.
+[00:58:22] BCraftMG: !mp mods 3
+[00:58:23] BanchoBot: Enabled NoFail, Easy, disabled FreeMod
+[00:58:28] BanchoBot: Christiaaan left the game.
+[00:58:28] BanchoBot: vljoy209 left the game.
+[00:58:30] BanchoBot: Menoji left the game.
+[00:58:40] BanchoBot: RAiMEi_BOTTliUM joined in slot 1.
+[00:58:49] BanchoBot: maTT4132 moved to slot 2
+[00:59:18] BanchoBot: Jotmo joined in slot 3.
+[00:59:37] -ktrihc: 1 min
+[00:59:41] BanchoBot: Jotmo moved to slot 6
+[00:59:42] BanchoBot: Jotmo left the game.
+[00:59:55] BanchoBot: -Yuyuko- joined in slot 3.
+[01:00:25] maTT4132: -ktrihc here?
+[01:00:50] -ktrihc: nono
+[01:00:55] -ktrihc: 1 min
+[01:00:55] -Yuyuko-: he's not here !!!
+[01:00:57] -Yuyuko-: :tt:
+[01:01:34] BanchoBot: -Yuyuko- left the game.
+[01:02:13] BanchoBot: -Yuyuko- joined in slot 3.
+[01:02:32] -ktrihc: im bnack
+[01:02:41] BanchoBot: All players are ready
+[01:02:45] RAiMEi_BOTTliUM: glhf
+[01:02:46] BCraftMG: !mp settings
+[01:02:47] BanchoBot: Room name: CC5: (Qualifiers) vs (Match I4), History: https://osu.ppy.sh/mp/115595462
+[01:02:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/1124630 Feint - We Won't Be Alone (feat. Laura Brehm)
+[01:02:47] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:02:47] BanchoBot: Active mods: NoFail, Easy
+[01:02:47] BanchoBot: Players: 4
+[01:02:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18212788 RAiMEi_BOTTliUM 
+[01:02:47] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11706972 maTT4132        
+[01:02:47] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6482909 -Yuyuko-        
+[01:02:47] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11685498 -ktrihc         
+[01:02:47] BCraftMG: !mp start 5 glhf
+[01:02:48] BanchoBot: Match starts in 5 seconds
+[01:02:48] BanchoBot: Queued the match to start in 5 seconds
+[01:02:49] BanchoBot: Match starts in 4 seconds
+[01:02:51] BanchoBot: Match starts in 3 seconds
+[01:02:52] BanchoBot: Good luck, have fun!
+[01:02:54] BanchoBot: The match has started!
+[01:06:08] BanchoBot: -Yuyuko- finished playing (Score: 235551, PASSED).
+[01:06:08] BanchoBot: maTT4132 finished playing (Score: 336267, PASSED).
+[01:06:11] BanchoBot: -ktrihc finished playing (Score: 248764, PASSED).
+[01:06:16] BanchoBot: RAiMEi_BOTTliUM finished playing (Score: 329796, PASSED).
+[01:06:16] BanchoBot: The match has finished!
+[01:06:40] maTT4132: ty for ref
+[01:06:41] BanchoBot: maTT4132 left the game.
+[01:06:50] -Yuyuko-: thx for the ref
+[01:06:50] RAiMEi_BOTTliUM: ty for ref!
+[01:06:50] -ktrihc: ty for refff
+[01:06:54] BanchoBot: -Yuyuko- left the game.
+[01:06:54] BanchoBot: RAiMEi_BOTTliUM left the game.
+[01:07:10] BanchoBot: -ktrihc left the game.
+[01:07:53] BCraftMG: !mp close
+[01:07:54] BanchoBot: Closed the match

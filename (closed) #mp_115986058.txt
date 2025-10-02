@@ -1,0 +1,710 @@
+[03:52:51] Joined #mp_115986058
+[03:52:51] BCraftMG: !mp settings
+[03:52:52] BanchoBot: Room name: s!CL F24: (Washington University in St. Louis A) vs (College of Staten Island A), History: https://osu.ppy.sh/mp/115986058
+[03:52:52] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[03:52:52] BanchoBot: Players: 0
+[03:53:09] BCraftMG: !mp set 2 3 8
+[03:53:09] BanchoBot: Changed match settings to 8 slots, TeamVs, ScoreV2
+[03:53:12] BCraftMG: !mp set 2 3 6
+[03:53:13] BanchoBot: Changed match settings to 6 slots, TeamVs, ScoreV2
+[03:54:37] BCraftMG: !mp invite #4388347
+[03:54:38] BanchoBot: Invited striFE36 to the room
+[03:54:39] BCraftMG: !mp invite #13327696
+[03:54:40] BanchoBot: Invited Want Some Candy to the room
+[03:55:20] BCraftMG: !mp map 3895683
+[03:55:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3895683 rN - Harumachi Elevator
+[03:58:04] BanchoBot: Want Some Candy joined in slot 1 for team blue.
+[03:58:09] BCraftMG: !mp addref byvans
+[03:58:09] BanchoBot: Want Some Candy left the game.
+[03:58:09] BanchoBot: User not found: byvans
+[03:58:16] BanchoBot: Want Some Candy joined in slot 1 for team blue.
+[03:58:22] BCraftMG: !mp addref bvyans
+[03:58:23] BanchoBot: Added bvyans to the match referees
+[03:58:59] BanchoBot: Want Some Candy moved to slot 3
+[03:59:05] BCraftMG: :p hi
+[03:59:06] Want_Some_Candy: is this mathc being streamed
+[03:59:16] BCraftMG: yes i think
+[03:59:21] BCraftMG: streamer setting up
+[04:02:02] BanchoBot: striFE36 joined in slot 1 for team blue.
+[04:02:13] BCraftMG: hi hi
+[04:02:28] BCraftMG: no one send me any maps so we can go to rolls
+[04:02:39] BanchoBot: Want Some Candy left the game.
+[04:02:46] BCraftMG: foswag;dsa
+[04:02:53] BanchoBot: Want Some Candy joined in slot 2 for team red.
+[04:02:57] BanchoBot: Want Some Candy moved to slot 3
+[04:03:00] striFE36: huh
+[04:03:05] BCraftMG: Washington University in St. Louis A: red team and slots 1-2 // College of Staten Island A: blue team and slots 3-4
+[04:03:10] striFE36: sry my cursor is gone
+[04:03:11] striFE36: can i restart
+[04:03:11] BCraftMG: please do !roll
+[04:03:18] BCraftMG: yea yea
+[04:03:18] striFE36: !roll
+[04:03:18] BanchoBot: striFE36 rolls 2 point(s)
+[04:03:23] BCraftMG: skull
+[04:03:23] striFE36: Ssdfsdfsjidofjosidfioj
+[04:03:23] Want_Some_Candy: !roll
+[04:03:23] BanchoBot: Want Some Candy rolls 92 point(s)
+[04:03:29] BanchoBot: MyAngel Ritsuko joined in slot 2 for team red.
+[04:03:30] Want_Some_Candy: LMFAO
+[04:03:31] Want_Some_Candy: unlucky
+[04:03:37] BanchoBot: Want Some Candy moved to slot 4
+[04:03:39] BanchoBot: striFE36 left the game.
+[04:03:41] BCraftMG: Blue choose ban or pick order
+[04:03:42] BanchoBot: MyAngel Ritsuko moved to slot 3
+[04:03:53] Want_Some_Candy: we take first pick btw
+[04:03:55] BanchoBot: BossyBear joined in slot 1 for team blue.
+[04:04:07] BCraftMG: !mp invite #4388347
+[04:04:07] BanchoBot: Invited striFE36 to the room
+[04:04:43] BCraftMG: BossyBear can you proceed with picks and bans for now
+[04:04:45] Want_Some_Candy: we ban second right
+[04:04:53] BCraftMG: higher roll decides pick/ban order, loser decides the remaining one
+[04:05:01] BCraftMG: so Red choose ban order now
+[04:05:02] BossyBear: hello
+[04:05:09] Want_Some_Candy: we choose 2nd ban
+[04:05:10] BanchoBot: BossyBear4 joined in slot 2 for team red.
+[04:05:16] BanchoBot: MyAngel Ritsuko changed to Blue
+[04:05:16] BanchoBot: BossyBear4 changed to Blue
+[04:05:18] Want_Some_Candy: oh wait no
+[04:05:20] Want_Some_Candy: wre blue
+[04:05:21] Want_Some_Candy: mb
+[04:05:21] Want_Some_Candy: xd
+[04:05:22] BanchoBot: Want Some Candy changed to Blue
+[04:05:26] BCraftMG: uhh, you chose first pick earlier lol
+[04:05:26] BanchoBot: BossyBear4 changed to Red
+[04:05:31] BanchoBot: BossyBear changed to Red
+[04:05:35] BanchoBot: striFE36 joined in slot 5 for team blue.
+[04:05:39] Want_Some_Candy: yeah
+[04:05:39] Want_Some_Candy: mb
+[04:05:43] BCraftMG: hey
+[04:05:56] BossyBear: uhh
+[04:05:59] BCraftMG: Can you choose ban order @striFE36
+[04:06:06] BCraftMG: your opponent chose first pick
+[04:06:06] striFE36: ban second
+[04:06:13] BCraftMG: First Ban: College of Staten Island A
+[04:06:19] BCraftMG: !mp timer 120
+[04:06:20] BanchoBot: Countdown ends in 2 minutes
+[04:06:28] BCraftMG: !mp timer 90
+[04:06:29] BanchoBot: Countdown aborted
+[04:06:29] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[04:07:00] BanchoBot: Countdown ends in 1 minute
+[04:07:03] Want_Some_Candy: fm2
+[04:07:03] Want_Some_Candy: ban
+[04:07:10] BCraftMG: Next Ban: Washington University in St. Louis A
+[04:07:12] BCraftMG: !mp timer 90
+[04:07:13] BanchoBot: Countdown aborted
+[04:07:13] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[04:07:17] striFE36: dt2
+[04:07:23] BCraftMG: Washington University in St. Louis A | 0 - 0 | College of Staten Island A // Bo9 - First Pick: College of Staten Island A
+[04:07:26] BCraftMG: !mp timer 90
+[04:07:27] BanchoBot: Countdown aborted
+[04:07:27] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[04:07:58] BanchoBot: Countdown ends in 1 minute
+[04:08:24] BanchoBot: striFE36 left the game.
+[04:08:27] BanchoBot: Countdown ends in 30 seconds
+[04:08:32] Want_Some_Candy: nm2
+[04:08:38] BCraftMG: !mp map 2810175 0
+[04:08:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2810175 Maxo - Forsaken City (Sever the Skyline Mix)
+[04:08:39] BanchoBot: Changed match mode to Osu
+[04:08:41] BCraftMG: !mp mods 1
+[04:08:42] BanchoBot: Enabled NoFail, disabled FreeMod
+[04:08:43] BCraftMG: !mp timer 90
+[04:08:44] BanchoBot: Countdown aborted
+[04:08:44] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[04:09:14] BanchoBot: Countdown ends in 1 minute
+[04:09:24] BanchoBot: BossyBear4 left the game.
+[04:09:30] BanchoBot: striFE36 joined in slot 2 for team red.
+[04:09:44] BanchoBot: Countdown ends in 30 seconds
+[04:10:04] BanchoBot: Countdown ends in 10 seconds
+[04:10:10] BanchoBot: Countdown ends in 5 seconds
+[04:10:10] BanchoBot: Countdown ends in 4 seconds
+[04:10:11] BanchoBot: Countdown ends in 3 seconds
+[04:10:12] BanchoBot: Countdown ends in 2 seconds
+[04:10:13] BanchoBot: All players are ready
+[04:10:13] BanchoBot: Countdown ends in 1 second
+[04:10:15] BossyBear: glgl
+[04:10:15] BanchoBot: Countdown finished
+[04:10:15] BCraftMG: !mp settings
+[04:10:16] BanchoBot: Room name: s!CL F24: (Washington University in St. Louis A) vs (College of Staten Island A), History: https://osu.ppy.sh/mp/115986058
+[04:10:16] BanchoBot: Beatmap: https://osu.ppy.sh/b/2810175 Maxo - Forsaken City (Sever the Skyline Mix)
+[04:10:16] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[04:10:16] BanchoBot: Active mods: NoFail
+[04:10:16] BanchoBot: Players: 4
+[04:10:16] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12313706 BossyBear       [Team Red ]
+[04:10:16] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4388347 striFE36        [Team Red ]
+[04:10:16] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12114597 MyAngel Ritsuko [Team Blue]
+[04:10:16] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13327696 Want Some Candy [Team Blue]
+[04:10:17] BCraftMG: !mp start 5 glhf!
+[04:10:18] BanchoBot: Match starts in 5 seconds
+[04:10:18] BanchoBot: Queued the match to start in 5 seconds
+[04:10:19] striFE36: glhf
+[04:10:19] BanchoBot: Match starts in 4 seconds
+[04:10:20] BanchoBot: Match starts in 3 seconds
+[04:10:22] BanchoBot: Good luck, have fun!
+[04:10:24] BanchoBot: The match has started!
+[04:13:00] BanchoBot: Want Some Candy finished playing (Score: 679314, PASSED).
+[04:13:00] BanchoBot: MyAngel Ritsuko finished playing (Score: 279653, PASSED).
+[04:13:00] BanchoBot: BossyBear finished playing (Score: 358402, PASSED).
+[04:13:02] BanchoBot: striFE36 finished playing (Score: 428349, PASSED).
+[04:13:02] BanchoBot: The match has finished!
+[04:13:17] BCraftMG: Washington University in St. Louis A | 0 - 1 | College of Staten Island A // Bo9 - Next Pick: Washington University in St. Louis A
+[04:13:28] BCraftMG: !mp timer 90
+[04:13:28] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[04:13:39] striFE36: hr1
+[04:13:45] BanchoBot: BossyBear left the game.
+[04:13:59] BanchoBot: Countdown ends in 1 minute
+[04:14:00] BCraftMG: !mp map 2645666 0
+[04:14:01] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2645666 DUSTCELL - Anemone
+[04:14:01] BanchoBot: Changed match mode to Osu
+[04:14:02] BCraftMG: !mp mods 17
+[04:14:02] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[04:14:03] BCraftMG: !mp timer 90
+[04:14:04] BanchoBot: Countdown aborted
+[04:14:04] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[04:14:34] BanchoBot: Countdown ends in 1 minute
+[04:15:04] BanchoBot: Countdown ends in 30 seconds
+[04:15:13] BanchoBot: BossyBear4 joined in slot 1 for team blue.
+[04:15:15] BanchoBot: BossyBear4 changed to Red
+[04:15:25] BanchoBot: Countdown ends in 10 seconds
+[04:15:30] BanchoBot: Countdown ends in 5 seconds
+[04:15:31] BanchoBot: Countdown ends in 4 seconds
+[04:15:32] BanchoBot: Countdown ends in 3 seconds
+[04:15:32] BanchoBot: Countdown ends in 2 seconds
+[04:15:33] BanchoBot: Countdown ends in 1 second
+[04:15:34] BanchoBot: Countdown finished
+[04:15:35] BCraftMG: !mp settings
+[04:15:37] BanchoBot: Room name: s!CL F24: (Washington University in St. Louis A) vs (College of Staten Island A), History: https://osu.ppy.sh/mp/115986058
+[04:15:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/2645666 DUSTCELL - Anemone
+[04:15:37] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[04:15:37] BanchoBot: Active mods: NoFail, HardRock
+[04:15:37] BanchoBot: Players: 4
+[04:15:37] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19672869 BossyBear4      [Team Red ]
+[04:15:37] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4388347 striFE36        [Team Red ]
+[04:15:37] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12114597 MyAngel Ritsuko [Team Blue]
+[04:15:37] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/13327696 Want Some Candy [Team Blue]
+[04:15:46] striFE36: glhf
+[04:15:48] BCraftMG: status check @Want Some Candy
+[04:15:49] BCraftMG: are we ready
+[04:15:54] Want_Some_Candy: hold up
+[04:15:58] Want_Some_Candy: cat is on my bed
+[04:16:01] Want_Some_Candy: bringing it out
+[04:16:12] BanchoBot: All players are ready
+[04:16:13] BCraftMG: !mp settings
+[04:16:13] Want_Some_Candy: r
+[04:16:13] BanchoBot: Room name: s!CL F24: (Washington University in St. Louis A) vs (College of Staten Island A), History: https://osu.ppy.sh/mp/115986058
+[04:16:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/2645666 DUSTCELL - Anemone
+[04:16:13] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[04:16:13] BanchoBot: Active mods: NoFail, HardRock
+[04:16:13] BanchoBot: Players: 4
+[04:16:13] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19672869 BossyBear4      [Team Red ]
+[04:16:13] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4388347 striFE36        [Team Red ]
+[04:16:13] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12114597 MyAngel Ritsuko [Team Blue]
+[04:16:13] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13327696 Want Some Candy [Team Blue]
+[04:16:15] BCraftMG: !mp start 5 glhf!
+[04:16:16] BanchoBot: Match starts in 5 seconds
+[04:16:16] BanchoBot: Queued the match to start in 5 seconds
+[04:16:18] BanchoBot: Match starts in 4 seconds
+[04:16:19] BanchoBot: Match starts in 3 seconds
+[04:16:20] BanchoBot: Good luck, have fun!
+[04:16:22] BanchoBot: The match has started!
+[04:16:24] BCraftMG: next time ill force the timeout timer on you
+[04:19:29] BanchoBot: BossyBear4 finished playing (Score: 153320, PASSED).
+[04:19:30] BanchoBot: MyAngel Ritsuko finished playing (Score: 311472, PASSED).
+[04:19:32] BanchoBot: Want Some Candy finished playing (Score: 336456, PASSED).
+[04:19:32] BanchoBot: striFE36 finished playing (Score: 498932, PASSED).
+[04:19:32] BanchoBot: The match has finished!
+[04:19:45] BCraftMG: Washington University in St. Louis A | 1 - 1 | College of Staten Island A // Bo9 - Next Pick: College of Staten Island A
+[04:19:48] BCraftMG: nice comeback
+[04:19:48] BCraftMG: !mp timer 90
+[04:19:49] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[04:20:10] BanchoBot: striFE36 left the game.
+[04:20:19] BanchoBot: Countdown ends in 1 minute
+[04:20:50] BanchoBot: Countdown ends in 30 seconds
+[04:20:50] Want_Some_Candy: nm3
+[04:20:57] BCraftMG: !mp map 4256603 0
+[04:20:58] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4256603 Schwank - OPEN YOUR 3RD EYE
+[04:20:58] BanchoBot: Changed match mode to Osu
+[04:21:01] BanchoBot: BossyBear4 left the game.
+[04:21:01] BCraftMG: !mp mods 1
+[04:21:02] BanchoBot: Enabled NoFail, disabled FreeMod
+[04:21:03] BCraftMG: !mp timer 90
+[04:21:05] BanchoBot: Countdown aborted
+[04:21:05] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[04:21:06] BanchoBot: BossyBear joined in slot 1 for team blue.
+[04:21:11] BanchoBot: BossyBear changed to Red
+[04:21:13] BanchoBot: BossyBear4 joined in slot 2 for team red.
+[04:21:35] BanchoBot: Countdown ends in 1 minute
+[04:22:05] BanchoBot: All players are ready
+[04:22:05] BanchoBot: Countdown ends in 30 seconds
+[04:22:07] BCraftMG: !mp settings
+[04:22:08] BanchoBot: Room name: s!CL F24: (Washington University in St. Louis A) vs (College of Staten Island A), History: https://osu.ppy.sh/mp/115986058
+[04:22:08] BanchoBot: Beatmap: https://osu.ppy.sh/b/4256603 Schwank - OPEN YOUR 3RD EYE
+[04:22:08] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[04:22:08] BanchoBot: Active mods: NoFail
+[04:22:08] BanchoBot: Players: 4
+[04:22:08] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/12313706 BossyBear       [Team Red ]
+[04:22:08] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19672869 BossyBear4      [Team Red ]
+[04:22:08] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12114597 MyAngel Ritsuko [Team Blue]
+[04:22:08] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13327696 Want Some Candy [Team Blue]
+[04:22:12] BanchoBot: All players are ready
+[04:22:14] BCraftMG: !mp settings
+[04:22:16] BanchoBot: Room name: s!CL F24: (Washington University in St. Louis A) vs (College of Staten Island A), History: https://osu.ppy.sh/mp/115986058
+[04:22:16] BanchoBot: Beatmap: https://osu.ppy.sh/b/4256603 Schwank - OPEN YOUR 3RD EYE
+[04:22:16] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[04:22:16] BanchoBot: Active mods: NoFail
+[04:22:16] BanchoBot: Players: 4
+[04:22:16] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12313706 BossyBear       [Team Red ]
+[04:22:16] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19672869 BossyBear4      [Team Red ]
+[04:22:16] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12114597 MyAngel Ritsuko [Team Blue]
+[04:22:16] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13327696 Want Some Candy [Team Blue]
+[04:22:17] BCraftMG: !mp start 5 glhf!
+[04:22:17] BanchoBot: Countdown aborted
+[04:22:17] BanchoBot: Match starts in 5 seconds
+[04:22:17] BanchoBot: Queued the match to start in 5 seconds
+[04:22:18] BanchoBot: Match starts in 4 seconds
+[04:22:19] BanchoBot: Match starts in 3 seconds
+[04:22:20] BanchoBot: Good luck, have fun!
+[04:22:23] BanchoBot: The match has started!
+[04:24:59] BanchoBot: BossyBear4 finished playing (Score: 55099, PASSED).
+[04:24:59] BanchoBot: MyAngel Ritsuko finished playing (Score: 449104, PASSED).
+[04:24:59] BanchoBot: Want Some Candy finished playing (Score: 899984, PASSED).
+[04:24:59] BanchoBot: BossyBear finished playing (Score: 286180, PASSED).
+[04:24:59] BanchoBot: The match has finished!
+[04:25:11] BCraftMG: Washington University in St. Louis A | 1 - 2 | College of Staten Island A // Bo9 - Next Pick: Washington University in St. Louis A
+[04:25:12] BCraftMG: !mp timer 120
+[04:25:13] BanchoBot: Countdown ends in 2 minutes
+[04:25:46] BanchoBot: striFE36 joined in slot 5 for team blue.
+[04:26:14] BanchoBot: Countdown ends in 1 minute
+[04:26:16] striFE36: hd1
+[04:26:17] BanchoBot: BossyBear left the game.
+[04:26:25] BCraftMG: !mp map 4510406 0
+[04:26:25] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4510406 lapix - Toumei Shin'en feat. nayuta
+[04:26:25] BanchoBot: Changed match mode to Osu
+[04:26:26] BCraftMG: !mp mods 9
+[04:26:28] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[04:26:28] BCraftMG: !mp timer 90
+[04:26:29] BanchoBot: Countdown aborted
+[04:26:29] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[04:26:54] BanchoBot: striFE36 moved to slot 1
+[04:26:56] Want_Some_Candy: yo
+[04:26:58] Want_Some_Candy: wrong
+[04:26:58] Want_Some_Candy: slot
+[04:26:59] Want_Some_Candy: and team
+[04:26:59] BanchoBot: striFE36 changed to Red
+[04:27:00] BanchoBot: Countdown ends in 1 minute
+[04:27:09] striFE36: glhf
+[04:27:17] BanchoBot: All players are ready
+[04:27:19] MyAngel_Ritsuko: g0;lf
+[04:27:20] BCraftMG: !mp settings
+[04:27:21] BanchoBot: Room name: s!CL F24: (Washington University in St. Louis A) vs (College of Staten Island A), History: https://osu.ppy.sh/mp/115986058
+[04:27:21] BanchoBot: Beatmap: https://osu.ppy.sh/b/4510406 lapix - Toumei Shin'en feat. nayuta
+[04:27:21] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[04:27:21] BanchoBot: Active mods: NoFail, Hidden
+[04:27:21] BanchoBot: Players: 4
+[04:27:21] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/4388347 striFE36        [Team Red ]
+[04:27:21] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19672869 BossyBear4      [Team Red ]
+[04:27:21] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12114597 MyAngel Ritsuko [Team Blue]
+[04:27:21] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13327696 Want Some Candy [Team Blue]
+[04:27:23] BCraftMG: !mp start 5 glhf!
+[04:27:24] BanchoBot: Countdown aborted
+[04:27:24] BanchoBot: Match starts in 5 seconds
+[04:27:24] BanchoBot: Queued the match to start in 5 seconds
+[04:27:25] BanchoBot: Match starts in 4 seconds
+[04:27:26] BanchoBot: Match starts in 3 seconds
+[04:27:28] BanchoBot: Good luck, have fun!
+[04:27:30] BanchoBot: The match has started!
+[04:31:23] BanchoBot: MyAngel Ritsuko finished playing (Score: 360889, PASSED).
+[04:31:24] BanchoBot: BossyBear4 finished playing (Score: 183247, PASSED).
+[04:31:24] BanchoBot: Want Some Candy finished playing (Score: 192828, PASSED).
+[04:31:24] BanchoBot: striFE36 finished playing (Score: 700157, PASSED).
+[04:31:24] BanchoBot: The match has finished!
+[04:31:36] BCraftMG: Washington University in St. Louis A | 2 - 2 | College of Staten Island A // Bo9 - Next Pick: College of Staten Island A
+[04:31:38] BCraftMG: !mp timer 90
+[04:31:38] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[04:32:09] BanchoBot: Countdown ends in 1 minute
+[04:32:10] Want_Some_Candy: dt1
+[04:32:17] BCraftMG: !mp map 2603708 0
+[04:32:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2603708 ITO KASHITARO - Kiritorisen
+[04:32:17] BanchoBot: Changed match mode to Osu
+[04:32:20] BCraftMG: !mp mods 65
+[04:32:20] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[04:32:22] BCraftMG: !mp timer 90
+[04:32:23] BanchoBot: Countdown aborted
+[04:32:23] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[04:32:24] BanchoBot: BossyBear4 left the game.
+[04:32:31] BanchoBot: BossyBear joined in slot 2 for team red.
+[04:32:34] BanchoBot: striFE36 left the game.
+[04:32:46] BanchoBot: BossyBear4 joined in slot 1 for team blue.
+[04:32:53] BanchoBot: Countdown ends in 1 minute
+[04:33:23] BanchoBot: Countdown ends in 30 seconds
+[04:33:43] BanchoBot: Countdown ends in 10 seconds
+[04:33:48] BanchoBot: Countdown ends in 5 seconds
+[04:33:49] BanchoBot: BossyBear4 left the game.
+[04:33:49] BanchoBot: Countdown ends in 4 seconds
+[04:33:50] BanchoBot: Countdown ends in 3 seconds
+[04:33:51] BanchoBot: striFE36 joined in slot 1 for team blue.
+[04:33:51] BanchoBot: Countdown ends in 2 seconds
+[04:33:52] BanchoBot: Countdown ends in 1 second
+[04:33:53] BanchoBot: Countdown finished
+[04:33:53] BanchoBot: striFE36 changed to Red
+[04:33:55] BCraftMG: !mp settings
+[04:33:56] BanchoBot: Room name: s!CL F24: (Washington University in St. Louis A) vs (College of Staten Island A), History: https://osu.ppy.sh/mp/115986058
+[04:33:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/2603708 ITO KASHITARO - Kiritorisen
+[04:33:56] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[04:33:56] BanchoBot: Active mods: NoFail, DoubleTime
+[04:33:56] BanchoBot: Players: 4
+[04:33:56] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/4388347 striFE36        [Team Red ]
+[04:33:56] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12313706 BossyBear       [Team Red ]
+[04:33:56] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/12114597 MyAngel Ritsuko [Team Blue]
+[04:33:56] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/13327696 Want Some Candy [Team Blue]
+[04:33:58] BCraftMG: ready up
+[04:33:59] BCraftMG: .
+[04:34:04] BCraftMG: !mp timer 30
+[04:34:05] BanchoBot: Countdown ends in 30 seconds
+[04:34:13] BanchoBot: All players are ready
+[04:34:15] MyAngel_Ritsuko: goldf
+[04:34:15] BCraftMG: !mp settings
+[04:34:17] BanchoBot: Room name: s!CL F24: (Washington University in St. Louis A) vs (College of Staten Island A), History: https://osu.ppy.sh/mp/115986058
+[04:34:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/2603708 ITO KASHITARO - Kiritorisen
+[04:34:17] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[04:34:17] BanchoBot: Active mods: NoFail, DoubleTime
+[04:34:17] BanchoBot: Players: 4
+[04:34:17] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/4388347 striFE36        [Team Red ]
+[04:34:17] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12313706 BossyBear       [Team Red ]
+[04:34:17] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12114597 MyAngel Ritsuko [Team Blue]
+[04:34:17] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13327696 Want Some Candy [Team Blue]
+[04:34:17] BCraftMG: !mp start 5 glhf!
+[04:34:18] BanchoBot: Countdown aborted
+[04:34:18] BanchoBot: Match starts in 5 seconds
+[04:34:18] BanchoBot: Queued the match to start in 5 seconds
+[04:34:19] BanchoBot: Match starts in 4 seconds
+[04:34:20] BanchoBot: Match starts in 3 seconds
+[04:34:21] BanchoBot: Good luck, have fun!
+[04:34:21] Want_Some_Candy: iron f
+[04:34:23] BanchoBot: The match has started!
+[04:37:05] BanchoBot: MyAngel Ritsuko finished playing (Score: 981913, PASSED).
+[04:37:05] BanchoBot: striFE36 finished playing (Score: 717982, PASSED).
+[04:37:05] BanchoBot: Want Some Candy finished playing (Score: 442187, PASSED).
+[04:37:07] BanchoBot: BossyBear finished playing (Score: 324663, PASSED).
+[04:37:07] BanchoBot: The match has finished!
+[04:37:27] BCraftMG: Washington University in St. Louis A | 2 - 3 | College of Staten Island A // Bo9 - Next Pick: Washington University in St. Louis A	Washington University in St. Louis A | 2 - 3 | College of Staten Island A // Bo9 - Next Pick: Washington University in St. Louis A
+[04:37:33] BCraftMG: !mp timer 90
+[04:37:34] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[04:38:04] BanchoBot: Countdown ends in 1 minute
+[04:38:26] striFE36: hr2
+[04:38:28] BanchoBot: striFE36 left the game.
+[04:38:33] BCraftMG: !mp map 2760616 0
+[04:38:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2760616 96neko - Buriki no Dance
+[04:38:34] BanchoBot: Changed match mode to Osu
+[04:38:35] BanchoBot: Countdown ends in 30 seconds
+[04:38:35] BCraftMG: !Mp mods 17
+[04:38:36] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[04:38:37] BCraftMG: !mp timer 90
+[04:38:37] BanchoBot: Countdown aborted
+[04:38:37] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[04:38:55] BanchoBot: striFE36 joined in slot 1 for team blue.
+[04:39:00] BanchoBot: striFE36 changed to Red
+[04:39:07] BanchoBot: Countdown ends in 1 minute
+[04:39:38] BanchoBot: Countdown ends in 30 seconds
+[04:39:58] BanchoBot: Countdown ends in 10 seconds
+[04:40:02] striFE36: glhf
+[04:40:02] BanchoBot: Countdown ends in 5 seconds
+[04:40:04] BanchoBot: Countdown ends in 4 seconds
+[04:40:05] BanchoBot: Countdown ends in 3 seconds
+[04:40:06] BanchoBot: Countdown ends in 2 seconds
+[04:40:07] BanchoBot: Countdown ends in 1 second
+[04:40:08] BanchoBot: Countdown finished
+[04:40:09] Want_Some_Candy: timeout
+[04:40:13] Want_Some_Candy: can we uyse our timeout
+[04:40:20] BCraftMG: !mp timer 120
+[04:40:20] BanchoBot: Countdown ends in 2 minutes
+[04:40:25] striFE36: ????
+[04:40:26] BanchoBot: striFE36 left the game.
+[04:41:10] BCraftMG: i mean they are allowed to call for a timeout
+[04:41:20] BossyBear: he didn't know there are timeouts
+[04:41:21] BanchoBot: Countdown ends in 1 minute
+[04:41:26] BossyBear: he had no ill intent
+[04:41:41] BCraftMG: xd
+[04:41:47] BCraftMG: its ok
+[04:41:51] BCraftMG: now he knows
+[04:41:51] BanchoBot: Countdown ends in 30 seconds
+[04:41:54] BossyBear: but osu is hard :(
+[04:42:11] BanchoBot: Countdown ends in 10 seconds
+[04:42:14] BanchoBot: striFE36 joined in slot 1 for team blue.
+[04:42:16] BanchoBot: Countdown ends in 5 seconds
+[04:42:17] BanchoBot: Countdown ends in 4 seconds
+[04:42:18] BanchoBot: striFE36 changed to Red
+[04:42:18] Want_Some_Candy: my hand is cramping i needed it
+[04:42:18] BanchoBot: Countdown ends in 3 seconds
+[04:42:19] Want_Some_Candy: lol
+[04:42:19] BanchoBot: Countdown ends in 2 seconds
+[04:42:19] striFE36: jglhf
+[04:42:20] BanchoBot: Countdown ends in 1 second
+[04:42:21] BanchoBot: Countdown finished
+[04:42:22] BCraftMG: xd
+[04:42:24] BCraftMG: ready up
+[04:42:25] BCraftMG: !mp settings
+[04:42:26] MyAngel_Ritsuko: golf
+[04:42:26] BanchoBot: Room name: s!CL F24: (Washington University in St. Louis A) vs (College of Staten Island A), History: https://osu.ppy.sh/mp/115986058
+[04:42:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/2760616 96neko - Buriki no Dance
+[04:42:26] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[04:42:26] BanchoBot: Active mods: NoFail, HardRock
+[04:42:26] BanchoBot: Players: 4
+[04:42:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/4388347 striFE36        [Team Red ]
+[04:42:26] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/12313706 BossyBear       [Team Red ]
+[04:42:26] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12114597 MyAngel Ritsuko [Team Blue]
+[04:42:26] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13327696 Want Some Candy [Team Blue]
+[04:42:28] BanchoBot: All players are ready
+[04:42:29] BCraftMG: !mp settings
+[04:42:30] BanchoBot: Room name: s!CL F24: (Washington University in St. Louis A) vs (College of Staten Island A), History: https://osu.ppy.sh/mp/115986058
+[04:42:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/2760616 96neko - Buriki no Dance
+[04:42:30] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[04:42:30] BanchoBot: Active mods: NoFail, HardRock
+[04:42:30] BanchoBot: Players: 4
+[04:42:30] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/4388347 striFE36        [Team Red ]
+[04:42:30] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12313706 BossyBear       [Team Red ]
+[04:42:30] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12114597 MyAngel Ritsuko [Team Blue]
+[04:42:30] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13327696 Want Some Candy [Team Blue]
+[04:42:31] BCraftMG: !mp start 5 glhf!
+[04:42:31] BanchoBot: Match starts in 5 seconds
+[04:42:31] BanchoBot: Queued the match to start in 5 seconds
+[04:42:32] BanchoBot: Match starts in 4 seconds
+[04:42:33] BanchoBot: Match starts in 3 seconds
+[04:42:35] BanchoBot: Good luck, have fun!
+[04:42:37] BanchoBot: The match has started!
+[04:45:50] BanchoBot: Want Some Candy finished playing (Score: 321928, PASSED).
+[04:45:50] BanchoBot: BossyBear finished playing (Score: 113563, PASSED).
+[04:45:51] BanchoBot: MyAngel Ritsuko finished playing (Score: 353616, PASSED).
+[04:45:51] BanchoBot: striFE36 finished playing (Score: 617007, PASSED).
+[04:45:51] BanchoBot: The match has finished!
+[04:46:09] BCraftMG: Washington University in St. Louis A | 3 - 3 | College of Staten Island A // Bo9 - Next Pick: College of Staten Island A
+[04:46:10] BCraftMG: !mp timer 90
+[04:46:11] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[04:46:42] BanchoBot: Countdown ends in 1 minute
+[04:47:06] Want_Some_Candy: dt3
+[04:47:06] BanchoBot: BossyBear left the game.
+[04:47:12] BanchoBot: Countdown ends in 30 seconds
+[04:47:15] BCraftMG: !mp map 3218812 0
+[04:47:16] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3218812 Giga - G4L
+[04:47:16] BanchoBot: Changed match mode to Osu
+[04:47:18] BCraftMG: !mp mods 65
+[04:47:19] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[04:47:20] BCraftMG: !mp timer 90
+[04:47:20] BanchoBot: Countdown aborted
+[04:47:20] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[04:47:21] BanchoBot: Want Some Candy left the game.
+[04:47:22] striFE36: timeout
+[04:47:23] striFE36: pls
+[04:47:27] striFE36: sorry
+[04:47:30] striFE36: bathroom break
+[04:47:38] striFE36: i relly need to go
+[04:47:51] BanchoBot: Countdown ends in 1 minute
+[04:47:52] BCraftMG: timeout after current timer
+[04:47:52] BanchoBot: striFE36 left the game.
+[04:48:00] BanchoBot: striFE36 joined in slot 1 for team blue.
+[04:48:20] BanchoBot: Countdown ends in 30 seconds
+[04:48:29] BanchoBot: BossyBear joined in slot 2 for team red.
+[04:48:35] BanchoBot: striFE36 changed to Red
+[04:48:40] BanchoBot: Countdown ends in 10 seconds
+[04:48:46] BanchoBot: Countdown ends in 5 seconds
+[04:48:47] BanchoBot: Countdown ends in 4 seconds
+[04:48:48] BanchoBot: Countdown ends in 3 seconds
+[04:48:48] BanchoBot: Countdown ends in 2 seconds
+[04:48:49] BanchoBot: Countdown ends in 1 second
+[04:48:50] BanchoBot: Countdown finished
+[04:48:50] BCraftMG: !mp timer 120
+[04:48:51] BanchoBot: Countdown ends in 2 minutes
+[04:48:54] BanchoBot: striFE36 left the game.
+[04:48:58] BanchoBot: BossyBear left the game.
+[04:49:39] BanchoBot: Want Some Candy joined in slot 1 for team blue.
+[04:49:42] BanchoBot: Want Some Candy moved to slot 4
+[04:49:52] BanchoBot: Countdown ends in 1 minute
+[04:50:22] BanchoBot: Countdown ends in 30 seconds
+[04:50:42] BanchoBot: Countdown ends in 10 seconds
+[04:50:47] BanchoBot: Countdown ends in 5 seconds
+[04:50:49] BanchoBot: Countdown ends in 4 seconds
+[04:50:49] BanchoBot: Countdown ends in 3 seconds
+[04:50:50] BanchoBot: Countdown ends in 2 seconds
+[04:50:51] BanchoBot: Countdown ends in 1 second
+[04:50:52] BanchoBot: Countdown finished
+[04:50:53] BCraftMG: why arent there anyone on red team in here
+[04:50:56] BCraftMG: lmao
+[04:51:01] MyAngel_Ritsuko: idk
+[04:51:13] BanchoBot: BossyBear joined in slot 1 for team blue.
+[04:51:17] BanchoBot: BossyBear changed to Red
+[04:51:21] BCraftMG: at least has someone here for timer lol
+[04:51:22] BCraftMG: hi
+[04:51:27] BCraftMG: timeout ended
+[04:51:28] BossyBear: hello
+[04:51:34] BCraftMG: please get your teammate in
+[04:51:35] BanchoBot: striFE36 joined in slot 2 for team red.
+[04:51:48] BCraftMG: and ready up
+[04:51:48] Want_Some_Candy: penalize?
+[04:51:49] Want_Some_Candy: L O L
+[04:51:51] Want_Some_Candy: jk
+[04:51:53] BanchoBot: All players are ready
+[04:51:57] striFE36: wdym
+[04:51:57] BCraftMG: !mp settings
+[04:51:58] BanchoBot: Room name: s!CL F24: (Washington University in St. Louis A) vs (College of Staten Island A), History: https://osu.ppy.sh/mp/115986058
+[04:51:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/3218812 Giga - G4L
+[04:51:58] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[04:51:58] BanchoBot: Active mods: NoFail, DoubleTime
+[04:51:58] BanchoBot: Players: 4
+[04:51:58] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12313706 BossyBear       [Team Red ]
+[04:51:58] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4388347 striFE36        [Team Red ]
+[04:51:58] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12114597 MyAngel Ritsuko [Team Blue]
+[04:51:58] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13327696 Want Some Candy [Team Blue]
+[04:51:59] BCraftMG: !mp start 5 glhf!
+[04:52:00] BanchoBot: Match starts in 5 seconds
+[04:52:00] BanchoBot: Queued the match to start in 5 seconds
+[04:52:01] BanchoBot: Match starts in 4 seconds
+[04:52:02] BanchoBot: Match starts in 3 seconds
+[04:52:03] BanchoBot: Good luck, have fun!
+[04:52:03] MyAngel_Ritsuko: golf
+[04:52:05] BanchoBot: The match has started!
+[04:54:12] BanchoBot: striFE36 finished playing (Score: 1034750, PASSED).
+[04:54:12] BanchoBot: BossyBear finished playing (Score: 152849, PASSED).
+[04:54:12] BanchoBot: MyAngel Ritsuko finished playing (Score: 642451, PASSED).
+[04:54:12] BanchoBot: Want Some Candy finished playing (Score: 559196, PASSED).
+[04:54:12] BanchoBot: The match has finished!
+[04:54:26] BCraftMG: Washington University in St. Louis A | 3 - 4 | College of Staten Island A // Bo9 - Next Pick: Washington University in St. Louis A
+[04:54:28] BCraftMG: !mp timer 90
+[04:54:28] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[04:54:59] BanchoBot: Countdown ends in 1 minute
+[04:55:23] striFE36: nm1
+[04:55:28] BCraftMG: !mp map 4168862 0
+[04:55:28] BanchoBot: Countdown ends in 30 seconds
+[04:55:28] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4168862 Yoh Kamiyama - spray
+[04:55:28] BanchoBot: Changed match mode to Osu
+[04:55:29] BCraftMG: !mp mods 1
+[04:55:29] BanchoBot: Enabled NoFail, disabled FreeMod
+[04:55:30] BCraftMG: !mp timer 90
+[04:55:31] BanchoBot: Countdown aborted
+[04:55:31] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[04:56:01] BanchoBot: Countdown ends in 1 minute
+[04:56:31] BanchoBot: Countdown ends in 30 seconds
+[04:56:41] BanchoBot: All players are ready
+[04:56:45] BCraftMG: !mp settings
+[04:56:46] striFE36: glhf
+[04:56:46] BanchoBot: Room name: s!CL F24: (Washington University in St. Louis A) vs (College of Staten Island A), History: https://osu.ppy.sh/mp/115986058
+[04:56:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/4168862 Yoh Kamiyama - spray
+[04:56:46] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[04:56:46] BanchoBot: Active mods: NoFail
+[04:56:46] BanchoBot: Players: 4
+[04:56:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12313706 BossyBear       [Team Red ]
+[04:56:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4388347 striFE36        [Team Red ]
+[04:56:46] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12114597 MyAngel Ritsuko [Team Blue]
+[04:56:46] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13327696 Want Some Candy [Team Blue]
+[04:56:47] BCraftMG: !mp start 5 glhf!
+[04:56:48] MyAngel_Ritsuko: golf
+[04:56:48] BanchoBot: Countdown aborted
+[04:56:48] BanchoBot: Match starts in 5 seconds
+[04:56:48] BanchoBot: Queued the match to start in 5 seconds
+[04:56:49] BanchoBot: Match starts in 4 seconds
+[04:56:50] BanchoBot: Match starts in 3 seconds
+[04:56:51] BanchoBot: Good luck, have fun!
+[04:56:54] BanchoBot: The match has started!
+[05:00:13] BanchoBot: striFE36 finished playing (Score: 1007588, PASSED).
+[05:00:13] BanchoBot: Want Some Candy finished playing (Score: 623235, PASSED).
+[05:00:13] BanchoBot: BossyBear finished playing (Score: 381257, PASSED).
+[05:00:13] BanchoBot: MyAngel Ritsuko finished playing (Score: 533817, PASSED).
+[05:00:13] BanchoBot: The match has finished!
+[05:00:22] BCraftMG: !mp map 4626839 0
+[05:00:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4626839 void (Mournfinale) - World Vanquisher
+[05:00:23] BanchoBot: Changed match mode to Osu
+[05:00:25] BCraftMG: !mp mods Freemod
+[05:00:26] BanchoBot: Disabled all mods, enabled FreeMod
+[05:00:30] BCraftMG: peepostare
+[05:00:38] BCraftMG: !mp timer 90
+[05:00:39] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[05:01:09] BanchoBot: Countdown ends in 1 minute
+[05:01:39] BanchoBot: Countdown ends in 30 seconds
+[05:01:55] striFE36: glhf
+[05:02:00] BanchoBot: Countdown ends in 10 seconds
+[05:02:04] BanchoBot: Countdown ends in 5 seconds
+[05:02:06] BanchoBot: Countdown ends in 4 seconds
+[05:02:06] BanchoBot: Countdown ends in 3 seconds
+[05:02:07] BanchoBot: Countdown ends in 2 seconds
+[05:02:08] BanchoBot: Countdown ends in 1 second
+[05:02:09] BanchoBot: Countdown finished
+[05:02:18] BanchoBot: All players are ready
+[05:02:19] BCraftMG: !mp settings
+[05:02:21] BanchoBot: Room name: s!CL F24: (Washington University in St. Louis A) vs (College of Staten Island A), History: https://osu.ppy.sh/mp/115986058
+[05:02:21] BanchoBot: Beatmap: https://osu.ppy.sh/b/4626839 void (Mournfinale) - World Vanquisher
+[05:02:21] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[05:02:21] BanchoBot: Active mods: Freemod
+[05:02:21] BanchoBot: Players: 4
+[05:02:21] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12313706 BossyBear       [Team Red ]
+[05:02:21] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4388347 striFE36        [Team Red ]
+[05:02:21] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12114597 MyAngel Ritsuko [Team Blue]
+[05:02:21] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13327696 Want Some Candy [Team Blue]
+[05:02:22] BCraftMG: !mp start 5 glhf!
+[05:02:24] BanchoBot: Match starts in 5 seconds
+[05:02:24] BanchoBot: Queued the match to start in 5 seconds
+[05:02:25] BanchoBot: Match starts in 4 seconds
+[05:02:26] BanchoBot: Match starts in 3 seconds
+[05:02:27] BanchoBot: Good luck, have fun!
+[05:02:27] BCraftMG: !mp abort
+[05:02:28] BanchoBot: Countdown aborted
+[05:02:28] BanchoBot: Aborted the match
+[05:02:29] MyAngel_Ritsuko: golfd
+[05:02:34] BCraftMG: whoops
+[05:02:35] striFE36: ?
+[05:02:37] BCraftMG: did no one grab nf
+[05:02:47] Want_Some_Candy: LMFAO
+[05:02:47] MyAngel_Ritsuko: sorry LOL
+[05:02:48] striFE36: will unready
+[05:02:49] striFE36: LOL
+[05:02:50] Want_Some_Candy: why was it in fm
+[05:02:50] BossyBear: lmaooo
+[05:02:51] Want_Some_Candy: :sob:
+[05:02:51] MyAngel_Ritsuko: kinda nerve wracking rn
+[05:03:02] striFE36: golf
+[05:03:10] BanchoBot: All players are ready
+[05:03:11] BCraftMG: !mp settings
+[05:03:12] BanchoBot: Room name: s!CL F24: (Washington University in St. Louis A) vs (College of Staten Island A), History: https://osu.ppy.sh/mp/115986058
+[05:03:12] BanchoBot: Beatmap: https://osu.ppy.sh/b/4626839 void (Mournfinale) - World Vanquisher
+[05:03:12] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[05:03:12] BanchoBot: Active mods: Freemod
+[05:03:12] BanchoBot: Players: 4
+[05:03:12] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12313706 BossyBear       [Team Red  / NoFail]
+[05:03:12] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4388347 striFE36        [Team Red  / NoFail]
+[05:03:12] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12114597 MyAngel Ritsuko [Team Blue / NoFail]
+[05:03:12] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13327696 Want Some Candy [Team Blue / NoFail]
+[05:03:14] BCraftMG: !mp start 5 glhf!
+[05:03:15] BanchoBot: Match starts in 5 seconds
+[05:03:15] BanchoBot: Queued the match to start in 5 seconds
+[05:03:16] BanchoBot: Match starts in 4 seconds
+[05:03:17] BanchoBot: Match starts in 3 seconds
+[05:03:18] BanchoBot: Good luck, have fun!
+[05:03:20] BanchoBot: The match has started!
+[05:09:17] BanchoBot: MyAngel Ritsuko finished playing (Score: 120723, PASSED).
+[05:09:17] BanchoBot: BossyBear finished playing (Score: 99113, PASSED).
+[05:09:18] BanchoBot: Want Some Candy finished playing (Score: 175327, PASSED).
+[05:09:19] BanchoBot: striFE36 finished playing (Score: 417238, PASSED).
+[05:09:19] BanchoBot: The match has finished!
+[05:09:33] BCraftMG: Washington University in St. Louis A | 5 - 4 | College of Staten Island A // Washington University in St. Louis A wins! GGWP
+[05:09:40] striFE36: ggs
+[05:09:45] MyAngel_Ritsuko: GG
+[05:09:46] BossyBear: gg
+[05:09:48] BossyBear: GG
+[05:09:51] MyAngel_Ritsuko: mutuals?
+[05:09:56] striFE36: sure sure
+[05:09:57] BossyBear: ofc
+[05:10:00] MyAngel_Ritsuko: tyty
+[05:10:01] BossyBear: good luck with school yall
+[05:10:01] Want_Some_Candy: ggggg
+[05:10:03] Want_Some_Candy: wp all
+[05:10:05] Want_Some_Candy: you too
+[05:10:05] striFE36: gl w school
+[05:10:07] MyAngel_Ritsuko: gg it was fun
+[05:10:08] striFE36: <3 <3
+[05:10:12] striFE36: ggs crazy match
+[05:10:15] Want_Some_Candy: gl all
+[05:10:16] Want_Some_Candy: <3
+[05:10:18] BanchoBot: Want Some Candy left the game.
+[05:10:20] BanchoBot: MyAngel Ritsuko left the game.
+[05:10:22] BossyBear: GGS
+[05:10:24] BanchoBot: BossyBear left the game.
+[05:10:36] BanchoBot: striFE36 left the game.
+[05:10:56] BCraftMG: !mp close
+[05:10:57] BanchoBot: Closed the match

@@ -1,0 +1,704 @@
+[01:49:29] Joined #mp_101578149
+[01:49:29] BCraftMG: !mp settings
+[01:49:30] BanchoBot: Room name: STT3: (turbino) vs (*team name pending*), History: https://osu.ppy.sh/mp/101578149
+[01:49:30] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[01:49:30] BanchoBot: Players: 0
+[01:49:51] BCraftMG: !mp 2 3 12
+[01:49:55] BCraftMG: !mp set 2 3 12
+[01:49:56] BanchoBot: Changed match settings to 12 slots, TeamVs, ScoreV2
+[01:51:01] BCraftMG: !mp invite #9301350
+[01:51:03] BanchoBot: Invited Cloref to the room
+[01:51:04] BCraftMG: !mp invite #12834207
+[01:51:05] BanchoBot: Invited Cartoonknight to the room
+[01:52:24] BCraftMG: !mp invite #12834207
+[01:52:26] BanchoBot: Invited Cartoonknight to the room
+[01:52:38] BanchoBot: Cartoonknight joined in slot 1 for team blue.
+[01:53:10] BCraftMG: o
+[01:53:33] Cartoonknight: o/
+[01:54:01] BCraftMG: while we waiting
+[01:54:05] BCraftMG: you wanna pick warm up?
+[01:54:17] Cartoonknight: sure
+[01:54:27] BCraftMG: !mp host Cartoonknight
+[01:54:28] BanchoBot: Cartoonknight became the host.
+[01:54:28] BanchoBot: Changed match host to Cartoonknight
+[01:54:29] BanchoBot: Beatmap changed to: Blue Stahli - Shotgun Senorita (Zardonic Remix) [Insane] (https://osu.ppy.sh/b/192508)
+[01:54:33] BanchoBot: Host is changing map...
+[01:55:02] BCraftMG: Warmups must be between 4.0 and 7.0 stars and must be 3:30 in drain time or less after mods are applied. A warmup map cannot be from the current week's pool.
+[01:55:02] BCraftMG: ^^
+[01:55:57] BanchoBot: Beatmap changed to: Persona - Area184 [Chaos184] (https://osu.ppy.sh/b/2792912)
+[01:56:30] BanchoBot: Specter joined in slot 2 for team red.
+[01:57:20] BanchoBot: foe joined in slot 3 for team blue.
+[01:57:47] BanchoBot: Cloref joined in slot 4 for team red.
+[01:57:50] BCraftMG: o//
+[01:57:55] Cloref: hi
+[01:58:01] BanchoBot: Cloref moved to slot 5
+[01:58:11] BCraftMG: turbino will be red
+[01:58:20] BCraftMG: and *team name pending* will be blue
+[02:00:17] BanchoBot: Asuna Pringles joined in slot 4 for team red.
+[02:00:54] BanchoBot: Hlebushek31 joined in slot 6 for team red.
+[02:01:08] Hlebushek31: Hi guys
+[02:01:11] BCraftMG: o/
+[02:01:30] Cartoonknight: hola
+[02:01:57] BanchoBot: Specter left the game.
+[02:02:08] BCraftMG: you guys can start the warm up when you are ready :D
+[02:02:13] foe: o/
+[02:02:26] BanchoBot: dragontiger34 joined in slot 2 for team red.
+[02:02:40] BanchoBot: D1amondL1on joined in slot 7 for team blue.
+[02:02:46] BanchoBot: Hanikawa Kurose joined in slot 8 for team red.
+[02:02:50] BanchoBot: dragontiger34 left the game.
+[02:02:54] BanchoBot: foe moved to slot 9
+[02:02:57] BanchoBot: Asteos joined in slot 2 for team red.
+[02:03:04] BanchoBot: foe left the game.
+[02:03:05] BanchoBot: Asuna Pringles changed to Blue
+[02:03:06] BanchoBot: Hanikawa Kurose changed to Blue
+[02:03:17] BanchoBot: Asuna Pringles changed to Red
+[02:03:23] BanchoBot: D1amondL1on changed to Red
+[02:03:24] BanchoBot: Asteos moved to slot 3
+[02:03:29] Asuna_Pringles: can turbino be blue?
+[02:03:30] BanchoBot: Akari- joined in slot 2 for team red.
+[02:03:36] BanchoBot: Akari- changed to Blue
+[02:03:39] Cartoonknight: D:
+[02:03:45] BCraftMG: nu
+[02:03:48] Asuna_Pringles: 4real
+[02:03:56] Asuna_Pringles: ok
+[02:04:22] BCraftMG: !mp settings
+[02:04:23] BanchoBot: Room name: STT3: (turbino) vs (*team name pending*), History: https://osu.ppy.sh/mp/101578149
+[02:04:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/2792912 Persona - Area184 [Chaos184]
+[02:04:23] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:04:23] BanchoBot: Active mods: Freemod
+[02:04:23] BanchoBot: Players: 8
+[02:04:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12834207 Cartoonknight   [Host / Team Blue / NoFail, Easy]
+[02:04:23] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/341591 Akari-          [Team Blue]
+[02:04:23] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11388879 Asteos          [Team Red ]
+[02:04:23] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/11614518 Asuna Pringles  [Team Red ]
+[02:04:23] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/9301350 Cloref          [Team Red ]
+[02:04:23] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12445254 Hlebushek31     [Team Red ]
+[02:04:23] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/12654242 D1amondL1on     [Team Red ]
+[02:04:23] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/4533507 Hanikawa Kurose [Team Blue / NoFail]
+[02:04:38] BanchoBot: Specter joined in slot 9 for team blue.
+[02:05:03] BanchoBot: All players are ready
+[02:05:12] BanchoBot: The match has started!
+[02:05:47] BanchoBot: Cartoonknight finished playing (Score: 12054, PASSED).
+[02:05:47] BanchoBot: Hlebushek31 finished playing (Score: 13798, FAILED).
+[02:05:49] BanchoBot: Specter finished playing (Score: 984, FAILED).
+[02:05:49] BanchoBot: Cloref finished playing (Score: 6822, FAILED).
+[02:05:49] BanchoBot: Asuna Pringles finished playing (Score: 2904, FAILED).
+[02:05:49] BanchoBot: Specter finished playing (Score: 984, FAILED).
+[02:05:49] BanchoBot: Akari- finished playing (Score: 12245, PASSED).
+[02:05:49] BanchoBot: Akari- finished playing (Score: 12245, PASSED).
+[02:05:49] BanchoBot: Asteos finished playing (Score: 9603, FAILED).
+[02:05:49] BanchoBot: Hanikawa Kurose finished playing (Score: 9251, PASSED).
+[02:05:49] BanchoBot: Hanikawa Kurose finished playing (Score: 9251, PASSED).
+[02:05:49] BanchoBot: D1amondL1on finished playing (Score: 6436, FAILED).
+[02:05:49] BanchoBot: The match has finished!
+[02:05:55] Akari-: we're so good
+[02:05:57] Cartoonknight: alright ggs
+[02:06:05] BanchoBot: Asteos became the host.
+[02:06:09] BanchoBot: Hlebushek31 became the host.
+[02:06:10] D1amondL1on: HIGH CS SO HARD
+[02:06:16] BanchoBot: Host is changing map...
+[02:06:22] Asuna_Pringles: yes we struggle
+[02:06:39] BanchoBot: Beatmap changed to: weyheyhey !! - I'm your daddy [Djovno] (https://osu.ppy.sh/b/2615919)
+[02:06:40] BanchoBot: Host is changing map...
+[02:06:51] BanchoBot: Beatmap changed to: t+pazolite - Luv-Lab-Poison 22ate! [Xtreme] (https://osu.ppy.sh/b/38426)
+[02:07:25] BanchoBot: All players are ready
+[02:07:27] BanchoBot: dragontiger34 joined in slot 10 for team red.
+[02:07:32] BanchoBot: dragontiger34 changed to Blue
+[02:07:39] BanchoBot: Specter changed to Red
+[02:08:02] BanchoBot: All players are ready
+[02:08:03] BanchoBot: The match has started!
+[02:08:21] BanchoBot: dragontiger34 left the game.
+[02:10:14] BanchoBot: Specter finished playing (Score: 121546, PASSED).
+[02:10:14] BanchoBot: Akari- finished playing (Score: 249776, PASSED).
+[02:10:14] BanchoBot: Hanikawa Kurose finished playing (Score: 106697, PASSED).
+[02:10:15] BanchoBot: Asteos finished playing (Score: 73744, PASSED).
+[02:10:15] BanchoBot: Asuna Pringles finished playing (Score: 143938, PASSED).
+[02:10:15] BanchoBot: Cartoonknight finished playing (Score: 26646, PASSED).
+[02:10:15] BanchoBot: D1amondL1on finished playing (Score: 12921, FAILED).
+[02:10:15] BanchoBot: Hlebushek31 finished playing (Score: 144033, PASSED).
+[02:10:16] BanchoBot: Cloref finished playing (Score: 47575, PASSED).
+[02:10:16] BanchoBot: The match has finished!
+[02:10:19] BCraftMG: !mp clearhost
+[02:10:20] BanchoBot: Cleared match host
+[02:10:22] BCraftMG: aight
+[02:10:25] BanchoBot: Specter changed to Blue
+[02:10:38] BCraftMG: first, 2 captains please !roll for protect order
+[02:10:45] Cartoonknight: !roll
+[02:10:45] BanchoBot: Cartoonknight rolls 4 point(s)
+[02:10:48] Akari-: 4
+[02:10:49] Cloref: !roll
+[02:10:49] BanchoBot: Cloref rolls 58 point(s)
+[02:10:52] Cartoonknight: NICE
+[02:10:53] Akari-: we're so good
+[02:10:58] Specter: !roll
+[02:10:58] BanchoBot: Specter rolls 86 point(s)
+[02:10:58] Asuna_Pringles: XD
+[02:11:00] BCraftMG: okay
+[02:11:03] Hlebushek31: Nicu
+[02:11:09] Akari-: ok we fire cartoon as our captain
+[02:11:12] Akari-: specter can be captain
+[02:11:16] Specter: LMAO
+[02:11:18] Cartoonknight: yeah i approve
+[02:11:22] Hlebushek31: Lol
+[02:11:24] BCraftMG: turbino, which map do you want to protect?
+[02:11:31] Specter: we pick Tb as our first ban
+[02:11:51] Akari-: tb is hot tho
+[02:11:52] Cloref: hd2
+[02:11:53] BCraftMG: theres only 1 tb
+[02:12:03] D1amondL1on: tb3
+[02:12:07] Specter: yes I ban TB
+[02:12:32] BCraftMG: *team name pending* your protect?
+[02:13:01] Specter: Protect FM1
+[02:13:05] Cartoonknight: fm1 protect
+[02:13:14] BCraftMG: okay
+[02:13:24] BCraftMG: both captain please !roll again for pick and ban order
+[02:13:31] Specter: !roll
+[02:13:31] BanchoBot: Specter rolls 17 point(s)
+[02:13:33] Cloref: !roll
+[02:13:33] BanchoBot: Cloref rolls 64 point(s)
+[02:13:38] Cartoonknight: okay im rolling
+[02:13:41] Cartoonknight: !roll
+[02:13:41] BanchoBot: Cartoonknight rolls 72 point(s)
+[02:13:59] Akari-: ok specter ur fired again
+[02:14:13] BCraftMG: *team name pending*, please choose the pick or ban order
+[02:14:16] BanchoBot: Hanikawa Kurose moved to slot 10
+[02:14:17] BanchoBot: Hanikawa Kurose moved to slot 12
+[02:15:03] BanchoBot: Cloref moved to slot 11
+[02:15:03] BanchoBot: D1amondL1on moved to slot 10
+[02:15:05] BanchoBot: Hlebushek31 moved to slot 8
+[02:15:08] BanchoBot: Asteos moved to slot 7
+[02:15:08] BCraftMG: !mp timer 120
+[02:15:09] BanchoBot: Asuna Pringles moved to slot 6
+[02:15:09] BanchoBot: Countdown ends in 2 minutes
+[02:15:25] BanchoBot: Akari- left the game.
+[02:16:09] BanchoBot: Countdown ends in 1 minute
+[02:16:19] BCraftMG: owo
+[02:16:40] BanchoBot: Countdown ends in 30 seconds
+[02:16:53] Cartoonknight: pick second
+[02:17:00] BanchoBot: Countdown ends in 10 seconds
+[02:17:05] BanchoBot: Countdown ends in 5 seconds
+[02:17:06] BanchoBot: Countdown ends in 4 seconds
+[02:17:07] BanchoBot: Countdown ends in 3 seconds
+[02:17:07] BanchoBot: Countdown ends in 2 seconds
+[02:17:08] BanchoBot: Countdown ends in 1 second
+[02:17:09] BanchoBot: Countdown finished
+[02:17:10] BCraftMG: turbino, your ban order please?
+[02:17:14] BCraftMG: !mp timer 120
+[02:17:15] BanchoBot: Countdown ends in 2 minutes
+[02:17:48] Cloref: ban second
+[02:18:15] BanchoBot: Countdown ends in 1 minute
+[02:18:17] BCraftMG: okay
+[02:18:22] Cartoonknight: ok we ban hr2
+[02:18:31] BCraftMG: ty
+[02:18:36] BCraftMG: turbino your ban please
+[02:18:46] BanchoBot: Countdown ends in 30 seconds
+[02:18:50] BCraftMG: !mp aborttimer
+[02:18:50] BanchoBot: Countdown aborted
+[02:18:53] BCraftMG: !mp timer 120
+[02:18:54] BanchoBot: Countdown ends in 2 minutes
+[02:19:54] BanchoBot: Countdown ends in 1 minute
+[02:20:14] BCraftMG: hi
+[02:20:21] Hlebushek31: Hello
+[02:20:24] BanchoBot: Countdown ends in 30 seconds
+[02:20:27] BanchoBot: Akari- joined in slot 2 for team red.
+[02:20:28] Cloref: ban nm2
+[02:20:44] BanchoBot: Countdown ends in 10 seconds
+[02:20:44] BCraftMG: turbino | 0 - 0 | *team name pending* // First Pick: turbino
+[02:20:46] BCraftMG: !mp timer 120
+[02:20:46] BanchoBot: Countdown aborted
+[02:20:46] BanchoBot: Countdown ends in 2 minutes
+[02:20:55] BanchoBot: Akari- changed to Blue
+[02:21:47] BanchoBot: Countdown ends in 1 minute
+[02:22:10] Cloref: pick nm3
+[02:22:16] BanchoBot: Countdown ends in 30 seconds
+[02:22:18] BCraftMG: !mp map 3654437
+[02:22:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3654437 lieu - findhelp
+[02:22:22] BCraftMG: !mp mods 1
+[02:22:22] BanchoBot: Enabled NoFail, disabled FreeMod
+[02:22:24] BanchoBot: Specter left the game.
+[02:22:24] BanchoBot: Asuna Pringles left the game.
+[02:22:24] D1amondL1on: gl
+[02:22:24] BCraftMG: !mp timer 120
+[02:22:25] BanchoBot: D1amondL1on left the game.
+[02:22:25] BanchoBot: Countdown aborted
+[02:22:25] BanchoBot: Countdown ends in 2 minutes
+[02:22:28] BanchoBot: Cloref left the game.
+[02:22:40] Hlebushek31: HyperPop lessgooo
+[02:22:53] BanchoBot: Uruha Russia joined in slot 3 for team blue.
+[02:22:58] BanchoBot: dragontiger34 joined in slot 4 for team red.
+[02:23:02] BanchoBot: Hanikawa Kurose moved to slot 5
+[02:23:03] BanchoBot: Uruha Russia moved to slot 6
+[02:23:04] BanchoBot: Uruha Russia changed to Red
+[02:23:04] BanchoBot: Uruha Russia changed to Blue
+[02:23:05] BanchoBot: Uruha Russia changed to Red
+[02:23:14] BanchoBot: Cartoonknight left the game.
+[02:23:23] BanchoBot: foe joined in slot 1 for team blue.
+[02:23:25] BanchoBot: foe moved to slot 3
+[02:23:25] BanchoBot: Countdown ends in 1 minute
+[02:23:30] BanchoBot: Akari- left the game.
+[02:23:31] BanchoBot: dragontiger34 moved to slot 1
+[02:23:33] BanchoBot: dragontiger34 changed to Blue
+[02:23:33] BanchoBot: foe moved to slot 2
+[02:23:49] BanchoBot: Hanikawa Kurose moved to slot 3
+[02:23:55] BanchoBot: Countdown ends in 30 seconds
+[02:24:04] Hanikawa_Kurose: glgl
+[02:24:07] foe: Glhf
+[02:24:09] Hlebushek31: gl
+[02:24:14] BCraftMG: !mp settings
+[02:24:15] Uruha_Russia: gl
+[02:24:15] BanchoBot: Room name: STT3: (turbino) vs (*team name pending*), History: https://osu.ppy.sh/mp/101578149
+[02:24:15] BanchoBot: Beatmap: https://osu.ppy.sh/b/3654437 lieu - findhelp
+[02:24:15] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:24:15] BanchoBot: Active mods: NoFail
+[02:24:15] BanchoBot: Players: 6
+[02:24:15] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/10562797 dragontiger34   [Team Blue]
+[02:24:15] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/15256896 foe             [Team Blue]
+[02:24:15] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4533507 Hanikawa Kurose [Team Blue]
+[02:24:15] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10273040 Uruha Russia    [Team Red ]
+[02:24:15] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11388879 Asteos          [Team Red ]
+[02:24:15] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/12445254 Hlebushek31     [Team Red ]
+[02:24:16] BanchoBot: Countdown ends in 10 seconds
+[02:24:21] BanchoBot: Countdown ends in 5 seconds
+[02:24:22] BanchoBot: Countdown ends in 4 seconds
+[02:24:23] BanchoBot: Countdown ends in 3 seconds
+[02:24:23] BanchoBot: Countdown ends in 2 seconds
+[02:24:24] BanchoBot: Countdown ends in 1 second
+[02:24:26] BanchoBot: Countdown finished
+[02:24:29] BCraftMG: please ready up
+[02:24:36] BanchoBot: All players are ready
+[02:24:38] BCraftMG: !mp settings
+[02:24:39] BanchoBot: Room name: STT3: (turbino) vs (*team name pending*), History: https://osu.ppy.sh/mp/101578149
+[02:24:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/3654437 lieu - findhelp
+[02:24:39] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:24:39] BanchoBot: Active mods: NoFail
+[02:24:39] BanchoBot: Players: 6
+[02:24:39] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10562797 dragontiger34   [Team Blue]
+[02:24:39] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15256896 foe             [Team Blue]
+[02:24:39] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4533507 Hanikawa Kurose [Team Blue]
+[02:24:39] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10273040 Uruha Russia    [Team Red ]
+[02:24:39] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11388879 Asteos          [Team Red ]
+[02:24:39] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/12445254 Hlebushek31     [Team Red ]
+[02:24:42] BCraftMG: !mp start 10
+[02:24:42] BanchoBot: Match starts in 10 seconds
+[02:24:42] BanchoBot: Queued the match to start in 10 seconds
+[02:24:48] BanchoBot: Match starts in 5 seconds
+[02:24:49] BanchoBot: Match starts in 4 seconds
+[02:24:49] BanchoBot: Match starts in 3 seconds
+[02:24:50] BanchoBot: Good luck, have fun!
+[02:24:53] BanchoBot: The match has started!
+[02:26:59] BanchoBot: dragontiger34 finished playing (Score: 529613, PASSED).
+[02:26:59] BanchoBot: Asteos finished playing (Score: 499968, PASSED).
+[02:27:02] BanchoBot: Hanikawa Kurose finished playing (Score: 566362, PASSED).
+[02:27:02] BanchoBot: foe finished playing (Score: 495625, PASSED).
+[02:27:02] BanchoBot: Uruha Russia finished playing (Score: 517717, PASSED).
+[02:27:02] BanchoBot: Hlebushek31 finished playing (Score: 410518, PASSED).
+[02:27:02] BanchoBot: The match has finished!
+[02:27:13] BCraftMG: turbino | 0 - 1 | *team name pending* // Next Pick: *team name pending*
+[02:27:14] BCraftMG: !mp timer 120
+[02:27:16] BanchoBot: Countdown ends in 2 minutes
+[02:27:18] BanchoBot: Cartoonknight joined in slot 4 for team red.
+[02:28:16] BanchoBot: Countdown ends in 1 minute
+[02:28:24] Cartoonknight: our pick is fm1
+[02:28:43] BCraftMG: !mp map 1939988
+[02:28:44] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1939988 sasakure.UK - Sennen to Rasen, Chiru Mono o feat. Sui
+[02:28:47] BanchoBot: Countdown ends in 30 seconds
+[02:28:48] BCraftMG: !mp mods 1 Freemod
+[02:28:49] BanchoBot: Disabled all mods, enabled FreeMod
+[02:28:50] BCraftMG: !mp timer 120
+[02:28:50] BanchoBot: Countdown aborted
+[02:28:50] BanchoBot: Countdown ends in 2 minutes
+[02:28:53] BanchoBot: Akari- joined in slot 5 for team blue.
+[02:28:54] BanchoBot: Asuna Pringles joined in slot 9 for team blue.
+[02:28:57] BanchoBot: Cartoonknight left the game.
+[02:29:00] BanchoBot: foe left the game.
+[02:29:03] BanchoBot: Asuna Pringles changed to Red
+[02:29:04] BanchoBot: Akari- moved to slot 2
+[02:29:24] BanchoBot: Asteos left the game.
+[02:29:28] BanchoBot: Asuna Pringles moved to slot 5
+[02:29:36] Akari-: hidden is a bad mod
+[02:29:51] BanchoBot: Countdown ends in 1 minute
+[02:29:54] BCraftMG: sadge
+[02:30:06] BCraftMG: !mp settings
+[02:30:06] BanchoBot: Hlebushek31 moved to slot 7
+[02:30:07] BanchoBot: Room name: STT3: (turbino) vs (*team name pending*), History: https://osu.ppy.sh/mp/101578149
+[02:30:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/1939988 sasakure.UK - Sennen to Rasen, Chiru Mono o feat. Sui
+[02:30:07] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:30:07] BanchoBot: Active mods: Freemod
+[02:30:07] BanchoBot: Players: 6
+[02:30:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10562797 dragontiger34   [Team Blue / NoFail, HardRock]
+[02:30:07] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/341591 Akari-          [Team Blue / NoFail, Hidden]
+[02:30:07] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4533507 Hanikawa Kurose [Team Blue / NoFail, Hidden]
+[02:30:07] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/11614518 Asuna Pringles  [Team Red  / NoFail, HardRock]
+[02:30:07] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10273040 Uruha Russia    [Team Red  / Hidden]
+[02:30:07] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/12445254 Hlebushek31     [Team Red  / Hidden]
+[02:30:11] Hanikawa_Kurose: lglg
+[02:30:16] Hanikawa_Kurose: glgl
+[02:30:21] BanchoBot: Countdown ends in 30 seconds
+[02:30:23] BanchoBot: All players are ready
+[02:30:25] BCraftMG: !mp settings
+[02:30:26] BanchoBot: Room name: STT3: (turbino) vs (*team name pending*), History: https://osu.ppy.sh/mp/101578149
+[02:30:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/1939988 sasakure.UK - Sennen to Rasen, Chiru Mono o feat. Sui
+[02:30:26] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:30:26] BanchoBot: Active mods: Freemod
+[02:30:26] BanchoBot: Players: 6
+[02:30:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10562797 dragontiger34   [Team Blue / NoFail, HardRock]
+[02:30:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/341591 Akari-          [Team Blue / NoFail, Hidden]
+[02:30:26] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4533507 Hanikawa Kurose [Team Blue / NoFail, Hidden]
+[02:30:26] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11614518 Asuna Pringles  [Team Red  / NoFail, HardRock]
+[02:30:26] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10273040 Uruha Russia    [Team Red  / NoFail, Hidden]
+[02:30:26] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/12445254 Hlebushek31     [Team Red  / NoFail, Hidden]
+[02:30:27] BCraftMG: !mp start 10
+[02:30:27] BanchoBot: Countdown aborted
+[02:30:27] BanchoBot: Match starts in 10 seconds
+[02:30:27] BanchoBot: Queued the match to start in 10 seconds
+[02:30:33] BanchoBot: Match starts in 5 seconds
+[02:30:34] BanchoBot: Match starts in 4 seconds
+[02:30:35] BanchoBot: Match starts in 3 seconds
+[02:30:35] BanchoBot: Good luck, have fun!
+[02:30:38] BanchoBot: The match has started!
+[02:35:11] BanchoBot: Uruha Russia finished playing (Score: 871430, PASSED).
+[02:35:11] BanchoBot: dragontiger34 finished playing (Score: 714688, PASSED).
+[02:35:11] BanchoBot: Hanikawa Kurose finished playing (Score: 547264, PASSED).
+[02:35:11] BanchoBot: Akari- finished playing (Score: 437012, PASSED).
+[02:35:11] BanchoBot: Hlebushek31 finished playing (Score: 776395, PASSED).
+[02:35:13] BanchoBot: Asuna Pringles finished playing (Score: 517101, PASSED).
+[02:35:13] BanchoBot: The match has finished!
+[02:35:30] BCraftMG: turbino | 1 - 1 | *team name pending* // Next Pick: turbino
+[02:35:32] BCraftMG: !mp timer 120
+[02:35:33] BanchoBot: Countdown ends in 2 minutes
+[02:36:19] BanchoBot: Hlebushek31 left the game.
+[02:36:29] BanchoBot: Asteos joined in slot 4 for team red.
+[02:36:34] BanchoBot: Countdown ends in 1 minute
+[02:37:03] BanchoBot: Countdown ends in 30 seconds
+[02:37:24] BanchoBot: Countdown ends in 10 seconds
+[02:37:25] Asteos: hr1
+[02:37:29] BanchoBot: Countdown ends in 5 seconds
+[02:37:30] BanchoBot: Countdown ends in 4 seconds
+[02:37:31] BanchoBot: Countdown ends in 3 seconds
+[02:37:32] BanchoBot: Countdown ends in 2 seconds
+[02:37:32] BanchoBot: Countdown ends in 1 second
+[02:37:33] BanchoBot: Countdown finished
+[02:37:34] BCraftMG: !mp map 1573242
+[02:37:35] BanchoBot: Specter joined in slot 7 for team blue.
+[02:37:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1573242 Dreamcatcher - Full Moon
+[02:37:36] BCraftMG: !mp mods 17
+[02:37:37] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[02:37:38] BanchoBot: Akari- left the game.
+[02:37:40] BCraftMG: !Mp timer 120
+[02:37:40] BanchoBot: Countdown ends in 2 minutes
+[02:37:57] Hanikawa_Kurose: cringe mod
+[02:38:13] BanchoBot: Specter changed to Red
+[02:38:13] Asuna_Pringles: nf?
+[02:38:16] BanchoBot: Specter changed to Blue
+[02:38:27] Specter: :Skull:?
+[02:38:41] BanchoBot: Countdown ends in 1 minute
+[02:38:54] BCraftMG: NF is forced on all maps.
+[02:39:10] BanchoBot: Specter moved to slot 2
+[02:39:11] BanchoBot: Countdown ends in 30 seconds
+[02:39:13] BanchoBot: All players are ready
+[02:39:17] BCraftMG: !mp settings
+[02:39:17] Asuna_Pringles: :tf:
+[02:39:18] BanchoBot: Room name: STT3: (turbino) vs (*team name pending*), History: https://osu.ppy.sh/mp/101578149
+[02:39:18] BanchoBot: Beatmap: https://osu.ppy.sh/b/1573242 Dreamcatcher - Full Moon
+[02:39:18] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:39:18] BanchoBot: Active mods: NoFail, HardRock
+[02:39:18] BanchoBot: Players: 6
+[02:39:18] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10562797 dragontiger34   [Team Blue]
+[02:39:18] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14551370 Specter         [Team Blue]
+[02:39:18] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4533507 Hanikawa Kurose [Team Blue]
+[02:39:18] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11388879 Asteos          [Team Red ]
+[02:39:18] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11614518 Asuna Pringles  [Team Red ]
+[02:39:18] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10273040 Uruha Russia    [Team Red ]
+[02:39:21] Hanikawa_Kurose: glgl
+[02:39:28] BCraftMG: !mp start 10
+[02:39:29] BanchoBot: Countdown aborted
+[02:39:29] BanchoBot: Match starts in 10 seconds
+[02:39:30] BanchoBot: Queued the match to start in 10 seconds
+[02:39:35] BanchoBot: Match starts in 5 seconds
+[02:39:37] BanchoBot: Match starts in 4 seconds
+[02:39:37] BanchoBot: Match starts in 3 seconds
+[02:39:37] BanchoBot: Good luck, have fun!
+[02:39:40] BanchoBot: The match has started!
+[02:42:54] BanchoBot: dragontiger34 finished playing (Score: 652790, PASSED).
+[02:42:56] BanchoBot: Specter finished playing (Score: 390449, PASSED).
+[02:42:56] BanchoBot: Hanikawa Kurose finished playing (Score: 519050, PASSED).
+[02:42:56] BanchoBot: Asuna Pringles finished playing (Score: 720145, PASSED).
+[02:42:57] BanchoBot: Asteos finished playing (Score: 587245, PASSED).
+[02:42:57] BanchoBot: Uruha Russia finished playing (Score: 443979, PASSED).
+[02:42:57] BanchoBot: The match has finished!
+[02:43:17] BanchoBot: Hlebushek31 joined in slot 7 for team blue.
+[02:43:20] BCraftMG: turbino | 2 - 1 | *team name pending* // Next Pick: *team name pending*
+[02:43:22] BCraftMG: !mp timer 120
+[02:43:23] BanchoBot: Countdown ends in 2 minutes
+[02:44:05] BanchoBot: Cartoonknight joined in slot 8 for team red.
+[02:44:24] BanchoBot: Countdown ends in 1 minute
+[02:44:34] BanchoBot: dragontiger34 left the game.
+[02:44:50] BanchoBot: Specter left the game.
+[02:44:52] BanchoBot: Cloref joined in slot 1 for team blue.
+[02:44:53] BanchoBot: Countdown ends in 30 seconds
+[02:44:59] BanchoBot: Cloref moved to slot 9
+[02:45:00] BanchoBot: Specter joined in slot 1 for team blue.
+[02:45:01] Cartoonknight: dt2 pick
+[02:45:03] BanchoBot: Cloref changed to Red
+[02:45:06] BanchoBot: Asteos left the game.
+[02:45:10] BCraftMG: !mp map 3340118
+[02:45:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3340118 Cres. - One night in a harem
+[02:45:13] BCraftMG: !mp mods 65
+[02:45:13] BanchoBot: Countdown ends in 10 seconds
+[02:45:13] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[02:45:17] BCraftMG: !mp timer 120
+[02:45:18] BanchoBot: Hanikawa Kurose left the game.
+[02:45:18] BanchoBot: Countdown ends in 5 seconds
+[02:45:18] BanchoBot: Countdown aborted
+[02:45:18] BanchoBot: Countdown ends in 2 minutes
+[02:45:20] BanchoBot: Hlebushek31 left the game.
+[02:45:25] BanchoBot: Cloref left the game.
+[02:45:39] BanchoBot: D1amondL1on joined in slot 2 for team red.
+[02:45:42] BanchoBot: Hlebushek31 joined in slot 3 for team blue.
+[02:45:46] BanchoBot: Hlebushek31 moved to slot 7
+[02:45:49] BanchoBot: Hlebushek31 changed to Red
+[02:45:49] BanchoBot: Cartoonknight left the game.
+[02:45:49] BanchoBot: D1amondL1on moved to slot 4
+[02:45:56] BanchoBot: dragontiger34 joined in slot 2 for team red.
+[02:46:02] BanchoBot: dragontiger34 changed to Blue
+[02:46:03] BanchoBot: Hlebushek31 left the game.
+[02:46:06] BanchoBot: D1amondL1on moved to slot 7
+[02:46:17] BanchoBot: foe joined in slot 3 for team blue.
+[02:46:19] BanchoBot: Countdown ends in 1 minute
+[02:46:36] BanchoBot: All players are ready
+[02:46:40] BCraftMG: !mp settings
+[02:46:40] BanchoBot: Room name: STT3: (turbino) vs (*team name pending*), History: https://osu.ppy.sh/mp/101578149
+[02:46:40] BanchoBot: Beatmap: https://osu.ppy.sh/b/3340118 Cres. - One night in a harem
+[02:46:40] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:46:40] BanchoBot: Active mods: NoFail, DoubleTime
+[02:46:40] BanchoBot: Players: 6
+[02:46:40] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14551370 Specter         [Team Blue]
+[02:46:40] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10562797 dragontiger34   [Team Blue]
+[02:46:40] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15256896 foe             [Team Blue]
+[02:46:40] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11614518 Asuna Pringles  [Team Red ]
+[02:46:40] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10273040 Uruha Russia    [Team Red ]
+[02:46:40] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/12654242 D1amondL1on     [Team Red ]
+[02:46:42] Specter: gl
+[02:46:44] foe: glhf
+[02:46:45] BCraftMG: !mp start 10
+[02:46:46] BanchoBot: Countdown aborted
+[02:46:46] BanchoBot: Match starts in 10 seconds
+[02:46:46] BanchoBot: Queued the match to start in 10 seconds
+[02:46:52] BanchoBot: Match starts in 5 seconds
+[02:46:53] BanchoBot: Match starts in 4 seconds
+[02:46:53] BanchoBot: Match starts in 3 seconds
+[02:46:54] BanchoBot: Good luck, have fun!
+[02:46:56] BanchoBot: The match has started!
+[02:48:33] BanchoBot: D1amondL1on finished playing (Score: 729333, PASSED).
+[02:48:33] BanchoBot: Uruha Russia finished playing (Score: 975436, PASSED).
+[02:48:33] BanchoBot: Asuna Pringles finished playing (Score: 985771, PASSED).
+[02:48:33] BanchoBot: Specter finished playing (Score: 1059878, PASSED).
+[02:48:35] BanchoBot: dragontiger34 finished playing (Score: 1008334, PASSED).
+[02:48:35] BanchoBot: foe finished playing (Score: 536003, PASSED).
+[02:48:35] BanchoBot: The match has finished!
+[02:48:53] BCraftMG: turbino | 3 - 1 | *team name pending* // Next Pick: turbino
+[02:48:54] BCraftMG: !mp timer 120
+[02:48:55] BanchoBot: Countdown ends in 2 minutes
+[02:49:37] BanchoBot: Hanikawa Kurose joined in slot 4 for team red.
+[02:49:44] BanchoBot: Hanikawa Kurose moved to slot 12
+[02:49:49] BanchoBot: D1amondL1on left the game.
+[02:49:56] BanchoBot: Countdown ends in 1 minute
+[02:50:27] BanchoBot: Countdown ends in 30 seconds
+[02:50:34] BanchoBot: Asuna Pringles left the game.
+[02:50:39] BanchoBot: Asteos joined in slot 4 for team red.
+[02:50:39] BanchoBot: Hlebushek31 joined in slot 5 for team blue.
+[02:50:47] BanchoBot: Countdown ends in 10 seconds
+[02:50:51] BanchoBot: Countdown ends in 5 seconds
+[02:50:53] BanchoBot: Countdown ends in 4 seconds
+[02:50:53] BanchoBot: Countdown ends in 3 seconds
+[02:50:54] BanchoBot: Countdown ends in 2 seconds
+[02:50:55] BanchoBot: Countdown ends in 1 second
+[02:50:56] BanchoBot: Countdown finished
+[02:50:56] Asteos: hd2
+[02:50:57] BanchoBot: Hlebushek31 changed to Red
+[02:51:03] BanchoBot: Specter left the game.
+[02:51:04] BanchoBot: dragontiger34 left the game.
+[02:51:06] BCraftMG: !mp map 1236720
+[02:51:07] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1236720 Sota Fujimori - polygon
+[02:51:08] BCraftMG: !mp mods 9
+[02:51:09] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[02:51:12] BCraftMG: !mp timer 120
+[02:51:13] BanchoBot: Countdown ends in 2 minutes
+[02:51:16] BanchoBot: Akari- joined in slot 1 for team blue.
+[02:51:19] BanchoBot: Hanikawa Kurose moved to slot 2
+[02:51:22] BanchoBot: Hanikawa Kurose changed to Blue
+[02:51:37] BanchoBot: All players are ready
+[02:51:40] BCraftMG: !mp settings
+[02:51:41] foe: glhf
+[02:51:41] BanchoBot: Room name: STT3: (turbino) vs (*team name pending*), History: https://osu.ppy.sh/mp/101578149
+[02:51:41] BanchoBot: Beatmap: https://osu.ppy.sh/b/1236720 Sota Fujimori - polygon
+[02:51:41] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:51:41] BanchoBot: Active mods: NoFail, Hidden
+[02:51:41] BanchoBot: Players: 6
+[02:51:41] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/341591 Akari-          [Team Blue]
+[02:51:41] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4533507 Hanikawa Kurose [Team Blue]
+[02:51:41] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15256896 foe             [Team Blue]
+[02:51:41] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11388879 Asteos          [Team Red ]
+[02:51:41] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12445254 Hlebushek31     [Team Red ]
+[02:51:41] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10273040 Uruha Russia    [Team Red ]
+[02:51:44] BCraftMG: !mp start 10
+[02:51:44] BanchoBot: Countdown aborted
+[02:51:45] BanchoBot: Match starts in 10 seconds
+[02:51:45] BanchoBot: Queued the match to start in 10 seconds
+[02:51:48] Hlebushek31: GL
+[02:51:48] Hanikawa_Kurose: glgl
+[02:51:50] BanchoBot: Match starts in 5 seconds
+[02:51:50] Akari-: golf
+[02:51:52] BanchoBot: Match starts in 4 seconds
+[02:51:52] BanchoBot: Match starts in 3 seconds
+[02:51:53] BanchoBot: Good luck, have fun!
+[02:51:55] BanchoBot: The match has started!
+[02:51:57] Hlebushek31: golf
+[02:53:58] BanchoBot: Akari- finished playing (Score: 644625, PASSED).
+[02:53:58] BanchoBot: foe finished playing (Score: 370374, PASSED).
+[02:53:58] BanchoBot: Hanikawa Kurose finished playing (Score: 929550, PASSED).
+[02:53:59] BanchoBot: Uruha Russia finished playing (Score: 1016053, PASSED).
+[02:53:59] BanchoBot: Hlebushek31 finished playing (Score: 627580, PASSED).
+[02:53:59] BanchoBot: Asteos finished playing (Score: 648200, PASSED).
+[02:53:59] BanchoBot: The match has finished!
+[02:54:20] BCraftMG: turbino | 4 - 1 | *team name pending* // Next Pick: *team name pending*
+[02:54:22] BCraftMG: !mp timer 120
+[02:54:23] BanchoBot: Countdown ends in 2 minutes
+[02:55:12] BanchoBot: Cartoonknight joined in slot 7 for team blue.
+[02:55:24] BanchoBot: Countdown ends in 1 minute
+[02:55:24] BanchoBot: D1amondL1on joined in slot 8 for team red.
+[02:55:38] BanchoBot: Cloref joined in slot 9 for team blue.
+[02:55:54] BanchoBot: Countdown ends in 30 seconds
+[02:56:14] BanchoBot: Countdown ends in 10 seconds
+[02:56:19] BanchoBot: Countdown ends in 5 seconds
+[02:56:20] BanchoBot: Countdown ends in 4 seconds
+[02:56:21] BanchoBot: Countdown ends in 3 seconds
+[02:56:21] BanchoBot: Countdown ends in 2 seconds
+[02:56:23] BanchoBot: Countdown ends in 1 second
+[02:56:24] BanchoBot: Countdown finished
+[02:56:31] Cartoonknight: dt1 pcik
+[02:56:53] BCraftMG: Teams have 120 seconds between protecting, banning, and picking. If the timer completes and there is no decision in chat, the team will forfeit their decision and the other team will choose instead.
+[02:57:07] BCraftMG: um
+[02:57:08] BanchoBot: Specter joined in slot 10 for team red.
+[02:57:11] BCraftMG: ill allow
+[02:57:17] Asteos: ez
+[02:57:26] Asteos: pick
+[02:57:27] Asteos: *
+[02:57:27] BCraftMG: but please try to send in time
+[02:57:31] BCraftMG: !mp map 195946
+[02:57:31] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/195946 Usa - Shining/STREAM
+[02:57:37] BCraftMG: !mp mods 65
+[02:57:39] Cartoonknight: sorry sorry
+[02:57:39] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[02:57:42] BCraftMG: !mp timer 120
+[02:57:43] BanchoBot: D1amondL1on left the game.
+[02:57:43] BanchoBot: Asteos left the game.
+[02:57:43] BanchoBot: Countdown ends in 2 minutes
+[02:57:45] BanchoBot: Cloref left the game.
+[02:57:54] BanchoBot: foe left the game.
+[02:57:56] BanchoBot: Asuna Pringles joined in slot 3 for team blue.
+[02:57:57] BanchoBot: dragontiger34 joined in slot 4 for team red.
+[02:58:02] BanchoBot: Specter moved to slot 8
+[02:58:05] BanchoBot: dragontiger34 moved to slot 10
+[02:58:05] BanchoBot: Specter changed to Blue
+[02:58:07] BanchoBot: Specter changed to Red
+[02:58:08] BanchoBot: Specter changed to Blue
+[02:58:09] BanchoBot: Specter moved to slot 4
+[02:58:14] BanchoBot: Asuna Pringles changed to Red
+[02:58:29] BanchoBot: Cartoonknight left the game.
+[02:58:45] BanchoBot: Countdown ends in 1 minute
+[02:58:45] Specter: what color are wwe
+[02:58:51] Specter: blue?
+[02:58:52] Hlebushek31: Blue
+[02:58:53] BanchoBot: dragontiger34 changed to Blue
+[02:58:56] Hlebushek31: lol
+[02:58:58] BanchoBot: Specter left the game.
+[02:59:00] BanchoBot: Asuna Pringles moved to slot 4
+[02:59:01] BanchoBot: dragontiger34 moved to slot 3
+[02:59:06] BCraftMG: be the imposter
+[02:59:14] BanchoBot: Countdown ends in 30 seconds
+[02:59:22] Hlebushek31: Yeah, ahah
+[02:59:22] Hanikawa_Kurose: glgl
+[02:59:27] Hlebushek31: gl
+[02:59:34] BanchoBot: Countdown ends in 10 seconds
+[02:59:39] BanchoBot: Countdown ends in 5 seconds
+[02:59:39] BanchoBot: Countdown ends in 4 seconds
+[02:59:39] BanchoBot: All players are ready
+[02:59:41] BanchoBot: Countdown ends in 3 seconds
+[02:59:41] BCraftMG: !mp settings
+[02:59:42] BanchoBot: Countdown ends in 2 seconds
+[02:59:42] BanchoBot: Room name: STT3: (turbino) vs (*team name pending*), History: https://osu.ppy.sh/mp/101578149
+[02:59:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/195946 Usa - Shining/STREAM
+[02:59:42] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:59:42] BanchoBot: Active mods: NoFail, DoubleTime
+[02:59:42] BanchoBot: Players: 6
+[02:59:42] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/341591 Akari-          [Team Blue]
+[02:59:42] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4533507 Hanikawa Kurose [Team Blue]
+[02:59:42] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10562797 dragontiger34   [Team Blue]
+[02:59:42] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11614518 Asuna Pringles  [Team Red ]
+[02:59:42] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12445254 Hlebushek31     [Team Red ]
+[02:59:42] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10273040 Uruha Russia    [Team Red ]
+[02:59:43] BanchoBot: Countdown ends in 1 second
+[02:59:44] BanchoBot: Countdown finished
+[02:59:45] BCraftMG: !mp start 10
+[02:59:46] Akari-: gl
+[02:59:46] BanchoBot: Match starts in 10 seconds
+[02:59:46] BanchoBot: Queued the match to start in 10 seconds
+[02:59:51] BanchoBot: Match starts in 5 seconds
+[02:59:53] BanchoBot: Match starts in 4 seconds
+[02:59:53] BanchoBot: Match starts in 3 seconds
+[02:59:54] BanchoBot: Good luck, have fun!
+[02:59:56] BanchoBot: The match has started!
+[03:02:40] BanchoBot: dragontiger34 finished playing (Score: 597970, PASSED).
+[03:02:41] BanchoBot: Akari- finished playing (Score: 915238, PASSED).
+[03:02:41] BanchoBot: Asuna Pringles finished playing (Score: 1094737, PASSED).
+[03:02:41] BanchoBot: Uruha Russia finished playing (Score: 1130187, PASSED).
+[03:02:42] BanchoBot: Hanikawa Kurose finished playing (Score: 812329, PASSED).
+[03:02:43] BanchoBot: Hlebushek31 finished playing (Score: 1165408, PASSED).
+[03:02:43] BanchoBot: The match has finished!
+[03:02:57] Akari-: nice fcs
+[03:02:59] Akari-: ggwp
+[03:03:03] Asuna_Pringles: gg
+[03:03:07] Uruha_Russia: gg
+[03:03:08] Hlebushek31: Gg
+[03:03:13] BCraftMG: ggwp
+[03:03:19] Hanikawa_Kurose: gg
+[03:03:20] BanchoBot: Hanikawa Kurose left the game.
+[03:03:22] BanchoBot: Uruha Russia left the game.
+[03:03:22] Hlebushek31: Thx for reffering
+[03:03:27] BCraftMG: <3
+[03:03:31] dragontiger34: Thanks for reffing!
+[03:03:33] Hlebushek31: Gg guys
+[03:03:38] BanchoBot: Hlebushek31 left the game.
+[03:03:42] Akari-: thx for ref
+[03:03:42] BanchoBot: D1amondL1on joined in slot 2 for team red.
+[03:03:44] BanchoBot: Akari- left the game.
+[03:03:50] BanchoBot: Cloref joined in slot 1 for team blue.
+[03:03:58] BanchoBot: dragontiger34 left the game.
+[03:04:02] BanchoBot: Uruha Russia joined in slot 3 for team blue.
+[03:04:10] BanchoBot: Asteos joined in slot 5 for team blue.
+[03:04:24] BanchoBot: Hlebushek31 joined in slot 6 for team red.
+[03:04:29] Hlebushek31: Hi guys
+[03:04:35] Uruha_Russia: hi
+[03:04:39] Asteos: yo
+[03:04:43] D1amondL1on: HI
+[03:04:43] Asuna_Pringles: o/
+[03:04:53] Uruha_Russia: when do we start?
+[03:05:07] D1amondL1on: Are u here??
+[03:05:09] Asteos: Match starts in: 3
+[03:05:10] BCraftMG: uh
+[03:05:10] Asteos: Match starts in: 2
+[03:05:11] BCraftMG: what
+[03:05:11] Asteos: Match starts in: 1
+[03:05:19] D1amondL1on: xd
+[03:05:21] BCraftMG: dont do this to me
+[03:05:24] BCraftMG: isnt the match ended
+[03:05:26] Hlebushek31: Xddddd
+[03:05:29] BanchoBot: Hlebushek31 left the game.
+[03:05:31] BanchoBot: Asuna Pringles left the game.
+[03:05:32] BanchoBot: Asteos left the game.
+[03:05:35] BanchoBot: Cloref left the game.
+[03:05:36] BanchoBot: D1amondL1on left the game.
+[03:05:49] BanchoBot: Uruha Russia left the game.
+[03:06:02] BCraftMG: !mp close
+[03:06:03] BanchoBot: Closed the match

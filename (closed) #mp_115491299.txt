@@ -1,0 +1,560 @@
+[22:58:00] Joined #mp_115491299
+[22:58:00] BCraftMG: !mp settings
+[22:58:01] BanchoBot: Room name: DTLN: (Qualifiers) vs (Match A6), History: https://osu.ppy.sh/mp/115491299
+[22:58:01] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[22:58:01] BanchoBot: Players: 0
+[22:58:18] BCraftMG: !mp set 0 3 3
+[22:58:18] BanchoBot: Changed match settings to 3 slots, HeadToHead, ScoreV2
+[22:58:19] BCraftMG: !mp map 2313506 0
+[22:58:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2313506 Poppin'Party - Tear Drops
+[22:58:19] BanchoBot: Changed match mode to Osu
+[22:58:20] BCraftMG: !mp mods 1
+[22:58:20] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:58:22] BCraftMG: !mp invite #24210298
+[22:58:22] BanchoBot: Invited stillperry to the room
+[22:58:31] BanchoBot: stillperry joined in slot 1.
+[22:58:54] BanchoBot: khanhduy joined in slot 2.
+[22:59:05] BanchoBot: All players are ready
+[22:59:05] BCraftMG: !mp settings
+[22:59:06] BanchoBot: Room name: DTLN: (Qualifiers) vs (Match A6), History: https://osu.ppy.sh/mp/115491299
+[22:59:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/2313506 Poppin'Party - Tear Drops
+[22:59:06] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:59:06] BanchoBot: Active mods: NoFail
+[22:59:06] BanchoBot: Players: 2
+[22:59:06] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/24210298 stillperry      
+[22:59:06] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16702879 khanhduy        
+[22:59:07] BCraftMG: !mp start 5 glhf
+[22:59:09] BanchoBot: Match starts in 5 seconds
+[22:59:09] BanchoBot: Queued the match to start in 5 seconds
+[22:59:10] BanchoBot: Match starts in 4 seconds
+[22:59:11] BanchoBot: Match starts in 3 seconds
+[22:59:12] BanchoBot: Good luck, have fun!
+[22:59:14] BanchoBot: The match has started!
+[23:02:55] BanchoBot: khanhduy finished playing (Score: 106707, PASSED).
+[23:02:55] BanchoBot: stillperry finished playing (Score: 281990, PASSED).
+[23:02:55] BanchoBot: The match has finished!
+[23:03:00] BCraftMG: !mp map 4233618 0
+[23:03:01] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4233618 Kushper - Versailles
+[23:03:01] BanchoBot: Changed match mode to Osu
+[23:03:08] BCraftMG: !mp invite #15429779
+[23:03:08] BanchoBot: Invited Lugost Angel to the room
+[23:03:09] BanchoBot: All players are ready
+[23:03:13] BCraftMG: hi chat
+[23:03:15] BanchoBot: Lugost Angel joined in slot 3.
+[23:03:21] BanchoBot: Lugost Angel left the game.
+[23:03:21] BCraftMG: 1 team quick join
+[23:03:26] BCraftMG: !mp timer 120
+[23:03:26] BanchoBot: Countdown ends in 2 minutes
+[23:03:37] BCraftMG: het 2p ben kia k vao thi choi tiep nhe
+[23:03:47] stillperry: ok a
+[23:04:24] BCraftMG: nvm bị trôn
+[23:04:27] BanchoBot: Countdown ends in 1 minute
+[23:04:28] BCraftMG: start này
+[23:04:29] BCraftMG: !mp settings
+[23:04:29] BanchoBot: Room name: DTLN: (Qualifiers) vs (Match A6), History: https://osu.ppy.sh/mp/115491299
+[23:04:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/4233618 Kushper - Versailles
+[23:04:29] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:04:29] BanchoBot: Active mods: NoFail
+[23:04:29] BanchoBot: Players: 2
+[23:04:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/24210298 stillperry      
+[23:04:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16702879 khanhduy        
+[23:04:31] BCraftMG: !mp start 5 glhf
+[23:04:32] BanchoBot: Countdown aborted
+[23:04:32] BanchoBot: Match starts in 5 seconds
+[23:04:32] BanchoBot: Queued the match to start in 5 seconds
+[23:04:33] BanchoBot: Match starts in 4 seconds
+[23:04:34] BanchoBot: Match starts in 3 seconds
+[23:04:35] BanchoBot: Good luck, have fun!
+[23:04:37] BanchoBot: The match has started!
+[23:08:19] BanchoBot: stillperry finished playing (Score: 252889, PASSED).
+[23:08:19] BanchoBot: khanhduy finished playing (Score: 24139, PASSED).
+[23:08:19] BanchoBot: The match has finished!
+[23:08:41] BanchoBot: Lugost Angel joined in slot 3.
+[23:08:48] BCraftMG: !mp map 2731383 0
+[23:08:49] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2731383 YOASOBI - Halzion
+[23:08:49] BanchoBot: Changed match mode to Osu
+[23:08:56] Lugost_Angel: mo 1 slot
+[23:08:58] Lugost_Angel: anh iu
+[23:09:00] BCraftMG: !mp size 6
+[23:09:01] BanchoBot: Changed match to size 6
+[23:09:03] BanchoBot: Datphu joined in slot 4.
+[23:09:10] BCraftMG: !mp settings
+[23:09:11] BanchoBot: Room name: DTLN: (Qualifiers) vs (Match A6), History: https://osu.ppy.sh/mp/115491299
+[23:09:11] BanchoBot: Beatmap: https://osu.ppy.sh/b/2731383 YOASOBI - Halzion
+[23:09:11] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:09:11] BanchoBot: Active mods: NoFail
+[23:09:11] BanchoBot: Players: 4
+[23:09:11] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/24210298 stillperry      
+[23:09:11] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16702879 khanhduy        
+[23:09:11] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/15429779 Lugost Angel    
+[23:09:11] BanchoBot: Slot 4  No Map    https://osu.ppy.sh/u/9841297 Datphu          
+[23:09:14] BCraftMG: !mp timer 90
+[23:09:15] BCraftMG: ffs
+[23:09:15] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[23:09:34] Datphu: hello em b rap
+[23:09:34] BanchoBot: All players are ready
+[23:09:37] BCraftMG: !mp settings
+[23:09:37] BanchoBot: Room name: DTLN: (Qualifiers) vs (Match A6), History: https://osu.ppy.sh/mp/115491299
+[23:09:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/2731383 YOASOBI - Halzion
+[23:09:37] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:09:37] BanchoBot: Active mods: NoFail
+[23:09:37] BanchoBot: Players: 4
+[23:09:37] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/24210298 stillperry      
+[23:09:37] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16702879 khanhduy        
+[23:09:37] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15429779 Lugost Angel    
+[23:09:37] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9841297 Datphu          
+[23:09:38] BCraftMG: !mp start 5 glhf
+[23:09:39] BanchoBot: Countdown aborted
+[23:09:39] BanchoBot: Match starts in 5 seconds
+[23:09:39] BanchoBot: Queued the match to start in 5 seconds
+[23:09:40] BanchoBot: Match starts in 4 seconds
+[23:09:41] BanchoBot: Match starts in 3 seconds
+[23:09:42] BanchoBot: Good luck, have fun!
+[23:09:43] BCraftMG: !mp addref - Fubukiii
+[23:09:44] BanchoBot: Added - Fubukiii to the match referees
+[23:09:45] BanchoBot: The match has started!
+[23:13:09] BanchoBot: Lugost Angel finished playing (Score: 299742, PASSED).
+[23:13:10] BanchoBot: khanhduy finished playing (Score: 71822, PASSED).
+[23:13:10] BanchoBot: stillperry finished playing (Score: 397653, PASSED).
+[23:13:11] BanchoBot: Datphu finished playing (Score: 419853, PASSED).
+[23:13:11] BanchoBot: The match has finished!
+[23:13:16] BCraftMG: !mp map 4660860 0
+[23:13:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4660860 II-L - PIONEER-4
+[23:13:17] BanchoBot: Changed match mode to Osu
+[23:13:22] BanchoBot: Lugost Angel left the game.
+[23:13:43] BanchoBot: Astrayl3 joined in slot 3.
+[23:14:18] BanchoBot: All players are ready
+[23:15:00] BCraftMG: !mp settings
+[23:15:01] BanchoBot: Room name: DTLN: (Qualifiers) vs (Match A6), History: https://osu.ppy.sh/mp/115491299
+[23:15:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/4660860 II-L - PIONEER-4
+[23:15:01] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:15:01] BanchoBot: Active mods: NoFail
+[23:15:01] BanchoBot: Players: 4
+[23:15:01] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/24210298 stillperry      
+[23:15:01] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16702879 khanhduy        
+[23:15:01] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11999654 Astrayl3        
+[23:15:01] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9841297 Datphu          
+[23:15:02] BCraftMG: !mp start 5 glhf
+[23:15:03] BanchoBot: Match starts in 5 seconds
+[23:15:03] BanchoBot: Queued the match to start in 5 seconds
+[23:15:04] BanchoBot: Match starts in 4 seconds
+[23:15:05] BanchoBot: Match starts in 3 seconds
+[23:15:06] BanchoBot: Good luck, have fun!
+[23:15:09] BanchoBot: The match has started!
+[23:17:27] BanchoBot: Astrayl3 finished playing (Score: 428705, PASSED).
+[23:17:27] BanchoBot: stillperry finished playing (Score: 396801, PASSED).
+[23:17:27] BanchoBot: Datphu finished playing (Score: 439153, PASSED).
+[23:17:28] BanchoBot: khanhduy finished playing (Score: 135599, PASSED).
+[23:17:28] BanchoBot: The match has finished!
+[23:17:33] BCraftMG: !mp map 3324641 0
+[23:17:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3324641 Police Piccadilly feat. Hatsune Miku - Chaotic Love Revolution
+[23:17:34] BanchoBot: Changed match mode to Osu
+[23:17:35] BCraftMG: !Mp mods 9
+[23:17:35] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[23:17:47] BanchoBot: Astrayl3 left the game.
+[23:18:06] BCraftMG: !mp map 3324641 0
+[23:18:07] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3324641 Police Piccadilly feat. Hatsune Miku - Chaotic Love Revolution
+[23:18:07] BanchoBot: Changed match mode to Osu
+[23:18:28] BanchoBot: All players are ready
+[23:18:30] BCraftMG: !mp settings
+[23:18:32] BanchoBot: Room name: DTLN: (Qualifiers) vs (Match A6), History: https://osu.ppy.sh/mp/115491299
+[23:18:32] BanchoBot: Beatmap: https://osu.ppy.sh/b/3324641 Police Piccadilly feat. Hatsune Miku - Chaotic Love Revolution
+[23:18:32] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:18:32] BanchoBot: Active mods: NoFail, Hidden
+[23:18:32] BanchoBot: Players: 3
+[23:18:32] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/24210298 stillperry      
+[23:18:32] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16702879 khanhduy        
+[23:18:32] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9841297 Datphu          
+[23:18:40] BCraftMG: !mp invite Astrayl3
+[23:18:40] BanchoBot: Invited Astrayl3 to the room
+[23:18:43] BanchoBot: Astrayl3 joined in slot 3.
+[23:18:46] BanchoBot: All players are ready
+[23:18:47] BCraftMG: !mp settings
+[23:18:49] BanchoBot: Room name: DTLN: (Qualifiers) vs (Match A6), History: https://osu.ppy.sh/mp/115491299
+[23:18:49] BanchoBot: Beatmap: https://osu.ppy.sh/b/3324641 Police Piccadilly feat. Hatsune Miku - Chaotic Love Revolution
+[23:18:49] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:18:49] BanchoBot: Active mods: NoFail, Hidden
+[23:18:49] BanchoBot: Players: 4
+[23:18:49] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/24210298 stillperry      
+[23:18:49] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16702879 khanhduy        
+[23:18:49] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11999654 Astrayl3        
+[23:18:49] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9841297 Datphu          
+[23:18:50] BCraftMG: !mp start 5 glhf
+[23:18:50] BanchoBot: Match starts in 5 seconds
+[23:18:50] BanchoBot: Queued the match to start in 5 seconds
+[23:18:51] BanchoBot: Match starts in 4 seconds
+[23:18:53] BanchoBot: Match starts in 3 seconds
+[23:18:54] BanchoBot: Good luck, have fun!
+[23:18:56] BanchoBot: The match has started!
+[23:23:25] BanchoBot: Astrayl3 finished playing (Score: 146215, PASSED).
+[23:23:25] BanchoBot: stillperry finished playing (Score: 286917, PASSED).
+[23:23:26] BanchoBot: Datphu finished playing (Score: 415989, PASSED).
+[23:23:26] BanchoBot: khanhduy finished playing (Score: 54125, PASSED).
+[23:23:26] BanchoBot: The match has finished!
+[23:23:43] BCraftMG: !mp map 3814308 0
+[23:23:44] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3814308 Rita - Yaiba ni Nokoru wa Kimi no Omokage (half chorus)
+[23:23:44] BanchoBot: Changed match mode to Osu
+[23:23:48] BCraftMG: !mp timer 120
+[23:23:48] BanchoBot: Countdown ends in 2 minutes
+[23:24:41] BanchoBot: All players are ready
+[23:24:44] BCraftMG: !mp settings
+[23:24:45] BanchoBot: Room name: DTLN: (Qualifiers) vs (Match A6), History: https://osu.ppy.sh/mp/115491299
+[23:24:45] BanchoBot: Beatmap: https://osu.ppy.sh/b/3814308 Rita - Yaiba ni Nokoru wa Kimi no Omokage (half chorus)
+[23:24:45] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:24:45] BanchoBot: Active mods: NoFail, Hidden
+[23:24:45] BanchoBot: Players: 4
+[23:24:45] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/24210298 stillperry      
+[23:24:45] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16702879 khanhduy        
+[23:24:45] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11999654 Astrayl3        
+[23:24:45] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9841297 Datphu          
+[23:24:45] BCraftMG: !mp start 5 glhf
+[23:24:46] BanchoBot: Countdown aborted
+[23:24:46] BanchoBot: Match starts in 5 seconds
+[23:24:46] BanchoBot: Queued the match to start in 5 seconds
+[23:24:47] BanchoBot: Match starts in 4 seconds
+[23:24:48] BanchoBot: Match starts in 3 seconds
+[23:24:49] BanchoBot: Good luck, have fun!
+[23:24:51] BanchoBot: The match has started!
+[23:27:15] BanchoBot: Astrayl3 finished playing (Score: 196570, PASSED).
+[23:27:15] BanchoBot: Datphu finished playing (Score: 712455, PASSED).
+[23:27:15] BanchoBot: stillperry finished playing (Score: 272357, PASSED).
+[23:27:17] BanchoBot: khanhduy finished playing (Score: 342115, PASSED).
+[23:27:17] BanchoBot: The match has finished!
+[23:27:27] BanchoBot: Astrayl3 left the game.
+[23:27:36] BanchoBot: Lugost Angel joined in slot 3.
+[23:27:59] BCraftMG: !mp map 4597383 0
+[23:27:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4597383 PSYQUI - Your Voice so... feat. Such
+[23:27:59] BanchoBot: Changed match mode to Osu
+[23:28:07] BCraftMG: !mp mods 17
+[23:28:08] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[23:28:26] BanchoBot: All players are ready
+[23:28:33] BCraftMG: !mp settings
+[23:28:34] BanchoBot: Room name: DTLN: (Qualifiers) vs (Match A6), History: https://osu.ppy.sh/mp/115491299
+[23:28:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/4597383 PSYQUI - Your Voice so... feat. Such
+[23:28:34] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:28:34] BanchoBot: Active mods: NoFail, HardRock
+[23:28:34] BanchoBot: Players: 4
+[23:28:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/24210298 stillperry      
+[23:28:34] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16702879 khanhduy        
+[23:28:34] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15429779 Lugost Angel    
+[23:28:34] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9841297 Datphu          
+[23:28:35] BCraftMG: !mp start 5 glhf
+[23:28:35] BanchoBot: Match starts in 5 seconds
+[23:28:35] BanchoBot: Queued the match to start in 5 seconds
+[23:28:36] BanchoBot: Match starts in 4 seconds
+[23:28:37] BanchoBot: Match starts in 3 seconds
+[23:28:38] BanchoBot: Good luck, have fun!
+[23:28:40] BanchoBot: The match has started!
+[23:29:11] Datphu: bcraft oi aboirt dc k
+[23:29:14] Datphu: loi
+[23:29:21] Datphu: keyboard issue
+[23:29:22] BCraftMG: lat replay a
+[23:29:37] -_Fubukiii: !mp settings
+[23:29:37] BanchoBot: Room name: DTLN: (Qualifiers) vs (Match A6), History: https://osu.ppy.sh/mp/115491299
+[23:29:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/4597383 PSYQUI - Your Voice so... feat. Such
+[23:29:37] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:29:37] BanchoBot: Active mods: NoFail, HardRock
+[23:29:37] BanchoBot: Players: 4
+[23:29:37] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/24210298 stillperry      
+[23:29:38] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/16702879 khanhduy        
+[23:29:38] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/15429779 Lugost Angel    
+[23:29:38] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/9841297 Datphu          
+[23:29:41] -_Fubukiii: b cáp ơi
+[23:29:42] -_Fubukiii: abort
+[23:30:14] BanchoBot: Datphu left the game.
+[23:30:23] BanchoBot: Datphu joined in slot 4.
+[23:32:49] BanchoBot: stillperry finished playing (Score: 179492, PASSED).
+[23:32:51] BanchoBot: Lugost Angel finished playing (Score: 344008, PASSED).
+[23:32:53] BanchoBot: khanhduy finished playing (Score: 9494, PASSED).
+[23:32:53] BanchoBot: The match has finished!
+[23:33:02] BCraftMG: datphu ti replay hr1
+[23:33:04] BCraftMG: !mp map 3356278 0
+[23:33:05] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3356278 sana - babyhalo
+[23:33:05] BanchoBot: Changed match mode to Osu
+[23:33:14] BCraftMG: !mp timer 120
+[23:33:14] BanchoBot: Countdown ends in 2 minutes
+[23:33:32] BanchoBot: All players are ready
+[23:33:33] BCraftMG: !mp settings
+[23:33:35] BanchoBot: Room name: DTLN: (Qualifiers) vs (Match A6), History: https://osu.ppy.sh/mp/115491299
+[23:33:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/3356278 sana - babyhalo
+[23:33:35] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:33:35] BanchoBot: Active mods: NoFail, HardRock
+[23:33:35] BanchoBot: Players: 4
+[23:33:35] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/24210298 stillperry      
+[23:33:35] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16702879 khanhduy        
+[23:33:35] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15429779 Lugost Angel    
+[23:33:35] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9841297 Datphu          
+[23:33:35] BCraftMG: !mp start 5 glhf
+[23:33:36] BanchoBot: Countdown aborted
+[23:33:36] BanchoBot: Match starts in 5 seconds
+[23:33:36] BanchoBot: Queued the match to start in 5 seconds
+[23:33:38] BanchoBot: Match starts in 4 seconds
+[23:33:38] BanchoBot: Match starts in 3 seconds
+[23:33:40] BanchoBot: Good luck, have fun!
+[23:33:42] BanchoBot: The match has started!
+[23:36:32] BanchoBot: khanhduy finished playing (Score: 27071, PASSED).
+[23:36:34] BanchoBot: Datphu finished playing (Score: 420808, PASSED).
+[23:36:36] BanchoBot: stillperry finished playing (Score: 221614, PASSED).
+[23:36:36] BanchoBot: Lugost Angel finished playing (Score: 575041, PASSED).
+[23:36:36] BanchoBot: The match has finished!
+[23:36:45] BCraftMG: !mp map 3665101 0
+[23:36:45] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3665101 Nishino Kana - Distance
+[23:36:45] BanchoBot: Changed match mode to Osu
+[23:36:46] BCraftMG: !mp mods 65\
+[23:36:47] BanchoBot: Disabled all mods, disabled FreeMod
+[23:36:48] BCraftMG: !mp mods 65
+[23:36:49] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[23:36:50] BCraftMG: !mp timer 120
+[23:36:50] BanchoBot: Countdown ends in 2 minutes
+[23:37:50] BanchoBot: Countdown ends in 1 minute
+[23:38:05] BCraftMG: !mp kick Lugost Angel
+[23:38:06] BanchoBot: Lugost Angel left the game.
+[23:38:06] BanchoBot: Kicked Lugost Angel from the match
+[23:38:12] BanchoBot: Lugost Angel joined in slot 3.
+[23:38:21] BanchoBot: Countdown ends in 30 seconds
+[23:38:25] BCraftMG: !mp settings
+[23:38:26] BanchoBot: Room name: DTLN: (Qualifiers) vs (Match A6), History: https://osu.ppy.sh/mp/115491299
+[23:38:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/3665101 Nishino Kana - Distance
+[23:38:26] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:38:26] BanchoBot: Active mods: NoFail, DoubleTime
+[23:38:26] BanchoBot: Players: 4
+[23:38:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/24210298 stillperry      
+[23:38:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16702879 khanhduy        
+[23:38:26] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15429779 Lugost Angel    
+[23:38:26] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/9841297 Datphu          
+[23:38:40] BanchoBot: Countdown ends in 10 seconds
+[23:38:46] BanchoBot: Countdown ends in 5 seconds
+[23:38:47] BanchoBot: Countdown ends in 4 seconds
+[23:38:48] BanchoBot: Countdown ends in 3 seconds
+[23:38:49] BanchoBot: Countdown ends in 2 seconds
+[23:38:50] BanchoBot: Countdown ends in 1 second
+[23:38:51] BanchoBot: Countdown finished
+[23:38:57] BCraftMG: Datphu modcheck
+[23:39:15] BCraftMG: :yeep:
+[23:39:19] BCraftMG: !mp settings
+[23:39:20] BanchoBot: Room name: DTLN: (Qualifiers) vs (Match A6), History: https://osu.ppy.sh/mp/115491299
+[23:39:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/3665101 Nishino Kana - Distance
+[23:39:20] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:39:20] BanchoBot: Active mods: NoFail, DoubleTime
+[23:39:20] BanchoBot: Players: 4
+[23:39:20] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/24210298 stillperry      
+[23:39:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16702879 khanhduy        
+[23:39:20] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15429779 Lugost Angel    
+[23:39:20] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/9841297 Datphu          
+[23:39:27] Lugost_Angel: alo
+[23:39:29] Lugost_Angel: đâu r
+[23:39:30] BCraftMG: @Lugost where teammate
+[23:39:30] Lugost_Angel: trôn v
+[23:39:45] Lugost_Angel: !stat datphu
+[23:39:45] BanchoBot: Stats for (Datphu)[https://osu.ppy.sh/u/9841297] is Afk:
+[23:39:45] BanchoBot: Score:    6,577,938,230 (#84026)
+[23:39:45] BanchoBot: Plays:    26274 (lv99)
+[23:39:45] BanchoBot: Accuracy: 98.91%
+[23:39:49] Lugost_Angel: ???
+[23:39:53] Lugost_Angel: chắc đi vệ sinh hả
+[23:40:05] BCraftMG: !mp settings
+[23:40:06] BanchoBot: Room name: DTLN: (Qualifiers) vs (Match A6), History: https://osu.ppy.sh/mp/115491299
+[23:40:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/3665101 Nishino Kana - Distance
+[23:40:06] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:40:06] BanchoBot: Active mods: NoFail, DoubleTime
+[23:40:06] BanchoBot: Players: 4
+[23:40:06] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/24210298 stillperry      
+[23:40:06] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16702879 khanhduy        
+[23:40:06] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15429779 Lugost Angel    
+[23:40:06] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/9841297 Datphu          
+[23:40:27] BCraftMG: có replace k
+[23:40:32] BCraftMG: k thì start nè
+[23:40:37] BCraftMG: kick ra r start
+[23:40:46] BCraftMG: mất tg quá
+[23:40:53] Lugost_Angel: kick đi
+[23:41:02] Lugost_Angel: wait
+[23:41:03] Lugost_Angel: tu tu
+[23:41:03] BanchoBot: All players are ready
+[23:41:05] Lugost_Angel: vào r
+[23:41:06] BCraftMG: !mp settings
+[23:41:06] BanchoBot: Room name: DTLN: (Qualifiers) vs (Match A6), History: https://osu.ppy.sh/mp/115491299
+[23:41:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/3665101 Nishino Kana - Distance
+[23:41:06] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:41:06] BanchoBot: Active mods: NoFail, DoubleTime
+[23:41:06] BanchoBot: Players: 4
+[23:41:06] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/24210298 stillperry      
+[23:41:06] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16702879 khanhduy        
+[23:41:06] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15429779 Lugost Angel    
+[23:41:06] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9841297 Datphu          
+[23:41:08] BCraftMG: smh
+[23:41:09] BCraftMG: !mp start 5 glhf
+[23:41:10] Lugost_Angel: =))
+[23:41:10] BanchoBot: Match starts in 5 seconds
+[23:41:10] BanchoBot: Queued the match to start in 5 seconds
+[23:41:11] BanchoBot: Match starts in 4 seconds
+[23:41:12] BanchoBot: Match starts in 3 seconds
+[23:41:13] BanchoBot: Good luck, have fun!
+[23:41:15] -_Fubukiii: đề nghị bớt chôn
+[23:41:15] BanchoBot: The match has started!
+[23:43:10] BanchoBot: Datphu left the game.
+[23:43:42] BanchoBot: Lugost Angel finished playing (Score: 544403, PASSED).
+[23:43:43] BanchoBot: stillperry finished playing (Score: 691763, PASSED).
+[23:43:44] BanchoBot: khanhduy finished playing (Score: 57030, PASSED).
+[23:43:44] BanchoBot: The match has finished!
+[23:44:05] Lugost_Angel: clgt
+[23:44:06] Lugost_Angel: rớt mạng hả
+[23:44:11] BCraftMG: !mp map 4710513 0
+[23:44:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4710513 Hanyu Miina - @Your Side
+[23:44:11] BanchoBot: Changed match mode to Osu
+[23:44:27] BCraftMG: !mp timer 120
+[23:44:27] BanchoBot: Countdown ends in 2 minutes
+[23:44:30] BCraftMG: danh dam
+[23:44:44] BanchoBot: Datphu joined in slot 4.
+[23:45:00] Lugost_Angel: vcc
+[23:45:06] Lugost_Angel: rớt mạng thiệt
+[23:45:16] Datphu: dang choi cu rot mang hoai
+[23:45:18] Datphu: buc ghe
+[23:45:21] BanchoBot: All players are ready
+[23:45:22] BCraftMG: !mp settings
+[23:45:22] BanchoBot: Room name: DTLN: (Qualifiers) vs (Match A6), History: https://osu.ppy.sh/mp/115491299
+[23:45:22] BanchoBot: Beatmap: https://osu.ppy.sh/b/4710513 Hanyu Miina - @Your Side
+[23:45:22] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:45:22] BanchoBot: Active mods: NoFail, DoubleTime
+[23:45:22] BanchoBot: Players: 4
+[23:45:22] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/24210298 stillperry      
+[23:45:22] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16702879 khanhduy        
+[23:45:22] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15429779 Lugost Angel    
+[23:45:22] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9841297 Datphu          
+[23:45:23] BCraftMG: !mp start 5 glhf
+[23:45:24] BanchoBot: Countdown aborted
+[23:45:24] BanchoBot: Match starts in 5 seconds
+[23:45:24] BanchoBot: Queued the match to start in 5 seconds
+[23:45:26] BanchoBot: Match starts in 4 seconds
+[23:45:26] BanchoBot: Match starts in 3 seconds
+[23:45:27] BanchoBot: Good luck, have fun!
+[23:45:29] BanchoBot: The match has started!
+[23:48:17] BanchoBot: Datphu finished playing (Score: 1121253, PASSED).
+[23:48:17] BanchoBot: Lugost Angel finished playing (Score: 496166, PASSED).
+[23:48:17] BanchoBot: khanhduy finished playing (Score: 20036, PASSED).
+[23:48:18] BanchoBot: stillperry finished playing (Score: 734278, PASSED).
+[23:48:18] BanchoBot: The match has finished!
+[23:48:29] BCraftMG: ggưp
+[23:48:37] BCraftMG: replay nm1 cho shikanoko
+[23:48:40] stillperry: gg
+[23:48:47] BCraftMG: !mp map 2313506 0
+[23:48:47] BanchoBot: stillperry left the game.
+[23:48:47] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2313506 Poppin'Party - Tear Drops
+[23:48:47] BanchoBot: Changed match mode to Osu
+[23:48:49] khanhduy: gg
+[23:48:52] BCraftMG: !mp mods 1
+[23:48:53] BanchoBot: Enabled NoFail, disabled FreeMod
+[23:49:04] BanchoBot: khanhduy left the game.
+[23:49:07] BanchoBot: Datphu moved to slot 2
+[23:49:12] BCraftMG: !mp map 4597383 0
+[23:49:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4597383 PSYQUI - Your Voice so... feat. Such
+[23:49:12] BanchoBot: Changed match mode to Osu
+[23:49:14] BCraftMG: !mp mods 17]
+[23:49:14] BanchoBot: Disabled all mods, disabled FreeMod
+[23:49:16] BCraftMG: !mp mods 17
+[23:49:16] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[23:49:20] BanchoBot: Lugost Angel left the game.
+[23:49:22] BCraftMG: !mp settings
+[23:49:23] BanchoBot: Room name: DTLN: (Qualifiers) vs (Match A6), History: https://osu.ppy.sh/mp/115491299
+[23:49:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/4597383 PSYQUI - Your Voice so... feat. Such
+[23:49:23] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:49:23] BanchoBot: Active mods: NoFail, HardRock
+[23:49:23] BanchoBot: Players: 1
+[23:49:23] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/9841297 Datphu          
+[23:49:29] BCraftMG: !mp settings
+[23:49:30] BanchoBot: Room name: DTLN: (Qualifiers) vs (Match A6), History: https://osu.ppy.sh/mp/115491299
+[23:49:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/4597383 PSYQUI - Your Voice so... feat. Such
+[23:49:30] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:49:30] BanchoBot: Active mods: NoFail, HardRock
+[23:49:30] BanchoBot: Players: 1
+[23:49:30] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/9841297 Datphu          
+[23:49:32] BanchoBot: All players are ready
+[23:49:33] BCraftMG: !mp start 5 glhf
+[23:49:33] BanchoBot: Lugost Angel joined in slot 1.
+[23:49:33] BanchoBot: Match starts in 5 seconds
+[23:49:33] BanchoBot: Queued the match to start in 5 seconds
+[23:49:34] BanchoBot: Match starts in 4 seconds
+[23:49:35] BanchoBot: Match starts in 3 seconds
+[23:49:36] BanchoBot: Lugost Angel left the game.
+[23:49:36] BanchoBot: Good luck, have fun!
+[23:49:38] BanchoBot: The match has started!
+[23:53:44] BanchoBot: Datphu finished playing (Score: 919586, PASSED).
+[23:53:44] BanchoBot: The match has finished!
+[23:53:49] BCraftMG: !mp map 3665101 0
+[23:53:49] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3665101 Nishino Kana - Distance
+[23:53:49] BanchoBot: Changed match mode to Osu
+[23:53:53] BCraftMG: !mp mods 65
+[23:53:53] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[23:53:57] BCraftMG: !mp move Datphu 1
+[23:53:57] BanchoBot: Datphu moved to slot 1
+[23:53:57] BanchoBot: Moved Datphu into slot 1
+[23:54:04] BanchoBot: All players are ready
+[23:54:04] BCraftMG: !mp settings
+[23:54:04] BCraftMG: !mp start 5 glhf
+[23:54:05] BanchoBot: Room name: DTLN: (Qualifiers) vs (Match A6), History: https://osu.ppy.sh/mp/115491299
+[23:54:05] BanchoBot: Beatmap: https://osu.ppy.sh/b/3665101 Nishino Kana - Distance
+[23:54:05] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:54:05] BanchoBot: Active mods: NoFail, DoubleTime
+[23:54:05] BanchoBot: Players: 1
+[23:54:05] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9841297 Datphu          
+[23:54:06] BanchoBot: Match starts in 5 seconds
+[23:54:06] BanchoBot: Queued the match to start in 5 seconds
+[23:54:07] BanchoBot: Match starts in 4 seconds
+[23:54:08] BanchoBot: Match starts in 3 seconds
+[23:54:09] BanchoBot: Good luck, have fun!
+[23:54:11] BanchoBot: The match has started!
+[23:56:35] BanchoBot: Datphu finished playing (Score: 961839, PASSED).
+[23:56:35] BanchoBot: The match has finished!
+[23:56:44] BCraftMG: !mp map 2313506 0
+[23:56:45] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2313506 Poppin'Party - Tear Drops
+[23:56:45] BanchoBot: Changed match mode to Osu
+[23:56:51] BCraftMG: !mp mods 1
+[23:56:51] BanchoBot: Enabled NoFail, disabled FreeMod
+[23:56:54] BanchoBot: Lugost Angel joined in slot 2.
+[23:57:05] BanchoBot: All players are ready
+[23:57:08] BanchoBot: All players are ready
+[23:57:22] BCraftMG: !mp settings
+[23:57:23] BanchoBot: Room name: DTLN: (Qualifiers) vs (Match A6), History: https://osu.ppy.sh/mp/115491299
+[23:57:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/2313506 Poppin'Party - Tear Drops
+[23:57:23] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:57:23] BanchoBot: Active mods: NoFail
+[23:57:23] BanchoBot: Players: 2
+[23:57:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9841297 Datphu          
+[23:57:23] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15429779 Lugost Angel    
+[23:57:24] BCraftMG: !mp start 5 glhf
+[23:57:25] BanchoBot: Match starts in 5 seconds
+[23:57:25] BanchoBot: Queued the match to start in 5 seconds
+[23:57:26] BanchoBot: Match starts in 4 seconds
+[23:57:28] BanchoBot: Match starts in 3 seconds
+[23:57:29] BanchoBot: Good luck, have fun!
+[23:57:31] BanchoBot: The match has started!
+[00:01:13] BanchoBot: Lugost Angel finished playing (Score: 599195, PASSED).
+[00:01:14] BanchoBot: Datphu finished playing (Score: 482933, PASSED).
+[00:01:14] BanchoBot: The match has finished!
+[00:01:17] BCraftMG: !mp map 4233618 0
+[00:01:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4233618 Kushper - Versailles
+[00:01:17] BanchoBot: Changed match mode to Osu
+[00:01:36] -_Fubukiii: !mp invite #11999654
+[00:01:36] BanchoBot: Invited Astrayl3 to the room
+[00:01:40] BanchoBot: Astrayl3 joined in slot 3.
+[00:01:48] BanchoBot: Lugost Angel left the game.
+[00:01:52] BanchoBot: Astrayl3 moved to slot 2
+[00:02:03] BanchoBot: All players are ready
+[00:02:06] -_Fubukiii: !mp start
+[00:02:06] BanchoBot: The match has started!
+[00:02:06] BanchoBot: Started the match
+[00:02:07] BCraftMG: !mp settings
+[00:02:08] BanchoBot: Room name: DTLN: (Qualifiers) vs (Match A6), History: https://osu.ppy.sh/mp/115491299
+[00:02:08] BanchoBot: Beatmap: https://osu.ppy.sh/b/4233618 Kushper - Versailles
+[00:02:08] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:02:08] BanchoBot: Active mods: NoFail
+[00:02:08] BanchoBot: Players: 2
+[00:02:08] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/9841297 Datphu          
+[00:02:08] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/11999654 Astrayl3        
+[00:05:49] BanchoBot: Astrayl3 finished playing (Score: 344126, PASSED).
+[00:05:49] BanchoBot: Datphu finished playing (Score: 966920, PASSED).
+[00:05:49] BanchoBot: The match has finished!
+[00:06:05] BanchoBot: Astrayl3 left the game.
+[00:06:06] BanchoBot: Datphu left the game.
+[00:06:17] BCraftMG: !mp close
+[00:06:17] -_Fubukiii: !mp close
+[00:06:17] BanchoBot: Closed the match

@@ -1,0 +1,836 @@
+[21:27:40] Joined #mp_103873508
+[21:27:40] BCraftMG: !mp settings
+[21:27:41] BanchoBot: Room name: BQT5: (dont worry have fun) vs (テルヂージェマグトペラーンカッソーンゲ), History: https://osu.ppy.sh/mp/103873508
+[21:27:41] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[21:27:41] BanchoBot: Players: 0
+[21:27:54] BCraftMG: !mp set 2 3 7
+[21:27:55] BanchoBot: Changed match settings to 7 slots, TeamVs, ScoreV2
+[21:28:23] BCraftMG: !mp set 2 3 12
+[21:28:24] BanchoBot: Changed match settings to 12 slots, TeamVs, ScoreV2
+[21:28:30] BCraftMG: !mp invite #27234119
+[21:28:30] BanchoBot: Invited yakotenok to the room
+[21:28:44] BCraftMG: !mp invite #15172788
+[21:28:46] BanchoBot: Invited Beatos to the room
+[21:29:38] BCraftMG: !mp addref zodik16
+[21:29:39] BanchoBot: Added zodik16 to the match referees
+[21:29:45] BCraftMG: !mp listrefs
+[21:29:45] BanchoBot: Match referees:
+[21:29:45] BanchoBot: Zodik16
+[21:29:45] BanchoBot: BCraftMG
+[21:30:43] BCraftMG: !mp invite #27234119
+[21:30:44] BanchoBot: Invited yakotenok to the room
+[21:30:47] BCraftMG: !mp invite #15172788
+[21:30:48] BanchoBot: Invited Beatos to the room
+[21:31:16] BCraftMG: !mp invite #15172788
+[21:31:17] BanchoBot: Invited Beatos to the room
+[21:31:23] BanchoBot: Beatos joined in slot 1 for team blue.
+[21:31:23] BanchoBot: yakotenok joined in slot 2 for team red.
+[21:31:33] BCraftMG: yay
+[21:31:39] BCraftMG: dont worry have fun on red
+[21:31:40] yakotenok: нфнфн
+[21:31:48] yakotenok: о/
+[21:31:48] BCraftMG: the other team on blue sorry i cant type japanese
+[21:31:49] BanchoBot: Beatos moved to slot 3
+[21:31:58] BCraftMG: red 1-2 blue 3-4
+[21:31:59] BanchoBot: Desairox joined in slot 1 for team blue.
+[21:32:01] BanchoBot: Desairox moved to slot 4
+[21:32:05] Desairox: o/
+[21:32:05] BanchoBot: My Angel Mayuri joined in slot 1 for team blue.
+[21:32:07] BCraftMG: Do you want to play warm up
+[21:32:14] BanchoBot: My Angel Mayuri moved to slot 5
+[21:32:24] Beatos: yes
+[21:32:26] BanchoBot: ana_rchy joined in slot 1 for team blue.
+[21:32:28] BCraftMG: !mp host Beatos
+[21:32:28] Desairox: I'd like to have on, if its possible
+[21:32:29] BanchoBot: Beatos became the host.
+[21:32:29] BanchoBot: Changed match host to Beatos
+[21:32:31] BanchoBot: Beatmap changed to: Nekomanma Team! - Koiuta Shippuu! Karuta Queen Iroha [xidorn's Hard] (https://osu.ppy.sh/b/3743605)
+[21:32:34] BanchoBot: Host is changing map...
+[21:32:34] BCraftMG: have what
+[21:32:35] Desairox: to have one*
+[21:32:44] Desairox: warmup
+[21:32:47] BanchoBot: Beatmap changed to: Porter Robinson - Get Your Wish (Sewerslvt Remix) (Cut Ver.) [3am mapping time] (https://osu.ppy.sh/b/3257879)
+[21:32:54] BanchoBot: kerson09 joined in slot 6 for team red.
+[21:33:03] Desairox: Sorry, but the page you requested isn't here!
+[21:33:09] BCraftMG: :skull:
+[21:33:09] Beatos: xD
+[21:33:12] Beatos: srry
+[21:33:13] BanchoBot: Host is changing map...
+[21:33:17] My_Angel_Mayuri: :moyai:
+[21:33:26] BanchoBot: kerson09 left the game.
+[21:33:28] BanchoBot: kerson09 joined in slot 6 for team red.
+[21:33:36] BanchoBot: Beatmap changed to: m108 - Shinku no Senkou [Niva's Insane] (https://osu.ppy.sh/b/3169487)
+[21:34:24] BanchoBot: Desairox changed to Red
+[21:34:44] BanchoBot: All players are ready
+[21:34:48] BanchoBot: The match has started!
+[21:34:49] BCraftMG: !mp settings
+[21:34:50] BanchoBot: Room name: BQT5: (dont worry have fun) vs (テルヂージェマグトペラーンカッソーン, History: https://osu.ppy.sh/mp/103873508
+[21:34:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/3169487 m108 - Shinku no Senkou [Niva's Insane]
+[21:34:50] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:34:50] BanchoBot: Active mods: Freemod
+[21:34:50] BanchoBot: Players: 6
+[21:34:50] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/11712494 ana_rchy        [Team Blue / NoFail]
+[21:34:50] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/27234119 yakotenok       [Team Red  / NoFail]
+[21:34:50] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/15172788 Beatos          [Host / Team Blue / NoFail, Hidden]
+[21:34:50] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/17506426 Desairox        [Team Red  / NoFail, HardRock]
+[21:34:50] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/18744938 My Angel Mayuri [Team Blue / NoFail]
+[21:34:50] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/13879551 kerson09        [Team Red  / NoFail, Hidden]
+[21:37:13] BanchoBot: ana_rchy finished playing (Score: 832082, PASSED).
+[21:37:13] BanchoBot: Beatos finished playing (Score: 560573, PASSED).
+[21:37:13] BanchoBot: yakotenok finished playing (Score: 748124, PASSED).
+[21:37:14] BanchoBot: Desairox finished playing (Score: 244834, PASSED).
+[21:37:16] BanchoBot: kerson09 finished playing (Score: 309886, PASSED).
+[21:37:16] BanchoBot: My Angel Mayuri finished playing (Score: 844805, PASSED).
+[21:37:16] BanchoBot: The match has finished!
+[21:37:25] BanchoBot: yakotenok became the host.
+[21:37:29] Desairox: Найс акка, команда.
+[21:37:32] BanchoBot: Desairox became the host.
+[21:37:34] My_Angel_Mayuri: desairox
+[21:37:35] BanchoBot: Host is changing map...
+[21:37:36] My_Angel_Mayuri: 55 acc?
+[21:37:37] My_Angel_Mayuri: what
+[21:37:38] kerson09: хорошая
+[21:37:54] BanchoBot: Beatmap changed to: Grazhdanskaya Oborona - Ubivat' [Collab] (https://osu.ppy.sh/b/3591573)
+[21:38:01] kerson09: не играйте дети 185 бпм с хр
+[21:38:09] kerson09: о
+[21:38:12] kerson09: мне нравица песня
+[21:38:28] Desairox: Купи мать.
+[21:38:48] Beatos: моды освободите
+[21:39:07] Beatos: free mods
+[21:39:11] BanchoBot: The match has started!
+[21:39:17] kerson09: лан
+[21:42:23] BanchoBot: yakotenok finished playing (Score: 257041, PASSED).
+[21:42:25] BanchoBot: ana_rchy finished playing (Score: 238424, PASSED).
+[21:42:29] BanchoBot: My Angel Mayuri finished playing (Score: 385391, PASSED).
+[21:42:29] BanchoBot: Desairox finished playing (Score: 905350, PASSED).
+[21:42:29] BanchoBot: Beatos finished playing (Score: 29, FAILED).
+[21:42:30] BanchoBot: kerson09 finished playing (Score: 218050, PASSED).
+[21:42:30] BanchoBot: The match has finished!
+[21:42:56] BCraftMG: !mp clearhost
+[21:42:57] BanchoBot: Cleared match host
+[21:42:59] Beatos: !roll
+[21:42:59] BanchoBot: Beatos rolls 29 point(s)
+[21:43:08] BCraftMG: please roll
+[21:43:23] yakotenok: !roll
+[21:43:23] BanchoBot: yakotenok rolls 79 point(s)
+[21:43:44] BCraftMG: Red please choose pick or ban order
+[21:43:57] BanchoBot: Desairox left the game.
+[21:43:57] BanchoBot: Desairox joined in slot 4 for team red.
+[21:44:04] yakotenok: first pick
+[21:44:14] BCraftMG: blue; ban order?
+[21:44:24] ana_rchy: is it abba or abab
+[21:44:44] BCraftMG: ABBA
+[21:44:48] kerson09: aboba
+[21:44:59] Beatos: first ban
+[21:45:12] BCraftMG: okay
+[21:45:19] BCraftMG: Blue first ban
+[21:45:30] Beatos: ban hr3
+[21:45:40] BCraftMG: red 2 bans
+[21:45:43] BCraftMG: !mp timer 120
+[21:45:43] BanchoBot: Countdown ends in 2 minutes
+[21:45:59] BCraftMG: fun fact you are only allowed 60s to ban a map
+[21:46:08] BanchoBot: My Angel Mayuri left the game.
+[21:46:44] BanchoBot: Countdown ends in 1 minute
+[21:47:14] BanchoBot: Countdown ends in 30 seconds
+[21:47:18] BCraftMG: hi???
+[21:47:27] yakotenok: fm1 and hd2
+[21:47:34] BanchoBot: Countdown ends in 10 seconds
+[21:47:37] BCraftMG: ah
+[21:47:39] yakotenok: sorry
+[21:47:39] BanchoBot: Countdown ends in 5 seconds
+[21:47:40] BanchoBot: Countdown ends in 4 seconds
+[21:47:41] BanchoBot: Countdown ends in 3 seconds
+[21:47:41] yakotenok: hd3
+[21:47:42] BanchoBot: Countdown ends in 2 seconds
+[21:47:43] BanchoBot: Countdown ends in 1 second
+[21:47:44] BanchoBot: Countdown finished
+[21:47:45] yakotenok: ***********
+[21:47:46] BCraftMG: Blue last ban
+[21:48:01] BCraftMG: changed to hd3 for you
+[21:48:23] BCraftMG: !mp timer 60
+[21:48:25] BanchoBot: Countdown ends in 1 minute
+[21:48:31] Beatos: ban fm2
+[21:48:50] BCraftMG: dont worry have fun | 0 - 0 | テルヂージェマグトペラーンカッソーンゲ // First Pick: dont worry have fun
+[21:48:51] BCraftMG: !mp timer 120
+[21:48:52] BanchoBot: Countdown aborted
+[21:48:52] BanchoBot: Countdown ends in 2 minutes
+[21:49:53] BanchoBot: Countdown ends in 1 minute
+[21:49:58] BanchoBot: kerson09 moved to slot 5
+[21:49:59] BanchoBot: kerson09 moved to slot 6
+[21:49:59] yakotenok: dt3
+[21:49:59] BanchoBot: kerson09 moved to slot 5
+[21:49:59] BanchoBot: kerson09 moved to slot 6
+[21:50:09] BCraftMG: !mp map 3743605 0
+[21:50:09] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3743605 Nekomanma Team! - Koiuta Shippuu! Karuta Queen Iroha
+[21:50:09] BanchoBot: Changed match mode to Osu
+[21:50:13] BCraftMG: !mp mods 65
+[21:50:13] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:50:19] BanchoBot: kerson09 moved to slot 5
+[21:50:19] BanchoBot: kerson09 moved to slot 6
+[21:50:19] BanchoBot: yakotenok left the game.
+[21:50:20] BanchoBot: kerson09 moved to slot 5
+[21:50:20] BanchoBot: kerson09 moved to slot 6
+[21:50:21] BanchoBot: kerson09 moved to slot 2
+[21:50:22] BanchoBot: Countdown ends in 30 seconds
+[21:50:25] BCraftMG: !mp timer 120
+[21:50:25] BanchoBot: Countdown aborted
+[21:50:25] BanchoBot: Countdown ends in 2 minutes
+[21:50:29] BanchoBot: My Angel Mayuri joined in slot 5 for team blue.
+[21:50:32] ana_rchy: wow update
+[21:50:37] BCraftMG: please avoid moving too much in the lobby
+[21:50:37] kerson09: yey
+[21:50:41] kerson09: map is qualified
+[21:50:53] BanchoBot: ana_rchy left the game.
+[21:50:55] BanchoBot: kerson09 moved to slot 1
+[21:50:57] BanchoBot: Desairox moved to slot 2
+[21:50:58] BCraftMG: i will lock the lobby if you keep moving
+[21:51:00] BanchoBot: My Angel Mayuri moved to slot 4
+[21:51:17] kerson09: okok
+[21:51:25] Desairox: OKay
+[21:51:25] BanchoBot: Countdown ends in 1 minute
+[21:51:56] BanchoBot: Countdown ends in 30 seconds
+[21:52:00] BanchoBot: All players are ready
+[21:52:03] BCraftMG: !mp settings
+[21:52:04] BanchoBot: Room name: BQT5: (dont worry have fun) vs (テルヂージェマグトペラーンカッソーン, History: https://osu.ppy.sh/mp/103873508
+[21:52:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/3743605 Nekomanma Team! - Koiuta Shippuu! Karuta Queen Iroha
+[21:52:04] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:52:04] BanchoBot: Active mods: NoFail, DoubleTime
+[21:52:04] BanchoBot: Players: 4
+[21:52:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13879551 kerson09        [Team Red ]
+[21:52:04] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17506426 Desairox        [Team Red ]
+[21:52:04] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15172788 Beatos          [Team Blue]
+[21:52:04] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/18744938 My Angel Mayuri [Team Blue]
+[21:52:08] My_Angel_Mayuri: glgl
+[21:52:09] BCraftMG: !mp start 5 glhf
+[21:52:10] BanchoBot: Countdown aborted
+[21:52:10] BanchoBot: Match starts in 5 seconds
+[21:52:10] BanchoBot: Queued the match to start in 5 seconds
+[21:52:11] BanchoBot: Match starts in 4 seconds
+[21:52:12] Beatos: golf
+[21:52:12] BanchoBot: Match starts in 3 seconds
+[21:52:13] BanchoBot: Good luck, have fun!
+[21:52:15] BanchoBot: The match has started!
+[21:53:34] BanchoBot: My Angel Mayuri finished playing (Score: 608562, PASSED).
+[21:53:34] BanchoBot: Desairox finished playing (Score: 565448, PASSED).
+[21:53:35] BanchoBot: kerson09 finished playing (Score: 601050, PASSED).
+[21:53:35] BanchoBot: Beatos finished playing (Score: 368037, PASSED).
+[21:53:35] BanchoBot: The match has finished!
+[21:53:51] BCraftMG: dont worry have fun | 1 - 0 | テルヂージェマグトペラーンカッソーンゲ // Next Pick: テルヂージェマグトペラーンカッソーンゲ
+[21:53:54] BCraftMG: !mp timer 120
+[21:53:54] BanchoBot: Countdown ends in 2 minutes
+[21:54:01] BCraftMG: !mp settings
+[21:54:02] BanchoBot: Room name: BQT5: (dont worry have fun) vs (テルヂージェマグトペラーンカッソーン, History: https://osu.ppy.sh/mp/103873508
+[21:54:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/3743605 Nekomanma Team! - Koiuta Shippuu! Karuta Queen Iroha
+[21:54:02] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:54:02] BanchoBot: Active mods: NoFail, DoubleTime
+[21:54:02] BanchoBot: Players: 4
+[21:54:02] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/13879551 kerson09        [Team Red ]
+[21:54:02] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/17506426 Desairox        [Team Red ]
+[21:54:02] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/15172788 Beatos          [Team Blue]
+[21:54:02] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/18744938 My Angel Mayuri [Team Blue]
+[21:54:09] BanchoBot: yakotenok joined in slot 5 for team blue.
+[21:54:13] yakotenok: я вахуи
+[21:54:18] Desairox: Аня, ты сука.
+[21:54:23] Desairox: Так и знай.
+[21:54:29] Beatos: !roll 3
+[21:54:29] BanchoBot: Beatos rolls 3 point(s)
+[21:54:39] yakotenok: (((
+[21:54:55] BanchoBot: Countdown ends in 1 minute
+[21:55:11] Beatos: nm2
+[21:55:25] BanchoBot: Countdown ends in 30 seconds
+[21:55:27] BCraftMG: !mp map 2728793 0
+[21:55:28] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2728793 Kobaryo - Bookmaker (2D Version)
+[21:55:28] BanchoBot: Changed match mode to Osu
+[21:55:29] BCraftMG: !mp mods 1
+[21:55:29] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:55:31] BCraftMG: !mp timer 120
+[21:55:31] BanchoBot: Beatos left the game.
+[21:55:31] BanchoBot: Countdown aborted
+[21:55:31] BanchoBot: Countdown ends in 2 minutes
+[21:55:39] BanchoBot: My Angel Mayuri moved to slot 3
+[21:55:41] BanchoBot: ana_rchy joined in slot 4 for team red.
+[21:56:07] BCraftMG: o hey banger map
+[21:56:12] BanchoBot: ana_rchy changed to Blue
+[21:56:13] BCraftMG: too bad i cant play
+[21:56:20] My_Angel_Mayuri: f
+[21:56:32] BanchoBot: Countdown ends in 1 minute
+[21:56:41] My_Angel_Mayuri: yakotenok?
+[21:56:43] BanchoBot: kerson09 left the game.
+[21:56:51] BanchoBot: yakotenok moved to slot 1
+[21:56:57] BanchoBot: yakotenok changed to Red
+[21:56:59] My_Angel_Mayuri: k
+[21:57:01] BanchoBot: Countdown ends in 30 seconds
+[21:57:05] BanchoBot: All players are ready
+[21:57:12] BCraftMG: !mp settings
+[21:57:14] BanchoBot: Room name: BQT5: (dont worry have fun) vs (テルヂージェマグトペラーンカッソーン, History: https://osu.ppy.sh/mp/103873508
+[21:57:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/2728793 Kobaryo - Bookmaker (2D Version)
+[21:57:14] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:57:14] BanchoBot: Active mods: NoFail
+[21:57:14] BanchoBot: Players: 4
+[21:57:14] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/27234119 yakotenok       [Team Red ]
+[21:57:14] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17506426 Desairox        [Team Red ]
+[21:57:14] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/18744938 My Angel Mayuri [Team Blue]
+[21:57:14] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11712494 ana_rchy        [Team Blue]
+[21:57:14] My_Angel_Mayuri: glgl
+[21:57:17] BCraftMG: !mp start 10
+[21:57:17] BanchoBot: Countdown aborted
+[21:57:17] BanchoBot: Match starts in 10 seconds
+[21:57:18] BanchoBot: Queued the match to start in 10 seconds
+[21:57:21] yakotenok: gl
+[21:57:21] ana_rchy: golf
+[21:57:23] BanchoBot: Match starts in 5 seconds
+[21:57:24] BanchoBot: Match starts in 4 seconds
+[21:57:25] BanchoBot: Match starts in 3 seconds
+[21:57:27] BanchoBot: Good luck, have fun!
+[21:57:28] BanchoBot: The match has started!
+[22:00:03] BanchoBot: ana_rchy finished playing (Score: 362237, PASSED).
+[22:00:03] BanchoBot: My Angel Mayuri finished playing (Score: 634436, PASSED).
+[22:00:04] BanchoBot: Desairox finished playing (Score: 956108, PASSED).
+[22:00:04] BanchoBot: yakotenok finished playing (Score: 252282, PASSED).
+[22:00:04] BanchoBot: The match has finished!
+[22:00:17] BCraftMG: dont worry have fun | 2 - 0 | テルヂージェマグトペラーンカッソーンゲ // Next Pick: dont worry have fun
+[22:00:19] BCraftMG: !mp timer 120
+[22:00:20] BanchoBot: Countdown ends in 2 minutes
+[22:00:54] BanchoBot: Beatos joined in slot 5 for team blue.
+[22:01:21] BanchoBot: Countdown ends in 1 minute
+[22:01:41] yakotenok: hd2
+[22:01:51] BanchoBot: Countdown ends in 30 seconds
+[22:01:55] BCraftMG: !mp map 2239337 0
+[22:01:56] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2239337 BUTAOTOME - Towa no Maigo
+[22:01:56] BanchoBot: Changed match mode to Osu
+[22:01:56] BCraftMG: !mp mods 9
+[22:01:57] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[22:01:57] BCraftMG: !mp timer 120
+[22:01:58] BanchoBot: Countdown aborted
+[22:01:58] BanchoBot: Countdown ends in 2 minutes
+[22:02:01] BanchoBot: yakotenok left the game.
+[22:02:08] BanchoBot: ana_rchy left the game.
+[22:02:13] Beatos: пасиб
+[22:02:20] BanchoBot: Beatos moved to slot 4
+[22:02:51] BanchoBot: kerson09 joined in slot 1 for team blue.
+[22:02:58] BanchoBot: Countdown ends in 1 minute
+[22:03:00] BanchoBot: kerson09 changed to Red
+[22:03:29] BanchoBot: Countdown ends in 30 seconds
+[22:03:29] BanchoBot: All players are ready
+[22:03:32] BCraftMG: !mp settings
+[22:03:34] BanchoBot: Room name: BQT5: (dont worry have fun) vs (テルヂージェマグトペラーンカッソーン, History: https://osu.ppy.sh/mp/103873508
+[22:03:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/2239337 BUTAOTOME - Towa no Maigo
+[22:03:34] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:03:34] BanchoBot: Active mods: NoFail, Hidden
+[22:03:34] BanchoBot: Players: 4
+[22:03:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13879551 kerson09        [Team Red ]
+[22:03:34] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17506426 Desairox        [Team Red ]
+[22:03:34] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/18744938 My Angel Mayuri [Team Blue]
+[22:03:34] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15172788 Beatos          [Team Blue]
+[22:03:37] BCraftMG: !mp start 5
+[22:03:38] BanchoBot: Countdown aborted
+[22:03:38] BanchoBot: Match starts in 5 seconds
+[22:03:38] BanchoBot: Queued the match to start in 5 seconds
+[22:03:39] BanchoBot: Match starts in 4 seconds
+[22:03:40] BanchoBot: Match starts in 3 seconds
+[22:03:41] BanchoBot: Good luck, have fun!
+[22:03:43] BanchoBot: The match has started!
+[22:06:44] BanchoBot: Beatos finished playing (Score: 612773, PASSED).
+[22:06:45] BanchoBot: kerson09 finished playing (Score: 172557, PASSED).
+[22:06:45] BanchoBot: Desairox finished playing (Score: 645327, PASSED).
+[22:06:45] BanchoBot: My Angel Mayuri finished playing (Score: 345591, PASSED).
+[22:06:45] BanchoBot: The match has finished!
+[22:06:54] BCraftMG: dont worry have fun | 2 - 1 | テルヂージェマグトペラーンカッソーンゲ // Next Pick: テルヂージェマグトペラーンカッソーンゲ
+[22:06:57] BCraftMG: !mp timer 120
+[22:06:58] BanchoBot: Countdown ends in 2 minutes
+[22:07:13] BanchoBot: ana_rchy joined in slot 5 for team blue.
+[22:07:27] ana_rchy: desairox do you use tablet or mouse
+[22:07:29] BanchoBot: yakotenok joined in slot 6 for team red.
+[22:07:59] BanchoBot: Countdown ends in 1 minute
+[22:08:04] My_Angel_Mayuri: foot
+[22:08:07] Desairox: Touchscreen.
+[22:08:15] kerson09: на руле он играет
+[22:08:16] Beatos: dt2
+[22:08:24] BanchoBot: My Angel Mayuri left the game.
+[22:08:29] BanchoBot: Countdown ends in 30 seconds
+[22:08:30] BCraftMG: !mp map 3516212 0
+[22:08:31] ana_rchy: finger gun method?
+[22:08:31] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3516212 Eve - Dramaturgy
+[22:08:31] BanchoBot: Changed match mode to Osu
+[22:08:32] BanchoBot: kerson09 left the game.
+[22:08:37] BanchoBot: yakotenok moved to slot 1
+[22:08:40] BCraftMG: !mp timer 120
+[22:08:40] BanchoBot: Countdown aborted
+[22:08:40] BanchoBot: Countdown ends in 2 minutes
+[22:08:42] BCraftMG: !mp mods 65
+[22:08:43] BanchoBot: ana_rchy moved to slot 3
+[22:08:43] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[22:08:52] BCraftMG: !mp name BQT5: (dont worry have fun) vs (テルヂージェマグトペラーンカッソーンゲ)
+[22:08:53] BanchoBot: Room name updated to "BQT5: (dont worry have fun) vs (テルヂージェマグトペラーンカッソーンゲ)"
+[22:09:04] BanchoBot: All players are ready
+[22:09:07] BCraftMG: !mp settings
+[22:09:09] Beatos: golf
+[22:09:09] BanchoBot: Room name: BQT5: (dont worry have fun) vs (テルヂージェマグトペラーンカッソーンゲ), History: https://osu.ppy.sh/mp/103873508
+[22:09:09] BanchoBot: Beatmap: https://osu.ppy.sh/b/3516212 Eve - Dramaturgy
+[22:09:09] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:09:09] BanchoBot: Active mods: NoFail, DoubleTime
+[22:09:09] BanchoBot: Players: 4
+[22:09:09] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/27234119 yakotenok       [Team Red ]
+[22:09:09] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17506426 Desairox        [Team Red ]
+[22:09:09] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11712494 ana_rchy        [Team Blue]
+[22:09:09] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15172788 Beatos          [Team Blue]
+[22:09:14] BCraftMG: !mp start 5
+[22:09:15] BanchoBot: Countdown aborted
+[22:09:15] BanchoBot: Match starts in 5 seconds
+[22:09:15] BanchoBot: Queued the match to start in 5 seconds
+[22:09:16] BanchoBot: Match starts in 4 seconds
+[22:09:17] ana_rchy: basketball
+[22:09:17] BanchoBot: Match starts in 3 seconds
+[22:09:18] BanchoBot: Good luck, have fun!
+[22:09:18] yakotenok: gl
+[22:09:20] BanchoBot: The match has started!
+[22:10:35] Beatos: ????
+[22:10:37] ana_rchy: ?
+[22:10:39] BCraftMG: ?
+[22:10:45] BCraftMG: should i abort
+[22:10:51] Beatos: yes
+[22:10:54] ana_rchy: yeah
+[22:10:54] Beatos: no start
+[22:10:56] BCraftMG: everyone stuck?
+[22:11:06] ana_rchy: yep
+[22:11:06] Desairox: Yes.
+[22:11:10] BCraftMG: !mp abort
+[22:11:11] BanchoBot: Aborted the match
+[22:11:15] BanchoBot: Beatos left the game.
+[22:11:31] BanchoBot: Beatos joined in slot 4 for team red.
+[22:11:40] BCraftMG: Beatos you good?
+[22:11:41] BanchoBot: Beatos changed to Blue
+[22:11:46] Beatos: yes
+[22:11:47] BanchoBot: All players are ready
+[22:11:50] BCraftMG: !mp settings
+[22:11:51] BanchoBot: Room name: BQT5: (dont worry have fun) vs (テルヂージェマグトペラーンカッソーンゲ), History: https://osu.ppy.sh/mp/103873508
+[22:11:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/3516212 Eve - Dramaturgy
+[22:11:51] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:11:51] BanchoBot: Active mods: NoFail, DoubleTime
+[22:11:51] BanchoBot: Players: 4
+[22:11:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/27234119 yakotenok       [Team Red ]
+[22:11:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17506426 Desairox        [Team Red ]
+[22:11:51] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11712494 ana_rchy        [Team Blue]
+[22:11:51] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15172788 Beatos          [Team Blue]
+[22:11:52] ana_rchy: basketball 2
+[22:11:53] BCraftMG: !mp start 5 glhf
+[22:11:54] Beatos: have no idea what happened
+[22:11:54] BanchoBot: Match starts in 5 seconds
+[22:11:54] BanchoBot: Queued the match to start in 5 seconds
+[22:11:55] BanchoBot: Match starts in 4 seconds
+[22:11:56] BanchoBot: Match starts in 3 seconds
+[22:11:57] BanchoBot: Good luck, have fun!
+[22:11:59] BanchoBot: The match has started!
+[22:12:32] Desairox: Man.
+[22:12:37] ana_rchy: banchoooo
+[22:12:37] BCraftMG: Beatosssssssssssssssss
+[22:12:45] Beatos: its not meee
+[22:12:57] ana_rchy: i hear you beatos btw
+[22:13:08] ana_rchy: maybe its yako
+[22:13:24] BCraftMG: ://
+[22:13:42] yakotenok: ????????????????????????
+[22:13:44] BCraftMG: anyone playing?
+[22:13:52] Beatos: nope
+[22:13:55] BCraftMG: !mp abort
+[22:13:56] BanchoBot: Aborted the match
+[22:13:59] Desairox: Thats probably because of me
+[22:14:00] Desairox: Hold on
+[22:14:01] BanchoBot: Desairox left the game.
+[22:14:13] ana_rchy: no
+[22:14:31] BanchoBot: Beatos left the game.
+[22:14:32] BCraftMG: i think its Beatos
+[22:14:35] BanchoBot: Beatos joined in slot 2 for team red.
+[22:14:41] BanchoBot: Beatos moved to slot 4
+[22:14:43] BanchoBot: Beatos changed to Blue
+[22:14:43] BCraftMG: his client didnt spectate properly on stream
+[22:15:00] BanchoBot: Desairox joined in slot 2 for team red.
+[22:15:12] Desairox: I love my internet connection.
+[22:15:14] Beatos: mine?
+[22:15:32] BCraftMG: i think
+[22:15:35] BCraftMG: not sure
+[22:15:37] BCraftMG: !mp settings
+[22:15:38] BanchoBot: Room name: BQT5: (dont worry have fun) vs (テルヂージェマグトペラーンカッソーンゲ), History: https://osu.ppy.sh/mp/103873508
+[22:15:38] BanchoBot: Beatmap: https://osu.ppy.sh/b/3516212 Eve - Dramaturgy
+[22:15:38] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:15:38] BanchoBot: Active mods: NoFail, DoubleTime
+[22:15:38] BanchoBot: Players: 4
+[22:15:38] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/27234119 yakotenok       [Team Red ]
+[22:15:38] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17506426 Desairox        [Team Red ]
+[22:15:38] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/11712494 ana_rchy        [Team Blue]
+[22:15:38] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15172788 Beatos          [Team Blue]
+[22:15:42] BCraftMG: Ready up we try again
+[22:15:47] BanchoBot: All players are ready
+[22:15:49] Desairox: Can we try for the one last time?
+[22:15:50] BCraftMG: !mp settings
+[22:15:51] BanchoBot: Room name: BQT5: (dont worry have fun) vs (テルヂージェマグトペラーンカッソーンゲ), History: https://osu.ppy.sh/mp/103873508
+[22:15:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/3516212 Eve - Dramaturgy
+[22:15:51] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:15:51] BanchoBot: Active mods: NoFail, DoubleTime
+[22:15:51] BanchoBot: Players: 4
+[22:15:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/27234119 yakotenok       [Team Red ]
+[22:15:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17506426 Desairox        [Team Red ]
+[22:15:51] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11712494 ana_rchy        [Team Blue]
+[22:15:51] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15172788 Beatos          [Team Blue]
+[22:15:55] BCraftMG: !mp start 5 glhf
+[22:15:55] BanchoBot: Match starts in 5 seconds
+[22:15:55] BanchoBot: Queued the match to start in 5 seconds
+[22:15:56] BanchoBot: Match starts in 4 seconds
+[22:15:57] ana_rchy: basketball 3 the threequel
+[22:15:57] BanchoBot: Match starts in 3 seconds
+[22:15:59] BanchoBot: Good luck, have fun!
+[22:16:01] BanchoBot: The match has started!
+[22:16:23] ana_rchy: auuughhhhhh
+[22:16:32] Beatos: wtf
+[22:16:39] yakotenok: че, из-за меня что ли
+[22:16:44] BCraftMG: buddy
+[22:16:47] Beatos: i even reconnected i dont think its me
+[22:16:55] Desairox: Same
+[22:17:09] ana_rchy: is it me?
+[22:17:12] BanchoBot: kerson09 joined in slot 5 for team blue.
+[22:17:22] yakotenok: or me???
+[22:17:38] BCraftMG: omg
+[22:17:40] BCraftMG: !mp abort
+[22:17:40] ana_rchy: have everyone disconnect and reconnect
+[22:17:41] BanchoBot: Aborted the match
+[22:17:44] BCraftMG: yes
+[22:17:47] BanchoBot: Beatos left the game.
+[22:17:47] BCraftMG: just restart the game
+[22:17:48] BanchoBot: yakotenok left the game.
+[22:17:48] BanchoBot: ana_rchy left the game.
+[22:17:49] Desairox: I did
+[22:17:53] BanchoBot: ana_rchy joined in slot 1 for team blue.
+[22:17:55] BanchoBot: Beatos joined in slot 3 for team blue.
+[22:17:57] BanchoBot: ana_rchy moved to slot 4
+[22:18:09] BanchoBot: kerson09 moved to slot 1
+[22:18:10] BanchoBot: kerson09 moved to slot 5
+[22:18:18] Desairox: I did that before already.
+[22:18:26] ana_rchy: do it again
+[22:18:36] BanchoBot: Desairox left the game.
+[22:18:45] BCraftMG: !mp settings
+[22:18:46] BanchoBot: yakotenok joined in slot 1 for team blue.
+[22:18:46] BanchoBot: Room name: BQT5: (dont worry have fun) vs (テルヂージェマグトペラーンカッソーンゲ), History: https://osu.ppy.sh/mp/103873508
+[22:18:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/3516212 Eve - Dramaturgy
+[22:18:46] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:18:46] BanchoBot: Active mods: NoFail, DoubleTime
+[22:18:46] BanchoBot: Players: 4
+[22:18:46] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/27234119 yakotenok       [Team Blue]
+[22:18:46] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/15172788 Beatos          [Team Blue]
+[22:18:46] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/11712494 ana_rchy        [Team Blue]
+[22:18:46] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/13879551 kerson09        [Team Blue]
+[22:18:51] BanchoBot: yakotenok changed to Red
+[22:19:08] BanchoBot: kerson09 changed to Red
+[22:19:16] BanchoBot: Desairox joined in slot 2 for team red.
+[22:19:24] BanchoBot: kerson09 left the game.
+[22:19:29] BCraftMG: !mp settings
+[22:19:30] Desairox: Done.
+[22:19:30] BanchoBot: Room name: BQT5: (dont worry have fun) vs (テルヂージェマグトペラーンカッソーンゲ), History: https://osu.ppy.sh/mp/103873508
+[22:19:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/3516212 Eve - Dramaturgy
+[22:19:30] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:19:30] BanchoBot: Active mods: NoFail, DoubleTime
+[22:19:30] BanchoBot: Players: 4
+[22:19:30] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/27234119 yakotenok       [Team Red ]
+[22:19:30] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17506426 Desairox        [Team Red ]
+[22:19:30] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/15172788 Beatos          [Team Blue]
+[22:19:30] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/11712494 ana_rchy        [Team Blue]
+[22:19:35] BCraftMG: ready up
+[22:19:40] BanchoBot: All players are ready
+[22:19:45] ana_rchy: basketball 4: a new hope
+[22:19:46] BCraftMG: !mp settings
+[22:19:47] BanchoBot: Room name: BQT5: (dont worry have fun) vs (テルヂージェマグトペラーンカッソーンゲ), History: https://osu.ppy.sh/mp/103873508
+[22:19:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/3516212 Eve - Dramaturgy
+[22:19:47] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:19:47] BanchoBot: Active mods: NoFail, DoubleTime
+[22:19:47] BanchoBot: Players: 4
+[22:19:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/27234119 yakotenok       [Team Red ]
+[22:19:47] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17506426 Desairox        [Team Red ]
+[22:19:47] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15172788 Beatos          [Team Blue]
+[22:19:47] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11712494 ana_rchy        [Team Blue]
+[22:19:48] BCraftMG: !mp start 5 glhf
+[22:19:48] Beatos: dont say basketball
+[22:19:49] BanchoBot: Match starts in 5 seconds
+[22:19:49] BanchoBot: Queued the match to start in 5 seconds
+[22:19:51] BanchoBot: Match starts in 4 seconds
+[22:19:51] BanchoBot: Match starts in 3 seconds
+[22:19:52] BanchoBot: Good luck, have fun!
+[22:19:54] BanchoBot: The match has started!
+[22:20:15] Beatos: welp
+[22:20:19] ana_rchy: :)
+[22:20:19] BanchoBot: Desairox left the game.
+[22:20:24] Beatos: maybe me then?
+[22:20:24] BanchoBot: Desairox joined in slot 2 for team red.
+[22:20:27] BCraftMG: what the actual f
+[22:20:45] BanchoBot: kerson09 joined in slot 5 for team blue.
+[22:20:46] BCraftMG: bancho having the time of its life
+[22:20:48] BCraftMG: !Mp abort
+[22:20:48] Beatos: i played hella lot toutneys and this is the first time
+[22:20:49] BanchoBot: Aborted the match
+[22:20:54] BanchoBot: Beatos left the game.
+[22:20:56] kerson09: ну понятно
+[22:20:57] kerson09: все
+[22:20:59] BanchoBot: kerson09 changed to Red
+[22:21:05] Desairox: Can other teammates play instead?
+[22:21:12] BanchoBot: kerson09 moved to slot 6
+[22:21:56] BanchoBot: Beatos joined in slot 3 for team blue.
+[22:22:23] BanchoBot: Desairox left the game.
+[22:22:36] BanchoBot: Desairox joined in slot 2 for team red.
+[22:22:39] BCraftMG: !mp settings
+[22:22:40] BanchoBot: Room name: BQT5: (dont worry have fun) vs (テルヂージェマグトペラーンカッソーンゲ), History: https://osu.ppy.sh/mp/103873508
+[22:22:40] BanchoBot: Beatmap: https://osu.ppy.sh/b/3516212 Eve - Dramaturgy
+[22:22:40] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:22:40] BanchoBot: Active mods: NoFail, DoubleTime
+[22:22:40] BanchoBot: Players: 5
+[22:22:40] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/27234119 yakotenok       [Team Red ]
+[22:22:40] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/17506426 Desairox        [Team Red ]
+[22:22:40] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15172788 Beatos          [Team Blue]
+[22:22:40] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/11712494 ana_rchy        [Team Blue]
+[22:22:40] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/13879551 kerson09        [Team Red ]
+[22:23:01] BanchoBot: kerson09 left the game.
+[22:23:07] Desairox: What do we do then.
+[22:23:19] BCraftMG: again
+[22:23:19] ana_rchy: test it out again
+[22:23:24] BCraftMG: what can we do lmao
+[22:23:25] ana_rchy: if it doesnt start up
+[22:23:26] Desairox: I guess.
+[22:23:26] ana_rchy: you try leaving
+[22:23:31] ana_rchy: and if it does start up after leaving, abort
+[22:23:36] ana_rchy: and get a different teammate in
+[22:23:42] BCraftMG: :pray:
+[22:23:53] BanchoBot: All players are ready
+[22:24:00] BCraftMG: !mp settings
+[22:24:02] BanchoBot: Room name: BQT5: (dont worry have fun) vs (テルヂージェマグトペラーンカッソーンゲ), History: https://osu.ppy.sh/mp/103873508
+[22:24:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/3516212 Eve - Dramaturgy
+[22:24:02] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:24:02] BanchoBot: Active mods: NoFail, DoubleTime
+[22:24:02] BanchoBot: Players: 4
+[22:24:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/27234119 yakotenok       [Team Red ]
+[22:24:02] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17506426 Desairox        [Team Red ]
+[22:24:02] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15172788 Beatos          [Team Blue]
+[22:24:02] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11712494 ana_rchy        [Team Blue]
+[22:24:03] Desairox: Stream shows that Beatos cant join in for a game for some reason.
+[22:24:05] Desairox: But alright.
+[22:24:08] BCraftMG: !mp start 5 glhf
+[22:24:09] BanchoBot: Match starts in 5 seconds
+[22:24:09] BanchoBot: Queued the match to start in 5 seconds
+[22:24:10] BanchoBot: Match starts in 4 seconds
+[22:24:11] BanchoBot: Match starts in 3 seconds
+[22:24:12] Beatos: basketball
+[22:24:12] BanchoBot: Good luck, have fun!
+[22:24:14] BanchoBot: The match has started!
+[22:26:56] BanchoBot: ana_rchy finished playing (Score: 534841, PASSED).
+[22:26:56] BanchoBot: Beatos finished playing (Score: 449736, PASSED).
+[22:26:57] BanchoBot: Desairox finished playing (Score: 1110546, PASSED).
+[22:26:57] BanchoBot: yakotenok finished playing (Score: 604923, PASSED).
+[22:26:57] BanchoBot: The match has finished!
+[22:27:14] BCraftMG: dont worry have fun | 3 - 1 | テルヂージェマグトペラーンカッソーンゲ // Next Pick: dont worry have fun
+[22:27:17] BCraftMG: !mp timer 120
+[22:27:17] BanchoBot: Countdown ends in 2 minutes
+[22:27:23] ana_rchy: bruh
+[22:27:41] BCraftMG: too good
+[22:27:44] Beatos: bruh
+[22:27:47] BanchoBot: kerson09 joined in slot 5 for team blue.
+[22:28:07] Desairox: :alien:
+[22:28:17] BanchoBot: Countdown ends in 1 minute
+[22:28:30] ana_rchy: im so firetrucking done
+[22:28:39] yakotenok: nm6
+[22:28:47] BCraftMG: !mp map 3376899 0
+[22:28:48] BanchoBot: Countdown ends in 30 seconds
+[22:28:49] BCraftMG: !Mp mods 1
+[22:28:50] BCraftMG: !mp timer 120
+[22:28:51] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3376899 KAF feat. KAFU - phony
+[22:28:51] BanchoBot: Changed match mode to Osu
+[22:28:51] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:28:51] BanchoBot: Countdown aborted
+[22:28:51] BanchoBot: Countdown ends in 2 minutes
+[22:28:57] BanchoBot: yakotenok left the game.
+[22:29:18] BanchoBot: kerson09 moved to slot 1
+[22:29:20] BanchoBot: kerson09 changed to Red
+[22:29:35] BCraftMG: ah yes
+[22:29:39] BCraftMG: another phony
+[22:29:51] BanchoBot: Countdown ends in 1 minute
+[22:29:57] Beatos: desairox 1v2 waiting room
+[22:30:16] BanchoBot: My Angel Mayuri joined in slot 5 for team blue.
+[22:30:22] BanchoBot: Countdown ends in 30 seconds
+[22:30:23] Desairox: Надеюсь.
+[22:30:32] BanchoBot: ana_rchy left the game.
+[22:30:33] BanchoBot: My Angel Mayuri moved to slot 4
+[22:30:36] BanchoBot: All players are ready
+[22:30:37] BCraftMG: !mp settings
+[22:30:38] BanchoBot: Room name: BQT5: (dont worry have fun) vs (テルヂージェマグトペラーンカッソーンゲ), History: https://osu.ppy.sh/mp/103873508
+[22:30:38] BanchoBot: Beatmap: https://osu.ppy.sh/b/3376899 KAF feat. KAFU - phony
+[22:30:38] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:30:38] BanchoBot: Active mods: NoFail
+[22:30:38] BanchoBot: Players: 4
+[22:30:38] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13879551 kerson09        [Team Red ]
+[22:30:38] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17506426 Desairox        [Team Red ]
+[22:30:38] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15172788 Beatos          [Team Blue]
+[22:30:38] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/18744938 My Angel Mayuri [Team Blue]
+[22:30:40] BCraftMG: !mp start 5 glhf
+[22:30:41] BanchoBot: Countdown aborted
+[22:30:41] BanchoBot: Match starts in 5 seconds
+[22:30:41] BanchoBot: Queued the match to start in 5 seconds
+[22:30:42] BanchoBot: Match starts in 4 seconds
+[22:30:43] BanchoBot: Match starts in 3 seconds
+[22:30:44] BanchoBot: Good luck, have fun!
+[22:30:44] Beatos: golf
+[22:30:46] BanchoBot: The match has started!
+[22:34:01] BanchoBot: Beatos finished playing (Score: 320688, PASSED).
+[22:34:03] BanchoBot: kerson09 finished playing (Score: 269348, PASSED).
+[22:34:03] BanchoBot: My Angel Mayuri finished playing (Score: 319686, PASSED).
+[22:34:03] BanchoBot: Desairox finished playing (Score: 825118, PASSED).
+[22:34:03] BanchoBot: The match has finished!
+[22:34:16] BanchoBot: ana_rchy joined in slot 5 for team blue.
+[22:34:19] BCraftMG: dont worry have fun | 4 - 1 | テルヂージェマグトペラーンカッソーンゲ // Next Pick: テルヂージェマグトペラーンカッソーンゲ
+[22:34:23] BCraftMG: !mp timer 120
+[22:34:24] BanchoBot: Countdown ends in 2 minutes
+[22:34:25] BanchoBot: yakotenok joined in slot 6 for team red.
+[22:34:34] BanchoBot: Desairox left the game.
+[22:35:14] BanchoBot: Desairox joined in slot 2 for team red.
+[22:35:25] BanchoBot: Countdown ends in 1 minute
+[22:35:25] Beatos: hr1
+[22:35:41] BCraftMG: !mp map 2845190 0
+[22:35:42] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2845190 Utsu-P feat. Kagamine Rin - Tokyo Teddy Bear
+[22:35:42] BanchoBot: Changed match mode to Osu
+[22:35:43] BCraftMG: !mp mods 17
+[22:35:44] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[22:35:45] BanchoBot: Beatos left the game.
+[22:35:46] BCraftMG: !mp timer 120
+[22:35:47] BanchoBot: My Angel Mayuri moved to slot 3
+[22:35:47] BanchoBot: Countdown aborted
+[22:35:47] BanchoBot: Countdown ends in 2 minutes
+[22:35:50] BanchoBot: ana_rchy moved to slot 4
+[22:36:48] BanchoBot: Countdown ends in 1 minute
+[22:36:50] BanchoBot: yakotenok left the game.
+[22:36:57] BanchoBot: All players are ready
+[22:37:00] ana_rchy: determination
+[22:37:13] BCraftMG: !mp settings
+[22:37:14] BanchoBot: Room name: BQT5: (dont worry have fun) vs (テルヂージェマグトペラーンカッソーンゲ), History: https://osu.ppy.sh/mp/103873508
+[22:37:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/2845190 Utsu-P feat. Kagamine Rin - Tokyo Teddy Bear
+[22:37:14] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:37:14] BanchoBot: Active mods: NoFail, HardRock
+[22:37:14] BanchoBot: Players: 4
+[22:37:14] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13879551 kerson09        [Team Red ]
+[22:37:14] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17506426 Desairox        [Team Red ]
+[22:37:14] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/18744938 My Angel Mayuri [Team Blue]
+[22:37:14] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11712494 ana_rchy        [Team Blue]
+[22:37:16] BCraftMG: !mp start 5 glhf
+[22:37:17] BanchoBot: Countdown ends in 30 seconds
+[22:37:17] BanchoBot: Countdown aborted
+[22:37:17] BanchoBot: Match starts in 5 seconds
+[22:37:17] BanchoBot: Queued the match to start in 5 seconds
+[22:37:20] BanchoBot: Match starts in 4 seconds
+[22:37:20] BanchoBot: Match starts in 3 seconds
+[22:37:20] BanchoBot: Good luck, have fun!
+[22:37:23] BanchoBot: The match has started!
+[22:37:42] My_Angel_Mayuri: abort
+[22:37:44] My_Angel_Mayuri: fps drops
+[22:37:44] My_Angel_Mayuri: pls
+[22:37:50] BanchoBot: My Angel Mayuri left the game.
+[22:37:58] BCraftMG: !mp abort
+[22:37:58] BanchoBot: Aborted the match
+[22:38:05] kerson09: а ок
+[22:38:15] ana_rchy: mayori got a bad fps drop
+[22:38:36] BanchoBot: My Angel Mayuri joined in slot 3 for team blue.
+[22:38:45] Desairox: Alright.
+[22:38:54] BanchoBot: All players are ready
+[22:38:56] BCraftMG: !mp settings
+[22:38:57] BanchoBot: Room name: BQT5: (dont worry have fun) vs (テルヂージェマグトペラーンカッソーンゲ), History: https://osu.ppy.sh/mp/103873508
+[22:38:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/2845190 Utsu-P feat. Kagamine Rin - Tokyo Teddy Bear
+[22:38:57] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:38:57] BanchoBot: Active mods: NoFail, HardRock
+[22:38:57] BanchoBot: Players: 4
+[22:38:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13879551 kerson09        [Team Red ]
+[22:38:57] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17506426 Desairox        [Team Red ]
+[22:38:57] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/18744938 My Angel Mayuri [Team Blue]
+[22:38:57] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11712494 ana_rchy        [Team Blue]
+[22:38:58] ana_rchy: determination.
+[22:39:02] BCraftMG: !mp start 5 glhf
+[22:39:03] BanchoBot: Match starts in 5 seconds
+[22:39:03] BanchoBot: Queued the match to start in 5 seconds
+[22:39:04] BanchoBot: Match starts in 4 seconds
+[22:39:05] BanchoBot: Match starts in 3 seconds
+[22:39:06] BanchoBot: Good luck, have fun!
+[22:39:08] BanchoBot: The match has started!
+[22:42:24] BanchoBot: My Angel Mayuri finished playing (Score: 462992, PASSED).
+[22:42:24] BanchoBot: kerson09 finished playing (Score: 467600, PASSED).
+[22:42:24] BanchoBot: Desairox finished playing (Score: 576403, PASSED).
+[22:42:24] BanchoBot: ana_rchy finished playing (Score: 437972, PASSED).
+[22:42:24] BanchoBot: The match has finished!
+[22:42:44] BCraftMG: dont worry have fun | 5 - 1 | テルヂージェマグトペラーンカッソーンゲ // Next Pick: dont worry have fun
+[22:42:49] BanchoBot: yakotenok joined in slot 5 for team blue.
+[22:42:50] BCraftMG: !mp timer 120
+[22:42:52] BanchoBot: Countdown ends in 2 minutes
+[22:42:53] BanchoBot: Beatos joined in slot 6 for team red.
+[22:43:17] yakotenok: dt1
+[22:43:38] BCraftMG: !mp map 887600 0
+[22:43:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/887600 ChouCho - Happy Fate
+[22:43:39] BanchoBot: Changed match mode to Osu
+[22:43:40] BCraftMG: !mp mods 65
+[22:43:41] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[22:43:42] BCraftMG: !mp timer 120
+[22:43:42] BanchoBot: Countdown aborted
+[22:43:42] BanchoBot: Countdown ends in 2 minutes
+[22:43:49] BanchoBot: kerson09 moved to slot 7
+[22:43:52] BanchoBot: kerson09 left the game.
+[22:44:03] BanchoBot: Desairox moved to slot 1
+[22:44:07] BanchoBot: Beatos left the game.
+[22:44:14] yakotenok: вот бы не насрать
+[22:44:20] yakotenok: тремар
+[22:44:22] yakotenok: варываивыораыаыаыало
+[22:44:27] BanchoBot: yakotenok moved to slot 2
+[22:44:27] BanchoBot: yakotenok changed to Red
+[22:44:30] Desairox: Тремор.
+[22:44:36] yakotenok: тремар
+[22:44:43] BanchoBot: Countdown ends in 1 minute
+[22:44:48] BanchoBot: All players are ready
+[22:45:00] BCraftMG: !mp settings
+[22:45:02] BanchoBot: Room name: BQT5: (dont worry have fun) vs (テルヂージェマグトペラーンカッソーンゲ), History: https://osu.ppy.sh/mp/103873508
+[22:45:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/887600 ChouCho - Happy Fate
+[22:45:02] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:45:02] BanchoBot: Active mods: NoFail, DoubleTime
+[22:45:02] BanchoBot: Players: 4
+[22:45:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17506426 Desairox        [Team Red ]
+[22:45:02] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/27234119 yakotenok       [Team Red ]
+[22:45:02] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/18744938 My Angel Mayuri [Team Blue]
+[22:45:02] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11712494 ana_rchy        [Team Blue]
+[22:45:04] BCraftMG: !mp start 5 glhf
+[22:45:04] ana_rchy: determined.
+[22:45:04] BanchoBot: Countdown aborted
+[22:45:04] BanchoBot: Match starts in 5 seconds
+[22:45:04] BanchoBot: Queued the match to start in 5 seconds
+[22:45:05] BanchoBot: Match starts in 4 seconds
+[22:45:06] BanchoBot: Match starts in 3 seconds
+[22:45:07] BanchoBot: Good luck, have fun!
+[22:45:08] yakotenok: gl
+[22:45:09] BanchoBot: The match has started!
+[22:47:52] BanchoBot: yakotenok finished playing (Score: 668955, PASSED).
+[22:47:53] BanchoBot: Desairox finished playing (Score: 1158986, PASSED).
+[22:47:53] BanchoBot: My Angel Mayuri finished playing (Score: 810410, PASSED).
+[22:47:54] BanchoBot: ana_rchy finished playing (Score: 970103, PASSED).
+[22:47:54] BanchoBot: The match has finished!
+[22:47:58] yakotenok: насрала
+[22:48:10] BanchoBot: Beatos joined in slot 5 for team blue.
+[22:48:10] My_Angel_Mayuri: that's the most cringe match i've ever played
+[22:48:11] BCraftMG: Congrats to dont worry have fun for winning this match! GGWP both teams!
+[22:48:11] BanchoBot: My Angel Mayuri left the game.
+[22:48:18] BanchoBot: Beatos left the game.
+[22:48:26] ana_rchy: i threw my pen
+[22:48:27] BanchoBot: kerson09 joined in slot 3 for team blue.
+[22:48:46] kerson09: ggwp
+[22:48:49] BanchoBot: kerson09 moved to slot 5
+[22:48:51] kerson09: poluchatsa
+[22:48:52] yakotenok: я плакать всем пака
+[22:48:55] BanchoBot: yakotenok left the game.
+[22:49:01] kerson09: ya cry
+[22:49:03] ana_rchy: dlaczego to tak sie stalo
+[22:49:15] kerson09: ya ne ponimat' po polski
+[22:49:19] kerson09: poka brat
+[22:49:20] BanchoBot: kerson09 left the game.
+[22:49:28] ana_rchy: kurwa
+[22:49:38] Desairox: GGWP!
+[22:49:39] Desairox: polska gurom
+[22:49:39] Desairox: :muscle:
+[22:49:50] BanchoBot: Desairox left the game.
+[22:49:52] ana_rchy: i will get you next time, desairox.
+[22:50:10] BanchoBot: ana_rchy left the game.
+[22:50:31] BCraftMG: !mp close
+[22:50:32] BanchoBot: Closed the match

@@ -1,0 +1,76 @@
+[23:41:46] Joined #mp_115039419
+[23:41:46] BCraftMG: !mp settings
+[23:41:48] BCraftMG: !mp settings
+[23:41:48] BanchoBot: Room name: STT: Qualifiers Lobby B9, History: https://osu.ppy.sh/mp/115039419
+[23:41:48] BanchoBot: Beatmap: https://osu.ppy.sh/b/2709018 BAND-MAID - Spirit!!
+[23:41:48] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:41:48] BanchoBot: Active mods: NoFail, Easy
+[23:41:48] BanchoBot: Players: 2
+[23:41:48] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17724014 alfiu           
+[23:41:48] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16870029 vljoy209        
+[23:41:51] BCraftMG: hi im back
+[23:41:52] BCraftMG: sorry
+[23:41:54] BCraftMG: !mp start 10
+[23:41:55] BanchoBot: Match starts in 10 seconds
+[23:41:55] BanchoBot: Queued the match to start in 10 seconds
+[23:42:01] BanchoBot: Match starts in 5 seconds
+[23:42:02] BanchoBot: Match starts in 4 seconds
+[23:42:04] BanchoBot: Match starts in 3 seconds
+[23:42:04] BanchoBot: Good luck, have fun!
+[23:42:06] BanchoBot: The match has started!
+[23:45:52] BanchoBot: alfiu finished playing (Score: 21239, PASSED).
+[23:45:53] BanchoBot: vljoy209 finished playing (Score: 26577, PASSED).
+[23:45:53] BanchoBot: The match has finished!
+[23:45:57] BCraftMG: !mp map 1532489
+[23:45:58] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1532489 Infected Mushroom - Spitfire
+[23:45:59] BCraftMG: !mp mods nf ez dt
+[23:46:00] BanchoBot: Enabled NoFail, Easy, DoubleTime, disabled FreeMod
+[23:47:00] BanchoBot: All players are ready
+[23:47:03] BCraftMG: !mp settings
+[23:47:04] BanchoBot: Room name: STT: Qualifiers Lobby B9, History: https://osu.ppy.sh/mp/115039419
+[23:47:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/1532489 Infected Mushroom - Spitfire
+[23:47:04] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:47:04] BanchoBot: Active mods: NoFail, Easy, DoubleTime
+[23:47:04] BanchoBot: Players: 2
+[23:47:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17724014 alfiu           
+[23:47:04] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16870029 vljoy209        
+[23:47:05] BCraftMG: !mp start 5 glhf
+[23:47:07] BanchoBot: Match starts in 5 seconds
+[23:47:07] BanchoBot: Queued the match to start in 5 seconds
+[23:47:08] BanchoBot: Match starts in 4 seconds
+[23:47:09] BanchoBot: Match starts in 3 seconds
+[23:47:11] BanchoBot: Good luck, have fun!
+[23:47:12] BanchoBot: The match has started!
+[23:51:51] BanchoBot: alfiu finished playing (Score: 28970, PASSED).
+[23:51:51] BanchoBot: vljoy209 finished playing (Score: 71782, PASSED).
+[23:51:51] BanchoBot: The match has finished!
+[23:51:58] BCraftMG: !mp map 1128184
+[23:52:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1128184 Vicetone - Kaleidoscope
+[23:52:09] BCraftMG: !mp mods nf hr dt
+[23:52:11] BanchoBot: Enabled NoFail, HardRock, DoubleTime, disabled FreeMod
+[23:52:49] BanchoBot: All players are ready
+[23:52:54] BCraftMG: !mp settings
+[23:52:55] BanchoBot: Room name: STT: Qualifiers Lobby B9, History: https://osu.ppy.sh/mp/115039419
+[23:52:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/1128184 Vicetone - Kaleidoscope
+[23:52:55] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:52:55] BanchoBot: Active mods: NoFail, HardRock, DoubleTime
+[23:52:55] BanchoBot: Players: 2
+[23:52:55] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17724014 alfiu           
+[23:52:55] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16870029 vljoy209        
+[23:52:56] BCraftMG: !mp start 5 glhf
+[23:52:57] BanchoBot: Match starts in 5 seconds
+[23:52:57] BanchoBot: Queued the match to start in 5 seconds
+[23:52:59] BanchoBot: Match starts in 4 seconds
+[23:53:00] BanchoBot: Match starts in 3 seconds
+[23:53:01] BanchoBot: Good luck, have fun!
+[23:53:03] BanchoBot: The match has started!
+[23:54:22] BanchoBot: alfiu finished playing (Score: 693537, PASSED).
+[23:54:22] BanchoBot: vljoy209 finished playing (Score: 304688, PASSED).
+[23:54:22] BanchoBot: The match has finished!
+[23:54:34] alfiu: ty4ref
+[23:54:34] alfiu: ggwp
+[23:54:35] BCraftMG: ggwp
+[23:54:37] BanchoBot: alfiu left the game.
+[23:54:38] BanchoBot: vljoy209 left the game.
+[23:55:40] BCraftMG: !mp close
+[23:55:41] BanchoBot: Closed the match

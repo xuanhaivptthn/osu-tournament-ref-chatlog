@@ -1,0 +1,350 @@
+[01:01:54] Joined #mp_111261175
+[01:01:54] BCraftMG: !mp settings
+[01:01:55] BanchoBot: Room name: KQT: ([Boy]HaiPhong) vs (lweexe), History: https://osu.ppy.sh/mp/111261175
+[01:01:55] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[01:01:55] BanchoBot: Players: 0
+[01:02:23] BCraftMG: !mp set 0 3 3
+[01:02:24] BanchoBot: Changed match settings to 3 slots, HeadToHead, ScoreV2
+[01:02:28] BCraftMG: !mp invite #8461097
+[01:02:28] BanchoBot: User not found
+[01:02:30] BCraftMG: !mp invite #10862128
+[01:02:30] BanchoBot: Invited lweexe to the room
+[01:02:38] BanchoBot: lweexe joined in slot 1.
+[01:02:52] lweexe: is my opponent even awake
+[01:03:00] BCraftMG: i dont know
+[01:03:04] BCraftMG: !mp addref Okayu ASMR
+[01:03:04] BanchoBot: User not found: Okayu ASMR
+[01:03:06] lweexe: i dont see him online
+[01:03:12] lweexe: its lik 2am for all of us no?
+[01:03:57] BCraftMG: 1 for us
+[01:04:10] BCraftMG: !mp addref Okayu_ASMR
+[01:04:10] BanchoBot: Added Okayu_ASMR to the match referees
+[01:04:19] lweexe: omg okayu taking over
+[01:04:23] lweexe: o/
+[01:04:41] BCraftMG: !mp invite #8461097
+[01:04:42] BanchoBot: Invited [Boy]HaiPhong to the room
+[01:05:09] BanchoBot: [Boy]HaiPhong joined in slot 2.
+[01:05:16] lweexe: o/
+[01:05:21] [Boy]HaiPhong: o\
+[01:05:23] [Boy]HaiPhong: sorry just woke up
+[01:05:24] [Boy]HaiPhong: lol
+[01:05:28] BCraftMG: warm up?
+[01:05:56] BCraftMG: btw [boy]haiphong slot 1 Iweexe slot 2 pls
+[01:06:12] lweexe: nah im gd
+[01:06:16] BanchoBot: [Boy]HaiPhong moved to slot 3
+[01:06:18] BanchoBot: [Boy]HaiPhong moved to slot 2
+[01:06:18] lweexe: im tryna go asap
+[01:06:30] BanchoBot: lweexe moved to slot 3
+[01:06:30] [Boy]HaiPhong: yeah lets go fast
+[01:06:44] BanchoBot: [Boy]HaiPhong moved to slot 1
+[01:06:47] BanchoBot: lweexe moved to slot 2
+[01:06:48] BCraftMG: alrite
+[01:06:50] BCraftMG: roll then
+[01:06:58] BCraftMG: Winner chooses pick/ban order, loser chooses the reamining choice
+[01:07:00] [Boy]HaiPhong: !roll
+[01:07:00] BanchoBot: [Boy]HaiPhong rolls 19 point(s)
+[01:07:06] lweexe: !roll
+[01:07:06] BanchoBot: lweexe rolls 74 point(s)
+[01:07:13] lweexe: pick order
+[01:07:16] lweexe: 1 ban only isit
+[01:07:27] lweexe: i pick first
+[01:07:28] BCraftMG: pick first or second then
+[01:07:29] BCraftMG: ok
+[01:07:34] BCraftMG: haiphong ban order
+[01:07:41] [Boy]HaiPhong: second
+[01:08:08] BCraftMG: First Ban: lweexe
+[01:08:08] BCraftMG: !mp timer 120
+[01:08:09] BanchoBot: Countdown ends in 2 minutes
+[01:08:16] lweexe: ban hr2
+[01:08:27] BCraftMG: Next Ban: [Boy]HaiPhong
+[01:08:29] BCraftMG: !mp timer 120
+[01:08:29] BanchoBot: Countdown aborted
+[01:08:29] BanchoBot: Countdown ends in 2 minutes
+[01:08:32] [Boy]HaiPhong: ban hd2
+[01:08:42] BCraftMG: [Boy]HaiPhong | 0 - 0 | lweexe // Bo9 - First Pick: lweexe
+[01:08:44] BCraftMG: !mp timer 120
+[01:08:44] BanchoBot: Countdown aborted
+[01:08:44] BanchoBot: Countdown ends in 2 minutes
+[01:08:53] lweexe: pick nm5
+[01:09:05] BCraftMG: !mp map 3117704 0
+[01:09:05] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3117704 Bo Xue Liang - Ci Chuang Ge
+[01:09:05] BanchoBot: Changed match mode to Osu
+[01:09:06] BCraftMG: !mp mods 1
+[01:09:07] lweexe: wait nm5 is speed or gimmick
+[01:09:07] BanchoBot: Enabled NoFail, disabled FreeMod
+[01:09:08] BCraftMG: !mp timer 120
+[01:09:08] BanchoBot: Countdown aborted
+[01:09:08] BanchoBot: Countdown ends in 2 minutes
+[01:09:11] lweexe: nvrm i got my answer
+[01:09:16] BanchoBot: All players are ready
+[01:09:21] BCraftMG: !mp settings
+[01:09:22] BanchoBot: Room name: KQT: ([Boy]HaiPhong) vs (lweexe), History: https://osu.ppy.sh/mp/111261175
+[01:09:22] BanchoBot: Beatmap: https://osu.ppy.sh/b/3117704 Bo Xue Liang - Ci Chuang Ge
+[01:09:22] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:09:22] BanchoBot: Active mods: NoFail
+[01:09:22] BanchoBot: Players: 2
+[01:09:22] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8461097 [Boy]HaiPhong   
+[01:09:22] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10862128 lweexe          
+[01:09:24] BCraftMG: !mp start 5 glhf
+[01:09:25] BanchoBot: Countdown aborted
+[01:09:25] BanchoBot: Match starts in 5 seconds
+[01:09:25] BanchoBot: Queued the match to start in 5 seconds
+[01:09:26] BanchoBot: Match starts in 4 seconds
+[01:09:26] [Boy]HaiPhong: hfhf
+[01:09:27] BanchoBot: Match starts in 3 seconds
+[01:09:28] BanchoBot: Good luck, have fun!
+[01:09:30] BanchoBot: The match has started!
+[01:09:30] lweexe: glgl
+[01:12:09] BanchoBot: lweexe finished playing (Score: 332737, PASSED).
+[01:12:10] BanchoBot: [Boy]HaiPhong finished playing (Score: 543781, PASSED).
+[01:12:10] BanchoBot: The match has finished!
+[01:12:28] lweexe: playing that with 1 color skin is doomed
+[01:12:28] BCraftMG: [Boy]HaiPhong | 1 - 0 | lweexe // Bo9 - Next Pick: [Boy]HaiPhong
+[01:12:31] BCraftMG: !mp timer 120
+[01:12:31] BanchoBot: Countdown ends in 2 minutes
+[01:12:36] [Boy]HaiPhong: lmao
+[01:13:00] [Boy]HaiPhong: pick nm3
+[01:13:09] lweexe: pls banger
+[01:13:24] BCraftMG: !mp map 3296922 0
+[01:13:25] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3296922 Tsukuyomi - Dareka no Shinzou ni Nareta nara
+[01:13:25] BanchoBot: Changed match mode to Osu
+[01:13:26] BCraftMG: !mp mods 1
+[01:13:26] BanchoBot: Enabled NoFail, disabled FreeMod
+[01:13:26] BCraftMG: !mp timer 120
+[01:13:27] BanchoBot: Countdown aborted
+[01:13:27] BanchoBot: Countdown ends in 2 minutes
+[01:13:31] [Boy]HaiPhong: oh i love this song
+[01:13:33] lweexe: LERTS GOOOOOOOO
+[01:13:33] [Boy]HaiPhong: <3333
+[01:13:37] [Boy]HaiPhong: YEAHHH
+[01:13:39] BanchoBot: All players are ready
+[01:13:44] lweexe: TSUKUYOMI
+[01:13:45] BCraftMG: !mp settings
+[01:13:45] lweexe: LASKjdLAKSD
+[01:13:45] BanchoBot: Room name: KQT: ([Boy]HaiPhong) vs (lweexe), History: https://osu.ppy.sh/mp/111261175
+[01:13:45] BanchoBot: Beatmap: https://osu.ppy.sh/b/3296922 Tsukuyomi - Dareka no Shinzou ni Nareta nara
+[01:13:45] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:13:45] BanchoBot: Active mods: NoFail
+[01:13:45] BanchoBot: Players: 2
+[01:13:45] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8461097 [Boy]HaiPhong   
+[01:13:45] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10862128 lweexe          
+[01:13:47] BCraftMG: !mp start 5 glhf
+[01:13:47] BanchoBot: Countdown aborted
+[01:13:47] BanchoBot: Match starts in 5 seconds
+[01:13:47] BanchoBot: Queued the match to start in 5 seconds
+[01:13:48] BanchoBot: Match starts in 4 seconds
+[01:13:49] BanchoBot: Match starts in 3 seconds
+[01:13:50] [Boy]HaiPhong: TSUKUYOMI
+[01:13:50] BanchoBot: Good luck, have fun!
+[01:13:51] [Boy]HaiPhong: HFHF
+[01:13:52] BanchoBot: The match has started!
+[01:13:52] lweexe: glgl
+[01:17:47] BanchoBot: [Boy]HaiPhong finished playing (Score: 794871, PASSED).
+[01:17:47] BanchoBot: lweexe finished playing (Score: 440083, PASSED).
+[01:17:47] BanchoBot: The match has finished!
+[01:17:56] lweexe: nc score
+[01:17:58] BCraftMG: [Boy]HaiPhong | 2 - 0 | lweexe // Bo9 - Next Pick: lweexe
+[01:18:02] BCraftMG: !mp timer 120
+[01:18:02] BanchoBot: Countdown ends in 2 minutes
+[01:18:05] lweexe: man im not palyign well
+[01:18:12] lweexe: uhh fm2
+[01:18:18] [Boy]HaiPhong: good song tho
+[01:18:28] lweexe: ye thk u for picking bangers
+[01:18:33] lweexe: idk the pool though
+[01:18:37] lweexe: so idk what are the bangers
+[01:18:42] lweexe: any ideas?
+[01:18:43] BCraftMG: uhh
+[01:18:55] BCraftMG: hold up
+[01:19:02] lweexe: oh wait
+[01:19:03] [Boy]HaiPhong: all nomods are bangers ig
+[01:19:03] BanchoBot: Countdown ends in 1 minute
+[01:19:06] lweexe: do we not hv fm
+[01:19:11] lweexe: ok nm2
+[01:19:23] BCraftMG: !mp map 4277541 0
+[01:19:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4277541 Kuki Akumu - Ki ga Kurutta Noise
+[01:19:23] BanchoBot: Changed match mode to Osu
+[01:19:26] BCraftMG: !mp mods 1
+[01:19:27] BanchoBot: Enabled NoFail, disabled FreeMod
+[01:19:28] BCraftMG: !mp timer 120
+[01:19:28] BanchoBot: Countdown aborted
+[01:19:28] BanchoBot: Countdown ends in 2 minutes
+[01:19:53] BCraftMG: i panicked for a sec
+[01:19:53] BanchoBot: All players are ready
+[01:19:54] BCraftMG: !mp settings
+[01:19:55] BanchoBot: Room name: KQT: ([Boy]HaiPhong) vs (lweexe), History: https://osu.ppy.sh/mp/111261175
+[01:19:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/4277541 Kuki Akumu - Ki ga Kurutta Noise
+[01:19:55] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:19:55] BanchoBot: Active mods: NoFail
+[01:19:55] BanchoBot: Players: 2
+[01:19:55] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8461097 [Boy]HaiPhong   
+[01:19:55] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10862128 lweexe          
+[01:19:56] BCraftMG: !mp start 5 glhf
+[01:19:57] BanchoBot: Countdown aborted
+[01:19:57] BanchoBot: Match starts in 5 seconds
+[01:19:57] BanchoBot: Queued the match to start in 5 seconds
+[01:19:58] BanchoBot: Match starts in 4 seconds
+[01:19:59] BanchoBot: Match starts in 3 seconds
+[01:20:00] lweexe: HAHAHHAHA
+[01:20:00] BanchoBot: Good luck, have fun!
+[01:20:02] lweexe: glgl
+[01:20:02] [Boy]HaiPhong: hfhf
+[01:20:02] BanchoBot: The match has started!
+[01:22:30] BanchoBot: [Boy]HaiPhong finished playing (Score: 934296, PASSED).
+[01:22:30] BanchoBot: lweexe finished playing (Score: 959284, PASSED).
+[01:22:30] BanchoBot: The match has finished!
+[01:22:39] [Boy]HaiPhong: ayyo
+[01:22:42] BCraftMG: [Boy]HaiPhong | 2 - 1 | lweexe // Bo9 - Next Pick: [Boy]HaiPhong
+[01:22:45] BCraftMG: !mp timer 120
+[01:22:45] [Boy]HaiPhong: nice fc
+[01:22:45] BanchoBot: Countdown ends in 2 minutes
+[01:22:48] lweexe: eh yo
+[01:22:50] lweexe: u too man
+[01:23:18] lweexe: i lamost shit miss ending
+[01:23:19] [Boy]HaiPhong: HR1
+[01:23:21] BCraftMG: oy oy what is this friendly shenanigans
+[01:23:23] [Boy]HaiPhong: same
+[01:23:32] BCraftMG: !mp map 4320707 0
+[01:23:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4320707 BUTAOTOME - Futari Dake no Kotoba
+[01:23:33] BanchoBot: Changed match mode to Osu
+[01:23:34] BCraftMG: !mp mods 17
+[01:23:35] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[01:23:36] BCraftMG: !mp timer 120
+[01:23:36] BanchoBot: Countdown aborted
+[01:23:36] BanchoBot: Countdown ends in 2 minutes
+[01:23:37] lweexe: WTF cant be friendly
+[01:23:44] lweexe: oh no the abuse comes
+[01:23:51] [Boy]HaiPhong: no no
+[01:23:54] [Boy]HaiPhong: BUTAOTOME banger
+[01:23:56] [Boy]HaiPhong: im picking banger man
+[01:23:58] lweexe: true
+[01:24:12] lweexe: wait whats the other touhou music maker
+[01:24:15] lweexe: i forgor
+[01:24:18] lweexe: that one is so gd
+[01:24:20] BanchoBot: All players are ready
+[01:24:29] [Boy]HaiPhong: idk there are too much lol
+[01:24:36] lweexe: OH YA
+[01:24:36] BanchoBot: Countdown ends in 1 minute
+[01:24:40] lweexe: shinra bansho
+[01:24:42] BCraftMG: !mp settings
+[01:24:43] BanchoBot: Room name: KQT: ([Boy]HaiPhong) vs (lweexe), History: https://osu.ppy.sh/mp/111261175
+[01:24:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/4320707 BUTAOTOME - Futari Dake no Kotoba
+[01:24:43] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:24:43] BanchoBot: Active mods: NoFail, HardRock
+[01:24:43] BanchoBot: Players: 2
+[01:24:43] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8461097 [Boy]HaiPhong   
+[01:24:43] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10862128 lweexe          
+[01:24:44] BCraftMG: !mp start 5 glhf
+[01:24:44] lweexe: that artist is god tier
+[01:24:45] BanchoBot: Countdown aborted
+[01:24:45] BanchoBot: Match starts in 5 seconds
+[01:24:45] BanchoBot: Queued the match to start in 5 seconds
+[01:24:47] BanchoBot: Match starts in 4 seconds
+[01:24:47] BanchoBot: Match starts in 3 seconds
+[01:24:47] [Boy]HaiPhong: oh yes
+[01:24:48] BanchoBot: Good luck, have fun!
+[01:24:50] lweexe: glgl
+[01:24:50] BanchoBot: The match has started!
+[01:24:52] [Boy]HaiPhong: real
+[01:24:54] [Boy]HaiPhong: hfhf
+[01:28:11] BanchoBot: lweexe finished playing (Score: 449187, PASSED).
+[01:28:11] BanchoBot: [Boy]HaiPhong finished playing (Score: 1046596, PASSED).
+[01:28:11] BanchoBot: The match has finished!
+[01:28:14] BCraftMG: [Boy]HaiPhong | 3 - 1 | lweexe // Bo9 - Next Pick: lweexe
+[01:28:15] BCraftMG: !mp timer 120
+[01:28:16] BanchoBot: Countdown ends in 2 minutes
+[01:28:19] lweexe: nc fc
+[01:28:22] lweexe: i pick hd1
+[01:28:29] lweexe: idk what to pick tbh
+[01:28:31] lweexe: my fm all gone
+[01:28:35] lweexe: and my hd2 grrrrrrrrrr
+[01:28:39] [Boy]HaiPhong: ty
+[01:28:40] BCraftMG: !mp map 3494393 0
+[01:28:41] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3494393 YUC'e - Cinnamon Symphony
+[01:28:41] BanchoBot: Changed match mode to Osu
+[01:28:42] BCraftMG: !mp mods 9
+[01:28:43] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[01:28:43] BCraftMG: !mp timer 120
+[01:28:44] [Boy]HaiPhong: oops
+[01:28:44] BanchoBot: Countdown aborted
+[01:28:44] BanchoBot: Countdown ends in 2 minutes
+[01:28:45] [Boy]HaiPhong: sorry
+[01:28:50] lweexe: uhhhhhh
+[01:28:52] [Boy]HaiPhong: i didn't know what to ban either
+[01:28:53] lweexe: i hv a c rank on thsi
+[01:28:58] lweexe: i might hv inted this
+[01:29:06] BanchoBot: All players are ready
+[01:29:08] BCraftMG: !mp settings
+[01:29:09] BanchoBot: Room name: KQT: ([Boy]HaiPhong) vs (lweexe), History: https://osu.ppy.sh/mp/111261175
+[01:29:09] BanchoBot: Beatmap: https://osu.ppy.sh/b/3494393 YUC'e - Cinnamon Symphony
+[01:29:09] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:29:09] BanchoBot: Active mods: NoFail, Hidden
+[01:29:09] BanchoBot: Players: 2
+[01:29:09] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8461097 [Boy]HaiPhong   
+[01:29:09] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10862128 lweexe          
+[01:29:10] BCraftMG: !mp start 5 glhf
+[01:29:10] BanchoBot: Countdown aborted
+[01:29:10] BanchoBot: Match starts in 5 seconds
+[01:29:10] BanchoBot: Queued the match to start in 5 seconds
+[01:29:11] BanchoBot: Match starts in 4 seconds
+[01:29:12] BanchoBot: Match starts in 3 seconds
+[01:29:13] BanchoBot: Good luck, have fun!
+[01:29:16] lweexe: glgl
+[01:29:16] BanchoBot: The match has started!
+[01:32:14] BanchoBot: lweexe finished playing (Score: 763959, PASSED).
+[01:32:15] BanchoBot: [Boy]HaiPhong finished playing (Score: 1022406, PASSED).
+[01:32:15] BanchoBot: The match has finished!
+[01:32:22] [Boy]HaiPhong: oh rip
+[01:32:24] [Boy]HaiPhong: i combo game'd
+[01:32:25] lweexe: BRO
+[01:32:29] lweexe: i shook
+[01:32:35] lweexe: cause i realised i had ss 3/4 in
+[01:32:37] lweexe: im shaking
+[01:32:42] [Boy]HaiPhong: XD
+[01:32:51] [Boy]HaiPhong: unlucky
+[01:33:02] BCraftMG: [Boy]HaiPhong | 4 - 1 | lweexe // Bo9 - Next: [Boy]HaiPhong
+[01:33:20] [Boy]HaiPhong: NM1
+[01:33:30] BCraftMG: !mp map 3036162 0
+[01:33:30] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3036162 the peggies - Neverland
+[01:33:30] BanchoBot: Changed match mode to Osu
+[01:33:37] BCraftMG: goodnight
+[01:33:41] [Boy]HaiPhong: oh the peggies
+[01:33:42] BCraftMG: !mp mods 1
+[01:33:43] BanchoBot: Enabled NoFail, disabled FreeMod
+[01:33:44] BCraftMG: !mp timer 120
+[01:33:45] BanchoBot: Countdown ends in 2 minutes
+[01:33:48] [Boy]HaiPhong: could be banger
+[01:33:52] lweexe: this is banger
+[01:33:56] BanchoBot: All players are ready
+[01:34:06] lweexe: at least to me
+[01:34:07] [Boy]HaiPhong: hfhf
+[01:34:12] lweexe: but im still shaking so i prob cant aim
+[01:34:12] lweexe: glgl
+[01:34:19] [Boy]HaiPhong: the mapper name tho
+[01:34:23] BCraftMG: !mp settings
+[01:34:25] BanchoBot: Room name: KQT: ([Boy]HaiPhong) vs (lweexe), History: https://osu.ppy.sh/mp/111261175
+[01:34:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/3036162 the peggies - Neverland
+[01:34:25] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:34:25] BanchoBot: Active mods: NoFail
+[01:34:25] BanchoBot: Players: 2
+[01:34:25] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8461097 [Boy]HaiPhong   
+[01:34:25] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10862128 lweexe          
+[01:34:26] BCraftMG: !mp start 5 glhf
+[01:34:27] BanchoBot: Countdown aborted
+[01:34:27] BanchoBot: Match starts in 5 seconds
+[01:34:27] BanchoBot: Queued the match to start in 5 seconds
+[01:34:28] BanchoBot: Match starts in 4 seconds
+[01:34:29] BanchoBot: Match starts in 3 seconds
+[01:34:30] BanchoBot: Good luck, have fun!
+[01:34:32] BanchoBot: The match has started!
+[01:38:16] BanchoBot: lweexe finished playing (Score: 235756, PASSED).
+[01:38:18] BCraftMG: [Boy]HaiPhong | 5 - 1 | lweexe // goodnights
+[01:38:18] BanchoBot: [Boy]HaiPhong finished playing (Score: 987808, PASSED).
+[01:38:18] BanchoBot: The match has finished!
+[01:39:00] [Boy]HaiPhong: we done?
+[01:39:00] BCraftMG: now what
+[01:39:02] BCraftMG: yes
+[01:39:04] BCraftMG: go sleep
+[01:39:12] [Boy]HaiPhong: ggs
+[01:39:42] BanchoBot: [Boy]HaiPhong left the game.
+[01:39:54] BCraftMG: !mp close
+[01:39:55] BanchoBot: Closed the match

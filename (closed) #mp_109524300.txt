@@ -1,0 +1,451 @@
+[20:20:42] Joined #mp_109524300
+[20:20:42] BCraftMG: !mp settings
+[20:20:43] BanchoBot: Room name: VOT3: (DeepInDark) vs (Hx7ru0n9), History: https://osu.ppy.sh/mp/109524300
+[20:20:43] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[20:20:43] BanchoBot: Players: 0
+[20:21:05] BCraftMG: !mp set 0 3 3
+[20:21:06] BanchoBot: Changed match settings to 3 slots, HeadToHead, ScoreV2
+[20:22:01] BCraftMG: !mp addref Gasmask-Chan
+[20:22:02] BanchoBot: User not found: Gasmask-Chan
+[20:22:48] BCraftMG: !mp addref GasmaskChan
+[20:22:48] BanchoBot: Added GasmaskChan to the match referees
+[20:23:29] BCraftMG: !mp invite DeepInDark
+[20:23:30] BanchoBot: Invited DeepInDark to the room
+[20:23:31] BCraftMG: !mp invite Hx7ru0n9
+[20:23:31] BanchoBot: Invited hx7ru0n9 to the room
+[20:24:10] BanchoBot: hx7ru0n9 joined in slot 1.
+[20:24:23] BCraftMG: helo
+[20:24:29] hx7ru0n9: halo
+[20:26:20] BanchoBot: DeepInDark joined in slot 2.
+[20:26:27] DeepInDark: yo
+[20:26:29] DeepInDark: :ehmmm:
+[20:27:08] hx7ru0n9: :ehmmm:
+[20:27:26] DeepInDark: omg im 6k
+[20:27:30] DeepInDark: ded :skull:
+[20:28:38] BCraftMG: k ai guwir map
+[20:28:42] BCraftMG: nên là vào roll nhé?
+[20:28:51] hx7ru0n9: okay
+[20:28:53] DeepInDark: okay
+[20:28:58] DeepInDark: !roll
+[20:28:58] BanchoBot: DeepInDark rolls 89 point(s)
+[20:29:01] hx7ru0n9: !roll
+[20:29:01] BanchoBot: hx7ru0n9 rolls 68 point(s)
+[20:29:09] DeepInDark: lol first time roll high number
+[20:29:16] hx7ru0n9: kekw
+[20:29:23] DeepInDark: this match gonna be so bad for me :skull:
+[20:29:34] hx7ru0n9: shut up man
+[20:29:47] DeepInDark: :sobbing:
+[20:30:03] BCraftMG: ban time
+[20:30:23] DeepInDark: idk whose first
+[20:30:37] BCraftMG: hx7ru0n9 ban trc
+[20:30:47] hx7ru0n9: nm1 and hd2
+[20:31:01] DeepInDark: o double ban huh
+[20:31:19] hx7ru0n9: maybe not
+[20:31:24] hx7ru0n9: whoops
+[20:31:29] DeepInDark: :shrug:
+[20:31:43] BCraftMG: 1 ban thui mà
+[20:31:53] BCraftMG: clma tôi vừa phải đi check lại
+[20:31:57] DeepInDark: I can help u with 1 of that ban
+[20:31:58] hx7ru0n9: ok vay hd
+[20:31:59] hx7ru0n9: hd2
+[20:32:00] DeepInDark: :kekw:
+[20:32:09] BCraftMG: DeepInDark ban
+[20:32:11] BCraftMG: !mp timer 90
+[20:32:12] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:32:15] DeepInDark: nm1
+[20:32:21] hx7ru0n9: no way
+[20:32:25] DeepInDark: now ded time :skull:
+[20:32:26] DeepInDark: told ya
+[20:32:42] BanchoBot: Countdown ends in 1 minute
+[20:32:45] BCraftMG: DeepInDark | 0 - 0 | Hx7ru0n9 // Best of 9, DeepInDark you have 90 seconds to pick a map
+[20:32:53] DeepInDark: hmmm
+[20:32:59] DeepInDark: any recommend?
+[20:33:06] DeepInDark: my hands so cool now :skull:
+[20:33:09] hx7ru0n9: breh
+[20:33:10] DeepInDark: cold
+[20:33:12] BanchoBot: Countdown ends in 30 seconds
+[20:33:23] DeepInDark: dt2 then
+[20:33:27] DeepInDark: I need to warm my hands lol
+[20:33:32] BanchoBot: Countdown ends in 10 seconds
+[20:33:34] hx7ru0n9: good choice
+[20:33:37] BanchoBot: Countdown ends in 5 seconds
+[20:33:38] BanchoBot: Countdown ends in 4 seconds
+[20:33:39] BanchoBot: Countdown ends in 3 seconds
+[20:33:40] BanchoBot: Countdown ends in 2 seconds
+[20:33:41] BanchoBot: Countdown ends in 1 second
+[20:33:42] BanchoBot: Countdown finished
+[20:33:55] BCraftMG: !mp map 2315668 1
+[20:33:56] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2315668 Wang Rui - Tao Hua Xiao
+[20:33:56] BanchoBot: Changed match mode to Taiko
+[20:33:59] BCraftMG: !mp mods 65
+[20:33:59] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[20:34:04] BanchoBot: All players are ready
+[20:34:05] BCraftMG: !mp settings
+[20:34:07] BanchoBot: Room name: VOT3: (DeepInDark) vs (Hx7ru0n9), History: https://osu.ppy.sh/mp/109524300
+[20:34:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/2315668 Wang Rui - Tao Hua Xiao
+[20:34:07] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:34:07] BanchoBot: Active mods: NoFail, DoubleTime
+[20:34:07] BanchoBot: Players: 2
+[20:34:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/20161708 hx7ru0n9        
+[20:34:07] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19817503 DeepInDark      
+[20:34:07] BCraftMG: !mp start 5 glhf
+[20:34:07] BanchoBot: Match starts in 5 seconds
+[20:34:07] BanchoBot: Queued the match to start in 5 seconds
+[20:34:09] BanchoBot: Match starts in 4 seconds
+[20:34:10] BanchoBot: Match starts in 3 seconds
+[20:34:11] BanchoBot: Good luck, have fun!
+[20:34:13] BanchoBot: The match has started!
+[20:34:13] hx7ru0n9: glhf
+[20:36:28] BanchoBot: DeepInDark finished playing (Score: 1020483, PASSED).
+[20:36:28] BanchoBot: hx7ru0n9 finished playing (Score: 1028903, PASSED).
+[20:36:28] BanchoBot: The match has finished!
+[20:36:38] DeepInDark: damn fc
+[20:36:40] DeepInDark: nice
+[20:36:41] BCraftMG: DeepInDark | 0 - 1 | Hx7ru0n9 // Best of 9, Hx7ru0n9 you have 90 seconds to pick a map
+[20:36:42] BCraftMG: !mp timer 90
+[20:36:43] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:36:55] DeepInDark: my hands still cold tho
+[20:36:58] DeepInDark: this's bad
+[20:37:07] hx7ru0n9: nm4
+[20:37:12] hx7ru0n9: poor u
+[20:37:13] BanchoBot: Countdown ends in 1 minute
+[20:37:22] hx7ru0n9: have to play at bad condition
+[20:37:27] BCraftMG: bất ngờ khum
+[20:37:29] BCraftMG: 2 ng
+[20:37:31] DeepInDark: that's alr
+[20:37:32] BCraftMG: đổi chỗ đc ko
+[20:37:40] BanchoBot: hx7ru0n9 moved to slot 3
+[20:37:41] DeepInDark: client moment :kekw:
+[20:37:43] BanchoBot: DeepInDark moved to slot 1
+[20:37:44] BanchoBot: Countdown ends in 30 seconds
+[20:37:45] BanchoBot: hx7ru0n9 moved to slot 2
+[20:37:45] BCraftMG: !mp map 4214851 1
+[20:37:45] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4214851 Nor feat. Konomi Kohara - RE Aoharu
+[20:37:45] BanchoBot: Changed match mode to Taiko
+[20:37:46] BCraftMG: !mp mods 1
+[20:37:46] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:37:54] BanchoBot: All players are ready
+[20:38:01] BCraftMG: !mp settings
+[20:38:02] BanchoBot: Room name: VOT3: (DeepInDark) vs (Hx7ru0n9), History: https://osu.ppy.sh/mp/109524300
+[20:38:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/4214851 Nor feat. Konomi Kohara - RE Aoharu
+[20:38:02] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:38:02] BanchoBot: Active mods: NoFail
+[20:38:02] BanchoBot: Players: 2
+[20:38:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19817503 DeepInDark      
+[20:38:02] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20161708 hx7ru0n9        
+[20:38:03] BanchoBot: Countdown ends in 10 seconds
+[20:38:03] BCraftMG: !mp start 5 glhf
+[20:38:04] BanchoBot: Countdown aborted
+[20:38:04] BanchoBot: Match starts in 5 seconds
+[20:38:04] BanchoBot: Queued the match to start in 5 seconds
+[20:38:05] BanchoBot: Match starts in 4 seconds
+[20:38:06] BanchoBot: Match starts in 3 seconds
+[20:38:07] BanchoBot: Good luck, have fun!
+[20:38:09] DeepInDark: hfhf
+[20:38:10] BanchoBot: The match has started!
+[20:40:36] BanchoBot: hx7ru0n9 finished playing (Score: 420721, PASSED).
+[20:40:37] BanchoBot: DeepInDark finished playing (Score: 1000000, PASSED).
+[20:40:37] BanchoBot: The match has finished!
+[20:40:44] DeepInDark: AYYO
+[20:40:48] BCraftMG: DeepInDark | 1 - 1 | Hx7ru0n9 // Best of 9, DeepInDark you have 90 seconds to pick a map
+[20:40:48] BCraftMG: !mp timer 90
+[20:40:50] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:40:54] hx7ru0n9: wtf
+[20:40:56] DeepInDark: how can I still hold when hands cold
+[20:40:58] DeepInDark: tftf
+[20:40:59] BCraftMG: cái gì mà 2 map đầu quà tặng cuộc sống vậy
+[20:41:00] BCraftMG: ổn không nah
+[20:41:02] BCraftMG: anh
+[20:41:10] hx7ru0n9: something happen to my device
+[20:41:18] hx7ru0n9: hope it's ok now
+[20:41:20] BanchoBot: Countdown ends in 1 minute
+[20:41:24] DeepInDark: oke
+[20:41:34] DeepInDark: not dt1 cho warm han tay
+[20:41:49] hx7ru0n9: o_O
+[20:41:50] BanchoBot: Countdown ends in 30 seconds
+[20:41:55] BCraftMG: ko double pick thì phải
+[20:42:06] DeepInDark: co double dau
+[20:42:10] BanchoBot: Countdown ends in 10 seconds
+[20:42:15] BanchoBot: Countdown ends in 5 seconds
+[20:42:16] BanchoBot: Countdown ends in 4 seconds
+[20:42:17] BanchoBot: Countdown ends in 3 seconds
+[20:42:18] BanchoBot: Countdown ends in 2 seconds
+[20:42:19] BanchoBot: Countdown ends in 1 second
+[20:42:20] BanchoBot: Countdown finished
+[20:42:21] BCraftMG: anh pick dt1 đầu tiên r
+[20:42:28] BCraftMG: dt2
+[20:42:31] DeepInDark: anh pick dt2 breh
+[20:42:34] DeepInDark: check again
+[20:42:42] BCraftMG: đầu tiên là dt2
+[20:42:42] DeepInDark: i wrote pick dt1
+[20:42:45] DeepInDark: lol
+[20:42:47] BCraftMG: bh pick dt1 là double còn gì
+[20:42:48] hx7ru0n9: whoops
+[20:42:58] DeepInDark: ohhh la the a
+[20:43:00] DeepInDark: the rip
+[20:43:02] BCraftMG: !mp timer 90
+[20:43:02] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:43:06] hx7ru0n9: man
+[20:43:11] BCraftMG: trolled
+[20:43:13] DeepInDark: idk :skull;
+[20:43:20] DeepInDark: nm3 then
+[20:43:29] BCraftMG: !mp map 2840778 1
+[20:43:30] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2840778 Wakadori - NightTheater
+[20:43:30] BanchoBot: Changed match mode to Taiko
+[20:43:31] BCraftMG: !mp mods 1
+[20:43:32] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:43:33] BCraftMG: !mp timer 90
+[20:43:33] BanchoBot: Countdown ends in 1 minute
+[20:43:33] BanchoBot: Countdown aborted
+[20:43:33] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:43:52] BanchoBot: All players are ready
+[20:43:59] DeepInDark: ti pick ho dt cho warm han tay cai
+[20:44:00] DeepInDark: T-T
+[20:44:01] BCraftMG: !mp settings
+[20:44:02] BanchoBot: Room name: VOT3: (DeepInDark) vs (Hx7ru0n9), History: https://osu.ppy.sh/mp/109524300
+[20:44:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/2840778 Wakadori - NightTheater
+[20:44:02] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:44:02] BanchoBot: Active mods: NoFail
+[20:44:02] BanchoBot: Players: 2
+[20:44:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19817503 DeepInDark      
+[20:44:02] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20161708 hx7ru0n9        
+[20:44:04] BanchoBot: Countdown ends in 1 minute
+[20:44:04] BCraftMG: !mp start 5 glhf
+[20:44:05] BanchoBot: Countdown aborted
+[20:44:05] BanchoBot: Match starts in 5 seconds
+[20:44:05] BanchoBot: Queued the match to start in 5 seconds
+[20:44:06] BanchoBot: Match starts in 4 seconds
+[20:44:07] hx7ru0n9: alright
+[20:44:07] BanchoBot: Match starts in 3 seconds
+[20:44:08] BanchoBot: Good luck, have fun!
+[20:44:10] BanchoBot: The match has started!
+[20:46:16] BanchoBot: hx7ru0n9 finished playing (Score: 969151, PASSED).
+[20:46:17] BanchoBot: DeepInDark finished playing (Score: 974839, PASSED).
+[20:46:17] BanchoBot: The match has finished!
+[20:46:30] BCraftMG: DeepInDark | 2 - 1 | Hx7ru0n9 // Best of 9, Hx7ru0n9 you have 90 seconds to pick a map
+[20:46:30] BCraftMG: !mp timer 90
+[20:46:31] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:46:34] DeepInDark: bruh finnisher moment
+[20:46:35] hx7ru0n9: wow
+[20:46:41] hx7ru0n9: ok
+[20:46:57] hx7ru0n9: dt1
+[20:47:01] BanchoBot: Countdown ends in 1 minute
+[20:47:04] DeepInDark: yayy
+[20:47:17] BCraftMG: !mp map 2655380 1
+[20:47:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2655380 Reol - drop pop candy
+[20:47:17] BanchoBot: Changed match mode to Taiko
+[20:47:18] DeepInDark: bless u explo
+[20:47:19] BCraftMG: !mp mods 65
+[20:47:20] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[20:47:21] BCraftMG: !mp timer 120
+[20:47:21] BanchoBot: Countdown aborted
+[20:47:21] BanchoBot: Countdown ends in 2 minutes
+[20:47:23] DeepInDark: :pray:
+[20:47:30] hx7ru0n9: :(
+[20:47:30] BanchoBot: All players are ready
+[20:47:39] BCraftMG: !mp settings
+[20:47:40] BanchoBot: Room name: VOT3: (DeepInDark) vs (Hx7ru0n9), History: https://osu.ppy.sh/mp/109524300
+[20:47:40] BanchoBot: Beatmap: https://osu.ppy.sh/b/2655380 Reol - drop pop candy
+[20:47:40] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:47:40] BanchoBot: Active mods: NoFail, DoubleTime
+[20:47:40] BanchoBot: Players: 2
+[20:47:40] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19817503 DeepInDark      
+[20:47:40] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20161708 hx7ru0n9        
+[20:47:40] BCraftMG: !mp start 5 glhf
+[20:47:41] BanchoBot: Countdown aborted
+[20:47:41] BanchoBot: Match starts in 5 seconds
+[20:47:41] BanchoBot: Queued the match to start in 5 seconds
+[20:47:42] BanchoBot: Match starts in 4 seconds
+[20:47:43] BanchoBot: Match starts in 3 seconds
+[20:47:44] BanchoBot: Good luck, have fun!
+[20:47:46] DeepInDark: golf
+[20:47:46] BanchoBot: The match has started!
+[20:50:25] BanchoBot: DeepInDark finished playing (Score: 1069871, PASSED).
+[20:50:25] BanchoBot: hx7ru0n9 finished playing (Score: 1032801, PASSED).
+[20:50:25] BanchoBot: The match has finished!
+[20:50:35] DeepInDark: ???
+[20:50:37] hx7ru0n9: wow
+[20:50:39] BCraftMG: DeepInDark | 3 - 1 | Hx7ru0n9 // Best of 9, DeepInDark you have 90 seconds to pick a map
+[20:50:39] BCraftMG: !mp timer 90
+[20:50:40] hx7ru0n9: dt acc god
+[20:50:40] DeepInDark: best acc in the whole prac time
+[20:50:41] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:50:43] DeepInDark: breh
+[20:50:44] BCraftMG: btw giải có cho double pick
+[20:50:55] BCraftMG: rất xin lỗi vì pha vừa rồi :yep:
+[20:50:55] DeepInDark: giai nao cung co btw
+[20:50:57] hx7ru0n9: rip
+[20:51:02] DeepInDark: :ehmmm:
+[20:51:06] DeepInDark: k sao
+[20:51:12] BanchoBot: Countdown ends in 1 minute
+[20:51:13] DeepInDark: new ref, that's good alr
+[20:51:15] DeepInDark: :hmmmyes:
+[20:51:28] DeepInDark: speed ti nua k explo
+[20:51:41] BanchoBot: Countdown ends in 30 seconds
+[20:51:51] hx7ru0n9: as u wish
+[20:51:53] DeepInDark: okay
+[20:51:55] DeepInDark: nm2
+[20:51:58] DeepInDark: :hmmmyes:
+[20:52:00] BCraftMG: !mp map 4214836 1
+[20:52:01] BanchoBot: Countdown ends in 10 seconds
+[20:52:01] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4214836 seatrus - Stargaze Station
+[20:52:01] BanchoBot: Changed match mode to Taiko
+[20:52:02] BCraftMG: !mp mods 1
+[20:52:02] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:52:03] BCraftMG: !mp timer 90
+[20:52:04] BanchoBot: Countdown aborted
+[20:52:04] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:52:15] hx7ru0n9: i'm dedge anyways lol
+[20:52:20] DeepInDark: lol same
+[20:52:26] BanchoBot: All players are ready
+[20:52:29] BCraftMG: !mp settings
+[20:52:29] hx7ru0n9: shut up man
+[20:52:30] BanchoBot: Room name: VOT3: (DeepInDark) vs (Hx7ru0n9), History: https://osu.ppy.sh/mp/109524300
+[20:52:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/4214836 seatrus - Stargaze Station
+[20:52:30] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:52:30] BanchoBot: Active mods: NoFail
+[20:52:30] BanchoBot: Players: 2
+[20:52:30] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19817503 DeepInDark      
+[20:52:30] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20161708 hx7ru0n9        
+[20:52:32] DeepInDark: let's play for fun with this
+[20:52:33] BCraftMG: !mp start 5 glhf
+[20:52:34] DeepInDark: :3
+[20:52:34] BanchoBot: Countdown aborted
+[20:52:34] BanchoBot: Match starts in 5 seconds
+[20:52:34] BanchoBot: Queued the match to start in 5 seconds
+[20:52:35] BanchoBot: Match starts in 4 seconds
+[20:52:36] BanchoBot: Match starts in 3 seconds
+[20:52:37] BanchoBot: Good luck, have fun!
+[20:52:39] DeepInDark: golf time
+[20:52:39] BanchoBot: The match has started!
+[20:55:09] BanchoBot: DeepInDark finished playing (Score: 998355, PASSED).
+[20:55:09] BanchoBot: hx7ru0n9 finished playing (Score: 958070, PASSED).
+[20:55:09] BanchoBot: The match has finished!
+[20:55:16] DeepInDark: oh no
+[20:55:20] DeepInDark: I cooked too much
+[20:55:24] DeepInDark: sr explo
+[20:55:28] DeepInDark: :pepeblanket:
+[20:55:28] BCraftMG: DeepInDark | 4 - 1 | Hx7ru0n9 // Best of 9, Hx7ru0n9 you have 90 seconds to pick a map
+[20:55:31] BCraftMG: !mp timer 90
+[20:55:32] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:55:39] hx7ru0n9: ff
+[20:56:03] BanchoBot: Countdown ends in 1 minute
+[20:56:07] DeepInDark: noooo dont ff
+[20:56:14] hx7ru0n9: fm2
+[20:56:24] DeepInDark: :oyes:
+[20:56:32] BCraftMG: !mp map 3544374 1
+[20:56:33] BanchoBot: Countdown ends in 30 seconds
+[20:56:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3544374 EmoCosine - Love Kills U
+[20:56:33] BanchoBot: Changed match mode to Taiko
+[20:56:34] BCraftMG: !mp mods FreeMod
+[20:56:35] BanchoBot: Disabled all mods, enabled FreeMod
+[20:56:36] BCraftMG: !mp timer 90
+[20:56:37] BanchoBot: Countdown aborted
+[20:56:37] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:56:40] DeepInDark: why this one
+[20:56:44] DeepInDark: :skull:
+[20:56:54] DeepInDark: I want to risk myself
+[20:56:55] DeepInDark: :d
+[20:56:58] BanchoBot: All players are ready
+[20:57:00] BCraftMG: !mp settings
+[20:57:00] BanchoBot: Room name: VOT3: (DeepInDark) vs (Hx7ru0n9), History: https://osu.ppy.sh/mp/109524300
+[20:57:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/3544374 EmoCosine - Love Kills U
+[20:57:00] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:57:00] BanchoBot: Active mods: Freemod
+[20:57:00] BanchoBot: Players: 2
+[20:57:00] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/19817503 DeepInDark      [NoFail, Hidden, HardRock]
+[20:57:00] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20161708 hx7ru0n9        [NoFail, HardRock]
+[20:57:01] BanchoBot: All players are ready
+[20:57:02] BCraftMG: !mp settings
+[20:57:05] BCraftMG: !mp settings
+[20:57:06] BanchoBot: Room name: VOT3: (DeepInDark) vs (Hx7ru0n9), History: https://osu.ppy.sh/mp/109524300
+[20:57:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/3544374 EmoCosine - Love Kills U
+[20:57:06] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:57:06] BanchoBot: Active mods: Freemod
+[20:57:06] BanchoBot: Players: 2
+[20:57:06] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19817503 DeepInDark      [NoFail, Hidden, HardRock]
+[20:57:06] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20161708 hx7ru0n9        [NoFail, HardRock]
+[20:57:07] BCraftMG: !mp start 5 glhf
+[20:57:08] BanchoBot: Countdown ends in 1 minute
+[20:57:08] BanchoBot: Countdown aborted
+[20:57:08] BanchoBot: Match starts in 5 seconds
+[20:57:08] BanchoBot: Queued the match to start in 5 seconds
+[20:57:09] hx7ru0n9: wow
+[20:57:09] BanchoBot: Match starts in 4 seconds
+[20:57:10] BanchoBot: Match starts in 3 seconds
+[20:57:11] BanchoBot: Good luck, have fun!
+[20:57:13] DeepInDark: free point for u
+[20:57:13] BanchoBot: The match has started!
+[20:57:14] DeepInDark: :D
+[20:59:36] BanchoBot: DeepInDark finished playing (Score: 939264, PASSED).
+[20:59:36] BanchoBot: hx7ru0n9 finished playing (Score: 979528, PASSED).
+[20:59:36] BanchoBot: The match has finished!
+[20:59:45] DeepInDark: damn nice point
+[20:59:47] hx7ru0n9: wtf
+[20:59:48] DeepInDark: :hmmmyes:
+[20:59:49] BCraftMG: DeepInDark | 4 - 2 | Hx7ru0n9 // Best of 9, DeepInDark you have 90 seconds to pick a map
+[20:59:50] BCraftMG: !mp timer 90
+[20:59:52] hx7ru0n9: ok
+[20:59:52] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:00:15] DeepInDark: should I go HR for fair play :D
+[21:00:22] BanchoBot: Countdown ends in 1 minute
+[21:00:28] hx7ru0n9: oh no
+[21:00:33] DeepInDark: no jk
+[21:00:43] DeepInDark: let's have some HD ^^
+[21:00:44] hx7ru0n9: my last momento
+[21:00:47] DeepInDark: hd1
+[21:00:53] BanchoBot: Countdown ends in 30 seconds
+[21:00:53] hx7ru0n9: ff
+[21:01:12] BanchoBot: Countdown ends in 10 seconds
+[21:01:13] DeepInDark: I cant play hd1 properly tho lol
+[21:01:17] BanchoBot: Countdown ends in 5 seconds
+[21:01:18] BanchoBot: Countdown ends in 4 seconds
+[21:01:19] BanchoBot: Countdown ends in 3 seconds
+[21:01:20] BanchoBot: Countdown ends in 2 seconds
+[21:01:21] BanchoBot: Countdown ends in 1 second
+[21:01:23] BanchoBot: Countdown finished
+[21:01:26] BCraftMG: !mp map 2748993 1
+[21:01:27] DeepInDark: the song makes me vibe
+[21:01:27] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2748993 Lime - 8bit Voyager
+[21:01:27] BanchoBot: Changed match mode to Taiko
+[21:01:28] BCraftMG: !mp mods 9
+[21:01:28] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:01:29] BCraftMG: !mp timer 120
+[21:01:30] BanchoBot: Countdown ends in 2 minutes
+[21:01:42] BanchoBot: All players are ready
+[21:01:49] BCraftMG: !mp settings
+[21:01:49] BanchoBot: Room name: VOT3: (DeepInDark) vs (Hx7ru0n9), History: https://osu.ppy.sh/mp/109524300
+[21:01:49] BanchoBot: Beatmap: https://osu.ppy.sh/b/2748993 Lime - 8bit Voyager
+[21:01:49] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:01:49] BanchoBot: Active mods: NoFail, Hidden
+[21:01:49] BanchoBot: Players: 2
+[21:01:49] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19817503 DeepInDark      
+[21:01:49] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20161708 hx7ru0n9        
+[21:01:50] BCraftMG: !mp start 5 glhf
+[21:01:51] BanchoBot: Countdown aborted
+[21:01:51] BanchoBot: Match starts in 5 seconds
+[21:01:51] BanchoBot: Queued the match to start in 5 seconds
+[21:01:52] BanchoBot: Match starts in 4 seconds
+[21:01:53] BanchoBot: Match starts in 3 seconds
+[21:01:55] BanchoBot: Good luck, have fun!
+[21:01:57] BanchoBot: The match has started!
+[21:01:58] DeepInDark: glhf
+[21:04:22] BanchoBot: hx7ru0n9 finished playing (Score: 789700, PASSED).
+[21:04:26] BanchoBot: DeepInDark finished playing (Score: 1025109, PASSED).
+[21:04:26] BanchoBot: The match has finished!
+[21:04:29] hx7ru0n9: ggwp
+[21:04:32] BCraftMG: Congratulations to DeepInDark for winning the match! GGWP to both! You are now free to leave :)
+[21:04:35] DeepInDark: ggwp
+[21:04:37] DeepInDark: u did great
+[21:04:47] hx7ru0n9: nah im succ all the way
+[21:04:49] hx7ru0n9: gg
+[21:04:51] DeepInDark: ur so good at dt2
+[21:04:54] DeepInDark: teach me
+[21:04:56] DeepInDark: :sob:
+[21:05:01] BanchoBot: hx7ru0n9 left the game.
+[21:05:08] DeepInDark: nice ref too
+[21:05:11] DeepInDark: thanks !
+[21:05:21] DeepInDark: o/
+[21:05:25] BanchoBot: DeepInDark left the game.
+[21:05:43] BCraftMG: !mp close
+[21:05:44] BanchoBot: Closed the match

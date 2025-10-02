@@ -1,0 +1,769 @@
+[00:48:48] Joined #mp_113387679
+[00:48:48] BCraftMG: !mp settings
+[00:48:49] BanchoBot: Room name: 5WC2024: (Germany) vs (Chile), History: https://osu.ppy.sh/mp/113387679
+[00:48:49] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[00:48:49] BanchoBot: Players: 0
+[00:49:12] BCraftMG: !mp addref Iskas
+[00:49:12] BanchoBot: Added Iskas to the match referees
+[00:49:27] BCraftMG: !mp addref Iskas
+[00:49:28] BanchoBot: Added Iskas to the match referees
+[00:52:45] BCraftMG: !mp invite #8508931
+[00:52:45] BanchoBot: Invited jaaysfa to the room
+[00:52:48] BCraftMG: !mp invite #4881251
+[00:52:48] BanchoBot: Invited Lasseh to the room
+[00:55:03] BanchoBot: jaaysfa joined in slot 1.
+[00:55:12] BCraftMG: o/
+[00:55:16] BCraftMG: o
+[00:55:19] BCraftMG: !mp set 2 3 12
+[00:55:21] jaaysfa: o/ again
+[00:55:21] BanchoBot: Changed match settings to 12 slots, TeamVs, ScoreV2
+[00:55:30] BCraftMG: !mp settings
+[00:55:31] BanchoBot: Room name: 5WC2024: (Germany) vs (Chile), History: https://osu.ppy.sh/mp/113387679
+[00:55:31] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:55:31] BanchoBot: Players: 1
+[00:55:31] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/8508931 jaaysfa         [Team Blue]
+[00:55:36] BCraftMG: Germany on red 1-4
+[00:55:50] BanchoBot: Lasseh joined in slot 2 for team red.
+[00:55:56] BanchoBot: jaaysfa changed to Red
+[00:56:05] jaaysfa: BcraftMG can you addref young tplc
+[00:56:22] jaaysfa: and if possible Tangela Merkel
+[00:56:23] BCraftMG: um, whos that
+[00:56:26] BCraftMG: ah
+[00:56:26] jaaysfa: german stream
+[00:56:35] BCraftMG: !mp addref young tplc
+[00:56:37] BanchoBot: User not found: young tplc
+[00:56:40] BanchoBot: Lasseh moved to slot 5
+[00:56:41] BanchoBot: Lasseh changed to Blue
+[00:56:44] BCraftMG: whats the username again
+[00:56:51] BCraftMG: !mp addref Tangela Merkel
+[00:56:51] BanchoBot: User not found: Tangela Merkel
+[00:56:57] jaaysfa: yeah that
+[00:57:00] jaaysfa: thanks
+[00:57:00] BCraftMG: Merkel is not online i think
+[00:57:02] jaaysfa: <3
+[00:57:05] BanchoBot: Shiny Froakie joined in slot 2 for team red.
+[00:57:07] jaaysfa: ah
+[00:57:08] BCraftMG: cant addref both
+[00:57:10] jaaysfa: thats fine
+[00:57:10] jaaysfa: i think
+[00:57:15] jaaysfa: all good
+[00:57:21] BCraftMG: ok
+[00:57:29] BCraftMG: hey Lasseh your team on blue 5-8 please
+[00:57:33] BCraftMG: we can start with rolls now
+[00:57:38] BCraftMG: !mp map 3895683
+[00:57:38] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3895683 rN - Harumachi Elevator
+[00:57:54] jaaysfa: !roll
+[00:57:54] BanchoBot: jaaysfa rolls 79 point(s)
+[00:58:03] BanchoBot: Christiaaan joined in slot 3 for team blue.
+[00:58:15] BanchoBot: Christiaaan left the game.
+[00:58:16] BanchoBot: Yumbtah joined in slot 3 for team blue.
+[00:58:18] Lasseh: !roll
+[00:58:18] BanchoBot: Lasseh rolls 29 point(s)
+[00:58:22] BanchoBot: Yumbtah left the game.
+[00:58:34] BCraftMG: Chile first protect
+[00:58:35] BanchoBot: Shiny Froakie moved to slot 4
+[00:58:37] BanchoBot: Shiny Froakie moved to slot 7
+[00:58:37] BCraftMG: !mp timer 120
+[00:58:38] BanchoBot: Shiny Froakie moved to slot 2
+[00:58:38] BanchoBot: Countdown ends in 2 minutes
+[00:58:47] BanchoBot: EulaFootEnjoyer joined in slot 3 for team blue.
+[00:59:12] Lasseh: dt2
+[00:59:38] BanchoBot: Countdown ends in 1 minute
+[00:59:42] BCraftMG: Germany protect
+[00:59:46] BCraftMG: !mp timer 120
+[00:59:47] BanchoBot: Countdown aborted
+[00:59:47] BanchoBot: Countdown ends in 2 minutes
+[00:59:57] BanchoBot: EulaFootEnjoyer left the game.
+[01:00:07] jaaysfa: nm5 protect
+[01:00:39] BCraftMG: Germany ban
+[01:00:40] BCraftMG: !mp timer 120
+[01:00:41] BanchoBot: Countdown aborted
+[01:00:41] BanchoBot: Countdown ends in 2 minutes
+[01:01:05] jaaysfa: dt1 ban
+[01:01:15] BCraftMG: Chile bans
+[01:01:17] BCraftMG: !mp timer 120
+[01:01:18] BanchoBot: Countdown aborted
+[01:01:18] BanchoBot: Countdown ends in 2 minutes
+[01:01:30] BanchoBot: Siiphs joined in slot 3 for team blue.
+[01:02:19] BanchoBot: Countdown ends in 1 minute
+[01:02:23] Lasseh: nm6, nm3
+[01:02:49] BCraftMG: Germany ban
+[01:02:49] BanchoBot: Countdown ends in 30 seconds
+[01:02:50] BCraftMG: !mp timer 120
+[01:02:51] BanchoBot: Countdown aborted
+[01:02:51] BanchoBot: Countdown ends in 2 minutes
+[01:03:32] Siiphs: warmup???????????????????????
+[01:03:36] BanchoBot: Paxyh joined in slot 4 for team red.
+[01:03:45] Paxyh: can we play warmup
+[01:03:46] BanchoBot: Paxyh left the game.
+[01:03:47] BCraftMG: theres no warmup
+[01:03:51] jaaysfa: no warmups
+[01:03:52] BanchoBot: Countdown ends in 1 minute
+[01:03:55] Siiphs: ok thanlkms
+[01:04:04] jaaysfa: dt4 ban
+[01:04:19] BCraftMG: Germany | 0 - 0 | Chile // BO11, Next pick: Germany
+[01:04:20] BCraftMG: !mp timer 120
+[01:04:21] BanchoBot: Countdown ends in 30 seconds
+[01:04:21] BanchoBot: Countdown aborted
+[01:04:21] BanchoBot: Countdown ends in 2 minutes
+[01:04:39] Lasseh: no 10.3 boo
+[01:04:52] jaaysfa: nm5 pick
+[01:05:10] BanchoBot: Shiny Froakie left the game.
+[01:05:11] BanchoBot: dekay joined in slot 2 for team red.
+[01:05:13] BCraftMG: !mp map 4500092
+[01:05:14] BCraftMG: !mp mods 1
+[01:05:14] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4500092 BilliumMoto - Amethyst Aurora
+[01:05:15] BCraftMG: !mp timer 120
+[01:05:15] BanchoBot: Enabled NoFail, disabled FreeMod
+[01:05:17] BanchoBot: Countdown aborted
+[01:05:17] BanchoBot: Countdown ends in 2 minutes
+[01:05:18] BanchoBot: dekay moved to slot 6
+[01:05:20] BanchoBot: dekay changed to Blue
+[01:05:23] BanchoBot: Siiphs moved to slot 4
+[01:05:24] BanchoBot: Siiphs moved to slot 7
+[01:05:32] BanchoBot: EulaFootEnjoyer joined in slot 2 for team red.
+[01:05:48] BanchoBot: Kurumi-- joined in slot 3 for team blue.
+[01:05:51] BanchoBot: Th1 joined in slot 4 for team red.
+[01:05:59] BanchoBot: Kurumi-- changed to Red
+[01:06:17] BanchoBot: Countdown ends in 1 minute
+[01:06:21] BanchoBot: Paxyh joined in slot 8 for team red.
+[01:06:26] BanchoBot: Paxyh changed to Blue
+[01:06:32] Paxyh: esperenm
+[01:06:42] BanchoBot: Yumbtah joined in slot 9 for team blue.
+[01:06:48] BanchoBot: Countdown ends in 30 seconds
+[01:07:08] BanchoBot: Countdown ends in 10 seconds
+[01:07:13] BanchoBot: Countdown ends in 5 seconds
+[01:07:14] BCraftMG: Chile team
+[01:07:14] BanchoBot: Countdown ends in 4 seconds
+[01:07:14] BanchoBot: Countdown ends in 3 seconds
+[01:07:16] BanchoBot: Countdown ends in 2 seconds
+[01:07:17] BanchoBot: Countdown ends in 1 second
+[01:07:17] BanchoBot: Countdown finished
+[01:07:18] BCraftMG: 1 need to leave
+[01:07:20] BanchoBot: Yumbtah left the game.
+[01:07:23] EulaFootEnjoyer: glhf :3
+[01:07:24] BCraftMG: ready up
+[01:07:24] jaaysfa: gl
+[01:07:26] Lasseh: hfhfhf
+[01:07:28] BCraftMG: !mp settings
+[01:07:29] BanchoBot: Room name: 5WC2024: (Germany) vs (Chile), History: https://osu.ppy.sh/mp/113387679
+[01:07:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/4500092 BilliumMoto - Amethyst Aurora
+[01:07:29] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:07:29] BanchoBot: Active mods: NoFail
+[01:07:29] BanchoBot: Players: 8
+[01:07:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8508931 jaaysfa         [Team Red ]
+[01:07:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10290641 EulaFootEnjoyer [Team Red ]
+[01:07:29] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6908032 Kurumi--        [Team Red ]
+[01:07:29] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15441612 Th1             [Team Red ]
+[01:07:29] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4881251 Lasseh          [Team Blue]
+[01:07:29] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/2120824 dekay           [Team Blue]
+[01:07:29] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11786864 Siiphs          [Team Blue]
+[01:07:29] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/18036760 Paxyh           [Team Blue]
+[01:07:32] Paxyh: GOD LOCK
+[01:07:32] BCraftMG: !mp start 5 glhf
+[01:07:33] BanchoBot: Match starts in 5 seconds
+[01:07:33] BanchoBot: Queued the match to start in 5 seconds
+[01:07:35] BanchoBot: Match starts in 4 seconds
+[01:07:36] BanchoBot: Match starts in 3 seconds
+[01:07:38] BanchoBot: Good luck, have fun!
+[01:07:38] Kurumi--: glhf
+[01:07:39] BanchoBot: The match has started!
+[01:09:32] BCraftMG: a
+[01:10:44] BanchoBot: dekay finished playing (Score: 543104, PASSED).
+[01:10:44] BanchoBot: Siiphs finished playing (Score: 668118, PASSED).
+[01:10:45] BanchoBot: jaaysfa finished playing (Score: 380142, PASSED).
+[01:10:45] BanchoBot: Lasseh finished playing (Score: 235243, PASSED).
+[01:10:45] BanchoBot: Kurumi-- finished playing (Score: 834196, PASSED).
+[01:10:45] BanchoBot: EulaFootEnjoyer finished playing (Score: 841057, PASSED).
+[01:10:45] BanchoBot: Paxyh finished playing (Score: 239616, PASSED).
+[01:10:47] BanchoBot: Th1 finished playing (Score: 549618, PASSED).
+[01:10:47] BanchoBot: The match has finished!
+[01:11:04] EulaFootEnjoyer: kurumi gapped
+[01:11:06] BCraftMG: Germany | 1 - 0 | Chile // BO11, Next pick: Chile
+[01:11:07] BCraftMG: !mp timer 120
+[01:11:09] BanchoBot: Countdown ends in 2 minutes
+[01:11:22] BanchoBot: dekay left the game.
+[01:11:36] BanchoBot: Kurumi-- left the game.
+[01:11:38] Lasseh: dt2
+[01:11:47] BanchoBot: Th1 left the game.
+[01:11:49] BCraftMG: !mp map 4042287
+[01:11:50] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4042287 yanaginagi - Megumi no Ame (Asterisk DnB Remix) (Two Chorus Version)
+[01:11:50] BCraftMG: !mp mods 65
+[01:11:51] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[01:11:52] BCraftMG: !mp timer 120
+[01:11:52] BanchoBot: jaaysfa moved to slot 9
+[01:11:52] BanchoBot: Countdown aborted
+[01:11:52] BanchoBot: Countdown ends in 2 minutes
+[01:11:55] BanchoBot: Yumbtah joined in slot 1 for team blue.
+[01:12:05] BanchoBot: Yumbtah moved to slot 6
+[01:12:06] BanchoBot: Paxyh left the game.
+[01:12:15] BanchoBot: EulaFootEnjoyer left the game.
+[01:12:16] BanchoBot: Th1 joined in slot 1 for team blue.
+[01:12:18] BanchoBot: Christiaaan joined in slot 2 for team red.
+[01:12:21] BanchoBot: Th1 left the game.
+[01:12:25] BanchoBot: jaaysfa left the game.
+[01:12:41] BanchoBot: Nevzz joined in slot 1 for team blue.
+[01:12:44] BanchoBot: Nevzz moved to slot 8
+[01:12:46] BanchoBot: Th1 joined in slot 1 for team blue.
+[01:12:53] BanchoBot: Countdown ends in 1 minute
+[01:13:05] BanchoBot: Th1 changed to Red
+[01:13:11] BanchoBot: -Jayden joined in slot 3 for team blue.
+[01:13:12] BanchoBot: jaaysfa joined in slot 4 for team red.
+[01:13:13] BanchoBot: -Jayden changed to Red
+[01:13:15] Nevzz: hello vro
+[01:13:24] BanchoBot: Countdown ends in 30 seconds
+[01:13:40] Lasseh: hfhfhfhfhfhfhf
+[01:13:43] BanchoBot: All players are ready
+[01:13:43] BanchoBot: Countdown ends in 10 seconds
+[01:13:44] Nevzz: godlocking
+[01:13:48] BanchoBot: Countdown ends in 5 seconds
+[01:13:49] BCraftMG: !mp settings
+[01:13:50] BanchoBot: Countdown ends in 4 seconds
+[01:13:50] BanchoBot: Countdown ends in 3 seconds
+[01:13:50] BanchoBot: Room name: 5WC2024: (Germany) vs (Chile), History: https://osu.ppy.sh/mp/113387679
+[01:13:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/4042287 yanaginagi - Megumi no Ame (Asterisk DnB Remix) (Two Chorus Version)
+[01:13:50] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:13:50] BanchoBot: Active mods: NoFail, DoubleTime
+[01:13:50] BanchoBot: Players: 8
+[01:13:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15441612 Th1             [Team Red ]
+[01:13:50] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11804019 Christiaaan     [Team Red ]
+[01:13:50] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15846736 -Jayden         [Team Red ]
+[01:13:50] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8508931 jaaysfa         [Team Red ]
+[01:13:50] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4881251 Lasseh          [Team Blue]
+[01:13:50] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/2784663 Yumbtah         [Team Blue]
+[01:13:50] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11786864 Siiphs          [Team Blue]
+[01:13:50] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17863453 Nevzz           [Team Blue]
+[01:13:51] BanchoBot: Countdown ends in 2 seconds
+[01:13:51] -Jayden: gl
+[01:13:52] BCraftMG: !mp start 5 glhf
+[01:13:53] BanchoBot: Countdown ends in 1 second
+[01:13:53] BanchoBot: Countdown finished
+[01:13:53] BanchoBot: Match starts in 5 seconds
+[01:13:53] BanchoBot: Queued the match to start in 5 seconds
+[01:13:54] BanchoBot: Match starts in 4 seconds
+[01:13:56] BanchoBot: Match starts in 3 seconds
+[01:13:56] jaaysfa: gl
+[01:13:57] BanchoBot: Good luck, have fun!
+[01:13:59] BanchoBot: The match has started!
+[01:16:23] BanchoBot: Nevzz finished playing (Score: 677308, PASSED).
+[01:16:23] BanchoBot: -Jayden finished playing (Score: 1068008, PASSED).
+[01:16:23] BanchoBot: Yumbtah finished playing (Score: 813578, PASSED).
+[01:16:23] BanchoBot: Th1 finished playing (Score: 677454, PASSED).
+[01:16:23] BanchoBot: Christiaaan finished playing (Score: 739628, PASSED).
+[01:16:23] BanchoBot: Lasseh finished playing (Score: 635208, PASSED).
+[01:16:23] BanchoBot: Siiphs finished playing (Score: 911067, PASSED).
+[01:16:24] BanchoBot: jaaysfa finished playing (Score: 850781, PASSED).
+[01:16:24] BanchoBot: The match has finished!
+[01:16:34] BCraftMG: Germany | 2 - 0 | Chile // BO11, Next pick: Germany
+[01:16:36] BCraftMG: !mp timer 120
+[01:16:37] BanchoBot: Countdown ends in 2 minutes
+[01:17:38] BanchoBot: Countdown ends in 1 minute
+[01:17:40] BanchoBot: Christiaaan left the game.
+[01:17:50] jaaysfa: hd2
+[01:17:58] BCraftMG: !mp map 3167107
+[01:18:00] BCraftMG: !mp mods 9
+[01:18:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3167107 Wednesday Campanella - Nishi Tamao
+[01:18:02] BanchoBot: -Jayden left the game.
+[01:18:02] BanchoBot: jaaysfa moved to slot 9
+[01:18:02] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[01:18:03] BCraftMG: !mp timer 120
+[01:18:03] BanchoBot: Countdown aborted
+[01:18:03] BanchoBot: Countdown ends in 2 minutes
+[01:18:08] BanchoBot: Nevzz left the game.
+[01:18:28] BanchoBot: POLANDTRUCKER13 joined in slot 2 for team red.
+[01:18:58] BanchoBot: POLANDTRUCKER13 left the game.
+[01:19:03] BanchoBot: dekay joined in slot 2 for team red.
+[01:19:03] BanchoBot: Countdown ends in 1 minute
+[01:19:03] BanchoBot: Lasseh moved to slot 11
+[01:19:09] BanchoBot: dekay moved to slot 8
+[01:19:10] BanchoBot: dekay changed to Blue
+[01:19:10] BanchoBot: POLANDTRUCKER13 joined in slot 2 for team red.
+[01:19:13] BanchoBot: Paxyh joined in slot 3 for team blue.
+[01:19:16] BanchoBot: Lasseh moved to slot 12
+[01:19:20] BanchoBot: Lasseh left the game.
+[01:19:20] BanchoBot: dekay moved to slot 5
+[01:19:23] BanchoBot: Cerelydra joined in slot 4 for team red.
+[01:19:23] BanchoBot: Kurumi-- joined in slot 8 for team red.
+[01:19:28] BanchoBot: jaaysfa moved to slot 10
+[01:19:31] BanchoBot: Kurumi-- moved to slot 9
+[01:19:33] BanchoBot: Paxyh moved to slot 8
+[01:19:34] BanchoBot: Countdown ends in 30 seconds
+[01:19:34] BanchoBot: Kurumi-- moved to slot 3
+[01:19:46] BanchoBot: jaaysfa left the game.
+[01:19:53] BanchoBot: Countdown ends in 10 seconds
+[01:19:59] BanchoBot: Countdown ends in 5 seconds
+[01:20:01] BanchoBot: Countdown ends in 4 seconds
+[01:20:01] Cerelydra: glhf
+[01:20:01] BanchoBot: Countdown ends in 3 seconds
+[01:20:02] BanchoBot: Countdown ends in 2 seconds
+[01:20:04] BanchoBot: Countdown ends in 1 second
+[01:20:04] BanchoBot: Countdown finished
+[01:20:04] BCraftMG: !mp settings
+[01:20:05] Paxyh: GOD LOCK
+[01:20:05] BanchoBot: Room name: 5WC2024: (Germany) vs (Chile), History: https://osu.ppy.sh/mp/113387679
+[01:20:05] BanchoBot: Beatmap: https://osu.ppy.sh/b/3167107 Wednesday Campanella - Nishi Tamao
+[01:20:05] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:20:05] BanchoBot: Active mods: NoFail, Hidden
+[01:20:05] BanchoBot: Players: 8
+[01:20:05] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15441612 Th1             [Team Red ]
+[01:20:05] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19857248 POLANDTRUCKER13 [Team Red ]
+[01:20:05] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6908032 Kurumi--        [Team Red ]
+[01:20:05] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/17449596 Cerelydra       [Team Red ]
+[01:20:05] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/2120824 dekay           [Team Blue]
+[01:20:05] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/2784663 Yumbtah         [Team Blue]
+[01:20:05] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11786864 Siiphs          [Team Blue]
+[01:20:05] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/18036760 Paxyh           [Team Blue]
+[01:20:06] Paxyh: PARA TODOS
+[01:20:07] BCraftMG: dekay
+[01:20:08] BanchoBot: All players are ready
+[01:20:08] Kurumi--: glhf
+[01:20:09] Paxyh: y rodes
+[01:20:09] Paxyh: todes
+[01:20:09] BCraftMG: !mp settings
+[01:20:11] POLANDTRUCKER13: !roll 1000 score
+[01:20:11] BanchoBot: POLANDTRUCKER13 rolls 32 point(s)
+[01:20:11] BanchoBot: Room name: 5WC2024: (Germany) vs (Chile), History: https://osu.ppy.sh/mp/113387679
+[01:20:11] BanchoBot: Beatmap: https://osu.ppy.sh/b/3167107 Wednesday Campanella - Nishi Tamao
+[01:20:11] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:20:11] BanchoBot: Active mods: NoFail, Hidden
+[01:20:11] BanchoBot: Players: 8
+[01:20:11] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15441612 Th1             [Team Red ]
+[01:20:11] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19857248 POLANDTRUCKER13 [Team Red ]
+[01:20:11] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6908032 Kurumi--        [Team Red ]
+[01:20:11] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/17449596 Cerelydra       [Team Red ]
+[01:20:11] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/2120824 dekay           [Team Blue]
+[01:20:11] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/2784663 Yumbtah         [Team Blue]
+[01:20:11] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11786864 Siiphs          [Team Blue]
+[01:20:11] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/18036760 Paxyh           [Team Blue]
+[01:20:12] BCraftMG: !mp start 5 glhf
+[01:20:12] BanchoBot: Match starts in 5 seconds
+[01:20:12] BanchoBot: Queued the match to start in 5 seconds
+[01:20:14] BanchoBot: Match starts in 4 seconds
+[01:20:15] BanchoBot: Match starts in 3 seconds
+[01:20:17] BanchoBot: Good luck, have fun!
+[01:20:18] BanchoBot: The match has started!
+[01:23:18] BanchoBot: dekay finished playing (Score: 507946, PASSED).
+[01:23:18] BanchoBot: Kurumi-- finished playing (Score: 642339, PASSED).
+[01:23:18] BanchoBot: POLANDTRUCKER13 finished playing (Score: 539290, PASSED).
+[01:23:18] BanchoBot: Th1 finished playing (Score: 673350, PASSED).
+[01:23:18] BanchoBot: Cerelydra finished playing (Score: 250011, PASSED).
+[01:23:18] BanchoBot: Yumbtah finished playing (Score: 250242, PASSED).
+[01:23:18] BanchoBot: Paxyh finished playing (Score: 323608, PASSED).
+[01:23:20] BanchoBot: Siiphs finished playing (Score: 410539, PASSED).
+[01:23:20] BanchoBot: The match has finished!
+[01:23:23] BanchoBot: Lasseh joined in slot 9 for team blue.
+[01:23:24] Lasseh: hr1
+[01:23:25] BCraftMG: Germany | 3 - 0 | Chile // BO11, Next pick: Chile
+[01:23:29] BanchoBot: jaaysfa joined in slot 10 for team red.
+[01:23:33] BanchoBot: Yumbtah left the game.
+[01:23:35] BCraftMG: !mp map 3580944
+[01:23:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3580944 Good Kid - Atlas
+[01:23:37] BCraftMG: !mp mods 17
+[01:23:37] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[01:23:38] BCraftMG: !mp timer 120
+[01:23:39] BanchoBot: Countdown ends in 2 minutes
+[01:23:43] BanchoBot: Kurumi-- left the game.
+[01:23:45] BanchoBot: POLANDTRUCKER13 left the game.
+[01:23:52] BanchoBot: Paxyh left the game.
+[01:23:52] BanchoBot: Shiny Froakie joined in slot 2 for team red.
+[01:23:52] BanchoBot: dekay left the game.
+[01:23:56] BanchoBot: Shiny Froakie moved to slot 5
+[01:23:58] BanchoBot: Shiny Froakie changed to Blue
+[01:24:04] BanchoBot: jaaysfa left the game.
+[01:24:12] BanchoBot: Lasseh moved to slot 6
+[01:24:34] Shiny_Froakie: banger\
+[01:24:40] BanchoBot: Countdown ends in 1 minute
+[01:24:44] BanchoBot: jaaysfa joined in slot 2 for team red.
+[01:24:44] BanchoBot: Christiaaan joined in slot 3 for team blue.
+[01:24:56] BanchoBot: Nevzz joined in slot 8 for team red.
+[01:24:59] BanchoBot: Christiaaan changed to Red
+[01:25:08] BanchoBot: Nevzz changed to Blue
+[01:25:09] BanchoBot: Countdown ends in 30 seconds
+[01:25:12] BanchoBot: All players are ready
+[01:25:15] jaaysfa: gl
+[01:25:16] Lasseh: hfhfhfhfhfhf
+[01:25:18] Shiny_Froakie: hfhfhfhfhfhfhfhf
+[01:25:18] BCraftMG: !mp settings
+[01:25:19] Christiaaan: gl
+[01:25:19] Cerelydra: glhf
+[01:25:19] BanchoBot: Room name: 5WC2024: (Germany) vs (Chile), History: https://osu.ppy.sh/mp/113387679
+[01:25:19] BanchoBot: Beatmap: https://osu.ppy.sh/b/3580944 Good Kid - Atlas
+[01:25:19] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:25:19] BanchoBot: Active mods: NoFail, HardRock
+[01:25:19] BanchoBot: Players: 8
+[01:25:19] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15441612 Th1             [Team Red ]
+[01:25:19] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8508931 jaaysfa         [Team Red ]
+[01:25:19] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11804019 Christiaaan     [Team Red ]
+[01:25:19] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/17449596 Cerelydra       [Team Red ]
+[01:25:19] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/6194830 Shiny Froakie   [Team Blue]
+[01:25:19] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/4881251 Lasseh          [Team Blue]
+[01:25:19] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11786864 Siiphs          [Team Blue]
+[01:25:19] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17863453 Nevzz           [Team Blue]
+[01:25:21] BCraftMG: !mp start 5 glhf
+[01:25:22] BanchoBot: Countdown aborted
+[01:25:22] BanchoBot: Match starts in 5 seconds
+[01:25:22] BanchoBot: Queued the match to start in 5 seconds
+[01:25:24] BanchoBot: Match starts in 4 seconds
+[01:25:25] BanchoBot: Match starts in 3 seconds
+[01:25:25] Nevzz: 1
+[01:25:25] BanchoBot: Good luck, have fun!
+[01:25:28] BanchoBot: The match has started!
+[01:27:57] BanchoBot: Th1 finished playing (Score: 807477, PASSED).
+[01:27:57] BanchoBot: Lasseh finished playing (Score: 507746, PASSED).
+[01:27:59] BanchoBot: jaaysfa finished playing (Score: 584669, PASSED).
+[01:27:59] BanchoBot: Nevzz finished playing (Score: 443300, PASSED).
+[01:27:59] BanchoBot: Siiphs finished playing (Score: 740623, PASSED).
+[01:27:59] BanchoBot: Shiny Froakie finished playing (Score: 471561, PASSED).
+[01:27:59] BanchoBot: Cerelydra finished playing (Score: 579800, PASSED).
+[01:27:59] BanchoBot: Christiaaan finished playing (Score: 656505, PASSED).
+[01:27:59] BanchoBot: The match has finished!
+[01:28:09] BanchoBot: Nevzz left the game.
+[01:28:09] BCraftMG: Germany | 4 - 0 | Chile // BO11, Next pick: Germany
+[01:28:12] BCraftMG: !mp timer 120
+[01:28:13] BanchoBot: Countdown ends in 2 minutes
+[01:28:53] BanchoBot: Christiaaan left the game.
+[01:29:13] BanchoBot: Th1 left the game.
+[01:29:14] BanchoBot: Countdown ends in 1 minute
+[01:29:39] jaaysfa: hd3
+[01:29:44] BanchoBot: Countdown ends in 30 seconds
+[01:29:45] BCraftMG: !mp map 4553976
+[01:29:46] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4553976 Krimek - Cybernetic Reverie
+[01:29:47] BCraftMG: !mp mods 9
+[01:29:48] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[01:29:49] BCraftMG: !mp timer 120
+[01:29:49] BanchoBot: Countdown aborted
+[01:29:49] BanchoBot: Countdown ends in 2 minutes
+[01:30:00] BanchoBot: Shiny Froakie left the game.
+[01:30:03] BanchoBot: jaaysfa left the game.
+[01:30:07] BanchoBot: Cerelydra left the game.
+[01:30:39] BanchoBot: jaaysfa joined in slot 1 for team blue.
+[01:30:44] BanchoBot: Th1 joined in slot 2 for team red.
+[01:30:51] BanchoBot: Countdown ends in 1 minute
+[01:30:58] BanchoBot: Paxyh joined in slot 3 for team blue.
+[01:31:01] BanchoBot: Lasseh moved to slot 10
+[01:31:07] BanchoBot: Paxyh moved to slot 6
+[01:31:07] BanchoBot: Kurumi-- joined in slot 3 for team blue.
+[01:31:08] BanchoBot: Cerelydra joined in slot 4 for team red.
+[01:31:13] BanchoBot: jaaysfa changed to Red
+[01:31:16] BanchoBot: Yumbtah joined in slot 5 for team blue.
+[01:31:19] BanchoBot: Kurumi-- changed to Red
+[01:31:20] BanchoBot: Countdown ends in 30 seconds
+[01:31:35] BanchoBot: Lasseh moved to slot 8
+[01:31:41] BanchoBot: Countdown ends in 10 seconds
+[01:31:44] BanchoBot: All players are ready
+[01:31:45] BCraftMG: !mp settings
+[01:31:45] BanchoBot: Countdown ends in 5 seconds
+[01:31:45] jaaysfa: gl
+[01:31:45] BanchoBot: Room name: 5WC2024: (Germany) vs (Chile), History: https://osu.ppy.sh/mp/113387679
+[01:31:45] BanchoBot: Beatmap: https://osu.ppy.sh/b/4553976 Krimek - Cybernetic Reverie
+[01:31:45] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:31:45] BanchoBot: Active mods: NoFail, Hidden
+[01:31:45] BanchoBot: Players: 8
+[01:31:45] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8508931 jaaysfa         [Team Red ]
+[01:31:45] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15441612 Th1             [Team Red ]
+[01:31:45] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6908032 Kurumi--        [Team Red ]
+[01:31:45] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/17449596 Cerelydra       [Team Red ]
+[01:31:45] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/2784663 Yumbtah         [Team Blue]
+[01:31:45] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/18036760 Paxyh           [Team Blue]
+[01:31:45] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11786864 Siiphs          [Team Blue]
+[01:31:45] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/4881251 Lasseh          [Team Blue]
+[01:31:47] BanchoBot: Countdown ends in 4 seconds
+[01:31:47] Lasseh: hfhfhfhfhf
+[01:31:47] BanchoBot: Countdown ends in 3 seconds
+[01:31:48] BanchoBot: Countdown ends in 2 seconds
+[01:31:48] BCraftMG: !mp start 5 glhf
+[01:31:49] BanchoBot: Countdown ends in 1 second
+[01:31:50] BanchoBot: Countdown finished
+[01:31:50] BanchoBot: Match starts in 5 seconds
+[01:31:50] BanchoBot: Queued the match to start in 5 seconds
+[01:31:51] BanchoBot: Match starts in 4 seconds
+[01:31:51] Kurumi--: glhf
+[01:31:52] BanchoBot: Match starts in 3 seconds
+[01:31:54] BanchoBot: Good luck, have fun!
+[01:31:55] BanchoBot: The match has started!
+[01:34:51] BanchoBot: Siiphs finished playing (Score: 649950, PASSED).
+[01:34:51] BanchoBot: Yumbtah finished playing (Score: 460645, PASSED).
+[01:34:51] BanchoBot: Lasseh finished playing (Score: 248744, PASSED).
+[01:34:51] BanchoBot: Cerelydra finished playing (Score: 368003, PASSED).
+[01:34:51] BanchoBot: Kurumi-- finished playing (Score: 385394, PASSED).
+[01:34:51] BanchoBot: jaaysfa finished playing (Score: 413562, PASSED).
+[01:34:51] BanchoBot: Th1 finished playing (Score: 525366, PASSED).
+[01:34:51] BanchoBot: Paxyh finished playing (Score: 386088, PASSED).
+[01:34:51] BanchoBot: The match has finished!
+[01:35:00] Lasseh: hd1
+[01:35:08] BCraftMG: Germany | 4 - 1 | Chile // BO11, Next pick: Chile
+[01:35:12] BCraftMG: !mp map 3968793
+[01:35:13] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3968793 Noboru - Shiroi Yuki no Princess wa
+[01:35:14] BCraftMG: !mp mods 9
+[01:35:14] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[01:35:17] BCraftMG: !mp timer 120
+[01:35:17] BanchoBot: Countdown ends in 2 minutes
+[01:35:26] BanchoBot: Kurumi-- left the game.
+[01:35:29] BanchoBot: jaaysfa left the game.
+[01:35:32] BanchoBot: Yumbtah moved to slot 9
+[01:35:55] BanchoBot: Lasseh moved to slot 10
+[01:35:55] BanchoBot: dekay joined in slot 1 for team blue.
+[01:35:59] BanchoBot: dekay moved to slot 5
+[01:36:10] BanchoBot: Nevzz joined in slot 1 for team blue.
+[01:36:10] BanchoBot: Yumbtah moved to slot 8
+[01:36:11] BanchoBot: Yumbtah moved to slot 9
+[01:36:14] BanchoBot: Lasseh left the game.
+[01:36:15] BanchoBot: Yumbtah left the game.
+[01:36:18] BanchoBot: Countdown ends in 1 minute
+[01:36:20] BanchoBot: Nevzz moved to slot 8
+[01:36:39] BanchoBot: jaaysfa joined in slot 1 for team blue.
+[01:36:42] BanchoBot: jaaysfa changed to Red
+[01:36:43] BanchoBot: jaaysfa moved to slot 3
+[01:36:48] BanchoBot: Th1 moved to slot 1
+[01:36:48] BanchoBot: Countdown ends in 30 seconds
+[01:36:51] BanchoBot: jaaysfa moved to slot 2
+[01:37:04] BanchoBot: POLANDTRUCKER13 joined in slot 3 for team blue.
+[01:37:08] BanchoBot: Countdown ends in 10 seconds
+[01:37:12] BanchoBot: Countdown ends in 5 seconds
+[01:37:12] BanchoBot: POLANDTRUCKER13 changed to Red
+[01:37:14] BanchoBot: Countdown ends in 4 seconds
+[01:37:15] BanchoBot: Countdown ends in 3 seconds
+[01:37:15] BanchoBot: Countdown ends in 2 seconds
+[01:37:15] BanchoBot: All players are ready
+[01:37:17] BanchoBot: Countdown ends in 1 second
+[01:37:18] BanchoBot: Countdown finished
+[01:37:20] jaaysfa: gl
+[01:37:20] BCraftMG: !mp settings
+[01:37:21] BanchoBot: Room name: 5WC2024: (Germany) vs (Chile), History: https://osu.ppy.sh/mp/113387679
+[01:37:21] BanchoBot: Beatmap: https://osu.ppy.sh/b/3968793 Noboru - Shiroi Yuki no Princess wa
+[01:37:21] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:37:21] BanchoBot: Active mods: NoFail, Hidden
+[01:37:21] BanchoBot: Players: 8
+[01:37:21] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15441612 Th1             [Team Red ]
+[01:37:21] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8508931 jaaysfa         [Team Red ]
+[01:37:21] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/19857248 POLANDTRUCKER13 [Team Red ]
+[01:37:21] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/17449596 Cerelydra       [Team Red ]
+[01:37:21] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/2120824 dekay           [Team Blue]
+[01:37:21] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/18036760 Paxyh           [Team Blue]
+[01:37:21] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11786864 Siiphs          [Team Blue]
+[01:37:21] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17863453 Nevzz           [Team Blue]
+[01:37:22] BCraftMG: !mp start 5 glhf
+[01:37:23] BanchoBot: Match starts in 5 seconds
+[01:37:23] BanchoBot: Queued the match to start in 5 seconds
+[01:37:24] BanchoBot: Match starts in 4 seconds
+[01:37:25] BanchoBot: Match starts in 3 seconds
+[01:37:27] BanchoBot: Good luck, have fun!
+[01:37:28] BanchoBot: The match has started!
+[01:41:56] BanchoBot: Cerelydra finished playing (Score: 688545, PASSED).
+[01:41:57] BanchoBot: Paxyh finished playing (Score: 492919, PASSED).
+[01:41:57] BanchoBot: dekay finished playing (Score: 463278, PASSED).
+[01:41:57] BanchoBot: jaaysfa finished playing (Score: 519241, PASSED).
+[01:41:57] BanchoBot: POLANDTRUCKER13 finished playing (Score: 615289, PASSED).
+[01:41:59] BanchoBot: Siiphs finished playing (Score: 673429, PASSED).
+[01:41:59] BanchoBot: Th1 finished playing (Score: 647082, PASSED).
+[01:41:59] BanchoBot: Nevzz finished playing (Score: 388931, PASSED).
+[01:41:59] BanchoBot: The match has finished!
+[01:42:06] BanchoBot: Lasseh joined in slot 9 for team blue.
+[01:42:06] BCraftMG: Germany | 5 - 1 | Chile // BO11, Next pick: Germany
+[01:42:08] BCraftMG: !mp timer 120
+[01:42:09] BanchoBot: Countdown ends in 2 minutes
+[01:42:25] BanchoBot: Nevzz left the game.
+[01:42:57] BanchoBot: EulaFootEnjoyer joined in slot 8 for team red.
+[01:43:10] BanchoBot: Countdown ends in 1 minute
+[01:43:11] jaaysfa: fm2
+[01:43:21] BCraftMG: !mp map 3365977
+[01:43:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3365977 kors k - smooooch
+[01:43:23] BCraftMG: !mp mods Freemop
+[01:43:24] BanchoBot: Disabled all mods, disabled FreeMod
+[01:43:25] BCraftMG: !mp mods Freemod
+[01:43:26] BanchoBot: Disabled all mods, enabled FreeMod
+[01:43:27] BCraftMG: !mp timer 120
+[01:43:27] BanchoBot: Countdown aborted
+[01:43:27] BanchoBot: Countdown ends in 2 minutes
+[01:43:32] BanchoBot: EulaFootEnjoyer moved to slot 10
+[01:43:35] BanchoBot: Lasseh moved to slot 8
+[01:43:35] BanchoBot: Th1 left the game.
+[01:43:40] BanchoBot: Cerelydra left the game.
+[01:43:42] BanchoBot: Christiaaan joined in slot 1 for team blue.
+[01:43:45] BanchoBot: POLANDTRUCKER13 left the game.
+[01:43:48] BanchoBot: EulaFootEnjoyer moved to slot 3
+[01:43:51] BanchoBot: Christiaaan changed to Red
+[01:44:10] BanchoBot: EulaFootEnjoyer left the game.
+[01:44:18] BanchoBot: POLANDTRUCKER13 joined in slot 3 for team blue.
+[01:44:27] BanchoBot: POLANDTRUCKER13 changed to Red
+[01:44:29] BanchoBot: Countdown ends in 1 minute
+[01:44:40] BanchoBot: l Akemi l joined in slot 4 for team red.
+[01:44:44] BanchoBot: EulaFootEnjoyer joined in slot 9 for team blue.
+[01:44:46] BanchoBot: dekay moved to slot 10
+[01:44:50] BanchoBot: Paxyh left the game.
+[01:44:50] BanchoBot: l Akemi l moved to slot 5
+[01:44:53] BanchoBot: l Akemi l changed to Blue
+[01:44:55] BanchoBot: EulaFootEnjoyer moved to slot 4
+[01:44:58] BanchoBot: EulaFootEnjoyer changed to Red
+[01:44:58] BanchoBot: Countdown ends in 30 seconds
+[01:45:05] BanchoBot: Paxyh joined in slot 6 for team red.
+[01:45:18] BanchoBot: Paxyh changed to Blue
+[01:45:18] BanchoBot: Countdown ends in 10 seconds
+[01:45:22] BanchoBot: Countdown ends in 5 seconds
+[01:45:24] BanchoBot: Countdown ends in 4 seconds
+[01:45:24] BanchoBot: dekay left the game.
+[01:45:25] BanchoBot: Countdown ends in 3 seconds
+[01:45:27] BanchoBot: Countdown ends in 2 seconds
+[01:45:27] BanchoBot: Countdown ends in 1 second
+[01:45:28] BanchoBot: Countdown finished
+[01:45:30] BCraftMG: !mp settings
+[01:45:30] jaaysfa: gl
+[01:45:31] BanchoBot: Room name: 5WC2024: (Germany) vs (Chile), History: https://osu.ppy.sh/mp/113387679
+[01:45:31] BanchoBot: Beatmap: https://osu.ppy.sh/b/3365977 kors k - smooooch
+[01:45:31] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:45:31] BanchoBot: Active mods: Freemod
+[01:45:31] BanchoBot: Players: 8
+[01:45:31] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11804019 Christiaaan     [Team Red  / NoFail, HardRock]
+[01:45:31] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8508931 jaaysfa         [Team Red  / NoFail, HardRock]
+[01:45:31] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/19857248 POLANDTRUCKER13 [Team Red  / NoFail, Hidden]
+[01:45:31] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10290641 EulaFootEnjoyer [Team Red  / NoFail, Easy]
+[01:45:31] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/14402477 l Akemi l       [Team Blue / NoFail, HardRock]
+[01:45:31] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/18036760 Paxyh           [Team Blue / NoFail]
+[01:45:31] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11786864 Siiphs          [Team Blue / NoFail, Hidden, HardRock]
+[01:45:31] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/4881251 Lasseh          [Team Blue / NoFail, HardRock]
+[01:45:32] Lasseh: hfhfhfhf
+[01:45:34] Christiaaan: golf
+[01:45:37] POLANDTRUCKER13: !roll 10000
+[01:45:37] BanchoBot: POLANDTRUCKER13 rolls 3935 point(s)
+[01:45:37] POLANDTRUCKER13: score
+[01:45:38] EulaFootEnjoyer: glhf :3
+[01:45:39] BCraftMG: !mp start 5 glhf
+[01:45:40] BanchoBot: Match starts in 5 seconds
+[01:45:40] BanchoBot: Queued the match to start in 5 seconds
+[01:45:41] POLANDTRUCKER13: 393,5k
+[01:45:41] BanchoBot: Match starts in 4 seconds
+[01:45:43] POLANDTRUCKER13: doabe
+[01:45:43] BanchoBot: Match starts in 3 seconds
+[01:45:44] BanchoBot: Good luck, have fun!
+[01:45:46] BanchoBot: The match has started!
+[01:47:44] BanchoBot: Paxyh finished playing (Score: 416499, PASSED).
+[01:47:44] BanchoBot: POLANDTRUCKER13 finished playing (Score: 432611, PASSED).
+[01:47:44] BanchoBot: l Akemi l finished playing (Score: 318003, PASSED).
+[01:47:44] BanchoBot: EulaFootEnjoyer finished playing (Score: 309926, PASSED).
+[01:47:45] BanchoBot: jaaysfa finished playing (Score: 484471, PASSED).
+[01:47:45] BanchoBot: Christiaaan finished playing (Score: 445429, PASSED).
+[01:47:45] BanchoBot: Lasseh finished playing (Score: 628717, PASSED).
+[01:47:47] BanchoBot: Siiphs finished playing (Score: 713894, PASSED).
+[01:47:47] BanchoBot: The match has finished!
+[01:48:04] jaaysfa: oops
+[01:48:07] Lasseh: hr3
+[01:48:20] BCraftMG: !mp map 2776718
+[01:48:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2776718 Ado - USSEEWA
+[01:48:23] BCraftMG: !mp mods 17
+[01:48:23] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[01:48:26] BanchoBot: Christiaaan left the game.
+[01:48:27] BanchoBot: Paxyh left the game.
+[01:48:29] BanchoBot: EulaFootEnjoyer left the game.
+[01:48:29] BanchoBot: POLANDTRUCKER13 left the game.
+[01:48:32] BanchoBot: jaaysfa moved to slot 1
+[01:48:58] BanchoBot: l Akemi l left the game.
+[01:49:04] BanchoBot: l Akemi l joined in slot 2 for team red.
+[01:49:05] jaaysfa: timeout please
+[01:49:07] BanchoBot: l Akemi l moved to slot 5
+[01:49:08] BanchoBot: l Akemi l changed to Blue
+[01:49:11] Lasseh: zzzzzzzzzz
+[01:49:15] BCraftMG: !mp timer 120
+[01:49:15] Siiphs: quee
+[01:49:15] BanchoBot: Countdown ends in 2 minutes
+[01:49:18] BanchoBot: Th1 joined in slot 2 for team red.
+[01:49:20] BanchoBot: Cerelydra joined in slot 3 for team blue.
+[01:49:21] BanchoBot: Lasseh left the game.
+[01:49:22] BanchoBot: Cerelydra changed to Red
+[01:49:24] BanchoBot: l Akemi l left the game.
+[01:49:47] BanchoBot: jaaysfa left the game.
+[01:49:59] BanchoBot: Nevzz joined in slot 1 for team blue.
+[01:50:10] BanchoBot: Nevzz moved to slot 8
+[01:50:16] BanchoBot: Countdown ends in 1 minute
+[01:50:44] BanchoBot: jaaysfa joined in slot 1 for team blue.
+[01:50:45] BanchoBot: Countdown ends in 30 seconds
+[01:50:48] BanchoBot: Lasseh joined in slot 4 for team red.
+[01:50:50] BanchoBot: jaaysfa changed to Red
+[01:50:51] BanchoBot: Lasseh moved to slot 6
+[01:50:52] BanchoBot: Lasseh changed to Blue
+[01:50:52] BanchoBot: Lasseh moved to slot 5
+[01:51:01] BCraftMG: its gonna be a 90s timer after this timer end
+[01:51:05] BanchoBot: Countdown ends in 10 seconds
+[01:51:08] Siiphs: o
+[01:51:08] BanchoBot: Christiaaan joined in slot 4 for team red.
+[01:51:09] BCraftMG: since i forgot to start timer after match ended
+[01:51:11] BanchoBot: Countdown ends in 5 seconds
+[01:51:13] BanchoBot: Countdown ends in 4 seconds
+[01:51:13] jaaysfa: ah
+[01:51:13] BanchoBot: Countdown ends in 3 seconds
+[01:51:14] BanchoBot: Countdown ends in 2 seconds
+[01:51:16] BanchoBot: Countdown ends in 1 second
+[01:51:16] BanchoBot: Countdown finished
+[01:51:18] BCraftMG: !mp timer 90
+[01:51:18] jaaysfa: okay
+[01:51:19] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[01:51:29] BCraftMG: yall can still start early if you want
+[01:51:43] BanchoBot: l Akemi l joined in slot 6 for team red.
+[01:51:48] Nevzz: vaya multi tio
+[01:51:49] BanchoBot: Christiaaan left the game.
+[01:51:51] BanchoBot: Countdown ends in 1 minute
+[01:51:56] BanchoBot: l Akemi l changed to Blue
+[01:51:59] BanchoBot: Christiaaan joined in slot 4 for team red.
+[01:52:20] BanchoBot: Countdown ends in 30 seconds
+[01:52:21] Nevzz: black mamba mentality
+[01:52:25] BanchoBot: All players are ready
+[01:52:29] BCraftMG: !mp settings
+[01:52:30] Lasseh: hfhfhfhfhfhfhf
+[01:52:30] BanchoBot: Room name: 5WC2024: (Germany) vs (Chile), History: https://osu.ppy.sh/mp/113387679
+[01:52:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/2776718 Ado - USSEEWA
+[01:52:30] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:52:30] BanchoBot: Active mods: NoFail, HardRock
+[01:52:30] BanchoBot: Players: 8
+[01:52:30] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8508931 jaaysfa         [Team Red ]
+[01:52:30] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15441612 Th1             [Team Red ]
+[01:52:30] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/17449596 Cerelydra       [Team Red ]
+[01:52:30] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11804019 Christiaaan     [Team Red ]
+[01:52:30] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4881251 Lasseh          [Team Blue]
+[01:52:30] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/14402477 l Akemi l       [Team Blue]
+[01:52:30] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11786864 Siiphs          [Team Blue]
+[01:52:30] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17863453 Nevzz           [Team Blue]
+[01:52:34] jaaysfa: gl
+[01:52:35] BCraftMG: !mp start 5 glhf
+[01:52:36] BanchoBot: Countdown aborted
+[01:52:36] BanchoBot: Match starts in 5 seconds
+[01:52:36] BanchoBot: Queued the match to start in 5 seconds
+[01:52:37] Siiphs: olf
+[01:52:37] BanchoBot: Match starts in 4 seconds
+[01:52:38] BanchoBot: Match starts in 3 seconds
+[01:52:40] BanchoBot: Good luck, have fun!
+[01:52:41] BanchoBot: The match has started!
+[01:56:00] BanchoBot: Lasseh finished playing (Score: 616568, PASSED).
+[01:56:00] BanchoBot: Siiphs finished playing (Score: 392762, PASSED).
+[01:56:00] BanchoBot: jaaysfa finished playing (Score: 707184, PASSED).
+[01:56:02] BanchoBot: Cerelydra finished playing (Score: 730737, PASSED).
+[01:56:02] BanchoBot: Nevzz finished playing (Score: 351739, PASSED).
+[01:56:02] BanchoBot: Th1 finished playing (Score: 591660, PASSED).
+[01:56:02] BanchoBot: Christiaaan finished playing (Score: 538062, PASSED).
+[01:56:03] BanchoBot: l Akemi l finished playing (Score: 423419, PASSED).
+[01:56:03] BanchoBot: The match has finished!
+[01:56:16] Th1: ggwp
+[01:56:17] BCraftMG: Germany | 6 - 1 | Chile // Germany wins the match!
+[01:56:19] Th1: ty for ref
+[01:56:19] BanchoBot: Nevzz left the game.
+[01:56:19] jaaysfa: ggwp
+[01:56:22] Christiaaan: ggwp
+[01:56:22] Th1: and sream
+[01:56:23] jaaysfa: ty for game:)
+[01:56:23] l_Akemi_l: ggwp
+[01:56:23] Th1: stream
+[01:56:25] BanchoBot: Christiaaan left the game.
+[01:56:26] BanchoBot: Th1 left the game.
+[01:56:26] l_Akemi_l: ty for ref
+[01:56:29] Cerelydra: ggwpo
+[01:56:32] Cerelydra: ty for ref
+[01:56:32] jaaysfa: ty for ref and stream
+[01:56:34] BanchoBot: jaaysfa left the game.
+[01:56:37] BanchoBot: l Akemi l left the game.
+[01:56:38] Cerelydra: o/
+[01:56:42] BCraftMG: !mp map 3715945
+[01:56:42] BanchoBot: Cerelydra left the game.
+[01:56:42] BanchoBot: Siiphs left the game.
+[01:56:42] Siiphs: ggwp
+[01:56:42] Siiphs: gracias por le refere
+[01:56:42] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3715945 UKRampage - Replica feat. mami
+[01:57:58] BCraftMG: !mp close
+[01:58:00] BanchoBot: Closed the match

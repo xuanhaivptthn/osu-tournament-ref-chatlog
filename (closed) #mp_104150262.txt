@@ -1,0 +1,428 @@
+[20:53:52] Joined #mp_104150262
+[20:53:52] BCraftMG: !mp settings
+[20:53:55] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SAT-4), History: https://osu.ppy.sh/mp/104150262
+[20:53:55] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[20:53:55] BanchoBot: Players: 0
+[20:53:57] BCraftMG: !mp set 0 3 8
+[20:53:59] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[20:54:28] BCraftMG: !mp invite #2283137
+[20:54:30] BanchoBot: Invited kiethao to the room
+[20:54:35] BCraftMG: !mp invite #13322889
+[20:54:36] BanchoBot: Invited - Happi - to the room
+[20:54:39] BCraftMG: !mp invite #11714674
+[20:54:41] BanchoBot: Invited phuc pinku to the room
+[20:54:42] BCraftMG: !mp invite #848961
+[20:54:43] BanchoBot: Invited _Kasaezic to the room
+[20:54:45] BCraftMG: !mp invite #7662077
+[20:54:45] BanchoBot: Invited KazutoGGO to the room
+[20:54:53] BanchoBot: KazutoGGO joined in slot 1.
+[20:55:00] BanchoBot: - Happi - joined in slot 2.
+[20:55:09] -_Happi_-: o/
+[20:55:22] BCraftMG: !mp map 2430049 0
+[20:55:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2430049 ZAQ - Seven Doors
+[20:55:23] BanchoBot: Changed match mode to Osu
+[20:55:23] BCraftMG: !mp mods 1
+[20:55:25] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:55:58] BanchoBot: _Kasaezic joined in slot 3.
+[20:56:26] BCraftMG: mp kick KazutoGGO
+[20:57:24] BanchoBot: phuc pinku joined in slot 4.
+[20:57:37] BCraftMG: anh phuc pinku bip vai
+[20:57:38] BCraftMG: !mp invite #2283137
+[20:57:40] BanchoBot: Invited kiethao to the room
+[20:57:45] BanchoBot: kiethao joined in slot 5.
+[20:57:47] phuc_pinku: bip cai cc
+[20:57:59] phuc_pinku: toi duoc player invite
+[20:58:00] BCraftMG: :sob:
+[20:58:02] phuc_pinku: ko phai ref nha
+[20:58:06] kiethao: danh avg 100k xong di ngu thoi
+[20:58:09] BCraftMG: !mp timer 120
+[20:58:11] -_Happi_-: uoc
+[20:58:11] BanchoBot: Countdown ends in 2 minutes
+[20:58:16] BanchoBot: All players are ready
+[20:58:23] BCraftMG: !mp settings
+[20:58:25] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SAT-4), History: https://osu.ppy.sh/mp/104150262
+[20:58:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/2430049 ZAQ - Seven Doors
+[20:58:25] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:58:25] BanchoBot: Active mods: NoFail
+[20:58:25] BanchoBot: Players: 5
+[20:58:25] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       
+[20:58:25] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13322889 - Happi -       
+[20:58:25] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/848961 _Kasaezic       
+[20:58:25] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11714674 phuc pinku      
+[20:58:25] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/2283137 kiethao         
+[20:58:27] BCraftMG: !mp start 5 glhf
+[20:58:30] BanchoBot: Countdown aborted
+[20:58:30] BanchoBot: Match starts in 5 seconds
+[20:58:30] BanchoBot: Queued the match to start in 5 seconds
+[20:58:32] BanchoBot: Match starts in 4 seconds
+[20:58:32] BanchoBot: Match starts in 3 seconds
+[20:58:34] BanchoBot: Good luck, have fun!
+[20:58:37] BanchoBot: The match has started!
+[21:02:39] BanchoBot: _Kasaezic finished playing (Score: 491087, PASSED).
+[21:02:39] BanchoBot: KazutoGGO finished playing (Score: 320099, PASSED).
+[21:02:41] BanchoBot: - Happi - finished playing (Score: 47295, PASSED).
+[21:02:41] BanchoBot: kiethao finished playing (Score: 557545, PASSED).
+[21:02:41] BanchoBot: phuc pinku finished playing (Score: 352847, PASSED).
+[21:02:41] BanchoBot: The match has finished!
+[21:02:46] BCraftMG: !mp map 2772466 0
+[21:02:48] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2772466 m108 - * Crow Solace *
+[21:02:48] BanchoBot: Changed match mode to Osu
+[21:03:23] BCraftMG: !mp timer 120
+[21:03:26] BanchoBot: Countdown ends in 2 minutes
+[21:03:28] BanchoBot: All players are ready
+[21:03:36] BCraftMG: !mp settings
+[21:03:38] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SAT-4), History: https://osu.ppy.sh/mp/104150262
+[21:03:38] BanchoBot: Beatmap: https://osu.ppy.sh/b/2772466 m108 - * Crow Solace *
+[21:03:38] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:03:38] BanchoBot: Active mods: NoFail
+[21:03:38] BanchoBot: Players: 5
+[21:03:38] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       
+[21:03:38] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13322889 - Happi -       
+[21:03:38] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/848961 _Kasaezic       
+[21:03:38] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11714674 phuc pinku      
+[21:03:38] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/2283137 kiethao         
+[21:03:38] BCraftMG: !mp start 5 glhf
+[21:03:40] BanchoBot: Countdown aborted
+[21:03:40] BanchoBot: Match starts in 5 seconds
+[21:03:40] BanchoBot: Queued the match to start in 5 seconds
+[21:03:42] BanchoBot: Match starts in 4 seconds
+[21:03:42] BanchoBot: Match starts in 3 seconds
+[21:03:44] BanchoBot: Good luck, have fun!
+[21:03:47] BanchoBot: The match has started!
+[21:05:54] BanchoBot: phuc pinku finished playing (Score: 471862, PASSED).
+[21:05:54] BanchoBot: - Happi - finished playing (Score: 25270, PASSED).
+[21:05:54] BanchoBot: _Kasaezic finished playing (Score: 666526, PASSED).
+[21:05:54] BanchoBot: KazutoGGO finished playing (Score: 68823, PASSED).
+[21:05:54] BanchoBot: kiethao finished playing (Score: 628096, PASSED).
+[21:05:54] BanchoBot: The match has finished!
+[21:05:59] BCraftMG: !mp map 2593243 0
+[21:06:01] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2593243 DUSTCELL - Anemone
+[21:06:01] BanchoBot: Changed match mode to Osu
+[21:06:18] BanchoBot: All players are ready
+[21:06:25] BCraftMG: !mp settings
+[21:06:27] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SAT-4), History: https://osu.ppy.sh/mp/104150262
+[21:06:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/2593243 DUSTCELL - Anemone
+[21:06:27] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:06:27] BanchoBot: Active mods: NoFail
+[21:06:27] BanchoBot: Players: 5
+[21:06:27] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       
+[21:06:27] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13322889 - Happi -       
+[21:06:27] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/848961 _Kasaezic       
+[21:06:27] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11714674 phuc pinku      
+[21:06:27] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/2283137 kiethao         
+[21:06:30] BCraftMG: !mp start 5 glhf
+[21:06:32] BanchoBot: Match starts in 5 seconds
+[21:06:32] BanchoBot: Queued the match to start in 5 seconds
+[21:06:34] BanchoBot: Match starts in 4 seconds
+[21:06:34] BanchoBot: Match starts in 3 seconds
+[21:06:36] BanchoBot: Good luck, have fun!
+[21:06:39] BanchoBot: The match has started!
+[21:09:54] BanchoBot: KazutoGGO finished playing (Score: 104137, PASSED).
+[21:09:54] BanchoBot: _Kasaezic finished playing (Score: 339696, PASSED).
+[21:09:54] BanchoBot: - Happi - finished playing (Score: 37277, PASSED).
+[21:09:54] BanchoBot: kiethao finished playing (Score: 407776, PASSED).
+[21:09:56] BanchoBot: phuc pinku finished playing (Score: 295223, PASSED).
+[21:09:56] BanchoBot: The match has finished!
+[21:10:00] BCraftMG: !mp map 2975107 0
+[21:10:01] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2975107 PSYQUI - OYASUMI in my dream
+[21:10:01] BanchoBot: Changed match mode to Osu
+[21:10:04] BCraftMG: !mp timer 120
+[21:10:06] BanchoBot: Countdown ends in 2 minutes
+[21:10:32] BanchoBot: All players are ready
+[21:10:37] BCraftMG: !mp settings
+[21:10:39] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SAT-4), History: https://osu.ppy.sh/mp/104150262
+[21:10:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/2975107 PSYQUI - OYASUMI in my dream
+[21:10:39] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:10:39] BanchoBot: Active mods: NoFail
+[21:10:39] BanchoBot: Players: 5
+[21:10:39] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       
+[21:10:39] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13322889 - Happi -       
+[21:10:39] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/848961 _Kasaezic       
+[21:10:39] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11714674 phuc pinku      
+[21:10:39] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/2283137 kiethao         
+[21:10:40] BCraftMG: !mp start 5 glhf
+[21:10:41] BanchoBot: Countdown aborted
+[21:10:41] BanchoBot: Match starts in 5 seconds
+[21:10:41] BanchoBot: Queued the match to start in 5 seconds
+[21:10:44] BanchoBot: Match starts in 4 seconds
+[21:10:44] BanchoBot: Match starts in 3 seconds
+[21:10:46] BanchoBot: Good luck, have fun!
+[21:10:49] BanchoBot: The match has started!
+[21:15:12] BanchoBot: kiethao finished playing (Score: 224036, PASSED).
+[21:15:12] BanchoBot: _Kasaezic finished playing (Score: 113909, PASSED).
+[21:15:12] BanchoBot: - Happi - finished playing (Score: 19611, PASSED).
+[21:15:12] BanchoBot: phuc pinku finished playing (Score: 274866, PASSED).
+[21:15:12] BanchoBot: KazutoGGO finished playing (Score: 115079, PASSED).
+[21:15:12] BanchoBot: The match has finished!
+[21:15:14] BCraftMG: !mp map 3292033 0
+[21:15:15] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3292033 cosMo@BousouP feat. Hatsune Miku - Machinegun Poem Doll
+[21:15:15] BanchoBot: Changed match mode to Osu
+[21:15:34] BCraftMG: !mp timer 120
+[21:15:36] BanchoBot: Countdown ends in 2 minutes
+[21:16:00] BanchoBot: All players are ready
+[21:16:04] BCraftMG: !mp settings
+[21:16:07] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SAT-4), History: https://osu.ppy.sh/mp/104150262
+[21:16:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/3292033 cosMo@BousouP feat. Hatsune Miku - Machinegun Poem Doll
+[21:16:07] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:16:07] BanchoBot: Active mods: NoFail
+[21:16:07] BanchoBot: Players: 5
+[21:16:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       
+[21:16:07] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13322889 - Happi -       
+[21:16:07] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/848961 _Kasaezic       
+[21:16:07] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11714674 phuc pinku      
+[21:16:07] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/2283137 kiethao         
+[21:16:10] BCraftMG: !mp start 5 glhf
+[21:16:12] BanchoBot: Countdown aborted
+[21:16:12] BanchoBot: Match starts in 5 seconds
+[21:16:12] BanchoBot: Queued the match to start in 5 seconds
+[21:16:14] BanchoBot: Match starts in 4 seconds
+[21:16:14] BanchoBot: Match starts in 3 seconds
+[21:16:17] BanchoBot: Good luck, have fun!
+[21:16:19] BanchoBot: The match has started!
+[21:18:42] BanchoBot: _Kasaezic finished playing (Score: 195732, PASSED).
+[21:18:42] BanchoBot: phuc pinku finished playing (Score: 274080, PASSED).
+[21:18:42] BanchoBot: - Happi - finished playing (Score: 16105, PASSED).
+[21:18:45] BanchoBot: KazutoGGO finished playing (Score: 60906, PASSED).
+[21:18:45] BanchoBot: kiethao finished playing (Score: 559132, PASSED).
+[21:18:45] BanchoBot: The match has finished!
+[21:18:47] BCraftMG: !mp map 3682178 0
+[21:18:49] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3682178 CIEL - Mado o Akete
+[21:18:49] BanchoBot: Changed match mode to Osu
+[21:18:50] BCraftMG: !mp mods 9
+[21:18:52] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:18:55] BCraftMG: !mp timer 120
+[21:18:56] phuc_pinku: vai anh kiethao choke ha anh
+[21:18:56] BanchoBot: Countdown ends in 2 minutes
+[21:19:03] kiethao: 1sb 1 miss
+[21:19:08] phuc_pinku: vcl
+[21:19:30] BanchoBot: All players are ready
+[21:19:31] BCraftMG: !mp settings
+[21:19:32] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SAT-4), History: https://osu.ppy.sh/mp/104150262
+[21:19:32] BanchoBot: Beatmap: https://osu.ppy.sh/b/3682178 CIEL - Mado o Akete
+[21:19:32] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:19:32] BanchoBot: Active mods: NoFail, Hidden
+[21:19:32] BanchoBot: Players: 5
+[21:19:32] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       
+[21:19:32] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13322889 - Happi -       
+[21:19:32] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/848961 _Kasaezic       
+[21:19:32] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11714674 phuc pinku      
+[21:19:32] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/2283137 kiethao         
+[21:19:36] BCraftMG: !mp start 5 glhf
+[21:19:37] BanchoBot: Countdown aborted
+[21:19:37] BanchoBot: Match starts in 5 seconds
+[21:19:37] BanchoBot: Queued the match to start in 5 seconds
+[21:19:40] BanchoBot: Match starts in 4 seconds
+[21:19:40] BanchoBot: Match starts in 3 seconds
+[21:19:42] BanchoBot: Good luck, have fun!
+[21:19:44] BanchoBot: The match has started!
+[21:23:27] BanchoBot: kiethao finished playing (Score: 513095, PASSED).
+[21:23:27] BanchoBot: KazutoGGO finished playing (Score: 158751, PASSED).
+[21:23:30] BanchoBot: - Happi - finished playing (Score: 63515, PASSED).
+[21:23:30] BanchoBot: phuc pinku finished playing (Score: 342075, PASSED).
+[21:23:30] BanchoBot: _Kasaezic finished playing (Score: 512805, PASSED).
+[21:23:30] BanchoBot: The match has finished!
+[21:23:33] BCraftMG: !mp map 2674872 0
+[21:23:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2674872 Euchaeta - Yumemiru Yakusoku (Cut Ver.)
+[21:23:34] BanchoBot: Changed match mode to Osu
+[21:24:06] BanchoBot: All players are ready
+[21:24:23] BCraftMG: !mp start 5 glhf
+[21:24:25] BanchoBot: Match starts in 5 seconds
+[21:24:25] BanchoBot: Queued the match to start in 5 seconds
+[21:24:28] BanchoBot: Match starts in 4 seconds
+[21:24:28] BanchoBot: Match starts in 3 seconds
+[21:24:30] BanchoBot: Good luck, have fun!
+[21:24:32] BanchoBot: The match has started!
+[21:26:51] BanchoBot: KazutoGGO finished playing (Score: 14055, PASSED).
+[21:26:51] BanchoBot: phuc pinku finished playing (Score: 32274, PASSED).
+[21:26:53] BanchoBot: _Kasaezic finished playing (Score: 243415, PASSED).
+[21:26:53] BanchoBot: - Happi - finished playing (Score: 36812, PASSED).
+[21:26:53] BanchoBot: kiethao finished playing (Score: 298281, PASSED).
+[21:26:53] BanchoBot: The match has finished!
+[21:26:55] BCraftMG: !mp map 2572093 0
+[21:26:58] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2572093 NICO Touches the Walls - Niwaka Ame ni mo Makezu
+[21:26:58] BanchoBot: Changed match mode to Osu
+[21:26:59] BCraftMG: !mp mods 17
+[21:27:00] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[21:27:01] BCraftMG: !mp timer 120
+[21:27:03] BanchoBot: Countdown ends in 2 minutes
+[21:27:42] BanchoBot: All players are ready
+[21:27:44] BCraftMG: !mp settings
+[21:27:46] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SAT-4), History: https://osu.ppy.sh/mp/104150262
+[21:27:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/2572093 NICO Touches the Walls - Niwaka Ame ni mo Makezu
+[21:27:46] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:27:46] BanchoBot: Active mods: NoFail, HardRock
+[21:27:46] BanchoBot: Players: 5
+[21:27:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       
+[21:27:47] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13322889 - Happi -       
+[21:27:47] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/848961 _Kasaezic       
+[21:27:47] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11714674 phuc pinku      
+[21:27:47] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/2283137 kiethao         
+[21:27:47] BCraftMG: !mp start 5 glhf
+[21:27:49] BanchoBot: Countdown aborted
+[21:27:49] BanchoBot: Match starts in 5 seconds
+[21:27:49] BanchoBot: Queued the match to start in 5 seconds
+[21:27:51] BanchoBot: Match starts in 4 seconds
+[21:27:51] BanchoBot: Match starts in 3 seconds
+[21:27:54] BanchoBot: Good luck, have fun!
+[21:27:56] BanchoBot: The match has started!
+[21:32:25] BanchoBot: - Happi - finished playing (Score: 16145, PASSED).
+[21:32:27] BanchoBot: KazutoGGO finished playing (Score: 368242, PASSED).
+[21:32:27] BanchoBot: kiethao finished playing (Score: 540576, PASSED).
+[21:32:27] BanchoBot: phuc pinku finished playing (Score: 430288, PASSED).
+[21:32:27] BanchoBot: _Kasaezic finished playing (Score: 332725, PASSED).
+[21:32:27] BanchoBot: The match has finished!
+[21:32:30] BCraftMG: !mp map 3807343 0
+[21:32:32] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3807343 Rabpit - Saika
+[21:32:32] BanchoBot: Changed match mode to Osu
+[21:32:33] BCraftMG: !mp timer 120
+[21:32:34] BanchoBot: Countdown ends in 2 minutes
+[21:33:11] BanchoBot: All players are ready
+[21:33:12] BCraftMG: !mp settings
+[21:33:13] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SAT-4), History: https://osu.ppy.sh/mp/104150262
+[21:33:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/3807343 Rabpit - Saika
+[21:33:13] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:33:13] BanchoBot: Active mods: NoFail, HardRock
+[21:33:13] BanchoBot: Players: 5
+[21:33:13] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       
+[21:33:13] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13322889 - Happi -       
+[21:33:13] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/848961 _Kasaezic       
+[21:33:13] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11714674 phuc pinku      
+[21:33:13] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/2283137 kiethao         
+[21:33:16] BCraftMG: !mp start 5 glhf
+[21:33:18] BanchoBot: Countdown aborted
+[21:33:18] BanchoBot: Match starts in 5 seconds
+[21:33:18] BanchoBot: Queued the match to start in 5 seconds
+[21:33:20] BanchoBot: Match starts in 4 seconds
+[21:33:20] BanchoBot: Match starts in 3 seconds
+[21:33:23] BanchoBot: Good luck, have fun!
+[21:33:25] BanchoBot: The match has started!
+[21:35:28] BanchoBot: _Kasaezic finished playing (Score: 264598, PASSED).
+[21:35:28] BanchoBot: - Happi - finished playing (Score: 31744, PASSED).
+[21:35:28] BanchoBot: KazutoGGO finished playing (Score: 110206, PASSED).
+[21:35:28] BanchoBot: kiethao finished playing (Score: 343094, PASSED).
+[21:35:28] BanchoBot: phuc pinku finished playing (Score: 423818, PASSED).
+[21:35:28] BanchoBot: The match has finished!
+[21:35:30] BCraftMG: !mp map 563370 0
+[21:35:30] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/563370 yanaginagi - landscape
+[21:35:30] BanchoBot: Changed match mode to Osu
+[21:35:33] BCraftMG: !mp mods 65
+[21:35:35] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:35:36] BCraftMG: !mp timer 120
+[21:35:38] BanchoBot: Countdown ends in 2 minutes
+[21:35:45] BCraftMG: !mp settings
+[21:35:48] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SAT-4), History: https://osu.ppy.sh/mp/104150262
+[21:35:48] BanchoBot: Beatmap: https://osu.ppy.sh/b/563370 yanaginagi - landscape
+[21:35:48] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:35:48] BanchoBot: Active mods: NoFail, DoubleTime
+[21:35:48] BanchoBot: Players: 5
+[21:35:48] BanchoBot: Slot 1  No Map    https://osu.ppy.sh/u/7662077 KazutoGGO       
+[21:35:48] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/13322889 - Happi -       
+[21:35:48] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/848961 _Kasaezic       
+[21:35:48] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/11714674 phuc pinku      
+[21:35:48] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/2283137 kiethao         
+[21:36:22] BanchoBot: All players are ready
+[21:36:39] BanchoBot: Countdown ends in 1 minute
+[21:36:43] BCraftMG: !mp settings
+[21:36:44] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SAT-4), History: https://osu.ppy.sh/mp/104150262
+[21:36:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/563370 yanaginagi - landscape
+[21:36:44] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:36:44] BanchoBot: Active mods: NoFail, DoubleTime
+[21:36:44] BanchoBot: Players: 5
+[21:36:44] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       
+[21:36:44] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13322889 - Happi -       
+[21:36:44] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/848961 _Kasaezic       
+[21:36:44] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11714674 phuc pinku      
+[21:36:44] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/2283137 kiethao         
+[21:36:45] BCraftMG: !mp start 5 glhf
+[21:36:47] BanchoBot: Countdown aborted
+[21:36:47] BanchoBot: Match starts in 5 seconds
+[21:36:47] BanchoBot: Queued the match to start in 5 seconds
+[21:36:49] BanchoBot: Match starts in 4 seconds
+[21:36:49] BanchoBot: Match starts in 3 seconds
+[21:36:52] BanchoBot: Good luck, have fun!
+[21:36:54] BanchoBot: The match has started!
+[21:39:40] BanchoBot: KazutoGGO finished playing (Score: 146347, PASSED).
+[21:39:40] BanchoBot: - Happi - finished playing (Score: 27436, PASSED).
+[21:39:40] BanchoBot: phuc pinku finished playing (Score: 466363, PASSED).
+[21:39:40] BanchoBot: kiethao finished playing (Score: 869752, PASSED).
+[21:39:42] BanchoBot: _Kasaezic finished playing (Score: 248623, PASSED).
+[21:39:42] BanchoBot: The match has finished!
+[21:39:44] BCraftMG: !mp map 2613166 0
+[21:39:47] kiethao: sieu thong minh
+[21:39:47] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2613166 Lime - Noblesse Gloria
+[21:39:47] BanchoBot: Changed match mode to Osu
+[21:39:50] BCraftMG: !mp timer 120
+[21:39:52] BanchoBot: Countdown ends in 2 minutes
+[21:40:11] phuc_pinku: kiethao fc dt2 nha anh
+[21:40:11] BanchoBot: All players are ready
+[21:40:14] BCraftMG: !mp settings
+[21:40:16] kiethao: chiu anh oi
+[21:40:16] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SAT-4), History: https://osu.ppy.sh/mp/104150262
+[21:40:16] BanchoBot: Beatmap: https://osu.ppy.sh/b/2613166 Lime - Noblesse Gloria
+[21:40:16] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:40:16] BanchoBot: Active mods: NoFail, DoubleTime
+[21:40:16] BanchoBot: Players: 5
+[21:40:16] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       
+[21:40:16] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13322889 - Happi -       
+[21:40:16] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/848961 _Kasaezic       
+[21:40:16] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11714674 phuc pinku      
+[21:40:16] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/2283137 kiethao         
+[21:40:18] BCraftMG: !mp start 5 glhf
+[21:40:19] kiethao: nay gio toan miss nham
+[21:40:19] BanchoBot: Countdown aborted
+[21:40:19] BanchoBot: Match starts in 5 seconds
+[21:40:19] BanchoBot: Queued the match to start in 5 seconds
+[21:40:21] BanchoBot: Match starts in 4 seconds
+[21:40:21] BanchoBot: Match starts in 3 seconds
+[21:40:24] phuc_pinku: sadge
+[21:40:24] BanchoBot: Good luck, have fun!
+[21:40:26] BanchoBot: The match has started!
+[21:43:10] BanchoBot: phuc pinku finished playing (Score: 444667, PASSED).
+[21:43:10] BanchoBot: _Kasaezic finished playing (Score: 117402, PASSED).
+[21:43:10] BanchoBot: KazutoGGO finished playing (Score: 31694, PASSED).
+[21:43:10] BanchoBot: kiethao finished playing (Score: 775378, PASSED).
+[21:43:10] BanchoBot: - Happi - finished playing (Score: 13926, PASSED).
+[21:43:10] BanchoBot: The match has finished!
+[21:43:15] KazutoGGO: ggwp
+[21:43:15] phuc_pinku: vcl
+[21:43:15] kiethao: qua thong minh
+[21:43:17] kiethao: di ngu
+[21:43:17] phuc_pinku: sao anh lai sb
+[21:43:19] BCraftMG: goodnight
+[21:43:20] -_Happi_-: gg
+[21:43:22] phuc_pinku: kho` kho`
+[21:43:25] phuc_pinku: ggwp
+[21:43:27] kiethao: tai bi. thong minh anh oi
+[21:43:27] kiethao: ggwp
+[21:43:27] -_Happi_-: gn
+[21:43:30] kiethao: ty for ref
+[21:43:30] kiethao: <3
+[21:43:35] kiethao: g9
+[21:43:35] -_Happi_-: ty for ref
+[21:43:37] _Kasaezic: ty for ref
+[21:43:37] BCraftMG: <3
+[21:43:39] phuc_pinku: i go bye
+[21:43:42] _Kasaezic: my hand hurt
+[21:43:44] KazutoGGO: -1 ref doi kick tui
+[21:43:45] BCraftMG: mp kick KazutoGGO
+[21:43:47] phuc_pinku: ty ref
+[21:43:47] BanchoBot: phuc pinku left the game.
+[21:43:52] BanchoBot: _Kasaezic left the game.
+[21:43:52] BanchoBot: kiethao left the game.
+[21:43:54] BanchoBot: - Happi - left the game.
+[21:44:01] BanchoBot: KazutoGGO moved to slot 4
+[21:44:03] BCraftMG: vai
+[21:44:04] BanchoBot: KazutoGGO moved to slot 2
+[21:44:04] BanchoBot: KazutoGGO moved to slot 1
+[21:44:04] BanchoBot: KazutoGGO moved to slot 5
+[21:44:04] BanchoBot: KazutoGGO moved to slot 7
+[21:44:04] BanchoBot: KazutoGGO moved to slot 5
+[21:44:04] BCraftMG: loz
+[21:44:06] BCraftMG: !mp lock
+[21:44:06] BanchoBot: KazutoGGO moved to slot 4
+[21:44:06] BanchoBot: KazutoGGO moved to slot 5
+[21:44:06] BanchoBot: KazutoGGO moved to slot 6
+[21:44:06] BanchoBot: KazutoGGO left the game.
+[21:44:09] BanchoBot: Locked the match
+[21:44:09] BCraftMG: !mp close
+[21:44:11] BanchoBot: Closed the match

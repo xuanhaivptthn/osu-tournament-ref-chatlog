@@ -1,0 +1,626 @@
+[03:53:32] Joined #mp_103381875
+[03:53:32] BCraftMG: !mp settings
+[03:53:34] BanchoBot: Room name: TFGT: (Overrankers) vs (kuon my beloved), History: https://osu.ppy.sh/mp/103381875
+[03:53:34] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[03:53:34] BanchoBot: Players: 0
+[03:53:51] BCraftMG: !mp set 2 3 8
+[03:53:52] BanchoBot: Changed match settings to 8 slots, TeamVs, ScoreV2
+[03:54:21] BCraftMG: !mp invite #17706086
+[03:54:22] BanchoBot: Invited reshamen to the room
+[03:54:25] BCraftMG: !mp invite #4207965
+[03:54:26] BanchoBot: User not found
+[03:54:56] BanchoBot: reshamen joined in slot 1 for team blue.
+[03:55:10] BanchoBot: NekoPixel201 joined in slot 2 for team red.
+[03:55:12] BanchoBot: reshamen left the game.
+[03:55:16] BanchoBot: NekoPixel201 moved to slot 8
+[03:56:17] BCraftMG: !mp invite luscajooj
+[03:56:18] BanchoBot: Invited luscajooj to the room
+[03:56:28] BCraftMG: !mp invite T-Light
+[03:56:30] BanchoBot: Invited T-Light to the room
+[03:56:36] BanchoBot: n0tSiyan joined in slot 1 for team blue.
+[03:57:35] BCraftMG: overrankers you will be on team red
+[03:59:27] BanchoBot: n0tSiyan changed to Red
+[03:59:33] BanchoBot: luscajooj joined in slot 2 for team red.
+[03:59:39] BanchoBot: T-Light joined in slot 3 for team blue.
+[03:59:40] BanchoBot: luscajooj changed to Blue
+[04:00:18] BanchoBot: NekoPixel201 moved to slot 7
+[04:00:18] BanchoBot: NekoPixel201 moved to slot 6
+[04:00:18] BanchoBot: NekoPixel201 moved to slot 5
+[04:00:18] BanchoBot: NekoPixel201 moved to slot 4
+[04:00:20] BanchoBot: NekoPixel201 moved to slot 8
+[04:00:20] BanchoBot: NekoPixel201 moved to slot 7
+[04:00:20] BanchoBot: NekoPixel201 moved to slot 6
+[04:00:20] BanchoBot: NekoPixel201 moved to slot 5
+[04:00:20] BanchoBot: NekoPixel201 moved to slot 4
+[04:00:21] BCraftMG: whos rolling for kuon?
+[04:00:22] BanchoBot: NekoPixel201 moved to slot 5
+[04:00:22] BanchoBot: NekoPixel201 moved to slot 6
+[04:00:22] BanchoBot: NekoPixel201 moved to slot 7
+[04:00:22] BanchoBot: NekoPixel201 moved to slot 8
+[04:00:26] BanchoBot: reshamen joined in slot 4 for team red.
+[04:00:28] BanchoBot: reshamen moved to slot 6
+[04:00:56] NekoPixel201: me :)
+[04:01:04] T-Light: is there a warmup?
+[04:01:06] BCraftMG: nope
+[04:01:15] T-Light: yep
+[04:01:19] T-Light: !roll
+[04:01:19] BanchoBot: T-Light rolls 24 point(s)
+[04:01:31] reshamen: !roll
+[04:01:31] BanchoBot: reshamen rolls 38 point(s)
+[04:01:37] n0tSiyan: !roll
+[04:01:37] BanchoBot: n0tSiyan rolls 72 point(s)
+[04:01:43] NekoPixel201: !roll higher than reshamen
+[04:01:43] BanchoBot: NekoPixel201 rolls 93 point(s)
+[04:01:45] BCraftMG: Higher roll chooses 1st pick 2nd ban or 1st ban 2nd pick
+[04:01:49] NekoPixel201: I win
+[04:01:53] n0tSiyan: !roll clown
+[04:01:53] BanchoBot: n0tSiyan rolls 59 point(s)
+[04:01:53] reshamen: i think we won the roll
+[04:01:59] reshamen: 2nd pick
+[04:01:59] BCraftMG: yes
+[04:02:09] BanchoBot: reshamen left the game.
+[04:02:40] BanchoBot: reshamen joined in slot 4 for team red.
+[04:02:54] BCraftMG: Overrankers first ban please
+[04:02:56] BCraftMG: !mp timer 120
+[04:02:58] BanchoBot: Countdown ends in 2 minutes
+[04:02:59] BCraftMG: 1 ban
+[04:03:32] reshamen: fm2
+[04:03:36] n0tSiyan: fm22
+[04:03:42] NekoPixel201: 22
+[04:03:48] BCraftMG: kuon bans
+[04:03:50] BCraftMG: !mp timer 120
+[04:03:52] BanchoBot: Countdown aborted
+[04:03:52] BanchoBot: Countdown ends in 2 minutes
+[04:04:09] T-Light: fm4
+[04:04:36] BCraftMG: Overrankers | 0 - 0 | kuon my beloved // First Pick: kuon my beloved
+[04:04:38] BCraftMG: !mp timer 120
+[04:04:39] BanchoBot: Countdown aborted
+[04:04:39] BanchoBot: Countdown ends in 2 minutes
+[04:05:40] BanchoBot: Countdown ends in 1 minute
+[04:05:54] T-Light: fm7
+[04:06:10] BanchoBot: Countdown ends in 30 seconds
+[04:06:13] BCraftMG: !mp map 2716745 0
+[04:06:14] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2716745 Synthamesk - Symptom
+[04:06:14] BanchoBot: Changed match mode to Osu
+[04:06:15] BCraftMG: !mp mods Freemod
+[04:06:16] BanchoBot: Disabled all mods, enabled FreeMod
+[04:06:17] BCraftMG: !mp timer 90
+[04:06:18] BanchoBot: Countdown aborted
+[04:06:18] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[04:06:47] BanchoBot: reshamen left the game.
+[04:06:49] BanchoBot: Countdown ends in 1 minute
+[04:06:51] BanchoBot: luscajooj moved to slot 4
+[04:06:53] BanchoBot: T-Light moved to slot 5
+[04:06:55] BanchoBot: T-Light moved to slot 3
+[04:07:19] BanchoBot: Countdown ends in 30 seconds
+[04:07:23] BanchoBot: reshamen joined in slot 2 for team red.
+[04:07:38] BanchoBot: n0tSiyan left the game.
+[04:07:38] BanchoBot: Countdown ends in 10 seconds
+[04:07:40] BanchoBot: NekoPixel201 moved to slot 1
+[04:07:44] BanchoBot: Countdown ends in 5 seconds
+[04:07:44] BanchoBot: Countdown ends in 4 seconds
+[04:07:46] BanchoBot: Countdown ends in 3 seconds
+[04:07:46] BanchoBot: Countdown ends in 2 seconds
+[04:07:48] BanchoBot: Countdown ends in 1 second
+[04:07:48] BanchoBot: Countdown finished
+[04:07:49] BCraftMG: !mp settings
+[04:07:50] BanchoBot: All players are ready
+[04:07:50] BanchoBot: Room name: TFGT: (Overrankers) vs (kuon my beloved), History: https://osu.ppy.sh/mp/103381875
+[04:07:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/2716745 Synthamesk - Symptom
+[04:07:50] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[04:07:50] BanchoBot: Active mods: Freemod
+[04:07:50] BanchoBot: Players: 4
+[04:07:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12139352 NekoPixel201    [Team Red  / NoFail]
+[04:07:50] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17706086 reshamen        [Team Red  / NoFail]
+[04:07:50] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7593935 T-Light         [Team Blue / NoFail]
+[04:07:50] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10956448 luscajooj       [Team Blue / NoFail]
+[04:07:53] BCraftMG: !mp start 10
+[04:07:54] BanchoBot: Match starts in 10 seconds
+[04:07:54] BanchoBot: Queued the match to start in 10 seconds
+[04:08:00] BanchoBot: Match starts in 5 seconds
+[04:08:02] BanchoBot: Match starts in 4 seconds
+[04:08:02] BanchoBot: Match starts in 3 seconds
+[04:08:04] BanchoBot: Good luck, have fun!
+[04:08:06] BanchoBot: The match has started!
+[04:08:06] reshamen: gl
+[04:13:58] BanchoBot: T-Light finished playing (Score: 540079, PASSED).
+[04:13:58] BanchoBot: reshamen finished playing (Score: 538736, PASSED).
+[04:14:00] BanchoBot: luscajooj finished playing (Score: 612943, PASSED).
+[04:14:04] BanchoBot: NekoPixel201 finished playing (Score: 483627, PASSED).
+[04:14:04] BanchoBot: The match has finished!
+[04:14:08] reshamen: neo dc'd
+[04:14:25] NekoPixel201: wha
+[04:14:29] reshamen: oh his score is in the mp
+[04:14:29] reshamen: nvm
+[04:14:31] BCraftMG: score still here on mp link and in irc
+[04:14:44] BCraftMG: Overrankers | 0 - 1 | kuon my beloved // Next Pick: Overrankers
+[04:14:46] BCraftMG: !mp timer 120
+[04:14:47] BanchoBot: Countdown ends in 2 minutes
+[04:14:53] NekoPixel201: my internet is weird
+[04:14:57] NekoPixel201: don't worry about it
+[04:15:11] BCraftMG: it just drop a bit mid match its alright
+[04:15:22] reshamen: fm5
+[04:15:34] BCraftMG: !mp map 3246332 0
+[04:15:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3246332 Imperial Circus Dead Decadence - Hai shita Shoujo Wa, Haiyoru Konton To Kaikousu.
+[04:15:36] BanchoBot: Changed match mode to Osu
+[04:15:39] BCraftMG: !mp timer 120
+[04:15:40] BanchoBot: Countdown aborted
+[04:15:40] BanchoBot: Countdown ends in 2 minutes
+[04:15:47] NekoPixel201: my internet doesn't run at all mid map
+[04:15:59] luscajooj: whaa
+[04:16:05] NekoPixel201: so basically what happens is I play the map, leaderboard doesn't update with my score and then it submits at the end
+[04:16:05] reshamen: his internet dies during the map
+[04:16:11] NekoPixel201: it's really weird and IDK why
+[04:16:14] luscajooj: WTF
+[04:16:20] NekoPixel201: I can't even stay in discord call
+[04:16:38] BanchoBot: All players are ready
+[04:16:40] BanchoBot: Countdown ends in 1 minute
+[04:16:40] BCraftMG: its totally fine as long as score still up on mp link or in irc
+[04:16:46] BCraftMG: !mp settings
+[04:16:48] BanchoBot: Room name: TFGT: (Overrankers) vs (kuon my beloved), History: https://osu.ppy.sh/mp/103381875
+[04:16:48] BanchoBot: Beatmap: https://osu.ppy.sh/b/3246332 Imperial Circus Dead Decadence - Hai shita Shoujo Wa, Haiyoru Konton To Kaikousu.
+[04:16:48] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[04:16:48] BanchoBot: Active mods: Freemod
+[04:16:48] BanchoBot: Players: 4
+[04:16:48] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12139352 NekoPixel201    [Team Red  / NoFail]
+[04:16:48] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17706086 reshamen        [Team Red  / NoFail, Hidden, HardRock]
+[04:16:48] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7593935 T-Light         [Team Blue / NoFail]
+[04:16:48] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10956448 luscajooj       [Team Blue / NoFail]
+[04:16:51] BCraftMG: !mp start 10
+[04:16:52] BanchoBot: Countdown aborted
+[04:16:52] BanchoBot: Match starts in 10 seconds
+[04:16:52] BanchoBot: Queued the match to start in 10 seconds
+[04:16:57] BCraftMG: wrong timer there
+[04:16:58] BanchoBot: Match starts in 5 seconds
+[04:16:58] NekoPixel201: if I dc for real I'm sxcreenshotting everything
+[04:16:59] BanchoBot: Match starts in 4 seconds
+[04:16:59] NekoPixel201: glgl
+[04:16:59] BanchoBot: Match starts in 3 seconds
+[04:16:59] reshamen: glg
+[04:17:01] BanchoBot: Good luck, have fun!
+[04:17:01] BCraftMG: xd
+[04:17:03] BanchoBot: The match has started!
+[04:23:28] BanchoBot: reshamen finished playing (Score: 273176, PASSED).
+[04:23:28] BanchoBot: T-Light finished playing (Score: 542035, PASSED).
+[04:23:28] BanchoBot: luscajooj finished playing (Score: 691272, PASSED).
+[04:23:45] BCraftMG: oh god
+[04:23:50] BCraftMG: Neko stuck
+[04:23:55] luscajooj: bruh
+[04:24:08] BCraftMG: :PRAYGE:
+[04:24:29] reshamen: yep
+[04:24:45] reshamen: just abort and give them the point
+[04:24:45] luscajooj: wtf
+[04:24:51] reshamen: they won
+[04:24:54] BanchoBot: The match has finished!
+[04:24:54] BanchoBot: NekoPixel201 left the game.
+[04:25:00] BCraftMG: andd he left
+[04:25:05] BCraftMG: with no score on mp link
+[04:25:23] BCraftMG: reshamen tell them to send ss please
+[04:25:33] reshamen: he got 600k
+[04:25:39] BCraftMG: ah
+[04:25:40] BCraftMG: :skull:
+[04:25:40] reshamen: even if he fc'd we would have lost
+[04:26:00] reshamen: i might have trolled that one
+[04:26:11] BCraftMG: Overrankers | 0 - 2 | kuon my beloved // Next Pick: kuon my beloved
+[04:26:13] BCraftMG: !mp timer 120
+[04:26:15] BanchoBot: Countdown ends in 2 minutes
+[04:26:23] BCraftMG: if you can throw me an ss from him that would be great
+[04:26:30] BCraftMG: still have to explain to staff
+[04:26:59] reshamen: one sec
+[04:27:01] BanchoBot: Nekoraw joined in slot 1 for team blue.
+[04:27:03] BanchoBot: Nekoraw moved to slot 5
+[04:27:05] BanchoBot: luscajooj left the game.
+[04:27:09] reshamen: https://cdn.discordapp.com/attachments/1003422662133022774/1013197965315276890/screenshot833.jpg
+[04:27:09] BanchoBot: Nekoraw moved to slot 4
+[04:27:16] BanchoBot: Countdown ends in 1 minute
+[04:27:42] T-Light: fm6 our pick
+[04:27:46] BanchoBot: Countdown ends in 30 seconds
+[04:28:03] BanchoBot: NekoPixel201 joined in slot 1 for team blue.
+[04:28:04] BCraftMG: !mp map 3209999 0
+[04:28:05] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3209999 Hana - Shuumatsu no Bishou
+[04:28:05] BanchoBot: Changed match mode to Osu
+[04:28:05] BCraftMG: !mp timer 90
+[04:28:07] BanchoBot: Countdown ends in 10 seconds
+[04:28:07] BanchoBot: reshamen moved to slot 7
+[04:28:07] BanchoBot: Countdown aborted
+[04:28:07] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[04:28:10] BanchoBot: reshamen left the game.
+[04:28:14] BanchoBot: NekoPixel201 changed to Red
+[04:28:16] BanchoBot: n0tSiyan joined in slot 2 for team red.
+[04:28:24] NekoPixel201: sorry again for my internet being a bit dumb
+[04:28:37] BanchoBot: Countdown ends in 1 minute
+[04:28:52] NekoPixel201: what's score and BO btw
+[04:29:04] BCraftMG: bo7
+[04:29:08] BanchoBot: Countdown ends in 30 seconds
+[04:29:16] BCraftMG: Overrankers | 0 - 2 | kuon my beloved
+[04:29:25] NekoPixel201: oki cheers
+[04:29:27] BanchoBot: Countdown ends in 10 seconds
+[04:29:33] BanchoBot: Countdown ends in 5 seconds
+[04:29:33] BanchoBot: Countdown ends in 4 seconds
+[04:29:35] BanchoBot: Countdown ends in 3 seconds
+[04:29:35] BanchoBot: Countdown ends in 2 seconds
+[04:29:35] BanchoBot: All players are ready
+[04:29:36] BCraftMG: !mp settings
+[04:29:37] BanchoBot: Countdown ends in 1 second
+[04:29:37] BanchoBot: Room name: TFGT: (Overrankers) vs (kuon my beloved), History: https://osu.ppy.sh/mp/103381875
+[04:29:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/3209999 Hana - Shuumatsu no Bishou
+[04:29:37] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[04:29:37] BanchoBot: Active mods: Freemod
+[04:29:37] BanchoBot: Players: 4
+[04:29:37] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12139352 NekoPixel201    [Team Red  / NoFail, Hidden]
+[04:29:37] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14806612 n0tSiyan        [Team Red  / NoFail, Hidden, HardRock]
+[04:29:37] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7593935 T-Light         [Team Blue / NoFail]
+[04:29:37] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/4207965 Nekoraw         [Team Blue / NoFail, Hidden]
+[04:29:38] BanchoBot: Countdown finished
+[04:29:40] T-Light: glhf
+[04:29:42] BCraftMG: !mp start 10
+[04:29:42] BanchoBot: Match starts in 10 seconds
+[04:29:42] BanchoBot: Queued the match to start in 10 seconds
+[04:29:44] NekoPixel201: glglglglglgl
+[04:29:46] NekoPixel201: golf
+[04:29:48] BanchoBot: Match starts in 5 seconds
+[04:29:50] BanchoBot: Match starts in 4 seconds
+[04:29:50] BanchoBot: Match starts in 3 seconds
+[04:29:52] BanchoBot: Good luck, have fun!
+[04:29:54] BanchoBot: The match has started!
+[04:35:26] BanchoBot: T-Light finished playing (Score: 526270, PASSED).
+[04:35:28] BanchoBot: NekoPixel201 finished playing (Score: 898389, PASSED).
+[04:35:34] BanchoBot: Nekoraw finished playing (Score: 558894, PASSED).
+[04:35:36] BanchoBot: n0tSiyan finished playing (Score: 392915, PASSED).
+[04:35:36] BanchoBot: The match has finished!
+[04:35:48] BCraftMG: Overrankers | 1 - 2 | kuon my beloved // Next Pick: Overrankers
+[04:35:51] BCraftMG: !mp timer 120
+[04:35:51] BanchoBot: Countdown ends in 2 minutes
+[04:35:57] BCraftMG: when the scores slowly sliding in
+[04:36:03] NekoPixel201: my internet actually came back for a second in the middle
+[04:36:10] NekoPixel201: I got to see leaderboard for a moment
+[04:36:14] NekoPixel201: progress!
+[04:36:22] BCraftMG: wait was that an fc
+[04:36:26] BCraftMG: oh no
+[04:36:27] NekoPixel201: yes
+[04:36:35] T-Light: yep
+[04:36:39] BCraftMG: damn
+[04:36:41] BCraftMG: 1 miss fc
+[04:36:50] BCraftMG: this man beating mrekk soon
+[04:36:52] BanchoBot: Countdown ends in 1 minute
+[04:36:54] NekoPixel201: OH RIGHT
+[04:37:01] NekoPixel201: yeah so I screenshotted at the end and missed
+[04:37:05] NekoPixel201: in case of DC
+[04:37:05] BanchoBot: reshamen joined in slot 5 for team blue.
+[04:37:15] BanchoBot: reshamen changed to Red
+[04:37:22] BanchoBot: Countdown ends in 30 seconds
+[04:37:34] reshamen: fm1
+[04:37:37] BanchoBot: n0tSiyan left the game.
+[04:37:39] BanchoBot: reshamen moved to slot 2
+[04:37:41] BanchoBot: Countdown ends in 10 seconds
+[04:37:43] BCraftMG: !mp map 3472890 0
+[04:37:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3472890 Eclipseed - Hi no Eternal Chain
+[04:37:43] BanchoBot: Changed match mode to Osu
+[04:37:45] BanchoBot: luscajooj joined in slot 5 for team blue.
+[04:37:45] BCraftMG: !mp timer 90
+[04:37:47] BanchoBot: Countdown ends in 5 seconds
+[04:37:47] BanchoBot: Nekoraw left the game.
+[04:37:47] BanchoBot: Countdown aborted
+[04:37:47] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[04:37:51] BanchoBot: luscajooj moved to slot 4
+[04:38:17] BanchoBot: Countdown ends in 1 minute
+[04:38:48] BanchoBot: Countdown ends in 30 seconds
+[04:38:56] BanchoBot: All players are ready
+[04:38:57] BCraftMG: !mp settings
+[04:38:58] BanchoBot: Room name: TFGT: (Overrankers) vs (kuon my beloved), History: https://osu.ppy.sh/mp/103381875
+[04:38:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/3472890 Eclipseed - Hi no Eternal Chain
+[04:38:58] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[04:38:58] BanchoBot: Active mods: Freemod
+[04:38:58] BanchoBot: Players: 4
+[04:38:58] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12139352 NekoPixel201    [Team Red  / NoFail]
+[04:38:58] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17706086 reshamen        [Team Red  / NoFail]
+[04:38:58] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7593935 T-Light         [Team Blue / NoFail]
+[04:38:58] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10956448 luscajooj       [Team Blue / NoFail]
+[04:39:00] BCraftMG: !mp start 10
+[04:39:01] NekoPixel201: glglglglglglglglglglglgl
+[04:39:01] reshamen: glgl
+[04:39:01] BanchoBot: Countdown aborted
+[04:39:01] BanchoBot: Match starts in 10 seconds
+[04:39:01] BanchoBot: Queued the match to start in 10 seconds
+[04:39:03] NekoPixel201: golf
+[04:39:07] BanchoBot: Match starts in 5 seconds
+[04:39:09] BanchoBot: Match starts in 4 seconds
+[04:39:09] BanchoBot: Match starts in 3 seconds
+[04:39:11] BanchoBot: Good luck, have fun!
+[04:39:13] BanchoBot: The match has started!
+[04:39:13] T-Light: golf
+[04:44:21] BanchoBot: reshamen finished playing (Score: 574978, PASSED).
+[04:44:21] BanchoBot: luscajooj finished playing (Score: 489398, PASSED).
+[04:44:21] BanchoBot: T-Light finished playing (Score: 710490, PASSED).
+[04:44:31] BCraftMG: :skull:
+[04:44:35] BCraftMG: NEKO
+[04:44:38] BCraftMG: :PRAYGE:
+[04:44:40] BanchoBot: NekoPixel201 finished playing (Score: 448242, PASSED).
+[04:44:40] BanchoBot: The match has finished!
+[04:44:51] reshamen: gg
+[04:44:56] BCraftMG: Overrankers | 1 - 3 | kuon my beloved // Next Pick: kuon my beloved
+[04:44:58] BCraftMG: buddy
+[04:45:00] BCraftMG: !mp timer 120
+[04:45:02] BCraftMG: not yet
+[04:45:02] BanchoBot: Countdown ends in 2 minutes
+[04:45:04] reshamen: oh
+[04:45:13] BCraftMG: bo7 is first to 4
+[04:45:47] reshamen: i just want this to be over
+[04:46:04] BanchoBot: Countdown ends in 1 minute
+[04:46:17] luscajooj: ;-;
+[04:46:28] reshamen: bruh im too tired to play this game rn
+[04:46:34] BanchoBot: Countdown ends in 30 seconds
+[04:46:36] reshamen: been playing since 12utc
+[04:46:52] BanchoBot: Countdown ends in 10 seconds
+[04:46:55] T-Light: fm9
+[04:46:59] BanchoBot: Countdown ends in 5 seconds
+[04:46:59] BanchoBot: Countdown ends in 4 seconds
+[04:47:00] BanchoBot: Countdown ends in 3 seconds
+[04:47:00] BanchoBot: Countdown ends in 2 seconds
+[04:47:02] BanchoBot: Countdown ends in 1 second
+[04:47:04] BanchoBot: Countdown finished
+[04:47:07] BCraftMG: !mp map 2551514 0
+[04:47:08] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2551514 Leprous - White
+[04:47:08] BanchoBot: Changed match mode to Osu
+[04:47:10] T-Light: let's sleep together
+[04:47:11] BCraftMG: !mp timer 90
+[04:47:13] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[04:47:21] reshamen: :Flushed:
+[04:47:23] reshamen: ok
+[04:47:23] NekoPixel201: :flushed:
+[04:47:25] reshamen: flying over rn
+[04:47:39] reshamen: idk portugues
+[04:47:45] BanchoBot: Countdown ends in 1 minute
+[04:47:47] reshamen: pero tu eras mui bonito
+[04:47:54] NekoPixel201: this song kinda slaps tho
+[04:48:06] NekoPixel201: oui
+[04:48:15] BanchoBot: Countdown ends in 30 seconds
+[04:48:23] BanchoBot: All players are ready
+[04:48:29] BCraftMG: !mp settings
+[04:48:29] BanchoBot: Room name: TFGT: (Overrankers) vs (kuon my beloved), History: https://osu.ppy.sh/mp/103381875
+[04:48:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/2551514 Leprous - White
+[04:48:29] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[04:48:29] BanchoBot: Active mods: Freemod
+[04:48:29] BanchoBot: Players: 4
+[04:48:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12139352 NekoPixel201    [Team Red  / NoFail]
+[04:48:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17706086 reshamen        [Team Red  / NoFail]
+[04:48:29] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7593935 T-Light         [Team Blue / NoFail]
+[04:48:29] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10956448 luscajooj       [Team Blue / NoFail]
+[04:48:31] BCraftMG: !mp start 10
+[04:48:33] reshamen: gl
+[04:48:33] BanchoBot: Countdown aborted
+[04:48:33] BanchoBot: Match starts in 10 seconds
+[04:48:33] BanchoBot: Queued the match to start in 10 seconds
+[04:48:38] NekoPixel201: glglglglglglgl
+[04:48:38] BanchoBot: Match starts in 5 seconds
+[04:48:38] NekoPixel201: golf
+[04:48:40] BanchoBot: Match starts in 4 seconds
+[04:48:40] BanchoBot: Match starts in 3 seconds
+[04:48:42] BanchoBot: Good luck, have fun!
+[04:48:44] BanchoBot: The match has started!
+[04:48:44] T-Light: golf
+[04:48:44] luscajooj: gl
+[04:55:52] BCraftMG: wait how long is the map
+[04:55:59] BanchoBot: NekoPixel201 left the game.
+[04:56:43] BCraftMG: what the truck 11mins
+[05:00:21] BanchoBot: reshamen finished playing (Score: 619280, PASSED).
+[05:00:21] BanchoBot: T-Light finished playing (Score: 545104, PASSED).
+[05:00:23] BanchoBot: luscajooj finished playing (Score: 393891, PASSED).
+[05:00:23] BanchoBot: The match has finished!
+[05:00:36] BCraftMG: so uhh
+[05:00:39] BCraftMG: neko left mid match
+[05:00:40] reshamen: 1 sb
+[05:00:40] reshamen: ;-;
+[05:00:41] BanchoBot: NekoPixel201 joined in slot 1 for team blue.
+[05:00:45] reshamen: im waiting on neo
+[05:00:47] NekoPixel201: I have screenshot
+[05:00:48] reshamen: to join vc
+[05:00:50] BCraftMG: send pls
+[05:00:58] NekoPixel201: will do when discord allows
+[05:01:03] NekoPixel201: it's reloading since my internet completely cut
+[05:02:27] NekoPixel201: I put it on our teamsheet since discord is broken
+[05:02:29] reshamen: neo
+[05:02:31] NekoPixel201: resh can send
+[05:02:49] reshamen: i cant do anything with that
+[05:03:08] reshamen: https://cdn.discordapp.com/attachments/1003422662133022774/1013207039494852738/screenshot838.jpg
+[05:03:17] reshamen: 700k
+[05:03:40] BanchoBot: NekoPixel201 changed to Red
+[05:03:44] BCraftMG: Overrankers | 2 - 3 | kuon my beloved // Next Pick: Overrankers
+[05:03:46] BCraftMG: !mp timer 120
+[05:03:48] BanchoBot: Countdown ends in 2 minutes
+[05:04:39] reshamen: fm8
+[05:04:48] BanchoBot: Countdown ends in 1 minute
+[05:04:56] BCraftMG: !mp map 3005309 0
+[05:04:57] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3005309 Kurokotei - arcanegatewanderer
+[05:04:57] BanchoBot: Changed match mode to Osu
+[05:05:00] BCraftMG: !mp timer 90
+[05:05:01] BanchoBot: Countdown aborted
+[05:05:01] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[05:05:22] BanchoBot: Nekoraw joined in slot 5 for team blue.
+[05:05:24] BanchoBot: luscajooj left the game.
+[05:05:28] BanchoBot: Nekoraw moved to slot 4
+[05:05:31] BanchoBot: Countdown ends in 1 minute
+[05:05:59] BanchoBot: All players are ready
+[05:06:02] BanchoBot: Countdown ends in 30 seconds
+[05:06:10] BCraftMG: !mp settings
+[05:06:11] BanchoBot: Room name: TFGT: (Overrankers) vs (kuon my beloved), History: https://osu.ppy.sh/mp/103381875
+[05:06:11] BanchoBot: Beatmap: https://osu.ppy.sh/b/3005309 Kurokotei - arcanegatewanderer
+[05:06:11] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[05:06:11] BanchoBot: Active mods: Freemod
+[05:06:11] BanchoBot: Players: 4
+[05:06:11] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12139352 NekoPixel201    [Team Red  / NoFail]
+[05:06:11] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17706086 reshamen        [Team Red  / NoFail]
+[05:06:11] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7593935 T-Light         [Team Blue / NoFail]
+[05:06:11] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/4207965 Nekoraw         [Team Blue / NoFail]
+[05:06:14] BCraftMG: !mp start 10
+[05:06:15] BanchoBot: Countdown aborted
+[05:06:15] BanchoBot: Match starts in 10 seconds
+[05:06:15] BanchoBot: Queued the match to start in 10 seconds
+[05:06:18] reshamen: glgl
+[05:06:20] BanchoBot: Match starts in 5 seconds
+[05:06:20] NekoPixel201: I picked up wrong pen for a second
+[05:06:22] BanchoBot: Match starts in 4 seconds
+[05:06:22] NekoPixel201: glgl
+[05:06:22] BanchoBot: Match starts in 3 seconds
+[05:06:24] NekoPixel201: golf
+[05:06:24] BanchoBot: Good luck, have fun!
+[05:06:26] BanchoBot: The match has started!
+[05:13:50] BanchoBot: reshamen finished playing (Score: 940881, PASSED).
+[05:13:52] BanchoBot: Nekoraw finished playing (Score: 386614, PASSED).
+[05:13:54] BanchoBot: T-Light finished playing (Score: 468752, PASSED).
+[05:13:58] BanchoBot: The match has finished!
+[05:13:58] BanchoBot: NekoPixel201 left the game.
+[05:14:04] BCraftMG: bruh
+[05:14:07] BanchoBot: NekoPixel201 joined in slot 1 for team blue.
+[05:14:12] NekoPixel201: loading in with screenshot again
+[05:14:17] BCraftMG: :skull:
+[05:14:22] BCraftMG: buddy you need new internet
+[05:14:37] reshamen: neo
+[05:14:37] reshamen: we won
+[05:14:37] NekoPixel201: I really do
+[05:14:39] reshamen: you dont need it
+[05:14:40] NekoPixel201: oh
+[05:14:42] NekoPixel201: sick
+[05:14:42] reshamen: oh wait
+[05:14:44] reshamen: for staff
+[05:14:44] reshamen: yes
+[05:14:46] BanchoBot: luscajooj joined in slot 5 for team blue.
+[05:14:46] reshamen: we do
+[05:14:47] reshamen: need it
+[05:14:49] BanchoBot: reshamen left the game.
+[05:14:51] T-Light: we got 1v2'd
+[05:14:53] NekoPixel201: yea it's on sheet again
+[05:15:04] BanchoBot: reshamen joined in slot 2 for team red.
+[05:15:14] reshamen: https://cdn.discordapp.com/attachments/1003422662133022774/1013210084677005363/unknown.png
+[05:15:23] BanchoBot: reshamen left the game.
+[05:15:34] BCraftMG: holy i just check mp link
+[05:15:36] BCraftMG: wtf reshamen
+[05:15:57] NekoPixel201: resh is insane
+[05:16:01] NekoPixel201: best player
+[05:16:10] BanchoBot: NekoPixel201 left the game.
+[05:16:16] BCraftMG: well tb time
+[05:16:19] luscajooj: so true
+[05:16:28] BCraftMG: if any of you wants a timeout do tell me
+[05:16:32] BCraftMG: if no
+[05:16:38] BCraftMG: !mp map 3103067 0
+[05:16:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3103067 KEYGEN CHURCH - Bullug Gegbug Ibgabiug Gixcure Dagabciea Fuic
+[05:16:39] BanchoBot: Changed match mode to Osu
+[05:16:41] BCraftMG: !mp timer 90
+[05:16:42] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[05:16:48] BanchoBot: reshamen joined in slot 1 for team blue.
+[05:16:49] BanchoBot: reshamen moved to slot 2
+[05:16:51] BanchoBot: reshamen changed to Red
+[05:16:58] BanchoBot: Nekoraw left the game.
+[05:17:00] BanchoBot: NekoPixel201 joined in slot 1 for team blue.
+[05:17:04] BanchoBot: luscajooj moved to slot 4
+[05:17:07] BanchoBot: NekoPixel201 changed to Red
+[05:17:11] NekoPixel201: welp
+[05:17:12] NekoPixel201: this can only go well
+[05:17:12] BanchoBot: Countdown ends in 1 minute
+[05:17:37] reshamen: this is going to be death
+[05:17:43] BanchoBot: Countdown ends in 30 seconds
+[05:17:43] T-Light: 17min
+[05:17:44] NekoPixel201: yeah this map is haaaard
+[05:17:50] reshamen: bro
+[05:17:52] reshamen: this map is firetrucked
+[05:17:57] reshamen: i looked in editor for 30 seconds
+[05:18:02] BanchoBot: Countdown ends in 10 seconds
+[05:18:08] BanchoBot: Countdown ends in 5 seconds
+[05:18:10] BanchoBot: Countdown ends in 4 seconds
+[05:18:10] BanchoBot: Countdown ends in 3 seconds
+[05:18:11] BanchoBot: Countdown ends in 2 seconds
+[05:18:11] BanchoBot: Countdown ends in 1 second
+[05:18:13] BanchoBot: Countdown finished
+[05:18:15] BanchoBot: All players are ready
+[05:18:17] reshamen: glgl
+[05:18:17] NekoPixel201: ok
+[05:18:19] BCraftMG: !mp settings
+[05:18:21] NekoPixel201: glglglglglglgl
+[05:18:21] luscajooj: glhf
+[05:18:21] NekoPixel201: golf
+[05:18:21] BanchoBot: Room name: TFGT: (Overrankers) vs (kuon my beloved), History: https://osu.ppy.sh/mp/103381875
+[05:18:21] BanchoBot: Beatmap: https://osu.ppy.sh/b/3103067 KEYGEN CHURCH - Bullug Gegbug Ibgabiug Gixcure Dagabciea Fuic
+[05:18:21] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[05:18:21] BanchoBot: Active mods: Freemod
+[05:18:21] BanchoBot: Players: 4
+[05:18:21] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12139352 NekoPixel201    [Team Red  / NoFail]
+[05:18:21] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17706086 reshamen        [Team Red  / NoFail]
+[05:18:21] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7593935 T-Light         [Team Blue / NoFail]
+[05:18:21] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10956448 luscajooj       [Team Blue / NoFail]
+[05:18:24] T-Light: glhf
+[05:18:26] BCraftMG: i will now go to sleep
+[05:18:29] BCraftMG: !mp start 10
+[05:18:29] BanchoBot: Match starts in 10 seconds
+[05:18:29] BanchoBot: Queued the match to start in 10 seconds
+[05:18:35] BanchoBot: Match starts in 5 seconds
+[05:18:36] BanchoBot: Match starts in 4 seconds
+[05:18:36] NekoPixel201: glglglglgl
+[05:18:36] BanchoBot: Match starts in 3 seconds
+[05:18:38] BanchoBot: Good luck, have fun!
+[05:18:38] reshamen: GOOD LUCKKKKKKKKKK
+[05:18:40] BanchoBot: The match has started!
+[05:36:46] BanchoBot: reshamen finished playing (Score: 405692, PASSED).
+[05:36:47] BanchoBot: T-Light finished playing (Score: 347642, PASSED).
+[05:36:47] BanchoBot: luscajooj finished playing (Score: 321255, PASSED).
+[05:36:55] BCraftMG: wait
+[05:36:56] BCraftMG: wait
+[05:36:57] BCraftMG: WAIT
+[05:36:58] BanchoBot: NekoPixel201 finished playing (Score: 409057, PASSED).
+[05:36:58] BanchoBot: The match has finished!
+[05:37:01] reshamen: well its up to neo
+[05:37:08] NekoPixel201: ok so my internet survives THAT
+[05:37:12] reshamen: ok no need
+[05:37:12] NekoPixel201: but it can't handle everything else
+[05:37:14] BCraftMG: Congrats to Overrankers for winning the match! GGWP both teams!
+[05:37:14] reshamen: ggwp
+[05:37:16] BanchoBot: n0tSiyan joined in slot 5 for team blue.
+[05:37:16] reshamen: what a match
+[05:37:19] n0tSiyan: gg
+[05:37:19] NekoPixel201: GGWP
+[05:37:23] NekoPixel201: really close match guys
+[05:37:24] luscajooj: ggwp
+[05:37:26] n0tSiyan: i did nothing
+[05:37:26] n0tSiyan: :Skull:
+[05:37:29] NekoPixel201: thanks for reffing :D
+[05:37:33] NekoPixel201: siyan greatest moral support
+[05:37:35] T-Light: ggwp
+[05:37:40] luscajooj: ty for reff :)
+[05:37:52] T-Light: see you too in 5kwc
+[05:37:56] T-Light: you two*
+[05:37:56] NekoPixel201: give mutuals :D
+[05:37:59] NekoPixel201: hell yeah
+[05:37:59] reshamen: lol
+[05:38:03] NekoPixel201: is it actually happening?
+[05:38:03] reshamen: see you then
+[05:38:05] reshamen: :3
+[05:38:06] reshamen: mutual ye
+[05:38:17] luscajooj: what a match
+[05:38:21] luscajooj: :3
+[05:38:21] T-Light: start of next year probably
+[05:38:24] reshamen: tlight derank for 5wc :)
+[05:38:26] NekoPixel201: pogggg
+[05:38:33] NekoPixel201: 5kwc was hype
+[05:38:35] BCraftMG: Feb 2022
+[05:38:38] NekoPixel201: except we lost to you guys round 1
+[05:38:38] n0tSiyan: ill continue to be moral suppor
+[05:38:40] n0tSiyan: t
+[05:38:40] NekoPixel201: that was less hype
+[05:38:40] n0tSiyan: trolley
+[05:38:54] reshamen: ok gnnn
+[05:38:54] reshamen: ggs
+[05:38:55] reshamen: o//
+[05:38:55] BanchoBot: reshamen left the game.
+[05:39:01] NekoPixel201: o/
+[05:39:01] T-Light: o7
+[05:39:04] NekoPixel201: thanks for playing :D
+[05:39:04] BanchoBot: T-Light left the game.
+[05:39:05] BCraftMG: o/
+[05:39:08] NekoPixel201: sorry for internet issues
+[05:39:09] n0tSiyan: o/
+[05:39:09] NekoPixel201: o/
+[05:39:13] BanchoBot: NekoPixel201 left the game.
+[05:39:13] luscajooj: o/
+[05:39:18] BanchoBot: n0tSiyan left the game.
+[05:39:20] BanchoBot: luscajooj left the game.
+[05:39:30] BCraftMG: !mp close
+[05:39:30] BanchoBot: Closed the match

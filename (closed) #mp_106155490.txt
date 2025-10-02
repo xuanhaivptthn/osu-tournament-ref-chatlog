@@ -1,0 +1,1075 @@
+[20:19:24] Joined #mp_106155490
+[20:19:24] DaddyStage: !mp settings
+[20:19:25] BanchoBot: Room name: MDDC: (thi cuoi ki) vs (cunny), History: https://osu.ppy.sh/mp/106155490
+[20:19:25] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[20:19:25] BanchoBot: Players: 0
+[20:19:31] DaddyStage: !mp addref Hoaq
+[20:19:32] BanchoBot: Added Hoaq to the match referees
+[20:19:56] DaddyStage: !mp set 2 3 10
+[20:19:56] BanchoBot: Changed match settings to 10 slots, TeamVs, ScoreV2
+[20:21:39] Hoaq: !mp settings
+[20:21:39] BanchoBot: Room name: MDDC: (thi cuoi ki) vs (cunny), History: https://osu.ppy.sh/mp/106155490
+[20:21:39] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:21:39] BanchoBot: Players: 0
+[20:23:27] DaddyStage: !mp settings
+[20:23:28] BanchoBot: Room name: MDDC: (thi cuoi ki) vs (cunny), History: https://osu.ppy.sh/mp/106155490
+[20:23:28] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:23:28] BanchoBot: Players: 0
+[20:24:45] DaddyStage: !mp invite #11688228
+[20:24:45] BanchoBot: Invited updraft to the room
+[20:24:49] DaddyStage: !mp invite #4039647
+[20:24:49] BanchoBot: Invited SkyArrow to the room
+[20:27:14] DaddyStage: !mp invite #11688228
+[20:27:17] BanchoBot: Invited updraft to the room
+[20:27:18] DaddyStage: !mp invite #4039647
+[20:27:18] BanchoBot: Invited SkyArrow to the room
+[20:27:28] BanchoBot: SkyArrow joined in slot 1 for team blue.
+[20:27:30] BanchoBot: updraft joined in slot 2 for team red.
+[20:27:34] BanchoBot: updraft moved to slot 5
+[20:27:37] DaddyStage: !mp map 1011144
+[20:27:38] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1011144 Lon - [Yuru Fuwa Jukai Girl]
+[20:27:38] DaddyStage: ua
+[20:27:40] SkyArrow: HELLO FUDI
+[20:27:41] DaddyStage: vao r ha
+[20:27:52] DaddyStage: thi cuoi ki 1-4 red cunny 5-8 blue
+[20:28:07] DaddyStage: !mp host SkyArrow
+[20:28:08] BanchoBot: SkyArrow became the host.
+[20:28:08] BanchoBot: Changed match host to SkyArrow
+[20:28:31] BanchoBot: Miinn_ joined in slot 2 for team red.
+[20:28:39] BanchoBot: JustMango joined in slot 3 for team blue.
+[20:28:39] BanchoBot: SkyArrow moved to slot 6
+[20:28:39] BanchoBot: Miinn_ changed to Blue
+[20:28:42] BanchoBot: Miinn_ moved to slot 7
+[20:28:45] BanchoBot: updraft moved to slot 1
+[20:28:45] BanchoBot: JustMango moved to slot 8
+[20:28:46] BanchoBot: JustMango moved to slot 5
+[20:28:48] SkyArrow: LEN THG FUDI
+[20:28:48] BanchoBot: JustMango moved to slot 8
+[20:28:49] BanchoBot: SkyArrow moved to slot 5
+[20:28:56] BanchoBot: Host is changing map...
+[20:28:59] JustMango: !roll mmb
+[20:28:59] BanchoBot: JustMango rolls 49 point(s)
+[20:29:39] BanchoBot: Beatmap changed to: LA2LY - The Ordeal [Calamity] (https://osu.ppy.sh/b/2485418)
+[20:29:48] BanchoBot: Chipperonio joined in slot 2 for team red.
+[20:29:52] updraft: HELLO MUI TEN BAU TROI HMK OSU SKYARROW DENDYHERE SIDETRACKED DAY GLORY DAYS MOU II KAI NEVO'S RAIN
+[20:29:56] updraft: ASU NO YOZORA SHOUKAIHAN
+[20:29:57] Hoaq: stream có tỉ lệ 95% k load map warmup btw
+[20:30:04] SkyArrow: it ok
+[20:30:07] JustMango: :cunny:
+[20:30:10] Hoaq: VÃI L C4O GỬI MSG CHẬM HƠN CẢ MAP LOAD
+[20:30:12] Hoaq: HOW
+[20:30:19] Chipperonio: t cung ko muon warmup lolz
+[20:30:22] SkyArrow: :D
+[20:30:38] DaddyStage: thua
+[20:30:46] BanchoBot: -pek joined in slot 3 for team blue.
+[20:31:22] BanchoBot: -pek changed to Red
+[20:32:10] DaddyStage: !mp settings
+[20:32:10] BanchoBot: Room name: MDDC: (thi cuoi ki) vs (cunny), History: https://osu.ppy.sh/mp/106155490
+[20:32:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/2485418 LA2LY - The Ordeal [Calamity]
+[20:32:10] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:32:10] BanchoBot: Active mods: Freemod
+[20:32:10] BanchoBot: Players: 6
+[20:32:10] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/11688228 updraft         [Team Red ]
+[20:32:10] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13141032 Chipperonio     [Team Red  / NoFail, Hidden]
+[20:32:10] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11225861 -pek            [Team Red ]
+[20:32:10] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/4039647 SkyArrow        [Host / Team Blue / NoFail]
+[20:32:10] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/12849730 Miinn_          [Team Blue]
+[20:32:10] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/16212851 JustMango       [Team Blue / NoFail]
+[20:32:29] BanchoBot: conquychet123 joined in slot 4 for team red.
+[20:32:58] JustMango: i love kids
+[20:33:04] updraft: we know
+[20:33:16] Miinn_: zamn
+[20:33:18] JustMango: :gasp:
+[20:33:19] Miinn_: shes 12?
+[20:33:25] JustMango: shes 9
+[20:33:27] updraft: miinn cũng 12 kìa justmang
+[20:33:31] SkyArrow: hanairo da quyet dinh warm up o ngoai
+[20:33:33] SkyArrow: dzo
+[20:33:35] Miinn_: AYO
+[20:33:40] JustMango: >~<
+[20:33:47] Miinn_: em chưa 18 nhưng rất gần
+[20:33:55] updraft: ok bay gio m 12
+[20:34:00] Miinn_: firetruck
+[20:34:01] updraft: mai mai tuoi 12
+[20:34:08] Miinn_: close enough
+[20:34:11] updraft: JustMango Miinn_ 12 tuoi kia
+[20:34:14] updraft: (he love kids)
+[20:34:26] JustMango: :hehe:
+[20:34:30] DaddyStage: dzo thoii
+[20:34:34] conquychet123: lego
+[20:34:44] BanchoBot: Miinn_ became the host.
+[20:34:50] BanchoBot: SkyArrow became the host.
+[20:34:59] SkyArrow: dzo nhe
+[20:34:59] DaddyStage: !mp settings
+[20:35:00] BanchoBot: The match has started!
+[20:35:00] BanchoBot: - Hanairo - joined in slot 6 for team red.
+[20:35:00] BanchoBot: Room name: MDDC: (thi cuoi ki) vs (cunny), History: https://osu.ppy.sh/mp/106155490
+[20:35:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/2485418 LA2LY - The Ordeal [Calamity]
+[20:35:00] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:35:00] BanchoBot: Active mods: Freemod
+[20:35:00] BanchoBot: Players: 8
+[20:35:00] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/11688228 updraft         [Team Red  / NoFail]
+[20:35:00] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/13141032 Chipperonio     [Team Red  / NoFail, Hidden]
+[20:35:00] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/11225861 -pek            [Team Red  / NoFail]
+[20:35:00] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/16094871 conquychet123   [Team Red ]
+[20:35:00] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/4039647 SkyArrow        [Host / Team Blue / NoFail]
+[20:35:00] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/12635653 - Hanairo -     [Team Red ]
+[20:35:00] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/12849730 Miinn_          [Team Blue]
+[20:35:00] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/16212851 JustMango       [Team Blue / NoFail, HardRock]
+[20:35:50] DaddyStage: Hoaq hanairo ko choi
+[20:36:59] BanchoBot: Chipperonio finished playing (Score: 35052, PASSED).
+[20:36:59] BanchoBot: SkyArrow finished playing (Score: 251339, PASSED).
+[20:37:00] BanchoBot: -pek finished playing (Score: 81002, PASSED).
+[20:37:00] BanchoBot: conquychet123 finished playing (Score: 244245, PASSED).
+[20:37:00] BanchoBot: updraft finished playing (Score: 184905, PASSED).
+[20:37:00] BanchoBot: JustMango finished playing (Score: 30072, PASSED).
+[20:37:01] BanchoBot: Miinn_ finished playing (Score: 35421, PASSED).
+[20:37:01] BanchoBot: The match has finished!
+[20:37:16] BanchoBot: - Hanairo - changed to Blue
+[20:37:17] BanchoBot: updraft became the host.
+[20:37:25] updraft: skip warmup
+[20:37:31] DaddyStage: !mp clearhost
+[20:37:31] BanchoBot: Cleared match host
+[20:37:41] DaddyStage: !roll ti me
+[20:37:42] BanchoBot: DaddyStage rolls 60 point(s)
+[20:37:48] conquychet123: vai
+[20:37:48] -pek: lul
+[20:37:52] conquychet123: uoc 60
+[20:37:56] SkyArrow: uoc
+[20:37:56] conquychet123: nvm
+[20:38:00] Hoaq: harumachi where
+[20:38:07] DaddyStage: !mp map 3895683
+[20:38:08] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3895683 rN - Harumachi Elevator
+[20:38:24] updraft: !roll % skyarrow bi kawa can' tren cao toc
+[20:38:24] BanchoBot: updraft rolls 66 point(s)
+[20:38:27] updraft: damn
+[20:38:30] updraft: 2/3
+[20:38:35] updraft: ok lan nay toi roll that ne
+[20:38:37] SkyArrow: !roll fudi mua fursuit
+[20:38:37] BanchoBot: SkyArrow rolls 20 point(s)
+[20:38:38] updraft: !roll
+[20:38:38] BanchoBot: updraft rolls 30 point(s)
+[20:38:40] SkyArrow: man
+[20:38:44] Hoaq: ok
+[20:38:46] JustMango: vai lon
+[20:38:49] conquychet123: !troll
+[20:38:56] DaddyStage: thi cuoi ki	thu tu pick/ban
+[20:39:03] -_Hanairo_-: !troll
+[20:39:12] updraft: pick truoc
+[20:39:19] DaddyStage: cunny thu tu ban
+[20:39:32] SkyArrow: ban trc
+[20:39:36] updraft: !roll % skyarrow la fudi
+[20:39:36] BanchoBot: updraft rolls 88 point(s)
+[20:39:39] updraft: Zamn
+[20:39:50] -pek: dayum
+[20:39:52] DaddyStage: hom nay khong funny nua
+[20:39:54] updraft: !roll % toi la fudi
+[20:39:54] BanchoBot: updraft rolls 88 point(s)
+[20:39:57] DaddyStage: Bo13 2 ban ABAB
+[20:39:58] updraft: loz tke
+[20:39:58] DaddyStage: Blue ban
+[20:40:00] DaddyStage: !mp timer 90
+[20:40:00] updraft: ??????????????????????
+[20:40:00] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:40:01] conquychet123: !roll 1000
+[20:40:01] BanchoBot: conquychet123 rolls 483 point(s)
+[20:40:05] SkyArrow: :)))))))))))
+[20:40:08] JustMango: 88%
+[20:40:12] SkyArrow: dme thg fudi
+[20:40:12] JustMango: thua
+[20:40:18] JustMango: !roll 1000
+[20:40:18] BanchoBot: JustMango rolls 736 point(s)
+[20:40:24] -_Hanairo_-: !roll 1000
+[20:40:24] BanchoBot: - Hanairo - rolls 693 point(s)
+[20:40:31] BanchoBot: Countdown ends in 1 minute
+[20:40:34] conquychet123: !roll 123
+[20:40:34] BanchoBot: conquychet123 rolls 65 point(s)
+[20:40:34] updraft: !roll % skyarrow bi kawa run over tren cao toc
+[20:40:34] BanchoBot: updraft rolls 79 point(s)
+[20:40:37] SkyArrow: nm2
+[20:40:39] -_Hanairo_-: !roll 1000
+[20:40:39] BanchoBot: - Hanairo - rolls 52 point(s)
+[20:40:42] DaddyStage: Red ban
+[20:40:44] DaddyStage: !mp timer 90
+[20:40:45] BanchoBot: Countdown aborted
+[20:40:45] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:41:03] updraft: hd2
+[20:41:09] Miinn_: D:
+[20:41:12] Miinn_: sao thế anh
+[20:41:16] BanchoBot: Countdown ends in 1 minute
+[20:41:27] DaddyStage: cunny ban
+[20:41:27] DaddyStage: !mp timer 90
+[20:41:28] Miinn_: sao năm nay em ăn tết ngon đc anh
+[20:41:29] BanchoBot: Countdown aborted
+[20:41:29] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:41:32] SkyArrow: hr3
+[20:41:40] DaddyStage: cuoi ki ban
+[20:41:40] DaddyStage: !mp timer 120
+[20:41:41] DaddyStage: !mp timer 90
+[20:41:42] BanchoBot: Countdown aborted
+[20:41:42] BanchoBot: Countdown ends in 2 minutes
+[20:41:43] BanchoBot: Countdown aborted
+[20:41:43] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:42:13] BanchoBot: Countdown ends in 1 minute
+[20:42:18] updraft: !roll phan tram miinn truot chan truot chan nga
+[20:42:18] BanchoBot: updraft rolls 15 point(s)
+[20:42:22] updraft: damn
+[20:42:30] Miinn_: O_O
+[20:42:43] BanchoBot: Countdown ends in 30 seconds
+[20:42:45] JustMango: !roll 1000
+[20:42:45] BanchoBot: JustMango rolls 590 point(s)
+[20:42:48] updraft: hd3
+[20:42:59] Chipperonio: dau double ban dc :skull;
+[20:43:02] Chipperonio: cap cua toiiii
+[20:43:03] BanchoBot: Countdown ends in 10 seconds
+[20:43:05] DaddyStage: ai cho double ban z
+[20:43:08] updraft: ban thu xem duoc khong
+[20:43:09] BanchoBot: Countdown ends in 5 seconds
+[20:43:09] updraft: nm6
+[20:43:10] BanchoBot: Countdown ends in 4 seconds
+[20:43:10] Chipperonio: nm6
+[20:43:11] BanchoBot: Countdown ends in 3 seconds
+[20:43:11] updraft: ok ban nm6
+[20:43:11] BanchoBot: Countdown ends in 2 seconds
+[20:43:12] SkyArrow: m double ban
+[20:43:13] BanchoBot: Countdown ends in 1 second
+[20:43:13] BanchoBot: Countdown finished
+[20:43:20] updraft: em biet
+[20:43:20] SkyArrow: vai loz
+[20:43:22] updraft: em chi ban thu thoi
+[20:43:22] DaddyStage: thi cuoi ki | 0 - 0 | cunny // First Pick: thi cuoi ki
+[20:43:24] DaddyStage: !mp timer 90
+[20:43:24] SkyArrow: t dua
+[20:43:24] updraft: thu long ref
+[20:43:24] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:43:27] SkyArrow: ben day co ai choi nm6 dau
+[20:43:30] DaddyStage: CHEE
+[20:43:33] SkyArrow: sadlkfjaslkdfjlkn
+[20:43:35] DaddyStage: chê
+[20:43:37] updraft: nhung ma team em choi nm6 hay qua
+[20:43:38] DaddyStage: ref pro
+[20:43:39] updraft: nen phai ban
+[20:43:45] SkyArrow: OK
+[20:43:47] SkyArrow: OK FUDI
+[20:43:48] updraft: OK
+[20:43:49] -pek: HOAC NGUOC LAI
+[20:43:55] BanchoBot: Countdown ends in 1 minute
+[20:43:58] updraft: !roll odds skyarrow a furry
+[20:43:58] BanchoBot: updraft rolls 85 point(s)
+[20:43:58] JustMango: bjp
+[20:44:04] SkyArrow: no wei
+[20:44:15] updraft: fm3
+[20:44:18] SkyArrow: co sale fursuit noi t nha e
+[20:44:22] DaddyStage: !mp map 3093177 0
+[20:44:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3093177 Umeboshi Chazuke - ICHIBANBOSHI*ROCKET
+[20:44:23] BanchoBot: Changed match mode to Osu
+[20:44:25] BanchoBot: Countdown ends in 30 seconds
+[20:44:25] updraft: ok
+[20:44:25] SkyArrow: t mua hoa fudi luon
+[20:44:26] DaddyStage: !mp mods Freemod
+[20:44:27] BanchoBot: Disabled all mods, enabled FreeMod
+[20:44:28] DaddyStage: !mp timer 90
+[20:44:28] BanchoBot: Countdown aborted
+[20:44:28] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:44:59] BanchoBot: Countdown ends in 1 minute
+[20:45:03] Hoaq: lẹ coi ae ăn hết 7 cái bánh xèo chưa vào map 1 nữa
+[20:45:14] updraft: !roll % skyarrow bi xe o to can
+[20:45:14] BanchoBot: updraft rolls 2 point(s)
+[20:45:16] conquychet123: bánh sèll
+[20:45:27] updraft: whitedoable
+[20:45:28] updraft: !!!!!!!!!!!!
+[20:45:30] BanchoBot: Countdown ends in 30 seconds
+[20:45:43] Chipperonio: HFHF
+[20:45:46] SkyArrow: golfer
+[20:45:47] Miinn_: golf
+[20:45:48] JustMango: glhf
+[20:45:50] BanchoBot: Countdown ends in 10 seconds
+[20:45:50] -_Hanairo_-: !roll % conquysech fc cai nay
+[20:45:50] BanchoBot: - Hanairo - rolls 21 point(s)
+[20:45:54] BanchoBot: Countdown ends in 5 seconds
+[20:45:55] BanchoBot: Countdown ends in 4 seconds
+[20:45:56] BanchoBot: Countdown ends in 3 seconds
+[20:45:56] BanchoBot: Countdown ends in 2 seconds
+[20:45:57] DaddyStage: !mp settings
+[20:45:57] BanchoBot: All players are ready
+[20:45:58] BanchoBot: Countdown ends in 1 second
+[20:45:58] BanchoBot: Countdown finished
+[20:45:58] BanchoBot: Room name: MDDC: (thi cuoi ki) vs (cunny), History: https://osu.ppy.sh/mp/106155490
+[20:45:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/3093177 Umeboshi Chazuke - ICHIBANBOSHI*ROCKET
+[20:45:58] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:45:58] BanchoBot: Active mods: Freemod
+[20:45:58] BanchoBot: Players: 8
+[20:45:58] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11688228 updraft         [Team Red  / NoFail, HardRock]
+[20:45:58] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13141032 Chipperonio     [Team Red  / NoFail]
+[20:45:58] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11225861 -pek            [Team Red  / NoFail, Hidden]
+[20:45:58] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16094871 conquychet123   [Team Red  / NoFail]
+[20:45:58] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        [Team Blue / NoFail]
+[20:45:58] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12635653 - Hanairo -     [Team Blue / NoFail]
+[20:45:58] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/12849730 Miinn_          [Team Blue / NoFail, Hidden]
+[20:45:58] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/16212851 JustMango       [Team Blue / NoFail, HardRock]
+[20:45:59] updraft: grrr
+[20:45:59] conquychet123: no
+[20:46:00] conquychet123: :sadge
+[20:46:02] JustMango: fm3 warmup map
+[20:46:02] SkyArrow: grrr
+[20:46:02] updraft: grhlff
+[20:46:04] DaddyStage: !mp start 5 glhf
+[20:46:05] BanchoBot: Match starts in 5 seconds
+[20:46:05] BanchoBot: Queued the match to start in 5 seconds
+[20:46:06] BanchoBot: Match starts in 4 seconds
+[20:46:07] BanchoBot: Match starts in 3 seconds
+[20:46:08] BanchoBot: Good luck, have fun!
+[20:46:10] BanchoBot: The match has started!
+[20:48:33] BanchoBot: Miinn_ finished playing (Score: 204606, PASSED).
+[20:48:34] BanchoBot: -pek finished playing (Score: 170157, PASSED).
+[20:48:34] BanchoBot: conquychet123 finished playing (Score: 617244, PASSED).
+[20:48:35] BanchoBot: SkyArrow finished playing (Score: 577926, PASSED).
+[20:48:35] BanchoBot: JustMango finished playing (Score: 213375, PASSED).
+[20:48:35] BanchoBot: updraft finished playing (Score: 737265, PASSED).
+[20:48:35] BanchoBot: - Hanairo - finished playing (Score: 101969, PASSED).
+[20:48:36] BanchoBot: Chipperonio finished playing (Score: 396156, PASSED).
+[20:48:36] BanchoBot: The match has finished!
+[20:48:46] DaddyStage: thi cuoi ki | 1 - 0 | cunny // Next Pick: cunny
+[20:48:47] DaddyStage: !mp timer 90
+[20:48:47] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:49:07] SkyArrow: hd1
+[20:49:09] -_Hanairo_-: double tap cung bam ko noi
+[20:49:11] -_Hanairo_-: qua ac wy
+[20:49:18] BanchoBot: Countdown ends in 1 minute
+[20:49:44] Hoaq: !mp map 2314669 0
+[20:49:44] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2314669 BUTAOTOME - Gensou no Satellite
+[20:49:44] BanchoBot: Changed match mode to Osu
+[20:49:47] Hoaq: !mp mods 9
+[20:49:47] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[20:49:48] BanchoBot: Countdown ends in 30 seconds
+[20:50:00] Hoaq: !mp timer 90
+[20:50:00] BanchoBot: Countdown aborted
+[20:50:00] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:50:31] BanchoBot: Countdown ends in 1 minute
+[20:51:00] BanchoBot: Countdown ends in 30 seconds
+[20:51:08] BanchoBot: All players are ready
+[20:51:20] Hoaq: !mp settings
+[20:51:20] BanchoBot: Room name: MDDC: (thi cuoi ki) vs (cunny), History: https://osu.ppy.sh/mp/106155490
+[20:51:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/2314669 BUTAOTOME - Gensou no Satellite
+[20:51:20] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:51:20] BanchoBot: Active mods: NoFail, Hidden
+[20:51:20] BanchoBot: Players: 8
+[20:51:20] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11688228 updraft         [Team Red ]
+[20:51:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13141032 Chipperonio     [Team Red ]
+[20:51:20] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11225861 -pek            [Team Red ]
+[20:51:20] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16094871 conquychet123   [Team Red ]
+[20:51:20] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        [Team Blue]
+[20:51:20] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12635653 - Hanairo -     [Team Blue]
+[20:51:20] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/12849730 Miinn_          [Team Blue]
+[20:51:20] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/16212851 JustMango       [Team Blue]
+[20:51:20] BanchoBot: Countdown ends in 10 seconds
+[20:51:26] BanchoBot: Countdown ends in 5 seconds
+[20:51:27] BanchoBot: Countdown ends in 4 seconds
+[20:51:28] BanchoBot: Countdown ends in 3 seconds
+[20:51:28] Hoaq: ref chữ D chết đâu r
+[20:51:29] BanchoBot: Countdown ends in 2 seconds
+[20:51:30] BanchoBot: Countdown ends in 1 second
+[20:51:31] BanchoBot: Countdown finished
+[20:51:33] Hoaq: !mp start 7 GLHF!
+[20:51:33] BanchoBot: Match starts in 7 seconds
+[20:51:33] BanchoBot: Queued the match to start in 7 seconds
+[20:51:36] BanchoBot: Match starts in 5 seconds
+[20:51:36] BanchoBot: Match starts in 4 seconds
+[20:51:37] BanchoBot: Match starts in 3 seconds
+[20:51:39] BanchoBot: Good luck, have fun!
+[20:51:41] Chipperonio: de t ref cho
+[20:51:41] BanchoBot: The match has started!
+[20:51:43] Chipperonio: :tf:
+[20:51:43] updraft: glhf
+[20:51:59] -_Hanairo_-: ua bat dau chua
+[20:52:08] -_Hanairo_-: rip
+[20:52:13] Hoaq: nữa à
+[20:52:18] Hoaq: ae còn lại vào chưa
+[20:52:20] JustMango: ua bat dau chua the
+[20:52:27] Hoaq: !mp abort
+[20:52:27] BanchoBot: Aborted the match
+[20:52:28] -_Hanairo_-: nhu tren
+[20:52:30] updraft: chua vao dc
+[20:52:35] Hoaq: agane
+[20:53:00] Hoaq: !mp settings
+[20:53:00] BanchoBot: Room name: MDDC: (thi cuoi ki) vs (cunny), History: https://osu.ppy.sh/mp/106155490
+[20:53:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/2314669 BUTAOTOME - Gensou no Satellite
+[20:53:00] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:53:00] BanchoBot: Active mods: NoFail, Hidden
+[20:53:00] BanchoBot: Players: 8
+[20:53:00] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11688228 updraft         [Team Red ]
+[20:53:00] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13141032 Chipperonio     [Team Red ]
+[20:53:00] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/11225861 -pek            [Team Red ]
+[20:53:00] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16094871 conquychet123   [Team Red ]
+[20:53:00] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/4039647 SkyArrow        [Team Blue]
+[20:53:00] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12635653 - Hanairo -     [Team Blue]
+[20:53:00] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/12849730 Miinn_          [Team Blue]
+[20:53:00] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/16212851 JustMango       [Team Blue]
+[20:53:07] SkyArrow: ai da bi bat coc
+[20:53:12] -_Hanairo_-: toi
+[20:53:13] -_Hanairo_-: la toi
+[20:53:17] BanchoBot: All players are ready
+[20:53:22] Hoaq: !mp settings
+[20:53:22] BanchoBot: Room name: MDDC: (thi cuoi ki) vs (cunny), History: https://osu.ppy.sh/mp/106155490
+[20:53:22] BanchoBot: Beatmap: https://osu.ppy.sh/b/2314669 BUTAOTOME - Gensou no Satellite
+[20:53:22] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:53:22] BanchoBot: Active mods: NoFail, Hidden
+[20:53:22] BanchoBot: Players: 8
+[20:53:22] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11688228 updraft         [Team Red ]
+[20:53:22] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13141032 Chipperonio     [Team Red ]
+[20:53:22] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11225861 -pek            [Team Red ]
+[20:53:22] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16094871 conquychet123   [Team Red ]
+[20:53:22] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        [Team Blue]
+[20:53:22] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12635653 - Hanairo -     [Team Blue]
+[20:53:22] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/12849730 Miinn_          [Team Blue]
+[20:53:22] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/16212851 JustMango       [Team Blue]
+[20:53:23] updraft: bi bat coc xong van la toi duoc
+[20:53:30] Hoaq: !mp start 7 GLHF!
+[20:53:30] BanchoBot: Match starts in 7 seconds
+[20:53:30] BanchoBot: Queued the match to start in 7 seconds
+[20:53:32] BanchoBot: Match starts in 5 seconds
+[20:53:32] BanchoBot: Match starts in 4 seconds
+[20:53:33] BanchoBot: Match starts in 3 seconds
+[20:53:34] BanchoBot: Good luck, have fun!
+[20:53:37] BanchoBot: The match has started!
+[20:55:43] BanchoBot: conquychet123 finished playing (Score: 369272, PASSED).
+[20:55:43] BanchoBot: Chipperonio finished playing (Score: 225525, PASSED).
+[20:55:43] BanchoBot: JustMango finished playing (Score: 241469, PASSED).
+[20:55:43] BanchoBot: - Hanairo - finished playing (Score: 101090, PASSED).
+[20:55:43] BanchoBot: -pek finished playing (Score: 191166, PASSED).
+[20:55:44] BanchoBot: updraft finished playing (Score: 599755, PASSED).
+[20:55:44] BanchoBot: Miinn_ finished playing (Score: 501031, PASSED).
+[20:55:45] BanchoBot: SkyArrow finished playing (Score: 446276, PASSED).
+[20:55:45] BanchoBot: The match has finished!
+[20:56:01] SkyArrow: no wei
+[20:56:04] Hoaq: thi cuoi ki | 2 - 0 | cunny // Next Pick: thi cuoi ki
+[20:56:04] Hoaq: !mp timer 90
+[20:56:04] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:56:16] updraft: gap ngay fudi
+[20:56:25] -_Hanairo_-: fudi 500k hd
+[20:56:25] Hoaq: 88% fudi có khác
+[20:56:27] Hoaq: cx manh
+[20:56:33] Miinn_: zamn
+[20:56:35] BanchoBot: Countdown ends in 1 minute
+[20:56:56] updraft: DT2
+[20:57:04] BanchoBot: Countdown ends in 30 seconds
+[20:57:08] Hoaq: !mp mods 65
+[20:57:08] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[20:57:11] Hoaq: !mp map 2624225 0
+[20:57:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2624225 Endorfin. - Raindrop Caffe Latte
+[20:57:11] BanchoBot: Changed match mode to Osu
+[20:57:13] Hoaq: !mp timer 90
+[20:57:13] BanchoBot: Countdown aborted
+[20:57:13] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:57:37] JustMango: dm ghn
+[20:57:46] BanchoBot: Countdown ends in 1 minute
+[20:58:05] updraft: GIAO HANG NHANH
+[20:58:07] updraft: RIU
+[20:58:14] BanchoBot: Countdown ends in 30 seconds
+[20:58:24] JustMango: ghn chuyen den noi ship
+[20:58:32] JustMango: xong lai chuyen nguoc ve diem trung chuyen
+[20:58:33] BanchoBot: Countdown ends in 10 seconds
+[20:58:37] BanchoBot: All players are ready
+[20:58:38] BanchoBot: Countdown ends in 5 seconds
+[20:58:39] BanchoBot: Countdown ends in 4 seconds
+[20:58:41] BanchoBot: Countdown ends in 3 seconds
+[20:58:41] BanchoBot: Countdown ends in 2 seconds
+[20:58:43] BanchoBot: Countdown ends in 1 second
+[20:58:43] Hoaq: !mp settings
+[20:58:43] BanchoBot: Room name: MDDC: (thi cuoi ki) vs (cunny), History: https://osu.ppy.sh/mp/106155490
+[20:58:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/2624225 Endorfin. - Raindrop Caffe Latte
+[20:58:43] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:58:43] BanchoBot: Active mods: NoFail, DoubleTime
+[20:58:43] BanchoBot: Players: 8
+[20:58:43] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11688228 updraft         [Team Red ]
+[20:58:43] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13141032 Chipperonio     [Team Red ]
+[20:58:43] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11225861 -pek            [Team Red ]
+[20:58:43] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16094871 conquychet123   [Team Red ]
+[20:58:43] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        [Team Blue]
+[20:58:43] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12635653 - Hanairo -     [Team Blue]
+[20:58:43] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/12849730 Miinn_          [Team Blue]
+[20:58:43] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/16212851 JustMango       [Team Blue]
+[20:58:44] BanchoBot: Countdown finished
+[20:58:46] Hoaq: !mp start 7 GLHF!
+[20:58:46] BanchoBot: Match starts in 7 seconds
+[20:58:46] BanchoBot: Queued the match to start in 7 seconds
+[20:58:48] BanchoBot: Match starts in 5 seconds
+[20:58:49] BanchoBot: Match starts in 4 seconds
+[20:58:50] BanchoBot: Match starts in 3 seconds
+[20:58:51] BanchoBot: Good luck, have fun!
+[20:58:54] BanchoBot: The match has started!
+[20:58:57] Chipperonio: HFHF
+[21:00:57] BanchoBot: JustMango finished playing (Score: 182783, PASSED).
+[21:00:57] BanchoBot: SkyArrow finished playing (Score: 471345, PASSED).
+[21:00:58] BanchoBot: -pek finished playing (Score: 129870, PASSED).
+[21:00:58] BanchoBot: - Hanairo - finished playing (Score: 113849, PASSED).
+[21:00:58] BanchoBot: conquychet123 finished playing (Score: 835188, PASSED).
+[21:00:58] BanchoBot: updraft finished playing (Score: 927478, PASSED).
+[21:01:01] BanchoBot: Miinn_ finished playing (Score: 115132, PASSED).
+[21:01:13] BanchoBot: Chipperonio finished playing (Score: 252990, PASSED).
+[21:01:13] BanchoBot: The match has finished!
+[21:01:13] Hoaq: thi cuoi ki | 3 - 0 | cunny // Next Pick: cunny
+[21:01:21] Hoaq: !mp timer 90
+[21:01:21] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:01:52] BanchoBot: Countdown ends in 1 minute
+[21:02:11] DaddyStage: :wokege:
+[21:02:21] BanchoBot: Countdown ends in 30 seconds
+[21:02:41] BanchoBot: Countdown ends in 10 seconds
+[21:02:47] BanchoBot: Countdown ends in 5 seconds
+[21:02:47] BanchoBot: Countdown ends in 4 seconds
+[21:02:48] BanchoBot: Countdown ends in 3 seconds
+[21:02:50] BanchoBot: Countdown ends in 2 seconds
+[21:02:50] BanchoBot: Countdown ends in 1 second
+[21:02:51] BanchoBot: Countdown finished
+[21:02:54] Hoaq: o7
+[21:02:57] DaddyStage: helo
+[21:03:01] BanchoBot: updraft left the game.
+[21:03:04] DaddyStage: rip
+[21:03:11] Hoaq: ủa rồi sao đi nốt z alo
+[21:03:18] Chipperonio: LOL
+[21:03:19] Hoaq: pick cho thi cuối kì nhé
+[21:03:21] Hoaq: timeout r
+[21:03:35] Hoaq: sau cái này pick tiếp bthg
+[21:03:44] Hoaq: !mp timer 60
+[21:03:44] BanchoBot: Countdown ends in 1 minute
+[21:03:48] Chipperonio: ben kiamuon pick gi
+[21:03:50] Chipperonio: @skyarrow
+[21:03:55] BanchoBot: updraft joined in slot 1 for team blue.
+[21:04:03] SkyArrow: toi pick r ae
+[21:04:03] SkyArrow: fm1
+[21:04:03] SkyArrow: wut
+[21:04:03] SkyArrow: fm
+[21:04:03] SkyArrow: fm1
+[21:04:03] SkyArrow: ????????????
+[21:04:08] -_Hanairo_-: skyarrow ded
+[21:04:08] Hoaq: nice bancho
+[21:04:11] updraft: skyarrow lag
+[21:04:13] SkyArrow: fm1
+[21:04:13] -_Hanairo_-: mang 4 chu
+[21:04:13] Hoaq: sau báo team nhắn giùm cho lmao
+[21:04:13] SkyArrow: ????????????????????????
+[21:04:14] DaddyStage: !mp map 3933188 0
+[21:04:14] BanchoBot: Countdown ends in 30 seconds
+[21:04:14] Miinn_: damn
+[21:04:16] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3933188 bbno$ & Rich Brian - edamame
+[21:04:16] BanchoBot: Changed match mode to Osu
+[21:04:18] DaddyStage: !mp mods Freemod
+[21:04:19] Chipperonio: ua vay sau pick nay la ai pick
+[21:04:19] BanchoBot: Disabled all mods, enabled FreeMod
+[21:04:20] DaddyStage: bancho moment
+[21:04:23] Chipperonio: Nvm lolz
+[21:04:26] SkyArrow: dme mang loz
+[21:04:33] Hoaq: https://safe.myouri.cyou/WyJNoIGI.png
+[21:04:35] BanchoBot: Countdown ends in 10 seconds
+[21:04:39] BanchoBot: Countdown ends in 5 seconds
+[21:04:39] Hoaq: như này là mém bay màu luôn
+[21:04:40] BanchoBot: Countdown ends in 4 seconds
+[21:04:40] Hoaq: !mp timer 90
+[21:04:40] BanchoBot: Countdown aborted
+[21:04:40] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:05:11] BanchoBot: Countdown ends in 1 minute
+[21:05:13] BanchoBot: updraft changed to Red
+[21:05:40] BanchoBot: Countdown ends in 30 seconds
+[21:05:43] Chipperonio: hfhf
+[21:05:46] BanchoBot: JustMango left the game.
+[21:05:47] updraft: glhf
+[21:05:48] SkyArrow: vl gio den xoai bay cmnr
+[21:05:51] SkyArrow: de inv lai
+[21:05:54] Hoaq: =)))))))))))))))
+[21:06:01] BanchoBot: Countdown ends in 10 seconds
+[21:06:02] -_Hanairo_-: mang / 10
+[21:06:05] conquychet123: vai xoai
+[21:06:05] BanchoBot: Countdown ends in 5 seconds
+[21:06:06] BanchoBot: JustMango joined in slot 8 for team red.
+[21:06:06] BanchoBot: Countdown ends in 4 seconds
+[21:06:07] BanchoBot: Countdown ends in 3 seconds
+[21:06:08] BanchoBot: Countdown ends in 2 seconds
+[21:06:09] BanchoBot: Countdown ends in 1 second
+[21:06:10] JustMango: cam on viettel
+[21:06:10] BanchoBot: Countdown finished
+[21:06:16] DaddyStage: là ai ăn cáp mạng
+[21:06:17] SkyArrow: cam on viettel
+[21:06:17] DaddyStage: !mp settings
+[21:06:18] BanchoBot: Room name: MDDC: (thi cuoi ki) vs (cunny), History: https://osu.ppy.sh/mp/106155490
+[21:06:18] BanchoBot: Beatmap: https://osu.ppy.sh/b/3933188 bbno$ & Rich Brian - edamame
+[21:06:18] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:06:18] BanchoBot: Active mods: Freemod
+[21:06:18] BanchoBot: Players: 8
+[21:06:18] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11688228 updraft         [Team Red  / NoFail, HardRock]
+[21:06:18] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13141032 Chipperonio     [Team Red  / NoFail]
+[21:06:18] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11225861 -pek            [Team Red  / NoFail, Hidden]
+[21:06:18] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16094871 conquychet123   [Team Red  / NoFail]
+[21:06:18] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/4039647 SkyArrow        [Team Blue / NoFail]
+[21:06:18] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/12635653 - Hanairo -     [Team Blue / NoFail]
+[21:06:18] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/12849730 Miinn_          [Team Blue / NoFail, Hidden]
+[21:06:18] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/16212851 JustMango       [Team Red  / NoFail, HardRock]
+[21:06:19] BanchoBot: JustMango changed to Blue
+[21:06:21] Hoaq: me
+[21:06:22] updraft: la toi
+[21:06:24] DaddyStage: !mp settings
+[21:06:25] BanchoBot: Room name: MDDC: (thi cuoi ki) vs (cunny), History: https://osu.ppy.sh/mp/106155490
+[21:06:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/3933188 bbno$ & Rich Brian - edamame
+[21:06:25] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:06:25] BanchoBot: Active mods: Freemod
+[21:06:25] BanchoBot: Players: 8
+[21:06:25] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/11688228 updraft         [Team Red  / NoFail, HardRock]
+[21:06:25] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13141032 Chipperonio     [Team Red  / NoFail]
+[21:06:25] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11225861 -pek            [Team Red  / NoFail, Hidden]
+[21:06:25] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16094871 conquychet123   [Team Red  / NoFail]
+[21:06:25] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        [Team Blue / NoFail]
+[21:06:25] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12635653 - Hanairo -     [Team Blue / NoFail]
+[21:06:25] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/12849730 Miinn_          [Team Blue / NoFail, Hidden]
+[21:06:25] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/16212851 JustMango       [Team Blue / NoFail, HardRock]
+[21:06:31] updraft: toi da gam cap mang nha mango
+[21:06:32] -pek: fpt lover
+[21:06:34] updraft: vao luc 4am
+[21:06:38] JustMango: vl
+[21:06:38] DaddyStage: ew fpt
+[21:06:42] conquychet123: sctv lúc này bili:
+[21:06:45] -pek: hjhj
+[21:06:45] JustMango: anh co biet cho toi giau dau
+[21:06:45] updraft: gio ong chi con 1 soi fiber thoi
+[21:06:45] Chipperonio: dung la furry
+[21:06:47] JustMango: :troll:
+[21:06:52] DaddyStage: helo updraft ready pliz
+[21:06:53] updraft: ong can than day
+[21:06:56] BanchoBot: All players are ready
+[21:06:57] DaddyStage: !mp settings
+[21:06:59] updraft: ok sorry
+[21:06:59] BanchoBot: Room name: MDDC: (thi cuoi ki) vs (cunny), History: https://osu.ppy.sh/mp/106155490
+[21:06:59] BanchoBot: Beatmap: https://osu.ppy.sh/b/3933188 bbno$ & Rich Brian - edamame
+[21:06:59] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:06:59] BanchoBot: Active mods: Freemod
+[21:06:59] BanchoBot: Players: 8
+[21:06:59] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11688228 updraft         [Team Red  / NoFail, HardRock]
+[21:06:59] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13141032 Chipperonio     [Team Red  / NoFail]
+[21:06:59] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11225861 -pek            [Team Red  / NoFail, Hidden]
+[21:06:59] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16094871 conquychet123   [Team Red  / NoFail]
+[21:06:59] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        [Team Blue / NoFail]
+[21:06:59] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12635653 - Hanairo -     [Team Blue / NoFail]
+[21:06:59] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/12849730 Miinn_          [Team Blue / NoFail, Hidden]
+[21:06:59] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/16212851 JustMango       [Team Blue / NoFail, HardRock]
+[21:06:59] updraft: toi quen
+[21:07:00] DaddyStage: !mp start 5 glhf
+[21:07:00] BanchoBot: Match starts in 5 seconds
+[21:07:00] BanchoBot: Queued the match to start in 5 seconds
+[21:07:02] BanchoBot: Match starts in 4 seconds
+[21:07:02] BanchoBot: Match starts in 3 seconds
+[21:07:03] BanchoBot: Good luck, have fun!
+[21:07:05] BanchoBot: The match has started!
+[21:09:25] BanchoBot: conquychet123 finished playing (Score: 267696, PASSED).
+[21:09:25] BanchoBot: updraft finished playing (Score: 589937, PASSED).
+[21:09:25] BanchoBot: SkyArrow finished playing (Score: 582393, PASSED).
+[21:09:25] BanchoBot: - Hanairo - finished playing (Score: 265901, PASSED).
+[21:09:25] BanchoBot: Chipperonio finished playing (Score: 286200, PASSED).
+[21:09:25] BanchoBot: -pek finished playing (Score: 145642, PASSED).
+[21:09:26] BanchoBot: Miinn_ finished playing (Score: 767036, PASSED).
+[21:09:26] BanchoBot: JustMango finished playing (Score: 469515, PASSED).
+[21:09:26] BanchoBot: The match has finished!
+[21:09:37] DaddyStage: thi cuoi ki | 3 - 1 | cunny // Next Pick: thi cuoi ki
+[21:09:39] DaddyStage: !mp timer 90
+[21:09:39] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:09:48] BanchoBot: Chipperonio left the game.
+[21:10:09] JustMango: skyarrow 99 acc wtf
+[21:10:10] BanchoBot: Countdown ends in 1 minute
+[21:10:14] updraft: me too
+[21:10:21] DaddyStage: xếp hàng điểm danh
+[21:10:27] DaddyStage: ai mạng bịp
+[21:10:29] SkyArrow: da co
+[21:10:32] JustMango: 96 bjp
+[21:10:38] updraft: dza
+[21:10:39] BanchoBot: Chipperonio joined in slot 2 for team red.
+[21:10:39] BanchoBot: Countdown ends in 30 seconds
+[21:10:45] updraft: NM5 368238
+[21:10:52] DaddyStage: !mp mods 1
+[21:10:52] -_Hanairo_-: lai spid
+[21:10:52] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:10:53] -_Hanairo_-: why
+[21:10:55] DaddyStage: !mp map 368238 0
+[21:10:55] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/368238 goreshit - looming shadow of a tree long gone
+[21:10:55] BanchoBot: Changed match mode to Osu
+[21:10:57] DaddyStage: !mp timer 90
+[21:10:58] BanchoBot: Countdown aborted
+[21:10:58] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:11:02] updraft: team 2 ngon
+[21:11:29] BanchoBot: Countdown ends in 1 minute
+[21:11:33] DaddyStage: 4 chan moi chan 5 ngon
+[21:11:40] DaddyStage: 20 ngon
+[21:11:44] updraft: yas
+[21:11:59] BanchoBot: Countdown ends in 30 seconds
+[21:12:18] BanchoBot: Countdown ends in 10 seconds
+[21:12:23] BanchoBot: Countdown ends in 5 seconds
+[21:12:24] BanchoBot: Countdown ends in 4 seconds
+[21:12:25] BanchoBot: Countdown ends in 3 seconds
+[21:12:26] BanchoBot: Countdown ends in 2 seconds
+[21:12:27] BanchoBot: Countdown ends in 1 second
+[21:12:27] BanchoBot: All players are ready
+[21:12:29] BanchoBot: Countdown finished
+[21:12:30] DaddyStage: !mp settings
+[21:12:31] BanchoBot: Room name: MDDC: (thi cuoi ki) vs (cunny), History: https://osu.ppy.sh/mp/106155490
+[21:12:31] BanchoBot: Beatmap: https://osu.ppy.sh/b/368238 goreshit - looming shadow of a tree long gone
+[21:12:31] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:12:31] BanchoBot: Active mods: NoFail
+[21:12:31] BanchoBot: Players: 8
+[21:12:31] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11688228 updraft         [Team Red ]
+[21:12:31] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13141032 Chipperonio     [Team Red ]
+[21:12:31] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11225861 -pek            [Team Red ]
+[21:12:31] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16094871 conquychet123   [Team Red ]
+[21:12:31] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        [Team Blue]
+[21:12:31] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12635653 - Hanairo -     [Team Blue]
+[21:12:31] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/12849730 Miinn_          [Team Blue]
+[21:12:31] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/16212851 JustMango       [Team Blue]
+[21:12:33] conquychet123: gyze
+[21:12:33] DaddyStage: !mp start 5 glhf
+[21:12:34] BanchoBot: Match starts in 5 seconds
+[21:12:34] BanchoBot: Queued the match to start in 5 seconds
+[21:12:35] conquychet123: legog
+[21:12:35] BanchoBot: Match starts in 4 seconds
+[21:12:36] BanchoBot: Match starts in 3 seconds
+[21:12:37] BanchoBot: Good luck, have fun!
+[21:12:39] BanchoBot: The match has started!
+[21:12:40] updraft: glhfff
+[21:16:04] BanchoBot: - Hanairo - finished playing (Score: 36911, PASSED).
+[21:16:04] BanchoBot: conquychet123 finished playing (Score: 351793, PASSED).
+[21:16:04] BanchoBot: -pek finished playing (Score: 98898, PASSED).
+[21:16:05] BanchoBot: SkyArrow finished playing (Score: 578113, PASSED).
+[21:16:05] BanchoBot: JustMango finished playing (Score: 163518, PASSED).
+[21:16:05] BanchoBot: updraft finished playing (Score: 360760, PASSED).
+[21:16:05] BanchoBot: Chipperonio finished playing (Score: 289273, PASSED).
+[21:16:07] BanchoBot: Miinn_ finished playing (Score: 90973, PASSED).
+[21:16:07] BanchoBot: The match has finished!
+[21:16:12] DaddyStage: thi cuoi ki | 4 - 1 | cunny // Next Pick: cunny
+[21:16:16] DaddyStage: !mp timer 90
+[21:16:16] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:16:41] updraft: skiarrow crazi
+[21:16:45] DaddyStage: :copium:
+[21:16:48] BanchoBot: Countdown ends in 1 minute
+[21:16:48] -_Hanairo_-: het spid chua vay
+[21:16:48] -_Hanairo_-: toi
+[21:16:51] -_Hanairo_-: tram cam qua
+[21:17:06] Miinn_: my hands
+[21:17:07] SkyArrow: fm2
+[21:17:15] DaddyStage: double pick
+[21:17:17] BanchoBot: Countdown ends in 30 seconds
+[21:17:36] BanchoBot: Countdown ends in 10 seconds
+[21:17:39] SkyArrow: oh shit
+[21:17:42] BanchoBot: Countdown ends in 5 seconds
+[21:17:43] SkyArrow: nm1
+[21:17:43] BanchoBot: Countdown ends in 4 seconds
+[21:17:44] BanchoBot: Countdown ends in 3 seconds
+[21:17:45] BanchoBot: Countdown ends in 2 seconds
+[21:17:46] BanchoBot: Countdown ends in 1 second
+[21:17:47] BanchoBot: Countdown finished
+[21:17:50] DaddyStage: !mp map 2608381 0
+[21:17:50] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2608381 PassCode - Ray
+[21:17:50] BanchoBot: Changed match mode to Osu
+[21:17:52] DaddyStage: !mp mods 1
+[21:17:53] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:17:53] DaddyStage: !mp timer 90
+[21:17:54] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:17:57] -_Hanairo_-: troi oi anh oi
+[21:17:57] SkyArrow: dme dung noi mang 6 chu momento
+[21:18:24] BanchoBot: Countdown ends in 1 minute
+[21:18:54] BanchoBot: Countdown ends in 30 seconds
+[21:19:15] BanchoBot: Countdown ends in 10 seconds
+[21:19:18] BanchoBot: All players are ready
+[21:19:19] BanchoBot: Countdown ends in 5 seconds
+[21:19:20] SkyArrow: fudi bi bat coc r
+[21:19:20] BanchoBot: Countdown ends in 4 seconds
+[21:19:21] BanchoBot: Countdown ends in 3 seconds
+[21:19:22] BanchoBot: Countdown ends in 2 seconds
+[21:19:23] BanchoBot: Countdown ends in 1 second
+[21:19:23] DaddyStage: !mp settings
+[21:19:25] BanchoBot: Countdown finished
+[21:19:25] BanchoBot: Room name: MDDC: (thi cuoi ki) vs (cunny), History: https://osu.ppy.sh/mp/106155490
+[21:19:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/2608381 PassCode - Ray
+[21:19:25] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:19:25] BanchoBot: Active mods: NoFail
+[21:19:25] BanchoBot: Players: 8
+[21:19:25] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11688228 updraft         [Team Red ]
+[21:19:25] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13141032 Chipperonio     [Team Red ]
+[21:19:25] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11225861 -pek            [Team Red ]
+[21:19:25] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16094871 conquychet123   [Team Red ]
+[21:19:25] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        [Team Blue]
+[21:19:25] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12635653 - Hanairo -     [Team Blue]
+[21:19:25] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/12849730 Miinn_          [Team Blue]
+[21:19:25] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/16212851 JustMango       [Team Blue]
+[21:19:26] DaddyStage: !mp start 5 glhf
+[21:19:28] BanchoBot: Match starts in 5 seconds
+[21:19:28] BanchoBot: Queued the match to start in 5 seconds
+[21:19:29] BanchoBot: Match starts in 4 seconds
+[21:19:30] Chipperonio: hfhf
+[21:19:30] BanchoBot: Match starts in 3 seconds
+[21:19:31] BanchoBot: Good luck, have fun!
+[21:19:33] BanchoBot: The match has started!
+[21:19:34] SkyArrow: golfer
+[21:23:24] BanchoBot: Miinn_ finished playing (Score: 983957, PASSED).
+[21:23:24] BanchoBot: Chipperonio finished playing (Score: 422039, PASSED).
+[21:23:24] BanchoBot: JustMango finished playing (Score: 340826, PASSED).
+[21:23:24] BanchoBot: conquychet123 finished playing (Score: 304865, PASSED).
+[21:23:24] BanchoBot: updraft finished playing (Score: 583727, PASSED).
+[21:23:24] BanchoBot: SkyArrow finished playing (Score: 790667, PASSED).
+[21:23:24] BanchoBot: - Hanairo - finished playing (Score: 231051, PASSED).
+[21:23:24] BanchoBot: -pek finished playing (Score: 231704, PASSED).
+[21:23:24] BanchoBot: The match has finished!
+[21:23:29] DaddyStage: thi cuoi ki | 4 - 2 | cunny // Next Pick: thi cuoi ki
+[21:23:34] DaddyStage: !mp timer 90
+[21:23:35] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:23:40] DaddyStage: nice fc
+[21:23:45] -pek: nice fc
+[21:23:54] DaddyStage: he farming in tournament
+[21:24:05] BanchoBot: Countdown ends in 1 minute
+[21:24:08] -_Hanairo_-: !pp
+[21:24:32] DaddyStage: 412pp
+[21:24:35] BanchoBot: Countdown ends in 30 seconds
+[21:24:45] Miinn_: zqamn
+[21:24:47] Miinn_: i farming
+[21:24:52] Miinn_: thank u
+[21:24:56] BanchoBot: Countdown ends in 10 seconds
+[21:25:00] BanchoBot: Countdown ends in 5 seconds
+[21:25:00] Chipperonio: hr2
+[21:25:01] updraft: 2197185 HR2
+[21:25:01] BanchoBot: Countdown ends in 4 seconds
+[21:25:02] BanchoBot: Countdown ends in 3 seconds
+[21:25:03] BanchoBot: Countdown ends in 2 seconds
+[21:25:05] BanchoBot: Countdown ends in 1 second
+[21:25:05] BanchoBot: Countdown finished
+[21:25:10] DaddyStage: !mp map 2197185 0
+[21:25:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2197185 Junk - elegante
+[21:25:11] BanchoBot: Changed match mode to Osu
+[21:25:12] DaddyStage: !mp mods 17
+[21:25:12] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[21:25:17] DaddyStage: !mp timer 90
+[21:25:18] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:25:49] BanchoBot: Countdown ends in 1 minute
+[21:26:10] BanchoBot: All players are ready
+[21:26:15] DaddyStage: !mp settings
+[21:26:17] BanchoBot: Room name: MDDC: (thi cuoi ki) vs (cunny), History: https://osu.ppy.sh/mp/106155490
+[21:26:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/2197185 Junk - elegante
+[21:26:17] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:26:17] BanchoBot: Active mods: NoFail, HardRock
+[21:26:17] BanchoBot: Players: 8
+[21:26:17] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11688228 updraft         [Team Red ]
+[21:26:17] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13141032 Chipperonio     [Team Red ]
+[21:26:17] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11225861 -pek            [Team Red ]
+[21:26:17] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16094871 conquychet123   [Team Red ]
+[21:26:17] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        [Team Blue]
+[21:26:17] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12635653 - Hanairo -     [Team Blue]
+[21:26:17] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/12849730 Miinn_          [Team Blue]
+[21:26:17] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/16212851 JustMango       [Team Blue]
+[21:26:19] BanchoBot: Countdown ends in 30 seconds
+[21:26:23] updraft: glhff
+[21:26:23] DaddyStage: gn
+[21:26:23] DaddyStage: !mp start 5 glhf
+[21:26:25] BanchoBot: Countdown aborted
+[21:26:25] BanchoBot: Match starts in 5 seconds
+[21:26:25] BanchoBot: Queued the match to start in 5 seconds
+[21:26:26] BanchoBot: Match starts in 4 seconds
+[21:26:28] BanchoBot: Match starts in 3 seconds
+[21:26:29] -pek: GL
+[21:26:29] BanchoBot: Good luck, have fun!
+[21:26:31] SkyArrow: gn
+[21:26:31] BanchoBot: The match has started!
+[21:26:32] -_Hanairo_-: good night
+[21:26:35] Hoaq: gm
+[21:28:37] BanchoBot: - Hanairo - finished playing (Score: 91241, PASSED).
+[21:28:37] BanchoBot: -pek finished playing (Score: 219637, PASSED).
+[21:28:37] BanchoBot: Miinn_ finished playing (Score: 298470, PASSED).
+[21:28:37] BanchoBot: updraft finished playing (Score: 328891, PASSED).
+[21:28:38] BanchoBot: SkyArrow finished playing (Score: 484461, PASSED).
+[21:28:38] BanchoBot: Chipperonio finished playing (Score: 199042, PASSED).
+[21:28:38] BanchoBot: conquychet123 finished playing (Score: 372998, PASSED).
+[21:28:38] BanchoBot: JustMango finished playing (Score: 187866, PASSED).
+[21:28:38] BanchoBot: The match has finished!
+[21:28:45] DaddyStage: thi cuoi ki | 5 - 2 | cunny // Next Pick: cunny
+[21:28:47] DaddyStage: !mp timer 90
+[21:28:48] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:29:19] BanchoBot: Countdown ends in 1 minute
+[21:29:19] Miinn_: gm
+[21:29:29] DaddyStage: wakey wakey
+[21:29:33] SkyArrow: fm2
+[21:29:34] DaddyStage: its time for school
+[21:29:34] updraft: hello hanairo co choi league khong
+[21:29:42] DaddyStage: !mp map 3299402 0
+[21:29:43] -_Hanairo_-: choi league
+[21:29:44] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3299402 REDALiCE - Taboo tears you up 2017
+[21:29:44] BanchoBot: Changed match mode to Osu
+[21:29:44] DaddyStage: !mp mods Freemod
+[21:29:45] BanchoBot: Disabled all mods, enabled FreeMod
+[21:29:47] DaddyStage: !mp timer 90
+[21:29:48] BanchoBot: Countdown ends in 30 seconds
+[21:29:48] BanchoBot: Countdown aborted
+[21:29:48] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:29:52] SkyArrow: LEAGUE MY BALLZ
+[21:29:56] SkyArrow: IM DI FUDI
+[21:30:01] updraft: damn
+[21:30:03] updraft: em con chua noi gi
+[21:30:05] updraft: !!!!!!!!!
+[21:30:10] SkyArrow: !!!!!!!!!!!!
+[21:30:18] BanchoBot: Countdown ends in 1 minute
+[21:30:32] DaddyStage: banana
+[21:30:34] JustMango: doi ti familly issue
+[21:30:49] BanchoBot: Countdown ends in 30 seconds
+[21:30:52] JustMango: ok im back
+[21:31:09] BanchoBot: Countdown ends in 10 seconds
+[21:31:13] BanchoBot: Countdown ends in 5 seconds
+[21:31:14] BanchoBot: Countdown ends in 4 seconds
+[21:31:16] BanchoBot: Countdown ends in 3 seconds
+[21:31:16] BanchoBot: Countdown ends in 2 seconds
+[21:31:17] BanchoBot: Countdown ends in 1 second
+[21:31:19] BanchoBot: Countdown finished
+[21:31:19] DaddyStage: !mp settings
+[21:31:20] BanchoBot: Room name: MDDC: (thi cuoi ki) vs (cunny), History: https://osu.ppy.sh/mp/106155490
+[21:31:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/3299402 REDALiCE - Taboo tears you up 2017
+[21:31:20] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:31:20] BanchoBot: Active mods: Freemod
+[21:31:20] BanchoBot: Players: 8
+[21:31:20] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/11688228 updraft         [Team Red  / NoFail, HardRock]
+[21:31:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13141032 Chipperonio     [Team Red  / NoFail, HardRock]
+[21:31:20] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11225861 -pek            [Team Red  / NoFail, Hidden]
+[21:31:20] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16094871 conquychet123   [Team Red  / NoFail, HardRock]
+[21:31:20] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/4039647 SkyArrow        [Team Blue / NoFail, Hidden, HardRock]
+[21:31:20] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12635653 - Hanairo -     [Team Blue / NoFail, HardRock]
+[21:31:20] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/12849730 Miinn_          [Team Blue / NoFail, Hidden]
+[21:31:20] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/16212851 JustMango       [Team Blue / NoFail, Hidden, HardRock]
+[21:31:24] BanchoBot: All players are ready
+[21:31:28] DaddyStage: !mp settings
+[21:31:29] BanchoBot: Room name: MDDC: (thi cuoi ki) vs (cunny), History: https://osu.ppy.sh/mp/106155490
+[21:31:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/3299402 REDALiCE - Taboo tears you up 2017
+[21:31:29] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:31:29] BanchoBot: Active mods: Freemod
+[21:31:29] BanchoBot: Players: 8
+[21:31:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11688228 updraft         [Team Red  / NoFail, HardRock]
+[21:31:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13141032 Chipperonio     [Team Red  / NoFail, HardRock]
+[21:31:29] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11225861 -pek            [Team Red  / NoFail, Hidden]
+[21:31:29] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16094871 conquychet123   [Team Red  / NoFail, HardRock]
+[21:31:29] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        [Team Blue / NoFail, Hidden, HardRock]
+[21:31:29] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12635653 - Hanairo -     [Team Blue / NoFail, HardRock]
+[21:31:29] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/12849730 Miinn_          [Team Blue / NoFail, Hidden]
+[21:31:29] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/16212851 JustMango       [Team Blue / NoFail, Hidden, HardRock]
+[21:31:31] -pek: 30k score
+[21:31:31] -pek: SOS
+[21:31:31] DaddyStage: holy
+[21:31:32] DaddyStage: !mp start 5 glhf
+[21:31:33] updraft: glhf
+[21:31:33] BanchoBot: Match starts in 5 seconds
+[21:31:33] BanchoBot: Queued the match to start in 5 seconds
+[21:31:34] BanchoBot: Match starts in 4 seconds
+[21:31:35] BanchoBot: Match starts in 3 seconds
+[21:31:36] BanchoBot: Good luck, have fun!
+[21:31:38] BanchoBot: The match has started!
+[21:34:57] BanchoBot: -pek finished playing (Score: 36586, PASSED).
+[21:34:57] BanchoBot: SkyArrow finished playing (Score: 482522, PASSED).
+[21:34:57] BanchoBot: Chipperonio finished playing (Score: 276000, PASSED).
+[21:34:57] BanchoBot: conquychet123 finished playing (Score: 325833, PASSED).
+[21:34:57] BanchoBot: updraft finished playing (Score: 645978, PASSED).
+[21:34:57] BanchoBot: JustMango finished playing (Score: 316807, PASSED).
+[21:35:00] BanchoBot: - Hanairo - finished playing (Score: 139387, PASSED).
+[21:35:00] BanchoBot: Miinn_ finished playing (Score: 218746, PASSED).
+[21:35:00] BanchoBot: The match has finished!
+[21:35:06] DaddyStage: thi cuoi ki | 6 - 2 | cunny // Next Pick: thi cuoi ki
+[21:35:12] DaddyStage: !mp timer 90
+[21:35:13] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:35:28] Chipperonio: osuHOW
+[21:35:31] Miinn_: chấm hỏi
+[21:35:38] Miinn_: tui trolling
+[21:35:43] SkyArrow: toi cbi dc len giuong di ngu r ae
+[21:35:43] BanchoBot: Countdown ends in 1 minute
+[21:35:46] -pek: OSU HOW?
+[21:35:51] JustMango: sap di ngu ae
+[21:35:59] -_Hanairo_-: sap di ngu ae
+[21:36:13] BanchoBot: Countdown ends in 30 seconds
+[21:36:23] DaddyStage: chung ta co the pick nghe nhac :okayge:
+[21:36:34] BanchoBot: Countdown ends in 10 seconds
+[21:36:35] SkyArrow: o7
+[21:36:36] updraft: 3333111 dt1
+[21:36:38] Chipperonio: dt1
+[21:36:38] BanchoBot: Countdown ends in 5 seconds
+[21:36:40] BanchoBot: Countdown ends in 4 seconds
+[21:36:41] BanchoBot: Countdown ends in 3 seconds
+[21:36:42] BanchoBot: Countdown ends in 2 seconds
+[21:36:43] BanchoBot: Countdown ends in 1 second
+[21:36:44] BanchoBot: Countdown finished
+[21:36:44] DaddyStage: !mp map 3333111 0
+[21:36:45] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3333111 ShinRa-Bansho - Sanyousei SAY YA!!!
+[21:36:45] BanchoBot: Changed match mode to Osu
+[21:36:47] DaddyStage: !mp mods 65
+[21:36:49] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:36:49] DaddyStage: !mp timer 90
+[21:36:50] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:36:53] -_Hanairo_-: ggwp
+[21:36:56] Miinn_: gg
+[21:37:05] DaddyStage: where hidden three
+[21:37:19] SkyArrow: hok thik
+[21:37:19] Chipperonio: never
+[21:37:21] BanchoBot: Countdown ends in 1 minute
+[21:37:22] JustMango: bye guys
+[21:37:27] JustMango: o7
+[21:37:29] BanchoBot: All players are ready
+[21:37:31] DaddyStage: !mp settings
+[21:37:32] BanchoBot: Room name: MDDC: (thi cuoi ki) vs (cunny), History: https://osu.ppy.sh/mp/106155490
+[21:37:32] BanchoBot: Beatmap: https://osu.ppy.sh/b/3333111 ShinRa-Bansho - Sanyousei SAY YA!!!
+[21:37:32] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:37:32] BanchoBot: Active mods: NoFail, DoubleTime
+[21:37:32] BanchoBot: Players: 8
+[21:37:32] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11688228 updraft         [Team Red ]
+[21:37:32] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13141032 Chipperonio     [Team Red ]
+[21:37:32] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11225861 -pek            [Team Red ]
+[21:37:32] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16094871 conquychet123   [Team Red ]
+[21:37:32] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        [Team Blue]
+[21:37:32] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12635653 - Hanairo -     [Team Blue]
+[21:37:32] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/12849730 Miinn_          [Team Blue]
+[21:37:32] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/16212851 JustMango       [Team Blue]
+[21:37:33] -_Hanairo_-: tam biet mddc
+[21:37:33] -pek: glgl
+[21:37:34] updraft: banded
+[21:37:36] DaddyStage: !mp start 5 glhf
+[21:37:36] BanchoBot: Countdown aborted
+[21:37:36] BanchoBot: Match starts in 5 seconds
+[21:37:36] BanchoBot: Queued the match to start in 5 seconds
+[21:37:37] BanchoBot: Match starts in 4 seconds
+[21:37:39] BanchoBot: Match starts in 3 seconds
+[21:37:40] BanchoBot: Good luck, have fun!
+[21:37:41] Chipperonio: inb4
+[21:37:42] BanchoBot: The match has started!
+[21:37:44] updraft: glhf
+[21:40:38] BanchoBot: Miinn_ finished playing (Score: 135516, PASSED).
+[21:40:38] BanchoBot: Chipperonio finished playing (Score: 376220, PASSED).
+[21:40:38] BanchoBot: -pek finished playing (Score: 449738, PASSED).
+[21:40:39] BanchoBot: - Hanairo - finished playing (Score: 212541, PASSED).
+[21:40:39] BanchoBot: JustMango finished playing (Score: 597551, PASSED).
+[21:40:39] BanchoBot: conquychet123 finished playing (Score: 664545, PASSED).
+[21:40:41] BanchoBot: SkyArrow finished playing (Score: 942718, PASSED).
+[21:40:41] BanchoBot: updraft finished playing (Score: 1136668, PASSED).
+[21:40:41] BanchoBot: The match has finished!
+[21:40:44] DaddyStage: Congrats to thi cuoi ki for winning this match! Goodnight both teams!
+[21:40:49] SkyArrow: gg gyze
+[21:40:51] SkyArrow: wpwp
+[21:40:55] updraft: ggwp
+[21:40:55] Chipperonio: ggwp!!!
+[21:40:58] JustMango: ggwp
+[21:41:08] -_Hanairo_-: ggwp
+[21:41:09] BanchoBot: - Hanairo - left the game.
+[21:41:10] SkyArrow: cam on vi da ref
+[21:41:11] Chipperonio: thx for ref <3
+[21:41:11] Miinn_: gggggggg
+[21:41:13] BanchoBot: Chipperonio left the game.
+[21:41:14] updraft: ty for reffing
+[21:41:14] updraft: hihfudshjafk
+[21:41:15] Miinn_: ty ref <3
+[21:41:15] BanchoBot: updraft left the game.
+[21:41:16] JustMango: thanks for ref :3
+[21:41:19] Miinn_: ^-^
+[21:41:19] conquychet123: ggwp
+[21:41:20] BanchoBot: SkyArrow left the game.
+[21:41:21] BanchoBot: Miinn_ left the game.
+[21:41:21] conquychet123: tks4ref
+[21:41:22] BanchoBot: JustMango left the game.
+[21:41:42] BanchoBot: conquychet123 left the game.
+[21:41:44] DaddyStage: !mp map 3951578
+[21:41:45] BanchoBot: -pek left the game.
+[21:41:45] -pek: ggs
+[21:41:45] -pek: thx for ref , thx for played<3
+[21:41:45] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3951578 kamome sano - lovesick feat. punipunidenki
+[21:42:53] DaddyStage: !mp close
+[21:42:54] BanchoBot: Closed the match

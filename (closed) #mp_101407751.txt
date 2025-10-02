@@ -1,0 +1,640 @@
+[20:47:08] Joined #mp_101407751
+[20:47:08] BCraftMG: !mp settings
+[20:47:08] BanchoBot: Room name: STT3: (Q44) vs (Qualifiers), History: https://osu.ppy.sh/mp/101407751
+[20:47:08] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[20:47:08] BanchoBot: Players: 0
+[20:47:47] BCraftMG: !mp set 0 3 15
+[20:47:49] BanchoBot: Changed match settings to 15 slots, HeadToHead, ScoreV2
+[20:47:53] BCraftMG: !mp map 3044298 0
+[20:47:54] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3044298 CHiCO with HoneyWorks - Kessen Spirit
+[20:47:54] BanchoBot: Changed match mode to Osu
+[20:47:55] BCraftMG: !mp mods 1
+[20:47:56] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:50:40] BCraftMG: !mp invite #9379821
+[20:50:40] BanchoBot: Invited Foxy to the room
+[20:50:43] BCraftMG: !mp invite #16858397
+[20:50:44] BanchoBot: User not found
+[20:51:02] BCraftMG: !mp invite #19641527
+[20:51:03] BanchoBot: Invited Amber397 to the room
+[20:51:07] BCraftMG: !mp invite #10565596
+[20:51:09] BanchoBot: Invited kondziej_ to the room
+[20:51:12] BCraftMG: !mp invite #14951633
+[20:51:13] BanchoBot: Invited LouisD to the room
+[20:51:16] BanchoBot: kondziej_ joined in slot 1.
+[20:51:18] kondziej_: yo
+[20:51:28] BCraftMG: !mp invite #10543853
+[20:51:29] BanchoBot: Invited rYnE_FA to the room
+[20:51:31] BanchoBot: LouisD joined in slot 2.
+[20:52:17] BanchoBot: rYnE_FA joined in slot 3.
+[20:52:30] BanchoBot: Amber397 joined in slot 4.
+[20:52:39] BanchoBot: Durrr_Meuble joined in slot 5.
+[20:52:44] BanchoBot: SnaxRL joined in slot 6.
+[20:52:54] Durrr_Meuble: o/
+[20:53:27] BCraftMG: o/
+[20:53:29] BanchoBot: Riddlerfiction joined in slot 7.
+[20:53:57] BanchoBot: Amber397 left the game.
+[20:54:04] BanchoBot: LouisD left the game.
+[20:54:06] SnaxRL: o/
+[20:54:21] BanchoBot: shadevr joined in slot 2.
+[20:54:32] BanchoBot: Amber397 joined in slot 4.
+[20:54:40] BCraftMG: :peepostare:
+[20:54:48] BanchoBot: Osu Prop joined in slot 8.
+[20:55:21] BanchoBot: Riddlerfiction moved to slot 15
+[20:55:23] BanchoBot: Osu Prop moved to slot 7
+[20:55:59] BCraftMG: !mp invite #9379821
+[20:55:59] BanchoBot: Invited Foxy to the room
+[20:56:04] BanchoBot: Foxy joined in slot 8.
+[20:56:13] kondziej_: hi Foxy :)
+[20:56:30] Osu_Prop: o/
+[20:56:30] BanchoBot: LouisD joined in slot 9.
+[20:56:32] BanchoBot: ScautTheGamer joined in slot 10.
+[20:56:49] BanchoBot: Period joined in slot 11.
+[20:56:52] BanchoBot: Period moved to slot 14
+[20:57:02] BCraftMG: theres enough team in here
+[20:57:07] BanchoBot: Foahcha joined in slot 11.
+[20:57:10] BCraftMG: so
+[20:57:14] BCraftMG: !mp timer 120
+[20:57:14] BanchoBot: OcklePod joined in slot 12.
+[20:57:15] BanchoBot: Countdown ends in 2 minutes
+[20:57:17] BanchoBot: LouisD left the game.
+[20:57:20] BanchoBot: -mira joined in slot 9.
+[20:57:27] Foxy: oh hey there
+[20:57:32] ScautTheGamer: o/
+[20:57:36] Riddlerfiction: hi foxy & ockle o/
+[20:57:41] OcklePod: hi
+[20:57:44] Durrr_Meuble: hello
+[20:57:46] Foxy: aye riddler
+[20:57:50] BanchoBot: Loazo joined in slot 13.
+[20:57:54] BanchoBot: -mira left the game.
+[20:57:55] BanchoBot: TilerXk joined in slot 9.
+[20:57:57] BanchoBot: kondziej_ left the game.
+[20:58:00] BanchoBot: TilerXk moved to slot 1
+[20:58:03] BanchoBot: _Hachikun_ joined in slot 9.
+[20:58:04] BanchoBot: Amber397 left the game.
+[20:58:06] BanchoBot: Osu Prop moved to slot 4
+[20:58:09] BanchoBot: D3adEye joined in slot 7.
+[20:58:17] BanchoBot: Countdown ends in 1 minute
+[20:58:18] BanchoBot: D3adEye left the game.
+[20:58:27] BanchoBot: LewusekX44 joined in slot 7.
+[20:58:46] BanchoBot: Countdown ends in 30 seconds
+[20:59:06] BanchoBot: Countdown ends in 10 seconds
+[20:59:11] BanchoBot: Countdown ends in 5 seconds
+[20:59:12] BanchoBot: Countdown ends in 4 seconds
+[20:59:13] BanchoBot: Countdown ends in 3 seconds
+[20:59:15] BanchoBot: Countdown ends in 2 seconds
+[20:59:16] BanchoBot: Countdown ends in 1 second
+[20:59:16] BanchoBot: Countdown finished
+[20:59:18] TilerXk: gl
+[20:59:20] Durrr_Meuble: gllll
+[20:59:23] ScautTheGamer: glhf
+[20:59:23] BCraftMG: !mp settings
+[20:59:24] Foahcha: gl
+[20:59:24] BanchoBot: All players are ready
+[20:59:24] BanchoBot: Room name: STT3: (Q44) vs (Qualifiers), History: https://osu.ppy.sh/mp/101407751
+[20:59:24] BanchoBot: Beatmap: https://osu.ppy.sh/b/3044298 CHiCO with HoneyWorks - Kessen Spirit
+[20:59:24] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:59:24] BanchoBot: Active mods: NoFail
+[20:59:24] BanchoBot: Players: 15
+[20:59:24] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11142471 TilerXk         
+[20:59:24] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8165685 shadevr         
+[20:59:24] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10543853 rYnE_FA         
+[20:59:24] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11934951 Osu Prop        
+[20:59:24] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/15872196 Durrr_Meuble    
+[20:59:24] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/19568517 SnaxRL          
+[20:59:24] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/9997359 LewusekX44      
+[20:59:24] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/9379821 Foxy            
+[20:59:24] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/14463439 _Hachikun_      
+[20:59:24] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/10398422 ScautTheGamer   
+[20:59:24] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/7990049 Foahcha         
+[20:59:24] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/7094393 OcklePod        
+[20:59:24] BanchoBot: Slot 13 Ready     https://osu.ppy.sh/u/3925586 Loazo           
+[20:59:24] BanchoBot: Slot 14 Ready     https://osu.ppy.sh/u/2916205 Period          
+[20:59:24] BanchoBot: Slot 15 Ready     https://osu.ppy.sh/u/7067142 Riddlerfiction  
+[20:59:27] SnaxRL: hfhfhf
+[20:59:27] Riddlerfiction: glglhfhf!!
+[20:59:27] BCraftMG: !mp start 10
+[20:59:28] OcklePod: glhf
+[20:59:28] BanchoBot: Match starts in 10 seconds
+[20:59:28] BanchoBot: Queued the match to start in 10 seconds
+[20:59:33] _Hachikun_: glgl
+[20:59:34] Foxy: Glhf~
+[20:59:34] Loazo: gl
+[20:59:34] BanchoBot: Match starts in 5 seconds
+[20:59:35] BanchoBot: Match starts in 4 seconds
+[20:59:35] BanchoBot: Match starts in 3 seconds
+[20:59:36] BanchoBot: Good luck, have fun!
+[20:59:39] BanchoBot: The match has started!
+[20:59:39] Durrr_Meuble: glhf!
+[21:04:16] BanchoBot: Osu Prop finished playing (Score: 528615, PASSED).
+[21:04:16] BanchoBot: rYnE_FA finished playing (Score: 555337, PASSED).
+[21:04:16] BanchoBot: Foahcha finished playing (Score: 960593, PASSED).
+[21:04:16] BanchoBot: _Hachikun_ finished playing (Score: 397755, PASSED).
+[21:04:16] BanchoBot: OcklePod finished playing (Score: 462185, PASSED).
+[21:04:16] BanchoBot: LewusekX44 finished playing (Score: 365526, PASSED).
+[21:04:18] BanchoBot: shadevr finished playing (Score: 200125, PASSED).
+[21:04:18] BanchoBot: Foxy finished playing (Score: 432827, PASSED).
+[21:04:18] BanchoBot: Loazo finished playing (Score: 902151, PASSED).
+[21:04:18] BanchoBot: TilerXk finished playing (Score: 685186, PASSED).
+[21:04:18] BanchoBot: SnaxRL finished playing (Score: 331306, PASSED).
+[21:04:18] BanchoBot: Period finished playing (Score: 410955, PASSED).
+[21:04:19] BanchoBot: Riddlerfiction finished playing (Score: 446596, PASSED).
+[21:04:19] BanchoBot: Durrr_Meuble finished playing (Score: 560903, PASSED).
+[21:04:19] BanchoBot: ScautTheGamer finished playing (Score: 559498, PASSED).
+[21:04:19] BanchoBot: The match has finished!
+[21:04:38] BCraftMG: !mp map 3056724 0
+[21:04:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3056724 Plum - Halloween Candystore
+[21:04:39] BanchoBot: Changed match mode to Osu
+[21:04:59] BanchoBot: Osu Prop left the game.
+[21:05:00] BanchoBot: OcklePod left the game.
+[21:05:01] BanchoBot: Durrr_Meuble left the game.
+[21:05:10] BanchoBot: ScautTheGamer moved to slot 12
+[21:05:10] BanchoBot: Draxarta joined in slot 4.
+[21:05:11] BanchoBot: RAiMEi_BOTTliUM joined in slot 5.
+[21:05:12] BanchoBot: ScautTheGamer moved to slot 10
+[21:05:32] BanchoBot: Mimil joined in slot 12.
+[21:05:45] Mimil: hello
+[21:05:52] Foahcha: dd
+[21:05:52] ScautTheGamer: o/
+[21:05:53] Mimil: hi scaut and hachikun o/
+[21:05:57] BCraftMG: wai
+[21:05:59] BCraftMG: !mp timer 120
+[21:06:00] BanchoBot: Countdown ends in 2 minutes
+[21:06:08] BCraftMG: i need to do timer between map
+[21:06:36] BanchoBot: All players are ready
+[21:06:37] BanchoBot: All players are ready
+[21:06:42] TilerXk: glhf
+[21:06:43] BCraftMG: !mp settings
+[21:06:43] BanchoBot: Room name: STT3: (Q44) vs (Qualifiers), History: https://osu.ppy.sh/mp/101407751
+[21:06:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/3056724 Plum - Halloween Candystore
+[21:06:43] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:06:43] BanchoBot: Active mods: NoFail
+[21:06:43] BanchoBot: Players: 15
+[21:06:43] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11142471 TilerXk         
+[21:06:43] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8165685 shadevr         
+[21:06:43] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10543853 rYnE_FA         
+[21:06:43] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11129041 Draxarta        
+[21:06:43] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/18212788 RAiMEi_BOTTliUM 
+[21:06:43] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/19568517 SnaxRL          
+[21:06:43] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/9997359 LewusekX44      
+[21:06:43] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/9379821 Foxy            
+[21:06:43] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/14463439 _Hachikun_      
+[21:06:43] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/10398422 ScautTheGamer   
+[21:06:43] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/7990049 Foahcha         
+[21:06:43] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/16420104 Mimil           
+[21:06:43] BanchoBot: Slot 13 Ready     https://osu.ppy.sh/u/3925586 Loazo           
+[21:06:43] BanchoBot: Slot 14 Ready     https://osu.ppy.sh/u/2916205 Period          
+[21:06:43] BanchoBot: Slot 15 Ready     https://osu.ppy.sh/u/7067142 Riddlerfiction  
+[21:06:44] Riddlerfiction: glglhfhf!!
+[21:06:45] BCraftMG: !mp start 5
+[21:06:47] ScautTheGamer: glhf
+[21:06:47] Mimil: glhf
+[21:06:47] BanchoBot: Countdown aborted
+[21:06:47] BanchoBot: Match starts in 5 seconds
+[21:06:47] BanchoBot: Queued the match to start in 5 seconds
+[21:06:48] BanchoBot: Match starts in 4 seconds
+[21:06:49] BanchoBot: Match starts in 3 seconds
+[21:06:50] _Hachikun_: glgl
+[21:06:50] BanchoBot: Good luck, have fun!
+[21:06:52] Foxy: Glhf~
+[21:06:52] BanchoBot: The match has started!
+[21:06:53] RAiMEi_BOTTliUM: glgl
+[21:09:27] BanchoBot: Riddlerfiction finished playing (Score: 242058, PASSED).
+[21:09:28] BanchoBot: Foxy finished playing (Score: 230447, PASSED).
+[21:09:28] BanchoBot: shadevr finished playing (Score: 135995, PASSED).
+[21:09:28] BanchoBot: TilerXk finished playing (Score: 311349, PASSED).
+[21:09:28] BanchoBot: Mimil finished playing (Score: 552036, PASSED).
+[21:09:29] BanchoBot: LewusekX44 finished playing (Score: 523723, PASSED).
+[21:09:29] BanchoBot: RAiMEi_BOTTliUM finished playing (Score: 153468, PASSED).
+[21:09:29] BanchoBot: _Hachikun_ finished playing (Score: 259628, PASSED).
+[21:09:29] BanchoBot: SnaxRL finished playing (Score: 541985, PASSED).
+[21:09:30] BanchoBot: Draxarta finished playing (Score: 291796, PASSED).
+[21:09:30] BanchoBot: Period finished playing (Score: 321241, PASSED).
+[21:09:30] BanchoBot: rYnE_FA finished playing (Score: 420597, PASSED).
+[21:09:31] BanchoBot: Foahcha finished playing (Score: 964270, PASSED).
+[21:09:31] BanchoBot: Loazo finished playing (Score: 312779, PASSED).
+[21:09:44] BCraftMG: a
+[21:10:07] BanchoBot: ScautTheGamer finished playing (Score: 962129, PASSED).
+[21:10:07] BanchoBot: The match has finished!
+[21:10:13] BCraftMG: phew
+[21:10:14] BCraftMG: !mp map 3580667 0
+[21:10:15] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3580667 Tanchiky - REDOUT feat. Torika (Cut Ver.)
+[21:10:15] BanchoBot: Changed match mode to Osu
+[21:10:16] BanchoBot: shadevr left the game.
+[21:10:25] BanchoBot: kanagava joined in slot 2.
+[21:10:46] BanchoBot: ScautTheGamer left the game.
+[21:10:48] BanchoBot: _Hachikun_ left the game.
+[21:10:53] BanchoBot: RAiMEi_BOTTliUM left the game.
+[21:10:54] BCraftMG: !mp timer 120
+[21:10:54] BanchoBot: Riddlerfiction left the game.
+[21:10:54] BanchoBot: Amber397 joined in slot 5.
+[21:10:54] BanchoBot: OcklePod joined in slot 9.
+[21:10:54] BanchoBot: Countdown ends in 2 minutes
+[21:11:00] BanchoBot: Durrr_Meuble joined in slot 10.
+[21:11:02] BanchoBot: OcklePod moved to slot 15
+[21:11:05] BanchoBot: OcklePod moved to slot 9
+[21:11:14] BanchoBot: Draxarta left the game.
+[21:11:18] BanchoBot: Foahcha moved to slot 15
+[21:11:23] BanchoBot: kondziej_ joined in slot 4.
+[21:11:28] BanchoBot: ScautTheGamer joined in slot 11.
+[21:11:53] BanchoBot: ScautTheGamer left the game.
+[21:11:53] BanchoBot: ScautTheGamer joined in slot 11.
+[21:11:54] BanchoBot: Countdown ends in 1 minute
+[21:12:10] BanchoBot: ScautTheGamer left the game.
+[21:12:10] BanchoBot: ScautTheGamer joined in slot 11.
+[21:12:24] BanchoBot: Countdown ends in 30 seconds
+[21:12:26] BanchoBot: ScautTheGamer left the game.
+[21:12:26] BanchoBot: ScautTheGamer joined in slot 11.
+[21:12:41] BanchoBot: ScautTheGamer left the game.
+[21:12:45] BanchoBot: Countdown ends in 10 seconds
+[21:12:50] BanchoBot: Countdown ends in 5 seconds
+[21:12:51] BanchoBot: Countdown ends in 4 seconds
+[21:12:52] BanchoBot: Countdown ends in 3 seconds
+[21:12:52] kondziej_: um
+[21:12:53] BanchoBot: Countdown ends in 2 seconds
+[21:12:54] BanchoBot: Countdown ends in 1 second
+[21:12:54] BanchoBot: Countdown finished
+[21:12:56] Period: uhoh
+[21:13:09] BCraftMG: !mp settings
+[21:13:10] Durrr_Meuble: mhhhhh
+[21:13:10] BanchoBot: Room name: STT3: (Q44) vs (Qualifiers), History: https://osu.ppy.sh/mp/101407751
+[21:13:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/3580667 Tanchiky - REDOUT feat. Torika (Cut Ver.)
+[21:13:10] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:13:10] BanchoBot: Active mods: NoFail
+[21:13:10] BanchoBot: Players: 14
+[21:13:10] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11142471 TilerXk         
+[21:13:10] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16858397 kanagava        
+[21:13:10] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10543853 rYnE_FA         
+[21:13:10] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10565596 kondziej_       
+[21:13:10] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/19641527 Amber397        
+[21:13:10] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/19568517 SnaxRL          
+[21:13:10] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/9997359 LewusekX44      
+[21:13:10] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/9379821 Foxy            
+[21:13:10] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/7094393 OcklePod        
+[21:13:10] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/15872196 Durrr_Meuble    
+[21:13:10] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/16420104 Mimil           
+[21:13:10] BanchoBot: Slot 13 Ready     https://osu.ppy.sh/u/3925586 Loazo           
+[21:13:10] BanchoBot: Slot 14 Ready     https://osu.ppy.sh/u/2916205 Period          
+[21:13:10] BanchoBot: Slot 15 Ready     https://osu.ppy.sh/u/7990049 Foahcha         
+[21:13:20] kondziej_: bold move to play as 2
+[21:13:23] BCraftMG: 60 second until force stard
+[21:13:26] Amber397: sry
+[21:13:27] BCraftMG: start
+[21:13:27] Loazo: :(
+[21:13:29] BanchoBot: ScautTheGamer joined in slot 11.
+[21:13:29] OcklePod: lol
+[21:13:33] BCraftMG: okay
+[21:13:35] ScautTheGamer: omfg wifi is so bad
+[21:13:37] ScautTheGamer: sorry
+[21:13:39] BCraftMG: hmm
+[21:13:39] TilerXk: aight
+[21:13:42] Period: scaut i understand
+[21:13:42] TilerXk: glhf
+[21:13:45] Period: i dont wannan pla ythjis map either
+[21:13:45] SnaxRL: hfhf
+[21:13:53] Mimil: glhf
+[21:13:53] BanchoBot: All players are ready
+[21:13:55] OcklePod: lets goo
+[21:13:55] ScautTheGamer: glhf
+[21:13:56] kanagava: glhf
+[21:13:57] LewusekX44: glhf
+[21:13:58] kondziej_: quit w
+[21:13:58] Foxy: Glhf~
+[21:13:59] Period: glhf
+[21:13:59] Loazo: gl
+[21:14:00] Durrr_Meuble: glhf
+[21:14:02] Amber397: gl
+[21:14:02] BCraftMG: !mp settings
+[21:14:03] BanchoBot: Room name: STT3: (Q44) vs (Qualifiers), History: https://osu.ppy.sh/mp/101407751
+[21:14:03] BanchoBot: Beatmap: https://osu.ppy.sh/b/3580667 Tanchiky - REDOUT feat. Torika (Cut Ver.)
+[21:14:03] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:14:03] BanchoBot: Active mods: NoFail
+[21:14:03] BanchoBot: Players: 15
+[21:14:03] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11142471 TilerXk         
+[21:14:03] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16858397 kanagava        
+[21:14:03] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10543853 rYnE_FA         
+[21:14:03] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10565596 kondziej_       
+[21:14:03] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/19641527 Amber397        
+[21:14:03] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/19568517 SnaxRL          
+[21:14:03] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/9997359 LewusekX44      
+[21:14:03] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/9379821 Foxy            
+[21:14:03] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/7094393 OcklePod        
+[21:14:03] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/15872196 Durrr_Meuble    
+[21:14:03] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/10398422 ScautTheGamer   
+[21:14:03] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/16420104 Mimil           
+[21:14:03] BanchoBot: Slot 13 Ready     https://osu.ppy.sh/u/3925586 Loazo           
+[21:14:03] BanchoBot: Slot 14 Ready     https://osu.ppy.sh/u/2916205 Period          
+[21:14:03] BanchoBot: Slot 15 Ready     https://osu.ppy.sh/u/7990049 Foahcha         
+[21:14:04] BCraftMG: !mp start 10
+[21:14:05] BanchoBot: Match starts in 10 seconds
+[21:14:05] BanchoBot: Queued the match to start in 10 seconds
+[21:14:10] BanchoBot: Match starts in 5 seconds
+[21:14:11] OcklePod: glhf
+[21:14:11] BanchoBot: Match starts in 4 seconds
+[21:14:13] BanchoBot: Match starts in 3 seconds
+[21:14:14] BanchoBot: Good luck, have fun!
+[21:14:15] BanchoBot: The match has started!
+[21:16:13] BanchoBot: OcklePod finished playing (Score: 433032, PASSED).
+[21:16:13] BanchoBot: Amber397 finished playing (Score: 353694, PASSED).
+[21:16:13] BanchoBot: kondziej_ finished playing (Score: 271762, PASSED).
+[21:16:13] BanchoBot: Mimil finished playing (Score: 414280, PASSED).
+[21:16:13] BanchoBot: TilerXk finished playing (Score: 898397, PASSED).
+[21:16:13] BanchoBot: Durrr_Meuble finished playing (Score: 313041, PASSED).
+[21:16:13] BanchoBot: rYnE_FA finished playing (Score: 300416, PASSED).
+[21:16:13] BanchoBot: SnaxRL finished playing (Score: 154500, PASSED).
+[21:16:13] BanchoBot: Foxy finished playing (Score: 393179, PASSED).
+[21:16:13] BanchoBot: Loazo finished playing (Score: 377524, PASSED).
+[21:16:13] BanchoBot: Foahcha finished playing (Score: 344443, PASSED).
+[21:16:14] BanchoBot: ScautTheGamer finished playing (Score: 493133, PASSED).
+[21:16:14] BanchoBot: LewusekX44 finished playing (Score: 495671, PASSED).
+[21:16:14] BanchoBot: kanagava finished playing (Score: 203130, PASSED).
+[21:16:15] BanchoBot: Period finished playing (Score: 303720, PASSED).
+[21:16:15] BanchoBot: The match has finished!
+[21:16:26] BCraftMG: !mp map 2675202 0
+[21:16:27] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2675202 Kagemori Michiru (CV: Morohoshi Sumire) - Ready to
+[21:16:27] BanchoBot: Changed match mode to Osu
+[21:16:30] BCraftMG: !mp timer 120
+[21:16:32] BanchoBot: Countdown ends in 2 minutes
+[21:17:04] BanchoBot: kondziej_ left the game.
+[21:17:06] BanchoBot: mirinshoyu joined in slot 4.
+[21:17:21] BanchoBot: Loazo left the game.
+[21:17:22] BanchoBot: Riddlerfiction joined in slot 13.
+[21:17:32] BanchoBot: Countdown ends in 1 minute
+[21:17:34] Foxy: alt map :letsfiretruckinggoooo:
+[21:17:38] BanchoBot: Mimil left the game.
+[21:17:41] BanchoBot: Draxarta joined in slot 12.
+[21:18:00] TilerXk: glhf
+[21:18:00] BanchoBot: All players are ready
+[21:18:02] BanchoBot: Countdown ends in 30 seconds
+[21:18:07] Riddlerfiction: glghfhf!!
+[21:18:08] BCraftMG: !mp settings
+[21:18:08] OcklePod: glhf
+[21:18:09] BanchoBot: Room name: STT3: (Q44) vs (Qualifiers), History: https://osu.ppy.sh/mp/101407751
+[21:18:09] BanchoBot: Beatmap: https://osu.ppy.sh/b/2675202 Kagemori Michiru (CV: Morohoshi Sumire) - Ready to
+[21:18:09] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:18:09] BanchoBot: Active mods: NoFail
+[21:18:09] BanchoBot: Players: 15
+[21:18:09] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11142471 TilerXk         
+[21:18:09] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16858397 kanagava        
+[21:18:09] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10543853 rYnE_FA         
+[21:18:09] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/18365113 mirinshoyu      
+[21:18:09] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/19641527 Amber397        
+[21:18:09] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/19568517 SnaxRL          
+[21:18:09] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/9997359 LewusekX44      
+[21:18:09] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/9379821 Foxy            
+[21:18:09] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/7094393 OcklePod        
+[21:18:09] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/15872196 Durrr_Meuble    
+[21:18:09] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/10398422 ScautTheGamer   
+[21:18:09] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/11129041 Draxarta        
+[21:18:09] BanchoBot: Slot 13 Ready     https://osu.ppy.sh/u/7067142 Riddlerfiction  
+[21:18:09] BanchoBot: Slot 14 Ready     https://osu.ppy.sh/u/2916205 Period          
+[21:18:09] BanchoBot: Slot 15 Ready     https://osu.ppy.sh/u/7990049 Foahcha         
+[21:18:10] Amber397: glgl
+[21:18:10] Foxy: Glhf~
+[21:18:11] Durrr_Meuble: glllll
+[21:18:12] BCraftMG: !mp start 5
+[21:18:13] ScautTheGamer: glhf
+[21:18:13] BanchoBot: Countdown aborted
+[21:18:13] BanchoBot: Match starts in 5 seconds
+[21:18:13] BanchoBot: Queued the match to start in 5 seconds
+[21:18:14] BanchoBot: Match starts in 4 seconds
+[21:18:15] BanchoBot: Match starts in 3 seconds
+[21:18:16] BanchoBot: Good luck, have fun!
+[21:18:18] BanchoBot: The match has started!
+[21:21:17] BanchoBot: Foxy finished playing (Score: 363451, PASSED).
+[21:21:17] BanchoBot: TilerXk finished playing (Score: 533310, PASSED).
+[21:21:17] BanchoBot: Riddlerfiction finished playing (Score: 311735, PASSED).
+[21:21:17] BanchoBot: SnaxRL finished playing (Score: 161952, PASSED).
+[21:21:17] BanchoBot: kanagava finished playing (Score: 242437, PASSED).
+[21:21:17] BanchoBot: Foahcha finished playing (Score: 848988, PASSED).
+[21:21:17] BanchoBot: rYnE_FA finished playing (Score: 356259, PASSED).
+[21:21:17] BanchoBot: Amber397 finished playing (Score: 273642, PASSED).
+[21:21:17] BanchoBot: mirinshoyu finished playing (Score: 407301, PASSED).
+[21:21:18] BanchoBot: Draxarta finished playing (Score: 353056, PASSED).
+[21:21:18] BanchoBot: Durrr_Meuble finished playing (Score: 269245, PASSED).
+[21:21:19] BanchoBot: ScautTheGamer finished playing (Score: 462763, PASSED).
+[21:21:19] BanchoBot: OcklePod finished playing (Score: 250387, PASSED).
+[21:21:19] BanchoBot: Period finished playing (Score: 319144, PASSED).
+[21:21:20] BanchoBot: LewusekX44 finished playing (Score: 328028, PASSED).
+[21:21:20] BanchoBot: The match has finished!
+[21:21:30] BanchoBot: mirinshoyu left the game.
+[21:21:31] BCraftMG: !mp map 2844710 0
+[21:21:32] BanchoBot: SnaxRL left the game.
+[21:21:32] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2844710 solfa feat. Shimotsuki Haruka - leap in your mind
+[21:21:32] BanchoBot: Changed match mode to Osu
+[21:21:34] BCraftMG: !mp mods hd nf
+[21:21:35] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:21:38] BCraftMG: !mp mods 9
+[21:21:39] BanchoBot: shadevr joined in slot 4.
+[21:21:39] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:21:42] BanchoBot: Draxarta left the game.
+[21:21:44] BanchoBot: Period left the game.
+[21:21:46] BanchoBot: LouisD joined in slot 6.
+[21:21:52] BanchoBot: Foahcha left the game.
+[21:22:02] BanchoBot: Foahcha joined in slot 12.
+[21:22:08] BanchoBot: Foahcha moved to slot 15
+[21:22:09] BanchoBot: RAiMEi_BOTTliUM joined in slot 12.
+[21:22:38] BCraftMG: !mp timer 120
+[21:22:38] BanchoBot: Countdown ends in 2 minutes
+[21:23:17] BanchoBot: Riddlerfiction left the game.
+[21:23:39] BanchoBot: Countdown ends in 1 minute
+[21:23:43] BanchoBot: D3adEye joined in slot 13.
+[21:23:51] BanchoBot: LouisD moved to slot 14
+[21:24:09] BanchoBot: Countdown ends in 30 seconds
+[21:24:13] BanchoBot: Loazo joined in slot 6.
+[21:24:17] TilerXk: glhf
+[21:24:21] kanagava: glhf
+[21:24:22] BanchoBot: All players are ready
+[21:24:22] Durrr_Meuble: glllll
+[21:24:25] BCraftMG: !mp settings
+[21:24:26] BanchoBot: Room name: STT3: (Q44) vs (Qualifiers), History: https://osu.ppy.sh/mp/101407751
+[21:24:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/2844710 solfa feat. Shimotsuki Haruka - leap in your mind
+[21:24:26] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:24:26] BanchoBot: Active mods: NoFail, Hidden
+[21:24:26] BanchoBot: Players: 15
+[21:24:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11142471 TilerXk         
+[21:24:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16858397 kanagava        
+[21:24:26] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10543853 rYnE_FA         
+[21:24:26] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8165685 shadevr         
+[21:24:26] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/19641527 Amber397        
+[21:24:26] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/3925586 Loazo           
+[21:24:26] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/9997359 LewusekX44      
+[21:24:26] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/9379821 Foxy            
+[21:24:26] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/7094393 OcklePod        
+[21:24:26] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/15872196 Durrr_Meuble    
+[21:24:26] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/10398422 ScautTheGamer   
+[21:24:26] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/18212788 RAiMEi_BOTTliUM 
+[21:24:26] BanchoBot: Slot 13 Ready     https://osu.ppy.sh/u/6139746 D3adEye         
+[21:24:26] BanchoBot: Slot 14 Ready     https://osu.ppy.sh/u/14951633 LouisD          
+[21:24:26] BanchoBot: Slot 15 Ready     https://osu.ppy.sh/u/7990049 Foahcha         
+[21:24:27] Amber397: glgl
+[21:24:27] LouisD: GLHF
+[21:24:29] BCraftMG: !mp start 5
+[21:24:29] Foahcha: gl
+[21:24:29] BanchoBot: Countdown ends in 10 seconds
+[21:24:30] BanchoBot: Countdown aborted
+[21:24:30] BanchoBot: Match starts in 5 seconds
+[21:24:30] BanchoBot: Queued the match to start in 5 seconds
+[21:24:31] BanchoBot: Match starts in 4 seconds
+[21:24:33] OcklePod: glhf
+[21:24:33] BanchoBot: Match starts in 3 seconds
+[21:24:34] Foxy: Glhf~
+[21:24:34] BanchoBot: Good luck, have fun!
+[21:24:36] BanchoBot: The match has started!
+[21:29:30] BanchoBot: LewusekX44 finished playing (Score: 438264, PASSED).
+[21:29:30] BanchoBot: Foahcha finished playing (Score: 577710, PASSED).
+[21:29:30] BanchoBot: Foxy finished playing (Score: 252382, PASSED).
+[21:29:30] BanchoBot: Durrr_Meuble finished playing (Score: 238032, PASSED).
+[21:29:30] BanchoBot: kanagava finished playing (Score: 135808, PASSED).
+[21:29:30] BanchoBot: shadevr finished playing (Score: 221205, PASSED).
+[21:29:30] BanchoBot: RAiMEi_BOTTliUM finished playing (Score: 299973, PASSED).
+[21:29:30] BanchoBot: Amber397 finished playing (Score: 444958, PASSED).
+[21:29:30] BanchoBot: Loazo finished playing (Score: 320009, PASSED).
+[21:29:30] BanchoBot: TilerXk finished playing (Score: 412201, PASSED).
+[21:29:30] BanchoBot: OcklePod finished playing (Score: 404532, PASSED).
+[21:29:31] BanchoBot: ScautTheGamer finished playing (Score: 335679, PASSED).
+[21:29:31] BanchoBot: D3adEye finished playing (Score: 337741, PASSED).
+[21:29:31] BanchoBot: rYnE_FA finished playing (Score: 333130, PASSED).
+[21:29:31] BanchoBot: LouisD finished playing (Score: 122445, PASSED).
+[21:29:31] BanchoBot: The match has finished!
+[21:29:42] BCraftMG: !mp map 1524996 0
+[21:29:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1524996 Casandra - Freaks Romanticism
+[21:29:43] BanchoBot: Changed match mode to Osu
+[21:29:54] BanchoBot: TilerXk left the game.
+[21:29:54] BanchoBot: mirinshoyu joined in slot 1.
+[21:29:54] BCraftMG: !mp timer 120
+[21:29:55] BanchoBot: Countdown ends in 2 minutes
+[21:30:02] BanchoBot: LewusekX44 left the game.
+[21:30:02] BanchoBot: ScautTheGamer left the game.
+[21:30:07] BanchoBot: -mira joined in slot 7.
+[21:30:08] BanchoBot: Foxy left the game.
+[21:30:11] BanchoBot: Durrr_Meuble left the game.
+[21:30:11] BanchoBot: EnchantedSpider joined in slot 8.
+[21:30:20] BanchoBot: Mimil joined in slot 10.
+[21:30:22] BanchoBot: mirinshoyu moved to slot 11
+[21:30:25] BanchoBot: kondziej_ joined in slot 1.
+[21:30:55] BanchoBot: Countdown ends in 1 minute
+[21:31:14] OcklePod: glhf
+[21:31:18] Mimil: glhf
+[21:31:18] kondziej_: hfhf
+[21:31:19] EnchantedSpider: glgl
+[21:31:19] LouisD: gl
+[21:31:20] BanchoBot: All players are ready
+[21:31:24] -mira: glhf
+[21:31:24] Amber397: glgl
+[21:31:25] RAiMEi_BOTTliUM: gglgl
+[21:31:26] BCraftMG: !mp settings
+[21:31:26] BanchoBot: Countdown ends in 30 seconds
+[21:31:26] BanchoBot: Room name: STT3: (Q44) vs (Qualifiers), History: https://osu.ppy.sh/mp/101407751
+[21:31:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/1524996 Casandra - Freaks Romanticism
+[21:31:26] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:31:26] BanchoBot: Active mods: NoFail, Hidden
+[21:31:26] BanchoBot: Players: 15
+[21:31:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10565596 kondziej_       
+[21:31:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16858397 kanagava        
+[21:31:26] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10543853 rYnE_FA         
+[21:31:26] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8165685 shadevr         
+[21:31:26] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/19641527 Amber397        
+[21:31:26] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/3925586 Loazo           
+[21:31:26] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/7554753 -mira           
+[21:31:26] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/9357029 EnchantedSpider 
+[21:31:26] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/7094393 OcklePod        
+[21:31:26] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/16420104 Mimil           
+[21:31:26] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/18365113 mirinshoyu      
+[21:31:26] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/18212788 RAiMEi_BOTTliUM 
+[21:31:26] BanchoBot: Slot 13 Ready     https://osu.ppy.sh/u/6139746 D3adEye         
+[21:31:26] BanchoBot: Slot 14 Ready     https://osu.ppy.sh/u/14951633 LouisD          
+[21:31:26] BanchoBot: Slot 15 Ready     https://osu.ppy.sh/u/7990049 Foahcha         
+[21:31:30] BCraftMG: !mp start 10
+[21:31:31] BanchoBot: Countdown aborted
+[21:31:31] BanchoBot: Match starts in 10 seconds
+[21:31:31] BanchoBot: Queued the match to start in 10 seconds
+[21:31:37] BanchoBot: Match starts in 5 seconds
+[21:31:38] BanchoBot: Match starts in 4 seconds
+[21:31:38] BanchoBot: Match starts in 3 seconds
+[21:31:39] BanchoBot: Good luck, have fun!
+[21:31:41] BanchoBot: The match has started!
+[21:33:43] BanchoBot: EnchantedSpider finished playing (Score: 897492, PASSED).
+[21:33:43] BanchoBot: -mira finished playing (Score: 542284, PASSED).
+[21:33:43] BanchoBot: Mimil finished playing (Score: 541343, PASSED).
+[21:33:43] BanchoBot: OcklePod finished playing (Score: 529434, PASSED).
+[21:33:43] BanchoBot: shadevr finished playing (Score: 556926, PASSED).
+[21:33:43] BanchoBot: kondziej_ finished playing (Score: 555272, PASSED).
+[21:33:44] BanchoBot: RAiMEi_BOTTliUM finished playing (Score: 397933, PASSED).
+[21:33:44] BanchoBot: rYnE_FA finished playing (Score: 200404, PASSED).
+[21:33:44] BanchoBot: LouisD finished playing (Score: 276023, PASSED).
+[21:33:44] BanchoBot: mirinshoyu finished playing (Score: 501802, PASSED).
+[21:33:44] BanchoBot: Amber397 finished playing (Score: 629099, PASSED).
+[21:33:44] BanchoBot: D3adEye finished playing (Score: 986844, PASSED).
+[21:33:44] BanchoBot: Loazo finished playing (Score: 587996, PASSED).
+[21:33:44] BanchoBot: Foahcha finished playing (Score: 380261, PASSED).
+[21:33:44] BanchoBot: kanagava finished playing (Score: 131762, PASSED).
+[21:33:44] BanchoBot: The match has finished!
+[21:33:56] BanchoBot: RAiMEi_BOTTliUM left the game.
+[21:33:58] BanchoBot: mirinshoyu left the game.
+[21:34:01] BanchoBot: -mira left the game.
+[21:34:03] D3adEye: sheesh
+[21:34:06] BanchoBot: TilerXk joined in slot 7.
+[21:34:12] BanchoBot: D3adEye left the game.
+[21:34:12] BanchoBot: LouisD left the game.
+[21:34:16] BanchoBot: Osu Prop joined in slot 11.
+[21:34:16] BanchoBot: ScautTheGamer joined in slot 12.
+[21:34:18] BanchoBot: Period joined in slot 13.
+[21:34:19] BanchoBot: Foxy joined in slot 14.
+[21:34:44] BanchoBot: shadevr left the game.
+[21:34:45] BanchoBot: Riddlerfiction joined in slot 4.
+[21:34:53] BanchoBot: kondziej_ left the game.
+[21:34:54] BanchoBot: SnaxRL joined in slot 1.
+[21:34:57] BanchoBot: EnchantedSpider left the game.
+[21:35:07] BanchoBot: LewusekX44 joined in slot 8.
+[21:35:18] TilerXk: ref?
+[21:35:26] TilerXk: give us a sign
+[21:35:49] OcklePod: BCraftMG
+[21:35:50] Mimil: have a good night ref :d
+[21:35:51] OcklePod: hello
+[21:35:53] ScautTheGamer: ae
+[21:36:24] Period: F in chat for ref
+[21:36:26] BanchoBot: Mimil left the game.
+[21:36:29] ScautTheGamer: F
+[21:36:31] kanagava: F
+[21:36:37] Loazo: O_O
+[21:36:38] SnaxRL: F
+[21:37:25] BanchoBot: TilerXk left the game.
+[21:37:50] BanchoBot: Osu Prop left the game.
+[21:38:20] kanagava: BCraftMG: wake up sleepy beaty
+[21:39:00] BanchoBot: TilerXk joined in slot 7.
+[21:39:03] BanchoBot: TilerXk left the game.
+[21:39:28] BanchoBot: Period left the game.
+[21:39:34] BanchoBot: Foxy left the game.
+[21:39:47] BanchoBot: ScautTheGamer moved to slot 7
+[21:39:58] BanchoBot: kanagava left the game.
+[21:40:11] BanchoBot: kanagava joined in slot 2.
+[21:42:20] BanchoBot: kanagava moved to slot 11
+[21:42:23] BanchoBot: kanagava moved to slot 2
+[21:42:30] SnaxRL: good night
+[21:43:06] BanchoBot: Foahcha left the game.
+[21:43:41] BanchoBot: Osu Prop joined in slot 10.
+[21:43:47] BanchoBot: Osu Prop left the game.
+[21:43:58] BanchoBot: Mimil joined in slot 10.
+[21:44:05] BanchoBot: Mimil left the game.
+[21:44:38] BanchoBot: kanagava left the game.
+[21:44:46] BanchoBot: SnaxRL left the game.
+[21:44:56] BanchoBot: Mimil joined in slot 1.
+[21:45:05] BanchoBot: rYnE_FA left the game.
+[21:45:11] BanchoBot: Amber397 left the game.
+[21:45:11] BanchoBot: Mimil left the game.
+[21:45:19] BanchoBot: ScautTheGamer left the game.
+[21:45:20] BanchoBot: OcklePod left the game.
+[21:45:31] BanchoBot: Loazo left the game.
+[21:46:05] BanchoBot: Riddlerfiction left the game.
+[21:46:26] BanchoBot: LewusekX44 left the game.
+[21:55:25] BCraftMG: oh
+[21:55:27] BCraftMG: OH CRAP
+[21:55:38] BCraftMG: !mp map 230127 0
+[21:55:40] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/230127 TOTAL OBJECTION - Higurashi Moratorium
+[21:55:40] BanchoBot: Changed match mode to Osu
+[21:55:41] BCraftMG: !mp mods 17
+[21:55:42] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[21:56:22] BCraftMG: i snoozed out for 2 min
+[22:01:56] BCraftMG: !mp closed
+[22:03:11] BCraftMG: !mp close
+[22:03:12] BanchoBot: Closed the match

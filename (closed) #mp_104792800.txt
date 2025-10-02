@@ -1,0 +1,633 @@
+[21:23:44] Joined #mp_104792800
+[21:23:44] DaddyStage: !mp settings
+[21:23:46] BanchoBot: Room name: THT3: (Welcome to maimai!) vs (red orca plushie), History: https://osu.ppy.sh/mp/104792800
+[21:23:46] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[21:23:46] BanchoBot: Players: 0
+[21:24:07] DaddyStage: !mp set 2 3 8
+[21:24:08] BanchoBot: Changed match settings to 8 slots, TeamVs, ScoreV2
+[21:24:31] DaddyStage: !mp invite #10274874
+[21:24:32] BanchoBot: Invited [Boy]ThanhHoa to the room
+[21:24:35] DaddyStage: !mp invite #9983282
+[21:24:36] BanchoBot: Invited Elnory to the room
+[21:24:37] DaddyStage: !mp invite #21180395
+[21:24:38] BanchoBot: Invited anthan1233 to the room
+[21:24:39] DaddyStage: !mp invite #11925339
+[21:24:39] BanchoBot: Invited Salt-HiyoKotori to the room
+[21:24:41] DaddyStage: !mp invite #11386130
+[21:24:42] BanchoBot: Invited Salt-Elucdator to the room
+[21:24:42] DaddyStage: !mp invite #8006029
+[21:24:43] BanchoBot: Invited realshin to the room
+[21:24:50] DaddyStage: !mp addref Satxri
+[21:24:51] BanchoBot: Added Satxri to the match referees
+[21:26:44] BanchoBot: [Boy]ThanhHoa joined in slot 1 for team blue.
+[21:26:51] BanchoBot: anthan1233 joined in slot 2 for team red.
+[21:26:54] BanchoBot: [Boy]ThanhHoa changed to Red
+[21:26:55] DaddyStage: !mp host [Boy]ThanhHoa
+[21:26:56] BanchoBot: [Boy]ThanhHoa became the host.
+[21:26:56] BanchoBot: Changed match host to [Boy]ThanhHoa
+[21:26:58] BanchoBot: Beatmap changed to: Caldeira feat. Teka Penteriche - Vem brincar [Challenge] (https://osu.ppy.sh/b/1848913)
+[21:27:02] BanchoBot: Host is changing map...
+[21:27:29] BanchoBot: Beatmap changed to: Gekidan Record feat. Nekomata Master - Houkou Orpheus [Mystery] (https://osu.ppy.sh/b/2613064)
+[21:28:14] BanchoBot: Salt-HiyoKotori joined in slot 3 for team blue.
+[21:28:47] DaddyStage: !mp invite #8006029
+[21:28:48] BanchoBot: Invited realshin to the room
+[21:29:03] DaddyStage: team red orca slot 4-6 nha
+[21:29:13] DaddyStage: !mp settings
+[21:29:14] BanchoBot: Room name: THT3: (Welcome to maimai!) vs (red orca plushie), History: https://osu.ppy.sh/mp/104792800
+[21:29:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/2613064 Gekidan Record feat. Nekomata Master - Houkou Orpheus [Mystery]
+[21:29:14] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:29:14] BanchoBot: Active mods: Freemod
+[21:29:14] BanchoBot: Players: 3
+[21:29:14] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/10274874 [Boy]ThanhHoa   [Host / Team Red ]
+[21:29:14] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/21180395 anthan1233      [Team Red ]
+[21:29:14] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/11925339 Salt-HiyoKotori [Team Blue]
+[21:29:18] BanchoBot: Salt-HiyoKotori moved to slot 5
+[21:29:20] BanchoBot: Salt-HiyoKotori moved to slot 4
+[21:29:20] BanchoBot: realshin joined in slot 3 for team blue.
+[21:29:22] BanchoBot: Salt-Elucdator joined in slot 5 for team blue.
+[21:29:24] BanchoBot: realshin moved to slot 6
+[21:29:44] DaddyStage: nhung Salt-Ranocchio dau rui
+[21:30:07] realshin: muoi ref muoi
+[21:30:09] Salt-Elucdator: chet roi
+[21:30:26] BanchoBot: Elnory joined in slot 3 for team blue.
+[21:30:38] realshin: nhanh toi di ia
+[21:30:46] BanchoBot: Elnory changed to Red
+[21:30:52] Salt-Elucdator: thua
+[21:30:58] Salt-HiyoKotori: thua
+[21:31:02] DaddyStage: !mp addref Salt-Ranocchio
+[21:31:02] BanchoBot: User not found: Salt-Ranocchio
+[21:31:04] realshin: ai hoi k
+[21:31:09] BanchoBot: All players are ready
+[21:31:21] BanchoBot: The match has started!
+[21:33:16] BanchoBot: Elnory finished playing (Score: 170542, PASSED).
+[21:33:16] BanchoBot: Salt-HiyoKotori finished playing (Score: 104715, PASSED).
+[21:33:16] BanchoBot: realshin finished playing (Score: 208819, PASSED).
+[21:33:16] BanchoBot: Salt-Elucdator finished playing (Score: 86899, PASSED).
+[21:33:17] BanchoBot: anthan1233 finished playing (Score: 88896, PASSED).
+[21:33:18] BanchoBot: [Boy]ThanhHoa finished playing (Score: 259266, PASSED).
+[21:33:18] BanchoBot: The match has finished!
+[21:33:22] BanchoBot: Salt-HiyoKotori became the host.
+[21:33:26] BanchoBot: realshin became the host.
+[21:33:31] BanchoBot: Host is changing map...
+[21:34:18] DaddyStage: :yum:
+[21:34:37] BanchoBot: Beatmap changed to: Hatsuki Yura - Yasou Kagerou [nonsquareable] (https://osu.ppy.sh/b/3802403)
+[21:35:57] BanchoBot: All players are ready
+[21:35:58] BanchoBot: The match has started!
+[21:39:32] BanchoBot: [Boy]ThanhHoa finished playing (Score: 106975, PASSED).
+[21:39:33] BanchoBot: anthan1233 finished playing (Score: 82540, PASSED).
+[21:39:33] BanchoBot: Salt-HiyoKotori finished playing (Score: 82959, PASSED).
+[21:39:33] BanchoBot: realshin finished playing (Score: 193473, PASSED).
+[21:39:33] BanchoBot: Salt-Elucdator finished playing (Score: 63066, PASSED).
+[21:39:33] BanchoBot: Elnory finished playing (Score: 64475, PASSED).
+[21:39:33] BanchoBot: The match has finished!
+[21:39:48] DaddyStage: !mp clearhost
+[21:39:49] BanchoBot: Cleared match host
+[21:39:51] DaddyStage: !roll pls
+[21:39:51] BanchoBot: DaddyStage rolls 3 point(s)
+[21:39:52] realshin: !roll
+[21:39:52] BanchoBot: realshin rolls 40 point(s)
+[21:39:56] [Boy]ThanhHoa: !roll
+[21:39:56] BanchoBot: [Boy]ThanhHoa rolls 4 point(s)
+[21:40:05] realshin: 2nd pick
+[21:40:23] DaddyStage: bo13 2 ban ABAB
+[21:40:26] DaddyStage: red orca first ban
+[21:40:28] DaddyStage: !mp timer 120
+[21:40:29] BanchoBot: Countdown ends in 2 minutes
+[21:40:34] realshin: hd2
+[21:40:45] DaddyStage: moimoi ban
+[21:40:46] DaddyStage: !mp timer 120
+[21:40:47] BanchoBot: Countdown aborted
+[21:40:47] BanchoBot: Countdown ends in 2 minutes
+[21:40:52] [Boy]ThanhHoa: HR2
+[21:41:01] realshin: hd3
+[21:41:17] DaddyStage: washing machine 2nd ban
+[21:41:22] DaddyStage: wait
+[21:41:23] DaddyStage: no
+[21:41:27] DaddyStage: khong double ban anh oi
+[21:41:45] realshin: o
+[21:41:48] BanchoBot: Countdown ends in 1 minute
+[21:41:57] realshin: dc double pick ko dc double ban a
+[21:41:58] Salt-Elucdator: o
+[21:42:06] DaddyStage: ddunsg rui
+[21:42:18] BanchoBot: Countdown ends in 30 seconds
+[21:42:18] realshin: giai bip v
+[21:42:37] BanchoBot: Countdown ends in 10 seconds
+[21:42:40] realshin: fm2
+[21:42:42] BanchoBot: Countdown ends in 5 seconds
+[21:42:43] BanchoBot: Countdown ends in 4 seconds
+[21:42:43] realshin: nham nut
+[21:42:45] realshin: fm1
+[21:42:45] BanchoBot: Countdown ends in 3 seconds
+[21:42:46] BanchoBot: Countdown ends in 2 seconds
+[21:42:47] BanchoBot: Countdown ends in 1 second
+[21:42:47] BanchoBot: Countdown finished
+[21:42:53] [Boy]ThanhHoa: DT1
+[21:43:03] DaddyStage: Welcome to maimai! | 0 - 0 | red orca plushie // First Pick: Welcome to maimai!
+[21:43:05] DaddyStage: !mp timer 120
+[21:43:06] BanchoBot: Countdown ends in 2 minutes
+[21:43:53] DaddyStage: nhung dt1 maimai ban ma
+[21:44:05] realshin: thi co ai noi gi dau
+[21:44:07] BanchoBot: Countdown ends in 1 minute
+[21:44:10] [Boy]ThanhHoa: NM6
+[21:44:17] DaddyStage: streamer trolling
+[21:44:25] DaddyStage: !mp map 3387202 0
+[21:44:26] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3387202 ZUN - Heian no Alien
+[21:44:26] BanchoBot: Changed match mode to Osu
+[21:44:28] DaddyStage: !mp mods 1
+[21:44:29] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:44:32] DaddyStage: !mp timer 120
+[21:44:32] BanchoBot: Countdown aborted
+[21:44:32] BanchoBot: Countdown ends in 2 minutes
+[21:44:34] realshin: game 7-0 cung co nguoi stream nua a
+[21:44:58] BanchoBot: All players are ready
+[21:45:02] DaddyStage: !mp settings
+[21:45:03] BanchoBot: Room name: THT3: (Welcome to maimai!) vs (red orca plushie), History: https://osu.ppy.sh/mp/104792800
+[21:45:03] BanchoBot: Beatmap: https://osu.ppy.sh/b/3387202 ZUN - Heian no Alien
+[21:45:03] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:45:03] BanchoBot: Active mods: NoFail
+[21:45:03] BanchoBot: Players: 6
+[21:45:03] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10274874 [Boy]ThanhHoa   [Team Red ]
+[21:45:03] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21180395 anthan1233      [Team Red ]
+[21:45:03] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9983282 Elnory          [Team Red ]
+[21:45:03] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11925339 Salt-HiyoKotori [Team Blue]
+[21:45:03] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11386130 Salt-Elucdator  [Team Blue]
+[21:45:03] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/8006029 realshin        [Team Blue]
+[21:45:04] DaddyStage: !mp start 5 glhf
+[21:45:06] BanchoBot: Countdown aborted
+[21:45:06] BanchoBot: Match starts in 5 seconds
+[21:45:06] BanchoBot: Queued the match to start in 5 seconds
+[21:45:07] BanchoBot: Match starts in 4 seconds
+[21:45:08] BanchoBot: Match starts in 3 seconds
+[21:45:08] Elnory: vai sap bi realshin hanh 7 0 a
+[21:45:09] realshin: vnpt bi ngu r
+[21:45:09] BanchoBot: Good luck, have fun!
+[21:45:11] [Boy]ThanhHoa: golf
+[21:45:12] BanchoBot: The match has started!
+[21:45:12] realshin: ko bat twitch dc :(
+[21:48:21] BanchoBot: Salt-HiyoKotori finished playing (Score: 114866, PASSED).
+[21:48:21] BanchoBot: [Boy]ThanhHoa finished playing (Score: 324170, PASSED).
+[21:48:21] BanchoBot: realshin finished playing (Score: 570479, PASSED).
+[21:48:21] BanchoBot: anthan1233 finished playing (Score: 176520, PASSED).
+[21:48:21] BanchoBot: Elnory finished playing (Score: 282183, PASSED).
+[21:48:21] BanchoBot: Salt-Elucdator finished playing (Score: 115588, PASSED).
+[21:48:21] BanchoBot: The match has finished!
+[21:48:29] DaddyStage: Welcome to maimai! | 0 - 1 | red orca plushie // Next Pick: red orca plushie
+[21:48:32] DaddyStage: !mp timer 120
+[21:48:32] BanchoBot: Countdown ends in 2 minutes
+[21:48:36] realshin: o sao thanh 7-1 roi
+[21:48:56] Elnory: bjp
+[21:49:32] realshin: dt2
+[21:49:33] BanchoBot: Countdown ends in 1 minute
+[21:49:43] DaddyStage: !mp map 152179 0
+[21:49:44] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/152179 ALiCE'S EMOTiON - LUNA
+[21:49:44] BanchoBot: Changed match mode to Osu
+[21:49:45] DaddyStage: !mp mods 65
+[21:49:46] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:49:49] DaddyStage: !mp timer 120
+[21:49:49] BanchoBot: Countdown aborted
+[21:49:49] BanchoBot: Countdown ends in 2 minutes
+[21:50:07] BanchoBot: All players are ready
+[21:50:22] DaddyStage: !mp settings
+[21:50:23] BanchoBot: Room name: THT3: (Welcome to maimai!) vs (red orca plushie), History: https://osu.ppy.sh/mp/104792800
+[21:50:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/152179 ALiCE'S EMOTiON - LUNA
+[21:50:23] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:50:23] BanchoBot: Active mods: NoFail, DoubleTime
+[21:50:23] BanchoBot: Players: 6
+[21:50:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10274874 [Boy]ThanhHoa   [Team Red ]
+[21:50:23] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21180395 anthan1233      [Team Red ]
+[21:50:23] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9983282 Elnory          [Team Red ]
+[21:50:23] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11925339 Salt-HiyoKotori [Team Blue]
+[21:50:23] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11386130 Salt-Elucdator  [Team Blue]
+[21:50:23] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/8006029 realshin        [Team Blue]
+[21:50:25] DaddyStage: !mp start 5 glhf
+[21:50:25] BanchoBot: Countdown aborted
+[21:50:25] BanchoBot: Match starts in 5 seconds
+[21:50:25] BanchoBot: Queued the match to start in 5 seconds
+[21:50:26] BanchoBot: Match starts in 4 seconds
+[21:50:28] BanchoBot: Match starts in 3 seconds
+[21:50:29] BanchoBot: Good luck, have fun!
+[21:50:30] BanchoBot: The match has started!
+[21:52:58] BanchoBot: anthan1233 finished playing (Score: 243385, PASSED).
+[21:52:58] BanchoBot: realshin finished playing (Score: 697020, PASSED).
+[21:52:59] BanchoBot: Salt-HiyoKotori finished playing (Score: 299734, PASSED).
+[21:52:59] BanchoBot: Salt-Elucdator finished playing (Score: 240775, PASSED).
+[21:52:59] BanchoBot: Elnory finished playing (Score: 310149, PASSED).
+[21:52:59] BanchoBot: [Boy]ThanhHoa finished playing (Score: 490953, PASSED).
+[21:52:59] BanchoBot: The match has finished!
+[21:53:03] DaddyStage: Welcome to maimai! | 0 - 2 | red orca plushie // Next Pick: Welcome to maimai!
+[21:53:06] DaddyStage: !mp timer 120
+[21:53:07] BanchoBot: Countdown ends in 2 minutes
+[21:53:26] realshin: tdn toi an 2 diem roi
+[21:53:36] realshin: ai da momo cho team ong vay
+[21:53:57] [Boy]ThanhHoa: HD3
+[21:54:06] DaddyStage: !mp map 3207047 0
+[21:54:07] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3207047 Trerey-U - ::vexations
+[21:54:07] BanchoBot: Changed match mode to Osu
+[21:54:08] BanchoBot: Countdown ends in 1 minute
+[21:54:09] DaddyStage: !mp mods 9
+[21:54:09] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:54:13] DaddyStage: !mp timer 120
+[21:54:13] BanchoBot: Countdown aborted
+[21:54:13] BanchoBot: Countdown ends in 2 minutes
+[21:54:26] realshin: xoa het may cai slider dc k
+[21:54:29] DaddyStage: khum
+[21:54:32] [Boy]ThanhHoa: real
+[21:54:42] realshin: slider la mot sai lam
+[21:54:45] BanchoBot: All players are ready
+[21:54:48] DaddyStage: !mp settings
+[21:54:49] BanchoBot: Room name: THT3: (Welcome to maimai!) vs (red orca plushie), History: https://osu.ppy.sh/mp/104792800
+[21:54:49] BanchoBot: Beatmap: https://osu.ppy.sh/b/3207047 Trerey-U - ::vexations
+[21:54:49] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:54:49] BanchoBot: Active mods: NoFail, Hidden
+[21:54:49] BanchoBot: Players: 6
+[21:54:49] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10274874 [Boy]ThanhHoa   [Team Red ]
+[21:54:49] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21180395 anthan1233      [Team Red ]
+[21:54:49] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9983282 Elnory          [Team Red ]
+[21:54:49] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11925339 Salt-HiyoKotori [Team Blue]
+[21:54:49] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11386130 Salt-Elucdator  [Team Blue]
+[21:54:49] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/8006029 realshin        [Team Blue]
+[21:54:52] DaddyStage: !mp start 5 glhf
+[21:54:52] BanchoBot: Countdown aborted
+[21:54:52] BanchoBot: Match starts in 5 seconds
+[21:54:52] BanchoBot: Queued the match to start in 5 seconds
+[21:54:54] BanchoBot: Match starts in 4 seconds
+[21:54:56] BanchoBot: Match starts in 3 seconds
+[21:54:56] BanchoBot: Good luck, have fun!
+[21:54:58] BanchoBot: The match has started!
+[21:56:59] BanchoBot: realshin finished playing (Score: 525340, PASSED).
+[21:56:59] BanchoBot: Salt-HiyoKotori finished playing (Score: 261187, PASSED).
+[21:56:59] BanchoBot: Elnory finished playing (Score: 467001, PASSED).
+[21:56:59] BanchoBot: [Boy]ThanhHoa finished playing (Score: 778354, PASSED).
+[21:56:59] BanchoBot: anthan1233 finished playing (Score: 198466, PASSED).
+[21:56:59] BanchoBot: Salt-Elucdator finished playing (Score: 265565, PASSED).
+[21:56:59] BanchoBot: The match has finished!
+[21:57:05] DaddyStage: Welcome to maimai! | 1 - 2 | red orca plushie // Next Pick: red orca plushie
+[21:57:09] DaddyStage: !mp timer 120
+[21:57:10] BanchoBot: Countdown ends in 2 minutes
+[21:57:46] realshin: nm3
+[21:58:11] BanchoBot: Countdown ends in 1 minute
+[21:58:12] DaddyStage: !mp map 3002756 0
+[21:58:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3002756 sekai - p.h.
+[21:58:12] BanchoBot: Changed match mode to Osu
+[21:58:16] DaddyStage: !mp mods 1
+[21:58:17] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:58:18] DaddyStage: !mp timer 120
+[21:58:19] BanchoBot: Countdown aborted
+[21:58:19] BanchoBot: Countdown ends in 2 minutes
+[21:59:13] BanchoBot: All players are ready
+[21:59:15] DaddyStage: !mp settings
+[21:59:16] BanchoBot: Room name: THT3: (Welcome to maimai!) vs (red orca plushie), History: https://osu.ppy.sh/mp/104792800
+[21:59:16] BanchoBot: Beatmap: https://osu.ppy.sh/b/3002756 sekai - p.h.
+[21:59:16] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:59:16] BanchoBot: Active mods: NoFail
+[21:59:16] BanchoBot: Players: 6
+[21:59:16] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10274874 [Boy]ThanhHoa   [Team Red ]
+[21:59:16] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21180395 anthan1233      [Team Red ]
+[21:59:16] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9983282 Elnory          [Team Red ]
+[21:59:16] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11925339 Salt-HiyoKotori [Team Blue]
+[21:59:16] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11386130 Salt-Elucdator  [Team Blue]
+[21:59:16] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/8006029 realshin        [Team Blue]
+[21:59:18] [Boy]ThanhHoa: hf
+[21:59:19] BanchoBot: Countdown ends in 1 minute
+[21:59:20] DaddyStage: !mp start 5 glhf
+[21:59:21] BanchoBot: Countdown aborted
+[21:59:21] BanchoBot: Match starts in 5 seconds
+[21:59:21] BanchoBot: Queued the match to start in 5 seconds
+[21:59:22] Elnory: gl
+[21:59:22] BanchoBot: Match starts in 4 seconds
+[21:59:23] Salt-Elucdator: gl
+[21:59:23] BanchoBot: Match starts in 3 seconds
+[21:59:23] Salt-HiyoKotori: nf
+[21:59:24] BanchoBot: Good luck, have fun!
+[21:59:26] BanchoBot: The match has started!
+[22:02:07] BanchoBot: [Boy]ThanhHoa finished playing (Score: 603393, PASSED).
+[22:02:07] BanchoBot: realshin finished playing (Score: 594006, PASSED).
+[22:02:08] BanchoBot: Salt-Elucdator finished playing (Score: 221172, PASSED).
+[22:02:09] BanchoBot: anthan1233 finished playing (Score: 314685, PASSED).
+[22:02:09] BanchoBot: Salt-HiyoKotori finished playing (Score: 217387, PASSED).
+[22:02:09] BanchoBot: Elnory finished playing (Score: 518602, PASSED).
+[22:02:09] BanchoBot: The match has finished!
+[22:02:27] DaddyStage: Welcome to maimai! | 2 - 2 | red orca plushie // Next Pick: Welcome to maimai!
+[22:02:29] DaddyStage: !mp timer 120
+[22:02:29] BanchoBot: Countdown ends in 2 minutes
+[22:03:30] BanchoBot: Countdown ends in 1 minute
+[22:03:40] DaddyStage: pick nm1 ik
+[22:03:59] [Boy]ThanhHoa: NM1
+[22:04:00] BanchoBot: Countdown ends in 30 seconds
+[22:04:05] DaddyStage: !mp map 2314157 0
+[22:04:06] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2314157 yuikonnu - caramel heaven
+[22:04:06] BanchoBot: Changed match mode to Osu
+[22:04:08] DaddyStage: !mp timer 120
+[22:04:09] BanchoBot: Countdown aborted
+[22:04:09] BanchoBot: Countdown ends in 2 minutes
+[22:04:13] DaddyStage: :yuM:
+[22:04:14] realshin: mapj day
+[22:04:19] DaddyStage: map
+[22:04:20] Salt-HiyoKotori: mapj day
+[22:04:22] [Boy]ThanhHoa: ai biet
+[22:04:22] [Boy]ThanhHoa: nm1
+[22:04:26] DaddyStage: no modification one
+[22:04:31] Elnory: sth sth
+[22:04:48] BanchoBot: All players are ready
+[22:04:50] DaddyStage: !mp settings
+[22:04:52] BanchoBot: Room name: THT3: (Welcome to maimai!) vs (red orca plushie), History: https://osu.ppy.sh/mp/104792800
+[22:04:52] BanchoBot: Beatmap: https://osu.ppy.sh/b/2314157 yuikonnu - caramel heaven
+[22:04:52] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:04:52] BanchoBot: Active mods: NoFail
+[22:04:52] BanchoBot: Players: 6
+[22:04:52] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10274874 [Boy]ThanhHoa   [Team Red ]
+[22:04:52] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21180395 anthan1233      [Team Red ]
+[22:04:52] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9983282 Elnory          [Team Red ]
+[22:04:52] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11925339 Salt-HiyoKotori [Team Blue]
+[22:04:52] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11386130 Salt-Elucdator  [Team Blue]
+[22:04:52] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/8006029 realshin        [Team Blue]
+[22:04:54] DaddyStage: !mp start 5 glhf
+[22:04:56] BanchoBot: Countdown aborted
+[22:04:56] BanchoBot: Match starts in 5 seconds
+[22:04:56] BanchoBot: Queued the match to start in 5 seconds
+[22:04:57] Elnory: glgl
+[22:04:57] BanchoBot: Match starts in 4 seconds
+[22:04:58] BanchoBot: Match starts in 3 seconds
+[22:04:59] BanchoBot: Good luck, have fun!
+[22:05:01] BanchoBot: The match has started!
+[22:09:07] BanchoBot: Salt-Elucdator finished playing (Score: 323993, PASSED).
+[22:09:08] BanchoBot: Salt-HiyoKotori finished playing (Score: 431233, PASSED).
+[22:09:08] BanchoBot: realshin finished playing (Score: 599805, PASSED).
+[22:09:08] BanchoBot: [Boy]ThanhHoa finished playing (Score: 685283, PASSED).
+[22:09:09] BanchoBot: Elnory finished playing (Score: 363633, PASSED).
+[22:09:09] BanchoBot: anthan1233 finished playing (Score: 401039, PASSED).
+[22:09:09] BanchoBot: The match has finished!
+[22:09:13] DaddyStage: Welcome to maimai! | 3 - 2 | red orca plushie // Next Pick: red orca plushie
+[22:09:16] DaddyStage: !mp timer 120
+[22:09:17] BanchoBot: Countdown ends in 2 minutes
+[22:09:18] DaddyStage: chet chet
+[22:10:17] BanchoBot: Countdown ends in 1 minute
+[22:10:41] realshin: dt3
+[22:10:47] BanchoBot: Countdown ends in 30 seconds
+[22:10:49] DaddyStage: !mp map 3351781 0
+[22:10:50] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3351781 IVE - ELEVEN
+[22:10:50] BanchoBot: Changed match mode to Osu
+[22:10:52] DaddyStage: !mp mods 65
+[22:10:52] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[22:10:53] DaddyStage: !mp timer 120
+[22:10:53] BanchoBot: Countdown aborted
+[22:10:53] BanchoBot: Countdown ends in 2 minutes
+[22:11:28] realshin: nay bam cai nay dc 200k
+[22:11:31] realshin: dinh
+[22:11:36] [Boy]ThanhHoa: toi dc 5 so diem
+[22:11:42] BanchoBot: All players are ready
+[22:11:45] DaddyStage: !mp settings
+[22:11:46] BanchoBot: Room name: THT3: (Welcome to maimai!) vs (red orca plushie), History: https://osu.ppy.sh/mp/104792800
+[22:11:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/3351781 IVE - ELEVEN
+[22:11:46] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:11:46] BanchoBot: Active mods: NoFail, DoubleTime
+[22:11:46] BanchoBot: Players: 6
+[22:11:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10274874 [Boy]ThanhHoa   [Team Red ]
+[22:11:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21180395 anthan1233      [Team Red ]
+[22:11:46] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9983282 Elnory          [Team Red ]
+[22:11:46] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11925339 Salt-HiyoKotori [Team Blue]
+[22:11:46] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11386130 Salt-Elucdator  [Team Blue]
+[22:11:46] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/8006029 realshin        [Team Blue]
+[22:11:53] DaddyStage: ước chơi osu
+[22:11:54] DaddyStage: !mp timer 120
+[22:11:54] BanchoBot: Countdown ends in 1 minute
+[22:11:54] BanchoBot: Countdown aborted
+[22:11:54] BanchoBot: Countdown ends in 2 minutes
+[22:12:08] realshin: timer gi vay ba
+[22:12:09] anthan1233: ref dau nhanh coi
+[22:12:12] DaddyStage: !mp start 5 glhf
+[22:12:12] BanchoBot: Countdown aborted
+[22:12:12] BanchoBot: Match starts in 5 seconds
+[22:12:12] BanchoBot: Queued the match to start in 5 seconds
+[22:12:13] BanchoBot: Match starts in 4 seconds
+[22:12:14] BanchoBot: Match starts in 3 seconds
+[22:12:16] BanchoBot: Good luck, have fun!
+[22:12:17] BanchoBot: The match has started!
+[22:12:26] DaddyStage: 120s ref enjoy nhạc
+[22:14:22] BanchoBot: Salt-HiyoKotori finished playing (Score: 164861, PASSED).
+[22:14:22] BanchoBot: Salt-Elucdator finished playing (Score: 132924, PASSED).
+[22:14:22] BanchoBot: anthan1233 finished playing (Score: 190516, PASSED).
+[22:14:22] BanchoBot: Elnory finished playing (Score: 212926, PASSED).
+[22:14:23] BanchoBot: [Boy]ThanhHoa finished playing (Score: 191045, PASSED).
+[22:14:23] BanchoBot: realshin finished playing (Score: 413394, PASSED).
+[22:14:23] BanchoBot: The match has finished!
+[22:14:27] DaddyStage: Welcome to maimai! | 3 - 3 | red orca plushie // Next Pick: Welcome to maimai!
+[22:14:31] DaddyStage: map nay slider sus the
+[22:14:34] DaddyStage: !mp timer 120
+[22:14:35] BanchoBot: Countdown ends in 2 minutes
+[22:14:37] Elnory: 200k la qua
+[22:14:42] Salt-Elucdator: sus
+[22:14:46] Elnory: chac la 200k dt+hr
+[22:14:46] realshin: nay luc nhin score la nua map
+[22:14:55] realshin: :tf:
+[22:15:01] Salt-HiyoKotori: :tf:
+[22:15:24] [Boy]ThanhHoa: NM4
+[22:15:30] DaddyStage: !mp map 3287875 0
+[22:15:31] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3287875 Mysteka - Hesperos
+[22:15:31] BanchoBot: Changed match mode to Osu
+[22:15:34] DaddyStage: !mp mods 1
+[22:15:34] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:15:35] DaddyStage: !mp timer 120
+[22:15:36] BanchoBot: Countdown ends in 1 minute
+[22:15:36] BanchoBot: Countdown aborted
+[22:15:36] BanchoBot: Countdown ends in 2 minutes
+[22:15:50] DaddyStage: tekc
+[22:16:01] BanchoBot: All players are ready
+[22:16:02] DaddyStage: !mp settings
+[22:16:03] realshin: map bi happy
+[22:16:03] BanchoBot: Room name: THT3: (Welcome to maimai!) vs (red orca plushie), History: https://osu.ppy.sh/mp/104792800
+[22:16:03] BanchoBot: Beatmap: https://osu.ppy.sh/b/3287875 Mysteka - Hesperos
+[22:16:03] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:16:03] BanchoBot: Active mods: NoFail
+[22:16:03] BanchoBot: Players: 6
+[22:16:03] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10274874 [Boy]ThanhHoa   [Team Red ]
+[22:16:03] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21180395 anthan1233      [Team Red ]
+[22:16:03] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9983282 Elnory          [Team Red ]
+[22:16:03] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11925339 Salt-HiyoKotori [Team Blue]
+[22:16:03] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11386130 Salt-Elucdator  [Team Blue]
+[22:16:03] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/8006029 realshin        [Team Blue]
+[22:16:04] DaddyStage: !mp start 5 glhf
+[22:16:06] BanchoBot: Countdown aborted
+[22:16:06] BanchoBot: Match starts in 5 seconds
+[22:16:06] BanchoBot: Queued the match to start in 5 seconds
+[22:16:07] BanchoBot: Match starts in 4 seconds
+[22:16:08] BanchoBot: Match starts in 3 seconds
+[22:16:09] BanchoBot: Good luck, have fun!
+[22:16:11] BanchoBot: The match has started!
+[22:19:00] BanchoBot: anthan1233 finished playing (Score: 380871, PASSED).
+[22:19:00] BanchoBot: Elnory finished playing (Score: 402858, PASSED).
+[22:19:00] BanchoBot: [Boy]ThanhHoa finished playing (Score: 477966, PASSED).
+[22:19:01] BanchoBot: Salt-HiyoKotori finished playing (Score: 481659, PASSED).
+[22:19:01] BanchoBot: Salt-Elucdator finished playing (Score: 272340, PASSED).
+[22:19:01] BanchoBot: realshin finished playing (Score: 496432, PASSED).
+[22:19:01] BanchoBot: The match has finished!
+[22:19:13] DaddyStage: Welcome to maimai! | 4 - 3 | red orca plushie // Next Pick: red orca plushie
+[22:19:19] realshin: xui
+[22:19:19] DaddyStage: !mp timer 120
+[22:19:20] BanchoBot: Countdown ends in 2 minutes
+[22:19:29] realshin: hr3
+[22:19:42] DaddyStage: !mp map 2761417 0
+[22:19:44] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2761417 Kamiyama Yoh - journey
+[22:19:44] BanchoBot: Changed match mode to Osu
+[22:19:45] DaddyStage: !mp mods 17
+[22:19:46] Salt-HiyoKotori: siu
+[22:19:46] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[22:19:49] DaddyStage: !mp timer 120
+[22:19:49] BanchoBot: Countdown aborted
+[22:19:49] BanchoBot: Countdown ends in 2 minutes
+[22:19:53] realshin: brb
+[22:19:54] BanchoBot: realshin left the game.
+[22:20:01] Salt-Elucdator: ;tf;
+[22:20:50] BanchoBot: Countdown ends in 1 minute
+[22:20:59] BanchoBot: realshin joined in slot 6 for team red.
+[22:21:01] BanchoBot: realshin changed to Blue
+[22:21:20] BanchoBot: Countdown ends in 30 seconds
+[22:21:21] BanchoBot: All players are ready
+[22:21:22] DaddyStage: !mp settings
+[22:21:24] BanchoBot: Room name: THT3: (Welcome to maimai!) vs (red orca plushie), History: https://osu.ppy.sh/mp/104792800
+[22:21:24] BanchoBot: Beatmap: https://osu.ppy.sh/b/2761417 Kamiyama Yoh - journey
+[22:21:24] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:21:24] BanchoBot: Active mods: NoFail, HardRock
+[22:21:24] BanchoBot: Players: 6
+[22:21:24] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10274874 [Boy]ThanhHoa   [Team Red ]
+[22:21:24] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21180395 anthan1233      [Team Red ]
+[22:21:24] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9983282 Elnory          [Team Red ]
+[22:21:24] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11925339 Salt-HiyoKotori [Team Blue]
+[22:21:24] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11386130 Salt-Elucdator  [Team Blue]
+[22:21:24] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/8006029 realshin        [Team Blue]
+[22:21:26] DaddyStage: !mp start 5 glhf
+[22:21:27] BanchoBot: Countdown aborted
+[22:21:27] BanchoBot: Match starts in 5 seconds
+[22:21:27] BanchoBot: Queued the match to start in 5 seconds
+[22:21:29] BanchoBot: Match starts in 4 seconds
+[22:21:30] BanchoBot: Match starts in 3 seconds
+[22:21:31] BanchoBot: Good luck, have fun!
+[22:21:33] [Boy]ThanhHoa: golf
+[22:21:33] BanchoBot: The match has started!
+[22:24:39] BanchoBot: Elnory finished playing (Score: 223374, PASSED).
+[22:24:39] BanchoBot: anthan1233 finished playing (Score: 284237, PASSED).
+[22:24:39] BanchoBot: [Boy]ThanhHoa finished playing (Score: 219781, PASSED).
+[22:24:40] BanchoBot: Salt-Elucdator finished playing (Score: 100651, PASSED).
+[22:24:40] BanchoBot: Salt-HiyoKotori finished playing (Score: 298990, PASSED).
+[22:24:40] BanchoBot: realshin finished playing (Score: 277461, PASSED).
+[22:24:40] BanchoBot: The match has finished!
+[22:24:53] DaddyStage: Welcome to maimai! | 5 - 3 | red orca plushie // Next Pick: Welcome to maimai!
+[22:24:54] DaddyStage: !mp timer 120
+[22:24:55] BanchoBot: Countdown ends in 2 minutes
+[22:25:15] DaddyStage: cai du ma
+[22:25:18] DaddyStage: wysi
+[22:25:25] realshin: thua
+[22:25:30] [Boy]ThanhHoa: thua
+[22:25:42] [Boy]ThanhHoa: HD1
+[22:25:54] DaddyStage: !mp map 2095147 0
+[22:25:55] BanchoBot: Countdown ends in 1 minute
+[22:25:55] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2095147 Yorushika - Hole In The Heart
+[22:25:55] BanchoBot: Changed match mode to Osu
+[22:25:56] DaddyStage: !mp mods 9
+[22:25:57] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[22:25:58] DaddyStage: !mp timer 120
+[22:25:59] BanchoBot: Countdown aborted
+[22:25:59] BanchoBot: Countdown ends in 2 minutes
+[22:26:40] BanchoBot: All players are ready
+[22:26:42] DaddyStage: !mp settings
+[22:26:43] BanchoBot: Room name: THT3: (Welcome to maimai!) vs (red orca plushie), History: https://osu.ppy.sh/mp/104792800
+[22:26:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/2095147 Yorushika - Hole In The Heart
+[22:26:43] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:26:43] BanchoBot: Active mods: NoFail, Hidden
+[22:26:43] BanchoBot: Players: 6
+[22:26:43] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10274874 [Boy]ThanhHoa   [Team Red ]
+[22:26:43] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21180395 anthan1233      [Team Red ]
+[22:26:43] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9983282 Elnory          [Team Red ]
+[22:26:43] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11925339 Salt-HiyoKotori [Team Blue]
+[22:26:43] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11386130 Salt-Elucdator  [Team Blue]
+[22:26:43] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/8006029 realshin        [Team Blue]
+[22:26:44] DaddyStage: !mp start 5 glhf
+[22:26:45] BanchoBot: Countdown aborted
+[22:26:45] BanchoBot: Match starts in 5 seconds
+[22:26:45] BanchoBot: Queued the match to start in 5 seconds
+[22:26:46] [Boy]ThanhHoa: golf
+[22:26:46] BanchoBot: Match starts in 4 seconds
+[22:26:48] BanchoBot: Match starts in 3 seconds
+[22:26:49] BanchoBot: Good luck, have fun!
+[22:26:50] BanchoBot: The match has started!
+[22:31:24] BanchoBot: realshin finished playing (Score: 556707, PASSED).
+[22:31:24] BanchoBot: anthan1233 finished playing (Score: 308979, PASSED).
+[22:31:25] BanchoBot: Salt-HiyoKotori finished playing (Score: 304162, PASSED).
+[22:31:25] BanchoBot: [Boy]ThanhHoa finished playing (Score: 515655, PASSED).
+[22:31:25] BanchoBot: Elnory finished playing (Score: 485129, PASSED).
+[22:31:26] BanchoBot: Salt-Elucdator finished playing (Score: 220726, PASSED).
+[22:31:26] BanchoBot: The match has finished!
+[22:31:34] DaddyStage: Welcome to maimai! | 6 - 3 | red orca plushie // Next Pick: red orca plushie
+[22:31:37] DaddyStage: !mp timer 120
+[22:31:37] BanchoBot: Countdown ends in 2 minutes
+[22:32:09] DaddyStage: tniop hctam
+[22:32:38] BanchoBot: Countdown ends in 1 minute
+[22:33:01] DaddyStage: tb still open :blusher:
+[22:33:08] BanchoBot: Countdown ends in 30 seconds
+[22:33:28] BanchoBot: Countdown ends in 10 seconds
+[22:33:29] realshin: hr1
+[22:33:33] BanchoBot: Countdown ends in 5 seconds
+[22:33:34] BanchoBot: Countdown ends in 4 seconds
+[22:33:35] BanchoBot: Countdown ends in 3 seconds
+[22:33:35] BanchoBot: Countdown ends in 2 seconds
+[22:33:37] BanchoBot: Countdown ends in 1 second
+[22:33:38] BanchoBot: Countdown finished
+[22:33:39] DaddyStage: !mp map 2740274 0
+[22:33:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2740274 Kairiki bear feat. GUMI - Manemane Psychotropic
+[22:33:39] BanchoBot: Changed match mode to Osu
+[22:33:42] DaddyStage: !mp mods 17
+[22:33:43] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[22:33:45] DaddyStage: !mp timer 120
+[22:33:45] BanchoBot: Countdown ends in 2 minutes
+[22:34:23] BanchoBot: All players are ready
+[22:34:25] DaddyStage: !mp settings
+[22:34:26] [Boy]ThanhHoa: glgl
+[22:34:26] BanchoBot: Room name: THT3: (Welcome to maimai!) vs (red orca plushie), History: https://osu.ppy.sh/mp/104792800
+[22:34:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/2740274 Kairiki bear feat. GUMI - Manemane Psychotropic
+[22:34:26] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:34:26] BanchoBot: Active mods: NoFail, HardRock
+[22:34:26] BanchoBot: Players: 6
+[22:34:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10274874 [Boy]ThanhHoa   [Team Red ]
+[22:34:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21180395 anthan1233      [Team Red ]
+[22:34:26] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9983282 Elnory          [Team Red ]
+[22:34:26] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11925339 Salt-HiyoKotori [Team Blue]
+[22:34:26] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11386130 Salt-Elucdator  [Team Blue]
+[22:34:26] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/8006029 realshin        [Team Blue]
+[22:34:29] DaddyStage: !mp start 5 glhf
+[22:34:29] Elnory: gl
+[22:34:29] BanchoBot: Countdown aborted
+[22:34:29] BanchoBot: Match starts in 5 seconds
+[22:34:29] BanchoBot: Queued the match to start in 5 seconds
+[22:34:31] BanchoBot: Match starts in 4 seconds
+[22:34:32] BanchoBot: Match starts in 3 seconds
+[22:34:34] BanchoBot: Good luck, have fun!
+[22:34:35] BanchoBot: The match has started!
+[22:38:05] BanchoBot: Salt-Elucdator finished playing (Score: 385932, PASSED).
+[22:38:05] BanchoBot: Elnory finished playing (Score: 434555, PASSED).
+[22:38:05] BanchoBot: anthan1233 finished playing (Score: 726354, PASSED).
+[22:38:05] BanchoBot: realshin finished playing (Score: 579341, PASSED).
+[22:38:05] BanchoBot: Salt-HiyoKotori finished playing (Score: 536755, PASSED).
+[22:38:05] BanchoBot: [Boy]ThanhHoa finished playing (Score: 722859, PASSED).
+[22:38:05] BanchoBot: The match has finished!
+[22:38:16] realshin: ggwp
+[22:38:20] DaddyStage: ggwp
+[22:38:24] anthan1233: ggwp
+[22:38:26] Elnory: ggwp
+[22:38:27] realshin: cam on vi ref
+[22:38:29] realshin: o/
+[22:38:29] BanchoBot: realshin left the game.
+[22:38:29] DaddyStage: https://www.twitch.tv/tamhuyet_tournament
+[22:38:30] DaddyStage: https://www.twitch.tv/tamhuyet_tournamenthttps://www.twitch.tv/tamhuyet_tournament
+[22:38:31] DaddyStage: https://www.twitch.tv/tamhuyet_tournament
+[22:38:33] BanchoBot: anthan1233 left the game.
+[22:38:33] Salt-HiyoKotori: ggwp
+[22:38:35] Salt-HiyoKotori: thanks for ref
+[22:38:36] BanchoBot: Salt-Elucdator left the game.
+[22:38:38] [Boy]ThanhHoa: cam on ref
+[22:38:38] DaddyStage: tb alert :tF:
+[22:38:39] BanchoBot: Salt-HiyoKotori left the game.
+[22:38:44] Elnory: tks ref :3
+[22:38:45] BanchoBot: Elnory left the game.
+[22:38:46] BanchoBot: [Boy]ThanhHoa left the game.
+[22:38:59] DaddyStage: !mp close
+[22:39:00] BanchoBot: Closed the match

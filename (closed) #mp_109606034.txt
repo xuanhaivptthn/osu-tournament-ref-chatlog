@@ -1,0 +1,392 @@
+[20:53:17] Joined #mp_109606034
+[20:53:17] BCraftMG: !mp settings
+[20:53:18] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q44), History: https://osu.ppy.sh/mp/109606034
+[20:53:18] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[20:53:18] BanchoBot: Players: 0
+[20:53:24] BCraftMG: !mp set 0 3 8
+[20:53:24] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[20:53:29] BCraftMG: !mp invite #7274010
+[20:53:29] BanchoBot: Invited Chiharu to the room
+[20:53:32] BCraftMG: !mp invite #14294171
+[20:53:32] BanchoBot: Invited lolitskoryn to the room
+[20:53:34] BCraftMG: !mp invite #12783604
+[20:53:35] BanchoBot: Invited Nyuh to the room
+[20:53:39] BCraftMG: !mp mods 1
+[20:53:40] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:53:41] BCraftMG: !mp map 4142536 0
+[20:53:41] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4142536 Hoshimachi Suisei - Newton
+[20:53:41] BanchoBot: Changed match mode to Osu
+[20:56:35] BanchoBot: lolitskoryn joined in slot 1.
+[20:56:50] BanchoBot: Chiharu joined in slot 2.
+[20:56:58] Chiharu: o/
+[20:57:09] lolitskoryn: o/
+[20:57:11] BCraftMG: o/
+[20:57:18] BCraftMG: theres only u two now
+[20:57:29] BCraftMG: Nyuh said hes not playing
+[20:57:38] Chiharu: oh
+[20:57:39] lolitskoryn: :sob:
+[20:57:47] Chiharu: unlucky
+[20:58:30] lolitskoryn: so we can start ?
+[20:58:31] BCraftMG: so just ready up :3c we gonna start
+[20:58:33] BanchoBot: All players are ready
+[20:58:36] BCraftMG: !mp settings
+[20:58:38] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q44), History: https://osu.ppy.sh/mp/109606034
+[20:58:38] BanchoBot: Beatmap: https://osu.ppy.sh/b/4142536 Hoshimachi Suisei - Newton
+[20:58:38] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:58:38] BanchoBot: Active mods: NoFail
+[20:58:38] BanchoBot: Players: 2
+[20:58:38] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14294171 lolitskoryn     
+[20:58:38] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7274010 Chiharu         
+[20:58:38] BCraftMG: !mp start 5 glhf
+[20:58:39] BanchoBot: Match starts in 5 seconds
+[20:58:39] BanchoBot: Queued the match to start in 5 seconds
+[20:58:40] BanchoBot: Match starts in 4 seconds
+[20:58:42] BanchoBot: Match starts in 3 seconds
+[20:58:42] BanchoBot: Good luck, have fun!
+[20:58:43] lolitskoryn: hfhfhf
+[20:58:45] BanchoBot: The match has started!
+[20:58:47] Chiharu: glhf
+[21:02:23] BanchoBot: Chiharu finished playing (Score: 757575, PASSED).
+[21:02:25] BanchoBot: lolitskoryn finished playing (Score: 371072, PASSED).
+[21:02:25] BanchoBot: The match has finished!
+[21:02:29] BCraftMG: !mp map 4187144 0
+[21:02:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4187144 Raimukun - Nyarlathotep's Dreamland
+[21:02:29] BanchoBot: Changed match mode to Osu
+[21:02:34] Chiharu: love suisei but my aim is flopping
+[21:02:42] lolitskoryn: nice acc
+[21:02:57] Chiharu: i have an ss on solo ;w;
+[21:03:06] Chiharu: doomed
+[21:03:23] lolitskoryn: wtf
+[21:03:25] BanchoBot: All players are ready
+[21:03:29] BCraftMG: !mp settings
+[21:03:30] Chiharu: glglhf
+[21:03:30] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q44), History: https://osu.ppy.sh/mp/109606034
+[21:03:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/4187144 Raimukun - Nyarlathotep's Dreamland
+[21:03:30] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:03:30] BanchoBot: Active mods: NoFail
+[21:03:30] BanchoBot: Players: 2
+[21:03:30] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14294171 lolitskoryn     
+[21:03:30] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7274010 Chiharu         
+[21:03:31] BCraftMG: !mp start 5 glhf
+[21:03:32] BanchoBot: Match starts in 5 seconds
+[21:03:32] BanchoBot: Queued the match to start in 5 seconds
+[21:03:34] BanchoBot: Match starts in 4 seconds
+[21:03:35] BanchoBot: Match starts in 3 seconds
+[21:03:35] BanchoBot: Good luck, have fun!
+[21:03:38] BanchoBot: The match has started!
+[21:06:11] BanchoBot: Chiharu finished playing (Score: 601430, PASSED).
+[21:06:12] BanchoBot: lolitskoryn finished playing (Score: 202206, PASSED).
+[21:06:12] BanchoBot: The match has finished!
+[21:06:15] BCraftMG: !mp map 4068544 0
+[21:06:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4068544 hitorie - NONSENSE
+[21:06:17] BanchoBot: Changed match mode to Osu
+[21:06:23] Chiharu: omg im actually trolling
+[21:06:34] BanchoBot: All players are ready
+[21:06:37] BCraftMG: !mp settings
+[21:06:37] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q44), History: https://osu.ppy.sh/mp/109606034
+[21:06:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/4068544 hitorie - NONSENSE
+[21:06:37] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:06:37] BanchoBot: Active mods: NoFail
+[21:06:37] BanchoBot: Players: 2
+[21:06:37] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14294171 lolitskoryn     
+[21:06:37] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7274010 Chiharu         
+[21:06:38] BCraftMG: !mp start 5 glhf
+[21:06:39] BanchoBot: Match starts in 5 seconds
+[21:06:39] BanchoBot: Queued the match to start in 5 seconds
+[21:06:40] lolitskoryn: i practiced wrong nm2 lol
+[21:06:40] BanchoBot: Match starts in 4 seconds
+[21:06:40] Chiharu: glhf
+[21:06:42] BanchoBot: Match starts in 3 seconds
+[21:06:42] BanchoBot: Good luck, have fun!
+[21:06:43] lolitskoryn: hfhf
+[21:06:45] BanchoBot: The match has started!
+[21:06:45] Chiharu: lol wtf
+[21:10:55] BanchoBot: lolitskoryn finished playing (Score: 247042, PASSED).
+[21:10:55] BanchoBot: Chiharu finished playing (Score: 312013, PASSED).
+[21:10:55] BanchoBot: The match has finished!
+[21:10:59] BCraftMG: !mp map 3535254 0
+[21:11:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3535254 kors k vs Yooh - 2 Beasts Unchained
+[21:11:00] BanchoBot: Changed match mode to Osu
+[21:11:06] Chiharu: i dont know why but i can never do well on this nm3
+[21:11:21] BanchoBot: All players are ready
+[21:11:24] Chiharu: glhf
+[21:11:25] BCraftMG: !mp settings
+[21:11:26] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q44), History: https://osu.ppy.sh/mp/109606034
+[21:11:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/3535254 kors k vs Yooh - 2 Beasts Unchained
+[21:11:26] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:11:26] BanchoBot: Active mods: NoFail
+[21:11:26] BanchoBot: Players: 2
+[21:11:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14294171 lolitskoryn     
+[21:11:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7274010 Chiharu         
+[21:11:27] BCraftMG: !mp start 5 glhf
+[21:11:27] BanchoBot: Match starts in 5 seconds
+[21:11:27] BanchoBot: Queued the match to start in 5 seconds
+[21:11:29] BanchoBot: Match starts in 4 seconds
+[21:11:31] lolitskoryn: glglglg
+[21:11:31] BanchoBot: Match starts in 3 seconds
+[21:11:31] BanchoBot: Good luck, have fun!
+[21:11:34] BanchoBot: The match has started!
+[21:13:36] BanchoBot: lolitskoryn finished playing (Score: 228824, PASSED).
+[21:13:38] BanchoBot: Chiharu finished playing (Score: 290166, PASSED).
+[21:13:38] BanchoBot: The match has finished!
+[21:13:44] BCraftMG: !mp map 3183305 0
+[21:13:45] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3183305 tarolabo - eth ken
+[21:13:45] BanchoBot: Changed match mode to Osu
+[21:14:12] BanchoBot: All players are ready
+[21:14:15] Chiharu: time to get 80%
+[21:14:16] BCraftMG: !mp settings
+[21:14:17] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q44), History: https://osu.ppy.sh/mp/109606034
+[21:14:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/3183305 tarolabo - eth ken
+[21:14:17] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:14:17] BanchoBot: Active mods: NoFail
+[21:14:17] BanchoBot: Players: 2
+[21:14:17] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14294171 lolitskoryn     
+[21:14:17] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7274010 Chiharu         
+[21:14:20] BCraftMG: !mp start 5 glhf
+[21:14:21] BanchoBot: Match starts in 5 seconds
+[21:14:21] BanchoBot: Queued the match to start in 5 seconds
+[21:14:23] BanchoBot: Match starts in 4 seconds
+[21:14:24] Chiharu: glhff
+[21:14:24] BanchoBot: Match starts in 3 seconds
+[21:14:24] BanchoBot: Good luck, have fun!
+[21:14:28] lolitskoryn: hfhfhf
+[21:14:28] BanchoBot: The match has started!
+[21:16:54] BanchoBot: Chiharu finished playing (Score: 379667, PASSED).
+[21:16:54] BanchoBot: lolitskoryn finished playing (Score: 129185, PASSED).
+[21:16:54] BanchoBot: The match has finished!
+[21:17:00] BCraftMG: !mp map 4019527 0
+[21:17:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4019527 Lon - Yuru Fuwa Jukai Girl
+[21:17:00] BanchoBot: Changed match mode to Osu
+[21:17:01] BCraftMG: !mp mods 9
+[21:17:02] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:17:43] BanchoBot: All players are ready
+[21:17:46] Chiharu: glhff
+[21:17:49] lolitskoryn: glglg
+[21:17:51] BCraftMG: !mp settings
+[21:17:52] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q44), History: https://osu.ppy.sh/mp/109606034
+[21:17:52] BanchoBot: Beatmap: https://osu.ppy.sh/b/4019527 Lon - Yuru Fuwa Jukai Girl
+[21:17:52] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:17:52] BanchoBot: Active mods: NoFail, Hidden
+[21:17:52] BanchoBot: Players: 2
+[21:17:52] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14294171 lolitskoryn     
+[21:17:52] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7274010 Chiharu         
+[21:17:53] BCraftMG: !mp start 5 glhf
+[21:17:54] BanchoBot: Match starts in 5 seconds
+[21:17:54] BanchoBot: Queued the match to start in 5 seconds
+[21:17:56] BanchoBot: Match starts in 4 seconds
+[21:17:57] BanchoBot: Match starts in 3 seconds
+[21:17:57] BanchoBot: Good luck, have fun!
+[21:18:00] BanchoBot: The match has started!
+[21:21:12] BanchoBot: Chiharu finished playing (Score: 601267, PASSED).
+[21:21:14] BanchoBot: lolitskoryn finished playing (Score: 194890, PASSED).
+[21:21:14] BanchoBot: The match has finished!
+[21:21:19] BCraftMG: !mp map 3535284 0
+[21:21:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3535284 Sheena Ringo - Open Secret
+[21:21:20] BanchoBot: Changed match mode to Osu
+[21:21:48] BanchoBot: All players are ready
+[21:21:50] BCraftMG: !mp settings
+[21:21:51] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q44), History: https://osu.ppy.sh/mp/109606034
+[21:21:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/3535284 Sheena Ringo - Open Secret
+[21:21:51] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:21:51] BanchoBot: Active mods: NoFail, Hidden
+[21:21:51] BanchoBot: Players: 2
+[21:21:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14294171 lolitskoryn     
+[21:21:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7274010 Chiharu         
+[21:21:52] BCraftMG: !mp start 5 glhf
+[21:21:53] Chiharu: glgl
+[21:21:53] BanchoBot: Match starts in 5 seconds
+[21:21:53] BanchoBot: Queued the match to start in 5 seconds
+[21:21:54] BanchoBot: Match starts in 4 seconds
+[21:21:56] BanchoBot: Match starts in 3 seconds
+[21:21:56] BanchoBot: Good luck, have fun!
+[21:21:57] lolitskoryn: glglg
+[21:21:59] BanchoBot: The match has started!
+[21:25:06] BanchoBot: Chiharu finished playing (Score: 243693, PASSED).
+[21:25:06] BanchoBot: lolitskoryn finished playing (Score: 66063, PASSED).
+[21:25:06] BanchoBot: The match has finished!
+[21:25:10] BCraftMG: !mp map 3853099 0
+[21:25:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3853099 wowaka - Ura-Omote Lovers feat. Hatsune Miku
+[21:25:11] BanchoBot: Changed match mode to Osu
+[21:25:48] BanchoBot: All players are ready
+[21:25:51] BCraftMG: !mp settings
+[21:25:52] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q44), History: https://osu.ppy.sh/mp/109606034
+[21:25:52] BanchoBot: Beatmap: https://osu.ppy.sh/b/3853099 wowaka - Ura-Omote Lovers feat. Hatsune Miku
+[21:25:52] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:25:52] BanchoBot: Active mods: NoFail, Hidden
+[21:25:52] BanchoBot: Players: 2
+[21:25:52] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14294171 lolitskoryn     
+[21:25:52] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7274010 Chiharu         
+[21:25:52] BCraftMG: !mp start 5 glhf
+[21:25:53] BanchoBot: Match starts in 5 seconds
+[21:25:53] BanchoBot: Queued the match to start in 5 seconds
+[21:25:55] BanchoBot: Match starts in 4 seconds
+[21:25:56] BanchoBot: Match starts in 3 seconds
+[21:25:56] lolitskoryn: gglglgl
+[21:25:56] BanchoBot: Good luck, have fun!
+[21:25:59] Chiharu: glglhff
+[21:25:59] BanchoBot: The match has started!
+[21:29:10] BanchoBot: Chiharu finished playing (Score: 303812, PASSED).
+[21:29:12] BanchoBot: lolitskoryn finished playing (Score: 38536, PASSED).
+[21:29:12] BanchoBot: The match has finished!
+[21:29:18] BCraftMG: !mp map 3742259 0
+[21:29:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3742259 UROBOROS - ZODIAC
+[21:29:19] BanchoBot: Changed match mode to Osu
+[21:29:20] BCraftMG: !mp mods hr
+[21:29:21] BanchoBot: Enabled HardRock, disabled FreeMod
+[21:29:22] BCraftMG: !mp mods 17
+[21:29:23] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[21:29:46] BanchoBot: All players are ready
+[21:29:51] Chiharu: glhff
+[21:29:54] lolitskoryn: hfhfhf
+[21:29:59] BCraftMG: !mp settings
+[21:30:00] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q44), History: https://osu.ppy.sh/mp/109606034
+[21:30:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/3742259 UROBOROS - ZODIAC
+[21:30:00] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:30:00] BanchoBot: Active mods: NoFail, HardRock
+[21:30:00] BanchoBot: Players: 2
+[21:30:00] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14294171 lolitskoryn     
+[21:30:00] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7274010 Chiharu         
+[21:30:01] BCraftMG: !mp start 5 glhf
+[21:30:02] BanchoBot: Match starts in 5 seconds
+[21:30:02] BanchoBot: Queued the match to start in 5 seconds
+[21:30:03] BanchoBot: Match starts in 4 seconds
+[21:30:05] BanchoBot: Match starts in 3 seconds
+[21:30:05] BanchoBot: Good luck, have fun!
+[21:30:08] BanchoBot: The match has started!
+[21:33:47] BanchoBot: lolitskoryn finished playing (Score: 209783, PASSED).
+[21:33:49] BanchoBot: Chiharu finished playing (Score: 455131, PASSED).
+[21:33:49] BanchoBot: The match has finished!
+[21:33:51] BCraftMG: !mp map 4016778 0
+[21:33:52] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4016778 onoken feat. Misaki - Gokuaku no Hana
+[21:33:52] BanchoBot: Changed match mode to Osu
+[21:34:06] BanchoBot: All players are ready
+[21:34:09] BCraftMG: !mp settings
+[21:34:11] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q44), History: https://osu.ppy.sh/mp/109606034
+[21:34:11] BanchoBot: Beatmap: https://osu.ppy.sh/b/4016778 onoken feat. Misaki - Gokuaku no Hana
+[21:34:11] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:34:11] BanchoBot: Active mods: NoFail, HardRock
+[21:34:11] BanchoBot: Players: 2
+[21:34:11] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14294171 lolitskoryn     
+[21:34:11] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7274010 Chiharu         
+[21:34:11] BCraftMG: !mp start 5 glhf
+[21:34:12] BanchoBot: Match starts in 5 seconds
+[21:34:12] BanchoBot: Queued the match to start in 5 seconds
+[21:34:14] BanchoBot: Match starts in 4 seconds
+[21:34:15] BanchoBot: Match starts in 3 seconds
+[21:34:15] BanchoBot: Good luck, have fun!
+[21:34:17] Chiharu: glhf
+[21:34:18] BanchoBot: The match has started!
+[21:36:27] BanchoBot: lolitskoryn finished playing (Score: 234524, PASSED).
+[21:36:30] BanchoBot: Chiharu finished playing (Score: 578547, PASSED).
+[21:36:30] BanchoBot: The match has finished!
+[21:36:34] BCraftMG: !mp map 2590758 0
+[21:36:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2590758 K/DA - THE BADDEST feat. (G)I-DLE, Bea Miller, Wolftyla
+[21:36:34] BanchoBot: Changed match mode to Osu
+[21:36:51] BanchoBot: All players are ready
+[21:36:53] BCraftMG: !mp settings
+[21:36:55] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q44), History: https://osu.ppy.sh/mp/109606034
+[21:36:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/2590758 K/DA - THE BADDEST feat. (G)I-DLE, Bea Miller, Wolftyla
+[21:36:55] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:36:55] BanchoBot: Active mods: NoFail, HardRock
+[21:36:55] BanchoBot: Players: 2
+[21:36:55] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14294171 lolitskoryn     
+[21:36:55] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7274010 Chiharu         
+[21:36:55] BCraftMG: !mp start 5 glhf
+[21:36:56] Chiharu: glhfhf
+[21:36:56] BanchoBot: Match starts in 5 seconds
+[21:36:56] BanchoBot: Queued the match to start in 5 seconds
+[21:36:58] BanchoBot: Match starts in 4 seconds
+[21:36:59] BanchoBot: Match starts in 3 seconds
+[21:36:59] BanchoBot: Good luck, have fun!
+[21:37:02] BanchoBot: The match has started!
+[21:37:06] lolitskoryn: hf
+[21:39:42] BanchoBot: Chiharu finished playing (Score: 535659, PASSED).
+[21:39:42] BanchoBot: lolitskoryn finished playing (Score: 268138, PASSED).
+[21:39:42] BanchoBot: The match has finished!
+[21:39:49] BCraftMG: !mp map 3424169 0
+[21:39:50] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3424169 Vaundy - Hadaka no Yuusha
+[21:39:50] BanchoBot: Changed match mode to Osu
+[21:39:54] BCraftMG: !mp mods 65
+[21:39:55] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:40:09] BanchoBot: All players are ready
+[21:40:10] Chiharu: banger
+[21:40:13] BCraftMG: !mp settings
+[21:40:14] lolitskoryn: hfhfh
+[21:40:14] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q44), History: https://osu.ppy.sh/mp/109606034
+[21:40:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/3424169 Vaundy - Hadaka no Yuusha
+[21:40:14] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:40:14] BanchoBot: Active mods: NoFail, DoubleTime
+[21:40:14] BanchoBot: Players: 2
+[21:40:14] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14294171 lolitskoryn     
+[21:40:14] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7274010 Chiharu         
+[21:40:15] BCraftMG: !mp start 5 glhf
+[21:40:15] BanchoBot: Match starts in 5 seconds
+[21:40:15] BanchoBot: Queued the match to start in 5 seconds
+[21:40:17] lolitskoryn: facts
+[21:40:17] BanchoBot: Match starts in 4 seconds
+[21:40:18] BanchoBot: Match starts in 3 seconds
+[21:40:18] BanchoBot: Good luck, have fun!
+[21:40:18] Chiharu: glhf
+[21:40:21] BanchoBot: The match has started!
+[21:42:39] BanchoBot: Chiharu finished playing (Score: 371121, PASSED).
+[21:42:39] BanchoBot: lolitskoryn finished playing (Score: 278322, PASSED).
+[21:42:39] BanchoBot: The match has finished!
+[21:42:45] BCraftMG: !mp map 3228276 0
+[21:42:46] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3228276 senya - Kimiiro Subliminal
+[21:42:46] BanchoBot: Changed match mode to Osu
+[21:43:30] BanchoBot: All players are ready
+[21:43:31] BCraftMG: !mp settings
+[21:43:32] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q44), History: https://osu.ppy.sh/mp/109606034
+[21:43:32] BanchoBot: Beatmap: https://osu.ppy.sh/b/3228276 senya - Kimiiro Subliminal
+[21:43:32] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:43:32] BanchoBot: Active mods: NoFail, DoubleTime
+[21:43:32] BanchoBot: Players: 2
+[21:43:32] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14294171 lolitskoryn     
+[21:43:32] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7274010 Chiharu         
+[21:43:32] BCraftMG: !mp start 5 glhf
+[21:43:33] Chiharu: glhff
+[21:43:33] BanchoBot: Match starts in 5 seconds
+[21:43:33] BanchoBot: Queued the match to start in 5 seconds
+[21:43:35] BanchoBot: Match starts in 4 seconds
+[21:43:36] BanchoBot: Match starts in 3 seconds
+[21:43:36] BanchoBot: Good luck, have fun!
+[21:43:39] BanchoBot: The match has started!
+[21:46:24] BanchoBot: Chiharu finished playing (Score: 596887, PASSED).
+[21:46:26] BanchoBot: lolitskoryn finished playing (Score: 158888, PASSED).
+[21:46:26] BanchoBot: The match has finished!
+[21:46:37] BCraftMG: !mp map 2149694 0
+[21:46:38] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2149694 Enter Shikari - Wall
+[21:46:38] BanchoBot: Changed match mode to Osu
+[21:46:40] BCraftMG: last map :D
+[21:47:13] Chiharu: i hate this song so much ahhhh
+[21:47:23] BanchoBot: All players are ready
+[21:47:27] BCraftMG: !mp settings
+[21:47:28] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q44), History: https://osu.ppy.sh/mp/109606034
+[21:47:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/2149694 Enter Shikari - Wall
+[21:47:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:47:28] BanchoBot: Active mods: NoFail, DoubleTime
+[21:47:28] BanchoBot: Players: 2
+[21:47:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14294171 lolitskoryn     
+[21:47:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7274010 Chiharu         
+[21:47:29] BCraftMG: !mp start 5 glhf
+[21:47:30] BanchoBot: Match starts in 5 seconds
+[21:47:30] BanchoBot: Queued the match to start in 5 seconds
+[21:47:31] BanchoBot: Match starts in 4 seconds
+[21:47:31] Chiharu: glhfhf
+[21:47:33] BanchoBot: Match starts in 3 seconds
+[21:47:33] BanchoBot: Good luck, have fun!
+[21:47:36] BanchoBot: The match has started!
+[21:47:36] lolitskoryn: hf
+[21:50:42] BanchoBot: Chiharu finished playing (Score: 584484, PASSED).
+[21:50:42] BanchoBot: lolitskoryn finished playing (Score: 82492, PASSED).
+[21:50:42] BanchoBot: The match has finished!
+[21:50:48] lolitskoryn: thanks for reffing ! !
+[21:50:50] Chiharu: ggwp!
+[21:50:50] BCraftMG: ggwp:D
+[21:50:53] Chiharu: thanks for reff
+[21:50:53] lolitskoryn: o7
+[21:50:58] BanchoBot: lolitskoryn left the game.
+[21:51:01] Chiharu: o/
+[21:51:02] BanchoBot: Chiharu left the game.
+[21:51:10] BCraftMG: !mp close
+[21:51:12] BanchoBot: Closed the match

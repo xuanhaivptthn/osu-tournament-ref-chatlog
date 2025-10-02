@@ -1,0 +1,540 @@
+[20:55:00] Joined #mp_112309015
+[20:55:00] BCraftMG: !mp settings
+[20:55:01] BanchoBot: Room name: PTFM2: (Qualifiers) vs (C3), History: https://osu.ppy.sh/mp/112309015
+[20:55:01] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[20:55:01] BanchoBot: Players: 0
+[20:55:26] BCraftMG: !mp set 0 3 7
+[20:55:27] BanchoBot: Changed match settings to 7 slots, HeadToHead, ScoreV2
+[20:55:31] BCraftMG: !mp set 0 3 8
+[20:55:31] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[20:56:51] BCraftMG: !mp invite danhhog
+[20:56:52] BanchoBot: Invited danhhog to the room
+[20:56:52] BCraftMG: !mp invite MAKC0H
+[20:56:53] BanchoBot: Invited MAKC0H to the room
+[20:56:55] BCraftMG: !mp invite Mudek
+[20:56:55] BanchoBot: Invited Mudek to the room
+[20:56:56] BCraftMG: !mp invite zaverk
+[20:56:57] BanchoBot: Invited zaverk to the room
+[20:56:58] BCraftMG: !mp invite Azasapag
+[20:56:58] BanchoBot: Invited Azasapag to the room
+[20:56:59] BCraftMG: !mp mods 1
+[20:57:00] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:57:09] BCraftMG: !mp map 3956470
+[20:57:11] BanchoBot: Mudek joined in slot 1.
+[20:57:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3956470 Draw the Emotional - Leia - Remind
+[20:57:15] BanchoBot: zaverk joined in slot 2.
+[20:57:26] Mudek: ку
+[20:57:35] BanchoBot: MAKC0H joined in slot 3.
+[20:57:46] BanchoBot: danhhog joined in slot 4.
+[20:57:51] MAKC0H: zdarova
+[20:57:52] danhhog: wow
+[20:57:54] BanchoBot: Azasapag joined in slot 5.
+[20:57:56] danhhog: skill gap
+[20:58:00] BanchoBot: danhhog moved to slot 6
+[20:58:06] BanchoBot: Azasapag moved to slot 4
+[20:58:08] BanchoBot: Azasapag moved to slot 5
+[20:58:09] danhhog: im the only 5 digits
+[20:58:34] Mudek: me too
+[20:58:38] BCraftMG: !mp settings
+[20:58:39] BanchoBot: Room name: PTFM2: (Qualifiers) vs (C3), History: https://osu.ppy.sh/mp/112309015
+[20:58:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/3956470 Draw the Emotional - Leia - Remind
+[20:58:39] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:58:39] BanchoBot: Active mods: NoFail
+[20:58:39] BanchoBot: Players: 5
+[20:58:39] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/14386534 Mudek           
+[20:58:39] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/4566107 zaverk          
+[20:58:39] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/11222462 MAKC0H          
+[20:58:39] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/18347666 Azasapag        
+[20:58:39] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/23887825 danhhog         
+[20:58:44] BCraftMG: aight
+[20:58:44] BCraftMG: !mp timer 120
+[20:58:45] Azasapag: I'm the only 6 digit
+[20:58:45] BanchoBot: Countdown ends in 2 minutes
+[20:58:50] BCraftMG: 2mins between maps
+[20:58:55] danhhog: what are ya saying :madge:
+[20:59:02] BanchoBot: All players are ready
+[20:59:04] Azasapag: guys
+[20:59:06] Azasapag: this is jumps right?
+[20:59:12] Mudek: no
+[20:59:14] Azasapag: how unjump is this jump map
+[20:59:15] danhhog: no
+[20:59:18] Azasapag: nooooo
+[20:59:19] danhhog: why u say that
+[20:59:40] Azasapag: glhf
+[20:59:45] BCraftMG: !mp settings
+[20:59:46] BanchoBot: Countdown ends in 1 minute
+[20:59:46] BanchoBot: Room name: PTFM2: (Qualifiers) vs (C3), History: https://osu.ppy.sh/mp/112309015
+[20:59:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/3956470 Draw the Emotional - Leia - Remind
+[20:59:46] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:59:46] BanchoBot: Active mods: NoFail
+[20:59:46] BanchoBot: Players: 5
+[20:59:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14386534 Mudek           
+[20:59:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4566107 zaverk          
+[20:59:46] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11222462 MAKC0H          
+[20:59:46] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/18347666 Azasapag        
+[20:59:46] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/23887825 danhhog         
+[20:59:48] BCraftMG: !mp start 5 glhf
+[20:59:48] BanchoBot: Countdown aborted
+[20:59:48] BanchoBot: Match starts in 5 seconds
+[20:59:48] BanchoBot: Queued the match to start in 5 seconds
+[20:59:49] BanchoBot: Match starts in 4 seconds
+[20:59:50] BanchoBot: Match starts in 3 seconds
+[20:59:51] BanchoBot: Good luck, have fun!
+[20:59:53] BanchoBot: The match has started!
+[20:59:54] Mudek: glhf
+[21:04:13] BanchoBot: MAKC0H finished playing (Score: 369149, PASSED).
+[21:04:13] BanchoBot: danhhog finished playing (Score: 98852, PASSED).
+[21:04:13] BanchoBot: Azasapag finished playing (Score: 427900, PASSED).
+[21:04:14] BanchoBot: Mudek finished playing (Score: 370969, PASSED).
+[21:04:15] BanchoBot: zaverk finished playing (Score: 861689, PASSED).
+[21:04:15] BanchoBot: The match has finished!
+[21:04:18] BCraftMG: !mp map 4190716
+[21:04:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4190716 69 de 74 - RTTR
+[21:04:20] BCraftMG: !mp timer 120
+[21:04:20] BanchoBot: Countdown ends in 2 minutes
+[21:04:23] Mudek: ЗАВЕРК ТЫ ЧЕ
+[21:04:26] Azasapag: rip fc zaverk nice score tho
+[21:04:38] Azasapag: who tf put TB on my nm1 tho
+[21:04:38] MAKC0H: заверк ты зачем
+[21:04:52] danhhog: :(
+[21:04:58] danhhog: me copium
+[21:05:21] BanchoBot: Countdown ends in 1 minute
+[21:05:25] BanchoBot: All players are ready
+[21:05:33] Azasapag: glhf
+[21:05:41] BCraftMG: !mp settings
+[21:05:42] BanchoBot: Room name: PTFM2: (Qualifiers) vs (C3), History: https://osu.ppy.sh/mp/112309015
+[21:05:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/4190716 69 de 74 - RTTR
+[21:05:42] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:05:42] BanchoBot: Active mods: NoFail
+[21:05:42] BanchoBot: Players: 5
+[21:05:42] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14386534 Mudek           
+[21:05:42] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4566107 zaverk          
+[21:05:42] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11222462 MAKC0H          
+[21:05:42] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/18347666 Azasapag        
+[21:05:42] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/23887825 danhhog         
+[21:05:43] BCraftMG: !mp start 5 glhf
+[21:05:44] BanchoBot: Countdown aborted
+[21:05:44] BanchoBot: Match starts in 5 seconds
+[21:05:44] BanchoBot: Queued the match to start in 5 seconds
+[21:05:45] BanchoBot: Match starts in 4 seconds
+[21:05:46] BanchoBot: Match starts in 3 seconds
+[21:05:47] BanchoBot: Good luck, have fun!
+[21:05:49] BanchoBot: The match has started!
+[21:08:05] BanchoBot: MAKC0H finished playing (Score: 393056, PASSED).
+[21:08:05] BanchoBot: Mudek finished playing (Score: 362260, PASSED).
+[21:08:06] BanchoBot: zaverk finished playing (Score: 406377, PASSED).
+[21:08:06] BanchoBot: danhhog finished playing (Score: 87884, PASSED).
+[21:08:06] BanchoBot: Azasapag finished playing (Score: 439022, PASSED).
+[21:08:06] BanchoBot: The match has finished!
+[21:08:07] BCraftMG: !mp map 4187402
+[21:08:09] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4187402 FELT - Summer Fever
+[21:08:42] BanchoBot: All players are ready
+[21:08:43] BCraftMG: !mp settings
+[21:08:44] BanchoBot: Room name: PTFM2: (Qualifiers) vs (C3), History: https://osu.ppy.sh/mp/112309015
+[21:08:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/4187402 FELT - Summer Fever
+[21:08:44] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:08:44] BanchoBot: Active mods: NoFail
+[21:08:44] BanchoBot: Players: 5
+[21:08:44] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14386534 Mudek           
+[21:08:44] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4566107 zaverk          
+[21:08:44] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11222462 MAKC0H          
+[21:08:44] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/18347666 Azasapag        
+[21:08:44] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/23887825 danhhog         
+[21:08:45] BCraftMG: !mp start 5 glhf
+[21:08:46] Azasapag: glhf
+[21:08:46] BanchoBot: Match starts in 5 seconds
+[21:08:46] BanchoBot: Queued the match to start in 5 seconds
+[21:08:47] BanchoBot: Match starts in 4 seconds
+[21:08:48] BanchoBot: Match starts in 3 seconds
+[21:08:49] BanchoBot: Good luck, have fun!
+[21:08:51] BanchoBot: The match has started!
+[21:12:54] BanchoBot: danhhog finished playing (Score: 47581, PASSED).
+[21:12:54] BanchoBot: MAKC0H finished playing (Score: 376353, PASSED).
+[21:12:56] BanchoBot: Mudek finished playing (Score: 392191, PASSED).
+[21:12:56] BanchoBot: zaverk finished playing (Score: 315322, PASSED).
+[21:12:56] BanchoBot: Azasapag finished playing (Score: 500675, PASSED).
+[21:12:56] BanchoBot: The match has finished!
+[21:13:00] BCraftMG: !mp map 4457737
+[21:13:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4457737 tokiwa - Gemini
+[21:13:02] BCraftMG: !mp timer 120
+[21:13:03] BanchoBot: Countdown ends in 2 minutes
+[21:13:29] BanchoBot: All players are ready
+[21:13:32] Azasapag: this is a fun map, I've tried it
+[21:13:33] Azasapag: glhf
+[21:13:34] BCraftMG: !mp settings
+[21:13:35] BanchoBot: Room name: PTFM2: (Qualifiers) vs (C3), History: https://osu.ppy.sh/mp/112309015
+[21:13:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/4457737 tokiwa - Gemini
+[21:13:35] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:13:35] BanchoBot: Active mods: NoFail
+[21:13:35] BanchoBot: Players: 5
+[21:13:35] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14386534 Mudek           
+[21:13:35] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4566107 zaverk          
+[21:13:35] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11222462 MAKC0H          
+[21:13:35] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/18347666 Azasapag        
+[21:13:35] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/23887825 danhhog         
+[21:13:36] BCraftMG: !mp start 5 glhf
+[21:13:37] BanchoBot: Countdown aborted
+[21:13:37] BanchoBot: Match starts in 5 seconds
+[21:13:37] BanchoBot: Queued the match to start in 5 seconds
+[21:13:37] BanchoBot: Match starts in 4 seconds
+[21:13:39] BanchoBot: Match starts in 3 seconds
+[21:13:40] BanchoBot: Good luck, have fun!
+[21:13:42] BanchoBot: The match has started!
+[21:16:44] BanchoBot: MAKC0H finished playing (Score: 945297, PASSED).
+[21:16:45] BanchoBot: Mudek finished playing (Score: 657608, PASSED).
+[21:16:45] BanchoBot: zaverk finished playing (Score: 770978, PASSED).
+[21:16:46] BanchoBot: Azasapag finished playing (Score: 943126, PASSED).
+[21:16:46] BanchoBot: danhhog finished playing (Score: 182424, PASSED).
+[21:16:46] BanchoBot: The match has finished!
+[21:16:48] BCraftMG: !mp map 3701331
+[21:16:49] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3701331 Ryu - I'm so Happy
+[21:16:50] BCraftMG: !mp mods 9
+[21:16:51] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:16:52] BCraftMG: !mp timer 120
+[21:16:53] BanchoBot: Countdown ends in 2 minutes
+[21:16:57] danhhog: gyat
+[21:17:01] Azasapag: makcoh :moyai:
+[21:17:02] danhhog: i was able to combo
+[21:17:05] danhhog: map is gud
+[21:17:05] Azasapag: rip fc
+[21:17:12] BanchoBot: Azasapag moved to slot 4
+[21:17:12] Mudek: i missread first stream
+[21:17:16] MAKC0H: rip
+[21:17:51] Azasapag: glhf
+[21:17:53] BanchoBot: Countdown ends in 1 minute
+[21:17:57] BanchoBot: All players are ready
+[21:17:57] BCraftMG: !mp settings
+[21:17:59] BanchoBot: Room name: PTFM2: (Qualifiers) vs (C3), History: https://osu.ppy.sh/mp/112309015
+[21:17:59] BanchoBot: Beatmap: https://osu.ppy.sh/b/3701331 Ryu - I'm so Happy
+[21:17:59] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:17:59] BanchoBot: Active mods: NoFail, Hidden
+[21:17:59] BanchoBot: Players: 5
+[21:17:59] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14386534 Mudek           
+[21:17:59] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4566107 zaverk          
+[21:17:59] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11222462 MAKC0H          
+[21:17:59] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/18347666 Azasapag        
+[21:17:59] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/23887825 danhhog         
+[21:18:00] BCraftMG: !mp start 5 glhf
+[21:18:01] BanchoBot: Countdown aborted
+[21:18:01] BanchoBot: Match starts in 5 seconds
+[21:18:01] BanchoBot: Queued the match to start in 5 seconds
+[21:18:02] BanchoBot: Match starts in 4 seconds
+[21:18:03] BanchoBot: Match starts in 3 seconds
+[21:18:04] BanchoBot: Good luck, have fun!
+[21:18:06] BanchoBot: The match has started!
+[21:19:52] BanchoBot: Mudek finished playing (Score: 134929, PASSED).
+[21:19:53] BanchoBot: zaverk finished playing (Score: 312912, PASSED).
+[21:19:53] BanchoBot: MAKC0H finished playing (Score: 108059, PASSED).
+[21:19:53] BanchoBot: danhhog finished playing (Score: 23898, PASSED).
+[21:19:53] BanchoBot: Azasapag finished playing (Score: 431313, PASSED).
+[21:19:53] BanchoBot: The match has finished!
+[21:20:00] Azasapag: I hate this map
+[21:20:07] BCraftMG: !mp map 3686466
+[21:20:07] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3686466 Last Note. - Mukiryoku Coup D'Etat
+[21:20:10] BCraftMG: !mp mods 17
+[21:20:10] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[21:20:11] BCraftMG: !mp timer 120
+[21:20:11] BanchoBot: Countdown ends in 2 minutes
+[21:20:14] danhhog: uhhh
+[21:20:14] Mudek: and still at 1st place
+[21:20:21] danhhog: who put hd2 in hd1
+[21:20:23] danhhog: lul
+[21:20:25] Azasapag: I hate this mod
+[21:20:33] Mudek: who put hr2 in hr1
+[21:20:45] Azasapag: they put hr1 and hd1 on fm1
+[21:20:58] danhhog: oh yea
+[21:21:01] Azasapag: yeah I think they did lmao
+[21:21:03] Mudek: they put easy mod
+[21:21:05] danhhog: what is this tour about again?
+[21:21:08] Azasapag: lmao ez mod
+[21:21:12] BanchoBot: Countdown ends in 1 minute
+[21:21:13] Azasapag: purple
+[21:21:33] BanchoBot: All players are ready
+[21:21:34] Azasapag: this tourney's gimmick is just multi skillset pool and the screening
+[21:21:39] BCraftMG: !mp settings
+[21:21:39] BanchoBot: Room name: PTFM2: (Qualifiers) vs (C3), History: https://osu.ppy.sh/mp/112309015
+[21:21:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/3686466 Last Note. - Mukiryoku Coup D'Etat
+[21:21:39] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:21:40] BanchoBot: Active mods: NoFail, HardRock
+[21:21:40] BanchoBot: Players: 5
+[21:21:40] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14386534 Mudek           
+[21:21:40] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4566107 zaverk          
+[21:21:40] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11222462 MAKC0H          
+[21:21:40] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/18347666 Azasapag        
+[21:21:40] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/23887825 danhhog         
+[21:21:41] BCraftMG: !mp start 5 glhf
+[21:21:42] BanchoBot: Countdown ends in 30 seconds
+[21:21:42] BanchoBot: Countdown aborted
+[21:21:42] BanchoBot: Match starts in 5 seconds
+[21:21:42] BanchoBot: Queued the match to start in 5 seconds
+[21:21:43] BanchoBot: Match starts in 4 seconds
+[21:21:44] danhhog: oh ok
+[21:21:44] BanchoBot: Match starts in 3 seconds
+[21:21:45] Azasapag: glhf
+[21:21:45] BanchoBot: Good luck, have fun!
+[21:21:47] BanchoBot: The match has started!
+[21:25:51] BanchoBot: MAKC0H finished playing (Score: 517149, PASSED).
+[21:25:51] BanchoBot: danhhog finished playing (Score: 25693, PASSED).
+[21:25:53] BanchoBot: Mudek finished playing (Score: 362756, PASSED).
+[21:25:53] BanchoBot: zaverk finished playing (Score: 558667, PASSED).
+[21:25:53] BanchoBot: Azasapag finished playing (Score: 326428, PASSED).
+[21:25:53] BanchoBot: The match has finished!
+[21:25:54] BCraftMG: !mp map 2833027
+[21:25:55] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2833027 Wavves - Super Soaker
+[21:25:58] BCraftMG: !mp mods EZ NF
+[21:25:59] BanchoBot: Enabled NoFail, Easy, disabled FreeMod
+[21:25:59] BCraftMG: !mp timer 120
+[21:26:00] BanchoBot: Countdown ends in 2 minutes
+[21:26:19] BCraftMG: !mp timer 120
+[21:26:21] BanchoBot: Countdown aborted
+[21:26:21] BanchoBot: Countdown ends in 2 minutes
+[21:26:22] Mudek: afk map
+[21:26:45] danhhog: my mom called
+[21:26:55] danhhog: wait a bit
+[21:27:03] Azasapag: oki
+[21:27:04] Mudek: based
+[21:27:20] Azasapag: oh this tourney is badged
+[21:27:21] BanchoBot: Countdown ends in 1 minute
+[21:27:27] Azasapag: I thought we just get banners and shit
+[21:27:32] Azasapag: fumo
+[21:27:42] MAKC0H: fumo is good
+[21:27:51] Azasapag: I mean\
+[21:27:51] BanchoBot: Countdown ends in 30 seconds
+[21:27:55] Azasapag: fumo is worth more than a badge
+[21:27:58] Mudek: хочу фуму
+[21:27:59] Azasapag: fr
+[21:28:11] BanchoBot: Countdown ends in 10 seconds
+[21:28:16] BanchoBot: Countdown ends in 5 seconds
+[21:28:17] BanchoBot: Countdown ends in 4 seconds
+[21:28:18] BanchoBot: Countdown ends in 3 seconds
+[21:28:19] BanchoBot: Countdown ends in 2 seconds
+[21:28:20] BanchoBot: Countdown ends in 1 second
+[21:28:21] BanchoBot: Countdown finished
+[21:28:29] Mudek: i dont need any badges
+[21:28:33] Mudek: give me da fumo
+[21:28:50] BCraftMG: !mp settings
+[21:28:51] BanchoBot: Room name: PTFM2: (Qualifiers) vs (C3), History: https://osu.ppy.sh/mp/112309015
+[21:28:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/2833027 Wavves - Super Soaker
+[21:28:51] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:28:51] BanchoBot: Active mods: NoFail, Easy
+[21:28:51] BanchoBot: Players: 5
+[21:28:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14386534 Mudek           
+[21:28:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4566107 zaverk          
+[21:28:51] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11222462 MAKC0H          
+[21:28:51] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/18347666 Azasapag        
+[21:28:51] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/23887825 danhhog         
+[21:28:54] BCraftMG: hi
+[21:28:56] BanchoBot: All players are ready
+[21:29:00] Azasapag: glhf
+[21:29:00] danhhog: ye
+[21:29:02] BCraftMG: !mp settings
+[21:29:03] BanchoBot: Room name: PTFM2: (Qualifiers) vs (C3), History: https://osu.ppy.sh/mp/112309015
+[21:29:03] BanchoBot: Beatmap: https://osu.ppy.sh/b/2833027 Wavves - Super Soaker
+[21:29:03] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:29:03] BanchoBot: Active mods: NoFail, Easy
+[21:29:03] BanchoBot: Players: 5
+[21:29:03] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14386534 Mudek           
+[21:29:03] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4566107 zaverk          
+[21:29:03] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11222462 MAKC0H          
+[21:29:03] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/18347666 Azasapag        
+[21:29:03] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/23887825 danhhog         
+[21:29:04] BCraftMG: !mp start 5 glhf
+[21:29:05] BanchoBot: Match starts in 5 seconds
+[21:29:05] BanchoBot: Queued the match to start in 5 seconds
+[21:29:06] Mudek: yo
+[21:29:07] BanchoBot: Match starts in 4 seconds
+[21:29:07] BanchoBot: Match starts in 3 seconds
+[21:29:08] danhhog: i luv fumo
+[21:29:08] Azasapag: mom moment
+[21:29:08] BanchoBot: Good luck, have fun!
+[21:29:10] BanchoBot: The match has started!
+[21:31:47] BanchoBot: zaverk finished playing (Score: 349646, PASSED).
+[21:31:47] BanchoBot: Mudek finished playing (Score: 25717, PASSED).
+[21:31:47] BanchoBot: MAKC0H finished playing (Score: 71884, PASSED).
+[21:31:48] BanchoBot: danhhog finished playing (Score: 7099, PASSED).
+[21:31:50] BanchoBot: Azasapag finished playing (Score: 303066, PASSED).
+[21:31:50] BanchoBot: The match has finished!
+[21:31:56] BCraftMG: !mp map 4171278
+[21:31:57] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4171278 Slam Bamboo - House on Fire
+[21:32:02] BCraftMG: !mp mods Freemod
+[21:32:02] BanchoBot: Disabled all mods, enabled FreeMod
+[21:32:05] Azasapag: aughh
+[21:32:09] Mudek: заверк
+[21:32:13] Mudek: больше не жалуйся на свой скилл
+[21:32:26] BCraftMG: "Freemod rules (Qualifiers) -  At least 1 mod per map,  NF only: .85x, EZ: 1.65x,  EZHD: 1.5x "
+[21:32:34] BCraftMG: !mp timer 120
+[21:32:34] BanchoBot: Countdown ends in 2 minutes
+[21:33:09] BanchoBot: All players are ready
+[21:33:12] Azasapag: glhf
+[21:33:15] BCraftMG: !mp settings
+[21:33:16] BanchoBot: Room name: PTFM2: (Qualifiers) vs (C3), History: https://osu.ppy.sh/mp/112309015
+[21:33:16] BanchoBot: Beatmap: https://osu.ppy.sh/b/4171278 Slam Bamboo - House on Fire
+[21:33:16] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:33:16] BanchoBot: Active mods: Freemod
+[21:33:16] BanchoBot: Players: 5
+[21:33:16] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14386534 Mudek           [NoFail, HardRock]
+[21:33:16] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4566107 zaverk          [NoFail, Hidden]
+[21:33:16] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11222462 MAKC0H          [NoFail, HardRock]
+[21:33:16] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/18347666 Azasapag        [NoFail, Hidden]
+[21:33:16] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/23887825 danhhog         [NoFail, Hidden]
+[21:33:17] BCraftMG: !mp start 5 glhf
+[21:33:17] BanchoBot: Countdown aborted
+[21:33:17] BanchoBot: Match starts in 5 seconds
+[21:33:17] BanchoBot: Queued the match to start in 5 seconds
+[21:33:18] BanchoBot: Match starts in 4 seconds
+[21:33:19] BanchoBot: Match starts in 3 seconds
+[21:33:21] BanchoBot: Good luck, have fun!
+[21:33:23] danhhog: gg
+[21:33:23] BanchoBot: The match has started!
+[21:36:22] BanchoBot: danhhog finished playing (Score: 118578, PASSED).
+[21:36:22] BanchoBot: Mudek finished playing (Score: 355333, PASSED).
+[21:36:23] BanchoBot: zaverk finished playing (Score: 578993, PASSED).
+[21:36:24] BanchoBot: Azasapag finished playing (Score: 288820, PASSED).
+[21:36:24] BanchoBot: MAKC0H finished playing (Score: 491997, PASSED).
+[21:36:24] BanchoBot: The match has finished!
+[21:36:28] BCraftMG: !mp map 4042951
+[21:36:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4042951 Komiya Mao - Yozakura
+[21:36:34] Azasapag: I do not like that map
+[21:36:39] BCraftMG: !mp mods NF Freemod DT
+[21:36:39] BanchoBot: Enabled DoubleTime, enabled FreeMod
+[21:36:41] BCraftMG: "FMDT Rules (Qualifiers) -  Mods are not required,  No penalties for NF only. EZ: 1.65x, EZHD: 1.5x"
+[21:36:46] Azasapag: DT ALREADY?
+[21:36:47] BCraftMG: oh wait
+[21:36:51] BCraftMG: !mp mods Freemod
+[21:36:52] BanchoBot: Disabled all mods, enabled FreeMod
+[21:36:55] Azasapag: NAHH
+[21:36:55] BCraftMG: sorry not yet
+[21:36:59] Azasapag: oh ok
+[21:37:17] BanchoBot: All players are ready
+[21:37:18] BCraftMG: !mp settings
+[21:37:19] BanchoBot: Room name: PTFM2: (Qualifiers) vs (C3), History: https://osu.ppy.sh/mp/112309015
+[21:37:19] BanchoBot: Beatmap: https://osu.ppy.sh/b/4042951 Komiya Mao - Yozakura
+[21:37:19] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:37:19] BanchoBot: Active mods: Freemod
+[21:37:19] BanchoBot: Players: 5
+[21:37:19] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14386534 Mudek           [NoFail, Hidden, HardRock]
+[21:37:19] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4566107 zaverk          [NoFail, Hidden]
+[21:37:19] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11222462 MAKC0H          [NoFail, HardRock]
+[21:37:19] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/18347666 Azasapag        [NoFail, Hidden]
+[21:37:19] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/23887825 danhhog         [NoFail, Hidden]
+[21:37:21] BCraftMG: !mp start 5 glhf
+[21:37:21] BanchoBot: Match starts in 5 seconds
+[21:37:21] BanchoBot: Queued the match to start in 5 seconds
+[21:37:22] BanchoBot: Match starts in 4 seconds
+[21:37:23] BanchoBot: Match starts in 3 seconds
+[21:37:24] Azasapag: glhf
+[21:37:24] BanchoBot: Good luck, have fun!
+[21:37:26] BanchoBot: The match has started!
+[21:39:51] BanchoBot: danhhog finished playing (Score: 34102, PASSED).
+[21:39:51] BanchoBot: zaverk finished playing (Score: 185604, PASSED).
+[21:39:51] BanchoBot: MAKC0H finished playing (Score: 572390, PASSED).
+[21:39:51] BanchoBot: Azasapag finished playing (Score: 236146, PASSED).
+[21:39:52] BanchoBot: Mudek finished playing (Score: 600089, PASSED).
+[21:39:52] BanchoBot: The match has finished!
+[21:40:01] BCraftMG: !mp map 2624224
+[21:40:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2624224 Chiyoko - Come Home! Princess
+[21:40:04] Azasapag: I should have just put ez
+[21:40:04] BCraftMG: now fmdt real
+[21:40:09] BCraftMG: !mp mods Freemod DT
+[21:40:09] BanchoBot: Enabled DoubleTime, enabled FreeMod
+[21:40:11] BCraftMG: !mp timer 120
+[21:40:11] BanchoBot: Countdown ends in 2 minutes
+[21:40:28] Azasapag: what's the ez multiplier for dt
+[21:41:12] BanchoBot: Countdown ends in 1 minute
+[21:41:15] BanchoBot: All players are ready
+[21:41:21] BanchoBot: All players are ready
+[21:41:22] BCraftMG: !mp settings
+[21:41:23] BanchoBot: Room name: PTFM2: (Qualifiers) vs (C3), History: https://osu.ppy.sh/mp/112309015
+[21:41:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/2624224 Chiyoko - Come Home! Princess
+[21:41:23] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:41:23] BanchoBot: Active mods: DoubleTime, Freemod
+[21:41:23] BanchoBot: Players: 5
+[21:41:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14386534 Mudek           [NoFail, Hidden]
+[21:41:23] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4566107 zaverk          [NoFail, Easy]
+[21:41:23] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/11222462 MAKC0H          [NoFail]
+[21:41:23] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/18347666 Azasapag        [NoFail, Easy]
+[21:41:23] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/23887825 danhhog         [NoFail, Hidden]
+[21:41:26] BanchoBot: All players are ready
+[21:41:27] BCraftMG: !mp settings
+[21:41:28] BanchoBot: Room name: PTFM2: (Qualifiers) vs (C3), History: https://osu.ppy.sh/mp/112309015
+[21:41:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/2624224 Chiyoko - Come Home! Princess
+[21:41:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:41:28] BanchoBot: Active mods: DoubleTime, Freemod
+[21:41:28] BanchoBot: Players: 5
+[21:41:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14386534 Mudek           [NoFail, Hidden]
+[21:41:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4566107 zaverk          [NoFail, Easy]
+[21:41:28] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11222462 MAKC0H          [NoFail, Hidden]
+[21:41:28] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/18347666 Azasapag        [NoFail, Easy]
+[21:41:28] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/23887825 danhhog         [NoFail, Hidden]
+[21:41:29] BCraftMG: !mp start 5 glhf
+[21:41:30] BanchoBot: Countdown aborted
+[21:41:30] BanchoBot: Match starts in 5 seconds
+[21:41:30] BanchoBot: Queued the match to start in 5 seconds
+[21:41:31] BanchoBot: Match starts in 4 seconds
+[21:41:32] BanchoBot: Match starts in 3 seconds
+[21:41:33] BanchoBot: Good luck, have fun!
+[21:41:33] Azasapag: glhf
+[21:41:35] BanchoBot: The match has started!
+[21:44:14] BanchoBot: Azasapag finished playing (Score: 162511, PASSED).
+[21:44:14] BanchoBot: MAKC0H finished playing (Score: 530407, PASSED).
+[21:44:15] BanchoBot: Mudek finished playing (Score: 656904, PASSED).
+[21:44:15] BanchoBot: zaverk finished playing (Score: 118197, PASSED).
+[21:44:16] BanchoBot: danhhog finished playing (Score: 26766, PASSED).
+[21:44:16] BanchoBot: The match has finished!
+[21:44:20] Azasapag: lmao
+[21:44:26] Mudek: my worst score
+[21:44:32] Mudek: skull
+[21:44:43] Azasapag: BeZonaurul
+[21:44:51] Azasapag: are the multipliers the same for dt?
+[21:45:05] BCraftMG: !mp map 3764144
+[21:45:06] BCraftMG: um
+[21:45:06] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3764144 -45 - Millarca
+[21:45:13] BCraftMG: yes i think
+[21:45:19] Azasapag: oops wrong ref
+[21:45:27] Azasapag: so nf only will be reduced?
+[21:45:27] BCraftMG: HUH
+[21:45:40] BCraftMG: ah no
+[21:45:45] BCraftMG: "FMDT Rules (Qualifiers) -  Mods are not required,  No penalties for NF only. EZ: 1.65x, EZHD: 1.5x"
+[21:45:53] Azasapag: ah ok
+[21:45:59] Azasapag: still using hd anyways lmao
+[21:46:01] Azasapag: ar 8.4
+[21:46:03] BanchoBot: All players are ready
+[21:46:08] BCraftMG: !mp settings
+[21:46:09] BanchoBot: Room name: PTFM2: (Qualifiers) vs (C3), History: https://osu.ppy.sh/mp/112309015
+[21:46:09] BanchoBot: Beatmap: https://osu.ppy.sh/b/3764144 -45 - Millarca
+[21:46:09] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:46:09] BanchoBot: Active mods: DoubleTime, Freemod
+[21:46:09] BanchoBot: Players: 5
+[21:46:09] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14386534 Mudek           [NoFail, Hidden]
+[21:46:09] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4566107 zaverk          [NoFail, Hidden]
+[21:46:09] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11222462 MAKC0H          [NoFail, Hidden]
+[21:46:09] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/18347666 Azasapag        [NoFail, Hidden]
+[21:46:09] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/23887825 danhhog         [NoFail, Hidden]
+[21:46:10] BCraftMG: !mp start 5 glhf
+[21:46:11] BanchoBot: Match starts in 5 seconds
+[21:46:11] BanchoBot: Queued the match to start in 5 seconds
+[21:46:12] BanchoBot: Match starts in 4 seconds
+[21:46:13] BanchoBot: Match starts in 3 seconds
+[21:46:14] BanchoBot: Good luck, have fun!
+[21:46:16] BanchoBot: The match has started!
+[21:49:12] BanchoBot: Mudek finished playing (Score: 419168, PASSED).
+[21:49:13] BanchoBot: zaverk finished playing (Score: 249182, PASSED).
+[21:49:13] BanchoBot: Azasapag finished playing (Score: 553702, PASSED).
+[21:49:13] BanchoBot: MAKC0H finished playing (Score: 138666, PASSED).
+[21:49:13] BanchoBot: danhhog finished playing (Score: 15554, PASSED).
+[21:49:13] BanchoBot: The match has finished!
+[21:49:17] BanchoBot: zaverk left the game.
+[21:49:17] BCraftMG: woooooooo
+[21:49:23] Azasapag: ah
+[21:49:25] Mudek: WHAT HAPPENED TO MY GAME NOOOOO
+[21:49:35] Mudek: IT WAS SO LAGGY LIKE 15 MS
+[21:49:37] BanchoBot: danhhog left the game.
+[21:49:39] Azasapag: WHAT HAPPENED TO HIS GAME
+[21:49:43] BanchoBot: MAKC0H left the game.
+[21:49:45] Azasapag: oh man
+[21:49:46] BanchoBot: Mudek left the game.
+[21:49:47] Azasapag: unlucky
+[21:49:49] Azasapag: thx for ref
+[21:49:51] BanchoBot: Azasapag left the game.
+[21:50:16] BCraftMG: !mp close
+[21:50:16] BanchoBot: Closed the match

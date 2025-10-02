@@ -1,0 +1,911 @@
+[19:51:33] Joined #mp_107304061
+[19:51:33] BCraftMG: !mp settings
+[19:51:34] BanchoBot: Room name: 5WC2023: (China) vs (Vietnam), History: https://osu.ppy.sh/mp/107304061
+[19:51:34] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[19:51:34] BanchoBot: Players: 0
+[19:51:46] BCraftMG: !mp set 2 3 12
+[19:51:46] BanchoBot: Changed match settings to 12 slots, TeamVs, ScoreV2
+[19:53:24] BCraftMG: !mp invite #3318668
+[19:53:24] BanchoBot: Invited Fakazki to the room
+[19:53:26] BCraftMG: !mp invite #10500832
+[19:53:27] BanchoBot: Invited [Crz]xz1z1z to the room
+[19:54:28] BCraftMG: !mp addref Peti
+[19:54:29] BanchoBot: Added Peti to the match referees
+[19:55:25] BanchoBot: [Crz]xz1z1z joined in slot 1 for team blue.
+[19:55:29] BCraftMG: o/
+[19:55:54] BCraftMG: !mp addref Hoaq
+[19:55:55] [Crz]xz1z1z: o/
+[19:55:55] BanchoBot: Added Hoaq to the match referees
+[19:56:18] BCraftMG: i didnt receive any map from you
+[19:56:32] [Crz]xz1z1z: we skip the warmup ><
+[19:56:47] BCraftMG: alright
+[19:57:13] BCraftMG: !mp map 1161722 0
+[19:57:13] BanchoBot: gxytcgxytc joined in slot 2 for team red.
+[19:57:13] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1161722 Truong Thao Nhi - Anh Chang Nha Ben
+[19:57:13] BanchoBot: Changed match mode to Osu
+[19:57:16] BCraftMG: !mp mods Freemod
+[19:57:17] BanchoBot: gxytcgxytc left the game.
+[19:57:17] BanchoBot: Disabled all mods, enabled FreeMod
+[19:57:25] BCraftMG: here is Vietnam's warm up xd
+[19:57:35] [Crz]xz1z1z: lol
+[19:57:44] BanchoBot: WorthlessPlayer joined in slot 2 for team red.
+[19:57:53] BanchoBot: WorthlessPlayer left the game.
+[19:57:54] BCraftMG: China red + slots 1-4 and Vietnam blue + slots 5-8
+[19:58:29] BanchoBot: Azureus joined in slot 2 for team red.
+[19:59:17] BanchoBot: Azureus changed to Blue
+[19:59:19] BanchoBot: Azureus changed to Red
+[20:00:01] BCraftMG: China red + slots 1-4 btw
+[20:00:19] BanchoBot: [Crz]xz1z1z changed to Red
+[20:00:21] BanchoBot: Eiko Tokura joined in slot 3 for team blue.
+[20:00:32] BanchoBot: Dnwings joined in slot 4 for team red.
+[20:00:34] BanchoBot: Eiko Tokura moved to slot 11
+[20:00:36] BanchoBot: Eiko Tokura moved to slot 3
+[20:00:38] BanchoBot: Fakazki joined in slot 5 for team blue.
+[20:00:39] BanchoBot: Fakazki moved to slot 7
+[20:00:41] BanchoBot: Fakazki moved to slot 5
+[20:00:47] BanchoBot: Dnwings left the game.
+[20:00:55] BanchoBot: Fakazki moved to slot 7
+[20:00:57] BanchoBot: Fakazki moved to slot 6
+[20:01:06] BanchoBot: Azureus left the game.
+[20:01:11] BanchoBot: Eiko Tokura moved to slot 2
+[20:01:22] BanchoBot: Utahmi joined in slot 3 for team blue.
+[20:01:43] BanchoBot: Eiko Tokura changed to Red
+[20:02:03] BanchoBot: Utahmi moved to slot 4
+[20:02:08] BanchoBot: Sonocchoz joined in slot 3 for team blue.
+[20:02:11] BanchoBot: Utahmi left the game.
+[20:02:27] BanchoBot: Kriatix joined in slot 4 for team red.
+[20:02:41] Kriatix: o/
+[20:02:52] BanchoBot: Shadowkingxx joined in slot 5 for team blue.
+[20:02:54] BCraftMG: China red + slots 1-4 and Vietnam blue + slots 5-8
+[20:02:57] BanchoBot: Kriatix changed to Blue
+[20:03:03] BanchoBot: Kriatix moved to slot 7
+[20:03:22] BCraftMG: !mp invite #10542491
+[20:03:22] BanchoBot: Invited -Kiyoko- to the room
+[20:03:29] BanchoBot: -Kiyoko- joined in slot 4 for team red.
+[20:03:38] BanchoBot: Fakazki moved to slot 8
+[20:03:57] BCraftMG: !mp settings
+[20:03:57] BanchoBot: Room name: 5WC2023: (China) vs (Vietnam), History: https://osu.ppy.sh/mp/107304061
+[20:03:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/1161722 Truong Thao Nhi - Anh Chang Nha Ben
+[20:03:57] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:03:57] BanchoBot: Active mods: Freemod
+[20:03:57] BanchoBot: Players: 7
+[20:03:57] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/10500832 [Crz]xz1z1z     [Team Red ]
+[20:03:57] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/9062731 Eiko Tokura     [Team Red ]
+[20:03:57] BanchoBot: Slot 3  No Map    https://osu.ppy.sh/u/14030856 Sonocchoz       [Team Blue / SpunOut]
+[20:03:57] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/10542491 -Kiyoko-        [Team Red ]
+[20:03:57] BanchoBot: Slot 5  No Map    https://osu.ppy.sh/u/14964749 Shadowkingxx    [Team Blue / Hidden]
+[20:03:57] BanchoBot: Slot 7  No Map    https://osu.ppy.sh/u/14783137 Kriatix         [Team Blue]
+[20:03:57] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/3318668 Fakazki         [Team Blue / Hidden]
+[20:04:06] BanchoBot: Kriatix left the game.
+[20:04:44] BanchoBot: Utahmi joined in slot 6 for team red.
+[20:04:51] BanchoBot: Utahmi changed to Blue
+[20:04:56] BCraftMG: !mp move Sonocchoz 7
+[20:04:56] BanchoBot: Sonocchoz moved to slot 7
+[20:04:56] BanchoBot: Moved Sonocchoz into slot 7
+[20:04:58] BCraftMG: !mp host Fakazki
+[20:04:59] BanchoBot: Fakazki became the host.
+[20:04:59] BanchoBot: Changed match host to Fakazki
+[20:05:01] BanchoBot: gxytcgxytc joined in slot 3 for team blue.
+[20:05:04] BanchoBot: Utahmi changed to Red
+[20:05:20] Utahmi: we are the vietnamese goblin
+[20:05:34] BanchoBot: updraft joined in slot 9 for team blue.
+[20:05:42] BanchoBot: Utahmi changed to Blue
+[20:05:44] Sonocchoz: "cuter than nanahira" w
+[20:06:01] BanchoBot: -Kiyoko- changed to Blue
+[20:06:02] BanchoBot: Utahmi left the game.
+[20:06:03] BanchoBot: -Kiyoko- changed to Red
+[20:06:11] BanchoBot: Utahmi joined in slot 6 for team red.
+[20:06:16] BanchoBot: Utahmi changed to Blue
+[20:06:20] Fakazki: ok
+[20:06:23] BanchoBot: Fakazki changed to Red
+[20:06:27] gxytcgxytc: ?
+[20:06:34] Fakazki: :tf:
+[20:06:35] BanchoBot: The match has started!
+[20:08:55] BanchoBot: updraft finished playing (Score: 404409, PASSED).
+[20:08:57] BanchoBot: Eiko Tokura finished playing (Score: 291319, PASSED).
+[20:08:58] BanchoBot: Fakazki finished playing (Score: 294823, PASSED).
+[20:09:01] BanchoBot: -Kiyoko- finished playing (Score: 374493, PASSED).
+[20:09:01] BanchoBot: [Crz]xz1z1z finished playing (Score: 386522, PASSED).
+[20:09:02] BanchoBot: Sonocchoz finished playing (Score: 389409, PASSED).
+[20:09:02] BanchoBot: Shadowkingxx finished playing (Score: 189699, PASSED).
+[20:09:03] BanchoBot: Utahmi finished playing (Score: 323257, PASSED).
+[20:09:07] BanchoBot: gxytcgxytc finished playing (Score: 396127, PASSED).
+[20:09:07] BanchoBot: The match has finished!
+[20:09:12] BCraftMG: that took a while
+[20:09:14] BCraftMG: !mp clearhost
+[20:09:15] BanchoBot: Cleared match host
+[20:09:17] BCraftMG: Roll time :D
+[20:09:27] updraft: i love mixue
+[20:09:32] BanchoBot: Shadowkingxx left the game.
+[20:09:32] updraft: <:3
+[20:09:37] BanchoBot: gxytcgxytc changed to Red
+[20:09:44] BanchoBot: -Kiyoko- changed to Blue
+[20:09:46] Fakazki: !roll
+[20:09:46] BanchoBot: Fakazki rolls 66 point(s)
+[20:10:10] BanchoBot: Fakazki changed to Blue
+[20:10:12] BanchoBot: Fakazki moved to slot 5
+[20:10:19] BanchoBot: updraft moved to slot 8
+[20:10:21] [Crz]xz1z1z: !roll
+[20:10:21] BanchoBot: [Crz]xz1z1z rolls 39 point(s)
+[20:10:28] BanchoBot: updraft left the game.
+[20:10:39] BCraftMG: The winner of the roll will protect second, ban first, and pick first
+[20:10:55] BCraftMG: China protect
+[20:10:56] -Kiyoko-: I love mixue bing chilling
+[20:10:57] BCraftMG: !mp timer 120
+[20:10:59] BanchoBot: Countdown ends in 2 minutes
+[20:11:04] BanchoBot: [Geno] joined in slot 8 for team red.
+[20:11:19] -Kiyoko-: 你爱我 我爱你
+[20:11:24] -Kiyoko-: 蜜雪冰城甜蜜蜜
+[20:11:32] [Crz]xz1z1z: we protect NM4
+[20:11:38] gxytcgxytc: OAO
+[20:11:46] BCraftMG: Next Protect: Vietnam
+[20:11:46] BCraftMG: !mp timer 120
+[20:11:47] BanchoBot: Countdown aborted
+[20:11:47] BanchoBot: Countdown ends in 2 minutes
+[20:11:54] Fakazki: protect NM2
+[20:12:03] BCraftMG: First Ban: Vietnam
+[20:12:03] BCraftMG: !mp timer 120
+[20:12:05] BanchoBot: gxytcgxytc left the game.
+[20:12:05] BanchoBot: Countdown aborted
+[20:12:05] BanchoBot: Countdown ends in 2 minutes
+[20:12:23] Eiko_Tokura: OAO
+[20:12:35] BanchoBot: Utahmi left the game.
+[20:12:46] Fakazki: ban NM5
+[20:12:58] BCraftMG: Next Ban: China
+[20:13:00] BCraftMG: !mp timer 120
+[20:13:00] BanchoBot: Countdown aborted
+[20:13:00] BanchoBot: Countdown ends in 2 minutes
+[20:13:27] [Crz]xz1z1z: ban DT3
+[20:13:35] BCraftMG: China | 0 - 0 | Vietnam // Bo9 - First Pick: Vietnam
+[20:13:37] BCraftMG: !mp timer 120
+[20:13:37] BanchoBot: Countdown aborted
+[20:13:37] BanchoBot: Countdown ends in 2 minutes
+[20:13:53] BanchoBot: updraft joined in slot 3 for team blue.
+[20:13:53] BanchoBot: -Kiyoko- moved to slot 6
+[20:14:00] BanchoBot: Azureus joined in slot 4 for team red.
+[20:14:17] Fakazki: pick HR1
+[20:14:25] BanchoBot: Utahmi joined in slot 9 for team blue.
+[20:14:36] BCraftMG: !mp map 3494393 0
+[20:14:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3494393 YUC'e - Cinnamon Symphony
+[20:14:36] BanchoBot: Changed match mode to Osu
+[20:14:37] BanchoBot: [Geno] left the game.
+[20:14:37] BanchoBot: Countdown ends in 1 minute
+[20:14:38] BCraftMG: !mp mods 17
+[20:14:39] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[20:14:40] BCraftMG: !mp timer 120
+[20:14:40] BanchoBot: Sonocchoz left the game.
+[20:14:40] BanchoBot: Countdown aborted
+[20:14:40] BanchoBot: Countdown ends in 2 minutes
+[20:14:49] BCraftMG: once again, China red + slots 1-4 and Vietnam blue + slots 5-8
+[20:14:49] BanchoBot: updraft moved to slot 7
+[20:14:49] BanchoBot: [Crz]xz1z1z moved to slot 12
+[20:14:52] BanchoBot: Utahmi moved to slot 8
+[20:15:21] BanchoBot: gxytcgxytc joined in slot 1 for team blue.
+[20:15:24] BanchoBot: Michka joined in slot 3 for team blue.
+[20:15:26] BanchoBot: gxytcgxytc left the game.
+[20:15:27] BanchoBot: Michka changed to Red
+[20:15:30] BanchoBot: [Crz]xz1z1z left the game.
+[20:15:40] BanchoBot: Countdown ends in 1 minute
+[20:15:50] Utahmi: etetetetetetetete
+[20:15:52] Utahmi: vaxei
+[20:16:11] BanchoBot: Eiko Tokura moved to slot 11
+[20:16:11] BanchoBot: Countdown ends in 30 seconds
+[20:16:12] Utahmi: updraft when hr1 yuc'e map
+[20:16:12] BanchoBot: Eiko Tokura moved to slot 2
+[20:16:13] BanchoBot: Dnwings joined in slot 1 for team blue.
+[20:16:16] BanchoBot: Dnwings changed to Red
+[20:16:31] BanchoBot: Countdown ends in 10 seconds
+[20:16:31] Michka: glhf
+[20:16:35] BanchoBot: Countdown ends in 5 seconds
+[20:16:36] Dnwings: glgl
+[20:16:36] BanchoBot: Countdown ends in 4 seconds
+[20:16:38] BanchoBot: Countdown ends in 3 seconds
+[20:16:38] BanchoBot: All players are ready
+[20:16:39] BanchoBot: Countdown ends in 2 seconds
+[20:16:39] -Kiyoko-: hfhf
+[20:16:39] BanchoBot: Countdown ends in 1 second
+[20:16:40] updraft: glhf
+[20:16:40] BanchoBot: Countdown finished
+[20:16:44] Azureus: gl
+[20:16:45] BCraftMG: !mp settings
+[20:16:46] BanchoBot: Room name: 5WC2023: (China) vs (Vietnam), History: https://osu.ppy.sh/mp/107304061
+[20:16:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/3494393 YUC'e - Cinnamon Symphony
+[20:16:46] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:16:46] BanchoBot: Active mods: NoFail, HardRock
+[20:16:46] BanchoBot: Players: 8
+[20:16:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8947019 Dnwings         [Team Red ]
+[20:16:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9062731 Eiko Tokura     [Team Red ]
+[20:16:46] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10636530 Michka          [Team Red ]
+[20:16:46] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6938658 Azureus         [Team Red ]
+[20:16:46] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/3318668 Fakazki         [Team Blue]
+[20:16:46] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10542491 -Kiyoko-        [Team Blue]
+[20:16:46] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11688228 updraft         [Team Blue]
+[20:16:46] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/18948749 Utahmi          [Team Blue]
+[20:16:47] Fakazki: golf
+[20:16:47] BCraftMG: !mp start 5 glhf
+[20:16:48] BanchoBot: Match starts in 5 seconds
+[20:16:48] BanchoBot: Queued the match to start in 5 seconds
+[20:16:49] BanchoBot: Match starts in 4 seconds
+[20:16:51] BanchoBot: Match starts in 3 seconds
+[20:16:52] BanchoBot: Good luck, have fun!
+[20:16:53] BanchoBot: The match has started!
+[20:16:55] Utahmi: etete
+[20:19:52] BanchoBot: Fakazki finished playing (Score: 630956, PASSED).
+[20:19:52] BanchoBot: Eiko Tokura finished playing (Score: 821963, PASSED).
+[20:19:53] BanchoBot: -Kiyoko- finished playing (Score: 384670, PASSED).
+[20:19:53] BanchoBot: Michka finished playing (Score: 997629, PASSED).
+[20:19:53] BanchoBot: Utahmi finished playing (Score: 441954, PASSED).
+[20:19:53] BanchoBot: Dnwings finished playing (Score: 547504, PASSED).
+[20:19:53] BanchoBot: Azureus finished playing (Score: 447361, PASSED).
+[20:19:53] BanchoBot: updraft finished playing (Score: 953673, PASSED).
+[20:19:53] BanchoBot: The match has finished!
+[20:20:05] BCraftMG: China | 1 - 0 | Vietnam // Bo9 - Next Pick: China
+[20:20:05] BCraftMG: !mp timer 120
+[20:20:06] BanchoBot: Countdown ends in 2 minutes
+[20:20:28] BanchoBot: [Crz]xz1z1z joined in slot 9 for team blue.
+[20:20:35] BanchoBot: -Kiyoko- left the game.
+[20:20:47] BanchoBot: Dnwings moved to slot 10
+[20:20:48] BanchoBot: gxytcgxytc joined in slot 1 for team blue.
+[20:20:52] BanchoBot: [Geno] joined in slot 6 for team red.
+[20:20:52] BanchoBot: Dnwings left the game.
+[20:20:55] BanchoBot: Azureus moved to slot 12
+[20:20:59] BanchoBot: Michka left the game.
+[20:20:59] BanchoBot: Sonocchoz joined in slot 3 for team blue.
+[20:21:03] BanchoBot: [Geno] moved to slot 11
+[20:21:07] BanchoBot: Countdown ends in 1 minute
+[20:21:13] [Crz]xz1z1z: we pick HD1
+[20:21:15] BanchoBot: Azureus left the game.
+[20:21:16] BanchoBot: Sonocchoz moved to slot 10
+[20:21:22] BCraftMG: !mp map 3666660 0
+[20:21:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3666660 kors k - Insane Techniques
+[20:21:23] BanchoBot: Changed match mode to Osu
+[20:21:24] BanchoBot: [Crz]xz1z1z changed to Red
+[20:21:24] BCraftMG: !mp mods 9
+[20:21:25] BanchoBot: Utahmi left the game.
+[20:21:25] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[20:21:26] BCraftMG: !mp timer 120
+[20:21:26] BanchoBot: Countdown aborted
+[20:21:26] BanchoBot: Countdown ends in 2 minutes
+[20:21:28] BanchoBot: Sonocchoz moved to slot 6
+[20:21:29] BanchoBot: [Crz]xz1z1z moved to slot 4
+[20:21:31] BanchoBot: Shadowkingxx joined in slot 3 for team blue.
+[20:21:42] BanchoBot: [Geno] moved to slot 8
+[20:21:43] BanchoBot: Shadowkingxx moved to slot 10
+[20:22:01] BanchoBot: WorthlessPlayer joined in slot 3 for team blue.
+[20:22:09] BanchoBot: WorthlessPlayer changed to Red
+[20:22:22] BanchoBot: gxytcgxytc changed to Red
+[20:22:23] BanchoBot: [Geno] moved to slot 12
+[20:22:25] BanchoBot: [Geno] moved to slot 11
+[20:22:25] BanchoBot: Shadowkingxx moved to slot 8
+[20:22:27] BanchoBot: [Geno] left the game.
+[20:22:27] BanchoBot: Countdown ends in 1 minute
+[20:22:57] BanchoBot: Countdown ends in 30 seconds
+[20:23:17] BanchoBot: Countdown ends in 10 seconds
+[20:23:22] BanchoBot: Countdown ends in 5 seconds
+[20:23:23] BanchoBot: Countdown ends in 4 seconds
+[20:23:24] BanchoBot: Countdown ends in 3 seconds
+[20:23:24] BanchoBot: Countdown ends in 2 seconds
+[20:23:26] BanchoBot: Countdown ends in 1 second
+[20:23:27] BanchoBot: Countdown finished
+[20:23:27] BCraftMG: !mp settings
+[20:23:28] BanchoBot: All players are ready
+[20:23:28] BanchoBot: Room name: 5WC2023: (China) vs (Vietnam), History: https://osu.ppy.sh/mp/107304061
+[20:23:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/3666660 kors k - Insane Techniques
+[20:23:29] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:23:29] BanchoBot: Active mods: NoFail, Hidden
+[20:23:29] BanchoBot: Players: 8
+[20:23:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/874891 gxytcgxytc      [Team Red ]
+[20:23:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9062731 Eiko Tokura     [Team Red ]
+[20:23:29] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13858681 WorthlessPlayer [Team Red ]
+[20:23:29] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10500832 [Crz]xz1z1z     [Team Red ]
+[20:23:29] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/3318668 Fakazki         [Team Blue]
+[20:23:29] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/14030856 Sonocchoz       [Team Blue]
+[20:23:29] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11688228 updraft         [Team Blue]
+[20:23:29] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/14964749 Shadowkingxx    [Team Blue]
+[20:23:31] BCraftMG: !mp settings
+[20:23:32] BanchoBot: Room name: 5WC2023: (China) vs (Vietnam), History: https://osu.ppy.sh/mp/107304061
+[20:23:32] BanchoBot: Beatmap: https://osu.ppy.sh/b/3666660 kors k - Insane Techniques
+[20:23:32] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:23:32] BanchoBot: Active mods: NoFail, Hidden
+[20:23:32] BanchoBot: Players: 8
+[20:23:32] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/874891 gxytcgxytc      [Team Red ]
+[20:23:32] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9062731 Eiko Tokura     [Team Red ]
+[20:23:32] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13858681 WorthlessPlayer [Team Red ]
+[20:23:32] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10500832 [Crz]xz1z1z     [Team Red ]
+[20:23:32] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/3318668 Fakazki         [Team Blue]
+[20:23:32] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/14030856 Sonocchoz       [Team Blue]
+[20:23:32] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11688228 updraft         [Team Blue]
+[20:23:32] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/14964749 Shadowkingxx    [Team Blue]
+[20:23:33] BCraftMG: !mp start 5 glhf
+[20:23:33] BanchoBot: Match starts in 5 seconds
+[20:23:33] BanchoBot: Queued the match to start in 5 seconds
+[20:23:35] BanchoBot: Match starts in 4 seconds
+[20:23:36] BanchoBot: Match starts in 3 seconds
+[20:23:37] BanchoBot: Good luck, have fun!
+[20:23:37] gxytcgxytc: hf
+[20:23:37] Shadowkingxx: golf!!
+[20:23:39] BanchoBot: The match has started!
+[20:23:43] updraft: glhf
+[20:25:53] BanchoBot: Sonocchoz finished playing (Score: 418205, PASSED).
+[20:25:53] BanchoBot: gxytcgxytc finished playing (Score: 360631, PASSED).
+[20:25:53] BanchoBot: WorthlessPlayer finished playing (Score: 503028, PASSED).
+[20:25:53] BanchoBot: Shadowkingxx finished playing (Score: 345232, PASSED).
+[20:25:53] BanchoBot: updraft finished playing (Score: 288769, PASSED).
+[20:25:55] BanchoBot: Fakazki finished playing (Score: 788403, PASSED).
+[20:25:55] BanchoBot: Eiko Tokura finished playing (Score: 413756, PASSED).
+[20:26:28] BanchoBot: [Crz]xz1z1z finished playing (Score: 613702, PASSED).
+[20:26:28] BanchoBot: The match has finished!
+[20:26:40] BCraftMG: China | 2 - 0 | Vietnam // Bo9 - Next Pick: Vietnam
+[20:26:41] BCraftMG: !mp timer 120
+[20:26:43] BanchoBot: Countdown ends in 2 minutes
+[20:26:49] BanchoBot: Dnwings joined in slot 9 for team blue.
+[20:26:58] BanchoBot: Shadowkingxx left the game.
+[20:27:01] BanchoBot: Shadowkingxx joined in slot 8 for team red.
+[20:27:04] BanchoBot: [Geno] joined in slot 10 for team red.
+[20:27:04] BanchoBot: Shadowkingxx changed to Blue
+[20:27:04] Fakazki: NM2
+[20:27:06] BanchoBot: Fakazki moved to slot 11
+[20:27:13] BCraftMG: !mp map 4020280 0
+[20:27:14] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4020280 SOUND HOLIC feat. YURiCa - WITCH HUNT
+[20:27:14] BanchoBot: Changed match mode to Osu
+[20:27:14] BCraftMG: !mp mods 1
+[20:27:15] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:27:16] BCraftMG: !mp timer 120
+[20:27:17] BanchoBot: Countdown aborted
+[20:27:17] BanchoBot: Countdown ends in 2 minutes
+[20:27:24] BanchoBot: Azureus joined in slot 5 for team blue.
+[20:27:26] BanchoBot: Fakazki left the game.
+[20:27:30] BanchoBot: Azureus moved to slot 11
+[20:27:30] BanchoBot: Dnwings left the game.
+[20:27:30] BanchoBot: Azureus changed to Red
+[20:27:36] BanchoBot: [Geno] moved to slot 5
+[20:27:38] BanchoBot: [Geno] changed to Blue
+[20:28:18] BanchoBot: Countdown ends in 1 minute
+[20:28:24] BanchoBot: -Hermit- joined in slot 9 for team blue.
+[20:28:34] BanchoBot: WorthlessPlayer moved to slot 10
+[20:28:34] BanchoBot: -Hermit- moved to slot 3
+[20:28:34] BanchoBot: WorthlessPlayer left the game.
+[20:28:36] BanchoBot: -Hermit- changed to Red
+[20:28:48] BanchoBot: Countdown ends in 30 seconds
+[20:29:07] BanchoBot: Countdown ends in 10 seconds
+[20:29:07] Azureus: kick eiko tokura please
+[20:29:08] Azureus: @ref
+[20:29:11] [Geno]: golf
+[20:29:13] BanchoBot: Countdown ends in 5 seconds
+[20:29:13] BanchoBot: Countdown ends in 4 seconds
+[20:29:15] BanchoBot: Countdown ends in 3 seconds
+[20:29:15] BanchoBot: Countdown ends in 2 seconds
+[20:29:16] BanchoBot: Countdown ends in 1 second
+[20:29:17] BanchoBot: Countdown finished
+[20:29:19] Azureus: and xz1z1z and gxytc
+[20:29:19] BCraftMG: !mp kick Eiko Tokura
+[20:29:20] BanchoBot: Eiko Tokura left the game.
+[20:29:20] BanchoBot: Kicked Eiko Tokura from the match
+[20:29:21] BCraftMG: ?
+[20:29:25] BanchoBot: Azureus moved to slot 2
+[20:29:29] Azureus: they lag
+[20:29:30] [Geno]: kek
+[20:29:32] BCraftMG: !mp kick [Crz]xz1z1z
+[20:29:33] BanchoBot: [Crz]xz1z1z left the game.
+[20:29:33] BanchoBot: Kicked [Crz]xz1z1z from the match
+[20:29:47] BCraftMG: !mp kick gxytcgxytc
+[20:29:49] BanchoBot: Dnwings joined in slot 4 for team red.
+[20:29:49] BanchoBot: gxytcgxytc left the game.
+[20:29:49] BanchoBot: User is not in the match!
+[20:29:50] BanchoBot: Dnwings moved to slot 10
+[20:29:55] BCraftMG: !mp settings
+[20:29:57] BanchoBot: gxytcgxytc joined in slot 1 for team blue.
+[20:29:57] BanchoBot: Room name: 5WC2023: (China) vs (Vietnam), History: https://osu.ppy.sh/mp/107304061
+[20:29:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/4020280 SOUND HOLIC feat. YURiCa - WITCH HUNT
+[20:29:57] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:29:57] BanchoBot: Active mods: NoFail
+[20:29:57] BanchoBot: Players: 8
+[20:29:57] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/874891 gxytcgxytc      [Team Blue]
+[20:29:57] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/6938658 Azureus         [Team Red ]
+[20:29:57] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7175234 -Hermit-        [Team Red ]
+[20:29:57] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/6790404 [Geno]          [Team Blue]
+[20:29:57] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/14030856 Sonocchoz       [Team Blue]
+[20:29:57] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11688228 updraft         [Team Blue]
+[20:29:57] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/14964749 Shadowkingxx    [Team Blue]
+[20:29:57] BanchoBot: Slot 10 Not Ready https://osu.ppy.sh/u/8947019 Dnwings         [Team Red ]
+[20:29:59] BCraftMG: !mp timer 30
+[20:30:00] BanchoBot: gxytcgxytc changed to Red
+[20:30:00] BanchoBot: WorthlessPlayer joined in slot 4 for team red.
+[20:30:00] BanchoBot: Countdown ends in 30 seconds
+[20:30:01] BCraftMG: last 30s
+[20:30:08] BanchoBot: Dnwings left the game.
+[20:30:19] [Geno]: golf
+[20:30:19] gxytcgxytc: ready
+[20:30:21] BanchoBot: Countdown ends in 10 seconds
+[20:30:21] gxytcgxytc: hf
+[20:30:21] Azureus: glhf
+[20:30:26] BanchoBot: Countdown ends in 5 seconds
+[20:30:26] BanchoBot: Countdown ends in 4 seconds
+[20:30:28] BanchoBot: Countdown ends in 3 seconds
+[20:30:30] BanchoBot: Countdown ends in 2 seconds
+[20:30:30] BanchoBot: Countdown ends in 1 second
+[20:30:30] WorthlessPlayer: gl
+[20:30:31] BanchoBot: Countdown finished
+[20:30:31] BCraftMG: !mp settings
+[20:30:32] BanchoBot: Room name: 5WC2023: (China) vs (Vietnam), History: https://osu.ppy.sh/mp/107304061
+[20:30:32] BanchoBot: Beatmap: https://osu.ppy.sh/b/4020280 SOUND HOLIC feat. YURiCa - WITCH HUNT
+[20:30:32] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:30:32] BanchoBot: Active mods: NoFail
+[20:30:32] BanchoBot: Players: 8
+[20:30:32] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/874891 gxytcgxytc      [Team Red ]
+[20:30:32] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6938658 Azureus         [Team Red ]
+[20:30:32] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7175234 -Hermit-        [Team Red ]
+[20:30:32] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13858681 WorthlessPlayer [Team Red ]
+[20:30:32] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/6790404 [Geno]          [Team Blue]
+[20:30:32] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/14030856 Sonocchoz       [Team Blue]
+[20:30:32] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11688228 updraft         [Team Blue]
+[20:30:32] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/14964749 Shadowkingxx    [Team Blue]
+[20:30:34] BCraftMG: Ready up!
+[20:30:35] updraft: glhf
+[20:30:44] gxytcgxytc: Shadowkingxx
+[20:30:45] BanchoBot: All players are ready
+[20:30:46] BCraftMG: !mp settings
+[20:30:48] BanchoBot: Room name: 5WC2023: (China) vs (Vietnam), History: https://osu.ppy.sh/mp/107304061
+[20:30:48] BanchoBot: Beatmap: https://osu.ppy.sh/b/4020280 SOUND HOLIC feat. YURiCa - WITCH HUNT
+[20:30:48] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:30:48] BanchoBot: Active mods: NoFail
+[20:30:48] BanchoBot: Players: 8
+[20:30:48] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/874891 gxytcgxytc      [Team Red ]
+[20:30:48] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6938658 Azureus         [Team Red ]
+[20:30:48] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7175234 -Hermit-        [Team Red ]
+[20:30:48] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13858681 WorthlessPlayer [Team Red ]
+[20:30:48] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/6790404 [Geno]          [Team Blue]
+[20:30:48] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/14030856 Sonocchoz       [Team Blue]
+[20:30:48] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11688228 updraft         [Team Blue]
+[20:30:48] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/14964749 Shadowkingxx    [Team Blue]
+[20:30:49] BCraftMG: !mp start 5 glhf
+[20:30:49] BanchoBot: Match starts in 5 seconds
+[20:30:49] BanchoBot: Queued the match to start in 5 seconds
+[20:30:50] BanchoBot: Match starts in 4 seconds
+[20:30:52] BanchoBot: Match starts in 3 seconds
+[20:30:53] BanchoBot: Good luck, have fun!
+[20:30:54] gxytcgxytc: hfhf
+[20:30:54] BanchoBot: The match has started!
+[20:30:56] Shadowkingxx: golf
+[20:30:57] Shadowkingxx: !
+[20:32:59] BanchoBot: WorthlessPlayer finished playing (Score: 854960, PASSED).
+[20:32:59] BanchoBot: Shadowkingxx finished playing (Score: 893842, PASSED).
+[20:32:59] BanchoBot: [Geno] finished playing (Score: 530534, PASSED).
+[20:32:59] BanchoBot: Sonocchoz finished playing (Score: 959508, PASSED).
+[20:32:59] BanchoBot: gxytcgxytc finished playing (Score: 905791, PASSED).
+[20:33:00] BanchoBot: Azureus finished playing (Score: 946144, PASSED).
+[20:33:00] BanchoBot: updraft finished playing (Score: 976920, PASSED).
+[20:33:00] BanchoBot: -Hermit- finished playing (Score: 714158, PASSED).
+[20:33:00] BanchoBot: The match has finished!
+[20:33:10] BanchoBot: -Hermit- left the game.
+[20:33:23] BCraftMG: China | 3 - 0 | Vietnam // Bo9 - Next Pick: China
+[20:33:24] BCraftMG: !mp timer 120
+[20:33:25] BanchoBot: Countdown ends in 2 minutes
+[20:33:32] BanchoBot: Fakazki joined in slot 3 for team blue.
+[20:33:50] BanchoBot: updraft left the game.
+[20:34:17] BanchoBot: [Geno] moved to slot 10
+[20:34:19] BanchoBot: [Geno] moved to slot 12
+[20:34:23] BanchoBot: Fakazki moved to slot 7
+[20:34:24] BanchoBot: Fakazki moved to slot 5
+[20:34:25] BanchoBot: Countdown ends in 1 minute
+[20:34:32] gxytcgxytc: fm1
+[20:34:32] Azureus: fm1
+[20:34:44] BanchoBot: Azureus moved to slot 11
+[20:34:46] BCraftMG: !mp map 3317518 0
+[20:34:46] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3317518 MEMAI SIREN - ajisai
+[20:34:46] BanchoBot: Changed match mode to Osu
+[20:34:47] BCraftMG: !mp mods Freemod
+[20:34:48] BanchoBot: Eiko Tokura joined in slot 2 for team red.
+[20:34:48] BCraftMG: !mp timer 120
+[20:34:49] BanchoBot: Sonocchoz left the game.
+[20:34:49] BanchoBot: Disabled all mods, enabled FreeMod
+[20:34:50] BanchoBot: Countdown aborted
+[20:34:50] BanchoBot: Countdown ends in 2 minutes
+[20:34:52] BanchoBot: [Geno] left the game.
+[20:35:14] BanchoBot: Azureus left the game.
+[20:35:17] BanchoBot: Utahmi joined in slot 3 for team blue.
+[20:35:17] BanchoBot: [Crz]xz1z1z joined in slot 6 for team red.
+[20:35:21] BanchoBot: updraft joined in slot 7 for team blue.
+[20:35:21] BanchoBot: [Crz]xz1z1z moved to slot 10
+[20:35:22] BanchoBot: gxytcgxytc moved to slot 11
+[20:35:23] BanchoBot: Utahmi left the game.
+[20:35:26] BanchoBot: [Crz]xz1z1z moved to slot 3
+[20:35:27] BanchoBot: Michka joined in slot 1 for team blue.
+[20:35:27] BanchoBot: Shadowkingxx moved to slot 6
+[20:35:38] BanchoBot: Utahmi joined in slot 8 for team red.
+[20:35:39] BanchoBot: Michka changed to Red
+[20:35:42] BanchoBot: Utahmi changed to Blue
+[20:35:46] BanchoBot: gxytcgxytc left the game.
+[20:35:51] BanchoBot: Countdown ends in 1 minute
+[20:36:04] BanchoBot: Utahmi left the game.
+[20:36:21] BanchoBot: Countdown ends in 30 seconds
+[20:36:41] BanchoBot: Countdown ends in 10 seconds
+[20:36:46] BanchoBot: Countdown ends in 5 seconds
+[20:36:47] BanchoBot: Countdown ends in 4 seconds
+[20:36:47] BanchoBot: Countdown ends in 3 seconds
+[20:36:49] BanchoBot: Countdown ends in 2 seconds
+[20:36:50] BanchoBot: Countdown ends in 1 second
+[20:36:51] BanchoBot: Countdown finished
+[20:36:52] BCraftMG: !mp settings
+[20:36:53] BanchoBot: Room name: 5WC2023: (China) vs (Vietnam), History: https://osu.ppy.sh/mp/107304061
+[20:36:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/3317518 MEMAI SIREN - ajisai
+[20:36:53] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:36:53] BanchoBot: Active mods: Freemod
+[20:36:53] BanchoBot: Players: 7
+[20:36:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10636530 Michka          [Team Red  / NoFail, HardRock]
+[20:36:53] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9062731 Eiko Tokura     [Team Red  / NoFail, Hidden]
+[20:36:53] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10500832 [Crz]xz1z1z     [Team Red  / NoFail, Hidden]
+[20:36:53] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13858681 WorthlessPlayer [Team Red  / NoFail, Hidden]
+[20:36:53] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/3318668 Fakazki         [Team Blue / NoFail, Hidden]
+[20:36:53] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/14964749 Shadowkingxx    [Team Blue / NoFail, Hidden]
+[20:36:53] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/11688228 updraft         [Team Blue / NoFail, HardRock]
+[20:37:03] updraft: we need another 30 seconds
+[20:37:05] [Crz]xz1z1z: ..?
+[20:37:06] updraft: my teammate is lagging
+[20:37:10] BCraftMG: !mp timer 30
+[20:37:11] BanchoBot: Countdown ends in 30 seconds
+[20:37:15] BCraftMG: SEA internet belike
+[20:37:17] updraft: sorry team china
+[20:37:19] Fakazki: bancho'd
+[20:37:22] [Crz]xz1z1z: npnp
+[20:37:28] BanchoBot: -Kiyoko- joined in slot 8 for team red.
+[20:37:32] BanchoBot: Countdown ends in 10 seconds
+[20:37:32] [Crz]xz1z1z: CN network also
+[20:37:38] BanchoBot: Countdown ends in 5 seconds
+[20:37:38] BanchoBot: Countdown ends in 4 seconds
+[20:37:39] BanchoBot: Countdown ends in 3 seconds
+[20:37:40] updraft: yeah :(((((
+[20:37:40] BanchoBot: Countdown ends in 2 seconds
+[20:37:42] BanchoBot: Countdown ends in 1 second
+[20:37:42] BanchoBot: Countdown finished
+[20:37:44] updraft: glhf!!
+[20:37:48] WorthlessPlayer: glhf
+[20:37:52] Michka: team
+[20:37:56] BCraftMG: !mp team -Kiyoko- blue
+[20:37:56] BanchoBot: -Kiyoko- changed to Blue
+[20:37:56] BanchoBot: Moved -Kiyoko- to team Blue
+[20:37:57] BCraftMG: !mp settings
+[20:37:58] BanchoBot: Room name: 5WC2023: (China) vs (Vietnam), History: https://osu.ppy.sh/mp/107304061
+[20:37:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/3317518 MEMAI SIREN - ajisai
+[20:37:58] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:37:58] BanchoBot: Active mods: Freemod
+[20:37:58] BanchoBot: Players: 8
+[20:37:58] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/10636530 Michka          [Team Red  / NoFail, HardRock]
+[20:37:58] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/9062731 Eiko Tokura     [Team Red  / NoFail, Hidden]
+[20:37:58] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/10500832 [Crz]xz1z1z     [Team Red  / NoFail, Hidden]
+[20:37:58] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/13858681 WorthlessPlayer [Team Red  / NoFail, Hidden]
+[20:37:58] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/3318668 Fakazki         [Team Blue / NoFail, Hidden]
+[20:37:58] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/14964749 Shadowkingxx    [Team Blue / NoFail, Hidden]
+[20:37:58] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/11688228 updraft         [Team Blue / NoFail, HardRock]
+[20:37:58] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/10542491 -Kiyoko-        [Team Blue / NoFail, Hidden]
+[20:38:02] BCraftMG: Ready up again :skull
+[20:38:03] BCraftMG: :
+[20:38:03] Shadowkingxx: golf!
+[20:38:08] [Crz]xz1z1z: glgl
+[20:38:08] Michka: glhf
+[20:38:14] BanchoBot: All players are ready
+[20:38:15] BCraftMG: !mp settings
+[20:38:16] BanchoBot: Room name: 5WC2023: (China) vs (Vietnam), History: https://osu.ppy.sh/mp/107304061
+[20:38:16] BanchoBot: Beatmap: https://osu.ppy.sh/b/3317518 MEMAI SIREN - ajisai
+[20:38:16] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:38:16] BanchoBot: Active mods: Freemod
+[20:38:16] BanchoBot: Players: 8
+[20:38:16] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10636530 Michka          [Team Red  / NoFail, HardRock]
+[20:38:16] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9062731 Eiko Tokura     [Team Red  / NoFail, Hidden]
+[20:38:16] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10500832 [Crz]xz1z1z     [Team Red  / NoFail, Hidden]
+[20:38:16] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13858681 WorthlessPlayer [Team Red  / NoFail, Hidden]
+[20:38:16] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/3318668 Fakazki         [Team Blue / NoFail, Hidden]
+[20:38:16] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/14964749 Shadowkingxx    [Team Blue / NoFail, Hidden]
+[20:38:16] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11688228 updraft         [Team Blue / NoFail, HardRock]
+[20:38:16] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10542491 -Kiyoko-        [Team Blue / NoFail, Hidden]
+[20:38:17] BCraftMG: !mp start 5 glhf
+[20:38:17] BanchoBot: Match starts in 5 seconds
+[20:38:17] BanchoBot: Queued the match to start in 5 seconds
+[20:38:19] BanchoBot: Match starts in 4 seconds
+[20:38:20] BanchoBot: Match starts in 3 seconds
+[20:38:21] BanchoBot: Good luck, have fun!
+[20:38:23] BanchoBot: The match has started!
+[20:42:38] BanchoBot: Fakazki finished playing (Score: 496217, PASSED).
+[20:42:38] BanchoBot: Michka finished playing (Score: 425338, PASSED).
+[20:42:38] BanchoBot: -Kiyoko- finished playing (Score: 417164, PASSED).
+[20:42:38] BanchoBot: updraft finished playing (Score: 764491, PASSED).
+[20:42:38] BanchoBot: Eiko Tokura finished playing (Score: 618351, PASSED).
+[20:42:38] BanchoBot: Shadowkingxx finished playing (Score: 651643, PASSED).
+[20:42:38] BanchoBot: [Crz]xz1z1z finished playing (Score: 646991, PASSED).
+[20:42:38] BanchoBot: WorthlessPlayer finished playing (Score: 503011, PASSED).
+[20:42:38] BanchoBot: The match has finished!
+[20:42:47] BanchoBot: gxytcgxytc joined in slot 9 for team blue.
+[20:42:54] BCraftMG: China | 3 - 1 | Vietnam // Bo9 - Next Pick: Vietnam
+[20:42:56] BCraftMG: !mp timer 120
+[20:42:57] BanchoBot: -Hermit- joined in slot 10 for team red.
+[20:42:57] BanchoBot: Countdown ends in 2 minutes
+[20:43:18] BanchoBot: Dnwings joined in slot 11 for team blue.
+[20:43:27] BanchoBot: Eiko Tokura moved to slot 12
+[20:43:34] BanchoBot: -Kiyoko- left the game.
+[20:43:47] BanchoBot: -Hermit- left the game.
+[20:43:58] BanchoBot: Countdown ends in 1 minute
+[20:43:59] BanchoBot: Shadowkingxx left the game.
+[20:43:59] Fakazki: NM1
+[20:44:04] BanchoBot: Fakazki moved to slot 10
+[20:44:08] BanchoBot: gxytcgxytc moved to slot 8
+[20:44:08] BanchoBot: Michka left the game.
+[20:44:09] BanchoBot: gxytcgxytc moved to slot 2
+[20:44:09] BanchoBot: Sonocchoz joined in slot 1 for team blue.
+[20:44:11] BanchoBot: gxytcgxytc changed to Red
+[20:44:12] BCraftMG: !mp map 2585154 0
+[20:44:14] BanchoBot: Azureus joined in slot 5 for team blue.
+[20:44:14] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2585154 Wakeshima Kanon - the BEAST can't BE STOpped
+[20:44:14] BanchoBot: Changed match mode to Osu
+[20:44:15] BCraftMG: !mp mods 1
+[20:44:15] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:44:16] BCraftMG: !mp timer 120
+[20:44:17] BanchoBot: Countdown aborted
+[20:44:17] BanchoBot: Countdown ends in 2 minutes
+[20:44:27] BanchoBot: [Crz]xz1z1z moved to slot 9
+[20:44:28] BanchoBot: Shadowkingxx joined in slot 3 for team blue.
+[20:44:28] BanchoBot: Azureus moved to slot 8
+[20:44:33] BanchoBot: Eiko Tokura left the game.
+[20:44:33] BanchoBot: Shadowkingxx moved to slot 5
+[20:44:35] BanchoBot: Azureus moved to slot 3
+[20:44:35] BanchoBot: Azureus changed to Red
+[20:44:45] BanchoBot: -Hermit- joined in slot 6 for team red.
+[20:44:51] BanchoBot: -Hermit- moved to slot 12
+[20:44:52] BanchoBot: Sonocchoz moved to slot 8
+[20:44:55] BanchoBot: Sonocchoz moved to slot 6
+[20:44:55] BanchoBot: Fakazki left the game.
+[20:44:56] BanchoBot: -Hermit- moved to slot 1
+[20:44:59] BanchoBot: [Crz]xz1z1z left the game.
+[20:45:07] BanchoBot: -Hermit- left the game.
+[20:45:19] BanchoBot: Countdown ends in 1 minute
+[20:45:25] BanchoBot: -Hermit- joined in slot 1 for team blue.
+[20:45:28] BanchoBot: Dnwings left the game.
+[20:45:33] BanchoBot: -Hermit- changed to Red
+[20:45:48] BanchoBot: Countdown ends in 30 seconds
+[20:45:56] BanchoBot: Kriatix joined in slot 8 for team red.
+[20:46:08] BanchoBot: Countdown ends in 10 seconds
+[20:46:13] BanchoBot: Countdown ends in 5 seconds
+[20:46:14] BanchoBot: Countdown ends in 4 seconds
+[20:46:16] BanchoBot: Countdown ends in 3 seconds
+[20:46:16] BanchoBot: Countdown ends in 2 seconds
+[20:46:17] BanchoBot: Countdown ends in 1 second
+[20:46:18] BanchoBot: Countdown finished
+[20:46:19] BCraftMG: !mp settings
+[20:46:20] BanchoBot: Room name: 5WC2023: (China) vs (Vietnam), History: https://osu.ppy.sh/mp/107304061
+[20:46:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/2585154 Wakeshima Kanon - the BEAST can't BE STOpped
+[20:46:20] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:46:20] BanchoBot: Active mods: NoFail
+[20:46:20] BanchoBot: Players: 8
+[20:46:20] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7175234 -Hermit-        [Team Red ]
+[20:46:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/874891 gxytcgxytc      [Team Red ]
+[20:46:20] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6938658 Azureus         [Team Red ]
+[20:46:20] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/13858681 WorthlessPlayer [Team Red ]
+[20:46:20] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/14964749 Shadowkingxx    [Team Blue]
+[20:46:20] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/14030856 Sonocchoz       [Team Blue]
+[20:46:20] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11688228 updraft         [Team Blue]
+[20:46:20] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/14783137 Kriatix         [Team Red ]
+[20:46:23] BCraftMG: Ready up!
+[20:46:32] Shadowkingxx: kriatix
+[20:46:33] Shadowkingxx: team
+[20:46:33] WorthlessPlayer: team?
+[20:46:33] gxytcgxytc: ehhm
+[20:46:36] updraft: Kriatix color
+[20:46:39] BCraftMG: oh no
+[20:46:59] BCraftMG: !mp team Kriatix blue
+[20:47:00] BanchoBot: Kriatix changed to Blue
+[20:47:00] BanchoBot: Moved Kriatix to team Blue
+[20:47:08] BCraftMG: :prayge: please dont lag
+[20:47:09] WorthlessPlayer: gl
+[20:47:14] Shadowkingxx: :sob:
+[20:47:16] BCraftMG: ready up again please
+[20:47:18] Shadowkingxx: he laggin
+[20:47:26] BanchoBot: All players are ready
+[20:47:28] BCraftMG: !mp settings
+[20:47:29] gxytcgxytc: hf
+[20:47:29] BanchoBot: Room name: 5WC2023: (China) vs (Vietnam), History: https://osu.ppy.sh/mp/107304061
+[20:47:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/2585154 Wakeshima Kanon - the BEAST can't BE STOpped
+[20:47:29] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:47:29] BanchoBot: Active mods: NoFail
+[20:47:29] BanchoBot: Players: 8
+[20:47:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7175234 -Hermit-        [Team Red ]
+[20:47:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/874891 gxytcgxytc      [Team Red ]
+[20:47:29] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6938658 Azureus         [Team Red ]
+[20:47:29] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13858681 WorthlessPlayer [Team Red ]
+[20:47:29] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/14964749 Shadowkingxx    [Team Blue]
+[20:47:29] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/14030856 Sonocchoz       [Team Blue]
+[20:47:29] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11688228 updraft         [Team Blue]
+[20:47:29] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/14783137 Kriatix         [Team Blue]
+[20:47:31] BCraftMG: !mp start 5 glhf
+[20:47:32] BanchoBot: Match starts in 5 seconds
+[20:47:32] BanchoBot: Queued the match to start in 5 seconds
+[20:47:33] BanchoBot: Match starts in 4 seconds
+[20:47:34] BanchoBot: Match starts in 3 seconds
+[20:47:34] updraft: glhf
+[20:47:36] BanchoBot: Good luck, have fun!
+[20:47:36] Shadowkingxx: good fun
+[20:47:37] Shadowkingxx: have luck
+[20:47:37] BanchoBot: The match has started!
+[20:51:14] BanchoBot: Kriatix finished playing (Score: 932124, PASSED).
+[20:51:15] BanchoBot: gxytcgxytc finished playing (Score: 539222, PASSED).
+[20:51:15] BanchoBot: Sonocchoz finished playing (Score: 614662, PASSED).
+[20:51:21] BanchoBot: updraft finished playing (Score: 546086, PASSED).
+[20:51:22] BanchoBot: WorthlessPlayer finished playing (Score: 931368, PASSED).
+[20:51:22] BanchoBot: Azureus finished playing (Score: 619622, PASSED).
+[20:51:22] BanchoBot: -Hermit- finished playing (Score: 683951, PASSED).
+[20:51:22] BanchoBot: Shadowkingxx finished playing (Score: 516192, PASSED).
+[20:51:22] BanchoBot: The match has finished!
+[20:51:46] BCraftMG: China | 4 - 1 | Vietnam // Bo9 - Next Pick: China
+[20:51:47] BanchoBot: Fakazki joined in slot 9 for team blue.
+[20:51:49] BCraftMG: !mp timer 120
+[20:51:50] BanchoBot: Countdown ends in 2 minutes
+[20:51:51] BanchoBot: [Crz]xz1z1z joined in slot 10 for team red.
+[20:51:59] BanchoBot: updraft left the game.
+[20:52:02] BanchoBot: Shadowkingxx left the game.
+[20:52:06] BanchoBot: gxytcgxytc moved to slot 12
+[20:52:08] BanchoBot: gxytcgxytc moved to slot 2
+[20:52:14] [Crz]xz1z1z: we pick HD2
+[20:52:15] BanchoBot: Azureus left the game.
+[20:52:16] BanchoBot: -Hermit- left the game.
+[20:52:34] BanchoBot: Shadowkingxx joined in slot 1 for team blue.
+[20:52:36] BCraftMG: !mp map 3815518 0
+[20:52:37] BanchoBot: Shadowkingxx moved to slot 7
+[20:52:37] BanchoBot: Shadowkingxx moved to slot 5
+[20:52:37] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3815518 yanaginagi - continue
+[20:52:37] BanchoBot: Changed match mode to Osu
+[20:52:37] BCraftMG: !mp mods 9
+[20:52:38] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[20:52:38] BCraftMG: !mp timer 120
+[20:52:39] BanchoBot: Countdown aborted
+[20:52:39] BanchoBot: Countdown ends in 2 minutes
+[20:52:43] BanchoBot: [Crz]xz1z1z moved to slot 3
+[20:52:45] BanchoBot: Eiko Tokura joined in slot 1 for team blue.
+[20:52:46] BanchoBot: WorthlessPlayer left the game.
+[20:52:51] BanchoBot: Eiko Tokura changed to Red
+[20:52:56] BanchoBot: Fakazki moved to slot 7
+[20:53:01] BanchoBot: Sonocchoz left the game.
+[20:53:18] BanchoBot: Fakazki moved to slot 6
+[20:53:39] BanchoBot: Countdown ends in 1 minute
+[20:53:47] BanchoBot: Eiko Tokura moved to slot 12
+[20:54:09] BanchoBot: Countdown ends in 30 seconds
+[20:54:12] [Crz]xz1z1z: !roll
+[20:54:12] BanchoBot: [Crz]xz1z1z rolls 50 point(s)
+[20:54:25] BanchoBot: WorthlessPlayer joined in slot 1 for team blue.
+[20:54:26] Fakazki: !roll
+[20:54:26] BanchoBot: Fakazki rolls 83 point(s)
+[20:54:29] Kriatix: i no lag
+[20:54:29] BanchoBot: Countdown ends in 10 seconds
+[20:54:30] Kriatix: :D
+[20:54:31] BanchoBot: Shadowkingxx moved to slot 7
+[20:54:31] BanchoBot: Shadowkingxx moved to slot 5
+[20:54:32] BanchoBot: Eiko Tokura moved to slot 4
+[20:54:34] BanchoBot: Countdown ends in 5 seconds
+[20:54:34] BanchoBot: WorthlessPlayer changed to Red
+[20:54:35] BanchoBot: Countdown ends in 4 seconds
+[20:54:36] BanchoBot: Countdown ends in 3 seconds
+[20:54:37] BanchoBot: Countdown ends in 2 seconds
+[20:54:38] BanchoBot: -Kiyoko- joined in slot 7 for team blue.
+[20:54:38] BanchoBot: Countdown ends in 1 second
+[20:54:39] BanchoBot: Countdown finished
+[20:54:42] BCraftMG: !mp settings
+[20:54:44] BanchoBot: Room name: 5WC2023: (China) vs (Vietnam), History: https://osu.ppy.sh/mp/107304061
+[20:54:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/3815518 yanaginagi - continue
+[20:54:44] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:54:44] BanchoBot: Active mods: NoFail, Hidden
+[20:54:44] BanchoBot: Players: 8
+[20:54:44] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13858681 WorthlessPlayer [Team Red ]
+[20:54:44] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/874891 gxytcgxytc      [Team Red ]
+[20:54:44] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10500832 [Crz]xz1z1z     [Team Red ]
+[20:54:44] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9062731 Eiko Tokura     [Team Red ]
+[20:54:44] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/14964749 Shadowkingxx    [Team Blue]
+[20:54:44] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/3318668 Fakazki         [Team Blue]
+[20:54:44] BanchoBot: Slot 7  No Map    https://osu.ppy.sh/u/10542491 -Kiyoko-        [Team Blue]
+[20:54:44] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/14783137 Kriatix         [Team Blue]
+[20:54:50] gxytcgxytc: 蜜雪冰城甜蜜蜜
+[20:54:54] BCraftMG: no map :weirdge:
+[20:54:56] [Crz]xz1z1z: no map
+[20:55:00] WorthlessPlayer: wat
+[20:55:01] Shadowkingxx: no map
+[20:55:02] Fakazki: :tf:
+[20:55:05] Shadowkingxx: :tf:
+[20:55:10] Eiko_Tokura: no map
+[20:55:12] -Kiyoko-: :tf:
+[20:55:14] Fakazki: we do a bit of trollin
+[20:55:16] BCraftMG: !mp timer 60
+[20:55:17] BanchoBot: Countdown ends in 1 minute
+[20:55:26] gxytcgxytc: glhf
+[20:55:27] WorthlessPlayer: gl
+[20:55:29] BCraftMG: last 60s
+[20:55:29] [Crz]xz1z1z: glgl
+[20:55:30] Kriatix: gl
+[20:55:40] Eiko_Tokura: gf
+[20:55:40] BanchoBot: Kriatix left the game.
+[20:55:40] BanchoBot: All players are ready
+[20:55:44] WorthlessPlayer: ?
+[20:55:44] BanchoBot: Kriatix joined in slot 8 for team red.
+[20:55:44] gxytcgxytc: eh
+[20:55:47] BanchoBot: Countdown ends in 30 seconds
+[20:55:47] BCraftMG: ?
+[20:55:49] Shadowkingxx: bruh
+[20:55:51] Kriatix: oop
+[20:55:52] Shadowkingxx: tam
+[20:55:54] Shadowkingxx: team
+[20:55:56] gxytcgxytc: team
+[20:55:57] Fakazki: change side
+[20:55:57] WorthlessPlayer: team
+[20:55:58] BanchoBot: Kriatix changed to Blue
+[20:56:02] BCraftMG: ready up again lfg
+[20:56:07] BanchoBot: Countdown ends in 10 seconds
+[20:56:08] BCraftMG: !mp settings
+[20:56:08] gxytcgxytc: -kiyoko-
+[20:56:09] BanchoBot: Room name: 5WC2023: (China) vs (Vietnam), History: https://osu.ppy.sh/mp/107304061
+[20:56:09] BanchoBot: Beatmap: https://osu.ppy.sh/b/3815518 yanaginagi - continue
+[20:56:09] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:56:09] BanchoBot: Active mods: NoFail, Hidden
+[20:56:09] BanchoBot: Players: 8
+[20:56:09] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13858681 WorthlessPlayer [Team Red ]
+[20:56:09] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/874891 gxytcgxytc      [Team Red ]
+[20:56:09] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10500832 [Crz]xz1z1z     [Team Red ]
+[20:56:09] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9062731 Eiko Tokura     [Team Red ]
+[20:56:09] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/14964749 Shadowkingxx    [Team Blue]
+[20:56:09] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/3318668 Fakazki         [Team Blue]
+[20:56:09] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/10542491 -Kiyoko-        [Team Blue]
+[20:56:09] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/14783137 Kriatix         [Team Blue]
+[20:56:10] BanchoBot: All players are ready
+[20:56:11] BCraftMG: !mp settings
+[20:56:12] BanchoBot: Countdown ends in 5 seconds
+[20:56:12] BanchoBot: Room name: 5WC2023: (China) vs (Vietnam), History: https://osu.ppy.sh/mp/107304061
+[20:56:12] BanchoBot: Beatmap: https://osu.ppy.sh/b/3815518 yanaginagi - continue
+[20:56:12] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:56:12] BanchoBot: Active mods: NoFail, Hidden
+[20:56:12] BanchoBot: Players: 8
+[20:56:12] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13858681 WorthlessPlayer [Team Red ]
+[20:56:12] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/874891 gxytcgxytc      [Team Red ]
+[20:56:12] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10500832 [Crz]xz1z1z     [Team Red ]
+[20:56:12] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9062731 Eiko Tokura     [Team Red ]
+[20:56:12] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/14964749 Shadowkingxx    [Team Blue]
+[20:56:12] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/3318668 Fakazki         [Team Blue]
+[20:56:12] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/10542491 -Kiyoko-        [Team Blue]
+[20:56:12] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/14783137 Kriatix         [Team Blue]
+[20:56:13] BanchoBot: Countdown ends in 4 seconds
+[20:56:13] BCraftMG: !mp start 5 glhf
+[20:56:14] BanchoBot: Countdown ends in 3 seconds
+[20:56:14] BanchoBot: Countdown aborted
+[20:56:14] BanchoBot: Match starts in 5 seconds
+[20:56:14] BanchoBot: Queued the match to start in 5 seconds
+[20:56:15] gxytcgxytc: hfhf
+[20:56:15] BanchoBot: Match starts in 4 seconds
+[20:56:16] BanchoBot: Match starts in 3 seconds
+[20:56:17] BanchoBot: Good luck, have fun!
+[20:56:20] [Crz]xz1z1z: gl
+[20:56:20] BanchoBot: The match has started!
+[21:00:20] BanchoBot: [Crz]xz1z1z finished playing (Score: 969474, PASSED).
+[21:00:21] BanchoBot: -Kiyoko- finished playing (Score: 371871, PASSED).
+[21:00:21] BanchoBot: Eiko Tokura finished playing (Score: 940577, PASSED).
+[21:00:21] BanchoBot: gxytcgxytc finished playing (Score: 490856, PASSED).
+[21:00:21] BanchoBot: Shadowkingxx finished playing (Score: 633324, PASSED).
+[21:00:21] BanchoBot: WorthlessPlayer finished playing (Score: 770713, PASSED).
+[21:00:22] BanchoBot: Fakazki finished playing (Score: 607081, PASSED).
+[21:00:23] BanchoBot: Kriatix finished playing (Score: 461936, PASSED).
+[21:00:23] BanchoBot: The match has finished!
+[21:00:38] BCraftMG: China | 5 - 1 | Vietnam // China wins! GGWP
+[21:00:43] Shadowkingxx: GGWP
+[21:00:47] [Crz]xz1z1z: ggwp
+[21:00:48] gxytcgxytc: ggwp
+[21:00:49] BanchoBot: gxytcgxytc left the game.
+[21:00:50] Kriatix: gg
+[21:00:51] WorthlessPlayer: ggwp
+[21:00:51] BanchoBot: gxytcgxytc joined in slot 2 for team red.
+[21:00:53] -Kiyoko-: gg
+[21:00:53] BanchoBot: gxytcgxytc left the game.
+[21:00:54] BanchoBot: -Kiyoko- left the game.
+[21:00:54] Eiko_Tokura: ggwp
+[21:00:58] BanchoBot: [Crz]xz1z1z left the game.
+[21:01:02] BanchoBot: Eiko Tokura left the game.
+[21:01:03] Fakazki: gg
+[21:01:06] BanchoBot: Shadowkingxx left the game.
+[21:01:09] Fakazki: tks for ref
+[21:01:09] WorthlessPlayer: thanks for ref ~
+[21:01:22] BanchoBot: Fakazki left the game.
+[21:01:34] BanchoBot: WorthlessPlayer left the game.
+[21:01:36] BanchoBot: Kriatix left the game.
+[21:02:14] BCraftMG: !mp close
+[21:02:15] BanchoBot: Closed the match

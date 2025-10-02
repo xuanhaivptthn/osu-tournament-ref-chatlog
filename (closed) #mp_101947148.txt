@@ -1,0 +1,731 @@
+[18:53:39] Joined #mp_101947148
+[18:53:39] BCraftMG: !mp settings
+[18:53:42] BanchoBot: Room name: STT3: (:froggy:) vs (bruh idk), History: https://osu.ppy.sh/mp/101947148
+[18:53:42] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[18:53:42] BanchoBot: Players: 0
+[18:55:09] BCraftMG: !mp set 2 3 12
+[18:55:09] BanchoBot: Changed match settings to 12 slots, TeamVs, ScoreV2
+[18:55:25] BCraftMG: !mp invite #9057237
+[18:55:25] BanchoBot: Invited Parato to the room
+[18:55:27] BCraftMG: !mp invite #10982267
+[18:55:27] BanchoBot: Invited trawa to the room
+[18:55:29] BCraftMG: !mp invite #14262149
+[18:55:29] BanchoBot: User not found
+[18:55:31] BCraftMG: !mp invite #12195496
+[18:55:31] BanchoBot: Invited Zacatel to the room
+[18:55:31] BCraftMG: !mp invite #6567341
+[18:55:31] BanchoBot: Invited Fuki to the room
+[18:55:33] BCraftMG: !mp invite #5054351
+[18:55:33] BanchoBot: Invited orionchan2 to the room
+[18:55:33] BCraftMG: !mp invite #11918602
+[18:55:33] BanchoBot: User not found
+[18:55:35] BCraftMG: !mp invite #11305115
+[18:55:35] BanchoBot: Invited TheBushy to the room
+[18:55:35] BCraftMG: !mp invite #13335554
+[18:55:35] BanchoBot: Invited YankeeSnow213 to the room
+[18:55:37] BCraftMG: !mp invite #11621976
+[18:55:37] BanchoBot: Invited Racers03 to the room
+[18:55:37] BCraftMG: !mp invite #9484080
+[18:55:37] BanchoBot: Invited Touruu to the room
+[18:55:55] BanchoBot: Parato joined in slot 1 for team blue.
+[18:55:59] BanchoBot: Fuki joined in slot 2 for team red.
+[18:55:59] BanchoBot: YankeeSnow213 joined in slot 3 for team blue.
+[18:56:01] Parato: ello
+[18:56:03] BanchoBot: orionchan2 joined in slot 4 for team red.
+[18:56:05] BanchoBot: Fuki left the game.
+[18:56:09] BanchoBot: orionchan2 moved to slot 2
+[18:56:11] BanchoBot: orionchan2 changed to Blue
+[18:56:16] BCraftMG: o/
+[18:56:17] BanchoBot: TheBushy joined in slot 4 for team red.
+[18:56:25] YankeeSnow213: ello
+[18:56:25] Parato: o/
+[18:56:29] BanchoBot: YankeeSnow213 changed to Red
+[18:56:57] BCraftMG: !mp host Parato
+[18:56:58] BanchoBot: Parato became the host.
+[18:56:58] BanchoBot: Changed match host to Parato
+[18:57:03] BanchoBot: Beatmap changed to: ginkiha - Paved Garden [Extra] (https://osu.ppy.sh/b/2321257)
+[18:57:13] BCraftMG: you can pick warm up c;
+[18:57:40] BanchoBot: Host is changing map...
+[18:57:43] BCraftMG: Warmups must be between 4.0 and 7.0 stars and must be 3:30 in drain time or less after mods are applied. A warmup map cannot be from the current week's pool.
+[18:57:52] BanchoBot: Racers03 joined in slot 5 for team blue.
+[18:57:54] BanchoBot: Racers03 changed to Red
+[18:58:24] BanchoBot: Racers03 moved to slot 6
+[18:58:31] BCraftMG: :froggy: will be red, bruh idk will be blue please
+[18:58:40] BanchoBot: Racers03 moved to slot 5
+[18:58:40] BanchoBot: Racers03 moved to slot 6
+[18:58:48] BanchoBot: TheBushy moved to slot 5
+[18:59:03] BanchoBot: Beatmap changed to: IOSYS - Cirno no Perfect Sansuu Kyoushitsu [Perfect Freeze] (https://osu.ppy.sh/b/893739)
+[18:59:15] TheBushy: free mods :pray:
+[18:59:27] BCraftMG: !mp settings
+[18:59:27] Parato: sowy
+[18:59:27] BanchoBot: Room name: STT3: (:froggy:) vs (bruh idk), History: https://osu.ppy.sh/mp/101947148
+[18:59:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/893739 IOSYS - Cirno no Perfect Sansuu Kyoushitsu [Perfect Freeze]
+[18:59:27] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[18:59:27] BanchoBot: Active mods: Freemod
+[18:59:28] BanchoBot: Players: 5
+[18:59:28] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/9057237 Parato          [Host / Team Blue]
+[18:59:28] BanchoBot: Slot 2  No Map    https://osu.ppy.sh/u/5054351 orionchan2      [Team Blue]
+[18:59:28] BanchoBot: Slot 3  No Map    https://osu.ppy.sh/u/13335554 YankeeSnow213   [Team Red ]
+[18:59:28] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/11305115 TheBushy        [Team Red ]
+[18:59:28] BanchoBot: Slot 6  No Map    https://osu.ppy.sh/u/11621976 Racers03        [Team Red ]
+[18:59:33] TheBushy: ty
+[18:59:41] orionchan2: -.-
+[19:00:03] BanchoBot: trawa joined in slot 4 for team red.
+[19:00:05] BanchoBot: Fuki joined in slot 7 for team blue.
+[19:00:07] BanchoBot: trawa changed to Blue
+[19:00:13] BanchoBot: Parato moved to slot 8
+[19:00:27] BanchoBot: trawa left the game.
+[19:00:27] BanchoBot: orionchan2 moved to slot 10
+[19:00:29] BanchoBot: orionchan2 moved to slot 9
+[19:00:31] BanchoBot: Racers03 moved to slot 1
+[19:00:33] BanchoBot: TheBushy moved to slot 2
+[19:00:35] Fuki: based  warmup
+[19:00:35] BanchoBot: Parato moved to slot 4
+[19:00:37] BanchoBot: Zacatel joined in slot 5 for team blue.
+[19:00:39] BanchoBot: orionchan2 moved to slot 6
+[19:00:49] Racers03: based indeed
+[19:00:49] Racers03: :tf:
+[19:00:51] TheBushy: bakabakabakabaka
+[19:01:31] Racers03: baka
+[19:01:40] YankeeSnow213: baka
+[19:01:44] Parato: zacatel?
+[19:01:50] Zacatel: yes
+[19:01:52] BanchoBot: All players are ready
+[19:01:52] Zacatel: whopos
+[19:01:58] BanchoBot: The match has started!
+[19:01:58] Racers03: glhf
+[19:02:00] BCraftMG: woo
+[19:04:07] BanchoBot: Parato finished playing (Score: 262034, FAILED).
+[19:04:07] BanchoBot: orionchan2 finished playing (Score: 519525, PASSED).
+[19:04:07] BanchoBot: YankeeSnow213 finished playing (Score: 96816, FAILED).
+[19:04:07] BanchoBot: TheBushy finished playing (Score: 24779, PASSED).
+[19:04:07] BanchoBot: Fuki finished playing (Score: 315561, PASSED).
+[19:04:09] BanchoBot: Zacatel finished playing (Score: 478551, PASSED).
+[19:04:09] BanchoBot: Racers03 finished playing (Score: 216972, PASSED).
+[19:04:09] BanchoBot: The match has finished!
+[19:04:17] Zacatel: does this map need offset damn
+[19:04:48] BCraftMG: !mp host TheBushy
+[19:04:51] BanchoBot: TheBushy became the host.
+[19:04:51] BanchoBot: Changed match host to TheBushy
+[19:04:56] BanchoBot: Host is changing map...
+[19:05:02] BanchoBot: Beatmap changed to: Rin - Moriya set 04 ReEdit ~ Unmei no Dark Side [Extra Stage] (https://osu.ppy.sh/b/2841505)
+[19:06:08] BanchoBot: All players are ready
+[19:06:20] BanchoBot: All players are ready
+[19:06:26] BanchoBot: All players are ready
+[19:06:30] BanchoBot: The match has started!
+[19:09:32] BanchoBot: YankeeSnow213 finished playing (Score: 23290, PASSED).
+[19:09:32] BanchoBot: Zacatel finished playing (Score: 81040, PASSED).
+[19:09:34] BanchoBot: Racers03 finished playing (Score: 12285, PASSED).
+[19:09:34] BanchoBot: Fuki finished playing (Score: 5889, PASSED).
+[19:09:34] BanchoBot: orionchan2 finished playing (Score: 177, FAILED).
+[19:09:36] BanchoBot: Parato finished playing (Score: 66498, PASSED).
+[19:09:40] BanchoBot: TheBushy finished playing (Score: 36938, PASSED).
+[19:09:40] BanchoBot: The match has finished!
+[19:09:44] BCraftMG: !mp clearhost
+[19:09:46] BanchoBot: Cleared match host
+[19:09:57] BCraftMG: aight 2 captain please roll for protect order
+[19:10:18] Parato: !roll
+[19:10:18] BanchoBot: Parato rolls 65 point(s)
+[19:10:20] Racers03: !roll
+[19:10:20] BanchoBot: Racers03 rolls 79 point(s)
+[19:10:26] BanchoBot: trawa joined in slot 8 for team red.
+[19:10:29] BCraftMG: ill take roll from Racers03
+[19:10:32] BCraftMG: oh
+[19:10:40] BanchoBot: TheBushy left the game.
+[19:10:41] BCraftMG: :froggy: your protect pleae
+[19:10:42] BanchoBot: trawa changed to Blue
+[19:11:24] BCraftMG: !mp timer 120
+[19:11:25] BanchoBot: Countdown ends in 2 minutes
+[19:11:43] Racers03: nm2
+[19:11:58] BCraftMG: bruh idk, your protect please
+[19:12:27] BanchoBot: Countdown ends in 1 minute
+[19:12:41] Parato: fm2
+[19:12:55] BanchoBot: Countdown ends in 30 seconds
+[19:13:15] BanchoBot: Countdown ends in 10 seconds
+[19:13:20] BCraftMG: !mp aborttimer
+[19:13:21] BanchoBot: Countdown ends in 5 seconds
+[19:13:21] BanchoBot: Countdown ends in 4 seconds
+[19:13:21] BanchoBot: Countdown aborted
+[19:13:38] BCraftMG: alright next is !roll for pick or ban order
+[19:13:55] Parato: !roll
+[19:13:55] BanchoBot: Parato rolls 74 point(s)
+[19:14:03] Racers03: !roll
+[19:14:03] BanchoBot: Racers03 rolls 65 point(s)
+[19:14:16] BCraftMG: bruh idk, please choose your pick or ban order
+[19:14:17] BCraftMG: !mp timer 120
+[19:14:19] BanchoBot: Countdown ends in 2 minutes
+[19:14:51] Parato: ban second
+[19:15:10] BCraftMG: :froggy:, please choose your pick order
+[19:15:19] BanchoBot: Countdown ends in 1 minute
+[19:15:50] BanchoBot: Countdown ends in 30 seconds
+[19:16:09] BanchoBot: Countdown ends in 10 seconds
+[19:16:15] BanchoBot: Countdown ends in 5 seconds
+[19:16:15] BanchoBot: Countdown ends in 4 seconds
+[19:16:18] BanchoBot: Countdown ends in 3 seconds
+[19:16:18] BanchoBot: Countdown ends in 2 seconds
+[19:16:19] BanchoBot: Countdown ends in 1 second
+[19:16:19] BanchoBot: Countdown finished
+[19:16:29] Racers03: pick first
+[19:16:54] BCraftMG: wait
+[19:16:57] BanchoBot: trawa left the game.
+[19:17:05] BCraftMG: okay
+[19:17:09] BCraftMG: :froggy: your ban please
+[19:17:22] BCraftMG: !mp timer 120
+[19:17:24] BanchoBot: Countdown ends in 2 minutes
+[19:17:58] Racers03: nm3 ban
+[19:18:15] BCraftMG: bruh idk, your ban please
+[19:18:17] BCraftMG: !mp timer 120
+[19:18:18] BanchoBot: Countdown aborted
+[19:18:18] BanchoBot: Countdown ends in 2 minutes
+[19:18:59] Parato: nm4
+[19:19:11] BCraftMG: :froggy: | 0 - 0 | bruh idk // First Pick: :froggy:
+[19:19:12] BCraftMG: !mp timer 120
+[19:19:14] BanchoBot: Countdown aborted
+[19:19:14] BanchoBot: Countdown ends in 2 minutes
+[19:19:36] Racers03: HD2
+[19:19:46] BanchoBot: TheBushy joined in slot 2 for team red.
+[19:20:04] BCraftMG: !mp mods HD NF
+[19:20:04] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[19:20:06] BCraftMG: !mp map 36134 0
+[19:20:06] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/36134 Cranky - Luvin' You
+[19:20:06] BanchoBot: Changed match mode to Osu
+[19:20:08] BCraftMG: !mp timer 120
+[19:20:08] BanchoBot: Countdown aborted
+[19:20:08] BanchoBot: Countdown ends in 2 minutes
+[19:20:10] BanchoBot: orionchan2 left the game.
+[19:20:16] BanchoBot: Zacatel moved to slot 6
+[19:20:16] BanchoBot: Zacatel moved to slot 5
+[19:20:20] BanchoBot: Fuki moved to slot 6
+[19:20:24] TheBushy: BANGER!
+[19:20:26] TheBushy: cranky
+[19:20:37] BanchoBot: All players are ready
+[19:20:37] BanchoBot: All players are ready
+[19:20:41] TheBushy: GLHF!
+[19:20:41] TheBushy: :3
+[19:20:41] Racers03: esketit
+[19:20:43] Fuki: night-_-  my beloved
+[19:20:43] Racers03: glhf!
+[19:20:53] Parato: night always with us <3
+[19:20:57] BanchoBot: All players are ready
+[19:20:59] BCraftMG: !mp settings
+[19:20:59] YankeeSnow213: glhf
+[19:20:59] Parato: glhf
+[19:20:59] BanchoBot: Room name: STT3: (:froggy:) vs (bruh idk), History: https://osu.ppy.sh/mp/101947148
+[19:20:59] BanchoBot: Beatmap: https://osu.ppy.sh/b/36134 Cranky - Luvin' You
+[19:20:59] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:20:59] BanchoBot: Active mods: NoFail, Hidden
+[19:20:59] BanchoBot: Players: 6
+[19:20:59] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11621976 Racers03        [Team Red ]
+[19:20:59] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11305115 TheBushy        [Team Red ]
+[19:20:59] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13335554 YankeeSnow213   [Team Red ]
+[19:20:59] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9057237 Parato          [Team Blue]
+[19:20:59] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12195496 Zacatel         [Team Blue]
+[19:20:59] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/6567341 Fuki            [Team Blue]
+[19:21:03] BCraftMG: !mp start 10
+[19:21:05] BanchoBot: Countdown aborted
+[19:21:05] BanchoBot: Match starts in 10 seconds
+[19:21:05] BanchoBot: Queued the match to start in 10 seconds
+[19:21:11] BanchoBot: Match starts in 5 seconds
+[19:21:11] BanchoBot: Match starts in 4 seconds
+[19:21:13] BanchoBot: Match starts in 3 seconds
+[19:21:13] BanchoBot: Good luck, have fun!
+[19:21:15] BanchoBot: The match has started!
+[19:23:31] BanchoBot: Racers03 finished playing (Score: 386311, PASSED).
+[19:23:31] BanchoBot: Zacatel finished playing (Score: 373114, PASSED).
+[19:23:33] BanchoBot: TheBushy finished playing (Score: 436544, PASSED).
+[19:23:33] BanchoBot: Parato finished playing (Score: 340500, PASSED).
+[19:23:33] BanchoBot: Fuki finished playing (Score: 508343, PASSED).
+[19:23:33] BanchoBot: YankeeSnow213 finished playing (Score: 54234, PASSED).
+[19:23:33] BanchoBot: The match has finished!
+[19:23:37] BCraftMG: :froggy: : 0 | 1 : bruh idk
+[19:23:39] BCraftMG: Next team to pick: bruh idk
+[19:23:41] BCraftMG: !mp timer 120
+[19:23:41] BanchoBot: Countdown ends in 2 minutes
+[19:24:21] BanchoBot: TheBushy left the game.
+[19:24:25] Parato: ez
+[19:24:29] BanchoBot: Fuki left the game.
+[19:24:31] BanchoBot: trawa joined in slot 2 for team red.
+[19:24:35] BanchoBot: Zacatel moved to slot 7
+[19:24:35] BanchoBot: Zacatel moved to slot 5
+[19:24:35] Parato: 1
+[19:24:39] BanchoBot: Countdown ends in 1 minute
+[19:24:41] BanchoBot: trawa moved to slot 6
+[19:24:43] BanchoBot: trawa changed to Blue
+[19:24:49] BCraftMG: !mp mods NoMod
+[19:24:49] BanchoBot: Disabled all mods, disabled FreeMod
+[19:24:51] BCraftMG: !mp map 3302600 0
+[19:24:51] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3302600 rejection - Aimai Attitude (feat. Nakamura Sanso)
+[19:24:51] BanchoBot: Changed match mode to Osu
+[19:24:53] BCraftMG: !mp timer 120
+[19:24:53] BanchoBot: Countdown aborted
+[19:24:53] BanchoBot: Countdown ends in 2 minutes
+[19:24:57] trawa: WHATS UP GUYS
+[19:24:59] BCraftMG: !mp mods EZ NF
+[19:24:59] BanchoBot: Enabled NoFail, Easy, disabled FreeMod
+[19:25:03] Parato: hellow
+[19:25:10] BanchoBot: TheBushy joined in slot 2 for team red.
+[19:25:34] BanchoBot: All players are ready
+[19:25:34] Zacatel: parato!!
+[19:25:40] Parato: :x
+[19:25:40] BCraftMG: !mp settings
+[19:25:42] BanchoBot: Room name: STT3: (:froggy:) vs (bruh idk), History: https://osu.ppy.sh/mp/101947148
+[19:25:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/3302600 rejection - Aimai Attitude (feat. Nakamura Sanso)
+[19:25:42] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:25:42] BanchoBot: Active mods: NoFail, Easy
+[19:25:42] BanchoBot: Players: 6
+[19:25:42] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11621976 Racers03        [Team Red ]
+[19:25:42] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11305115 TheBushy        [Team Red ]
+[19:25:42] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13335554 YankeeSnow213   [Team Red ]
+[19:25:42] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9057237 Parato          [Team Blue]
+[19:25:42] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12195496 Zacatel         [Team Blue]
+[19:25:42] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10982267 trawa           [Team Blue]
+[19:25:45] BCraftMG: !mp start 10
+[19:25:46] BanchoBot: Countdown aborted
+[19:25:46] BanchoBot: Match starts in 10 seconds
+[19:25:46] BanchoBot: Queued the match to start in 10 seconds
+[19:25:48] TheBushy: glhf!
+[19:25:52] BanchoBot: Match starts in 5 seconds
+[19:25:52] BanchoBot: Match starts in 4 seconds
+[19:25:54] trawa: lgllglglglglgl
+[19:25:54] BanchoBot: Match starts in 3 seconds
+[19:25:54] BanchoBot: Good luck, have fun!
+[19:25:56] BanchoBot: The match has started!
+[19:30:31] BanchoBot: Parato finished playing (Score: 167719, PASSED).
+[19:30:31] BanchoBot: TheBushy finished playing (Score: 150922, PASSED).
+[19:30:31] BanchoBot: Racers03 finished playing (Score: 8179, PASSED).
+[19:30:31] BanchoBot: Zacatel finished playing (Score: 382460, PASSED).
+[19:30:33] BanchoBot: trawa finished playing (Score: 150723, PASSED).
+[19:30:33] BanchoBot: YankeeSnow213 finished playing (Score: 2744, PASSED).
+[19:30:33] BanchoBot: The match has finished!
+[19:30:36] BCraftMG: :froggy: : 0 | 2 : bruh idk
+[19:30:39] BCraftMG: Next team to pick: :froggy:
+[19:30:41] BCraftMG: !mp timer 120
+[19:30:41] BanchoBot: Countdown ends in 2 minutes
+[19:30:43] TheBushy: dam nice 0x
+[19:30:55] BanchoBot: TheBushy left the game.
+[19:30:57] BanchoBot: Fuki joined in slot 2 for team red.
+[19:31:40] BanchoBot: Countdown ends in 1 minute
+[19:31:44] Racers03: NM2
+[19:31:48] BanchoBot: Fuki changed to Blue
+[19:31:51] BanchoBot: Touruu joined in slot 7 for team blue.
+[19:31:51] BanchoBot: Fuki left the game.
+[19:31:52] BanchoBot: Touruu moved to slot 2
+[19:31:54] BanchoBot: Touruu changed to Red
+[19:31:56] BanchoBot: Zacatel left the game.
+[19:31:58] BCraftMG: !mp mods NF
+[19:31:58] BanchoBot: Enabled NoFail, disabled FreeMod
+[19:32:01] BCraftMG: !mp map 2105741 0
+[19:32:01] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2105741 K A Z M A S A - Bon Appetit S (Oldskool HappyHardcore Remix) (Short Ver.)
+[19:32:01] BanchoBot: Changed match mode to Osu
+[19:32:02] BCraftMG: yo someone actually picked nm2
+[19:32:03] BCraftMG: !mp timer 120
+[19:32:03] BanchoBot: Countdown aborted
+[19:32:03] BanchoBot: Countdown ends in 2 minutes
+[19:32:05] BanchoBot: orionchan2 joined in slot 5 for team blue.
+[19:32:19] trawa: whoever misses first gets the cheese touch
+[19:32:21] trawa: you know the rules
+[19:32:25] orionchan2: not again
+[19:33:02] BanchoBot: Countdown ends in 1 minute
+[19:33:12] BCraftMG: and so do i
+[19:33:32] BanchoBot: Countdown ends in 30 seconds
+[19:33:37] BanchoBot: All players are ready
+[19:33:39] trawa: a full commitment's what im thinking of
+[19:33:39] Touruu: glhf
+[19:33:41] BCraftMG: !mp settings
+[19:33:43] Racers03: glhf
+[19:33:43] BanchoBot: Room name: STT3: (:froggy:) vs (bruh idk), History: https://osu.ppy.sh/mp/101947148
+[19:33:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/2105741 K A Z M A S A - Bon Appetit S (Oldskool HappyHardcore Remix) (Short Ver.)
+[19:33:43] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:33:43] BanchoBot: Active mods: NoFail
+[19:33:43] BanchoBot: Players: 6
+[19:33:43] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11621976 Racers03        [Team Red ]
+[19:33:43] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9484080 Touruu          [Team Red ]
+[19:33:43] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13335554 YankeeSnow213   [Team Red ]
+[19:33:43] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9057237 Parato          [Team Blue]
+[19:33:43] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/5054351 orionchan2      [Team Blue]
+[19:33:43] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10982267 trawa           [Team Blue]
+[19:33:45] YankeeSnow213: glhf
+[19:33:47] trawa: you wouldnt get that from any other guy
+[19:33:47] Parato: glhf
+[19:33:50] BCraftMG: !mp start 10
+[19:33:51] BanchoBot: Countdown ends in 10 seconds
+[19:33:51] BanchoBot: Countdown aborted
+[19:33:51] BanchoBot: Match starts in 10 seconds
+[19:33:51] BanchoBot: Queued the match to start in 10 seconds
+[19:33:57] BanchoBot: Match starts in 5 seconds
+[19:33:57] BanchoBot: Match starts in 4 seconds
+[19:33:59] BanchoBot: Match starts in 3 seconds
+[19:33:59] BanchoBot: Good luck, have fun!
+[19:34:01] BanchoBot: The match has started!
+[19:34:01] trawa: gl
+[19:37:30] BanchoBot: trawa finished playing (Score: 371260, PASSED).
+[19:37:32] BanchoBot: Parato finished playing (Score: 412660, PASSED).
+[19:37:32] BanchoBot: Touruu finished playing (Score: 327198, PASSED).
+[19:37:32] BanchoBot: Racers03 finished playing (Score: 372324, PASSED).
+[19:37:32] BanchoBot: orionchan2 finished playing (Score: 216631, PASSED).
+[19:37:32] BanchoBot: YankeeSnow213 finished playing (Score: 221056, PASSED).
+[19:37:32] BanchoBot: The match has finished!
+[19:37:43] BCraftMG: :froggy: : 0 | 3 : bruh idk
+[19:37:43] BCraftMG: Next team to pick: bruh idk
+[19:37:44] BCraftMG: !mp timer 120
+[19:37:44] BanchoBot: Countdown ends in 2 minutes
+[19:37:51] trawa: parato osu carry
+[19:38:13] BanchoBot: Fuki joined in slot 7 for team blue.
+[19:38:17] BanchoBot: trawa left the game.
+[19:38:26] Parato: ht
+[19:38:34] orionchan2: mbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmmmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmbm
+[19:38:44] BanchoBot: Countdown ends in 1 minute
+[19:38:44] BanchoBot: orionchan2 left the game.
+[19:38:51] BCraftMG: !mp mods NoMod
+[19:38:51] BanchoBot: Disabled all mods, disabled FreeMod
+[19:38:53] BanchoBot: Touruu left the game.
+[19:38:53] BCraftMG: !mp map 2218881 0
+[19:38:53] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2218881 Blueberry Sunshine - Act My Age
+[19:38:53] BanchoBot: Changed match mode to Osu
+[19:38:55] BCraftMG: !mp timer 120
+[19:38:55] BanchoBot: Countdown aborted
+[19:38:55] BanchoBot: Countdown ends in 2 minutes
+[19:38:57] BCraftMG: !mp mods HT NF
+[19:38:57] BanchoBot: Enabled NoFail, HalfTime, disabled FreeMod
+[19:39:05] BanchoBot: Fuki moved to slot 6
+[19:39:05] BanchoBot: Zacatel joined in slot 2 for team red.
+[19:39:17] BanchoBot: Zacatel moved to slot 5
+[19:39:17] BanchoBot: TheBushy joined in slot 2 for team red.
+[19:39:19] BanchoBot: Zacatel changed to Blue
+[19:39:54] BanchoBot: Countdown ends in 1 minute
+[19:40:15] TheBushy: glhf!
+[19:40:15] BanchoBot: All players are ready
+[19:40:18] BCraftMG: !mp settings
+[19:40:19] Parato: glhf
+[19:40:19] Racers03: glhf
+[19:40:19] BanchoBot: Room name: STT3: (:froggy:) vs (bruh idk), History: https://osu.ppy.sh/mp/101947148
+[19:40:19] BanchoBot: Beatmap: https://osu.ppy.sh/b/2218881 Blueberry Sunshine - Act My Age
+[19:40:19] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:40:19] BanchoBot: Active mods: NoFail, HalfTime
+[19:40:19] BanchoBot: Players: 6
+[19:40:19] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11621976 Racers03        [Team Red ]
+[19:40:19] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11305115 TheBushy        [Team Red ]
+[19:40:19] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13335554 YankeeSnow213   [Team Red ]
+[19:40:19] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9057237 Parato          [Team Blue]
+[19:40:19] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12195496 Zacatel         [Team Blue]
+[19:40:19] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/6567341 Fuki            [Team Blue]
+[19:40:23] BCraftMG: !mp start 10
+[19:40:23] YankeeSnow213: glhf
+[19:40:23] BanchoBot: Countdown aborted
+[19:40:23] BanchoBot: Match starts in 10 seconds
+[19:40:23] BanchoBot: Queued the match to start in 10 seconds
+[19:40:25] Fuki: glgl
+[19:40:29] BanchoBot: Match starts in 5 seconds
+[19:40:29] BanchoBot: Match starts in 4 seconds
+[19:40:31] BanchoBot: Match starts in 3 seconds
+[19:40:31] BanchoBot: YankeeSnow213 left the game.
+[19:40:31] BanchoBot: Good luck, have fun!
+[19:40:33] TheBushy: O_O
+[19:40:33] BanchoBot: The match has started!
+[19:40:35] BanchoBot: YankeeSnow213 joined in slot 3 for team blue.
+[19:40:37] Parato: lol
+[19:40:41] Racers03: uh can we abort
+[19:40:44] Zacatel: LOL
+[19:40:46] BCraftMG: !mp abort
+[19:40:48] BanchoBot: Aborted the match
+[19:40:54] YankeeSnow213: eto
+[19:40:54] TheBushy: WYSi
+[19:40:58] Racers03: yankee did you accidentally leave lobby LOL
+[19:41:00] YankeeSnow213: ahah
+[19:41:04] YankeeSnow213: yes
+[19:41:04] YankeeSnow213: i think
+[19:41:08] BCraftMG: i will come to ur wall if that ever happen again
+[19:41:08] Racers03: tiny amount of trolling
+[19:41:08] YankeeSnow213: sorry
+[19:41:14] TheBushy: MONKA
+[19:41:23] TheBushy: o yankee change team
+[19:41:23] Parato: o_O
+[19:41:29] BanchoBot: YankeeSnow213 changed to Red
+[19:41:29] BanchoBot: YankeeSnow213 changed to Blue
+[19:41:29] BanchoBot: YankeeSnow213 changed to Red
+[19:41:34] BCraftMG: !mp settings
+[19:41:35] BanchoBot: Room name: STT3: (:froggy:) vs (bruh idk), History: https://osu.ppy.sh/mp/101947148
+[19:41:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/2218881 Blueberry Sunshine - Act My Age
+[19:41:35] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:41:35] BanchoBot: Active mods: NoFail, HalfTime
+[19:41:35] BanchoBot: Players: 6
+[19:41:35] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11621976 Racers03        [Team Red ]
+[19:41:35] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/11305115 TheBushy        [Team Red ]
+[19:41:35] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13335554 YankeeSnow213   [Team Red ]
+[19:41:35] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/9057237 Parato          [Team Blue]
+[19:41:35] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12195496 Zacatel         [Team Blue]
+[19:41:35] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/6567341 Fuki            [Team Blue]
+[19:41:43] TheBushy: glhf!
+[19:41:49] Racers03: glhf
+[19:42:04] Parato: hfhf
+[19:42:06] BCraftMG: ready up please
+[19:42:23] BCraftMG: !mp settings
+[19:42:24] BanchoBot: Room name: STT3: (:froggy:) vs (bruh idk), History: https://osu.ppy.sh/mp/101947148
+[19:42:24] BanchoBot: Beatmap: https://osu.ppy.sh/b/2218881 Blueberry Sunshine - Act My Age
+[19:42:24] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:42:24] BanchoBot: Active mods: NoFail, HalfTime
+[19:42:24] BanchoBot: Players: 6
+[19:42:24] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11621976 Racers03        [Team Red ]
+[19:42:24] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11305115 TheBushy        [Team Red ]
+[19:42:24] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13335554 YankeeSnow213   [Team Red ]
+[19:42:24] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9057237 Parato          [Team Blue]
+[19:42:24] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12195496 Zacatel         [Team Blue]
+[19:42:24] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/6567341 Fuki            [Team Blue]
+[19:42:26] TheBushy: Fuki
+[19:42:28] TheBushy: :sob:
+[19:42:32] BCraftMG: :stare:
+[19:42:42] BCraftMG: hi Fuki
+[19:42:44] Parato: fuki >:(
+[19:42:51] Zacatel: fuki
+[19:43:09] BCraftMG: Whats your name Fuki
+[19:43:12] BCraftMG: How are you today Fuki
+[19:43:16] YankeeSnow213: Fuki :sob:
+[19:43:22] TheBushy: :sob
+[19:43:26] Parato: bruhhh
+[19:43:34] BCraftMG: Would you mind pressing the Ready button Fuki
+[19:43:45] Zacatel: maybe he's having issues
+[19:43:47] TheBushy: yea T_T
+[19:43:51] BanchoBot: Fuki left the game.
+[19:43:53] TheBushy: D:
+[19:43:55] Parato: he gone
+[19:43:57] Parato: offline
+[19:43:59] Parato: vanished
+[19:44:01] YankeeSnow213: oof
+[19:44:03] Zacatel: he's back in vc
+[19:44:05] TheBushy: o-o
+[19:44:07] YankeeSnow213: feel bad for him
+[19:44:07] Parato: can we take a break
+[19:44:07] Zacatel: he's playing the map
+[19:44:09] Zacatel: wait
+[19:44:11] BanchoBot: Fuki joined in slot 6 for team red.
+[19:44:11] Parato: he says he is playing the map
+[19:44:12] BCraftMG: what the faq
+[19:44:17] Zacatel: didn't abort for him lmao
+[19:44:17] Parato: in lobbi
+[19:44:20] Fuki: i was still in map oopsi
+[19:44:24] Fuki: i had UI off i thought we were playing xd
+[19:44:28] Parato: ok no we dont need the break!
+[19:44:39] BCraftMG: cant blame them for that
+[19:44:40] BCraftMG: :skul
+[19:44:44] BCraftMG: now ready back up
+[19:44:48] TheBushy: oh LOL
+[19:44:48] Racers03: oof
+[19:44:53] TheBushy: when abort doesnt work
+[19:44:53] Fuki: mbmb
+[19:44:54] BanchoBot: All players are ready
+[19:44:55] BCraftMG: !mp settings
+[19:44:57] TheBushy: peppy!!!!
+[19:44:57] TheBushy: glhf!
+[19:44:57] BanchoBot: Room name: STT3: (:froggy:) vs (bruh idk), History: https://osu.ppy.sh/mp/101947148
+[19:44:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/2218881 Blueberry Sunshine - Act My Age
+[19:44:57] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:44:57] BanchoBot: Active mods: NoFail, HalfTime
+[19:44:57] BanchoBot: Players: 6
+[19:44:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11621976 Racers03        [Team Red ]
+[19:44:57] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11305115 TheBushy        [Team Red ]
+[19:44:57] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13335554 YankeeSnow213   [Team Red ]
+[19:44:57] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9057237 Parato          [Team Blue]
+[19:44:57] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12195496 Zacatel         [Team Blue]
+[19:44:57] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/6567341 Fuki            [Team Red ]
+[19:44:58] BCraftMG: !mp start 10
+[19:44:58] Racers03: bancho moment
+[19:44:58] BanchoBot: Match starts in 10 seconds
+[19:44:58] BanchoBot: Queued the match to start in 10 seconds
+[19:45:01] Parato: fuki team
+[19:45:01] Racers03: all good
+[19:45:01] Zacatel: WAIT
+[19:45:03] Zacatel: fuki is red
+[19:45:05] Zacatel: WAITIITW
+[19:45:05] BanchoBot: Match starts in 5 seconds
+[19:45:05] BanchoBot: Match starts in 4 seconds
+[19:45:05] Racers03: WWAIT
+[19:45:06] BCraftMG: !mp abort
+[19:45:07] Racers03: NO
+[19:45:07] BanchoBot: Match starts in 3 seconds
+[19:45:07] Racers03: STOP
+[19:45:07] Parato: FUKI TEAM
+[19:45:07] BanchoBot: Good luck, have fun!
+[19:45:07] BanchoBot: Countdown aborted
+[19:45:07] BanchoBot: Aborted the match
+[19:45:09] Racers03: SOTJAPWIJT
+[19:45:09] Zacatel: HE CAN'T CHANGE TEAMS
+[19:45:09] Racers03: STOP
+[19:45:09] Parato: AHHH
+[19:45:09] Zacatel: STOIPST
+[19:45:09] TheBushy: o we can recalc
+[19:45:09] BanchoBot: Fuki left the game.
+[19:45:13] BanchoBot: Fuki joined in slot 6 for team red.
+[19:45:13] YankeeSnow213: HFHKDSJFKSD
+[19:45:13] Parato: LOOL
+[19:45:13] BanchoBot: Fuki changed to Blue
+[19:45:17] TheBushy: OL
+[19:45:17] TheBushy: ok
+[19:45:19] Racers03: THERE WE GO
+[19:45:19] YankeeSnow213: LOL
+[19:45:19] Racers03: LOL
+[19:45:21] Zacatel: ok go :)
+[19:45:23] Fuki: this game man
+[19:45:25] Parato: he made it
+[19:45:25] TheBushy: ITS PERFECT DAY
+[19:45:27] Parato: congrats
+[19:45:29] Fuki: mb again
+[19:45:29] Racers03: fuki was gonna play for us
+[19:45:29] TheBushy: NOTHING GONNA BRING ME DOWN
+[19:45:32] BCraftMG: !mp settings
+[19:45:34] Racers03: :sadge:
+[19:45:34] BanchoBot: Room name: STT3: (:froggy:) vs (bruh idk), History: https://osu.ppy.sh/mp/101947148
+[19:45:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/2218881 Blueberry Sunshine - Act My Age
+[19:45:34] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:45:34] BanchoBot: Active mods: NoFail, HalfTime
+[19:45:34] BanchoBot: Players: 6
+[19:45:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11621976 Racers03        [Team Red ]
+[19:45:34] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11305115 TheBushy        [Team Red ]
+[19:45:34] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/13335554 YankeeSnow213   [Team Red ]
+[19:45:34] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9057237 Parato          [Team Blue]
+[19:45:34] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12195496 Zacatel         [Team Blue]
+[19:45:34] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/6567341 Fuki            [Team Blue]
+[19:45:38] BCraftMG: pls
+[19:45:38] YankeeSnow213: Its a perfect day
+[19:45:38] Racers03: nothing really can go wrong
+[19:45:40] TheBushy: yankeesnow213
+[19:45:40] YankeeSnow213: hell yeah
+[19:45:42] TheBushy: :trollface:
+[19:45:42] Racers03: :               ^)
+[19:45:44] Parato: (:
+[19:45:45] BCraftMG: Yankee ready up
+[19:45:48] BCraftMG: >:(
+[19:45:48] Racers03: ready up yankee :tf:
+[19:45:48] BanchoBot: All players are ready
+[19:45:50] BCraftMG: !mp settings
+[19:45:50] TheBushy: :tf:
+[19:45:52] Racers03: this time for real
+[19:45:52] BanchoBot: Room name: STT3: (:froggy:) vs (bruh idk), History: https://osu.ppy.sh/mp/101947148
+[19:45:52] BanchoBot: Beatmap: https://osu.ppy.sh/b/2218881 Blueberry Sunshine - Act My Age
+[19:45:52] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:45:52] BanchoBot: Active mods: NoFail, HalfTime
+[19:45:52] BanchoBot: Players: 6
+[19:45:52] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11621976 Racers03        [Team Red ]
+[19:45:52] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11305115 TheBushy        [Team Red ]
+[19:45:52] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13335554 YankeeSnow213   [Team Red ]
+[19:45:52] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9057237 Parato          [Team Blue]
+[19:45:53] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12195496 Zacatel         [Team Blue]
+[19:45:53] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/6567341 Fuki            [Team Blue]
+[19:45:53] BCraftMG: !mp start 10
+[19:45:54] YankeeSnow213: sorry
+[19:45:54] Racers03: don't press esc
+[19:45:54] BanchoBot: Match starts in 10 seconds
+[19:45:54] BanchoBot: Queued the match to start in 10 seconds
+[19:45:58] TheBushy: LOL
+[19:45:58] Racers03: I swear
+[19:45:58] Parato: good song tho
+[19:46:01] TheBushy: ok lets gOOO
+[19:46:01] BanchoBot: Match starts in 5 seconds
+[19:46:01] BanchoBot: Match starts in 4 seconds
+[19:46:03] TheBushy: lFG!!
+[19:46:03] BanchoBot: Match starts in 3 seconds
+[19:46:03] BanchoBot: Good luck, have fun!
+[19:46:05] Parato: gl
+[19:46:05] BanchoBot: The match has started!
+[19:49:37] BanchoBot: TheBushy finished playing (Score: 34917, PASSED).
+[19:49:37] BanchoBot: Zacatel finished playing (Score: 97395, PASSED).
+[19:49:37] BanchoBot: Parato finished playing (Score: 94994, PASSED).
+[19:49:37] BanchoBot: Fuki finished playing (Score: 129693, PASSED).
+[19:49:37] BanchoBot: Racers03 finished playing (Score: 69699, PASSED).
+[19:49:37] BanchoBot: YankeeSnow213 finished playing (Score: 36175, PASSED).
+[19:49:37] BanchoBot: The match has finished!
+[19:49:41] BCraftMG: :froggy: : 0 | 4 : bruh idk
+[19:49:43] BCraftMG: Next team to pick: :froggy:
+[19:49:46] BCraftMG: !mp timer 120
+[19:49:46] BanchoBot: Countdown ends in 2 minutes
+[19:50:02] BanchoBot: orionchan2 joined in slot 7 for team blue.
+[19:50:06] BanchoBot: orionchan2 moved to slot 10
+[19:50:13] BanchoBot: TheBushy left the game.
+[19:50:44] BanchoBot: Countdown ends in 1 minute
+[19:51:00] Racers03: DT1
+[19:51:11] BanchoBot: trawa joined in slot 2 for team red.
+[19:51:15] BCraftMG: !mp mods DT NF
+[19:51:15] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[19:51:15] BanchoBot: Countdown ends in 30 seconds
+[19:51:17] BCraftMG: !mp map 1240566 0
+[19:51:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1240566 Ito Kanako - Glass no Kutsu
+[19:51:17] BanchoBot: Changed match mode to Osu
+[19:51:19] BCraftMG: !mp timer 120
+[19:51:19] BanchoBot: Countdown aborted
+[19:51:19] BanchoBot: Countdown ends in 2 minutes
+[19:51:19] BanchoBot: Fuki left the game.
+[19:51:23] BanchoBot: Touruu joined in slot 6 for team red.
+[19:51:27] BanchoBot: Touruu moved to slot 7
+[19:51:29] BanchoBot: trawa left the game.
+[19:51:32] BanchoBot: Touruu moved to slot 2
+[19:51:52] BanchoBot: orionchan2 left the game.
+[19:52:05] BanchoBot: trawa joined in slot 6 for team red.
+[19:52:09] BanchoBot: trawa changed to Blue
+[19:52:19] BanchoBot: Countdown ends in 1 minute
+[19:52:48] BanchoBot: Countdown ends in 30 seconds
+[19:52:48] BanchoBot: All players are ready
+[19:52:52] Racers03: glhf
+[19:52:54] BCraftMG: !mp settings
+[19:52:55] BanchoBot: Room name: STT3: (:froggy:) vs (bruh idk), History: https://osu.ppy.sh/mp/101947148
+[19:52:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/1240566 Ito Kanako - Glass no Kutsu
+[19:52:55] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:52:55] BanchoBot: Active mods: NoFail, DoubleTime
+[19:52:55] BanchoBot: Players: 6
+[19:52:55] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11621976 Racers03        [Team Red ]
+[19:52:55] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9484080 Touruu          [Team Red ]
+[19:52:55] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13335554 YankeeSnow213   [Team Red ]
+[19:52:55] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9057237 Parato          [Team Blue]
+[19:52:55] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12195496 Zacatel         [Team Blue]
+[19:52:55] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10982267 trawa           [Team Blue]
+[19:52:57] Parato: trawa how are you
+[19:52:59] BCraftMG: !mp start 10
+[19:53:01] BanchoBot: Countdown aborted
+[19:53:01] BanchoBot: Match starts in 10 seconds
+[19:53:01] BanchoBot: Queued the match to start in 10 seconds
+[19:53:07] BanchoBot: Match starts in 5 seconds
+[19:53:07] YankeeSnow213: glhf
+[19:53:07] BanchoBot: Match starts in 4 seconds
+[19:53:10] Touruu: glhf
+[19:53:10] BanchoBot: Match starts in 3 seconds
+[19:53:10] BanchoBot: Good luck, have fun!
+[19:53:11] Parato: glhf
+[19:53:11] trawa: im aight
+[19:53:11] BanchoBot: The match has started!
+[19:56:55] BanchoBot: Touruu finished playing (Score: 1044658, PASSED).
+[19:56:55] BanchoBot: YankeeSnow213 finished playing (Score: 659775, PASSED).
+[19:56:55] BanchoBot: Zacatel finished playing (Score: 744972, PASSED).
+[19:56:55] BanchoBot: Parato finished playing (Score: 598856, PASSED).
+[19:57:04] BanchoBot: Racers03 finished playing (Score: 541005, PASSED).
+[19:57:04] BanchoBot: trawa finished playing (Score: 1184136, PASSED).
+[19:57:04] BanchoBot: The match has finished!
+[19:57:08] BCraftMG: :froggy: : 0 | 5 : bruh idk
+[19:57:10] BCraftMG: **bruh idk wins the match**
+[19:57:22] BanchoBot: Fuki joined in slot 7 for team blue.
+[19:57:24] Touruu: ggwps
+[19:57:24] BanchoBot: YankeeSnow213 left the game.
+[19:57:27] BanchoBot: Touruu left the game.
+[19:57:27] BanchoBot: TheBushy joined in slot 2 for team red.
+[19:57:31] Fuki: ggs
+[19:57:31] Parato: ggwp
+[19:57:31] TheBushy: gg
+[19:57:32] BCraftMG: GGWP
+[19:57:33] TheBushy: ty for ref
+[19:57:33] Zacatel: ggwp thx for playing/reffing
+[19:57:37] BCraftMG: Thanks for playing :3
+[19:57:37] Fuki: thanks for playing and ref
+[19:57:41] TheBushy: :3 gl in next rounds
+[19:57:46] Fuki: and sorry for the trolling
+[19:57:56] Parato: thank you!
+[19:57:58] BCraftMG: i trolled too :c
+[19:58:03] Parato: thanks for the ref!!!
+[19:58:05] BanchoBot: Zacatel left the game.
+[19:58:05] BanchoBot: TheBushy left the game.
+[19:58:18] Fuki: o/
+[19:58:18] BanchoBot: Fuki left the game.
+[19:58:20] trawa: gl farewell
+[19:58:21] Parato: o/
+[19:58:21] BanchoBot: trawa left the game.
+[19:58:24] Parato: sayonara
+[19:58:26] BanchoBot: Parato left the game.
+[19:59:06] BanchoBot: Racers03 left the game.
+[19:59:20] BCraftMG: !mp close
+[19:59:20] BanchoBot: Closed the match

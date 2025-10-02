@@ -1,0 +1,1049 @@
+[21:50:20] Joined #mp_107306660
+[21:50:20] BCraftMG: !mp settings
+[21:50:21] BanchoBot: Room name: 5WC2023: (Philippines) vs (Germany), History: https://osu.ppy.sh/mp/107306660
+[21:50:21] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[21:50:21] BanchoBot: Players: 0
+[21:50:28] BCraftMG: !mp set 2 3 8
+[21:50:28] BanchoBot: Changed match settings to 8 slots, TeamVs, ScoreV2
+[21:50:43] BCraftMG: !mp set 2 3 12
+[21:50:44] BanchoBot: Changed match settings to 12 slots, TeamVs, ScoreV2
+[21:51:06] BCraftMG: !mp addref [K]itten
+[21:51:07] BanchoBot: User not found: [K]itten
+[21:52:52] BCraftMG: !mp addref Diiiooon
+[21:52:52] BanchoBot: Added Diiiooon to the match referees
+[21:53:16] BCraftMG: !mp addref [K]itten
+[21:53:17] BanchoBot: Added [K]itten to the match referees
+[21:53:35] BCraftMG: !mp invite #8315885
+[21:53:35] BanchoBot: Invited Xyphox to the room
+[21:53:37] BCraftMG: !mp invite #10728620
+[21:53:37] BanchoBot: Invited Nyura to the room
+[21:53:53] BCraftMG: !mp map 4007621 0
+[21:53:53] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4007621 Ski Aggu - Hubba Bubba
+[21:53:53] BanchoBot: Changed match mode to Osu
+[21:53:55] BCraftMG: !mp mods Freemod
+[21:53:55] BanchoBot: Disabled all mods, enabled FreeMod
+[21:55:58] BanchoBot: Nyura joined in slot 1 for team blue.
+[21:56:01] BCraftMG: o/
+[21:56:05] BCraftMG: !mp invite #19096103
+[21:56:06] BanchoBot: User not found
+[21:56:07] BCraftMG: !mp invite #25842028
+[21:56:07] BanchoBot: Invited CheemsSama to the room
+[21:56:10] Nyura: o/
+[21:56:18] BanchoBot: CheemsSama joined in slot 2 for team red.
+[21:56:22] BanchoBot: CheemsSama left the game.
+[21:56:39] Nyura: ?
+[21:56:47] BCraftMG: uhh
+[21:56:48] BCraftMG: WHOOPS
+[21:56:51] BCraftMG: wrong lobby sorry
+[21:56:57] Nyura: XD
+[21:56:58] BanchoBot: Mankichiro joined in slot 2 for team red.
+[21:57:18] BCraftMG: i thought i alt tabbed
+[21:57:31] Nyura: happens
+[21:57:34] Nyura: uh
+[21:57:39] Nyura: are we red or blue
+[21:57:40] BanchoBot: Nyura moved to slot 5
+[21:57:42] BanchoBot: tplc joined in slot 1 for team blue.
+[21:57:45] BanchoBot: tplc left the game.
+[21:57:50] BanchoBot: Boden joined in slot 1 for team blue.
+[21:57:54] BanchoBot: Boden moved to slot 3
+[21:57:55] BanchoBot: Nyura left the game.
+[21:58:32] BanchoBot: POLANDTRUCKER13 joined in slot 1 for team blue.
+[21:59:05] BanchoBot: -Jayden joined in slot 4 for team red.
+[21:59:12] BCraftMG: !mp addref young tplc
+[21:59:13] BanchoBot: BlonderDennis joined in slot 5 for team blue.
+[21:59:13] BanchoBot: Added young tplc to the match referees
+[21:59:18] BCraftMG: !mp addref HuTaoMyMommy
+[21:59:18] BanchoBot: Added HuTaoMyMommy to the match referees
+[22:00:19] BanchoBot: Nyura joined in slot 6 for team red.
+[22:00:54] BCraftMG: !mp settings
+[22:00:54] BanchoBot: Room name: 5WC2023: (Philippines) vs (Germany), History: https://osu.ppy.sh/mp/107306660
+[22:00:54] BanchoBot: Beatmap: https://osu.ppy.sh/b/4007621 Ski Aggu - Hubba Bubba
+[22:00:54] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:00:54] BanchoBot: Active mods: Freemod
+[22:00:54] BanchoBot: Players: 6
+[22:00:54] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/19857248 POLANDTRUCKER13 [Team Blue]
+[22:00:54] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/14445724 Mankichiro      [Team Red ]
+[22:00:54] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/10345531 Boden           [Team Blue]
+[22:00:54] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/15846736 -Jayden         [Team Red ]
+[22:00:54] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/9294554 BlonderDennis   [Team Blue]
+[22:00:54] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/10728620 Nyura           [Team Red ]
+[22:01:03] BCraftMG: Philippines red + slots 1-4 and Germany blue + slots 5-8
+[22:01:10] BanchoBot: Nyura moved to slot 7
+[22:01:11] BanchoBot: Nyura changed to Blue
+[22:01:14] BanchoBot: Boden moved to slot 6
+[22:01:21] BanchoBot: tplc joined in slot 3 for team blue.
+[22:01:23] BanchoBot: Mankichiro moved to slot 8
+[22:01:26] BanchoBot: -Jayden moved to slot 9
+[22:01:26] BanchoBot: tplc moved to slot 2
+[22:01:26] BanchoBot: Mankichiro changed to Blue
+[22:01:27] BanchoBot: -Jayden changed to Blue
+[22:01:32] Nyura: !where Xyphox
+[22:01:32] BanchoBot: Xyphox is in Philippines
+[22:01:32] BanchoBot: tplc left the game.
+[22:01:37] Nyura: damn
+[22:01:42] BCraftMG: hmm
+[22:01:43] BanchoBot: Nyura left the game.
+[22:01:46] BanchoBot: POLANDTRUCKER13 moved to slot 7
+[22:02:01] BCraftMG: !mp invite #8315885
+[22:02:02] BanchoBot: Invited Xyphox to the room
+[22:02:04] -Jayden: please noshow
+[22:02:12] BCraftMG: did i forgot to invite them
+[22:02:17] BanchoBot: Xyphox joined in slot 1 for team blue.
+[22:02:28] BCraftMG: o//
+[22:02:29] BCraftMG: Philippines red + slots 1-4 and Germany blue + slots 5-8
+[22:02:35] BanchoBot: Yukixo joined in slot 2 for team red.
+[22:02:39] Xyphox: o/
+[22:02:40] BanchoBot: [Shua] joined in slot 3 for team blue.
+[22:02:42] BanchoBot: seeeen11l1 joined in slot 4 for team red.
+[22:03:00] BCraftMG: This is Germany's warm up, Xyphox since you didnt send your warm up we'll skip
+[22:03:02] BanchoBot: okirema joined in slot 10 for team red.
+[22:03:08] Xyphox: ok!
+[22:03:18] BanchoBot: okirema left the game.
+[22:03:21] POLANDTRUCKER13: im sorry already its cutstom and my parts suck
+[22:03:23] BanchoBot: Nyura joined in slot 10 for team red.
+[22:03:28] Nyura: holaaaa
+[22:03:32] Xyphox: holaaa
+[22:03:33] Xyphox: wait brb
+[22:03:34] BanchoBot: Xyphox left the game.
+[22:03:41] BanchoBot: Yukixo moved to slot 11
+[22:03:46] BanchoBot: [Shua] moved to slot 12
+[22:03:56] BanchoBot: Nyura left the game.
+[22:03:57] BanchoBot: seeeen11l1 moved to slot 1
+[22:03:58] BCraftMG: !mp size 16
+[22:03:58] BanchoBot: Changed match to size 16
+[22:03:59] BanchoBot: NathanSS joined in slot 2 for team red.
+[22:04:05] BanchoBot: Yukixo moved to slot 3
+[22:04:19] BanchoBot: [Shua] moved to slot 10
+[22:04:29] BanchoBot: [Shua] moved to slot 4
+[22:04:32] BanchoBot: tplc joined in slot 10 for team red.
+[22:04:36] BanchoBot: LeFerraille joined in slot 11 for team blue.
+[22:04:40] BanchoBot: [Shua] changed to Red
+[22:04:46] BanchoBot: Akezaris joined in slot 12 for team red.
+[22:04:59] Akezaris: o/
+[22:05:02] tplc: Hello
+[22:05:06] POLANDTRUCKER13: o7
+[22:05:17] BanchoBot: tplc changed to Blue
+[22:05:17] BanchoBot: Nyura joined in slot 13 for team blue.
+[22:05:39] BCraftMG: !mp settings
+[22:05:40] BanchoBot: Room name: 5WC2023: (Philippines) vs (Germany), History: https://osu.ppy.sh/mp/107306660
+[22:05:40] BanchoBot: Beatmap: https://osu.ppy.sh/b/4007621 Ski Aggu - Hubba Bubba
+[22:05:40] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:05:40] BanchoBot: Active mods: Freemod
+[22:05:40] BanchoBot: Players: 13
+[22:05:40] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18047706 seeeen11l1      [Team Red  / NoFail, Easy]
+[22:05:40] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/8500628 NathanSS        [Team Red  / NoFail, HardRock]
+[22:05:40] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/17847877 Yukixo          [Team Red  / NoFail, HardRock]
+[22:05:40] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/15333140 [Shua]          [Team Red  / NoFail]
+[22:05:40] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/9294554 BlonderDennis   [Team Blue / NoFail]
+[22:05:40] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/10345531 Boden           [Team Blue]
+[22:05:40] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/19857248 POLANDTRUCKER13 [Team Blue / NoFail, Hidden]
+[22:05:40] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/14445724 Mankichiro      [Team Blue / NoFail]
+[22:05:40] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/15846736 -Jayden         [Team Blue]
+[22:05:40] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/6643511 tplc            [Team Blue / NoFail]
+[22:05:40] BanchoBot: Slot 11 Not Ready https://osu.ppy.sh/u/11001039 LeFerraille     [Team Blue / Hidden]
+[22:05:40] BanchoBot: Slot 12 Not Ready https://osu.ppy.sh/u/11098454 Akezaris        [Team Red ]
+[22:05:40] BanchoBot: Slot 13 Ready     https://osu.ppy.sh/u/10728620 Nyura           [Team Blue / NoFail, Hidden]
+[22:05:51] BCraftMG: we gonna have to force start :3c
+[22:05:59] tplc: gogo
+[22:06:01] BCraftMG: !mp start 5
+[22:06:02] BanchoBot: Match starts in 5 seconds
+[22:06:02] BanchoBot: Queued the match to start in 5 seconds
+[22:06:04] BanchoBot: Match starts in 4 seconds
+[22:06:04] Nyura: do it
+[22:06:04] BanchoBot: Match starts in 3 seconds
+[22:06:04] Nyura: :)
+[22:06:05] POLANDTRUCKER13: hogo
+[22:06:05] BanchoBot: Good luck, have fun!
+[22:06:08] BanchoBot: The match has started!
+[22:07:18] BanchoBot: Xyphox joined in slot 14 for team red.
+[22:07:54] BanchoBot: Xyphox left the game.
+[22:08:21] BanchoBot: -Jayden finished playing (Score: 574209, PASSED).
+[22:08:22] BanchoBot: tplc finished playing (Score: 424114, PASSED).
+[22:08:22] BanchoBot: POLANDTRUCKER13 finished playing (Score: 643134, PASSED).
+[22:08:22] BanchoBot: Yukixo finished playing (Score: 114417, PASSED).
+[22:08:23] BanchoBot: Boden finished playing (Score: 321626, PASSED).
+[22:08:23] BanchoBot: NathanSS finished playing (Score: 86680, PASSED).
+[22:08:23] BanchoBot: Nyura finished playing (Score: 531336, PASSED).
+[22:08:23] BanchoBot: [Shua] finished playing (Score: 205350, PASSED).
+[22:08:23] BanchoBot: Akezaris finished playing (Score: 211229, PASSED).
+[22:08:23] BanchoBot: BlonderDennis finished playing (Score: 447142, PASSED).
+[22:08:24] BanchoBot: LeFerraille finished playing (Score: 31301, FAILED).
+[22:08:24] BanchoBot: Mankichiro finished playing (Score: 926342, PASSED).
+[22:08:25] BanchoBot: seeeen11l1 finished playing (Score: 25393, PASSED).
+[22:08:25] BanchoBot: The match has finished!
+[22:08:30] BCraftMG: !mp clearhost
+[22:08:30] BanchoBot: Cleared match host
+[22:08:34] BCraftMG: Time to roll!
+[22:08:43] Nyura: !roll tatze future gf age
+[22:08:43] BanchoBot: Nyura rolls 79 point(s)
+[22:08:46] Nyura: vas
+[22:08:55] POLANDTRUCKER13: vamos
+[22:08:57] Akezaris: !roll gf age
+[22:08:57] BanchoBot: Akezaris rolls 50 point(s)
+[22:09:02] Akezaris: no.
+[22:09:06] BanchoBot: Xyphox joined in slot 14 for team red.
+[22:09:07] Nyura: gilf enjoyers :handshake:
+[22:09:12] BanchoBot: okirema joined in slot 15 for team blue.
+[22:09:14] Akezaris: :handshake:
+[22:09:20] BanchoBot: [Shua] left the game.
+[22:09:29] BanchoBot: okirema left the game.
+[22:09:34] BCraftMG: im still waiting for Xyphox's roll
+[22:09:43] Nyura: scam
+[22:09:47] BanchoBot: Yukixo left the game.
+[22:09:47] BanchoBot: LeFerraille moved to slot 4
+[22:09:51] Xyphox: !roll
+[22:09:51] BanchoBot: Xyphox rolls 22 point(s)
+[22:09:55] Xyphox: i thought one of them rolled already
+[22:09:57] seeeen11l1: black combo on 100% bg dim is hell
+[22:09:57] Xyphox: doomed.
+[22:10:01] Akezaris: doomed
+[22:10:05] BCraftMG: The winner of the roll will protect second, ban first, and pick first
+[22:10:07] Nyura: sadge
+[22:10:09] POLANDTRUCKER13: Sorry seeeen xD
+[22:10:14] POLANDTRUCKER13: i really forgot to unadd it
+[22:10:22] seeeen11l1: xDD
+[22:10:32] BCraftMG: First Protect: Philippines
+[22:10:32] BCraftMG: !mp timer 120
+[22:10:34] BanchoBot: Countdown ends in 2 minutes
+[22:10:48] Xyphox: protect hd2
+[22:10:55] BCraftMG: Next Protect: Germany
+[22:10:55] BCraftMG: !mp timer 120
+[22:10:57] BanchoBot: Countdown aborted
+[22:10:57] BanchoBot: Countdown ends in 2 minutes
+[22:11:01] Nyura: protect hr1
+[22:11:09] BCraftMG: First Ban: Germany
+[22:11:10] BCraftMG: !mp timer 120
+[22:11:11] BanchoBot: Countdown aborted
+[22:11:11] BanchoBot: Countdown ends in 2 minutes
+[22:11:38] Nyura: HD1
+[22:11:51] BCraftMG: Next Ban: Philippines
+[22:11:53] BCraftMG: !mp timer 120
+[22:11:54] BanchoBot: Countdown aborted
+[22:11:54] BanchoBot: Countdown ends in 2 minutes
+[22:12:23] Xyphox: dt1 ban
+[22:12:30] BanchoBot: Yukixo joined in slot 3 for team blue.
+[22:12:34] BCraftMG: Philippines | 0 - 0 | Germany // Bo9 - First Pick: Germany
+[22:12:36] BCraftMG: !mp timer 120
+[22:12:37] BanchoBot: Countdown aborted
+[22:12:37] BanchoBot: Countdown ends in 2 minutes
+[22:12:48] BanchoBot: Boden left the game.
+[22:12:56] BanchoBot: tplc left the game.
+[22:12:58] BanchoBot: POLANDTRUCKER13 left the game.
+[22:13:22] Nyura: DT2
+[22:13:24] BanchoBot: JobeHobe joined in slot 6 for team red.
+[22:13:28] BanchoBot: LeFerraille left the game.
+[22:13:29] BanchoBot: seeeen11l1 left the game.
+[22:13:36] BCraftMG: !mp map 4042257 0
+[22:13:37] BanchoBot: Countdown ends in 1 minute
+[22:13:37] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4042257 ABSOLUTE CASTAWAY - Shiroi Tsuki, Hohoenda Taiyou
+[22:13:37] BanchoBot: Changed match mode to Osu
+[22:13:38] BCraftMG: !mp mods 65
+[22:13:38] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[22:13:39] BCraftMG: !mp timer 120
+[22:13:39] BanchoBot: Countdown aborted
+[22:13:39] BanchoBot: Countdown ends in 2 minutes
+[22:13:52] BanchoBot: Mankichiro moved to slot 7
+[22:13:53] BanchoBot: Nyura moved to slot 8
+[22:13:54] BanchoBot: Yukixo changed to Red
+[22:14:00] BanchoBot: Akezaris moved to slot 1
+[22:14:01] BanchoBot: -Jayden left the game.
+[22:14:05] BanchoBot: JobeHobe changed to Blue
+[22:14:30] BanchoBot: Xyphox left the game.
+[22:14:32] BanchoBot: LeFerraille joined in slot 4 for team red.
+[22:14:40] BanchoBot: Countdown ends in 1 minute
+[22:15:03] BanchoBot: All players are ready
+[22:15:10] BanchoBot: Countdown ends in 30 seconds
+[22:15:11] Yukixo: golf
+[22:15:12] JobeHobe: glhf
+[22:15:13] BlonderDennis: glhf
+[22:15:14] Akezaris: golflf
+[22:15:14] Nyura: golf!
+[22:15:17] Mankichiro: glhf
+[22:15:19] BCraftMG: !mp settings
+[22:15:19] BanchoBot: Room name: 5WC2023: (Philippines) vs (Germany), History: https://osu.ppy.sh/mp/107306660
+[22:15:19] BanchoBot: Beatmap: https://osu.ppy.sh/b/4042257 ABSOLUTE CASTAWAY - Shiroi Tsuki, Hohoenda Taiyou
+[22:15:19] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:15:19] BanchoBot: Active mods: NoFail, DoubleTime
+[22:15:19] BanchoBot: Players: 8
+[22:15:19] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11098454 Akezaris        [Team Red ]
+[22:15:19] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8500628 NathanSS        [Team Red ]
+[22:15:19] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/17847877 Yukixo          [Team Red ]
+[22:15:19] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11001039 LeFerraille     [Team Red ]
+[22:15:19] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/9294554 BlonderDennis   [Team Blue]
+[22:15:19] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11920994 JobeHobe        [Team Blue]
+[22:15:19] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/14445724 Mankichiro      [Team Blue]
+[22:15:19] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10728620 Nyura           [Team Blue]
+[22:15:27] BCraftMG: !mp start 5 glhf
+[22:15:28] BanchoBot: Countdown aborted
+[22:15:28] BanchoBot: Match starts in 5 seconds
+[22:15:28] BanchoBot: Queued the match to start in 5 seconds
+[22:15:29] BanchoBot: Match starts in 4 seconds
+[22:15:30] BanchoBot: Match starts in 3 seconds
+[22:15:31] JobeHobe: nyura
+[22:15:31] BanchoBot: Good luck, have fun!
+[22:15:33] BanchoBot: The match has started!
+[22:15:35] Nyura: ja
+[22:18:23] BanchoBot: LeFerraille finished playing (Score: 819147, PASSED).
+[22:18:23] BanchoBot: NathanSS finished playing (Score: 587633, PASSED).
+[22:18:23] BanchoBot: JobeHobe finished playing (Score: 844045, PASSED).
+[22:18:23] BanchoBot: Yukixo finished playing (Score: 931138, PASSED).
+[22:18:24] BanchoBot: Akezaris finished playing (Score: 974425, PASSED).
+[22:18:24] BanchoBot: Nyura finished playing (Score: 829812, PASSED).
+[22:18:25] BanchoBot: Mankichiro finished playing (Score: 559425, PASSED).
+[22:18:25] BanchoBot: BlonderDennis finished playing (Score: 1047457, PASSED).
+[22:18:25] BanchoBot: The match has finished!
+[22:18:43] BanchoBot: Xyphox joined in slot 9 for team blue.
+[22:18:53] BanchoBot: LeFerraille left the game.
+[22:18:54] Xyphox: stop giving me a heart attack akezaris...
+[22:19:04] BanchoBot: seeeen11l1 joined in slot 4 for team red.
+[22:19:06] BCraftMG: Philippines | 1 - 0 | Germany // Bo9 - Next Pick: Philippines
+[22:19:06] BCraftMG: !mp timer 120
+[22:19:08] BanchoBot: seeeen11l1 moved to slot 11
+[22:19:08] BanchoBot: Countdown ends in 2 minutes
+[22:19:09] Akezaris: dont worry im about to have one myself
+[22:19:10] BanchoBot: seeeen11l1 moved to slot 4
+[22:19:11] BanchoBot: NathanSS left the game.
+[22:19:15] Akezaris: my heartrate is going faster than the map
+[22:19:16] Xyphox: hd2 pick
+[22:19:22] BanchoBot: Xyphox moved to slot 2
+[22:19:24] BanchoBot: Mankichiro left the game.
+[22:19:24] BanchoBot: Xyphox changed to Red
+[22:19:25] BanchoBot: BlonderDennis left the game.
+[22:19:25] BanchoBot: POLANDTRUCKER13 joined in slot 5 for team blue.
+[22:19:30] BanchoBot: Boden joined in slot 7 for team blue.
+[22:19:36] BCraftMG: !mp map 3815518 0
+[22:19:37] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3815518 yanaginagi - continue
+[22:19:37] BanchoBot: Changed match mode to Osu
+[22:19:37] BCraftMG: !mp mods 9
+[22:19:38] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[22:19:38] BCraftMG: !mp timer 120
+[22:19:39] BanchoBot: Countdown aborted
+[22:19:39] BanchoBot: Countdown ends in 2 minutes
+[22:19:40] BanchoBot: Akezaris left the game.
+[22:19:46] BanchoBot: seeeen11l1 moved to slot 1
+[22:20:10] BanchoBot: LeFerraille joined in slot 4 for team red.
+[22:20:13] BanchoBot: Nyura left the game.
+[22:20:24] BCraftMG: !mp settings
+[22:20:25] BanchoBot: Room name: 5WC2023: (Philippines) vs (Germany), History: https://osu.ppy.sh/mp/107306660
+[22:20:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/3815518 yanaginagi - continue
+[22:20:25] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:20:25] BanchoBot: Active mods: NoFail, Hidden
+[22:20:25] BanchoBot: Players: 7
+[22:20:25] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18047706 seeeen11l1      [Team Red ]
+[22:20:25] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/8315885 Xyphox          [Team Red ]
+[22:20:25] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/17847877 Yukixo          [Team Red ]
+[22:20:25] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/11001039 LeFerraille     [Team Red ]
+[22:20:25] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/19857248 POLANDTRUCKER13 [Team Blue]
+[22:20:25] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/11920994 JobeHobe        [Team Blue]
+[22:20:25] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/10345531 Boden           [Team Blue]
+[22:20:29] BanchoBot: Nyura joined in slot 8 for team red.
+[22:20:31] BanchoBot: Nyura changed to Blue
+[22:20:40] BanchoBot: Countdown ends in 1 minute
+[22:21:02] Yukixo: golf
+[22:21:08] Nyura: gl!
+[22:21:08] Boden: glhf
+[22:21:09] Xyphox: ghghgh
+[22:21:09] BanchoBot: Countdown ends in 30 seconds
+[22:21:12] BanchoBot: All players are ready
+[22:21:13] seeeen11l1: glglgl
+[22:21:19] POLANDTRUCKER13: gl
+[22:21:21] JobeHobe: glhf
+[22:21:24] Xyphox: gl;ll
+[22:21:26] BCraftMG: !mp settings
+[22:21:27] BanchoBot: Room name: 5WC2023: (Philippines) vs (Germany), History: https://osu.ppy.sh/mp/107306660
+[22:21:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/3815518 yanaginagi - continue
+[22:21:27] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:21:27] BanchoBot: Active mods: NoFail, Hidden
+[22:21:27] BanchoBot: Players: 8
+[22:21:27] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18047706 seeeen11l1      [Team Red ]
+[22:21:27] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8315885 Xyphox          [Team Red ]
+[22:21:27] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/17847877 Yukixo          [Team Red ]
+[22:21:27] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11001039 LeFerraille     [Team Red ]
+[22:21:27] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/19857248 POLANDTRUCKER13 [Team Blue]
+[22:21:27] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11920994 JobeHobe        [Team Blue]
+[22:21:27] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/10345531 Boden           [Team Blue]
+[22:21:27] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10728620 Nyura           [Team Blue]
+[22:21:28] BCraftMG: !mp start 5 glhf
+[22:21:29] BanchoBot: Countdown aborted
+[22:21:29] BanchoBot: Match starts in 5 seconds
+[22:21:29] BanchoBot: Queued the match to start in 5 seconds
+[22:21:30] BanchoBot: Match starts in 4 seconds
+[22:21:31] BanchoBot: Match starts in 3 seconds
+[22:21:32] BanchoBot: Good luck, have fun!
+[22:21:33] POLANDTRUCKER13: gl
+[22:21:34] BanchoBot: The match has started!
+[22:25:35] BanchoBot: Xyphox finished playing (Score: 767740, PASSED).
+[22:25:36] BanchoBot: POLANDTRUCKER13 finished playing (Score: 475348, PASSED).
+[22:25:36] BanchoBot: Boden finished playing (Score: 457352, PASSED).
+[22:25:36] BanchoBot: JobeHobe finished playing (Score: 325067, PASSED).
+[22:25:37] BanchoBot: LeFerraille finished playing (Score: 475523, PASSED).
+[22:25:37] BanchoBot: Yukixo finished playing (Score: 448330, PASSED).
+[22:25:37] BanchoBot: Nyura finished playing (Score: 373264, PASSED).
+[22:25:38] BanchoBot: seeeen11l1 finished playing (Score: 793107, PASSED).
+[22:25:38] BanchoBot: The match has finished!
+[22:25:53] BCraftMG: Philippines | 2 - 0 | Germany // Bo9 - Next Pick: Germany
+[22:25:53] BCraftMG: !mp timer 120
+[22:25:55] BanchoBot: Countdown ends in 2 minutes
+[22:25:56] Nyura: HR1
+[22:25:56] BanchoBot: Boden left the game.
+[22:26:00] BanchoBot: POLANDTRUCKER13 left the game.
+[22:26:01] BanchoBot: tplc joined in slot 5 for team blue.
+[22:26:01] BanchoBot: LeFerraille left the game.
+[22:26:08] Nyura: hr1
+[22:26:08] BanchoBot: Mankichiro joined in slot 4 for team red.
+[22:26:10] BCraftMG: !mp map 3494393 0
+[22:26:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3494393 YUC'e - Cinnamon Symphony
+[22:26:11] BanchoBot: Changed match mode to Osu
+[22:26:11] BCraftMG: !mp mods 17
+[22:26:12] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[22:26:13] BanchoBot: Mankichiro moved to slot 7
+[22:26:13] tplc: JUNGS
+[22:26:14] BanchoBot: Mankichiro changed to Blue
+[22:26:15] BanchoBot: Xyphox left the game.
+[22:26:15] tplc: DA BIN ICH
+[22:26:15] BanchoBot: Yukixo left the game.
+[22:26:16] BCraftMG: !mp timer 120
+[22:26:16] BanchoBot: Countdown aborted
+[22:26:16] BanchoBot: Countdown ends in 2 minutes
+[22:26:18] BanchoBot: NathanSS joined in slot 2 for team red.
+[22:26:19] BanchoBot: Nyura moved to slot 10
+[22:26:21] seeeen11l1: acc
+[22:26:28] BanchoBot: Nyura left the game.
+[22:26:40] BanchoBot: BlonderDennis joined in slot 3 for team blue.
+[22:26:42] BanchoBot: BlonderDennis moved to slot 4
+[22:26:44] BanchoBot: BlonderDennis moved to slot 8
+[22:27:17] BanchoBot: Countdown ends in 1 minute
+[22:27:36] BanchoBot: LeFerraille joined in slot 3 for team blue.
+[22:27:39] BanchoBot: LeFerraille moved to slot 4
+[22:27:41] BanchoBot: LeFerraille changed to Red
+[22:27:41] BanchoBot: Yukixo joined in slot 3 for team blue.
+[22:27:47] BanchoBot: Countdown ends in 30 seconds
+[22:27:54] BanchoBot: Yukixo changed to Red
+[22:28:07] BanchoBot: Countdown ends in 10 seconds
+[22:28:09] Yukixo: golf
+[22:28:11] JobeHobe: glhf
+[22:28:12] BanchoBot: Countdown ends in 5 seconds
+[22:28:13] BanchoBot: Countdown ends in 4 seconds
+[22:28:14] BanchoBot: Countdown ends in 3 seconds
+[22:28:15] BanchoBot: Countdown ends in 2 seconds
+[22:28:16] BanchoBot: Countdown ends in 1 second
+[22:28:16] BanchoBot: Countdown finished
+[22:28:17] BCraftMG: !mp settings
+[22:28:18] BanchoBot: Room name: 5WC2023: (Philippines) vs (Germany), History: https://osu.ppy.sh/mp/107306660
+[22:28:18] BanchoBot: Beatmap: https://osu.ppy.sh/b/3494393 YUC'e - Cinnamon Symphony
+[22:28:18] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:28:18] BanchoBot: Active mods: NoFail, HardRock
+[22:28:18] BanchoBot: Players: 8
+[22:28:18] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18047706 seeeen11l1      [Team Red ]
+[22:28:18] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8500628 NathanSS        [Team Red ]
+[22:28:18] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/17847877 Yukixo          [Team Red ]
+[22:28:18] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/11001039 LeFerraille     [Team Red ]
+[22:28:18] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/6643511 tplc            [Team Blue]
+[22:28:18] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11920994 JobeHobe        [Team Blue]
+[22:28:18] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/14445724 Mankichiro      [Team Blue]
+[22:28:18] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/9294554 BlonderDennis   [Team Blue]
+[22:28:22] BCraftMG: Ready up!
+[22:28:23] seeeen11l1: glglgl
+[22:28:27] BCraftMG: LeFerraille
+[22:28:28] BlonderDennis: glhf
+[22:28:34] BanchoBot: All players are ready
+[22:28:35] BCraftMG: !mp settings
+[22:28:36] Mankichiro: glhf
+[22:28:36] BanchoBot: Room name: 5WC2023: (Philippines) vs (Germany), History: https://osu.ppy.sh/mp/107306660
+[22:28:36] BanchoBot: Beatmap: https://osu.ppy.sh/b/3494393 YUC'e - Cinnamon Symphony
+[22:28:36] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:28:36] BanchoBot: Active mods: NoFail, HardRock
+[22:28:36] BanchoBot: Players: 8
+[22:28:36] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18047706 seeeen11l1      [Team Red ]
+[22:28:36] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8500628 NathanSS        [Team Red ]
+[22:28:36] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/17847877 Yukixo          [Team Red ]
+[22:28:36] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11001039 LeFerraille     [Team Red ]
+[22:28:36] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/6643511 tplc            [Team Blue]
+[22:28:36] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11920994 JobeHobe        [Team Blue]
+[22:28:36] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/14445724 Mankichiro      [Team Blue]
+[22:28:36] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/9294554 BlonderDennis   [Team Blue]
+[22:28:37] BCraftMG: !mp start 5 glhf
+[22:28:37] LeFerraille: mb mb
+[22:28:37] BanchoBot: Match starts in 5 seconds
+[22:28:37] BanchoBot: Queued the match to start in 5 seconds
+[22:28:39] BanchoBot: Match starts in 4 seconds
+[22:28:39] BanchoBot: Match starts in 3 seconds
+[22:28:40] LeFerraille: just tlaking in team
+[22:28:41] BanchoBot: Good luck, have fun!
+[22:28:43] BanchoBot: The match has started!
+[22:31:43] BanchoBot: seeeen11l1 finished playing (Score: 928908, PASSED).
+[22:31:43] BanchoBot: NathanSS finished playing (Score: 964034, PASSED).
+[22:31:43] BanchoBot: tplc finished playing (Score: 764542, PASSED).
+[22:31:43] BanchoBot: JobeHobe finished playing (Score: 747400, PASSED).
+[22:31:43] BanchoBot: Mankichiro finished playing (Score: 1013933, PASSED).
+[22:31:43] BanchoBot: LeFerraille finished playing (Score: 520564, PASSED).
+[22:31:44] BanchoBot: Yukixo finished playing (Score: 1023483, PASSED).
+[22:31:44] BanchoBot: BlonderDennis finished playing (Score: 445879, PASSED).
+[22:31:44] BanchoBot: The match has finished!
+[22:31:55] BanchoBot: Nyura joined in slot 9 for team blue.
+[22:31:57] BCraftMG: Philippines | 3 - 0 | Germany // Bo9 - Next Pick: Philippines
+[22:31:58] BCraftMG: !mp timer 120
+[22:31:59] BanchoBot: Countdown ends in 2 minutes
+[22:32:02] BanchoBot: Xyphox joined in slot 10 for team red.
+[22:32:04] Xyphox: nm5
+[22:32:06] BanchoBot: Xyphox left the game.
+[22:32:09] BanchoBot: BlonderDennis left the game.
+[22:32:13] BanchoBot: LeFerraille left the game.
+[22:32:16] BanchoBot: Nyura left the game.
+[22:32:17] BCraftMG: !mp map 2890690 0
+[22:32:17] BanchoBot: tplc left the game.
+[22:32:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2890690 Hagane - Event Horizon
+[22:32:17] BanchoBot: Changed match mode to Osu
+[22:32:18] BCraftMG: !mp mods 1
+[22:32:19] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:32:22] BCraftMG: !mp timer 120
+[22:32:23] BanchoBot: Countdown aborted
+[22:32:23] BanchoBot: Countdown ends in 2 minutes
+[22:32:27] BanchoBot: Yukixo left the game.
+[22:32:32] BanchoBot: Boden joined in slot 3 for team blue.
+[22:32:47] BanchoBot: NathanSS left the game.
+[22:32:51] BanchoBot: Boden moved to slot 5
+[22:33:06] BanchoBot: Nyura joined in slot 2 for team red.
+[22:33:07] BanchoBot: Nyura moved to slot 8
+[22:33:08] BanchoBot: Nyura changed to Blue
+[22:33:24] BanchoBot: Countdown ends in 1 minute
+[22:33:33] BanchoBot: LeFerraille joined in slot 2 for team red.
+[22:33:52] BanchoBot: Yukixo joined in slot 3 for team blue.
+[22:33:54] BanchoBot: Countdown ends in 30 seconds
+[22:34:00] BanchoBot: Yukixo changed to Red
+[22:34:06] BanchoBot: [Shua] joined in slot 4 for team red.
+[22:34:12] JobeHobe: glhf
+[22:34:14] BanchoBot: Countdown ends in 10 seconds
+[22:34:15] Yukixo: golf
+[22:34:17] Mankichiro: glhf
+[22:34:19] BanchoBot: Countdown ends in 5 seconds
+[22:34:20] BanchoBot: Countdown ends in 4 seconds
+[22:34:21] BanchoBot: Countdown ends in 3 seconds
+[22:34:22] BanchoBot: Countdown ends in 2 seconds
+[22:34:23] BanchoBot: Countdown ends in 1 second
+[22:34:24] BanchoBot: Countdown finished
+[22:34:25] Boden: glhf
+[22:34:34] BCraftMG: !mp settings
+[22:34:34] BanchoBot: Room name: 5WC2023: (Philippines) vs (Germany), History: https://osu.ppy.sh/mp/107306660
+[22:34:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/2890690 Hagane - Event Horizon
+[22:34:34] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:34:34] BanchoBot: Active mods: NoFail
+[22:34:34] BanchoBot: Players: 8
+[22:34:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18047706 seeeen11l1      [Team Red ]
+[22:34:34] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11001039 LeFerraille     [Team Red ]
+[22:34:34] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/17847877 Yukixo          [Team Red ]
+[22:34:34] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/15333140 [Shua]          [Team Red ]
+[22:34:34] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/10345531 Boden           [Team Blue]
+[22:34:34] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11920994 JobeHobe        [Team Blue]
+[22:34:34] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/14445724 Mankichiro      [Team Blue]
+[22:34:34] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10728620 Nyura           [Team Blue]
+[22:34:39] BCraftMG: [Shua}?
+[22:34:41] BanchoBot: All players are ready
+[22:34:43] BCraftMG: !mp settings
+[22:34:44] BanchoBot: Room name: 5WC2023: (Philippines) vs (Germany), History: https://osu.ppy.sh/mp/107306660
+[22:34:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/2890690 Hagane - Event Horizon
+[22:34:44] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:34:44] BanchoBot: Active mods: NoFail
+[22:34:44] BanchoBot: Players: 8
+[22:34:44] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18047706 seeeen11l1      [Team Red ]
+[22:34:44] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11001039 LeFerraille     [Team Red ]
+[22:34:44] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/17847877 Yukixo          [Team Red ]
+[22:34:44] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15333140 [Shua]          [Team Red ]
+[22:34:44] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/10345531 Boden           [Team Blue]
+[22:34:44] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11920994 JobeHobe        [Team Blue]
+[22:34:44] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/14445724 Mankichiro      [Team Blue]
+[22:34:44] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10728620 Nyura           [Team Blue]
+[22:34:44] BCraftMG: !mp start 5 glhf
+[22:34:46] BanchoBot: Match starts in 5 seconds
+[22:34:46] BanchoBot: Queued the match to start in 5 seconds
+[22:34:48] BanchoBot: Match starts in 4 seconds
+[22:34:48] BanchoBot: Match starts in 3 seconds
+[22:34:49] Nyura: golf
+[22:34:49] BanchoBot: Good luck, have fun!
+[22:34:51] BanchoBot: The match has started!
+[22:37:06] BanchoBot: seeeen11l1 finished playing (Score: 801421, PASSED).
+[22:37:07] BanchoBot: Yukixo finished playing (Score: 876757, PASSED).
+[22:37:07] BanchoBot: Nyura finished playing (Score: 827900, PASSED).
+[22:37:07] BanchoBot: JobeHobe finished playing (Score: 638176, PASSED).
+[22:37:07] BanchoBot: [Shua] finished playing (Score: 803736, PASSED).
+[22:37:07] BanchoBot: LeFerraille finished playing (Score: 591549, PASSED).
+[22:37:07] BanchoBot: Boden finished playing (Score: 978384, PASSED).
+[22:37:07] BanchoBot: Mankichiro finished playing (Score: 519630, PASSED).
+[22:37:07] BanchoBot: The match has finished!
+[22:37:16] BCraftMG: Philippines | 4 - 0 | Germany // Bo9 - Next Pick: Germany
+[22:37:16] BCraftMG: !mp timer 120
+[22:37:17] BanchoBot: Countdown ends in 2 minutes
+[22:37:29] BanchoBot: Xyphox joined in slot 9 for team blue.
+[22:37:36] Boden: combogamers
+[22:37:37] Xyphox: boden you are insane
+[22:37:37] Boden: smh
+[22:37:42] Boden: you guys just suck at acc
+[22:37:51] seeeen11l1: uhhh
+[22:37:57] BanchoBot: Mankichiro left the game.
+[22:37:57] BanchoBot: BlonderDennis joined in slot 7 for team blue.
+[22:37:57] seeeen11l1: how do you even acc that
+[22:38:00] Xyphox: True. Philippines is not known for acc
+[22:38:05] BanchoBot: [Shua] left the game.
+[22:38:17] BanchoBot: Countdown ends in 1 minute
+[22:38:18] Yukixo: pelepens
+[22:38:28] Boden: it's super simple
+[22:38:36] Boden: its just doubles
+[22:38:42] BanchoBot: Boden left the game.
+[22:38:48] BanchoBot: Countdown ends in 30 seconds
+[22:39:08] BanchoBot: Countdown ends in 10 seconds
+[22:39:10] JobeHobe: nm2
+[22:39:12] Nyura: nm2
+[22:39:13] BanchoBot: Countdown ends in 5 seconds
+[22:39:14] BanchoBot: Countdown ends in 4 seconds
+[22:39:15] BanchoBot: Countdown ends in 3 seconds
+[22:39:16] BanchoBot: Countdown ends in 2 seconds
+[22:39:17] BanchoBot: Countdown ends in 1 second
+[22:39:18] BCraftMG: !mp map 4020280 0
+[22:39:18] BanchoBot: Countdown finished
+[22:39:18] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4020280 SOUND HOLIC feat. YURiCa - WITCH HUNT
+[22:39:18] BanchoBot: Changed match mode to Osu
+[22:39:19] BCraftMG: !mp mods 1
+[22:39:20] BanchoBot: Nyura left the game.
+[22:39:20] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:39:21] BCraftMG: !mp timer 120
+[22:39:21] BanchoBot: Countdown ends in 2 minutes
+[22:39:25] BanchoBot: LeFerraille left the game.
+[22:39:29] BanchoBot: Yukixo moved to slot 2
+[22:39:34] BanchoBot: Xyphox moved to slot 3
+[22:39:36] BanchoBot: Xyphox changed to Red
+[22:39:36] BanchoBot: Akezaris joined in slot 4 for team red.
+[22:40:09] BanchoBot: Boden joined in slot 5 for team blue.
+[22:40:11] BanchoBot: tplc joined in slot 8 for team red.
+[22:40:19] BanchoBot: Nyura joined in slot 9 for team blue.
+[22:40:21] BanchoBot: LeFerraille joined in slot 10 for team red.
+[22:40:22] BanchoBot: Countdown ends in 1 minute
+[22:40:22] Boden: !roll
+[22:40:22] BanchoBot: Boden rolls 50 point(s)
+[22:40:24] tplc: !roll
+[22:40:24] BanchoBot: tplc rolls 46 point(s)
+[22:40:26] BanchoBot: NathanSS joined in slot 11 for team blue.
+[22:40:28] BanchoBot: tplc left the game.
+[22:40:29] BanchoBot: Nyura moved to slot 8
+[22:40:29] seeeen11l1: !roll
+[22:40:29] BanchoBot: seeeen11l1 rolls 85 point(s)
+[22:40:30] BanchoBot: NathanSS moved to slot 12
+[22:40:30] Akezaris: !roll my age
+[22:40:30] BanchoBot: Akezaris rolls 75 point(s)
+[22:40:32] BanchoBot: Xyphox moved to slot 13
+[22:40:32] Akezaris: !Roll gf age
+[22:40:32] BanchoBot: Akezaris rolls 44 point(s)
+[22:40:33] BanchoBot: LeFerraille moved to slot 9
+[22:40:34] BanchoBot: LeFerraille moved to slot 3
+[22:40:34] BanchoBot: Xyphox left the game.
+[22:40:35] BanchoBot: NathanSS left the game.
+[22:40:37] Nyura: !roll age when i die
+[22:40:37] BanchoBot: Nyura rolls 91 point(s)
+[22:40:40] Nyura: firetruck
+[22:40:41] Yukixo: !roll future gf age
+[22:40:41] BanchoBot: Yukixo rolls 51 point(s)
+[22:40:41] JobeHobe: !roll Tatze gf age
+[22:40:41] BanchoBot: JobeHobe rolls 22 point(s)
+[22:40:47] JobeHobe: firetruck
+[22:40:50] Akezaris: !roll gf age
+[22:40:50] BanchoBot: Akezaris rolls 49 point(s)
+[22:40:51] Yukixo: !roll tatze gf age
+[22:40:51] BanchoBot: Yukixo rolls 41 point(s)
+[22:40:52] BanchoBot: Countdown ends in 30 seconds
+[22:41:01] LeFerraille: lowest GF age wins match
+[22:41:09] Nyura: !roll gf age
+[22:41:09] BanchoBot: Nyura rolls 82 point(s)
+[22:41:11] BanchoBot: Countdown ends in 10 seconds
+[22:41:12] Nyura: wtf
+[22:41:13] Yukixo: !roll my future gf age
+[22:41:13] BanchoBot: Yukixo rolls 81 point(s)
+[22:41:13] seeeen11l1: !roll gf age
+[22:41:13] BanchoBot: seeeen11l1 rolls 72 point(s)
+[22:41:13] BanchoBot: All players are ready
+[22:41:16] BCraftMG: !mp settings
+[22:41:17] JobeHobe: tatze get in
+[22:41:17] Yukixo: bro
+[22:41:17] BanchoBot: Countdown ends in 5 seconds
+[22:41:17] BanchoBot: Room name: 5WC2023: (Philippines) vs (Germany), History: https://osu.ppy.sh/mp/107306660
+[22:41:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/4020280 SOUND HOLIC feat. YURiCa - WITCH HUNT
+[22:41:17] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:41:17] BanchoBot: Active mods: NoFail
+[22:41:17] BanchoBot: Players: 8
+[22:41:17] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18047706 seeeen11l1      [Team Red ]
+[22:41:17] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17847877 Yukixo          [Team Red ]
+[22:41:17] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11001039 LeFerraille     [Team Red ]
+[22:41:17] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11098454 Akezaris        [Team Red ]
+[22:41:17] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/10345531 Boden           [Team Blue]
+[22:41:17] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11920994 JobeHobe        [Team Blue]
+[22:41:17] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/9294554 BlonderDennis   [Team Blue]
+[22:41:17] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10728620 Nyura           [Team Blue]
+[22:41:17] BanchoBot: Countdown ends in 4 seconds
+[22:41:19] BanchoBot: Countdown ends in 3 seconds
+[22:41:19] BCraftMG: !mp start 5 glhf
+[22:41:20] BlonderDennis: glhf
+[22:41:20] BanchoBot: Countdown ends in 2 seconds
+[22:41:20] BanchoBot: Countdown aborted
+[22:41:20] BanchoBot: Match starts in 5 seconds
+[22:41:20] BanchoBot: Queued the match to start in 5 seconds
+[22:41:21] JobeHobe: you heard him
+[22:41:21] BanchoBot: Match starts in 4 seconds
+[22:41:22] BanchoBot: Match starts in 3 seconds
+[22:41:23] BanchoBot: Good luck, have fun!
+[22:41:24] Akezaris: !roll gf age
+[22:41:24] BanchoBot: Akezaris rolls 47 point(s)
+[22:41:25] JobeHobe: ^glhf
+[22:41:25] BanchoBot: The match has started!
+[22:43:27] BanchoBot: Akezaris finished playing (Score: 614564, PASSED).
+[22:43:27] BanchoBot: Boden finished playing (Score: 968058, PASSED).
+[22:43:27] BanchoBot: BlonderDennis finished playing (Score: 577335, PASSED).
+[22:43:28] BanchoBot: Nyura finished playing (Score: 600035, PASSED).
+[22:43:28] BanchoBot: JobeHobe finished playing (Score: 984885, PASSED).
+[22:43:28] BanchoBot: Yukixo finished playing (Score: 992265, PASSED).
+[22:43:28] BanchoBot: LeFerraille finished playing (Score: 623295, PASSED).
+[22:43:29] BanchoBot: seeeen11l1 finished playing (Score: 896283, PASSED).
+[22:43:29] BanchoBot: The match has finished!
+[22:43:43] Nyura: boden nm2
+[22:43:43] Nyura: !!!!
+[22:43:45] BanchoBot: Xyphox joined in slot 9 for team blue.
+[22:43:59] Akezaris: holy
+[22:44:05] BanchoBot: LeFerraille left the game.
+[22:44:05] Boden: boden nm2
+[22:44:09] BanchoBot: okirema joined in slot 3 for team blue.
+[22:44:10] BCraftMG: Philippines | 4 - 1 | Germany // Bo9 - Next Pick: Philippines
+[22:44:10] BCraftMG: !mp timer 120
+[22:44:11] BanchoBot: Countdown ends in 2 minutes
+[22:44:17] BanchoBot: okirema changed to Red
+[22:44:54] Xyphox: !roll 2
+[22:44:54] BanchoBot: Xyphox rolls 1 point(s)
+[22:45:03] Akezaris: YESSSSSSSSSSSSSS
+[22:45:05] Xyphox: well
+[22:45:12] BanchoBot: Countdown ends in 1 minute
+[22:45:14] seeeen11l1: OKIREMA NO PERMABENCH
+[22:45:18] Xyphox: you guys get what u want
+[22:45:19] Xyphox: nm3
+[22:45:20] Akezaris: NO MORE OKIREMA BENCH
+[22:45:25] BanchoBot: tplc joined in slot 10 for team red.
+[22:45:27] BanchoBot: BlonderDennis left the game.
+[22:45:30] BanchoBot: Mankichiro joined in slot 7 for team blue.
+[22:45:34] BanchoBot: Akezaris left the game.
+[22:45:39] BCraftMG: !mp map 3019856 0
+[22:45:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3019856 Aitsuki Nakuru & Kabocha - Lilith
+[22:45:39] BanchoBot: Changed match mode to Osu
+[22:45:40] BanchoBot: tplc changed to Blue
+[22:45:40] BCraftMG: !mp mods 1
+[22:45:41] BanchoBot: Xyphox moved to slot 4
+[22:45:41] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:45:41] BCraftMG: !mp timer 120
+[22:45:42] BanchoBot: Countdown ends in 30 seconds
+[22:45:42] BanchoBot: Xyphox changed to Red
+[22:45:42] BanchoBot: Countdown aborted
+[22:45:42] BanchoBot: Countdown ends in 2 minutes
+[22:45:44] BanchoBot: Yukixo left the game.
+[22:45:44] BanchoBot: Nyura left the game.
+[22:45:45] BanchoBot: tplc moved to slot 8
+[22:45:47] BanchoBot: Boden left the game.
+[22:45:52] BanchoBot: NathanSS joined in slot 2 for team red.
+[22:45:56] tplc: ICH BIN WIEDER DA
+[22:45:58] BanchoBot: Xyphox moved to slot 14
+[22:46:00] BanchoBot: Xyphox moved to slot 13
+[22:46:00] BanchoBot: tplc moved to slot 5
+[22:46:02] BanchoBot: Xyphox moved to slot 8
+[22:46:02] Mankichiro: WOOOOOOOOO
+[22:46:03] BanchoBot: Xyphox moved to slot 11
+[22:46:10] BanchoBot: Xyphox left the game.
+[22:46:15] tplc: MAMA HOL DIE KAMERA
+[22:46:18] tplc: ICH BIN IN 5WC
+[22:46:25] BanchoBot: Yukixo joined in slot 4 for team red.
+[22:46:43] BanchoBot: Countdown ends in 1 minute
+[22:47:08] BanchoBot: Mankichiro moved to slot 8
+[22:47:08] BanchoBot: Mankichiro moved to slot 7
+[22:47:13] BanchoBot: Countdown ends in 30 seconds
+[22:47:14] BanchoBot: Nyura joined in slot 8 for team red.
+[22:47:15] BanchoBot: Nyura changed to Blue
+[22:47:30] BanchoBot: All players are ready
+[22:47:32] seeeen11l1: glglgl
+[22:47:33] BanchoBot: Countdown ends in 10 seconds
+[22:47:33] BCraftMG: !mp settings
+[22:47:34] JobeHobe: glhf
+[22:47:34] BanchoBot: Room name: 5WC2023: (Philippines) vs (Germany), History: https://osu.ppy.sh/mp/107306660
+[22:47:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/3019856 Aitsuki Nakuru & Kabocha - Lilith
+[22:47:34] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:47:34] BanchoBot: Active mods: NoFail
+[22:47:34] BanchoBot: Players: 8
+[22:47:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18047706 seeeen11l1      [Team Red ]
+[22:47:34] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8500628 NathanSS        [Team Red ]
+[22:47:34] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12544805 okirema         [Team Red ]
+[22:47:34] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/17847877 Yukixo          [Team Red ]
+[22:47:34] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/6643511 tplc            [Team Blue]
+[22:47:34] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11920994 JobeHobe        [Team Blue]
+[22:47:34] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/14445724 Mankichiro      [Team Blue]
+[22:47:34] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10728620 Nyura           [Team Blue]
+[22:47:38] BCraftMG: !mp start 5 glhf
+[22:47:38] BanchoBot: Countdown ends in 5 seconds
+[22:47:38] BanchoBot: Countdown aborted
+[22:47:38] BanchoBot: Match starts in 5 seconds
+[22:47:38] BanchoBot: Queued the match to start in 5 seconds
+[22:47:39] BanchoBot: Match starts in 4 seconds
+[22:47:40] Nyura: hf
+[22:47:40] Yukixo: golf
+[22:47:40] BanchoBot: Match starts in 3 seconds
+[22:47:41] BanchoBot: Good luck, have fun!
+[22:47:43] BanchoBot: The match has started!
+[22:52:29] BanchoBot: JobeHobe finished playing (Score: 525078, PASSED).
+[22:52:29] BanchoBot: Mankichiro finished playing (Score: 473018, PASSED).
+[22:52:30] BanchoBot: seeeen11l1 finished playing (Score: 415184, PASSED).
+[22:52:30] BanchoBot: tplc finished playing (Score: 736489, PASSED).
+[22:52:31] BanchoBot: Nyura finished playing (Score: 403334, PASSED).
+[22:52:31] BanchoBot: Yukixo finished playing (Score: 291179, PASSED).
+[22:52:31] BanchoBot: NathanSS finished playing (Score: 635467, PASSED).
+[22:52:31] BanchoBot: okirema finished playing (Score: 464570, PASSED).
+[22:52:31] BanchoBot: The match has finished!
+[22:52:37] BCraftMG: Philippines | 4 - 2 | Germany // Bo9 - Next Pick: Germany
+[22:52:39] BCraftMG: !mp timer 120
+[22:52:40] BanchoBot: Countdown ends in 2 minutes
+[22:52:46] BanchoBot: LeFerraille joined in slot 9 for team blue.
+[22:52:48] Nyura: nice combo nathan
+[22:52:54] BanchoBot: Xyphox joined in slot 10 for team red.
+[22:53:17] BanchoBot: Nyura left the game.
+[22:53:18] BanchoBot: okirema left the game.
+[22:53:21] BanchoBot: Xyphox moved to slot 3
+[22:53:25] NathanSS: u2
+[22:53:40] BanchoBot: Countdown ends in 1 minute
+[22:54:11] BanchoBot: Countdown ends in 30 seconds
+[22:54:21] BanchoBot: Nyura joined in slot 8 for team red.
+[22:54:22] Nyura: nm1
+[22:54:24] BanchoBot: Nyura left the game.
+[22:54:27] BanchoBot: Xyphox moved to slot 13
+[22:54:29] BanchoBot: LeFerraille left the game.
+[22:54:30] BCraftMG: !mp map 2585154 0
+[22:54:31] BanchoBot: Countdown ends in 10 seconds
+[22:54:31] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2585154 Wakeshima Kanon - the BEAST can't BE STOpped
+[22:54:31] BanchoBot: Changed match mode to Osu
+[22:54:32] BCraftMG: !mp mods 1
+[22:54:32] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:54:33] BCraftMG: !mp timer 120
+[22:54:33] BanchoBot: Countdown aborted
+[22:54:33] BanchoBot: Countdown ends in 2 minutes
+[22:54:42] BanchoBot: Xyphox moved to slot 8
+[22:54:58] BanchoBot: Xyphox moved to slot 3
+[22:55:00] BanchoBot: Xyphox moved to slot 11
+[22:55:01] BanchoBot: Xyphox moved to slot 9
+[22:55:14] BanchoBot: Nyura joined in slot 3 for team blue.
+[22:55:15] BanchoBot: Nyura moved to slot 8
+[22:55:31] BanchoBot: Xyphox moved to slot 3
+[22:55:34] BanchoBot: Countdown ends in 1 minute
+[22:55:35] BanchoBot: LeFerraille joined in slot 9 for team blue.
+[22:55:39] BanchoBot: Xyphox moved to slot 10
+[22:55:46] BanchoBot: LeFerraille moved to slot 3
+[22:55:47] BanchoBot: LeFerraille changed to Red
+[22:55:56] BanchoBot: Xyphox left the game.
+[22:55:56] Yukixo: glhf
+[22:56:04] BanchoBot: Countdown ends in 30 seconds
+[22:56:14] Nyura: yukixo u improved so much btw :)
+[22:56:16] BCraftMG: !mp settings
+[22:56:17] BanchoBot: Room name: 5WC2023: (Philippines) vs (Germany), History: https://osu.ppy.sh/mp/107306660
+[22:56:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/2585154 Wakeshima Kanon - the BEAST can't BE STOpped
+[22:56:17] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:56:17] BanchoBot: Active mods: NoFail
+[22:56:17] BanchoBot: Players: 8
+[22:56:17] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18047706 seeeen11l1      [Team Red ]
+[22:56:17] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8500628 NathanSS        [Team Red ]
+[22:56:17] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11001039 LeFerraille     [Team Red ]
+[22:56:17] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/17847877 Yukixo          [Team Red ]
+[22:56:17] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/6643511 tplc            [Team Blue]
+[22:56:17] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11920994 JobeHobe        [Team Blue]
+[22:56:17] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/14445724 Mankichiro      [Team Blue]
+[22:56:17] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/10728620 Nyura           [Team Blue]
+[22:56:23] JobeHobe: glhf
+[22:56:24] BanchoBot: Countdown ends in 10 seconds
+[22:56:26] Yukixo: thank u nyura :)
+[22:56:29] BanchoBot: Countdown ends in 5 seconds
+[22:56:30] BanchoBot: Countdown ends in 4 seconds
+[22:56:30] Nyura: didnt we meet in this singapore thing
+[22:56:31] BanchoBot: Countdown ends in 3 seconds
+[22:56:32] Mankichiro: glhf
+[22:56:32] BanchoBot: Countdown ends in 2 seconds
+[22:56:33] BanchoBot: Countdown ends in 1 second
+[22:56:34] BanchoBot: Countdown finished
+[22:56:35] seeeen11l1: glglgll
+[22:56:37] BCraftMG: !mp settings
+[22:56:37] BanchoBot: Room name: 5WC2023: (Philippines) vs (Germany), History: https://osu.ppy.sh/mp/107306660
+[22:56:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/2585154 Wakeshima Kanon - the BEAST can't BE STOpped
+[22:56:37] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:56:37] BanchoBot: Active mods: NoFail
+[22:56:37] BanchoBot: Players: 8
+[22:56:37] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18047706 seeeen11l1      [Team Red ]
+[22:56:37] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8500628 NathanSS        [Team Red ]
+[22:56:37] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11001039 LeFerraille     [Team Red ]
+[22:56:37] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/17847877 Yukixo          [Team Red ]
+[22:56:37] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/6643511 tplc            [Team Blue]
+[22:56:37] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11920994 JobeHobe        [Team Blue]
+[22:56:37] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/14445724 Mankichiro      [Team Blue]
+[22:56:37] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/10728620 Nyura           [Team Blue]
+[22:56:38] BanchoBot: All players are ready
+[22:56:39] BCraftMG: !mp settings
+[22:56:39] Yukixo: yeah u destroyed us
+[22:56:40] Yukixo: XD
+[22:56:40] BanchoBot: Room name: 5WC2023: (Philippines) vs (Germany), History: https://osu.ppy.sh/mp/107306660
+[22:56:40] BanchoBot: Beatmap: https://osu.ppy.sh/b/2585154 Wakeshima Kanon - the BEAST can't BE STOpped
+[22:56:40] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:56:40] BanchoBot: Active mods: NoFail
+[22:56:40] BanchoBot: Players: 8
+[22:56:40] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18047706 seeeen11l1      [Team Red ]
+[22:56:40] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8500628 NathanSS        [Team Red ]
+[22:56:40] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11001039 LeFerraille     [Team Red ]
+[22:56:40] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/17847877 Yukixo          [Team Red ]
+[22:56:40] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/6643511 tplc            [Team Blue]
+[22:56:40] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11920994 JobeHobe        [Team Blue]
+[22:56:40] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/14445724 Mankichiro      [Team Blue]
+[22:56:40] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10728620 Nyura           [Team Blue]
+[22:56:41] BCraftMG: !mp start 5 glhf
+[22:56:41] BanchoBot: Match starts in 5 seconds
+[22:56:41] BanchoBot: Queued the match to start in 5 seconds
+[22:56:42] Nyura: nah
+[22:56:43] BanchoBot: Match starts in 4 seconds
+[22:56:44] BanchoBot: Match starts in 3 seconds
+[22:56:44] Nyura: 6-4 no?
+[22:56:44] BanchoBot: Good luck, have fun!
+[22:56:45] Nyura: gl
+[22:56:46] BanchoBot: The match has started!
+[23:00:18] BanchoBot: Nyura finished playing (Score: 864839, PASSED).
+[23:00:18] BanchoBot: JobeHobe finished playing (Score: 685420, PASSED).
+[23:00:18] BanchoBot: tplc finished playing (Score: 816492, PASSED).
+[23:00:18] BanchoBot: Yukixo finished playing (Score: 948922, PASSED).
+[23:00:18] BanchoBot: LeFerraille finished playing (Score: 717350, PASSED).
+[23:00:18] BanchoBot: Mankichiro finished playing (Score: 939368, PASSED).
+[23:00:18] BanchoBot: seeeen11l1 finished playing (Score: 576875, PASSED).
+[23:00:18] BanchoBot: NathanSS finished playing (Score: 491253, PASSED).
+[23:00:18] BanchoBot: The match has finished!
+[23:00:29] BCraftMG: Philippines | 4 - 3 | Germany // Bo9 - Next Pick: Philippines
+[23:00:32] BCraftMG: !mp timer 120
+[23:00:32] BanchoBot: Countdown ends in 2 minutes
+[23:00:57] BanchoBot: Xyphox joined in slot 9 for team blue.
+[23:01:05] BanchoBot: LeFerraille left the game.
+[23:01:18] BanchoBot: Yukixo left the game.
+[23:01:32] BanchoBot: Xyphox moved to slot 11
+[23:01:32] BanchoBot: Xyphox moved to slot 10
+[23:01:32] BanchoBot: Countdown ends in 1 minute
+[23:01:33] BanchoBot: Xyphox moved to slot 9
+[23:01:44] BanchoBot: Xyphox moved to slot 3
+[23:01:44] BanchoBot: Xyphox moved to slot 4
+[23:01:46] BanchoBot: Xyphox moved to slot 9
+[23:02:02] BanchoBot: Countdown ends in 30 seconds
+[23:02:10] BanchoBot: Xyphox moved to slot 3
+[23:02:12] BanchoBot: LeFerraille joined in slot 4 for team red.
+[23:02:13] BanchoBot: Nyura left the game.
+[23:02:14] BanchoBot: Yukixo joined in slot 8 for team red.
+[23:02:18] BanchoBot: Xyphox left the game.
+[23:02:20] BanchoBot: Yukixo moved to slot 3
+[23:02:22] BanchoBot: Countdown ends in 10 seconds
+[23:02:28] BanchoBot: Countdown ends in 5 seconds
+[23:02:29] BanchoBot: Countdown ends in 4 seconds
+[23:02:29] BanchoBot: Xyphox joined in slot 8 for team red.
+[23:02:30] BanchoBot: Countdown ends in 3 seconds
+[23:02:31] Xyphox: hr2
+[23:02:31] BanchoBot: Countdown ends in 2 seconds
+[23:02:31] Xyphox: a
+[23:02:32] BanchoBot: Countdown ends in 1 second
+[23:02:33] Yukixo: hr2?
+[23:02:33] BanchoBot: Countdown finished
+[23:02:36] LeFerraille: wtf
+[23:02:40] LeFerraille: did we pick
+[23:02:48] BCraftMG: ye
+[23:02:53] Xyphox: we did ye
+[23:02:54] BCraftMG: !mp map 2577054 0
+[23:02:54] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2577054 Lady Gaga, BLACKPINK - Sour Candy
+[23:02:54] BanchoBot: Changed match mode to Osu
+[23:02:57] BCraftMG: !mp mods 17
+[23:02:57] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[23:03:03] BCraftMG: !mp timer 120
+[23:03:04] BanchoBot: Countdown ends in 2 minutes
+[23:03:11] Xyphox: gl sour candies
+[23:03:11] BanchoBot: Xyphox left the game.
+[23:03:17] Yukixo: sour candy
+[23:03:27] LeFerraille: jayden
+[23:03:54] BanchoBot: Nyura joined in slot 8 for team red.
+[23:03:56] BanchoBot: Nyura changed to Blue
+[23:04:04] BanchoBot: Countdown ends in 1 minute
+[23:04:04] Yukixo: golf
+[23:04:07] Nyura: thank you for not picking fm2
+[23:04:12] Nyura: it was so boring
+[23:04:14] seeeen11l1: glglgl!!1l1
+[23:04:16] Nyura: gl!
+[23:04:18] JobeHobe: glhf
+[23:04:20] Yukixo: thats a boring fm2
+[23:04:25] Nyura: so true
+[23:04:25] Mankichiro: glhf
+[23:04:25] Yukixo: both fms are boring
+[23:04:27] LeFerraille: masterpiece :(
+[23:04:32] Nyura: fm2 with dt :eyes:
+[23:04:34] LeFerraille: yuki ready
+[23:04:34] BanchoBot: Countdown ends in 30 seconds
+[23:04:36] BanchoBot: All players are ready
+[23:04:38] Yukixo: oops
+[23:04:39] BCraftMG: !mp settings
+[23:04:40] Nyura: gl
+[23:04:40] BanchoBot: Room name: 5WC2023: (Philippines) vs (Germany), History: https://osu.ppy.sh/mp/107306660
+[23:04:40] BanchoBot: Beatmap: https://osu.ppy.sh/b/2577054 Lady Gaga, BLACKPINK - Sour Candy
+[23:04:40] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:04:40] BanchoBot: Active mods: NoFail, HardRock
+[23:04:40] BanchoBot: Players: 8
+[23:04:40] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18047706 seeeen11l1      [Team Red ]
+[23:04:40] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8500628 NathanSS        [Team Red ]
+[23:04:40] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/17847877 Yukixo          [Team Red ]
+[23:04:40] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11001039 LeFerraille     [Team Red ]
+[23:04:40] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/6643511 tplc            [Team Blue]
+[23:04:40] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11920994 JobeHobe        [Team Blue]
+[23:04:40] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/14445724 Mankichiro      [Team Blue]
+[23:04:40] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10728620 Nyura           [Team Blue]
+[23:04:40] Yukixo: sorry
+[23:04:40] BCraftMG: !mp start 5 glhf
+[23:04:41] BanchoBot: Countdown aborted
+[23:04:41] BanchoBot: Match starts in 5 seconds
+[23:04:41] BanchoBot: Queued the match to start in 5 seconds
+[23:04:42] BanchoBot: Match starts in 4 seconds
+[23:04:43] BanchoBot: Match starts in 3 seconds
+[23:04:44] BanchoBot: Good luck, have fun!
+[23:04:46] BanchoBot: The match has started!
+[23:07:30] BanchoBot: Yukixo finished playing (Score: 717358, PASSED).
+[23:07:31] BanchoBot: JobeHobe finished playing (Score: 538490, PASSED).
+[23:07:31] BanchoBot: tplc finished playing (Score: 556171, PASSED).
+[23:07:31] BanchoBot: NathanSS finished playing (Score: 538169, PASSED).
+[23:07:33] BanchoBot: LeFerraille finished playing (Score: 481421, PASSED).
+[23:07:33] BanchoBot: Mankichiro finished playing (Score: 374587, PASSED).
+[23:07:33] BanchoBot: Nyura finished playing (Score: 607696, PASSED).
+[23:07:33] BanchoBot: seeeen11l1 finished playing (Score: 506533, PASSED).
+[23:07:33] BanchoBot: The match has finished!
+[23:07:45] BCraftMG: Philippines | 5 - 3 | Germany // Philippines wins! GGWP	o7
+[23:07:45] JobeHobe: ggwp
+[23:07:45] BanchoBot: BlonderDennis joined in slot 9 for team blue.
+[23:07:46] Yukixo: ggwp
+[23:07:47] Nyura: ggwp!
+[23:07:48] BanchoBot: Xyphox joined in slot 10 for team red.
+[23:07:50] seeeen11l1: ggwppp
+[23:07:50] tplc: ggwp
+[23:07:51] NathanSS: ggs!
+[23:07:53] BanchoBot: tplc left the game.
+[23:07:54] BlonderDennis: ggwp
+[23:07:54] Xyphox: gg guys
+[23:07:55] LeFerraille: gg
+[23:07:59] Xyphox: thanks for the goodmatches
+[23:08:02] seeeen11l1: ty for reff
+[23:08:06] Xyphox: kindawanna play tb forfunn
+[23:08:06] Yukixo: thanks for life
+[23:08:07] BanchoBot: Yukixo left the game.
+[23:08:10] Nyura: ty for ref and stream!
+[23:08:13] Nyura: good match
+[23:08:15] BanchoBot: seeeen11l1 left the game.
+[23:08:17] BlonderDennis: ty for ref
+[23:08:18] Xyphox: true
+[23:08:30] BanchoBot: BlonderDennis left the game.
+[23:08:34] Xyphox: byebye
+[23:08:37] Xyphox: thanks again guys gg
+[23:08:38] BanchoBot: Xyphox left the game.
+[23:08:38] BanchoBot: NathanSS left the game.
+[23:08:38] Nyura: o/
+[23:08:39] BCraftMG: o//
+[23:08:41] BanchoBot: Nyura left the game.
+[23:08:58] BanchoBot: LeFerraille left the game.
+[23:09:48] BCraftMG: !mp close
+[23:09:48] BanchoBot: Closed the match

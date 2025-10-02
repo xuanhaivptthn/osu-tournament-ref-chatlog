@@ -1,0 +1,959 @@
+[03:20:20] Joined #mp_101958717
+[03:20:20] BCraftMG: !mp settings
+[03:20:22] BanchoBot: Room name: STT3: (GeForce Inexperience) vs (osuintercourse), History: https://osu.ppy.sh/mp/101958717
+[03:20:22] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[03:20:22] BanchoBot: Players: 0
+[03:20:36] BCraftMG: !mp settings fwhsgnmkc5p
+[03:20:36] BanchoBot: Room name: STT3: (GeForce Inexperience) vs (osuintercourse), History: https://osu.ppy.sh/mp/101958717
+[03:20:36] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[03:20:36] BanchoBot: Players: 0
+[03:24:25] BCraftMG: !mp set 0 3 8
+[03:24:25] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[03:24:29] BCraftMG: !mp set 0 3 8
+[03:24:29] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[03:24:35] BCraftMG: !mp invite Retix
+[03:24:35] BanchoBot: Invited Retix to the room
+[03:24:37] BCraftMG: !mp invite OurAngelYu
+[03:24:37] BanchoBot: Invited OurAngelYu to the room
+[03:24:44] BanchoBot: OurAngelYu joined in slot 1.
+[03:24:46] BCraftMG: !mp invite Neotopisch
+[03:24:46] BanchoBot: Invited Neotopisch to the room
+[03:24:56] BCraftMG: o/
+[03:24:59] BCraftMG: !mp settings
+[03:25:00] BanchoBot: Room name: STT3: (GeForce Inexperience) vs (osuintercourse), History: https://osu.ppy.sh/mp/101958717
+[03:25:00] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[03:25:00] BanchoBot: Players: 1
+[03:25:00] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/15984499 OurAngelYu      
+[03:25:07] BanchoBot: Retix joined in slot 2.
+[03:25:13] BCraftMG: !mp set 2 3 8
+[03:25:13] BanchoBot: Changed match settings to 8 slots, TeamVs, ScoreV2
+[03:25:15] BanchoBot: OurAngelYu moved to slot 4
+[03:25:21] BCraftMG: anyone wanna do warm up?
+[03:25:34] BCraftMG: !mp set 2 3 12
+[03:25:34] BanchoBot: Changed match settings to 12 slots, TeamVs, ScoreV2
+[03:25:34] OurAngelYu: yessir
+[03:25:38] BanchoBot: woofus joined in slot 1 for team blue.
+[03:25:42] BanchoBot: Enjouji joined in slot 3 for team blue.
+[03:25:45] BCraftMG: !mp host OurAngelYu
+[03:25:47] BanchoBot: OurAngelYu became the host.
+[03:25:47] BanchoBot: Changed match host to OurAngelYu
+[03:25:51] BanchoBot: Beatmap changed to: CON - Cruel Clocks [Skystar] (https://osu.ppy.sh/b/216272)
+[03:25:53] BanchoBot: _Ene joined in slot 5 for team blue.
+[03:25:53] BanchoBot: Host is changing map...
+[03:25:59] BanchoBot: Neotopisch joined in slot 6 for team red.
+[03:26:04] Retix: we don't need warm up
+[03:26:08] BanchoBot: Enjouji changed to Red
+[03:26:16] Neotopisch: who is what color :) ?
+[03:26:42] Enjouji: we are [Redacted]
+[03:26:46] BanchoBot: Beatmap changed to: Kohana Lam - Kokoronashi [Itai] (https://osu.ppy.sh/b/3035762)
+[03:26:53] OurAngelYu: uhhhh
+[03:26:59] BanchoBot: poisonvx joined in slot 7 for team blue.
+[03:27:02] BanchoBot: Binfy joined in slot 8 for team red.
+[03:27:08] BanchoBot: Binfy became the host.
+[03:27:16] BanchoBot: Neotopisch left the game.
+[03:27:16] BanchoBot: Host is changing map...
+[03:27:20] BanchoBot: poisonvx moved to slot 6
+[03:27:25] BanchoBot: Beatmap changed to: Kohana Lam - Kokoronashi [Itai] (https://osu.ppy.sh/b/3035762)
+[03:27:27] BanchoBot: OurAngelYu became the host.
+[03:27:33] BanchoBot: Host is changing map...
+[03:27:39] BCraftMG: GeForce Inexperience will be red
+[03:27:43] BanchoBot: Beatmap changed to: Ryu* - Sakura Mirage (STARLiGHT Mix) [Azzedd's Extra] (https://osu.ppy.sh/b/1822965)
+[03:27:44] BCraftMG: osuintercourse will be blue
+[03:27:48] BanchoBot: woofus changed to Red
+[03:27:52] OurAngelYu: got it
+[03:27:58] BanchoBot: Binfy changed to Blue
+[03:27:58] BanchoBot: Binfy moved to slot 7
+[03:28:17] Enjouji: oh
+[03:28:21] BanchoBot: _Ene changed to Red
+[03:28:26] Enjouji: i deleted exactly this diff
+[03:28:47] BanchoBot: All players are ready
+[03:29:14] BanchoBot: KING DERANKER joined in slot 8 for team red.
+[03:29:22] BanchoBot: ocaip joined in slot 9 for team blue.
+[03:29:52] BanchoBot: The match has started!
+[03:33:21] BanchoBot: KING DERANKER finished playing (Score: 596160, PASSED).
+[03:33:23] BanchoBot: woofus finished playing (Score: 275679, PASSED).
+[03:33:23] BanchoBot: OurAngelYu finished playing (Score: 421403, PASSED).
+[03:33:23] BanchoBot: ocaip finished playing (Score: 675016, PASSED).
+[03:33:23] BanchoBot: Enjouji finished playing (Score: 377493, PASSED).
+[03:33:23] BanchoBot: Retix finished playing (Score: 152283, PASSED).
+[03:33:23] BanchoBot: poisonvx finished playing (Score: 164620, PASSED).
+[03:33:23] BanchoBot: Binfy finished playing (Score: 2727, PASSED).
+[03:33:23] BanchoBot: _Ene finished playing (Score: 332141, PASSED).
+[03:33:23] BanchoBot: The match has finished!
+[03:33:40] BCraftMG: !mp clearhost
+[03:33:42] BanchoBot: Cleared match host
+[03:33:44] Retix: >->
+[03:33:51] BCraftMG: lets start with !roll for protect order
+[03:34:01] Retix: !roll
+[03:34:01] BanchoBot: Retix rolls 69 point(s)
+[03:34:06] OurAngelYu: !roll
+[03:34:06] BanchoBot: OurAngelYu rolls 79 point(s)
+[03:34:06] BanchoBot: Neotopisch joined in slot 10 for team red.
+[03:34:15] BCraftMG: osuintercourse, please choose your protect order
+[03:34:27] OurAngelYu: Protect NM2
+[03:34:39] BCraftMG: GeForce Inexperience, please choose your protect
+[03:35:04] Retix: protect hd1
+[03:35:25] BCraftMG: alright
+[03:35:34] BCraftMG: next is !roll for ban or pick order
+[03:35:38] BCraftMG: 2 captains please roll again
+[03:35:38] Retix: !roll
+[03:35:38] BanchoBot: Retix rolls 88 point(s)
+[03:35:42] OurAngelYu: BINFY ROLL
+[03:35:49] poisonvx: :)
+[03:36:19] woofus: :o
+[03:36:25] Binfy: !roll
+[03:36:25] BanchoBot: Binfy rolls 61 point(s)
+[03:36:36] Binfy: did i do a good thing
+[03:36:36] OurAngelYu: gt gt
+[03:36:38] Binfy: is that a good roll
+[03:36:40] OurAngelYu: good try
+[03:36:46] Binfy: pain
+[03:36:49] woofus: amazing roll
+[03:36:53] BCraftMG: GeForce Inexperience please choose your pick or ban order
+[03:36:59] Retix: ban 2nd
+[03:37:08] BanchoBot: KING DERANKER left the game.
+[03:37:13] BCraftMG: osuintercourse please choose your pick order
+[03:37:16] BanchoBot: poisonvx left the game.
+[03:37:16] OurAngelYu: Pick second
+[03:37:29] BCraftMG: osuintercourse, your ban please
+[03:37:31] BCraftMG: !mp timer 120
+[03:37:33] BanchoBot: Countdown ends in 2 minutes
+[03:37:37] BanchoBot: Neotopisch left the game.
+[03:38:26] Binfy: !roll
+[03:38:26] BanchoBot: Binfy rolls 18 point(s)
+[03:38:33] Binfy: !roll 1000
+[03:38:33] BanchoBot: Binfy rolls 50 point(s)
+[03:38:35] BanchoBot: Countdown ends in 1 minute
+[03:38:39] Binfy: !roll 1000
+[03:38:39] BanchoBot: Binfy rolls 437 point(s)
+[03:38:43] OurAngelYu: HR1 ban
+[03:38:45] Binfy: !roll 1000
+[03:38:45] BanchoBot: Binfy rolls 290 point(s)
+[03:38:49] Binfy: !roll 1000
+[03:38:49] BanchoBot: Binfy rolls 32 point(s)
+[03:38:56] Binfy: !roll 1000
+[03:38:56] BanchoBot: Binfy rolls 172 point(s)
+[03:39:00] Retix: HD2 ban
+[03:39:04] BanchoBot: Countdown ends in 30 seconds
+[03:39:10] BCraftMG: 1 sec
+[03:39:25] BanchoBot: Countdown ends in 10 seconds
+[03:39:29] BanchoBot: Countdown ends in 5 seconds
+[03:39:29] BanchoBot: Countdown ends in 4 seconds
+[03:39:31] BCraftMG: okay
+[03:39:31] BanchoBot: Countdown ends in 3 seconds
+[03:39:31] BanchoBot: Countdown ends in 2 seconds
+[03:39:33] BanchoBot: Countdown ends in 1 second
+[03:39:33] BanchoBot: Countdown finished
+[03:39:40] BCraftMG: GeForce Inexperience, your ban?
+[03:39:42] BCraftMG: !mp timer 120
+[03:39:42] BanchoBot: Countdown ends in 2 minutes
+[03:39:44] Retix: hd2
+[03:40:01] BCraftMG: wait im trolling
+[03:40:03] BCraftMG: sorry
+[03:40:11] BCraftMG: !mp aborttimer
+[03:40:11] BanchoBot: Countdown aborted
+[03:40:30] BCraftMG: GeForce Inexperience | 0 - 0 | osuintercourse // First Pick: GeForce Inexperience
+[03:40:31] BCraftMG: !mp timer 120
+[03:40:33] BanchoBot: Countdown ends in 2 minutes
+[03:40:41] BanchoBot: poisonvx joined in slot 6 for team red.
+[03:40:46] BanchoBot: ocaip moved to slot 8
+[03:40:48] Binfy: !roll 1000
+[03:40:48] BanchoBot: Binfy rolls 113 point(s)
+[03:40:56] Binfy: !roll 1000
+[03:40:56] BanchoBot: Binfy rolls 520 point(s)
+[03:41:01] woofus: !roll 12
+[03:41:01] BanchoBot: woofus rolls 2 point(s)
+[03:41:01] Binfy: !roll 1000
+[03:41:01] BanchoBot: Binfy rolls 258 point(s)
+[03:41:05] woofus: true
+[03:41:05] poisonvx: !roll 1000
+[03:41:05] BanchoBot: poisonvx rolls 360 point(s)
+[03:41:07] Binfy: !roll 1000
+[03:41:07] BanchoBot: Binfy rolls 527 point(s)
+[03:41:07] BanchoBot: _Ene left the game.
+[03:41:09] Retix: nm4 pick
+[03:41:13] Binfy: !roll 1000
+[03:41:13] BanchoBot: Binfy rolls 518 point(s)
+[03:41:21] BCraftMG: !mp map 2965262 0
+[03:41:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2965262 Street - Koiyamai (TV Size)
+[03:41:21] BanchoBot: Changed match mode to Osu
+[03:41:21] Binfy: !roll 1000
+[03:41:21] BanchoBot: Binfy rolls 534 point(s)
+[03:41:23] BCraftMG: !mp mods 0
+[03:41:23] BanchoBot: Disabled all mods, disabled FreeMod
+[03:41:23] poisonvx: !roll 1000
+[03:41:23] BanchoBot: poisonvx rolls 639 point(s)
+[03:41:30] BanchoBot: Binfy changed to Red
+[03:41:32] BanchoBot: Binfy changed to Blue
+[03:41:32] BanchoBot: ocaip moved to slot 5
+[03:41:34] BanchoBot: Countdown ends in 1 minute
+[03:41:34] BanchoBot: Neotopisch joined in slot 8 for team red.
+[03:41:40] BanchoBot: poisonvx left the game.
+[03:41:42] BanchoBot: KING DERANKER joined in slot 6 for team red.
+[03:41:53] BanchoBot: KING DERANKER changed to Blue
+[03:42:02] BanchoBot: Enjouji left the game.
+[03:42:02] Neotopisch: LET ME IN
+[03:42:04] BanchoBot: Neotopisch moved to slot 3
+[03:42:04] BanchoBot: Countdown ends in 30 seconds
+[03:42:12] BanchoBot: Binfy left the game.
+[03:42:16] BCraftMG: god
+[03:42:18] BCraftMG: !mp timer 90
+[03:42:20] BanchoBot: Countdown aborted
+[03:42:20] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[03:42:50] BanchoBot: All players are ready
+[03:42:52] BCraftMG: !mp settings
+[03:42:52] BanchoBot: Countdown ends in 1 minute
+[03:42:55] BanchoBot: Room name: STT3: (GeForce Inexperience) vs (osuintercourse), History: https://osu.ppy.sh/mp/101958717
+[03:42:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/2965262 Street - Koiyamai (TV Size)
+[03:42:55] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:42:55] BanchoBot: Players: 6
+[03:42:55] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12577108 woofus          [Team Red ]
+[03:42:55] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15171585 Retix           [Team Red ]
+[03:42:55] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11093605 Neotopisch      [Team Red ]
+[03:42:55] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15984499 OurAngelYu      [Team Blue]
+[03:42:55] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/10382679 ocaip           [Team Blue]
+[03:42:55] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/8779023 KING DERANKER   [Team Blue]
+[03:42:57] woofus: hf
+[03:43:00] BCraftMG: !mp start 10
+[03:43:01] BanchoBot: Countdown aborted
+[03:43:01] BanchoBot: Match starts in 10 seconds
+[03:43:01] BanchoBot: Queued the match to start in 10 seconds
+[03:43:05] Retix: glhf
+[03:43:07] BanchoBot: Match starts in 5 seconds
+[03:43:07] BanchoBot: Match starts in 4 seconds
+[03:43:09] BanchoBot: Match starts in 3 seconds
+[03:43:09] BanchoBot: Good luck, have fun!
+[03:43:11] BanchoBot: The match has started!
+[03:45:00] BanchoBot: Retix finished playing (Score: 260117, PASSED).
+[03:45:00] BanchoBot: OurAngelYu finished playing (Score: 372110, PASSED).
+[03:45:00] BanchoBot: KING DERANKER finished playing (Score: 347460, PASSED).
+[03:45:00] BanchoBot: woofus finished playing (Score: 204515, PASSED).
+[03:45:00] BanchoBot: Neotopisch finished playing (Score: 390419, PASSED).
+[03:45:02] BanchoBot: ocaip finished playing (Score: 474610, PASSED).
+[03:45:02] BanchoBot: The match has finished!
+[03:45:37] BCraftMG: GeForce Inexperience | 0 - 1 | osuintercourse // Next Pick: osuintercourse
+[03:45:39] BCraftMG: !mp timer 120
+[03:45:40] BanchoBot: Countdown ends in 2 minutes
+[03:45:44] OurAngelYu: FM1
+[03:45:46] OurAngelYu: specks
+[03:45:48] BanchoBot: Neotopisch left the game.
+[03:45:53] OurAngelYu: whoops
+[03:45:59] BanchoBot: Enjouji joined in slot 3 for team blue.
+[03:46:03] BanchoBot: Retix left the game.
+[03:46:03] BCraftMG: !mp map 216272 0
+[03:46:03] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/216272 CON - Cruel Clocks
+[03:46:03] BanchoBot: Changed match mode to Osu
+[03:46:05] BCraftMG: !mp mods 0 freemod
+[03:46:05] BanchoBot: Disabled all mods, enabled FreeMod
+[03:46:05] BanchoBot: Enjouji moved to slot 2
+[03:46:07] BanchoBot: _Ene joined in slot 3 for team blue.
+[03:46:10] BanchoBot: Enjouji left the game.
+[03:46:10] BCraftMG: !mp timer 120
+[03:46:10] BanchoBot: Countdown aborted
+[03:46:10] BanchoBot: Countdown ends in 2 minutes
+[03:46:14] BanchoBot: _Ene changed to Red
+[03:46:14] BanchoBot: _Ene moved to slot 2
+[03:46:20] BanchoBot: poisonvx joined in slot 3 for team blue.
+[03:46:39] BanchoBot: Neotopisch joined in slot 7 for team blue.
+[03:46:51] BanchoBot: Neotopisch changed to Red
+[03:46:53] BanchoBot: Neotopisch moved to slot 8
+[03:46:55] BanchoBot: poisonvx left the game.
+[03:46:57] BanchoBot: Neotopisch moved to slot 3
+[03:47:08] BanchoBot: Countdown ends in 1 minute
+[03:47:38] BanchoBot: Countdown ends in 30 seconds
+[03:47:48] BanchoBot: All players are ready
+[03:47:53] BCraftMG: !mp settings
+[03:47:55] Neotopisch: hfhf
+[03:47:55] BanchoBot: Room name: STT3: (GeForce Inexperience) vs (osuintercourse), History: https://osu.ppy.sh/mp/101958717
+[03:47:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/216272 CON - Cruel Clocks
+[03:47:55] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:47:55] BanchoBot: Active mods: Freemod
+[03:47:55] BanchoBot: Players: 6
+[03:47:55] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12577108 woofus          [Team Red  / NoFail, HardRock]
+[03:47:55] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9626482 _Ene            [Team Red  / NoFail, Hidden]
+[03:47:55] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11093605 Neotopisch      [Team Red  / NoFail, Hidden]
+[03:47:55] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15984499 OurAngelYu      [Team Blue / NoFail, Hidden]
+[03:47:55] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/10382679 ocaip           [Team Blue / NoFail, Hidden]
+[03:47:55] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/8779023 KING DERANKER   [Team Blue / NoFail, HardRock]
+[03:47:57] BCraftMG: !mp start 10
+[03:47:59] BanchoBot: Countdown ends in 10 seconds
+[03:47:59] BanchoBot: Countdown aborted
+[03:47:59] BanchoBot: Match starts in 10 seconds
+[03:47:59] BanchoBot: Queued the match to start in 10 seconds
+[03:48:01] _Ene: glhf
+[03:48:03] woofus: gl!
+[03:48:05] BanchoBot: Match starts in 5 seconds
+[03:48:05] BanchoBot: Match starts in 4 seconds
+[03:48:07] BanchoBot: Match starts in 3 seconds
+[03:48:07] BanchoBot: Good luck, have fun!
+[03:48:09] BanchoBot: The match has started!
+[03:50:13] BCraftMG: !mp settings
+[03:50:13] BanchoBot: Room name: STT3: (GeForce Inexperience) vs (osuintercourse), History: https://osu.ppy.sh/mp/101958717
+[03:50:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/216272 CON - Cruel Clocks
+[03:50:13] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:50:13] BanchoBot: Active mods: Freemod
+[03:50:13] BanchoBot: Players: 6
+[03:50:13] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/12577108 woofus          [Team Red  / NoFail, HardRock]
+[03:50:13] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/9626482 _Ene            [Team Red  / NoFail, Hidden]
+[03:50:13] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/11093605 Neotopisch      [Team Red  / NoFail, Hidden]
+[03:50:13] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/15984499 OurAngelYu      [Team Blue / NoFail, Hidden]
+[03:50:13] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/10382679 ocaip           [Team Blue / NoFail, Hidden]
+[03:50:13] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/8779023 KING DERANKER   [Team Blue / NoFail, HardRock]
+[03:52:49] BanchoBot: _Ene finished playing (Score: 269223, PASSED).
+[03:52:49] BanchoBot: KING DERANKER finished playing (Score: 442943, PASSED).
+[03:52:49] BanchoBot: woofus finished playing (Score: 341396, PASSED).
+[03:52:51] BanchoBot: OurAngelYu finished playing (Score: 512312, PASSED).
+[03:52:51] BanchoBot: Neotopisch finished playing (Score: 466234, PASSED).
+[03:52:53] BanchoBot: ocaip finished playing (Score: 920289, PASSED).
+[03:52:53] BanchoBot: The match has finished!
+[03:53:03] BanchoBot: KING DERANKER left the game.
+[03:53:09] BanchoBot: Enjouji joined in slot 6 for team red.
+[03:53:19] BCraftMG: GeForce Inexperience | 0 - 2 | osuintercourse // Next Pick: GeForce Inexperience
+[03:53:20] BanchoBot: Retix joined in slot 7 for team blue.
+[03:53:21] BCraftMG: !mp timer 120
+[03:53:22] BanchoBot: Countdown ends in 2 minutes
+[03:54:06] BanchoBot: Neotopisch left the game.
+[03:54:22] BanchoBot: Countdown ends in 1 minute
+[03:54:50] Retix: we pick dt2
+[03:54:53] BanchoBot: Countdown ends in 30 seconds
+[03:55:00] BCraftMG: !mp map 2075562 0
+[03:55:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2075562 Wyvern's Spirit - Force Zero
+[03:55:00] BanchoBot: Changed match mode to Osu
+[03:55:02] BCraftMG: !mp mods 64
+[03:55:02] BanchoBot: Enabled DoubleTime, disabled FreeMod
+[03:55:06] BCraftMG: !mp timer 120
+[03:55:06] BanchoBot: Countdown aborted
+[03:55:06] BanchoBot: Countdown ends in 2 minutes
+[03:55:08] BanchoBot: Retix left the game.
+[03:55:10] BanchoBot: Enjouji left the game.
+[03:55:18] BanchoBot: OurAngelYu moved to slot 8
+[03:55:49] BanchoBot: KING DERANKER joined in slot 3 for team blue.
+[03:55:56] BanchoBot: Neotopisch joined in slot 4 for team red.
+[03:55:58] BanchoBot: Phel joined in slot 6 for team red.
+[03:56:00] BanchoBot: KING DERANKER moved to slot 7
+[03:56:02] BanchoBot: Neotopisch moved to slot 3
+[03:56:04] BanchoBot: Phel changed to Blue
+[03:56:06] BanchoBot: Countdown ends in 1 minute
+[03:56:06] BanchoBot: OurAngelYu left the game.
+[03:56:12] BanchoBot: KING DERANKER moved to slot 4
+[03:56:35] BanchoBot: Countdown ends in 30 seconds
+[03:56:56] BanchoBot: Countdown ends in 10 seconds
+[03:57:00] BanchoBot: Countdown ends in 5 seconds
+[03:57:02] BanchoBot: Countdown ends in 4 seconds
+[03:57:02] BanchoBot: Countdown ends in 3 seconds
+[03:57:04] BanchoBot: Countdown ends in 2 seconds
+[03:57:04] BanchoBot: Countdown ends in 1 second
+[03:57:06] BanchoBot: Countdown finished
+[03:57:11] BanchoBot: All players are ready
+[03:57:11] BCraftMG: !mp settings
+[03:57:11] BanchoBot: Room name: STT3: (GeForce Inexperience) vs (osuintercourse), History: https://osu.ppy.sh/mp/101958717
+[03:57:11] BanchoBot: Beatmap: https://osu.ppy.sh/b/2075562 Wyvern's Spirit - Force Zero
+[03:57:11] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:57:11] BanchoBot: Active mods: DoubleTime
+[03:57:11] BanchoBot: Players: 6
+[03:57:11] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12577108 woofus          [Team Red ]
+[03:57:11] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9626482 _Ene            [Team Red ]
+[03:57:11] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11093605 Neotopisch      [Team Red ]
+[03:57:11] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8779023 KING DERANKER   [Team Blue]
+[03:57:11] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/10382679 ocaip           [Team Blue]
+[03:57:11] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/9367683 Phel            [Team Blue]
+[03:57:15] BCraftMG: !mp start 5
+[03:57:15] BanchoBot: Match starts in 5 seconds
+[03:57:15] BanchoBot: Queued the match to start in 5 seconds
+[03:57:15] Phel: :suntaip:
+[03:57:15] BanchoBot: Match starts in 4 seconds
+[03:57:17] BanchoBot: Match starts in 3 seconds
+[03:57:17] BanchoBot: Good luck, have fun!
+[03:57:19] BanchoBot: The match has started!
+[04:00:27] BanchoBot: woofus finished playing (Score: 547190, PASSED).
+[04:00:27] BanchoBot: KING DERANKER finished playing (Score: 335691, PASSED).
+[04:00:27] BanchoBot: ocaip finished playing (Score: 471290, PASSED).
+[04:00:27] BanchoBot: _Ene finished playing (Score: 235449, PASSED).
+[04:00:27] BanchoBot: Phel finished playing (Score: 464004, PASSED).
+[04:00:27] BanchoBot: Neotopisch finished playing (Score: 539925, PASSED).
+[04:00:27] BanchoBot: The match has finished!
+[04:00:47] BanchoBot: OurAngelYu joined in slot 7 for team blue.
+[04:00:49] BanchoBot: Retix joined in slot 8 for team red.
+[04:00:53] BCraftMG: GeForce Inexperience | 1 - 2 | osuintercourse // Next Pick: osuintercourse
+[04:00:55] BCraftMG: !mp timer 120
+[04:00:57] BanchoBot: Countdown ends in 2 minutes
+[04:01:14] BanchoBot: Enjouji joined in slot 9 for team blue.
+[04:01:26] ocaip: double pick allowed?
+[04:01:30] BCraftMG: yes
+[04:01:47] OurAngelYu: Fm2
+[04:01:49] BanchoBot: Phel left the game.
+[04:01:53] BanchoBot: Enjouji left the game.
+[04:01:53] BanchoBot: KING DERANKER left the game.
+[04:01:59] BanchoBot: Countdown ends in 1 minute
+[04:01:59] BCraftMG: !mp map 46827 0
+[04:01:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/46827 KOTOKO - Wing my Way
+[04:01:59] BanchoBot: Changed match mode to Osu
+[04:01:59] BanchoBot: _Ene left the game.
+[04:02:01] BCraftMG: !mp mods 0 freemod
+[04:02:01] BanchoBot: Disabled all mods, enabled FreeMod
+[04:02:09] BanchoBot: OurAngelYu moved to slot 6
+[04:02:18] BanchoBot: Retix moved to slot 2
+[04:02:28] BanchoBot: Countdown ends in 30 seconds
+[04:02:32] BanchoBot: Phel joined in slot 4 for team red.
+[04:02:33] BCraftMG: !mp timer 120
+[04:02:34] BanchoBot: Countdown aborted
+[04:02:34] BanchoBot: Countdown ends in 2 minutes
+[04:02:53] BanchoBot: Phel changed to Blue
+[04:03:17] BanchoBot: KING DERANKER joined in slot 7 for team blue.
+[04:03:23] BanchoBot: Phel left the game.
+[04:03:23] BanchoBot: OurAngelYu moved to slot 8
+[04:03:25] BanchoBot: KING DERANKER moved to slot 4
+[04:03:27] BanchoBot: OurAngelYu moved to slot 6
+[04:03:31] BanchoBot: OurAngelYu moved to slot 8
+[04:03:33] BanchoBot: OurAngelYu moved to slot 6
+[04:03:35] BanchoBot: Countdown ends in 1 minute
+[04:03:42] BanchoBot: Phel joined in slot 7 for team blue.
+[04:03:42] BanchoBot: OurAngelYu moved to slot 8
+[04:03:44] BanchoBot: OurAngelYu left the game.
+[04:03:48] BanchoBot: Phel moved to slot 6
+[04:04:04] BanchoBot: Countdown ends in 30 seconds
+[04:04:09] BanchoBot: All players are ready
+[04:04:15] BCraftMG: !mp settings
+[04:04:17] BanchoBot: Room name: STT3: (GeForce Inexperience) vs (osuintercourse), History: https://osu.ppy.sh/mp/101958717
+[04:04:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/46827 KOTOKO - Wing my Way
+[04:04:17] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[04:04:17] BanchoBot: Active mods: Freemod
+[04:04:17] BanchoBot: Players: 6
+[04:04:17] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12577108 woofus          [Team Red  / NoFail, HardRock]
+[04:04:17] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15171585 Retix           [Team Red  / NoFail, HardRock]
+[04:04:17] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11093605 Neotopisch      [Team Red  / NoFail, Hidden]
+[04:04:17] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8779023 KING DERANKER   [Team Blue / NoFail, HardRock]
+[04:04:17] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/10382679 ocaip           [Team Blue / NoFail, Hidden]
+[04:04:17] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/9367683 Phel            [Team Blue / NoFail, HardRock]
+[04:04:23] BCraftMG: !mp start 10
+[04:04:25] BanchoBot: Countdown ends in 10 seconds
+[04:04:25] BanchoBot: Countdown aborted
+[04:04:25] BanchoBot: Match starts in 10 seconds
+[04:04:25] BanchoBot: Queued the match to start in 10 seconds
+[04:04:27] Retix: glhf
+[04:04:29] Neotopisch: hfhf
+[04:04:31] Phel: hfhfh
+[04:04:31] BanchoBot: Match starts in 5 seconds
+[04:04:31] BanchoBot: Match starts in 4 seconds
+[04:04:33] BanchoBot: Match starts in 3 seconds
+[04:04:33] BanchoBot: Good luck, have fun!
+[04:04:35] BanchoBot: The match has started!
+[04:06:45] BanchoBot: Neotopisch finished playing (Score: 144932, PASSED).
+[04:06:45] BanchoBot: KING DERANKER finished playing (Score: 277756, PASSED).
+[04:06:45] BanchoBot: Phel finished playing (Score: 252821, PASSED).
+[04:06:47] BanchoBot: Retix finished playing (Score: 398517, PASSED).
+[04:06:47] BanchoBot: ocaip finished playing (Score: 398509, PASSED).
+[04:06:49] BanchoBot: woofus finished playing (Score: 226058, PASSED).
+[04:06:49] BanchoBot: The match has finished!
+[04:07:01] BanchoBot: KING DERANKER left the game.
+[04:07:18] BCraftMG: GeForce Inexperience | 1 - 3 | osuintercourse // Next Pick: GeForce Inexperience
+[04:07:21] BCraftMG: !mp timer 120
+[04:07:22] BanchoBot: OurAngelYu joined in slot 4 for team red.
+[04:07:22] BanchoBot: Countdown ends in 2 minutes
+[04:07:54] BanchoBot: Enjouji joined in slot 7 for team blue.
+[04:08:00] BanchoBot: Enjouji changed to Red
+[04:08:02] BanchoBot: Enjouji moved to slot 8
+[04:08:02] BanchoBot: Phel left the game.
+[04:08:23] BanchoBot: Countdown ends in 1 minute
+[04:08:31] BanchoBot: poisonvx joined in slot 6 for team red.
+[04:08:33] Retix: dt1
+[04:08:41] BCraftMG: !mp map 1240566 0
+[04:08:41] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1240566 Ito Kanako - Glass no Kutsu
+[04:08:41] BanchoBot: Changed match mode to Osu
+[04:08:43] BCraftMG: !mp mods 64
+[04:08:43] BanchoBot: Enabled DoubleTime, disabled FreeMod
+[04:08:45] BCraftMG: !mp timer 120
+[04:08:45] BanchoBot: Countdown aborted
+[04:08:45] BanchoBot: Countdown ends in 2 minutes
+[04:08:45] BanchoBot: Enjouji left the game.
+[04:08:47] BanchoBot: Phel joined in slot 7 for team blue.
+[04:08:49] BanchoBot: woofus left the game.
+[04:08:49] Neotopisch: NF
+[04:08:51] Neotopisch: LETS GO
+[04:09:01] BCraftMG: woops
+[04:09:01] BanchoBot: woofus joined in slot 1 for team blue.
+[04:09:04] BanchoBot: poisonvx left the game.
+[04:09:07] BCraftMG: !mp mods NF DT
+[04:09:08] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[04:09:14] BanchoBot: woofus left the game.
+[04:09:18] Neotopisch: Yeeah thats how i like it
+[04:09:20] BanchoBot: Neotopisch moved to slot 1
+[04:09:22] BanchoBot: Phel moved to slot 6
+[04:09:26] BanchoBot: _Ene joined in slot 3 for team blue.
+[04:09:30] BanchoBot: Neotopisch left the game.
+[04:09:30] BanchoBot: _Ene changed to Red
+[04:09:40] BanchoBot: woofus joined in slot 1 for team blue.
+[04:09:44] BanchoBot: woofus changed to Red
+[04:09:44] BanchoBot: Countdown ends in 1 minute
+[04:09:46] BanchoBot: OurAngelYu left the game.
+[04:09:48] BanchoBot: Neotopisch joined in slot 4 for team red.
+[04:09:56] BanchoBot: Neotopisch left the game.
+[04:10:14] BanchoBot: Countdown ends in 30 seconds
+[04:10:35] BanchoBot: Countdown ends in 10 seconds
+[04:10:39] BanchoBot: Countdown ends in 5 seconds
+[04:10:41] BanchoBot: Countdown ends in 4 seconds
+[04:10:41] BanchoBot: Countdown ends in 3 seconds
+[04:10:43] BanchoBot: Countdown ends in 2 seconds
+[04:10:43] BanchoBot: Countdown ends in 1 second
+[04:10:45] BanchoBot: Countdown finished
+[04:10:45] BCraftMG: !mp settings
+[04:10:47] BanchoBot: Room name: STT3: (GeForce Inexperience) vs (osuintercourse), History: https://osu.ppy.sh/mp/101958717
+[04:10:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/1240566 Ito Kanako - Glass no Kutsu
+[04:10:47] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[04:10:47] BanchoBot: Active mods: NoFail, DoubleTime
+[04:10:47] BanchoBot: Players: 5
+[04:10:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12577108 woofus          [Team Red ]
+[04:10:47] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15171585 Retix           [Team Red ]
+[04:10:47] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9626482 _Ene            [Team Red ]
+[04:10:47] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/10382679 ocaip           [Team Blue]
+[04:10:47] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/9367683 Phel            [Team Blue]
+[04:10:53] BanchoBot: OurAngelYu joined in slot 4 for team red.
+[04:10:55] BanchoBot: OurAngelYu moved to slot 7
+[04:10:59] BanchoBot: OurAngelYu moved to slot 4
+[04:11:10] BCraftMG: !mp settings
+[04:11:11] ocaip: WAIT
+[04:11:11] BanchoBot: Room name: STT3: (GeForce Inexperience) vs (osuintercourse), History: https://osu.ppy.sh/mp/101958717
+[04:11:11] BanchoBot: Beatmap: https://osu.ppy.sh/b/1240566 Ito Kanako - Glass no Kutsu
+[04:11:11] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[04:11:11] BanchoBot: Active mods: NoFail, DoubleTime
+[04:11:11] BanchoBot: Players: 6
+[04:11:11] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12577108 woofus          [Team Red ]
+[04:11:12] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15171585 Retix           [Team Red ]
+[04:11:12] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9626482 _Ene            [Team Red ]
+[04:11:12] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/15984499 OurAngelYu      [Team Red ]
+[04:11:12] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/10382679 ocaip           [Team Blue]
+[04:11:12] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/9367683 Phel            [Team Blue]
+[04:11:15] BanchoBot: KING DERANKER joined in slot 7 for team blue.
+[04:11:17] BanchoBot: OurAngelYu left the game.
+[04:11:21] BanchoBot: KING DERANKER moved to slot 4
+[04:11:24] BCraftMG: change to blue and ready up please
+[04:11:26] BanchoBot: All players are ready
+[04:11:30] Retix: glhf
+[04:11:32] KING_DERANKER: i am blue
+[04:11:32] BCraftMG: !mp settings
+[04:11:34] woofus: hfhf
+[04:11:34] BanchoBot: Room name: STT3: (GeForce Inexperience) vs (osuintercourse), History: https://osu.ppy.sh/mp/101958717
+[04:11:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/1240566 Ito Kanako - Glass no Kutsu
+[04:11:34] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[04:11:34] BanchoBot: Active mods: NoFail, DoubleTime
+[04:11:34] BanchoBot: Players: 6
+[04:11:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12577108 woofus          [Team Red ]
+[04:11:34] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15171585 Retix           [Team Red ]
+[04:11:34] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9626482 _Ene            [Team Red ]
+[04:11:34] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8779023 KING DERANKER   [Team Blue]
+[04:11:34] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/10382679 ocaip           [Team Blue]
+[04:11:34] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/9367683 Phel            [Team Blue]
+[04:11:38] KING_DERANKER: glhf
+[04:11:38] BCraftMG: !mp start 10
+[04:11:40] BanchoBot: Match starts in 10 seconds
+[04:11:40] BanchoBot: Queued the match to start in 10 seconds
+[04:11:44] Phel: gl blue
+[04:11:44] KING_DERANKER: can we play ht1 0n nomod
+[04:11:46] BanchoBot: Match starts in 5 seconds
+[04:11:46] BanchoBot: Match starts in 4 seconds
+[04:11:48] BanchoBot: Match starts in 3 seconds
+[04:11:48] BanchoBot: Good luck, have fun!
+[04:11:50] BanchoBot: The match has started!
+[04:13:56] BanchoBot: OurAngelYu joined in slot 7 for team blue.
+[04:15:31] BanchoBot: Phel finished playing (Score: 889671, PASSED).
+[04:15:33] BanchoBot: ocaip finished playing (Score: 566641, PASSED).
+[04:15:33] BanchoBot: woofus finished playing (Score: 623549, PASSED).
+[04:15:33] BanchoBot: KING DERANKER finished playing (Score: 586762, PASSED).
+[04:15:33] BanchoBot: Retix finished playing (Score: 1201404, PASSED).
+[04:15:33] BanchoBot: _Ene finished playing (Score: 652377, PASSED).
+[04:15:33] BanchoBot: The match has finished!
+[04:16:03] BCraftMG: GeForce Inexperience | 2 - 3 | osuintercourse // Next Pick: osuintercourse
+[04:16:05] BCraftMG: !mp timer 120
+[04:16:06] BanchoBot: Countdown ends in 2 minutes
+[04:16:18] BanchoBot: Enjouji joined in slot 8 for team red.
+[04:16:22] OurAngelYu: HD1
+[04:16:30] BanchoBot: _Ene left the game.
+[04:16:30] BanchoBot: Neotopisch joined in slot 3 for team blue.
+[04:16:36] BanchoBot: Neotopisch left the game.
+[04:16:38] BCraftMG: !mp map 3178140 0
+[04:16:38] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3178140 Chicala Lpis - Blackest Luxury Car
+[04:16:38] BanchoBot: Changed match mode to Osu
+[04:16:40] BanchoBot: Phel left the game.
+[04:16:40] BCraftMG: !mp mods 8
+[04:16:40] BanchoBot: Enabled Hidden, disabled FreeMod
+[04:16:42] BCraftMG: !mp timer 120
+[04:16:42] BanchoBot: Countdown aborted
+[04:16:42] BanchoBot: Countdown ends in 2 minutes
+[04:17:02] BanchoBot: Enjouji moved to slot 3
+[04:17:12] BanchoBot: woofus left the game.
+[04:17:18] BanchoBot: OurAngelYu moved to slot 6
+[04:17:33] BanchoBot: Neotopisch joined in slot 1 for team blue.
+[04:17:37] BanchoBot: Neotopisch changed to Red
+[04:17:41] BanchoBot: Countdown ends in 1 minute
+[04:17:45] Neotopisch: NO FAIL
+[04:17:47] Neotopisch: BROOOOOOOOOO
+[04:17:51] Enjouji: oh yea
+[04:17:54] BCraftMG: god
+[04:17:57] BCraftMG: !mp mods nf hd
+[04:17:57] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[04:17:59] Neotopisch: I NEED IT
+[04:18:05] Enjouji: xD
+[04:18:07] BCraftMG: i thought you dont
+[04:18:11] BanchoBot: Countdown ends in 30 seconds
+[04:18:21] BanchoBot: All players are ready
+[04:18:24] BCraftMG: !Mp settings
+[04:18:25] BanchoBot: Room name: STT3: (GeForce Inexperience) vs (osuintercourse), History: https://osu.ppy.sh/mp/101958717
+[04:18:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/3178140 Chicala Lpis - Blackest Luxury Car
+[04:18:25] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[04:18:25] BanchoBot: Active mods: NoFail, Hidden
+[04:18:25] BanchoBot: Players: 6
+[04:18:25] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11093605 Neotopisch      [Team Red ]
+[04:18:25] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15171585 Retix           [Team Red ]
+[04:18:25] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/19526504 Enjouji         [Team Red ]
+[04:18:25] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8779023 KING DERANKER   [Team Blue]
+[04:18:25] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/10382679 ocaip           [Team Blue]
+[04:18:25] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/15984499 OurAngelYu      [Team Blue]
+[04:18:31] BCraftMG: !mp start 10
+[04:18:31] BanchoBot: Countdown ends in 10 seconds
+[04:18:33] BanchoBot: Countdown aborted
+[04:18:33] BanchoBot: Match starts in 10 seconds
+[04:18:33] BanchoBot: Queued the match to start in 10 seconds
+[04:18:39] BanchoBot: Match starts in 5 seconds
+[04:18:39] BanchoBot: Match starts in 4 seconds
+[04:18:41] BanchoBot: Match starts in 3 seconds
+[04:18:41] BanchoBot: Good luck, have fun!
+[04:18:43] BanchoBot: The match has started!
+[04:21:10] BanchoBot: Retix finished playing (Score: 410526, PASSED).
+[04:21:10] BanchoBot: OurAngelYu finished playing (Score: 396013, PASSED).
+[04:21:10] BanchoBot: Neotopisch finished playing (Score: 439707, PASSED).
+[04:21:10] BanchoBot: ocaip finished playing (Score: 563819, PASSED).
+[04:21:10] BanchoBot: Enjouji finished playing (Score: 502623, PASSED).
+[04:21:10] BanchoBot: KING DERANKER finished playing (Score: 461088, PASSED).
+[04:21:10] BanchoBot: The match has finished!
+[04:21:20] BanchoBot: KING DERANKER left the game.
+[04:21:48] BCraftMG: GeForce Inexperience | 2 - 4 | osuintercourse // Next Pick: GeForce Inexperience
+[04:21:50] BCraftMG: !Mp timer 120
+[04:21:52] BanchoBot: Countdown ends in 2 minutes
+[04:22:26] Neotopisch: !roll 2
+[04:22:26] BanchoBot: Neotopisch rolls 2 point(s)
+[04:22:26] BanchoBot: _Ene joined in slot 4 for team red.
+[04:22:36] Retix: nm2
+[04:22:42] BanchoBot: Retix left the game.
+[04:22:44] BCraftMG: !mp map 2105741 0
+[04:22:44] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2105741 K A Z M A S A - Bon Appetit S (Oldskool HappyHardcore Remix) (Short Ver.)
+[04:22:44] BanchoBot: Changed match mode to Osu
+[04:22:44] BanchoBot: Enjouji moved to slot 2
+[04:22:46] BanchoBot: _Ene moved to slot 3
+[04:22:46] BCraftMG: !mp mods 0
+[04:22:46] BanchoBot: Disabled all mods, disabled FreeMod
+[04:22:52] BCraftMG: !mp timer 120
+[04:22:52] BanchoBot: Countdown aborted
+[04:22:52] BanchoBot: Countdown ends in 2 minutes
+[04:23:00] Neotopisch: yeah we rolled it
+[04:23:06] Neotopisch: the dice decides
+[04:23:08] BanchoBot: Phel joined in slot 4 for team red.
+[04:23:19] BanchoBot: Phel changed to Blue
+[04:23:20] OurAngelYu: nm1 would have been better, ngl
+[04:23:23] Phel: ocaip map
+[04:23:24] Enjouji: so
+[04:23:26] Neotopisch: its the better song
+[04:23:30] Neotopisch: yeah
+[04:23:32] Enjouji: we gonny play without NF?
+[04:23:34] BanchoBot: KING DERANKER joined in slot 7 for team blue.
+[04:23:38] Neotopisch: xD
+[04:23:39] BCraftMG: aaaaaaaaaaaaaa
+[04:23:42] Neotopisch: BROOO
+[04:23:44] BCraftMG: !mp mods NF
+[04:23:44] BanchoBot: Enabled NoFail, disabled FreeMod
+[04:23:51] BanchoBot: Countdown ends in 1 minute
+[04:23:56] BCraftMG: ill need to fix in the settings later
+[04:24:03] BCraftMG: sorry for the inconvenience
+[04:24:21] BanchoBot: Countdown ends in 30 seconds
+[04:24:41] BanchoBot: Countdown ends in 10 seconds
+[04:24:43] Neotopisch: 4?!
+[04:24:47] BanchoBot: Countdown ends in 5 seconds
+[04:24:47] Neotopisch: BOYS?
+[04:24:47] BanchoBot: Countdown ends in 4 seconds
+[04:24:49] BanchoBot: Countdown ends in 3 seconds
+[04:24:49] BanchoBot: Countdown ends in 2 seconds
+[04:24:49] BanchoBot: ocaip left the game.
+[04:24:49] Neotopisch: :C
+[04:24:51] BanchoBot: Countdown ends in 1 second
+[04:24:51] BanchoBot: Countdown finished
+[04:24:51] BanchoBot: KING DERANKER moved to slot 5
+[04:24:51] OurAngelYu: right
+[04:24:53] Neotopisch: :)
+[04:24:55] Enjouji: casual 3 v 4
+[04:24:59] BanchoBot: All players are ready
+[04:25:03] BCraftMG: !mp settings
+[04:25:04] KING_DERANKER: we are deliberating very hard in vc.
+[04:25:04] BanchoBot: Room name: STT3: (GeForce Inexperience) vs (osuintercourse), History: https://osu.ppy.sh/mp/101958717
+[04:25:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/2105741 K A Z M A S A - Bon Appetit S (Oldskool HappyHardcore Remix) (Short Ver.)
+[04:25:04] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[04:25:04] BanchoBot: Active mods: NoFail
+[04:25:04] BanchoBot: Players: 6
+[04:25:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11093605 Neotopisch      [Team Red ]
+[04:25:04] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19526504 Enjouji         [Team Red ]
+[04:25:04] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9626482 _Ene            [Team Red ]
+[04:25:04] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9367683 Phel            [Team Blue]
+[04:25:04] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/8779023 KING DERANKER   [Team Blue]
+[04:25:04] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/15984499 OurAngelYu      [Team Blue]
+[04:25:06] BCraftMG: !mp start 10
+[04:25:07] BanchoBot: Match starts in 10 seconds
+[04:25:07] BanchoBot: Queued the match to start in 10 seconds
+[04:25:12] KING_DERANKER: glhf
+[04:25:12] Enjouji: i see
+[04:25:12] OurAngelYu: and binfy too
+[04:25:12] Neotopisch: ahhh I see I see
+[04:25:13] BanchoBot: Match starts in 5 seconds
+[04:25:16] BanchoBot: Match starts in 4 seconds
+[04:25:16] BanchoBot: Match starts in 3 seconds
+[04:25:17] BanchoBot: Good luck, have fun!
+[04:25:17] Enjouji: yea
+[04:25:17] BanchoBot: The match has started!
+[04:28:50] BanchoBot: Neotopisch finished playing (Score: 644934, PASSED).
+[04:28:50] BanchoBot: Enjouji finished playing (Score: 955350, PASSED).
+[04:28:50] BanchoBot: _Ene finished playing (Score: 284805, PASSED).
+[04:28:50] BanchoBot: Phel finished playing (Score: 344725, PASSED).
+[04:28:50] BanchoBot: KING DERANKER finished playing (Score: 397688, PASSED).
+[04:28:50] BanchoBot: OurAngelYu finished playing (Score: 652687, PASSED).
+[04:28:50] BanchoBot: The match has finished!
+[04:29:00] Enjouji: ayyy
+[04:29:11] BCraftMG: GeForce Inexperience | 3 - 4 | osuintercourse // Next Pick: osuintercourse
+[04:29:14] Enjouji: i somehow didnt notelock
+[04:29:14] BCraftMG: !mp timer 120
+[04:29:16] BanchoBot: Countdown ends in 2 minutes
+[04:29:18] BanchoBot: Retix joined in slot 7 for team blue.
+[04:29:22] BanchoBot: Retix changed to Red
+[04:29:56] BanchoBot: KING DERANKER left the game.
+[04:30:18] BanchoBot: Countdown ends in 1 minute
+[04:30:28] OurAngelYu: HR2
+[04:30:38] BCraftMG: !mp map 258384 0
+[04:30:38] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/258384 An - Encryption
+[04:30:38] BanchoBot: Changed match mode to Osu
+[04:30:40] BCraftMG: !mp mods 16
+[04:30:40] BanchoBot: Enabled HardRock, disabled FreeMod
+[04:30:42] BanchoBot: OurAngelYu moved to slot 5
+[04:30:48] BanchoBot: Countdown ends in 30 seconds
+[04:30:48] BCraftMG: !mp timer 120
+[04:30:48] BanchoBot: Countdown aborted
+[04:30:48] BanchoBot: Countdown ends in 2 minutes
+[04:30:50] BCraftMG: !mp mods HR NF
+[04:30:50] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[04:30:50] BanchoBot: _Ene left the game.
+[04:30:52] BanchoBot: ocaip joined in slot 3 for team blue.
+[04:30:52] BanchoBot: Neotopisch left the game.
+[04:30:56] BanchoBot: woofus joined in slot 1 for team blue.
+[04:31:00] BanchoBot: woofus changed to Red
+[04:31:34] Enjouji: this is either gonna end up in a loss or a TB
+[04:31:38] Enjouji: lets see
+[04:31:38] BanchoBot: Neotopisch joined in slot 6 for team red.
+[04:31:40] woofus: TRUE
+[04:31:44] BanchoBot: Retix left the game.
+[04:31:48] BanchoBot: Countdown ends in 1 minute
+[04:31:50] BCraftMG: i need sleep
+[04:31:50] BanchoBot: Neotopisch moved to slot 7
+[04:31:56] woofus: :c
+[04:31:58] OurAngelYu: kick ocaip please
+[04:32:00] Neotopisch: Need it too bro
+[04:32:08] Neotopisch: day was too much
+[04:32:08] BanchoBot: ocaip left the game.
+[04:32:10] OurAngelYu: bancho issue
+[04:32:12] BanchoBot: Neotopisch moved to slot 3
+[04:32:16] BCraftMG: o
+[04:32:17] BanchoBot: Countdown ends in 30 seconds
+[04:32:21] BanchoBot: poisonvx joined in slot 6 for team red.
+[04:32:35] Enjouji: !roll TB chance
+[04:32:35] BanchoBot: Enjouji rolls 60 point(s)
+[04:32:37] Neotopisch: let me take a sip
+[04:32:37] BanchoBot: Countdown ends in 10 seconds
+[04:32:41] Enjouji: hm...
+[04:32:43] BanchoBot: Countdown ends in 5 seconds
+[04:32:43] BanchoBot: Countdown ends in 4 seconds
+[04:32:43] BCraftMG: its 4:30 am
+[04:32:45] BanchoBot: Countdown ends in 3 seconds
+[04:32:45] BanchoBot: Countdown ends in 2 seconds
+[04:32:45] woofus: hf
+[04:32:47] BCraftMG: :stare:
+[04:32:47] BanchoBot: Countdown ends in 1 second
+[04:32:47] OurAngelYu: !roll tb?
+[04:32:47] BanchoBot: OurAngelYu rolls 78 point(s)
+[04:32:47] BanchoBot: Countdown finished
+[04:32:51] BCraftMG: !mp settings
+[04:32:51] BanchoBot: Room name: STT3: (GeForce Inexperience) vs (osuintercourse), History: https://osu.ppy.sh/mp/101958717
+[04:32:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/258384 An - Encryption
+[04:32:51] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[04:32:51] BanchoBot: Active mods: NoFail, HardRock
+[04:32:51] BanchoBot: Players: 6
+[04:32:51] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/12577108 woofus          [Team Red ]
+[04:32:51] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/19526504 Enjouji         [Team Red ]
+[04:32:51] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/11093605 Neotopisch      [Team Red ]
+[04:32:51] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/9367683 Phel            [Team Blue]
+[04:32:51] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/15984499 OurAngelYu      [Team Blue]
+[04:32:51] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/9391047 poisonvx        [Team Red ]
+[04:32:57] BCraftMG: my god
+[04:32:57] BanchoBot: poisonvx changed to Blue
+[04:32:58] BCraftMG: please
+[04:33:00] BCraftMG: ready
+[04:33:05] Phel: is this bo9 or bo11
+[04:33:10] BCraftMG: this is bo0
+[04:33:12] BCraftMG: bo9
+[04:33:23] Phel: okk
+[04:33:25] BanchoBot: ocaip joined in slot 7 for team blue.
+[04:33:29] BanchoBot: poisonvx left the game.
+[04:33:30] BCraftMG: !mp settings
+[04:33:31] BanchoBot: Room name: STT3: (GeForce Inexperience) vs (osuintercourse), History: https://osu.ppy.sh/mp/101958717
+[04:33:31] BanchoBot: Beatmap: https://osu.ppy.sh/b/258384 An - Encryption
+[04:33:31] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[04:33:31] BanchoBot: Active mods: NoFail, HardRock
+[04:33:31] BanchoBot: Players: 6
+[04:33:31] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12577108 woofus          [Team Red ]
+[04:33:31] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19526504 Enjouji         [Team Red ]
+[04:33:31] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/11093605 Neotopisch      [Team Red ]
+[04:33:31] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/9367683 Phel            [Team Blue]
+[04:33:31] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/15984499 OurAngelYu      [Team Blue]
+[04:33:31] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/10382679 ocaip           [Team Blue]
+[04:33:35] BanchoBot: ocaip moved to slot 6
+[04:33:35] BCraftMG: !mp timer 90
+[04:33:37] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[04:33:50] BanchoBot: All players are ready
+[04:33:53] BCraftMG: !mp settings
+[04:33:55] BanchoBot: Room name: STT3: (GeForce Inexperience) vs (osuintercourse), History: https://osu.ppy.sh/mp/101958717
+[04:33:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/258384 An - Encryption
+[04:33:55] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[04:33:55] BanchoBot: Active mods: NoFail, HardRock
+[04:33:55] BanchoBot: Players: 6
+[04:33:55] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12577108 woofus          [Team Red ]
+[04:33:55] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19526504 Enjouji         [Team Red ]
+[04:33:55] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11093605 Neotopisch      [Team Red ]
+[04:33:55] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9367683 Phel            [Team Blue]
+[04:33:55] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/15984499 OurAngelYu      [Team Blue]
+[04:33:55] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10382679 ocaip           [Team Blue]
+[04:33:56] BCraftMG: !mp start 10
+[04:33:57] BanchoBot: Countdown aborted
+[04:33:57] BanchoBot: Match starts in 10 seconds
+[04:33:57] BanchoBot: Queued the match to start in 10 seconds
+[04:34:01] Neotopisch: hfhf
+[04:34:03] BanchoBot: Match starts in 5 seconds
+[04:34:03] BanchoBot: Match starts in 4 seconds
+[04:34:05] BanchoBot: Match starts in 3 seconds
+[04:34:05] woofus: gl!!!
+[04:34:07] BanchoBot: Good luck, have fun!
+[04:34:07] BanchoBot: The match has started!
+[04:36:15] BanchoBot: woofus finished playing (Score: 360644, PASSED).
+[04:36:15] BanchoBot: OurAngelYu finished playing (Score: 617566, PASSED).
+[04:36:15] BanchoBot: Enjouji finished playing (Score: 653202, PASSED).
+[04:36:17] BanchoBot: ocaip finished playing (Score: 668010, PASSED).
+[04:36:17] BanchoBot: Phel finished playing (Score: 641844, PASSED).
+[04:36:17] BanchoBot: Neotopisch finished playing (Score: 887215, PASSED).
+[04:36:17] BanchoBot: The match has finished!
+[04:36:23] Enjouji: F
+[04:36:27] Phel: ggwp
+[04:36:33] OurAngelYu: GGWP
+[04:36:37] woofus: GG EVERYONE! <3
+[04:36:37] ocaip: ggwp
+[04:36:38] BCraftMG: ggwp everyone
+[04:36:39] Neotopisch: nooo my score
+[04:36:47] Neotopisch: It was soo fun playing against you
+[04:36:49] Neotopisch: WAIT
+[04:36:51] BanchoBot: Retix joined in slot 7 for team blue.
+[04:36:51] BanchoBot: ocaip left the game.
+[04:36:59] Neotopisch: Can we do tiebreaker :D?
+[04:36:59] OurAngelYu: thanks for the ref
+[04:37:01] Retix: can we play tb?
+[04:37:03] Phel: ty for ref
+[04:37:03] Phel: ohhh
+[04:37:03] woofus: ty ref!
+[04:37:05] Phel: sure
+[04:37:09] Neotopisch: ty for ref btw :D
+[04:37:11] Retix: ty ref
+[04:37:13] BanchoBot: poisonvx joined in slot 6 for team red.
+[04:37:18] BCraftMG: if the other team agree
+[04:37:21] BCraftMG: !mp size 12
+[04:37:22] BanchoBot: Changed match to size 12
+[04:37:27] Neotopisch: NF god BCraft
+[04:37:28] Enjouji: im in
+[04:38:10] BCraftMG: !mp map 831443
+[04:38:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/831443 BoxPlot - Escape With The Clouds
+[04:38:15] BCraftMG: !mp mods NF Freemod
+[04:38:16] BanchoBot: Disabled all mods, enabled FreeMod
+[04:38:23] BanchoBot: Retix changed to Red
+[04:38:25] BanchoBot: poisonvx changed to Blue
+[04:38:57] poisonvx: come on
+[04:38:59] Retix: 3v4?
+[04:39:01] Enjouji: casualy watching Binfys stream while playing and hearing: i hate germans
+[04:39:01] poisonvx: bring out the fun mods
+[04:39:05] Enjouji: thanks
+[04:39:21] poisonvx: thats for the next match team :)
+[04:39:23] poisonvx: not yall <3
+[04:39:44] woofus: you guys are fm gamers
+[04:39:44] Neotopisch: :3 <3
+[04:39:58] OurAngelYu: cant believe no EZ or HT
+[04:40:02] poisonvx: where the ez player
+[04:40:02] OurAngelYu: thats new
+[04:40:06] Phel: one sec
+[04:40:08] woofus: our ez guy isnt here xd
+[04:40:10] Enjouji: gone
+[04:40:11] woofus: so thankl god
+[04:40:11] Enjouji: yea
+[04:40:11] OurAngelYu: binfy was training EZ
+[04:40:11] poisonvx: OH LOL
+[04:40:13] Retix: the ez player couldn't play
+[04:40:18] Retix: cause of shedule
+[04:40:19] BanchoBot: All players are ready
+[04:40:23] poisonvx: man i was ready to paly ez1 too
+[04:40:25] poisonvx: :(
+[04:40:30] BCraftMG: !mp settings
+[04:40:31] BanchoBot: Room name: STT3: (GeForce Inexperience) vs (osuintercourse), History: https://osu.ppy.sh/mp/101958717
+[04:40:31] BanchoBot: Beatmap: https://osu.ppy.sh/b/831443 BoxPlot - Escape With The Clouds
+[04:40:31] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[04:40:31] BanchoBot: Active mods: Freemod
+[04:40:31] BanchoBot: Players: 7
+[04:40:31] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12577108 woofus          [Team Red  / NoFail]
+[04:40:31] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19526504 Enjouji         [Team Red ]
+[04:40:31] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11093605 Neotopisch      [Team Red  / NoFail, Hidden]
+[04:40:31] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9367683 Phel            [Team Blue / NoFail, HardRock]
+[04:40:31] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/15984499 OurAngelYu      [Team Blue / NoFail]
+[04:40:31] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/9391047 poisonvx        [Team Blue / NoFail, Easy]
+[04:40:31] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/15171585 Retix           [Team Red  / NoFail, Hidden]
+[04:40:35] poisonvx: i wanted to play fm2 hrfl but it was too hard :(
+[04:40:37] Retix: I asked yu for reshedule but he is asian and ur all america
+[04:40:37] woofus: i was ready to get 20k on ez
+[04:40:40] BCraftMG: are we good yet
+[04:40:47] BCraftMG: !mp start 10
+[04:40:49] Retix: yes
+[04:40:49] BanchoBot: Match starts in 10 seconds
+[04:40:49] BanchoBot: Queued the match to start in 10 seconds
+[04:40:51] woofus: yee on our side
+[04:40:54] BanchoBot: Match starts in 5 seconds
+[04:40:56] BanchoBot: Match starts in 4 seconds
+[04:40:56] BanchoBot: Match starts in 3 seconds
+[04:40:58] BanchoBot: Good luck, have fun!
+[04:40:58] Enjouji: i think
+[04:41:00] BanchoBot: The match has started!
+[04:41:55] Neotopisch: DIDNT SEE IT
+[04:42:04] BCraftMG: what
+[04:47:24] BanchoBot: poisonvx finished playing (Score: 35849, PASSED).
+[04:47:24] BanchoBot: OurAngelYu finished playing (Score: 500338, PASSED).
+[04:47:24] BanchoBot: Retix finished playing (Score: 258432, PASSED).
+[04:47:24] BanchoBot: Phel finished playing (Score: 275340, PASSED).
+[04:47:24] BanchoBot: Enjouji finished playing (Score: 346030, PASSED).
+[04:47:26] BanchoBot: Neotopisch finished playing (Score: 275861, PASSED).
+[04:47:26] BanchoBot: woofus finished playing (Score: 247771, PASSED).
+[04:47:26] BanchoBot: The match has finished!
+[04:47:47] woofus: GGS <3 thanks for ref again craft
+[04:47:48] Neotopisch: forgot it myself
+[04:47:49] Enjouji: somehow forgot how to play my area
+[04:47:51] Enjouji: for a sec
+[04:47:53] Neotopisch: gg :D
+[04:47:55] BCraftMG: <3
+[04:48:00] BCraftMG: thanks for playing
+[04:48:01] BanchoBot: poisonvx left the game.
+[04:48:05] Enjouji: many thanks for rev
+[04:48:05] Retix: GG THX FOR REF
+[04:48:08] Phel: o/
+[04:48:10] BanchoBot: Retix left the game.
+[04:48:10] BanchoBot: OurAngelYu left the game.
+[04:48:12] BanchoBot: Phel left the game.
+[04:48:14] BanchoBot: woofus left the game.
+[04:48:18] Enjouji: good bye
+[04:48:18] Neotopisch: o/
+[04:48:20] BanchoBot: Neotopisch left the game.
+[04:48:22] BanchoBot: Enjouji left the game.
+[04:48:36] BCraftMG: !mp close
+[04:48:37] BanchoBot: Closed the match

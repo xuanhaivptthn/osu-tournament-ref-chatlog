@@ -1,0 +1,434 @@
+[20:54:34] Joined #mp_116281849
+[20:54:34] BCraftMG: !mp settings
+[20:54:35] BanchoBot: Room name: ALT: (siino_o) vs (anykit2005), History: https://osu.ppy.sh/mp/116281849
+[20:54:35] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[20:54:35] BanchoBot: Players: 0
+[20:54:52] BCraftMG: !mp invite #21971747
+[20:54:53] BanchoBot: Invited siino_o to the room
+[20:54:54] BCraftMG: !mp invite #6948765
+[20:54:54] BanchoBot: Invited anykit2005 to the room
+[20:54:56] BCraftMG: !mp set 0 3 3
+[20:54:57] BanchoBot: Changed match settings to 3 slots, HeadToHead, ScoreV2
+[20:55:07] BCraftMG: !mp make ALT: (bakapocket) vs (SiriusOnly)
+[20:55:10] BanchoBot: anykit2005 joined in slot 1.
+[20:55:22] BanchoBot: anykit2005 left the game.
+[20:55:29] BCraftMG: hi
+[20:57:06] BanchoBot: siino_o joined in slot 1.
+[20:59:46] BanchoBot: anykit2005 joined in slot 2.
+[20:59:58] anykit2005: hii
+[20:59:58] BCraftMG: o/
+[21:00:01] BCraftMG: warmup?
+[21:00:06] siino_o: o/
+[21:00:25] anykit2005: yes
+[21:00:35] siino_o: yes
+[21:01:58] BCraftMG: !mp host siino_o
+[21:01:58] BanchoBot: siino_o became the host.
+[21:01:58] BanchoBot: Changed match host to siino_o
+[21:02:01] BanchoBot: Beatmap changed to: Ricky Martin - Livin' La Vida Loca (Spanish Version) [Dificil] (https://osu.ppy.sh/b/2769843)
+[21:02:04] BanchoBot: Host is changing map...
+[21:03:04] BanchoBot: Beatmap changed to: DJ Mass MAD Izm* - SHAKUNETSU Pt.2 Long Train Running [Tourney ver.] (https://osu.ppy.sh/b/3834444)
+[21:03:28] BanchoBot: All players are ready
+[21:03:36] BanchoBot: All players are ready
+[21:03:39] BanchoBot: The match has started!
+[21:05:45] BanchoBot: siino_o finished playing (Score: 236441, PASSED).
+[21:05:45] BanchoBot: anykit2005 finished playing (Score: 142695, PASSED).
+[21:05:45] BanchoBot: The match has finished!
+[21:06:18] BanchoBot: anykit2005 became the host.
+[21:06:21] BanchoBot: Host is changing map...
+[21:07:20] BanchoBot: Beatmap changed to: MAN WITH A MISSION x milet - Kizuna no Kiseki [Mist] (https://osu.ppy.sh/b/4135239)
+[21:07:38] BanchoBot: All players are ready
+[21:07:43] BanchoBot: The match has started!
+[21:11:29] BanchoBot: siino_o finished playing (Score: 659138, PASSED).
+[21:11:30] BanchoBot: anykit2005 finished playing (Score: 477266, PASSED).
+[21:11:30] BanchoBot: The match has finished!
+[21:12:00] BCraftMG: !mp clearhost
+[21:12:02] BanchoBot: Cleared match host
+[21:12:02] BCraftMG: roll time
+[21:12:11] anykit2005: !roll
+[21:12:11] BanchoBot: anykit2005 rolls 45 point(s)
+[21:12:14] siino_o: !roll
+[21:12:14] BanchoBot: siino_o rolls 38 point(s)
+[21:12:26] BCraftMG: anykit choose pick or ban order
+[21:12:34] anykit2005: 2nd ban
+[21:12:43] BCraftMG: siino choose pick order
+[21:12:50] siino_o: 2nd pick
+[21:13:36] BCraftMG: siino ban
+[21:13:37] BCraftMG: !mp timer 90
+[21:13:39] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:14:05] siino_o: NM1
+[21:14:09] BanchoBot: Countdown ends in 1 minute
+[21:14:09] BCraftMG: anykit ban
+[21:14:10] BCraftMG: !mp timer 90
+[21:14:12] BanchoBot: Countdown aborted
+[21:14:12] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:14:15] anykit2005: hd1
+[21:14:30] BCraftMG: siino_o | 0 : 0 | anykit2005 // Next to pick: anykit2005
+[21:14:31] BCraftMG: !mp timer 90
+[21:14:33] BanchoBot: Countdown aborted
+[21:14:33] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:15:03] BanchoBot: Countdown ends in 1 minute
+[21:15:03] anykit2005: nm2
+[21:15:14] BCraftMG: !mp map 4378925 0
+[21:15:15] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4378925 t+pazolite & Punipuni Denki - deja vu
+[21:15:15] BanchoBot: Changed match mode to Osu
+[21:15:16] BCraftMG: !mp mods 1
+[21:15:16] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:15:17] BCraftMG: !mp timer 90
+[21:15:17] BanchoBot: Countdown aborted
+[21:15:17] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:15:34] BanchoBot: All players are ready
+[21:15:41] BCraftMG: !mp settings
+[21:15:42] BanchoBot: Room name: ALT: (siino_o) vs (anykit2005), History: https://osu.ppy.sh/mp/116281849
+[21:15:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/4378925 t+pazolite & Punipuni Denki - deja vu
+[21:15:42] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:15:42] BanchoBot: Active mods: NoFail
+[21:15:42] BanchoBot: Players: 2
+[21:15:42] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/21971747 siino_o         
+[21:15:42] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6948765 anykit2005      
+[21:15:43] BCraftMG: !mp start 5 glhf!
+[21:15:45] BanchoBot: Countdown aborted
+[21:15:45] BanchoBot: Match starts in 5 seconds
+[21:15:45] BanchoBot: Queued the match to start in 5 seconds
+[21:15:46] BanchoBot: Match starts in 4 seconds
+[21:15:47] BanchoBot: Match starts in 3 seconds
+[21:15:47] siino_o: glhf
+[21:15:48] BanchoBot: Good luck, have fun!
+[21:15:50] anykit2005: glhf
+[21:15:50] BanchoBot: The match has started!
+[21:18:19] BanchoBot: anykit2005 finished playing (Score: 496576, PASSED).
+[21:18:20] BanchoBot: siino_o finished playing (Score: 432136, PASSED).
+[21:18:20] BanchoBot: The match has finished!
+[21:18:37] BCraftMG: siino_o | 0 : 1 | anykit2005 // Next to pick: siino_o
+[21:18:38] BCraftMG: !mp timer 90
+[21:18:39] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:18:51] siino_o: MN4
+[21:19:10] BanchoBot: Countdown ends in 1 minute
+[21:19:34] BCraftMG: !mp map 3438131 0
+[21:19:35] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3438131 Giga - CH4NGE
+[21:19:35] BanchoBot: Changed match mode to Osu
+[21:19:37] BCraftMG: !mp mods 1
+[21:19:37] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:19:40] BanchoBot: Countdown ends in 30 seconds
+[21:19:40] BCraftMG: !mp timer 90
+[21:19:41] BanchoBot: Countdown aborted
+[21:19:41] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:19:51] BanchoBot: All players are ready
+[21:19:54] anykit2005: gl
+[21:19:55] BCraftMG: !mp settings
+[21:19:56] BanchoBot: Room name: ALT: (siino_o) vs (anykit2005), History: https://osu.ppy.sh/mp/116281849
+[21:19:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/3438131 Giga - CH4NGE
+[21:19:56] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:19:56] BanchoBot: Active mods: NoFail
+[21:19:56] BanchoBot: Players: 2
+[21:19:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/21971747 siino_o         
+[21:19:56] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6948765 anykit2005      
+[21:19:56] BCraftMG: !mp start 5 glhf!
+[21:19:57] BanchoBot: Countdown aborted
+[21:19:57] BanchoBot: Match starts in 5 seconds
+[21:19:57] BanchoBot: Queued the match to start in 5 seconds
+[21:19:58] BanchoBot: Match starts in 4 seconds
+[21:20:00] BanchoBot: Match starts in 3 seconds
+[21:20:01] BanchoBot: Good luck, have fun!
+[21:20:01] siino_o: glhf
+[21:20:02] BanchoBot: The match has started!
+[21:22:23] BanchoBot: siino_o finished playing (Score: 241867, PASSED).
+[21:22:25] BanchoBot: anykit2005 finished playing (Score: 308177, PASSED).
+[21:22:25] BanchoBot: The match has finished!
+[21:22:49] BCraftMG: siino_o | 0 : 2 | anykit2005 // Next to pick: anykit2005
+[21:22:51] BCraftMG: !mp timer 90
+[21:22:51] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:23:01] anykit2005: dt1
+[21:23:21] BCraftMG: !mp map 4503666 0
+[21:23:21] BanchoBot: Countdown ends in 1 minute
+[21:23:22] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4503666 Taylor Swift - You Belong With Me
+[21:23:22] BanchoBot: Changed match mode to Osu
+[21:23:23] BCraftMG: !mp mods 65
+[21:23:24] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:23:25] BCraftMG: !mp timer 90
+[21:23:25] BanchoBot: Countdown aborted
+[21:23:25] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:23:42] BanchoBot: All players are ready
+[21:23:45] BCraftMG: !mp settings
+[21:23:46] BanchoBot: Room name: ALT: (siino_o) vs (anykit2005), History: https://osu.ppy.sh/mp/116281849
+[21:23:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/4503666 Taylor Swift - You Belong With Me
+[21:23:46] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:23:46] BanchoBot: Active mods: NoFail, DoubleTime
+[21:23:46] BanchoBot: Players: 2
+[21:23:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/21971747 siino_o         
+[21:23:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6948765 anykit2005      
+[21:23:47] BCraftMG: !mp start 5 glhf!
+[21:23:48] BanchoBot: Countdown aborted
+[21:23:48] BanchoBot: Match starts in 5 seconds
+[21:23:48] BanchoBot: Queued the match to start in 5 seconds
+[21:23:49] BanchoBot: Match starts in 4 seconds
+[21:23:50] BanchoBot: Match starts in 3 seconds
+[21:23:50] siino_o: glhf
+[21:23:52] BanchoBot: Good luck, have fun!
+[21:23:53] BanchoBot: The match has started!
+[21:26:34] BanchoBot: anykit2005 finished playing (Score: 652438, PASSED).
+[21:26:34] BanchoBot: siino_o finished playing (Score: 419008, PASSED).
+[21:26:34] BanchoBot: The match has finished!
+[21:26:47] BCraftMG: siino_o | 0 : 3 | anykit2005 // Next to pick: siino_o
+[21:26:48] BCraftMG: !mp timer 90
+[21:26:48] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:27:19] BanchoBot: Countdown ends in 1 minute
+[21:27:49] BanchoBot: Countdown ends in 30 seconds
+[21:28:00] siino_o: HD2
+[21:28:09] BanchoBot: Countdown ends in 10 seconds
+[21:28:14] BanchoBot: Countdown ends in 5 seconds
+[21:28:16] BanchoBot: Countdown ends in 4 seconds
+[21:28:16] BanchoBot: Countdown ends in 3 seconds
+[21:28:17] BanchoBot: Countdown ends in 2 seconds
+[21:28:18] BanchoBot: Countdown ends in 1 second
+[21:28:20] BanchoBot: Countdown finished
+[21:28:20] BCraftMG: !mp map 1932450 0
+[21:28:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1932450 PartyfrieX Ft. Schorre Chef - Ik Moet Zuipen
+[21:28:21] BanchoBot: Changed match mode to Osu
+[21:28:23] BCraftMG: !mp mods 9
+[21:28:24] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:28:25] BCraftMG: !mp timer 90
+[21:28:25] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:28:37] BanchoBot: All players are ready
+[21:28:41] BCraftMG: !mp settings
+[21:28:43] anykit2005: glhf
+[21:28:43] BanchoBot: Room name: ALT: (siino_o) vs (anykit2005), History: https://osu.ppy.sh/mp/116281849
+[21:28:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/1932450 PartyfrieX Ft. Schorre Chef - Ik Moet Zuipen
+[21:28:43] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:28:43] BanchoBot: Active mods: NoFail, Hidden
+[21:28:43] BanchoBot: Players: 2
+[21:28:43] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/21971747 siino_o         
+[21:28:43] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6948765 anykit2005      
+[21:28:44] BCraftMG: !mp start 5 glhf!
+[21:28:45] BanchoBot: Countdown aborted
+[21:28:45] BanchoBot: Match starts in 5 seconds
+[21:28:45] BanchoBot: Queued the match to start in 5 seconds
+[21:28:46] BanchoBot: Match starts in 4 seconds
+[21:28:48] BanchoBot: Match starts in 3 seconds
+[21:28:49] BanchoBot: Good luck, have fun!
+[21:28:49] siino_o: glhf
+[21:28:50] BanchoBot: The match has started!
+[21:32:18] BanchoBot: siino_o finished playing (Score: 520242, PASSED).
+[21:32:19] BanchoBot: anykit2005 finished playing (Score: 351510, PASSED).
+[21:32:19] BanchoBot: The match has finished!
+[21:32:35] BCraftMG: siino_o | 1 : 3 | anykit2005 // Next to pick: anykit2005
+[21:32:37] BCraftMG: !mp timer 90
+[21:32:38] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:32:47] anykit2005: hr2
+[21:33:08] BanchoBot: Countdown ends in 1 minute
+[21:33:16] BCraftMG: !mp map 3699296 0
+[21:33:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3699296 inabakumori - Tokoshizume
+[21:33:17] BanchoBot: Changed match mode to Osu
+[21:33:17] BCraftMG: !mp mods 17
+[21:33:18] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[21:33:39] BanchoBot: Countdown ends in 30 seconds
+[21:33:47] BanchoBot: All players are ready
+[21:33:59] BanchoBot: Countdown ends in 10 seconds
+[21:34:04] BanchoBot: Countdown ends in 5 seconds
+[21:34:04] BanchoBot: Countdown ends in 4 seconds
+[21:34:06] BanchoBot: Countdown ends in 3 seconds
+[21:34:07] BanchoBot: Countdown ends in 2 seconds
+[21:34:07] siino_o: glhf
+[21:34:08] BanchoBot: Countdown ends in 1 second
+[21:34:08] BanchoBot: Countdown finished
+[21:34:13] BCraftMG: !mp settings
+[21:34:14] BanchoBot: Room name: ALT: (siino_o) vs (anykit2005), History: https://osu.ppy.sh/mp/116281849
+[21:34:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/3699296 inabakumori - Tokoshizume
+[21:34:14] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:34:14] BanchoBot: Active mods: NoFail, HardRock
+[21:34:14] BanchoBot: Players: 2
+[21:34:14] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/21971747 siino_o         
+[21:34:14] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6948765 anykit2005      
+[21:34:14] BCraftMG: !mp start 5 glhf!
+[21:34:15] BanchoBot: Match starts in 5 seconds
+[21:34:15] BanchoBot: Queued the match to start in 5 seconds
+[21:34:16] BanchoBot: Match starts in 4 seconds
+[21:34:17] BanchoBot: Match starts in 3 seconds
+[21:34:19] BanchoBot: Good luck, have fun!
+[21:34:19] anykit2005: hfhf
+[21:34:20] BanchoBot: The match has started!
+[21:36:47] BanchoBot: siino_o finished playing (Score: 386404, PASSED).
+[21:36:47] BanchoBot: anykit2005 finished playing (Score: 327839, PASSED).
+[21:36:47] BanchoBot: The match has finished!
+[21:37:13] BCraftMG: siino_o | 2 : 3 | anykit2005 // Next to pick: siino_o
+[21:37:14] BCraftMG: !mp timer 90
+[21:37:14] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:37:45] BanchoBot: Countdown ends in 1 minute
+[21:37:53] siino_o: NM3
+[21:38:15] BanchoBot: Countdown ends in 30 seconds
+[21:38:35] BanchoBot: Countdown ends in 10 seconds
+[21:38:40] BanchoBot: Countdown ends in 5 seconds
+[21:38:40] BanchoBot: Countdown ends in 4 seconds
+[21:38:42] BanchoBot: Countdown ends in 3 seconds
+[21:38:43] BanchoBot: Countdown ends in 2 seconds
+[21:38:44] BanchoBot: Countdown ends in 1 second
+[21:38:44] BanchoBot: Countdown finished
+[21:39:06] BCraftMG: !mp map 3589968 0
+[21:39:07] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3589968 Omoinotake - EVERBLUE
+[21:39:07] BanchoBot: Changed match mode to Osu
+[21:39:09] BCraftMG: !mp mods 1
+[21:39:10] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:39:11] BCraftMG: !mp timer 90
+[21:39:12] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:39:21] BanchoBot: All players are ready
+[21:39:31] BCraftMG: !mp settings
+[21:39:32] BanchoBot: Room name: ALT: (siino_o) vs (anykit2005), History: https://osu.ppy.sh/mp/116281849
+[21:39:32] BanchoBot: Beatmap: https://osu.ppy.sh/b/3589968 Omoinotake - EVERBLUE
+[21:39:32] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:39:32] BanchoBot: Active mods: NoFail
+[21:39:32] BanchoBot: Players: 2
+[21:39:32] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/21971747 siino_o         
+[21:39:32] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6948765 anykit2005      
+[21:39:34] BCraftMG: !mp start 5 glhf!
+[21:39:35] BanchoBot: Countdown aborted
+[21:39:35] BanchoBot: Match starts in 5 seconds
+[21:39:35] BanchoBot: Queued the match to start in 5 seconds
+[21:39:36] BanchoBot: Match starts in 4 seconds
+[21:39:38] BanchoBot: Match starts in 3 seconds
+[21:39:38] siino_o: glhf
+[21:39:39] BanchoBot: Good luck, have fun!
+[21:39:40] BanchoBot: The match has started!
+[21:39:42] anykit2005: gl
+[21:43:45] BanchoBot: anykit2005 finished playing (Score: 393353, PASSED).
+[21:43:45] BanchoBot: siino_o finished playing (Score: 461494, PASSED).
+[21:43:45] BanchoBot: The match has finished!
+[21:43:57] BCraftMG: siino_o | 3 : 3 | anykit2005 // Next to pick: anykit2005
+[21:44:00] BCraftMG: !mp timer 90
+[21:44:01] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:44:32] BanchoBot: Countdown ends in 1 minute
+[21:44:39] anykit2005: dt2
+[21:44:48] BCraftMG: !mp map 1919109 0
+[21:44:48] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1919109 Amatsuki - Hoshi no Komoriuta
+[21:44:48] BanchoBot: Changed match mode to Osu
+[21:44:50] BCraftMG: !Mp mods 65
+[21:44:51] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:44:51] BCraftMG: !mp timer 90
+[21:44:52] BanchoBot: Countdown aborted
+[21:44:52] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:45:23] BanchoBot: Countdown ends in 1 minute
+[21:45:25] anykit2005: oh it dt2 ..i mistake lol
+[21:45:37] BCraftMG: dx
+[21:45:40] BanchoBot: All players are ready
+[21:45:42] BCraftMG: !mp settings
+[21:45:44] BanchoBot: Room name: ALT: (siino_o) vs (anykit2005), History: https://osu.ppy.sh/mp/116281849
+[21:45:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/1919109 Amatsuki - Hoshi no Komoriuta
+[21:45:44] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:45:44] BanchoBot: Active mods: NoFail, DoubleTime
+[21:45:44] BanchoBot: Players: 2
+[21:45:44] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/21971747 siino_o         
+[21:45:44] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6948765 anykit2005      
+[21:45:44] BCraftMG: !mp start 5 glhf!
+[21:45:45] anykit2005: i think it was dt3
+[21:45:45] BanchoBot: Countdown aborted
+[21:45:45] BanchoBot: Match starts in 5 seconds
+[21:45:45] BanchoBot: Queued the match to start in 5 seconds
+[21:45:46] BanchoBot: Match starts in 4 seconds
+[21:45:48] BanchoBot: Match starts in 3 seconds
+[21:45:49] BanchoBot: Good luck, have fun!
+[21:45:49] siino_o: glhf
+[21:45:50] BanchoBot: The match has started!
+[21:45:50] anykit2005: gl
+[21:48:49] BanchoBot: siino_o finished playing (Score: 653814, PASSED).
+[21:48:49] BanchoBot: anykit2005 finished playing (Score: 737899, PASSED).
+[21:48:49] BanchoBot: The match has finished!
+[21:49:03] BCraftMG: siino_o | 3 : 4 | anykit2005 // Next to pick: siino_o
+[21:49:04] BCraftMG: !mp timer 90
+[21:49:06] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:49:37] BanchoBot: Countdown ends in 1 minute
+[21:49:49] siino_o: can i leave for 30 seconds
+[21:49:51] siino_o: lobby
+[21:49:55] BanchoBot: siino_o left the game.
+[21:50:06] BanchoBot: Countdown ends in 30 seconds
+[21:50:08] BanchoBot: siino_o joined in slot 1.
+[21:50:17] BCraftMG: that was not 30s ya banned
+[21:50:26] BanchoBot: Countdown ends in 10 seconds
+[21:50:29] siino_o: HR1
+[21:50:32] BanchoBot: Countdown ends in 5 seconds
+[21:50:32] BanchoBot: Countdown ends in 4 seconds
+[21:50:33] BanchoBot: Countdown ends in 3 seconds
+[21:50:35] BanchoBot: Countdown ends in 2 seconds
+[21:50:36] BanchoBot: Countdown ends in 1 second
+[21:50:36] BanchoBot: Countdown finished
+[21:50:40] BCraftMG: !mp map 2544837 0
+[21:50:40] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2544837 Kawada Mami - Serment
+[21:50:40] BanchoBot: Changed match mode to Osu
+[21:50:44] BCraftMG: !mp mods 17
+[21:50:44] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[21:50:49] BCraftMG: !mp timer 90
+[21:50:49] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:51:00] BanchoBot: All players are ready
+[21:51:08] anykit2005: glhff
+[21:51:09] BCraftMG: !mp settings
+[21:51:10] BanchoBot: Room name: ALT: (siino_o) vs (anykit2005), History: https://osu.ppy.sh/mp/116281849
+[21:51:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/2544837 Kawada Mami - Serment
+[21:51:10] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:51:10] BanchoBot: Active mods: NoFail, HardRock
+[21:51:10] BanchoBot: Players: 2
+[21:51:10] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/21971747 siino_o         
+[21:51:10] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6948765 anykit2005      
+[21:51:10] BCraftMG: !mp start 5 glhf!
+[21:51:11] siino_o: glhf
+[21:51:11] BanchoBot: Countdown aborted
+[21:51:11] BanchoBot: Match starts in 5 seconds
+[21:51:11] BanchoBot: Queued the match to start in 5 seconds
+[21:51:12] BanchoBot: Match starts in 4 seconds
+[21:51:14] BanchoBot: Match starts in 3 seconds
+[21:51:15] BanchoBot: Good luck, have fun!
+[21:51:16] BanchoBot: The match has started!
+[21:55:32] BanchoBot: siino_o finished playing (Score: 730988, PASSED).
+[21:55:32] BanchoBot: anykit2005 finished playing (Score: 557077, PASSED).
+[21:55:32] BanchoBot: The match has finished!
+[21:55:52] BCraftMG: !mp map 3184335 0
+[21:55:53] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3184335 Wagakki Band - Tengaku
+[21:55:53] BanchoBot: Changed match mode to Osu
+[21:55:54] BCraftMG: !mp mods Freemod
+[21:55:55] BanchoBot: Disabled all mods, enabled FreeMod
+[21:55:57] BCraftMG: :peepostare:
+[21:56:11] BCraftMG: !mp timer 90
+[21:56:31] anykit2005: :0
+[21:56:52] BanchoBot: All players are ready
+[21:57:07] BCraftMG: !mp settings
+[21:57:08] BanchoBot: Room name: ALT: (siino_o) vs (anykit2005), History: https://osu.ppy.sh/mp/116281849
+[21:57:08] BanchoBot: Beatmap: https://osu.ppy.sh/b/3184335 Wagakki Band - Tengaku
+[21:57:08] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:57:08] BanchoBot: Active mods: Freemod
+[21:57:08] BanchoBot: Players: 2
+[21:57:08] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/21971747 siino_o         [NoFail]
+[21:57:08] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6948765 anykit2005      [NoFail]
+[21:57:10] BCraftMG: !mp start 5 glhf!
+[21:57:11] siino_o: glhf
+[21:57:11] BanchoBot: Match starts in 5 seconds
+[21:57:11] BanchoBot: Queued the match to start in 5 seconds
+[21:57:12] BanchoBot: Match starts in 4 seconds
+[21:57:14] anykit2005: glhf
+[21:57:14] BanchoBot: Match starts in 3 seconds
+[21:57:15] BanchoBot: Good luck, have fun!
+[21:57:16] BanchoBot: The match has started!
+[22:02:27] BanchoBot: siino_o finished playing (Score: 298565, PASSED).
+[22:02:27] BanchoBot: anykit2005 finished playing (Score: 298737, PASSED).
+[22:02:27] BanchoBot: The match has finished!
+[22:02:36] anykit2005: ???????????
+[22:02:44] BCraftMG: holy
+[22:02:47] siino_o: wtf
+[22:02:53] BCraftMG: but uh yea anykit won
+[22:02:54] anykit2005: what ..co close
+[22:03:01] siino_o: ggwp
+[22:03:05] anykit2005: ggs
+[22:03:06] BCraftMG: 172 difference
+[22:03:21] siino_o: was so fun
+[22:03:25] anykit2005: this match was cool
+[22:03:38] anykit2005: yeah you doing so well close match
+[22:03:44] siino_o: mutual?
+[22:04:20] anykit2005: thx for ref
+[22:04:35] siino_o: thanks for ref
+[22:04:38] BCraftMG: :3c
+[22:04:42] BCraftMG: ggwp
+[22:05:03] siino_o: anykit mutual?
+[22:05:14] anykit2005: sry what mean mutual
+[22:05:25] siino_o: to be friend
+[22:05:30] anykit2005: oh sure
+[22:05:42] siino_o: thx!
+[22:05:59] siino_o: o/
+[22:06:00] BanchoBot: siino_o left the game.
+[22:06:04] BanchoBot: anykit2005 left the game.
+[22:06:12] BCraftMG: !mp close
+[22:06:12] BanchoBot: Closed the match

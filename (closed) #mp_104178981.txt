@@ -1,0 +1,739 @@
+[20:48:39] Joined #mp_104178981
+[20:48:39] BCraftMG: !mp settings
+[20:48:41] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SUN-4), History: https://osu.ppy.sh/mp/104178981
+[20:48:41] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[20:48:41] BanchoBot: Players: 0
+[20:48:46] BCraftMG: !mp set 0 3 8
+[20:48:48] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[20:49:06] BCraftMG: !mp invite #3389195
+[20:49:08] BanchoBot: Invited Leiv to the room
+[20:49:08] BCraftMG: !mp size 12
+[20:49:10] BanchoBot: Changed match to size 12
+[20:49:12] BCraftMG: !mp invite #1487263
+[20:49:15] BanchoBot: Invited Mayukaki to the room
+[20:49:16] BCraftMG: !mp invite #19249761
+[20:49:17] BanchoBot: Invited zelko123 to the room
+[20:49:21] BCraftMG: !mp invite #13386011
+[20:49:22] BanchoBot: Invited - Maestro - to the room
+[20:49:24] BCraftMG: !mp invite #14783137
+[20:49:26] BanchoBot: User not found
+[20:49:27] BCraftMG: !mp invite #14065788
+[20:49:28] BanchoBot: Invited PolKet to the room
+[20:49:31] BCraftMG: !mp invite #17144093
+[20:49:33] BanchoBot: User not found
+[20:49:40] BCraftMG: !mp invite #11294169
+[20:49:42] BanchoBot: Invited Minhatou to the room
+[20:49:42] BCraftMG: !mp invite #6673790
+[20:49:44] BanchoBot: Invited Tuon to the room
+[20:50:11] BanchoBot: Leiv joined in slot 1.
+[20:50:17] BanchoBot: Mayukaki joined in slot 2.
+[20:50:20] Leiv: som the
+[20:50:34] BCraftMG: inv sớm cho đỡ bancho moment
+[20:50:56] Mayukaki: reset may ti :p ti inv lai phat
+[20:50:56] BanchoBot: Mayukaki left the game.
+[20:51:26] BCraftMG: !mp map 2430049 0
+[20:51:28] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2430049 ZAQ - Seven Doors
+[20:51:28] BanchoBot: Changed match mode to Osu
+[20:51:29] BCraftMG: !mp mods 1
+[20:51:30] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:55:32] BCraftMG: !mp invite Mayukaki
+[20:55:34] BanchoBot: Invited Mayukaki to the room
+[20:55:45] BanchoBot: Mayukaki joined in slot 2.
+[20:55:58] BCraftMG: !mp invite #3389195
+[20:55:58] BanchoBot: User is already in the room
+[20:56:01] BCraftMG: !mp invite #1487263
+[20:56:03] BanchoBot: User is already in the room
+[20:56:03] BCraftMG: !mp invite #19249761
+[20:56:05] BanchoBot: Invited zelko123 to the room
+[20:56:06] BCraftMG: !mp invite #13386011
+[20:56:07] BanchoBot: Invited - Maestro - to the room
+[20:56:12] BCraftMG: !mp invite #14783137
+[20:56:14] BanchoBot: Invited Kriatix to the room
+[20:56:16] BCraftMG: !mp invite #14065788
+[20:56:18] BanchoBot: Invited PolKet to the room
+[20:56:19] BCraftMG: !mp invite #17144093
+[20:56:20] BanchoBot: User not found
+[20:56:24] BCraftMG: !mp invite #11294169
+[20:56:25] BanchoBot: Invited Minhatou to the room
+[20:56:28] BCraftMG: !mp invite #6673790
+[20:56:29] BanchoBot: Invited Tuon to the room
+[20:57:00] BCraftMG: omg
+[20:58:39] BCraftMG: !mp invite #19249761
+[20:58:40] BanchoBot: Invited zelko123 to the room
+[20:58:42] BanchoBot: Kriatix joined in slot 3.
+[20:58:46] BCraftMG: !mp invite #3389195
+[20:58:47] Leiv: chet ngay
+[20:58:49] BanchoBot: User is already in the room
+[20:58:51] Kriatix: o/
+[20:58:53] BanchoBot: zelko123 joined in slot 4.
+[20:58:54] BCraftMG: !mp invite #1487263
+[20:58:56] BanchoBot: User is already in the room
+[20:59:00] BCraftMG: !mp invite #19249761
+[20:59:02] BanchoBot: User is already in the room
+[20:59:08] BCraftMG: !mp invite #13386011
+[20:59:09] BanchoBot: Invited - Maestro - to the room
+[20:59:14] BCraftMG: !mp invite #14783137
+[20:59:16] BanchoBot: User is already in the room
+[20:59:24] BCraftMG: !mp invite #14065788
+[20:59:25] BanchoBot: Invited PolKet to the room
+[20:59:29] BCraftMG: !mp invite #17144093
+[20:59:32] BanchoBot: User not found
+[20:59:36] BCraftMG: !mp invite #11294169
+[20:59:38] BanchoBot: Invited Minhatou to the room
+[21:00:35] BCraftMG: 4
+[21:00:37] BCraftMG: !mp settings
+[21:00:39] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SUN-4), History: https://osu.ppy.sh/mp/104178981
+[21:00:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/2430049 ZAQ - Seven Doors
+[21:00:39] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:00:39] BanchoBot: Active mods: NoFail
+[21:00:39] BanchoBot: Players: 4
+[21:00:39] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3389195 Leiv            
+[21:00:39] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/1487263 Mayukaki        
+[21:00:39] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/14783137 Kriatix         
+[21:00:39] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/19249761 zelko123        
+[21:00:46] BanchoBot: Tuon joined in slot 5.
+[21:00:55] BanchoBot: Tuon moved to slot 12
+[21:01:29] BCraftMG: !mp invite Polket
+[21:01:30] BanchoBot: Invited PolKet to the room
+[21:01:32] BanchoBot: zelko123 moved to slot 8
+[21:01:35] BanchoBot: Leiv moved to slot 11
+[21:01:39] BanchoBot: Kriatix moved to slot 4
+[21:01:42] BanchoBot: Kriatix moved to slot 6
+[21:01:42] BanchoBot: Kriatix moved to slot 7
+[21:01:42] BanchoBot: Kriatix moved to slot 5
+[21:01:42] BanchoBot: Kriatix moved to slot 4
+[21:01:44] BanchoBot: Kriatix moved to slot 5
+[21:01:44] BanchoBot: zelko123 moved to slot 7
+[21:01:44] BanchoBot: Kriatix moved to slot 6
+[21:01:44] BanchoBot: zelko123 moved to slot 8
+[21:01:46] BanchoBot: Kriatix moved to slot 5
+[21:01:46] BanchoBot: zelko123 moved to slot 7
+[21:01:46] BanchoBot: Kriatix moved to slot 4
+[21:01:46] BanchoBot: Kriatix moved to slot 3
+[21:01:46] BanchoBot: Kriatix moved to slot 5
+[21:01:46] BanchoBot: Kriatix moved to slot 6
+[21:01:49] BanchoBot: zelko123 moved to slot 8
+[21:01:49] BanchoBot: zelko123 moved to slot 5
+[21:01:49] BanchoBot: Kriatix moved to slot 4
+[21:01:49] BanchoBot: Kriatix moved to slot 3
+[21:01:51] BanchoBot: Kriatix moved to slot 6
+[21:01:51] BanchoBot: zelko123 moved to slot 7
+[21:01:51] BanchoBot: Kriatix moved to slot 4
+[21:01:53] BanchoBot: Kriatix moved to slot 5
+[21:01:53] BanchoBot: Kriatix moved to slot 6
+[21:01:53] BanchoBot: Kriatix moved to slot 5
+[21:01:53] BanchoBot: Kriatix moved to slot 4
+[21:01:54] BCraftMG: !mp invite #14065788
+[21:01:56] BanchoBot: Kriatix moved to slot 6
+[21:01:56] BanchoBot: Kriatix moved to slot 3
+[21:01:56] BanchoBot: Kriatix moved to slot 5
+[21:01:56] BanchoBot: Invited PolKet to the room
+[21:01:57] BanchoBot: zelko123 moved to slot 8
+[21:02:00] BanchoBot: Kriatix moved to slot 7
+[21:02:00] BanchoBot: Kriatix moved to slot 3
+[21:02:09] BCraftMG: !mp invite #13386011
+[21:02:11] BanchoBot: Invited - Maestro - to the room
+[21:02:13] BanchoBot: All players are ready
+[21:02:20] BanchoBot: Kriatix moved to slot 6
+[21:02:20] BanchoBot: Kriatix moved to slot 5
+[21:02:22] BanchoBot: - Maestro - joined in slot 1.
+[21:02:22] BanchoBot: Kriatix moved to slot 3
+[21:02:39] BCraftMG: !mp invite #11294169
+[21:02:40] BanchoBot: PolKet joined in slot 4.
+[21:02:40] BanchoBot: Invited Minhatou to the room
+[21:02:45] BCraftMG: !mp invite #14065788
+[21:02:47] BanchoBot: User is already in the room
+[21:02:50] BCraftMG: !mp invite #17144093
+[21:02:51] BanchoBot: User not found
+[21:03:44] BCraftMG: !mp invite #11294169
+[21:03:45] BCraftMG: !mp invite #11294169
+[21:03:45] BCraftMG: !mp invite #11294169!mp invite #11294169
+[21:03:47] BanchoBot: Invited Minhatou to the room
+[21:03:49] BanchoBot: User not found
+[21:03:52] BanchoBot: Minhatou joined in slot 5.
+[21:03:55] BCraftMG: arghhhhhhhhhhhhhhh
+[21:04:01] BCraftMG: !mp settings
+[21:04:01] BanchoBot: zelko123 moved to slot 6
+[21:04:03] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SUN-4), History: https://osu.ppy.sh/mp/104178981
+[21:04:03] BanchoBot: Beatmap: https://osu.ppy.sh/b/2430049 ZAQ - Seven Doors
+[21:04:03] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:04:03] BanchoBot: Active mods: NoFail
+[21:04:03] BanchoBot: Players: 8
+[21:04:03] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13386011 - Maestro -     
+[21:04:03] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/1487263 Mayukaki        
+[21:04:03] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/14783137 Kriatix         
+[21:04:03] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14065788 PolKet          
+[21:04:03] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11294169 Minhatou        
+[21:04:03] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/19249761 zelko123        
+[21:04:03] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/3389195 Leiv            
+[21:04:03] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/6673790 Tuon            
+[21:04:19] BanchoBot: All players are ready
+[21:04:21] BCraftMG: được rùi ready thoi
+[21:04:22] BCraftMG: !mp settings
+[21:04:25] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SUN-4), History: https://osu.ppy.sh/mp/104178981
+[21:04:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/2430049 ZAQ - Seven Doors
+[21:04:25] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:04:25] BanchoBot: Active mods: NoFail
+[21:04:25] BanchoBot: Players: 8
+[21:04:25] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13386011 - Maestro -     
+[21:04:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/1487263 Mayukaki        
+[21:04:26] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[21:04:26] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14065788 PolKet          
+[21:04:26] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11294169 Minhatou        
+[21:04:26] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/19249761 zelko123        
+[21:04:26] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/3389195 Leiv            
+[21:04:26] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/6673790 Tuon            
+[21:04:27] BCraftMG: !mp start 5 glhf
+[21:04:28] BanchoBot: Match starts in 5 seconds
+[21:04:28] BanchoBot: Queued the match to start in 5 seconds
+[21:04:30] BanchoBot: Match starts in 4 seconds
+[21:04:30] BanchoBot: Match starts in 3 seconds
+[21:04:32] Leiv: golf
+[21:04:32] BanchoBot: Good luck, have fun!
+[21:04:34] BanchoBot: The match has started!
+[21:04:34] Kriatix: gl
+[21:08:38] BanchoBot: Mayukaki finished playing (Score: 147554, PASSED).
+[21:08:38] BanchoBot: - Maestro - finished playing (Score: 270731, PASSED).
+[21:08:38] BanchoBot: Leiv finished playing (Score: 766667, PASSED).
+[21:08:38] BanchoBot: PolKet finished playing (Score: 96687, PASSED).
+[21:08:38] BanchoBot: Kriatix finished playing (Score: 366001, PASSED).
+[21:08:38] BanchoBot: zelko123 finished playing (Score: 204594, PASSED).
+[21:08:40] BanchoBot: Minhatou finished playing (Score: 330215, PASSED).
+[21:08:40] BanchoBot: Tuon finished playing (Score: 404280, PASSED).
+[21:08:40] BanchoBot: The match has finished!
+[21:08:49] BCraftMG: !mp map 2772466 0
+[21:08:51] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2772466 m108 - * Crow Solace *
+[21:08:51] BanchoBot: Changed match mode to Osu
+[21:08:52] BCraftMG: !mp timer 120
+[21:08:53] BanchoBot: Countdown ends in 2 minutes
+[21:09:09] Kriatix: worm map
+[21:09:11] Kriatix: monka
+[21:09:15] -_Maestro_-: monkaS
+[21:09:53] BanchoBot: Countdown ends in 1 minute
+[21:09:55] BCraftMG: dont overworming
+[21:10:14] Kriatix: :tf:
+[21:10:16] Leiv: omg he's overworming 188bpm
+[21:10:16] BanchoBot: All players are ready
+[21:10:19] BCraftMG: !mp settings
+[21:10:20] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SUN-4), History: https://osu.ppy.sh/mp/104178981
+[21:10:21] BanchoBot: Beatmap: https://osu.ppy.sh/b/2772466 m108 - * Crow Solace *
+[21:10:21] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:10:21] BanchoBot: Active mods: NoFail
+[21:10:21] BanchoBot: Players: 8
+[21:10:21] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13386011 - Maestro -     
+[21:10:21] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/1487263 Mayukaki        
+[21:10:21] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[21:10:21] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14065788 PolKet          
+[21:10:21] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11294169 Minhatou        
+[21:10:21] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/19249761 zelko123        
+[21:10:21] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/3389195 Leiv            
+[21:10:21] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/6673790 Tuon            
+[21:10:23] BCraftMG: !mp start 5 glhf
+[21:10:25] BanchoBot: Countdown ends in 30 seconds
+[21:10:25] BanchoBot: Countdown aborted
+[21:10:25] BanchoBot: Match starts in 5 seconds
+[21:10:25] BanchoBot: Queued the match to start in 5 seconds
+[21:10:27] BanchoBot: Match starts in 4 seconds
+[21:10:27] BanchoBot: Match starts in 3 seconds
+[21:10:30] BanchoBot: Good luck, have fun!
+[21:10:32] BanchoBot: The match has started!
+[21:10:32] Leiv: hf
+[21:12:42] BanchoBot: Minhatou finished playing (Score: 269535, PASSED).
+[21:12:42] BanchoBot: zelko123 finished playing (Score: 163074, PASSED).
+[21:12:42] BanchoBot: - Maestro - finished playing (Score: 237101, PASSED).
+[21:12:42] BanchoBot: Kriatix finished playing (Score: 601690, PASSED).
+[21:12:42] BanchoBot: PolKet finished playing (Score: 48703, PASSED).
+[21:12:42] BanchoBot: Mayukaki finished playing (Score: 82462, PASSED).
+[21:12:44] BanchoBot: Tuon finished playing (Score: 943367, PASSED).
+[21:12:47] BanchoBot: Leiv finished playing (Score: 429156, PASSED).
+[21:12:47] BanchoBot: The match has finished!
+[21:13:00] Kriatix: woa
+[21:13:00] Kriatix: fc
+[21:13:02] BCraftMG: !mp map 2593243 0
+[21:13:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2593243 DUSTCELL - Anemone
+[21:13:02] BanchoBot: Changed match mode to Osu
+[21:13:04] BCraftMG: !mp timer 120
+[21:13:04] BanchoBot: Countdown ends in 2 minutes
+[21:13:41] BanchoBot: All players are ready
+[21:13:49] BCraftMG: !mp settings
+[21:13:50] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SUN-4), History: https://osu.ppy.sh/mp/104178981
+[21:13:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/2593243 DUSTCELL - Anemone
+[21:13:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:13:50] BanchoBot: Active mods: NoFail
+[21:13:50] BanchoBot: Players: 8
+[21:13:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13386011 - Maestro -     
+[21:13:50] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/1487263 Mayukaki        
+[21:13:50] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[21:13:50] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14065788 PolKet          
+[21:13:50] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11294169 Minhatou        
+[21:13:50] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/19249761 zelko123        
+[21:13:50] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/3389195 Leiv            
+[21:13:50] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/6673790 Tuon            
+[21:13:52] BCraftMG: !mp start 5 glhf
+[21:13:54] BanchoBot: Countdown aborted
+[21:13:54] BanchoBot: Match starts in 5 seconds
+[21:13:54] BanchoBot: Queued the match to start in 5 seconds
+[21:13:56] BanchoBot: - Maestro - left the game.
+[21:13:56] BanchoBot: Match starts in 4 seconds
+[21:13:56] BanchoBot: Match starts in 3 seconds
+[21:13:59] BanchoBot: Good luck, have fun!
+[21:13:59] BanchoBot: The match has started!
+[21:14:00] BCraftMG: !mp abort
+[21:14:01] BanchoBot: - Maestro - joined in slot 1.
+[21:14:01] BanchoBot: Aborted the match
+[21:14:05] -_Maestro_-: wait what
+[21:14:10] Leiv: you good?
+[21:14:10] -_Maestro_-: sao toi bi out
+[21:14:26] Tuon: ref yêu đấy
+[21:14:26] -_Maestro_-: still good
+[21:14:35] Tuon: !mp kick in another chat
+[21:14:35] Tuon: :)
+[21:14:35] BCraftMG: <3
+[21:14:41] BanchoBot: All players are ready
+[21:14:41] -_Maestro_-: man
+[21:14:45] BCraftMG: !mp settings
+[21:14:46] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SUN-4), History: https://osu.ppy.sh/mp/104178981
+[21:14:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/2593243 DUSTCELL - Anemone
+[21:14:46] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:14:46] BanchoBot: Active mods: NoFail
+[21:14:46] BanchoBot: Players: 8
+[21:14:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13386011 - Maestro -     
+[21:14:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/1487263 Mayukaki        
+[21:14:46] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[21:14:46] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14065788 PolKet          
+[21:14:46] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11294169 Minhatou        
+[21:14:46] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/19249761 zelko123        
+[21:14:46] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/3389195 Leiv            
+[21:14:46] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/6673790 Tuon            
+[21:14:47] BCraftMG: !mp start 5 glhf
+[21:14:48] BanchoBot: Match starts in 5 seconds
+[21:14:48] BanchoBot: Queued the match to start in 5 seconds
+[21:14:50] BanchoBot: Match starts in 4 seconds
+[21:14:50] BanchoBot: Match starts in 3 seconds
+[21:14:53] BanchoBot: Good luck, have fun!
+[21:14:53] -_Maestro_-: gl
+[21:14:55] BanchoBot: The match has started!
+[21:18:08] BanchoBot: - Maestro - finished playing (Score: 175892, PASSED).
+[21:18:08] BanchoBot: Mayukaki finished playing (Score: 56246, PASSED).
+[21:18:08] BanchoBot: zelko123 finished playing (Score: 75225, PASSED).
+[21:18:10] BanchoBot: Leiv finished playing (Score: 252623, PASSED).
+[21:18:10] BanchoBot: Kriatix finished playing (Score: 319012, PASSED).
+[21:18:10] BanchoBot: Tuon finished playing (Score: 201991, PASSED).
+[21:18:10] BanchoBot: Minhatou finished playing (Score: 125484, PASSED).
+[21:18:10] BanchoBot: PolKet finished playing (Score: 34945, PASSED).
+[21:18:10] BanchoBot: The match has finished!
+[21:18:23] BCraftMG: !mp map 2975107 0
+[21:18:24] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2975107 PSYQUI - OYASUMI in my dream
+[21:18:24] BanchoBot: Changed match mode to Osu
+[21:18:26] Kriatix: damn
+[21:18:26] BCraftMG: !mp timer 120
+[21:18:28] BanchoBot: Countdown ends in 2 minutes
+[21:18:55] BanchoBot: All players are ready
+[21:18:58] BCraftMG: !mp settings
+[21:19:00] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SUN-4), History: https://osu.ppy.sh/mp/104178981
+[21:19:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/2975107 PSYQUI - OYASUMI in my dream
+[21:19:00] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:19:00] BanchoBot: Active mods: NoFail
+[21:19:00] BanchoBot: Players: 8
+[21:19:00] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13386011 - Maestro -     
+[21:19:00] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/1487263 Mayukaki        
+[21:19:00] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[21:19:00] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14065788 PolKet          
+[21:19:00] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11294169 Minhatou        
+[21:19:00] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/19249761 zelko123        
+[21:19:00] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/3389195 Leiv            
+[21:19:00] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/6673790 Tuon            
+[21:19:02] BCraftMG: !mp start 5 glhf
+[21:19:04] BanchoBot: Countdown aborted
+[21:19:04] BanchoBot: Match starts in 5 seconds
+[21:19:04] BanchoBot: Queued the match to start in 5 seconds
+[21:19:06] BanchoBot: Match starts in 4 seconds
+[21:19:06] Leiv: goneTM
+[21:19:06] BanchoBot: Match starts in 3 seconds
+[21:19:08] BanchoBot: Good luck, have fun!
+[21:19:08] Kriatix: gl
+[21:19:11] BanchoBot: The match has started!
+[21:20:03] BCraftMG: !mp invite #17144093
+[21:20:05] BanchoBot: Invited jojoass to the room
+[21:23:35] BanchoBot: Leiv finished playing (Score: 286694, PASSED).
+[21:23:35] BanchoBot: zelko123 finished playing (Score: 76085, PASSED).
+[21:23:35] BanchoBot: Mayukaki finished playing (Score: 49833, PASSED).
+[21:23:38] BanchoBot: Kriatix finished playing (Score: 284119, PASSED).
+[21:23:38] BanchoBot: Minhatou finished playing (Score: 103235, PASSED).
+[21:23:38] BanchoBot: PolKet finished playing (Score: 19266, PASSED).
+[21:23:38] BanchoBot: - Maestro - finished playing (Score: 164838, PASSED).
+[21:23:38] BanchoBot: Tuon finished playing (Score: 324041, PASSED).
+[21:23:38] BanchoBot: The match has finished!
+[21:23:40] BCraftMG: !mp map 3682178 0
+[21:23:42] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3682178 CIEL - Mado o Akete
+[21:23:42] BanchoBot: Changed match mode to Osu
+[21:23:43] BCraftMG: !mp timer 120
+[21:23:44] BanchoBot: Countdown ends in 2 minutes
+[21:23:45] BCraftMG: !mp mods 9
+[21:23:46] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:24:07] Kriatix: hd
+[21:24:07] Kriatix: ew
+[21:24:13] Tuon: wtf
+[21:24:16] Tuon: lạc mất 1 map à
+[21:24:16] Tuon: :D
+[21:24:18] zelko123: nm5 ?
+[21:24:20] Tuon: wake up ref
+[21:24:22] BCraftMG: !mp map 3292033 0
+[21:24:22] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3292033 cosMo@BousouP feat. Hatsune Miku - Machinegun Poem Doll
+[21:24:22] BanchoBot: Changed match mode to Osu
+[21:24:25] BCraftMG: !mp mods 1
+[21:24:27] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:24:28] BCraftMG: khong ai thay gi ca
+[21:24:31] Kriatix: pepega
+[21:24:40] -_Maestro_-: pepega
+[21:24:40] Leiv: wake up
+[21:24:44] BCraftMG: duma ref qual vnoc cu an nm5 thoi
+[21:24:45] BanchoBot: Countdown ends in 1 minute
+[21:24:46] BCraftMG: pepega
+[21:25:10] BanchoBot: All players are ready
+[21:25:14] BCraftMG: !mp settings
+[21:25:14] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SUN-4), History: https://osu.ppy.sh/mp/104178981
+[21:25:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/3292033 cosMo@BousouP feat. Hatsune Miku - Machinegun Poem Doll
+[21:25:14] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:25:14] BanchoBot: Active mods: NoFail
+[21:25:14] BanchoBot: Players: 8
+[21:25:14] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13386011 - Maestro -     
+[21:25:14] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/1487263 Mayukaki        
+[21:25:14] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[21:25:14] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14065788 PolKet          
+[21:25:14] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11294169 Minhatou        
+[21:25:14] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/19249761 zelko123        
+[21:25:14] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/3389195 Leiv            
+[21:25:14] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/6673790 Tuon            
+[21:25:16] BanchoBot: Countdown ends in 30 seconds
+[21:25:17] BCraftMG: !mp start 5 glhf
+[21:25:19] BanchoBot: Countdown aborted
+[21:25:19] BanchoBot: Match starts in 5 seconds
+[21:25:19] BanchoBot: Queued the match to start in 5 seconds
+[21:25:21] BanchoBot: Match starts in 4 seconds
+[21:25:21] BanchoBot: Match starts in 3 seconds
+[21:25:23] BanchoBot: Good luck, have fun!
+[21:25:23] -_Maestro_-: gl
+[21:25:25] BanchoBot: The match has started!
+[21:27:53] BanchoBot: Tuon finished playing (Score: 351599, PASSED).
+[21:27:53] BanchoBot: Kriatix finished playing (Score: 279783, PASSED).
+[21:27:56] BanchoBot: zelko123 finished playing (Score: 79920, PASSED).
+[21:27:56] BanchoBot: Leiv finished playing (Score: 524100, PASSED).
+[21:27:56] BanchoBot: - Maestro - finished playing (Score: 119012, PASSED).
+[21:27:57] BanchoBot: Minhatou finished playing (Score: 182539, PASSED).
+[21:27:57] BanchoBot: Mayukaki finished playing (Score: 28903, PASSED).
+[21:27:57] BanchoBot: PolKet finished playing (Score: 27289, PASSED).
+[21:27:57] BanchoBot: The match has finished!
+[21:28:01] BCraftMG: !mp map 3682178 0
+[21:28:02] Leiv: miss on alt part
+[21:28:02] Leiv: lmao
+[21:28:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3682178 CIEL - Mado o Akete
+[21:28:02] BanchoBot: Changed match mode to Osu
+[21:28:04] BCraftMG: !mp mods 9
+[21:28:06] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:28:06] BCraftMG: !mp timer 120
+[21:28:09] BanchoBot: Countdown ends in 2 minutes
+[21:28:10] BCraftMG: hd riu
+[21:28:32] Leiv: xe lan HD1 time
+[21:28:34] Kriatix: imagine hd
+[21:28:36] Leiv: glhf
+[21:29:10] BanchoBot: Countdown ends in 1 minute
+[21:29:41] BanchoBot: All players are ready
+[21:29:41] BanchoBot: Countdown ends in 30 seconds
+[21:29:52] BCraftMG: !mp settings
+[21:29:54] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SUN-4), History: https://osu.ppy.sh/mp/104178981
+[21:29:54] BanchoBot: Beatmap: https://osu.ppy.sh/b/3682178 CIEL - Mado o Akete
+[21:29:54] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:29:54] BanchoBot: Active mods: NoFail, Hidden
+[21:29:54] BanchoBot: Players: 8
+[21:29:54] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13386011 - Maestro -     
+[21:29:54] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/1487263 Mayukaki        
+[21:29:54] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[21:29:54] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14065788 PolKet          
+[21:29:54] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11294169 Minhatou        
+[21:29:54] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/19249761 zelko123        
+[21:29:54] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/3389195 Leiv            
+[21:29:54] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/6673790 Tuon            
+[21:29:55] BCraftMG: !mp start 5 glhf
+[21:29:57] BanchoBot: Countdown aborted
+[21:29:57] BanchoBot: Match starts in 5 seconds
+[21:29:57] BanchoBot: Queued the match to start in 5 seconds
+[21:29:59] BanchoBot: Match starts in 4 seconds
+[21:29:59] BanchoBot: Match starts in 3 seconds
+[21:30:01] BanchoBot: Good luck, have fun!
+[21:30:03] BanchoBot: The match has started!
+[21:33:46] BanchoBot: Mayukaki finished playing (Score: 125999, PASSED).
+[21:33:46] BanchoBot: Minhatou finished playing (Score: 245841, PASSED).
+[21:33:46] BanchoBot: zelko123 finished playing (Score: 130644, PASSED).
+[21:33:46] BanchoBot: - Maestro - finished playing (Score: 504147, PASSED).
+[21:33:46] BanchoBot: Tuon finished playing (Score: 433953, PASSED).
+[21:33:48] BanchoBot: Kriatix finished playing (Score: 444109, PASSED).
+[21:33:48] BanchoBot: Leiv finished playing (Score: 778854, PASSED).
+[21:33:48] BanchoBot: PolKet finished playing (Score: 90094, PASSED).
+[21:33:48] BanchoBot: The match has finished!
+[21:33:50] Leiv: 1sb
+[21:33:55] Leiv: DOI
+[21:33:56] BCraftMG: !mp map 2674872 0
+[21:33:57] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2674872 Euchaeta - Yumemiru Yakusoku (Cut Ver.)
+[21:33:57] BanchoBot: Changed match mode to Osu
+[21:33:59] BCraftMG: !mp timer 120
+[21:34:00] -_Maestro_-: :tf:
+[21:34:00] BanchoBot: Countdown ends in 2 minutes
+[21:34:14] Kriatix: goofy
+[21:34:34] BanchoBot: All players are ready
+[21:34:43] Leiv: we dont talk about HD
+[21:34:49] BanchoBot: All players are ready
+[21:34:52] BCraftMG: !mp settings
+[21:34:52] Tuon: hd nhu buoi
+[21:34:54] Tuon: :D
+[21:34:54] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SUN-4), History: https://osu.ppy.sh/mp/104178981
+[21:34:54] BanchoBot: Beatmap: https://osu.ppy.sh/b/2674872 Euchaeta - Yumemiru Yakusoku (Cut Ver.)
+[21:34:54] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:34:54] BanchoBot: Active mods: NoFail, Hidden
+[21:34:54] BanchoBot: Players: 8
+[21:34:54] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13386011 - Maestro -     
+[21:34:54] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/1487263 Mayukaki        
+[21:34:54] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[21:34:54] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14065788 PolKet          
+[21:34:54] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11294169 Minhatou        
+[21:34:54] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/19249761 zelko123        
+[21:34:54] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/3389195 Leiv            
+[21:34:54] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/6673790 Tuon            
+[21:34:57] BCraftMG: !mp start 5 glhf
+[21:34:59] Leiv: gone
+[21:34:59] -_Maestro_-: HD is good
+[21:34:59] BanchoBot: Countdown aborted
+[21:34:59] BanchoBot: Match starts in 5 seconds
+[21:34:59] BanchoBot: Queued the match to start in 5 seconds
+[21:35:01] BanchoBot: Match starts in 4 seconds
+[21:35:01] BanchoBot: Match starts in 3 seconds
+[21:35:03] BanchoBot: Good luck, have fun!
+[21:35:05] BanchoBot: The match has started!
+[21:35:05] Kriatix: cringe
+[21:37:21] BanchoBot: Mayukaki finished playing (Score: 22438, PASSED).
+[21:37:21] BanchoBot: Kriatix finished playing (Score: 229155, PASSED).
+[21:37:21] BanchoBot: Leiv finished playing (Score: 115461, PASSED).
+[21:37:21] BanchoBot: zelko123 finished playing (Score: 39615, PASSED).
+[21:37:21] BanchoBot: - Maestro - finished playing (Score: 144723, PASSED).
+[21:37:21] BanchoBot: PolKet finished playing (Score: 140203, PASSED).
+[21:37:23] BanchoBot: Minhatou finished playing (Score: 23741, PASSED).
+[21:37:23] BanchoBot: Tuon finished playing (Score: 48773, PASSED).
+[21:37:23] BanchoBot: The match has finished!
+[21:37:25] BCraftMG: !mp map 2572093 0
+[21:37:28] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2572093 NICO Touches the Walls - Niwaka Ame ni mo Makezu
+[21:37:28] BanchoBot: Changed match mode to Osu
+[21:37:28] BCraftMG: !mp timer 120
+[21:37:29] BanchoBot: Countdown ends in 2 minutes
+[21:37:41] Kriatix: couldve done better
+[21:37:57] Leiv: i hate HD2
+[21:38:06] Kriatix: :madge:
+[21:38:15] Tuon: change mod
+[21:38:19] Leiv: ref
+[21:38:19] -_Maestro_-: imagine playing AR8 HD
+[21:38:26] Leiv: @BCraftMG
+[21:38:29] BCraftMG: !mp mods 17
+[21:38:31] BanchoBot: Countdown ends in 1 minute
+[21:38:31] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[21:38:33] -_Maestro_-: oh
+[21:38:35] -_Maestro_-: HD1 again
+[21:38:44] -_Maestro_-: pepega
+[21:38:49] BCraftMG: ua
+[21:38:50] BCraftMG: !mp settings
+[21:38:53] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SUN-4), History: https://osu.ppy.sh/mp/104178981
+[21:38:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/2572093 NICO Touches the Walls - Niwaka Ame ni mo Makezu
+[21:38:53] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:38:53] BanchoBot: Active mods: NoFail, HardRock
+[21:38:53] BanchoBot: Players: 8
+[21:38:53] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/13386011 - Maestro -     
+[21:38:53] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/1487263 Mayukaki        
+[21:38:53] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[21:38:53] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/14065788 PolKet          
+[21:38:53] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11294169 Minhatou        
+[21:38:53] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/19249761 zelko123        
+[21:38:53] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/3389195 Leiv            
+[21:38:53] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/6673790 Tuon            
+[21:39:02] BanchoBot: Countdown ends in 30 seconds
+[21:39:13] BanchoBot: All players are ready
+[21:39:16] BCraftMG: !mp settings
+[21:39:18] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SUN-4), History: https://osu.ppy.sh/mp/104178981
+[21:39:18] BanchoBot: Beatmap: https://osu.ppy.sh/b/2572093 NICO Touches the Walls - Niwaka Ame ni mo Makezu
+[21:39:18] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:39:18] BanchoBot: Active mods: NoFail, HardRock
+[21:39:18] BanchoBot: Players: 8
+[21:39:18] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13386011 - Maestro -     
+[21:39:18] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/1487263 Mayukaki        
+[21:39:18] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[21:39:18] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14065788 PolKet          
+[21:39:18] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11294169 Minhatou        
+[21:39:18] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/19249761 zelko123        
+[21:39:18] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/3389195 Leiv            
+[21:39:18] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/6673790 Tuon            
+[21:39:19] BCraftMG: !mp start 5 glhf
+[21:39:20] BanchoBot: Countdown ends in 10 seconds
+[21:39:20] BanchoBot: Countdown aborted
+[21:39:20] BanchoBot: Match starts in 5 seconds
+[21:39:20] BanchoBot: Queued the match to start in 5 seconds
+[21:39:22] BanchoBot: Match starts in 4 seconds
+[21:39:22] BanchoBot: Match starts in 3 seconds
+[21:39:24] BanchoBot: Good luck, have fun!
+[21:39:27] BanchoBot: The match has started!
+[21:43:50] BanchoBot: zelko123 finished playing (Score: 95015, PASSED).
+[21:43:50] BanchoBot: Tuon finished playing (Score: 572579, PASSED).
+[21:43:53] BanchoBot: Leiv finished playing (Score: 605549, PASSED).
+[21:43:53] BanchoBot: Minhatou finished playing (Score: 191078, PASSED).
+[21:43:53] BanchoBot: PolKet finished playing (Score: 15222, PASSED).
+[21:43:53] BanchoBot: Mayukaki finished playing (Score: 78429, PASSED).
+[21:43:53] BanchoBot: Kriatix finished playing (Score: 233801, PASSED).
+[21:43:53] BanchoBot: - Maestro - finished playing (Score: 176692, PASSED).
+[21:43:53] BanchoBot: The match has finished!
+[21:44:00] BCraftMG: !mp map 3807343 0
+[21:44:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3807343 Rabpit - Saika
+[21:44:02] BanchoBot: Changed match mode to Osu
+[21:44:03] BCraftMG: !mp timer 120
+[21:44:04] Kriatix: lagspiked at beginning
+[21:44:04] BanchoBot: Countdown ends in 2 minutes
+[21:44:09] Leiv: wtf stream
+[21:44:09] Kriatix: bru
+[21:44:36] Kriatix: banger
+[21:44:41] BanchoBot: All players are ready
+[21:45:05] BanchoBot: Countdown ends in 1 minute
+[21:45:06] BCraftMG: !mp settings
+[21:45:08] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SUN-4), History: https://osu.ppy.sh/mp/104178981
+[21:45:08] BanchoBot: Beatmap: https://osu.ppy.sh/b/3807343 Rabpit - Saika
+[21:45:08] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:45:08] BanchoBot: Active mods: NoFail, HardRock
+[21:45:08] BanchoBot: Players: 8
+[21:45:08] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13386011 - Maestro -     
+[21:45:08] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/1487263 Mayukaki        
+[21:45:08] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[21:45:08] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14065788 PolKet          
+[21:45:08] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11294169 Minhatou        
+[21:45:08] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/19249761 zelko123        
+[21:45:08] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/3389195 Leiv            
+[21:45:08] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/6673790 Tuon            
+[21:45:09] BCraftMG: !mp start 5 glhf
+[21:45:12] BanchoBot: Countdown aborted
+[21:45:12] BanchoBot: Match starts in 5 seconds
+[21:45:12] BanchoBot: Queued the match to start in 5 seconds
+[21:45:14] BanchoBot: Match starts in 4 seconds
+[21:45:14] BanchoBot: Match starts in 3 seconds
+[21:45:16] BanchoBot: Good luck, have fun!
+[21:45:19] BanchoBot: The match has started!
+[21:47:24] BanchoBot: Mayukaki finished playing (Score: 66269, PASSED).
+[21:47:24] BanchoBot: - Maestro - finished playing (Score: 154489, PASSED).
+[21:47:24] BanchoBot: Kriatix finished playing (Score: 177462, PASSED).
+[21:47:24] BanchoBot: Tuon finished playing (Score: 387849, PASSED).
+[21:47:24] BanchoBot: zelko123 finished playing (Score: 81000, PASSED).
+[21:47:24] BanchoBot: Leiv finished playing (Score: 378383, PASSED).
+[21:47:24] BanchoBot: PolKet finished playing (Score: 11506, PASSED).
+[21:47:24] BanchoBot: Minhatou finished playing (Score: 116703, PASSED).
+[21:47:24] BanchoBot: The match has finished!
+[21:47:56] BCraftMG: !mp map 563370 0
+[21:47:58] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/563370 yanaginagi - landscape
+[21:47:58] BanchoBot: Changed match mode to Osu
+[21:47:58] BCraftMG: !Mp timer 120
+[21:48:00] BanchoBot: Countdown ends in 2 minutes
+[21:48:09] Leiv: wow its HR1
+[21:48:09] BCraftMG: !mp mods 65
+[21:48:11] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:48:22] Kriatix: riu
+[21:48:47] BanchoBot: All players are ready
+[21:48:57] BCraftMG: !mp settings
+[21:48:59] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SUN-4), History: https://osu.ppy.sh/mp/104178981
+[21:48:59] BanchoBot: Beatmap: https://osu.ppy.sh/b/563370 yanaginagi - landscape
+[21:48:59] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:48:59] BanchoBot: Active mods: NoFail, DoubleTime
+[21:48:59] BanchoBot: Players: 8
+[21:48:59] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13386011 - Maestro -     
+[21:48:59] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/1487263 Mayukaki        
+[21:48:59] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[21:48:59] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14065788 PolKet          
+[21:48:59] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11294169 Minhatou        
+[21:48:59] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/19249761 zelko123        
+[21:48:59] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/3389195 Leiv            
+[21:48:59] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/6673790 Tuon            
+[21:49:00] BCraftMG: !mp start 5 glhf
+[21:49:01] BanchoBot: - Maestro - moved to slot 7
+[21:49:01] BanchoBot: - Maestro - moved to slot 8
+[21:49:01] BanchoBot: Countdown ends in 1 minute
+[21:49:01] BanchoBot: Countdown aborted
+[21:49:01] BanchoBot: Match starts in 5 seconds
+[21:49:01] BanchoBot: Queued the match to start in 5 seconds
+[21:49:03] BanchoBot: Match starts in 4 seconds
+[21:49:03] BanchoBot: Match starts in 3 seconds
+[21:49:05] BanchoBot: Good luck, have fun!
+[21:49:08] BanchoBot: The match has started!
+[21:51:56] BanchoBot: Kriatix finished playing (Score: 915537, PASSED).
+[21:51:56] BanchoBot: Minhatou finished playing (Score: 293794, PASSED).
+[21:51:56] BanchoBot: zelko123 finished playing (Score: 178307, PASSED).
+[21:51:56] BanchoBot: Mayukaki finished playing (Score: 58064, PASSED).
+[21:51:56] BanchoBot: Tuon finished playing (Score: 866311, PASSED).
+[21:51:56] BanchoBot: - Maestro - finished playing (Score: 275169, PASSED).
+[21:51:56] BanchoBot: Leiv finished playing (Score: 544377, PASSED).
+[21:51:56] BanchoBot: PolKet finished playing (Score: 47458, PASSED).
+[21:51:56] BanchoBot: The match has finished!
+[21:52:07] Kriatix: qajhkrfbweaqjuikgfba
+[21:52:09] Kriatix: what
+[21:52:13] BCraftMG: !mp map 2613166 0
+[21:52:14] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2613166 Lime - Noblesse Gloria
+[21:52:14] BanchoBot: Changed match mode to Osu
+[21:52:16] BCraftMG: !mp timer 120
+[21:52:19] BanchoBot: Countdown ends in 2 minutes
+[21:52:32] BanchoBot: - Maestro - moved to slot 1
+[21:52:43] Leiv: uoc >900k
+[21:52:46] BanchoBot: All players are ready
+[21:52:49] BCraftMG: !mp settings
+[21:52:50] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SUN-4), History: https://osu.ppy.sh/mp/104178981
+[21:52:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/2613166 Lime - Noblesse Gloria
+[21:52:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:52:50] BanchoBot: Active mods: NoFail, DoubleTime
+[21:52:50] BanchoBot: Players: 8
+[21:52:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13386011 - Maestro -     
+[21:52:50] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/1487263 Mayukaki        
+[21:52:50] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[21:52:50] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14065788 PolKet          
+[21:52:50] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11294169 Minhatou        
+[21:52:50] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/19249761 zelko123        
+[21:52:50] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/3389195 Leiv            
+[21:52:50] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/6673790 Tuon            
+[21:52:52] Kriatix: true
+[21:52:53] BCraftMG: !mp start 5 glhf
+[21:52:55] BanchoBot: Countdown aborted
+[21:52:55] BanchoBot: Match starts in 5 seconds
+[21:52:55] BanchoBot: Queued the match to start in 5 seconds
+[21:52:57] BanchoBot: Match starts in 4 seconds
+[21:52:57] BanchoBot: Match starts in 3 seconds
+[21:53:00] BanchoBot: Good luck, have fun!
+[21:53:02] BanchoBot: The match has started!
+[21:55:45] BanchoBot: Tuon finished playing (Score: 610933, PASSED).
+[21:55:45] BanchoBot: Mayukaki finished playing (Score: 37102, PASSED).
+[21:55:45] BanchoBot: Leiv finished playing (Score: 512872, PASSED).
+[21:55:45] BanchoBot: Minhatou finished playing (Score: 133976, PASSED).
+[21:55:47] BanchoBot: - Maestro - finished playing (Score: 153839, PASSED).
+[21:55:47] BanchoBot: zelko123 finished playing (Score: 63973, PASSED).
+[21:55:47] BanchoBot: PolKet finished playing (Score: 37220, PASSED).
+[21:55:47] BanchoBot: Kriatix finished playing (Score: 179097, PASSED).
+[21:55:47] BanchoBot: The match has finished!
+[21:55:52] PolKet: ggwp
+[21:55:55] PolKet: ty for ref
+[21:55:57] Leiv: thx 4 ref
+[21:55:57] PolKet: <3
+[21:55:57] BanchoBot: PolKet left the game.
+[21:55:57] Kriatix: gg
+[21:55:59] BanchoBot: Tuon left the game.
+[21:56:02] BanchoBot: Mayukaki left the game.
+[21:56:02] -_Maestro_-: thx 4 ref
+[21:56:02] zelko123: gg
+[21:56:03] BanchoBot: Minhatou left the game.
+[21:56:03] Leiv: can i hav mp scoreboard
+[21:56:03] BanchoBot: - Maestro - left the game.
+[21:56:06] BanchoBot: zelko123 left the game.
+[21:56:11] BCraftMG: https://osu.ppy.sh/community/matches/104178981
+[21:56:19] Leiv: thx
+[21:56:22] Leiv: o7
+[21:56:22] BanchoBot: Leiv left the game.
+[21:56:26] Kriatix: o//.
+[21:56:30] BCraftMG: o/
+[21:56:37] BanchoBot: Kriatix left the game.
+[21:56:45] BCraftMG: !mp close
+[21:56:46] BanchoBot: Closed the match

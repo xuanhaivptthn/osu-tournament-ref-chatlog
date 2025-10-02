@@ -1,0 +1,318 @@
+[21:25:06] Joined #mp_105559177
+[21:25:06] DaddyStage: !mp settings
+[21:25:07] BanchoBot: Room name: MDDC: (Qualifiers) vs (EX-10), History: https://osu.ppy.sh/mp/105559177
+[21:25:07] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[21:25:07] BanchoBot: Players: 0
+[21:25:18] DaddyStage: !mp set 0 3 3
+[21:25:19] BanchoBot: Changed match settings to 3 slots, HeadToHead, ScoreV2
+[21:25:24] DaddyStage: !mp invite #18658251
+[21:25:24] BanchoBot: Invited osunhulol to the room
+[21:25:27] DaddyStage: !mp invite #10542491
+[21:25:29] BanchoBot: User not found
+[21:25:31] DaddyStage: !mp map 3731630 0
+[21:25:32] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3731630 Tadokoro Azusa - Storyteller
+[21:25:32] BanchoBot: Changed match mode to Osu
+[21:25:32] DaddyStage: !mp mods 1
+[21:25:33] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:26:05] BanchoBot: osunhulol joined in slot 1.
+[21:26:15] osunhulol: hello cac dai ca
+[21:26:23] DaddyStage: o/
+[21:26:57] osunhulol: con 1 player nua dung k
+[21:27:05] DaddyStage: yea
+[21:27:32] DaddyStage: !mp invite #10542491
+[21:27:33] BanchoBot: User not found
+[21:28:22] osunhulol: co duoc warmup map k ref
+[21:28:31] DaddyStage: khong nhe
+[21:28:43] osunhulol: :(
+[21:28:48] osunhulol: e vua moi ve nha xong
+[21:28:50] osunhulol: chua kip lam gi
+[21:31:10] DaddyStage: !mp invite #10542491
+[21:31:11] BanchoBot: Invited -Kiyoko- to the room
+[21:31:15] BanchoBot: -Kiyoko- joined in slot 2.
+[21:31:18] DaddyStage: o/
+[21:31:59] DaddyStage: !mp settings
+[21:32:00] BanchoBot: Room name: MDDC: (Qualifiers) vs (EX-10), History: https://osu.ppy.sh/mp/105559177
+[21:32:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/3731630 Tadokoro Azusa - Storyteller
+[21:32:00] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:32:00] BanchoBot: Active mods: NoFail
+[21:32:00] BanchoBot: Players: 2
+[21:32:00] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/18658251 osunhulol       
+[21:32:00] BanchoBot: Slot 2  No Map    https://osu.ppy.sh/u/10542491 -Kiyoko-        
+[21:32:12] DaddyStage: co mappack tren sheet btw
+[21:32:41] -Kiyoko-: Toi tai mappack r
+[21:33:16] -Kiyoko-: Nhung bang cach nao day
+[21:33:21] -Kiyoko-: No ko load dc :v
+[21:33:45] osunhulol: chuc dai  ca vao danh giai vui ve
+[21:33:48] osunhulol: e choi de trai nghiem thoi
+[21:33:50] BanchoBot: All players are ready
+[21:33:52] DaddyStage: !mp settings
+[21:33:53] BanchoBot: Room name: MDDC: (Qualifiers) vs (EX-10), History: https://osu.ppy.sh/mp/105559177
+[21:33:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/3731630 Tadokoro Azusa - Storyteller
+[21:33:53] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:33:53] BanchoBot: Active mods: NoFail
+[21:33:53] BanchoBot: Players: 2
+[21:33:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18658251 osunhulol       
+[21:33:53] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10542491 -Kiyoko-        
+[21:33:55] DaddyStage: !mp start 5 glhf
+[21:33:55] BanchoBot: Match starts in 5 seconds
+[21:33:55] BanchoBot: Queued the match to start in 5 seconds
+[21:33:56] BanchoBot: Match starts in 4 seconds
+[21:33:57] BanchoBot: Match starts in 3 seconds
+[21:33:58] BanchoBot: Good luck, have fun!
+[21:34:00] osunhulol: 30k average real
+[21:34:00] BanchoBot: The match has started!
+[21:38:38] BanchoBot: -Kiyoko- finished playing (Score: 500547, PASSED).
+[21:38:38] BanchoBot: osunhulol finished playing (Score: 270237, PASSED).
+[21:38:38] BanchoBot: The match has finished!
+[21:38:45] DaddyStage: !mp map 3903393 0
+[21:38:46] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3903393 Discord Registers - Kiri Kakaru Mei Yoru ~ Foggy Night ~
+[21:38:46] BanchoBot: Changed match mode to Osu
+[21:40:23] -Kiyoko-: Bam nham F5 :ded:
+[21:40:48] BanchoBot: All players are ready
+[21:40:52] DaddyStage: !mp settings
+[21:40:53] BanchoBot: Room name: MDDC: (Qualifiers) vs (EX-10), History: https://osu.ppy.sh/mp/105559177
+[21:40:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/3903393 Discord Registers - Kiri Kakaru Mei Yoru ~ Foggy Night ~
+[21:40:53] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:40:53] BanchoBot: Active mods: NoFail
+[21:40:53] BanchoBot: Players: 2
+[21:40:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18658251 osunhulol       
+[21:40:53] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10542491 -Kiyoko-        
+[21:40:53] DaddyStage: !mp start 5 glhf
+[21:40:54] BanchoBot: Match starts in 5 seconds
+[21:40:54] BanchoBot: Queued the match to start in 5 seconds
+[21:40:55] BanchoBot: Match starts in 4 seconds
+[21:40:56] BanchoBot: Match starts in 3 seconds
+[21:40:57] BanchoBot: Good luck, have fun!
+[21:40:59] BanchoBot: The match has started!
+[21:43:16] BanchoBot: -Kiyoko- finished playing (Score: 351762, PASSED).
+[21:43:17] BanchoBot: osunhulol finished playing (Score: 118487, PASSED).
+[21:43:17] BanchoBot: The match has finished!
+[21:43:38] DaddyStage: !mp map 3144020 0
+[21:43:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3144020 Eve - Nonsense Bungaku
+[21:43:39] BanchoBot: Changed match mode to Osu
+[21:44:17] -Kiyoko-: Doi tay la may say de suoi am tay ti
+[21:44:26] -Kiyoko-: toi lay*
+[21:44:32] osunhulol: vip v sao
+[21:45:15] BanchoBot: All players are ready
+[21:45:27] DaddyStage: !mp settings
+[21:45:28] BanchoBot: Room name: MDDC: (Qualifiers) vs (EX-10), History: https://osu.ppy.sh/mp/105559177
+[21:45:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/3144020 Eve - Nonsense Bungaku
+[21:45:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:45:28] BanchoBot: Active mods: NoFail
+[21:45:28] BanchoBot: Players: 2
+[21:45:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18658251 osunhulol       
+[21:45:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10542491 -Kiyoko-        
+[21:45:30] DaddyStage: !mp start 5 glhf
+[21:45:31] BanchoBot: Match starts in 5 seconds
+[21:45:31] BanchoBot: Queued the match to start in 5 seconds
+[21:45:33] BanchoBot: Match starts in 4 seconds
+[21:45:33] BanchoBot: Match starts in 3 seconds
+[21:45:34] BanchoBot: Good luck, have fun!
+[21:45:36] BanchoBot: The match has started!
+[21:49:10] BanchoBot: osunhulol finished playing (Score: 118532, PASSED).
+[21:49:11] BanchoBot: -Kiyoko- finished playing (Score: 207743, PASSED).
+[21:49:11] BanchoBot: The match has finished!
+[21:49:22] DaddyStage: !mp map 3593847 0
+[21:49:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3593847 PSYQUI - Mend Your Ways feat. Such
+[21:49:23] BanchoBot: Changed match mode to Osu
+[21:50:00] BanchoBot: All players are ready
+[21:50:14] DaddyStage: !mp settings
+[21:50:14] BanchoBot: Room name: MDDC: (Qualifiers) vs (EX-10), History: https://osu.ppy.sh/mp/105559177
+[21:50:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/3593847 PSYQUI - Mend Your Ways feat. Such
+[21:50:14] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:50:14] BanchoBot: Active mods: NoFail
+[21:50:14] BanchoBot: Players: 2
+[21:50:14] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18658251 osunhulol       
+[21:50:14] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10542491 -Kiyoko-        
+[21:50:17] DaddyStage: !mp start 5 glhf
+[21:50:17] BanchoBot: Match starts in 5 seconds
+[21:50:17] BanchoBot: Queued the match to start in 5 seconds
+[21:50:18] BanchoBot: Match starts in 4 seconds
+[21:50:19] BanchoBot: Match starts in 3 seconds
+[21:50:20] BanchoBot: Good luck, have fun!
+[21:50:23] BanchoBot: The match has started!
+[21:54:08] BanchoBot: -Kiyoko- finished playing (Score: 447315, PASSED).
+[21:54:09] BanchoBot: osunhulol finished playing (Score: 195180, PASSED).
+[21:54:09] BanchoBot: The match has finished!
+[21:54:36] DaddyStage: !mp map 1278874 0
+[21:54:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1278874 senya - Zetsubou no Fuchi
+[21:54:36] BanchoBot: Changed match mode to Osu
+[21:54:38] DaddyStage: !mp mods 9
+[21:54:39] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:55:04] BanchoBot: All players are ready
+[21:55:04] BanchoBot: All players are ready
+[21:55:23] DaddyStage: !mp settings
+[21:55:24] BanchoBot: Room name: MDDC: (Qualifiers) vs (EX-10), History: https://osu.ppy.sh/mp/105559177
+[21:55:24] BanchoBot: Beatmap: https://osu.ppy.sh/b/1278874 senya - Zetsubou no Fuchi
+[21:55:24] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:55:24] BanchoBot: Active mods: NoFail, Hidden
+[21:55:24] BanchoBot: Players: 2
+[21:55:24] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18658251 osunhulol       
+[21:55:24] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10542491 -Kiyoko-        
+[21:55:25] DaddyStage: !mp start 5 glhf
+[21:55:25] BanchoBot: Match starts in 5 seconds
+[21:55:25] BanchoBot: Queued the match to start in 5 seconds
+[21:55:26] BanchoBot: Match starts in 4 seconds
+[21:55:27] BanchoBot: Match starts in 3 seconds
+[21:55:28] BanchoBot: Good luck, have fun!
+[21:55:31] BanchoBot: The match has started!
+[21:58:45] BanchoBot: -Kiyoko- finished playing (Score: 239599, PASSED).
+[21:58:50] BanchoBot: osunhulol finished playing (Score: 100287, PASSED).
+[21:58:50] BanchoBot: The match has finished!
+[21:59:07] DaddyStage: !mp map 84538 0
+[21:59:08] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/84538 Groove Coverage - The End (Nightcore Remix)
+[21:59:08] BanchoBot: Changed match mode to Osu
+[21:59:13] DaddyStage: chuc ngu ngon
+[21:59:23] osunhulol: rip acc
+[21:59:29] BanchoBot: All players are ready
+[21:59:32] DaddyStage: !mp settings
+[21:59:33] BanchoBot: Room name: MDDC: (Qualifiers) vs (EX-10), History: https://osu.ppy.sh/mp/105559177
+[21:59:33] BanchoBot: Beatmap: https://osu.ppy.sh/b/84538 Groove Coverage - The End (Nightcore Remix)
+[21:59:33] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:59:33] BanchoBot: Active mods: NoFail, Hidden
+[21:59:33] BanchoBot: Players: 2
+[21:59:33] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18658251 osunhulol       
+[21:59:33] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10542491 -Kiyoko-        
+[21:59:34] DaddyStage: !mp start 5 glhf
+[21:59:35] BanchoBot: Match starts in 5 seconds
+[21:59:35] BanchoBot: Queued the match to start in 5 seconds
+[21:59:36] BanchoBot: Match starts in 4 seconds
+[21:59:37] BanchoBot: Match starts in 3 seconds
+[21:59:38] BanchoBot: Good luck, have fun!
+[21:59:41] BanchoBot: The match has started!
+[22:02:06] BanchoBot: osunhulol finished playing (Score: 124911, PASSED).
+[22:02:07] BanchoBot: -Kiyoko- finished playing (Score: 171989, PASSED).
+[22:02:07] BanchoBot: The match has finished!
+[22:02:12] DaddyStage: !mp map 2965623 0
+[22:02:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2965623 Ryokuoushoku Shakai - LADYBUG
+[22:02:12] BanchoBot: Changed match mode to Osu
+[22:02:15] DaddyStage: !mp mods 17
+[22:02:16] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[22:02:43] osunhulol: chet r k bt choi hr
+[22:02:46] BanchoBot: All players are ready
+[22:02:50] DaddyStage: !mp settings
+[22:02:50] BanchoBot: Room name: MDDC: (Qualifiers) vs (EX-10), History: https://osu.ppy.sh/mp/105559177
+[22:02:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/2965623 Ryokuoushoku Shakai - LADYBUG
+[22:02:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:02:50] BanchoBot: Active mods: NoFail, HardRock
+[22:02:50] BanchoBot: Players: 2
+[22:02:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18658251 osunhulol       
+[22:02:50] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/10542491 -Kiyoko-        
+[22:02:51] DaddyStage: !mp start 5 glhf
+[22:02:51] BanchoBot: Match starts in 5 seconds
+[22:02:51] BanchoBot: Queued the match to start in 5 seconds
+[22:02:52] BanchoBot: Match starts in 4 seconds
+[22:02:53] BanchoBot: Match starts in 3 seconds
+[22:02:54] BanchoBot: Good luck, have fun!
+[22:02:54] DaddyStage: !Mp abỏt
+[22:02:57] BanchoBot: The match has started!
+[22:02:57] DaddyStage: !Mp abort
+[22:02:58] BanchoBot: Aborted the match
+[22:03:03] DaddyStage: i was scammed
+[22:03:13] BanchoBot: All players are ready
+[22:03:15] DaddyStage: !mp settings
+[22:03:17] BanchoBot: Room name: MDDC: (Qualifiers) vs (EX-10), History: https://osu.ppy.sh/mp/105559177
+[22:03:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/2965623 Ryokuoushoku Shakai - LADYBUG
+[22:03:17] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:03:17] BanchoBot: Active mods: NoFail, HardRock
+[22:03:17] BanchoBot: Players: 2
+[22:03:17] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18658251 osunhulol       
+[22:03:17] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10542491 -Kiyoko-        
+[22:03:18] DaddyStage: !mp start 5 glhf
+[22:03:19] BanchoBot: Match starts in 5 seconds
+[22:03:19] BanchoBot: Queued the match to start in 5 seconds
+[22:03:20] BanchoBot: Match starts in 4 seconds
+[22:03:21] BanchoBot: Match starts in 3 seconds
+[22:03:22] BanchoBot: Good luck, have fun!
+[22:03:24] BanchoBot: The match has started!
+[22:07:22] BanchoBot: osunhulol finished playing (Score: 50426, PASSED).
+[22:07:23] BanchoBot: -Kiyoko- finished playing (Score: 207502, PASSED).
+[22:07:23] BanchoBot: The match has finished!
+[22:07:28] DaddyStage: !mp map 501755 0
+[22:07:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/501755 Kiryu - EVE
+[22:07:29] BanchoBot: Changed match mode to Osu
+[22:07:42] BanchoBot: All players are ready
+[22:08:01] DaddyStage: !mp settings
+[22:08:02] BanchoBot: Room name: MDDC: (Qualifiers) vs (EX-10), History: https://osu.ppy.sh/mp/105559177
+[22:08:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/501755 Kiryu - EVE
+[22:08:02] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:08:02] BanchoBot: Active mods: NoFail, HardRock
+[22:08:02] BanchoBot: Players: 2
+[22:08:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18658251 osunhulol       
+[22:08:02] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10542491 -Kiyoko-        
+[22:08:03] DaddyStage: !mp start 5 glhf
+[22:08:03] BanchoBot: Match starts in 5 seconds
+[22:08:03] BanchoBot: Queued the match to start in 5 seconds
+[22:08:04] BanchoBot: Match starts in 4 seconds
+[22:08:05] BanchoBot: Match starts in 3 seconds
+[22:08:06] BanchoBot: Good luck, have fun!
+[22:08:08] BanchoBot: The match has started!
+[22:10:26] BanchoBot: -Kiyoko- finished playing (Score: 230796, PASSED).
+[22:10:28] BanchoBot: osunhulol finished playing (Score: 56134, PASSED).
+[22:10:28] BanchoBot: The match has finished!
+[22:10:41] DaddyStage: !mp map 1615500 0
+[22:10:41] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1615500 Naru Hakobe (CV: M.A.O) - Neko Matsuri
+[22:10:41] BanchoBot: Changed match mode to Osu
+[22:10:43] DaddyStage: !mp mods 65
+[22:10:43] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[22:11:00] BanchoBot: All players are ready
+[22:11:02] DaddyStage: !mp settings
+[22:11:03] BanchoBot: Room name: MDDC: (Qualifiers) vs (EX-10), History: https://osu.ppy.sh/mp/105559177
+[22:11:03] BanchoBot: Beatmap: https://osu.ppy.sh/b/1615500 Naru Hakobe (CV: M.A.O) - Neko Matsuri
+[22:11:03] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:11:03] BanchoBot: Active mods: NoFail, DoubleTime
+[22:11:03] BanchoBot: Players: 2
+[22:11:03] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18658251 osunhulol       
+[22:11:03] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10542491 -Kiyoko-        
+[22:11:04] DaddyStage: !mp start 5 glhf
+[22:11:04] BanchoBot: Match starts in 5 seconds
+[22:11:04] BanchoBot: Queued the match to start in 5 seconds
+[22:11:05] BanchoBot: Match starts in 4 seconds
+[22:11:06] BanchoBot: Match starts in 3 seconds
+[22:11:07] BanchoBot: Good luck, have fun!
+[22:11:09] BanchoBot: The match has started!
+[22:12:52] BanchoBot: -Kiyoko- finished playing (Score: 450334, PASSED).
+[22:12:52] BanchoBot: osunhulol finished playing (Score: 92528, PASSED).
+[22:12:52] BanchoBot: The match has finished!
+[22:13:06] osunhulol: dai ca pro v
+[22:13:08] DaddyStage: !mp map 1814067 0
+[22:13:09] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1814067 ak+q & Redeilia - Enigma Helix
+[22:13:09] BanchoBot: Changed match mode to Osu
+[22:13:11] -Kiyoko-: Ko
+[22:13:14] -Kiyoko-: Toi ga vai :<
+[22:13:26] osunhulol: read ar10 the nao
+[22:13:29] BanchoBot: All players are ready
+[22:13:31] DaddyStage: !mp settings
+[22:13:32] BanchoBot: Room name: MDDC: (Qualifiers) vs (EX-10), History: https://osu.ppy.sh/mp/105559177
+[22:13:32] BanchoBot: Beatmap: https://osu.ppy.sh/b/1814067 ak+q & Redeilia - Enigma Helix
+[22:13:33] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:13:33] BanchoBot: Active mods: NoFail, DoubleTime
+[22:13:33] BanchoBot: Players: 2
+[22:13:33] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18658251 osunhulol       
+[22:13:33] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10542491 -Kiyoko-        
+[22:13:33] DaddyStage: !mp start 5 glhf
+[22:13:33] BanchoBot: Match starts in 5 seconds
+[22:13:33] BanchoBot: Queued the match to start in 5 seconds
+[22:13:34] BanchoBot: Match starts in 4 seconds
+[22:13:35] BanchoBot: Match starts in 3 seconds
+[22:13:36] BanchoBot: Good luck, have fun!
+[22:13:39] BanchoBot: The match has started!
+[22:15:47] BanchoBot: osunhulol finished playing (Score: 134824, PASSED).
+[22:15:49] BanchoBot: -Kiyoko- finished playing (Score: 425887, PASSED).
+[22:15:49] BanchoBot: The match has finished!
+[22:15:56] osunhulol: rip
+[22:16:02] osunhulol: chuc dai ca danh giai vui ve
+[22:16:16] -Kiyoko-: Tks
+[22:16:21] DaddyStage: :3c
+[22:16:24] -Kiyoko-: Ma chac toi ko di dc xa dau :v
+[22:16:33] osunhulol: chac gi
+[22:16:35] osunhulol: danh team ma
+[22:16:46] -Kiyoko-: The thoi
+[22:16:47] -Kiyoko-: Bye o/
+[22:16:52] -Kiyoko-: Toi sui day
+[22:17:04] osunhulol: bye
+[22:17:08] BanchoBot: -Kiyoko- left the game.
+[22:17:09] osunhulol: o/
+[22:17:12] BanchoBot: osunhulol left the game.
+[22:18:01] DaddyStage: !mp close
+[22:18:02] BanchoBot: Closed the match

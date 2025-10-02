@@ -1,0 +1,717 @@
+[21:21:14] Joined #mp_106308278
+[21:21:14] DaddyStage: !mp settings
+[21:21:15] BanchoBot: Room name: MDDC: (brown ryo) vs (BOCCHI THE BLOCK), History: https://osu.ppy.sh/mp/106308278
+[21:21:15] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[21:21:15] BanchoBot: Players: 0
+[21:21:20] DaddyStage: !mp set 2 3 10
+[21:21:20] BanchoBot: Changed match settings to 10 slots, TeamVs, ScoreV2
+[21:21:24] DaddyStage: !mp invite #8266808
+[21:21:24] BanchoBot: Invited [Boy]DaLat to the room
+[21:21:27] DaddyStage: !mp invite #11021073
+[21:21:28] BanchoBot: Invited [sin] to the room
+[21:21:39] BanchoBot: [Boy]DaLat joined in slot 1 for team blue.
+[21:21:40] BanchoBot: [sin] joined in slot 2 for team red.
+[21:21:41] BanchoBot: [Boy]DaLat changed to Red
+[21:21:49] DaddyStage: brown ryo red 1-4
+[21:21:50] BanchoBot: [sin] moved to slot 5
+[21:21:52] BanchoBot: [sin] changed to Blue
+[21:21:53] DaddyStage: bocchi blue 5-8
+[21:21:53] BanchoBot: _ Freedom _ joined in slot 2 for team red.
+[21:21:54] BanchoBot: KazutoGGO joined in slot 3 for team blue.
+[21:21:54] BanchoBot: -Krys- joined in slot 4 for team red.
+[21:22:00] BanchoBot: KazutoGGO moved to slot 8
+[21:22:04] BanchoBot: -Krys- moved to slot 3
+[21:22:10] BanchoBot: KazutoGGO moved to slot 4
+[21:22:12] BanchoBot: KazutoGGO changed to Red
+[21:22:51] BanchoBot: hotcat190 joined in slot 6 for team red.
+[21:22:54] BanchoBot: hotcat190 changed to Blue
+[21:22:55] BanchoBot: PolKet joined in slot 7 for team blue.
+[21:22:59] BanchoBot: Okayu ASMR joined in slot 8 for team red.
+[21:23:05] BanchoBot: Okayu ASMR changed to Blue
+[21:23:05] DaddyStage: roll lun nha
+[21:23:08] [Boy]DaLat: !roll
+[21:23:08] BanchoBot: [Boy]DaLat rolls 38 point(s)
+[21:23:27] BanchoBot: -Krys- left the game.
+[21:23:38] DaddyStage: !mp addref -Kusakabe-
+[21:23:39] BanchoBot: Added -Kusakabe- to the match referees
+[21:23:41] DaddyStage: !mp addref Hoaq
+[21:23:41] BanchoBot: Added Hoaq to the match referees
+[21:24:00] [Boy]DaLat: roll di sin oi
+[21:24:05] [sin]: à nhờ
+[21:24:06] [sin]: từ từ
+[21:24:08] [sin]: XD
+[21:24:09] [sin]: !roll
+[21:24:09] BanchoBot: [sin] rolls 79 point(s)
+[21:24:27] [sin]: ban sau
+[21:24:36] [Boy]DaLat: pick trc
+[21:24:43] [Boy]DaLat: ban NM4
+[21:24:56] [sin]: ban NM5
+[21:25:17] [Boy]DaLat: ban DT3
+[21:25:27] [sin]: ban HD2
+[21:25:34] [sin]: :dance:
+[21:25:39] DaddyStage: công suất tốt
+[21:25:40] DaddyStage: brown ryo | 0 - 0 | BOCCHI THE BLOCK // First Pick: brown ryo
+[21:25:41] DaddyStage: !mp timer 90
+[21:25:42] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:25:49] BanchoBot: -Krys- joined in slot 3 for team blue.
+[21:25:55] [Boy]DaLat: DT1
+[21:25:56] BanchoBot: -Krys- changed to Red
+[21:26:13] BanchoBot: Countdown ends in 1 minute
+[21:26:31] DaddyStage: !mp map 3414775 0
+[21:26:32] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3414775 Mary Clare - Radiant
+[21:26:32] BanchoBot: Changed match mode to Osu
+[21:26:33] DaddyStage: !mp mods 65
+[21:26:34] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:26:36] DaddyStage: !mp timer 90
+[21:26:37] BanchoBot: Countdown aborted
+[21:26:37] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:27:01] [sin]: gl XD
+[21:27:06] hotcat190: golf
+[21:27:06] [Boy]DaLat: gl\
+[21:27:08] BanchoBot: Countdown ends in 1 minute
+[21:27:08] Okayu_ASMR: gl xd
+[21:27:20] BanchoBot: All players are ready
+[21:27:34] DaddyStage: !mp settings
+[21:27:35] BanchoBot: Room name: MDDC: (brown ryo) vs (BOCCHI THE BLOCK), History: https://osu.ppy.sh/mp/106308278
+[21:27:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/3414775 Mary Clare - Radiant
+[21:27:35] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:27:35] BanchoBot: Active mods: NoFail, DoubleTime
+[21:27:35] BanchoBot: Players: 8
+[21:27:35] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      [Team Red ]
+[21:27:35] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     [Team Red ]
+[21:27:35] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12143654 -Krys-          [Team Red ]
+[21:27:35] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       [Team Red ]
+[21:27:35] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11021073 [sin]           [Team Blue]
+[21:27:35] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10143086 hotcat190       [Team Blue]
+[21:27:35] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/14065788 PolKet          [Team Blue]
+[21:27:35] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/9685975 Okayu ASMR      [Team Blue]
+[21:27:36] DaddyStage: !mp start 5 glhf
+[21:27:37] BanchoBot: Countdown aborted
+[21:27:37] BanchoBot: Match starts in 5 seconds
+[21:27:37] BanchoBot: Queued the match to start in 5 seconds
+[21:27:38] BanchoBot: Match starts in 4 seconds
+[21:27:39] BanchoBot: Match starts in 3 seconds
+[21:27:40] BanchoBot: Good luck, have fun!
+[21:27:42] BanchoBot: The match has started!
+[21:27:42] PolKet: nebby BG
+[21:29:48] DaddyStage: !mp make MDDC: (dum) vs (my)
+[21:30:29] BanchoBot: -Krys- finished playing (Score: 286053, PASSED).
+[21:30:29] BanchoBot: [Boy]DaLat finished playing (Score: 492004, PASSED).
+[21:30:29] BanchoBot: hotcat190 finished playing (Score: 351537, PASSED).
+[21:30:31] BanchoBot: _ Freedom _ finished playing (Score: 818240, PASSED).
+[21:30:31] BanchoBot: Okayu ASMR finished playing (Score: 40604, PASSED).
+[21:30:31] BanchoBot: KazutoGGO finished playing (Score: 61552, PASSED).
+[21:30:31] BanchoBot: PolKet finished playing (Score: 36296, PASSED).
+[21:30:31] BanchoBot: [sin] finished playing (Score: 680512, PASSED).
+[21:30:31] BanchoBot: The match has finished!
+[21:30:44] DaddyStage: brown ryo | 1 - 0 | BOCCHI THE BLOCK // Next Pick: BOCCHI THE BLOCK
+[21:30:46] DaddyStage: !mp timer 90
+[21:30:47] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:31:02] -Krys-: 1 sự thất bại của DT player
+[21:31:17] BanchoBot: Countdown ends in 1 minute
+[21:31:25] [sin]: nm6
+[21:31:35] DaddyStage: !mp map 1943786 0
+[21:31:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1943786 HuMeR - ChaserXX
+[21:31:36] BanchoBot: Changed match mode to Osu
+[21:31:36] DaddyStage: !mp mods 1
+[21:31:37] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:31:37] DaddyStage: !mp timer 90
+[21:31:38] BanchoBot: Countdown aborted
+[21:31:38] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:31:43] [Boy]DaLat: gl
+[21:32:00] [sin]: gl
+[21:32:03] Okayu_ASMR: golf
+[21:32:07] hotcat190: golf
+[21:32:09] BanchoBot: Countdown ends in 1 minute
+[21:32:17] BanchoBot: All players are ready
+[21:32:20] DaddyStage: !mp settings
+[21:32:21] KazutoGGO: gl
+[21:32:21] BanchoBot: Room name: MDDC: (brown ryo) vs (BOCCHI THE BLOCK), History: https://osu.ppy.sh/mp/106308278
+[21:32:21] BanchoBot: Beatmap: https://osu.ppy.sh/b/1943786 HuMeR - ChaserXX
+[21:32:21] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:32:21] BanchoBot: Active mods: NoFail
+[21:32:21] BanchoBot: Players: 8
+[21:32:21] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      [Team Red ]
+[21:32:21] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     [Team Red ]
+[21:32:21] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12143654 -Krys-          [Team Red ]
+[21:32:21] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       [Team Red ]
+[21:32:21] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11021073 [sin]           [Team Blue]
+[21:32:21] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10143086 hotcat190       [Team Blue]
+[21:32:21] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/14065788 PolKet          [Team Blue]
+[21:32:21] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/9685975 Okayu ASMR      [Team Blue]
+[21:32:39] BanchoBot: Countdown ends in 30 seconds
+[21:32:58] BanchoBot: Countdown ends in 10 seconds
+[21:33:00] [sin]: :thonk:
+[21:33:03] DaddyStage: !mp settings
+[21:33:04] BanchoBot: Countdown ends in 5 seconds
+[21:33:04] BanchoBot: Room name: MDDC: (brown ryo) vs (BOCCHI THE BLOCK), History: https://osu.ppy.sh/mp/106308278
+[21:33:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/1943786 HuMeR - ChaserXX
+[21:33:04] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:33:04] BanchoBot: Active mods: NoFail
+[21:33:04] BanchoBot: Players: 8
+[21:33:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      [Team Red ]
+[21:33:04] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     [Team Red ]
+[21:33:04] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12143654 -Krys-          [Team Red ]
+[21:33:04] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       [Team Red ]
+[21:33:04] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11021073 [sin]           [Team Blue]
+[21:33:04] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10143086 hotcat190       [Team Blue]
+[21:33:04] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/14065788 PolKet          [Team Blue]
+[21:33:04] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/9685975 Okayu ASMR      [Team Blue]
+[21:33:04] DaddyStage: !mp start 5 glhf
+[21:33:05] BanchoBot: Countdown ends in 4 seconds
+[21:33:06] BanchoBot: Countdown ends in 3 seconds
+[21:33:06] -Krys-: nhả
+[21:33:06] BanchoBot: Countdown aborted
+[21:33:06] BanchoBot: Match starts in 5 seconds
+[21:33:06] BanchoBot: Queued the match to start in 5 seconds
+[21:33:07] BanchoBot: Match starts in 4 seconds
+[21:33:08] BanchoBot: Match starts in 3 seconds
+[21:33:09] BanchoBot: Good luck, have fun!
+[21:33:11] BanchoBot: The match has started!
+[21:35:22] BanchoBot: -Krys- finished playing (Score: 128876, PASSED).
+[21:35:22] BanchoBot: PolKet finished playing (Score: 137537, PASSED).
+[21:35:22] BanchoBot: _ Freedom _ finished playing (Score: 234900, PASSED).
+[21:35:22] BanchoBot: Okayu ASMR finished playing (Score: 173821, PASSED).
+[21:35:22] BanchoBot: hotcat190 finished playing (Score: 443260, PASSED).
+[21:35:22] BanchoBot: KazutoGGO finished playing (Score: 45476, PASSED).
+[21:35:22] BanchoBot: [Boy]DaLat finished playing (Score: 250068, PASSED).
+[21:35:23] BanchoBot: [sin] finished playing (Score: 279798, PASSED).
+[21:35:23] BanchoBot: The match has finished!
+[21:35:33] DaddyStage: brown ryo | 1 - 1 | BOCCHI THE BLOCK // Next Pick: brown ryo
+[21:35:36] DaddyStage: !mp timer 90
+[21:35:36] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:36:07] BanchoBot: Countdown ends in 1 minute
+[21:36:08] [Boy]DaLat: HR2
+[21:36:21] DaddyStage: !mp map 2414318 0
+[21:36:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2414318 USAO - Knight Rider
+[21:36:21] BanchoBot: Changed match mode to Osu
+[21:36:23] DaddyStage: !mp mods 17
+[21:36:25] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[21:36:25] DaddyStage: !mp timer 90
+[21:36:26] BanchoBot: Countdown aborted
+[21:36:26] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:36:30] [Boy]DaLat: gl
+[21:36:35] KazutoGGO: gl
+[21:36:41] hotcat190: golf
+[21:36:43] [sin]: gl
+[21:36:57] BanchoBot: Countdown ends in 1 minute
+[21:37:21] DaddyStage: khum
+[21:37:27] DaddyStage: chua start dau
+[21:37:27] BanchoBot: Countdown ends in 30 seconds
+[21:37:43] BanchoBot: All players are ready
+[21:37:47] BanchoBot: Countdown ends in 10 seconds
+[21:37:47] DaddyStage: !mp settings
+[21:37:48] PolKet: gl
+[21:37:48] BanchoBot: Room name: MDDC: (brown ryo) vs (BOCCHI THE BLOCK), History: https://osu.ppy.sh/mp/106308278
+[21:37:48] BanchoBot: Beatmap: https://osu.ppy.sh/b/2414318 USAO - Knight Rider
+[21:37:48] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:37:48] BanchoBot: Active mods: NoFail, HardRock
+[21:37:48] BanchoBot: Players: 8
+[21:37:48] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      [Team Red ]
+[21:37:48] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     [Team Red ]
+[21:37:48] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12143654 -Krys-          [Team Red ]
+[21:37:48] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       [Team Red ]
+[21:37:48] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11021073 [sin]           [Team Blue]
+[21:37:48] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10143086 hotcat190       [Team Blue]
+[21:37:48] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/14065788 PolKet          [Team Blue]
+[21:37:48] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/9685975 Okayu ASMR      [Team Blue]
+[21:37:51] BanchoBot: Countdown ends in 5 seconds
+[21:37:52] BanchoBot: Countdown ends in 4 seconds
+[21:37:52] DaddyStage: !mp start 5 glhf
+[21:37:53] BanchoBot: Countdown ends in 3 seconds
+[21:37:53] BanchoBot: Countdown aborted
+[21:37:53] BanchoBot: Match starts in 5 seconds
+[21:37:53] BanchoBot: Queued the match to start in 5 seconds
+[21:37:55] BanchoBot: Match starts in 4 seconds
+[21:37:56] BanchoBot: Match starts in 3 seconds
+[21:37:57] BanchoBot: Good luck, have fun!
+[21:37:59] Okayu_ASMR: golf
+[21:37:59] BanchoBot: The match has started!
+[21:40:16] BanchoBot: PolKet finished playing (Score: 61128, PASSED).
+[21:40:16] BanchoBot: [sin] finished playing (Score: 631604, PASSED).
+[21:40:16] BanchoBot: _ Freedom _ finished playing (Score: 447449, PASSED).
+[21:40:16] BanchoBot: [Boy]DaLat finished playing (Score: 382194, PASSED).
+[21:40:16] BanchoBot: hotcat190 finished playing (Score: 484058, PASSED).
+[21:40:16] BanchoBot: Okayu ASMR finished playing (Score: 58037, PASSED).
+[21:40:17] BanchoBot: KazutoGGO finished playing (Score: 132216, PASSED).
+[21:40:17] BanchoBot: -Krys- finished playing (Score: 339712, PASSED).
+[21:40:17] BanchoBot: The match has finished!
+[21:40:30] DaddyStage: brown ryo | 2 - 1 | BOCCHI THE BLOCK // Next Pick: BOCCHI THE BLOCK
+[21:40:30] DaddyStage: !mp timer 90
+[21:40:32] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:41:02] BanchoBot: Countdown ends in 1 minute
+[21:41:25] [sin]: hết giờ này bên tôi chưa pick map cho xin timeout nha
+[21:41:27] [sin]: hotcat xuống nhà cái
+[21:41:32] BanchoBot: Countdown ends in 30 seconds
+[21:41:52] BanchoBot: Countdown ends in 10 seconds
+[21:41:57] BanchoBot: Countdown ends in 5 seconds
+[21:41:58] BanchoBot: Countdown ends in 4 seconds
+[21:41:59] BanchoBot: Countdown ends in 3 seconds
+[21:42:00] BanchoBot: Countdown ends in 2 seconds
+[21:42:01] BanchoBot: Countdown ends in 1 second
+[21:42:02] BanchoBot: Countdown finished
+[21:42:06] [Boy]DaLat: cho timeout 5p di
+[21:42:13] [sin]: HR3
+[21:42:17] hotcat190: quay lai r :v
+[21:42:21] DaddyStage: :deadge:
+[21:42:21] DaddyStage: xd
+[21:42:28] [sin]: :dance:
+[21:42:33] DaddyStage: !mp map 3552546 0
+[21:42:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3552546 Rigel Theatre - ECLIPSE
+[21:42:34] BanchoBot: Changed match mode to Osu
+[21:42:35] DaddyStage: !mp mods 17
+[21:42:36] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[21:42:38] DaddyStage: !mp timer 120
+[21:42:39] DaddyStage: !mp timer 90
+[21:42:39] BanchoBot: Countdown ends in 2 minutes
+[21:42:40] BanchoBot: Countdown aborted
+[21:42:40] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:42:43] [Boy]DaLat: gl
+[21:42:57] BanchoBot: All players are ready
+[21:43:00] hotcat190: golf
+[21:43:01] DaddyStage: !mp settings
+[21:43:02] [sin]: gl
+[21:43:02] BanchoBot: Room name: MDDC: (brown ryo) vs (BOCCHI THE BLOCK), History: https://osu.ppy.sh/mp/106308278
+[21:43:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/3552546 Rigel Theatre - ECLIPSE
+[21:43:02] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:43:02] BanchoBot: Active mods: NoFail, HardRock
+[21:43:02] BanchoBot: Players: 8
+[21:43:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      [Team Red ]
+[21:43:02] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     [Team Red ]
+[21:43:02] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12143654 -Krys-          [Team Red ]
+[21:43:02] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       [Team Red ]
+[21:43:02] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11021073 [sin]           [Team Blue]
+[21:43:02] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10143086 hotcat190       [Team Blue]
+[21:43:02] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/14065788 PolKet          [Team Blue]
+[21:43:02] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/9685975 Okayu ASMR      [Team Blue]
+[21:43:04] DaddyStage: !mp start 5 glhf
+[21:43:05] BanchoBot: Countdown aborted
+[21:43:05] BanchoBot: Match starts in 5 seconds
+[21:43:05] BanchoBot: Queued the match to start in 5 seconds
+[21:43:06] BanchoBot: Match starts in 4 seconds
+[21:43:07] BanchoBot: Match starts in 3 seconds
+[21:43:08] BanchoBot: Good luck, have fun!
+[21:43:10] BanchoBot: The match has started!
+[21:47:11] BanchoBot: _ Freedom _ finished playing (Score: 390172, PASSED).
+[21:47:11] BanchoBot: KazutoGGO finished playing (Score: 127243, PASSED).
+[21:47:11] BanchoBot: hotcat190 finished playing (Score: 572551, PASSED).
+[21:47:11] BanchoBot: -Krys- finished playing (Score: 271967, PASSED).
+[21:47:11] BanchoBot: [Boy]DaLat finished playing (Score: 369758, PASSED).
+[21:47:11] BanchoBot: [sin] finished playing (Score: 392847, PASSED).
+[21:47:11] BanchoBot: Okayu ASMR finished playing (Score: 81574, PASSED).
+[21:47:12] BanchoBot: PolKet finished playing (Score: 66224, PASSED).
+[21:47:12] BanchoBot: The match has finished!
+[21:47:26] DaddyStage: brown ryo | 3 - 1 | BOCCHI THE BLOCK // Next Pick: brown ryo
+[21:47:31] DaddyStage: !mp timer 90
+[21:47:31] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:47:43] [Boy]DaLat: DT2
+[21:48:01] BanchoBot: Countdown ends in 1 minute
+[21:48:11] DaddyStage: !mp map 3336914 0
+[21:48:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3336914 yuikonnu - Gigantic O.T.N
+[21:48:12] BanchoBot: Changed match mode to Osu
+[21:48:14] DaddyStage: !mp mods 65
+[21:48:16] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:48:18] DaddyStage: !mp timer 90
+[21:48:19] BanchoBot: Countdown aborted
+[21:48:19] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:48:50] BanchoBot: Countdown ends in 1 minute
+[21:49:19] BanchoBot: Countdown ends in 30 seconds
+[21:49:24] [Boy]DaLat: gl
+[21:49:39] BanchoBot: Countdown ends in 10 seconds
+[21:49:42] BanchoBot: All players are ready
+[21:49:45] BanchoBot: Countdown ends in 5 seconds
+[21:49:46] DaddyStage: !mp settings
+[21:49:46] BanchoBot: Countdown ends in 4 seconds
+[21:49:46] hotcat190: golf
+[21:49:47] BanchoBot: Countdown ends in 3 seconds
+[21:49:47] BanchoBot: Room name: MDDC: (brown ryo) vs (BOCCHI THE BLOCK), History: https://osu.ppy.sh/mp/106308278
+[21:49:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/3336914 yuikonnu - Gigantic O.T.N
+[21:49:47] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:49:47] BanchoBot: Active mods: NoFail, DoubleTime
+[21:49:47] BanchoBot: Players: 8
+[21:49:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      [Team Red ]
+[21:49:47] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     [Team Red ]
+[21:49:47] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12143654 -Krys-          [Team Red ]
+[21:49:47] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       [Team Red ]
+[21:49:47] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11021073 [sin]           [Team Blue]
+[21:49:47] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10143086 hotcat190       [Team Blue]
+[21:49:47] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/14065788 PolKet          [Team Blue]
+[21:49:47] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/9685975 Okayu ASMR      [Team Blue]
+[21:49:48] BanchoBot: Countdown ends in 2 seconds
+[21:49:48] BanchoBot: Countdown ends in 1 second
+[21:49:49] DaddyStage: !mp start 5 glhf
+[21:49:49] [sin]: gl
+[21:49:49] BanchoBot: Countdown finished
+[21:49:49] BanchoBot: Match starts in 5 seconds
+[21:49:49] BanchoBot: Queued the match to start in 5 seconds
+[21:49:50] BanchoBot: Match starts in 4 seconds
+[21:49:51] BanchoBot: Match starts in 3 seconds
+[21:49:52] BanchoBot: Good luck, have fun!
+[21:49:55] BanchoBot: The match has started!
+[21:52:16] BanchoBot: KazutoGGO finished playing (Score: 69428, PASSED).
+[21:52:17] BanchoBot: hotcat190 finished playing (Score: 506014, PASSED).
+[21:52:17] BanchoBot: -Krys- finished playing (Score: 255364, PASSED).
+[21:52:17] BanchoBot: PolKet finished playing (Score: 119912, PASSED).
+[21:52:17] BanchoBot: [sin] finished playing (Score: 479571, PASSED).
+[21:52:20] BanchoBot: [Boy]DaLat finished playing (Score: 548446, PASSED).
+[21:52:20] BanchoBot: Okayu ASMR finished playing (Score: 73588, PASSED).
+[21:52:20] BanchoBot: _ Freedom _ finished playing (Score: 927528, PASSED).
+[21:52:20] BanchoBot: The match has finished!
+[21:52:24] DaddyStage: brown ryo | 4 - 1 | BOCCHI THE BLOCK // Next Pick: BOCCHI THE BLOCK
+[21:52:25] DaddyStage: !mp timer 90
+[21:52:26] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:52:43] -Krys-: 1 SỰ THẤT BẠI CỦA DT PLAYER
+[21:52:43] -Krys-: TOP 1 KRYS
+[21:52:56] BanchoBot: Countdown ends in 1 minute
+[21:53:00] [sin]: FM3
+[21:53:12] DaddyStage: !mp map 732316 0
+[21:53:13] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/732316 kradness&Reol - Okochama Sensou
+[21:53:13] BanchoBot: Changed match mode to Osu
+[21:53:16] DaddyStage: !mp mods Freemod
+[21:53:17] BanchoBot: Disabled all mods, enabled FreeMod
+[21:53:18] DaddyStage: !mp timer 90
+[21:53:19] BanchoBot: Countdown aborted
+[21:53:19] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:53:22] Okayu_ASMR: test het nguyen pool luon ha anh
+[21:53:24] Okayu_ASMR: co test tb k
+[21:53:30] hotcat190: dung v
+[21:53:38] hotcat190: day la mot buoi pool showcase
+[21:53:49] BanchoBot: Countdown ends in 1 minute
+[21:53:57] [Boy]DaLat: ti test
+[21:53:59] DaddyStage: forced tb
+[21:54:03] DaddyStage: tran trong cam on
+[21:54:19] BanchoBot: Countdown ends in 30 seconds
+[21:54:27] hotcat190: golf
+[21:54:31] BanchoBot: All players are ready
+[21:54:40] BanchoBot: Countdown ends in 10 seconds
+[21:54:43] DaddyStage: !mp settings
+[21:54:43] [Boy]DaLat: gl
+[21:54:43] BanchoBot: Room name: MDDC: (brown ryo) vs (BOCCHI THE BLOCK), History: https://osu.ppy.sh/mp/106308278
+[21:54:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/732316 kradness&Reol - Okochama Sensou
+[21:54:43] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:54:43] BanchoBot: Active mods: Freemod
+[21:54:43] BanchoBot: Players: 8
+[21:54:43] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      [Team Red  / NoFail]
+[21:54:43] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     [Team Red  / NoFail, Hidden, HardRock]
+[21:54:43] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12143654 -Krys-          [Team Red  / NoFail]
+[21:54:43] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       [Team Red  / NoFail, Hidden]
+[21:54:43] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11021073 [sin]           [Team Blue / NoFail, HardRock]
+[21:54:43] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10143086 hotcat190       [Team Blue / NoFail]
+[21:54:43] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/14065788 PolKet          [Team Blue / NoFail, Hidden]
+[21:54:43] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/9685975 Okayu ASMR      [Team Blue / NoFail]
+[21:54:44] BanchoBot: Countdown ends in 5 seconds
+[21:54:45] BanchoBot: Countdown ends in 4 seconds
+[21:54:47] BanchoBot: Countdown ends in 3 seconds
+[21:54:47] KazutoGGO: gl
+[21:54:48] BanchoBot: Countdown ends in 2 seconds
+[21:54:49] BanchoBot: Countdown ends in 1 second
+[21:54:49] BanchoBot: Countdown finished
+[21:54:50] DaddyStage: !mp start 5 glhf
+[21:54:51] BanchoBot: Match starts in 5 seconds
+[21:54:51] BanchoBot: Queued the match to start in 5 seconds
+[21:54:52] BanchoBot: Match starts in 4 seconds
+[21:54:53] BanchoBot: Match starts in 3 seconds
+[21:54:54] BanchoBot: Good luck, have fun!
+[21:54:57] BanchoBot: The match has started!
+[21:58:32] BanchoBot: hotcat190 finished playing (Score: 402507, PASSED).
+[21:58:32] BanchoBot: PolKet finished playing (Score: 109818, PASSED).
+[21:58:34] BanchoBot: Okayu ASMR finished playing (Score: 197882, PASSED).
+[21:58:34] BanchoBot: KazutoGGO finished playing (Score: 89722, PASSED).
+[21:58:34] BanchoBot: [Boy]DaLat finished playing (Score: 395327, PASSED).
+[21:58:34] BanchoBot: -Krys- finished playing (Score: 269575, PASSED).
+[21:58:34] BanchoBot: _ Freedom _ finished playing (Score: 230991, PASSED).
+[21:58:34] BanchoBot: [sin] finished playing (Score: 274764, PASSED).
+[21:58:34] BanchoBot: The match has finished!
+[21:58:46] Okayu_ASMR: cung manh
+[21:58:54] DaddyStage: brown ryo | 5 - 1 | BOCCHI THE BLOCK // Next Pick: brown ryo
+[21:58:55] DaddyStage: !mp timer 90
+[21:58:56] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:59:00] PolKet: qua kho
+[21:59:01] [sin]: top scores HR :pog:
+[21:59:04] PolKet: nm2 chillin di may anh
+[21:59:07] [sin]: quá chiến
+[21:59:08] [sin]: :dance:
+[21:59:22] [Boy]DaLat: HR1
+[21:59:26] BanchoBot: Countdown ends in 1 minute
+[21:59:42] DaddyStage: !mp map 2634223 0
+[21:59:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2634223 Rita - deficiency
+[21:59:43] BanchoBot: Changed match mode to Osu
+[21:59:45] DaddyStage: !mp mods 17
+[21:59:46] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[21:59:46] DaddyStage: !mp timer 90
+[21:59:47] BanchoBot: Countdown aborted
+[21:59:47] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[22:00:04] [Boy]DaLat: gl
+[22:00:17] BanchoBot: Countdown ends in 1 minute
+[22:00:47] BanchoBot: Countdown ends in 30 seconds
+[22:00:56] BanchoBot: All players are ready
+[22:00:57] hotcat190: golf
+[22:00:57] DaddyStage: !mp settings
+[22:00:59] BanchoBot: Room name: MDDC: (brown ryo) vs (BOCCHI THE BLOCK), History: https://osu.ppy.sh/mp/106308278
+[22:00:59] BanchoBot: Beatmap: https://osu.ppy.sh/b/2634223 Rita - deficiency
+[22:00:59] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:00:59] BanchoBot: Active mods: NoFail, HardRock
+[22:00:59] BanchoBot: Players: 8
+[22:00:59] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      [Team Red ]
+[22:00:59] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     [Team Red ]
+[22:00:59] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12143654 -Krys-          [Team Red ]
+[22:00:59] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       [Team Red ]
+[22:00:59] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11021073 [sin]           [Team Blue]
+[22:00:59] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10143086 hotcat190       [Team Blue]
+[22:00:59] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/14065788 PolKet          [Team Blue]
+[22:00:59] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/9685975 Okayu ASMR      [Team Blue]
+[22:01:01] DaddyStage: !mp start 5 glhf
+[22:01:02] BanchoBot: Countdown aborted
+[22:01:02] BanchoBot: Match starts in 5 seconds
+[22:01:02] BanchoBot: Queued the match to start in 5 seconds
+[22:01:03] BanchoBot: Match starts in 4 seconds
+[22:01:04] BanchoBot: Match starts in 3 seconds
+[22:01:05] BanchoBot: Good luck, have fun!
+[22:01:07] BanchoBot: The match has started!
+[22:04:50] BanchoBot: PolKet finished playing (Score: 53396, PASSED).
+[22:04:50] BanchoBot: KazutoGGO finished playing (Score: 144042, PASSED).
+[22:04:50] BanchoBot: _ Freedom _ finished playing (Score: 455895, PASSED).
+[22:04:51] BanchoBot: -Krys- finished playing (Score: 231437, PASSED).
+[22:04:51] BanchoBot: hotcat190 finished playing (Score: 606648, PASSED).
+[22:04:51] BanchoBot: [sin] finished playing (Score: 991865, PASSED).
+[22:04:51] BanchoBot: Okayu ASMR finished playing (Score: 61702, PASSED).
+[22:04:52] BanchoBot: [Boy]DaLat finished playing (Score: 314588, PASSED).
+[22:04:52] BanchoBot: The match has finished!
+[22:04:59] [Boy]DaLat: sin lovesmack
+[22:05:00] [Boy]DaLat: nice score
+[22:05:05] PolKet: SINNING
+[22:05:05] Okayu_ASMR: den gio sin r?!?
+[22:05:08] -Krys-: cho sin này
+[22:05:09] [sin]: nah
+[22:05:12] DaddyStage: brown ryo | 5 - 2 | BOCCHI THE BLOCK // Next Pick: BOCCHI THE BLOCK
+[22:05:12] [sin]: tôi chỉ bik
+[22:05:15] [sin]: WYSIIIIIIIIIIIII
+[22:05:15] [sin]: XD
+[22:05:15] DaddyStage: !mp timer 90
+[22:05:16] -Krys-: m có thôi đi k
+[22:05:16] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[22:05:22] KazutoGGO: wysii
+[22:05:47] BanchoBot: Countdown ends in 1 minute
+[22:05:52] [sin]: BANGER TIME
+[22:05:55] [sin]: NM3
+[22:06:08] DaddyStage: !mp map 3099250 0
+[22:06:09] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3099250 A-One feat. ayaponzu* - Justice Monster
+[22:06:09] BanchoBot: Changed match mode to Osu
+[22:06:10] DaddyStage: !mp mods 1
+[22:06:10] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:06:11] DaddyStage: !mp timer 90
+[22:06:11] BanchoBot: Countdown aborted
+[22:06:11] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[22:06:42] BanchoBot: Countdown ends in 1 minute
+[22:06:59] BanchoBot: All players are ready
+[22:07:05] hotcat190: golf
+[22:07:09] DaddyStage: !mp settings
+[22:07:10] Okayu_ASMR: golf
+[22:07:10] BanchoBot: Room name: MDDC: (brown ryo) vs (BOCCHI THE BLOCK), History: https://osu.ppy.sh/mp/106308278
+[22:07:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/3099250 A-One feat. ayaponzu* - Justice Monster
+[22:07:10] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:07:10] BanchoBot: Active mods: NoFail
+[22:07:10] BanchoBot: Players: 8
+[22:07:10] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      [Team Red ]
+[22:07:10] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     [Team Red ]
+[22:07:10] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12143654 -Krys-          [Team Red ]
+[22:07:10] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       [Team Red ]
+[22:07:10] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11021073 [sin]           [Team Blue]
+[22:07:10] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10143086 hotcat190       [Team Blue]
+[22:07:10] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/14065788 PolKet          [Team Blue]
+[22:07:10] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/9685975 Okayu ASMR      [Team Blue]
+[22:07:12] BanchoBot: Countdown ends in 30 seconds
+[22:07:13] DaddyStage: !mp start 5 glhf
+[22:07:14] BanchoBot: Countdown aborted
+[22:07:14] BanchoBot: Match starts in 5 seconds
+[22:07:14] BanchoBot: Queued the match to start in 5 seconds
+[22:07:15] BanchoBot: Match starts in 4 seconds
+[22:07:16] BanchoBot: Match starts in 3 seconds
+[22:07:18] BanchoBot: Good luck, have fun!
+[22:07:18] [Boy]DaLat: gl
+[22:07:20] BanchoBot: The match has started!
+[22:07:20] [sin]: gl
+[22:11:33] BanchoBot: [Boy]DaLat finished playing (Score: 263708, PASSED).
+[22:11:33] BanchoBot: _ Freedom _ finished playing (Score: 346425, PASSED).
+[22:11:34] BanchoBot: KazutoGGO finished playing (Score: 68820, PASSED).
+[22:11:34] BanchoBot: [sin] finished playing (Score: 301778, PASSED).
+[22:11:34] BanchoBot: hotcat190 finished playing (Score: 285380, PASSED).
+[22:11:34] BanchoBot: Okayu ASMR finished playing (Score: 97332, PASSED).
+[22:11:34] BanchoBot: PolKet finished playing (Score: 49597, PASSED).
+[22:11:34] BanchoBot: -Krys- finished playing (Score: 97335, PASSED).
+[22:11:34] BanchoBot: The match has finished!
+[22:11:41] DaddyStage: brown ryo | 6 - 2 | BOCCHI THE BLOCK // Next Pick: brown ryo
+[22:11:43] DaddyStage: !mp timer 90
+[22:11:44] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[22:11:53] PolKet: nhuong di
+[22:11:55] PolKet: huhu
+[22:12:01] -Krys-: ?????
+[22:12:03] Okayu_ASMR: cung manh
+[22:12:15] [Boy]DaLat: DT4
+[22:12:15] BanchoBot: Countdown ends in 1 minute
+[22:12:38] DaddyStage: !mp map 3249543 0
+[22:12:38] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3249543 TWICE - The Feels
+[22:12:38] BanchoBot: Changed match mode to Osu
+[22:12:41] DaddyStage: !mp mods 65
+[22:12:41] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[22:12:43] DaddyStage: !mp timer 90
+[22:12:44] BanchoBot: Countdown aborted
+[22:12:44] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[22:12:51] [sin]: BANGERRRRRRRRRRR
+[22:12:52] [Boy]DaLat: gl
+[22:12:52] [sin]: leggoooooooooooo
+[22:13:01] [sin]: :dance:
+[22:13:14] BanchoBot: Countdown ends in 1 minute
+[22:13:45] BanchoBot: Countdown ends in 30 seconds
+[22:13:49] hotcat190: golf
+[22:13:56] KazutoGGO: gl
+[22:14:01] BanchoBot: All players are ready
+[22:14:02] [sin]: gl
+[22:14:04] BanchoBot: Countdown ends in 10 seconds
+[22:14:04] DaddyStage: !mp settings
+[22:14:05] BanchoBot: Room name: MDDC: (brown ryo) vs (BOCCHI THE BLOCK), History: https://osu.ppy.sh/mp/106308278
+[22:14:05] BanchoBot: Beatmap: https://osu.ppy.sh/b/3249543 TWICE - The Feels
+[22:14:05] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:14:05] BanchoBot: Active mods: NoFail, DoubleTime
+[22:14:05] BanchoBot: Players: 8
+[22:14:05] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      [Team Red ]
+[22:14:05] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     [Team Red ]
+[22:14:05] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12143654 -Krys-          [Team Red ]
+[22:14:05] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       [Team Red ]
+[22:14:05] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11021073 [sin]           [Team Blue]
+[22:14:05] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10143086 hotcat190       [Team Blue]
+[22:14:05] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/14065788 PolKet          [Team Blue]
+[22:14:05] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/9685975 Okayu ASMR      [Team Blue]
+[22:14:09] BanchoBot: Countdown ends in 5 seconds
+[22:14:10] BanchoBot: Countdown ends in 4 seconds
+[22:14:11] DaddyStage: !mp start 5 glhf
+[22:14:11] BanchoBot: Countdown ends in 3 seconds
+[22:14:11] BanchoBot: Countdown aborted
+[22:14:11] BanchoBot: Match starts in 5 seconds
+[22:14:11] BanchoBot: Queued the match to start in 5 seconds
+[22:14:13] BanchoBot: Match starts in 4 seconds
+[22:14:14] BanchoBot: Match starts in 3 seconds
+[22:14:15] BanchoBot: Good luck, have fun!
+[22:14:17] BanchoBot: The match has started!
+[22:16:36] BanchoBot: hotcat190 finished playing (Score: 1033089, PASSED).
+[22:16:36] BanchoBot: _ Freedom _ finished playing (Score: 1020118, PASSED).
+[22:16:36] BanchoBot: Okayu ASMR finished playing (Score: 139506, PASSED).
+[22:16:36] BanchoBot: [sin] finished playing (Score: 691034, PASSED).
+[22:16:36] BanchoBot: PolKet finished playing (Score: 76793, PASSED).
+[22:16:36] BanchoBot: [Boy]DaLat finished playing (Score: 461557, PASSED).
+[22:16:37] BanchoBot: KazutoGGO finished playing (Score: 285004, PASSED).
+[22:16:38] BanchoBot: -Krys- finished playing (Score: 329784, PASSED).
+[22:16:38] BanchoBot: The match has finished!
+[22:16:59] [sin]: XD
+[22:17:01] [Boy]DaLat: gg
+[22:17:02] [Boy]DaLat: ggwp
+[22:17:03] -Krys-: GGWP
+[22:17:03] [sin]: FC nhung van thua
+[22:17:04] Okayu_ASMR: gg
+[22:17:04] [sin]: cuoi ia
+[22:17:06] [Boy]DaLat: ncie score hotcat
+[22:17:12] DaddyStage: Congrats to brown ryo for winning this match! GGWP both teams!
+[22:17:14] hotcat190: ggwp
+[22:17:14] hotcat190: :v
+[22:17:17] DaddyStage: #KAZUTOBADGED
+[22:17:18] PolKet: GGWP
+[22:17:40] hotcat190: tks for ref
+[22:17:46] [Boy]DaLat: tb
+[22:17:48] hotcat190: a co choi tb ko
+[22:18:05] Okayu_ASMR: oh shit
+[22:18:09] DaddyStage: !mp map 3320026 0
+[22:18:09] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3320026 LeaF - Calamity Fortune (extended ver.)
+[22:18:09] BanchoBot: Changed match mode to Osu
+[22:18:24] DaddyStage: !mp mods Freemod
+[22:18:25] BanchoBot: Disabled all mods, enabled FreeMod
+[22:18:36] DaddyStage: :yum:
+[22:20:02] DaddyStage: !mp settings
+[22:20:03] BanchoBot: Room name: MDDC: (brown ryo) vs (BOCCHI THE BLOCK), History: https://osu.ppy.sh/mp/106308278
+[22:20:03] BanchoBot: Beatmap: https://osu.ppy.sh/b/3320026 LeaF - Calamity Fortune (extended ver.)
+[22:20:03] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:20:03] BanchoBot: Active mods: Freemod
+[22:20:03] BanchoBot: Players: 8
+[22:20:03] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      [Team Red  / NoFail]
+[22:20:03] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     [Team Red  / NoFail]
+[22:20:03] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12143654 -Krys-          [Team Red  / NoFail]
+[22:20:03] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       [Team Red  / NoFail]
+[22:20:03] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/11021073 [sin]           [Team Blue]
+[22:20:03] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/10143086 hotcat190       [Team Blue / NoFail]
+[22:20:03] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/14065788 PolKet          [Team Blue / NoFail]
+[22:20:03] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/9685975 Okayu ASMR      [Team Blue / NoFail]
+[22:20:26] BanchoBot: All players are ready
+[22:20:29] DaddyStage: !mp settings
+[22:20:30] BanchoBot: Room name: MDDC: (brown ryo) vs (BOCCHI THE BLOCK), History: https://osu.ppy.sh/mp/106308278
+[22:20:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/3320026 LeaF - Calamity Fortune (extended ver.)
+[22:20:30] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:20:30] BanchoBot: Active mods: Freemod
+[22:20:30] BanchoBot: Players: 8
+[22:20:30] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      [Team Red  / NoFail]
+[22:20:30] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     [Team Red  / NoFail]
+[22:20:30] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12143654 -Krys-          [Team Red  / NoFail]
+[22:20:30] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       [Team Red  / NoFail]
+[22:20:30] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11021073 [sin]           [Team Blue / NoFail, HardRock]
+[22:20:30] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10143086 hotcat190       [Team Blue / NoFail]
+[22:20:30] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/14065788 PolKet          [Team Blue / NoFail]
+[22:20:30] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/9685975 Okayu ASMR      [Team Blue / NoFail]
+[22:20:32] DaddyStage: !mp start 5 glhf
+[22:20:33] BanchoBot: Match starts in 5 seconds
+[22:20:33] BanchoBot: Queued the match to start in 5 seconds
+[22:20:34] BanchoBot: Match starts in 4 seconds
+[22:20:35] BanchoBot: Match starts in 3 seconds
+[22:20:36] BanchoBot: Good luck, have fun!
+[22:20:39] BanchoBot: The match has started!
+[22:20:39] Okayu_ASMR: golf
+[22:27:10] BanchoBot: KazutoGGO finished playing (Score: 70312, PASSED).
+[22:27:11] BanchoBot: hotcat190 finished playing (Score: 329777, PASSED).
+[22:27:11] BanchoBot: -Krys- finished playing (Score: 120704, PASSED).
+[22:27:11] BanchoBot: Okayu ASMR finished playing (Score: 85239, PASSED).
+[22:27:11] BanchoBot: [sin] finished playing (Score: 208767, PASSED).
+[22:27:11] BanchoBot: PolKet finished playing (Score: 35076, PASSED).
+[22:27:11] BanchoBot: [Boy]DaLat finished playing (Score: 163590, PASSED).
+[22:27:12] BanchoBot: _ Freedom _ finished playing (Score: 376351, PASSED).
+[22:27:12] BanchoBot: The match has finished!
+[22:27:20] [sin]: XD
+[22:27:24] [sin]: oke oke
+[22:27:24] PolKet: cảm ơn mng nhiều ạ
+[22:27:25] DaddyStage: :3c
+[22:27:26] PolKet: !!
+[22:27:28] [Boy]DaLat: good game moi nguoi
+[22:27:32] [Boy]DaLat: thanks for ref
+[22:27:33] [sin]: thanks 4 ref vs chúc mừng bên kia nha
+[22:27:33] hotcat190: tks for games
+[22:27:37] __Freedom__: GGWP
+[22:27:38] Okayu_ASMR: thx for ref!!!!
+[22:27:38] PolKet: chúc mng ăn tết vui vẻ với gia dinh a
+[22:27:40] -Krys-: ggwp
+[22:27:42] [sin]: ggwp
+[22:27:43] __Freedom__: tks for the game
+[22:27:46] [sin]: ăn tết vv
+[22:27:48] __Freedom__: tks for ref
+[22:27:51] -Krys-: ty ref and staff
+[22:27:51] [sin]: :pog: game
+[22:27:54] KazutoGGO: thank for ref
+[22:27:57] __Freedom__: chuc moi nguoi an tet vui ve
+[22:27:57] -Krys-: HELLO HATERS
+[22:28:02] KazutoGGO: thanks  for the game
+[22:28:02] -Krys-: LOOK WHAT I GOT
+[22:28:05] Okayu_ASMR: thats me
+[22:28:16] [Boy]DaLat: Chuc moi nguoi an Tet vui ve nha
+[22:29:52] PolKet: o////
+[22:29:53] BanchoBot: PolKet left the game.
+[22:30:06] BanchoBot: -Krys- left the game.
+[22:30:17] hotcat190: ae co map nao farm 500 gui toi voi
+[22:30:20] hotcat190: :tf:
+[22:30:36] [sin]: hotcat trôn
+[22:30:39] __Freedom__: star light star bright
+[22:30:43] __Freedom__: 761pp
+[22:30:48] hotcat190: thua
+[22:30:59] BanchoBot: _ Freedom _ left the game.
+[22:31:08] BanchoBot: hotcat190 left the game.
+[22:31:13] BanchoBot: Okayu ASMR left the game.
+[22:31:13] BanchoBot: KazutoGGO left the game.
+[22:31:17] BanchoBot: [Boy]DaLat left the game.
+[22:32:00] DaddyStage: :(
+[22:32:05] DaddyStage: o/
+[22:39:12] DaddyStage: !mp close
+[22:39:13] BanchoBot: Closed the match

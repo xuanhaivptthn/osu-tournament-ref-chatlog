@@ -1,0 +1,3268 @@
+[20:55:49] Joined #mp_112309028
+[20:55:49] BCraftMG: !mp settings
+[20:55:50] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[20:55:50] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[20:55:50] BanchoBot: Players: 0
+[20:56:13] BCraftMG: !mp set 0 3 16
+[20:56:13] BanchoBot: Changed match settings to 16 slots, HeadToHead, ScoreV2
+[20:56:14] BCraftMG: !mp invite #31659938
+[20:56:14] BanchoBot: Invited 25 FPS to the room
+[20:56:16] BCraftMG: !mp invite #13826244
+[20:56:16] BanchoBot: Invited aiyern to the room
+[20:56:17] BCraftMG: !mp invite #17357380
+[20:56:18] BanchoBot: Invited ayumiikin_ to the room
+[20:56:19] BCraftMG: !mp invite #8945565
+[20:56:19] BanchoBot: User not found
+[20:56:20] BCraftMG: !mp invite #11538640
+[20:56:21] BanchoBot: Invited electrostrike to the room
+[20:56:24] BCraftMG: !mp invite #14037584
+[20:56:25] BanchoBot: aiyern joined in slot 1.
+[20:56:25] BanchoBot: Invited hdt2410 to the room
+[20:56:26] BCraftMG: !mp invite #27142941
+[20:56:27] BanchoBot: Invited Khanhtan0306 to the room
+[20:56:28] BCraftMG: !mp invite #23870096
+[20:56:28] BanchoBot: Invited LeafLeave to the room
+[20:56:29] BCraftMG: !mp invite #24559528
+[20:56:30] BanchoBot: Invited Lemoonz to the room
+[20:56:31] BCraftMG: !mp invite #9304375
+[20:56:31] BanchoBot: User not found
+[20:56:33] BanchoBot: hdt2410 joined in slot 2.
+[20:56:35] BCraftMG: !mp invite #9281738
+[20:56:36] BanchoBot: User not found
+[20:56:38] BCraftMG: !mp invite #30252345
+[20:56:39] aiyern: o/
+[20:56:39] BanchoBot: Invited My Angel Cocoa to the room
+[20:56:39] BCraftMG: !mp invite #13238121
+[20:56:40] BanchoBot: Invited smthelse to the room
+[20:56:41] BCraftMG: !mp invite #28569876
+[20:56:42] BanchoBot: Invited zeroly to the room
+[20:56:48] BanchoBot: zeroly joined in slot 3.
+[20:56:57] BanchoBot: LeafLeave joined in slot 4.
+[20:57:06] BanchoBot: 25 FPS joined in slot 5.
+[20:57:11] BanchoBot: Lemoonz joined in slot 6.
+[20:57:11] BanchoBot: Khanhtan0306 joined in slot 7.
+[20:57:13] BanchoBot: ayumiikin_ joined in slot 8.
+[20:57:38] BCraftMG: !mp settings
+[20:57:39] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[20:57:39] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:57:39] BanchoBot: Players: 8
+[20:57:39] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/13826244 aiyern          
+[20:57:39] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/14037584 hdt2410         
+[20:57:39] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/28569876 zeroly          
+[20:57:39] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/23870096 LeafLeave       
+[20:57:39] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/31659938 25 FPS          
+[20:57:39] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/24559528 Lemoonz         
+[20:57:39] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[20:57:39] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/17357380 ayumiikin_      
+[20:57:42] BCraftMG: !mp map 2374158 0
+[20:57:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2374158 AliA - impulse
+[20:57:43] BanchoBot: Changed match mode to Osu
+[20:57:44] BCraftMG: !mp mods 1
+[20:57:45] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:57:46] LeafLeave: den luc cuoi looby roi
+[20:57:52] BanchoBot: electrostrike joined in slot 9.
+[20:58:01] BanchoBot: smthelse joined in slot 10.
+[20:58:19] smthelse: hello ixn chao moi nguoi
+[20:58:24] zeroly: map nhu cut
+[20:58:24] BCraftMG: !mp size 16
+[20:58:25] 25_FPS: hallo
+[20:58:25] BanchoBot: Changed match to size 16
+[20:58:30] hdt2410: hello gyze
+[20:58:30] electrostrike: o/
+[20:58:31] LeafLeave: heli a nguyen
+[20:58:46] smthelse: mong moi nguoi chi dan
+[20:58:47] smthelse: !
+[20:58:58] Khanhtan0306: hi
+[20:59:10] BCraftMG: !mp invite #8945565
+[20:59:11] BanchoBot: User not found
+[20:59:14] BCraftMG: !mp invite #9304375
+[20:59:14] BanchoBot: User not found
+[20:59:16] BCraftMG: !mp invite #9281738
+[20:59:17] BanchoBot: User not found
+[20:59:19] BCraftMG: !mp invite #30252345
+[20:59:19] BanchoBot: Invited My Angel Cocoa to the room
+[20:59:41] smthelse: rf oi tu tu
+[20:59:42] smthelse: cho m 5p
+[20:59:43] electrostrike: stacked lobby
+[20:59:44] smthelse: giai quyt noi buon
+[20:59:49] smthelse: em*
+[21:00:45] BCraftMG: !mp settings
+[21:00:46] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[21:00:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/2374158 AliA - impulse
+[21:00:46] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:00:46] BanchoBot: Active mods: NoFail
+[21:00:46] BanchoBot: Players: 10
+[21:00:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:00:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         
+[21:00:46] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28569876 zeroly          
+[21:00:46] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23870096 LeafLeave       
+[21:00:46] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/31659938 25 FPS          
+[21:00:46] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/24559528 Lemoonz         
+[21:00:46] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[21:00:46] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      
+[21:00:46] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[21:00:46] BanchoBot: Slot 10 Not Ready https://osu.ppy.sh/u/13238121 smthelse        
+[21:01:09] BCraftMG: !mp invite #30252345
+[21:01:09] BanchoBot: Invited My Angel Cocoa to the room
+[21:01:57] BanchoBot: Lemoonz moved to slot 13
+[21:01:57] BanchoBot: Lemoonz moved to slot 14
+[21:01:58] BanchoBot: Lemoonz moved to slot 12
+[21:01:58] BanchoBot: Lemoonz moved to slot 15
+[21:02:00] BanchoBot: Lemoonz moved to slot 13
+[21:02:00] BanchoBot: Lemoonz moved to slot 12
+[21:02:00] BanchoBot: Lemoonz moved to slot 14
+[21:02:00] BanchoBot: Lemoonz moved to slot 12
+[21:02:02] BanchoBot: Lemoonz moved to slot 13
+[21:02:04] BanchoBot: Lemoonz moved to slot 12
+[21:02:05] BanchoBot: Lemoonz moved to slot 11
+[21:02:05] BanchoBot: Lemoonz moved to slot 14
+[21:02:05] BanchoBot: Lemoonz moved to slot 15
+[21:02:06] BanchoBot: Lemoonz moved to slot 13
+[21:02:06] BanchoBot: Lemoonz moved to slot 14
+[21:02:07] BanchoBot: Lemoonz moved to slot 12
+[21:02:07] BanchoBot: Lemoonz moved to slot 15
+[21:02:08] BanchoBot: Lemoonz moved to slot 11
+[21:02:09] BanchoBot: Lemoonz moved to slot 12
+[21:02:09] BanchoBot: Lemoonz moved to slot 14
+[21:02:09] BanchoBot: Lemoonz moved to slot 13
+[21:02:09] BanchoBot: Lemoonz moved to slot 15
+[21:02:10] BCraftMG: !mp lock
+[21:02:10] BanchoBot: Lemoonz moved to slot 12
+[21:02:10] BanchoBot: Locked the match
+[21:02:20] BanchoBot: Khanhtan0306 left the game.
+[21:02:30] zeroly: ngoi an ti
+[21:02:34] BanchoBot: Khanhtan0306 joined in slot 6.
+[21:02:44] BCraftMG: !mp settings
+[21:02:45] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[21:02:45] BanchoBot: Beatmap: https://osu.ppy.sh/b/2374158 AliA - impulse
+[21:02:45] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:02:45] BanchoBot: Active mods: NoFail
+[21:02:45] BanchoBot: Players: 10
+[21:02:45] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:02:45] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         
+[21:02:45] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/28569876 zeroly          
+[21:02:45] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23870096 LeafLeave       
+[21:02:45] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/31659938 25 FPS          
+[21:02:45] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[21:02:45] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      
+[21:02:45] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[21:02:45] BanchoBot: Slot 10 Not Ready https://osu.ppy.sh/u/13238121 smthelse        
+[21:02:45] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/24559528 Lemoonz         
+[21:04:14] BCraftMG: !mp password MyAngelCocoa
+[21:04:15] BanchoBot: Changed the match password
+[21:04:22] 25_FPS: :))
+[21:04:58] BanchoBot: Khanhtan0306 left the game.
+[21:05:07] BanchoBot: My Angel Cocoa joined in slot 6.
+[21:05:11] smthelse: hllo ae\
+[21:05:16] 25_FPS: halop
+[21:05:35] BCraftMG: !mp invite #8945565
+[21:05:36] BanchoBot: Invited budget boydn to the room
+[21:05:45] electrostrike: we speedrun this gyze
+[21:05:45] My_Angel_Cocoa: Có mỗi tham gia phòng mà cũng bịp thật :troll:
+[21:05:49] BanchoBot: budget boydn joined in slot 7.
+[21:05:49] zeroly: chi biet choi moi tv size
+[21:05:55] BanchoBot: Khanhtan0306 joined in slot 11.
+[21:05:58] BCraftMG: r khanhtan dau
+[21:05:59] BCraftMG: day
+[21:06:01] BCraftMG: ok ready up
+[21:06:02] BCraftMG: !mp settings
+[21:06:02] My_Angel_Cocoa: Ae nhìn tôi hóa chó đây :troll:
+[21:06:03] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[21:06:03] BanchoBot: Beatmap: https://osu.ppy.sh/b/2374158 AliA - impulse
+[21:06:03] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:06:03] BanchoBot: Active mods: NoFail
+[21:06:03] BanchoBot: Players: 12
+[21:06:03] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:06:03] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         
+[21:06:03] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/28569876 zeroly          
+[21:06:03] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23870096 LeafLeave       
+[21:06:03] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/31659938 25 FPS          
+[21:06:03] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[21:06:03] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    
+[21:06:03] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      
+[21:06:03] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[21:06:03] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[21:06:03] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[21:06:03] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/24559528 Lemoonz         
+[21:06:07] Khanhtan0306: okay
+[21:06:10] electrostrike: !roll 1000
+[21:06:10] BanchoBot: electrostrike rolls 99 point(s)
+[21:06:13] budget_boydn: me bad pls carry
+[21:06:15] My_Angel_Cocoa: Riel
+[21:06:15] smthelse: !roll 100
+[21:06:15] BanchoBot: smthelse rolls 9 point(s)
+[21:06:19] smthelse: ?
+[21:06:21] hdt2410: ?
+[21:06:21] Khanhtan0306: !roll 1000
+[21:06:21] BanchoBot: Khanhtan0306 rolls 104 point(s)
+[21:06:24] electrostrike: xdd
+[21:06:26] zeroly: o dm con dung 1/4 hop xoi
+[21:06:30] hdt2410: vietnamese luck
+[21:06:39] LeafLeave: !roll 16 lobby placement
+[21:06:39] BanchoBot: LeafLeave rolls 1 point(s)
+[21:06:45] LeafLeave: VAS
+[21:06:47] smthelse: ac'
+[21:06:51] 25_FPS: ac
+[21:06:54] smthelse: !roll 2
+[21:06:54] BanchoBot: smthelse rolls 1 point(s)
+[21:06:54] Khanhtan0306: ac
+[21:06:58] Lemoonz: !roll 1000
+[21:06:58] BanchoBot: Lemoonz rolls 696 point(s)
+[21:06:58] ayumiikin_: ac
+[21:07:01] hdt2410: !rol 727
+[21:07:06] ayumiikin_: !roll 1000
+[21:07:06] BanchoBot: ayumiikin_ rolls 121 point(s)
+[21:07:08] hdt2410: !roll 727
+[21:07:08] BanchoBot: hdt2410 rolls 564 point(s)
+[21:07:15] Khanhtan0306: !roll 728
+[21:07:15] BanchoBot: Khanhtan0306 rolls 517 point(s)
+[21:07:18] 25_FPS: !roll 2  1 la out 2 la cut
+[21:07:18] BanchoBot: 25 FPS rolls 29 point(s)
+[21:07:24] My_Angel_Cocoa: !roll 727
+[21:07:24] BanchoBot: My Angel Cocoa rolls 456 point(s)
+[21:07:25] My_Angel_Cocoa: :troll:
+[21:07:25] 25_FPS: cut r ae
+[21:07:35] BCraftMG: !mp settings
+[21:07:36] Lemoonz: !roll 727
+[21:07:36] BanchoBot: Lemoonz rolls 263 point(s)
+[21:07:36] BanchoBot: All players are ready
+[21:07:36] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[21:07:36] BanchoBot: Beatmap: https://osu.ppy.sh/b/2374158 AliA - impulse
+[21:07:36] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:07:36] BanchoBot: Active mods: NoFail
+[21:07:36] BanchoBot: Players: 12
+[21:07:36] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:07:36] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         
+[21:07:36] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28569876 zeroly          
+[21:07:36] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23870096 LeafLeave       
+[21:07:36] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          
+[21:07:36] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[21:07:36] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    
+[21:07:36] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      
+[21:07:36] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[21:07:36] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[21:07:36] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[21:07:36] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/24559528 Lemoonz         
+[21:07:40] smthelse: o7
+[21:07:42] Khanhtan0306: !roll 727
+[21:07:42] BanchoBot: Khanhtan0306 rolls 202 point(s)
+[21:07:43] BCraftMG: 2p giữa các map
+[21:07:44] BCraftMG: !mp start 5 glhf
+[21:07:44] smthelse: day r
+[21:07:45] BanchoBot: Match starts in 5 seconds
+[21:07:45] BanchoBot: Queued the match to start in 5 seconds
+[21:07:46] BanchoBot: Match starts in 4 seconds
+[21:07:47] BanchoBot: Match starts in 3 seconds
+[21:07:48] smthelse: khum
+[21:07:48] electrostrike: glhf
+[21:07:48] BanchoBot: Good luck, have fun!
+[21:07:49] aiyern: glhf!
+[21:07:49] LeafLeave: glhf yall
+[21:07:50] Khanhtan0306: let go
+[21:07:50] BanchoBot: The match has started!
+[21:07:51] smthelse: chit
+[21:07:51] Khanhtan0306: glhf
+[21:07:55] BCraftMG: thằng nào bảo khum t ban
+[21:11:21] BanchoBot: Khanhtan0306 finished playing (Score: 225099, PASSED).
+[21:11:21] BanchoBot: My Angel Cocoa finished playing (Score: 197037, PASSED).
+[21:11:21] BanchoBot: 25 FPS finished playing (Score: 264345, PASSED).
+[21:11:21] BanchoBot: budget boydn finished playing (Score: 294834, PASSED).
+[21:11:22] BanchoBot: smthelse finished playing (Score: 542932, PASSED).
+[21:11:22] BanchoBot: aiyern finished playing (Score: 375163, PASSED).
+[21:11:22] BanchoBot: LeafLeave finished playing (Score: 291557, PASSED).
+[21:11:22] BanchoBot: hdt2410 finished playing (Score: 533420, PASSED).
+[21:11:22] BanchoBot: ayumiikin_ finished playing (Score: 321867, PASSED).
+[21:11:22] BanchoBot: Lemoonz finished playing (Score: 310008, PASSED).
+[21:11:23] BanchoBot: electrostrike finished playing (Score: 542280, PASSED).
+[21:11:23] BanchoBot: zeroly finished playing (Score: 318674, PASSED).
+[21:11:23] BanchoBot: The match has finished!
+[21:11:37] BCraftMG: !mp map 4304684 0
+[21:11:37] budget_boydn: quên keybind
+[21:11:37] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4304684 Sephid - Thunderstrike 1988
+[21:11:37] BanchoBot: Changed match mode to Osu
+[21:11:38] BCraftMG: !mp timer 120
+[21:11:38] BanchoBot: Countdown ends in 2 minutes
+[21:11:40] smthelse: :(
+[21:11:44] smthelse: im sad
+[21:11:47] hdt2410: so sad
+[21:11:54] hdt2410: choke + reverse choke
+[21:11:57] Khanhtan0306: bad performance lol
+[21:11:58] Khanhtan0306: :(
+[21:11:58] My_Angel_Cocoa: smthelse là quăng game dữ chưa
+[21:11:59] My_Angel_Cocoa: :troll:
+[21:12:02] zeroly: muoi chich
+[21:12:02] zeroly: T_T
+[21:12:04] smthelse: anh oi
+[21:12:11] smthelse: toi choi te vcl so voi prac
+[21:12:13] 25_FPS: underprefomen r
+[21:12:13] smthelse: :(
+[21:12:15] LeafLeave: banger song buff
+[21:12:15] My_Angel_Cocoa: tuong tuong quang game ewwww
+[21:12:18] hdt2410: nerve
+[21:12:22] ayumiikin_: true
+[21:12:39] BanchoBot: Countdown ends in 1 minute
+[21:12:40] hdt2410: why am i more nervous than thi quoc gia lmao
+[21:12:47] zeroly: I agree!
+[21:12:48] smthelse: same wtf
+[21:12:48] electrostrike: vao danh that nerve vcl :))
+[21:12:51] My_Angel_Cocoa: Forgor
+[21:12:56] smthelse: ua anh thi quoc gia mon gi z
+[21:12:59] smthelse: curious
+[21:13:02] hdt2410: sinh
+[21:13:06] smthelse: ac'
+[21:13:07] LeafLeave: uay
+[21:13:09] BanchoBot: Countdown ends in 30 seconds
+[21:13:10] LeafLeave: pro v
+[21:13:11] Khanhtan0306: to k nerve nhung t miss all wtf
+[21:13:13] smthelse: em thi mon anh
+[21:13:16] aiyern: wao
+[21:13:16] hdt2410: waiting for ket qua
+[21:13:21] smthelse: sam
+[21:13:22] smthelse: e
+[21:13:26] electrostrike: pro
+[21:13:29] BanchoBot: Countdown ends in 10 seconds
+[21:13:30] smthelse: chuc anh dat giai cao!!!
+[21:13:35] BanchoBot: Countdown ends in 5 seconds
+[21:13:35] LeafLeave: uot gi
+[21:13:35] BanchoBot: Countdown ends in 4 seconds
+[21:13:35] hdt2410: same!
+[21:13:35] BanchoBot: Countdown ends in 3 seconds
+[21:13:37] My_Angel_Cocoa: Vao nham lobby roi huhu
+[21:13:37] BanchoBot: Countdown ends in 2 seconds
+[21:13:37] hdt2410: glhf
+[21:13:37] BanchoBot: Countdown ends in 1 second
+[21:13:39] BanchoBot: Countdown finished
+[21:13:42] Khanhtan0306: glhf
+[21:13:45] BCraftMG: !mp settings
+[21:13:46] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[21:13:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/4304684 Sephid - Thunderstrike 1988
+[21:13:46] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:13:46] BanchoBot: Active mods: NoFail
+[21:13:46] BanchoBot: Players: 12
+[21:13:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:13:46] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/14037584 hdt2410         
+[21:13:46] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/28569876 zeroly          
+[21:13:46] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23870096 LeafLeave       
+[21:13:46] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          
+[21:13:46] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[21:13:46] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    
+[21:13:46] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      
+[21:13:46] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[21:13:46] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[21:13:46] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[21:13:46] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/24559528 Lemoonz         
+[21:13:52] BCraftMG: ready up
+[21:13:58] smthelse: hok
+[21:14:03] electrostrike: !roll 1000
+[21:14:03] BanchoBot: electrostrike rolls 923 point(s)
+[21:14:05] BCraftMG: !mp kick smthelse
+[21:14:06] BanchoBot: smthelse left the game.
+[21:14:06] BanchoBot: Kicked smthelse from the match
+[21:14:10] My_Angel_Cocoa: !roll 5000
+[21:14:10] BanchoBot: My Angel Cocoa rolls 4610 point(s)
+[21:14:11] Khanhtan0306: !roll 727
+[21:14:11] BanchoBot: Khanhtan0306 rolls 479 point(s)
+[21:14:12] electrostrike: :tf:
+[21:14:14] LeafLeave: vai l
+[21:14:17] electrostrike: real
+[21:14:18] Lemoonz: lmao
+[21:14:18] hdt2410: tf
+[21:14:19] aiyern: ?
+[21:14:22] 25_FPS: lmao
+[21:14:23] My_Angel_Cocoa: !roll 1000
+[21:14:23] BanchoBot: My Angel Cocoa rolls 206 point(s)
+[21:14:28] hdt2410: huh
+[21:14:30] My_Angel_Cocoa: !roll 1000
+[21:14:30] BanchoBot: My Angel Cocoa rolls 394 point(s)
+[21:14:40] BCraftMG: nhây tôi kick
+[21:14:43] BCraftMG: cảm ơn
+[21:14:44] BCraftMG: !mp settings
+[21:14:45] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[21:14:45] BanchoBot: Beatmap: https://osu.ppy.sh/b/4304684 Sephid - Thunderstrike 1988
+[21:14:45] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:14:45] BanchoBot: Active mods: NoFail
+[21:14:45] BanchoBot: Players: 11
+[21:14:45] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:14:45] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/14037584 hdt2410         
+[21:14:45] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/28569876 zeroly          
+[21:14:45] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23870096 LeafLeave       
+[21:14:45] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          
+[21:14:45] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[21:14:45] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    
+[21:14:45] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      
+[21:14:45] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[21:14:45] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[21:14:45] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/24559528 Lemoonz         
+[21:14:48] LeafLeave: nhanh may a oi 10h e di ngu
+[21:14:52] LeafLeave: :sob:
+[21:14:54] BCraftMG: còn k vào lại thì khỏi đánh
+[21:14:54] electrostrike: j cang z
+[21:15:00] ayumiikin_: the thi chiu roi
+[21:15:05] BCraftMG: zeroly với hdt2410?
+[21:15:07] electrostrike: :/
+[21:15:13] BanchoBot: All players are ready
+[21:15:14] hdt2410: sorry
+[21:15:16] zeroly: yea?
+[21:15:21] electrostrike: glhf :<
+[21:15:23] aiyern: glhf
+[21:15:28] LeafLeave: gl
+[21:15:29] LeafLeave: hf
+[21:15:32] hdt2410: glhf
+[21:15:34] hdt2410: golf
+[21:15:36] Khanhtan0306: glhf
+[21:15:38] 25_FPS: gl
+[21:15:45] BCraftMG: !mp settings
+[21:15:46] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[21:15:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/4304684 Sephid - Thunderstrike 1988
+[21:15:46] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:15:46] BanchoBot: Active mods: NoFail
+[21:15:46] BanchoBot: Players: 11
+[21:15:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:15:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         
+[21:15:46] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28569876 zeroly          
+[21:15:46] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23870096 LeafLeave       
+[21:15:46] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          
+[21:15:46] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[21:15:46] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    
+[21:15:46] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      
+[21:15:46] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[21:15:46] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[21:15:46] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/24559528 Lemoonz         
+[21:15:52] BCraftMG: !mp invite #13238121
+[21:15:54] BanchoBot: User not found
+[21:16:04] BCraftMG: !mp invite #13238121
+[21:16:04] BanchoBot: Invited smthelse to the room
+[21:16:06] BCraftMG: !mp invite #13238121
+[21:16:07] BanchoBot: smthelse joined in slot 10.
+[21:16:11] BCraftMG: m co 10s de ready
+[21:16:11] smthelse: hello ae
+[21:16:12] BanchoBot: All players are ready
+[21:16:13] BCraftMG: !mp settings
+[21:16:13] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[21:16:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/4304684 Sephid - Thunderstrike 1988
+[21:16:13] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:16:13] BanchoBot: Active mods: NoFail
+[21:16:13] BanchoBot: Players: 12
+[21:16:13] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:16:13] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         
+[21:16:13] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28569876 zeroly          
+[21:16:13] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23870096 LeafLeave       
+[21:16:13] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          
+[21:16:13] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[21:16:13] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    
+[21:16:13] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      
+[21:16:13] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[21:16:13] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[21:16:13] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[21:16:13] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/24559528 Lemoonz         
+[21:16:15] BCraftMG: !mp start 5 glhf
+[21:16:15] BanchoBot: Match starts in 5 seconds
+[21:16:15] BanchoBot: Queued the match to start in 5 seconds
+[21:16:16] BanchoBot: Match starts in 4 seconds
+[21:16:17] BanchoBot: Match starts in 3 seconds
+[21:16:18] BanchoBot: Good luck, have fun!
+[21:16:18] aiyern: glhf
+[21:16:19] Khanhtan0306: let go
+[21:16:19] My_Angel_Cocoa: :troll:
+[21:16:20] smthelse: chit
+[21:16:20] BanchoBot: The match has started!
+[21:16:21] Khanhtan0306: glhf
+[21:19:42] BanchoBot: smthelse finished playing (Score: 489137, PASSED).
+[21:19:42] BanchoBot: 25 FPS finished playing (Score: 262326, PASSED).
+[21:19:43] BanchoBot: aiyern finished playing (Score: 407059, PASSED).
+[21:19:43] BanchoBot: budget boydn finished playing (Score: 260791, PASSED).
+[21:19:43] BanchoBot: zeroly finished playing (Score: 356276, PASSED).
+[21:19:43] BanchoBot: electrostrike finished playing (Score: 480599, PASSED).
+[21:19:43] BanchoBot: Khanhtan0306 finished playing (Score: 99538, PASSED).
+[21:19:43] BanchoBot: LeafLeave finished playing (Score: 210681, PASSED).
+[21:19:43] BanchoBot: ayumiikin_ finished playing (Score: 393352, PASSED).
+[21:19:44] BanchoBot: My Angel Cocoa finished playing (Score: 120980, PASSED).
+[21:19:44] BanchoBot: Lemoonz finished playing (Score: 256057, PASSED).
+[21:19:44] BanchoBot: hdt2410 finished playing (Score: 282166, PASSED).
+[21:19:44] BanchoBot: The match has finished!
+[21:19:46] BCraftMG: !mp map 3962638 0
+[21:19:47] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3962638 Tsukuyomi - Nekropolis
+[21:19:47] BanchoBot: Changed match mode to Osu
+[21:19:50] BCraftMG: !mp timer 120
+[21:19:51] BanchoBot: Countdown ends in 2 minutes
+[21:19:52] smthelse: man
+[21:19:54] smthelse: chon vcvl
+[21:19:54] smthelse: im sad
+[21:20:03] electrostrike: same
+[21:20:03] My_Angel_Cocoa: May quá t không đứng cuối
+[21:20:05] zeroly: chet
+[21:20:07] My_Angel_Cocoa: Không thì lại hóa chó rồi
+[21:20:08] My_Angel_Cocoa: LMAO
+[21:20:09] zeroly: map nay nhu cut
+[21:20:16] smthelse: nhac tsukuyomi
+[21:20:17] hdt2410: glhf
+[21:20:19] smthelse: +rep
+[21:20:20] LeafLeave: nm3 deadge
+[21:20:22] smthelse: low sr nm3
+[21:20:23] smthelse: -rep
+[21:20:25] hdt2410: wtf accidental glhf
+[21:20:26] electrostrike: banger song
+[21:20:31] hdt2410: catjam
+[21:20:32] My_Angel_Cocoa: Also NM3 concac reeeeee
+[21:20:36] electrostrike: weird nm3
+[21:20:37] Khanhtan0306: chill week
+[21:20:38] Khanhtan0306: lol
+[21:20:40] aiyern: nm3 nhu cc ye
+[21:20:44] Lemoonz: nm3 aim control fak
+[21:20:50] zeroly: nm3 nm4 nm5 chet
+[21:20:51] BanchoBot: Countdown ends in 1 minute
+[21:21:00] smthelse: chet phan con lai cua pool
+[21:21:01] smthelse: o7
+[21:21:01] electrostrike: !roll 1000
+[21:21:01] BanchoBot: electrostrike rolls 64 point(s)
+[21:21:03] zeroly: I agree!
+[21:21:06] My_Angel_Cocoa: !roll 1000
+[21:21:06] BanchoBot: My Angel Cocoa rolls 473 point(s)
+[21:21:07] Lemoonz: o7
+[21:21:08] electrostrike: wtf
+[21:21:08] Khanhtan0306: !roll 727
+[21:21:08] BanchoBot: Khanhtan0306 rolls 189 point(s)
+[21:21:11] My_Angel_Cocoa: !roll 1000
+[21:21:11] BanchoBot: My Angel Cocoa rolls 997 point(s)
+[21:21:12] Lemoonz: !roll 1000
+[21:21:12] BanchoBot: Lemoonz rolls 503 point(s)
+[21:21:13] electrostrike: roll 1000 chuan chua z
+[21:21:16] My_Angel_Cocoa: Vler
+[21:21:19] electrostrike: :tf:
+[21:21:20] Lemoonz: bru 997
+[21:21:21] smthelse: !roll 1000
+[21:21:21] BanchoBot: smthelse rolls 454 point(s)
+[21:21:22] 25_FPS: !roll
+[21:21:22] BanchoBot: 25 FPS rolls 36 point(s)
+[21:21:22] BanchoBot: Countdown ends in 30 seconds
+[21:21:27] smthelse: !roll 1000
+[21:21:27] BanchoBot: smthelse rolls 843 point(s)
+[21:21:27] ayumiikin_: !roll 1000
+[21:21:27] BanchoBot: ayumiikin_ rolls 523 point(s)
+[21:21:28] aiyern: !roll 1000
+[21:21:28] BanchoBot: aiyern rolls 225 point(s)
+[21:21:31] My_Angel_Cocoa: Yo ae nào singletap NM3 với t k
+[21:21:32] Lemoonz: !roll 1000
+[21:21:32] BanchoBot: Lemoonz rolls 43 point(s)
+[21:21:32] smthelse: !roll 1000
+[21:21:32] BanchoBot: smthelse rolls 703 point(s)
+[21:21:32] My_Angel_Cocoa: :)))
+[21:21:36] smthelse: yah
+[21:21:38] Khanhtan0306: de t
+[21:21:40] Lemoonz: .-.
+[21:21:41] smthelse: !roll 1000
+[21:21:41] BanchoBot: smthelse rolls 65 point(s)
+[21:21:41] BanchoBot: Countdown ends in 10 seconds
+[21:21:41] My_Angel_Cocoa: Riel
+[21:21:42] electrostrike: pro
+[21:21:44] smthelse: ?
+[21:21:45] hdt2410: !roll 1
+[21:21:45] BanchoBot: hdt2410 rolls 1 point(s)
+[21:21:46] electrostrike: singletap nm3
+[21:21:46] BanchoBot: Countdown ends in 5 seconds
+[21:21:47] BanchoBot: Countdown ends in 4 seconds
+[21:21:48] BanchoBot: Countdown ends in 3 seconds
+[21:21:49] BanchoBot: Countdown ends in 2 seconds
+[21:21:49] Khanhtan0306: riel
+[21:21:51] BanchoBot: Countdown ends in 1 second
+[21:21:51] My_Angel_Cocoa: !roll 1000
+[21:21:51] BanchoBot: My Angel Cocoa rolls 353 point(s)
+[21:21:52] BanchoBot: Countdown finished
+[21:21:52] BCraftMG: !mp settings
+[21:21:53] electrostrike: glhf
+[21:21:53] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[21:21:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/3962638 Tsukuyomi - Nekropolis
+[21:21:53] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:21:53] BanchoBot: Active mods: NoFail
+[21:21:53] BanchoBot: Players: 12
+[21:21:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:21:53] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         
+[21:21:53] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/28569876 zeroly          
+[21:21:53] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23870096 LeafLeave       
+[21:21:53] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          
+[21:21:53] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[21:21:53] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    
+[21:21:53] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      
+[21:21:53] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[21:21:53] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[21:21:53] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[21:21:53] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/24559528 Lemoonz         
+[21:21:55] BanchoBot: All players are ready
+[21:21:57] Lemoonz: glhf
+[21:21:57] smthelse: glhf gyze
+[21:22:02] hdt2410: golf
+[21:22:03] smthelse: chit
+[21:22:04] BCraftMG: !mp settings
+[21:22:04] LeafLeave: glhf
+[21:22:05] My_Angel_Cocoa: glgl
+[21:22:05] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[21:22:05] BanchoBot: Beatmap: https://osu.ppy.sh/b/3962638 Tsukuyomi - Nekropolis
+[21:22:05] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:22:05] BanchoBot: Active mods: NoFail
+[21:22:05] BanchoBot: Players: 12
+[21:22:05] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:22:05] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         
+[21:22:05] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28569876 zeroly          
+[21:22:05] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23870096 LeafLeave       
+[21:22:05] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          
+[21:22:05] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[21:22:05] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    
+[21:22:05] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      
+[21:22:05] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[21:22:05] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[21:22:05] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[21:22:05] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/24559528 Lemoonz         
+[21:22:07] BCraftMG: !mp start 5 glhf
+[21:22:08] BanchoBot: Match starts in 5 seconds
+[21:22:08] BanchoBot: Queued the match to start in 5 seconds
+[21:22:09] 25_FPS: glgl
+[21:22:09] BanchoBot: Match starts in 4 seconds
+[21:22:10] BanchoBot: Match starts in 3 seconds
+[21:22:11] My_Angel_Cocoa: Also mmb
+[21:22:11] aiyern: glhf
+[21:22:11] BanchoBot: Good luck, have fun!
+[21:22:13] Khanhtan0306: gl
+[21:22:13] BanchoBot: The match has started!
+[21:26:02] BanchoBot: hdt2410 finished playing (Score: 349131, PASSED).
+[21:26:02] BanchoBot: budget boydn finished playing (Score: 302170, PASSED).
+[21:26:02] BanchoBot: LeafLeave finished playing (Score: 107712, PASSED).
+[21:26:02] BanchoBot: ayumiikin_ finished playing (Score: 214760, PASSED).
+[21:26:02] BanchoBot: Khanhtan0306 finished playing (Score: 105178, PASSED).
+[21:26:02] BanchoBot: Lemoonz finished playing (Score: 129280, PASSED).
+[21:26:02] BanchoBot: My Angel Cocoa finished playing (Score: 60960, PASSED).
+[21:26:03] BanchoBot: aiyern finished playing (Score: 197829, PASSED).
+[21:26:03] BanchoBot: 25 FPS finished playing (Score: 93269, PASSED).
+[21:26:03] BanchoBot: electrostrike finished playing (Score: 430015, PASSED).
+[21:26:03] BanchoBot: smthelse finished playing (Score: 917190, PASSED).
+[21:26:04] BanchoBot: zeroly finished playing (Score: 130760, PASSED).
+[21:26:04] BanchoBot: The match has finished!
+[21:26:06] BCraftMG: !mp map 3740872 0
+[21:26:07] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3740872 Yunosuke feat. okaki - True Novel
+[21:26:07] BanchoBot: Changed match mode to Osu
+[21:26:10] zeroly: dcm
+[21:26:12] electrostrike: pro
+[21:26:12] zeroly: sao lai co big black pattern
+[21:26:12] smthelse: o kia
+[21:26:13] smthelse: rua z
+[21:26:15] hdt2410: holy fc
+[21:26:15] My_Angel_Cocoa: vcl gg no re ae
+[21:26:22] Lemoonz: wtf?
+[21:26:23] Lemoonz: ????
+[21:26:23] BCraftMG: !mp timer 120
+[21:26:24] Lemoonz: ??????
+[21:26:24] 25_FPS: gg
+[21:26:24] BanchoBot: Countdown ends in 2 minutes
+[21:26:25] hdt2410: its joever gyze
+[21:26:29] 25_FPS: map ang qua
+[21:26:32] My_Angel_Cocoa: Lại đứng cuối bảng
+[21:26:34] My_Angel_Cocoa: Cái lùm mé
+[21:26:37] Khanhtan0306: đợi mình rs game đã
+[21:26:37] electrostrike: sieu ganh keo 5wc
+[21:26:38] Khanhtan0306: lag quá
+[21:26:40] smthelse: tsukuyomi buff
+[21:26:44] My_Angel_Cocoa: frfrfr
+[21:27:03] smthelse: quang nm4 thoi a
+[21:27:04] smthelse: e
+[21:27:06] BanchoBot: Khanhtan0306 left the game.
+[21:27:06] electrostrike: btw nm4 nay ko chill
+[21:27:13] electrostrike: :<
+[21:27:14] smthelse: dung het luck vao nm3 r
+[21:27:15] LeafLeave: sightread nm4
+[21:27:18] LeafLeave: pepega
+[21:27:25] BanchoBot: Countdown ends in 1 minute
+[21:27:27] BanchoBot: Khanhtan0306 joined in slot 11.
+[21:27:35] smthelse: cht me r
+[21:27:41] smthelse: map nao ko sightread
+[21:27:42] Khanhtan0306: okay
+[21:27:44] smthelse: sightread nm4
+[21:27:46] smthelse: o7
+[21:27:50] Lemoonz: glhf o7
+[21:27:52] aiyern: 07
+[21:27:54] BanchoBot: Countdown ends in 30 seconds
+[21:27:55] LeafLeave: o7
+[21:27:55] Khanhtan0306: glhf
+[21:27:57] smthelse: nm4 kho nhat pool
+[21:27:58] electrostrike: !roll 1000
+[21:27:58] BanchoBot: electrostrike rolls 324 point(s)
+[21:27:59] smthelse: :chon:
+[21:28:01] My_Angel_Cocoa: tridodai nm4 o7
+[21:28:02] BCraftMG: !mp invite #27142941
+[21:28:02] BanchoBot: User is already in the room
+[21:28:08] BCraftMG: !mp settings
+[21:28:09] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[21:28:09] BanchoBot: Beatmap: https://osu.ppy.sh/b/3740872 Yunosuke feat. okaki - True Novel
+[21:28:09] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:28:09] BanchoBot: Active mods: NoFail
+[21:28:09] BanchoBot: Players: 12
+[21:28:09] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:28:09] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/14037584 hdt2410         
+[21:28:09] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28569876 zeroly          
+[21:28:09] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23870096 LeafLeave       
+[21:28:09] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          
+[21:28:09] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[21:28:09] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    
+[21:28:09] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      
+[21:28:09] BanchoBot: Slot 9  Not Ready https://osu.ppy.sh/u/11538640 electrostrike   
+[21:28:09] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[21:28:09] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[21:28:09] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/24559528 Lemoonz         
+[21:28:13] Khanhtan0306: chua test het pool week 1 nua
+[21:28:15] BanchoBot: Countdown ends in 10 seconds
+[21:28:20] BanchoBot: Countdown ends in 5 seconds
+[21:28:20] BanchoBot: Countdown ends in 4 seconds
+[21:28:21] BanchoBot: Countdown ends in 3 seconds
+[21:28:22] BanchoBot: Countdown ends in 2 seconds
+[21:28:23] BanchoBot: Countdown ends in 1 second
+[21:28:24] BanchoBot: Countdown finished
+[21:28:28] BCraftMG: !mp settings
+[21:28:28] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[21:28:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/3740872 Yunosuke feat. okaki - True Novel
+[21:28:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:28:28] BanchoBot: Active mods: NoFail
+[21:28:28] BanchoBot: Players: 12
+[21:28:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:28:28] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/14037584 hdt2410         
+[21:28:28] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28569876 zeroly          
+[21:28:28] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23870096 LeafLeave       
+[21:28:28] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          
+[21:28:28] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[21:28:28] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    
+[21:28:28] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      
+[21:28:28] BanchoBot: Slot 9  Not Ready https://osu.ppy.sh/u/11538640 electrostrike   
+[21:28:28] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[21:28:28] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[21:28:28] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/24559528 Lemoonz         
+[21:28:32] My_Angel_Cocoa: !roll 1000
+[21:28:32] BanchoBot: My Angel Cocoa rolls 742 point(s)
+[21:28:34] smthelse: glhfff!!!
+[21:28:39] Khanhtan0306: !roll 1000
+[21:28:39] BanchoBot: Khanhtan0306 rolls 358 point(s)
+[21:28:39] hdt2410: golf
+[21:28:40] LeafLeave: glhf
+[21:28:40] electrostrike: glhf
+[21:28:41] BCraftMG: hdt & electrostrike
+[21:28:43] BanchoBot: All players are ready
+[21:28:44] Lemoonz: glhf
+[21:28:45] BCraftMG: !mp settings
+[21:28:46] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[21:28:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/3740872 Yunosuke feat. okaki - True Novel
+[21:28:46] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:28:46] BanchoBot: Active mods: NoFail
+[21:28:46] BanchoBot: Players: 12
+[21:28:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:28:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         
+[21:28:46] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28569876 zeroly          
+[21:28:46] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23870096 LeafLeave       
+[21:28:46] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          
+[21:28:46] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[21:28:46] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    
+[21:28:46] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      
+[21:28:46] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[21:28:46] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[21:28:46] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[21:28:46] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/24559528 Lemoonz         
+[21:28:48] electrostrike: ok sir
+[21:28:48] BCraftMG: !mp start 5 glhf
+[21:28:49] My_Angel_Cocoa: lam sao de giam ping trong osu ae
+[21:28:49] BanchoBot: Match starts in 5 seconds
+[21:28:49] BanchoBot: Queued the match to start in 5 seconds
+[21:28:50] hdt2410: i forgor again
+[21:28:50] My_Angel_Cocoa: kkm
+[21:28:50] BanchoBot: Match starts in 4 seconds
+[21:28:51] aiyern: glhf
+[21:28:51] BanchoBot: Match starts in 3 seconds
+[21:28:52] BanchoBot: Good luck, have fun!
+[21:28:53] smthelse: chit
+[21:28:54] BanchoBot: The match has started!
+[21:28:55] Khanhtan0306: glhf
+[21:32:16] BanchoBot: ayumiikin_ finished playing (Score: 160122, PASSED).
+[21:32:16] BanchoBot: 25 FPS finished playing (Score: 112818, PASSED).
+[21:32:16] BanchoBot: My Angel Cocoa finished playing (Score: 57392, PASSED).
+[21:32:16] BanchoBot: Khanhtan0306 finished playing (Score: 106403, PASSED).
+[21:32:16] BanchoBot: budget boydn finished playing (Score: 182212, PASSED).
+[21:32:17] BanchoBot: electrostrike finished playing (Score: 256723, PASSED).
+[21:32:17] BanchoBot: LeafLeave finished playing (Score: 76055, PASSED).
+[21:32:17] BanchoBot: zeroly finished playing (Score: 92517, PASSED).
+[21:32:17] BanchoBot: smthelse finished playing (Score: 452084, PASSED).
+[21:32:17] BanchoBot: aiyern finished playing (Score: 172360, PASSED).
+[21:32:18] BanchoBot: hdt2410 finished playing (Score: 133551, PASSED).
+[21:32:18] BanchoBot: Lemoonz finished playing (Score: 94770, PASSED).
+[21:32:18] BanchoBot: The match has finished!
+[21:32:21] BCraftMG: !mp map 4390203 0
+[21:32:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4390203 IOSYS - Hinarin no Yakui Kankei (Edit ver.)
+[21:32:21] BanchoBot: Changed match mode to Osu
+[21:32:21] BCraftMG: !mp timer 120
+[21:32:22] BanchoBot: Countdown ends in 2 minutes
+[21:32:28] smthelse: ma' k ln dc 500k
+[21:32:30] smthelse: buon
+[21:32:36] Khanhtan0306: map nhu cc thiet
+[21:32:40] hdt2410: kurukuru
+[21:32:41] Khanhtan0306: :tf:
+[21:32:42] ayumiikin_: kuru kuru
+[21:32:42] zeroly: map nhu cut
+[21:32:48] electrostrike: can i +hd this :>
+[21:32:48] ayumiikin_: map hay
+[21:32:48] aiyern: kurukuru
+[21:32:49] Lemoonz: kuru kuru
+[21:32:53] LeafLeave: kuru
+[21:32:57] smthelse: kukurukuruurukuru
+[21:33:09] ayumiikin_: angle
+[21:33:16] smthelse: kukurukurukurukurukuru
+[21:33:23] Khanhtan0306: kurukuru
+[21:33:23] BanchoBot: Countdown ends in 1 minute
+[21:33:25] My_Angel_Cocoa: Herta me may
+[21:33:26] Khanhtan0306: kurukurukuru
+[21:33:26] hdt2410: kru
+[21:33:27] My_Angel_Cocoa: :troll:
+[21:33:36] smthelse: :(
+[21:33:38] Khanhtan0306: !roll 1000
+[21:33:38] BanchoBot: Khanhtan0306 rolls 207 point(s)
+[21:33:45] hdt2410: banger song troll map
+[21:33:51] electrostrike: !roll 1000
+[21:33:51] BanchoBot: electrostrike rolls 59 point(s)
+[21:33:51] My_Angel_Cocoa: !roll 1000
+[21:33:51] BanchoBot: My Angel Cocoa rolls 368 point(s)
+[21:33:52] BanchoBot: Countdown ends in 30 seconds
+[21:33:55] electrostrike: cai dm?
+[21:33:56] My_Angel_Cocoa: !roll 1000
+[21:33:56] BanchoBot: My Angel Cocoa rolls 984 point(s)
+[21:34:01] Khanhtan0306: lol can I HR this
+[21:34:03] electrostrike: roll 1k ao that day :))
+[21:34:04] Lemoonz: !roll 1000
+[21:34:04] BanchoBot: Lemoonz rolls 556 point(s)
+[21:34:10] My_Angel_Cocoa: cuc ky tron
+[21:34:12] BanchoBot: Countdown ends in 10 seconds
+[21:34:12] LeafLeave: !roll 1000
+[21:34:12] BanchoBot: LeafLeave rolls 916 point(s)
+[21:34:12] Khanhtan0306: !roll 1000
+[21:34:12] BanchoBot: Khanhtan0306 rolls 960 point(s)
+[21:34:16] ayumiikin_: !roll 1000
+[21:34:16] BanchoBot: ayumiikin_ rolls 309 point(s)
+[21:34:16] smthelse: !roll 1000
+[21:34:16] BanchoBot: smthelse rolls 168 point(s)
+[21:34:16] BCraftMG: !mp settings
+[21:34:17] electrostrike: toi can +hd this map
+[21:34:17] Khanhtan0306: tron
+[21:34:17] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[21:34:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/4390203 IOSYS - Hinarin no Yakui Kankei (Edit ver.)
+[21:34:17] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:34:17] BanchoBot: Active mods: NoFail
+[21:34:17] BanchoBot: Players: 12
+[21:34:17] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:34:17] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         
+[21:34:17] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/28569876 zeroly          
+[21:34:17] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23870096 LeafLeave       
+[21:34:17] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          
+[21:34:17] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[21:34:17] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/8945565 budget boydn    
+[21:34:17] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      
+[21:34:17] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[21:34:17] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[21:34:17] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[21:34:17] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/24559528 Lemoonz         
+[21:34:18] BanchoBot: Countdown ends in 5 seconds
+[21:34:18] LeafLeave: was
+[21:34:19] BanchoBot: Countdown ends in 4 seconds
+[21:34:20] BanchoBot: Countdown ends in 3 seconds
+[21:34:21] BanchoBot: Countdown ends in 2 seconds
+[21:34:21] My_Angel_Cocoa: !roll 1000
+[21:34:21] BanchoBot: My Angel Cocoa rolls 690 point(s)
+[21:34:21] smthelse: khum
+[21:34:22] BanchoBot: Countdown ends in 1 second
+[21:34:23] BanchoBot: Countdown finished
+[21:34:23] smthelse: ai cho
+[21:34:25] My_Angel_Cocoa: 69
+[21:34:27] smthelse: !roll 1000
+[21:34:27] BanchoBot: smthelse rolls 525 point(s)
+[21:34:28] BCraftMG: zeroly, budget boydn
+[21:34:31] hdt2410: when will someone roll 727
+[21:34:37] My_Angel_Cocoa: !roll 1000
+[21:34:37] BanchoBot: My Angel Cocoa rolls 902 point(s)
+[21:34:38] aiyern: !roll 1000
+[21:34:38] BanchoBot: aiyern rolls 255 point(s)
+[21:34:38] smthelse: !roll 1000
+[21:34:38] BanchoBot: smthelse rolls 660 point(s)
+[21:34:40] BCraftMG: !mp settings
+[21:34:40] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[21:34:40] BanchoBot: Beatmap: https://osu.ppy.sh/b/4390203 IOSYS - Hinarin no Yakui Kankei (Edit ver.)
+[21:34:40] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:34:40] BanchoBot: Active mods: NoFail
+[21:34:40] BanchoBot: Players: 12
+[21:34:40] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:34:40] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         
+[21:34:40] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/28569876 zeroly          
+[21:34:40] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23870096 LeafLeave       
+[21:34:40] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          
+[21:34:40] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[21:34:40] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/8945565 budget boydn    
+[21:34:40] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      
+[21:34:40] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[21:34:40] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[21:34:40] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[21:34:40] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/24559528 Lemoonz         
+[21:34:44] Khanhtan0306: !roll 1000
+[21:34:44] BanchoBot: Khanhtan0306 rolls 478 point(s)
+[21:34:47] zeroly: .
+[21:34:48] BanchoBot: All players are ready
+[21:34:53] smthelse: glhf!!!1
+[21:34:54] Khanhtan0306: quisi mô mần when ?
+[21:34:57] BCraftMG: !mp settings
+[21:34:58] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[21:34:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/4390203 IOSYS - Hinarin no Yakui Kankei (Edit ver.)
+[21:34:58] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:34:58] BanchoBot: Active mods: NoFail
+[21:34:58] BanchoBot: Players: 12
+[21:34:58] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:34:58] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         
+[21:34:58] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28569876 zeroly          
+[21:34:58] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23870096 LeafLeave       
+[21:34:58] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          
+[21:34:58] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[21:34:58] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    
+[21:34:58] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      
+[21:34:58] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[21:34:58] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[21:34:58] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[21:34:58] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/24559528 Lemoonz         
+[21:35:00] smthelse: !roll 1000
+[21:35:00] BanchoBot: smthelse rolls 222 point(s)
+[21:35:00] My_Angel_Cocoa: !roll 1000
+[21:35:00] BanchoBot: My Angel Cocoa rolls 725 point(s)
+[21:35:00] BCraftMG: !mp start 5 glhf
+[21:35:01] BanchoBot: Match starts in 5 seconds
+[21:35:01] BanchoBot: Queued the match to start in 5 seconds
+[21:35:03] BanchoBot: Match starts in 4 seconds
+[21:35:03] aiyern: glhf!!
+[21:35:04] BanchoBot: Match starts in 3 seconds
+[21:35:04] BanchoBot: Good luck, have fun!
+[21:35:05] My_Angel_Cocoa: CLMMMMMMM
+[21:35:05] smthelse: vcl 725
+[21:35:05] electrostrike: glhf
+[21:35:06] smthelse: chit
+[21:35:06] Khanhtan0306: glhf
+[21:35:06] BanchoBot: The match has started!
+[21:35:12] Khanhtan0306: clm
+[21:38:27] BanchoBot: hdt2410 finished playing (Score: 49123, PASSED).
+[21:38:27] BanchoBot: LeafLeave finished playing (Score: 90450, PASSED).
+[21:38:28] BanchoBot: aiyern finished playing (Score: 246227, PASSED).
+[21:38:29] BanchoBot: Lemoonz finished playing (Score: 27837, PASSED).
+[21:38:29] BanchoBot: 25 FPS finished playing (Score: 28702, PASSED).
+[21:38:29] BanchoBot: zeroly finished playing (Score: 97878, PASSED).
+[21:38:29] BanchoBot: smthelse finished playing (Score: 384125, PASSED).
+[21:38:30] BanchoBot: ayumiikin_ finished playing (Score: 458319, PASSED).
+[21:38:30] BanchoBot: Khanhtan0306 finished playing (Score: 26616, PASSED).
+[21:38:30] BanchoBot: electrostrike finished playing (Score: 357280, PASSED).
+[21:38:30] BanchoBot: My Angel Cocoa finished playing (Score: 146029, PASSED).
+[21:38:31] BanchoBot: budget boydn finished playing (Score: 214336, PASSED).
+[21:38:31] BanchoBot: The match has finished!
+[21:38:35] BCraftMG: !mp map 3669550 0
+[21:38:35] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3669550 40mP feat. chano - Yuugure One Room
+[21:38:35] BanchoBot: Changed match mode to Osu
+[21:38:42] BCraftMG: !mp mods 9
+[21:38:43] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:38:43] BCraftMG: !mp timer 120
+[21:38:44] BanchoBot: Countdown ends in 2 minutes
+[21:38:45] smthelse: :9
+[21:38:45] ayumiikin_: map hay
+[21:38:46] smthelse: :(
+[21:38:54] 25_FPS: my mouse borken
+[21:38:55] My_Angel_Cocoa: Map hay nhu lin
+[21:38:56] My_Angel_Cocoa: Riel
+[21:38:59] hdt2410: how am i not last
+[21:39:00] budget_boydn: can we !mp timer 300
+[21:39:10] budget_boydn: cần mở cửa cho ng nhà
+[21:39:27] Khanhtan0306: !roll 1727
+[21:39:27] BanchoBot: Khanhtan0306 rolls 426 point(s)
+[21:39:33] My_Angel_Cocoa: !roll 1000
+[21:39:33] BanchoBot: My Angel Cocoa rolls 515 point(s)
+[21:39:37] aiyern: !mp roll 1000
+[21:39:37] electrostrike: !roll 1000
+[21:39:37] BanchoBot: electrostrike rolls 891 point(s)
+[21:39:38] Khanhtan0306: !roll 2727
+[21:39:38] BanchoBot: Khanhtan0306 rolls 2212 point(s)
+[21:39:42] My_Angel_Cocoa: !roll 1000
+[21:39:42] BanchoBot: My Angel Cocoa rolls 497 point(s)
+[21:39:43] aiyern: !roll 1000
+[21:39:43] BanchoBot: aiyern rolls 865 point(s)
+[21:39:44] BanchoBot: Countdown ends in 1 minute
+[21:39:49] Khanhtan0306: !roll 1000
+[21:39:49] BanchoBot: Khanhtan0306 rolls 33 point(s)
+[21:39:53] Khanhtan0306: ?
+[21:39:57] My_Angel_Cocoa: !roll 3000
+[21:39:57] BanchoBot: My Angel Cocoa rolls 2233 point(s)
+[21:40:02] My_Angel_Cocoa: !roll 1000
+[21:40:02] BanchoBot: My Angel Cocoa rolls 644 point(s)
+[21:40:10] Lemoonz: !roll 1000
+[21:40:10] BanchoBot: Lemoonz rolls 828 point(s)
+[21:40:10] My_Angel_Cocoa: Vcl chon nhau a
+[21:40:11] Khanhtan0306: !roll 727
+[21:40:11] BanchoBot: Khanhtan0306 rolls 109 point(s)
+[21:40:14] My_Angel_Cocoa: LMAO
+[21:40:14] BanchoBot: Countdown ends in 30 seconds
+[21:40:16] Khanhtan0306: !roll 1727
+[21:40:16] BanchoBot: Khanhtan0306 rolls 490 point(s)
+[21:40:21] My_Angel_Cocoa: !roll 1000
+[21:40:21] BanchoBot: My Angel Cocoa rolls 20 point(s)
+[21:40:22] Khanhtan0306: Vas
+[21:40:23] Lemoonz: 828
+[21:40:24] Lemoonz: ???
+[21:40:25] My_Angel_Cocoa: ??????
+[21:40:28] Khanhtan0306: ???
+[21:40:30] My_Angel_Cocoa: Roll 1k ra 20??
+[21:40:32] My_Angel_Cocoa: cmm????
+[21:40:34] Khanhtan0306: !roll 1000
+[21:40:34] BanchoBot: Khanhtan0306 rolls 912 point(s)
+[21:40:34] BanchoBot: Countdown ends in 10 seconds
+[21:40:34] smthelse: !roll 1000
+[21:40:34] BanchoBot: smthelse rolls 101 point(s)
+[21:40:39] BanchoBot: Countdown ends in 5 seconds
+[21:40:39] 25_FPS: !roll 999
+[21:40:39] BanchoBot: 25 FPS rolls 530 point(s)
+[21:40:40] BanchoBot: Countdown ends in 4 seconds
+[21:40:41] Lemoonz: !roll 1000
+[21:40:41] BanchoBot: Lemoonz rolls 69 point(s)
+[21:40:41] BanchoBot: Countdown ends in 3 seconds
+[21:40:42] BanchoBot: Countdown ends in 2 seconds
+[21:40:43] BanchoBot: Countdown ends in 1 second
+[21:40:43] Khanhtan0306: stil big
+[21:40:44] BanchoBot: Countdown finished
+[21:40:44] My_Angel_Cocoa: !roll 1000
+[21:40:44] BanchoBot: My Angel Cocoa rolls 687 point(s)
+[21:40:45] Lemoonz: nice
+[21:40:53] My_Angel_Cocoa: !roll 1000
+[21:40:53] BanchoBot: My Angel Cocoa rolls 572 point(s)
+[21:40:58] Khanhtan0306: !roll 727
+[21:40:58] BanchoBot: Khanhtan0306 rolls 706 point(s)
+[21:41:03] My_Angel_Cocoa: !roll 1000
+[21:41:03] BanchoBot: My Angel Cocoa rolls 623 point(s)
+[21:41:04] Lemoonz: !roll 1000
+[21:41:04] BanchoBot: Lemoonz rolls 92 point(s)
+[21:41:04] Khanhtan0306: close :tf:
+[21:41:11] BCraftMG: !mp settings
+[21:41:11] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[21:41:11] BanchoBot: Beatmap: https://osu.ppy.sh/b/3669550 40mP feat. chano - Yuugure One Room
+[21:41:11] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:41:11] BanchoBot: Active mods: NoFail, Hidden
+[21:41:11] BanchoBot: Players: 12
+[21:41:11] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:41:11] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         
+[21:41:11] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/28569876 zeroly          
+[21:41:11] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23870096 LeafLeave       
+[21:41:11] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          
+[21:41:11] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[21:41:11] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    
+[21:41:11] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      
+[21:41:11] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[21:41:11] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[21:41:11] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[21:41:11] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/24559528 Lemoonz         
+[21:41:12] My_Angel_Cocoa: !roll 1000
+[21:41:12] BanchoBot: My Angel Cocoa rolls 897 point(s)
+[21:41:16] Lemoonz: !roll 1000
+[21:41:16] BanchoBot: Lemoonz rolls 500 point(s)
+[21:41:21] My_Angel_Cocoa: !roll 900
+[21:41:21] BanchoBot: My Angel Cocoa rolls 206 point(s)
+[21:41:26] hdt2410: !roll 0
+[21:41:26] BanchoBot: hdt2410 rolls 1 point(s)
+[21:41:29] aiyern: !roll 1000
+[21:41:29] BanchoBot: aiyern rolls 244 point(s)
+[21:41:30] My_Angel_Cocoa: !roll 900
+[21:41:30] BanchoBot: My Angel Cocoa rolls 861 point(s)
+[21:41:33] ayumiikin_: !roll 1000
+[21:41:33] BanchoBot: ayumiikin_ rolls 141 point(s)
+[21:41:34] Khanhtan0306: !roll 1000
+[21:41:34] BanchoBot: Khanhtan0306 rolls 657 point(s)
+[21:41:41] My_Angel_Cocoa: !roll 900
+[21:41:41] BanchoBot: My Angel Cocoa rolls 23 point(s)
+[21:41:44] 25_FPS: !roll 888
+[21:41:44] BanchoBot: 25 FPS rolls 250 point(s)
+[21:41:46] Lemoonz: !roll 1000
+[21:41:46] BanchoBot: Lemoonz rolls 800 point(s)
+[21:41:47] My_Angel_Cocoa: clmm bancho
+[21:41:50] 25_FPS: lmao
+[21:41:53] ayumiikin_: !roll 1000
+[21:41:53] BanchoBot: ayumiikin_ rolls 510 point(s)
+[21:41:56] BCraftMG: !mp settings
+[21:41:57] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[21:41:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/3669550 40mP feat. chano - Yuugure One Room
+[21:41:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:41:57] BanchoBot: Active mods: NoFail, Hidden
+[21:41:57] BanchoBot: Players: 12
+[21:41:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:41:57] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         
+[21:41:57] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/28569876 zeroly          
+[21:41:57] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23870096 LeafLeave       
+[21:41:57] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          
+[21:41:57] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[21:41:57] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    
+[21:41:57] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      
+[21:41:57] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[21:41:57] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[21:41:57] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[21:41:57] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/24559528 Lemoonz         
+[21:42:01] BCraftMG: zeroly?
+[21:42:06] Lemoonz: !roll 1000
+[21:42:06] BanchoBot: Lemoonz rolls 434 point(s)
+[21:42:12] LeafLeave: sap di ngu huhuh
+[21:42:13] Khanhtan0306: rd gyze
+[21:42:17] Khanhtan0306: !roll 1000
+[21:42:17] BanchoBot: Khanhtan0306 rolls 502 point(s)
+[21:42:18] ayumiikin_: bye
+[21:42:19] 25_FPS: hinh nhu dang di mo cua cho ng nha
+[21:42:20] Lemoonz: !roll 1000
+[21:42:20] BanchoBot: Lemoonz rolls 9 point(s)
+[21:42:23] My_Angel_Cocoa: kho kho
+[21:42:24] Lemoonz: ?
+[21:42:26] BCraftMG: mở cửa là boydn
+[21:42:28] My_Angel_Cocoa: !roll 1000
+[21:42:28] BanchoBot: My Angel Cocoa rolls 302 point(s)
+[21:42:32] ayumiikin_: !roll 1000
+[21:42:32] BanchoBot: ayumiikin_ rolls 802 point(s)
+[21:42:32] BCraftMG: :|
+[21:42:35] 25_FPS: kho` kho`
+[21:42:35] Khanhtan0306: lol bancho
+[21:42:38] My_Angel_Cocoa: !roll 1000
+[21:42:38] BanchoBot: My Angel Cocoa rolls 145 point(s)
+[21:42:41] budget_boydn: done r
+[21:42:41] BCraftMG: !mp settings
+[21:42:42] electrostrike: zzz
+[21:42:42] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[21:42:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/3669550 40mP feat. chano - Yuugure One Room
+[21:42:42] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:42:42] BanchoBot: Active mods: NoFail, Hidden
+[21:42:42] BanchoBot: Players: 12
+[21:42:42] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:42:42] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         
+[21:42:42] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/28569876 zeroly          
+[21:42:42] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23870096 LeafLeave       
+[21:42:42] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          
+[21:42:42] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[21:42:42] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    
+[21:42:42] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      
+[21:42:42] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[21:42:42] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[21:42:42] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[21:42:42] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/24559528 Lemoonz         
+[21:42:43] budget_boydn: we can go
+[21:42:44] Lemoonz: !roll 1000
+[21:42:44] BanchoBot: Lemoonz rolls 797 point(s)
+[21:42:46] aiyern: pool dài 2 tiếng đi đăng ký 1 tiếng trước ngủ
+[21:42:48] aiyern: ?
+[21:42:56] 25_FPS: XD
+[21:42:59] My_Angel_Cocoa: gg
+[21:43:00] BCraftMG: !mp kick zeroly
+[21:43:01] Khanhtan0306: lol
+[21:43:01] BanchoBot: zeroly left the game.
+[21:43:01] BanchoBot: Kicked zeroly from the match
+[21:43:04] Khanhtan0306: ggwp
+[21:43:04] BCraftMG: lat choi lai sau
+[21:43:04] BCraftMG: !mp settings
+[21:43:06] electrostrike: cmon gyze we speedrun this
+[21:43:06] hdt2410: 797 when you see nvm
+[21:43:06] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[21:43:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/3669550 40mP feat. chano - Yuugure One Room
+[21:43:06] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:43:06] BanchoBot: Active mods: NoFail, Hidden
+[21:43:06] BanchoBot: Players: 11
+[21:43:06] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:43:06] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         
+[21:43:06] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23870096 LeafLeave       
+[21:43:06] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          
+[21:43:06] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[21:43:06] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    
+[21:43:06] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      
+[21:43:06] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[21:43:06] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[21:43:06] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[21:43:06] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/24559528 Lemoonz         
+[21:43:07] BCraftMG: !mp start 5 glhf
+[21:43:07] LeafLeave: F
+[21:43:07] BanchoBot: Match starts in 5 seconds
+[21:43:07] BanchoBot: Queued the match to start in 5 seconds
+[21:43:08] BanchoBot: Match starts in 4 seconds
+[21:43:09] BanchoBot: Match starts in 3 seconds
+[21:43:10] BanchoBot: Good luck, have fun!
+[21:43:11] My_Angel_Cocoa: Vấn đề VNPT chăng
+[21:43:11] electrostrike: glhf
+[21:43:12] hdt2410: golf
+[21:43:12] BanchoBot: The match has started!
+[21:43:13] Khanhtan0306: glhf
+[21:43:15] smthelse: o7
+[21:45:48] BanchoBot: aiyern finished playing (Score: 251345, PASSED).
+[21:45:48] BanchoBot: 25 FPS finished playing (Score: 64964, PASSED).
+[21:45:48] BanchoBot: ayumiikin_ finished playing (Score: 248889, PASSED).
+[21:45:49] BanchoBot: Khanhtan0306 finished playing (Score: 106426, PASSED).
+[21:45:49] BanchoBot: electrostrike finished playing (Score: 442411, PASSED).
+[21:45:49] BanchoBot: Lemoonz finished playing (Score: 303964, PASSED).
+[21:45:49] BanchoBot: My Angel Cocoa finished playing (Score: 206828, PASSED).
+[21:45:49] BanchoBot: LeafLeave finished playing (Score: 341943, PASSED).
+[21:45:50] BanchoBot: smthelse finished playing (Score: 325349, PASSED).
+[21:45:50] BanchoBot: budget boydn finished playing (Score: 157662, PASSED).
+[21:45:50] BanchoBot: hdt2410 finished playing (Score: 167769, PASSED).
+[21:45:50] BanchoBot: The match has finished!
+[21:45:58] Lemoonz: fak
+[21:46:01] Lemoonz: shit misses
+[21:46:04] LeafLeave: 84% acc
+[21:46:05] My_Angel_Cocoa: LeafLeave BTMC'd??
+[21:46:11] LeafLeave: yes
+[21:46:11] Khanhtan0306: suyt bot frag
+[21:46:12] My_Angel_Cocoa: :troll:
+[21:46:12] Khanhtan0306: so close
+[21:46:13] LeafLeave: bmcacc
+[21:46:14] BCraftMG: !mp map 2795080 0
+[21:46:14] smthelse: ac'
+[21:46:14] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2795080 Yukihiro Jindo - Inevitable Struggle -demo version-
+[21:46:14] BanchoBot: Changed match mode to Osu
+[21:46:15] electrostrike: i see combo game lmao
+[21:46:15] BCraftMG: !mp timer 120
+[21:46:16] BanchoBot: Countdown ends in 2 minutes
+[21:46:19] Lemoonz: btmacc
+[21:46:19] hdt2410: mfw hd
+[21:46:28] ayumiikin_: hd2 supremacy
+[21:46:34] LeafLeave: hd2 deadge
+[21:46:34] My_Angel_Cocoa: tfw hd
+[21:46:36] Lemoonz: time to bottom
+[21:46:37] smthelse: toi ght hd2
+[21:46:37] My_Angel_Cocoa: :frfr:
+[21:46:40] electrostrike: toi yeu hd2
+[21:46:43] electrostrike: :>
+[21:46:45] Khanhtan0306: tf hd AR8
+[21:46:45] Khanhtan0306: fk
+[21:46:46] 25_FPS: gone in every hd map
+[21:46:47] hdt2410: i hate hd2
+[21:46:51] BanchoBot: zeroly joined in slot 3.
+[21:46:57] zeroly: du
+[21:47:05] Khanhtan0306: I hate everything AR<9
+[21:47:10] Khanhtan0306: !roll 1000
+[21:47:10] BanchoBot: Khanhtan0306 rolls 164 point(s)
+[21:47:12] electrostrike: !roll 1000
+[21:47:12] BanchoBot: electrostrike rolls 323 point(s)
+[21:47:17] BanchoBot: Countdown ends in 1 minute
+[21:47:19] Khanhtan0306: !roll 727
+[21:47:19] BanchoBot: Khanhtan0306 rolls 724 point(s)
+[21:47:23] Khanhtan0306: wtf
+[21:47:25] hdt2410: close
+[21:47:26] Lemoonz: !roll 1000
+[21:47:26] BanchoBot: Lemoonz rolls 979 point(s)
+[21:47:28] Lemoonz: wtf
+[21:47:32] Khanhtan0306: so close, fk bancho
+[21:47:33] Lemoonz: bruh
+[21:47:36] ayumiikin_: !roll 1000
+[21:47:36] BanchoBot: ayumiikin_ rolls 652 point(s)
+[21:47:38] Lemoonz: !roll 727
+[21:47:38] BanchoBot: Lemoonz rolls 329 point(s)
+[21:47:39] hdt2410: 979 wysi
+[21:47:40] BanchoBot: All players are ready
+[21:47:43] My_Angel_Cocoa: !roll 1000
+[21:47:43] BanchoBot: My Angel Cocoa rolls 233 point(s)
+[21:47:46] LeafLeave: glhf
+[21:47:47] BanchoBot: Countdown ends in 30 seconds
+[21:47:48] Lemoonz: !roll 1000
+[21:47:48] BanchoBot: Lemoonz rolls 917 point(s)
+[21:47:49] electrostrike: glhf
+[21:47:50] Khanhtan0306: !roll 1000
+[21:47:50] BanchoBot: Khanhtan0306 rolls 995 point(s)
+[21:47:53] My_Angel_Cocoa: !roll 1000
+[21:47:53] BanchoBot: My Angel Cocoa rolls 92 point(s)
+[21:47:53] Khanhtan0306: wtf
+[21:47:55] ayumiikin_: !roll 1000
+[21:47:55] BanchoBot: ayumiikin_ rolls 573 point(s)
+[21:48:01] Lemoonz: !roll 800
+[21:48:01] BanchoBot: Lemoonz rolls 530 point(s)
+[21:48:03] Khanhtan0306: wtf bancho moment
+[21:48:03] My_Angel_Cocoa: !roll 1000
+[21:48:03] BanchoBot: My Angel Cocoa rolls 533 point(s)
+[21:48:04] LeafLeave: !roll 1000
+[21:48:04] BanchoBot: LeafLeave rolls 247 point(s)
+[21:48:07] BanchoBot: Countdown ends in 10 seconds
+[21:48:08] Lemoonz: !roll 730
+[21:48:08] BanchoBot: Lemoonz rolls 158 point(s)
+[21:48:09] My_Angel_Cocoa: !roll 1000
+[21:48:09] BanchoBot: My Angel Cocoa rolls 684 point(s)
+[21:48:09] LeafLeave: oof
+[21:48:12] BanchoBot: Countdown ends in 5 seconds
+[21:48:13] BanchoBot: Countdown ends in 4 seconds
+[21:48:14] BanchoBot: Countdown ends in 3 seconds
+[21:48:14] My_Angel_Cocoa: !roll 1000
+[21:48:14] BanchoBot: My Angel Cocoa rolls 456 point(s)
+[21:48:14] Lemoonz: !roll 730
+[21:48:14] BanchoBot: Lemoonz rolls 200 point(s)
+[21:48:15] BanchoBot: Countdown ends in 2 seconds
+[21:48:16] BanchoBot: Countdown ends in 1 second
+[21:48:16] Khanhtan0306: !roll 730
+[21:48:16] BanchoBot: Khanhtan0306 rolls 228 point(s)
+[21:48:17] BanchoBot: Countdown finished
+[21:48:17] hdt2410: !roll 727
+[21:48:17] BanchoBot: hdt2410 rolls 565 point(s)
+[21:48:22] My_Angel_Cocoa: !roll 1000
+[21:48:22] BanchoBot: My Angel Cocoa rolls 906 point(s)
+[21:48:22] Khanhtan0306: !roll 727
+[21:48:22] BanchoBot: Khanhtan0306 rolls 638 point(s)
+[21:48:23] zeroly: .
+[21:48:23] Lemoonz: !roll 730
+[21:48:23] BanchoBot: Lemoonz rolls 3 point(s)
+[21:48:27] Lemoonz: ?
+[21:48:29] My_Angel_Cocoa: !roll 1000
+[21:48:29] BanchoBot: My Angel Cocoa rolls 474 point(s)
+[21:48:29] Lemoonz: ???
+[21:48:30] Lemoonz: ???????
+[21:48:31] My_Angel_Cocoa: LMAO
+[21:48:34] hdt2410: lol
+[21:48:34] Lemoonz: !roll 730
+[21:48:34] BanchoBot: Lemoonz rolls 713 point(s)
+[21:48:34] Khanhtan0306: Lemoonz moment
+[21:48:35] electrostrike: 730 - 3
+[21:48:37] electrostrike: xddd
+[21:48:38] Lemoonz: FUK
+[21:48:41] ayumiikin_: !roll 1000
+[21:48:41] BanchoBot: ayumiikin_ rolls 444 point(s)
+[21:48:42] Khanhtan0306: !roll 727
+[21:48:42] BanchoBot: Khanhtan0306 rolls 398 point(s)
+[21:48:43] zeroly: !roll 1000
+[21:48:43] BanchoBot: zeroly rolls 576 point(s)
+[21:48:48] LeafLeave: start when
+[21:48:49] My_Angel_Cocoa: Số bạn đen như da bạn đấy
+[21:48:50] My_Angel_Cocoa: :troll:
+[21:48:56] Lemoonz: !roll 730
+[21:48:56] BanchoBot: Lemoonz rolls 352 point(s)
+[21:48:56] BCraftMG: !mp settings
+[21:48:57] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[21:48:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/2795080 Yukihiro Jindo - Inevitable Struggle -demo version-
+[21:48:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:48:57] BanchoBot: Active mods: NoFail, Hidden
+[21:48:57] BanchoBot: Players: 12
+[21:48:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:48:57] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         
+[21:48:57] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28569876 zeroly          
+[21:48:57] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23870096 LeafLeave       
+[21:48:57] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          
+[21:48:57] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[21:48:57] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    
+[21:48:57] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      
+[21:48:57] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[21:48:57] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[21:48:57] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[21:48:57] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/24559528 Lemoonz         
+[21:48:59] BCraftMG: !mp start 5 glhf
+[21:49:00] BanchoBot: Match starts in 5 seconds
+[21:49:00] BanchoBot: Queued the match to start in 5 seconds
+[21:49:01] BanchoBot: Match starts in 4 seconds
+[21:49:02] BanchoBot: Match starts in 3 seconds
+[21:49:03] smthelse: glhff
+[21:49:03] BanchoBot: Good luck, have fun!
+[21:49:04] aiyern: glhf
+[21:49:05] Lemoonz: !roll 730
+[21:49:05] BanchoBot: Lemoonz rolls 216 point(s)
+[21:49:05] Khanhtan0306: glhf
+[21:49:05] smthelse: chit
+[21:49:05] BanchoBot: The match has started!
+[21:49:06] hdt2410: golf
+[21:51:10] BanchoBot: budget boydn finished playing (Score: 84432, PASSED).
+[21:51:10] BanchoBot: zeroly finished playing (Score: 158465, PASSED).
+[21:51:10] BanchoBot: ayumiikin_ finished playing (Score: 712343, PASSED).
+[21:51:10] BanchoBot: LeafLeave finished playing (Score: 323420, PASSED).
+[21:51:10] BanchoBot: electrostrike finished playing (Score: 641087, PASSED).
+[21:51:11] BanchoBot: aiyern finished playing (Score: 431976, PASSED).
+[21:51:11] BanchoBot: My Angel Cocoa finished playing (Score: 290635, PASSED).
+[21:51:11] BanchoBot: smthelse finished playing (Score: 633402, PASSED).
+[21:51:13] BanchoBot: hdt2410 finished playing (Score: 247342, PASSED).
+[21:51:14] BanchoBot: 25 FPS finished playing (Score: 44489, PASSED).
+[21:51:14] BanchoBot: Khanhtan0306 finished playing (Score: 97793, PASSED).
+[21:51:24] BanchoBot: Lemoonz finished playing (Score: 128333, PASSED).
+[21:51:24] BanchoBot: The match has finished!
+[21:51:35] BCraftMG: !mp map 3244371 0
+[21:51:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3244371 PSYQUI - Education
+[21:51:36] BanchoBot: Changed match mode to Osu
+[21:51:36] BCraftMG: !mp timer 120
+[21:51:37] BanchoBot: Countdown ends in 2 minutes
+[21:51:38] Lemoonz: !roll 730
+[21:51:38] BanchoBot: Lemoonz rolls 71 point(s)
+[21:51:40] electrostrike: yes sir
+[21:51:42] electrostrike: toi yeu hd2
+[21:51:44] Lemoonz: hello?
+[21:51:44] Lemoonz: ????
+[21:51:45] electrostrike: choked on nothing :>
+[21:51:49] smthelse: ac'
+[21:51:51] 25_FPS: toi yeu hd
+[21:51:53] LeafLeave: ptl when low ar
+[21:51:54] zeroly: sap bi loai khoi tryout rui
+[21:51:59] Lemoonz: hd3 acc choke time
+[21:51:59] hdt2410: choked on deez nuts
+[21:52:00] ayumiikin_: reverse choke :sob:
+[21:52:03] My_Angel_Cocoa: Vler
+[21:52:07] Khanhtan0306: is this a normal map ?
+[21:52:08] My_Angel_Cocoa: Sightread HD3 kho kho
+[21:52:12] Lemoonz: no
+[21:52:15] LeafLeave: sightread gang
+[21:52:16] aiyern: ko
+[21:52:18] electrostrike: woey mapping
+[21:52:19] Lemoonz: finger control
+[21:52:20] Khanhtan0306: lol
+[21:52:22] hdt2410: i love hd3
+[21:52:23] smthelse: sightread anyon
+[21:52:31] My_Angel_Cocoa: frfr
+[21:52:33] Khanhtan0306: sh*t performance week
+[21:52:33] Khanhtan0306: lol
+[21:52:34] Lemoonz: !roll 730
+[21:52:34] BanchoBot: Lemoonz rolls 461 point(s)
+[21:52:37] BanchoBot: Countdown ends in 1 minute
+[21:52:38] Khanhtan0306: !roll 727
+[21:52:38] BanchoBot: Khanhtan0306 rolls 30 point(s)
+[21:52:43] My_Angel_Cocoa: !roll 1000
+[21:52:43] BanchoBot: My Angel Cocoa rolls 549 point(s)
+[21:52:43] Lemoonz: lmao
+[21:52:43] Khanhtan0306: ?
+[21:52:46] aiyern: !roll 1000
+[21:52:46] BanchoBot: aiyern rolls 370 point(s)
+[21:52:47] Lemoonz: lmaoooo
+[21:52:48] ayumiikin_: !roll 1000
+[21:52:48] BanchoBot: ayumiikin_ rolls 257 point(s)
+[21:52:48] Khanhtan0306: !roll 1000
+[21:52:48] BanchoBot: Khanhtan0306 rolls 114 point(s)
+[21:52:49] electrostrike: !roll 1000
+[21:52:49] BanchoBot: electrostrike rolls 418 point(s)
+[21:52:52] Lemoonz: !roll 727
+[21:52:52] BanchoBot: Lemoonz rolls 90 point(s)
+[21:52:55] Lemoonz: ?
+[21:52:56] My_Angel_Cocoa: !roll 1000
+[21:52:56] BanchoBot: My Angel Cocoa rolls 188 point(s)
+[21:52:57] Khanhtan0306: !roll 727
+[21:52:57] BanchoBot: Khanhtan0306 rolls 415 point(s)
+[21:52:57] BanchoBot: LeafLeave left the game.
+[21:53:02] Lemoonz: !roll 727
+[21:53:02] BanchoBot: Lemoonz rolls 240 point(s)
+[21:53:03] My_Angel_Cocoa: !roll 1000
+[21:53:03] BanchoBot: My Angel Cocoa rolls 771 point(s)
+[21:53:03] Khanhtan0306: !roll 1727
+[21:53:03] BanchoBot: Khanhtan0306 rolls 307 point(s)
+[21:53:07] BanchoBot: Countdown ends in 30 seconds
+[21:53:09] My_Angel_Cocoa: !roll 1000
+[21:53:09] BanchoBot: My Angel Cocoa rolls 163 point(s)
+[21:53:11] Lemoonz: !roll 800
+[21:53:11] BanchoBot: Lemoonz rolls 363 point(s)
+[21:53:14] My_Angel_Cocoa: !roll 1000
+[21:53:14] BanchoBot: My Angel Cocoa rolls 336 point(s)
+[21:53:18] ayumiikin_: !roll 1000
+[21:53:18] BanchoBot: ayumiikin_ rolls 691 point(s)
+[21:53:19] BCraftMG: !mp settings
+[21:53:20] Lemoonz: half wysi
+[21:53:20] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[21:53:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/3244371 PSYQUI - Education
+[21:53:20] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:53:20] BanchoBot: Active mods: NoFail, Hidden
+[21:53:20] BanchoBot: Players: 11
+[21:53:20] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:53:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         
+[21:53:20] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28569876 zeroly          
+[21:53:20] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/31659938 25 FPS          
+[21:53:20] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[21:53:20] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    
+[21:53:20] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/17357380 ayumiikin_      
+[21:53:20] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[21:53:20] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[21:53:20] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[21:53:20] BanchoBot: Slot 12 Not Ready https://osu.ppy.sh/u/24559528 Lemoonz         
+[21:53:21] My_Angel_Cocoa: !roll 1000
+[21:53:21] BanchoBot: My Angel Cocoa rolls 561 point(s)
+[21:53:26] Lemoonz: !roll 800
+[21:53:26] BanchoBot: Lemoonz rolls 791 point(s)
+[21:53:27] BanchoBot: Countdown ends in 10 seconds
+[21:53:27] My_Angel_Cocoa: !roll 1000
+[21:53:27] BanchoBot: My Angel Cocoa rolls 162 point(s)
+[21:53:29] smthelse: !roll 1000
+[21:53:29] BanchoBot: smthelse rolls 468 point(s)
+[21:53:30] Lemoonz: fak
+[21:53:31] Khanhtan0306: !roll 1000
+[21:53:31] BanchoBot: Khanhtan0306 rolls 221 point(s)
+[21:53:32] BanchoBot: Countdown ends in 5 seconds
+[21:53:32] My_Angel_Cocoa: !roll 1000
+[21:53:32] BanchoBot: My Angel Cocoa rolls 895 point(s)
+[21:53:33] BanchoBot: Countdown ends in 4 seconds
+[21:53:34] BanchoBot: Countdown ends in 3 seconds
+[21:53:34] Lemoonz: !roll 800
+[21:53:34] BanchoBot: Lemoonz rolls 709 point(s)
+[21:53:34] smthelse: !roll 1000
+[21:53:34] BanchoBot: smthelse rolls 668 point(s)
+[21:53:35] Khanhtan0306: !roll 727
+[21:53:35] BanchoBot: Khanhtan0306 rolls 196 point(s)
+[21:53:35] BanchoBot: Countdown ends in 2 seconds
+[21:53:36] BanchoBot: Countdown ends in 1 second
+[21:53:37] BanchoBot: Countdown finished
+[21:53:39] Lemoonz: ??????????
+[21:53:41] My_Angel_Cocoa: !roll 1000
+[21:53:41] BanchoBot: My Angel Cocoa rolls 895 point(s)
+[21:53:42] Lemoonz: !roll 800
+[21:53:42] BanchoBot: Lemoonz rolls 680 point(s)
+[21:53:44] Khanhtan0306: !roll 2727
+[21:53:44] BanchoBot: Khanhtan0306 rolls 901 point(s)
+[21:53:44] BCraftMG: !mp settings
+[21:53:45] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[21:53:45] BanchoBot: Beatmap: https://osu.ppy.sh/b/3244371 PSYQUI - Education
+[21:53:45] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:53:45] BanchoBot: Active mods: NoFail, Hidden
+[21:53:45] BanchoBot: Players: 11
+[21:53:45] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:53:45] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         
+[21:53:45] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28569876 zeroly          
+[21:53:45] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          
+[21:53:45] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[21:53:45] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    
+[21:53:45] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/17357380 ayumiikin_      
+[21:53:45] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[21:53:45] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[21:53:45] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[21:53:45] BanchoBot: Slot 12 Not Ready https://osu.ppy.sh/u/24559528 Lemoonz         
+[21:53:47] My_Angel_Cocoa: Het cuu thg nay
+[21:53:48] Lemoonz: !roll 800
+[21:53:48] BanchoBot: Lemoonz rolls 282 point(s)
+[21:53:50] smthelse: !roll 1000
+[21:53:50] BanchoBot: smthelse rolls 965 point(s)
+[21:53:51] My_Angel_Cocoa: Het cuu thg nay
+[21:53:52] Lemoonz: ????
+[21:53:56] My_Angel_Cocoa: !roll 1000
+[21:53:56] BanchoBot: My Angel Cocoa rolls 673 point(s)
+[21:53:57] Lemoonz: !roll 900
+[21:53:57] BanchoBot: Lemoonz rolls 792 point(s)
+[21:53:57] zeroly: !roll 1000
+[21:53:57] BanchoBot: zeroly rolls 230 point(s)
+[21:53:58] BCraftMG: !mp invite LeafLeave
+[21:53:59] BanchoBot: Invited LeafLeave to the room
+[21:54:01] Lemoonz: ??????????
+[21:54:01] BanchoBot: LeafLeave joined in slot 4.
+[21:54:03] My_Angel_Cocoa: !roll 1000
+[21:54:03] BanchoBot: My Angel Cocoa rolls 254 point(s)
+[21:54:05] Khanhtan0306: !roll 727
+[21:54:05] BanchoBot: Khanhtan0306 rolls 384 point(s)
+[21:54:10] My_Angel_Cocoa: !roll 1000
+[21:54:10] BanchoBot: My Angel Cocoa rolls 479 point(s)
+[21:54:10] Khanhtan0306: !roll 1000
+[21:54:10] BanchoBot: Khanhtan0306 rolls 499 point(s)
+[21:54:11] Lemoonz: !roll 727
+[21:54:11] BanchoBot: Lemoonz rolls 7 point(s)
+[21:54:11] ayumiikin_: !roll 1000
+[21:54:11] BanchoBot: ayumiikin_ rolls 793 point(s)
+[21:54:14] My_Angel_Cocoa: ????
+[21:54:15] Lemoonz: ???????????????????????????
+[21:54:16] smthelse: !roll 1000
+[21:54:16] BanchoBot: smthelse rolls 355 point(s)
+[21:54:18] Lemoonz: ???????????????????????????????????
+[21:54:22] Lemoonz: 7????????????
+[21:54:22] My_Angel_Cocoa: Den
+[21:54:24] BanchoBot: All players are ready
+[21:54:26] smthelse: 7
+[21:54:27] My_Angel_Cocoa: Den
+[21:54:28] Lemoonz: moda fuka
+[21:54:30] My_Angel_Cocoa: !roll 1000
+[21:54:30] BanchoBot: My Angel Cocoa rolls 458 point(s)
+[21:54:30] electrostrike: glhf
+[21:54:30] BCraftMG: !mp settings
+[21:54:32] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[21:54:32] BanchoBot: Beatmap: https://osu.ppy.sh/b/3244371 PSYQUI - Education
+[21:54:32] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:54:32] BanchoBot: Active mods: NoFail, Hidden
+[21:54:32] BanchoBot: Players: 12
+[21:54:32] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:54:32] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         
+[21:54:32] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28569876 zeroly          
+[21:54:32] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23870096 LeafLeave       
+[21:54:32] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          
+[21:54:32] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[21:54:32] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    
+[21:54:32] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      
+[21:54:32] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[21:54:32] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[21:54:32] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[21:54:32] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/24559528 Lemoonz         
+[21:54:32] aiyern: glhf
+[21:54:34] smthelse: glhfff
+[21:54:35] BCraftMG: !mp start 5 glhf
+[21:54:35] zeroly: !roll 1000
+[21:54:35] BanchoBot: zeroly rolls 148 point(s)
+[21:54:37] My_Angel_Cocoa: tuong tuong 7
+[21:54:37] BanchoBot: Match starts in 5 seconds
+[21:54:37] BanchoBot: Queued the match to start in 5 seconds
+[21:54:38] LeafLeave: glhf
+[21:54:38] BanchoBot: Match starts in 4 seconds
+[21:54:39] BanchoBot: Match starts in 3 seconds
+[21:54:40] BanchoBot: Good luck, have fun!
+[21:54:41] My_Angel_Cocoa: !roll 1000
+[21:54:41] BanchoBot: My Angel Cocoa rolls 442 point(s)
+[21:54:41] smthelse: chit
+[21:54:41] hdt2410: golf
+[21:54:42] BanchoBot: The match has started!
+[21:54:44] Khanhtan0306: Den
+[21:54:47] Khanhtan0306: glhf
+[21:57:12] BanchoBot: My Angel Cocoa finished playing (Score: 73350, PASSED).
+[21:57:12] BanchoBot: LeafLeave finished playing (Score: 91295, PASSED).
+[21:57:12] BanchoBot: Lemoonz finished playing (Score: 248535, PASSED).
+[21:57:12] BanchoBot: Khanhtan0306 finished playing (Score: 95755, PASSED).
+[21:57:12] BanchoBot: hdt2410 finished playing (Score: 149738, PASSED).
+[21:57:12] BanchoBot: aiyern finished playing (Score: 157599, PASSED).
+[21:57:12] BanchoBot: 25 FPS finished playing (Score: 120660, PASSED).
+[21:57:13] BanchoBot: ayumiikin_ finished playing (Score: 164403, PASSED).
+[21:57:13] BanchoBot: smthelse finished playing (Score: 508334, PASSED).
+[21:57:13] BanchoBot: budget boydn finished playing (Score: 190758, PASSED).
+[21:57:14] BanchoBot: electrostrike finished playing (Score: 346326, PASSED).
+[21:57:14] BanchoBot: zeroly finished playing (Score: 135538, PASSED).
+[21:57:14] BanchoBot: The match has finished!
+[21:57:16] BCraftMG: !mp map 3599311 0
+[21:57:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3599311 Suzuki Konomi - Inochi no Tomoshibi
+[21:57:17] BanchoBot: Changed match mode to Osu
+[21:57:18] BCraftMG: !mp mods 17
+[21:57:19] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[21:57:36] Lemoonz: average 400k in practice
+[21:57:40] Lemoonz: 282k in reality
+[21:57:40] electrostrike: tuyet voi
+[21:57:43] Lemoonz: fuk u
+[21:57:43] electrostrike: toi yeu hr
+[21:57:47] Lemoonz: !roll 727
+[21:57:47] BanchoBot: Lemoonz rolls 597 point(s)
+[21:57:48] hdt2410: i used the wrong skin firetruck
+[21:57:50] zeroly: dead
+[21:57:51] My_Angel_Cocoa: Den luc sightread nguyen cai pool roi
+[21:57:53] My_Angel_Cocoa: Tru TB
+[21:57:53] LeafLeave: not even 100k deadge
+[21:57:54] My_Angel_Cocoa: :troll:
+[21:57:58] My_Angel_Cocoa: Same
+[21:58:00] Lemoonz: !roll 727
+[21:58:00] BanchoBot: Lemoonz rolls 592 point(s)
+[21:58:01] ayumiikin_: chet ca dan hr
+[21:58:05] ayumiikin_: !roll 1000
+[21:58:05] BanchoBot: ayumiikin_ rolls 546 point(s)
+[21:58:06] Lemoonz: !roll 727
+[21:58:06] BanchoBot: Lemoonz rolls 353 point(s)
+[21:58:10] Khanhtan0306: !roll 727
+[21:58:10] BanchoBot: Khanhtan0306 rolls 725 point(s)
+[21:58:12] Lemoonz: !roll 727
+[21:58:12] BanchoBot: Lemoonz rolls 163 point(s)
+[21:58:14] Khanhtan0306: ?????
+[21:58:14] Lemoonz: lmao
+[21:58:17] Lemoonz: lmaoo
+[21:58:18] Khanhtan0306: wtf bancho
+[21:58:19] Lemoonz: !roll 727
+[21:58:19] BanchoBot: Lemoonz rolls 365 point(s)
+[21:58:20] aiyern: !roll 1000
+[21:58:20] BanchoBot: aiyern rolls 990 point(s)
+[21:58:24] My_Angel_Cocoa: !roll 1000
+[21:58:24] BanchoBot: My Angel Cocoa rolls 745 point(s)
+[21:58:24] Lemoonz: !roll 727
+[21:58:24] BanchoBot: Lemoonz rolls 589 point(s)
+[21:58:24] Khanhtan0306: !roll 727
+[21:58:24] BanchoBot: Khanhtan0306 rolls 8 point(s)
+[21:58:26] electrostrike: a ma ti danh fm kieu j nhi
+[21:58:28] ayumiikin_: !roll 1000
+[21:58:28] BanchoBot: ayumiikin_ rolls 388 point(s)
+[21:58:29] Khanhtan0306: ????
+[21:58:29] Lemoonz: LMAO
+[21:58:30] LeafLeave: !roll 1000
+[21:58:30] BanchoBot: LeafLeave rolls 555 point(s)
+[21:58:30] My_Angel_Cocoa: !roll 1000
+[21:58:30] BanchoBot: My Angel Cocoa rolls 976 point(s)
+[21:58:34] LeafLeave: 555
+[21:58:36] Lemoonz: !roll 727
+[21:58:36] BanchoBot: Lemoonz rolls 154 point(s)
+[21:58:38] My_Angel_Cocoa: !roll 1000
+[21:58:38] BanchoBot: My Angel Cocoa rolls 867 point(s)
+[21:58:41] ayumiikin_: !roll 1000
+[21:58:41] BanchoBot: ayumiikin_ rolls 359 point(s)
+[21:58:41] Lemoonz: !roll 728
+[21:58:41] BanchoBot: Lemoonz rolls 582 point(s)
+[21:58:42] My_Angel_Cocoa: !roll 1000
+[21:58:42] BanchoBot: My Angel Cocoa rolls 312 point(s)
+[21:58:46] Khanhtan0306: never try HR
+[21:58:47] Khanhtan0306: lol
+[21:58:47] My_Angel_Cocoa: !roll 1000
+[21:58:47] BanchoBot: My Angel Cocoa rolls 971 point(s)
+[21:58:47] Lemoonz: !roll 729
+[21:58:47] BanchoBot: Lemoonz rolls 432 point(s)
+[21:58:52] My_Angel_Cocoa: !roll 1000
+[21:58:52] BanchoBot: My Angel Cocoa rolls 137 point(s)
+[21:58:52] Khanhtan0306: !roll 728
+[21:58:52] BanchoBot: Khanhtan0306 rolls 622 point(s)
+[21:58:53] Lemoonz: !roll 730
+[21:58:53] BanchoBot: Lemoonz rolls 379 point(s)
+[21:58:57] My_Angel_Cocoa: !roll 1000
+[21:58:57] BanchoBot: My Angel Cocoa rolls 296 point(s)
+[21:58:59] ayumiikin_: !roll 1000
+[21:58:59] BanchoBot: ayumiikin_ rolls 283 point(s)
+[21:58:59] Lemoonz: !roll 731
+[21:58:59] BanchoBot: Lemoonz rolls 550 point(s)
+[21:58:59] zeroly: !roll 1000
+[21:58:59] BanchoBot: zeroly rolls 158 point(s)
+[21:59:00] electrostrike: !roll 1000
+[21:59:00] BanchoBot: electrostrike rolls 583 point(s)
+[21:59:02] Khanhtan0306: !roll 728-1
+[21:59:02] BanchoBot: Khanhtan0306 rolls 58 point(s)
+[21:59:03] My_Angel_Cocoa: !roll 1000
+[21:59:03] BanchoBot: My Angel Cocoa rolls 758 point(s)
+[21:59:05] Lemoonz: !roll 732
+[21:59:05] BanchoBot: Lemoonz rolls 293 point(s)
+[21:59:12] Khanhtan0306: !roll 1000
+[21:59:12] BanchoBot: Khanhtan0306 rolls 795 point(s)
+[21:59:12] Lemoonz: !roll 733
+[21:59:12] BanchoBot: Lemoonz rolls 498 point(s)
+[21:59:18] Lemoonz: !roll 734
+[21:59:18] BanchoBot: Lemoonz rolls 699 point(s)
+[21:59:19] ayumiikin_: !roll 1000
+[21:59:19] BanchoBot: ayumiikin_ rolls 964 point(s)
+[21:59:22] Lemoonz: ?
+[21:59:23] BCraftMG: !mp settings
+[21:59:24] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[21:59:24] BanchoBot: Beatmap: https://osu.ppy.sh/b/3599311 Suzuki Konomi - Inochi no Tomoshibi
+[21:59:24] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:59:24] BanchoBot: Active mods: NoFail, HardRock
+[21:59:24] BanchoBot: Players: 12
+[21:59:24] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:59:24] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         
+[21:59:24] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28569876 zeroly          
+[21:59:24] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23870096 LeafLeave       
+[21:59:24] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          
+[21:59:24] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[21:59:24] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    
+[21:59:24] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      
+[21:59:24] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[21:59:24] BanchoBot: Slot 10 Not Ready https://osu.ppy.sh/u/13238121 smthelse        
+[21:59:24] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[21:59:24] BanchoBot: Slot 12 Not Ready https://osu.ppy.sh/u/24559528 Lemoonz         
+[21:59:28] Lemoonz: !roll 735
+[21:59:28] BanchoBot: Lemoonz rolls 161 point(s)
+[21:59:31] Khanhtan0306: !roll 727
+[21:59:31] BanchoBot: Khanhtan0306 rolls 191 point(s)
+[21:59:31] BanchoBot: All players are ready
+[21:59:33] smthelse: glhfff
+[21:59:37] Lemoonz: glhf
+[21:59:38] aiyern: ghlf
+[21:59:39] electrostrike: glhf
+[21:59:42] LeafLeave: glhf
+[21:59:42] Lemoonz: time to die
+[21:59:50] Khanhtan0306: glhf
+[21:59:54] hdt2410: golf
+[21:59:54] BCraftMG: !mp settings
+[21:59:55] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[21:59:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/3599311 Suzuki Konomi - Inochi no Tomoshibi
+[21:59:55] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:59:55] BanchoBot: Active mods: NoFail, HardRock
+[21:59:55] BanchoBot: Players: 12
+[21:59:55] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:59:55] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         
+[21:59:55] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28569876 zeroly          
+[21:59:55] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23870096 LeafLeave       
+[21:59:55] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          
+[21:59:55] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[21:59:55] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    
+[21:59:55] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      
+[21:59:55] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[21:59:55] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[21:59:55] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[21:59:55] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/24559528 Lemoonz         
+[21:59:56] BCraftMG: !mp start 5 glhf
+[21:59:57] BanchoBot: Match starts in 5 seconds
+[21:59:57] BanchoBot: Queued the match to start in 5 seconds
+[21:59:58] BanchoBot: Match starts in 4 seconds
+[21:59:59] smthelse: chit
+[21:59:59] BanchoBot: Match starts in 3 seconds
+[22:00:00] BanchoBot: Good luck, have fun!
+[22:00:02] BanchoBot: The match has started!
+[22:03:52] BanchoBot: smthelse finished playing (Score: 375973, PASSED).
+[22:03:52] BanchoBot: Khanhtan0306 finished playing (Score: 125200, PASSED).
+[22:03:52] BanchoBot: Lemoonz finished playing (Score: 38153, PASSED).
+[22:03:53] BanchoBot: My Angel Cocoa finished playing (Score: 51013, PASSED).
+[22:03:53] BanchoBot: electrostrike finished playing (Score: 304165, PASSED).
+[22:03:53] BanchoBot: ayumiikin_ finished playing (Score: 221809, PASSED).
+[22:03:53] BanchoBot: 25 FPS finished playing (Score: 150883, PASSED).
+[22:03:53] BanchoBot: hdt2410 finished playing (Score: 164268, PASSED).
+[22:03:54] BanchoBot: aiyern finished playing (Score: 112531, PASSED).
+[22:03:54] BanchoBot: budget boydn finished playing (Score: 294107, PASSED).
+[22:03:55] BanchoBot: LeafLeave finished playing (Score: 63226, PASSED).
+[22:04:03] BanchoBot: zeroly finished playing (Score: 138148, PASSED).
+[22:04:03] BanchoBot: The match has finished!
+[22:04:10] BCraftMG: !mp map 4027832 0
+[22:04:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4027832 Frog96 - Letter to the Black World
+[22:04:10] BanchoBot: Changed match mode to Osu
+[22:04:12] BCraftMG: !mp timer 120
+[22:04:12] BanchoBot: Countdown ends in 2 minutes
+[22:04:23] My_Angel_Cocoa: vl t tuong t dung det
+[22:04:24] My_Angel_Cocoa: vdaiiii
+[22:04:27] electrostrike: vua du 300k smh
+[22:04:28] Khanhtan0306: wtf top 8
+[22:04:33] Khanhtan0306: jump rank moment
+[22:04:34] Khanhtan0306: wtf
+[22:04:39] budget_boydn: cool sightread
+[22:04:59] hdt2410: im still shit at hr what!!
+[22:05:02] LeafLeave: mom yelling at me
+[22:05:03] Lemoonz: !roll 727
+[22:05:03] BanchoBot: Lemoonz rolls 146 point(s)
+[22:05:03] LeafLeave: o7
+[22:05:08] Lemoonz: !roll 727
+[22:05:08] BanchoBot: Lemoonz rolls 401 point(s)
+[22:05:09] Khanhtan0306: o7
+[22:05:12] Lemoonz: o7
+[22:05:12] Khanhtan0306: see u next time
+[22:05:13] BanchoBot: Countdown ends in 1 minute
+[22:05:14] Lemoonz: !roll 727
+[22:05:14] BanchoBot: Lemoonz rolls 396 point(s)
+[22:05:14] Khanhtan0306: !roll 727
+[22:05:14] BanchoBot: Khanhtan0306 rolls 571 point(s)
+[22:05:14] aiyern: o7
+[22:05:16] electrostrike: o/
+[22:05:17] ayumiikin_: !roll 1000
+[22:05:17] BanchoBot: ayumiikin_ rolls 23 point(s)
+[22:05:18] My_Angel_Cocoa: !roll 1000
+[22:05:18] BanchoBot: My Angel Cocoa rolls 246 point(s)
+[22:05:22] Lemoonz: !roll 727
+[22:05:22] BanchoBot: Lemoonz rolls 540 point(s)
+[22:05:26] My_Angel_Cocoa: !roll 1000
+[22:05:26] BanchoBot: My Angel Cocoa rolls 357 point(s)
+[22:05:28] Lemoonz: !roll 727
+[22:05:28] BanchoBot: Lemoonz rolls 293 point(s)
+[22:05:33] Lemoonz: back 2 the grind
+[22:05:34] My_Angel_Cocoa: vcl 236 r 357
+[22:05:34] Lemoonz: ...
+[22:05:35] My_Angel_Cocoa: hetcuu
+[22:05:41] Khanhtan0306: wtf
+[22:05:42] My_Angel_Cocoa: 246 chu
+[22:05:42] Lemoonz: !roll 727
+[22:05:42] BanchoBot: Lemoonz rolls 607 point(s)
+[22:05:43] BanchoBot: Countdown ends in 30 seconds
+[22:05:46] My_Angel_Cocoa: !roll 1000
+[22:05:46] BanchoBot: My Angel Cocoa rolls 99 point(s)
+[22:05:46] Khanhtan0306: !1000
+[22:05:47] Lemoonz: !rp;; 727
+[22:05:51] Lemoonz: !roll 727
+[22:05:51] BanchoBot: Lemoonz rolls 400 point(s)
+[22:05:53] My_Angel_Cocoa: !roll 1000
+[22:05:53] BanchoBot: My Angel Cocoa rolls 313 point(s)
+[22:05:56] Lemoonz: !roll 727
+[22:05:56] BanchoBot: Lemoonz rolls 522 point(s)
+[22:05:57] Khanhtan0306: !roll 1000
+[22:05:57] BanchoBot: Khanhtan0306 rolls 667 point(s)
+[22:05:58] Lemoonz: praige
+[22:06:00] Lemoonz: fak
+[22:06:00] Khanhtan0306: !roll 727
+[22:06:00] BanchoBot: Khanhtan0306 rolls 586 point(s)
+[22:06:01] Lemoonz: !roll 727
+[22:06:01] BanchoBot: Lemoonz rolls 655 point(s)
+[22:06:03] BanchoBot: Countdown ends in 10 seconds
+[22:06:04] My_Angel_Cocoa: !roll 1000
+[22:06:04] BanchoBot: My Angel Cocoa rolls 4 point(s)
+[22:06:04] ayumiikin_: !roll 1000
+[22:06:04] BanchoBot: ayumiikin_ rolls 808 point(s)
+[22:06:05] Khanhtan0306: the moment of true
+[22:06:06] Lemoonz: !roll 727
+[22:06:06] BanchoBot: Lemoonz rolls 418 point(s)
+[22:06:08] BanchoBot: Countdown ends in 5 seconds
+[22:06:08] My_Angel_Cocoa: ??????????
+[22:06:09] Khanhtan0306: !roll 728
+[22:06:09] BanchoBot: Khanhtan0306 rolls 53 point(s)
+[22:06:09] BanchoBot: Countdown ends in 4 seconds
+[22:06:09] Lemoonz: 4
+[22:06:10] BanchoBot: Countdown ends in 3 seconds
+[22:06:10] Lemoonz: ?
+[22:06:11] BanchoBot: Countdown ends in 2 seconds
+[22:06:11] Lemoonz: ??
+[22:06:12] BanchoBot: Countdown ends in 1 second
+[22:06:12] Lemoonz: ?
+[22:06:13] Khanhtan0306: wtf
+[22:06:13] BanchoBot: Countdown finished
+[22:06:14] BCraftMG: !mp settings
+[22:06:15] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[22:06:15] BanchoBot: Beatmap: https://osu.ppy.sh/b/4027832 Frog96 - Letter to the Black World
+[22:06:15] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:06:15] BanchoBot: Active mods: NoFail, HardRock
+[22:06:15] BanchoBot: Players: 12
+[22:06:15] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[22:06:15] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         
+[22:06:15] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28569876 zeroly          
+[22:06:15] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23870096 LeafLeave       
+[22:06:15] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/31659938 25 FPS          
+[22:06:15] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[22:06:15] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    
+[22:06:15] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      
+[22:06:15] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[22:06:15] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[22:06:15] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[22:06:15] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/24559528 Lemoonz         
+[22:06:15] Lemoonz: lmao
+[22:06:15] zeroly: !roll 1000
+[22:06:15] BanchoBot: zeroly rolls 189 point(s)
+[22:06:16] My_Angel_Cocoa: bancho
+[22:06:18] My_Angel_Cocoa: :gun:
+[22:06:19] BCraftMG: 25 fps
+[22:06:21] electrostrike: !roll 1000
+[22:06:21] BanchoBot: electrostrike rolls 986 point(s)
+[22:06:23] Khanhtan0306: bancho is dead
+[22:06:25] Khanhtan0306: lol
+[22:06:27] Lemoonz: !roll 727
+[22:06:27] BanchoBot: Lemoonz rolls 425 point(s)
+[22:06:27] BanchoBot: All players are ready
+[22:06:28] Khanhtan0306: !roll 727
+[22:06:28] BanchoBot: Khanhtan0306 rolls 126 point(s)
+[22:06:28] BCraftMG: !mp settings
+[22:06:29] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[22:06:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/4027832 Frog96 - Letter to the Black World
+[22:06:29] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:06:29] BanchoBot: Active mods: NoFail, HardRock
+[22:06:29] BanchoBot: Players: 12
+[22:06:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[22:06:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         
+[22:06:29] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28569876 zeroly          
+[22:06:29] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23870096 LeafLeave       
+[22:06:29] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          
+[22:06:29] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[22:06:29] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    
+[22:06:29] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      
+[22:06:29] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[22:06:29] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[22:06:29] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[22:06:29] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/24559528 Lemoonz         
+[22:06:30] 25_FPS: lag
+[22:06:31] BCraftMG: !mp start 5 glhf
+[22:06:32] electrostrike: glhf
+[22:06:32] Lemoonz: !roll 727
+[22:06:32] BanchoBot: Lemoonz rolls 142 point(s)
+[22:06:32] BanchoBot: Match starts in 5 seconds
+[22:06:32] BanchoBot: Queued the match to start in 5 seconds
+[22:06:33] smthelse: glhffff!!!1
+[22:06:33] BanchoBot: Match starts in 4 seconds
+[22:06:34] aiyern: glhf
+[22:06:34] BanchoBot: Match starts in 3 seconds
+[22:06:35] smthelse: chit
+[22:06:35] BanchoBot: Good luck, have fun!
+[22:06:35] Khanhtan0306: !roll 1000
+[22:06:35] BanchoBot: Khanhtan0306 rolls 679 point(s)
+[22:06:36] My_Angel_Cocoa: !roll 1000
+[22:06:36] BanchoBot: My Angel Cocoa rolls 474 point(s)
+[22:06:37] BanchoBot: The match has started!
+[22:06:38] LeafLeave: prayge
+[22:06:40] Khanhtan0306: glhf
+[22:08:26] BanchoBot: Lemoonz finished playing (Score: 46514, PASSED).
+[22:08:26] BanchoBot: hdt2410 finished playing (Score: 154447, PASSED).
+[22:08:26] BanchoBot: electrostrike finished playing (Score: 459738, PASSED).
+[22:08:26] BanchoBot: Khanhtan0306 finished playing (Score: 134915, PASSED).
+[22:08:26] BanchoBot: zeroly finished playing (Score: 213642, PASSED).
+[22:08:27] BanchoBot: LeafLeave finished playing (Score: 119945, PASSED).
+[22:08:27] BanchoBot: ayumiikin_ finished playing (Score: 348119, PASSED).
+[22:08:27] BanchoBot: 25 FPS finished playing (Score: 94306, PASSED).
+[22:08:27] BanchoBot: budget boydn finished playing (Score: 405029, PASSED).
+[22:08:28] BanchoBot: smthelse finished playing (Score: 592810, PASSED).
+[22:08:28] BanchoBot: My Angel Cocoa finished playing (Score: 60250, PASSED).
+[22:08:28] BanchoBot: aiyern finished playing (Score: 229029, PASSED).
+[22:08:28] BanchoBot: The match has finished!
+[22:08:36] budget_boydn: cool sightread
+[22:08:42] ayumiikin_: hr happy
+[22:08:44] BCraftMG: !mp map 1048276 0
+[22:08:45] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1048276 Camellia - kodama
+[22:08:45] BanchoBot: Changed match mode to Osu
+[22:08:45] BCraftMG: !mp timer 120
+[22:08:46] BanchoBot: Countdown ends in 2 minutes
+[22:08:47] Lemoonz: !roll 727
+[22:08:47] BanchoBot: Lemoonz rolls 271 point(s)
+[22:08:48] My_Angel_Cocoa: vl map bat ruoi a ae
+[22:08:57] Khanhtan0306: game dap gian
+[22:08:59] electrostrike: map aim lab
+[22:09:01] Khanhtan0306: !roll 1000
+[22:09:01] BanchoBot: Khanhtan0306 rolls 924 point(s)
+[22:09:03] LeafLeave: osu for ants
+[22:09:04] Khanhtan0306: !roll 727
+[22:09:04] BanchoBot: Khanhtan0306 rolls 89 point(s)
+[22:09:04] electrostrike: fr
+[22:09:08] zeroly: sao ma toan top 6789 the nay huhu
+[22:09:09] Lemoonz: !roll 727
+[22:09:09] BanchoBot: Lemoonz rolls 446 point(s)
+[22:09:11] My_Angel_Cocoa: aimlab nay toi khong quen
+[22:09:15] Lemoonz: !roll 727
+[22:09:15] BanchoBot: Lemoonz rolls 329 point(s)
+[22:09:27] Lemoonz: !roll 1000
+[22:09:27] BanchoBot: Lemoonz rolls 243 point(s)
+[22:09:31] zeroly: !roll 1000
+[22:09:31] BanchoBot: zeroly rolls 786 point(s)
+[22:09:31] ayumiikin_: !roll 1000
+[22:09:31] BanchoBot: ayumiikin_ rolls 841 point(s)
+[22:09:32] electrostrike: keo slider hr zzz
+[22:09:37] zeroly: !roll 1000
+[22:09:37] BanchoBot: zeroly rolls 935 point(s)
+[22:09:42] Lemoonz: !roll 728
+[22:09:42] BanchoBot: Lemoonz rolls 172 point(s)
+[22:09:44] zeroly: !roll 1000
+[22:09:44] BanchoBot: zeroly rolls 21 point(s)
+[22:09:46] Lemoonz: ?
+[22:09:47] BanchoBot: Countdown ends in 1 minute
+[22:09:48] Khanhtan0306: is this AR 10.4 ?
+[22:09:48] electrostrike: !roll 1000
+[22:09:48] BanchoBot: electrostrike rolls 987 point(s)
+[22:09:51] zeroly: !roll 1000
+[22:09:51] BanchoBot: zeroly rolls 849 point(s)
+[22:09:51] Khanhtan0306: !roll 1000
+[22:09:51] BanchoBot: Khanhtan0306 rolls 429 point(s)
+[22:09:54] aiyern: ar10
+[22:09:56] zeroly: !roll 1000
+[22:09:56] BanchoBot: zeroly rolls 601 point(s)
+[22:09:57] Khanhtan0306: !roll 727
+[22:09:57] BanchoBot: Khanhtan0306 rolls 177 point(s)
+[22:09:59] Lemoonz: !roll 730
+[22:09:59] BanchoBot: Lemoonz rolls 553 point(s)
+[22:10:00] electrostrike: high rolling wtf
+[22:10:00] zeroly: !roll 1000
+[22:10:00] BanchoBot: zeroly rolls 915 point(s)
+[22:10:04] zeroly: !roll 1000
+[22:10:04] BanchoBot: zeroly rolls 963 point(s)
+[22:10:06] Khanhtan0306: wtf banger
+[22:10:07] My_Angel_Cocoa: !roll 1000
+[22:10:07] BanchoBot: My Angel Cocoa rolls 228 point(s)
+[22:10:08] Lemoonz: !roll 800
+[22:10:08] BanchoBot: Lemoonz rolls 598 point(s)
+[22:10:10] Khanhtan0306: !roll 727
+[22:10:10] BanchoBot: Khanhtan0306 rolls 472 point(s)
+[22:10:14] Khanhtan0306: !roll 1000
+[22:10:14] BanchoBot: Khanhtan0306 rolls 835 point(s)
+[22:10:14] Lemoonz: !roll 800
+[22:10:14] BanchoBot: Lemoonz rolls 649 point(s)
+[22:10:15] ayumiikin_: hr cap ar10 ma :tf:
+[22:10:15] My_Angel_Cocoa: Ok roll lan cuoi
+[22:10:16] BanchoBot: Countdown ends in 30 seconds
+[22:10:19] My_Angel_Cocoa: Nhin ma hoc hoi
+[22:10:21] My_Angel_Cocoa: !roll 1000
+[22:10:21] BanchoBot: My Angel Cocoa rolls 954 point(s)
+[22:10:23] Lemoonz: !roll 800
+[22:10:23] BanchoBot: Lemoonz rolls 465 point(s)
+[22:10:25] My_Angel_Cocoa: cac
+[22:10:26] Khanhtan0306: nhin t ne
+[22:10:26] LeafLeave: ok
+[22:10:29] Khanhtan0306: !roll 1000
+[22:10:29] BanchoBot: Khanhtan0306 rolls 975 point(s)
+[22:10:33] Lemoonz: nice high roll
+[22:10:33] ayumiikin_: !roll 1000
+[22:10:33] BanchoBot: ayumiikin_ rolls 94 point(s)
+[22:10:35] Lemoonz: .-.
+[22:10:37] BanchoBot: Countdown ends in 10 seconds
+[22:10:37] Khanhtan0306: lol
+[22:10:41] Lemoonz: nice low roll
+[22:10:42] BanchoBot: Countdown ends in 5 seconds
+[22:10:42] Khanhtan0306: !roll 727
+[22:10:42] BanchoBot: Khanhtan0306 rolls 466 point(s)
+[22:10:43] BanchoBot: Countdown ends in 4 seconds
+[22:10:44] BanchoBot: Countdown ends in 3 seconds
+[22:10:45] BanchoBot: Countdown ends in 2 seconds
+[22:10:46] BanchoBot: Countdown ends in 1 second
+[22:10:47] BanchoBot: Countdown finished
+[22:10:47] Lemoonz: !roll 727
+[22:10:47] BanchoBot: Lemoonz rolls 214 point(s)
+[22:10:50] Khanhtan0306: no wysi moment wtf
+[22:10:56] Lemoonz: !roll 727
+[22:10:56] BanchoBot: Lemoonz rolls 231 point(s)
+[22:11:01] Lemoonz: i give up
+[22:11:03] smthelse: !roll 1000
+[22:11:03] BanchoBot: smthelse rolls 329 point(s)
+[22:11:05] electrostrike: glhf
+[22:11:06] My_Angel_Cocoa: banner do cho nhung thang thich "thay no"
+[22:11:09] BanchoBot: All players are ready
+[22:11:10] My_Angel_Cocoa: :frfr:
+[22:11:13] Lemoonz: !roll 1000
+[22:11:13] BanchoBot: Lemoonz rolls 488 point(s)
+[22:11:17] aiyern: glhf
+[22:11:20] Khanhtan0306: Vas
+[22:11:23] Khanhtan0306: !roll 727
+[22:11:23] BanchoBot: Khanhtan0306 rolls 704 point(s)
+[22:11:25] Lemoonz: !roll 1000
+[22:11:25] BanchoBot: Lemoonz rolls 875 point(s)
+[22:11:26] Khanhtan0306: !roll 1000
+[22:11:26] BanchoBot: Khanhtan0306 rolls 862 point(s)
+[22:11:31] Khanhtan0306: still fking close wtf
+[22:11:31] 25_FPS: !roll727
+[22:11:31] My_Angel_Cocoa: Ok tiep tuc sightread thoi ae
+[22:11:33] My_Angel_Cocoa: kho kho
+[22:11:36] Lemoonz: !roll 1000
+[22:11:36] BanchoBot: Lemoonz rolls 703 point(s)
+[22:11:38] smthelse: bcraft day di anh oi
+[22:11:41] Khanhtan0306: cant reach to wysi
+[22:11:42] Lemoonz: !roll 1000
+[22:11:42] BanchoBot: Lemoonz rolls 266 point(s)
+[22:11:44] 25_FPS: !roll 727
+[22:11:44] BanchoBot: 25 FPS rolls 125 point(s)
+[22:11:47] Lemoonz: !roll 1000
+[22:11:47] BanchoBot: Lemoonz rolls 621 point(s)
+[22:11:48] BCraftMG: !mp settings
+[22:11:49] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[22:11:49] BanchoBot: Beatmap: https://osu.ppy.sh/b/1048276 Camellia - kodama
+[22:11:49] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:11:49] BanchoBot: Active mods: NoFail, HardRock
+[22:11:49] BanchoBot: Players: 12
+[22:11:49] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[22:11:49] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         
+[22:11:49] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28569876 zeroly          
+[22:11:49] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23870096 LeafLeave       
+[22:11:49] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          
+[22:11:49] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[22:11:49] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    
+[22:11:49] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      
+[22:11:49] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[22:11:49] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[22:11:49] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[22:11:49] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/24559528 Lemoonz         
+[22:11:49] aiyern: !roll 1000
+[22:11:49] BanchoBot: aiyern rolls 393 point(s)
+[22:11:50] 25_FPS: wtf
+[22:11:51] ayumiikin_: !roll 1000
+[22:11:51] BanchoBot: ayumiikin_ rolls 149 point(s)
+[22:11:54] BCraftMG: dcm
+[22:11:55] Lemoonz: !roll 1000
+[22:11:55] BanchoBot: Lemoonz rolls 917 point(s)
+[22:11:56] BCraftMG: spam roll
+[22:11:57] BCraftMG: k nhin dc
+[22:11:58] BCraftMG: !mp start 5 glhf
+[22:11:59] Lemoonz: wtf
+[22:11:59] BanchoBot: Match starts in 5 seconds
+[22:11:59] BanchoBot: Queued the match to start in 5 seconds
+[22:12:01] BanchoBot: Match starts in 4 seconds
+[22:12:02] BanchoBot: Match starts in 3 seconds
+[22:12:03] BanchoBot: Good luck, have fun!
+[22:12:03] smthelse: chit
+[22:12:04] smthelse: glhfg
+[22:12:05] BanchoBot: The match has started!
+[22:12:06] aiyern: ghlf
+[22:12:09] Khanhtan0306: chit
+[22:12:52] BanchoBot: LeafLeave left the game.
+[22:16:00] BanchoBot: hdt2410 finished playing (Score: 90921, PASSED).
+[22:16:00] BanchoBot: Lemoonz finished playing (Score: 34054, PASSED).
+[22:16:01] BanchoBot: smthelse finished playing (Score: 507596, PASSED).
+[22:16:01] BanchoBot: My Angel Cocoa finished playing (Score: 45611, PASSED).
+[22:16:01] BanchoBot: ayumiikin_ finished playing (Score: 262853, PASSED).
+[22:16:01] BanchoBot: Khanhtan0306 finished playing (Score: 95822, PASSED).
+[22:16:01] BanchoBot: 25 FPS finished playing (Score: 126583, PASSED).
+[22:16:01] BanchoBot: zeroly finished playing (Score: 119095, PASSED).
+[22:16:01] BanchoBot: aiyern finished playing (Score: 119398, PASSED).
+[22:16:02] BanchoBot: electrostrike finished playing (Score: 319795, PASSED).
+[22:16:02] BanchoBot: budget boydn finished playing (Score: 298486, PASSED).
+[22:16:02] BanchoBot: The match has finished!
+[22:16:12] My_Angel_Cocoa: worst hr player
+[22:16:14] My_Angel_Cocoa: real real
+[22:16:18] ayumiikin_: real
+[22:16:19] zeroly: vai lo
+[22:16:22] zeroly: thua 300 diem
+[22:16:28] Khanhtan0306: `worst hr player Vi en
+[22:16:30] BCraftMG: !mp map 3288202 0
+[22:16:30] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3288202 Yuika - Suki Dakara. (feat. Ren)
+[22:16:30] BanchoBot: Changed match mode to Osu
+[22:16:31] aiyern: ye
+[22:16:32] BCraftMG: !mp mods 65
+[22:16:32] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[22:16:33] BCraftMG: !mp timer 120
+[22:16:33] BanchoBot: Countdown ends in 2 minutes
+[22:16:36] Khanhtan0306: !roll 1000
+[22:16:36] BanchoBot: Khanhtan0306 rolls 584 point(s)
+[22:16:41] Khanhtan0306: !roll 727
+[22:16:41] BanchoBot: Khanhtan0306 rolls 571 point(s)
+[22:16:46] smthelse: ai la nguoi da cho ar10.2 vao lsr pool
+[22:16:47] smthelse: grrrrr
+[22:16:55] electrostrike: real
+[22:17:02] electrostrike: ar 10.2 chill chill
+[22:17:06] electrostrike: :nop:
+[22:17:10] hdt2410: map nhu ho boi
+[22:17:14] hdt2410: what
+[22:17:15] My_Angel_Cocoa: gamma ko do t roi
+[22:17:29] Khanhtan0306: I gonna be daijoubu
+[22:17:30] Khanhtan0306: ....
+[22:17:34] BanchoBot: Countdown ends in 1 minute
+[22:17:34] Lemoonz: !roll 727
+[22:17:34] BanchoBot: Lemoonz rolls 135 point(s)
+[22:17:36] Khanhtan0306: !roll 1000
+[22:17:36] BanchoBot: Khanhtan0306 rolls 999 point(s)
+[22:17:40] Khanhtan0306: wtf
+[22:17:41] Lemoonz: lmao
+[22:17:42] My_Angel_Cocoa: tai sao do nguoi khac ma khong phai taoo
+[22:17:42] electrostrike: !roll
+[22:17:42] BanchoBot: electrostrike rolls 17 point(s)
+[22:17:42] My_Angel_Cocoa: huhu
+[22:17:43] Lemoonz: LMAO
+[22:17:50] electrostrike: xdd
+[22:17:50] smthelse: !roll 1000
+[22:17:50] BanchoBot: smthelse rolls 32 point(s)
+[22:17:51] zeroly: !roll 1000
+[22:17:51] BanchoBot: zeroly rolls 131 point(s)
+[22:17:54] Lemoonz: !roll 727
+[22:17:54] BanchoBot: Lemoonz rolls 370 point(s)
+[22:17:54] Khanhtan0306: lmao shit bancho moment
+[22:17:55] smthelse: 32
+[22:17:57] smthelse: ?
+[22:17:57] Khanhtan0306: !roll 727
+[22:17:57] BanchoBot: Khanhtan0306 rolls 255 point(s)
+[22:17:59] Lemoonz: ?
+[22:18:01] ayumiikin_: !roll 1000
+[22:18:01] BanchoBot: ayumiikin_ rolls 451 point(s)
+[22:18:01] Lemoonz: roll 727
+[22:18:02] zeroly: !roll 1000
+[22:18:02] BanchoBot: zeroly rolls 649 point(s)
+[22:18:02] electrostrike: 17 ?
+[22:18:04] BanchoBot: Countdown ends in 30 seconds
+[22:18:07] Lemoonz: please man
+[22:18:07] electrostrike: ayo?
+[22:18:07] Khanhtan0306: wtf 999
+[22:18:07] Khanhtan0306: ?
+[22:18:10] Lemoonz: !roll 727
+[22:18:10] BanchoBot: Lemoonz rolls 591 point(s)
+[22:18:12] smthelse: !roll 1000
+[22:18:12] BanchoBot: smthelse rolls 307 point(s)
+[22:18:20] Khanhtan0306: !roll 727
+[22:18:20] BanchoBot: Khanhtan0306 rolls 212 point(s)
+[22:18:21] Lemoonz: !roll 800 firetruck you bancho
+[22:18:21] BanchoBot: Lemoonz rolls 52 point(s)
+[22:18:22] My_Angel_Cocoa: vocals bai nay nhu cc
+[22:18:24] BanchoBot: Countdown ends in 10 seconds
+[22:18:25] Lemoonz: ?
+[22:18:28] Khanhtan0306: !roll 1000
+[22:18:28] BanchoBot: Khanhtan0306 rolls 830 point(s)
+[22:18:29] BanchoBot: Countdown ends in 5 seconds
+[22:18:29] smthelse: !roll 1000
+[22:18:29] BanchoBot: smthelse rolls 961 point(s)
+[22:18:30] BanchoBot: Countdown ends in 4 seconds
+[22:18:31] BanchoBot: Countdown ends in 3 seconds
+[22:18:32] BanchoBot: Countdown ends in 2 seconds
+[22:18:33] BanchoBot: Countdown ends in 1 second
+[22:18:34] Lemoonz: !roll 1000
+[22:18:34] BanchoBot: Lemoonz rolls 917 point(s)
+[22:18:34] BanchoBot: Countdown finished
+[22:18:36] Khanhtan0306: nghe chill vai
+[22:18:37] BCraftMG: !mp settings
+[22:18:37] Lemoonz: ????
+[22:18:37] smthelse: !roll 1000
+[22:18:37] BanchoBot: smthelse rolls 648 point(s)
+[22:18:38] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[22:18:38] BanchoBot: Beatmap: https://osu.ppy.sh/b/3288202 Yuika - Suki Dakara. (feat. Ren)
+[22:18:38] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:18:38] BanchoBot: Active mods: NoFail, DoubleTime
+[22:18:38] BanchoBot: Players: 11
+[22:18:38] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[22:18:38] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         
+[22:18:38] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28569876 zeroly          
+[22:18:38] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          
+[22:18:38] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[22:18:38] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    
+[22:18:38] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      
+[22:18:38] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[22:18:38] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[22:18:38] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[22:18:38] BanchoBot: Slot 12 Not Ready https://osu.ppy.sh/u/24559528 Lemoonz         
+[22:18:40] Khanhtan0306: vo troll thoi
+[22:18:43] BCraftMG: Lemoonz
+[22:18:43] aiyern: nhac buon ngu
+[22:18:44] Khanhtan0306: :troll:
+[22:18:45] My_Angel_Cocoa: !roll 1000
+[22:18:45] BanchoBot: My Angel Cocoa rolls 961 point(s)
+[22:18:45] smthelse: glhfff
+[22:18:46] electrostrike: glhf
+[22:18:48] BanchoBot: All players are ready
+[22:18:50] BCraftMG: !mp settings
+[22:18:50] aiyern: glhf
+[22:18:50] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[22:18:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/3288202 Yuika - Suki Dakara. (feat. Ren)
+[22:18:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:18:50] BanchoBot: Active mods: NoFail, DoubleTime
+[22:18:50] BanchoBot: Players: 11
+[22:18:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[22:18:50] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         
+[22:18:50] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28569876 zeroly          
+[22:18:50] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          
+[22:18:50] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[22:18:50] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    
+[22:18:50] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      
+[22:18:50] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[22:18:50] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[22:18:51] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[22:18:51] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/24559528 Lemoonz         
+[22:18:51] BCraftMG: !mp start 5 glhf
+[22:18:52] Khanhtan0306: glhf
+[22:18:52] BanchoBot: Match starts in 5 seconds
+[22:18:52] BanchoBot: Queued the match to start in 5 seconds
+[22:18:53] BanchoBot: Match starts in 4 seconds
+[22:18:54] BanchoBot: Match starts in 3 seconds
+[22:18:55] smthelse: chit
+[22:18:55] BanchoBot: Good luck, have fun!
+[22:18:57] BanchoBot: The match has started!
+[22:19:04] Khanhtan0306: dont sleep during play, gyze
+[22:22:25] BanchoBot: zeroly finished playing (Score: 239121, PASSED).
+[22:22:26] BanchoBot: electrostrike finished playing (Score: 398928, PASSED).
+[22:22:26] BanchoBot: My Angel Cocoa finished playing (Score: 72189, PASSED).
+[22:22:26] BanchoBot: ayumiikin_ finished playing (Score: 120582, PASSED).
+[22:22:26] BanchoBot: smthelse finished playing (Score: 711887, PASSED).
+[22:22:27] BanchoBot: Khanhtan0306 finished playing (Score: 103161, PASSED).
+[22:22:27] BanchoBot: hdt2410 finished playing (Score: 166832, PASSED).
+[22:22:27] BanchoBot: budget boydn finished playing (Score: 705269, PASSED).
+[22:22:28] BanchoBot: 25 FPS finished playing (Score: 96982, PASSED).
+[22:22:28] BanchoBot: aiyern finished playing (Score: 88077, PASSED).
+[22:22:33] BanchoBot: Lemoonz finished playing (Score: 21892, PASSED).
+[22:22:33] BanchoBot: The match has finished!
+[22:22:37] BCraftMG: !mp map 2795080 0
+[22:22:38] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2795080 Yukihiro Jindo - Inevitable Struggle -demo version-
+[22:22:38] BanchoBot: Changed match mode to Osu
+[22:22:44] BCraftMG: !mp map 1319822 0
+[22:22:44] My_Angel_Cocoa: Ua j z
+[22:22:44] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1319822 dj TAKA - Colors -sasakure.UK Futurelogic Remix-
+[22:22:44] BanchoBot: Changed match mode to Osu
+[22:22:45] BCraftMG: !mp timer 120
+[22:22:46] BanchoBot: Countdown ends in 2 minutes
+[22:22:51] My_Angel_Cocoa: vler
+[22:22:52] Khanhtan0306: !roll 1000
+[22:22:52] BanchoBot: Khanhtan0306 rolls 152 point(s)
+[22:22:55] Khanhtan0306: !roll 727
+[22:22:55] BanchoBot: Khanhtan0306 rolls 47 point(s)
+[22:22:58] Lemoonz: !roll 1000
+[22:22:58] BanchoBot: Lemoonz rolls 641 point(s)
+[22:22:58] Khanhtan0306: wtf
+[22:23:00] 25_FPS: not a dt player xd
+[22:23:02] Khanhtan0306: super low score
+[22:23:03] Lemoonz: !roll 727
+[22:23:03] BanchoBot: Lemoonz rolls 546 point(s)
+[22:23:08] Khanhtan0306: spammer dt
+[22:23:13] Lemoonz: !roll 727
+[22:23:13] BanchoBot: Lemoonz rolls 726 point(s)
+[22:23:18] ayumiikin_: dt happy
+[22:23:19] smthelse: =)))))))))
+[22:23:19] Lemoonz: ???????????????
+[22:23:21] smthelse: =)))))))))))))))))))))))))))
+[22:23:25] zeroly: map nhu cut
+[22:23:27] zeroly: !roll 1000
+[22:23:27] BanchoBot: zeroly rolls 80 point(s)
+[22:23:27] My_Angel_Cocoa: m den lam
+[22:23:28] Lemoonz: BANCHOOOOOOOOOOOOOO
+[22:23:29] aiyern: !roll 1000
+[22:23:29] BanchoBot: aiyern rolls 187 point(s)
+[22:23:32] electrostrike: fake speed dt2
+[22:23:34] smthelse: !roll 1000
+[22:23:34] BanchoBot: smthelse rolls 310 point(s)
+[22:23:39] smthelse: !roll 1000
+[22:23:39] BanchoBot: smthelse rolls 798 point(s)
+[22:23:42] Lemoonz: !roll 727
+[22:23:42] BanchoBot: Lemoonz rolls 539 point(s)
+[22:23:43] aiyern: !roll 1000
+[22:23:43] BanchoBot: aiyern rolls 505 point(s)
+[22:23:44] smthelse: !roll 1000
+[22:23:44] BanchoBot: smthelse rolls 758 point(s)
+[22:23:46] electrostrike: !roll 1000
+[22:23:46] BanchoBot: electrostrike rolls 506 point(s)
+[22:23:46] Khanhtan0306: !roll 1000
+[22:23:46] BanchoBot: Khanhtan0306 rolls 957 point(s)
+[22:23:47] BanchoBot: Countdown ends in 1 minute
+[22:23:47] Lemoonz: !roll 727
+[22:23:47] BanchoBot: Lemoonz rolls 473 point(s)
+[22:23:47] ayumiikin_: !roll 1000
+[22:23:47] BanchoBot: ayumiikin_ rolls 985 point(s)
+[22:23:48] aiyern: !roll 1000
+[22:23:48] BanchoBot: aiyern rolls 155 point(s)
+[22:23:49] Khanhtan0306: !roll 727
+[22:23:49] BanchoBot: Khanhtan0306 rolls 37 point(s)
+[22:23:52] Lemoonz: !roll 727
+[22:23:52] BanchoBot: Lemoonz rolls 174 point(s)
+[22:23:52] Khanhtan0306: wtf
+[22:23:57] Lemoonz: !roll 727
+[22:23:57] BanchoBot: Lemoonz rolls 82 point(s)
+[22:23:57] aiyern: !roll 1000
+[22:23:57] BanchoBot: aiyern rolls 841 point(s)
+[22:24:00] Lemoonz: ?
+[22:24:04] Lemoonz: !roll 727
+[22:24:04] BanchoBot: Lemoonz rolls 277 point(s)
+[22:24:06] Khanhtan0306: nice AR
+[22:24:07] Lemoonz: ???
+[22:24:10] Khanhtan0306: wtf
+[22:24:14] Khanhtan0306: !roll 1000
+[22:24:14] BanchoBot: Khanhtan0306 rolls 469 point(s)
+[22:24:17] Lemoonz: !roll 727
+[22:24:17] BanchoBot: Lemoonz rolls 536 point(s)
+[22:24:17] BanchoBot: Countdown ends in 30 seconds
+[22:24:17] Khanhtan0306: !roll 727
+[22:24:17] BanchoBot: Khanhtan0306 rolls 664 point(s)
+[22:24:23] smthelse: !roll 1000
+[22:24:23] BanchoBot: smthelse rolls 413 point(s)
+[22:24:25] Lemoonz: !roll 727
+[22:24:25] BanchoBot: Lemoonz rolls 124 point(s)
+[22:24:29] zeroly: !roll 1000
+[22:24:29] BanchoBot: zeroly rolls 461 point(s)
+[22:24:32] Lemoonz: !roll 727
+[22:24:32] BanchoBot: Lemoonz rolls 517 point(s)
+[22:24:37] BanchoBot: Countdown ends in 10 seconds
+[22:24:39] Lemoonz: !roll 800
+[22:24:39] BanchoBot: Lemoonz rolls 527 point(s)
+[22:24:42] My_Angel_Cocoa: Tryout xong t corn day
+[22:24:42] BanchoBot: Countdown ends in 5 seconds
+[22:24:43] BanchoBot: Countdown ends in 4 seconds
+[22:24:44] BanchoBot: Countdown ends in 3 seconds
+[22:24:44] Lemoonz: bruh
+[22:24:45] BanchoBot: Countdown ends in 2 seconds
+[22:24:46] BanchoBot: Countdown ends in 1 second
+[22:24:47] BanchoBot: Countdown finished
+[22:24:47] Lemoonz: please
+[22:24:47] BCraftMG: !mp settings
+[22:24:48] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[22:24:48] BanchoBot: Beatmap: https://osu.ppy.sh/b/1319822 dj TAKA - Colors -sasakure.UK Futurelogic Remix-
+[22:24:48] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:24:48] BanchoBot: Active mods: NoFail, DoubleTime
+[22:24:48] BanchoBot: Players: 11
+[22:24:48] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[22:24:48] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/14037584 hdt2410         
+[22:24:48] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28569876 zeroly          
+[22:24:48] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/31659938 25 FPS          
+[22:24:48] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[22:24:48] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    
+[22:24:48] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/17357380 ayumiikin_      
+[22:24:48] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[22:24:48] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[22:24:48] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[22:24:48] BanchoBot: Slot 12 Not Ready https://osu.ppy.sh/u/24559528 Lemoonz         
+[22:24:55] Khanhtan0306: !roll 1000
+[22:24:55] BanchoBot: Khanhtan0306 rolls 465 point(s)
+[22:24:58] smthelse: glhfffff
+[22:25:00] Khanhtan0306: !roll 727
+[22:25:00] BanchoBot: Khanhtan0306 rolls 649 point(s)
+[22:25:00] electrostrike: glhf
+[22:25:04] ayumiikin_: !roll 1000
+[22:25:04] BanchoBot: ayumiikin_ rolls 429 point(s)
+[22:25:06] Khanhtan0306: fhlg
+[22:25:08] zeroly: !roll 1000
+[22:25:08] BanchoBot: zeroly rolls 687 point(s)
+[22:25:09] BCraftMG: !mp settings
+[22:25:10] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[22:25:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/1319822 dj TAKA - Colors -sasakure.UK Futurelogic Remix-
+[22:25:10] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:25:10] BanchoBot: Active mods: NoFail, DoubleTime
+[22:25:10] BanchoBot: Players: 11
+[22:25:10] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[22:25:10] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/14037584 hdt2410         
+[22:25:10] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28569876 zeroly          
+[22:25:11] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          
+[22:25:11] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[22:25:11] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    
+[22:25:11] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      
+[22:25:11] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[22:25:11] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[22:25:11] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[22:25:11] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/24559528 Lemoonz         
+[22:25:15] BCraftMG: hdt2410
+[22:25:22] BanchoBot: All players are ready
+[22:25:24] BCraftMG: !mp move Lemoonz 4
+[22:25:24] hdt2410: sorry
+[22:25:25] BanchoBot: Lemoonz moved to slot 4
+[22:25:25] BanchoBot: Moved Lemoonz into slot 4
+[22:25:26] BCraftMG: !mp settings
+[22:25:28] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[22:25:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/1319822 dj TAKA - Colors -sasakure.UK Futurelogic Remix-
+[22:25:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:25:28] BanchoBot: Active mods: NoFail, DoubleTime
+[22:25:28] BanchoBot: Players: 11
+[22:25:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[22:25:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         
+[22:25:28] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28569876 zeroly          
+[22:25:28] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/24559528 Lemoonz         
+[22:25:28] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          
+[22:25:28] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[22:25:28] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    
+[22:25:28] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      
+[22:25:28] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[22:25:28] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[22:25:28] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[22:25:30] BCraftMG: !mp start 5 glhf
+[22:25:30] BanchoBot: Match starts in 5 seconds
+[22:25:30] BanchoBot: Queued the match to start in 5 seconds
+[22:25:31] smthelse: glhfffff
+[22:25:31] BanchoBot: Match starts in 4 seconds
+[22:25:32] Khanhtan0306: hf gyze
+[22:25:32] smthelse: chit
+[22:25:34] BanchoBot: Match starts in 3 seconds
+[22:25:34] BanchoBot: Good luck, have fun!
+[22:25:35] aiyern: ghlf
+[22:25:35] BanchoBot: The match has started!
+[22:28:24] BanchoBot: My Angel Cocoa finished playing (Score: 81464, PASSED).
+[22:28:24] BanchoBot: hdt2410 finished playing (Score: 127713, PASSED).
+[22:28:24] BanchoBot: budget boydn finished playing (Score: 566658, PASSED).
+[22:28:24] BanchoBot: Lemoonz finished playing (Score: 35970, PASSED).
+[22:28:24] BanchoBot: smthelse finished playing (Score: 603134, PASSED).
+[22:28:25] BanchoBot: Khanhtan0306 finished playing (Score: 63613, PASSED).
+[22:28:25] BanchoBot: zeroly finished playing (Score: 127284, PASSED).
+[22:28:26] BanchoBot: 25 FPS finished playing (Score: 69253, PASSED).
+[22:28:26] BanchoBot: aiyern finished playing (Score: 77413, PASSED).
+[22:28:26] BanchoBot: electrostrike finished playing (Score: 312156, PASSED).
+[22:28:27] BanchoBot: ayumiikin_ finished playing (Score: 148401, PASSED).
+[22:28:27] BanchoBot: The match has finished!
+[22:28:33] BCraftMG: !mp map 465022 0
+[22:28:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/465022 sakuzyo - Neurotoxin
+[22:28:34] BanchoBot: Changed match mode to Osu
+[22:28:46] zeroly: ko hold dc combo huhu
+[22:28:48] 25_FPS: L
+[22:28:55] aiyern: pool nhu cai be boi
+[22:29:12] Khanhtan0306: vailon
+[22:29:14] Khanhtan0306: 270bpm
+[22:29:16] Khanhtan0306: I'm suck
+[22:29:23] My_Angel_Cocoa: doubletap thoi
+[22:29:26] My_Angel_Cocoa: :okayge:
+[22:29:38] electrostrike: dt = double tap real
+[22:29:54] electrostrike: !roll 1000
+[22:29:54] BanchoBot: electrostrike rolls 584 point(s)
+[22:30:04] zeroly: !roll 1000
+[22:30:04] BanchoBot: zeroly rolls 404 point(s)
+[22:30:06] Lemoonz: !roll 727
+[22:30:06] BanchoBot: Lemoonz rolls 10 point(s)
+[22:30:10] My_Angel_Cocoa: :troll:
+[22:30:11] Lemoonz: gg
+[22:30:12] BCraftMG: !mp timer 120
+[22:30:13] BanchoBot: All players are ready
+[22:30:13] BanchoBot: Countdown ends in 2 minutes
+[22:30:14] BCraftMG: !mp settings
+[22:30:15] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[22:30:15] BanchoBot: Beatmap: https://osu.ppy.sh/b/465022 sakuzyo - Neurotoxin
+[22:30:15] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:30:15] BanchoBot: Active mods: NoFail, DoubleTime
+[22:30:15] BanchoBot: Players: 11
+[22:30:15] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[22:30:15] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         
+[22:30:15] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28569876 zeroly          
+[22:30:15] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/24559528 Lemoonz         
+[22:30:15] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          
+[22:30:15] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[22:30:15] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    
+[22:30:15] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      
+[22:30:15] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[22:30:15] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[22:30:15] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[22:30:19] BCraftMG: !mp start 5 glhf
+[22:30:19] Khanhtan0306: !roll 1000
+[22:30:19] BanchoBot: Khanhtan0306 rolls 5 point(s)
+[22:30:20] BanchoBot: Countdown aborted
+[22:30:20] BanchoBot: Match starts in 5 seconds
+[22:30:20] BanchoBot: Queued the match to start in 5 seconds
+[22:30:21] BanchoBot: Match starts in 4 seconds
+[22:30:22] BanchoBot: Match starts in 3 seconds
+[22:30:23] Khanhtan0306: ?
+[22:30:23] BanchoBot: Good luck, have fun!
+[22:30:24] electrostrike: glhf
+[22:30:25] aiyern: glhf!
+[22:30:25] BanchoBot: The match has started!
+[22:32:22] BanchoBot: smthelse finished playing (Score: 458788, PASSED).
+[22:32:22] BanchoBot: zeroly finished playing (Score: 158305, PASSED).
+[22:32:23] BanchoBot: hdt2410 finished playing (Score: 164860, PASSED).
+[22:32:25] BanchoBot: Khanhtan0306 finished playing (Score: 93264, PASSED).
+[22:32:25] BanchoBot: budget boydn finished playing (Score: 545158, PASSED).
+[22:32:27] BanchoBot: aiyern finished playing (Score: 144609, PASSED).
+[22:32:28] BanchoBot: Lemoonz finished playing (Score: 46690, PASSED).
+[22:32:28] BanchoBot: electrostrike finished playing (Score: 675340, PASSED).
+[22:32:29] BanchoBot: 25 FPS finished playing (Score: 126419, PASSED).
+[22:32:30] BanchoBot: ayumiikin_ finished playing (Score: 297347, PASSED).
+[22:32:30] BanchoBot: My Angel Cocoa finished playing (Score: 96392, PASSED).
+[22:32:30] BanchoBot: The match has finished!
+[22:32:33] BCraftMG: !mp map 2814386 0
+[22:32:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2814386 Good Charlotte - The Anthem
+[22:32:33] BanchoBot: Changed match mode to Osu
+[22:32:45] My_Angel_Cocoa: vcl sightread dt nhung deo dung det 1 lan
+[22:32:50] smthelse: hinh vuong
+[22:32:52] ayumiikin_: dt4 fun
+[22:32:56] Khanhtan0306: nice acc aiyern
+[22:32:56] Khanhtan0306: lol
+[22:33:00] 25_FPS: fun
+[22:33:05] aiyern: thanks :v
+[22:33:06] ayumiikin_: flow aim issues
+[22:33:15] Lemoonz: !roll 1000
+[22:33:15] BanchoBot: Lemoonz rolls 937 point(s)
+[22:33:25] Lemoonz: !roll 727
+[22:33:25] BanchoBot: Lemoonz rolls 327 point(s)
+[22:33:25] My_Angel_Cocoa: !roll 1000
+[22:33:25] BanchoBot: My Angel Cocoa rolls 510 point(s)
+[22:33:27] Khanhtan0306: !roll 1000
+[22:33:27] BanchoBot: Khanhtan0306 rolls 87 point(s)
+[22:33:31] Khanhtan0306: !roll 727
+[22:33:31] BanchoBot: Khanhtan0306 rolls 474 point(s)
+[22:33:32] Lemoonz: !roll 727
+[22:33:32] BanchoBot: Lemoonz rolls 149 point(s)
+[22:33:33] My_Angel_Cocoa: !roll 1000
+[22:33:33] BanchoBot: My Angel Cocoa rolls 445 point(s)
+[22:33:37] Lemoonz: !roll 727
+[22:33:37] BanchoBot: Lemoonz rolls 695 point(s)
+[22:33:37] ayumiikin_: !roll 1000
+[22:33:37] BanchoBot: ayumiikin_ rolls 80 point(s)
+[22:33:37] Khanhtan0306: wrong
+[22:33:37] My_Angel_Cocoa: !roll 1000
+[22:33:37] BanchoBot: My Angel Cocoa rolls 163 point(s)
+[22:33:41] My_Angel_Cocoa: !roll 1000
+[22:33:41] BanchoBot: My Angel Cocoa rolls 95 point(s)
+[22:33:43] Khanhtan0306: !roll 1000
+[22:33:43] BanchoBot: Khanhtan0306 rolls 871 point(s)
+[22:33:43] Lemoonz: !rol 750
+[22:33:45] electrostrike: !roll 1000
+[22:33:45] BanchoBot: electrostrike rolls 101 point(s)
+[22:33:45] My_Angel_Cocoa: ali
+[22:33:46] ayumiikin_: !roll 1000
+[22:33:46] BanchoBot: ayumiikin_ rolls 703 point(s)
+[22:33:47] Khanhtan0306: !roll 727
+[22:33:47] BanchoBot: Khanhtan0306 rolls 597 point(s)
+[22:33:50] My_Angel_Cocoa: !roll 1000
+[22:33:50] BanchoBot: My Angel Cocoa rolls 876 point(s)
+[22:33:50] Lemoonz: !roll 750
+[22:33:50] BanchoBot: Lemoonz rolls 188 point(s)
+[22:33:54] Khanhtan0306: !roll 740
+[22:33:54] BanchoBot: Khanhtan0306 rolls 366 point(s)
+[22:33:56] Lemoonz: !roll 750
+[22:33:56] BanchoBot: Lemoonz rolls 485 point(s)
+[22:33:56] My_Angel_Cocoa: !roll 1000
+[22:33:56] BanchoBot: My Angel Cocoa rolls 280 point(s)
+[22:34:01] Lemoonz: !roll 750
+[22:34:01] BanchoBot: Lemoonz rolls 111 point(s)
+[22:34:02] My_Angel_Cocoa: !roll 1000
+[22:34:02] BanchoBot: My Angel Cocoa rolls 676 point(s)
+[22:34:10] BCraftMG: !mp settings
+[22:34:10] Lemoonz: !roll 750
+[22:34:10] BanchoBot: Lemoonz rolls 128 point(s)
+[22:34:10] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[22:34:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/2814386 Good Charlotte - The Anthem
+[22:34:10] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:34:10] BanchoBot: Active mods: NoFail, DoubleTime
+[22:34:10] BanchoBot: Players: 11
+[22:34:10] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[22:34:10] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         
+[22:34:10] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28569876 zeroly          
+[22:34:10] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/24559528 Lemoonz         
+[22:34:10] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          
+[22:34:10] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[22:34:10] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/8945565 budget boydn    
+[22:34:10] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      
+[22:34:10] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[22:34:10] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[22:34:10] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[22:34:14] BanchoBot: All players are ready
+[22:34:14] electrostrike: glhf
+[22:34:19] smthelse: glhfff
+[22:34:19] Lemoonz: glhf
+[22:34:20] BCraftMG: !mp settings
+[22:34:20] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[22:34:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/2814386 Good Charlotte - The Anthem
+[22:34:20] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:34:20] BanchoBot: Active mods: NoFail, DoubleTime
+[22:34:20] BanchoBot: Players: 11
+[22:34:20] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[22:34:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         
+[22:34:20] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28569876 zeroly          
+[22:34:20] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/24559528 Lemoonz         
+[22:34:20] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          
+[22:34:20] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  
+[22:34:20] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    
+[22:34:20] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      
+[22:34:20] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[22:34:20] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[22:34:20] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    
+[22:34:21] zeroly: !roll 1000
+[22:34:21] BanchoBot: zeroly rolls 84 point(s)
+[22:34:23] BCraftMG: !mp start 5 glhf
+[22:34:23] smthelse: chit
+[22:34:23] aiyern: glhf
+[22:34:24] My_Angel_Cocoa: xong map nay di ve sinh sau
+[22:34:24] BanchoBot: Match starts in 5 seconds
+[22:34:24] BanchoBot: Queued the match to start in 5 seconds
+[22:34:25] BanchoBot: Match starts in 4 seconds
+[22:34:27] BanchoBot: Match starts in 3 seconds
+[22:34:28] BanchoBot: Good luck, have fun!
+[22:34:30] BanchoBot: The match has started!
+[22:36:33] BanchoBot: My Angel Cocoa finished playing (Score: 68092, PASSED).
+[22:36:34] BanchoBot: smthelse finished playing (Score: 599079, PASSED).
+[22:36:34] BanchoBot: budget boydn finished playing (Score: 439240, PASSED).
+[22:36:34] BanchoBot: zeroly finished playing (Score: 127404, PASSED).
+[22:36:34] BanchoBot: 25 FPS finished playing (Score: 114278, PASSED).
+[22:36:35] BanchoBot: Khanhtan0306 finished playing (Score: 61082, PASSED).
+[22:36:35] BanchoBot: hdt2410 finished playing (Score: 250600, PASSED).
+[22:36:35] BanchoBot: aiyern finished playing (Score: 97678, PASSED).
+[22:36:35] BanchoBot: electrostrike finished playing (Score: 763431, PASSED).
+[22:36:35] BanchoBot: Lemoonz finished playing (Score: 108883, PASSED).
+[22:36:35] BanchoBot: ayumiikin_ finished playing (Score: 282053, PASSED).
+[22:36:35] BanchoBot: The match has finished!
+[22:36:45] My_Angel_Cocoa: Biết thế khi nãy single tap
+[22:36:48] My_Angel_Cocoa: Địu mớ
+[22:36:48] electrostrike: combo gaming smh
+[22:36:51] smthelse: anh elctrostrike danh ac z
+[22:36:54] zeroly: how to acc
+[22:36:54] zeroly: T_T
+[22:36:59] ayumiikin_: flow aim issues
+[22:37:04] 25_FPS: rip combo
+[22:37:04] electrostrike: ko a smthelse oi
+[22:37:13] My_Angel_Cocoa: Okay timeout
+[22:37:33] Lemoonz: !roll 772
+[22:37:33] BanchoBot: Lemoonz rolls 549 point(s)
+[22:38:02] BCraftMG: !mp map 3587013 0
+[22:38:03] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3587013 Link"0 - Finixtahv
+[22:38:03] BanchoBot: Changed match mode to Osu
+[22:38:04] BCraftMG: !mp mods Freemod
+[22:38:04] BanchoBot: Disabled all mods, enabled FreeMod
+[22:38:07] BCraftMG: !mp timer 120
+[22:38:08] BanchoBot: Countdown ends in 2 minutes
+[22:38:15] My_Angel_Cocoa: Back
+[22:38:38] hdt2410: does nf affects score
+[22:38:46] My_Angel_Cocoa: No, since ScoreV2
+[22:38:50] electrostrike: fm ha
+[22:38:54] hdt2410: ok
+[22:38:54] electrostrike: nf co tinh la mod ko :>
+[22:39:04] My_Angel_Cocoa: theo ly thuyet la co nha
+[22:39:05] My_Angel_Cocoa: :troll:
+[22:39:08] BanchoBot: Countdown ends in 1 minute
+[22:39:11] Khanhtan0306: !roll 1000
+[22:39:11] BanchoBot: Khanhtan0306 rolls 999 point(s)
+[22:39:12] electrostrike: :tf:
+[22:39:15] BCraftMG: không
+[22:39:17] Khanhtan0306: wtf again ?
+[22:39:17] My_Angel_Cocoa: adi
+[22:39:18] smthelse: ?
+[22:39:19] electrostrike: huh
+[22:39:23] smthelse: !roll 1000
+[22:39:23] BanchoBot: smthelse rolls 638 point(s)
+[22:39:25] electrostrike: high roll xdd
+[22:39:27] Lemoonz: !roll 770
+[22:39:27] BanchoBot: Lemoonz rolls 159 point(s)
+[22:39:27] Khanhtan0306: !roll 727
+[22:39:27] BanchoBot: Khanhtan0306 rolls 449 point(s)
+[22:39:28] electrostrike: !roll 1000
+[22:39:28] BanchoBot: electrostrike rolls 225 point(s)
+[22:39:29] BCraftMG: fm ở đây là forced mod
+[22:39:29] smthelse: !roll 1000
+[22:39:29] BanchoBot: smthelse rolls 766 point(s)
+[22:39:30] BCraftMG: cảm ơn
+[22:39:32] Lemoonz: !roll 730
+[22:39:32] BanchoBot: Lemoonz rolls 265 point(s)
+[22:39:34] Khanhtan0306: my luck dead
+[22:39:39] BanchoBot: Countdown ends in 30 seconds
+[22:39:42] Lemoonz: !foll 780
+[22:39:50] Lemoonz: !roll 780
+[22:39:50] BanchoBot: Lemoonz rolls 237 point(s)
+[22:39:53] smthelse: cam on anh bcraft!!
+[22:39:54] My_Angel_Cocoa: uoc hr
+[22:39:54] ayumiikin_: !roll 1000
+[22:39:54] BanchoBot: ayumiikin_ rolls 135 point(s)
+[22:39:57] Khanhtan0306: !roll 727
+[22:39:57] BanchoBot: Khanhtan0306 rolls 413 point(s)
+[22:39:58] hdt2410: mfw im the only nm
+[22:39:58] BanchoBot: Countdown ends in 10 seconds
+[22:39:59] electrostrike: fm no fun then :<
+[22:40:03] Lemoonz: !roll 727
+[22:40:03] BanchoBot: Lemoonz rolls 583 point(s)
+[22:40:03] BanchoBot: Countdown ends in 5 seconds
+[22:40:04] BanchoBot: Countdown ends in 4 seconds
+[22:40:05] BanchoBot: Countdown ends in 3 seconds
+[22:40:06] BanchoBot: Countdown ends in 2 seconds
+[22:40:07] BanchoBot: Countdown ends in 1 second
+[22:40:08] BanchoBot: Countdown finished
+[22:40:09] BCraftMG: !mp settings
+[22:40:10] smthelse: anh hdt oi
+[22:40:10] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[22:40:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/3587013 Link"0 - Finixtahv
+[22:40:10] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:40:10] BanchoBot: Active mods: Freemod
+[22:40:10] BanchoBot: Players: 11
+[22:40:10] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          [NoFail, Hidden]
+[22:40:10] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         [NoFail]
+[22:40:10] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/28569876 zeroly          [NoFail, Hidden]
+[22:40:10] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/24559528 Lemoonz         [NoFail, Hidden]
+[22:40:10] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          [Hidden, HardRock]
+[22:40:10] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  [NoFail, Hidden]
+[22:40:10] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    [NoFail, HardRock]
+[22:40:10] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      [NoFail, Hidden]
+[22:40:10] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   [NoFail, Hidden]
+[22:40:10] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        [NoFail, HardRock]
+[22:40:10] BanchoBot: Slot 11 Not Ready https://osu.ppy.sh/u/27142941 Khanhtan0306    [NoFail, Hidden]
+[22:40:13] smthelse: anh phai choi
+[22:40:17] smthelse: hd hoac hr
+[22:40:25] BCraftMG: hdt2410 phải có 1 mod khác ngoài nf
+[22:40:25] smthelse: hoac ez fl if swag
+[22:40:25] hdt2410: what
+[22:40:26] electrostrike: ezfl cho no chay :tf:
+[22:40:31] My_Angel_Cocoa: forced mod
+[22:40:35] hdt2410: its joever
+[22:40:56] zeroly: !roll 1000
+[22:40:56] BanchoBot: zeroly rolls 767 point(s)
+[22:40:56] BCraftMG: !mp settings
+[22:40:58] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[22:40:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/3587013 Link"0 - Finixtahv
+[22:40:58] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:40:58] BanchoBot: Active mods: Freemod
+[22:40:58] BanchoBot: Players: 11
+[22:40:58] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          [NoFail, Hidden]
+[22:40:58] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         [NoFail, Hidden]
+[22:40:58] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28569876 zeroly          [NoFail, Hidden]
+[22:40:58] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/24559528 Lemoonz         [NoFail, Hidden]
+[22:40:58] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/31659938 25 FPS          [Hidden, HardRock]
+[22:40:58] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  [NoFail, Hidden]
+[22:40:58] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    [NoFail, HardRock]
+[22:40:58] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      [NoFail, Hidden]
+[22:40:58] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   [NoFail, Hidden]
+[22:40:58] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        [NoFail, HardRock]
+[22:40:58] BanchoBot: Slot 11 Not Ready https://osu.ppy.sh/u/27142941 Khanhtan0306    [NoFail, Hidden]
+[22:41:02] BCraftMG: 25 fps
+[22:41:04] Khanhtan0306: !roll 1000
+[22:41:04] BanchoBot: Khanhtan0306 rolls 906 point(s)
+[22:41:08] Khanhtan0306: !roll 727
+[22:41:08] BanchoBot: Khanhtan0306 rolls 385 point(s)
+[22:41:10] electrostrike: glhf
+[22:41:10] 25_FPS: done
+[22:41:15] BCraftMG: ready dau
+[22:41:16] Khanhtan0306: glhf gyze
+[22:41:19] BCraftMG: !mp settings
+[22:41:19] smthelse: glhffff
+[22:41:20] Lemoonz: glhf
+[22:41:21] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[22:41:21] BanchoBot: Beatmap: https://osu.ppy.sh/b/3587013 Link"0 - Finixtahv
+[22:41:21] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:41:21] BanchoBot: Active mods: Freemod
+[22:41:21] BanchoBot: Players: 11
+[22:41:21] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          [NoFail, Hidden]
+[22:41:21] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         [NoFail, Hidden]
+[22:41:21] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28569876 zeroly          [NoFail, Hidden]
+[22:41:21] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/24559528 Lemoonz         [NoFail, Hidden]
+[22:41:21] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          [NoFail, HardRock]
+[22:41:21] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  [NoFail, Hidden]
+[22:41:21] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    [NoFail, HardRock]
+[22:41:21] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      [NoFail, Hidden]
+[22:41:21] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   [NoFail, Hidden]
+[22:41:21] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        [NoFail, HardRock]
+[22:41:21] BanchoBot: Slot 11 Not Ready https://osu.ppy.sh/u/27142941 Khanhtan0306    [NoFail, Hidden]
+[22:41:23] smthelse: chit
+[22:41:25] BanchoBot: All players are ready
+[22:41:25] Khanhtan0306: sr
+[22:41:25] BCraftMG: !mp start 5 glhf
+[22:41:26] BanchoBot: Match starts in 5 seconds
+[22:41:26] BanchoBot: Queued the match to start in 5 seconds
+[22:41:28] BanchoBot: Match starts in 4 seconds
+[22:41:29] BanchoBot: Match starts in 3 seconds
+[22:41:29] BanchoBot: Good luck, have fun!
+[22:41:32] BanchoBot: The match has started!
+[22:44:03] BanchoBot: electrostrike finished playing (Score: 390437, PASSED).
+[22:44:03] BanchoBot: budget boydn finished playing (Score: 292731, PASSED).
+[22:44:05] BanchoBot: Khanhtan0306 finished playing (Score: 161890, PASSED).
+[22:44:05] BanchoBot: 25 FPS finished playing (Score: 36441, PASSED).
+[22:44:05] BanchoBot: hdt2410 finished playing (Score: 87177, PASSED).
+[22:44:05] BanchoBot: ayumiikin_ finished playing (Score: 453094, PASSED).
+[22:44:05] BanchoBot: zeroly finished playing (Score: 91563, PASSED).
+[22:44:05] BanchoBot: Lemoonz finished playing (Score: 192426, PASSED).
+[22:44:06] BanchoBot: aiyern finished playing (Score: 156700, PASSED).
+[22:44:06] BanchoBot: My Angel Cocoa finished playing (Score: 116384, PASSED).
+[22:44:06] BanchoBot: smthelse finished playing (Score: 496021, PASSED).
+[22:44:06] BanchoBot: The match has finished!
+[22:44:08] BCraftMG: !mp map 3590175 0
+[22:44:09] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3590175 ginkiha - EOS
+[22:44:09] BanchoBot: Changed match mode to Osu
+[22:44:10] BCraftMG: !mp timer 120
+[22:44:11] BanchoBot: Countdown ends in 2 minutes
+[22:44:20] 25_FPS: xd]
+[22:44:26] My_Angel_Cocoa: HD my love
+[22:44:30] My_Angel_Cocoa: Also EZ :wtf:
+[22:44:41] ayumiikin_: ngon
+[22:44:50] Khanhtan0306: wtf AR 8
+[22:44:53] electrostrike: we do hdhr fm2 :yep:
+[22:45:08] My_Angel_Cocoa: ok laij phai giam gamma ae
+[22:45:09] electrostrike: nah jk
+[22:45:09] BanchoBot: aiyern left the game.
+[22:45:12] BanchoBot: Countdown ends in 1 minute
+[22:45:14] Khanhtan0306: !roll 1000
+[22:45:14] BanchoBot: Khanhtan0306 rolls 435 point(s)
+[22:45:18] Khanhtan0306: !roll 727
+[22:45:18] BanchoBot: Khanhtan0306 rolls 40 point(s)
+[22:45:27] ayumiikin_: !roll 1000
+[22:45:27] BanchoBot: ayumiikin_ rolls 837 point(s)
+[22:45:32] electrostrike: !roll 1000
+[22:45:32] BanchoBot: electrostrike rolls 297 point(s)
+[22:45:32] Khanhtan0306: wao EZ
+[22:45:42] BanchoBot: Countdown ends in 30 seconds
+[22:45:42] smthelse: anh ayumii ac' z
+[22:45:47] electrostrike: i see ez :pog:
+[22:45:51] Khanhtan0306: !roll 727
+[22:45:51] BanchoBot: Khanhtan0306 rolls 672 point(s)
+[22:45:52] BCraftMG: !mp settings
+[22:45:53] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[22:45:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/3590175 ginkiha - EOS
+[22:45:53] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:45:53] BanchoBot: Active mods: Freemod
+[22:45:53] BanchoBot: Players: 10
+[22:45:53] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/14037584 hdt2410         [NoFail, HardRock]
+[22:45:53] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28569876 zeroly          [NoFail, Hidden, HardRock]
+[22:45:53] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/24559528 Lemoonz         [NoFail, Hidden]
+[22:45:53] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          [NoFail, HardRock]
+[22:45:53] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  [NoFail, Hidden]
+[22:45:53] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    [NoFail, HardRock]
+[22:45:53] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/17357380 ayumiikin_      [NoFail, Easy]
+[22:45:53] BanchoBot: Slot 9  Not Ready https://osu.ppy.sh/u/11538640 electrostrike   [NoFail, Hidden]
+[22:45:53] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        [NoFail, HardRock]
+[22:45:53] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    [NoFail, Hidden, HardRock]
+[22:45:54] ayumiikin_: ti lai ve hd
+[22:45:54] Khanhtan0306: !roll 1000
+[22:45:54] BanchoBot: Khanhtan0306 rolls 777 point(s)
+[22:45:56] Lemoonz: !roll 800
+[22:45:56] BanchoBot: Lemoonz rolls 404 point(s)
+[22:45:56] ayumiikin_: hic
+[22:46:02] BanchoBot: Countdown ends in 10 seconds
+[22:46:03] Lemoonz: !roll 727
+[22:46:03] BanchoBot: Lemoonz rolls 586 point(s)
+[22:46:06] BanchoBot: Countdown ends in 5 seconds
+[22:46:08] BanchoBot: Countdown ends in 4 seconds
+[22:46:09] BanchoBot: Countdown ends in 3 seconds
+[22:46:09] smthelse: ae ai muon gop vui khum
+[22:46:09] BanchoBot: Countdown ends in 2 seconds
+[22:46:10] Lemoonz: !roll 727
+[22:46:10] BanchoBot: Lemoonz rolls 701 point(s)
+[22:46:10] BanchoBot: Countdown ends in 1 second
+[22:46:12] BanchoBot: Countdown finished
+[22:46:17] electrostrike: nhu nao
+[22:46:20] electrostrike: a smthelse
+[22:46:21] Lemoonz: !roll 727
+[22:46:21] BanchoBot: Lemoonz rolls 383 point(s)
+[22:46:30] electrostrike: lmao
+[22:46:32] electrostrike: xdd
+[22:46:35] smthelse: y ae nhu nao nhi
+[22:46:36] My_Angel_Cocoa: !roll 1000
+[22:46:36] BanchoBot: My Angel Cocoa rolls 344 point(s)
+[22:46:44] My_Angel_Cocoa: sao
+[22:46:46] My_Angel_Cocoa: bat FL len a
+[22:46:47] My_Angel_Cocoa: :troll:
+[22:46:54] smthelse: yeeeee
+[22:46:55] electrostrike: a choi thi toi choi vs
+[22:46:59] My_Angel_Cocoa: adi
+[22:46:59] ayumiikin_: wow
+[22:47:05] BanchoBot: All players are ready
+[22:47:08] ayumiikin_: ae ez
+[22:47:09] BCraftMG: !mp settings
+[22:47:10] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[22:47:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/3590175 ginkiha - EOS
+[22:47:10] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:47:10] BanchoBot: Active mods: Freemod
+[22:47:10] BanchoBot: Players: 10
+[22:47:10] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         [NoFail, HardRock]
+[22:47:10] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28569876 zeroly          [NoFail, Hidden, HardRock]
+[22:47:10] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/24559528 Lemoonz         [NoFail, Hidden]
+[22:47:10] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          [NoFail, HardRock]
+[22:47:10] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  [NoFail, Hidden]
+[22:47:10] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    [NoFail, HardRock]
+[22:47:10] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      [NoFail, Easy]
+[22:47:10] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   [NoFail, Easy]
+[22:47:10] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        [NoFail, Easy]
+[22:47:10] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    [NoFail, Hidden, HardRock]
+[22:47:13] smthelse: ae
+[22:47:14] My_Angel_Cocoa: riel
+[22:47:15] BCraftMG: !mp start 5 glhf
+[22:47:16] Khanhtan0306: wow ae dinh v
+[22:47:16] electrostrike: :tf:
+[22:47:16] BanchoBot: Match starts in 5 seconds
+[22:47:16] BanchoBot: Queued the match to start in 5 seconds
+[22:47:17] BanchoBot: Match starts in 4 seconds
+[22:47:18] BanchoBot: Match starts in 3 seconds
+[22:47:20] BanchoBot: Good luck, have fun!
+[22:47:20] smthelse: glhfff
+[22:47:20] smthelse: chit
+[22:47:22] BanchoBot: The match has started!
+[22:48:57] ayumiikin_: cursed
+[22:49:59] BanchoBot: 25 FPS finished playing (Score: 83184, PASSED).
+[22:50:01] BanchoBot: budget boydn finished playing (Score: 321511, PASSED).
+[22:50:01] BanchoBot: ayumiikin_ finished playing (Score: 188290, PASSED).
+[22:50:01] BanchoBot: Khanhtan0306 finished playing (Score: 125826, PASSED).
+[22:50:01] BanchoBot: smthelse finished playing (Score: 108597, PASSED).
+[22:50:01] BanchoBot: zeroly finished playing (Score: 115199, PASSED).
+[22:50:02] BanchoBot: My Angel Cocoa finished playing (Score: 196351, PASSED).
+[22:50:02] BanchoBot: electrostrike finished playing (Score: 24032, PASSED).
+[22:50:02] BanchoBot: hdt2410 finished playing (Score: 126112, PASSED).
+[22:50:02] BanchoBot: Lemoonz finished playing (Score: 29776, PASSED).
+[22:50:02] BanchoBot: The match has finished!
+[22:50:08] BCraftMG: !mp map 3830777 0
+[22:50:08] My_Angel_Cocoa: WTFFFFFFFF
+[22:50:08] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3830777 seatrus - Stargaze Station
+[22:50:08] BanchoBot: Changed match mode to Osu
+[22:50:11] My_Angel_Cocoa: ??????????
+[22:50:21] smthelse: anh ayumi danh ac the
+[22:50:23] smthelse: chat
+[22:50:27] zeroly: chad
+[22:50:27] Khanhtan0306: wtf ayumi dinh v
+[22:50:32] electrostrike: real
+[22:50:32] ayumiikin_: fc 2 lan khong bang vao match ma nerve
+[22:50:44] BCraftMG: !mp timer 120
+[22:50:45] BanchoBot: Countdown ends in 2 minutes
+[22:50:56] budget_boydn: xin mp link vs bcraft
+[22:50:59] electrostrike: we do a little trolling
+[22:51:06] BCraftMG: https://osu.ppy.sh/community/matches/112309028
+[22:51:21] budget_boydn: oke cbu
+[22:51:46] BanchoBot: Countdown ends in 1 minute
+[22:52:04] zeroly: buon ngu qua
+[22:52:06] My_Angel_Cocoa: !roll 1000
+[22:52:06] BanchoBot: My Angel Cocoa rolls 555 point(s)
+[22:52:13] electrostrike: !roll 1000
+[22:52:13] BanchoBot: electrostrike rolls 152 point(s)
+[22:52:16] BanchoBot: Countdown ends in 30 seconds
+[22:52:19] Khanhtan0306: !roll 1000
+[22:52:19] BanchoBot: Khanhtan0306 rolls 185 point(s)
+[22:52:22] Khanhtan0306: !roll 727
+[22:52:22] BanchoBot: Khanhtan0306 rolls 127 point(s)
+[22:52:25] hdt2410: why didnt i know that freemod is not free am i stupid
+[22:52:26] Khanhtan0306: wtf
+[22:52:32] Lemoonz: !roll 1000
+[22:52:32] BanchoBot: Lemoonz rolls 470 point(s)
+[22:52:34] smthelse: smh
+[22:52:35] BanchoBot: Countdown ends in 10 seconds
+[22:52:38] Lemoonz: !roll 1000
+[22:52:38] BanchoBot: Lemoonz rolls 574 point(s)
+[22:52:41] BanchoBot: Countdown ends in 5 seconds
+[22:52:41] BanchoBot: Countdown ends in 4 seconds
+[22:52:43] BanchoBot: Countdown ends in 3 seconds
+[22:52:43] electrostrike: fm = forced mod
+[22:52:44] electrostrike: xdd
+[22:52:44] BanchoBot: Countdown ends in 2 seconds
+[22:52:44] Lemoonz: !roll 727
+[22:52:44] BanchoBot: Lemoonz rolls 194 point(s)
+[22:52:44] BanchoBot: Countdown ends in 1 second
+[22:52:44] BanchoBot: All players are ready
+[22:52:46] smthelse: banger song'
+[22:52:46] BanchoBot: Countdown finished
+[22:52:47] BCraftMG: ua
+[22:52:49] electrostrike: glhf
+[22:52:50] Lemoonz: !roll 727
+[22:52:50] BanchoBot: Lemoonz rolls 548 point(s)
+[22:52:50] My_Angel_Cocoa: tuong tuong freemod
+[22:52:58] My_Angel_Cocoa: 1 ben freemod 1 ben forced mod
+[22:53:01] BCraftMG: a dung r
+[22:53:02] My_Angel_Cocoa: too real
+[22:53:08] ayumiikin_: blame nm5
+[22:53:10] hdt2410: i practiced for nomod for 2 fms its joever
+[22:53:10] zeroly: hic
+[22:53:20] electrostrike: wat?
+[22:53:22] budget_boydn: map nay` co j ma sao ai cx hd het v
+[22:53:23] zeroly: pls start
+[22:53:30] My_Angel_Cocoa: AR 9.6
+[22:53:33] smthelse: co sped anh ak
+[22:53:33] My_Angel_Cocoa: :chon:
+[22:53:39] budget_boydn: a`
+[22:53:39] electrostrike: spid
+[22:53:42] Khanhtan0306: forced mod lol
+[22:53:45] smthelse: song tren doi ko ai hr speed
+[22:53:52] BCraftMG: !mp settings
+[22:53:54] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[22:53:54] BanchoBot: Beatmap: https://osu.ppy.sh/b/3830777 seatrus - Stargaze Station
+[22:53:54] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:53:54] BanchoBot: Active mods: Freemod
+[22:53:54] BanchoBot: Players: 10
+[22:53:54] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         [NoFail, Hidden]
+[22:53:54] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28569876 zeroly          [NoFail, Hidden]
+[22:53:54] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/24559528 Lemoonz         [NoFail, Hidden]
+[22:53:54] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          [NoFail, Hidden]
+[22:53:54] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  [NoFail, Hidden]
+[22:53:54] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    [NoFail, HardRock]
+[22:53:54] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      [NoFail, Hidden]
+[22:53:54] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   [NoFail, Hidden]
+[22:53:54] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        [NoFail, Hidden]
+[22:53:54] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    [NoFail, Hidden]
+[22:53:56] BCraftMG: !mp start 5 glhf
+[22:53:56] smthelse: voi lai hd thoai mai hon
+[22:53:56] budget_boydn: chac ch
+[22:53:56] BanchoBot: Match starts in 5 seconds
+[22:53:57] BanchoBot: Queued the match to start in 5 seconds
+[22:53:58] Lemoonz: aetrna
+[22:53:58] BanchoBot: Match starts in 4 seconds
+[22:54:00] BanchoBot: Match starts in 3 seconds
+[22:54:00] BanchoBot: Good luck, have fun!
+[22:54:01] hdt2410: no one told me sadge
+[22:54:03] smthelse: glhf
+[22:54:03] BanchoBot: The match has started!
+[22:54:03] smthelse: chit
+[22:56:32] BanchoBot: Lemoonz finished playing (Score: 190743, PASSED).
+[22:56:32] BanchoBot: ayumiikin_ finished playing (Score: 285316, PASSED).
+[22:56:32] BanchoBot: 25 FPS finished playing (Score: 80937, PASSED).
+[22:56:32] BanchoBot: budget boydn finished playing (Score: 334903, PASSED).
+[22:56:32] BanchoBot: electrostrike finished playing (Score: 810656, PASSED).
+[22:56:33] BanchoBot: Khanhtan0306 finished playing (Score: 86023, PASSED).
+[22:56:33] BanchoBot: zeroly finished playing (Score: 147328, PASSED).
+[22:56:33] BanchoBot: hdt2410 finished playing (Score: 543851, PASSED).
+[22:56:33] BanchoBot: smthelse finished playing (Score: 902195, PASSED).
+[22:56:33] BanchoBot: My Angel Cocoa finished playing (Score: 169123, PASSED).
+[22:56:33] BanchoBot: The match has finished!
+[22:56:41] BCraftMG: !mp map 3429000 0
+[22:56:41] BCraftMG: !mp timer 120
+[22:56:41] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3429000 Yooh - RPG
+[22:56:41] BanchoBot: Changed match mode to Osu
+[22:56:42] BanchoBot: Countdown ends in 2 minutes
+[22:56:45] smthelse: buon
+[22:56:45] electrostrike: dm 1 miss
+[22:56:45] My_Angel_Cocoa: má cái đoạn cuối tridodai thật
+[22:56:45] BCraftMG: tb ko can mod
+[22:56:47] BCraftMG: nhung van can nf
+[22:56:57] budget_boydn: dung` sightread khi pooler la` hoaq
+[22:57:00] hdt2410: thank god
+[22:57:09] hdt2410: i dont have to sightread hd
+[22:57:12] smthelse: chin h xac la ly do tai sao ta ko choi hr
+[22:57:13] electrostrike: tb nnt 4 nay
+[22:57:16] electrostrike: banger
+[22:57:42] Khanhtan0306: 2 tries for this tb
+[22:57:43] BanchoBot: Countdown ends in 1 minute
+[22:57:45] smthelse: banger
+[22:57:46] Khanhtan0306: let's do it
+[22:57:48] ayumiikin_: nghien game 3 tieng
+[22:57:49] Khanhtan0306: !roll 1000
+[22:57:49] BanchoBot: Khanhtan0306 rolls 693 point(s)
+[22:57:54] Khanhtan0306: !roll 727
+[22:57:54] BanchoBot: Khanhtan0306 rolls 213 point(s)
+[22:58:03] ayumiikin_: !roll 1000
+[22:58:03] BanchoBot: ayumiikin_ rolls 203 point(s)
+[22:58:03] electrostrike: imagine tryout 3 tieng
+[22:58:10] electrostrike: va phai choi ca tb
+[22:58:12] electrostrike: not fun :<
+[22:58:12] My_Angel_Cocoa: riel
+[22:58:13] BanchoBot: Countdown ends in 30 seconds
+[22:58:13] zeroly: sap chet ro0i
+[22:58:14] BanchoBot: All players are ready
+[22:58:17] electrostrike: !roll 1000
+[22:58:17] BanchoBot: electrostrike rolls 951 point(s)
+[22:58:23] ayumiikin_: !roll 1000
+[22:58:23] BanchoBot: ayumiikin_ rolls 844 point(s)
+[22:58:23] My_Angel_Cocoa: con 3 phut nua la 11h
+[22:58:26] Lemoonz: !roll 1000
+[22:58:26] BanchoBot: Lemoonz rolls 119 point(s)
+[22:58:26] My_Angel_Cocoa: map gan 6p
+[22:58:28] electrostrike: glhf gyze
+[22:58:28] My_Angel_Cocoa: ncc
+[22:58:29] hdt2410: final map gyze
+[22:58:31] electrostrike: last lsr map
+[22:58:32] Khanhtan0306: mac tieu qua ma phai co
+[22:58:32] Khanhtan0306: dcm
+[22:58:32] Lemoonz: !roll 1000
+[22:58:32] BanchoBot: Lemoonz rolls 417 point(s)
+[22:58:32] BanchoBot: Countdown ends in 10 seconds
+[22:58:37] Khanhtan0306: final game gyze
+[22:58:38] BanchoBot: Countdown ends in 5 seconds
+[22:58:38] BanchoBot: Countdown ends in 4 seconds
+[22:58:40] BanchoBot: Countdown ends in 3 seconds
+[22:58:41] BanchoBot: Countdown ends in 2 seconds
+[22:58:41] electrostrike: damn
+[22:58:41] BanchoBot: Countdown ends in 1 second
+[22:58:43] Lemoonz: dadadadadadaadad
+[22:58:43] BanchoBot: Countdown finished
+[22:58:47] Khanhtan0306: gdgdgdgdgdgdgdgdgdg
+[22:58:49] electrostrike: i see +hd tb
+[22:58:52] My_Angel_Cocoa: Lemoonz j de mod luon a
+[22:58:53] electrostrike: pro
+[22:59:01] Lemoonz: es
+[22:59:01] smthelse: anh kia ac z
+[22:59:02] Lemoonz: yes
+[22:59:02] BCraftMG: !mp settings
+[22:59:04] Lemoonz: hd player
+[22:59:04] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[22:59:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/3429000 Yooh - RPG
+[22:59:04] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:59:04] BanchoBot: Active mods: Freemod
+[22:59:04] BanchoBot: Players: 10
+[22:59:04] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14037584 hdt2410         [NoFail]
+[22:59:04] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28569876 zeroly          [NoFail]
+[22:59:04] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/24559528 Lemoonz         [NoFail, Hidden]
+[22:59:04] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/31659938 25 FPS          [NoFail]
+[22:59:04] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/30252345 My Angel Cocoa  [NoFail]
+[22:59:04] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8945565 budget boydn    [NoFail]
+[22:59:04] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      [NoFail]
+[22:59:04] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11538640 electrostrike   [NoFail]
+[22:59:04] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/13238121 smthelse        [NoFail]
+[22:59:04] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/27142941 Khanhtan0306    [NoFail]
+[22:59:08] Khanhtan0306: pro read tb
+[22:59:10] Khanhtan0306: lol
+[22:59:10] BCraftMG: !mp start 5 glhf
+[22:59:11] My_Angel_Cocoa: no wae
+[22:59:11] electrostrike: ac'
+[22:59:11] smthelse: glhffff
+[22:59:11] smthelse: chit
+[22:59:11] BanchoBot: Match starts in 5 seconds
+[22:59:11] BanchoBot: Queued the match to start in 5 seconds
+[22:59:13] BanchoBot: Match starts in 4 seconds
+[22:59:14] BanchoBot: Match starts in 3 seconds
+[22:59:14] BanchoBot: Good luck, have fun!
+[22:59:16] Khanhtan0306: VAS
+[22:59:17] BanchoBot: The match has started!
+[22:59:20] Khanhtan0306: glhf
+[23:00:11] ayumiikin_: bo nguoi ta vnpt
+[23:02:53] BanchoBot: ayumiikin_ left the game.
+[23:05:39] BanchoBot: Khanhtan0306 finished playing (Score: 96061, PASSED).
+[23:05:41] BanchoBot: My Angel Cocoa finished playing (Score: 119752, PASSED).
+[23:05:41] BanchoBot: zeroly finished playing (Score: 106949, PASSED).
+[23:05:41] BanchoBot: 25 FPS finished playing (Score: 67857, PASSED).
+[23:05:41] BanchoBot: electrostrike finished playing (Score: 372052, PASSED).
+[23:05:41] BanchoBot: budget boydn finished playing (Score: 200602, PASSED).
+[23:05:41] BanchoBot: hdt2410 finished playing (Score: 158226, PASSED).
+[23:05:41] BanchoBot: Lemoonz finished playing (Score: 54283, PASSED).
+[23:05:41] BanchoBot: smthelse finished playing (Score: 515471, PASSED).
+[23:05:41] BanchoBot: The match has finished!
+[23:05:49] BCraftMG: aight
+[23:05:54] smthelse: buon
+[23:05:54] smthelse: chok giua map
+[23:05:55] budget_boydn: FOR THE COMPANY
+[23:05:57] BanchoBot: budget boydn left the game.
+[23:06:00] BCraftMG: zeroly hd1 replay
+[23:06:05] BCraftMG: !mp map 3669550 0
+[23:06:07] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3669550 40mP feat. chano - Yuugure One Room
+[23:06:07] BanchoBot: Changed match mode to Osu
+[23:06:07] BCraftMG: !mp mods 9
+[23:06:08] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[23:06:13] smthelse: ggs
+[23:06:16] smthelse: oai qua
+[23:06:16] electrostrike: ggs
+[23:06:17] BanchoBot: smthelse left the game.
+[23:06:17] BanchoBot: hdt2410 left the game.
+[23:06:19] 25_FPS: gg
+[23:06:20] electrostrike: ty for ref
+[23:06:20] My_Angel_Cocoa: :tf:
+[23:06:29] Khanhtan0306: ty
+[23:06:29] My_Angel_Cocoa: Thanks for ref and match
+[23:06:31] Khanhtan0306: ggwp
+[23:06:32] Lemoonz: ty for ref
+[23:06:38] BanchoBot: electrostrike left the game.
+[23:06:38] Khanhtan0306: tks for ref
+[23:06:40] BanchoBot: Khanhtan0306 left the game.
+[23:06:41] BanchoBot: 25 FPS left the game.
+[23:06:44] zeroly: chet
+[23:06:47] My_Angel_Cocoa: Great match tbh
+[23:06:53] BanchoBot: My Angel Cocoa left the game.
+[23:06:56] BanchoBot: Lemoonz left the game.
+[23:06:58] BCraftMG: !mp settings
+[23:06:59] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[23:06:59] BanchoBot: Beatmap: https://osu.ppy.sh/b/3669550 40mP feat. chano - Yuugure One Room
+[23:06:59] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:06:59] BanchoBot: Active mods: NoFail, Hidden
+[23:06:59] BanchoBot: Players: 1
+[23:06:59] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/28569876 zeroly          
+[23:07:02] BCraftMG: !mp start 5 glhf
+[23:07:03] BanchoBot: Match starts in 5 seconds
+[23:07:03] BanchoBot: Queued the match to start in 5 seconds
+[23:07:05] BanchoBot: Match starts in 4 seconds
+[23:07:06] BanchoBot: Match starts in 3 seconds
+[23:07:08] BanchoBot: Good luck, have fun!
+[23:07:09] BanchoBot: The match has started!
+[23:09:41] BanchoBot: zeroly finished playing (Score: 202261, PASSED).
+[23:09:41] BanchoBot: The match has finished!
+[23:09:48] zeroly: ngol
+[23:09:50] BCraftMG: !mp map 3429000 0
+[23:09:51] zeroly: ty for redf
+[23:09:51] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3429000 Yooh - RPG
+[23:09:51] BanchoBot: Changed match mode to Osu
+[23:09:54] BCraftMG: !mp mods Freemod
+[23:09:54] BanchoBot: Disabled all mods, enabled FreeMod
+[23:10:08] zeroly: vay la xong rui dung ko
+[23:10:12] BCraftMG: !mp invite #17357380
+[23:10:13] BanchoBot: Invited ayumiikin_ to the room
+[23:10:14] BCraftMG: yea xong rui
+[23:10:17] BanchoBot: zeroly left the game.
+[23:10:21] BanchoBot: ayumiikin_ joined in slot 1.
+[23:10:31] BCraftMG: ehe
+[23:10:32] ayumiikin_: hoi chan that
+[23:10:33] BanchoBot: All players are ready
+[23:10:34] BCraftMG: !mp settings
+[23:10:35] BanchoBot: Room name: 5WC24VN: (Week 1) vs (Match W1-B2), History: https://osu.ppy.sh/mp/112309028
+[23:10:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/3429000 Yooh - RPG
+[23:10:35] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:10:35] BanchoBot: Active mods: Freemod
+[23:10:35] BanchoBot: Players: 1
+[23:10:35] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17357380 ayumiikin_      [NoFail]
+[23:10:36] BCraftMG: toi yeu bancho
+[23:10:37] BCraftMG: !mp start 5 glhf
+[23:10:39] BanchoBot: Match starts in 5 seconds
+[23:10:39] BanchoBot: Queued the match to start in 5 seconds
+[23:10:40] BanchoBot: Match starts in 4 seconds
+[23:10:42] BanchoBot: Match starts in 3 seconds
+[23:10:43] BanchoBot: Good luck, have fun!
+[23:10:45] BanchoBot: The match has started!
+[23:16:53] BanchoBot: ayumiikin_ finished playing (Score: 164388, PASSED).
+[23:16:53] BanchoBot: The match has finished!
+[23:17:02] ayumiikin_: finally
+[23:17:12] BCraftMG: xong
+[23:17:13] BCraftMG: geegee
+[23:17:21] ayumiikin_: ok bye
+[23:17:22] ayumiikin_: buon ngu qua
+[23:17:25] BanchoBot: ayumiikin_ left the game.
+[23:17:28] BCraftMG: !mp close
+[23:17:30] BanchoBot: Closed the match

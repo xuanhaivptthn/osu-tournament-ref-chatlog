@@ -1,0 +1,596 @@
+[18:56:34] Joined #mp_105580479
+[18:56:34] DaddyStage: !mp settings
+[18:56:35] BanchoBot: Room name: BOP4: (PaDuK Ky) vs (webi wabo), History: https://osu.ppy.sh/mp/105580479
+[18:56:35] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[18:56:35] BanchoBot: Players: 0
+[18:56:49] DaddyStage: !mp set 2 3 8
+[18:56:50] BanchoBot: Changed match settings to 8 slots, TeamVs, ScoreV2
+[18:56:56] DaddyStage: !mp invite #14860270
+[18:56:56] BanchoBot: Invited Zoleks to the room
+[18:56:58] DaddyStage: !mp invite #5442931
+[18:56:59] BanchoBot: Invited Glasswave to the room
+[18:57:47] DaddyStage: !mp invite #5442931
+[18:57:48] BanchoBot: Invited Glasswave to the room
+[18:57:51] DaddyStage: !mp invite #14860270
+[18:57:52] BanchoBot: Invited Zoleks to the room
+[18:57:57] BanchoBot: Zoleks joined in slot 1 for team blue.
+[18:58:00] DaddyStage: o/
+[18:58:13] DaddyStage: Zoleks your team on red please
+[18:58:20] DaddyStage: !mp invite #5442931
+[18:58:20] BanchoBot: Zoleks changed to Red
+[18:58:20] BanchoBot: Invited Glasswave to the room
+[18:58:21] Zoleks: ok
+[18:58:40] BanchoBot: parkinsonboy joined in slot 2 for team red.
+[18:58:48] Zoleks: Can i get host for warmup?
+[18:59:01] DaddyStage: !mp host Zoleks
+[18:59:03] BanchoBot: Zoleks became the host.
+[18:59:03] BanchoBot: Changed match host to Zoleks
+[18:59:05] BanchoBot: Beatmap changed to: Hommarju - (This Is Not) The Angels [Another] (https://osu.ppy.sh/b/1672135)
+[18:59:09] BanchoBot: parkinsonboy left the game.
+[18:59:21] BanchoBot: Glasswave joined in slot 2 for team red.
+[18:59:23] BanchoBot: Glasswave moved to slot 3
+[18:59:28] Zoleks: o/
+[18:59:34] DaddyStage: o/ Glasswave your team is blue
+[18:59:48] Glasswave: gm
+[18:59:49] Glasswave: ok
+[18:59:51] BanchoBot: Glasswave changed to Blue
+[19:00:27] BanchoBot: parkinsonboy joined in slot 2 for team red.
+[19:00:34] parkinsonboy: o/
+[19:00:37] Glasswave: o/
+[19:01:23] BanchoBot: parkinsonboy left the game.
+[19:01:31] BanchoBot: parkinsonboy joined in slot 2 for team red.
+[19:01:41] parkinsonboy: need to smoke some
+[19:01:42] BanchoBot: parkinsonboy left the game.
+[19:01:49] Zoleks: Glasswave where's your teammates?
+[19:02:03] Glasswave: theyre online
+[19:02:16] BanchoBot: JezusNE joined in slot 2 for team red.
+[19:02:50] DaddyStage: :3c yall can start warm up
+[19:03:26] BanchoBot: JezusNE changed to Blue
+[19:03:32] BanchoBot: MuxauJlo joined in slot 4 for team red.
+[19:03:34] Zoleks: ok
+[19:04:10] BanchoBot: All players are ready
+[19:04:11] DaddyStage: !mp settings
+[19:04:12] BanchoBot: The match has started!
+[19:04:12] Glasswave: glhf
+[19:04:12] BanchoBot: Room name: BOP4: (PaDuK Ky) vs (webi wabo), History: https://osu.ppy.sh/mp/105580479
+[19:04:12] BanchoBot: Beatmap: https://osu.ppy.sh/b/1672135 Hommarju - (This Is Not) The Angels [Another]
+[19:04:12] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:04:12] BanchoBot: Active mods: Freemod
+[19:04:12] BanchoBot: Players: 4
+[19:04:12] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/14860270 Zoleks          [Host / Team Red ]
+[19:04:12] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/10762622 JezusNE         [Team Blue]
+[19:04:12] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/5442931 Glasswave       [Team Blue]
+[19:04:12] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/9053619 MuxauJlo        [Team Red ]
+[19:04:58] BanchoBot: Zoleks left the game.
+[19:06:15] BanchoBot: MuxauJlo finished playing (Score: 182519, PASSED).
+[19:06:16] BanchoBot: JezusNE finished playing (Score: 169204, PASSED).
+[19:06:16] BanchoBot: Glasswave finished playing (Score: 70198, PASSED).
+[19:06:16] BanchoBot: The match has finished!
+[19:06:29] DaddyStage: !mp host Glasswave
+[19:06:29] BanchoBot: Glasswave became the host.
+[19:06:29] BanchoBot: Changed match host to Glasswave
+[19:06:36] BanchoBot: gecseboti joined in slot 1 for team blue.
+[19:06:36] BanchoBot: Host is changing map...
+[19:06:38] BanchoBot: Beatmap changed to: Hommarju - (This Is Not) The Angels [Another] (https://osu.ppy.sh/b/1672135)
+[19:06:40] BanchoBot: gecseboti became the host.
+[19:06:48] BanchoBot: parkinsonboy joined in slot 5 for team blue.
+[19:06:51] BanchoBot: Host is changing map...
+[19:06:53] BanchoBot: parkinsonboy changed to Red
+[19:06:59] BanchoBot: Beatmap changed to: ParagonX9 - Chaoz Fantasy [The Gallop Method] (https://osu.ppy.sh/b/3849107)
+[19:07:57] BanchoBot: All players are ready
+[19:07:58] Glasswave: glhf
+[19:08:00] BanchoBot: The match has started!
+[19:08:05] parkinsonboy: glhf
+[19:11:10] BanchoBot: Glasswave finished playing (Score: 78462, PASSED).
+[19:11:12] BanchoBot: parkinsonboy finished playing (Score: 283951, PASSED).
+[19:11:12] BanchoBot: MuxauJlo finished playing (Score: 142583, PASSED).
+[19:11:12] BanchoBot: JezusNE finished playing (Score: 60590, PASSED).
+[19:11:12] BanchoBot: gecseboti finished playing (Score: 31916, PASSED).
+[19:11:12] BanchoBot: The match has finished!
+[19:11:16] DaddyStage: !mp clearhost
+[19:11:17] BanchoBot: Zoleks joined in slot 6 for team red.
+[19:11:17] BanchoBot: Cleared match host
+[19:11:22] DaddyStage: roll time
+[19:11:26] BanchoBot: gecseboti left the game.
+[19:11:31] Glasswave: !roll
+[19:11:31] BanchoBot: Glasswave rolls 94 point(s)
+[19:11:31] Zoleks: !roll
+[19:11:31] BanchoBot: Zoleks rolls 15 point(s)
+[19:11:41] BanchoBot: MuxauJlo left the game.
+[19:11:41] Zoleks: :trophy:
+[19:11:46] DaddyStage: webi wabo	choose pick/ban order
+[19:12:05] BanchoBot: Frodo55 joined in slot 1 for team blue.
+[19:12:05] Glasswave: second ban
+[19:12:08] BanchoBot: Frodo55 left the game.
+[19:12:18] DaddyStage: PaDuK Ky	pick order then
+[19:12:45] Zoleks: 2nd
+[19:12:58] DaddyStage: okay good
+[19:13:01] DaddyStage: PaDuK Ky	ban
+[19:13:05] DaddyStage: !mp timer 60
+[19:13:06] BanchoBot: Countdown ends in 1 minute
+[19:13:37] BanchoBot: Countdown ends in 30 seconds
+[19:13:53] BanchoBot: Zoleks moved to slot 4
+[19:13:57] BanchoBot: Countdown ends in 10 seconds
+[19:14:01] BanchoBot: Countdown ends in 5 seconds
+[19:14:03] Zoleks: NM3
+[19:14:03] BanchoBot: Countdown ends in 4 seconds
+[19:14:04] BanchoBot: Countdown ends in 3 seconds
+[19:14:05] BanchoBot: Countdown ends in 2 seconds
+[19:14:06] BanchoBot: Countdown ends in 1 second
+[19:14:07] BanchoBot: Countdown finished
+[19:14:15] DaddyStage: webi wabo		ban
+[19:14:21] DaddyStage: !mp timer 60
+[19:14:21] BanchoBot: Countdown ends in 1 minute
+[19:14:23] Glasswave: hr1
+[19:14:27] Glasswave: pick nm2
+[19:14:33] BanchoBot: Glasswave moved to slot 1
+[19:14:40] DaddyStage: PaDuK Ky | 0 - 0 | webi wabo // First Pick: webi wabo
+[19:14:41] BanchoBot: Zoleks left the game.
+[19:14:41] DaddyStage: !mp map 2680248 0
+[19:14:42] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2680248 Aether Realm - Tarot
+[19:14:42] BanchoBot: Changed match mode to Osu
+[19:14:45] DaddyStage: !mp mods 1
+[19:14:45] BanchoBot: Enabled NoFail, disabled FreeMod
+[19:14:48] DaddyStage: !mp timer 120
+[19:14:49] BanchoBot: Countdown aborted
+[19:14:49] BanchoBot: Countdown ends in 2 minutes
+[19:15:24] BanchoBot: MuxauJlo joined in slot 3 for team blue.
+[19:15:37] BanchoBot: MuxauJlo moved to slot 4
+[19:15:38] BanchoBot: MuxauJlo moved to slot 3
+[19:15:38] BanchoBot: MuxauJlo changed to Red
+[19:15:46] BanchoBot: parkinsonboy moved to slot 4
+[19:15:49] BanchoBot: Countdown ends in 1 minute
+[19:16:08] MuxauJlo: d(-_-)b
+[19:16:19] BanchoBot: Countdown ends in 30 seconds
+[19:16:25] BanchoBot: All players are ready
+[19:16:27] DaddyStage: !mp settings
+[19:16:27] Glasswave: glhf
+[19:16:27] parkinsonboy: glhf
+[19:16:29] BanchoBot: Room name: BOP4: (PaDuK Ky) vs (webi wabo), History: https://osu.ppy.sh/mp/105580479
+[19:16:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/2680248 Aether Realm - Tarot
+[19:16:29] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:16:29] BanchoBot: Active mods: NoFail
+[19:16:29] BanchoBot: Players: 4
+[19:16:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/5442931 Glasswave       [Team Blue]
+[19:16:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10762622 JezusNE         [Team Blue]
+[19:16:29] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9053619 MuxauJlo        [Team Red ]
+[19:16:29] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7521804 parkinsonboy    [Team Red ]
+[19:16:31] JezusNE: hf
+[19:16:32] MuxauJlo: glhf!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[19:16:39] DaddyStage: !mp start 5 glhf
+[19:16:39] BanchoBot: Countdown ends in 10 seconds
+[19:16:40] BanchoBot: Countdown aborted
+[19:16:40] BanchoBot: Match starts in 5 seconds
+[19:16:40] BanchoBot: Queued the match to start in 5 seconds
+[19:16:41] BanchoBot: Match starts in 4 seconds
+[19:16:42] BanchoBot: Match starts in 3 seconds
+[19:16:44] BanchoBot: Good luck, have fun!
+[19:16:46] BanchoBot: The match has started!
+[19:20:12] BanchoBot: parkinsonboy finished playing (Score: 675038, PASSED).
+[19:20:12] BanchoBot: Glasswave finished playing (Score: 824368, PASSED).
+[19:20:13] BanchoBot: MuxauJlo finished playing (Score: 417858, PASSED).
+[19:20:14] BanchoBot: JezusNE finished playing (Score: 435694, PASSED).
+[19:20:14] BanchoBot: The match has finished!
+[19:20:27] DaddyStage: PaDuK Ky | 0 - 1 | webi wabo // Next Pick: PaDuK Ky
+[19:20:29] DaddyStage: !mp timer 120
+[19:20:31] BanchoBot: Countdown ends in 2 minutes
+[19:20:34] BanchoBot: Zoleks joined in slot 5 for team blue.
+[19:20:41] BanchoBot: MuxauJlo left the game.
+[19:20:53] Zoleks: DT1
+[19:20:54] BanchoBot: Zoleks left the game.
+[19:21:02] DaddyStage: !mp map 544993 0
+[19:21:03] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/544993 S3RL feat Tamika - I Will Pick You Up
+[19:21:03] BanchoBot: Changed match mode to Osu
+[19:21:07] DaddyStage: !mp mods 65
+[19:21:08] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[19:21:10] DaddyStage: !mp timer 120
+[19:21:11] BanchoBot: Countdown aborted
+[19:21:11] BanchoBot: Countdown ends in 2 minutes
+[19:22:08] BanchoBot: gecseboti joined in slot 3 for team blue.
+[19:22:11] BanchoBot: Countdown ends in 1 minute
+[19:22:19] BanchoBot: Glasswave left the game.
+[19:22:23] BanchoBot: MuxauJlo joined in slot 1 for team blue.
+[19:22:25] BanchoBot: gecseboti moved to slot 6
+[19:22:27] BanchoBot: MuxauJlo moved to slot 3
+[19:22:28] BanchoBot: gecseboti moved to slot 1
+[19:22:37] BanchoBot: MuxauJlo changed to Red
+[19:22:41] BanchoBot: Countdown ends in 30 seconds
+[19:22:59] BanchoBot: All players are ready
+[19:23:02] DaddyStage: !mp settings
+[19:23:02] BanchoBot: Countdown ends in 10 seconds
+[19:23:02] BanchoBot: Room name: BOP4: (PaDuK Ky) vs (webi wabo), History: https://osu.ppy.sh/mp/105580479
+[19:23:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/544993 S3RL feat Tamika - I Will Pick You Up
+[19:23:02] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:23:02] BanchoBot: Active mods: NoFail, DoubleTime
+[19:23:02] BanchoBot: Players: 4
+[19:23:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15213139 gecseboti       [Team Blue]
+[19:23:02] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10762622 JezusNE         [Team Blue]
+[19:23:03] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9053619 MuxauJlo        [Team Red ]
+[19:23:03] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7521804 parkinsonboy    [Team Red ]
+[19:23:05] gecseboti: glhf
+[19:23:07] BanchoBot: Countdown ends in 5 seconds
+[19:23:08] DaddyStage: !mp start 5 glhf
+[19:23:08] BanchoBot: Countdown ends in 4 seconds
+[19:23:08] BanchoBot: Countdown ends in 3 seconds
+[19:23:09] BanchoBot: Countdown ends in 2 seconds
+[19:23:09] BanchoBot: Countdown aborted
+[19:23:09] BanchoBot: Match starts in 5 seconds
+[19:23:09] BanchoBot: Queued the match to start in 5 seconds
+[19:23:10] BanchoBot: Match starts in 4 seconds
+[19:23:12] BanchoBot: Match starts in 3 seconds
+[19:23:13] BanchoBot: Good luck, have fun!
+[19:23:15] BanchoBot: The match has started!
+[19:23:15] JezusNE: hf
+[19:25:50] BanchoBot: gecseboti finished playing (Score: 531066, PASSED).
+[19:25:50] BanchoBot: parkinsonboy finished playing (Score: 723636, PASSED).
+[19:25:50] BanchoBot: MuxauJlo finished playing (Score: 451450, PASSED).
+[19:25:51] BanchoBot: JezusNE finished playing (Score: 1150028, PASSED).
+[19:25:51] BanchoBot: The match has finished!
+[19:26:02] BanchoBot: Zoleks joined in slot 5 for team blue.
+[19:26:04] DaddyStage: PaDuK Ky | 0 - 2 | webi wabo // Next Pick: webi wabo
+[19:26:08] DaddyStage: !mp timer 120
+[19:26:08] BanchoBot: Countdown ends in 2 minutes
+[19:26:28] BanchoBot: Glasswave joined in slot 6 for team red.
+[19:26:34] BanchoBot: Zoleks changed to Red
+[19:27:01] BanchoBot: gecseboti left the game.
+[19:27:09] BanchoBot: Countdown ends in 1 minute
+[19:27:39] BanchoBot: Countdown ends in 30 seconds
+[19:27:59] BanchoBot: Countdown ends in 10 seconds
+[19:28:00] Glasswave: fm2
+[19:28:04] BanchoBot: Countdown ends in 5 seconds
+[19:28:05] BanchoBot: Countdown ends in 4 seconds
+[19:28:05] BanchoBot: Glasswave changed to Blue
+[19:28:06] BanchoBot: Countdown ends in 3 seconds
+[19:28:06] BanchoBot: Glasswave moved to slot 1
+[19:28:06] BanchoBot: Countdown ends in 2 seconds
+[19:28:07] BanchoBot: Countdown ends in 1 second
+[19:28:08] BanchoBot: Countdown finished
+[19:28:09] DaddyStage: !mp map 55474 0
+[19:28:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/55474 Scott Brown - Go Berzerk
+[19:28:10] BanchoBot: Changed match mode to Osu
+[19:28:11] BanchoBot: MuxauJlo left the game.
+[19:28:11] DaddyStage: !mp mods freemod
+[19:28:12] BanchoBot: Disabled all mods, enabled FreeMod
+[19:28:14] DaddyStage: !mp timer 120
+[19:28:14] BanchoBot: Countdown ends in 2 minutes
+[19:28:16] BanchoBot: Zoleks left the game.
+[19:28:35] BanchoBot: Frodo55 joined in slot 3 for team blue.
+[19:28:39] BanchoBot: Glasswave left the game.
+[19:28:50] BanchoBot: Frodo55 moved to slot 5
+[19:29:03] BanchoBot: Frodo55 moved to slot 1
+[19:29:07] parkinsonboy: frodo<3
+[19:29:10] Frodo55: dont just stand
+[19:29:13] Frodo55: hi
+[19:29:13] BanchoBot: MuxauJlo joined in slot 3 for team blue.
+[19:29:14] BanchoBot: Countdown ends in 1 minute
+[19:29:18] BanchoBot: MuxauJlo changed to Red
+[19:29:32] BanchoBot: All players are ready
+[19:29:35] DaddyStage: !mp settings
+[19:29:36] BanchoBot: Room name: BOP4: (PaDuK Ky) vs (webi wabo), History: https://osu.ppy.sh/mp/105580479
+[19:29:36] BanchoBot: Beatmap: https://osu.ppy.sh/b/55474 Scott Brown - Go Berzerk
+[19:29:36] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:29:36] BanchoBot: Active mods: Freemod
+[19:29:36] BanchoBot: Players: 4
+[19:29:36] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14398471 Frodo55         [Team Blue / NoFail, Hidden]
+[19:29:36] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10762622 JezusNE         [Team Blue / NoFail, HardRock]
+[19:29:36] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9053619 MuxauJlo        [Team Red  / NoFail, HardRock]
+[19:29:36] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7521804 parkinsonboy    [Team Red  / NoFail, Hidden]
+[19:29:37] JezusNE: hf
+[19:29:42] DaddyStage: !mp start 5 glhf
+[19:29:43] BanchoBot: Countdown aborted
+[19:29:43] BanchoBot: Match starts in 5 seconds
+[19:29:43] BanchoBot: Queued the match to start in 5 seconds
+[19:29:44] BanchoBot: Match starts in 4 seconds
+[19:29:45] BanchoBot: Match starts in 3 seconds
+[19:29:46] BanchoBot: Good luck, have fun!
+[19:29:47] parkinsonboy: glhf
+[19:29:49] BanchoBot: The match has started!
+[19:31:50] BanchoBot: parkinsonboy finished playing (Score: 415366, PASSED).
+[19:31:51] BanchoBot: MuxauJlo finished playing (Score: 940385, PASSED).
+[19:31:51] BanchoBot: JezusNE finished playing (Score: 748142, PASSED).
+[19:31:51] BanchoBot: Frodo55 finished playing (Score: 593956, PASSED).
+[19:31:51] BanchoBot: The match has finished!
+[19:31:58] BanchoBot: Zoleks joined in slot 5 for team blue.
+[19:32:10] DaddyStage: PaDuK Ky | 1 - 2 | webi wabo // Next Pick: PaDuK Ky
+[19:32:11] BanchoBot: Frodo55 left the game.
+[19:32:12] DaddyStage: !mp timer 120
+[19:32:12] BanchoBot: Countdown ends in 2 minutes
+[19:32:38] BanchoBot: gecseboti joined in slot 1 for team blue.
+[19:32:56] BanchoBot: parkinsonboy left the game.
+[19:33:08] BanchoBot: MuxauJlo left the game.
+[19:33:12] BanchoBot: Countdown ends in 1 minute
+[19:33:15] BanchoBot: parkinsonboy joined in slot 3 for team blue.
+[19:33:18] BanchoBot: parkinsonboy changed to Red
+[19:33:43] BanchoBot: Countdown ends in 30 seconds
+[19:33:57] Zoleks: NM4
+[19:33:58] BanchoBot: Zoleks left the game.
+[19:34:02] BanchoBot: Countdown ends in 10 seconds
+[19:34:08] BanchoBot: Countdown ends in 5 seconds
+[19:34:09] BanchoBot: Countdown ends in 4 seconds
+[19:34:09] BanchoBot: Countdown ends in 3 seconds
+[19:34:10] DaddyStage: !mp map 3297831 0
+[19:34:10] BanchoBot: Countdown ends in 2 seconds
+[19:34:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3297831 siqlo - wholeheartedly
+[19:34:10] BanchoBot: Changed match mode to Osu
+[19:34:11] DaddyStage: !mp mods 1
+[19:34:11] BanchoBot: Countdown ends in 1 second
+[19:34:13] BanchoBot: gecseboti left the game.
+[19:34:13] BanchoBot: Countdown finished
+[19:34:13] BanchoBot: Enabled NoFail, disabled FreeMod
+[19:34:14] DaddyStage: !mp timer 120
+[19:34:15] BanchoBot: Countdown ends in 2 minutes
+[19:34:28] BanchoBot: Glasswave joined in slot 1 for team blue.
+[19:34:46] BanchoBot: MuxauJlo joined in slot 4 for team red.
+[19:35:15] BanchoBot: Countdown ends in 1 minute
+[19:35:17] BanchoBot: JezusNE left the game.
+[19:35:20] BanchoBot: Frodo55 joined in slot 2 for team red.
+[19:35:23] BanchoBot: Frodo55 changed to Blue
+[19:35:29] BanchoBot: All players are ready
+[19:35:31] DaddyStage: !mp settings
+[19:35:33] BanchoBot: Room name: BOP4: (PaDuK Ky) vs (webi wabo), History: https://osu.ppy.sh/mp/105580479
+[19:35:33] BanchoBot: Beatmap: https://osu.ppy.sh/b/3297831 siqlo - wholeheartedly
+[19:35:33] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:35:33] BanchoBot: Active mods: NoFail
+[19:35:33] BanchoBot: Players: 4
+[19:35:33] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/5442931 Glasswave       [Team Blue]
+[19:35:33] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14398471 Frodo55         [Team Blue]
+[19:35:33] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7521804 parkinsonboy    [Team Red ]
+[19:35:33] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9053619 MuxauJlo        [Team Red ]
+[19:35:33] Frodo55: gl
+[19:35:37] Glasswave: glhf
+[19:35:37] DaddyStage: !mp start 5 glhf
+[19:35:37] BanchoBot: Countdown aborted
+[19:35:37] BanchoBot: Match starts in 5 seconds
+[19:35:37] BanchoBot: Queued the match to start in 5 seconds
+[19:35:39] BanchoBot: Match starts in 4 seconds
+[19:35:39] parkinsonboy: glhf
+[19:35:40] BanchoBot: Match starts in 3 seconds
+[19:35:41] BanchoBot: Good luck, have fun!
+[19:35:42] BanchoBot: The match has started!
+[19:37:59] BanchoBot: Frodo55 finished playing (Score: 391450, PASSED).
+[19:37:59] BanchoBot: Glasswave finished playing (Score: 483961, PASSED).
+[19:37:59] BanchoBot: MuxauJlo finished playing (Score: 491206, PASSED).
+[19:37:59] BanchoBot: parkinsonboy finished playing (Score: 358658, PASSED).
+[19:37:59] BanchoBot: The match has finished!
+[19:38:08] BanchoBot: Frodo55 left the game.
+[19:38:14] DaddyStage: PaDuK Ky | 1 - 3 | webi wabo // Next Pick: webi wabo
+[19:38:16] DaddyStage: !mp timer 120
+[19:38:18] BanchoBot: Countdown ends in 2 minutes
+[19:38:23] BanchoBot: Zoleks joined in slot 2 for team red.
+[19:38:44] Glasswave: nm5
+[19:38:47] BanchoBot: gecseboti joined in slot 5 for team blue.
+[19:38:55] BanchoBot: Zoleks left the game.
+[19:38:55] BanchoBot: MuxauJlo left the game.
+[19:38:58] DaddyStage: !mp map 2689459 0
+[19:38:59] BanchoBot: gecseboti moved to slot 2
+[19:38:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2689459 Thousand Leaves - Temptation
+[19:38:59] BanchoBot: Changed match mode to Osu
+[19:39:01] DaddyStage: !mp timer 120
+[19:39:01] BanchoBot: Countdown aborted
+[19:39:01] BanchoBot: Countdown ends in 2 minutes
+[19:39:33] BanchoBot: Zoleks joined in slot 4 for team red.
+[19:39:46] Glasswave: glhf
+[19:39:50] gecseboti: glhf
+[19:39:57] BanchoBot: All players are ready
+[19:40:01] DaddyStage: !mp settings
+[19:40:02] BanchoBot: Countdown ends in 1 minute
+[19:40:02] BanchoBot: Room name: BOP4: (PaDuK Ky) vs (webi wabo), History: https://osu.ppy.sh/mp/105580479
+[19:40:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/2689459 Thousand Leaves - Temptation
+[19:40:03] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:40:03] BanchoBot: Active mods: NoFail
+[19:40:03] BanchoBot: Players: 4
+[19:40:03] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/5442931 Glasswave       [Team Blue]
+[19:40:03] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15213139 gecseboti       [Team Blue]
+[19:40:03] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7521804 parkinsonboy    [Team Red ]
+[19:40:03] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14860270 Zoleks          [Team Red ]
+[19:40:05] parkinsonboy: glhf
+[19:40:06] Zoleks: пдра
+[19:40:06] DaddyStage: !mp start 5 glhf
+[19:40:07] Zoleks: glhf
+[19:40:07] BanchoBot: Countdown aborted
+[19:40:07] BanchoBot: Match starts in 5 seconds
+[19:40:07] BanchoBot: Queued the match to start in 5 seconds
+[19:40:08] BanchoBot: Match starts in 4 seconds
+[19:40:09] BanchoBot: Match starts in 3 seconds
+[19:40:11] BanchoBot: Good luck, have fun!
+[19:40:13] BanchoBot: The match has started!
+[19:43:18] BanchoBot: gecseboti finished playing (Score: 418406, PASSED).
+[19:43:18] BanchoBot: parkinsonboy finished playing (Score: 924832, PASSED).
+[19:43:20] BanchoBot: Zoleks finished playing (Score: 390569, PASSED).
+[19:43:20] BanchoBot: Glasswave finished playing (Score: 412040, PASSED).
+[19:43:20] BanchoBot: The match has finished!
+[19:43:36] DaddyStage: PaDuK Ky | 2 - 3 | webi wabo // Next Pick: PaDuK Ky
+[19:43:37] gecseboti: aim map
+[19:43:39] DaddyStage: !mp timer 120
+[19:43:40] BanchoBot: Countdown ends in 2 minutes
+[19:44:02] parkinsonboy: for real
+[19:44:17] Glasswave: nice fc
+[19:44:38] Zoleks: DT2
+[19:44:38] BanchoBot: Zoleks left the game.
+[19:44:41] BanchoBot: Countdown ends in 1 minute
+[19:44:42] DaddyStage: !mp settings
+[19:44:43] BanchoBot: Room name: BOP4: (PaDuK Ky) vs (webi wabo), History: https://osu.ppy.sh/mp/105580479
+[19:44:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/2689459 Thousand Leaves - Temptation
+[19:44:43] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:44:43] BanchoBot: Active mods: NoFail
+[19:44:43] BanchoBot: Players: 3
+[19:44:43] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/5442931 Glasswave       [Team Blue]
+[19:44:43] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/15213139 gecseboti       [Team Blue]
+[19:44:43] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/7521804 parkinsonboy    [Team Red ]
+[19:45:02] DaddyStage: !mp map 3334928 0
+[19:45:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3334928 Hashimoto Miyuki - Yume Miru Mama ni Koi o Shite
+[19:45:02] BanchoBot: Changed match mode to Osu
+[19:45:04] DaddyStage: !mp mods 65
+[19:45:04] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[19:45:06] DaddyStage: !mp timer 120
+[19:45:07] BanchoBot: Countdown aborted
+[19:45:07] BanchoBot: Countdown ends in 2 minutes
+[19:45:25] BanchoBot: MuxauJlo joined in slot 4 for team red.
+[19:45:38] Glasswave: glhf
+[19:45:42] parkinsonboy: glhf
+[19:45:43] gecseboti: glhf
+[19:45:49] BanchoBot: All players are ready
+[19:45:54] MuxauJlo: пдра
+[19:45:56] DaddyStage: !mp settings
+[19:45:57] BanchoBot: Room name: BOP4: (PaDuK Ky) vs (webi wabo), History: https://osu.ppy.sh/mp/105580479
+[19:45:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/3334928 Hashimoto Miyuki - Yume Miru Mama ni Koi o Shite
+[19:45:57] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:45:57] BanchoBot: Active mods: NoFail, DoubleTime
+[19:45:57] BanchoBot: Players: 4
+[19:45:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/5442931 Glasswave       [Team Blue]
+[19:45:57] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15213139 gecseboti       [Team Blue]
+[19:45:57] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7521804 parkinsonboy    [Team Red ]
+[19:45:57] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9053619 MuxauJlo        [Team Red ]
+[19:46:00] DaddyStage: !mp start 5 glhf
+[19:46:01] BanchoBot: Countdown aborted
+[19:46:01] BanchoBot: Match starts in 5 seconds
+[19:46:01] BanchoBot: Queued the match to start in 5 seconds
+[19:46:02] BanchoBot: Match starts in 4 seconds
+[19:46:04] BanchoBot: Match starts in 3 seconds
+[19:46:05] BanchoBot: Good luck, have fun!
+[19:46:07] BanchoBot: The match has started!
+[19:48:30] BanchoBot: Glasswave finished playing (Score: 474264, PASSED).
+[19:48:30] BanchoBot: parkinsonboy finished playing (Score: 467466, PASSED).
+[19:48:30] BanchoBot: gecseboti finished playing (Score: 391798, PASSED).
+[19:48:30] BanchoBot: MuxauJlo finished playing (Score: 458364, PASSED).
+[19:48:30] BanchoBot: The match has finished!
+[19:48:34] BanchoBot: Zoleks joined in slot 5 for team blue.
+[19:48:44] DaddyStage: PaDuK Ky | 3 - 3 | webi wabo // Next Pick: webi wabo
+[19:48:47] DaddyStage: !mp timer 120
+[19:48:48] BanchoBot: Countdown ends in 2 minutes
+[19:48:54] BanchoBot: gecseboti left the game.
+[19:49:49] BanchoBot: Countdown ends in 1 minute
+[19:50:18] BanchoBot: Countdown ends in 30 seconds
+[19:50:35] Glasswave: hd2
+[19:50:39] BanchoBot: Countdown ends in 10 seconds
+[19:50:40] BanchoBot: MuxauJlo left the game.
+[19:50:43] BanchoBot: Countdown ends in 5 seconds
+[19:50:45] BanchoBot: Countdown ends in 4 seconds
+[19:50:46] BanchoBot: Countdown ends in 3 seconds
+[19:50:46] BanchoBot: Countdown ends in 2 seconds
+[19:51:20] BanchoBot: Countdown ends in 1 second
+[19:51:20] BanchoBot: Zoleks moved to slot 4
+[19:51:20] BanchoBot: Countdown finished
+[19:51:20] BanchoBot: Zoleks changed to Red
+[19:51:20] BanchoBot: Frodo55 joined in slot 2 for team red.
+[19:51:21] BanchoBot: Frodo55 changed to Blue
+[19:51:25] DaddyStage: !mp map 3831211 0
+[19:51:26] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3831211 Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Muffin
+[19:51:26] BanchoBot: Changed match mode to Osu
+[19:51:27] DaddyStage: !mp mods 9
+[19:51:28] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[19:51:33] DaddyStage: !mp timer 120
+[19:51:33] BanchoBot: Countdown ends in 2 minutes
+[19:51:39] Frodo55: gøl
+[19:51:41] Frodo55: gl
+[19:51:47] Glasswave: glhf
+[19:51:47] BanchoBot: All players are ready
+[19:51:52] DaddyStage: !mp settings
+[19:51:53] BanchoBot: Room name: BOP4: (PaDuK Ky) vs (webi wabo), History: https://osu.ppy.sh/mp/105580479
+[19:51:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/3831211 Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Muffin
+[19:51:53] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:51:53] BanchoBot: Active mods: NoFail, Hidden
+[19:51:53] BanchoBot: Players: 4
+[19:51:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/5442931 Glasswave       [Team Blue]
+[19:51:53] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14398471 Frodo55         [Team Blue]
+[19:51:53] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7521804 parkinsonboy    [Team Red ]
+[19:51:53] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14860270 Zoleks          [Team Red ]
+[19:51:54] DaddyStage: !mp start 5 glhf
+[19:51:55] parkinsonboy: glhf
+[19:51:55] BanchoBot: Countdown aborted
+[19:51:55] BanchoBot: Match starts in 5 seconds
+[19:51:55] BanchoBot: Queued the match to start in 5 seconds
+[19:51:56] BanchoBot: Match starts in 4 seconds
+[19:51:58] BanchoBot: Match starts in 3 seconds
+[19:51:59] BanchoBot: Good luck, have fun!
+[19:51:59] Zoleks: This map is so uncomfortable
+[19:52:01] BanchoBot: The match has started!
+[19:55:55] BanchoBot: Glasswave finished playing (Score: 337026, PASSED).
+[19:55:55] BanchoBot: parkinsonboy finished playing (Score: 208734, PASSED).
+[19:55:55] BanchoBot: Zoleks finished playing (Score: 267018, PASSED).
+[19:55:56] BanchoBot: Frodo55 finished playing (Score: 493251, PASSED).
+[19:55:56] BanchoBot: The match has finished!
+[19:56:02] BanchoBot: Frodo55 left the game.
+[19:56:08] DaddyStage: PaDuK Ky | 3 - 4 | webi wabo // Next Pick: PaDuK Ky
+[19:56:10] DaddyStage: !mp timer 120
+[19:56:11] BanchoBot: Countdown ends in 2 minutes
+[19:56:21] BanchoBot: parkinsonboy left the game.
+[19:56:31] Zoleks: DT3
+[19:56:40] DaddyStage: no double picks
+[19:56:40] BanchoBot: gecseboti joined in slot 2 for team red.
+[19:56:43] BanchoBot: Glasswave left the game.
+[19:56:45] BanchoBot: Glasswave joined in slot 1 for team blue.
+[19:56:54] Glasswave: treue
+[19:57:11] BanchoBot: Countdown ends in 1 minute
+[19:57:14] Zoleks: Oh
+[19:57:17] BanchoBot: MuxauJlo joined in slot 3 for team blue.
+[19:57:39] BanchoBot: MuxauJlo left the game.
+[19:57:41] BanchoBot: Countdown ends in 30 seconds
+[19:57:54] Zoleks: HR2
+[19:57:59] BanchoBot: Glasswave left the game.
+[19:58:01] BanchoBot: Countdown ends in 10 seconds
+[19:58:06] BanchoBot: gecseboti left the game.
+[19:58:07] BanchoBot: Countdown ends in 5 seconds
+[19:58:07] BanchoBot: Countdown ends in 4 seconds
+[19:58:08] DaddyStage: !mp map 2934166 0
+[19:58:08] BanchoBot: Countdown ends in 3 seconds
+[19:58:10] BanchoBot: Countdown ends in 2 seconds
+[19:58:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2934166 PassCode - ATLAS
+[19:58:10] BanchoBot: Changed match mode to Osu
+[19:58:11] DaddyStage: !mp mods 17
+[19:58:11] BanchoBot: Countdown ends in 1 second
+[19:58:11] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[19:58:12] BanchoBot: Countdown finished
+[19:58:12] BanchoBot: JezusNE joined in slot 1 for team blue.
+[19:58:13] DaddyStage: !mp timer 120
+[19:58:13] BanchoBot: Countdown ends in 2 minutes
+[19:58:29] BanchoBot: MuxauJlo joined in slot 2 for team red.
+[19:58:32] BanchoBot: MuxauJlo moved to slot 3
+[19:58:51] BanchoBot: gecseboti joined in slot 2 for team red.
+[19:58:54] BanchoBot: gecseboti changed to Blue
+[19:59:13] BanchoBot: Countdown ends in 1 minute
+[19:59:26] BanchoBot: All players are ready
+[19:59:29] gecseboti: glhf
+[19:59:29] MuxauJlo: пдра
+[19:59:32] JezusNE: hf
+[19:59:33] DaddyStage: !mp settings
+[19:59:34] BanchoBot: Room name: BOP4: (PaDuK Ky) vs (webi wabo), History: https://osu.ppy.sh/mp/105580479
+[19:59:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/2934166 PassCode - ATLAS
+[19:59:34] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:59:34] BanchoBot: Active mods: NoFail, HardRock
+[19:59:34] BanchoBot: Players: 4
+[19:59:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10762622 JezusNE         [Team Blue]
+[19:59:34] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15213139 gecseboti       [Team Blue]
+[19:59:34] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9053619 MuxauJlo        [Team Red ]
+[19:59:34] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14860270 Zoleks          [Team Red ]
+[19:59:35] DaddyStage: !mp start 5 glhf
+[19:59:35] BanchoBot: Countdown aborted
+[19:59:35] BanchoBot: Match starts in 5 seconds
+[19:59:35] BanchoBot: Queued the match to start in 5 seconds
+[19:59:37] Zoleks: hfhf
+[19:59:37] BanchoBot: Match starts in 4 seconds
+[19:59:38] BanchoBot: Match starts in 3 seconds
+[19:59:39] BanchoBot: Good luck, have fun!
+[19:59:42] BanchoBot: The match has started!
+[20:03:56] BanchoBot: MuxauJlo finished playing (Score: 295556, PASSED).
+[20:03:56] BanchoBot: Zoleks finished playing (Score: 467707, PASSED).
+[20:03:56] BanchoBot: gecseboti finished playing (Score: 308974, PASSED).
+[20:03:56] BanchoBot: JezusNE finished playing (Score: 695491, PASSED).
+[20:03:56] BanchoBot: The match has finished!
+[20:04:09] Zoleks: GGWP
+[20:04:12] BanchoBot: MuxauJlo left the game.
+[20:04:14] Zoleks: Thanks for the ref
+[20:04:15] DaddyStage: Congrats to webi wabo for winning this match! GGWP everyone!
+[20:04:18] JezusNE: gg!
+[20:04:24] BanchoBot: Zoleks left the game.
+[20:04:28] gecseboti: ggwp
+[20:04:29] gecseboti: ty for ref
+[20:04:29] BanchoBot: Glasswave joined in slot 3 for team blue.
+[20:04:30] JezusNE: ty 4 ref!!
+[20:04:35] JezusNE: o7
+[20:04:36] Glasswave: ty for ref !! o/
+[20:04:36] BanchoBot: JezusNE left the game.
+[20:04:37] BanchoBot: gecseboti left the game.
+[20:04:39] BanchoBot: Glasswave left the game.
+[20:04:42] DaddyStage: !mp close
+[20:04:42] BanchoBot: Closed the match

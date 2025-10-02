@@ -1,0 +1,816 @@
+[15:53:18] Joined #mp_101594065
+[15:53:18] BCraftMG: !mp settings
+[15:53:19] BanchoBot: Room name: STT3: (Lux Aeterna) vs (:froggy:), History: https://osu.ppy.sh/mp/101594065
+[15:53:19] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[15:53:19] BanchoBot: Players: 0
+[15:53:36] BCraftMG: !mp set 2 3 12
+[15:53:37] BanchoBot: Changed match settings to 12 slots, TeamVs, ScoreV2
+[15:53:37] BCraftMG: !mp invite #7071856
+[15:53:38] BanchoBot: Invited Memento Vivi to the room
+[15:53:41] BCraftMG: !mp invite #11918602
+[15:53:42] BanchoBot: Invited Blethz to the room
+[15:56:24] BanchoBot: Blethz joined in slot 1 for team blue.
+[15:56:33] BCraftMG: hi
+[15:56:37] BCraftMG: do you want warm up
+[15:56:42] Blethz: hi
+[15:56:42] Blethz: yeah
+[15:56:49] BCraftMG: !mp host Blethz
+[15:56:51] BanchoBot: Blethz became the host.
+[15:56:51] BanchoBot: Changed match host to Blethz
+[15:56:53] BanchoBot: Beatmap changed to: Risshuu feat. Choko - Take [wyrio's Another] (https://osu.ppy.sh/b/2848365)
+[15:56:59] BanchoBot: Host is changing map...
+[15:57:01] BCraftMG: Warmups must be between 4.0 and 7.0 stars and must be 3:30 in drain time or less after mods are applied. A warmup map cannot be from the current week's pool.
+[15:57:59] BanchoBot: Beatmap changed to: FROZEN QUALIA - Image Liner [stt3 warmup] (https://osu.ppy.sh/b/3665456)
+[15:58:35] BCraftMG: lol what
+[15:58:55] Blethz: froggy
+[15:59:07] BanchoBot: TheBushy joined in slot 2 for team red.
+[15:59:12] TheBushy: :froggy:
+[15:59:15] Blethz: :froggy:
+[15:59:16] BanchoBot: TheBushy changed to Blue
+[16:00:36] BCraftMG: !mp invite #7071856
+[16:00:37] BanchoBot: Invited Memento Vivi to the room
+[16:00:39] BCraftMG: !mp invite #7071856
+[16:00:44] BanchoBot: Memento Vivi joined in slot 3 for team blue.
+[16:00:46] BanchoBot: Blethz moved to slot 4
+[16:00:47] Blethz: o/
+[16:00:50] BCraftMG: o/
+[16:00:55] Memento_Vivi: hello once again!
+[16:00:59] TheBushy: o/
+[16:01:06] BCraftMG: Lux Aeterna will be red; :froggy: will be blue
+[16:01:13] BanchoBot: Memento Vivi moved to slot 1
+[16:01:14] BanchoBot: Memento Vivi changed to Red
+[16:01:20] Memento_Vivi: slot 1-3 for us?
+[16:01:28] Blethz: yea
+[16:01:42] BanchoBot: TheBushy moved to slot 5
+[16:02:06] BCraftMG: I mean this match is not streamed so you can probably stay in whatever slot you want
+[16:02:08] BanchoBot: Racers03 joined in slot 2 for team red.
+[16:02:12] BanchoBot: Racers03 moved to slot 6
+[16:02:15] BCraftMG: but Lux 1-3 frog 4-6 is preferred
+[16:02:31] BanchoBot: Racers03 changed to Blue
+[16:02:45] BCraftMG: !mp invite #2800253
+[16:02:46] BanchoBot: Invited fnayR to the room
+[16:03:06] BCraftMG: !mp invite #10212581
+[16:03:07] BanchoBot: User not found
+[16:03:36] BCraftMG: !mp invite #15392570
+[16:03:37] BanchoBot: Invited MusaEsa to the room
+[16:03:58] BanchoBot: MusaEsa joined in slot 2 for team red.
+[16:03:59] BCraftMG: !mp invite Xicyte
+[16:04:00] BanchoBot: User not found
+[16:04:27] BanchoBot: Image Liner joined in slot 3 for team blue.
+[16:04:47] Image_Liner: o/
+[16:05:01] BCraftMG: you guys can start the warmup ^^
+[16:05:03] BanchoBot: fnayR joined in slot 7 for team blue.
+[16:05:04] Blethz: o/
+[16:05:04] Memento_Vivi: o/
+[16:05:11] Blethz: Image Liner???
+[16:05:12] TheBushy: :3c
+[16:05:14] Blethz: !?
+[16:05:24] Image_Liner: yea image liner by frozen quailia
+[16:05:28] TheBushy: image liner - image liner
+[16:05:34] BanchoBot: fnayR changed to Red
+[16:05:34] Racers03: played by image liner
+[16:05:41] Memento_Vivi: image liner!
+[16:05:48] BCraftMG: Lux Aeterna will be red; :froggy: will be blue
+[16:05:51] Image_Liner: image liner
+[16:05:58] Racers03: lesgo
+[16:06:03] BCraftMG: !mp invite #10212581
+[16:06:03] BanchoBot: User not found
+[16:06:07] BanchoBot: All players are ready
+[16:06:09] BanchoBot: The match has started!
+[16:06:13] Blethz: image liner!
+[16:06:57] BCraftMG: !mp settings
+[16:06:58] BanchoBot: Room name: STT3: (Lux Aeterna) vs (:froggy:), History: https://osu.ppy.sh/mp/101594065
+[16:06:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/3665456 FROZEN QUALIA - Image Liner [stt3 warmup]
+[16:06:58] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[16:06:58] BanchoBot: Active mods: Freemod
+[16:06:58] BanchoBot: Players: 7
+[16:06:58] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/7071856 Memento Vivi    [Team Red  / NoFail]
+[16:06:58] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/15392570 MusaEsa         [Team Red ]
+[16:06:58] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/12443104 Image Liner     [Team Blue]
+[16:06:58] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/11918602 Blethz          [Host / Team Blue]
+[16:06:58] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/11305115 TheBushy        [Team Blue / NoFail, Easy, Hidden]
+[16:06:58] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/11621976 Racers03        [Team Blue / NoFail, Hidden]
+[16:06:58] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/2800253 fnayR           [Team Red  / NoFail]
+[16:07:21] BCraftMG: i can see the pattern
+[16:07:35] BanchoBot: Racers03 finished playing (Score: 407804, PASSED).
+[16:07:35] BanchoBot: fnayR finished playing (Score: 354968, PASSED).
+[16:07:35] BanchoBot: TheBushy finished playing (Score: 137711, PASSED).
+[16:07:37] BanchoBot: Image Liner finished playing (Score: 874838, PASSED).
+[16:07:38] BanchoBot: Blethz finished playing (Score: 531156, PASSED).
+[16:07:39] BanchoBot: MusaEsa finished playing (Score: 551120, PASSED).
+[16:07:39] BanchoBot: Memento Vivi finished playing (Score: 437205, PASSED).
+[16:07:39] BanchoBot: The match has finished!
+[16:07:44] Memento_Vivi: froggy
+[16:07:45] Racers03: nice zan'ei pattern
+[16:07:47] Racers03: poggers
+[16:07:56] Image_Liner: froggy
+[16:07:59] TheBushy: imager liner fc
+[16:08:04] BCraftMG: Lux Aeterna do you want warm up?
+[16:08:08] Blethz: image liner fcs image liner..
+[16:08:17] Memento_Vivi: make this full lenght no froggy slider and you will have a farmable map
+[16:08:18] Image_Liner: insane...
+[16:08:18] Memento_Vivi: also yes
+[16:08:25] BCraftMG: !mp host Memento_Vivi
+[16:08:25] BanchoBot: Memento Vivi became the host.
+[16:08:25] BanchoBot: Changed match host to Memento Vivi
+[16:08:29] BanchoBot: Host is changing map...
+[16:08:32] BCraftMG: yo the command worked
+[16:08:37] Racers03: seamless transition to the zan'ei patterns
+[16:08:38] Image_Liner: force bns to rank froggy slider
+[16:08:40] BCraftMG: Warmups must be between 4.0 and 7.0 stars and must be 3:30 in drain time or less after mods are applied. A warmup map cannot be from the current week's pool.
+[16:08:45] BanchoBot: Beatmap changed to: Frums - 24eeev0-$ [bpm(1) = 100; for (i = 2 : 24) {bpm(i) = bpm(i-1) + 8 + (floor((i-1) / 6) * 3)}] (https://osu.ppy.sh/b/2271666)
+[16:08:55] Racers03: oh comon
+[16:08:58] Racers03: :trollanguish:
+[16:09:38] Image_Liner: wonderful diff name
+[16:09:42] BanchoBot: Xicyte joined in slot 8 for team red.
+[16:09:52] Blethz: i cant do math
+[16:09:53] Memento_Vivi: Yeah
+[16:09:57] Memento_Vivi: me neither
+[16:09:59] Memento_Vivi: but its aes
+[16:10:02] Memento_Vivi: thats what matters
+[16:10:14] Image_Liner: !mp start
+[16:10:20] BCraftMG: !mp kick
+[16:10:21] BanchoBot: No username or #ID provided
+[16:10:27] Image_Liner: D:
+[16:10:28] BanchoBot: All players are ready
+[16:10:29] TheBushy: !roll obama
+[16:10:29] BanchoBot: TheBushy rolls 44 point(s)
+[16:10:30] BanchoBot: The match has started!
+[16:10:48] BCraftMG: i can literally mp close :eyes:
+[16:13:03] BanchoBot: fnayR finished playing (Score: 624295, PASSED).
+[16:13:03] BanchoBot: Xicyte finished playing (Score: 451210, PASSED).
+[16:13:03] BanchoBot: Racers03 finished playing (Score: 253871, PASSED).
+[16:13:03] BanchoBot: Blethz finished playing (Score: 684825, PASSED).
+[16:13:03] BanchoBot: Image Liner finished playing (Score: 840979, PASSED).
+[16:13:03] BanchoBot: MusaEsa finished playing (Score: 377355, PASSED).
+[16:13:04] BanchoBot: TheBushy finished playing (Score: 549578, PASSED).
+[16:13:04] BanchoBot: Memento Vivi finished playing (Score: 472079, PASSED).
+[16:13:04] BanchoBot: The match has finished!
+[16:13:09] TheBushy: wtf image liner
+[16:13:12] BCraftMG: !mp clearhost
+[16:13:13] BanchoBot: Cleared match host
+[16:13:18] Image_Liner: 92
+[16:13:20] Blethz: ok image linerer
+[16:13:30] Racers03: the image liner buff
+[16:13:30] BanchoBot: fnayR left the game.
+[16:13:34] BCraftMG: first to !roll for protect order
+[16:13:42] Blethz: !roll
+[16:13:42] BanchoBot: Blethz rolls 74 point(s)
+[16:13:45] Memento_Vivi: !roll
+[16:13:45] BanchoBot: Memento Vivi rolls 88 point(s)
+[16:13:49] Blethz: wtf
+[16:13:54] MusaEsa: OMG
+[16:13:54] Memento_Vivi: ez
+[16:13:55] Racers03: :trollanguish
+[16:13:56] MusaEsa: caps
+[16:13:57] Image_Liner: gapped
+[16:13:59] Racers03: never lucky
+[16:13:59] Memento_Vivi: easy...
+[16:14:04] Blethz: "first to !roll for protect order"
+[16:14:07] Blethz: does that mean i get to protect
+[16:14:08] Blethz: :froggy:
+[16:14:15] BCraftMG: Lux Aeterna you wanna protect first or second
+[16:14:15] BCraftMG: what
+[16:14:15] Memento_Vivi: nm2 protected
+[16:14:20] BCraftMG: okay
+[16:14:21] Memento_Vivi: first
+[16:14:23] Memento_Vivi: !
+[16:14:35] BCraftMG: :froggy: your protect please
+[16:14:38] BCraftMG: you sent in late
+[16:15:23] Blethz: nm1
+[16:15:33] BCraftMG: ooo
+[16:15:37] BCraftMG: okay
+[16:15:45] BCraftMG: next to !roll for pick and ban orders
+[16:15:54] Memento_Vivi: !roll
+[16:15:54] BanchoBot: Memento Vivi rolls 75 point(s)
+[16:16:10] Blethz: !roll
+[16:16:10] BanchoBot: Blethz rolls 59 point(s)
+[16:16:15] Blethz: wtf
+[16:16:19] Racers03: actually cursed
+[16:16:21] Image_Liner: unlcuky
+[16:16:29] BCraftMG: Lux Aeterna, please choose your pick or ban order
+[16:16:43] Memento_Vivi: We ban second
+[16:16:46] BanchoBot: Image Liner moved to slot 12
+[16:16:59] BCraftMG: :froggy: please choose your pick order
+[16:18:21] Blethz: second pick
+[16:18:35] BCraftMG: okay
+[16:18:40] BCraftMG: :froggy: your first ban?
+[16:18:46] BCraftMG: !mp timer 120
+[16:18:46] BanchoBot: Countdown ends in 2 minutes
+[16:19:03] Blethz: nm4
+[16:19:12] BCraftMG: Lux Aeterna, your ban please
+[16:19:13] BCraftMG: !mp timer 120
+[16:19:14] BanchoBot: Countdown aborted
+[16:19:14] BanchoBot: Countdown ends in 2 minutes
+[16:19:17] Memento_Vivi: hd2
+[16:19:23] Image_Liner: firetruck
+[16:19:25] BCraftMG: Lux Aeterna | 0 - 0 | :froggy: // First Pick: Lux Aeterna
+[16:19:27] BCraftMG: !mp timer 120
+[16:19:28] BanchoBot: Countdown aborted
+[16:19:28] BanchoBot: Countdown ends in 2 minutes
+[16:19:33] Memento_Vivi: nm2
+[16:19:35] BanchoBot: Xicyte moved to slot 3
+[16:19:39] BCraftMG: wo
+[16:19:40] BanchoBot: Memento Vivi left the game.
+[16:19:43] BanchoBot: TheBushy left the game.
+[16:19:47] BCraftMG: !mp map 2680344 0
+[16:19:48] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2680344 AVTechNO! - boku-boku SuketchP Remix
+[16:19:48] BanchoBot: Changed match mode to Osu
+[16:19:49] BCraftMG: !mp mods 1
+[16:19:50] BanchoBot: Image Liner moved to slot 5
+[16:19:50] BanchoBot: fnayR joined in slot 1 for team blue.
+[16:19:50] BanchoBot: Enabled NoFail, disabled FreeMod
+[16:19:52] BCraftMG: !mp timer 120
+[16:19:54] BanchoBot: Countdown aborted
+[16:19:54] BanchoBot: Countdown ends in 2 minutes
+[16:20:00] BanchoBot: fnayR changed to Red
+[16:20:15] BanchoBot: All players are ready
+[16:20:16] Blethz: glhf
+[16:20:16] BCraftMG: !mp settings
+[16:20:17] BanchoBot: Room name: STT3: (Lux Aeterna) vs (:froggy:), History: https://osu.ppy.sh/mp/101594065
+[16:20:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/2680344 AVTechNO! - boku-boku SuketchP Remix
+[16:20:17] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[16:20:17] BanchoBot: Active mods: NoFail
+[16:20:17] BanchoBot: Players: 6
+[16:20:17] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/2800253 fnayR           [Team Red ]
+[16:20:17] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15392570 MusaEsa         [Team Red ]
+[16:20:17] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10212581 Xicyte          [Team Red ]
+[16:20:17] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11918602 Blethz          [Team Blue]
+[16:20:17] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12443104 Image Liner     [Team Blue]
+[16:20:17] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11621976 Racers03        [Team Blue]
+[16:20:19] BCraftMG: glhf
+[16:20:19] Racers03: glhf
+[16:20:22] BCraftMG: !mp start 5
+[16:20:23] BanchoBot: Countdown aborted
+[16:20:23] BanchoBot: Match starts in 5 seconds
+[16:20:23] BanchoBot: Queued the match to start in 5 seconds
+[16:20:24] BanchoBot: Match starts in 4 seconds
+[16:20:25] Image_Liner: glgl
+[16:20:25] BanchoBot: Match starts in 3 seconds
+[16:20:26] BanchoBot: Good luck, have fun!
+[16:20:26] Xicyte: glhf
+[16:20:28] Image_Liner: hf
+[16:20:29] BanchoBot: The match has started!
+[16:22:42] BanchoBot: Image Liner finished playing (Score: 871605, PASSED).
+[16:22:43] BanchoBot: Blethz finished playing (Score: 945037, PASSED).
+[16:22:43] BanchoBot: Racers03 finished playing (Score: 890363, PASSED).
+[16:22:43] BanchoBot: Xicyte finished playing (Score: 964511, PASSED).
+[16:22:43] BanchoBot: fnayR finished playing (Score: 923365, PASSED).
+[16:22:45] BanchoBot: MusaEsa finished playing (Score: 991653, PASSED).
+[16:22:45] BanchoBot: The match has finished!
+[16:22:56] Xicyte: wow
+[16:22:59] BCraftMG: Lux Aeterna | 1 - 0 | :froggy: // Next Pick: :froggy:
+[16:23:02] BCraftMG: !mp timer 120
+[16:23:02] BanchoBot: Countdown ends in 2 minutes
+[16:23:04] Image_Liner: 6 way fc lol
+[16:23:17] BCraftMG: when sv2 is actually acc game
+[16:23:26] Xicyte: it always has been
+[16:23:26] Image_Liner: true...
+[16:23:42] BanchoBot: TheBushy joined in slot 7 for team blue.
+[16:23:48] Blethz: ez1
+[16:23:51] BanchoBot: Racers03 left the game.
+[16:23:54] BanchoBot: TheBushy moved to slot 6
+[16:24:02] BCraftMG: !mp map 2848365 0
+[16:24:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2848365 Risshuu feat. Choko - Take
+[16:24:02] BanchoBot: Changed match mode to Osu
+[16:24:03] BanchoBot: Countdown ends in 1 minute
+[16:24:06] BCraftMG: !mp mods EZ NF
+[16:24:07] TheBushy: take
+[16:24:07] BanchoBot: Enabled NoFail, Easy, disabled FreeMod
+[16:24:09] BCraftMG: !mp timer 102
+[16:24:10] BanchoBot: Countdown aborted
+[16:24:10] BanchoBot: Countdown ends in 1 minute and 42 seconds
+[16:24:17] BCraftMG: !mp timer 120
+[16:24:17] BanchoBot: Countdown aborted
+[16:24:17] BanchoBot: Countdown ends in 2 minutes
+[16:24:22] BCraftMG: no one saw anything
+[16:24:23] TheBushy: t t t t t taketaketaketaketaketaketaketaketaketake
+[16:24:24] Image_Liner: take
+[16:24:27] TheBushy: glhf!
+[16:24:34] Image_Liner: 102
+[16:24:42] Image_Liner: :tf:
+[16:24:46] BanchoBot: All players are ready
+[16:24:50] Blethz: t t t taketaketaketaketaketaketaketaketake
+[16:24:52] BCraftMG: !mp settings
+[16:24:53] BanchoBot: Room name: STT3: (Lux Aeterna) vs (:froggy:), History: https://osu.ppy.sh/mp/101594065
+[16:24:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/2848365 Risshuu feat. Choko - Take
+[16:24:53] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[16:24:53] BanchoBot: Active mods: NoFail, Easy
+[16:24:53] BanchoBot: Players: 6
+[16:24:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/2800253 fnayR           [Team Red ]
+[16:24:53] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15392570 MusaEsa         [Team Red ]
+[16:24:53] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10212581 Xicyte          [Team Red ]
+[16:24:53] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11918602 Blethz          [Team Blue]
+[16:24:53] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12443104 Image Liner     [Team Blue]
+[16:24:53] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11305115 TheBushy        [Team Blue]
+[16:24:57] BCraftMG: !mp start 10
+[16:24:57] BanchoBot: Countdown aborted
+[16:24:57] BanchoBot: Match starts in 10 seconds
+[16:24:57] BanchoBot: Queued the match to start in 10 seconds
+[16:24:59] Image_Liner: glglgl hfhf
+[16:25:02] TheBushy: hajimemashou
+[16:25:02] Blethz: glhf
+[16:25:03] MusaEsa: gl
+[16:25:03] BanchoBot: Match starts in 5 seconds
+[16:25:04] BanchoBot: Match starts in 4 seconds
+[16:25:04] BanchoBot: Match starts in 3 seconds
+[16:25:05] BanchoBot: Good luck, have fun!
+[16:25:08] BanchoBot: The match has started!
+[16:27:37] BanchoBot: TheBushy finished playing (Score: 204251, PASSED).
+[16:27:37] BanchoBot: MusaEsa finished playing (Score: 109514, PASSED).
+[16:27:37] BanchoBot: fnayR finished playing (Score: 46133, PASSED).
+[16:27:37] BanchoBot: Image Liner finished playing (Score: 195690, PASSED).
+[16:27:37] BanchoBot: Xicyte finished playing (Score: 58008, PASSED).
+[16:27:38] BanchoBot: Blethz finished playing (Score: 444537, PASSED).
+[16:27:38] BanchoBot: The match has finished!
+[16:27:44] TheBushy: wtf blethz
+[16:27:57] BCraftMG: Lux Aeterna | 1 - 1 | :froggy: // Next Pick: Lux Aeterna
+[16:28:00] BCraftMG: !mp timer 120
+[16:28:00] BanchoBot: Countdown ends in 2 minutes
+[16:28:06] Image_Liner: blethz...
+[16:28:10] Blethz: wtf..
+[16:28:12] BCraftMG: watafak
+[16:29:01] BanchoBot: Countdown ends in 1 minute
+[16:29:31] BanchoBot: Countdown ends in 30 seconds
+[16:29:52] BanchoBot: Countdown ends in 10 seconds
+[16:29:56] BanchoBot: Countdown ends in 5 seconds
+[16:29:58] BanchoBot: Countdown ends in 4 seconds
+[16:29:58] BanchoBot: Countdown ends in 3 seconds
+[16:29:59] BanchoBot: Countdown ends in 2 seconds
+[16:29:59] Xicyte: dt2
+[16:30:00] fnayR: dt2
+[16:30:00] BanchoBot: Countdown ends in 1 second
+[16:30:01] BanchoBot: Countdown finished
+[16:30:13] Blethz: wata
+[16:30:15] BCraftMG: you guy are close
+[16:30:21] BanchoBot: TheBushy left the game.
+[16:30:23] BCraftMG: !mp map 3340118 0
+[16:30:24] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3340118 Cres. - One night in a harem
+[16:30:24] BanchoBot: Changed match mode to Osu
+[16:30:24] BCraftMG: !mp mods 65
+[16:30:25] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[16:30:26] BCraftMG: !Mp timer 120
+[16:30:27] BanchoBot: Countdown ends in 2 minutes
+[16:30:59] BanchoBot: TheBushy joined in slot 6 for team red.
+[16:31:27] BanchoBot: Countdown ends in 1 minute
+[16:31:45] BanchoBot: TheBushy changed to Blue
+[16:31:52] BanchoBot: All players are ready
+[16:31:53] TheBushy: glhf!
+[16:31:55] BCraftMG: !mp settings
+[16:31:56] BanchoBot: Room name: STT3: (Lux Aeterna) vs (:froggy:), History: https://osu.ppy.sh/mp/101594065
+[16:31:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/3340118 Cres. - One night in a harem
+[16:31:56] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[16:31:56] BanchoBot: Active mods: NoFail, DoubleTime
+[16:31:56] BanchoBot: Players: 6
+[16:31:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/2800253 fnayR           [Team Red ]
+[16:31:56] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15392570 MusaEsa         [Team Red ]
+[16:31:56] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10212581 Xicyte          [Team Red ]
+[16:31:56] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11918602 Blethz          [Team Blue]
+[16:31:56] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12443104 Image Liner     [Team Blue]
+[16:31:56] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11305115 TheBushy        [Team Blue]
+[16:31:57] Xicyte: glhf
+[16:31:58] BanchoBot: Countdown ends in 30 seconds
+[16:31:58] MusaEsa: gl
+[16:32:00] BCraftMG: !mp start 10
+[16:32:01] BanchoBot: Countdown aborted
+[16:32:01] BanchoBot: Match starts in 10 seconds
+[16:32:01] BanchoBot: Queued the match to start in 10 seconds
+[16:32:04] Blethz: glhf
+[16:32:06] BanchoBot: Match starts in 5 seconds
+[16:32:08] BanchoBot: Match starts in 4 seconds
+[16:32:08] BanchoBot: Match starts in 3 seconds
+[16:32:09] BanchoBot: Good luck, have fun!
+[16:32:11] BanchoBot: The match has started!
+[16:33:47] BanchoBot: fnayR finished playing (Score: 697611, PASSED).
+[16:33:47] BanchoBot: TheBushy finished playing (Score: 384443, PASSED).
+[16:33:49] BanchoBot: Xicyte finished playing (Score: 965888, PASSED).
+[16:33:49] BanchoBot: MusaEsa finished playing (Score: 1036295, PASSED).
+[16:33:49] BanchoBot: Blethz finished playing (Score: 814586, PASSED).
+[16:33:50] BanchoBot: Image Liner finished playing (Score: 868973, PASSED).
+[16:33:50] BanchoBot: The match has finished!
+[16:34:03] BCraftMG: Lux Aeterna | 2 - 1 | :froggy: // Next Pick: :froggy:
+[16:34:04] BCraftMG: !mp timer 120
+[16:34:05] BanchoBot: Countdown ends in 2 minutes
+[16:34:19] BCraftMG: just gonna
+[16:34:19] BCraftMG: If a timer runs out due to a team failing to protect, ban, or pick, the team will forfeit that choice and as punishment for delay of game, their opponent will be given an additional choice in protecting, picking, or banning (depending on whichever decision is currently underway). A 3 second buffer for Bancho is permitted after the timer has concluded, strictly according to the referee's IRC and no other source.
+[16:34:23] Xicyte: what bo is this
+[16:34:26] BCraftMG: Bo9
+[16:34:32] Xicyte: o ok
+[16:34:34] Xicyte: t
+[16:34:34] Blethz: i se
+[16:34:34] Xicyte: y
+[16:35:06] Blethz: nm1
+[16:35:06] BanchoBot: Countdown ends in 1 minute
+[16:35:07] BanchoBot: TheBushy left the game.
+[16:35:15] BCraftMG: !mp map 3137688 0
+[16:35:16] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3137688 JIN - Additional Memory
+[16:35:16] BanchoBot: Changed match mode to Osu
+[16:35:18] BCraftMG: !mp mods 1
+[16:35:19] BanchoBot: Enabled NoFail, disabled FreeMod
+[16:35:21] BCraftMG: !mp timer 120
+[16:35:21] BanchoBot: Countdown aborted
+[16:35:21] BanchoBot: Countdown ends in 2 minutes
+[16:35:24] BanchoBot: fnayR moved to slot 8
+[16:35:35] BanchoBot: fnayR left the game.
+[16:35:41] BanchoBot: Memento Vivi joined in slot 1 for team blue.
+[16:35:54] BanchoBot: Memento Vivi changed to Red
+[16:36:22] BanchoBot: Countdown ends in 1 minute
+[16:36:45] BanchoBot: Touruu joined in slot 6 for team red.
+[16:36:51] BanchoBot: Countdown ends in 30 seconds
+[16:36:56] BanchoBot: Touruu changed to Blue
+[16:37:12] BanchoBot: Countdown ends in 10 seconds
+[16:37:16] BanchoBot: Countdown ends in 5 seconds
+[16:37:18] BanchoBot: Countdown ends in 4 seconds
+[16:37:19] BanchoBot: Countdown ends in 3 seconds
+[16:37:20] BanchoBot: Countdown ends in 2 seconds
+[16:37:21] BCraftMG: ready up please
+[16:37:21] BanchoBot: Countdown ends in 1 second
+[16:37:21] BanchoBot: All players are ready
+[16:37:21] BanchoBot: Countdown finished
+[16:37:25] BCraftMG: woah
+[16:37:27] MusaEsa: sorry
+[16:37:28] BCraftMG: !mp settings
+[16:37:29] BanchoBot: Room name: STT3: (Lux Aeterna) vs (:froggy:), History: https://osu.ppy.sh/mp/101594065
+[16:37:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/3137688 JIN - Additional Memory
+[16:37:29] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[16:37:29] BanchoBot: Active mods: NoFail
+[16:37:29] BanchoBot: Players: 6
+[16:37:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7071856 Memento Vivi    [Team Red ]
+[16:37:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15392570 MusaEsa         [Team Red ]
+[16:37:29] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10212581 Xicyte          [Team Red ]
+[16:37:29] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11918602 Blethz          [Team Blue]
+[16:37:29] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12443104 Image Liner     [Team Blue]
+[16:37:29] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/9484080 Touruu          [Team Blue]
+[16:37:31] BCraftMG: np
+[16:37:32] BCraftMG: glhf
+[16:37:34] BCraftMG: !mp start 10
+[16:37:34] BanchoBot: Match starts in 10 seconds
+[16:37:34] BanchoBot: Queued the match to start in 10 seconds
+[16:37:36] Blethz: glhf
+[16:37:37] Xicyte: glhf
+[16:37:38] Image_Liner: glgl
+[16:37:40] BanchoBot: Match starts in 5 seconds
+[16:37:40] MusaEsa: gl
+[16:37:42] BanchoBot: Match starts in 4 seconds
+[16:37:42] Memento_Vivi: glhf!!
+[16:37:42] Blethz: banger
+[16:37:42] BanchoBot: Match starts in 3 seconds
+[16:37:43] Blethz: come
+[16:37:43] BanchoBot: Good luck, have fun!
+[16:37:44] Blethz: kagerou proejrc
+[16:37:45] BanchoBot: The match has started!
+[16:41:13] BanchoBot: Touruu finished playing (Score: 973218, PASSED).
+[16:41:14] BanchoBot: Image Liner finished playing (Score: 770187, PASSED).
+[16:41:17] BanchoBot: MusaEsa finished playing (Score: 438156, PASSED).
+[16:41:17] BanchoBot: Blethz finished playing (Score: 807723, PASSED).
+[16:41:17] BanchoBot: Xicyte finished playing (Score: 659955, PASSED).
+[16:41:17] BanchoBot: Memento Vivi finished playing (Score: 601597, PASSED).
+[16:41:17] BanchoBot: The match has finished!
+[16:41:30] BCraftMG: Lux Aeterna | 2 - 2 | :froggy: // Next Pick: Lux Aeterna
+[16:41:33] BCraftMG: !mp timer 120
+[16:41:34] BanchoBot: Countdown ends in 2 minutes
+[16:41:48] BanchoBot: Touruu left the game.
+[16:42:14] Xicyte: dt1
+[16:42:15] Memento_Vivi: 5 1 miss plays
+[16:42:18] Memento_Vivi: nm1 curse
+[16:42:25] BanchoBot: fnayR joined in slot 6 for team red.
+[16:42:30] BanchoBot: Memento Vivi left the game.
+[16:42:31] BanchoBot: fnayR moved to slot 7
+[16:42:31] BanchoBot: fnayR moved to slot 1
+[16:42:35] BanchoBot: Countdown ends in 1 minute
+[16:42:41] BCraftMG: !mp map 195946 0
+[16:42:42] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/195946 Usa - Shining/STREAM
+[16:42:42] BanchoBot: Changed match mode to Osu
+[16:42:43] BCraftMG: !mp mods 65
+[16:42:44] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[16:42:46] BCraftMG: !mp timer 120
+[16:42:46] BanchoBot: Countdown aborted
+[16:42:46] BanchoBot: Countdown ends in 2 minutes
+[16:42:47] BCraftMG: i got lost
+[16:43:28] BanchoBot: TheBushy joined in slot 6 for team red.
+[16:43:33] BanchoBot: TheBushy left the game.
+[16:43:40] BanchoBot: Touruu joined in slot 6 for team red.
+[16:43:45] BanchoBot: Touruu changed to Blue
+[16:43:47] BanchoBot: Countdown ends in 1 minute
+[16:44:01] Touruu: oh hi ryan
+[16:44:02] fnayR: GLHF
+[16:44:08] fnayR: whats up
+[16:44:10] Image_Liner: glgl
+[16:44:14] Xicyte: glhf
+[16:44:15] Blethz: glhf
+[16:44:18] BanchoBot: Countdown ends in 30 seconds
+[16:44:18] MusaEsa: gl
+[16:44:22] BCraftMG: !mp settings
+[16:44:24] BanchoBot: Room name: STT3: (Lux Aeterna) vs (:froggy:), History: https://osu.ppy.sh/mp/101594065
+[16:44:24] BanchoBot: Beatmap: https://osu.ppy.sh/b/195946 Usa - Shining/STREAM
+[16:44:24] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[16:44:24] BanchoBot: Active mods: NoFail, DoubleTime
+[16:44:24] BanchoBot: Players: 6
+[16:44:24] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/2800253 fnayR           [Team Red ]
+[16:44:24] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15392570 MusaEsa         [Team Red ]
+[16:44:24] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10212581 Xicyte          [Team Red ]
+[16:44:24] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11918602 Blethz          [Team Blue]
+[16:44:24] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12443104 Image Liner     [Team Blue]
+[16:44:24] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/9484080 Touruu          [Team Blue]
+[16:44:27] BanchoBot: All players are ready
+[16:44:29] BCraftMG: !mp settings
+[16:44:30] BanchoBot: Room name: STT3: (Lux Aeterna) vs (:froggy:), History: https://osu.ppy.sh/mp/101594065
+[16:44:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/195946 Usa - Shining/STREAM
+[16:44:30] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[16:44:30] BanchoBot: Active mods: NoFail, DoubleTime
+[16:44:30] BanchoBot: Players: 6
+[16:44:30] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/2800253 fnayR           [Team Red ]
+[16:44:30] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15392570 MusaEsa         [Team Red ]
+[16:44:30] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10212581 Xicyte          [Team Red ]
+[16:44:30] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11918602 Blethz          [Team Blue]
+[16:44:30] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12443104 Image Liner     [Team Blue]
+[16:44:30] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/9484080 Touruu          [Team Blue]
+[16:44:31] Touruu: im still kinda angry at your team but wtv
+[16:44:33] Touruu: glhf
+[16:44:34] BCraftMG: !mp start 10
+[16:44:35] BanchoBot: Countdown aborted
+[16:44:35] BanchoBot: Match starts in 10 seconds
+[16:44:35] BanchoBot: Queued the match to start in 10 seconds
+[16:44:42] BanchoBot: Match starts in 5 seconds
+[16:44:42] BanchoBot: Match starts in 4 seconds
+[16:44:43] BanchoBot: Match starts in 3 seconds
+[16:44:44] Blethz: glh
+[16:44:44] BanchoBot: Good luck, have fun!
+[16:44:44] Blethz: f
+[16:44:47] BanchoBot: The match has started!
+[16:47:34] BanchoBot: MusaEsa finished playing (Score: 994203, PASSED).
+[16:47:35] BanchoBot: Touruu finished playing (Score: 671647, PASSED).
+[16:47:35] BanchoBot: fnayR finished playing (Score: 718472, PASSED).
+[16:47:35] BanchoBot: Blethz finished playing (Score: 736606, PASSED).
+[16:47:36] BanchoBot: Xicyte finished playing (Score: 886364, PASSED).
+[16:47:36] BanchoBot: Image Liner finished playing (Score: 1087384, PASSED).
+[16:47:36] BanchoBot: The match has finished!
+[16:48:00] BCraftMG: Lux Aeterna | 3 - 2 | :froggy: // Next Pick: :froggy:
+[16:48:05] BCraftMG: !mp timer 120
+[16:48:05] BanchoBot: Countdown ends in 2 minutes
+[16:48:56] BanchoBot: Touruu left the game.
+[16:49:05] BanchoBot: Countdown ends in 1 minute
+[16:49:36] BanchoBot: Countdown ends in 30 seconds
+[16:49:45] Blethz: fm1
+[16:49:55] BanchoBot: fnayR moved to slot 8
+[16:49:55] BanchoBot: Countdown ends in 10 seconds
+[16:49:56] BCraftMG: !mp map 1939988 0
+[16:49:56] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1939988 sasakure.UK - Sennen to Rasen, Chiru Mono o feat. Sui
+[16:49:56] BanchoBot: Changed match mode to Osu
+[16:49:59] BCraftMG: !mp mods 1 Freemod
+[16:50:00] BanchoBot: Disabled all mods, enabled FreeMod
+[16:50:01] BCraftMG: !mp timer 120
+[16:50:01] BanchoBot: Countdown ends in 5 seconds
+[16:50:01] BanchoBot: Countdown ends in 4 seconds
+[16:50:03] BanchoBot: Countdown ends in 3 seconds
+[16:50:03] BanchoBot: Countdown aborted
+[16:50:03] BanchoBot: Countdown ends in 2 minutes
+[16:50:09] fnayR: what are the fm rules
+[16:50:11] fnayR: forgor
+[16:50:17] BCraftMG: Each team must have at least 3 mods.
+[16:50:37] BanchoBot: fnayR moved to slot 11
+[16:50:38] BanchoBot: fnayR moved to slot 9
+[16:50:41] BCraftMG: Teams must meet the following criteria in a FM pick. 1 player with HD, but not HR. 1 player with HR, but not HD. Each team must have at least 3 mods. So long as the above criteria are met, any combination of mods is allowed.
+[16:50:42] BanchoBot: Memento Vivi joined in slot 1 for team blue.
+[16:50:57] Image_Liner: so 1 hdhr and 1 hd is ok?
+[16:51:03] BanchoBot: Memento Vivi changed to Red
+[16:51:03] BanchoBot: Countdown ends in 1 minute
+[16:51:15] BanchoBot: fnayR left the game.
+[16:51:25] BanchoBot: Touruu joined in slot 6 for team red.
+[16:51:26] BCraftMG: 1s
+[16:51:33] BanchoBot: Countdown ends in 30 seconds
+[16:51:53] BanchoBot: Countdown ends in 10 seconds
+[16:51:58] BanchoBot: Countdown ends in 5 seconds
+[16:51:59] BanchoBot: Touruu changed to Blue
+[16:51:59] BanchoBot: Countdown ends in 4 seconds
+[16:51:59] BanchoBot: Countdown ends in 3 seconds
+[16:52:01] BanchoBot: Countdown ends in 2 seconds
+[16:52:02] BanchoBot: Countdown ends in 1 second
+[16:52:03] BanchoBot: Countdown finished
+[16:52:24] BCraftMG: yes i believe
+[16:52:25] Xicyte: glhf
+[16:52:35] Memento_Vivi: glhf!!
+[16:52:39] BCraftMG: !mp settings
+[16:52:40] BanchoBot: Room name: STT3: (Lux Aeterna) vs (:froggy:), History: https://osu.ppy.sh/mp/101594065
+[16:52:40] BanchoBot: Beatmap: https://osu.ppy.sh/b/1939988 sasakure.UK - Sennen to Rasen, Chiru Mono o feat. Sui
+[16:52:40] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[16:52:40] BanchoBot: Active mods: Freemod
+[16:52:40] BanchoBot: Players: 6
+[16:52:40] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7071856 Memento Vivi    [Team Red  / NoFail, HardRock]
+[16:52:40] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15392570 MusaEsa         [Team Red  / NoFail, Hidden]
+[16:52:40] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10212581 Xicyte          [Team Red  / NoFail, Hidden]
+[16:52:40] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/11918602 Blethz          [Team Blue / NoFail, Hidden]
+[16:52:40] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/12443104 Image Liner     [Team Blue / NoFail, Hidden]
+[16:52:40] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/9484080 Touruu          [Team Blue / NoFail, HardRock]
+[16:52:43] BanchoBot: All players are ready
+[16:52:49] BCraftMG: !mp settings
+[16:52:50] BanchoBot: Room name: STT3: (Lux Aeterna) vs (:froggy:), History: https://osu.ppy.sh/mp/101594065
+[16:52:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/1939988 sasakure.UK - Sennen to Rasen, Chiru Mono o feat. Sui
+[16:52:50] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[16:52:50] BanchoBot: Active mods: Freemod
+[16:52:50] BanchoBot: Players: 6
+[16:52:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7071856 Memento Vivi    [Team Red  / NoFail, HardRock]
+[16:52:50] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15392570 MusaEsa         [Team Red  / NoFail, Hidden]
+[16:52:50] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10212581 Xicyte          [Team Red  / NoFail, Hidden]
+[16:52:50] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11918602 Blethz          [Team Blue / NoFail, Hidden]
+[16:52:50] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12443104 Image Liner     [Team Blue / NoFail, Hidden]
+[16:52:50] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/9484080 Touruu          [Team Blue / NoFail, HardRock]
+[16:52:52] BCraftMG: !mp start 10
+[16:52:53] BanchoBot: Match starts in 10 seconds
+[16:52:53] BanchoBot: Queued the match to start in 10 seconds
+[16:52:54] Blethz: glhf
+[16:52:59] BanchoBot: Match starts in 5 seconds
+[16:52:59] BanchoBot: Match starts in 4 seconds
+[16:53:00] BanchoBot: Match starts in 3 seconds
+[16:53:01] BanchoBot: Good luck, have fun!
+[16:53:03] MusaEsa: gll
+[16:53:04] BanchoBot: The match has started!
+[16:53:04] Image_Liner: glhf
+[16:57:37] BanchoBot: Blethz finished playing (Score: 926261, PASSED).
+[16:57:37] BanchoBot: Memento Vivi finished playing (Score: 373539, PASSED).
+[16:57:37] BanchoBot: Touruu finished playing (Score: 605390, PASSED).
+[16:57:37] BanchoBot: Image Liner finished playing (Score: 813562, PASSED).
+[16:57:37] BanchoBot: MusaEsa finished playing (Score: 983176, PASSED).
+[16:57:38] BanchoBot: Xicyte finished playing (Score: 690942, PASSED).
+[16:57:38] BanchoBot: The match has finished!
+[16:57:52] BCraftMG: Lux Aeterna | 3 - 3 | :froggy: // Next Pick: Lux Aeterna
+[16:57:54] BCraftMG: !mp timer 120
+[16:57:55] BanchoBot: Countdown ends in 2 minutes
+[16:58:33] BanchoBot: Touruu left the game.
+[16:58:49] BanchoBot: Memento Vivi left the game.
+[16:58:56] BanchoBot: Countdown ends in 1 minute
+[16:59:17] Xicyte: nm3
+[16:59:18] BanchoBot: Memento Vivi joined in slot 1 for team blue.
+[16:59:25] BanchoBot: Countdown ends in 30 seconds
+[16:59:25] BCraftMG: !mp map 3654437 0
+[16:59:26] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3654437 lieu - findhelp
+[16:59:26] BanchoBot: Changed match mode to Osu
+[16:59:28] BCraftMG: !mp mods 1
+[16:59:29] Memento_Vivi: nm3
+[16:59:29] BanchoBot: Enabled NoFail, disabled FreeMod
+[16:59:31] BCraftMG: !Mp timer 120
+[16:59:33] BanchoBot: Countdown aborted
+[16:59:33] BanchoBot: Countdown ends in 2 minutes
+[16:59:34] Memento_Vivi: oh someone said it already
+[16:59:39] BanchoBot: Memento Vivi changed to Red
+[16:59:41] BCraftMG: Xicyte got it
+[17:00:28] BanchoBot: Racers03 joined in slot 6 for team red.
+[17:00:31] BanchoBot: Racers03 changed to Blue
+[17:00:33] BanchoBot: Countdown ends in 1 minute
+[17:01:03] BanchoBot: Countdown ends in 30 seconds
+[17:01:11] Blethz: image liner
+[17:01:11] BCraftMG: !mp settings
+[17:01:13] BanchoBot: Room name: STT3: (Lux Aeterna) vs (:froggy:), History: https://osu.ppy.sh/mp/101594065
+[17:01:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/3654437 lieu - findhelp
+[17:01:13] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[17:01:13] BanchoBot: Active mods: NoFail
+[17:01:13] BanchoBot: Players: 6
+[17:01:13] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7071856 Memento Vivi    [Team Red ]
+[17:01:13] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15392570 MusaEsa         [Team Red ]
+[17:01:13] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10212581 Xicyte          [Team Red ]
+[17:01:13] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11918602 Blethz          [Team Blue]
+[17:01:13] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/12443104 Image Liner     [Team Blue]
+[17:01:13] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11621976 Racers03        [Team Blue]
+[17:01:15] BanchoBot: All players are ready
+[17:01:16] BCraftMG: !mp settings
+[17:01:18] Image_Liner: oops
+[17:01:18] BanchoBot: Room name: STT3: (Lux Aeterna) vs (:froggy:), History: https://osu.ppy.sh/mp/101594065
+[17:01:18] BanchoBot: Beatmap: https://osu.ppy.sh/b/3654437 lieu - findhelp
+[17:01:18] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[17:01:18] BanchoBot: Active mods: NoFail
+[17:01:18] BanchoBot: Players: 6
+[17:01:18] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7071856 Memento Vivi    [Team Red ]
+[17:01:18] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15392570 MusaEsa         [Team Red ]
+[17:01:18] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10212581 Xicyte          [Team Red ]
+[17:01:18] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11918602 Blethz          [Team Blue]
+[17:01:18] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12443104 Image Liner     [Team Blue]
+[17:01:18] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11621976 Racers03        [Team Blue]
+[17:01:20] Xicyte: glhf
+[17:01:21] Racers03: glhf
+[17:01:21] Memento_Vivi: glhf!!
+[17:01:21] BCraftMG: !mp start 10
+[17:01:22] BanchoBot: Countdown aborted
+[17:01:22] BanchoBot: Match starts in 10 seconds
+[17:01:22] BanchoBot: Queued the match to start in 10 seconds
+[17:01:25] Image_Liner: glgl hf
+[17:01:27] MusaEsa: gl
+[17:01:28] BanchoBot: Match starts in 5 seconds
+[17:01:28] BanchoBot: Match starts in 4 seconds
+[17:01:29] BanchoBot: Match starts in 3 seconds
+[17:01:31] BanchoBot: Good luck, have fun!
+[17:01:33] BanchoBot: The match has started!
+[17:01:33] Blethz: glhf
+[17:03:40] BanchoBot: Image Liner finished playing (Score: 486391, PASSED).
+[17:03:41] BanchoBot: Memento Vivi finished playing (Score: 377277, PASSED).
+[17:03:41] BanchoBot: Blethz finished playing (Score: 437745, PASSED).
+[17:03:41] BanchoBot: Xicyte finished playing (Score: 534503, PASSED).
+[17:03:41] BanchoBot: MusaEsa finished playing (Score: 457220, PASSED).
+[17:03:42] BanchoBot: Racers03 finished playing (Score: 537436, PASSED).
+[17:03:42] BanchoBot: The match has finished!
+[17:03:58] BCraftMG: Lux Aeterna | 3 - 4 | :froggy: // Next Pick: :froggy:
+[17:03:59] Xicyte: oh no wysi
+[17:04:01] BCraftMG: !mp timer 120
+[17:04:02] BanchoBot: Countdown ends in 2 minutes
+[17:04:05] BCraftMG: 77277
+[17:04:07] BCraftMG: :stare:
+[17:04:18] Memento_Vivi: I pretend I do not see it.
+[17:04:18] Blethz: no
+[17:04:38] Image_Liner: !roll 1000
+[17:04:38] BanchoBot: Image Liner rolls 22 point(s)
+[17:04:43] Image_Liner: bruh
+[17:04:54] BCraftMG: !roll 1000
+[17:04:55] BanchoBot: BCraftMG rolls 218 point(s)
+[17:05:02] BanchoBot: Countdown ends in 1 minute
+[17:05:03] BanchoBot: Touruu joined in slot 7 for team blue.
+[17:05:06] BanchoBot: Touruu left the game.
+[17:05:31] Blethz: hr1
+[17:05:33] BanchoBot: Countdown ends in 30 seconds
+[17:05:49] BCraftMG: !mp map 1573242 0
+[17:05:50] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1573242 Dreamcatcher - Full Moon
+[17:05:50] BanchoBot: Changed match mode to Osu
+[17:05:52] BanchoBot: Countdown ends in 10 seconds
+[17:05:52] BCraftMG: !mp mods 17
+[17:05:54] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[17:05:54] BCraftMG: !mp timer 120
+[17:05:55] BanchoBot: Blethz left the game.
+[17:05:55] BanchoBot: Countdown aborted
+[17:05:55] BanchoBot: Countdown ends in 2 minutes
+[17:06:02] BanchoBot: fnayR joined in slot 4 for team red.
+[17:06:12] BanchoBot: fnayR moved to slot 7
+[17:06:15] BanchoBot: Image Liner moved to slot 4
+[17:06:18] BanchoBot: Touruu joined in slot 5 for team blue.
+[17:06:52] BanchoBot: MusaEsa left the game.
+[17:06:55] BanchoBot: fnayR moved to slot 2
+[17:06:55] BanchoBot: Countdown ends in 1 minute
+[17:07:06] BCraftMG: !mp settings
+[17:07:07] BanchoBot: Room name: STT3: (Lux Aeterna) vs (:froggy:), History: https://osu.ppy.sh/mp/101594065
+[17:07:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/1573242 Dreamcatcher - Full Moon
+[17:07:07] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[17:07:07] BanchoBot: Active mods: NoFail, HardRock
+[17:07:07] BanchoBot: Players: 6
+[17:07:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7071856 Memento Vivi    [Team Red ]
+[17:07:07] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/2800253 fnayR           [Team Red ]
+[17:07:07] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10212581 Xicyte          [Team Red ]
+[17:07:07] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12443104 Image Liner     [Team Blue]
+[17:07:07] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/9484080 Touruu          [Team Blue]
+[17:07:07] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11621976 Racers03        [Team Blue]
+[17:07:09] BanchoBot: All players are ready
+[17:07:12] BCraftMG: !mp settings
+[17:07:12] Racers03: glhf
+[17:07:12] BanchoBot: Room name: STT3: (Lux Aeterna) vs (:froggy:), History: https://osu.ppy.sh/mp/101594065
+[17:07:12] BanchoBot: Beatmap: https://osu.ppy.sh/b/1573242 Dreamcatcher - Full Moon
+[17:07:12] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[17:07:12] BanchoBot: Active mods: NoFail, HardRock
+[17:07:12] BanchoBot: Players: 6
+[17:07:12] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7071856 Memento Vivi    [Team Red ]
+[17:07:12] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/2800253 fnayR           [Team Red ]
+[17:07:12] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10212581 Xicyte          [Team Red ]
+[17:07:12] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12443104 Image Liner     [Team Blue]
+[17:07:12] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/9484080 Touruu          [Team Blue]
+[17:07:12] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11621976 Racers03        [Team Blue]
+[17:07:14] BCraftMG: !mp start 10
+[17:07:14] BanchoBot: Countdown aborted
+[17:07:14] BanchoBot: Match starts in 10 seconds
+[17:07:14] BanchoBot: Queued the match to start in 10 seconds
+[17:07:17] Image_Liner: glgl
+[17:07:18] Touruu: glhf
+[17:07:18] Image_Liner: hfhf
+[17:07:19] Xicyte: glhf
+[17:07:20] BCraftMG: GLHf
+[17:07:20] BanchoBot: Match starts in 5 seconds
+[17:07:20] BanchoBot: Match starts in 4 seconds
+[17:07:22] BanchoBot: Match starts in 3 seconds
+[17:07:23] BanchoBot: Good luck, have fun!
+[17:07:23] Memento_Vivi: glhf!!
+[17:07:25] BanchoBot: The match has started!
+[17:10:41] BanchoBot: Image Liner finished playing (Score: 896652, PASSED).
+[17:10:41] BanchoBot: fnayR finished playing (Score: 456489, PASSED).
+[17:10:41] BanchoBot: Memento Vivi finished playing (Score: 420721, PASSED).
+[17:10:41] BanchoBot: Touruu finished playing (Score: 1060956, PASSED).
+[17:10:42] BanchoBot: Xicyte finished playing (Score: 650925, PASSED).
+[17:10:42] BanchoBot: Racers03 finished playing (Score: 528288, PASSED).
+[17:10:42] BanchoBot: The match has finished!
+[17:10:47] Touruu: Ggs
+[17:10:53] Image_Liner: ggwp
+[17:10:56] Memento_Vivi: ggwp
+[17:10:58] Xicyte: ggwp
+[17:10:58] BanchoBot: Xicyte left the game.
+[17:10:59] Image_Liner: thanks for ref bcraft
+[17:11:01] Image_Liner: <3
+[17:11:04] Memento_Vivi: thanks for ref
+[17:11:04] Racers03: ggwp
+[17:11:04] BCraftMG: Congrats to :froggy: for winning the match! GGWP both teams!
+[17:11:05] fnayR: ggs
+[17:11:10] Racers03: thanks for ref bcraft <3
+[17:11:11] BanchoBot: fnayR left the game.
+[17:11:11] BanchoBot: Touruu left the game.
+[17:11:13] BCraftMG: o//
+[17:11:16] BCraftMG: ty all
+[17:11:17] Image_Liner: o/
+[17:11:18] BanchoBot: Image Liner left the game.
+[17:11:22] BanchoBot: Racers03 left the game.
+[17:11:22] BanchoBot: Memento Vivi left the game.
+[17:11:24] BanchoBot: Blethz joined in slot 1 for team blue.
+[17:11:32] BanchoBot: Blethz left the game.
+[17:11:40] BCraftMG: !mp close
+[17:11:41] BanchoBot: Closed the match

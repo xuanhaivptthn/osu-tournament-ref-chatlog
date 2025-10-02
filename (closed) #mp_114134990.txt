@@ -1,0 +1,470 @@
+[00:53:39] Joined #mp_114134990
+[00:53:39] BCraftMG: !mp settings
+[00:53:41] BanchoBot: Room name: YAP: (4wc waiting room) vs (:moyai:), History: https://osu.ppy.sh/mp/114134990
+[00:53:41] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[00:53:41] BanchoBot: Players: 0
+[00:53:53] BCraftMG: !mp set 2 3 8
+[00:53:54] BanchoBot: Changed match settings to 8 slots, TeamVs, ScoreV2
+[00:53:57] BCraftMG: !mp invite #14165027
+[00:53:58] BanchoBot: Invited lonq noir to the room
+[00:53:59] BCraftMG: !mp invite #10917620
+[00:53:59] BanchoBot: Invited rundyyy to the room
+[00:54:18] BanchoBot: lonq noir joined in slot 1 for team blue.
+[00:54:29] lonq_noir: o/
+[00:54:52] BCraftMG: o/
+[00:55:01] BanchoBot: rundyyy joined in slot 2 for team red.
+[00:55:15] lonq_noir: o/
+[00:55:16] BCraftMG: 4wc waiting room on team Red 1-2
+[00:55:20] BCraftMG: :moyai: on blue 3-4
+[00:55:23] rundyyy: o/
+[00:55:41] BanchoBot: rundyyy moved to slot 4
+[00:55:42] BanchoBot: rundyyy changed to Blue
+[00:55:57] BCraftMG: we can start with rolls now
+[00:56:12] BanchoBot: lonq noir changed to Red
+[00:56:14] lonq_noir: !roll
+[00:56:14] BanchoBot: lonq noir rolls 70 point(s)
+[00:56:16] rundyyy: !roll
+[00:56:16] BanchoBot: rundyyy rolls 93 point(s)
+[00:56:38] BCraftMG: lonq_noir choose pick or ban order
+[00:56:40] BCraftMG: wait
+[00:56:46] BCraftMG: fuc rundyyy
+[00:56:48] BCraftMG: choose
+[00:56:51] lonq_noir: i lost
+[00:56:52] rundyyy: 2nd ban
+[00:57:02] BanchoBot: Asckar joined in slot 2 for team red.
+[00:57:06] BCraftMG: 4wc waiting room pick order
+[00:57:09] BanchoBot: Asckar left the game.
+[00:57:11] BanchoBot: Asckar joined in slot 2 for team red.
+[00:57:14] lonq_noir: 2nd pick
+[00:57:38] BCraftMG: alrighty, 2 ban ABAB
+[00:57:41] BCraftMG: 4wc waiting room ban
+[00:57:41] BCraftMG: !mp timer 120
+[00:57:42] BanchoBot: Countdown ends in 2 minutes
+[00:58:44] BanchoBot: Countdown ends in 1 minute
+[00:58:46] lonq_noir: nm3
+[00:58:53] BCraftMG: :moyai: ban
+[00:58:54] BCraftMG: !mp timer 120
+[00:58:56] BanchoBot: Countdown aborted
+[00:58:56] BanchoBot: Countdown ends in 2 minutes
+[00:59:04] rundyyy: dt2 ban
+[00:59:21] BCraftMG: 4wc waiting room
+[00:59:25] BCraftMG: !mp timer 120
+[00:59:26] BanchoBot: Countdown aborted
+[00:59:26] BanchoBot: Countdown ends in 2 minutes
+[00:59:27] lonq_noir: nm5
+[00:59:47] rundyyy: hr1 ban
+[00:59:54] BCraftMG: 4wc waiting room | 0 - 0 | :moyai: // BO9, Next pick: :moyai:
+[00:59:56] BCraftMG: !mp timer 120
+[00:59:58] BanchoBot: Countdown aborted
+[00:59:58] BanchoBot: Countdown ends in 2 minutes
+[01:00:12] rundyyy: hd2
+[01:00:27] BCraftMG: !mp map 4084958
+[01:00:27] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4084958 Silentroom - NULCTRL
+[01:00:28] BCraftMG: !mp mods 9
+[01:00:28] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[01:00:30] BCraftMG: !mp timer 120
+[01:00:31] BanchoBot: Countdown aborted
+[01:00:31] BanchoBot: Countdown ends in 2 minutes
+[01:00:52] BanchoBot: rundyyy left the game.
+[01:01:02] BanchoBot: Asckar left the game.
+[01:01:03] BanchoBot: lonq noir left the game.
+[01:01:09] BanchoBot: rundyyy joined in slot 1 for team blue.
+[01:01:11] BanchoBot: rundyyy moved to slot 3
+[01:01:28] BanchoBot: Watr joined in slot 1 for team blue.
+[01:01:29] BanchoBot: Nessy joined in slot 2 for team red.
+[01:01:32] BanchoBot: Countdown ends in 1 minute
+[01:01:37] BanchoBot: Watr moved to slot 4
+[01:01:40] BanchoBot: lonq noir joined in slot 1 for team blue.
+[01:01:41] BanchoBot: lonq noir changed to Red
+[01:01:53] rundyyy: gl
+[01:01:57] Watr: golf
+[01:02:00] lonq_noir: gl
+[01:02:00] BanchoBot: All players are ready
+[01:02:01] BanchoBot: Countdown ends in 30 seconds
+[01:02:02] BCraftMG: !mp settings
+[01:02:03] BanchoBot: Room name: YAP: (4wc waiting room) vs (:moyai:), History: https://osu.ppy.sh/mp/114134990
+[01:02:03] BanchoBot: Beatmap: https://osu.ppy.sh/b/4084958 Silentroom - NULCTRL
+[01:02:03] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:02:03] BanchoBot: Active mods: NoFail, Hidden
+[01:02:03] BanchoBot: Players: 4
+[01:02:03] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14165027 lonq noir       [Team Red ]
+[01:02:03] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10656864 Nessy           [Team Red ]
+[01:02:03] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10917620 rundyyy         [Team Blue]
+[01:02:03] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6898948 Watr            [Team Blue]
+[01:02:05] Nessy: glhf
+[01:02:09] BCraftMG: !mp start 5 glhf
+[01:02:09] BanchoBot: Countdown aborted
+[01:02:09] BanchoBot: Match starts in 5 seconds
+[01:02:09] BanchoBot: Queued the match to start in 5 seconds
+[01:02:11] BanchoBot: Match starts in 4 seconds
+[01:02:12] BanchoBot: Match starts in 3 seconds
+[01:02:13] BanchoBot: Good luck, have fun!
+[01:02:15] BanchoBot: The match has started!
+[01:04:48] BanchoBot: Watr finished playing (Score: 308518, PASSED).
+[01:04:48] BanchoBot: Nessy finished playing (Score: 314261, PASSED).
+[01:04:48] BanchoBot: lonq noir finished playing (Score: 265127, PASSED).
+[01:04:51] BanchoBot: rundyyy finished playing (Score: 327902, PASSED).
+[01:04:51] BanchoBot: The match has finished!
+[01:05:04] BanchoBot: Altrax joined in slot 5 for team blue.
+[01:05:06] BCraftMG: 4wc waiting room | 0 - 1 | :moyai: // BO9, Next pick: 4wc waiting room
+[01:05:07] BCraftMG: !mp timer 120
+[01:05:08] BanchoBot: Countdown ends in 2 minutes
+[01:05:12] BanchoBot: Altrax left the game.
+[01:06:09] BanchoBot: Countdown ends in 1 minute
+[01:06:39] BanchoBot: Countdown ends in 30 seconds
+[01:06:58] BanchoBot: Asckar joined in slot 5 for team blue.
+[01:06:59] BanchoBot: Countdown ends in 10 seconds
+[01:07:05] BanchoBot: Countdown ends in 5 seconds
+[01:07:05] BanchoBot: Countdown ends in 4 seconds
+[01:07:06] BanchoBot: Countdown ends in 3 seconds
+[01:07:07] BanchoBot: Countdown ends in 2 seconds
+[01:07:07] Watr: erm
+[01:07:09] BanchoBot: Countdown ends in 1 second
+[01:07:09] lonq_noir: hd3
+[01:07:09] BanchoBot: Countdown finished
+[01:07:18] BanchoBot: Asckar changed to Red
+[01:07:18] BCraftMG: saved
+[01:07:19] BCraftMG: !mp map 4001315
+[01:07:20] BCraftMG: !mp mods 9
+[01:07:21] lonq_noir: sorry
+[01:07:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4001315 Team Grimoire - Sheriruth
+[01:07:22] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[01:07:25] BanchoBot: lonq noir left the game.
+[01:07:26] BanchoBot: Asckar moved to slot 1
+[01:07:29] BCraftMG: but i prefer yall not doing that
+[01:07:29] BanchoBot: rundyyy moved to slot 8
+[01:07:30] BCraftMG: !mp timer 120
+[01:07:32] BanchoBot: Countdown ends in 2 minutes
+[01:07:42] BanchoBot: rundyyy left the game.
+[01:08:18] BanchoBot: Altrax joined in slot 3 for team blue.
+[01:08:31] Asckar: lg
+[01:08:32] BanchoBot: Countdown ends in 1 minute
+[01:08:32] Asckar: gl
+[01:08:34] BanchoBot: All players are ready
+[01:08:37] BCraftMG: !mp settings
+[01:08:38] BanchoBot: Room name: YAP: (4wc waiting room) vs (:moyai:), History: https://osu.ppy.sh/mp/114134990
+[01:08:38] BanchoBot: Beatmap: https://osu.ppy.sh/b/4001315 Team Grimoire - Sheriruth
+[01:08:38] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:08:38] BanchoBot: Active mods: NoFail, Hidden
+[01:08:38] BanchoBot: Players: 4
+[01:08:38] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9650310 Asckar          [Team Red ]
+[01:08:38] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10656864 Nessy           [Team Red ]
+[01:08:38] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7948169 Altrax          [Team Blue]
+[01:08:38] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6898948 Watr            [Team Blue]
+[01:08:40] BCraftMG: !mp start 5 glhf
+[01:08:42] Watr: golf
+[01:08:42] BanchoBot: Countdown aborted
+[01:08:42] BanchoBot: Match starts in 5 seconds
+[01:08:42] BanchoBot: Queued the match to start in 5 seconds
+[01:08:43] BanchoBot: Match starts in 4 seconds
+[01:08:45] BanchoBot: Match starts in 3 seconds
+[01:08:46] BanchoBot: Good luck, have fun!
+[01:08:47] BanchoBot: The match has started!
+[01:11:34] BanchoBot: Asckar finished playing (Score: 327226, PASSED).
+[01:11:34] BanchoBot: Nessy finished playing (Score: 942785, PASSED).
+[01:11:35] BanchoBot: Altrax finished playing (Score: 462663, PASSED).
+[01:11:35] BanchoBot: Watr finished playing (Score: 507568, PASSED).
+[01:11:35] BanchoBot: The match has finished!
+[01:11:42] BanchoBot: lonq noir joined in slot 5 for team blue.
+[01:11:47] BCraftMG: 4wc waiting room | 1 - 1 | :moyai: // BO9, Next pick: :moyai:
+[01:11:48] BCraftMG: !mp timer 120
+[01:11:49] BanchoBot: Countdown ends in 2 minutes
+[01:11:54] Watr: 500k S rank i will kill myself
+[01:12:13] BanchoBot: rundyyy joined in slot 6 for team red.
+[01:12:45] BanchoBot: Altrax left the game.
+[01:12:48] BanchoBot: Watr left the game.
+[01:12:48] rundyyy: dt3
+[01:12:49] BanchoBot: Countdown ends in 1 minute
+[01:13:00] BanchoBot: rundyyy moved to slot 3
+[01:13:03] BanchoBot: rundyyy changed to Blue
+[01:13:05] BanchoBot: Nessy left the game.
+[01:13:19] BanchoBot: lonq noir moved to slot 2
+[01:13:19] BanchoBot: Countdown ends in 30 seconds
+[01:13:20] BanchoBot: lonq noir changed to Red
+[01:13:22] BCraftMG: !mp map 1055343
+[01:13:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1055343 Aiobahn & Yunomi - Ginga Tetsudou no Penguin ft. nicamoq (Stripe.P Remix)
+[01:13:27] BCraftMG: !mp mods 65
+[01:13:28] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[01:13:30] BCraftMG: !mp timer 120
+[01:13:31] BanchoBot: Countdown aborted
+[01:13:31] BanchoBot: Countdown ends in 2 minutes
+[01:14:21] BanchoBot: Watr joined in slot 4 for team red.
+[01:14:26] BanchoBot: Watr changed to Blue
+[01:14:32] BanchoBot: Countdown ends in 1 minute
+[01:14:37] BanchoBot: All players are ready
+[01:14:41] Watr: golf
+[01:14:42] BCraftMG: !mp settings
+[01:14:44] lonq_noir: GL
+[01:14:44] BanchoBot: Room name: YAP: (4wc waiting room) vs (:moyai:), History: https://osu.ppy.sh/mp/114134990
+[01:14:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/1055343 Aiobahn & Yunomi - Ginga Tetsudou no Penguin ft. nicamoq (Stripe.P Remix)
+[01:14:44] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:14:44] BanchoBot: Active mods: NoFail, DoubleTime
+[01:14:44] BanchoBot: Players: 4
+[01:14:44] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9650310 Asckar          [Team Red ]
+[01:14:44] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14165027 lonq noir       [Team Red ]
+[01:14:44] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10917620 rundyyy         [Team Blue]
+[01:14:44] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6898948 Watr            [Team Blue]
+[01:14:44] BCraftMG: !mp start 5 glhf
+[01:14:45] rundyyy: glgl
+[01:14:45] BanchoBot: Countdown aborted
+[01:14:45] BanchoBot: Match starts in 5 seconds
+[01:14:45] BanchoBot: Queued the match to start in 5 seconds
+[01:14:46] BanchoBot: Match starts in 4 seconds
+[01:14:48] BanchoBot: Match starts in 3 seconds
+[01:14:49] BanchoBot: Good luck, have fun!
+[01:14:50] BanchoBot: The match has started!
+[01:17:11] BanchoBot: Watr finished playing (Score: 1044781, PASSED).
+[01:17:11] BanchoBot: Asckar finished playing (Score: 876522, PASSED).
+[01:17:12] BanchoBot: rundyyy finished playing (Score: 555404, PASSED).
+[01:17:13] BanchoBot: lonq noir finished playing (Score: 711337, PASSED).
+[01:17:13] BanchoBot: The match has finished!
+[01:17:25] BCraftMG: 4wc waiting room | 1 - 2 | :moyai: // BO9, Next pick: 4wc waiting room
+[01:17:35] BCraftMG: !mp timer 120
+[01:17:36] BanchoBot: Countdown ends in 2 minutes
+[01:18:19] lonq_noir: nm2
+[01:18:27] BanchoBot: Watr left the game.
+[01:18:33] BCraftMG: !mp map 95382
+[01:18:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/95382 t+pazolite - chipscape
+[01:18:36] BanchoBot: Countdown ends in 1 minute
+[01:18:36] BCraftMG: !mp mods 1
+[01:18:37] BanchoBot: Enabled NoFail, disabled FreeMod
+[01:18:39] BCraftMG: !mp timer 120
+[01:18:40] BanchoBot: Nessy joined in slot 4 for team red.
+[01:18:40] BanchoBot: Countdown aborted
+[01:18:40] BanchoBot: Countdown ends in 2 minutes
+[01:18:55] BanchoBot: lonq noir left the game.
+[01:19:22] BanchoBot: Nessy moved to slot 2
+[01:19:33] BanchoBot: Altrax joined in slot 4 for team red.
+[01:19:39] BanchoBot: Altrax changed to Blue
+[01:19:41] BanchoBot: Countdown ends in 1 minute
+[01:19:51] BanchoBot: All players are ready
+[01:19:52] BCraftMG: !mp settings
+[01:19:53] BanchoBot: Room name: YAP: (4wc waiting room) vs (:moyai:), History: https://osu.ppy.sh/mp/114134990
+[01:19:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/95382 t+pazolite - chipscape
+[01:19:53] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:19:53] BanchoBot: Active mods: NoFail
+[01:19:53] BanchoBot: Players: 4
+[01:19:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9650310 Asckar          [Team Red ]
+[01:19:53] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10656864 Nessy           [Team Red ]
+[01:19:53] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10917620 rundyyy         [Team Blue]
+[01:19:53] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7948169 Altrax          [Team Blue]
+[01:19:54] BCraftMG: !mp start 5 glhf
+[01:19:54] BanchoBot: Countdown aborted
+[01:19:54] BanchoBot: Match starts in 5 seconds
+[01:19:54] BanchoBot: Queued the match to start in 5 seconds
+[01:19:55] BanchoBot: Match starts in 4 seconds
+[01:19:57] BanchoBot: Match starts in 3 seconds
+[01:19:57] rundyyy: gl
+[01:19:58] BanchoBot: Good luck, have fun!
+[01:19:59] BanchoBot: The match has started!
+[01:24:15] BanchoBot: Altrax finished playing (Score: 364139, PASSED).
+[01:24:15] BanchoBot: Nessy finished playing (Score: 873476, PASSED).
+[01:24:15] BanchoBot: Asckar finished playing (Score: 475025, PASSED).
+[01:24:17] BanchoBot: rundyyy finished playing (Score: 811972, PASSED).
+[01:24:17] BanchoBot: The match has finished!
+[01:24:27] BCraftMG: 4wc waiting room | 2 - 2 | :moyai: // BO9, Next pick: :moyai:
+[01:24:28] BCraftMG: !mp timer 120
+[01:24:29] BanchoBot: Countdown ends in 2 minutes
+[01:24:51] rundyyy: combo game
+[01:24:55] Nessy: true
+[01:25:27] rundyyy: nm4
+[01:25:30] BanchoBot: Countdown ends in 1 minute
+[01:25:31] BanchoBot: Altrax left the game.
+[01:25:38] BanchoBot: Nessy left the game.
+[01:25:39] BCraftMG: !mp map 4179715
+[01:25:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4179715 Sara Wakui - Escape (feat. mimiko)
+[01:25:40] BCraftMG: !mp mods 1
+[01:25:41] BanchoBot: Enabled NoFail, disabled FreeMod
+[01:25:41] BCraftMG: !mp timer 120
+[01:25:42] BanchoBot: Countdown aborted
+[01:25:42] BanchoBot: Countdown ends in 2 minutes
+[01:25:49] BanchoBot: rundyyy left the game.
+[01:26:09] BanchoBot: rundyyy joined in slot 2 for team red.
+[01:26:12] BanchoBot: rundyyy moved to slot 3
+[01:26:13] BanchoBot: rundyyy changed to Blue
+[01:26:13] BanchoBot: lonq noir joined in slot 2 for team red.
+[01:26:29] BanchoBot: Watr joined in slot 4 for team red.
+[01:26:32] BanchoBot: Watr changed to Blue
+[01:26:39] BanchoBot: All players are ready
+[01:26:41] lonq_noir: gl
+[01:26:42] BanchoBot: Countdown ends in 1 minute
+[01:26:45] rundyyy: gl
+[01:27:08] BCraftMG: !mp settings
+[01:27:08] BanchoBot: Room name: YAP: (4wc waiting room) vs (:moyai:), History: https://osu.ppy.sh/mp/114134990
+[01:27:08] BanchoBot: Beatmap: https://osu.ppy.sh/b/4179715 Sara Wakui - Escape (feat. mimiko)
+[01:27:08] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:27:08] BanchoBot: Active mods: NoFail
+[01:27:08] BanchoBot: Players: 4
+[01:27:08] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9650310 Asckar          [Team Red ]
+[01:27:08] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14165027 lonq noir       [Team Red ]
+[01:27:08] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10917620 rundyyy         [Team Blue]
+[01:27:08] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6898948 Watr            [Team Blue]
+[01:27:10] BCraftMG: !mp start 5 glhf
+[01:27:11] BanchoBot: Countdown aborted
+[01:27:11] BanchoBot: Match starts in 5 seconds
+[01:27:11] BanchoBot: Queued the match to start in 5 seconds
+[01:27:12] Asckar: go
+[01:27:12] BanchoBot: Match starts in 4 seconds
+[01:27:13] BanchoBot: Match starts in 3 seconds
+[01:27:15] BanchoBot: Good luck, have fun!
+[01:27:16] BanchoBot: The match has started!
+[01:27:16] Watr: golf
+[01:30:46] BanchoBot: rundyyy finished playing (Score: 764345, PASSED).
+[01:30:46] BanchoBot: lonq noir finished playing (Score: 460484, PASSED).
+[01:30:46] BanchoBot: Asckar finished playing (Score: 436178, PASSED).
+[01:30:46] BanchoBot: Watr finished playing (Score: 727661, PASSED).
+[01:30:46] BanchoBot: The match has finished!
+[01:30:59] BCraftMG: 4wc waiting room | 2 - 3 | :moyai: // BO9, Next pick: 4wc waiting room
+[01:31:00] BCraftMG: !mp timer 120
+[01:31:01] BanchoBot: Countdown ends in 2 minutes
+[01:31:46] lonq_noir: hd1
+[01:31:59] BCraftMG: !mp map 1105826
+[01:31:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1105826 The Wrecks - Favorite Liar
+[01:32:01] BCraftMG: !mp mods 9
+[01:32:02] BanchoBot: Countdown ends in 1 minute
+[01:32:02] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[01:32:04] BCraftMG: !mp timer 120
+[01:32:05] BanchoBot: Countdown aborted
+[01:32:05] BanchoBot: Countdown ends in 2 minutes
+[01:32:13] Asckar: glf
+[01:32:20] BanchoBot: rundyyy moved to slot 8
+[01:32:21] BanchoBot: rundyyy left the game.
+[01:32:21] BanchoBot: Altrax joined in slot 3 for team blue.
+[01:32:44] BanchoBot: All players are ready
+[01:32:45] BCraftMG: !mp settings
+[01:32:47] BanchoBot: Room name: YAP: (4wc waiting room) vs (:moyai:), History: https://osu.ppy.sh/mp/114134990
+[01:32:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/1105826 The Wrecks - Favorite Liar
+[01:32:47] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:32:47] BanchoBot: Active mods: NoFail, Hidden
+[01:32:47] BanchoBot: Players: 4
+[01:32:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9650310 Asckar          [Team Red ]
+[01:32:47] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14165027 lonq noir       [Team Red ]
+[01:32:47] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7948169 Altrax          [Team Blue]
+[01:32:47] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6898948 Watr            [Team Blue]
+[01:32:49] BCraftMG: !mp start 5 glhf
+[01:32:50] lonq_noir: gl
+[01:32:51] BanchoBot: Countdown aborted
+[01:32:51] BanchoBot: Match starts in 5 seconds
+[01:32:51] BanchoBot: Queued the match to start in 5 seconds
+[01:32:52] BanchoBot: Match starts in 4 seconds
+[01:32:54] BanchoBot: Match starts in 3 seconds
+[01:32:55] BanchoBot: Good luck, have fun!
+[01:32:56] BanchoBot: The match has started!
+[01:32:59] Watr: golf
+[01:35:16] BanchoBot: Altrax finished playing (Score: 892368, PASSED).
+[01:35:16] BanchoBot: lonq noir finished playing (Score: 596393, PASSED).
+[01:35:17] BanchoBot: Watr finished playing (Score: 566629, PASSED).
+[01:35:19] BanchoBot: Asckar finished playing (Score: 895579, PASSED).
+[01:35:19] BanchoBot: The match has finished!
+[01:35:28] BCraftMG: 4wc waiting room | 3 - 3 | :moyai: // BO9, Next pick: :moyai:
+[01:35:29] BCraftMG: !mp timer 120
+[01:35:30] BanchoBot: Countdown ends in 2 minutes
+[01:35:31] BanchoBot: lonq noir left the game.
+[01:35:39] Watr: adkjlnfhkjlnsfghkjlnsfgkjlnhbvlm sdiukjlfchgnbmv ,
+[01:35:45] BanchoBot: lonq noir joined in slot 2 for team red.
+[01:35:55] BanchoBot: Altrax left the game.
+[01:36:02] BanchoBot: rundyyy joined in slot 3 for team blue.
+[01:36:08] BanchoBot: rundyyy moved to slot 7
+[01:36:23] rundyyy: fm1
+[01:36:29] BCraftMG: !mp map 4233871
+[01:36:31] BanchoBot: Countdown ends in 1 minute
+[01:36:31] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4233871 Daisuke Ishiwatari feat. Mary Dale Sanchez - Childish killer
+[01:36:33] BCraftMG: !mp mods Freemod
+[01:36:34] BanchoBot: Disabled all mods, enabled FreeMod
+[01:36:34] BCraftMG: !mp timer 120
+[01:36:35] BanchoBot: Countdown aborted
+[01:36:35] BanchoBot: Countdown ends in 2 minutes
+[01:36:46] BanchoBot: Nessy joined in slot 3 for team blue.
+[01:37:01] BanchoBot: Asckar left the game.
+[01:37:09] BanchoBot: Nessy moved to slot 1
+[01:37:11] BanchoBot: Nessy changed to Red
+[01:37:14] BanchoBot: rundyyy moved to slot 3
+[01:37:26] BanchoBot: All players are ready
+[01:37:27] Nessy: gl
+[01:37:31] BCraftMG: !mp settings
+[01:37:31] Watr: golf
+[01:37:31] BanchoBot: Room name: YAP: (4wc waiting room) vs (:moyai:), History: https://osu.ppy.sh/mp/114134990
+[01:37:31] BanchoBot: Beatmap: https://osu.ppy.sh/b/4233871 Daisuke Ishiwatari feat. Mary Dale Sanchez - Childish killer
+[01:37:31] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:37:31] BanchoBot: Active mods: Freemod
+[01:37:31] BanchoBot: Players: 4
+[01:37:31] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10656864 Nessy           [Team Red  / NoFail, Hidden]
+[01:37:31] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14165027 lonq noir       [Team Red  / NoFail, HardRock]
+[01:37:31] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10917620 rundyyy         [Team Blue / NoFail, HardRock]
+[01:37:31] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6898948 Watr            [Team Blue / NoFail, Hidden]
+[01:37:34] BCraftMG: !mp start 5 glhf
+[01:37:34] BanchoBot: Countdown aborted
+[01:37:34] BanchoBot: Match starts in 5 seconds
+[01:37:34] BanchoBot: Queued the match to start in 5 seconds
+[01:37:35] rundyyy: gl
+[01:37:35] BanchoBot: Match starts in 4 seconds
+[01:37:36] BanchoBot: Match starts in 3 seconds
+[01:37:38] BanchoBot: Good luck, have fun!
+[01:37:39] BanchoBot: The match has started!
+[01:42:17] BanchoBot: Nessy finished playing (Score: 404856, PASSED).
+[01:42:17] BanchoBot: rundyyy finished playing (Score: 608967, PASSED).
+[01:42:17] BanchoBot: Watr finished playing (Score: 616399, PASSED).
+[01:42:17] BanchoBot: lonq noir finished playing (Score: 602279, PASSED).
+[01:42:17] BanchoBot: The match has finished!
+[01:42:31] BCraftMG: 4wc waiting room | 3 - 4 | :moyai: // BO9, Next pick: 4wc waiting room
+[01:42:32] BCraftMG: !mp timer 120
+[01:42:33] BanchoBot: Countdown ends in 2 minutes
+[01:42:36] BanchoBot: Asckar joined in slot 5 for team blue.
+[01:43:14] lonq_noir: hr3
+[01:43:18] BanchoBot: Watr left the game.
+[01:43:19] BanchoBot: Nessy left the game.
+[01:43:23] BCraftMG: !mp map 3625142
+[01:43:25] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3625142 Pa's Lam System - City Lights Feat. EVO+ , Jinmenusagi (Pa's Lam System Remix)
+[01:43:26] BCraftMG: !mp mods 17
+[01:43:27] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[01:43:31] BCraftMG: !mp timer 120
+[01:43:31] BanchoBot: Countdown aborted
+[01:43:31] BanchoBot: Countdown ends in 2 minutes
+[01:44:04] BanchoBot: Asckar moved to slot 1
+[01:44:06] BanchoBot: Asckar changed to Red
+[01:44:18] BanchoBot: Altrax joined in slot 4 for team red.
+[01:44:22] BanchoBot: Altrax changed to Blue
+[01:44:33] BanchoBot: Countdown ends in 1 minute
+[01:44:34] Asckar: golf
+[01:44:34] BanchoBot: All players are ready
+[01:44:35] BCraftMG: !mp settings
+[01:44:36] BanchoBot: Room name: YAP: (4wc waiting room) vs (:moyai:), History: https://osu.ppy.sh/mp/114134990
+[01:44:36] BanchoBot: Beatmap: https://osu.ppy.sh/b/3625142 Pa's Lam System - City Lights Feat. EVO+ , Jinmenusagi (Pa's Lam System Remix)
+[01:44:36] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:44:36] BanchoBot: Active mods: NoFail, HardRock
+[01:44:36] BanchoBot: Players: 4
+[01:44:36] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9650310 Asckar          [Team Red ]
+[01:44:36] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14165027 lonq noir       [Team Red ]
+[01:44:36] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10917620 rundyyy         [Team Blue]
+[01:44:36] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7948169 Altrax          [Team Blue]
+[01:44:37] BCraftMG: !mp start 5 glhf
+[01:44:38] BanchoBot: Countdown aborted
+[01:44:38] BanchoBot: Match starts in 5 seconds
+[01:44:38] BanchoBot: Queued the match to start in 5 seconds
+[01:44:40] lonq_noir: gl
+[01:44:40] BanchoBot: Match starts in 4 seconds
+[01:44:41] BanchoBot: Match starts in 3 seconds
+[01:44:42] rundyyy: fl
+[01:44:42] BanchoBot: Good luck, have fun!
+[01:44:44] rundyyy: gl
+[01:44:44] BanchoBot: The match has started!
+[01:47:12] BanchoBot: rundyyy finished playing (Score: 571928, PASSED).
+[01:47:12] BanchoBot: Altrax finished playing (Score: 411419, PASSED).
+[01:47:12] BanchoBot: Asckar finished playing (Score: 370582, PASSED).
+[01:47:12] BanchoBot: lonq noir finished playing (Score: 419754, PASSED).
+[01:47:12] BanchoBot: The match has finished!
+[01:47:21] Altrax: ggs
+[01:47:23] rundyyy: ggwp
+[01:47:25] Asckar: gggwp
+[01:47:26] lonq_noir: ggs
+[01:47:26] rundyyy: !!!
+[01:47:27] rundyyy: Ty for ref
+[01:47:33] BCraftMG: 4wc waiting room | 3 - 5 | :moyai: // :moyai: wins the match!
+[01:47:37] lonq_noir: ty for ref
+[01:47:37] BanchoBot: Asckar left the game.
+[01:47:37] BanchoBot: lonq noir left the game.
+[01:47:44] Altrax: ty for ref
+[01:47:44] BanchoBot: rundyyy left the game.
+[01:47:44] BanchoBot: Altrax left the game.
+[01:47:58] BCraftMG: !mp close
+[01:47:59] BanchoBot: Closed the match

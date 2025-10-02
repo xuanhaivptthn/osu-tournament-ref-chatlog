@@ -1,0 +1,701 @@
+[23:52:04] Joined #mp_103067765
+[23:52:04] BCraftMG: !mp settings
+[23:52:06] BanchoBot: Room name: SOSF: (Mouse Supremacy) vs (Gentoo), History: https://osu.ppy.sh/mp/103067765
+[23:52:06] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[23:52:06] BanchoBot: Players: 0
+[23:52:07] BCraftMG: !mp addref Sm0kEsOutTV
+[23:52:10] BanchoBot: User not found: Sm0kEsOutTV
+[23:52:44] BCraftMG: !mp set 2 3 8
+[23:52:46] BanchoBot: Changed match settings to 8 slots, TeamVs, ScoreV2
+[23:53:07] BCraftMG: !mp addref Sm0kEsOutTV
+[23:53:09] BanchoBot: Added Sm0kEsOutTV to the match referees
+[23:53:27] BCraftMG: !mp addref Sm0kEsOutTV
+[23:53:27] BanchoBot: Added Sm0kEsOutTV to the match referees
+[23:53:50] BCraftMG: !mp listrefs
+[23:53:52] BanchoBot: Match referees:
+[23:53:52] BanchoBot: Sm0kEsOutTV
+[23:53:52] BanchoBot: BCraftMG
+[23:54:05] BCraftMG: !mp invite #11955716
+[23:54:06] BanchoBot: Invited ArmaniDilbo to the room
+[23:54:09] BCraftMG: !mp invite #11186709
+[23:54:10] BanchoBot: User not found
+[23:54:12] BCraftMG: !mp invite #12790479
+[23:54:14] BanchoBot: Invited dem27 to the room
+[23:54:17] BCraftMG: !mp invite #13705417
+[23:54:18] BanchoBot: Invited RafGPio to the room
+[23:54:22] BCraftMG: !mp invite #14257184
+[23:54:22] BanchoBot: User not found
+[23:54:26] BCraftMG: !mp invite #12777806
+[23:54:26] BanchoBot: Invited Vivaru to the room
+[23:55:09] BanchoBot: Vivaru joined in slot 1 for team blue.
+[23:55:32] BCraftMG: hi
+[23:55:35] BanchoBot: dem27 joined in slot 2 for team red.
+[23:55:43] BanchoBot: dem27 moved to slot 4
+[23:56:19] BCraftMG: Mouse Supremacy will be Red; Gentoo will be Blue
+[23:56:30] BanchoBot: RafGPio joined in slot 2 for team red.
+[23:56:39] BCraftMG: and anyone wanna do warm ups?
+[23:56:42] dem27: we are slot 1-2 right?
+[23:56:52] dem27: we do
+[23:56:58] RafGPio: sotarks slots
+[23:57:03] BanchoBot: RafGPio moved to slot 3
+[23:57:06] BanchoBot: dem27 moved to slot 6
+[23:57:17] BCraftMG: yep Mouse Supremacy is 1-2 Red
+[23:57:21] BCraftMG: Gentoo is Blue 3-4
+[23:57:23] BanchoBot: dem27 moved to slot 2
+[23:57:29] BanchoBot: RafGPio changed to Blue
+[23:57:31] BanchoBot: Vivaru moved to slot 4
+[23:57:38] BanchoBot: ArmaniDilbo joined in slot 1 for team blue.
+[23:57:40] RafGPio: yea, i want warmups
+[23:57:45] ArmaniDilbo: warmup time
+[23:57:50] BCraftMG: !mp host RafGPio
+[23:57:52] BanchoBot: RafGPio became the host.
+[23:57:52] BanchoBot: Changed match host to RafGPio
+[23:57:54] BanchoBot: Beatmap changed to: Hagane - Event Horizon [Beyond Corsace] (https://osu.ppy.sh/b/2651787)
+[23:57:56] BanchoBot: Host is changing map...
+[23:58:18] BanchoBot: Beatmap changed to: Payushchiye trusy - Intim ne predlagat' [koten] (https://osu.ppy.sh/b/3641946)
+[23:58:28] BanchoBot: ArmaniDilbo changed to Red
+[23:58:28] Vivaru: трек крутой
+[23:59:24] ArmaniDilbo: ready?
+[23:59:36] BanchoBot: All players are ready
+[23:59:40] BanchoBot: The match has started!
+[00:02:43] BanchoBot: ArmaniDilbo finished playing (Score: 240484, PASSED).
+[00:02:45] BanchoBot: dem27 finished playing (Score: 206525, PASSED).
+[00:02:45] BanchoBot: Vivaru finished playing (Score: 279524, PASSED).
+[00:02:45] BanchoBot: RafGPio finished playing (Score: 234277, PASSED).
+[00:02:45] BanchoBot: The match has finished!
+[00:02:59] BanchoBot: ArmaniDilbo became the host.
+[00:03:03] BanchoBot: Host is changing map...
+[00:03:09] BanchoBot: Beatmap changed to: Axwell /\ Ingrosso - More Than You Know (Jump Map) [Easier Jumps (Playable for Mouse/Tablet)] (https://osu.ppy.sh/b/1344581)
+[00:04:16] dem27: playable for mouse/tablet
+[00:04:27] ArmaniDilbo: need to make it fair for the tablet players
+[00:04:29] BCraftMG: touchscreen users rn
+[00:04:53] BCraftMG: :3cknife:
+[00:05:44] BanchoBot: All players are ready
+[00:05:46] BanchoBot: The match has started!
+[00:09:15] BanchoBot: ArmaniDilbo finished playing (Score: 161180, PASSED).
+[00:09:15] BanchoBot: RafGPio finished playing (Score: 34820, PASSED).
+[00:09:15] BanchoBot: dem27 finished playing (Score: 110990, PASSED).
+[00:09:15] BanchoBot: Vivaru finished playing (Score: 92761, PASSED).
+[00:09:15] BanchoBot: The match has finished!
+[00:09:16] BCraftMG: raf you are not even streaming rn
+[00:09:22] BCraftMG: scammed
+[00:09:24] BCraftMG: !mp clearhost
+[00:09:25] BanchoBot: Cleared match host
+[00:09:29] ArmaniDilbo: nooooo
+[00:09:35] ArmaniDilbo: our warmup was missed
+[00:09:37] ArmaniDilbo: !roll
+[00:09:37] BanchoBot: ArmaniDilbo rolls 81 point(s)
+[00:09:38] BCraftMG: lets start with rolls
+[00:09:40] BCraftMG: sheesh
+[00:09:47] ArmaniDilbo: I'm popping off
+[00:09:49] RafGPio: !roll
+[00:09:49] BanchoBot: RafGPio rolls 72 point(s)
+[00:10:01] RafGPio: not enough 7
+[00:10:01] ArmaniDilbo: 2nd ban
+[00:10:19] BCraftMG: that mean 1 pick for you
+[00:10:28] ArmaniDilbo: yeah
+[00:10:32] BCraftMG: ban order ABAB 3 bans
+[00:10:38] BCraftMG: lets start with Gentoo ban
+[00:10:40] BCraftMG: !mp timer 120
+[00:10:42] BanchoBot: Countdown ends in 2 minutes
+[00:10:48] RafGPio: HD2
+[00:10:58] BCraftMG: Mouse Supremacy next
+[00:11:00] BCraftMG: !mp timer 120
+[00:11:02] ArmaniDilbo: :(
+[00:11:02] BanchoBot: Countdown aborted
+[00:11:02] BanchoBot: Countdown ends in 2 minutes
+[00:11:06] ArmaniDilbo: nm6
+[00:11:21] BCraftMG: back to Gentoo 2nd ban
+[00:11:22] RafGPio: DT2
+[00:11:36] BCraftMG: Mouse 2nd ban?
+[00:11:38] BCraftMG: !mp timer 120
+[00:11:38] BanchoBot: Countdown aborted
+[00:11:38] BanchoBot: Countdown ends in 2 minutes
+[00:12:40] BanchoBot: Countdown ends in 1 minute
+[00:12:42] ArmaniDilbo: hr3
+[00:12:58] BCraftMG: Gentoo last ban
+[00:13:00] BCraftMG: !mp timer 120
+[00:13:02] RafGPio: NM5
+[00:13:02] BanchoBot: Countdown aborted
+[00:13:02] BanchoBot: Countdown ends in 2 minutes
+[00:13:12] ArmaniDilbo: why do you do this to us
+[00:13:14] ArmaniDilbo: :(
+[00:13:26] RafGPio: We can't play speed
+[00:13:28] RafGPio: :9
+[00:13:35] BCraftMG: Mouse last ban
+[00:13:36] BCraftMG: !mp timer 120
+[00:13:38] BanchoBot: Countdown aborted
+[00:13:38] BanchoBot: Countdown ends in 2 minutes
+[00:14:16] ArmaniDilbo: hr1
+[00:14:20] BanchoBot: ArmaniDilbo left the game.
+[00:14:39] BanchoBot: Countdown ends in 1 minute
+[00:14:49] RafGPio: Double ban are allowed or not?
+[00:14:50] BCraftMG: isnt that a double ban
+[00:15:05] BCraftMG: no double.//
+[00:15:07] dem27: oh they arent allowed
+[00:15:09] BanchoBot: Countdown ends in 30 seconds
+[00:15:13] dem27: okok
+[00:15:17] dem27: then dt3
+[00:15:29] BanchoBot: Countdown ends in 10 seconds
+[00:15:33] BCraftMG: Mouse Supremacy | 0 - 0 | Gentoo // First Pick: Mouse Supremacy
+[00:15:35] BanchoBot: Countdown ends in 5 seconds
+[00:15:35] BanchoBot: Countdown ends in 4 seconds
+[00:15:35] BanchoBot: Countdown ends in 3 seconds
+[00:15:36] BCraftMG: !mp timer 120
+[00:15:37] BanchoBot: Countdown ends in 2 seconds
+[00:15:37] BanchoBot: Countdown ends in 1 second
+[00:15:37] BanchoBot: Countdown aborted
+[00:15:37] BanchoBot: Countdown ends in 2 minutes
+[00:16:04] dem27: nm4
+[00:16:12] BCraftMG: !mp map 3535254 0
+[00:16:13] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3535254 kors k vs Yooh - 2 Beasts Unchained
+[00:16:13] BanchoBot: Changed match mode to Osu
+[00:16:19] BCraftMG: !mp mods 1
+[00:16:20] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:16:23] BCraftMG: !mp timer 120
+[00:16:24] BanchoBot: Rijrya joined in slot 1 for team blue.
+[00:16:24] BanchoBot: Countdown aborted
+[00:16:24] BanchoBot: Countdown ends in 2 minutes
+[00:16:26] BanchoBot: Rijrya changed to Red
+[00:17:25] BanchoBot: Countdown ends in 1 minute
+[00:17:27] BanchoBot: All players are ready
+[00:17:31] RafGPio: gl!
+[00:17:34] BCraftMG: !mp settings
+[00:17:35] BanchoBot: Room name: SOSF: (Mouse Supremacy) vs (Gentoo), History: https://osu.ppy.sh/mp/103067765
+[00:17:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/3535254 kors k vs Yooh - 2 Beasts Unchained
+[00:17:35] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:17:35] BanchoBot: Active mods: NoFail
+[00:17:35] BanchoBot: Players: 4
+[00:17:35] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11186709 Rijrya          [Team Red ]
+[00:17:35] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12790479 dem27           [Team Red ]
+[00:17:35] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13705417 RafGPio         [Team Blue]
+[00:17:35] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12777806 Vivaru          [Team Blue]
+[00:17:38] BCraftMG: !mp start 10
+[00:17:39] Rijrya: glhf
+[00:17:39] BanchoBot: Countdown aborted
+[00:17:39] BanchoBot: Match starts in 10 seconds
+[00:17:39] BanchoBot: Queued the match to start in 10 seconds
+[00:17:45] BanchoBot: Match starts in 5 seconds
+[00:17:45] BanchoBot: Match starts in 4 seconds
+[00:17:45] BCraftMG: glhf :D
+[00:17:47] BanchoBot: Match starts in 3 seconds
+[00:17:47] BanchoBot: Good luck, have fun!
+[00:17:49] BanchoBot: The match has started!
+[00:19:52] BanchoBot: Rijrya finished playing (Score: 213487, PASSED).
+[00:19:52] BanchoBot: Vivaru finished playing (Score: 337833, PASSED).
+[00:19:52] BanchoBot: RafGPio finished playing (Score: 375944, PASSED).
+[00:19:54] BanchoBot: dem27 finished playing (Score: 936566, PASSED).
+[00:19:54] BanchoBot: The match has finished!
+[00:19:59] BCraftMG: DEM
+[00:20:01] BCraftMG: ARE YOU OK
+[00:20:05] BCraftMG: Mouse Supremacy | 1 - 0 | Gentoo // Next Pick: Gentoo
+[00:20:09] BCraftMG: !mp timer 120
+[00:20:10] BanchoBot: Countdown ends in 2 minutes
+[00:20:12] dem27: no i have covid rn
+[00:20:17] BCraftMG: oh
+[00:20:26] dem27: XD
+[00:20:30] dem27: but thank you
+[00:20:41] RafGPio: good play nvm
+[00:20:44] BCraftMG: get well soon
+[00:20:52] dem27: tyty
+[00:21:11] BanchoBot: Countdown ends in 1 minute
+[00:21:19] RafGPio: FM2
+[00:21:32] BCraftMG: !mp map 2260268 0
+[00:21:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2260268 eisyo-kobu - Faithtival
+[00:21:33] BanchoBot: Changed match mode to Osu
+[00:21:34] BCraftMG: !mp mods 1 Freemod
+[00:21:35] BanchoBot: Disabled all mods, enabled FreeMod
+[00:21:37] BanchoBot: dem27 left the game.
+[00:21:39] BCraftMG: !mp timer 120
+[00:21:41] BanchoBot: Rijrya left the game.
+[00:21:41] BanchoBot: Countdown ends in 30 seconds
+[00:21:41] BanchoBot: Countdown aborted
+[00:21:41] BanchoBot: Countdown ends in 2 minutes
+[00:22:35] BanchoBot: Rijrya joined in slot 1 for team blue.
+[00:22:37] BanchoBot: Rijrya changed to Red
+[00:22:41] BanchoBot: Countdown ends in 1 minute
+[00:22:47] BanchoBot: dem27 joined in slot 2 for team red.
+[00:23:05] BanchoBot: All players are ready
+[00:23:07] dem27: glgl
+[00:23:08] BCraftMG: !mp settings
+[00:23:10] BanchoBot: Room name: SOSF: (Mouse Supremacy) vs (Gentoo), History: https://osu.ppy.sh/mp/103067765
+[00:23:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/2260268 eisyo-kobu - Faithtival
+[00:23:10] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:23:10] BanchoBot: Active mods: Freemod
+[00:23:10] BanchoBot: Players: 4
+[00:23:10] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11186709 Rijrya          [Team Red  / NoFail, HardRock]
+[00:23:10] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12790479 dem27           [Team Red  / NoFail, Hidden]
+[00:23:10] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13705417 RafGPio         [Team Blue / NoFail, Hidden, HardRock]
+[00:23:10] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12777806 Vivaru          [Team Blue / NoFail, Hidden]
+[00:23:11] BanchoBot: Countdown ends in 30 seconds
+[00:23:11] Rijrya: glhf
+[00:23:13] RafGPio: gl
+[00:23:16] BCraftMG: SHEESH
+[00:23:19] BCraftMG: !mp start 10
+[00:23:20] BanchoBot: Countdown aborted
+[00:23:20] BanchoBot: Match starts in 10 seconds
+[00:23:20] BanchoBot: Queued the match to start in 10 seconds
+[00:23:21] BCraftMG: GL
+[00:23:26] BanchoBot: Match starts in 5 seconds
+[00:23:26] BanchoBot: Match starts in 4 seconds
+[00:23:28] BanchoBot: Match starts in 3 seconds
+[00:23:28] BanchoBot: Good luck, have fun!
+[00:23:30] BanchoBot: The match has started!
+[00:25:26] BanchoBot: Rijrya finished playing (Score: 234108, PASSED).
+[00:25:26] BanchoBot: dem27 finished playing (Score: 378753, PASSED).
+[00:25:26] BanchoBot: Vivaru finished playing (Score: 157473, PASSED).
+[00:25:27] BanchoBot: RafGPio finished playing (Score: 340485, PASSED).
+[00:25:27] BanchoBot: The match has finished!
+[00:25:32] BCraftMG: Mouse Supremacy | 2 - 0 | Gentoo // Next Pick: Mouse Supremacy
+[00:25:38] BCraftMG: !mp timer 120
+[00:25:39] BanchoBot: Countdown ends in 2 minutes
+[00:26:04] BanchoBot: Rijrya left the game.
+[00:26:30] dem27: what bo is this?
+[00:26:33] BCraftMG: bo13
+[00:26:38] dem27: ty
+[00:26:40] BanchoBot: Countdown ends in 1 minute
+[00:26:42] dem27: hd1
+[00:26:51] BCraftMG: !mp map 3613873 0
+[00:26:52] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3613873 HyuN - Grin
+[00:26:52] BanchoBot: Changed match mode to Osu
+[00:26:55] BCraftMG: !mp mods 9
+[00:26:57] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[00:26:59] BCraftMG: !mp timer 120
+[00:27:00] BanchoBot: Countdown aborted
+[00:27:00] BanchoBot: Countdown ends in 2 minutes
+[00:27:02] dem27: fun and fair map
+[00:27:06] BCraftMG: and cursed
+[00:27:07] dem27: shouldve put the ktgster one smh
+[00:27:11] RafGPio: yep
+[00:27:27] BanchoBot: RafGPio moved to slot 5
+[00:27:29] BanchoBot: Vivaru moved to slot 3
+[00:27:31] BanchoBot: RafGPio moved to slot 4
+[00:27:41] BanchoBot: ArmaniDilbo joined in slot 1 for team blue.
+[00:27:45] BanchoBot: ArmaniDilbo changed to Red
+[00:28:02] BanchoBot: Countdown ends in 1 minute
+[00:28:06] dem27: glgl
+[00:28:07] BCraftMG: i can already imagine cut streams in this map
+[00:28:10] BanchoBot: All players are ready
+[00:28:12] RafGPio: gl
+[00:28:14] ArmaniDilbo: GLHF!!!!
+[00:28:14] BCraftMG: !mp settings
+[00:28:16] BanchoBot: Room name: SOSF: (Mouse Supremacy) vs (Gentoo), History: https://osu.ppy.sh/mp/103067765
+[00:28:16] BanchoBot: Beatmap: https://osu.ppy.sh/b/3613873 HyuN - Grin
+[00:28:16] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:28:16] BanchoBot: Active mods: NoFail, Hidden
+[00:28:16] BanchoBot: Players: 4
+[00:28:16] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11955716 ArmaniDilbo     [Team Red ]
+[00:28:16] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12790479 dem27           [Team Red ]
+[00:28:16] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12777806 Vivaru          [Team Blue]
+[00:28:16] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13705417 RafGPio         [Team Blue]
+[00:28:17] BCraftMG: !mp start 10
+[00:28:18] BanchoBot: Countdown aborted
+[00:28:18] BanchoBot: Match starts in 10 seconds
+[00:28:18] BanchoBot: Queued the match to start in 10 seconds
+[00:28:21] BCraftMG: glhf
+[00:28:24] BanchoBot: Match starts in 5 seconds
+[00:28:24] BanchoBot: Match starts in 4 seconds
+[00:28:26] BanchoBot: Match starts in 3 seconds
+[00:28:26] BanchoBot: Good luck, have fun!
+[00:28:28] BanchoBot: The match has started!
+[00:31:16] BanchoBot: Vivaru finished playing (Score: 213773, PASSED).
+[00:31:16] BanchoBot: ArmaniDilbo finished playing (Score: 250191, PASSED).
+[00:31:16] BanchoBot: RafGPio finished playing (Score: 309240, PASSED).
+[00:31:19] BanchoBot: dem27 finished playing (Score: 515219, PASSED).
+[00:31:19] BanchoBot: The match has finished!
+[00:31:25] BCraftMG: Mouse Supremacy | 3 - 0 | Gentoo // Next Pick: Gentoo
+[00:31:29] BCraftMG: !mp timer 120
+[00:31:31] BanchoBot: Countdown ends in 2 minutes
+[00:31:47] BCraftMG: lemme go close my curtain
+[00:31:51] BanchoBot: ArmaniDilbo left the game.
+[00:32:32] BanchoBot: Countdown ends in 1 minute
+[00:32:34] RafGPio: xgdd
+[00:33:02] BanchoBot: Countdown ends in 30 seconds
+[00:33:17] RafGPio: nm3]
+[00:33:21] BanchoBot: Countdown ends in 10 seconds
+[00:33:27] BCraftMG: !mp map 3601681 0
+[00:33:27] BanchoBot: Countdown ends in 5 seconds
+[00:33:27] BanchoBot: Countdown ends in 4 seconds
+[00:33:29] BCraftMG: !mp mods 1
+[00:33:29] BanchoBot: Countdown ends in 3 seconds
+[00:33:29] BanchoBot: Countdown ends in 2 seconds
+[00:33:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3601681 sekai - God-ish
+[00:33:29] BanchoBot: Changed match mode to Osu
+[00:33:31] BanchoBot: Countdown ends in 1 second
+[00:33:31] BanchoBot: Rijrya joined in slot 1 for team blue.
+[00:33:31] BanchoBot: Countdown finished
+[00:33:31] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:33:37] BanchoBot: Rijrya changed to Red
+[00:33:40] BCraftMG: !mp timer 120
+[00:33:41] BanchoBot: Countdown ends in 2 minutes
+[00:33:43] dem27: banger
+[00:33:49] dem27: d-_-b
+[00:33:51] BanchoBot: RafGPio moved to slot 5
+[00:33:55] BanchoBot: RafGPio moved to slot 4
+[00:34:18] BanchoBot: All players are ready
+[00:34:20] BanchoBot: All players are ready
+[00:34:22] RafGPio: gl
+[00:34:24] dem27: glgl
+[00:34:24] BCraftMG: !mp settings
+[00:34:26] BanchoBot: Room name: SOSF: (Mouse Supremacy) vs (Gentoo), History: https://osu.ppy.sh/mp/103067765
+[00:34:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/3601681 sekai - God-ish
+[00:34:26] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:34:26] BanchoBot: Active mods: NoFail
+[00:34:26] BanchoBot: Players: 4
+[00:34:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11186709 Rijrya          [Team Red ]
+[00:34:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12790479 dem27           [Team Red ]
+[00:34:26] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12777806 Vivaru          [Team Blue]
+[00:34:26] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13705417 RafGPio         [Team Blue]
+[00:34:32] Rijrya: glhf
+[00:34:33] BCraftMG: !mp start 10 d-_-b
+[00:34:34] BanchoBot: Countdown aborted
+[00:34:34] BanchoBot: Match starts in 10 seconds
+[00:34:34] BanchoBot: Queued the match to start in 10 seconds
+[00:34:40] BanchoBot: Match starts in 5 seconds
+[00:34:40] BanchoBot: Match starts in 4 seconds
+[00:34:42] BanchoBot: Match starts in 3 seconds
+[00:34:42] BanchoBot: Good luck, have fun!
+[00:34:44] BanchoBot: The match has started!
+[00:38:15] BanchoBot: RafGPio finished playing (Score: 580818, PASSED).
+[00:38:15] BanchoBot: dem27 finished playing (Score: 992566, PASSED).
+[00:38:15] BanchoBot: Vivaru finished playing (Score: 695239, PASSED).
+[00:38:17] BanchoBot: Rijrya finished playing (Score: 422798, PASSED).
+[00:38:17] BanchoBot: The match has finished!
+[00:38:23] BCraftMG: Mouse Supremacy | 4 - 0 | Gentoo // Next Pick: Mouse Supremacy
+[00:38:25] BCraftMG: !mp timer 120
+[00:38:27] BanchoBot: Countdown ends in 2 minutes
+[00:38:34] BCraftMG: buddy got covid buff
+[00:38:40] BCraftMG: farming in tournaments
+[00:38:45] dem27: true
+[00:39:28] BanchoBot: Countdown ends in 1 minute
+[00:39:40] dem27: fm3
+[00:39:40] BanchoBot: RafGPio moved to slot 8
+[00:39:42] BanchoBot: Rijrya left the game.
+[00:39:42] BanchoBot: RafGPio moved to slot 4
+[00:39:53] BCraftMG: !mp map 2719437 0
+[00:39:55] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2719437 LeaF - Kyouki Ranbu
+[00:39:55] BanchoBot: Changed match mode to Osu
+[00:39:57] BanchoBot: Countdown ends in 30 seconds
+[00:40:00] BCraftMG: !mp mods 1 freemod
+[00:40:01] BanchoBot: Disabled all mods, enabled FreeMod
+[00:40:04] BCraftMG: !mp timer 120
+[00:40:05] BanchoBot: Countdown aborted
+[00:40:05] BanchoBot: Countdown ends in 2 minutes
+[00:40:13] BanchoBot: ArmaniDilbo joined in slot 1 for team blue.
+[00:40:29] dem27: banger 2
+[00:40:31] BanchoBot: ArmaniDilbo changed to Red
+[00:40:44] BanchoBot: All players are ready
+[00:40:44] BanchoBot: All players are ready
+[00:40:46] BCraftMG: !mp settings
+[00:40:48] RafGPio: gl
+[00:40:48] ArmaniDilbo: glhf!!!!
+[00:40:48] BanchoBot: Room name: SOSF: (Mouse Supremacy) vs (Gentoo), History: https://osu.ppy.sh/mp/103067765
+[00:40:48] BanchoBot: Beatmap: https://osu.ppy.sh/b/2719437 LeaF - Kyouki Ranbu
+[00:40:48] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:40:48] BanchoBot: Active mods: Freemod
+[00:40:48] BanchoBot: Players: 4
+[00:40:48] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11955716 ArmaniDilbo     [Team Red  / NoFail, Hidden, HardRock]
+[00:40:48] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12790479 dem27           [Team Red  / NoFail, Hidden]
+[00:40:48] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12777806 Vivaru          [Team Blue / NoFail, Hidden]
+[00:40:48] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13705417 RafGPio         [Team Blue / NoFail, Hidden, HardRock]
+[00:40:54] dem27: glgl
+[00:40:54] Vivaru: hf
+[00:41:03] BCraftMG: !mp start 10 :prayge:
+[00:41:04] BanchoBot: Countdown aborted
+[00:41:04] BanchoBot: Match starts in 10 seconds
+[00:41:04] BanchoBot: Queued the match to start in 10 seconds
+[00:41:10] BanchoBot: Match starts in 5 seconds
+[00:41:10] BanchoBot: Match starts in 4 seconds
+[00:41:12] BanchoBot: Match starts in 3 seconds
+[00:41:12] BanchoBot: Good luck, have fun!
+[00:41:14] BanchoBot: The match has started!
+[00:43:39] BanchoBot: Vivaru finished playing (Score: 456932, PASSED).
+[00:43:41] BanchoBot: RafGPio finished playing (Score: 805670, PASSED).
+[00:43:41] BanchoBot: ArmaniDilbo finished playing (Score: 439808, PASSED).
+[00:43:41] BanchoBot: dem27 finished playing (Score: 662050, PASSED).
+[00:43:41] BanchoBot: The match has finished!
+[00:43:48] BCraftMG: Mouse Supremacy | 4 - 1 | Gentoo // Next Pick: Gentoo
+[00:43:52] BCraftMG: !mp timer 120
+[00:43:53] BanchoBot: Countdown ends in 2 minutes
+[00:43:57] dem27: yea this pick was my idea how could you tell
+[00:44:34] BCraftMG: this is what i want to see
+[00:44:36] BanchoBot: ArmaniDilbo left the game.
+[00:44:43] BCraftMG: score knocking back and forth
+[00:44:55] BanchoBot: Countdown ends in 1 minute
+[00:45:23] BanchoBot: Countdown ends in 30 seconds
+[00:45:44] BanchoBot: Countdown ends in 10 seconds
+[00:45:50] BanchoBot: Countdown ends in 5 seconds
+[00:45:50] BanchoBot: Countdown ends in 4 seconds
+[00:45:50] RafGPio: dt1
+[00:45:52] BanchoBot: Countdown ends in 3 seconds
+[00:45:52] BanchoBot: Countdown ends in 2 seconds
+[00:45:54] BanchoBot: Countdown ends in 1 second
+[00:45:54] BanchoBot: Countdown finished
+[00:46:00] BCraftMG: !mp map 2844218 0
+[00:46:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2844218 senya - Musou no Hana
+[00:46:00] BanchoBot: Changed match mode to Osu
+[00:46:03] BCraftMG: !mp mods 665
+[00:46:04] BanchoBot: Enabled NoFail, Hidden, HardRock, Relax, Nightcore, disabled FreeMod
+[00:46:05] BCraftMG: !mp mods 65
+[00:46:06] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[00:46:10] BCraftMG: !mp timer 120
+[00:46:10] BanchoBot: Countdown ends in 2 minutes
+[00:47:12] BanchoBot: Countdown ends in 1 minute
+[00:47:18] BanchoBot: Rijrya joined in slot 1 for team blue.
+[00:47:22] BanchoBot: Rijrya changed to Red
+[00:47:28] BanchoBot: All players are ready
+[00:47:31] BCraftMG: !mp settings
+[00:47:33] BanchoBot: Room name: SOSF: (Mouse Supremacy) vs (Gentoo), History: https://osu.ppy.sh/mp/103067765
+[00:47:33] BanchoBot: Beatmap: https://osu.ppy.sh/b/2844218 senya - Musou no Hana
+[00:47:33] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:47:33] BanchoBot: Active mods: NoFail, DoubleTime
+[00:47:33] BanchoBot: Players: 4
+[00:47:33] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11186709 Rijrya          [Team Red ]
+[00:47:33] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12790479 dem27           [Team Red ]
+[00:47:33] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12777806 Vivaru          [Team Blue]
+[00:47:33] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13705417 RafGPio         [Team Blue]
+[00:47:38] BCraftMG: !mp start 10 glhf
+[00:47:38] BanchoBot: Countdown aborted
+[00:47:38] BanchoBot: Match starts in 10 seconds
+[00:47:38] BanchoBot: Queued the match to start in 10 seconds
+[00:47:43] Rijrya: glhf
+[00:47:45] BanchoBot: Match starts in 5 seconds
+[00:47:45] RafGPio: gl
+[00:47:45] BanchoBot: Match starts in 4 seconds
+[00:47:47] BanchoBot: Match starts in 3 seconds
+[00:47:47] BanchoBot: Good luck, have fun!
+[00:47:49] BanchoBot: The match has started!
+[00:47:51] Vivaru: hfhf
+[00:50:06] BanchoBot: Rijrya finished playing (Score: 570028, PASSED).
+[00:50:06] BanchoBot: dem27 finished playing (Score: 752416, PASSED).
+[00:50:06] BanchoBot: RafGPio finished playing (Score: 605992, PASSED).
+[00:50:06] BanchoBot: Vivaru finished playing (Score: 456011, PASSED).
+[00:50:06] BanchoBot: The match has finished!
+[00:50:16] dem27: who put speed in my dt1
+[00:50:21] BCraftMG: Mouse Supremacy | 5 - 1 | Gentoo // Next Pick: Mouse Supremacy
+[00:50:24] BCraftMG: !mp timer 120
+[00:50:26] BanchoBot: Countdown ends in 2 minutes
+[00:50:53] BanchoBot: Rijrya left the game.
+[00:51:00] dem27: hr3
+[00:51:12] BCraftMG: hr3 gonn
+[00:51:13] BanchoBot: ArmaniDilbo joined in slot 1 for team blue.
+[00:51:15] RafGPio: you re baned
+[00:51:17] RafGPio: lol
+[00:51:17] BanchoBot: ArmaniDilbo changed to Red
+[00:51:27] BanchoBot: Countdown ends in 1 minute
+[00:51:27] dem27: OH
+[00:51:29] dem27: no
+[00:51:33] dem27: you said we couldnt double ban
+[00:51:37] dem27: and we banelings dt3
+[00:51:43] dem27: oh nvm
+[00:51:45] dem27: it was hr1
+[00:51:47] BanchoBot: ArmaniDilbo left the game.
+[00:51:52] BCraftMG: !mp invite #17584396
+[00:51:54] BanchoBot: Invited Lurumic to the room
+[00:51:55] BCraftMG: WAIT
+[00:51:56] dem27: XD
+[00:51:57] BCraftMG: CRAP
+[00:51:58] BanchoBot: Countdown ends in 30 seconds
+[00:51:58] dem27: we are dumb sorry
+[00:52:02] BanchoBot: ArmaniDilbo joined in slot 1 for team blue.
+[00:52:12] dem27: hd3 then
+[00:52:16] BanchoBot: Countdown ends in 10 seconds
+[00:52:23] BanchoBot: Countdown ends in 5 seconds
+[00:52:23] BanchoBot: Countdown ends in 4 seconds
+[00:52:23] BCraftMG: !mp map 2906715 0
+[00:52:25] BCraftMG: !mp mods 9
+[00:52:25] BanchoBot: Countdown ends in 3 seconds
+[00:52:25] BanchoBot: Countdown ends in 2 seconds
+[00:52:25] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2906715 Camellia feat. Nanahira - POLKAMANIA
+[00:52:25] BanchoBot: Changed match mode to Osu
+[00:52:27] BanchoBot: Countdown ends in 1 second
+[00:52:27] BanchoBot: Countdown finished
+[00:52:27] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[00:52:29] BCraftMG: !mp timer 120
+[00:52:31] BanchoBot: Countdown ends in 2 minutes
+[00:52:33] BanchoBot: ArmaniDilbo changed to Red
+[00:52:51] dem27: i love nanahira
+[00:52:53] BanchoBot: All players are ready
+[00:52:55] BCraftMG: !mp settings
+[00:52:57] ArmaniDilbo: glhf!!!!
+[00:52:57] BanchoBot: Room name: SOSF: (Mouse Supremacy) vs (Gentoo), History: https://osu.ppy.sh/mp/103067765
+[00:52:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/2906715 Camellia feat. Nanahira - POLKAMANIA
+[00:52:57] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:52:57] BanchoBot: Active mods: NoFail, Hidden
+[00:52:57] BanchoBot: Players: 4
+[00:52:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11955716 ArmaniDilbo     [Team Red ]
+[00:52:57] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12790479 dem27           [Team Red ]
+[00:52:57] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12777806 Vivaru          [Team Blue]
+[00:52:57] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13705417 RafGPio         [Team Blue]
+[00:52:59] RafGPio: i love nanahira
+[00:52:59] RafGPio: gl
+[00:53:01] BCraftMG: !mp start 10
+[00:53:01] BanchoBot: Countdown aborted
+[00:53:01] BanchoBot: Match starts in 10 seconds
+[00:53:01] BanchoBot: Queued the match to start in 10 seconds
+[00:53:05] Vivaru: hfhf
+[00:53:07] dem27: glgl
+[00:53:07] BanchoBot: Match starts in 5 seconds
+[00:53:07] BanchoBot: Match starts in 4 seconds
+[00:53:09] BanchoBot: Match starts in 3 seconds
+[00:53:09] BanchoBot: Good luck, have fun!
+[00:53:11] BanchoBot: The match has started!
+[00:55:16] BanchoBot: RafGPio finished playing (Score: 433377, PASSED).
+[00:55:18] BanchoBot: dem27 finished playing (Score: 343682, PASSED).
+[00:55:18] BanchoBot: Vivaru finished playing (Score: 312127, PASSED).
+[00:55:18] BanchoBot: ArmaniDilbo finished playing (Score: 261354, PASSED).
+[00:55:18] BanchoBot: The match has finished!
+[00:55:22] BCraftMG: Mouse Supremacy | 5 - 2 | Gentoo // Next Pick: Gentoo
+[00:55:26] BCraftMG: !mp timer 120
+[00:55:28] dem27: yea nice 500k last match
+[00:55:28] BanchoBot: Countdown ends in 2 minutes
+[00:55:34] dem27: totally true
+[00:56:29] BanchoBot: Countdown ends in 1 minute
+[00:56:51] RafGPio: nm1
+[00:56:51] ArmaniDilbo: crazy score
+[00:57:00] BanchoBot: Countdown ends in 30 seconds
+[00:57:05] BCraftMG: !mp map 2603315 0
+[00:57:06] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2603315 Wolpis Kater - Aijou Rettousei
+[00:57:06] BanchoBot: Changed match mode to Osu
+[00:57:08] BCraftMG: !mp mods 1
+[00:57:08] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:57:14] BanchoBot: ArmaniDilbo left the game.
+[00:57:20] BanchoBot: Countdown ends in 10 seconds
+[00:57:20] dem27: bruh
+[00:57:22] dem27: no way
+[00:57:23] BanchoBot: Countdown ends in 5 seconds
+[00:57:25] BanchoBot: Countdown ends in 4 seconds
+[00:57:25] BanchoBot: Countdown ends in 3 seconds
+[00:57:27] BanchoBot: Countdown ends in 2 seconds
+[00:57:27] BanchoBot: Countdown ends in 1 second
+[00:57:30] BanchoBot: Countdown finished
+[00:57:36] BanchoBot: Rijrya joined in slot 1 for team blue.
+[00:57:40] BanchoBot: Rijrya changed to Red
+[00:57:47] BCraftMG: !mp timer 120
+[00:57:48] BanchoBot: Countdown ends in 2 minutes
+[00:57:49] BCraftMG: i forgor timer
+[00:57:54] BanchoBot: All players are ready
+[00:57:56] BCraftMG: !mp settings
+[00:57:56] BanchoBot: Room name: SOSF: (Mouse Supremacy) vs (Gentoo), History: https://osu.ppy.sh/mp/103067765
+[00:57:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/2603315 Wolpis Kater - Aijou Rettousei
+[00:57:56] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:57:56] BanchoBot: Active mods: NoFail
+[00:57:56] BanchoBot: Players: 4
+[00:57:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11186709 Rijrya          [Team Red ]
+[00:57:56] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12790479 dem27           [Team Red ]
+[00:57:56] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12777806 Vivaru          [Team Blue]
+[00:57:56] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13705417 RafGPio         [Team Blue]
+[00:58:00] BCraftMG: !mp start 10
+[00:58:02] BanchoBot: Countdown aborted
+[00:58:02] BanchoBot: Match starts in 10 seconds
+[00:58:02] BanchoBot: Queued the match to start in 10 seconds
+[00:58:04] dem27: glgl
+[00:58:06] Rijrya: glhf
+[00:58:08] BanchoBot: Match starts in 5 seconds
+[00:58:08] BanchoBot: Match starts in 4 seconds
+[00:58:10] BanchoBot: Match starts in 3 seconds
+[00:58:10] BanchoBot: Good luck, have fun!
+[00:58:12] BanchoBot: The match has started!
+[00:58:14] Vivaru: hfhf
+[01:02:28] BanchoBot: RafGPio finished playing (Score: 389963, PASSED).
+[01:02:28] BanchoBot: dem27 finished playing (Score: 489735, PASSED).
+[01:02:30] BanchoBot: Rijrya finished playing (Score: 392474, PASSED).
+[01:02:30] BanchoBot: Vivaru finished playing (Score: 389590, PASSED).
+[01:02:30] BanchoBot: The match has finished!
+[01:02:33] BCraftMG: Mouse Supremacy | 6 - 2 | Gentoo // Next Pick: Mouse Supremacy
+[01:02:40] BCraftMG: !mp timer 120
+[01:02:40] BanchoBot: Countdown ends in 2 minutes
+[01:02:50] BanchoBot: ArmaniDilbo joined in slot 5 for team blue.
+[01:03:01] BCraftMG: this is not what i expected
+[01:03:04] dem27: nm7
+[01:03:06] ArmaniDilbo: nm7
+[01:03:19] BCraftMG: !mp map 3733304 0
+[01:03:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3733304 COOL&CREATE ft. beatMARIO - Rapid Ensemble
+[01:03:21] BanchoBot: Changed match mode to Osu
+[01:03:22] BCraftMG: !mp mods 1
+[01:03:23] BanchoBot: Enabled NoFail, disabled FreeMod
+[01:03:30] BCraftMG: !mp timer 120
+[01:03:31] BanchoBot: Countdown aborted
+[01:03:31] BanchoBot: Countdown ends in 2 minutes
+[01:03:43] BanchoBot: ArmaniDilbo moved to slot 7
+[01:03:47] BanchoBot: ArmaniDilbo moved to slot 8
+[01:04:21] BanchoBot: ArmaniDilbo moved to slot 6
+[01:04:32] BanchoBot: Countdown ends in 1 minute
+[01:04:32] BanchoBot: ArmaniDilbo left the game.
+[01:04:33] BanchoBot: All players are ready
+[01:04:37] BCraftMG: !mp settings
+[01:04:38] RafGPio: gl
+[01:04:38] BanchoBot: Room name: SOSF: (Mouse Supremacy) vs (Gentoo), History: https://osu.ppy.sh/mp/103067765
+[01:04:38] BanchoBot: Beatmap: https://osu.ppy.sh/b/3733304 COOL&CREATE ft. beatMARIO - Rapid Ensemble
+[01:04:38] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:04:38] BanchoBot: Active mods: NoFail
+[01:04:38] BanchoBot: Players: 4
+[01:04:38] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11186709 Rijrya          [Team Red ]
+[01:04:38] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12790479 dem27           [Team Red ]
+[01:04:38] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12777806 Vivaru          [Team Blue]
+[01:04:38] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13705417 RafGPio         [Team Blue]
+[01:04:39] Vivaru: hf
+[01:04:42] Rijrya: glhf
+[01:04:42] dem27: time for the shred
+[01:04:44] BCraftMG: !mp start 10
+[01:04:45] BanchoBot: Countdown aborted
+[01:04:45] BanchoBot: Match starts in 10 seconds
+[01:04:45] BanchoBot: Queued the match to start in 10 seconds
+[01:04:49] BCraftMG: GLHF
+[01:04:52] BanchoBot: Match starts in 5 seconds
+[01:04:52] BanchoBot: Match starts in 4 seconds
+[01:04:54] BanchoBot: Match starts in 3 seconds
+[01:04:54] BanchoBot: Good luck, have fun!
+[01:04:56] BanchoBot: The match has started!
+[01:07:52] BanchoBot: Rijrya finished playing (Score: 225116, PASSED).
+[01:07:52] BanchoBot: Vivaru finished playing (Score: 140147, PASSED).
+[01:07:52] BanchoBot: RafGPio finished playing (Score: 106915, PASSED).
+[01:07:54] BanchoBot: dem27 finished playing (Score: 186668, PASSED).
+[01:07:54] BanchoBot: The match has finished!
+[01:07:56] BanchoBot: ArmaniDilbo joined in slot 5 for team blue.
+[01:07:58] BCraftMG: Congrats to Mouse Supremacy for winning this match! GGWP both teams!
+[01:08:00] ArmaniDilbo: GGWP
+[01:08:00] Vivaru: GG
+[01:08:04] BCraftMG: Gentoo you had a good run
+[01:08:06] dem27: GGWP!!!!
+[01:08:14] dem27: thanks for the match guys
+[01:08:16] Rijrya: ggwp
+[01:08:16] Vivaru: thx
+[01:08:18] dem27: and for the tourney smokes
+[01:08:22] dem27: and for the ref bcraft
+[01:08:22] ArmaniDilbo: ggwp!!
+[01:08:30] Rijrya: ty for the tourney
+[01:08:32] Rijrya: was fun
+[01:08:33] BCraftMG: thanks for playin
+[01:08:34] ArmaniDilbo: ty for ref
+[01:08:34] dem27: cya everyone
+[01:08:36] ArmaniDilbo: it was fun
+[01:08:36] dem27: o/////
+[01:08:38] BanchoBot: dem27 left the game.
+[01:08:38] RafGPio: gg
+[01:08:38] ArmaniDilbo: o/
+[01:08:40] BCraftMG: wait
+[01:08:41] Rijrya: cya
+[01:08:43] BanchoBot: Rijrya left the game.
+[01:08:50] BCraftMG: well too late now lmfao
+[01:08:51] RafGPio: dem27 let's maid 1v1?
+[01:08:53] RafGPio: oh
+[01:08:57] BCraftMG: smoke asking tb
+[01:09:13] Vivaru: в лс напиши
+[01:09:27] RafGPio: thx for tournament
+[01:09:33] BCraftMG: ;3
+[01:09:35] RafGPio: and referee
+[01:09:52] RafGPio: Have a great day!
+[01:09:52] ArmaniDilbo: wanna mutual?
+[01:10:00] ArmaniDilbo: this goes to the ref as well
+[01:10:20] BCraftMG: sure
+[01:10:27] RafGPio: sure)
+[01:10:37] ArmaniDilbo: added everyone
+[01:10:47] ArmaniDilbo: it was fun
+[01:10:49] ArmaniDilbo: o/
+[01:10:51] BanchoBot: ArmaniDilbo left the game.
+[01:10:53] RafGPio: bye o/
+[01:10:55] BanchoBot: RafGPio left the game.
+[01:10:59] BanchoBot: Vivaru left the game.
+[01:11:11] BCraftMG: !mp close
+[01:11:13] BanchoBot: Closed the match

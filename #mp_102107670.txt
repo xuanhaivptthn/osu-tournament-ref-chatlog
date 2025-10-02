@@ -1,0 +1,426 @@
+[00:09:51] Joined #mp_102107670
+[00:09:51] BCraftMG: !mp settings
+[00:09:53] BanchoBot: Room name: SOSF: (Mouse Supremacy) vs (Donkey), History: https://osu.ppy.sh/mp/102107670
+[00:09:53] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[00:09:53] BanchoBot: Players: 0
+[00:10:12] BCraftMG: !mp set 2 3 8
+[00:10:12] BanchoBot: Changed match settings to 8 slots, TeamVs, ScoreV2
+[00:10:15] BCraftMG: !mp invite #10653742
+[00:10:17] BanchoBot: Invited Jeflex to the room
+[00:10:18] BCraftMG: !mp invite #8215374
+[00:10:19] BanchoBot: User not found
+[00:10:20] BCraftMG: !mp invite #11375251
+[00:10:21] BanchoBot: Invited Amasetic to the room
+[00:10:24] BCraftMG: !mp invite #11955716
+[00:10:25] BanchoBot: Invited ArmaniDilbo to the room
+[00:10:26] BCraftMG: !mp invite #11186709
+[00:10:27] BanchoBot: User not found
+[00:10:31] BCraftMG: !mp invite #12790479
+[00:10:32] BanchoBot: Invited dem27 to the room
+[00:10:38] BanchoBot: Jeflex joined in slot 1 for team blue.
+[00:10:45] BanchoBot: Amasetic joined in slot 2 for team red.
+[00:10:58] BanchoBot: dem27 joined in slot 3 for team blue.
+[00:11:00] BanchoBot: ArmaniDilbo joined in slot 4 for team red.
+[00:11:04] BanchoBot: ArmaniDilbo changed to Blue
+[00:11:09] BanchoBot: Jeflex changed to Red
+[00:11:11] BCraftMG: sheesh
+[00:11:13] Jeflex: yoo
+[00:11:16] BCraftMG: we are late
+[00:11:17] ArmaniDilbo: o/
+[00:11:19] dem27: hello
+[00:11:24] Amasetic: no way the match starts?
+[00:11:24] BCraftMG: so do you still want warm ups
+[00:11:29] Jeflex: impossible
+[00:11:31] Jeflex: nah
+[00:11:35] ArmaniDilbo: nah
+[00:11:40] Jeflex: i dont wanna be late to work lol
+[00:11:44] BCraftMG: okay straight to !roll then
+[00:11:46] BCraftMG: :skull
+[00:11:47] BCraftMG: :
+[00:11:51] ArmaniDilbo: !roll
+[00:11:51] BanchoBot: ArmaniDilbo rolls 74 point(s)
+[00:11:53] Jeflex: !roll
+[00:11:53] BanchoBot: Jeflex rolls 76 point(s)
+[00:12:02] Jeflex: we ban hd2
+[00:12:06] BCraftMG: ban first?
+[00:12:06] BCraftMG: ok
+[00:12:07] BCraftMG: wait
+[00:12:08] ArmaniDilbo: so first ban
+[00:12:12] Jeflex: yeah
+[00:12:14] Jeflex: we take 1st ban
+[00:12:23] ArmaniDilbo: hr2
+[00:12:34] BCraftMG: we breezing
+[00:12:34] BCraftMG: Mouse Supremacy | 0 - 0 | Donkey // First Pick: Mouse Supremacy
+[00:12:36] BCraftMG: !mp timer 120
+[00:12:36] Jeflex: nm1 ban
+[00:12:40] BanchoBot: Countdown ends in 2 minutes
+[00:12:42] BCraftMG: Mouse Supremacy is red
+[00:12:43] Jeflex: o
+[00:12:44] BCraftMG: Donkey is blue
+[00:12:44] Jeflex: just 1 ban?
+[00:12:49] BanchoBot: Jeflex changed to Blue
+[00:12:49] ArmaniDilbo: dt2
+[00:12:51] BanchoBot: dem27 changed to Red
+[00:12:53] BanchoBot: ArmaniDilbo changed to Red
+[00:12:56] BCraftMG: yea still 1 ban
+[00:13:02] Jeflex: ahh oki
+[00:13:03] BCraftMG: !mp map 3140773 0
+[00:13:04] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3140773 Nekrogoblikon - Killing Time (and Space)
+[00:13:04] BanchoBot: Changed match mode to Osu
+[00:13:05] BCraftMG: !mp mods 65
+[00:13:06] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[00:13:07] BCraftMG: !mp timer 120
+[00:13:08] BanchoBot: Countdown aborted
+[00:13:08] BanchoBot: Countdown ends in 2 minutes
+[00:13:10] ArmaniDilbo: >:)
+[00:13:15] BCraftMG: at least thats what on the refs sheet
+[00:13:34] Amasetic: glhf
+[00:13:41] ArmaniDilbo: glhf!!!
+[00:13:41] dem27: 3v1
+[00:13:43] dem27: lets go
+[00:13:43] Jeflex: ama change team
+[00:13:43] BanchoBot: Amasetic changed to Blue
+[00:13:45] Jeflex: :_____
+[00:13:45] ArmaniDilbo: 3v1 :)))
+[00:13:47] BanchoBot: All players are ready
+[00:13:50] Jeflex: glhf!!!
+[00:13:51] BCraftMG: !mp settings
+[00:13:52] dem27: glgl
+[00:13:52] BanchoBot: Room name: SOSF: (Mouse Supremacy) vs (Donkey), History: https://osu.ppy.sh/mp/102107670
+[00:13:52] BanchoBot: Beatmap: https://osu.ppy.sh/b/3140773 Nekrogoblikon - Killing Time (and Space)
+[00:13:52] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:13:52] BanchoBot: Active mods: NoFail, DoubleTime
+[00:13:52] BanchoBot: Players: 4
+[00:13:52] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10653742 Jeflex          [Team Blue]
+[00:13:52] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11375251 Amasetic        [Team Blue]
+[00:13:52] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12790479 dem27           [Team Red ]
+[00:13:52] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11955716 ArmaniDilbo     [Team Red ]
+[00:13:54] BCraftMG: !mp start 10
+[00:13:54] BanchoBot: Countdown aborted
+[00:13:54] BanchoBot: Match starts in 10 seconds
+[00:13:54] BanchoBot: Queued the match to start in 10 seconds
+[00:13:56] Amasetic: glglglglgl
+[00:14:00] BanchoBot: Match starts in 5 seconds
+[00:14:00] BanchoBot: Match starts in 4 seconds
+[00:14:02] BanchoBot: Match starts in 3 seconds
+[00:14:02] BanchoBot: Good luck, have fun!
+[00:14:05] BanchoBot: The match has started!
+[00:16:22] BanchoBot: Jeflex finished playing (Score: 299620, PASSED).
+[00:16:22] BanchoBot: ArmaniDilbo finished playing (Score: 420822, PASSED).
+[00:16:22] BanchoBot: dem27 finished playing (Score: 1158098, PASSED).
+[00:16:22] BanchoBot: Amasetic finished playing (Score: 936670, PASSED).
+[00:16:22] BanchoBot: The match has finished!
+[00:16:41] Jeflex: fm2
+[00:16:53] BCraftMG: !mp map 634351
+[00:16:54] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/634351 SHK - Identity Part III
+[00:16:56] BCraftMG: !mp mods Freemod
+[00:16:56] BanchoBot: Disabled all mods, enabled FreeMod
+[00:16:57] BCraftMG: !mp timer 129
+[00:16:58] BanchoBot: Countdown ends in 2 minutes and 9 seconds
+[00:17:05] BanchoBot: ArmaniDilbo left the game.
+[00:17:09] BanchoBot: Countdown ends in 2 minutes
+[00:17:16] BCraftMG: are we speedrunning
+[00:17:30] BCraftMG: Mouse Supremacy | 1 - 0 | Donkey // Next Pick: Donkey
+[00:17:33] Jeflex: speedrunning 0-5
+[00:17:35] Jeflex: :tf:
+[00:17:39] dem27: bruh
+[00:17:46] Amasetic: trollface
+[00:18:08] BanchoBot: Countdown ends in 1 minute
+[00:18:12] Jeflex: armani plssss this map is sightreadable
+[00:18:12] Jeflex: -_-
+[00:18:14] BanchoBot: ArmaniDilbo joined in slot 4 for team red.
+[00:18:23] Amasetic: glhf
+[00:18:25] BanchoBot: All players are ready
+[00:18:25] Jeflex: hfhfhf!!!
+[00:18:32] ArmaniDilbo: glhf!!!!
+[00:18:34] dem27: glgl
+[00:18:36] BCraftMG: !mp settings
+[00:18:38] BanchoBot: Countdown ends in 30 seconds
+[00:18:38] BanchoBot: Room name: SOSF: (Mouse Supremacy) vs (Donkey), History: https://osu.ppy.sh/mp/102107670
+[00:18:38] BanchoBot: Beatmap: https://osu.ppy.sh/b/634351 SHK - Identity Part III
+[00:18:38] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:18:38] BanchoBot: Active mods: Freemod
+[00:18:38] BanchoBot: Players: 4
+[00:18:38] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10653742 Jeflex          [Team Blue / NoFail, HardRock]
+[00:18:38] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11375251 Amasetic        [Team Blue / NoFail, Hidden]
+[00:18:38] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12790479 dem27           [Team Red  / NoFail, HardRock]
+[00:18:38] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11955716 ArmaniDilbo     [Team Red  / NoFail, Hidden]
+[00:18:41] BCraftMG: !mp start 10
+[00:18:42] BanchoBot: Countdown aborted
+[00:18:42] BanchoBot: Match starts in 10 seconds
+[00:18:42] BanchoBot: Queued the match to start in 10 seconds
+[00:18:49] BanchoBot: Match starts in 5 seconds
+[00:18:49] BanchoBot: Match starts in 4 seconds
+[00:18:51] BanchoBot: Match starts in 3 seconds
+[00:18:51] BanchoBot: Good luck, have fun!
+[00:18:53] BanchoBot: The match has started!
+[00:21:01] BanchoBot: ArmaniDilbo finished playing (Score: 417762, PASSED).
+[00:21:01] BanchoBot: dem27 finished playing (Score: 1001272, PASSED).
+[00:21:03] BanchoBot: Amasetic finished playing (Score: 840856, PASSED).
+[00:21:03] BanchoBot: Jeflex finished playing (Score: 403399, PASSED).
+[00:21:03] BanchoBot: The match has finished!
+[00:21:12] BCraftMG: Mouse Supremacy | 2 - 0 | Donkey // Next Pick: Mouse Supremacy
+[00:21:13] BCraftMG: no
+[00:21:15] BCraftMG: !mp timer 120
+[00:21:18] BanchoBot: Countdown ends in 2 minutes
+[00:21:23] ArmaniDilbo: hd3
+[00:21:25] Jeflex: my desk was shaking cuz I was tapping so hard
+[00:21:29] BCraftMG: !mp map 2694322 0
+[00:21:31] BCraftMG: !mp mods 9
+[00:21:31] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2694322 Zekk - Reference
+[00:21:31] BanchoBot: Changed match mode to Osu
+[00:21:32] BCraftMG: !mp timer 120
+[00:21:33] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[00:21:36] BanchoBot: Countdown aborted
+[00:21:36] BanchoBot: Countdown ends in 2 minutes
+[00:21:42] dem27: BRUH
+[00:21:42] Amasetic: :D
+[00:21:42] dem27: no map
+[00:21:44] dem27: XDDDD
+[00:21:49] Jeflex: sightread tournament
+[00:21:49] Amasetic: shut up
+[00:21:53] Amasetic: lets not talk about it
+[00:21:53] Amasetic: glhf
+[00:21:57] BanchoBot: All players are ready
+[00:21:57] Jeflex: hfhfhf!
+[00:21:59] dem27: okok sorry
+[00:21:59] dem27: glgl
+[00:22:01] ArmaniDilbo: glhf!!!!
+[00:22:14] Amasetic: :D
+[00:22:16] BCraftMG: !mp settings
+[00:22:17] BanchoBot: Room name: SOSF: (Mouse Supremacy) vs (Donkey), History: https://osu.ppy.sh/mp/102107670
+[00:22:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/2694322 Zekk - Reference
+[00:22:17] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:22:17] BanchoBot: Active mods: NoFail, Hidden
+[00:22:17] BanchoBot: Players: 4
+[00:22:17] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10653742 Jeflex          [Team Blue]
+[00:22:17] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11375251 Amasetic        [Team Blue]
+[00:22:17] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12790479 dem27           [Team Red ]
+[00:22:17] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11955716 ArmaniDilbo     [Team Red ]
+[00:22:18] BCraftMG: !mp start 10
+[00:22:19] BanchoBot: Countdown aborted
+[00:22:19] BanchoBot: Match starts in 10 seconds
+[00:22:19] BanchoBot: Queued the match to start in 10 seconds
+[00:22:25] BanchoBot: Match starts in 5 seconds
+[00:22:25] BanchoBot: Match starts in 4 seconds
+[00:22:28] BanchoBot: Match starts in 3 seconds
+[00:22:28] BanchoBot: Good luck, have fun!
+[00:22:30] BanchoBot: The match has started!
+[00:25:30] BanchoBot: Amasetic finished playing (Score: 419577, PASSED).
+[00:25:30] BanchoBot: dem27 finished playing (Score: 570424, PASSED).
+[00:25:30] BanchoBot: ArmaniDilbo finished playing (Score: 609460, PASSED).
+[00:25:30] BanchoBot: Jeflex finished playing (Score: 372645, PASSED).
+[00:25:30] BanchoBot: The match has finished!
+[00:25:41] Amasetic: lol
+[00:25:45] Jeflex: nm3 pick
+[00:25:56] BCraftMG: !mp map 2133726 0
+[00:25:58] BCraftMG: !mp mods 1
+[00:25:58] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2133726 Nanahoshi Kangengakudan - Meikaruza
+[00:25:58] BanchoBot: Changed match mode to Osu
+[00:26:00] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:26:02] dem27: BANGER TIME
+[00:26:02] BCraftMG: !mp tiemr 120
+[00:26:04] dem27: MEIKARUUUUZAAAA
+[00:26:05] BCraftMG: !mp timer 120
+[00:26:06] BanchoBot: Countdown ends in 2 minutes
+[00:26:13] Amasetic: glfh
+[00:26:15] Jeflex: hfhfhf!!!
+[00:26:17] Amasetic: make a loser
+[00:26:21] BanchoBot: All players are ready
+[00:26:33] BCraftMG: !mp settings
+[00:26:35] BanchoBot: Room name: SOSF: (Mouse Supremacy) vs (Donkey), History: https://osu.ppy.sh/mp/102107670
+[00:26:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/2133726 Nanahoshi Kangengakudan - Meikaruza
+[00:26:35] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:26:35] BanchoBot: Active mods: NoFail
+[00:26:35] BanchoBot: Players: 4
+[00:26:35] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10653742 Jeflex          [Team Blue]
+[00:26:35] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11375251 Amasetic        [Team Blue]
+[00:26:35] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12790479 dem27           [Team Red ]
+[00:26:35] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11955716 ArmaniDilbo     [Team Red ]
+[00:26:35] BCraftMG: !mp start 10
+[00:26:37] Amasetic: glhf
+[00:26:37] dem27: glgl
+[00:26:37] BanchoBot: Countdown aborted
+[00:26:37] BanchoBot: Match starts in 10 seconds
+[00:26:37] BanchoBot: Queued the match to start in 10 seconds
+[00:26:43] ArmaniDilbo: glhf!!!
+[00:26:43] BanchoBot: Match starts in 5 seconds
+[00:26:43] BanchoBot: Match starts in 4 seconds
+[00:26:45] BanchoBot: Match starts in 3 seconds
+[00:26:45] BanchoBot: Good luck, have fun!
+[00:26:47] BanchoBot: The match has started!
+[00:31:34] BanchoBot: Jeflex finished playing (Score: 740831, PASSED).
+[00:31:34] BanchoBot: ArmaniDilbo finished playing (Score: 984950, PASSED).
+[00:31:34] BanchoBot: Amasetic finished playing (Score: 827209, PASSED).
+[00:31:34] BanchoBot: dem27 finished playing (Score: 447791, PASSED).
+[00:31:34] BanchoBot: The match has finished!
+[00:31:47] BCraftMG: Mouse Supremacy | 3 - 1 | Donkey // Next Pick: Mouse Supremacy
+[00:31:50] BCraftMG: !mp timer 120
+[00:31:51] BanchoBot: Countdown ends in 2 minutes
+[00:31:58] ArmaniDilbo: dt3
+[00:32:00] Amasetic: acc gaming
+[00:32:04] BCraftMG: !mp map 2133967 0
+[00:32:06] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2133967 Kamiyama Yoh - YELLOW
+[00:32:06] BanchoBot: Changed match mode to Osu
+[00:32:07] BCraftMG: !mp mods 65
+[00:32:08] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[00:32:09] BCraftMG: !mp timer 120
+[00:32:11] Jeflex: jeflexspeed time
+[00:32:11] BanchoBot: Countdown aborted
+[00:32:11] BanchoBot: Countdown ends in 2 minutes
+[00:32:30] Jeflex: 177speed
+[00:32:32] Jeflex: hm
+[00:32:34] ArmaniDilbo: yes
+[00:32:36] ArmaniDilbo: we are speed
+[00:32:40] Amasetic: glhf
+[00:32:49] BanchoBot: All players are ready
+[00:32:51] Jeflex: hfhfh!!!
+[00:32:53] BCraftMG: !mp settings
+[00:32:54] ArmaniDilbo: glhf!!!!
+[00:32:54] dem27: glgl
+[00:32:54] BanchoBot: Room name: SOSF: (Mouse Supremacy) vs (Donkey), History: https://osu.ppy.sh/mp/102107670
+[00:32:54] BanchoBot: Beatmap: https://osu.ppy.sh/b/2133967 Kamiyama Yoh - YELLOW
+[00:32:54] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:32:54] BanchoBot: Active mods: NoFail, DoubleTime
+[00:32:54] BanchoBot: Players: 4
+[00:32:54] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10653742 Jeflex          [Team Blue]
+[00:32:54] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11375251 Amasetic        [Team Blue]
+[00:32:54] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12790479 dem27           [Team Red ]
+[00:32:54] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11955716 ArmaniDilbo     [Team Red ]
+[00:32:55] BCraftMG: !mp start 10
+[00:32:56] BanchoBot: Countdown aborted
+[00:32:56] BanchoBot: Match starts in 10 seconds
+[00:32:56] BanchoBot: Queued the match to start in 10 seconds
+[00:33:02] BanchoBot: Match starts in 5 seconds
+[00:33:02] BanchoBot: Match starts in 4 seconds
+[00:33:05] BanchoBot: Match starts in 3 seconds
+[00:33:05] BanchoBot: Good luck, have fun!
+[00:33:07] BanchoBot: The match has started!
+[00:35:12] BanchoBot: Amasetic finished playing (Score: 585897, PASSED).
+[00:35:12] BanchoBot: Jeflex finished playing (Score: 433432, PASSED).
+[00:35:12] BanchoBot: dem27 finished playing (Score: 1158935, PASSED).
+[00:35:12] BanchoBot: ArmaniDilbo finished playing (Score: 585469, PASSED).
+[00:35:12] BanchoBot: The match has finished!
+[00:35:34] BCraftMG: Mouse Supremacy | 4 - 1 | Donkey // Next Pick: Donkey
+[00:35:36] BCraftMG: !mp timer 120
+[00:35:38] BanchoBot: Countdown ends in 2 minutes
+[00:36:13] Jeflex: hr3
+[00:36:20] BCraftMG: !mp map 1985946
+[00:36:22] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1985946 onoken - Cristalisia
+[00:36:22] BCraftMG: !mp mods 17
+[00:36:24] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[00:36:24] BCraftMG: !mp timer 120
+[00:36:26] BanchoBot: Countdown aborted
+[00:36:26] BanchoBot: Countdown ends in 2 minutes
+[00:36:33] BanchoBot: ArmaniDilbo left the game.
+[00:36:57] BanchoBot: All players are ready
+[00:36:57] BanchoBot: ArmaniDilbo joined in slot 4 for team red.
+[00:37:05] BanchoBot: All players are ready
+[00:37:07] Amasetic: glhf
+[00:37:07] ArmaniDilbo: glhf!!!!
+[00:37:07] dem27: glgl
+[00:37:10] BCraftMG: !mp settings
+[00:37:10] BCraftMG: !mp settings
+[00:37:12] Jeflex: hfhfh!!!
+[00:37:12] BanchoBot: Room name: SOSF: (Mouse Supremacy) vs (Donkey), History: https://osu.ppy.sh/mp/102107670
+[00:37:12] BanchoBot: Beatmap: https://osu.ppy.sh/b/1985946 onoken - Cristalisia
+[00:37:12] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:37:12] BanchoBot: Active mods: NoFail, HardRock
+[00:37:12] BanchoBot: Players: 4
+[00:37:12] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10653742 Jeflex          [Team Blue]
+[00:37:12] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11375251 Amasetic        [Team Blue]
+[00:37:12] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12790479 dem27           [Team Red ]
+[00:37:12] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11955716 ArmaniDilbo     [Team Red ]
+[00:37:13] BCraftMG: !mp start 10
+[00:37:16] BanchoBot: Countdown aborted
+[00:37:16] BanchoBot: Match starts in 10 seconds
+[00:37:16] BanchoBot: Queued the match to start in 10 seconds
+[00:37:22] BanchoBot: Match starts in 5 seconds
+[00:37:22] BanchoBot: Match starts in 4 seconds
+[00:37:24] BanchoBot: Match starts in 3 seconds
+[00:37:24] BanchoBot: Good luck, have fun!
+[00:37:27] BanchoBot: The match has started!
+[00:39:43] BanchoBot: Jeflex finished playing (Score: 564645, PASSED).
+[00:39:43] BanchoBot: ArmaniDilbo finished playing (Score: 514314, PASSED).
+[00:39:46] BanchoBot: Amasetic finished playing (Score: 866580, PASSED).
+[00:39:46] BanchoBot: dem27 finished playing (Score: 519127, PASSED).
+[00:39:46] BanchoBot: The match has finished!
+[00:40:00] BCraftMG: Mouse Supremacy | 4 - 2 | Donkey // Next Pick: Mouse Supremacy
+[00:40:01] BCraftMG: !mp timer 120
+[00:40:05] BanchoBot: Countdown ends in 2 minutes
+[00:40:07] ArmaniDilbo: hd1
+[00:40:15] BCraftMG: !mp map 3391525 0
+[00:40:16] Jeflex: noOOOO
+[00:40:16] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3391525 Annabel - Transient
+[00:40:16] BanchoBot: Changed match mode to Osu
+[00:40:17] BCraftMG: !mp mods 9
+[00:40:18] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[00:40:18] BCraftMG: !mp timer 120
+[00:40:20] ArmaniDilbo: yes :)
+[00:40:20] BanchoBot: Countdown aborted
+[00:40:20] BanchoBot: Countdown ends in 2 minutes
+[00:40:26] dem27: XDDDDDDDDDD
+[00:40:33] Jeflex: okay at least not ar9
+[00:40:35] Jeflex: i fc
+[00:40:42] ArmaniDilbo: O:
+[00:40:42] dem27: :true:
+[00:40:42] Amasetic: dude easy map
+[00:40:44] Jeflex: u guys firetrucked up
+[00:40:46] Jeflex: :tf:
+[00:40:48] Amasetic: thats why we didnt even download
+[00:40:48] BanchoBot: All players are ready
+[00:40:50] Amasetic: ez fc
+[00:40:50] Amasetic: glhf
+[00:40:50] Jeflex: hfhfh!!
+[00:40:51] BCraftMG: !mp settings
+[00:40:53] BanchoBot: Room name: SOSF: (Mouse Supremacy) vs (Donkey), History: https://osu.ppy.sh/mp/102107670
+[00:40:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/3391525 Annabel - Transient
+[00:40:53] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:40:53] BanchoBot: Active mods: NoFail, Hidden
+[00:40:53] BanchoBot: Players: 4
+[00:40:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10653742 Jeflex          [Team Blue]
+[00:40:53] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11375251 Amasetic        [Team Blue]
+[00:40:53] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12790479 dem27           [Team Red ]
+[00:40:53] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11955716 ArmaniDilbo     [Team Red ]
+[00:40:54] BCraftMG: !mp start 10
+[00:40:55] ArmaniDilbo: we fell for your trap card
+[00:40:55] BanchoBot: Countdown aborted
+[00:40:55] BanchoBot: Match starts in 10 seconds
+[00:40:55] BanchoBot: Queued the match to start in 10 seconds
+[00:40:59] ArmaniDilbo: glhf!!!!
+[00:41:01] BanchoBot: Match starts in 5 seconds
+[00:41:01] BanchoBot: Match starts in 4 seconds
+[00:41:04] BanchoBot: Match starts in 3 seconds
+[00:41:04] BanchoBot: Good luck, have fun!
+[00:41:06] dem27: glgl
+[00:41:06] BanchoBot: The match has started!
+[00:44:58] BanchoBot: ArmaniDilbo finished playing (Score: 509888, PASSED).
+[00:44:58] BanchoBot: Jeflex finished playing (Score: 347043, PASSED).
+[00:44:58] BanchoBot: dem27 finished playing (Score: 587462, PASSED).
+[00:44:58] BanchoBot: Amasetic finished playing (Score: 414085, PASSED).
+[00:44:58] BanchoBot: The match has finished!
+[00:45:06] ArmaniDilbo: ggs
+[00:45:09] dem27: ggwp
+[00:45:09] Jeflex: GGS!
+[00:45:11] Amasetic: ggwp
+[00:45:11] Amasetic: lol
+[00:45:15] Amasetic: thanks for reffing
+[00:45:19] BCraftMG: Congrats to Mouse Supremacy for winning this match! GGWP both teams!
+[00:45:20] dem27: sorry for picking hidden
+[00:45:22] ArmaniDilbo: ty for last minute ref
+[00:45:24] dem27: thanks for ref
+[00:45:24] BCraftMG: literally speedrunning
+[00:45:28] dem27: cya everyone
+[00:45:30] dem27: o/
+[00:45:32] BanchoBot: dem27 left the game.
+[00:45:32] Jeflex: bye bye
+[00:45:35] BanchoBot: ArmaniDilbo left the game.
+[00:45:35] Jeflex: thx for reffin
+[00:45:35] Amasetic: thanks for playing
+[00:45:35] Amasetic: cya
+[00:45:36] BCraftMG: its ok i dont need sleep
+[00:45:36] BCraftMG: o/
+[00:45:37] BanchoBot: Jeflex left the game.
+[00:45:37] BanchoBot: Amasetic left the game.
+[00:45:57] BCraftMG: !mp close
+[00:45:59] BanchoBot: Closed the match

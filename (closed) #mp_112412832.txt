@@ -1,0 +1,421 @@
+[15:54:58] Joined #mp_112412832
+[15:54:58] BCraftMG: !mp settings
+[15:54:59] BanchoBot: Room name: ANZT11S: Qualifiers Lobby C7, History: https://osu.ppy.sh/mp/112412832
+[15:54:59] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[15:54:59] BanchoBot: Players: 0
+[15:55:05] BCraftMG: !mp set 0 3 8
+[15:55:05] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[15:55:12] BCraftMG: !mp map 836339
+[15:55:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/836339 Dark PHOENiX - Ryokugan no Jealousy
+[15:55:13] BCraftMG: !mp mods 1
+[15:55:13] BanchoBot: Enabled NoFail, disabled FreeMod
+[15:55:18] BCraftMG: !mp invite #11114987
+[15:55:19] BanchoBot: Invited clyra to the room
+[15:55:58] BanchoBot: clyra joined in slot 1.
+[15:56:44] clyra: should i invite my teammate?
+[15:56:51] BCraftMG: yeye
+[15:56:52] BanchoBot: SirPingu joined in slot 2.
+[15:56:57] clyra: hes here
+[15:57:18] SirPingu: hello
+[15:57:23] BCraftMG: !mp invite Monk The Don
+[15:57:23] BanchoBot: Invited Monk The Don to the room
+[15:58:26] BCraftMG: !mp invite #4012086
+[15:58:26] BanchoBot: Invited Monk The Don to the room
+[16:00:38] BanchoBot: Monk The Don joined in slot 3.
+[16:00:51] BCraftMG: hi
+[16:00:55] BCraftMG: please get your teammate in
+[16:01:01] BanchoBot: Jordan The Bear joined in slot 4.
+[16:01:03] BCraftMG: !mp timer 120
+[16:01:04] BanchoBot: Countdown ends in 2 minutes
+[16:01:18] Monk_The_Don: sec
+[16:01:23] clyra: glhf
+[16:02:05] BanchoBot: Countdown ends in 1 minute
+[16:02:29] BanchoBot: All players are ready
+[16:02:32] BCraftMG: !mp settings
+[16:02:33] BanchoBot: Room name: ANZT11S: Qualifiers Lobby C7, History: https://osu.ppy.sh/mp/112412832
+[16:02:33] BanchoBot: Beatmap: https://osu.ppy.sh/b/836339 Dark PHOENiX - Ryokugan no Jealousy
+[16:02:33] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:02:33] BanchoBot: Active mods: NoFail
+[16:02:33] BanchoBot: Players: 4
+[16:02:33] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11114987 clyra           
+[16:02:33] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10925506 SirPingu        
+[16:02:33] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4012086 Monk The Don    
+[16:02:33] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7477458 Jordan The Bear 
+[16:02:34] BanchoBot: Countdown ends in 30 seconds
+[16:02:35] BCraftMG: !mp start 5 glhf
+[16:02:35] Jordan_The_Bear: keeners
+[16:02:36] BanchoBot: Countdown aborted
+[16:02:36] BanchoBot: Match starts in 5 seconds
+[16:02:36] BanchoBot: Queued the match to start in 5 seconds
+[16:02:37] BanchoBot: Match starts in 4 seconds
+[16:02:38] BanchoBot: Match starts in 3 seconds
+[16:02:39] BanchoBot: Good luck, have fun!
+[16:02:41] BanchoBot: The match has started!
+[16:08:13] BanchoBot: Monk The Don finished playing (Score: 643612, PASSED).
+[16:08:13] BanchoBot: Jordan The Bear finished playing (Score: 682935, PASSED).
+[16:08:15] BanchoBot: clyra finished playing (Score: 416867, PASSED).
+[16:08:15] BanchoBot: SirPingu finished playing (Score: 289590, PASSED).
+[16:08:15] BanchoBot: The match has finished!
+[16:08:21] BCraftMG: !mp map 3220851
+[16:08:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3220851 Fractal Dreamers - Gardens Under A Spring Sky
+[16:08:25] BCraftMG: !mp timer 120
+[16:08:25] BanchoBot: Countdown ends in 2 minutes
+[16:09:08] BanchoBot: All players are ready
+[16:09:16] BCraftMG: !mp settings
+[16:09:17] BanchoBot: Room name: ANZT11S: Qualifiers Lobby C7, History: https://osu.ppy.sh/mp/112412832
+[16:09:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/3220851 Fractal Dreamers - Gardens Under A Spring Sky
+[16:09:17] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:09:17] BanchoBot: Active mods: NoFail
+[16:09:17] BanchoBot: Players: 4
+[16:09:17] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11114987 clyra           
+[16:09:17] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10925506 SirPingu        
+[16:09:17] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4012086 Monk The Don    
+[16:09:17] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7477458 Jordan The Bear 
+[16:09:17] BCraftMG: !mp start 5 glhf
+[16:09:18] BanchoBot: Countdown aborted
+[16:09:18] BanchoBot: Match starts in 5 seconds
+[16:09:18] BanchoBot: Queued the match to start in 5 seconds
+[16:09:19] BanchoBot: Match starts in 4 seconds
+[16:09:20] BanchoBot: Match starts in 3 seconds
+[16:09:21] BanchoBot: Good luck, have fun!
+[16:09:23] BanchoBot: The match has started!
+[16:11:45] BanchoBot: Jordan The Bear finished playing (Score: 202637, PASSED).
+[16:11:46] BanchoBot: Monk The Don finished playing (Score: 305606, PASSED).
+[16:11:46] BanchoBot: SirPingu finished playing (Score: 307642, PASSED).
+[16:11:46] BanchoBot: clyra finished playing (Score: 257751, PASSED).
+[16:11:46] BanchoBot: The match has finished!
+[16:11:54] BCraftMG: !mp map 4253392
+[16:11:56] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4253392 Tsukuyomi - Absolute zero
+[16:11:57] BCraftMG: !mp timer 120
+[16:11:58] BanchoBot: Countdown ends in 2 minutes
+[16:12:44] BanchoBot: All players are ready
+[16:12:46] BCraftMG: !mp settings
+[16:12:47] BanchoBot: Room name: ANZT11S: Qualifiers Lobby C7, History: https://osu.ppy.sh/mp/112412832
+[16:12:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/4253392 Tsukuyomi - Absolute zero
+[16:12:47] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:12:47] BanchoBot: Active mods: NoFail
+[16:12:47] BanchoBot: Players: 4
+[16:12:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11114987 clyra           
+[16:12:47] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10925506 SirPingu        
+[16:12:47] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4012086 Monk The Don    
+[16:12:47] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7477458 Jordan The Bear 
+[16:12:48] BCraftMG: !mp start 5 glhf
+[16:12:49] BanchoBot: Countdown aborted
+[16:12:49] BanchoBot: Match starts in 5 seconds
+[16:12:49] BanchoBot: Queued the match to start in 5 seconds
+[16:12:50] BanchoBot: Match starts in 4 seconds
+[16:12:51] BanchoBot: Match starts in 3 seconds
+[16:12:52] BanchoBot: Good luck, have fun!
+[16:12:54] BanchoBot: The match has started!
+[16:16:39] BanchoBot: SirPingu finished playing (Score: 285256, PASSED).
+[16:16:39] BanchoBot: Monk The Don finished playing (Score: 330464, PASSED).
+[16:16:39] BanchoBot: Jordan The Bear finished playing (Score: 341368, PASSED).
+[16:16:39] BanchoBot: clyra finished playing (Score: 221116, PASSED).
+[16:16:39] BanchoBot: The match has finished!
+[16:16:42] BCraftMG: !mp map 3740872
+[16:16:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3740872 Yunosuke feat. okaki - True Novel
+[16:16:48] BCraftMG: !mp timer 120
+[16:16:48] BanchoBot: Countdown ends in 2 minutes
+[16:16:56] BanchoBot: Jordan The Bear left the game.
+[16:17:11] BanchoBot: Jordan The Bear joined in slot 4.
+[16:17:23] BanchoBot: All players are ready
+[16:17:26] BCraftMG: !mp settings
+[16:17:27] BanchoBot: Room name: ANZT11S: Qualifiers Lobby C7, History: https://osu.ppy.sh/mp/112412832
+[16:17:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/3740872 Yunosuke feat. okaki - True Novel
+[16:17:27] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:17:27] BanchoBot: Active mods: NoFail
+[16:17:27] BanchoBot: Players: 4
+[16:17:27] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11114987 clyra           
+[16:17:27] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10925506 SirPingu        
+[16:17:27] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4012086 Monk The Don    
+[16:17:27] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7477458 Jordan The Bear 
+[16:17:28] BCraftMG: !mp start 5 glhf
+[16:17:29] BanchoBot: Countdown aborted
+[16:17:29] BanchoBot: Match starts in 5 seconds
+[16:17:29] BanchoBot: Queued the match to start in 5 seconds
+[16:17:30] BanchoBot: Match starts in 4 seconds
+[16:17:31] BanchoBot: Match starts in 3 seconds
+[16:17:32] BanchoBot: Good luck, have fun!
+[16:17:34] BanchoBot: The match has started!
+[16:20:56] BanchoBot: clyra finished playing (Score: 112805, PASSED).
+[16:20:56] BanchoBot: SirPingu finished playing (Score: 232198, PASSED).
+[16:20:57] BanchoBot: Monk The Don finished playing (Score: 309452, PASSED).
+[16:20:57] BanchoBot: Jordan The Bear finished playing (Score: 469910, PASSED).
+[16:20:57] BanchoBot: The match has finished!
+[16:21:20] BCraftMG: !mp map 1481149
+[16:21:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1481149 Y&Co. - Daisuke
+[16:21:21] BCraftMG: !mp timer 120
+[16:21:22] BanchoBot: Countdown ends in 2 minutes
+[16:21:34] Jordan_The_Bear: Over or Under 200k
+[16:21:41] SirPingu: over or under 100k*
+[16:21:45] BanchoBot: All players are ready
+[16:21:48] SirPingu: :skull:
+[16:21:49] BCraftMG: !mp settings
+[16:21:49] clyra: :D
+[16:21:50] BanchoBot: Room name: ANZT11S: Qualifiers Lobby C7, History: https://osu.ppy.sh/mp/112412832
+[16:21:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/1481149 Y&Co. - Daisuke
+[16:21:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:21:50] BanchoBot: Active mods: NoFail
+[16:21:50] BanchoBot: Players: 4
+[16:21:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11114987 clyra           
+[16:21:50] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10925506 SirPingu        
+[16:21:50] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4012086 Monk The Don    
+[16:21:50] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7477458 Jordan The Bear 
+[16:21:51] BCraftMG: !mp start 5 glhf
+[16:21:51] Monk_The_Don: I GOT THE OVER ON THIS
+[16:21:51] BanchoBot: Countdown aborted
+[16:21:51] BanchoBot: Match starts in 5 seconds
+[16:21:51] BanchoBot: Queued the match to start in 5 seconds
+[16:21:52] BanchoBot: Match starts in 4 seconds
+[16:21:53] BanchoBot: Match starts in 3 seconds
+[16:21:54] BanchoBot: Good luck, have fun!
+[16:21:56] BanchoBot: The match has started!
+[16:24:05] BanchoBot: Jordan The Bear finished playing (Score: 255023, PASSED).
+[16:24:05] BanchoBot: Monk The Don finished playing (Score: 346501, PASSED).
+[16:24:05] BanchoBot: SirPingu finished playing (Score: 140140, PASSED).
+[16:24:06] BanchoBot: clyra finished playing (Score: 185823, PASSED).
+[16:24:06] BanchoBot: The match has finished!
+[16:24:18] BCraftMG: !mp map 3183124
+[16:24:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3183124 ShinRa-Bansho - Subarashiki Hani World
+[16:24:21] BCraftMG: !mp mods 9
+[16:24:22] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[16:24:25] BCraftMG: !mp settings
+[16:24:27] BanchoBot: Room name: ANZT11S: Qualifiers Lobby C7, History: https://osu.ppy.sh/mp/112412832
+[16:24:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/3183124 ShinRa-Bansho - Subarashiki Hani World
+[16:24:27] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:24:27] BanchoBot: Active mods: NoFail, Hidden
+[16:24:27] BanchoBot: Players: 4
+[16:24:27] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/11114987 clyra           
+[16:24:27] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/10925506 SirPingu        
+[16:24:27] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/4012086 Monk The Don    
+[16:24:27] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/7477458 Jordan The Bear 
+[16:24:27] BCraftMG: !mp timer 120
+[16:24:28] BanchoBot: Countdown ends in 2 minutes
+[16:24:46] Monk_The_Don: LOCKED IN
+[16:24:46] Monk_The_Don: OK
+[16:24:50] clyra: over or under 50k
+[16:24:50] BanchoBot: All players are ready
+[16:24:55] Jordan_The_Bear: huge odds on the over
+[16:24:56] BCraftMG: !mp settings
+[16:24:57] BanchoBot: Room name: ANZT11S: Qualifiers Lobby C7, History: https://osu.ppy.sh/mp/112412832
+[16:24:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/3183124 ShinRa-Bansho - Subarashiki Hani World
+[16:24:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:24:57] BanchoBot: Active mods: NoFail, Hidden
+[16:24:57] BanchoBot: Players: 4
+[16:24:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11114987 clyra           
+[16:24:57] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10925506 SirPingu        
+[16:24:57] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4012086 Monk The Don    
+[16:24:57] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7477458 Jordan The Bear 
+[16:24:58] BCraftMG: !mp start 5 glhf
+[16:24:58] BanchoBot: Countdown aborted
+[16:24:58] BanchoBot: Match starts in 5 seconds
+[16:24:58] BanchoBot: Queued the match to start in 5 seconds
+[16:24:59] BanchoBot: Match starts in 4 seconds
+[16:25:00] BanchoBot: Match starts in 3 seconds
+[16:25:01] clyra: glhf
+[16:25:01] BanchoBot: Good luck, have fun!
+[16:25:02] Monk_The_Don: 496kis over
+[16:25:03] BanchoBot: The match has started!
+[16:29:01] BanchoBot: Jordan The Bear finished playing (Score: 502309, PASSED).
+[16:29:02] BanchoBot: clyra finished playing (Score: 119265, PASSED).
+[16:29:03] BanchoBot: SirPingu finished playing (Score: 54334, PASSED).
+[16:29:06] BanchoBot: Monk The Don finished playing (Score: 231376, PASSED).
+[16:29:06] BanchoBot: The match has finished!
+[16:29:10] BCraftMG: !mp map 3042835
+[16:29:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3042835 Mili - String Theocracy
+[16:29:16] BCraftMG: !mp timer 120
+[16:29:18] SirPingu: map is fake
+[16:29:18] BanchoBot: Countdown ends in 2 minutes
+[16:29:19] clyra: nice score damn
+[16:29:19] SirPingu: not real
+[16:29:59] BanchoBot: All players are ready
+[16:30:07] BCraftMG: !mp settings
+[16:30:08] BanchoBot: Room name: ANZT11S: Qualifiers Lobby C7, History: https://osu.ppy.sh/mp/112412832
+[16:30:08] BanchoBot: Beatmap: https://osu.ppy.sh/b/3042835 Mili - String Theocracy
+[16:30:08] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:30:08] BanchoBot: Active mods: NoFail, Hidden
+[16:30:08] BanchoBot: Players: 4
+[16:30:08] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11114987 clyra           
+[16:30:08] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10925506 SirPingu        
+[16:30:08] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4012086 Monk The Don    
+[16:30:08] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7477458 Jordan The Bear 
+[16:30:08] BCraftMG: !mp start 5 glhf
+[16:30:09] BanchoBot: Countdown aborted
+[16:30:09] BanchoBot: Match starts in 5 seconds
+[16:30:09] BanchoBot: Queued the match to start in 5 seconds
+[16:30:10] BanchoBot: Match starts in 4 seconds
+[16:30:11] BanchoBot: Match starts in 3 seconds
+[16:30:12] BanchoBot: Good luck, have fun!
+[16:30:14] BanchoBot: The match has started!
+[16:33:07] BanchoBot: Monk The Don finished playing (Score: 302349, PASSED).
+[16:33:07] BanchoBot: SirPingu finished playing (Score: 282610, PASSED).
+[16:33:08] BanchoBot: clyra finished playing (Score: 240910, PASSED).
+[16:33:08] BanchoBot: Jordan The Bear finished playing (Score: 617728, PASSED).
+[16:33:08] BanchoBot: The match has finished!
+[16:33:12] BCraftMG: !mp map 4376532
+[16:33:13] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4376532 IOSYS - Hinarin no Yakui Kankei (Edit ver.)
+[16:33:17] BCraftMG: !mp mods 17
+[16:33:17] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[16:33:18] BCraftMG: !mp timer 120
+[16:33:18] BanchoBot: Countdown ends in 2 minutes
+[16:33:53] BanchoBot: All players are ready
+[16:34:05] BCraftMG: !mp settings
+[16:34:07] BanchoBot: Room name: ANZT11S: Qualifiers Lobby C7, History: https://osu.ppy.sh/mp/112412832
+[16:34:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/4376532 IOSYS - Hinarin no Yakui Kankei (Edit ver.)
+[16:34:07] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:34:07] BanchoBot: Active mods: NoFail, HardRock
+[16:34:07] BanchoBot: Players: 4
+[16:34:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11114987 clyra           
+[16:34:07] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10925506 SirPingu        
+[16:34:07] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4012086 Monk The Don    
+[16:34:07] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7477458 Jordan The Bear 
+[16:34:07] BCraftMG: !mp start 5 glhf
+[16:34:08] BanchoBot: Countdown aborted
+[16:34:08] BanchoBot: Match starts in 5 seconds
+[16:34:08] BanchoBot: Queued the match to start in 5 seconds
+[16:34:09] BanchoBot: Match starts in 4 seconds
+[16:34:10] BanchoBot: Match starts in 3 seconds
+[16:34:11] BanchoBot: Good luck, have fun!
+[16:34:13] BanchoBot: The match has started!
+[16:37:26] BanchoBot: clyra finished playing (Score: 179985, PASSED).
+[16:37:26] BanchoBot: Monk The Don finished playing (Score: 326235, PASSED).
+[16:37:26] BanchoBot: Jordan The Bear finished playing (Score: 318913, PASSED).
+[16:37:26] BanchoBot: SirPingu finished playing (Score: 200117, PASSED).
+[16:37:26] BanchoBot: The match has finished!
+[16:37:29] BCraftMG: !mp map 3581000
+[16:37:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3581000 Hippo Campus - Doubt
+[16:37:30] BCraftMG: !mp timer 120
+[16:37:31] BanchoBot: Countdown ends in 2 minutes
+[16:37:55] BanchoBot: All players are ready
+[16:37:57] BCraftMG: !mp settings
+[16:37:58] BanchoBot: Room name: ANZT11S: Qualifiers Lobby C7, History: https://osu.ppy.sh/mp/112412832
+[16:37:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/3581000 Hippo Campus - Doubt
+[16:37:58] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:37:58] BanchoBot: Active mods: NoFail, HardRock
+[16:37:58] BanchoBot: Players: 4
+[16:37:58] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11114987 clyra           
+[16:37:58] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10925506 SirPingu        
+[16:37:58] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4012086 Monk The Don    
+[16:37:58] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7477458 Jordan The Bear 
+[16:37:58] BCraftMG: !mp start 5 glhf
+[16:37:59] BanchoBot: Countdown aborted
+[16:37:59] BanchoBot: Match starts in 5 seconds
+[16:37:59] BanchoBot: Queued the match to start in 5 seconds
+[16:38:00] BanchoBot: Match starts in 4 seconds
+[16:38:02] BanchoBot: Match starts in 3 seconds
+[16:38:03] BanchoBot: Good luck, have fun!
+[16:38:05] BanchoBot: The match has started!
+[16:40:44] BanchoBot: Monk The Don finished playing (Score: 427732, PASSED).
+[16:40:44] BanchoBot: SirPingu finished playing (Score: 205412, PASSED).
+[16:40:45] BanchoBot: clyra finished playing (Score: 308393, PASSED).
+[16:40:45] BanchoBot: Jordan The Bear finished playing (Score: 535475, PASSED).
+[16:40:45] BanchoBot: The match has finished!
+[16:40:46] BCraftMG: !mp map 2626412
+[16:40:47] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2626412 Ricky Martin - Livin' La Vida Loca
+[16:40:48] BCraftMG: !mp mods 65
+[16:40:49] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[16:40:50] BCraftMG: !mp timer 120
+[16:40:50] BanchoBot: Countdown ends in 2 minutes
+[16:41:09] Monk_The_Don: WHAT MONK
+[16:41:10] Monk_The_Don: DOES
+[16:41:12] Monk_The_Don: TO THIS MAP
+[16:41:14] Jordan_The_Bear: over under 150k
+[16:41:15] Monk_The_Don: bare witness
+[16:41:23] SirPingu: lies and deceit
+[16:41:24] BanchoBot: All players are ready
+[16:41:25] BCraftMG: !mp settings
+[16:41:25] clyra: Lock in team.
+[16:41:26] BanchoBot: Room name: ANZT11S: Qualifiers Lobby C7, History: https://osu.ppy.sh/mp/112412832
+[16:41:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/2626412 Ricky Martin - Livin' La Vida Loca
+[16:41:26] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:41:26] BanchoBot: Active mods: NoFail, DoubleTime
+[16:41:26] BanchoBot: Players: 4
+[16:41:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11114987 clyra           
+[16:41:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10925506 SirPingu        
+[16:41:26] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4012086 Monk The Don    
+[16:41:26] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7477458 Jordan The Bear 
+[16:41:27] BCraftMG: !mp start 5 glhf
+[16:41:28] BanchoBot: Countdown aborted
+[16:41:28] BanchoBot: Match starts in 5 seconds
+[16:41:28] BanchoBot: Queued the match to start in 5 seconds
+[16:41:29] BanchoBot: Match starts in 4 seconds
+[16:41:30] BanchoBot: Match starts in 3 seconds
+[16:41:31] BanchoBot: Good luck, have fun!
+[16:41:34] BanchoBot: The match has started!
+[16:44:04] BanchoBot: Monk The Don finished playing (Score: 323669, PASSED).
+[16:44:04] BanchoBot: SirPingu finished playing (Score: 291484, PASSED).
+[16:44:04] BanchoBot: Jordan The Bear finished playing (Score: 168810, PASSED).
+[16:44:04] BanchoBot: clyra finished playing (Score: 283292, PASSED).
+[16:44:04] BanchoBot: The match has finished!
+[16:44:07] BCraftMG: !mp map 3578069
+[16:44:08] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3578069 Ito Kanako - fake me (samfree's Science Adventure Dance Remix)
+[16:44:12] BCraftMG: !mp timer 120
+[16:44:13] BanchoBot: Countdown ends in 2 minutes
+[16:44:48] BanchoBot: All players are ready
+[16:44:54] BCraftMG: !mp settings
+[16:44:55] BanchoBot: Room name: ANZT11S: Qualifiers Lobby C7, History: https://osu.ppy.sh/mp/112412832
+[16:44:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/3578069 Ito Kanako - fake me (samfree's Science Adventure Dance Remix)
+[16:44:55] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:44:55] BanchoBot: Active mods: NoFail, DoubleTime
+[16:44:55] BanchoBot: Players: 4
+[16:44:55] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11114987 clyra           
+[16:44:55] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10925506 SirPingu        
+[16:44:55] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4012086 Monk The Don    
+[16:44:55] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7477458 Jordan The Bear 
+[16:44:55] BCraftMG: !mp start 5 glhf
+[16:44:55] BanchoBot: Countdown aborted
+[16:44:55] BanchoBot: Match starts in 5 seconds
+[16:44:55] BanchoBot: Queued the match to start in 5 seconds
+[16:44:56] BanchoBot: Match starts in 4 seconds
+[16:44:58] BanchoBot: Match starts in 3 seconds
+[16:44:59] BanchoBot: Good luck, have fun!
+[16:45:01] BanchoBot: The match has started!
+[16:48:01] BanchoBot: Monk The Don finished playing (Score: 561888, PASSED).
+[16:48:01] BanchoBot: clyra finished playing (Score: 605349, PASSED).
+[16:48:02] BanchoBot: Jordan The Bear finished playing (Score: 217107, PASSED).
+[16:48:02] BanchoBot: SirPingu finished playing (Score: 448407, PASSED).
+[16:48:02] BanchoBot: The match has finished!
+[16:48:31] Monk_The_Don: ref
+[16:48:41] BCraftMG: !mp map 966335
+[16:48:42] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/966335 Triad Primus - Trancing Pulse
+[16:48:43] BCraftMG: !mp timer 120
+[16:48:44] BanchoBot: Countdown ends in 2 minutes
+[16:49:01] BanchoBot: All players are ready
+[16:49:04] BCraftMG: !mp settings
+[16:49:05] BanchoBot: Room name: ANZT11S: Qualifiers Lobby C7, History: https://osu.ppy.sh/mp/112412832
+[16:49:05] BanchoBot: Beatmap: https://osu.ppy.sh/b/966335 Triad Primus - Trancing Pulse
+[16:49:05] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:49:05] BanchoBot: Active mods: NoFail, DoubleTime
+[16:49:05] BanchoBot: Players: 4
+[16:49:05] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11114987 clyra           
+[16:49:05] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10925506 SirPingu        
+[16:49:05] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4012086 Monk The Don    
+[16:49:05] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7477458 Jordan The Bear 
+[16:49:06] BCraftMG: !mp start 5 glhf
+[16:49:06] BanchoBot: Countdown aborted
+[16:49:06] BanchoBot: Match starts in 5 seconds
+[16:49:06] BanchoBot: Queued the match to start in 5 seconds
+[16:49:07] BanchoBot: Match starts in 4 seconds
+[16:49:08] BanchoBot: Match starts in 3 seconds
+[16:49:10] BanchoBot: Good luck, have fun!
+[16:49:12] BanchoBot: The match has started!
+[16:52:44] BanchoBot: SirPingu finished playing (Score: 516651, PASSED).
+[16:52:46] BanchoBot: Monk The Don finished playing (Score: 399367, PASSED).
+[16:52:46] BanchoBot: Jordan The Bear finished playing (Score: 204188, PASSED).
+[16:52:46] BanchoBot: clyra finished playing (Score: 355065, PASSED).
+[16:52:46] BanchoBot: The match has finished!
+[16:52:56] BanchoBot: Monk The Don left the game.
+[16:53:05] Jordan_The_Bear: PHEW
+[16:53:06] Jordan_The_Bear: wp
+[16:53:07] clyra: ggs
+[16:53:07] BanchoBot: Jordan The Bear left the game.
+[16:53:09] clyra: u2
+[16:53:12] SirPingu: ggs
+[16:53:13] SirPingu: wp
+[16:53:14] clyra: thanks for ref
+[16:53:16] SirPingu: thanks for ref :)
+[16:53:20] BanchoBot: clyra left the game.
+[16:53:25] BanchoBot: SirPingu left the game.
+[16:53:46] BCraftMG: :)
+[16:53:49] BCraftMG: !mp close
+[16:53:50] BanchoBot: Closed the match

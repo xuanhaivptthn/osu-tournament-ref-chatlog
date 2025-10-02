@@ -1,0 +1,660 @@
+[01:53:30] Joined #mp_113006802
+[01:53:30] BCraftMG: !mp settings
+[01:53:31] BanchoBot: Room name: 5WC2024: Israel Qualifiers, History: https://osu.ppy.sh/mp/113006802
+[01:53:31] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[01:53:31] BanchoBot: Players: 0
+[01:53:45] BCraftMG: !mp set 0 3 8
+[01:53:46] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[01:53:46] BCraftMG: !mp map 3895683
+[01:53:47] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3895683 rN - Harumachi Elevator
+[01:56:17] BCraftMG: !mp invite #8233314
+[01:56:17] BanchoBot: Invited LayUp to the room
+[01:58:26] BanchoBot: LayUp joined in slot 1.
+[01:58:34] BCraftMG: wrong lobby earlier
+[01:58:35] BCraftMG: lmao
+[01:58:43] LayUp: XD
+[01:58:44] LayUp: all good
+[01:59:00] BCraftMG: inv ur team in :3c
+[01:59:10] BanchoBot: IlayOwO joined in slot 2.
+[01:59:11] BanchoBot: Flyco joined in slot 3.
+[01:59:19] LayUp: will do no worries
+[01:59:22] BCraftMG: !mp map 4174036
+[01:59:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4174036 Bring Me The Horizon - Kingslayer (feat. BABYMETAL)
+[01:59:37] BanchoBot: sosuu joined in slot 4.
+[02:00:08] LayUp: nf?
+[02:00:24] BCraftMG: !mp mods 1
+[02:00:26] BanchoBot: Enabled NoFail, disabled FreeMod
+[02:00:28] BCraftMG: !mp settings
+[02:00:29] BanchoBot: Room name: 5WC2024: Israel Qualifiers, History: https://osu.ppy.sh/mp/113006802
+[02:00:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/4174036 Bring Me The Horizon - Kingslayer (feat. BABYMETAL)
+[02:00:29] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[02:00:29] BanchoBot: Active mods: NoFail
+[02:00:29] BanchoBot: Players: 4
+[02:00:29] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/8233314 LayUp           
+[02:00:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13317492 IlayOwO         
+[02:00:29] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/20919104 Flyco           
+[02:00:29] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/14644327 sosuu           
+[02:00:45] BanchoBot: All players are ready
+[02:00:46] BCraftMG: !mp settings
+[02:00:47] BanchoBot: Room name: 5WC2024: Israel Qualifiers, History: https://osu.ppy.sh/mp/113006802
+[02:00:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/4174036 Bring Me The Horizon - Kingslayer (feat. BABYMETAL)
+[02:00:47] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[02:00:47] BanchoBot: Active mods: NoFail
+[02:00:47] BanchoBot: Players: 4
+[02:00:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8233314 LayUp           
+[02:00:47] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13317492 IlayOwO         
+[02:00:47] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/20919104 Flyco           
+[02:00:47] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14644327 sosuu           
+[02:00:48] BCraftMG: !mp start 5 glhf
+[02:00:48] BanchoBot: Match starts in 5 seconds
+[02:00:48] BanchoBot: Queued the match to start in 5 seconds
+[02:00:50] BanchoBot: Match starts in 4 seconds
+[02:00:51] BanchoBot: Match starts in 3 seconds
+[02:00:51] sosuu: glgl
+[02:00:51] BanchoBot: Good luck, have fun!
+[02:00:54] BanchoBot: The match has started!
+[02:04:40] BanchoBot: LayUp finished playing (Score: 339667, PASSED).
+[02:04:42] BanchoBot: sosuu finished playing (Score: 327936, PASSED).
+[02:04:42] BanchoBot: IlayOwO finished playing (Score: 381277, PASSED).
+[02:04:42] BanchoBot: Flyco finished playing (Score: 308030, PASSED).
+[02:04:42] BanchoBot: The match has finished!
+[02:05:04] BCraftMG: !mp map 4178416
+[02:05:04] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4178416 Kushper - Versailles
+[02:05:05] BCraftMG: !mp timer 120
+[02:05:05] BanchoBot: Countdown ends in 2 minutes
+[02:06:07] BanchoBot: Countdown ends in 1 minute
+[02:06:37] BanchoBot: Countdown ends in 30 seconds
+[02:06:45] BanchoBot: All players are ready
+[02:06:49] BCraftMG: !mp settings
+[02:06:50] BanchoBot: Room name: 5WC2024: Israel Qualifiers, History: https://osu.ppy.sh/mp/113006802
+[02:06:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/4178416 Kushper - Versailles
+[02:06:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[02:06:50] BanchoBot: Active mods: NoFail
+[02:06:50] BanchoBot: Players: 4
+[02:06:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8233314 LayUp           
+[02:06:50] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13317492 IlayOwO         
+[02:06:50] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/20919104 Flyco           
+[02:06:50] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14644327 sosuu           
+[02:06:52] BCraftMG: !mp start 5 glhf
+[02:06:53] BanchoBot: Countdown aborted
+[02:06:53] BanchoBot: Match starts in 5 seconds
+[02:06:53] BanchoBot: Queued the match to start in 5 seconds
+[02:06:54] BanchoBot: Match starts in 4 seconds
+[02:06:56] BanchoBot: Match starts in 3 seconds
+[02:06:58] BanchoBot: Good luck, have fun!
+[02:06:59] BanchoBot: The match has started!
+[02:07:02] sosuu: kgkgk
+[02:10:41] BanchoBot: Flyco finished playing (Score: 431388, PASSED).
+[02:10:41] BanchoBot: LayUp finished playing (Score: 236150, PASSED).
+[02:10:42] BanchoBot: IlayOwO finished playing (Score: 198480, PASSED).
+[02:10:44] BanchoBot: sosuu finished playing (Score: 194579, PASSED).
+[02:10:44] BanchoBot: The match has finished!
+[02:10:44] LayUp: quick question
+[02:10:52] BCraftMG: !mp map 4191546
+[02:10:53] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4191546 Adust Rain - psychology
+[02:10:53] BCraftMG: what is it
+[02:10:56] LayUp: is it possible to get a re run? our player has decided to be a firetrucking retard sorry for the lagnuage
+[02:10:56] BanchoBot: ChaosEater joined in slot 5.
+[02:11:04] BCraftMG: there is no rerun sorry
+[02:11:09] LayUp: he decided to watch tv
+[02:11:10] ChaosEater: I just want mp
+[02:11:12] LayUp: while he was supposed to paly
+[02:11:13] LayUp: arite
+[02:11:19] BanchoBot: ChaosEater left the game.
+[02:12:20] BanchoBot: sosuu left the game.
+[02:12:28] BanchoBot: Osh3r212 joined in slot 4.
+[02:12:38] BanchoBot: All players are ready
+[02:12:53] LayUp: bcraftmg
+[02:12:56] LayUp: we are ready
+[02:12:59] BCraftMG: !mp settings
+[02:13:00] BanchoBot: Room name: 5WC2024: Israel Qualifiers, History: https://osu.ppy.sh/mp/113006802
+[02:13:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/4191546 Adust Rain - psychology
+[02:13:00] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[02:13:00] BanchoBot: Active mods: NoFail
+[02:13:00] BanchoBot: Players: 4
+[02:13:00] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8233314 LayUp           
+[02:13:00] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13317492 IlayOwO         
+[02:13:00] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/20919104 Flyco           
+[02:13:00] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15298757 Osh3r212        
+[02:13:03] BCraftMG: !mp start 5 glhf
+[02:13:04] Osh3r212: ddsdsdsdsdsdsdsdsdsdsdsdsdsdsds
+[02:13:04] BanchoBot: Match starts in 5 seconds
+[02:13:04] BanchoBot: Queued the match to start in 5 seconds
+[02:13:05] BanchoBot: Match starts in 4 seconds
+[02:13:06] BanchoBot: Match starts in 3 seconds
+[02:13:06] BanchoBot: Good luck, have fun!
+[02:13:09] BanchoBot: The match has started!
+[02:16:49] BanchoBot: LayUp finished playing (Score: 201158, PASSED).
+[02:16:49] BanchoBot: IlayOwO finished playing (Score: 150504, PASSED).
+[02:16:49] BanchoBot: Osh3r212 finished playing (Score: 99600, PASSED).
+[02:16:49] BanchoBot: Flyco finished playing (Score: 136938, PASSED).
+[02:16:49] BanchoBot: The match has finished!
+[02:16:59] LayUp: can i get a 5 min break? i need to calm down
+[02:17:03] BCraftMG: !mp map 3141740
+[02:17:04] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3141740 Agressor Bunx - Acid Mirage (Tourney Cut)
+[02:17:07] LayUp: i am pissed off over a situation in team
+[02:17:10] BCraftMG: !mp timer 300
+[02:17:11] BanchoBot: Countdown ends in 5 minutes
+[02:17:16] LayUp: the one where we asked for rerun
+[02:17:17] LayUp: ty
+[02:18:12] BanchoBot: Countdown ends in 4 minutes
+[02:18:43] Flyco: layup you here
+[02:18:43] Flyco: ?
+[02:18:47] LayUp: yes
+[02:18:47] BCraftMG: i wasnt supposed to give u 5 mins lmao
+[02:18:50] LayUp: i am smoking a cigarret
+[02:18:59] IlayOwO: :skull:
+[02:19:04] Flyco: :(
+[02:19:04] LayUp: so can i still take them?
+[02:19:05] Osh3r212: why not
+[02:19:11] Osh3r212: you know nice guy?
+[02:19:12] BanchoBot: Countdown ends in 3 minutes
+[02:19:14] LayUp: rules osher
+[02:19:14] LayUp: time
+[02:19:20] Osh3r212: ?
+[02:19:23] LayUp: ty for breaking rules for me. appreciated
+[02:19:33] Osh3r212: ma
+[02:19:39] LayUp: azov
+[02:19:47] BCraftMG: just get ready quick
+[02:19:48] BCraftMG: !mp settings
+[02:19:49] BanchoBot: Room name: 5WC2024: Israel Qualifiers, History: https://osu.ppy.sh/mp/113006802
+[02:19:49] BanchoBot: Beatmap: https://osu.ppy.sh/b/3141740 Agressor Bunx - Acid Mirage (Tourney Cut)
+[02:19:49] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[02:19:49] BanchoBot: Active mods: NoFail
+[02:19:49] BanchoBot: Players: 4
+[02:19:49] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/8233314 LayUp           
+[02:19:49] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13317492 IlayOwO         
+[02:19:49] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/20919104 Flyco           
+[02:19:49] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15298757 Osh3r212        
+[02:20:07] LayUp: okay am ready
+[02:20:08] BanchoBot: All players are ready
+[02:20:11] BanchoBot: Countdown ends in 2 minutes
+[02:20:12] BCraftMG: !mp settings
+[02:20:13] BanchoBot: Room name: 5WC2024: Israel Qualifiers, History: https://osu.ppy.sh/mp/113006802
+[02:20:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/3141740 Agressor Bunx - Acid Mirage (Tourney Cut)
+[02:20:13] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[02:20:13] BanchoBot: Active mods: NoFail
+[02:20:13] BanchoBot: Players: 4
+[02:20:13] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8233314 LayUp           
+[02:20:13] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13317492 IlayOwO         
+[02:20:13] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/20919104 Flyco           
+[02:20:13] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15298757 Osh3r212        
+[02:20:15] BCraftMG: !mp start 5 glhf
+[02:20:16] BanchoBot: Countdown aborted
+[02:20:16] BanchoBot: Match starts in 5 seconds
+[02:20:16] BanchoBot: Queued the match to start in 5 seconds
+[02:20:17] BanchoBot: Match starts in 4 seconds
+[02:20:19] Flyco: glhf
+[02:20:19] BanchoBot: Match starts in 3 seconds
+[02:20:20] BanchoBot: Good luck, have fun!
+[02:20:22] BanchoBot: The match has started!
+[02:22:44] BanchoBot: Osh3r212 finished playing (Score: 211890, PASSED).
+[02:22:44] BanchoBot: IlayOwO finished playing (Score: 273584, PASSED).
+[02:22:45] BanchoBot: LayUp finished playing (Score: 299911, PASSED).
+[02:22:45] BanchoBot: Flyco finished playing (Score: 244663, PASSED).
+[02:22:45] BanchoBot: The match has finished!
+[02:22:58] Osh3r212: mb
+[02:22:59] BCraftMG: !mp map 4519090
+[02:23:00] BanchoBot: Osh3r212 left the game.
+[02:23:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4519090 Mitsukai Dokuro (CV:Chiba Saeko) - Bokusatsu Tenshi Dokuro-chan
+[02:23:04] BCraftMG: !mp timer 120
+[02:23:04] BanchoBot: Countdown ends in 2 minutes
+[02:23:12] BanchoBot: Flyco left the game.
+[02:23:32] BanchoBot: ChaosEater joined in slot 3.
+[02:23:58] LayUp: decide on fourth
+[02:24:05] BanchoBot: Countdown ends in 1 minute
+[02:24:21] ChaosEater: israel is a gimmick country???
+[02:24:24] ChaosEater: tf does that mean
+[02:24:34] BanchoBot: Countdown ends in 30 seconds
+[02:24:37] BanchoBot: sosuu joined in slot 4.
+[02:24:50] BanchoBot: sosuu left the game.
+[02:24:54] ChaosEater: ok brug
+[02:24:55] BanchoBot: Countdown ends in 10 seconds
+[02:24:57] BanchoBot: sosuu joined in slot 4.
+[02:25:00] BanchoBot: Countdown ends in 5 seconds
+[02:25:01] BanchoBot: Countdown ends in 4 seconds
+[02:25:01] BanchoBot: Countdown ends in 3 seconds
+[02:25:03] BanchoBot: Countdown ends in 2 seconds
+[02:25:04] BanchoBot: Countdown ends in 1 second
+[02:25:06] BanchoBot: Countdown finished
+[02:25:06] BCraftMG: !mp settings
+[02:25:07] BanchoBot: Room name: 5WC2024: Israel Qualifiers, History: https://osu.ppy.sh/mp/113006802
+[02:25:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/4519090 Mitsukai Dokuro (CV:Chiba Saeko) - Bokusatsu Tenshi Dokuro-chan
+[02:25:07] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[02:25:07] BanchoBot: Active mods: NoFail
+[02:25:07] BanchoBot: Players: 4
+[02:25:07] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/8233314 LayUp           
+[02:25:07] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13317492 IlayOwO         
+[02:25:07] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/29526633 ChaosEater      
+[02:25:07] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/14644327 sosuu           
+[02:25:14] BCraftMG: ready :modcheck:
+[02:25:20] BanchoBot: All players are ready
+[02:25:20] ChaosEater: ready
+[02:25:27] BCraftMG: !mp settings
+[02:25:28] LayUp: ready
+[02:25:28] BanchoBot: Room name: 5WC2024: Israel Qualifiers, History: https://osu.ppy.sh/mp/113006802
+[02:25:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/4519090 Mitsukai Dokuro (CV:Chiba Saeko) - Bokusatsu Tenshi Dokuro-chan
+[02:25:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[02:25:28] BanchoBot: Active mods: NoFail
+[02:25:28] BanchoBot: Players: 4
+[02:25:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8233314 LayUp           
+[02:25:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13317492 IlayOwO         
+[02:25:28] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/29526633 ChaosEater      
+[02:25:28] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14644327 sosuu           
+[02:25:32] ChaosEater: start
+[02:25:32] BCraftMG: !mp start 5 glhf
+[02:25:34] sosuu: glgl
+[02:25:34] BanchoBot: Match starts in 5 seconds
+[02:25:34] BanchoBot: Queued the match to start in 5 seconds
+[02:25:35] BanchoBot: Match starts in 4 seconds
+[02:25:37] ChaosEater: glhf
+[02:25:37] BanchoBot: Match starts in 3 seconds
+[02:25:38] BanchoBot: Good luck, have fun!
+[02:25:38] ChaosEater: gyze
+[02:25:39] BanchoBot: The match has started!
+[02:27:17] BanchoBot: IlayOwO finished playing (Score: 95607, PASSED).
+[02:27:17] BanchoBot: ChaosEater finished playing (Score: 102887, PASSED).
+[02:27:17] BanchoBot: LayUp finished playing (Score: 139908, PASSED).
+[02:27:18] BanchoBot: sosuu finished playing (Score: 120446, PASSED).
+[02:27:18] BanchoBot: The match has finished!
+[02:27:22] ChaosEater: so bad
+[02:27:27] LayUp: minor league it is
+[02:27:37] BCraftMG: !mp map 2603674
+[02:27:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2603674 Jun.A - The Fairy's Adventurous Tale
+[02:27:39] BCraftMG: !mp mods 9
+[02:27:40] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[02:27:41] BCraftMG: !mp timer 120
+[02:27:42] BanchoBot: Flyco joined in slot 5.
+[02:27:42] BanchoBot: Countdown ends in 2 minutes
+[02:27:44] BanchoBot: IlayOwO left the game.
+[02:27:48] BanchoBot: Flyco moved to slot 2
+[02:27:59] BanchoBot: sosuu left the game.
+[02:28:04] ChaosEater: prayge
+[02:28:08] BanchoBot: ChaosEater left the game.
+[02:28:11] BanchoBot: Osh3r212 joined in slot 3.
+[02:28:13] LayUp: ?
+[02:28:20] BanchoBot: the boss bob joined in slot 4.
+[02:28:23] LayUp: chaos eater can get good score
+[02:28:24] BanchoBot: ChaosEater joined in slot 5.
+[02:28:30] BanchoBot: Osh3r212 left the game.
+[02:28:33] ChaosEater: im playing this
+[02:28:36] ChaosEater: I was just checking the map
+[02:28:38] BanchoBot: ChaosEater moved to slot 3
+[02:28:42] BanchoBot: Countdown ends in 1 minute
+[02:28:57] the_boss_bob: lets go team lets go
+[02:29:01] Flyco: glhf
+[02:29:07] Flyco: put ready
+[02:29:10] Flyco: dfsk;fdsk;jfdsjk;fdsjk;sdfjk;dsf
+[02:29:10] BanchoBot: All players are ready
+[02:29:11] ChaosEater: glhf
+[02:29:13] BanchoBot: Countdown ends in 30 seconds
+[02:29:13] BCraftMG: !mp settings
+[02:29:15] the_boss_bob: xzxzxzglkgl
+[02:29:15] BanchoBot: Room name: 5WC2024: Israel Qualifiers, History: https://osu.ppy.sh/mp/113006802
+[02:29:15] BanchoBot: Beatmap: https://osu.ppy.sh/b/2603674 Jun.A - The Fairy's Adventurous Tale
+[02:29:15] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[02:29:15] BanchoBot: Active mods: NoFail, Hidden
+[02:29:15] BanchoBot: Players: 4
+[02:29:15] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8233314 LayUp           
+[02:29:15] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20919104 Flyco           
+[02:29:15] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/29526633 ChaosEater      
+[02:29:15] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/25459233 the boss bob    
+[02:29:16] BCraftMG: !mp start 5 glhf
+[02:29:16] BanchoBot: Countdown aborted
+[02:29:16] BanchoBot: Match starts in 5 seconds
+[02:29:16] BanchoBot: Queued the match to start in 5 seconds
+[02:29:17] BanchoBot: Match starts in 4 seconds
+[02:29:19] BanchoBot: Match starts in 3 seconds
+[02:29:19] BanchoBot: Good luck, have fun!
+[02:29:22] BanchoBot: The match has started!
+[02:31:44] BanchoBot: Flyco finished playing (Score: 231655, PASSED).
+[02:31:45] BanchoBot: LayUp finished playing (Score: 311014, PASSED).
+[02:31:45] BanchoBot: the boss bob finished playing (Score: 235800, PASSED).
+[02:31:45] BanchoBot: ChaosEater finished playing (Score: 363714, PASSED).
+[02:31:45] BanchoBot: The match has finished!
+[02:31:56] ChaosEater: yay
+[02:31:59] ChaosEater: thats pretty good
+[02:32:00] BCraftMG: !mp map 3800124
+[02:32:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3800124 earthmind - ARCADIA
+[02:32:05] BanchoBot: Flyco left the game.
+[02:32:07] BanchoBot: the boss bob moved to slot 2
+[02:32:09] BanchoBot: ChaosEater left the game.
+[02:32:27] BanchoBot: ChaosEater joined in slot 3.
+[02:33:01] BanchoBot: sosuu joined in slot 4.
+[02:33:01] ChaosEater: hopefully I get a good score :prayge:
+[02:33:35] LayUp: ready
+[02:33:38] LayUp: sosuu
+[02:33:41] BanchoBot: All players are ready
+[02:33:42] ChaosEater: glhf
+[02:33:48] sosuu: glgl
+[02:33:52] the_boss_bob: lets go team lets gp
+[02:33:58] BCraftMG: !mp settings
+[02:33:59] BanchoBot: Room name: 5WC2024: Israel Qualifiers, History: https://osu.ppy.sh/mp/113006802
+[02:33:59] BanchoBot: Beatmap: https://osu.ppy.sh/b/3800124 earthmind - ARCADIA
+[02:33:59] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[02:33:59] BanchoBot: Active mods: NoFail, Hidden
+[02:33:59] BanchoBot: Players: 4
+[02:33:59] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8233314 LayUp           
+[02:33:59] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/25459233 the boss bob    
+[02:33:59] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/29526633 ChaosEater      
+[02:33:59] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14644327 sosuu           
+[02:33:59] BCraftMG: !mp start 5 glhf
+[02:34:00] BanchoBot: Match starts in 5 seconds
+[02:34:00] BanchoBot: Queued the match to start in 5 seconds
+[02:34:01] BanchoBot: Match starts in 4 seconds
+[02:34:03] BanchoBot: Match starts in 3 seconds
+[02:34:03] BanchoBot: Good luck, have fun!
+[02:34:04] ChaosEater: gl
+[02:34:06] BanchoBot: The match has started!
+[02:34:09] ChaosEater: glgl
+[02:38:15] BanchoBot: ChaosEater finished playing (Score: 219201, PASSED).
+[02:38:15] BanchoBot: sosuu finished playing (Score: 188517, PASSED).
+[02:38:16] BanchoBot: the boss bob finished playing (Score: 222303, PASSED).
+[02:38:16] BanchoBot: LayUp finished playing (Score: 279352, PASSED).
+[02:38:16] BanchoBot: The match has finished!
+[02:38:21] BCraftMG: !mp map 2754917
+[02:38:22] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2754917 ARM (IOSYS) + Brasscapsule - Jazz is Rad
+[02:38:25] BCraftMG: !mp timer 120
+[02:38:27] BanchoBot: Countdown ends in 2 minutes
+[02:38:44] BanchoBot: ChaosEater left the game.
+[02:38:53] BanchoBot: Osh3r212 joined in slot 3.
+[02:39:06] BanchoBot: Flyco joined in slot 5.
+[02:39:11] BanchoBot: sosuu left the game.
+[02:39:14] BanchoBot: Flyco moved to slot 4
+[02:39:27] BanchoBot: Countdown ends in 1 minute
+[02:39:34] LayUp: ready up everyone
+[02:39:45] BanchoBot: All players are ready
+[02:39:48] BCraftMG: !mp settings
+[02:39:51] BanchoBot: Room name: 5WC2024: Israel Qualifiers, History: https://osu.ppy.sh/mp/113006802
+[02:39:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/2754917 ARM (IOSYS) + Brasscapsule - Jazz is Rad
+[02:39:51] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[02:39:51] BanchoBot: Active mods: NoFail, Hidden
+[02:39:51] BanchoBot: Players: 4
+[02:39:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8233314 LayUp           
+[02:39:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/25459233 the boss bob    
+[02:39:51] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15298757 Osh3r212        
+[02:39:51] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/20919104 Flyco           
+[02:39:52] BCraftMG: !mp start 5 glhf
+[02:39:53] BanchoBot: Countdown aborted
+[02:39:53] BanchoBot: Match starts in 5 seconds
+[02:39:53] BanchoBot: Queued the match to start in 5 seconds
+[02:39:55] BanchoBot: Match starts in 4 seconds
+[02:39:56] BanchoBot: Match starts in 3 seconds
+[02:39:58] BanchoBot: Good luck, have fun!
+[02:39:59] BanchoBot: The match has started!
+[02:42:03] BanchoBot: the boss bob finished playing (Score: 168595, PASSED).
+[02:42:03] BanchoBot: LayUp finished playing (Score: 144542, PASSED).
+[02:42:03] BanchoBot: Osh3r212 finished playing (Score: 62438, PASSED).
+[02:42:04] BanchoBot: Flyco finished playing (Score: 83603, PASSED).
+[02:42:04] BanchoBot: The match has finished!
+[02:42:28] the_boss_bob: lets go team
+[02:42:31] BCraftMG: !mp map 1694583
+[02:42:32] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1694583 Camellia feat. Nanahira - Bassdrop Freaks (2018 "Redrop" ver.)
+[02:42:33] BCraftMG: !mp mods 17
+[02:42:34] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[02:42:36] BCraftMG: !mp timer 120
+[02:42:37] BanchoBot: Countdown ends in 2 minutes
+[02:42:41] the_boss_bob: i leave it all for u now
+[02:42:44] BanchoBot: the boss bob left the game.
+[02:42:57] BanchoBot: IlayOwO joined in slot 2.
+[02:43:03] BanchoBot: sosuu joined in slot 5.
+[02:43:06] BanchoBot: Osh3r212 left the game.
+[02:43:21] BanchoBot: Flyco moved to slot 3
+[02:43:26] BanchoBot: sosuu moved to slot 4
+[02:43:32] BanchoBot: All players are ready
+[02:43:36] BCraftMG: !mp settings
+[02:43:37] BanchoBot: Countdown ends in 1 minute
+[02:43:37] BanchoBot: Room name: 5WC2024: Israel Qualifiers, History: https://osu.ppy.sh/mp/113006802
+[02:43:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/1694583 Camellia feat. Nanahira - Bassdrop Freaks (2018 "Redrop" ver.)
+[02:43:37] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[02:43:37] BanchoBot: Active mods: NoFail, HardRock
+[02:43:37] BanchoBot: Players: 4
+[02:43:37] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8233314 LayUp           
+[02:43:37] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13317492 IlayOwO         
+[02:43:37] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/20919104 Flyco           
+[02:43:37] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14644327 sosuu           
+[02:43:38] BCraftMG: !mp start 5 glhf
+[02:43:38] BanchoBot: Countdown aborted
+[02:43:38] BanchoBot: Match starts in 5 seconds
+[02:43:38] BanchoBot: Queued the match to start in 5 seconds
+[02:43:40] BanchoBot: Match starts in 4 seconds
+[02:43:41] BanchoBot: Match starts in 3 seconds
+[02:43:43] BanchoBot: Good luck, have fun!
+[02:43:44] BanchoBot: The match has started!
+[02:48:22] BanchoBot: IlayOwO finished playing (Score: 277997, PASSED).
+[02:48:22] BanchoBot: Flyco finished playing (Score: 265200, PASSED).
+[02:48:23] BanchoBot: LayUp finished playing (Score: 372465, PASSED).
+[02:48:23] BanchoBot: sosuu finished playing (Score: 288183, PASSED).
+[02:48:23] BanchoBot: The match has finished!
+[02:48:34] BCraftMG: !mp map 3754547
+[02:48:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3754547 School Food Punishment - fiction nonfiction
+[02:49:06] BanchoBot: Osh3r212 joined in slot 5.
+[02:49:10] BanchoBot: Osh3r212 left the game.
+[02:49:24] BanchoBot: sosuu left the game.
+[02:49:32] BanchoBot: sosuu joined in slot 4.
+[02:49:40] LayUp: ready up fsat
+[02:49:43] LayUp: i got another tourney in 11 minutes
+[02:49:52] BanchoBot: Osh3r212 joined in slot 5.
+[02:49:53] Flyco: doomed
+[02:49:53] LayUp: i mean i stay obviously
+[02:49:56] LayUp: but just,.... hurry up please
+[02:50:05] BanchoBot: Osh3r212 left the game.
+[02:50:08] BanchoBot: All players are ready
+[02:50:13] BCraftMG: !mp settings
+[02:50:14] BanchoBot: Room name: 5WC2024: Israel Qualifiers, History: https://osu.ppy.sh/mp/113006802
+[02:50:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/3754547 School Food Punishment - fiction nonfiction
+[02:50:14] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[02:50:14] BanchoBot: Active mods: NoFail, HardRock
+[02:50:14] BanchoBot: Players: 4
+[02:50:14] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8233314 LayUp           
+[02:50:14] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13317492 IlayOwO         
+[02:50:14] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/20919104 Flyco           
+[02:50:14] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14644327 sosuu           
+[02:50:16] BCraftMG: !mp start 5 glhf
+[02:50:16] BanchoBot: Match starts in 5 seconds
+[02:50:16] BanchoBot: Queued the match to start in 5 seconds
+[02:50:18] BanchoBot: Match starts in 4 seconds
+[02:50:19] BanchoBot: Match starts in 3 seconds
+[02:50:21] BanchoBot: Good luck, have fun!
+[02:50:22] BanchoBot: The match has started!
+[02:53:18] BanchoBot: LayUp finished playing (Score: 253667, PASSED).
+[02:53:18] BanchoBot: IlayOwO finished playing (Score: 206340, PASSED).
+[02:53:18] BanchoBot: Flyco finished playing (Score: 208717, PASSED).
+[02:53:20] BanchoBot: sosuu finished playing (Score: 283044, PASSED).
+[02:53:20] BanchoBot: The match has finished!
+[02:53:31] BCraftMG: !mp map 2106420
+[02:53:32] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2106420 tarolabo - Zeitmesser
+[02:53:33] BCraftMG: !mp timer 120
+[02:53:34] BanchoBot: Countdown ends in 2 minutes
+[02:53:43] BanchoBot: Osh3r212 joined in slot 5.
+[02:53:47] BanchoBot: Osh3r212 left the game.
+[02:53:49] BanchoBot: sosuu left the game.
+[02:53:49] BanchoBot: Osh3r212 joined in slot 4.
+[02:53:50] BanchoBot: IlayOwO left the game.
+[02:53:53] BanchoBot: Osh3r212 moved to slot 2
+[02:54:08] BanchoBot: Osh3r212 left the game.
+[02:54:21] BanchoBot: IlayOwO joined in slot 2.
+[02:54:24] BanchoBot: sosuu joined in slot 4.
+[02:54:32] BanchoBot: All players are ready
+[02:54:33] BCraftMG: !mp settings
+[02:54:34] BanchoBot: Room name: 5WC2024: Israel Qualifiers, History: https://osu.ppy.sh/mp/113006802
+[02:54:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/2106420 tarolabo - Zeitmesser
+[02:54:34] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[02:54:34] BanchoBot: Active mods: NoFail, HardRock
+[02:54:34] BanchoBot: Players: 4
+[02:54:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8233314 LayUp           
+[02:54:34] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13317492 IlayOwO         
+[02:54:34] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/20919104 Flyco           
+[02:54:34] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14644327 sosuu           
+[02:54:35] BCraftMG: !mp start 5 glhf
+[02:54:35] BanchoBot: Countdown ends in 1 minute
+[02:54:35] BanchoBot: Countdown aborted
+[02:54:35] BanchoBot: Match starts in 5 seconds
+[02:54:35] BanchoBot: Queued the match to start in 5 seconds
+[02:54:37] BanchoBot: Match starts in 4 seconds
+[02:54:38] BanchoBot: Match starts in 3 seconds
+[02:54:40] BanchoBot: Good luck, have fun!
+[02:54:40] Flyco: gl
+[02:54:41] BanchoBot: The match has started!
+[02:56:41] BanchoBot: Flyco finished playing (Score: 198328, PASSED).
+[02:56:41] BanchoBot: LayUp finished playing (Score: 249238, PASSED).
+[02:56:41] BanchoBot: sosuu finished playing (Score: 512678, PASSED).
+[02:56:43] BanchoBot: IlayOwO finished playing (Score: 238713, PASSED).
+[02:56:43] BanchoBot: The match has finished!
+[02:56:46] LayUp: nice score sosu
+[02:56:51] BCraftMG: !mp map 2671123
+[02:56:53] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2671123 Sakakibara Yui - Scarlet
+[02:56:54] LayUp: we are barely at the 1m average
+[02:56:54] LayUp: f
+[02:56:57] BCraftMG: !mp mods 65
+[02:56:57] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[02:56:59] BCraftMG: !mp timer 120
+[02:57:00] BanchoBot: Countdown ends in 2 minutes
+[02:57:09] LayUp: hopefully dt should bring us some score
+[02:57:25] BanchoBot: sosuu left the game.
+[02:57:34] LayUp: sosu not playing dt?
+[02:57:40] IlayOwO: she is
+[02:57:55] BanchoBot: Flyco left the game.
+[02:57:57] BanchoBot: IlayOwO left the game.
+[02:58:01] BanchoBot: Countdown ends in 1 minute
+[02:58:17] BanchoBot: Flyco joined in slot 2.
+[02:58:20] BanchoBot: sosuu joined in slot 3.
+[02:58:31] BanchoBot: Countdown ends in 30 seconds
+[02:58:31] BanchoBot: IlayOwO joined in slot 4.
+[02:58:50] LayUp: then plkeas hurry up
+[02:58:50] BanchoBot: Countdown ends in 10 seconds
+[02:58:53] LayUp: i got tourney
+[02:58:56] BanchoBot: Countdown ends in 5 seconds
+[02:58:57] BanchoBot: Countdown ends in 4 seconds
+[02:58:57] BanchoBot: Countdown ends in 3 seconds
+[02:58:59] BanchoBot: Countdown ends in 2 seconds
+[02:58:59] BanchoBot: All players are ready
+[02:59:00] BanchoBot: Countdown ends in 1 second
+[02:59:00] BanchoBot: Countdown finished
+[02:59:03] BCraftMG: !mp settings
+[02:59:03] BanchoBot: Room name: 5WC2024: Israel Qualifiers, History: https://osu.ppy.sh/mp/113006802
+[02:59:03] BanchoBot: Beatmap: https://osu.ppy.sh/b/2671123 Sakakibara Yui - Scarlet
+[02:59:03] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[02:59:03] BanchoBot: Active mods: NoFail, DoubleTime
+[02:59:04] BanchoBot: Players: 4
+[02:59:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8233314 LayUp           
+[02:59:04] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20919104 Flyco           
+[02:59:04] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14644327 sosuu           
+[02:59:04] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13317492 IlayOwO         
+[02:59:04] BCraftMG: !mp start 5 glhf
+[02:59:05] BanchoBot: Match starts in 5 seconds
+[02:59:05] BanchoBot: Queued the match to start in 5 seconds
+[02:59:06] BanchoBot: Match starts in 4 seconds
+[02:59:08] BanchoBot: Match starts in 3 seconds
+[02:59:09] BanchoBot: Good luck, have fun!
+[02:59:10] BanchoBot: The match has started!
+[03:01:53] BanchoBot: Flyco finished playing (Score: 289068, PASSED).
+[03:01:53] BanchoBot: sosuu finished playing (Score: 251545, PASSED).
+[03:01:53] BanchoBot: IlayOwO finished playing (Score: 375942, PASSED).
+[03:01:53] BanchoBot: LayUp finished playing (Score: 330106, PASSED).
+[03:01:53] BanchoBot: The match has finished!
+[03:02:01] BCraftMG: !mp map 2130652
+[03:02:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2130652 Powerwolf - Christ & Combat
+[03:02:04] BCraftMG: !mp timer 120
+[03:02:05] BanchoBot: Countdown ends in 2 minutes
+[03:02:15] BanchoBot: Osh3r212 joined in slot 5.
+[03:02:18] BanchoBot: sosuu left the game.
+[03:02:29] BanchoBot: Osh3r212 moved to slot 3
+[03:02:43] BanchoBot: IlayOwO left the game.
+[03:02:58] BanchoBot: IlayOwO joined in slot 4.
+[03:03:05] BanchoBot: Countdown ends in 1 minute
+[03:03:11] LayUp: osher ready up
+[03:03:15] BanchoBot: All players are ready
+[03:03:16] BCraftMG: !mp settings
+[03:03:17] BanchoBot: Room name: 5WC2024: Israel Qualifiers, History: https://osu.ppy.sh/mp/113006802
+[03:03:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/2130652 Powerwolf - Christ & Combat
+[03:03:17] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[03:03:17] BanchoBot: Active mods: NoFail, DoubleTime
+[03:03:17] BanchoBot: Players: 4
+[03:03:17] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8233314 LayUp           
+[03:03:17] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20919104 Flyco           
+[03:03:17] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15298757 Osh3r212        
+[03:03:17] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13317492 IlayOwO         
+[03:03:17] BCraftMG: !mp start 5 glhf
+[03:03:18] BanchoBot: Countdown aborted
+[03:03:18] BanchoBot: Match starts in 5 seconds
+[03:03:18] BanchoBot: Queued the match to start in 5 seconds
+[03:03:19] BanchoBot: Match starts in 4 seconds
+[03:03:21] BanchoBot: Match starts in 3 seconds
+[03:03:22] BanchoBot: Good luck, have fun!
+[03:03:24] BanchoBot: The match has started!
+[03:05:55] BanchoBot: IlayOwO finished playing (Score: 272185, PASSED).
+[03:05:55] BanchoBot: Flyco finished playing (Score: 386978, PASSED).
+[03:05:56] BanchoBot: LayUp finished playing (Score: 359979, PASSED).
+[03:05:56] BanchoBot: Osh3r212 finished playing (Score: 141978, PASSED).
+[03:05:56] BanchoBot: The match has finished!
+[03:06:08] BCraftMG: !mp map 3145696
+[03:06:09] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3145696 Ito Kanako - Desire Blue sky
+[03:06:10] BCraftMG: !mp timer 120
+[03:06:11] BanchoBot: Countdown ends in 2 minutes
+[03:06:50] LayUp: Flyco
+[03:06:51] LayUp: ready up
+[03:07:07] BanchoBot: All players are ready
+[03:07:11] BanchoBot: Countdown ends in 1 minute
+[03:07:18] BCraftMG: !mp settings
+[03:07:19] BCraftMG: !mp start 5 glhf
+[03:07:20] BanchoBot: Room name: 5WC2024: Israel Qualifiers, History: https://osu.ppy.sh/mp/113006802
+[03:07:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/3145696 Ito Kanako - Desire Blue sky
+[03:07:20] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[03:07:20] BanchoBot: Active mods: NoFail, DoubleTime
+[03:07:20] BanchoBot: Players: 4
+[03:07:20] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8233314 LayUp           
+[03:07:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20919104 Flyco           
+[03:07:20] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15298757 Osh3r212        
+[03:07:20] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13317492 IlayOwO         
+[03:07:21] BanchoBot: Countdown aborted
+[03:07:21] BanchoBot: Match starts in 5 seconds
+[03:07:21] BanchoBot: Queued the match to start in 5 seconds
+[03:07:23] BanchoBot: Match starts in 4 seconds
+[03:07:24] BanchoBot: Match starts in 3 seconds
+[03:07:24] Flyco: wait
+[03:07:25] BanchoBot: Good luck, have fun!
+[03:07:25] Flyco: weait
+[03:07:27] Flyco: wait
+[03:07:27] BanchoBot: The match has started!
+[03:07:31] BCraftMG: !mp abort
+[03:07:32] BanchoBot: Aborted the match
+[03:07:42] Flyco: my team is stupid
+[03:07:47] BCraftMG: ?
+[03:07:49] LayUp: ?
+[03:07:49] BanchoBot: Osh3r212 left the game.
+[03:07:52] BanchoBot: sosuu joined in slot 3.
+[03:07:57] Flyco: we sorrty
+[03:08:12] BanchoBot: All players are ready
+[03:08:16] BCraftMG: !mp settings
+[03:08:18] BanchoBot: Room name: 5WC2024: Israel Qualifiers, History: https://osu.ppy.sh/mp/113006802
+[03:08:18] BanchoBot: Beatmap: https://osu.ppy.sh/b/3145696 Ito Kanako - Desire Blue sky
+[03:08:18] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[03:08:18] BanchoBot: Active mods: NoFail, DoubleTime
+[03:08:18] BanchoBot: Players: 4
+[03:08:18] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8233314 LayUp           
+[03:08:18] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20919104 Flyco           
+[03:08:18] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14644327 sosuu           
+[03:08:18] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13317492 IlayOwO         
+[03:08:18] BCraftMG: !mp start 5 glhf
+[03:08:19] BanchoBot: Match starts in 5 seconds
+[03:08:19] BanchoBot: Queued the match to start in 5 seconds
+[03:08:20] BanchoBot: Match starts in 4 seconds
+[03:08:22] BanchoBot: Match starts in 3 seconds
+[03:08:23] BanchoBot: Good luck, have fun!
+[03:08:25] BanchoBot: The match has started!
+[03:11:25] BanchoBot: LayUp finished playing (Score: 315560, PASSED).
+[03:11:26] BanchoBot: IlayOwO finished playing (Score: 306019, PASSED).
+[03:11:26] BanchoBot: Flyco finished playing (Score: 388953, PASSED).
+[03:11:28] BanchoBot: sosuu finished playing (Score: 364521, PASSED).
+[03:11:28] BanchoBot: The match has finished!
+[03:11:31] LayUp: gg
+[03:11:33] LayUp: ty for reffing
+[03:11:42] IlayOwO: ty
+[03:11:44] BanchoBot: IlayOwO left the game.
+[03:11:49] BanchoBot: sosuu left the game.
+[03:11:55] Flyco: ty for reff
+[03:11:58] BanchoBot: Flyco left the game.
+[03:11:58] BanchoBot: LayUp left the game.
+[03:12:21] BCraftMG: !mp close
+[03:12:23] BanchoBot: Closed the match

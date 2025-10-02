@@ -1,0 +1,504 @@
+[19:48:40] Joined #mp_115709114
+[19:48:40] BCraftMG: !mp settings
+[19:48:41] BanchoBot: Room name: VNOC5: (_ Freedom _) vs (def), History: https://osu.ppy.sh/mp/115709114
+[19:48:41] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[19:48:41] BanchoBot: Players: 0
+[19:48:56] BCraftMG: !mp addref Hoaq
+[19:48:58] BanchoBot: Added Hoaq to the match referees
+[19:48:59] BCraftMG: !mp map 3895683
+[19:49:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3895683 rN - Harumachi Elevator
+[19:54:46] BCraftMG: !mp invite #3999831
+[19:54:47] BanchoBot: Invited _ Freedom _ to the room
+[19:54:50] BCraftMG: !mp invite #21619075
+[19:54:51] BanchoBot: Invited def to the room
+[19:55:03] BCraftMG: !mp set 0 3 3
+[19:55:04] BanchoBot: Changed match settings to 3 slots, HeadToHead, ScoreV2
+[19:58:41] BanchoBot: _ Freedom _ joined in slot 1.
+[19:59:00] __Freedom__: nhac chill
+[19:59:06] __Freedom__: bo nay vao pool dc khum
+[19:59:06] BCraftMG: cung chill
+[19:59:10] BCraftMG: hong
+[19:59:22] BCraftMG: nhung ma lobby when
+[19:59:28] BanchoBot: def joined in slot 2.
+[19:59:29] __Freedom__: soon
+[19:59:30] __Freedom__: tm
+[19:59:32] BCraftMG: yay
+[20:00:01] BCraftMG: thôi đưuiọc rồi roll luôn thôi
+[20:00:12] def: !roll
+[20:00:12] BanchoBot: def rolls 74 point(s)
+[20:00:14] __Freedom__: !roll
+[20:00:14] BanchoBot: _ Freedom _ rolls 24 point(s)
+[20:00:20] __Freedom__: thua gan het roll
+[20:00:21] __Freedom__: yay
+[20:00:23] BCraftMG: yay
+[20:00:33] BCraftMG: def chọn pick hoặc ban order
+[20:00:42] BCraftMG: mà duma gf rồi tự giác đi mn
+[20:00:43] def: ban 1st
+[20:00:54] __Freedom__: 1st pick
+[20:01:03] def: protect hd2
+[20:01:15] __Freedom__: protect hd1
+[20:01:23] def: ban nm5
+[20:01:33] __Freedom__: ban dt4
+[20:01:37] BCraftMG: AY YO TU TU
+[20:01:55] __Freedom__: thi tu giac
+[20:01:58] __Freedom__: suong the con che
+[20:02:21] BCraftMG: ok xong
+[20:02:25] __Freedom__: pick hd2
+[20:02:38] BCraftMG: !mp map 4804835
+[20:02:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4804835 SAMPLING MASTERS MEGA - Kattobi KEIKYU Rider
+[20:02:39] BCraftMG: !mp mods 9
+[20:02:41] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[20:02:45] BCraftMG: !mp timer 120
+[20:02:46] BanchoBot: Countdown ends in 2 minutes
+[20:03:27] BanchoBot: All players are ready
+[20:03:32] BCraftMG: !mp settings
+[20:03:33] BanchoBot: Room name: VNOC5: (_ Freedom _) vs (def), History: https://osu.ppy.sh/mp/115709114
+[20:03:33] BanchoBot: Beatmap: https://osu.ppy.sh/b/4804835 SAMPLING MASTERS MEGA - Kattobi KEIKYU Rider
+[20:03:33] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:03:33] BanchoBot: Active mods: NoFail, Hidden
+[20:03:33] BanchoBot: Players: 2
+[20:03:33] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     
+[20:03:33] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21619075 def             
+[20:03:34] BCraftMG: !mp start 5 glhf
+[20:03:35] BanchoBot: Countdown aborted
+[20:03:35] BanchoBot: Match starts in 5 seconds
+[20:03:35] BanchoBot: Queued the match to start in 5 seconds
+[20:03:36] BanchoBot: Match starts in 4 seconds
+[20:03:37] BanchoBot: Match starts in 3 seconds
+[20:03:39] BanchoBot: Good luck, have fun!
+[20:03:41] BanchoBot: The match has started!
+[20:06:32] BanchoBot: _ Freedom _ finished playing (Score: 60773, PASSED).
+[20:06:33] BanchoBot: def finished playing (Score: 274372, PASSED).
+[20:06:33] BanchoBot: The match has finished!
+[20:06:40] BCraftMG: _ Freedom _ | 0 - 1 | def // BO13, Next pick: def
+[20:06:41] BCraftMG: !mp timer 120
+[20:06:42] BanchoBot: Countdown ends in 2 minutes
+[20:07:06] def: nm2
+[20:07:10] BCraftMG: !mp map 4805556
+[20:07:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4805556 Hideyuki Fukasawa - Gyakkou Unga/Tentai Jutai
+[20:07:12] BCraftMG: !Mp mods 1
+[20:07:13] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:07:14] BCraftMG: !mp timer 120
+[20:07:15] BanchoBot: Countdown aborted
+[20:07:15] BanchoBot: Countdown ends in 2 minutes
+[20:08:14] BanchoBot: All players are ready
+[20:08:15] BanchoBot: Countdown ends in 1 minute
+[20:08:19] BCraftMG: !mp settings
+[20:08:20] BanchoBot: Room name: VNOC5: (_ Freedom _) vs (def), History: https://osu.ppy.sh/mp/115709114
+[20:08:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/4805556 Hideyuki Fukasawa - Gyakkou Unga/Tentai Jutai
+[20:08:20] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:08:20] BanchoBot: Active mods: NoFail
+[20:08:20] BanchoBot: Players: 2
+[20:08:20] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     
+[20:08:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21619075 def             
+[20:08:21] BCraftMG: !mp start 5 glhf
+[20:08:21] BanchoBot: Countdown aborted
+[20:08:21] BanchoBot: Match starts in 5 seconds
+[20:08:21] BanchoBot: Queued the match to start in 5 seconds
+[20:08:22] BanchoBot: Match starts in 4 seconds
+[20:08:23] BanchoBot: Match starts in 3 seconds
+[20:08:25] BanchoBot: Good luck, have fun!
+[20:08:27] BanchoBot: The match has started!
+[20:11:29] BanchoBot: def finished playing (Score: 146068, PASSED).
+[20:11:30] BanchoBot: _ Freedom _ finished playing (Score: 271743, PASSED).
+[20:11:30] BanchoBot: The match has finished!
+[20:11:38] BCraftMG: _ Freedom _ | 1 - 1 | def // BO13, Next pick: _ Freedom _
+[20:11:39] BCraftMG: !mp timer 120
+[20:11:40] BanchoBot: Countdown ends in 2 minutes
+[20:11:50] __Freedom__: hd4
+[20:11:56] BCraftMG: !mp map 4805663
+[20:11:56] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4805663 sky_delta - Precursor
+[20:11:58] BCraftMG: !mp mods 9
+[20:11:59] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[20:12:00] def: Het stamina
+[20:12:01] BCraftMG: !mp timer 120
+[20:12:02] BanchoBot: Countdown aborted
+[20:12:02] BanchoBot: Countdown ends in 2 minutes
+[20:12:03] def: Thong cam Ae
+[20:12:04] __Freedom__: kho' loi'
+[20:12:10] BanchoBot: All players are ready
+[20:12:13] BCraftMG: !mp settings
+[20:12:15] BanchoBot: Room name: VNOC5: (_ Freedom _) vs (def), History: https://osu.ppy.sh/mp/115709114
+[20:12:15] BanchoBot: Beatmap: https://osu.ppy.sh/b/4805663 sky_delta - Precursor
+[20:12:15] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:12:15] BanchoBot: Active mods: NoFail, Hidden
+[20:12:15] BanchoBot: Players: 2
+[20:12:15] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     
+[20:12:15] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21619075 def             
+[20:12:21] BCraftMG: !mp start 5 glhf
+[20:12:21] BanchoBot: Countdown aborted
+[20:12:21] BanchoBot: Match starts in 5 seconds
+[20:12:21] BanchoBot: Queued the match to start in 5 seconds
+[20:12:23] BanchoBot: Match starts in 4 seconds
+[20:12:24] BanchoBot: Match starts in 3 seconds
+[20:12:25] BanchoBot: Good luck, have fun!
+[20:12:27] BanchoBot: The match has started!
+[20:12:48] BCraftMG: HI HOAQ
+[20:12:49] BCraftMG: MAP START
+[20:15:41] BanchoBot: _ Freedom _ finished playing (Score: 436441, PASSED).
+[20:15:41] BanchoBot: def finished playing (Score: 352620, PASSED).
+[20:15:41] BanchoBot: The match has finished!
+[20:15:53] def: nm4
+[20:15:54] BCraftMG: _ Freedom _ | 2 - 1 | def // BO13, Next pick: def
+[20:16:01] BCraftMG: !mp map 4805621
+[20:16:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4805621 trung-nova & Lusumi - Inversed Spear of AVALON
+[20:16:03] BCraftMG: !mp mods 1
+[20:16:04] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:16:04] BCraftMG: !mp timer 120
+[20:16:05] BanchoBot: Countdown ends in 2 minutes
+[20:16:28] BanchoBot: All players are ready
+[20:16:31] BCraftMG: !mp settings
+[20:16:33] BanchoBot: Room name: VNOC5: (_ Freedom _) vs (def), History: https://osu.ppy.sh/mp/115709114
+[20:16:33] BanchoBot: Beatmap: https://osu.ppy.sh/b/4805621 trung-nova & Lusumi - Inversed Spear of AVALON
+[20:16:33] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:16:33] BanchoBot: Active mods: NoFail
+[20:16:33] BanchoBot: Players: 2
+[20:16:33] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     
+[20:16:33] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21619075 def             
+[20:16:35] BCraftMG: !mp start 5 glhf
+[20:16:35] BanchoBot: Countdown aborted
+[20:16:35] BanchoBot: Match starts in 5 seconds
+[20:16:35] BanchoBot: Queued the match to start in 5 seconds
+[20:16:37] BanchoBot: Match starts in 4 seconds
+[20:16:37] BanchoBot: Match starts in 3 seconds
+[20:16:38] BanchoBot: Good luck, have fun!
+[20:16:41] BanchoBot: The match has started!
+[20:20:26] BanchoBot: _ Freedom _ finished playing (Score: 135941, PASSED).
+[20:20:27] BanchoBot: def finished playing (Score: 503172, PASSED).
+[20:20:27] BanchoBot: The match has finished!
+[20:20:30] BCraftMG: _ Freedom _ | 2 - 2 | def // BO13, Next pick: _ Freedom _
+[20:20:35] BCraftMG: next protect nha
+[20:20:37] BCraftMG: dm copypaste
+[20:20:38] BCraftMG: !mp timer 120
+[20:20:39] BanchoBot: Countdown ends in 2 minutes
+[20:20:55] def: hd3
+[20:21:16] BCraftMG: vcl protect hết hd
+[20:21:19] BCraftMG: Freedom prot
+[20:21:22] __Freedom__: hr1
+[20:21:25] __Freedom__: yum
+[20:21:34] BCraftMG: def second ban
+[20:21:35] BCraftMG: !mp timer 120
+[20:21:36] BanchoBot: Countdown aborted
+[20:21:36] BanchoBot: Countdown ends in 2 minutes
+[20:21:44] def: dt1
+[20:22:01] BCraftMG: Freedom ban
+[20:22:06] BCraftMG: -rep vì ban custom
+[20:22:08] BCraftMG: !mp timer 120
+[20:22:09] BanchoBot: Countdown aborted
+[20:22:09] BanchoBot: Countdown ends in 2 minutes
+[20:22:10] __Freedom__: ban hr3
+[20:22:18] BCraftMG: Freedom pick
+[20:22:22] BCraftMG: !mp timer 120
+[20:22:22] __Freedom__: dung -rep nua
+[20:22:23] BanchoBot: Countdown aborted
+[20:22:23] BanchoBot: Countdown ends in 2 minutes
+[20:22:27] __Freedom__: nm1 pick
+[20:22:31] BCraftMG: !mp map 4805521
+[20:22:31] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4805521 Yorushika - Replicant
+[20:22:32] BCraftMG: !mp mods 1
+[20:22:32] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:22:33] BCraftMG: !mp timer 120
+[20:22:34] BanchoBot: Countdown aborted
+[20:22:34] BanchoBot: Countdown ends in 2 minutes
+[20:22:52] BanchoBot: All players are ready
+[20:22:53] BCraftMG: !mp settings
+[20:22:54] BanchoBot: Room name: VNOC5: (_ Freedom _) vs (def), History: https://osu.ppy.sh/mp/115709114
+[20:22:54] BanchoBot: Beatmap: https://osu.ppy.sh/b/4805521 Yorushika - Replicant
+[20:22:54] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:22:54] BanchoBot: Active mods: NoFail
+[20:22:54] BanchoBot: Players: 2
+[20:22:54] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     
+[20:22:54] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21619075 def             
+[20:22:56] BCraftMG: !mp start 5 glhf
+[20:22:57] BanchoBot: Countdown aborted
+[20:22:57] BanchoBot: Match starts in 5 seconds
+[20:22:57] BanchoBot: Queued the match to start in 5 seconds
+[20:22:58] BanchoBot: Match starts in 4 seconds
+[20:22:59] BanchoBot: Match starts in 3 seconds
+[20:23:01] BanchoBot: Good luck, have fun!
+[20:23:03] BanchoBot: The match has started!
+[20:26:49] BanchoBot: _ Freedom _ finished playing (Score: 303938, PASSED).
+[20:26:49] BanchoBot: def finished playing (Score: 232045, PASSED).
+[20:26:49] BanchoBot: The match has finished!
+[20:27:00] BCraftMG: _ Freedom _ | 3 - 2 | def // BO13, Next pick: def
+[20:27:01] BCraftMG: !mp timer 120
+[20:27:02] BanchoBot: Countdown ends in 2 minutes
+[20:27:07] def: nm3
+[20:27:13] BCraftMG: !mp map 4805574
+[20:27:13] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4805574 ASCA - Real Dawn
+[20:27:15] BCraftMG: !mp timer 120
+[20:27:15] BanchoBot: Countdown aborted
+[20:27:15] BanchoBot: Countdown ends in 2 minutes
+[20:27:33] BanchoBot: All players are ready
+[20:27:34] BCraftMG: !mp settings
+[20:27:34] BanchoBot: Room name: VNOC5: (_ Freedom _) vs (def), History: https://osu.ppy.sh/mp/115709114
+[20:27:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/4805574 ASCA - Real Dawn
+[20:27:34] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:27:34] BanchoBot: Active mods: NoFail
+[20:27:34] BanchoBot: Players: 2
+[20:27:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     
+[20:27:34] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21619075 def             
+[20:27:35] BCraftMG: !mp start 5 glhf
+[20:27:35] BanchoBot: Countdown aborted
+[20:27:35] BanchoBot: Match starts in 5 seconds
+[20:27:35] BanchoBot: Queued the match to start in 5 seconds
+[20:27:36] BanchoBot: Match starts in 4 seconds
+[20:27:37] BanchoBot: Match starts in 3 seconds
+[20:27:39] BanchoBot: Good luck, have fun!
+[20:27:41] BanchoBot: The match has started!
+[20:27:45] BCraftMG: CO CON CAC BCRAFT CAST
+[20:31:32] BanchoBot: _ Freedom _ finished playing (Score: 163460, PASSED).
+[20:31:33] BanchoBot: def finished playing (Score: 343543, PASSED).
+[20:31:33] BanchoBot: The match has finished!
+[20:31:42] __Freedom__: ?
+[20:31:49] BCraftMG: _ Freedom _ | 3 - 3 | def // BO13, Next pick: _ Freedom _
+[20:31:51] BCraftMG: !mp timer 120
+[20:31:52] BanchoBot: Countdown ends in 2 minutes
+[20:31:55] BCraftMG: khong co gi dau ca nha
+[20:31:58] BCraftMG: choi tiep
+[20:31:59] BCraftMG: i
+[20:32:14] __Freedom__: hd1
+[20:32:20] BCraftMG: !mp map 4491259
+[20:32:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4491259 minato feat. Hatsune Miku, Megurine Luka - magnet
+[20:32:21] BCraftMG: !mp mods 9
+[20:32:23] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[20:32:23] BCraftMG: !mp timer 120
+[20:32:24] BanchoBot: Countdown aborted
+[20:32:24] BanchoBot: Countdown ends in 2 minutes
+[20:32:45] __Freedom__: diff name nay hay ae
+[20:32:47] BanchoBot: All players are ready
+[20:32:50] BCraftMG: !mp settings
+[20:32:50] BanchoBot: Room name: VNOC5: (_ Freedom _) vs (def), History: https://osu.ppy.sh/mp/115709114
+[20:32:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/4491259 minato feat. Hatsune Miku, Megurine Luka - magnet
+[20:32:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:32:50] BanchoBot: Active mods: NoFail, Hidden
+[20:32:50] BanchoBot: Players: 2
+[20:32:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     
+[20:32:50] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21619075 def             
+[20:32:51] BCraftMG: !mp start 5 glhf
+[20:32:53] BanchoBot: Countdown aborted
+[20:32:53] BanchoBot: Match starts in 5 seconds
+[20:32:53] BanchoBot: Queued the match to start in 5 seconds
+[20:32:54] BanchoBot: Match starts in 4 seconds
+[20:32:55] BanchoBot: Match starts in 3 seconds
+[20:32:56] BanchoBot: Good luck, have fun!
+[20:32:58] BanchoBot: The match has started!
+[20:37:00] BanchoBot: def finished playing (Score: 247561, PASSED).
+[20:37:01] BanchoBot: _ Freedom _ finished playing (Score: 355188, PASSED).
+[20:37:01] BanchoBot: The match has finished!
+[20:37:15] BCraftMG: _ Freedom _ | 4 - 3 | def // BO13, Next pick: def
+[20:37:16] BCraftMG: !mp timer 120
+[20:37:17] BanchoBot: Countdown ends in 2 minutes
+[20:37:20] BCraftMG: hay la minh roll pick di
+[20:37:30] def: hr2
+[20:37:36] BCraftMG: !mp map 4805588
+[20:37:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4805588 *wakadori - Fuzzy-Navel
+[20:37:38] BCraftMG: !mp mods 17
+[20:37:39] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[20:37:40] BCraftMG: !mp timer 120
+[20:37:40] BanchoBot: Countdown aborted
+[20:37:40] BanchoBot: Countdown ends in 2 minutes
+[20:37:44] __Freedom__: d rank ae
+[20:37:58] BanchoBot: All players are ready
+[20:38:12] BCraftMG: hi chat
+[20:38:17] BCraftMG: hoaq delay strim
+[20:38:23] __Freedom__: umm
+[20:38:28] BCraftMG: !mp settings
+[20:38:29] BanchoBot: Room name: VNOC5: (_ Freedom _) vs (def), History: https://osu.ppy.sh/mp/115709114
+[20:38:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/4805588 *wakadori - Fuzzy-Navel
+[20:38:29] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:38:29] BanchoBot: Active mods: NoFail, HardRock
+[20:38:29] BanchoBot: Players: 2
+[20:38:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     
+[20:38:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21619075 def             
+[20:38:32] BCraftMG: ok ưe go
+[20:38:33] BCraftMG: !mp start 5 glhf
+[20:38:34] BanchoBot: Countdown aborted
+[20:38:34] BanchoBot: Match starts in 5 seconds
+[20:38:34] BanchoBot: Queued the match to start in 5 seconds
+[20:38:35] BanchoBot: Match starts in 4 seconds
+[20:38:36] BanchoBot: Match starts in 3 seconds
+[20:38:37] BanchoBot: Good luck, have fun!
+[20:38:40] BanchoBot: The match has started!
+[20:40:57] BanchoBot: _ Freedom _ finished playing (Score: 76537, PASSED).
+[20:40:58] BanchoBot: def finished playing (Score: 268766, PASSED).
+[20:40:58] BanchoBot: The match has finished!
+[20:41:15] BCraftMG: _ Freedom _ | 4 - 4 | def // BO13, Next pick: _ Freedom _
+[20:41:16] BCraftMG: !mp timer 120
+[20:41:17] BanchoBot: Countdown ends in 2 minutes
+[20:41:33] __Freedom__: hr1
+[20:41:37] BCraftMG: !mp map 1474012
+[20:41:38] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1474012 UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru
+[20:41:39] BCraftMG: !mp timer 120
+[20:41:40] BanchoBot: Countdown aborted
+[20:41:40] BanchoBot: Countdown ends in 2 minutes
+[20:41:59] __Freedom__: ai giai thoat di
+[20:42:05] BanchoBot: All players are ready
+[20:42:06] BCraftMG: !mp settings
+[20:42:06] BanchoBot: Room name: VNOC5: (_ Freedom _) vs (def), History: https://osu.ppy.sh/mp/115709114
+[20:42:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/1474012 UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru
+[20:42:06] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:42:06] BanchoBot: Active mods: NoFail, HardRock
+[20:42:06] BanchoBot: Players: 2
+[20:42:06] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     
+[20:42:06] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21619075 def             
+[20:42:07] BCraftMG: !mp start 5 glhf
+[20:42:08] BanchoBot: Countdown aborted
+[20:42:08] BanchoBot: Match starts in 5 seconds
+[20:42:08] BanchoBot: Queued the match to start in 5 seconds
+[20:42:09] BanchoBot: Match starts in 4 seconds
+[20:42:11] BanchoBot: Match starts in 3 seconds
+[20:42:12] BanchoBot: Good luck, have fun!
+[20:42:14] BanchoBot: The match has started!
+[20:46:03] BanchoBot: _ Freedom _ finished playing (Score: 345143, PASSED).
+[20:46:04] BanchoBot: def finished playing (Score: 277461, PASSED).
+[20:46:04] BanchoBot: The match has finished!
+[20:46:28] BCraftMG: _ Freedom _ | 5 - 4 | def // BO13, Next pick: def
+[20:46:34] BCraftMG: !mp timer 120
+[20:46:35] BanchoBot: Countdown ends in 2 minutes
+[20:46:47] def: dt2
+[20:46:56] BCraftMG: !mp map 4408214
+[20:46:57] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4408214 dj TAKA feat. AiMEE - True Blue
+[20:46:59] BCraftMG: !MP MODS 65
+[20:46:59] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[20:47:25] BanchoBot: All players are ready
+[20:47:30] BCraftMG: !mp settings
+[20:47:30] BanchoBot: Room name: VNOC5: (_ Freedom _) vs (def), History: https://osu.ppy.sh/mp/115709114
+[20:47:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/4408214 dj TAKA feat. AiMEE - True Blue
+[20:47:30] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:47:30] BanchoBot: Active mods: NoFail, DoubleTime
+[20:47:30] BanchoBot: Players: 2
+[20:47:30] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     
+[20:47:30] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21619075 def             
+[20:47:35] BanchoBot: Countdown ends in 1 minute
+[20:47:37] BCraftMG: !mp start 5 glhf
+[20:47:38] BanchoBot: Countdown aborted
+[20:47:38] BanchoBot: Match starts in 5 seconds
+[20:47:38] BanchoBot: Queued the match to start in 5 seconds
+[20:47:39] BanchoBot: Match starts in 4 seconds
+[20:47:40] BanchoBot: Match starts in 3 seconds
+[20:47:41] BanchoBot: Good luck, have fun!
+[20:47:44] BanchoBot: The match has started!
+[20:47:56] BCraftMG: MAP START @HAOQW
+[20:47:57] BCraftMG: HOAQ
+[20:47:58] BCraftMG: TROI OTIWA
+[20:50:01] BanchoBot: _ Freedom _ finished playing (Score: 229978, PASSED).
+[20:50:01] BanchoBot: def finished playing (Score: 657460, PASSED).
+[20:50:01] BanchoBot: The match has finished!
+[20:50:12] BCraftMG: _ Freedom _ | 5 - 5 | def // BO13, Next pick: _ Freedom _
+[20:50:14] BCraftMG: !mp timer 120
+[20:50:14] __Freedom__: qua kho noi
+[20:50:14] BanchoBot: Countdown ends in 2 minutes
+[20:50:39] __Freedom__: hd3
+[20:50:43] BCraftMG: !mp map 4802423
+[20:50:44] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4802423 dev/null - bithowl2
+[20:50:45] BCraftMG: !Mp mods 9
+[20:50:45] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[20:50:46] BCraftMG: !mp timer 120
+[20:50:46] BanchoBot: Countdown aborted
+[20:50:46] BanchoBot: Countdown ends in 2 minutes
+[20:51:21] __Freedom__: chuan bi
+[20:51:25] __Freedom__: break 89k
+[20:51:29] __Freedom__: het bai 88k
+[20:51:34] __Freedom__: i can see it
+[20:51:40] BanchoBot: All players are ready
+[20:51:47] BanchoBot: Countdown ends in 1 minute
+[20:51:49] BCraftMG: !mp settings
+[20:51:50] BanchoBot: Room name: VNOC5: (_ Freedom _) vs (def), History: https://osu.ppy.sh/mp/115709114
+[20:51:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/4802423 dev/null - bithowl2
+[20:51:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:51:50] BanchoBot: Active mods: NoFail, Hidden
+[20:51:50] BanchoBot: Players: 2
+[20:51:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     
+[20:51:50] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21619075 def             
+[20:51:51] BCraftMG: !mp start 5 glhf
+[20:51:51] BanchoBot: Countdown aborted
+[20:51:51] BanchoBot: Match starts in 5 seconds
+[20:51:51] BanchoBot: Queued the match to start in 5 seconds
+[20:51:52] BanchoBot: Match starts in 4 seconds
+[20:51:54] BanchoBot: Match starts in 3 seconds
+[20:51:55] BanchoBot: Good luck, have fun!
+[20:51:56] BanchoBot: The match has started!
+[20:55:18] BanchoBot: def finished playing (Score: 72894, PASSED).
+[20:55:18] BanchoBot: _ Freedom _ finished playing (Score: 96698, PASSED).
+[20:55:18] BanchoBot: The match has finished!
+[20:55:22] BCraftMG: _ Freedom _ | 6 - 5 | def // BO13, Next pick: def
+[20:55:23] BCraftMG: !mp timer 120
+[20:55:24] BanchoBot: Countdown ends in 2 minutes
+[20:55:30] BCraftMG: !roll 3
+[20:55:30] BanchoBot: BCraftMG rolls 3 point(s)
+[20:55:51] def: hr4
+[20:55:58] BCraftMG: !mp map 3215025
+[20:55:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3215025 VeetaCrush - Mole
+[20:56:00] BCraftMG: !mp mods 17
+[20:56:01] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[20:56:01] BCraftMG: !mp timer 120
+[20:56:02] BanchoBot: Countdown aborted
+[20:56:02] BanchoBot: Countdown ends in 2 minutes
+[20:56:11] def: Game
+[20:56:17] __Freedom__: gaming
+[20:56:17] BanchoBot: All players are ready
+[20:56:43] BCraftMG: !mp settings
+[20:56:44] BanchoBot: Room name: VNOC5: (_ Freedom _) vs (def), History: https://osu.ppy.sh/mp/115709114
+[20:56:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/3215025 VeetaCrush - Mole
+[20:56:44] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:56:44] BanchoBot: Active mods: NoFail, HardRock
+[20:56:44] BanchoBot: Players: 2
+[20:56:44] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     
+[20:56:44] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21619075 def             
+[20:56:45] BCraftMG: !mp start 5 glhf
+[20:56:45] BanchoBot: Countdown aborted
+[20:56:45] BanchoBot: Match starts in 5 seconds
+[20:56:45] BanchoBot: Queued the match to start in 5 seconds
+[20:56:47] BanchoBot: Match starts in 4 seconds
+[20:56:48] BanchoBot: Match starts in 3 seconds
+[20:56:49] BanchoBot: Good luck, have fun!
+[20:56:52] BanchoBot: The match has started!
+[20:59:29] BanchoBot: _ Freedom _ finished playing (Score: 160470, PASSED).
+[20:59:29] BanchoBot: def finished playing (Score: 406462, PASSED).
+[20:59:29] BanchoBot: The match has finished!
+[20:59:35] BCraftMG: !mp map 4805696
+[20:59:37] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4805696 Kagetora. - UNPR3C3D3NT3D TRAV3L3R
+[20:59:39] BCraftMG: !mp mods Freemod
+[20:59:40] BanchoBot: Disabled all mods, enabled FreeMod
+[21:00:35] BanchoBot: All players are ready
+[21:00:39] def: Hoi hop qua
+[21:00:40] __Freedom__: golf
+[21:00:43] BCraftMG: rat bat ngo
+[21:01:10] BCraftMG: doi chut strimer bat storyboard
+[21:01:16] BCraftMG: k bat la mai strimer chet
+[21:01:17] __Freedom__: oge
+[21:01:35] BCraftMG: ok ready
+[21:01:39] BCraftMG: !mp settings
+[21:01:40] BanchoBot: Room name: VNOC5: (_ Freedom _) vs (def), History: https://osu.ppy.sh/mp/115709114
+[21:01:40] BanchoBot: Beatmap: https://osu.ppy.sh/b/4805696 Kagetora. - UNPR3C3D3NT3D TRAV3L3R
+[21:01:40] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:01:40] BanchoBot: Active mods: Freemod
+[21:01:40] BanchoBot: Players: 2
+[21:01:40] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3999831 _ Freedom _     [NoFail, Hidden]
+[21:01:40] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21619075 def             [NoFail]
+[21:01:44] BCraftMG: THUA
+[21:01:44] def: Ready
+[21:01:50] BCraftMG: yeu cau ko troll
+[21:01:50] __Freedom__: thua
+[21:01:51] BCraftMG: !mp start 5 glhf
+[21:01:52] BanchoBot: Match starts in 5 seconds
+[21:01:52] BanchoBot: Queued the match to start in 5 seconds
+[21:01:53] __Freedom__: i lose
+[21:01:53] BanchoBot: Match starts in 4 seconds
+[21:01:54] BanchoBot: Match starts in 3 seconds
+[21:01:55] BanchoBot: Good luck, have fun!
+[21:01:58] BanchoBot: The match has started!
+[21:07:59] BanchoBot: def finished playing (Score: 248630, PASSED).
+[21:08:00] BanchoBot: _ Freedom _ finished playing (Score: 163891, PASSED).
+[21:08:00] BanchoBot: The match has finished!
+[21:08:09] BanchoBot: def left the game.
+[21:08:11] __Freedom__: ggwp
+[21:08:13] BCraftMG: _ Freedom _ | 6 - 7 | def // def wins the match!
+[21:08:15] __Freedom__: tks 4 match
+[21:08:15] BCraftMG: bat ngo k ca nha
+[21:08:17] __Freedom__: tks 4 ref
+[21:08:22] __Freedom__: qua bat ngo
+[21:08:44] BanchoBot: _ Freedom _ left the game.
+[21:11:18] BCraftMG: !mp close
+[21:11:19] BanchoBot: Closed the match

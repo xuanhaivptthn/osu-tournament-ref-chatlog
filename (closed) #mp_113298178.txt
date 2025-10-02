@@ -1,0 +1,1325 @@
+[02:18:09] Joined #mp_113298178
+[02:18:09] BCraftMG: !mp settings
+[02:18:11] BanchoBot: Room name: 5WC2024: (United States) vs (France), History: https://osu.ppy.sh/mp/113298178
+[02:18:11] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[02:18:11] BanchoBot: Players: 0
+[02:18:34] BCraftMG: !mp addref ROB_
+[02:18:35] BanchoBot: Added ROB_ to the match referees
+[02:18:36] BCraftMG: !mp addref osufrlive
+[02:18:37] BanchoBot: Added osufrlive to the match referees
+[02:18:40] BCraftMG: !mp addref Iskas
+[02:18:41] BanchoBot: User not found: Iskas
+[02:18:44] BCraftMG: !mp set 2 3 12
+[02:18:45] BanchoBot: Changed match settings to 12 slots, TeamVs, ScoreV2
+[02:18:54] BCraftMG: !mp addref Iskas
+[02:18:55] BanchoBot: User not found: Iskas
+[02:20:02] BCraftMG: !mp addref Iskas
+[02:20:02] BanchoBot: User not found: Iskas
+[02:21:41] BCraftMG: !mp addref Iskas
+[02:21:43] BanchoBot: Added Iskas to the match referees
+[02:22:54] BCraftMG: !mp invite #11536421
+[02:22:55] BanchoBot: Invited zfr to the room
+[02:22:57] BCraftMG: !mp invite #2282145
+[02:22:58] BanchoBot: Invited Jiuchu to the room
+[02:23:56] BanchoBot: zfr joined in slot 1 for team blue.
+[02:24:00] BCraftMG: o/
+[02:24:07] BCraftMG: US on red 1-4 please
+[02:24:40] BanchoBot: zfr changed to Red
+[02:24:47] BanchoBot: gilgamesh815 joined in slot 2 for team red.
+[02:24:50] gilgamesh815: QOSU
+[02:24:51] BanchoBot: gilgamesh815 left the game.
+[02:24:53] BanchoBot: Jiuchu joined in slot 2 for team red.
+[02:24:54] BanchoBot: Jiuchu moved to slot 7
+[02:24:56] BanchoBot: Jiuchu changed to Blue
+[02:24:57] BanchoBot: Jiuchu moved to slot 5
+[02:25:02] zfr: glhf
+[02:25:03] BCraftMG: o/
+[02:25:11] BCraftMG: we can start with the roll now
+[02:25:34] zfr: 1 min pls
+[02:25:44] Jiuchu: chill we're inviting 7 people
+[02:26:36] Jiuchu: I'm done on my side wbu zfr
+[02:26:50] BanchoBot: gilgamesh815 joined in slot 2 for team red.
+[02:26:54] BanchoBot: gilgamesh815 left the game.
+[02:27:40] BanchoBot: Hardstcukc 2 joined in slot 2 for team red.
+[02:27:47] BanchoBot: Hardstcukc 2 moved to slot 6
+[02:27:57] zfr: im waiting on 1 but most are good
+[02:28:05] zfr: im good to start roll
+[02:28:10] Jiuchu: !roll
+[02:28:10] BanchoBot: Jiuchu rolls 46 point(s)
+[02:28:30] BanchoBot: Adrean joined in slot 2 for team red.
+[02:28:33] zfr: !roll
+[02:28:33] BanchoBot: zfr rolls 57 point(s)
+[02:28:37] BanchoBot: Hardstcukc 2 changed to Blue
+[02:28:43] BanchoBot: gilgamesh815 joined in slot 3 for team blue.
+[02:29:04] BCraftMG: France first protect
+[02:29:06] BCraftMG: !mp timer 120
+[02:29:07] BanchoBot: Countdown ends in 2 minutes
+[02:29:20] Jiuchu: isn't it winner of roll &st protect?
+[02:29:24] Jiuchu: well you know best
+[02:29:27] Jiuchu: we protect DT3
+[02:29:44] BCraftMG: roll winner protect second
+[02:29:53] BCraftMG: US protect
+[02:29:54] BCraftMG: !mp timer 120
+[02:29:55] BanchoBot: Countdown aborted
+[02:29:55] BanchoBot: Countdown ends in 2 minutes
+[02:30:08] BCraftMG: "The winner of the roll will protect second, ban first, and pick first"
+[02:30:28] zfr: protect nm5
+[02:30:47] BCraftMG: First ban from US
+[02:30:50] BCraftMG: !mp timer 120
+[02:30:50] BanchoBot: Countdown aborted
+[02:30:50] BanchoBot: Countdown ends in 2 minutes
+[02:31:39] zfr: first ban hr1
+[02:31:41] BanchoBot: hotbread joined in slot 4 for team red.
+[02:31:51] BanchoBot: Countdown ends in 1 minute
+[02:31:57] BCraftMG: France next 2 bans
+[02:32:01] BCraftMG: !mp timer 120
+[02:32:02] BanchoBot: Countdown aborted
+[02:32:02] BanchoBot: Countdown ends in 2 minutes
+[02:32:10] BanchoBot: Punkysteria joined in slot 7 for team blue.
+[02:32:50] BanchoBot: Adrean left the game.
+[02:33:02] BanchoBot: Countdown ends in 1 minute
+[02:33:22] BCraftMG: hmm, we missing something
+[02:33:23] BCraftMG: !mp map 3895683
+[02:33:24] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3895683 rN - Harumachi Elevator
+[02:33:33] BanchoBot: Countdown ends in 30 seconds
+[02:33:39] Jiuchu: We ban NM1 and DT1
+[02:33:42] BCraftMG: anyway Jiuchu you have the bans?
+[02:33:42] BCraftMG: ok
+[02:33:52] BCraftMG: US last ban
+[02:33:53] BanchoBot: Countdown ends in 10 seconds
+[02:33:54] BCraftMG: !mp timer 120
+[02:33:55] BanchoBot: Countdown aborted
+[02:33:55] BanchoBot: Countdown ends in 2 minutes
+[02:34:37] BanchoBot: gilgamesh815 left the game.
+[02:34:55] BanchoBot: Countdown ends in 1 minute
+[02:35:15] BanchoBot: hotbread left the game.
+[02:35:25] BanchoBot: Countdown ends in 30 seconds
+[02:35:45] BanchoBot: Countdown ends in 10 seconds
+[02:35:48] zfr: ban hd3
+[02:35:50] BanchoBot: Countdown ends in 5 seconds
+[02:35:51] BanchoBot: Countdown ends in 4 seconds
+[02:35:52] BanchoBot: Countdown ends in 3 seconds
+[02:35:54] BanchoBot: Countdown ends in 2 seconds
+[02:35:54] BanchoBot: Countdown ends in 1 second
+[02:35:55] BanchoBot: Countdown finished
+[02:36:01] BCraftMG: United States | 0 - 0 | France // BO11, Next pick: United States
+[02:36:02] BCraftMG: !mp timer 120
+[02:36:03] BanchoBot: Countdown ends in 2 minutes
+[02:37:04] BanchoBot: Countdown ends in 1 minute
+[02:37:05] zfr: test
+[02:37:11] BanchoBot: gilgamesh815 joined in slot 2 for team red.
+[02:37:15] zfr: is my message going through
+[02:37:18] BCraftMG: yes
+[02:37:18] Jiuchu: test succesful
+[02:37:18] BanchoBot: gilgamesh815 left the game.
+[02:37:19] Jiuchu: yes
+[02:37:21] zfr: ok ty
+[02:37:25] zfr: sorry bancho is being a lil weird
+[02:37:33] zfr: pick hd2
+[02:37:34] BanchoBot: Countdown ends in 30 seconds
+[02:37:36] BanchoBot: Punkysteria left the game.
+[02:37:45] BCraftMG: !mp map 4544552
+[02:37:45] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4544552 capitaro - Tenshinranman High Collar Hime
+[02:37:46] BCraftMG: !mp mods 9
+[02:37:47] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[02:37:48] BCraftMG: !mp timer 120
+[02:37:48] BanchoBot: Countdown aborted
+[02:37:48] BanchoBot: Countdown ends in 2 minutes
+[02:37:52] BanchoBot: Ryshult joined in slot 2 for team red.
+[02:37:55] BanchoBot: zfr left the game.
+[02:37:59] BanchoBot: meowmeowmmeowme joined in slot 1 for team blue.
+[02:38:21] BanchoBot: Jiuchu moved to slot 9
+[02:38:28] BCraftMG: US 1-4 red
+[02:38:33] BCraftMG: France 5-8 blue
+[02:38:38] BanchoBot: meowmeowmmeowme changed to Red
+[02:38:42] BanchoBot: Ryshult moved to slot 5
+[02:38:43] BanchoBot: Ryshult moved to slot 7
+[02:38:44] BanchoBot: Ryshult moved to slot 5
+[02:38:46] BanchoBot: Ryshult changed to Blue
+[02:38:49] BanchoBot: Countdown ends in 1 minute
+[02:38:53] BanchoBot: hotbread joined in slot 2 for team red.
+[02:38:58] BanchoBot: MyzeJD joined in slot 3 for team blue.
+[02:39:01] BanchoBot: MyzeJD moved to slot 7
+[02:39:19] BanchoBot: XiaoMyMommy joined in slot 3 for team blue.
+[02:39:19] BanchoBot: Countdown ends in 30 seconds
+[02:39:20] BanchoBot: zfr joined in slot 4 for team red.
+[02:39:23] BanchoBot: tights joined in slot 8 for team red.
+[02:39:26] BanchoBot: XiaoMyMommy moved to slot 10
+[02:39:26] BanchoBot: meowmeowmmeowme left the game.
+[02:39:26] BanchoBot: tights changed to Blue
+[02:39:26] BanchoBot: gilgamesh815 joined in slot 1 for team blue.
+[02:39:27] BanchoBot: tights moved to slot 3
+[02:39:27] BanchoBot: tights changed to Red
+[02:39:29] BanchoBot: gilgamesh815 changed to Red
+[02:39:33] BanchoBot: Jiuchu left the game.
+[02:39:40] BanchoBot: Countdown ends in 10 seconds
+[02:39:40] BanchoBot: XiaoMyMommy moved to slot 8
+[02:39:44] BanchoBot: All players are ready
+[02:39:44] gilgamesh815: GOOD LUCK HAVE FUN EAT PIZZA
+[02:39:44] BanchoBot: Countdown ends in 5 seconds
+[02:39:45] BanchoBot: Countdown ends in 4 seconds
+[02:39:46] BanchoBot: Countdown ends in 3 seconds
+[02:39:46] BanchoBot: Countdown ends in 2 seconds
+[02:39:48] BanchoBot: Countdown ends in 1 second
+[02:39:48] MyzeJD: glglglglgl
+[02:39:48] BCraftMG: !mp settings
+[02:39:49] hotbread: gl
+[02:39:49] BanchoBot: Countdown finished
+[02:39:49] BanchoBot: Room name: 5WC2024: (United States) vs (France), History: https://osu.ppy.sh/mp/113298178
+[02:39:49] BanchoBot: Beatmap: https://osu.ppy.sh/b/4544552 capitaro - Tenshinranman High Collar Hime
+[02:39:49] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:39:49] BanchoBot: Active mods: NoFail, Hidden
+[02:39:49] BanchoBot: Players: 8
+[02:39:49] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14040810 gilgamesh815    [Team Red ]
+[02:39:49] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21627415 hotbread        [Team Red ]
+[02:39:49] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9526124 tights          [Team Red ]
+[02:39:49] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11536421 zfr             [Team Red ]
+[02:39:49] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11189164 Ryshult         [Team Blue]
+[02:39:49] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/9652467 Hardstcukc 2    [Team Blue]
+[02:39:49] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Blue]
+[02:39:49] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/11129041 XiaoMyMommy     [Team Blue]
+[02:39:50] BCraftMG: !mp start 5 glhf
+[02:39:50] BanchoBot: Match starts in 5 seconds
+[02:39:50] BanchoBot: Queued the match to start in 5 seconds
+[02:39:52] BanchoBot: Match starts in 4 seconds
+[02:39:53] BanchoBot: Match starts in 3 seconds
+[02:39:55] BanchoBot: Good luck, have fun!
+[02:39:56] BanchoBot: The match has started!
+[02:41:34] BanchoBot: Jiuchu joined in slot 9 for team blue.
+[02:41:47] BanchoBot: Jiuchu left the game.
+[02:42:59] BanchoBot: gilgamesh815 finished playing (Score: 558884, PASSED).
+[02:42:59] BanchoBot: Ryshult finished playing (Score: 976693, PASSED).
+[02:42:59] BanchoBot: XiaoMyMommy finished playing (Score: 537879, PASSED).
+[02:42:59] BanchoBot: zfr finished playing (Score: 503943, PASSED).
+[02:42:59] BanchoBot: MyzeJD finished playing (Score: 437246, PASSED).
+[02:43:00] BanchoBot: tights finished playing (Score: 458017, PASSED).
+[02:43:00] BanchoBot: hotbread finished playing (Score: 1022049, PASSED).
+[02:43:00] BanchoBot: Hardstcukc 2 finished playing (Score: 947901, PASSED).
+[02:43:00] BanchoBot: The match has finished!
+[02:43:04] BanchoBot: tights left the game.
+[02:43:18] gilgamesh815: whoops
+[02:43:18] BCraftMG: United States | 0 - 1 | France // BO11, Next pick: France
+[02:43:19] BCraftMG: !mp timer 120
+[02:43:21] BanchoBot: Countdown ends in 2 minutes
+[02:43:25] BanchoBot: MyzeJD left the game.
+[02:43:39] zfr: cursor froze :sob:
+[02:43:55] BanchoBot: Hardstcukc 2 left the game.
+[02:44:01] BanchoBot: Ryshult left the game.
+[02:44:05] BanchoBot: Jiuchu joined in slot 3 for team blue.
+[02:44:05] BanchoBot: XiaoMyMommy left the game.
+[02:44:16] BanchoBot: Punkysteria joined in slot 5 for team blue.
+[02:44:21] BanchoBot: Countdown ends in 1 minute
+[02:44:51] BanchoBot: Countdown ends in 30 seconds
+[02:45:12] BanchoBot: Countdown ends in 10 seconds
+[02:45:13] Jiuchu: DT2 pick
+[02:45:16] BanchoBot: Ryshult joined in slot 6 for team red.
+[02:45:16] BanchoBot: Countdown ends in 5 seconds
+[02:45:17] BanchoBot: Countdown ends in 4 seconds
+[02:45:19] BanchoBot: Countdown ends in 3 seconds
+[02:45:20] BanchoBot: Countdown ends in 2 seconds
+[02:45:20] BanchoBot: gilgamesh815 left the game.
+[02:45:20] BanchoBot: Countdown ends in 1 second
+[02:45:21] BanchoBot: Countdown finished
+[02:45:22] BCraftMG: !mp map 2892579
+[02:45:23] BanchoBot: Adrean joined in slot 1 for team blue.
+[02:45:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2892579 MYTH & ROID - STRAIGHT BET
+[02:45:23] BCraftMG: !mp mods 65
+[02:45:24] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[02:45:25] BCraftMG: !mp timer 120
+[02:45:26] BanchoBot: Countdown ends in 2 minutes
+[02:45:30] BanchoBot: Ryshult changed to Blue
+[02:45:32] BanchoBot: meowmeowmmeowme joined in slot 7 for team blue.
+[02:45:34] Adrean: Hello good lads
+[02:45:39] BanchoBot: meowmeowmmeowme changed to Red
+[02:45:52] BanchoBot: Punkysteria moved to slot 11
+[02:45:56] BanchoBot: Jiuchu moved to slot 12
+[02:46:00] hotbread: hello!
+[02:46:00] BanchoBot: Adrean moved to slot 3
+[02:46:00] BanchoBot: Adrean moved to slot 1
+[02:46:01] BanchoBot: Adrean moved to slot 3
+[02:46:03] BanchoBot: Adrean moved to slot 5
+[02:46:04] BanchoBot: meowmeowmmeowme moved to slot 1
+[02:46:05] BanchoBot: Punkysteria moved to slot 7
+[02:46:12] BanchoBot: Stage my mommy joined in slot 3 for team blue.
+[02:46:14] BanchoBot: zfr moved to slot 11
+[02:46:16] BanchoBot: Stage my mommy changed to Red
+[02:46:26] BanchoBot: Countdown ends in 1 minute
+[02:46:29] BanchoBot: MyzeJD joined in slot 4 for team red.
+[02:46:30] BanchoBot: MyzeJD moved to slot 8
+[02:46:30] BanchoBot: MyzeJD changed to Blue
+[02:46:37] BanchoBot: gilgamesh815 joined in slot 4 for team red.
+[02:46:43] BanchoBot: zfr left the game.
+[02:46:44] BanchoBot: Jiuchu left the game.
+[02:46:47] BanchoBot: All players are ready
+[02:46:47] gilgamesh815: GOOD LUCK HABE FUN EA T RPIZZA
+[02:46:50] BCraftMG: !mp settings
+[02:46:51] meowmeowmmeowme: hfghfhfhfhfhfhfhfhf
+[02:46:51] hotbread: glhf
+[02:46:51] BanchoBot: Room name: 5WC2024: (United States) vs (France), History: https://osu.ppy.sh/mp/113298178
+[02:46:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/2892579 MYTH & ROID - STRAIGHT BET
+[02:46:51] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:46:51] BanchoBot: Active mods: NoFail, DoubleTime
+[02:46:51] BanchoBot: Players: 8
+[02:46:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/23124445 meowmeowmmeowme [Team Red ]
+[02:46:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21627415 hotbread        [Team Red ]
+[02:46:51] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/20630250 Stage my mommy  [Team Red ]
+[02:46:51] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14040810 gilgamesh815    [Team Red ]
+[02:46:51] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/21967  Adrean          [Team Blue]
+[02:46:51] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11189164 Ryshult         [Team Blue]
+[02:46:51] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/10451063 Punkysteria     [Team Blue]
+[02:46:51] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Blue]
+[02:46:52] MyzeJD: glglglglg
+[02:46:55] hotbread: pizza etc
+[02:46:55] Punkysteria: glhf !
+[02:46:56] BanchoBot: Countdown ends in 30 seconds
+[02:47:02] BCraftMG: !mp start 5 glhf
+[02:47:03] BanchoBot: Countdown aborted
+[02:47:03] BanchoBot: Match starts in 5 seconds
+[02:47:03] BanchoBot: Queued the match to start in 5 seconds
+[02:47:05] BanchoBot: Match starts in 4 seconds
+[02:47:06] BanchoBot: Match starts in 3 seconds
+[02:47:07] BanchoBot: Good luck, have fun!
+[02:47:09] BanchoBot: The match has started!
+[02:50:00] BanchoBot: Ryshult finished playing (Score: 1060616, PASSED).
+[02:50:00] BanchoBot: gilgamesh815 finished playing (Score: 752602, PASSED).
+[02:50:00] BanchoBot: hotbread finished playing (Score: 697992, PASSED).
+[02:50:00] BanchoBot: Stage my mommy finished playing (Score: 1057458, PASSED).
+[02:50:00] BanchoBot: MyzeJD finished playing (Score: 1119456, PASSED).
+[02:50:01] BanchoBot: Punkysteria finished playing (Score: 783604, PASSED).
+[02:50:01] BanchoBot: Adrean finished playing (Score: 752947, PASSED).
+[02:50:01] BanchoBot: meowmeowmmeowme finished playing (Score: 524421, PASSED).
+[02:50:01] BanchoBot: The match has finished!
+[02:50:04] BCraftMG: United States | 0 - 2 | France // BO11, Next pick: United States
+[02:50:06] BCraftMG: !mp timer 120
+[02:50:07] BanchoBot: Countdown ends in 2 minutes
+[02:50:32] BanchoBot: meowmeowmmeowme left the game.
+[02:50:33] BanchoBot: zfr joined in slot 1 for team blue.
+[02:50:37] BanchoBot: zfr changed to Red
+[02:50:52] BanchoBot: gilgamesh815 left the game.
+[02:51:02] BanchoBot: Jiuchu joined in slot 4 for team red.
+[02:51:07] BanchoBot: Countdown ends in 1 minute
+[02:51:15] BanchoBot: MyzeJD left the game.
+[02:51:25] BanchoBot: Ryshult left the game.
+[02:51:33] zfr: pick nm2
+[02:51:36] BanchoBot: Adrean left the game.
+[02:51:37] BanchoBot: Countdown ends in 30 seconds
+[02:51:37] BanchoBot: hotbread left the game.
+[02:51:37] BanchoBot: Punkysteria left the game.
+[02:51:41] BCraftMG: !mp map 3559690
+[02:51:41] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3559690 403 - Southern Cross
+[02:51:42] BCraftMG: !mp mods 1
+[02:51:42] BanchoBot: Enabled NoFail, disabled FreeMod
+[02:51:43] BCraftMG: !mp timer 120
+[02:51:44] BanchoBot: zfr left the game.
+[02:51:44] BanchoBot: Countdown aborted
+[02:51:44] BanchoBot: Countdown ends in 2 minutes
+[02:52:18] BanchoBot: Jiuchu moved to slot 5
+[02:52:32] BanchoBot: hotbread joined in slot 1 for team blue.
+[02:52:32] BanchoBot: gilgamesh815 joined in slot 2 for team red.
+[02:52:39] BanchoBot: hotbread changed to Red
+[02:52:40] BanchoBot: meowmeowmmeowme joined in slot 4 for team red.
+[02:52:44] BanchoBot: Countdown ends in 1 minute
+[02:52:50] BanchoBot: Adrean joined in slot 6 for team red.
+[02:52:54] BanchoBot: XiaoMyMommy joined in slot 7 for team blue.
+[02:52:55] BanchoBot: Adrean changed to Blue
+[02:52:58] BanchoBot: Jiuchu moved to slot 11
+[02:53:08] BanchoBot: Adrean moved to slot 5
+[02:53:14] BanchoBot: Countdown ends in 30 seconds
+[02:53:19] BanchoBot: MyzeJD joined in slot 6 for team red.
+[02:53:20] BanchoBot: MyzeJD changed to Blue
+[02:53:31] BanchoBot: Punkysteria joined in slot 8 for team red.
+[02:53:35] BanchoBot: Countdown ends in 10 seconds
+[02:53:39] BanchoBot: Countdown ends in 5 seconds
+[02:53:39] gilgamesh815: GOOD LUCK HGAVBE FUBE AT PIZZA
+[02:53:40] Stage_my_mommy: hfhf
+[02:53:41] BanchoBot: Punkysteria changed to Blue
+[02:53:41] BanchoBot: Countdown ends in 4 seconds
+[02:53:42] BanchoBot: Countdown ends in 3 seconds
+[02:53:42] BanchoBot: Jiuchu left the game.
+[02:53:42] MyzeJD: stage my meowmeowmeow
+[02:53:42] BanchoBot: Countdown ends in 2 seconds
+[02:53:43] BanchoBot: Countdown ends in 1 second
+[02:53:45] MyzeJD: glhf
+[02:53:45] BanchoBot: Countdown finished
+[02:53:45] meowmeowmmeowme: hhfh
+[02:53:45] hotbread: glgl
+[02:53:47] BCraftMG: !mp settings
+[02:53:49] BanchoBot: Room name: 5WC2024: (United States) vs (France), History: https://osu.ppy.sh/mp/113298178
+[02:53:49] BanchoBot: Beatmap: https://osu.ppy.sh/b/3559690 403 - Southern Cross
+[02:53:49] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:53:49] BanchoBot: Active mods: NoFail
+[02:53:49] BanchoBot: Players: 8
+[02:53:49] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/21627415 hotbread        [Team Red ]
+[02:53:49] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14040810 gilgamesh815    [Team Red ]
+[02:53:49] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/20630250 Stage my mommy  [Team Red ]
+[02:53:49] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23124445 meowmeowmmeowme [Team Red ]
+[02:53:49] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/21967  Adrean          [Team Blue]
+[02:53:49] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Blue]
+[02:53:49] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11129041 XiaoMyMommy     [Team Blue]
+[02:53:49] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10451063 Punkysteria     [Team Blue]
+[02:53:50] BanchoBot: All players are ready
+[02:53:51] BCraftMG: !mp settings
+[02:53:52] XiaoMyMommy: gl
+[02:53:55] BCraftMG: !mp settings
+[02:53:56] BanchoBot: Room name: 5WC2024: (United States) vs (France), History: https://osu.ppy.sh/mp/113298178
+[02:53:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/3559690 403 - Southern Cross
+[02:53:56] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:53:56] BanchoBot: Active mods: NoFail
+[02:53:56] BanchoBot: Players: 8
+[02:53:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/21627415 hotbread        [Team Red ]
+[02:53:56] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14040810 gilgamesh815    [Team Red ]
+[02:53:56] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/20630250 Stage my mommy  [Team Red ]
+[02:53:56] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23124445 meowmeowmmeowme [Team Red ]
+[02:53:56] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/21967  Adrean          [Team Blue]
+[02:53:56] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Blue]
+[02:53:56] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11129041 XiaoMyMommy     [Team Blue]
+[02:53:56] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10451063 Punkysteria     [Team Blue]
+[02:53:56] BCraftMG: !mp start 5 glhf
+[02:53:57] BanchoBot: Match starts in 5 seconds
+[02:53:57] BanchoBot: Queued the match to start in 5 seconds
+[02:53:58] BanchoBot: Match starts in 4 seconds
+[02:54:00] BanchoBot: Match starts in 3 seconds
+[02:54:01] BanchoBot: Good luck, have fun!
+[02:54:03] BanchoBot: The match has started!
+[02:57:15] BanchoBot: Stage my mommy finished playing (Score: 543427, PASSED).
+[02:57:16] BanchoBot: gilgamesh815 finished playing (Score: 548738, PASSED).
+[02:57:16] BanchoBot: Punkysteria finished playing (Score: 644600, PASSED).
+[02:57:16] BanchoBot: Adrean finished playing (Score: 571738, PASSED).
+[02:57:16] BanchoBot: XiaoMyMommy finished playing (Score: 900037, PASSED).
+[02:57:16] BanchoBot: meowmeowmmeowme finished playing (Score: 700316, PASSED).
+[02:57:16] BanchoBot: hotbread finished playing (Score: 864025, PASSED).
+[02:57:16] BanchoBot: MyzeJD finished playing (Score: 897870, PASSED).
+[02:57:16] BanchoBot: The match has finished!
+[02:57:23] BCraftMG: United States | 0 - 3 | France // BO11, Next pick: France
+[02:57:25] BCraftMG: !mp timer 120
+[02:57:25] BanchoBot: Countdown ends in 2 minutes
+[02:57:41] BanchoBot: Jiuchu joined in slot 9 for team blue.
+[02:57:45] BanchoBot: Stage my mommy left the game.
+[02:57:52] BanchoBot: meowmeowmmeowme left the game.
+[02:57:56] BanchoBot: Adrean left the game.
+[02:58:01] BanchoBot: XiaoMyMommy left the game.
+[02:58:01] BanchoBot: Punkysteria left the game.
+[02:58:04] BanchoBot: MyzeJD left the game.
+[02:58:07] BanchoBot: Jiuchu moved to slot 5
+[02:58:26] BanchoBot: Drakkles joined in slot 3 for team blue.
+[02:58:26] BanchoBot: Countdown ends in 1 minute
+[02:58:33] BanchoBot: Drakkles moved to slot 6
+[02:58:48] BanchoBot: zfr joined in slot 3 for team blue.
+[02:58:49] BanchoBot: zfr changed to Red
+[02:58:56] BanchoBot: Countdown ends in 30 seconds
+[02:59:07] Jiuchu: DT3 pick
+[02:59:10] BanchoBot: gilgamesh815 left the game.
+[02:59:14] BanchoBot: meowmeowmmeowme joined in slot 2 for team red.
+[02:59:16] BanchoBot: Countdown ends in 10 seconds
+[02:59:21] BanchoBot: Countdown ends in 5 seconds
+[02:59:22] BanchoBot: Countdown ends in 4 seconds
+[02:59:22] BCraftMG: !mp map 2437973
+[02:59:23] BanchoBot: Countdown ends in 3 seconds
+[02:59:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2437973 Utsu-P feat. flower - Living ghost is alive
+[02:59:23] BCraftMG: !mp mods 65
+[02:59:25] BanchoBot: Countdown ends in 2 seconds
+[02:59:25] BanchoBot: Countdown ends in 1 second
+[02:59:25] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[02:59:25] BCraftMG: !mp timer 120
+[02:59:26] BanchoBot: Countdown finished
+[02:59:26] BanchoBot: Countdown ends in 2 minutes
+[02:59:55] BanchoBot: Pangetism joined in slot 4 for team red.
+[02:59:56] BanchoBot: Jiuchu moved to slot 12
+[02:59:59] BanchoBot: hotbread left the game.
+[03:00:08] BanchoBot: Drakkles moved to slot 5
+[03:00:22] BanchoBot: FILIPINO joined in slot 1 for team blue.
+[03:00:26] BanchoBot: Countdown ends in 1 minute
+[03:00:32] BanchoBot: zfr moved to slot 7
+[03:00:36] BanchoBot: FILIPINO changed to Red
+[03:00:37] BanchoBot: Adrean joined in slot 3 for team blue.
+[03:00:41] BanchoBot: Adrean moved to slot 6
+[03:00:42] BanchoBot: tights joined in slot 3 for team blue.
+[03:00:48] BanchoBot: hotbread joined in slot 8 for team red.
+[03:00:51] BanchoBot: zfr left the game.
+[03:00:51] BanchoBot: tights changed to Red
+[03:00:56] BanchoBot: Countdown ends in 30 seconds
+[03:01:03] BanchoBot: MyzeJD joined in slot 7 for team blue.
+[03:01:07] meowmeowmmeowme: hhfhfhfhfhfhffhfhfhfhfhffhfhfhffhfh
+[03:01:08] BanchoBot: hotbread moved to slot 9
+[03:01:17] BanchoBot: Countdown ends in 10 seconds
+[03:01:22] BanchoBot: Countdown ends in 5 seconds
+[03:01:22] BanchoBot: Countdown ends in 4 seconds
+[03:01:23] BanchoBot: Punkysteria joined in slot 8 for team red.
+[03:01:23] BanchoBot: Jiuchu left the game.
+[03:01:23] BanchoBot: Countdown ends in 3 seconds
+[03:01:25] BanchoBot: Countdown ends in 2 seconds
+[03:01:26] BanchoBot: Countdown ends in 1 second
+[03:01:26] BanchoBot: Countdown finished
+[03:01:28] BCraftMG: ready check
+[03:01:28] BCraftMG: !mp settings
+[03:01:30] BanchoBot: Punkysteria changed to Blue
+[03:01:30] tights: copper
+[03:01:30] BanchoBot: Room name: 5WC2024: (United States) vs (France), History: https://osu.ppy.sh/mp/113298178
+[03:01:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/2437973 Utsu-P feat. flower - Living ghost is alive
+[03:01:30] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:01:30] BanchoBot: Active mods: NoFail, DoubleTime
+[03:01:30] BanchoBot: Players: 9
+[03:01:30] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/9878349 FILIPINO        [Team Red ]
+[03:01:30] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/23124445 meowmeowmmeowme [Team Red ]
+[03:01:30] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9526124 tights          [Team Red ]
+[03:01:30] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7644691 Pangetism       [Team Red ]
+[03:01:30] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13963691 Drakkles        [Team Blue]
+[03:01:30] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/21967  Adrean          [Team Blue]
+[03:01:30] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Blue]
+[03:01:30] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/10451063 Punkysteria     [Team Blue]
+[03:01:30] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/21627415 hotbread        [Team Red ]
+[03:01:33] FILIPINO: hglhf
+[03:01:34] BanchoBot: tights left the game.
+[03:01:37] BanchoBot: hotbread moved to slot 3
+[03:01:37] Punkysteria: gl hf!
+[03:01:37] BanchoBot: All players are ready
+[03:01:37] MyzeJD: plink
+[03:01:41] Drakkles: glhf
+[03:01:41] hotbread: gl
+[03:01:41] MyzeJD: glhf
+[03:01:41] Pangetism: ghlhf!
+[03:01:41] BCraftMG: !mp settings
+[03:01:43] BanchoBot: Room name: 5WC2024: (United States) vs (France), History: https://osu.ppy.sh/mp/113298178
+[03:01:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/2437973 Utsu-P feat. flower - Living ghost is alive
+[03:01:43] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:01:43] BanchoBot: Active mods: NoFail, DoubleTime
+[03:01:43] BanchoBot: Players: 8
+[03:01:43] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9878349 FILIPINO        [Team Red ]
+[03:01:43] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/23124445 meowmeowmmeowme [Team Red ]
+[03:01:43] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/21627415 hotbread        [Team Red ]
+[03:01:43] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7644691 Pangetism       [Team Red ]
+[03:01:43] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13963691 Drakkles        [Team Blue]
+[03:01:43] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/21967  Adrean          [Team Blue]
+[03:01:43] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Blue]
+[03:01:43] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10451063 Punkysteria     [Team Blue]
+[03:01:45] meowmeowmmeowme: hfhf
+[03:01:45] BCraftMG: !mp start 5 glhf
+[03:01:46] BanchoBot: Match starts in 5 seconds
+[03:01:46] BanchoBot: Queued the match to start in 5 seconds
+[03:01:48] BanchoBot: Match starts in 4 seconds
+[03:01:49] BanchoBot: Match starts in 3 seconds
+[03:01:50] BanchoBot: Good luck, have fun!
+[03:01:52] BanchoBot: The match has started!
+[03:04:13] BanchoBot: hotbread finished playing (Score: 613118, PASSED).
+[03:04:14] BanchoBot: Adrean finished playing (Score: 482133, PASSED).
+[03:04:14] BanchoBot: Punkysteria finished playing (Score: 664044, PASSED).
+[03:04:14] BanchoBot: Drakkles finished playing (Score: 502022, PASSED).
+[03:04:14] BanchoBot: Pangetism finished playing (Score: 818439, PASSED).
+[03:04:14] BanchoBot: meowmeowmmeowme finished playing (Score: 948540, PASSED).
+[03:04:14] BanchoBot: FILIPINO finished playing (Score: 605092, PASSED).
+[03:04:14] BanchoBot: MyzeJD finished playing (Score: 903945, PASSED).
+[03:04:14] BanchoBot: The match has finished!
+[03:04:25] BanchoBot: meowmeowmmeowme left the game.
+[03:04:25] BCraftMG: United States | 1 - 3 | France // BO11, Next pick: United States
+[03:04:27] BCraftMG: !mp timer 120
+[03:04:28] BanchoBot: Countdown ends in 2 minutes
+[03:04:32] BanchoBot: zfr joined in slot 2 for team red.
+[03:04:36] BanchoBot: Drakkles left the game.
+[03:04:36] BanchoBot: MyzeJD left the game.
+[03:04:41] BanchoBot: Jiuchu joined in slot 5 for team blue.
+[03:04:45] BanchoBot: Jiuchu moved to slot 7
+[03:04:46] BanchoBot: Jiuchu moved to slot 9
+[03:05:28] BanchoBot: Countdown ends in 1 minute
+[03:05:54] BanchoBot: meowmeowmmeowme joined in slot 5 for team blue.
+[03:05:58] BanchoBot: Countdown ends in 30 seconds
+[03:06:03] zfr: pick nm6
+[03:06:12] BCraftMG: !mp map 4178423
+[03:06:13] BanchoBot: Adrean left the game.
+[03:06:13] BanchoBot: hotbread left the game.
+[03:06:13] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4178423 Nagiha - Alice in a xxxxxxxx
+[03:06:13] BCraftMG: !mp mods 1
+[03:06:14] BanchoBot: Enabled NoFail, disabled FreeMod
+[03:06:15] BCraftMG: !mp timer 120
+[03:06:17] BanchoBot: Countdown aborted
+[03:06:17] BanchoBot: Countdown ends in 2 minutes
+[03:06:23] BanchoBot: Pangetism left the game.
+[03:06:26] BanchoBot: Jiuchu left the game.
+[03:07:01] BanchoBot: meowmeowmmeowme moved to slot 3
+[03:07:03] BanchoBot: meowmeowmmeowme changed to Red
+[03:07:11] BanchoBot: Drakkles joined in slot 4 for team red.
+[03:07:12] BanchoBot: XiaoMyMommy joined in slot 5 for team blue.
+[03:07:18] BanchoBot: Countdown ends in 1 minute
+[03:07:18] BanchoBot: gilgamesh815 joined in slot 6 for team red.
+[03:07:19] BanchoBot: Drakkles moved to slot 7
+[03:07:20] BanchoBot: gilgamesh815 moved to slot 4
+[03:07:22] BanchoBot: Drakkles changed to Blue
+[03:07:24] BanchoBot: meowmeowmmeowme left the game.
+[03:07:27] BanchoBot: gilgamesh815 moved to slot 3
+[03:07:28] BanchoBot: FILIPINO left the game.
+[03:07:31] BanchoBot: MyzeJD joined in slot 1 for team blue.
+[03:07:32] BanchoBot: MyzeJD moved to slot 6
+[03:07:34] BanchoBot: tights joined in slot 1 for team blue.
+[03:07:35] BanchoBot: hotbread joined in slot 4 for team red.
+[03:07:36] BanchoBot: tights changed to Red
+[03:07:47] BanchoBot: Countdown ends in 30 seconds
+[03:07:51] zfr: glhf
+[03:07:53] BanchoBot: All players are ready
+[03:07:55] BCraftMG: !mp settings
+[03:07:55] BanchoBot: Room name: 5WC2024: (United States) vs (France), History: https://osu.ppy.sh/mp/113298178
+[03:07:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/4178423 Nagiha - Alice in a xxxxxxxx
+[03:07:55] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:07:55] BanchoBot: Active mods: NoFail
+[03:07:55] BanchoBot: Players: 8
+[03:07:55] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9526124 tights          [Team Red ]
+[03:07:55] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11536421 zfr             [Team Red ]
+[03:07:55] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14040810 gilgamesh815    [Team Red ]
+[03:07:55] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/21627415 hotbread        [Team Red ]
+[03:07:55] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11129041 XiaoMyMommy     [Team Blue]
+[03:07:55] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Blue]
+[03:07:55] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/13963691 Drakkles        [Team Blue]
+[03:07:55] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10451063 Punkysteria     [Team Blue]
+[03:07:57] gilgamesh815: GOOD LUCK HABE FUBEA TPIZZA
+[03:07:57] BCraftMG: !mp start 5 glhf
+[03:07:58] MyzeJD: glhf
+[03:07:58] Drakkles: glhf
+[03:07:58] BanchoBot: Countdown aborted
+[03:07:58] BanchoBot: Match starts in 5 seconds
+[03:07:58] BanchoBot: Queued the match to start in 5 seconds
+[03:07:59] BanchoBot: Match starts in 4 seconds
+[03:08:01] BanchoBot: Match starts in 3 seconds
+[03:08:02] BanchoBot: Good luck, have fun!
+[03:08:03] BanchoBot: The match has started!
+[03:10:43] BanchoBot: hotbread finished playing (Score: 461692, PASSED).
+[03:10:43] BanchoBot: zfr finished playing (Score: 935540, PASSED).
+[03:10:43] BanchoBot: gilgamesh815 finished playing (Score: 647581, PASSED).
+[03:10:43] BanchoBot: MyzeJD finished playing (Score: 682996, PASSED).
+[03:10:43] BanchoBot: XiaoMyMommy finished playing (Score: 456355, PASSED).
+[03:10:44] BanchoBot: tights finished playing (Score: 429694, PASSED).
+[03:10:44] BanchoBot: Drakkles finished playing (Score: 372517, PASSED).
+[03:10:44] BanchoBot: Punkysteria finished playing (Score: 506968, PASSED).
+[03:10:44] BanchoBot: The match has finished!
+[03:10:46] BCraftMG: United States | 2 - 3 | France // BO11, Next pick: France
+[03:10:51] BCraftMG: !mp timer 120
+[03:10:52] BanchoBot: tights left the game.
+[03:10:52] BanchoBot: Countdown ends in 2 minutes
+[03:11:00] BanchoBot: XiaoMyMommy left the game.
+[03:11:04] BanchoBot: FILIPINO joined in slot 1 for team blue.
+[03:11:23] BanchoBot: Drakkles left the game.
+[03:11:46] BanchoBot: MyzeJD left the game.
+[03:11:47] BanchoBot: Hardstcukc 2 joined in slot 5 for team blue.
+[03:11:53] BanchoBot: Countdown ends in 1 minute
+[03:11:54] BanchoBot: Hardstcukc 2 moved to slot 7
+[03:12:02] BanchoBot: Punkysteria left the game.
+[03:12:23] BanchoBot: Countdown ends in 30 seconds
+[03:12:33] BanchoBot: gilgamesh815 left the game.
+[03:12:43] BanchoBot: Countdown ends in 10 seconds
+[03:12:46] Hardstcukc_2: NM4
+[03:12:48] BanchoBot: Countdown ends in 5 seconds
+[03:12:49] BanchoBot: Countdown ends in 4 seconds
+[03:12:49] BanchoBot: Countdown ends in 3 seconds
+[03:12:51] BanchoBot: Countdown ends in 2 seconds
+[03:12:52] BanchoBot: Countdown ends in 1 second
+[03:12:54] BanchoBot: Countdown finished
+[03:12:56] BCraftMG: !mp map 4356545
+[03:12:58] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4356545 Project-G - Mercury
+[03:12:59] BCraftMG: !mp timer 120
+[03:13:00] BanchoBot: Countdown ends in 2 minutes
+[03:13:10] BanchoBot: FILIPINO left the game.
+[03:13:25] BanchoBot: Punkysteria joined in slot 1 for team blue.
+[03:13:29] BanchoBot: Punkysteria moved to slot 6
+[03:13:55] BanchoBot: Drakkles joined in slot 1 for team blue.
+[03:14:00] BanchoBot: Countdown ends in 1 minute
+[03:14:01] BanchoBot: Hardstcukc 2 moved to slot 9
+[03:14:04] BanchoBot: tights joined in slot 3 for team blue.
+[03:14:04] BanchoBot: meowmeowmmeowme joined in slot 5 for team blue.
+[03:14:05] BanchoBot: tights changed to Red
+[03:14:08] BanchoBot: Drakkles moved to slot 7
+[03:14:09] BanchoBot: hotbread left the game.
+[03:14:09] BanchoBot: meowmeowmmeowme changed to Red
+[03:14:09] BanchoBot: zfr moved to slot 8
+[03:14:09] BanchoBot: zfr moved to slot 11
+[03:14:09] BanchoBot: meowmeowmmeowme moved to slot 1
+[03:14:11] BanchoBot: MyzeJD joined in slot 2 for team red.
+[03:14:12] BanchoBot: MyzeJD moved to slot 8
+[03:14:13] BanchoBot: MyzeJD changed to Blue
+[03:14:15] BanchoBot: XiaoMyMommy joined in slot 2 for team red.
+[03:14:16] BanchoBot: Jiuchu joined in slot 4 for team red.
+[03:14:16] BanchoBot: Hardstcukc 2 left the game.
+[03:14:19] BanchoBot: XiaoMyMommy moved to slot 5
+[03:14:19] BanchoBot: Jiuchu moved to slot 10
+[03:14:20] BanchoBot: gilgamesh815 joined in slot 2 for team red.
+[03:14:20] BanchoBot: XiaoMyMommy changed to Blue
+[03:14:22] BanchoBot: Jiuchu left the game.
+[03:14:27] BanchoBot: Stage my mommy joined in slot 4 for team red.
+[03:14:30] Punkysteria: glhf !
+[03:14:31] BanchoBot: Countdown ends in 30 seconds
+[03:14:32] MyzeJD: glglglglg
+[03:14:35] XiaoMyMommy: gl
+[03:14:35] meowmeowmmeowme: hfhf
+[03:14:37] BanchoBot: hotbread joined in slot 9 for team blue.
+[03:14:38] BanchoBot: Stage my mommy left the game.
+[03:14:39] BanchoBot: zfr left the game.
+[03:14:41] BanchoBot: hotbread moved to slot 4
+[03:14:41] BanchoBot: hotbread changed to Red
+[03:14:46] hotbread: they won't let me leave
+[03:14:46] BanchoBot: All players are ready
+[03:14:48] BCraftMG: !mp settings
+[03:14:49] gilgamesh815: GOOD LUCK HABEE FUNBE ATPOIZZA
+[03:14:49] Drakkles: glhf
+[03:14:49] BanchoBot: Room name: 5WC2024: (United States) vs (France), History: https://osu.ppy.sh/mp/113298178
+[03:14:49] BanchoBot: Beatmap: https://osu.ppy.sh/b/4356545 Project-G - Mercury
+[03:14:49] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:14:49] BanchoBot: Active mods: NoFail
+[03:14:49] BanchoBot: Players: 8
+[03:14:49] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/23124445 meowmeowmmeowme [Team Red ]
+[03:14:49] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14040810 gilgamesh815    [Team Red ]
+[03:14:49] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9526124 tights          [Team Red ]
+[03:14:49] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/21627415 hotbread        [Team Red ]
+[03:14:49] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11129041 XiaoMyMommy     [Team Blue]
+[03:14:49] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10451063 Punkysteria     [Team Blue]
+[03:14:49] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/13963691 Drakkles        [Team Blue]
+[03:14:49] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Blue]
+[03:14:50] BCraftMG: !mp start 5 glhf
+[03:14:50] BanchoBot: Countdown aborted
+[03:14:50] BanchoBot: Match starts in 5 seconds
+[03:14:50] BanchoBot: Queued the match to start in 5 seconds
+[03:14:51] BanchoBot: Match starts in 4 seconds
+[03:14:51] meowmeowmmeowme: hfhf
+[03:14:53] hotbread: glgl
+[03:14:53] BanchoBot: Match starts in 3 seconds
+[03:14:53] MyzeJD: permalobbyer
+[03:14:54] BanchoBot: Good luck, have fun!
+[03:14:56] BanchoBot: The match has started!
+[03:17:23] BanchoBot: XiaoMyMommy finished playing (Score: 667588, PASSED).
+[03:17:23] BanchoBot: gilgamesh815 finished playing (Score: 673723, PASSED).
+[03:17:23] BanchoBot: meowmeowmmeowme finished playing (Score: 407018, PASSED).
+[03:17:23] BanchoBot: MyzeJD finished playing (Score: 582938, PASSED).
+[03:17:23] BanchoBot: Punkysteria finished playing (Score: 324759, PASSED).
+[03:17:24] BanchoBot: hotbread finished playing (Score: 377946, PASSED).
+[03:17:24] BanchoBot: Drakkles finished playing (Score: 788974, PASSED).
+[03:17:25] BanchoBot: tights finished playing (Score: 372761, PASSED).
+[03:17:25] BanchoBot: The match has finished!
+[03:17:28] BanchoBot: tights left the game.
+[03:17:36] BCraftMG: United States | 2 - 4 | France // BO11, Next pick: United States
+[03:17:40] BCraftMG: !mp timer 120
+[03:17:41] BanchoBot: Countdown ends in 2 minutes
+[03:17:57] BanchoBot: XiaoMyMommy left the game.
+[03:17:59] BanchoBot: MyzeJD left the game.
+[03:18:05] BanchoBot: hotbread left the game.
+[03:18:08] BanchoBot: zfr joined in slot 3 for team blue.
+[03:18:09] BanchoBot: meowmeowmmeowme left the game.
+[03:18:09] BanchoBot: zfr changed to Red
+[03:18:10] BanchoBot: zfr moved to slot 1
+[03:18:20] BanchoBot: gilgamesh815 left the game.
+[03:18:23] BanchoBot: Jiuchu joined in slot 2 for team red.
+[03:18:42] BanchoBot: Countdown ends in 1 minute
+[03:18:46] BanchoBot: Drakkles left the game.
+[03:19:02] zfr: pick nm5
+[03:19:03] BanchoBot: Jiuchu moved to slot 5
+[03:19:05] BanchoBot: Jiuchu changed to Blue
+[03:19:05] BanchoBot: Punkysteria left the game.
+[03:19:10] BCraftMG: !mp map 3247654
+[03:19:11] BanchoBot: Countdown ends in 30 seconds
+[03:19:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3247654 KOTOKO - Koi Kou Enishi
+[03:19:12] BCraftMG: !mp timer 120
+[03:19:13] BanchoBot: Countdown aborted
+[03:19:13] BanchoBot: Countdown ends in 2 minutes
+[03:19:33] BanchoBot: zfr moved to slot 4
+[03:19:41] BanchoBot: zfr moved to slot 12
+[03:20:00] BanchoBot: gilgamesh815 joined in slot 1 for team blue.
+[03:20:05] BanchoBot: gilgamesh815 changed to Red
+[03:20:07] BanchoBot: tights joined in slot 2 for team red.
+[03:20:09] BanchoBot: hotbread joined in slot 3 for team blue.
+[03:20:14] BanchoBot: Countdown ends in 1 minute
+[03:20:14] BanchoBot: hotbread changed to Red
+[03:20:23] BanchoBot: Ryshult joined in slot 4 for team red.
+[03:20:29] BanchoBot: Ryshult moved to slot 6
+[03:20:30] BanchoBot: Ryshult changed to Blue
+[03:20:30] hotbread: hi ryshult
+[03:20:33] BanchoBot: XiaoMyMommy joined in slot 4 for team red.
+[03:20:33] BanchoBot: MyzeJD joined in slot 7 for team blue.
+[03:20:34] Ryshult: hi
+[03:20:34] BanchoBot: MyzeJD moved to slot 8
+[03:20:38] BanchoBot: FILIPINO joined in slot 7 for team blue.
+[03:20:39] gilgamesh815: HI HOTBREAD
+[03:20:44] BanchoBot: Countdown ends in 30 seconds
+[03:20:46] BanchoBot: FILIPINO moved to slot 9
+[03:20:46] hotbread: hi gilbert mesh
+[03:20:48] BanchoBot: FILIPINO changed to Red
+[03:20:48] BanchoBot: XiaoMyMommy moved to slot 7
+[03:20:49] gilgamesh815: copper uyour on the wrrong team
+[03:20:49] BanchoBot: XiaoMyMommy changed to Blue
+[03:20:49] BanchoBot: FILIPINO moved to slot 4
+[03:20:53] BanchoBot: Hardstcukc 2 joined in slot 9 for team blue.
+[03:20:56] zfr: Dumb.
+[03:20:57] FILIPINO: im a spy
+[03:20:57] BanchoBot: zfr left the game.
+[03:20:58] BanchoBot: XiaoMyMommy moved to slot 10
+[03:21:01] BanchoBot: Hardstcukc 2 moved to slot 7
+[03:21:02] gilgamesh815: GOOD LUICK HAVBE FUBAE ST POIZZA
+[03:21:02] BanchoBot: Jiuchu moved to slot 9
+[03:21:04] BanchoBot: Countdown ends in 10 seconds
+[03:21:05] BanchoBot: Jiuchu left the game.
+[03:21:07] BanchoBot: XiaoMyMommy moved to slot 5
+[03:21:08] BanchoBot: Countdown ends in 5 seconds
+[03:21:09] BanchoBot: Countdown ends in 4 seconds
+[03:21:09] BanchoBot: All players are ready
+[03:21:11] BanchoBot: Countdown ends in 3 seconds
+[03:21:11] BCraftMG: !mp settings
+[03:21:12] BanchoBot: Countdown ends in 2 seconds
+[03:21:12] Ryshult: glhf
+[03:21:12] BanchoBot: Countdown ends in 1 second
+[03:21:12] hotbread: glgl
+[03:21:12] BanchoBot: Room name: 5WC2024: (United States) vs (France), History: https://osu.ppy.sh/mp/113298178
+[03:21:12] BanchoBot: Beatmap: https://osu.ppy.sh/b/3247654 KOTOKO - Koi Kou Enishi
+[03:21:12] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:21:12] BanchoBot: Active mods: NoFail
+[03:21:12] BanchoBot: Players: 8
+[03:21:12] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14040810 gilgamesh815    [Team Red ]
+[03:21:12] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9526124 tights          [Team Red ]
+[03:21:12] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/21627415 hotbread        [Team Red ]
+[03:21:12] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9878349 FILIPINO        [Team Red ]
+[03:21:12] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11129041 XiaoMyMommy     [Team Blue]
+[03:21:12] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11189164 Ryshult         [Team Blue]
+[03:21:12] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/9652467 Hardstcukc 2    [Team Blue]
+[03:21:12] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Blue]
+[03:21:13] BCraftMG: !mp start 5 glhf
+[03:21:13] FILIPINO: glhf
+[03:21:13] BanchoBot: Countdown finished
+[03:21:13] BanchoBot: Match starts in 5 seconds
+[03:21:13] BanchoBot: Queued the match to start in 5 seconds
+[03:21:15] gilgamesh815: [
+[03:21:15] BanchoBot: Match starts in 4 seconds
+[03:21:16] BanchoBot: Match starts in 3 seconds
+[03:21:17] BanchoBot: Good luck, have fun!
+[03:21:19] MyzeJD: glglgl
+[03:21:19] BanchoBot: The match has started!
+[03:25:16] BanchoBot: Hardstcukc 2 finished playing (Score: 469857, PASSED).
+[03:25:16] BanchoBot: MyzeJD finished playing (Score: 564835, PASSED).
+[03:25:16] BanchoBot: gilgamesh815 finished playing (Score: 793885, PASSED).
+[03:25:16] BanchoBot: FILIPINO finished playing (Score: 385446, PASSED).
+[03:25:16] BanchoBot: hotbread finished playing (Score: 506900, PASSED).
+[03:25:16] BanchoBot: XiaoMyMommy finished playing (Score: 461239, PASSED).
+[03:25:16] BanchoBot: tights finished playing (Score: 448840, PASSED).
+[03:25:16] BanchoBot: Ryshult finished playing (Score: 409703, PASSED).
+[03:25:16] BanchoBot: The match has finished!
+[03:25:29] BanchoBot: tights left the game.
+[03:25:34] BCraftMG: United States | 3 - 4 | France // BO11, Next pick: France
+[03:25:35] BCraftMG: !mp timer 120
+[03:25:36] BanchoBot: Countdown ends in 2 minutes
+[03:25:52] BanchoBot: gilgamesh815 left the game.
+[03:25:55] BanchoBot: gilgamesh815 joined in slot 1 for team blue.
+[03:25:55] BanchoBot: XiaoMyMommy left the game.
+[03:26:02] BanchoBot: hotbread left the game.
+[03:26:20] BanchoBot: FILIPINO left the game.
+[03:26:36] BanchoBot: Countdown ends in 1 minute
+[03:26:43] BanchoBot: Ryshult left the game.
+[03:26:43] BanchoBot: Jiuchu joined in slot 2 for team red.
+[03:26:51] BanchoBot: MyzeJD left the game.
+[03:26:57] BanchoBot: Jiuchu moved to slot 6
+[03:27:06] BanchoBot: Countdown ends in 30 seconds
+[03:27:14] BanchoBot: zfr joined in slot 2 for team red.
+[03:27:22] BanchoBot: Hardstcukc 2 left the game.
+[03:27:23] BanchoBot: FILIPINO joined in slot 3 for team blue.
+[03:27:25] Jiuchu: FM1 pick
+[03:27:27] BanchoBot: Countdown ends in 10 seconds
+[03:27:27] BanchoBot: Jiuchu moved to slot 12
+[03:27:27] BanchoBot: gilgamesh815 left the game.
+[03:27:31] BCraftMG: !mp map 4544736
+[03:27:31] BanchoBot: Countdown ends in 5 seconds
+[03:27:31] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4544736 Spire - Somnambulism
+[03:27:33] BanchoBot: Countdown ends in 4 seconds
+[03:27:34] BCraftMG: !mp mods Freemod
+[03:27:34] BanchoBot: Countdown ends in 3 seconds
+[03:27:34] BanchoBot: Countdown ends in 2 seconds
+[03:27:34] BanchoBot: Disabled all mods, enabled FreeMod
+[03:27:35] BanchoBot: zfr moved to slot 4
+[03:27:35] BanchoBot: Countdown ends in 1 second
+[03:27:36] BCraftMG: !mp timer 120
+[03:27:37] BanchoBot: Countdown finished
+[03:27:37] BanchoBot: Countdown ends in 2 minutes
+[03:27:39] BanchoBot: Drakkles joined in slot 1 for team blue.
+[03:27:45] BanchoBot: Drakkles moved to slot 5
+[03:27:58] BanchoBot: Adrean joined in slot 1 for team blue.
+[03:28:02] BanchoBot: FILIPINO changed to Red
+[03:28:08] BanchoBot: Adrean moved to slot 6
+[03:28:15] BCraftMG: quick recap: minimum 4 mod count on each team. need 1 HR. 1 player cant have 3 mods or more
+[03:28:16] BanchoBot: MyzeJD joined in slot 1 for team blue.
+[03:28:17] BanchoBot: MyzeJD moved to slot 7
+[03:28:37] BanchoBot: XiaoMyMommy joined in slot 1 for team blue.
+[03:28:37] BanchoBot: Countdown ends in 1 minute
+[03:28:38] BanchoBot: XiaoMyMommy moved to slot 8
+[03:28:43] BanchoBot: Jiuchu left the game.
+[03:28:49] FILIPINO: look at this hd player....
+[03:28:55] Drakkles: mdrr
+[03:28:56] MyzeJD: smh
+[03:28:57] BanchoBot: gilgamesh815 joined in slot 1 for team blue.
+[03:29:00] Drakkles: smrr
+[03:29:00] BanchoBot: gilgamesh815 changed to Red
+[03:29:07] XiaoMyMommy: :/
+[03:29:08] BanchoBot: Countdown ends in 30 seconds
+[03:29:08] BanchoBot: Stage my mommy joined in slot 2 for team red.
+[03:29:10] BCraftMG: !mp settings
+[03:29:11] BanchoBot: Room name: 5WC2024: (United States) vs (France), History: https://osu.ppy.sh/mp/113298178
+[03:29:11] BanchoBot: Beatmap: https://osu.ppy.sh/b/4544736 Spire - Somnambulism
+[03:29:11] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:29:11] BanchoBot: Active mods: Freemod
+[03:29:11] BanchoBot: Players: 8
+[03:29:11] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14040810 gilgamesh815    [Team Red  / NoFail]
+[03:29:11] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20630250 Stage my mommy  [Team Red  / NoFail, Hidden, HardRock]
+[03:29:11] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/9878349 FILIPINO        [Team Red  / NoFail, HardRock]
+[03:29:11] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/11536421 zfr             [Team Red  / NoFail, HardRock]
+[03:29:11] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13963691 Drakkles        [Team Blue / NoFail, HardRock]
+[03:29:11] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/21967  Adrean          [Team Blue / NoFail, HardRock]
+[03:29:11] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Blue / NoFail, HardRock]
+[03:29:11] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/11129041 XiaoMyMommy     [Team Blue / NoFail, Hidden]
+[03:29:24] MyzeJD: glglglglglgl
+[03:29:25] FILIPINO: glhf
+[03:29:27] BanchoBot: Pangetism joined in slot 9 for team blue.
+[03:29:28] BanchoBot: Countdown ends in 10 seconds
+[03:29:29] BanchoBot: zfr left the game.
+[03:29:31] BanchoBot: Pangetism moved to slot 4
+[03:29:31] XiaoMyMommy: glgl
+[03:29:32] gilgamesh815: GOOD LUCK HAVBE FUBE ATPIZZAZ
+[03:29:32] Drakkles: glhf
+[03:29:32] BanchoBot: Countdown ends in 5 seconds
+[03:29:33] BanchoBot: Countdown ends in 4 seconds
+[03:29:33] BanchoBot: All players are ready
+[03:29:34] BanchoBot: Countdown ends in 3 seconds
+[03:29:34] Pangetism: glhf!
+[03:29:36] BanchoBot: Countdown ends in 2 seconds
+[03:29:36] BanchoBot: Countdown ends in 1 second
+[03:29:37] BanchoBot: Countdown finished
+[03:29:37] gilgamesh815: [PANGFE TEAM
+[03:29:41] gilgamesh815: OPABNGE SWEITCH UR TEAM
+[03:29:46] BanchoBot: Pangetism changed to Red
+[03:29:48] FILIPINO: french spy
+[03:29:48] Pangetism: fineeeee
+[03:29:49] BCraftMG: !mp team Pangetism Red
+[03:29:49] BanchoBot: All players are ready
+[03:29:50] BanchoBot: Moved Pangetism to team Red
+[03:29:53] BCraftMG: !mp settings
+[03:29:53] BanchoBot: Room name: 5WC2024: (United States) vs (France), History: https://osu.ppy.sh/mp/113298178
+[03:29:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/4544736 Spire - Somnambulism
+[03:29:53] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:29:53] BanchoBot: Active mods: Freemod
+[03:29:53] BanchoBot: Players: 8
+[03:29:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14040810 gilgamesh815    [Team Red  / NoFail]
+[03:29:53] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20630250 Stage my mommy  [Team Red  / NoFail, Hidden, HardRock]
+[03:29:53] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9878349 FILIPINO        [Team Red  / NoFail, HardRock]
+[03:29:53] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7644691 Pangetism       [Team Red  / NoFail, HardRock]
+[03:29:53] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13963691 Drakkles        [Team Blue / NoFail, HardRock]
+[03:29:53] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/21967  Adrean          [Team Blue / NoFail, HardRock]
+[03:29:53] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Blue / NoFail, HardRock]
+[03:29:53] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/11129041 XiaoMyMommy     [Team Blue / NoFail, Hidden]
+[03:29:56] MyzeJD: nooo...
+[03:29:57] FILIPINO: tglhf
+[03:29:58] XiaoMyMommy: germany
+[03:30:00] Stage_my_mommy: hfhf
+[03:30:01] MyzeJD: give him back
+[03:30:02] BCraftMG: !mp start 5 glhf
+[03:30:02] gilgamesh815: GVOOD LCUIK HAVE FYBE ATPIZZA!!!!!
+[03:30:04] Pangetism: glhf!
+[03:30:04] BanchoBot: Match starts in 5 seconds
+[03:30:04] BanchoBot: Queued the match to start in 5 seconds
+[03:30:05] BanchoBot: Match starts in 4 seconds
+[03:30:06] BanchoBot: Match starts in 3 seconds
+[03:30:08] BanchoBot: Good luck, have fun!
+[03:30:09] BanchoBot: The match has started!
+[03:31:49] BanchoBot: Jiuchu joined in slot 9 for team blue.
+[03:32:51] BanchoBot: FILIPINO finished playing (Score: 377649, PASSED).
+[03:32:51] BanchoBot: Pangetism finished playing (Score: 516285, PASSED).
+[03:32:51] BanchoBot: XiaoMyMommy finished playing (Score: 281010, PASSED).
+[03:32:51] BanchoBot: gilgamesh815 finished playing (Score: 468570, PASSED).
+[03:32:51] BanchoBot: Adrean finished playing (Score: 508108, PASSED).
+[03:32:51] BanchoBot: Drakkles finished playing (Score: 447376, PASSED).
+[03:32:51] BanchoBot: Stage my mommy finished playing (Score: 871779, PASSED).
+[03:32:51] BanchoBot: MyzeJD finished playing (Score: 719514, PASSED).
+[03:32:51] BanchoBot: The match has finished!
+[03:32:56] BCraftMG: United States | 4 - 4 | France // BO11, Next pick: United States
+[03:32:59] BCraftMG: !mp timer 120
+[03:33:00] BanchoBot: Countdown ends in 2 minutes
+[03:33:04] gilgamesh815: THANKS KISOI
+[03:33:14] BanchoBot: Drakkles left the game.
+[03:33:16] BanchoBot: zfr joined in slot 5 for team blue.
+[03:33:18] BanchoBot: XiaoMyMommy left the game.
+[03:33:18] Stage_my_mommy: np guys
+[03:33:20] BanchoBot: Stage my mommy left the game.
+[03:33:20] MyzeJD: watefak hdhr player...
+[03:33:26] BanchoBot: Adrean left the game.
+[03:33:36] BanchoBot: gilgamesh815 left the game.
+[03:33:41] BanchoBot: Pangetism left the game.
+[03:33:48] FILIPINO: this is what you get for having a hd player..
+[03:33:50] zfr: pick dt4
+[03:33:56] BCraftMG: !mp map 54708
+[03:33:57] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/54708 Daisuke Achiwa - BASARA
+[03:33:58] BCraftMG: !mp mods 65
+[03:33:59] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[03:34:00] BCraftMG: !mp timer 120
+[03:34:01] BanchoBot: Countdown ends in 1 minute
+[03:34:01] BanchoBot: Punkysteria joined in slot 1 for team blue.
+[03:34:01] BanchoBot: Countdown aborted
+[03:34:01] BanchoBot: Countdown ends in 2 minutes
+[03:34:02] BanchoBot: zfr left the game.
+[03:34:05] BanchoBot: Punkysteria moved to slot 6
+[03:34:07] BanchoBot: Punkysteria moved to slot 5
+[03:34:17] BanchoBot: Adrean joined in slot 1 for team blue.
+[03:34:28] BanchoBot: Adrean moved to slot 6
+[03:34:31] BanchoBot: FILIPINO moved to slot 1
+[03:34:38] BanchoBot: Drakkles joined in slot 2 for team red.
+[03:34:39] FILIPINO: im ready lets go.
+[03:34:45] MyzeJD: here we go
+[03:34:51] FILIPINO: i'd win
+[03:34:55] BanchoBot: Drakkles moved to slot 8
+[03:34:57] BanchoBot: Drakkles changed to Blue
+[03:34:58] BanchoBot: Pangetism joined in slot 2 for team red.
+[03:35:00] BCraftMG: nah, id win
+[03:35:02] BanchoBot: Countdown ends in 1 minute
+[03:35:05] BanchoBot: hotbread joined in slot 3 for team blue.
+[03:35:10] BanchoBot: hotbread changed to Red
+[03:35:15] BanchoBot: tights joined in slot 4 for team red.
+[03:35:18] BanchoBot: Jiuchu left the game.
+[03:35:18] BanchoBot: tights moved to slot 10
+[03:35:31] BanchoBot: Countdown ends in 30 seconds
+[03:35:35] BanchoBot: tights left the game.
+[03:35:35] BanchoBot: zfr joined in slot 4 for team red.
+[03:35:38] BanchoBot: All players are ready
+[03:35:40] BCraftMG: !mp settings
+[03:35:41] BanchoBot: Room name: 5WC2024: (United States) vs (France), History: https://osu.ppy.sh/mp/113298178
+[03:35:41] BanchoBot: Beatmap: https://osu.ppy.sh/b/54708 Daisuke Achiwa - BASARA
+[03:35:41] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:35:41] BanchoBot: Active mods: NoFail, DoubleTime
+[03:35:41] BanchoBot: Players: 8
+[03:35:41] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9878349 FILIPINO        [Team Red ]
+[03:35:41] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7644691 Pangetism       [Team Red ]
+[03:35:41] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/21627415 hotbread        [Team Red ]
+[03:35:41] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11536421 zfr             [Team Red ]
+[03:35:41] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/10451063 Punkysteria     [Team Blue]
+[03:35:41] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/21967  Adrean          [Team Blue]
+[03:35:41] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Blue]
+[03:35:41] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/13963691 Drakkles        [Team Blue]
+[03:35:42] Punkysteria: glhf!
+[03:35:43] MyzeJD: glglgllglg
+[03:35:43] BCraftMG: !mp start 5 glhf
+[03:35:44] Pangetism: glhf!
+[03:35:44] FILIPINO: glhf
+[03:35:44] BanchoBot: Countdown aborted
+[03:35:44] BanchoBot: Match starts in 5 seconds
+[03:35:44] BanchoBot: Queued the match to start in 5 seconds
+[03:35:46] BanchoBot: Match starts in 4 seconds
+[03:35:46] hotbread: glhf
+[03:35:47] zfr: glhf
+[03:35:47] BanchoBot: Match starts in 3 seconds
+[03:35:48] Drakkles: glhf
+[03:35:48] BanchoBot: Good luck, have fun!
+[03:35:50] BanchoBot: The match has started!
+[03:38:09] BanchoBot: gilgamesh815 joined in slot 9 for team blue.
+[03:38:13] BanchoBot: Pangetism finished playing (Score: 756413, PASSED).
+[03:38:13] BanchoBot: hotbread finished playing (Score: 729270, PASSED).
+[03:38:13] BanchoBot: MyzeJD finished playing (Score: 770334, PASSED).
+[03:38:13] BanchoBot: gilgamesh815 left the game.
+[03:38:13] BanchoBot: Punkysteria finished playing (Score: 548843, PASSED).
+[03:38:13] BanchoBot: Drakkles finished playing (Score: 610952, PASSED).
+[03:38:13] BanchoBot: FILIPINO finished playing (Score: 747116, PASSED).
+[03:38:13] BanchoBot: Adrean finished playing (Score: 529559, PASSED).
+[03:38:13] BanchoBot: zfr finished playing (Score: 617425, PASSED).
+[03:38:13] BanchoBot: The match has finished!
+[03:38:17] BCraftMG: United States | 5 - 4 | France // BO11, Next pick: France
+[03:38:19] BCraftMG: !mp timer 120
+[03:38:19] BanchoBot: Countdown ends in 2 minutes
+[03:38:20] BanchoBot: gilgamesh815 joined in slot 9 for team blue.
+[03:38:28] BanchoBot: Drakkles left the game.
+[03:38:44] BanchoBot: Punkysteria left the game.
+[03:38:53] BanchoBot: Pangetism left the game.
+[03:38:53] BanchoBot: MyzeJD moved to slot 12
+[03:39:00] BanchoBot: Adrean left the game.
+[03:39:06] BanchoBot: FILIPINO left the game.
+[03:39:17] BanchoBot: FILIPINO joined in slot 1 for team blue.
+[03:39:20] BanchoBot: Countdown ends in 1 minute
+[03:39:41] BanchoBot: FILIPINO left the game.
+[03:39:50] BanchoBot: tights joined in slot 1 for team blue.
+[03:39:50] BanchoBot: Countdown ends in 30 seconds
+[03:39:51] BanchoBot: Jiuchu joined in slot 2 for team red.
+[03:39:59] Jiuchu: fm2
+[03:40:02] BanchoBot: tights left the game.
+[03:40:03] BanchoBot: zfr left the game.
+[03:40:03] BCraftMG: !mp map 3994999
+[03:40:04] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3994999 Aiko Kayo - Hitomi no Naka no Meikyuu
+[03:40:05] BCraftMG: !mp mods Freemod
+[03:40:06] BanchoBot: Disabled all mods, enabled FreeMod
+[03:40:07] BanchoBot: gilgamesh815 left the game.
+[03:40:08] BCraftMG: !mp timer 120
+[03:40:08] BanchoBot: Countdown aborted
+[03:40:08] BanchoBot: Countdown ends in 2 minutes
+[03:40:11] MyzeJD: can we put on dt
+[03:40:12] BanchoBot: Stage my mommy joined in slot 1 for team blue.
+[03:40:16] BanchoBot: Stage my mommy changed to Red
+[03:40:33] BCraftMG: i can put on halftime
+[03:40:42] BanchoBot: FILIPINO joined in slot 4 for team red.
+[03:40:46] MyzeJD: alright
+[03:40:54] BCraftMG: deal
+[03:40:54] BanchoBot: FILIPINO left the game.
+[03:40:59] MyzeJD: deal
+[03:41:01] BCraftMG: mp kick MyzeJD
+[03:41:09] BanchoBot: hotbread left the game.
+[03:41:09] BanchoBot: Countdown ends in 1 minute
+[03:41:10] BanchoBot: Ryshult joined in slot 3 for team blue.
+[03:41:10] MyzeJD: i'm alrdy not playing map
+[03:41:13] MyzeJD: heheheha
+[03:41:14] BanchoBot: MyzeJD left the game.
+[03:41:14] BanchoBot: Ryshult moved to slot 6
+[03:41:16] BCraftMG: oh
+[03:41:16] BanchoBot: Jiuchu moved to slot 5
+[03:41:16] Stage_my_mommy: wth man
+[03:41:19] BanchoBot: Jiuchu changed to Blue
+[03:41:22] BCraftMG: grrrrrrrr
+[03:41:23] BanchoBot: Drakkles joined in slot 2 for team red.
+[03:41:31] BanchoBot: Drakkles moved to slot 7
+[03:41:32] BanchoBot: Hardstcukc 2 joined in slot 2 for team red.
+[03:41:32] BanchoBot: Drakkles changed to Blue
+[03:41:36] BanchoBot: Hardstcukc 2 moved to slot 8
+[03:41:37] BanchoBot: Hardstcukc 2 changed to Blue
+[03:41:38] BanchoBot: Countdown ends in 30 seconds
+[03:41:40] BanchoBot: zfr joined in slot 2 for team red.
+[03:41:45] Stage_my_mommy: hes gonna practice tb then fc in match :dispairge:
+[03:41:45] Hardstcukc_2: get gilgamesh in here
+[03:41:48] BanchoBot: tights joined in slot 3 for team blue.
+[03:41:48] BanchoBot: hotbread joined in slot 4 for team red.
+[03:41:48] BanchoBot: Stage my mommy moved to slot 12
+[03:41:49] BanchoBot: tights changed to Red
+[03:41:53] BanchoBot: gilgamesh815 joined in slot 1 for team blue.
+[03:41:55] BanchoBot: Stage my mommy left the game.
+[03:41:57] BanchoBot: gilgamesh815 changed to Red
+[03:41:59] BanchoBot: Countdown ends in 10 seconds
+[03:42:03] Hardstcukc_2: gilgamesh815 i want my fight
+[03:42:03] BanchoBot: Countdown ends in 5 seconds
+[03:42:05] BanchoBot: Countdown ends in 4 seconds
+[03:42:06] zfr: glhf
+[03:42:06] BanchoBot: Countdown ends in 3 seconds
+[03:42:07] BanchoBot: Countdown ends in 2 seconds
+[03:42:07] BanchoBot: All players are ready
+[03:42:07] BanchoBot: Countdown ends in 1 second
+[03:42:08] BCraftMG: ready up
+[03:42:09] BanchoBot: Countdown finished
+[03:42:09] gilgamesh815: i dint practice :(
+[03:42:10] BCraftMG: !mp settings
+[03:42:11] Hardstcukc_2: :(
+[03:42:11] gilgamesh815: GOOD LUCJ BABR FUBE ATPIZA
+[03:42:11] BanchoBot: Room name: 5WC2024: (United States) vs (France), History: https://osu.ppy.sh/mp/113298178
+[03:42:11] BanchoBot: Beatmap: https://osu.ppy.sh/b/3994999 Aiko Kayo - Hitomi no Naka no Meikyuu
+[03:42:12] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:42:12] BanchoBot: Active mods: Freemod
+[03:42:12] BanchoBot: Players: 8
+[03:42:12] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14040810 gilgamesh815    [Team Red  / NoFail]
+[03:42:12] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11536421 zfr             [Team Red  / NoFail, Hidden, HardRock]
+[03:42:12] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9526124 tights          [Team Red  / NoFail, Hidden]
+[03:42:12] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/21627415 hotbread        [Team Red  / NoFail, HardRock]
+[03:42:12] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/2282145 Jiuchu          [Team Blue / NoFail, HardRock]
+[03:42:12] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11189164 Ryshult         [Team Blue / NoFail, Hidden]
+[03:42:12] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/13963691 Drakkles        [Team Blue / NoFail, HardRock]
+[03:42:12] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/9652467 Hardstcukc 2    [Team Blue / NoFail, Easy]
+[03:42:14] Drakkles: glhf
+[03:42:15] hotbread: gl
+[03:42:20] BCraftMG: !mp timer 120
+[03:42:22] BanchoBot: Countdown ends in 2 minutes
+[03:42:32] BCraftMG: !mp start 5 glhf
+[03:42:33] BanchoBot: Countdown aborted
+[03:42:33] BanchoBot: Match starts in 5 seconds
+[03:42:33] BanchoBot: Queued the match to start in 5 seconds
+[03:42:35] BanchoBot: Match starts in 4 seconds
+[03:42:35] BCraftMG: wrong command
+[03:42:36] BanchoBot: Match starts in 3 seconds
+[03:42:37] BanchoBot: Good luck, have fun!
+[03:42:39] BanchoBot: The match has started!
+[03:46:46] BanchoBot: hotbread finished playing (Score: 447194, PASSED).
+[03:46:46] BanchoBot: zfr finished playing (Score: 590541, PASSED).
+[03:46:46] BanchoBot: Drakkles finished playing (Score: 458378, PASSED).
+[03:46:48] BanchoBot: Hardstcukc 2 finished playing (Score: 498270, PASSED).
+[03:46:48] BanchoBot: Ryshult finished playing (Score: 483141, PASSED).
+[03:46:48] BanchoBot: gilgamesh815 finished playing (Score: 685807, PASSED).
+[03:46:48] BanchoBot: tights finished playing (Score: 409983, PASSED).
+[03:46:49] BanchoBot: Jiuchu finished playing (Score: 709475, PASSED).
+[03:46:49] BanchoBot: The match has finished!
+[03:46:51] BCraftMG: !mp map 4544728
+[03:46:52] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4544728 King Gizzard & The Lizard Wizard - Big Fig Wasp
+[03:46:54] BCraftMG: !mp mods Freemod
+[03:46:54] BanchoBot: Disabled all mods, enabled FreeMod
+[03:46:57] BanchoBot: hotbread left the game.
+[03:46:57] BanchoBot: gilgamesh815 left the game.
+[03:47:00] BanchoBot: zfr left the game.
+[03:47:00] BanchoBot: tights left the game.
+[03:47:02] BanchoBot: MyzeJD joined in slot 1 for team blue.
+[03:47:02] BanchoBot: Hardstcukc 2 left the game.
+[03:47:04] BCraftMG: both team still have a 2mins timeout
+[03:47:07] BanchoBot: MyzeJD moved to slot 8
+[03:47:14] BanchoBot: FILIPINO joined in slot 1 for team blue.
+[03:47:19] FILIPINO: big fig wasp
+[03:47:22] BanchoBot: FILIPINO changed to Red
+[03:47:24] MyzeJD: big fig wasp
+[03:47:37] BanchoBot: Ryshult left the game.
+[03:47:52] BanchoBot: Pangetism joined in slot 2 for team red.
+[03:47:53] BanchoBot: Drakkles left the game.
+[03:47:57] BanchoBot: Stage my mommy joined in slot 3 for team blue.
+[03:47:58] BanchoBot: Stage my mommy changed to Red
+[03:48:36] BanchoBot: Punkysteria joined in slot 4 for team red.
+[03:48:42] BanchoBot: Punkysteria moved to slot 6
+[03:48:44] BanchoBot: Ryshult joined in slot 4 for team red.
+[03:48:45] BanchoBot: Punkysteria changed to Blue
+[03:48:46] BanchoBot: XiaoMyMommy joined in slot 7 for team blue.
+[03:48:50] BanchoBot: Ryshult moved to slot 10
+[03:48:51] BanchoBot: Ryshult changed to Blue
+[03:48:54] BanchoBot: hotbread joined in slot 4 for team red.
+[03:49:01] BCraftMG: fm2 score different was 389,442
+[03:49:13] BCraftMG: o shoot i forgot the timer
+[03:49:15] BCraftMG: !mp timer 60
+[03:49:16] BanchoBot: Countdown ends in 1 minute
+[03:49:17] BanchoBot: zfr joined in slot 9 for team blue.
+[03:49:21] BanchoBot: Jiuchu moved to slot 12
+[03:49:21] BanchoBot: FILIPINO left the game.
+[03:49:23] BanchoBot: Ryshult moved to slot 5
+[03:49:24] BanchoBot: zfr changed to Red
+[03:49:25] BanchoBot: zfr moved to slot 1
+[03:49:36] BanchoBot: Stage my mommy left the game.
+[03:49:45] BanchoBot: Jiuchu left the game.
+[03:49:47] BanchoBot: Countdown ends in 30 seconds
+[03:49:58] BanchoBot: Stage my mommy joined in slot 3 for team blue.
+[03:49:59] BanchoBot: Stage my mommy changed to Red
+[03:50:00] XiaoMyMommy: !where pangetism
+[03:50:00] BanchoBot: pangetism is in Germany
+[03:50:04] BanchoBot: All players are ready
+[03:50:05] Pangetism: Shhh
+[03:50:07] zfr: SPY!!!!!!!!!
+[03:50:07] BanchoBot: Countdown ends in 10 seconds
+[03:50:07] BCraftMG: !mp settings
+[03:50:08] BanchoBot: Room name: 5WC2024: (United States) vs (France), History: https://osu.ppy.sh/mp/113298178
+[03:50:08] BanchoBot: Beatmap: https://osu.ppy.sh/b/4544728 King Gizzard & The Lizard Wizard - Big Fig Wasp
+[03:50:08] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:50:08] BanchoBot: Active mods: Freemod
+[03:50:08] BanchoBot: Players: 8
+[03:50:08] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11536421 zfr             [Team Red  / NoFail]
+[03:50:08] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7644691 Pangetism       [Team Red  / NoFail]
+[03:50:08] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/20630250 Stage my mommy  [Team Red  / NoFail]
+[03:50:08] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/21627415 hotbread        [Team Red  / NoFail]
+[03:50:08] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11189164 Ryshult         [Team Blue / NoFail]
+[03:50:08] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10451063 Punkysteria     [Team Blue / NoFail]
+[03:50:08] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11129041 XiaoMyMommy     [Team Blue / NoFail]
+[03:50:08] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Blue / NoFail]
+[03:50:09] BanchoBot: Jiuchu joined in slot 9 for team blue.
+[03:50:09] hotbread: vpn abuser smh
+[03:50:09] Pangetism: glhf!
+[03:50:11] BanchoBot: Jiuchu left the game.
+[03:50:12] hotbread: glgl
+[03:50:12] BanchoBot: Countdown ends in 5 seconds
+[03:50:12] BCraftMG: !mp start 5 glhf
+[03:50:13] BanchoBot: Countdown ends in 4 seconds
+[03:50:13] BanchoBot: Countdown ends in 3 seconds
+[03:50:13] BanchoBot: Countdown aborted
+[03:50:13] BanchoBot: Match starts in 5 seconds
+[03:50:13] BanchoBot: Queued the match to start in 5 seconds
+[03:50:15] Ryshult: glhf
+[03:50:15] MyzeJD: !where plink
+[03:50:15] BanchoBot: The user is currently not online.
+[03:50:15] BanchoBot: Match starts in 4 seconds
+[03:50:16] BanchoBot: Match starts in 3 seconds
+[03:50:16] Stage_my_mommy: hfhf
+[03:50:17] MyzeJD: glglgl
+[03:50:17] BanchoBot: Good luck, have fun!
+[03:50:17] zfr: glhf all
+[03:50:18] BCraftMG: GLHF!
+[03:50:18] BanchoBot: The match has started!
+[03:50:20] zfr: ty for great match
+[03:50:32] BanchoBot: Punkysteria left the game.
+[03:50:35] BanchoBot: Jiuchu joined in slot 6 for team red.
+[03:50:37] Jiuchu: abort
+[03:50:42] BCraftMG: !mp abort
+[03:50:42] Jiuchu: punky's net died
+[03:50:42] BanchoBot: Aborted the match
+[03:50:47] Jiuchu: sorry
+[03:50:48] zfr: ?
+[03:50:51] BanchoBot: Jiuchu moved to slot 12
+[03:50:51] zfr: oh
+[03:50:52] zfr: np
+[03:50:52] MyzeJD: erm
+[03:50:54] hotbread: np np
+[03:51:00] BanchoBot: Jiuchu left the game.
+[03:51:04] BanchoBot: Punkysteria joined in slot 6 for team red.
+[03:51:05] BCraftMG: can Punky rejoin
+[03:51:07] BanchoBot: Punkysteria changed to Blue
+[03:51:13] hotbread: gl yall :D
+[03:51:17] Punkysteria: yep sry here
+[03:51:18] zfr: glhf
+[03:51:18] Pangetism: glhf!
+[03:51:18] zfr: once again
+[03:51:19] Punkysteria: gl hf!
+[03:51:19] Ryshult: glhf
+[03:51:21] BCraftMG: all good?
+[03:51:21] zfr: ty for a great match
+[03:51:21] Stage_my_mommy: hfhf
+[03:51:22] MyzeJD: glhf
+[03:51:22] BanchoBot: All players are ready
+[03:51:24] BCraftMG: !mp settings
+[03:51:25] BanchoBot: Room name: 5WC2024: (United States) vs (France), History: https://osu.ppy.sh/mp/113298178
+[03:51:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/4544728 King Gizzard & The Lizard Wizard - Big Fig Wasp
+[03:51:25] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:51:25] BanchoBot: Active mods: Freemod
+[03:51:25] BanchoBot: Players: 8
+[03:51:25] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11536421 zfr             [Team Red  / NoFail]
+[03:51:25] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7644691 Pangetism       [Team Red  / NoFail]
+[03:51:25] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/20630250 Stage my mommy  [Team Red  / NoFail]
+[03:51:25] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/21627415 hotbread        [Team Red  / NoFail]
+[03:51:25] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11189164 Ryshult         [Team Blue / NoFail]
+[03:51:25] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10451063 Punkysteria     [Team Blue / NoFail]
+[03:51:25] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11129041 XiaoMyMommy     [Team Blue / NoFail]
+[03:51:25] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/3257847 MyzeJD          [Team Blue / NoFail]
+[03:51:26] zfr: regardless of outcome
+[03:51:30] BCraftMG: !mp start 5
+[03:51:30] MyzeJD: :3
+[03:51:31] BanchoBot: Match starts in 5 seconds
+[03:51:31] BanchoBot: Queued the match to start in 5 seconds
+[03:51:32] BanchoBot: Match starts in 4 seconds
+[03:51:33] Pangetism: o7
+[03:51:34] BanchoBot: Match starts in 3 seconds
+[03:51:34] XiaoMyMommy: gglgl
+[03:51:34] BanchoBot: Good luck, have fun!
+[03:51:36] MyzeJD: hfhf
+[03:51:36] BanchoBot: The match has started!
+[03:56:41] BanchoBot: Punkysteria finished playing (Score: 321864, PASSED).
+[03:56:41] BanchoBot: Stage my mommy finished playing (Score: 467618, PASSED).
+[03:56:41] BanchoBot: Pangetism finished playing (Score: 301557, PASSED).
+[03:56:41] BanchoBot: zfr finished playing (Score: 357714, PASSED).
+[03:56:41] BanchoBot: XiaoMyMommy finished playing (Score: 520849, PASSED).
+[03:56:43] BanchoBot: hotbread finished playing (Score: 387617, PASSED).
+[03:56:43] BanchoBot: MyzeJD finished playing (Score: 594407, PASSED).
+[03:56:44] BanchoBot: Ryshult finished playing (Score: 345808, PASSED).
+[03:56:44] BanchoBot: The match has finished!
+[03:56:54] MyzeJD: GGWP
+[03:56:55] Ryshult: ggwp
+[03:56:57] hotbread: ggwp
+[03:57:04] BCraftMG: United States | 5 - 6 | France // France wins the match!
+[03:57:06] zfr: ggwp
+[03:57:06] hotbread: gl in rest of bracket!!
+[03:57:06] XiaoMyMommy: ggwp
+[03:57:07] zfr: ty for match
+[03:57:07] Pangetism: ggwp!
+[03:57:07] zfr: ty reg
+[03:57:10] zfr: ty stream
+[03:57:10] BanchoBot: zfr left the game.
+[03:57:11] hotbread: ty fopr ref
+[03:57:12] XiaoMyMommy: ya
+[03:57:14] MyzeJD: great match
+[03:57:15] XiaoMyMommy: ty for match
+[03:57:18] BanchoBot: Jiuchu joined in slot 1 for team blue.
+[03:57:19] Jiuchu: ggs
+[03:57:20] MyzeJD: gl for rest of your bracket
+[03:57:20] XiaoMyMommy: thx for reffing and stream
+[03:57:21] Pangetism: ty for ref!
+[03:57:21] Jiuchu: thanks for reffing
+[03:57:23] XiaoMyMommy: o/
+[03:57:24] Ryshult: ty4ref and match
+[03:57:25] BanchoBot: hotbread left the game.
+[03:57:25] BanchoBot: Ryshult left the game.
+[03:57:27] Pangetism: o7
+[03:57:28] BanchoBot: Pangetism left the game.
+[03:57:28] Punkysteria: GG WP
+[03:57:30] Punkysteria: THX FOR REF !
+[03:57:32] BanchoBot: XiaoMyMommy left the game.
+[03:57:33] BCraftMG: !mp map 2801804
+[03:57:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2801804 ZUTOMAYO - STUDY ME
+[03:57:37] BanchoBot: Stage my mommy left the game.
+[03:57:49] MyzeJD: surprise nm3
+[03:58:03] BCraftMG: shhhhhhhhhh
+[03:58:08] MyzeJD: ty for ref
+[03:58:12] BanchoBot: Punkysteria left the game.
+[03:58:27] BanchoBot: MyzeJD left the game.
+[03:58:47] BCraftMG: !mp close
+[03:58:47] BanchoBot: Closed the match

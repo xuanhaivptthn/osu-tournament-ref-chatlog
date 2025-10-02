@@ -1,0 +1,369 @@
+[23:46:04] Joined #mp_113296000
+[23:46:04] BCraftMG: !mp settings
+[23:46:05] BanchoBot: Room name: BC2: (13 year age gap LOL) vs (Ghostly Field Club), History: https://osu.ppy.sh/mp/113296000
+[23:46:05] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[23:46:05] BanchoBot: Players: 0
+[23:46:10] BCraftMG: !mp set 2 3 3
+[23:46:12] BanchoBot: Changed match settings to 3 slots, TeamVs, ScoreV2
+[23:46:17] BCraftMG: !mp invite #18348230
+[23:46:18] BanchoBot: Invited Rav_ to the room
+[23:46:18] BCraftMG: !mp invite #20569442
+[23:46:19] BanchoBot: Invited yzn to the room
+[23:46:26] BCraftMG: !mp map 31562 0
+[23:46:27] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/31562 Aqua - Candyman (Speedy Mix)
+[23:46:27] BanchoBot: Changed match mode to Osu
+[23:46:29] BCraftMG: !mp mods Freemod
+[23:46:31] BanchoBot: Disabled all mods, enabled FreeMod
+[23:46:45] BanchoBot: yzn joined in slot 1 for team blue.
+[23:46:51] BCraftMG: hi
+[23:46:54] BanchoBot: Rav_ joined in slot 2 for team red.
+[23:46:54] BanchoBot: yzn left the game.
+[23:46:55] BanchoBot: Rav_ moved to slot 1
+[23:47:05] BCraftMG: you two on blue team please
+[23:47:26] BanchoBot: yzn joined in slot 2 for team red.
+[23:47:42] BanchoBot: Rav_ changed to Blue
+[23:47:55] BCraftMG: !mp team yzn Blue
+[23:47:56] BanchoBot: yzn changed to Blue
+[23:47:56] BanchoBot: Moved yzn to team Blue
+[23:47:57] BCraftMG: ready when you are
+[23:48:02] yzn: ty
+[23:48:02] BCraftMG: !mp settings
+[23:48:03] BanchoBot: Room name: BC2: (13 year age gap LOL) vs (Ghostly Field Club), History: https://osu.ppy.sh/mp/113296000
+[23:48:03] BanchoBot: Beatmap: https://osu.ppy.sh/b/31562 Aqua - Candyman (Speedy Mix)
+[23:48:03] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:48:03] BanchoBot: Active mods: Freemod
+[23:48:03] BanchoBot: Players: 2
+[23:48:03] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/18348230 Rav_            [Team Blue / NoFail, HardRock]
+[23:48:03] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/20569442 yzn             [Team Blue / NoFail, Hidden]
+[23:48:24] Rav_: whats the fm rules?
+[23:48:46] BCraftMG: 1 reading and 1 precision
+[23:48:56] BanchoBot: All players are ready
+[23:48:57] BCraftMG: so the usual 1 hd 1 hr is fine
+[23:48:58] BCraftMG: !mp settings
+[23:48:59] BanchoBot: Room name: BC2: (13 year age gap LOL) vs (Ghostly Field Club), History: https://osu.ppy.sh/mp/113296000
+[23:48:59] BanchoBot: Beatmap: https://osu.ppy.sh/b/31562 Aqua - Candyman (Speedy Mix)
+[23:48:59] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:48:59] BanchoBot: Active mods: Freemod
+[23:48:59] BanchoBot: Players: 2
+[23:48:59] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18348230 Rav_            [Team Blue / NoFail, Hidden]
+[23:48:59] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20569442 yzn             [Team Blue / NoFail, HardRock]
+[23:49:03] BCraftMG: !mp start 5 glhf
+[23:49:05] BanchoBot: Match starts in 5 seconds
+[23:49:05] BanchoBot: Queued the match to start in 5 seconds
+[23:49:06] BanchoBot: Match starts in 4 seconds
+[23:49:08] BanchoBot: Match starts in 3 seconds
+[23:49:09] BanchoBot: Good luck, have fun!
+[23:49:09] Rav_: glgll
+[23:49:11] BanchoBot: The match has started!
+[23:51:53] BanchoBot: yzn finished playing (Score: 409913, PASSED).
+[23:51:55] BanchoBot: Rav_ finished playing (Score: 246171, PASSED).
+[23:51:55] BanchoBot: The match has finished!
+[23:51:58] BCraftMG: !mp map 58239 0
+[23:51:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/58239 supercell feat. Gazelle - Melt 3M MIX
+[23:51:59] BanchoBot: Changed match mode to Osu
+[23:52:00] BCraftMG: !mp mods 1
+[23:52:00] Rav_: nice'
+[23:52:02] BanchoBot: Enabled NoFail, disabled FreeMod
+[23:52:12] yzn: hd wouldve been an fc
+[23:52:15] yzn: i think
+[23:52:22] yzn: but its fine
+[23:52:26] BanchoBot: All players are ready
+[23:52:30] BCraftMG: !mp settings
+[23:52:31] Rav_: :(
+[23:52:31] yzn: gllgg
+[23:52:31] BanchoBot: Room name: BC2: (13 year age gap LOL) vs (Ghostly Field Club), History: https://osu.ppy.sh/mp/113296000
+[23:52:31] BanchoBot: Beatmap: https://osu.ppy.sh/b/58239 supercell feat. Gazelle - Melt 3M MIX
+[23:52:31] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:52:31] BanchoBot: Active mods: NoFail
+[23:52:31] BanchoBot: Players: 2
+[23:52:31] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18348230 Rav_            [Team Blue]
+[23:52:31] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20569442 yzn             [Team Blue]
+[23:52:31] BCraftMG: !mp start 5 glhf
+[23:52:32] Rav_: my bad
+[23:52:32] BanchoBot: Match starts in 5 seconds
+[23:52:32] BanchoBot: Queued the match to start in 5 seconds
+[23:52:33] BanchoBot: Match starts in 4 seconds
+[23:52:35] Rav_: glglg
+[23:52:35] BanchoBot: Match starts in 3 seconds
+[23:52:36] BanchoBot: Good luck, have fun!
+[23:52:36] yzn: its cool
+[23:52:38] BanchoBot: The match has started!
+[23:56:53] BanchoBot: yzn finished playing (Score: 705694, PASSED).
+[23:56:55] BanchoBot: Rav_ finished playing (Score: 401258, PASSED).
+[23:56:55] BanchoBot: The match has finished!
+[23:57:02] BCraftMG: !mp map 142765 0
+[23:57:03] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/142765 Hatsune Miku - Kagerou Days (Short Ver.)
+[23:57:03] BanchoBot: Changed match mode to Osu
+[23:57:05] BCraftMG: !mp mods 9
+[23:57:06] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[23:57:18] yzn: gllglglg
+[23:57:22] BanchoBot: All players are ready
+[23:57:23] Rav_: glglgl
+[23:57:38] BCraftMG: !mp settings
+[23:57:38] BanchoBot: Room name: BC2: (13 year age gap LOL) vs (Ghostly Field Club), History: https://osu.ppy.sh/mp/113296000
+[23:57:38] BanchoBot: Beatmap: https://osu.ppy.sh/b/142765 Hatsune Miku - Kagerou Days (Short Ver.)
+[23:57:38] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:57:38] BanchoBot: Active mods: NoFail, Hidden
+[23:57:38] BanchoBot: Players: 2
+[23:57:38] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18348230 Rav_            [Team Blue]
+[23:57:38] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20569442 yzn             [Team Blue]
+[23:57:39] BCraftMG: !mp start 5 glhf
+[23:57:40] BanchoBot: Match starts in 5 seconds
+[23:57:40] BanchoBot: Queued the match to start in 5 seconds
+[23:57:41] BanchoBot: Match starts in 4 seconds
+[23:57:42] BanchoBot: Match starts in 3 seconds
+[23:57:44] BanchoBot: Good luck, have fun!
+[23:57:45] BanchoBot: The match has started!
+[00:00:19] BanchoBot: yzn finished playing (Score: 1005439, PASSED).
+[00:00:19] BanchoBot: Rav_ finished playing (Score: 591817, PASSED).
+[00:00:19] BanchoBot: The match has finished!
+[00:00:26] Rav_: aaaaaaa
+[00:00:28] yzn: ASHUAHUAHU
+[00:00:29] Rav_: sorry
+[00:00:34] yzn: relax
+[00:00:35] Rav_: nice fc tho
+[00:00:41] BCraftMG: !mp map 52333 0
+[00:00:42] yzn: fc?
+[00:00:42] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/52333 Justin Bieber ft. Ludacris - Baby
+[00:00:42] BanchoBot: Changed match mode to Osu
+[00:00:44] BCraftMG: !mp mods 65
+[00:00:45] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[00:00:51] yzn: wtf goated
+[00:01:08] BanchoBot: All players are ready
+[00:01:13] BCraftMG: !mp settings
+[00:01:14] yzn: gglkgllg
+[00:01:14] BanchoBot: Room name: BC2: (13 year age gap LOL) vs (Ghostly Field Club), History: https://osu.ppy.sh/mp/113296000
+[00:01:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/52333 Justin Bieber ft. Ludacris - Baby
+[00:01:14] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:01:14] BanchoBot: Active mods: NoFail, DoubleTime
+[00:01:14] BanchoBot: Players: 2
+[00:01:14] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18348230 Rav_            [Team Blue]
+[00:01:14] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20569442 yzn             [Team Blue]
+[00:01:15] BCraftMG: !mp start 5 glhf
+[00:01:15] BanchoBot: Match starts in 5 seconds
+[00:01:15] BanchoBot: Queued the match to start in 5 seconds
+[00:01:17] BanchoBot: Match starts in 4 seconds
+[00:01:18] BanchoBot: Match starts in 3 seconds
+[00:01:20] BanchoBot: Good luck, have fun!
+[00:01:20] Rav_: glglgl
+[00:01:21] BanchoBot: The match has started!
+[00:01:21] Rav_: hfhfh
+[00:03:32] BanchoBot: Rav_ finished playing (Score: 973773, PASSED).
+[00:03:34] BanchoBot: yzn finished playing (Score: 929569, PASSED).
+[00:03:34] BanchoBot: The match has finished!
+[00:03:36] Rav_: bad acc
+[00:03:46] yzn: goated acc
+[00:03:49] Rav_: wait double fc??
+[00:03:51] Rav_: xd
+[00:03:55] BCraftMG: !mp map 45347 0
+[00:03:57] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/45347 Beyonce feat. Jay-Z - Crazy in Love
+[00:03:57] BanchoBot: Changed match mode to Osu
+[00:03:59] BCraftMG: goat
+[00:04:01] yzn: thanks for carry rav
+[00:04:02] BCraftMG: !mp mods 1
+[00:04:02] Rav_: thats crazy
+[00:04:02] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:04:10] Rav_: huh
+[00:04:11] Rav_: nm4??
+[00:04:13] yzn: wait what
+[00:04:16] yzn: sIHIAHUHAHA
+[00:04:19] Rav_: bruh
+[00:04:20] Rav_: alr
+[00:04:20] BanchoBot: All players are ready
+[00:04:22] yzn: ar6 mashallah
+[00:04:25] BCraftMG: !mp settings
+[00:04:26] Rav_: im gonna die
+[00:04:26] BanchoBot: Room name: BC2: (13 year age gap LOL) vs (Ghostly Field Club), History: https://osu.ppy.sh/mp/113296000
+[00:04:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/45347 Beyonce feat. Jay-Z - Crazy in Love
+[00:04:26] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:04:26] BanchoBot: Active mods: NoFail
+[00:04:26] BanchoBot: Players: 2
+[00:04:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18348230 Rav_            [Team Blue]
+[00:04:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20569442 yzn             [Team Blue]
+[00:04:27] BCraftMG: !mp start 5 glhf
+[00:04:27] BanchoBot: Match starts in 5 seconds
+[00:04:27] BanchoBot: Queued the match to start in 5 seconds
+[00:04:29] BanchoBot: Match starts in 4 seconds
+[00:04:30] BanchoBot: Match starts in 3 seconds
+[00:04:32] BanchoBot: Good luck, have fun!
+[00:04:33] BanchoBot: The match has started!
+[00:07:57] BanchoBot: yzn finished playing (Score: 347955, PASSED).
+[00:08:00] BanchoBot: Rav_ finished playing (Score: 286123, PASSED).
+[00:08:00] BanchoBot: The match has finished!
+[00:08:04] yzn: funni map
+[00:08:07] Rav_: nice comback
+[00:08:11] Rav_: trulky
+[00:08:28] BCraftMG: !mp map 100784 0
+[00:08:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/100784 Max Coveri - Golden Age
+[00:08:29] BanchoBot: Changed match mode to Osu
+[00:08:30] BCraftMG: !mp mods
+[00:08:32] BanchoBot: Disabled all mods, disabled FreeMod
+[00:08:33] BCraftMG: !mp mods 1
+[00:08:33] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:08:40] BanchoBot: All players are ready
+[00:08:47] BCraftMG: !mp settings
+[00:08:49] BanchoBot: Room name: BC2: (13 year age gap LOL) vs (Ghostly Field Club), History: https://osu.ppy.sh/mp/113296000
+[00:08:49] BanchoBot: Beatmap: https://osu.ppy.sh/b/100784 Max Coveri - Golden Age
+[00:08:49] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:08:49] BanchoBot: Active mods: NoFail
+[00:08:49] BanchoBot: Players: 2
+[00:08:49] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18348230 Rav_            [Team Blue]
+[00:08:49] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20569442 yzn             [Team Blue]
+[00:08:50] BCraftMG: !mp start 5 glhf
+[00:08:50] BanchoBot: Match starts in 5 seconds
+[00:08:50] BanchoBot: Queued the match to start in 5 seconds
+[00:08:52] BanchoBot: Match starts in 4 seconds
+[00:08:53] BanchoBot: Match starts in 3 seconds
+[00:08:55] BanchoBot: Good luck, have fun!
+[00:08:56] BanchoBot: The match has started!
+[00:08:57] yzn: lglgl
+[00:11:38] BanchoBot: yzn finished playing (Score: 965960, PASSED).
+[00:11:38] BanchoBot: Rav_ finished playing (Score: 841031, PASSED).
+[00:11:38] BanchoBot: The match has finished!
+[00:11:50] yzn: anotha two way
+[00:11:51] Rav_: another double fc
+[00:11:54] Rav_: nice
+[00:11:56] BCraftMG: !mp map 164250 0
+[00:11:57] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/164250 Rita - Haru Hana no Iro -Reboot Ver.-
+[00:11:57] BanchoBot: Changed match mode to Osu
+[00:12:00] yzn: lezfgo
+[00:12:12] BCraftMG: !mp mods Freemod
+[00:12:13] BanchoBot: Disabled all mods, enabled FreeMod
+[00:12:16] yzn: dt?
+[00:12:20] Rav_: fm
+[00:12:21] yzn: or tb
+[00:12:24] BCraftMG: fm
+[00:12:31] BCraftMG: fm1, hr1 then tb1
+[00:12:34] yzn: does this work
+[00:12:37] BCraftMG: !mp settings
+[00:12:39] BanchoBot: Room name: BC2: (13 year age gap LOL) vs (Ghostly Field Club), History: https://osu.ppy.sh/mp/113296000
+[00:12:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/164250 Rita - Haru Hana no Iro -Reboot Ver.-
+[00:12:39] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:12:39] BanchoBot: Active mods: Freemod
+[00:12:39] BanchoBot: Players: 2
+[00:12:39] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/18348230 Rav_            [Team Blue / NoFail, Easy]
+[00:12:39] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/20569442 yzn             [Team Blue / NoFail, Hidden]
+[00:12:45] BCraftMG: probably no
+[00:12:56] yzn: does this work
+[00:13:05] Rav_: ill play with hd
+[00:13:09] yzn: oke
+[00:13:10] BanchoBot: All players are ready
+[00:13:12] BCraftMG: !mp settings
+[00:13:14] BanchoBot: Room name: BC2: (13 year age gap LOL) vs (Ghostly Field Club), History: https://osu.ppy.sh/mp/113296000
+[00:13:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/164250 Rita - Haru Hana no Iro -Reboot Ver.-
+[00:13:14] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:13:14] BanchoBot: Active mods: Freemod
+[00:13:14] BanchoBot: Players: 2
+[00:13:14] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18348230 Rav_            [Team Blue / NoFail, Hidden]
+[00:13:14] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20569442 yzn             [Team Blue / NoFail, HardRock]
+[00:13:15] BCraftMG: !mp start 5 glhf
+[00:13:16] BanchoBot: Match starts in 5 seconds
+[00:13:16] BanchoBot: Queued the match to start in 5 seconds
+[00:13:18] BanchoBot: Match starts in 4 seconds
+[00:13:19] BanchoBot: Match starts in 3 seconds
+[00:13:21] BanchoBot: Good luck, have fun!
+[00:13:21] yzn: gllglgl
+[00:13:22] Rav_: glgllg
+[00:13:22] BanchoBot: The match has started!
+[00:17:15] BanchoBot: Rav_ finished playing (Score: 956395, PASSED).
+[00:17:17] BanchoBot: yzn finished playing (Score: 704057, PASSED).
+[00:17:17] BanchoBot: The match has finished!
+[00:17:24] Rav_: noooooooooo
+[00:17:26] Rav_: :((((
+[00:17:30] yzn: lovely od
+[00:17:32] BCraftMG: !mp map 99816 0
+[00:17:33] yzn: also rip fc
+[00:17:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/99816 Hatsune Miku - Game of Life
+[00:17:33] BanchoBot: Changed match mode to Osu
+[00:17:36] BCraftMG: !mp mods 17
+[00:17:37] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[00:17:44] Rav_: tragic
+[00:17:46] BanchoBot: All players are ready
+[00:17:49] yzn: glgllgl
+[00:17:53] BCraftMG: !mp settings
+[00:17:53] Rav_: glglg
+[00:17:53] BanchoBot: Room name: BC2: (13 year age gap LOL) vs (Ghostly Field Club), History: https://osu.ppy.sh/mp/113296000
+[00:17:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/99816 Hatsune Miku - Game of Life
+[00:17:53] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:17:53] BanchoBot: Active mods: NoFail, HardRock
+[00:17:53] BanchoBot: Players: 2
+[00:17:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18348230 Rav_            [Team Blue]
+[00:17:53] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20569442 yzn             [Team Blue]
+[00:17:54] BCraftMG: !mp start 5 glhf
+[00:17:55] BanchoBot: Match starts in 5 seconds
+[00:17:55] BanchoBot: Queued the match to start in 5 seconds
+[00:17:56] BanchoBot: Match starts in 4 seconds
+[00:17:57] BanchoBot: Match starts in 3 seconds
+[00:17:59] BanchoBot: Good luck, have fun!
+[00:18:00] BanchoBot: The match has started!
+[00:19:44] yzn: noou
+[00:21:48] BanchoBot: Rav_ finished playing (Score: 528201, PASSED).
+[00:21:49] BanchoBot: yzn finished playing (Score: 662144, PASSED).
+[00:21:49] BanchoBot: The match has finished!
+[00:21:52] Rav_: nooooooy
+[00:21:58] yzn: wtf
+[00:22:04] yzn: od reallty makes a diff
+[00:22:25] BCraftMG: !mp map 36523 0
+[00:22:25] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/36523 Nico Nico Douga - Ryuusei Musume
+[00:22:25] BanchoBot: Changed match mode to Osu
+[00:22:36] BCraftMG: !mp mods Freemod
+[00:22:37] BanchoBot: Disabled all mods, enabled FreeMod
+[00:22:40] Rav_: sightread tb is real;
+[00:22:41] BCraftMG: this one is tb
+[00:22:50] yzn: woooahh
+[00:22:52] BCraftMG: nf only is fine
+[00:22:56] Rav_: :sob:
+[00:22:58] Rav_: im fuked
+[00:23:07] yzn: whats ez multiplier
+[00:23:13] Rav_: yooo carry me with ez yzn
+[00:23:13] yzn: still the same?
+[00:23:20] BCraftMG: 1.5x for ez i believe
+[00:23:30] yzn: nahh
+[00:23:33] yzn: i cant even ez
+[00:23:35] yzn: !
+[00:23:35] Rav_: welp not anymore
+[00:23:36] yzn: glgllglg
+[00:23:37] BanchoBot: All players are ready
+[00:23:40] Rav_: glglgl
+[00:24:08] Rav_: ref?
+[00:24:10] BCraftMG: !mp settings
+[00:24:11] BanchoBot: Room name: BC2: (13 year age gap LOL) vs (Ghostly Field Club), History: https://osu.ppy.sh/mp/113296000
+[00:24:11] BanchoBot: Beatmap: https://osu.ppy.sh/b/36523 Nico Nico Douga - Ryuusei Musume
+[00:24:11] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:24:11] BanchoBot: Active mods: Freemod
+[00:24:11] BanchoBot: Players: 2
+[00:24:11] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18348230 Rav_            [Team Blue / NoFail]
+[00:24:11] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20569442 yzn             [Team Blue / NoFail]
+[00:24:12] BCraftMG: !mp start 5 glhf
+[00:24:13] BanchoBot: Match starts in 5 seconds
+[00:24:13] BanchoBot: Queued the match to start in 5 seconds
+[00:24:15] BanchoBot: Match starts in 4 seconds
+[00:24:16] BanchoBot: Match starts in 3 seconds
+[00:24:18] BanchoBot: Good luck, have fun!
+[00:24:19] BanchoBot: The match has started!
+[00:29:26] BanchoBot: Rav_ finished playing (Score: 353969, PASSED).
+[00:29:26] BanchoBot: yzn finished playing (Score: 288358, PASSED).
+[00:29:26] BanchoBot: The match has finished!
+[00:29:31] yzn: UHUSHUAHUAHUA
+[00:29:33] Rav_: lol
+[00:29:37] Rav_: we tried
+[00:29:40] yzn: ggs
+[00:29:42] BCraftMG: ggwp :p
+[00:29:47] yzn: ty for ref
+[00:29:54] yzn: wanna mutual bcraftmg
+[00:29:56] Rav_: ggwp
+[00:29:59] Rav_: o7
+[00:30:10] Rav_: sorry for  the async :((
+[00:30:13] yzn: o7
+[00:30:15] Rav_: might be troublesome
+[00:30:16] BCraftMG: sure
+[00:30:19] yzn: thanks for picking up the async
+[00:30:26] yzn: appreciate it
+[00:30:32] yzn: also i gtg now
+[00:30:32] BCraftMG: its ok
+[00:30:33] yzn: cya
+[00:30:35] BanchoBot: yzn left the game.
+[00:30:36] BCraftMG: o/
+[00:30:42] BanchoBot: Rav_ left the game.
+[00:30:59] BCraftMG: !mp close
+[00:30:59] BanchoBot: Closed the match

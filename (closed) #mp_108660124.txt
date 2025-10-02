@@ -1,0 +1,393 @@
+[19:56:09] Joined #mp_108660124
+[19:56:09] BCraftMG: !mp settings
+[19:56:10] BanchoBot: Room name: PTSP: (Qualifiers) vs (EX5), History: https://osu.ppy.sh/mp/108660124
+[19:56:10] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[19:56:10] BanchoBot: Players: 0
+[19:56:15] BCraftMG: !mp set 0 3 8
+[19:56:16] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[19:56:36] BCraftMG: !mp invite Blethz
+[19:56:37] BanchoBot: Invited Blethz to the room
+[19:57:05] BCraftMG: !mp map 1985106
+[19:57:05] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1985106 BLUE ENCOUNT - FREEDOM
+[19:57:06] BCraftMG: !mp mods
+[19:57:07] BanchoBot: Disabled all mods, disabled FreeMod
+[19:57:07] BCraftMG: !mp mods 1
+[19:57:08] BanchoBot: Enabled NoFail, disabled FreeMod
+[19:58:38] BanchoBot: Blethz joined in slot 1.
+[19:59:07] BanchoBot: squidstain joined in slot 2.
+[19:59:14] BanchoBot: squidstain left the game.
+[19:59:49] BanchoBot: Jolene joined in slot 2.
+[20:00:04] BanchoBot: All players are ready
+[20:00:05] BCraftMG: gamers
+[20:00:05] BCraftMG: !mp settings
+[20:00:07] BanchoBot: Room name: PTSP: (Qualifiers) vs (EX5), History: https://osu.ppy.sh/mp/108660124
+[20:00:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/1985106 BLUE ENCOUNT - FREEDOM
+[20:00:07] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:00:07] BanchoBot: Active mods: NoFail
+[20:00:07] BanchoBot: Players: 2
+[20:00:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11918602 Blethz          
+[20:00:07] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13626098 Jolene          
+[20:00:08] BCraftMG: !mp start 5 glhf
+[20:00:10] BanchoBot: Match starts in 5 seconds
+[20:00:10] BanchoBot: Queued the match to start in 5 seconds
+[20:00:11] BanchoBot: Match starts in 4 seconds
+[20:00:13] BanchoBot: Match starts in 3 seconds
+[20:00:14] BanchoBot: Good luck, have fun!
+[20:00:14] Jolene: helklo
+[20:00:16] BanchoBot: The match has started!
+[20:03:19] BCraftMG: !mp settings
+[20:03:19] BanchoBot: Room name: PTSP: (Qualifiers) vs (EX5), History: https://osu.ppy.sh/mp/108660124
+[20:03:19] BanchoBot: Beatmap: https://osu.ppy.sh/b/1985106 BLUE ENCOUNT - FREEDOM
+[20:03:19] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:03:19] BanchoBot: Active mods: NoFail
+[20:03:19] BanchoBot: Players: 2
+[20:03:19] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/11918602 Blethz          
+[20:03:19] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/13626098 Jolene          
+[20:04:20] BanchoBot: Blethz finished playing (Score: 439968, PASSED).
+[20:04:20] BanchoBot: Jolene finished playing (Score: 409314, PASSED).
+[20:04:20] BanchoBot: The match has finished!
+[20:04:26] BCraftMG: !mp mods NF
+[20:04:26] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:04:27] BCraftMG: !mp map 3944144 0
+[20:04:27] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3944144 Sabaton - Twilight of the Thunder God
+[20:04:27] BanchoBot: Changed match mode to Osu
+[20:04:39] Jolene: blunded
+[20:04:49] BCraftMG: indeed
+[20:04:51] BanchoBot: All players are ready
+[20:04:53] BCraftMG: !mp settings
+[20:04:54] BanchoBot: Room name: PTSP: (Qualifiers) vs (EX5), History: https://osu.ppy.sh/mp/108660124
+[20:04:54] BanchoBot: Beatmap: https://osu.ppy.sh/b/3944144 Sabaton - Twilight of the Thunder God
+[20:04:54] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:04:54] BanchoBot: Active mods: NoFail
+[20:04:54] BanchoBot: Players: 2
+[20:04:54] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11918602 Blethz          
+[20:04:54] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13626098 Jolene          
+[20:05:07] BCraftMG: !mp settings
+[20:05:08] BanchoBot: Room name: PTSP: (Qualifiers) vs (EX5), History: https://osu.ppy.sh/mp/108660124
+[20:05:08] BanchoBot: Beatmap: https://osu.ppy.sh/b/3944144 Sabaton - Twilight of the Thunder God
+[20:05:08] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:05:08] BanchoBot: Active mods: NoFail
+[20:05:08] BanchoBot: Players: 2
+[20:05:08] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11918602 Blethz          
+[20:05:08] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13626098 Jolene          
+[20:05:12] BCraftMG: friendly reminder that Each player per team must play at least 5 maps
+[20:05:12] BCraftMG: !mp start 5 glhf
+[20:05:13] BanchoBot: Match starts in 5 seconds
+[20:05:13] BanchoBot: Queued the match to start in 5 seconds
+[20:05:14] BanchoBot: Match starts in 4 seconds
+[20:05:15] BanchoBot: Match starts in 3 seconds
+[20:05:17] BanchoBot: Good luck, have fun!
+[20:05:19] BanchoBot: The match has started!
+[20:08:55] BanchoBot: Blethz finished playing (Score: 553892, PASSED).
+[20:08:55] BanchoBot: Jolene finished playing (Score: 625166, PASSED).
+[20:08:55] BanchoBot: The match has finished!
+[20:08:58] BCraftMG: !mp mods NF
+[20:08:58] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:09:00] BCraftMG: !mp map 3323779 0
+[20:09:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3323779 Yonekura Chihiro - DEAR MY WAKER
+[20:09:00] BanchoBot: Changed match mode to Osu
+[20:09:09] BanchoBot: Jolene left the game.
+[20:09:21] BanchoBot: squidstain joined in slot 2.
+[20:09:35] BanchoBot: All players are ready
+[20:09:36] BCraftMG: !mp settings
+[20:09:37] BanchoBot: Room name: PTSP: (Qualifiers) vs (EX5), History: https://osu.ppy.sh/mp/108660124
+[20:09:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/3323779 Yonekura Chihiro - DEAR MY WAKER
+[20:09:37] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:09:37] BanchoBot: Active mods: NoFail
+[20:09:37] BanchoBot: Players: 2
+[20:09:37] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11918602 Blethz          
+[20:09:37] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11073207 squidstain      
+[20:09:38] BCraftMG: !mp start 5 glhf
+[20:09:38] BanchoBot: Match starts in 5 seconds
+[20:09:38] BanchoBot: Queued the match to start in 5 seconds
+[20:09:39] BanchoBot: Match starts in 4 seconds
+[20:09:40] BanchoBot: Match starts in 3 seconds
+[20:09:41] BanchoBot: Good luck, have fun!
+[20:09:43] BanchoBot: The match has started!
+[20:13:54] BanchoBot: Blethz finished playing (Score: 438898, PASSED).
+[20:13:55] BanchoBot: squidstain finished playing (Score: 247578, PASSED).
+[20:13:55] BanchoBot: The match has finished!
+[20:14:00] BCraftMG: !mp mods NF
+[20:14:00] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:14:01] BCraftMG: !mp map 3695129 0
+[20:14:01] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3695129 MYUKKE. - NO ONE YES MAN
+[20:14:01] BanchoBot: Changed match mode to Osu
+[20:14:04] BanchoBot: Jolene joined in slot 3.
+[20:14:07] BanchoBot: squidstain left the game.
+[20:14:34] BanchoBot: All players are ready
+[20:14:38] BCraftMG: !mp mods HD NF
+[20:14:38] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[20:14:39] BCraftMG: !mp map 4140823 0
+[20:14:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4140823 Inoue Bona - Usouso Doki
+[20:14:39] BanchoBot: Changed match mode to Osu
+[20:14:43] BCraftMG: ưait
+[20:14:46] Jolene: what
+[20:14:47] Blethz: nm4 not played yet
+[20:14:49] BCraftMG: !mp mods NF
+[20:14:49] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:14:50] BCraftMG: !mp map 3695129 0
+[20:14:50] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3695129 MYUKKE. - NO ONE YES MAN
+[20:14:50] BanchoBot: Changed match mode to Osu
+[20:14:56] BanchoBot: All players are ready
+[20:14:56] BCraftMG: !mp settings
+[20:14:57] BanchoBot: Room name: PTSP: (Qualifiers) vs (EX5), History: https://osu.ppy.sh/mp/108660124
+[20:14:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/3695129 MYUKKE. - NO ONE YES MAN
+[20:14:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:14:57] BanchoBot: Active mods: NoFail
+[20:14:57] BanchoBot: Players: 2
+[20:14:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11918602 Blethz          
+[20:14:57] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13626098 Jolene          
+[20:15:00] BCraftMG: you saw nothing
+[20:15:01] BCraftMG: !mp start 5 glhf
+[20:15:01] BanchoBot: Match starts in 5 seconds
+[20:15:01] BanchoBot: Queued the match to start in 5 seconds
+[20:15:02] BanchoBot: Match starts in 4 seconds
+[20:15:03] BanchoBot: Match starts in 3 seconds
+[20:15:04] BanchoBot: Good luck, have fun!
+[20:15:06] Blethz: i see
+[20:15:06] BanchoBot: The match has started!
+[20:17:16] BanchoBot: Blethz finished playing (Score: 328319, PASSED).
+[20:17:17] BanchoBot: Jolene finished playing (Score: 346306, PASSED).
+[20:17:17] BanchoBot: The match has finished!
+[20:17:24] BanchoBot: Jolene left the game.
+[20:17:26] BCraftMG: !mp mods HD NF
+[20:17:26] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[20:17:27] BCraftMG: !mp map 4140823 0
+[20:17:27] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4140823 Inoue Bona - Usouso Doki
+[20:17:27] BanchoBot: Changed match mode to Osu
+[20:18:15] BanchoBot: squidstain joined in slot 2.
+[20:18:32] BanchoBot: All players are ready
+[20:18:33] BCraftMG: !mp settings
+[20:18:34] BanchoBot: Room name: PTSP: (Qualifiers) vs (EX5), History: https://osu.ppy.sh/mp/108660124
+[20:18:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/4140823 Inoue Bona - Usouso Doki
+[20:18:34] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:18:34] BanchoBot: Active mods: NoFail, Hidden
+[20:18:34] BanchoBot: Players: 2
+[20:18:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11918602 Blethz          
+[20:18:34] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11073207 squidstain      
+[20:18:35] BCraftMG: !mp start 5 glhf
+[20:18:36] BanchoBot: Match starts in 5 seconds
+[20:18:36] BanchoBot: Queued the match to start in 5 seconds
+[20:18:38] BanchoBot: Match starts in 4 seconds
+[20:18:38] BanchoBot: Match starts in 3 seconds
+[20:18:39] BanchoBot: Good luck, have fun!
+[20:18:41] BanchoBot: The match has started!
+[20:20:50] BanchoBot: squidstain finished playing (Score: 723015, PASSED).
+[20:20:51] BanchoBot: Blethz finished playing (Score: 670221, PASSED).
+[20:20:51] BanchoBot: The match has finished!
+[20:20:56] BCraftMG: !mp mods HR NF
+[20:20:56] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[20:20:57] BCraftMG: !mp map 3264072 0
+[20:20:57] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3264072 Two Door Cinema Club - Cigarettes in the Theatre
+[20:20:57] BanchoBot: Changed match mode to Osu
+[20:21:06] BanchoBot: Blethz left the game.
+[20:21:19] BanchoBot: Jolene joined in slot 1.
+[20:21:32] BanchoBot: All players are ready
+[20:21:34] BCraftMG: !mp settings
+[20:21:34] BanchoBot: Room name: PTSP: (Qualifiers) vs (EX5), History: https://osu.ppy.sh/mp/108660124
+[20:21:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/3264072 Two Door Cinema Club - Cigarettes in the Theatre
+[20:21:34] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:21:34] BanchoBot: Active mods: NoFail, HardRock
+[20:21:34] BanchoBot: Players: 2
+[20:21:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13626098 Jolene          
+[20:21:34] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11073207 squidstain      
+[20:21:36] BCraftMG: !mp start 5 glhf
+[20:21:37] BanchoBot: Match starts in 5 seconds
+[20:21:37] BanchoBot: Queued the match to start in 5 seconds
+[20:21:38] BanchoBot: Match starts in 4 seconds
+[20:21:39] BanchoBot: Match starts in 3 seconds
+[20:21:40] BanchoBot: Good luck, have fun!
+[20:21:42] BanchoBot: The match has started!
+[20:25:08] BanchoBot: squidstain finished playing (Score: 348485, PASSED).
+[20:25:10] BanchoBot: Jolene finished playing (Score: 553779, PASSED).
+[20:25:10] BanchoBot: The match has finished!
+[20:25:17] BCraftMG: !mp mods DT NF
+[20:25:17] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[20:25:18] BCraftMG: !mp map 2292493 0
+[20:25:18] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2292493 Soken Masayoshi - Sunrise
+[20:25:18] BanchoBot: Changed match mode to Osu
+[20:25:47] BanchoBot: All players are ready
+[20:25:50] BCraftMG: !mp settings
+[20:25:50] BanchoBot: Room name: PTSP: (Qualifiers) vs (EX5), History: https://osu.ppy.sh/mp/108660124
+[20:25:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/2292493 Soken Masayoshi - Sunrise
+[20:25:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:25:50] BanchoBot: Active mods: NoFail, DoubleTime
+[20:25:50] BanchoBot: Players: 2
+[20:25:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13626098 Jolene          
+[20:25:50] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11073207 squidstain      
+[20:25:51] BCraftMG: !mp start 5 glhf
+[20:25:52] BanchoBot: Match starts in 5 seconds
+[20:25:52] BanchoBot: Queued the match to start in 5 seconds
+[20:25:53] BanchoBot: Match starts in 4 seconds
+[20:25:54] BanchoBot: Match starts in 3 seconds
+[20:25:55] BanchoBot: Good luck, have fun!
+[20:25:57] BanchoBot: The match has started!
+[20:29:06] BanchoBot: squidstain finished playing (Score: 241450, PASSED).
+[20:29:07] BanchoBot: Jolene finished playing (Score: 483899, PASSED).
+[20:29:07] BanchoBot: The match has finished!
+[20:29:13] BCraftMG: !mp mods DT NF
+[20:29:13] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[20:29:14] BCraftMG: !mp map 3363306 0
+[20:29:14] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3363306 Fred V - Already Disappeared
+[20:29:14] BanchoBot: Changed match mode to Osu
+[20:29:29] BanchoBot: Blethz joined in slot 3.
+[20:29:31] BanchoBot: squidstain left the game.
+[20:29:33] BanchoBot: Blethz moved to slot 2
+[20:29:38] BanchoBot: All players are ready
+[20:29:40] BCraftMG: !mp settings
+[20:29:40] BanchoBot: Room name: PTSP: (Qualifiers) vs (EX5), History: https://osu.ppy.sh/mp/108660124
+[20:29:40] BanchoBot: Beatmap: https://osu.ppy.sh/b/3363306 Fred V - Already Disappeared
+[20:29:40] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:29:40] BanchoBot: Active mods: NoFail, DoubleTime
+[20:29:40] BanchoBot: Players: 2
+[20:29:40] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13626098 Jolene          
+[20:29:40] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11918602 Blethz          
+[20:29:41] BCraftMG: !mp start 5 glhf
+[20:29:42] BanchoBot: Match starts in 5 seconds
+[20:29:42] BanchoBot: Queued the match to start in 5 seconds
+[20:29:43] BanchoBot: Match starts in 4 seconds
+[20:29:44] BanchoBot: Match starts in 3 seconds
+[20:29:45] BanchoBot: Good luck, have fun!
+[20:29:47] BanchoBot: The match has started!
+[20:32:26] BanchoBot: Blethz finished playing (Score: 941751, PASSED).
+[20:32:29] BanchoBot: Jolene finished playing (Score: 362666, PASSED).
+[20:32:29] BanchoBot: The match has finished!
+[20:32:34] BCraftMG: !mp mods Freemod NF
+[20:32:34] BanchoBot: Disabled all mods, enabled FreeMod
+[20:32:35] BCraftMG: !mp map 2069969 0
+[20:32:35] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2069969 Enter Shikari - Rat Race
+[20:32:35] BanchoBot: Changed match mode to Osu
+[20:33:00] Blethz: can i go nf
+[20:33:02] Blethz: NM*
+[20:33:13] BCraftMG: uhhh
+[20:33:32] BCraftMG: 1 sec
+[20:34:30] BCraftMG: yea u can
+[20:34:33] BCraftMG: 1 nm tho
+[20:34:37] Blethz: just no nf right
+[20:34:47] BanchoBot: All players are ready
+[20:34:50] BCraftMG: !mp settings
+[20:34:50] BanchoBot: Room name: PTSP: (Qualifiers) vs (EX5), History: https://osu.ppy.sh/mp/108660124
+[20:34:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/2069969 Enter Shikari - Rat Race
+[20:34:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:34:50] BanchoBot: Active mods: Freemod
+[20:34:50] BanchoBot: Players: 2
+[20:34:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13626098 Jolene          [NoFail, HardRock]
+[20:34:50] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11918602 Blethz          
+[20:35:00] BCraftMG: forced nf
+[20:35:14] Jolene: whats the multiplier for NM?
+[20:35:17] Jolene: is it x1?
+[20:35:28] Blethz: DISCLAIMER: Bracket stage’s Freemod rules are different from Qualifiers’. NF multiplier only applies for NF ONLY scores
+[20:35:36] Blethz: is that for bracket stage
+[20:35:37] Blethz: or
+[20:35:39] Blethz: qqualifiers
+[20:35:48] BCraftMG: this is what i have in ref sheet
+[20:35:48] BCraftMG: "Freemod rules (Qualifiers) At least 1 mod per map, NF: .6x,  SD: 1.16x if Pass, 0.4x if Fail,  1.3x if SS, EZ: 1.85x.  "
+[20:36:04] BCraftMG: yea forced nf
+[20:36:14] Blethz: ok im just gonna go hd
+[20:36:17] BanchoBot: All players are ready
+[20:36:19] BCraftMG: but its gonna deduct
+[20:36:20] BCraftMG: !mp settings
+[20:36:22] BanchoBot: Room name: PTSP: (Qualifiers) vs (EX5), History: https://osu.ppy.sh/mp/108660124
+[20:36:22] BanchoBot: Beatmap: https://osu.ppy.sh/b/2069969 Enter Shikari - Rat Race
+[20:36:22] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:36:22] BanchoBot: Active mods: Freemod
+[20:36:22] BanchoBot: Players: 2
+[20:36:22] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13626098 Jolene          [NoFail, HardRock]
+[20:36:22] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11918602 Blethz          [NoFail, Hidden]
+[20:36:23] BCraftMG: !mp start 5 glhf
+[20:36:23] BanchoBot: Match starts in 5 seconds
+[20:36:23] BanchoBot: Queued the match to start in 5 seconds
+[20:36:24] BanchoBot: Match starts in 4 seconds
+[20:36:25] BanchoBot: Match starts in 3 seconds
+[20:36:26] BanchoBot: Good luck, have fun!
+[20:36:28] BanchoBot: The match has started!
+[20:39:55] BanchoBot: Jolene finished playing (Score: 728418, PASSED).
+[20:39:55] BanchoBot: Blethz finished playing (Score: 986124, PASSED).
+[20:39:55] BanchoBot: The match has finished!
+[20:40:00] BCraftMG: !mp mods Freemod NF
+[20:40:00] BanchoBot: Disabled all mods, enabled FreeMod
+[20:40:01] BCraftMG: !mp map 905724 0
+[20:40:01] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/905724 senya - Kimiiro Subliminal
+[20:40:01] BanchoBot: Changed match mode to Osu
+[20:40:13] BanchoBot: Jolene left the game.
+[20:40:13] BanchoBot: squidstain joined in slot 1.
+[20:40:49] BanchoBot: All players are ready
+[20:40:50] BCraftMG: !mp settings
+[20:40:51] BanchoBot: Room name: PTSP: (Qualifiers) vs (EX5), History: https://osu.ppy.sh/mp/108660124
+[20:40:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/905724 senya - Kimiiro Subliminal
+[20:40:51] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:40:51] BanchoBot: Active mods: Freemod
+[20:40:51] BanchoBot: Players: 2
+[20:40:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11073207 squidstain      [NoFail, Hidden]
+[20:40:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11918602 Blethz          [NoFail, Hidden]
+[20:40:51] BCraftMG: !mp start 5 glhf
+[20:40:52] BanchoBot: Match starts in 5 seconds
+[20:40:52] BanchoBot: Queued the match to start in 5 seconds
+[20:40:53] BanchoBot: Match starts in 4 seconds
+[20:40:54] BanchoBot: Match starts in 3 seconds
+[20:40:55] BanchoBot: Good luck, have fun!
+[20:40:57] BanchoBot: The match has started!
+[20:45:09] BanchoBot: Blethz finished playing (Score: 272893, PASSED).
+[20:45:10] BanchoBot: squidstain finished playing (Score: 359002, PASSED).
+[20:45:10] BanchoBot: The match has finished!
+[20:45:13] BCraftMG: !mp settings
+[20:45:13] BanchoBot: Room name: PTSP: (Qualifiers) vs (EX5), History: https://osu.ppy.sh/mp/108660124
+[20:45:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/905724 senya - Kimiiro Subliminal
+[20:45:13] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:45:13] BanchoBot: Active mods: Freemod
+[20:45:13] BanchoBot: Players: 2
+[20:45:13] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/11073207 squidstain      [NoFail, Hidden]
+[20:45:13] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/11918602 Blethz          [NoFail, Hidden]
+[20:45:50] BCraftMG: !mp map 2415770
+[20:45:51] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2415770 Hino Isuka - Moonheart (Mameyudoufu Remix)
+[20:45:52] BCraftMG: !mp mods NF EZ
+[20:45:53] BanchoBot: Enabled NoFail, Easy, disabled FreeMod
+[20:46:09] BanchoBot: All players are ready
+[20:46:10] BCraftMG: !mp settings
+[20:46:11] BanchoBot: Room name: PTSP: (Qualifiers) vs (EX5), History: https://osu.ppy.sh/mp/108660124
+[20:46:11] BanchoBot: Beatmap: https://osu.ppy.sh/b/2415770 Hino Isuka - Moonheart (Mameyudoufu Remix)
+[20:46:11] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:46:11] BanchoBot: Active mods: NoFail, Easy
+[20:46:11] BanchoBot: Players: 2
+[20:46:11] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11073207 squidstain      
+[20:46:11] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11918602 Blethz          
+[20:46:13] BCraftMG: !mp start 5 glhf
+[20:46:14] BanchoBot: Match starts in 5 seconds
+[20:46:14] BanchoBot: Queued the match to start in 5 seconds
+[20:46:15] BanchoBot: Match starts in 4 seconds
+[20:46:16] BanchoBot: Match starts in 3 seconds
+[20:46:17] BanchoBot: Good luck, have fun!
+[20:46:19] BanchoBot: The match has started!
+[20:49:15] BanchoBot: Blethz finished playing (Score: 183152, PASSED).
+[20:49:15] BanchoBot: squidstain finished playing (Score: 379417, PASSED).
+[20:49:15] BanchoBot: The match has finished!
+[20:49:18] BCraftMG: !mp map 1618998
+[20:49:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1618998 dark cat - BUBBLE TEA (feat. juu & cinders)
+[20:49:21] BCraftMG: !mp mods NF FL
+[20:49:22] BanchoBot: Enabled NoFail, Flashlight, disabled FreeMod
+[20:49:46] BanchoBot: All players are ready
+[20:49:50] BCraftMG: !mp settings
+[20:49:50] BanchoBot: Room name: PTSP: (Qualifiers) vs (EX5), History: https://osu.ppy.sh/mp/108660124
+[20:49:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/1618998 dark cat - BUBBLE TEA (feat. juu & cinders)
+[20:49:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:49:50] BanchoBot: Active mods: NoFail, Flashlight
+[20:49:50] BanchoBot: Players: 2
+[20:49:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11073207 squidstain      
+[20:49:50] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11918602 Blethz          
+[20:49:51] BCraftMG: !mp start 5 glhf
+[20:49:51] BanchoBot: Match starts in 5 seconds
+[20:49:51] BanchoBot: Queued the match to start in 5 seconds
+[20:49:52] BanchoBot: Match starts in 4 seconds
+[20:49:53] BanchoBot: Match starts in 3 seconds
+[20:49:54] BanchoBot: Good luck, have fun!
+[20:49:57] BanchoBot: The match has started!
+[20:52:26] BanchoBot: squidstain finished playing (Score: 827938, PASSED).
+[20:52:27] BanchoBot: Blethz finished playing (Score: 592393, PASSED).
+[20:52:27] BanchoBot: The match has finished!
+[20:52:37] BCraftMG: ggwp!
+[20:52:48] squidstain: thanks for reffing
+[20:52:51] Blethz: thanks for ref
+[20:52:55] BanchoBot: squidstain left the game.
+[20:52:57] BanchoBot: Blethz left the game.
+[20:54:48] BCraftMG: !mp close
+[20:54:49] BanchoBot: Closed the match

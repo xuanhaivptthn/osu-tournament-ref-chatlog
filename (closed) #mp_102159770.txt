@@ -1,0 +1,735 @@
+[22:21:48] Joined #mp_102159770
+[22:21:48] BCraftMG: !mp settings
+[22:21:50] BanchoBot: Room name: STT3: (#freeminusls) vs (:flag_be: DUTCHLAND :flag_be:), History: https://osu.ppy.sh/mp/102159770
+[22:21:50] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[22:21:50] BanchoBot: Players: 0
+[22:22:16] BCraftMG: !mp settings
+[22:22:16] BanchoBot: Room name: STT3: (#freeminusls) vs (:flag_be: DUTCHLAND :flag_be:), History: https://osu.ppy.sh/mp/102159770
+[22:22:16] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[22:22:16] BanchoBot: Players: 0
+[22:22:23] BCraftMG: !mp set 2 3 8
+[22:22:23] BanchoBot: Changed match settings to 8 slots, TeamVs, ScoreV2
+[22:22:30] BCraftMG: !mp set 2 3 12
+[22:22:30] BanchoBot: Changed match settings to 12 slots, TeamVs, ScoreV2
+[22:23:14] BCraftMG: !mp invite #3859899
+[22:23:14] BanchoBot: Invited Kut to the room
+[22:23:17] BCraftMG: !mp invite #4280363
+[22:23:17] BanchoBot: User not found
+[22:23:19] BanchoBot: Kut joined in slot 1 for team blue.
+[22:23:19] BCraftMG: !mp invite #4520333
+[22:23:19] BanchoBot: Invited Eliteronix to the room
+[22:23:19] BCraftMG: !mp invite #15413621
+[22:23:19] BanchoBot: User not found
+[22:23:21] BCraftMG: !mp invite #2844779
+[22:23:21] BanchoBot: Invited boterham to the room
+[22:23:21] BCraftMG: !mp invite #9362168
+[22:23:21] BanchoBot: Invited Seleen to the room
+[22:23:24] BCraftMG: !mp invite #13396819
+[22:23:24] BanchoBot: Invited Enari to the room
+[22:23:24] BCraftMG: !mp invite #13055978
+[22:23:24] BanchoBot: User not found
+[22:23:26] BCraftMG: !mp invite #9027651
+[22:23:26] BanchoBot: Invited kirndy to the room
+[22:23:26] BCraftMG: !mp invite #7101953
+[22:23:26] BanchoBot: Invited MakiBrony to the room
+[22:23:26] BCraftMG: !mp invite #12143372
+[22:23:26] BanchoBot: Invited Iwakura to the room
+[22:23:28] BCraftMG: !mp invite #12483293
+[22:23:28] BanchoBot: Invited ImaginaryVaxei to the room
+[22:23:28] BanchoBot: Seleen joined in slot 2 for team red.
+[22:23:42] BanchoBot: Seleen changed to Blue
+[22:23:46] BanchoBot: Seleen moved to slot 5
+[22:23:55] BanchoBot: Enari joined in slot 2 for team red.
+[22:24:06] Enari: o/
+[22:24:11] BCraftMG: o/
+[22:24:17] Kut: o/
+[22:24:17] Seleen: o/
+[22:24:24] BanchoBot: boterham joined in slot 3 for team blue.
+[22:24:29] BanchoBot: kirndy joined in slot 4 for team red.
+[22:24:36] BCraftMG: anyone wanna do warmup?
+[22:24:42] BanchoBot: boterham left the game.
+[22:24:44] kirndy: o/
+[22:25:00] BanchoBot: kirndy left the game.
+[22:25:45] BCraftMG: owo
+[22:25:49] Enari: yep
+[22:25:57] BCraftMG: so yes?
+[22:25:59] BCraftMG: !mp host Enari
+[22:26:01] BanchoBot: ImaginaryVaxei joined in slot 3 for team blue.
+[22:26:01] BanchoBot: Enari became the host.
+[22:26:01] BanchoBot: Changed match host to Enari
+[22:26:03] BanchoBot: Beatmap changed to: Mitsukiyo - Bunny Bunny Carrot Carrot [JonJon's Insane] (https://osu.ppy.sh/b/3665391)
+[22:26:07] BanchoBot: Host is changing map...
+[22:26:14] Kut: we don't really need a warmup
+[22:26:18] BanchoBot: Beatmap changed to: Yousei Teikoku - Autoscopy [Extreme] (https://osu.ppy.sh/b/3333699)
+[22:26:21] BanchoBot: boterham joined in slot 4 for team red.
+[22:26:45] BanchoBot: boterham changed to Blue
+[22:26:55] BCraftMG: #freeminusls will be red
+[22:26:58] BanchoBot: ImaginaryVaxei changed to Red
+[22:27:01] BCraftMG: DUTCHLAND will be blue please
+[22:27:22] BCraftMG: we can go ahead and start the warm up then
+[22:27:23] BCraftMG: ^^
+[22:27:27] BanchoBot: All players are ready
+[22:27:30] BanchoBot: The match has started!
+[22:29:30] BanchoBot: Iwakura joined in slot 6 for team red.
+[22:30:01] BanchoBot: MakiBrony joined in slot 7 for team blue.
+[22:30:08] Iwakura: helo
+[22:30:13] MakiBrony: re
+[22:30:13] BCraftMG: hi
+[22:30:15] MakiBrony: ку
+[22:30:24] MakiBrony: hi!
+[22:30:53] BanchoBot: boterham finished playing (Score: 58655, PASSED).
+[22:30:53] BanchoBot: Kut finished playing (Score: 13058, PASSED).
+[22:30:53] BanchoBot: Seleen finished playing (Score: 269743, PASSED).
+[22:30:53] BanchoBot: ImaginaryVaxei finished playing (Score: 182258, PASSED).
+[22:30:55] Kut: !roll
+[22:30:55] BanchoBot: Kut rolls 64 point(s)
+[22:30:55] BanchoBot: Enari finished playing (Score: 56105, PASSED).
+[22:30:55] BanchoBot: The match has finished!
+[22:31:00] BCraftMG: !mp clearhost
+[22:31:02] BanchoBot: Cleared match host
+[22:31:06] MakiBrony: !roll
+[22:31:06] BanchoBot: MakiBrony rolls 79 point(s)
+[22:31:11] MakiBrony: lesgo
+[22:31:19] ImaginaryVaxei: i cant play this map for somereason..
+[22:31:28] BCraftMG: 2 captains please roll
+[22:31:30] boterham: for some reason
+[22:31:32] BCraftMG: for protect order
+[22:31:37] Kut: we rolled
+[22:31:38] BCraftMG: i cant accept those 2 roll earlier
+[22:31:49] Kut: !rol
+[22:31:49] Kut: !roll
+[22:31:49] BanchoBot: Kut rolls 35 point(s)
+[22:32:00] Enari: !roll
+[22:32:00] BanchoBot: Enari rolls 53 point(s)
+[22:32:13] BCraftMG: #freeminusls please choose your protect order
+[22:32:40] BanchoBot: kirndy joined in slot 8 for team red.
+[22:32:40] Enari: nm2
+[22:32:47] Kut: hd2 protect
+[22:32:58] BanchoBot: Iwakura left the game.
+[22:32:58] BanchoBot: MakiBrony left the game.
+[22:33:02] BCraftMG: okay next will be !roll for bans
+[22:33:07] BanchoBot: Iwakura joined in slot 6 for team red.
+[22:33:09] Kut: !roll
+[22:33:09] BanchoBot: Kut rolls 94 point(s)
+[22:33:18] Enari: !roll
+[22:33:18] BanchoBot: Enari rolls 5 point(s)
+[22:33:27] Enari: pizdec
+[22:33:31] BCraftMG: DUTCHLAND please choose your pick or ban order
+[22:33:43] Kut: first pick
+[22:34:08] BCraftMG: #freeminusls please choose your ban order
+[22:34:20] Enari: second
+[22:34:33] BCraftMG: ban order ABAB
+[22:34:40] BCraftMG: DUTCHLAND your first ban?
+[22:34:41] BCraftMG: !mp timer 120
+[22:34:43] BanchoBot: Countdown ends in 2 minutes
+[22:34:50] Kut: hr2 ban
+[22:34:54] BanchoBot: MakiBrony joined in slot 7 for team blue.
+[22:35:03] BCraftMG: #freeminusls, your first ban?
+[22:35:04] BCraftMG: !Mp timer 120
+[22:35:05] BanchoBot: Countdown aborted
+[22:35:05] BanchoBot: Countdown ends in 2 minutes
+[22:35:12] Enari: hd1
+[22:35:30] BCraftMG: DUTCHLAND your second ban?
+[22:35:31] BCraftMG: !mp timer 120
+[22:35:32] BanchoBot: Countdown aborted
+[22:35:32] BanchoBot: Countdown ends in 2 minutes
+[22:35:55] Kut: HT1
+[22:36:15] BCraftMG: #freeminusls, your second ban?
+[22:36:16] BCraftMG: !mp timer 120
+[22:36:18] BanchoBot: Countdown aborted
+[22:36:18] BanchoBot: Countdown ends in 2 minutes
+[22:36:33] BanchoBot: Eliteronix joined in slot 9 for team blue.
+[22:36:49] Enari: ez1
+[22:36:51] Kut: we pick hd2
+[22:36:58] BanchoBot: MakiBrony left the game.
+[22:37:11] BCraftMG: !mp mods HD NF
+[22:37:11] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[22:37:14] BCraftMG: !mp map 2283643 0
+[22:37:14] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2283643 onoken - F-mine
+[22:37:14] BanchoBot: Changed match mode to Osu
+[22:37:16] BCraftMG: !mp timer 120
+[22:37:16] BanchoBot: Countdown aborted
+[22:37:16] BanchoBot: Countdown ends in 2 minutes
+[22:37:20] BanchoBot: Eliteronix moved to slot 7
+[22:37:20] BanchoBot: Kut left the game.
+[22:37:32] Enari: slots 1-3?
+[22:37:32] BCraftMG: !mp size 8
+[22:37:33] BanchoBot: Changed match to size 8
+[22:37:38] BanchoBot: kirndy moved to slot 1
+[22:37:38] Enari: for team red
+[22:37:49] BanchoBot: Iwakura left the game.
+[22:37:49] BanchoBot: Eliteronix moved to slot 6
+[22:37:51] BCraftMG: yes red 1-3 blue 4-6 please
+[22:38:03] BanchoBot: All players are ready
+[22:38:05] kirndy: glhf
+[22:38:06] BCraftMG: !mp settings
+[22:38:07] BanchoBot: Room name: STT3: (#freeminusls) vs (:flag_be: DUTCHLAND :flag, History: https://osu.ppy.sh/mp/102159770
+[22:38:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/2283643 onoken - F-mine
+[22:38:07] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:38:07] BanchoBot: Active mods: NoFail, Hidden
+[22:38:07] BanchoBot: Players: 6
+[22:38:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9027651 kirndy          [Team Red ]
+[22:38:07] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13396819 Enari           [Team Red ]
+[22:38:07] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12483293 ImaginaryVaxei  [Team Red ]
+[22:38:07] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/2844779 boterham        [Team Blue]
+[22:38:07] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/9362168 Seleen          [Team Blue]
+[22:38:07] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/4520333 Eliteronix      [Team Blue]
+[22:38:09] Seleen: glhfff
+[22:38:10] BCraftMG: !mp start 10
+[22:38:12] BanchoBot: Countdown aborted
+[22:38:12] BanchoBot: Match starts in 10 seconds
+[22:38:12] BanchoBot: Queued the match to start in 10 seconds
+[22:38:18] BanchoBot: Match starts in 5 seconds
+[22:38:19] BanchoBot: Match starts in 4 seconds
+[22:38:20] BanchoBot: Match starts in 3 seconds
+[22:38:20] BanchoBot: Good luck, have fun!
+[22:38:23] BanchoBot: The match has started!
+[22:42:03] BanchoBot: Seleen finished playing (Score: 922524, PASSED).
+[22:42:03] BanchoBot: Eliteronix finished playing (Score: 450905, PASSED).
+[22:42:03] BanchoBot: boterham finished playing (Score: 496995, PASSED).
+[22:42:05] BanchoBot: Enari finished playing (Score: 775730, PASSED).
+[22:42:05] BanchoBot: ImaginaryVaxei finished playing (Score: 280482, PASSED).
+[22:42:05] BanchoBot: kirndy finished playing (Score: 402573, PASSED).
+[22:42:05] BanchoBot: The match has finished!
+[22:42:07] BanchoBot: MakiBrony joined in slot 7 for team blue.
+[22:42:07] BCraftMG: #freeminusls : 0 | 1 : :flag_be:  DUTCHLAND  :flag_be:
+[22:42:10] BCraftMG: Next team to pick: #freeminusls
+[22:42:12] BCraftMG: !mp timer 120
+[22:42:12] BanchoBot: Countdown ends in 2 minutes
+[22:42:19] Enari: nice fc
+[22:42:34] BanchoBot: Kut joined in slot 8 for team red.
+[22:42:36] Enari: uh nvm
+[22:42:41] Seleen: :(
+[22:42:41] Enari: one miss
+[22:42:45] Seleen: ty!!
+[22:42:54] BanchoBot: MakiBrony left the game.
+[22:42:56] BanchoBot: Kut changed to Blue
+[22:43:05] Enari: still good score tho
+[22:43:12] BanchoBot: Countdown ends in 1 minute
+[22:43:30] Seleen: your score was good too !!
+[22:43:43] BanchoBot: Countdown ends in 30 seconds
+[22:43:43] Enari: nm4
+[22:43:50] BCraftMG: !mp mods NF
+[22:43:50] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:43:52] BCraftMG: !mp map 3361539 0
+[22:43:52] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3361539 Tsukuyomi - Absolute zero
+[22:43:52] BanchoBot: Changed match mode to Osu
+[22:43:54] BCraftMG: !mp timer 120
+[22:43:54] BanchoBot: Countdown aborted
+[22:43:54] BanchoBot: Countdown ends in 2 minutes
+[22:44:06] BanchoBot: Kut left the game.
+[22:44:11] BanchoBot: Enari left the game.
+[22:44:13] BanchoBot: Iwakura joined in slot 2 for team red.
+[22:44:18] ImaginaryVaxei: im hd player
+[22:44:26] Iwakura: im fl player
+[22:44:38] BanchoBot: All players are ready
+[22:44:41] BCraftMG: !mp settings
+[22:44:42] BanchoBot: Room name: STT3: (#freeminusls) vs (:flag_be: DUTCHLAND :flag, History: https://osu.ppy.sh/mp/102159770
+[22:44:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/3361539 Tsukuyomi - Absolute zero
+[22:44:42] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:44:42] BanchoBot: Active mods: NoFail
+[22:44:42] BanchoBot: Players: 6
+[22:44:42] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9027651 kirndy          [Team Red ]
+[22:44:42] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12143372 Iwakura         [Team Red ]
+[22:44:42] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12483293 ImaginaryVaxei  [Team Red ]
+[22:44:42] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/2844779 boterham        [Team Blue]
+[22:44:42] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/9362168 Seleen          [Team Blue]
+[22:44:42] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/4520333 Eliteronix      [Team Blue]
+[22:44:45] kirndy: im hr player
+[22:44:45] BCraftMG: !mp start 10
+[22:44:47] Seleen: glhf!!!
+[22:44:47] ImaginaryVaxei: я уебище
+[22:44:47] BanchoBot: Countdown aborted
+[22:44:47] BanchoBot: Match starts in 10 seconds
+[22:44:47] BanchoBot: Queued the match to start in 10 seconds
+[22:44:51] Iwakura: hfhfhf
+[22:44:51] kirndy: glhf
+[22:44:53] BanchoBot: Match starts in 5 seconds
+[22:44:53] BanchoBot: Match starts in 4 seconds
+[22:44:56] BanchoBot: Match starts in 3 seconds
+[22:44:56] BanchoBot: Good luck, have fun!
+[22:44:58] BanchoBot: The match has started!
+[22:48:43] BanchoBot: Seleen finished playing (Score: 955194, PASSED).
+[22:48:43] BanchoBot: Eliteronix finished playing (Score: 577011, PASSED).
+[22:48:43] BanchoBot: Iwakura finished playing (Score: 689391, PASSED).
+[22:48:43] BanchoBot: kirndy finished playing (Score: 822400, PASSED).
+[22:48:43] BanchoBot: boterham finished playing (Score: 243483, PASSED).
+[22:48:45] BanchoBot: ImaginaryVaxei finished playing (Score: 538585, PASSED).
+[22:48:45] BanchoBot: The match has finished!
+[22:48:50] BCraftMG: #freeminusls : 1 | 1 : :flag_be:  DUTCHLAND  :flag_be:
+[22:48:50] BCraftMG: Next team to pick: :flag_be:  DUTCHLAND  :flag_be:
+[22:48:52] BCraftMG: !mp timer 120
+[22:48:52] BanchoBot: Countdown ends in 2 minutes
+[22:48:59] kirndy: nice fc
+[22:49:03] BanchoBot: Enari joined in slot 7 for team blue.
+[22:49:06] Seleen: tyty
+[22:49:46] BanchoBot: Eliteronix left the game.
+[22:49:52] BanchoBot: Countdown ends in 1 minute
+[22:49:55] BanchoBot: Iwakura left the game.
+[22:49:55] BanchoBot: Enari moved to slot 6
+[22:49:57] BanchoBot: Enari moved to slot 2
+[22:49:57] BanchoBot: Enari changed to Red
+[22:50:21] BanchoBot: Countdown ends in 30 seconds
+[22:50:24] boterham: EZ2
+[22:50:33] BanchoBot: MakiBrony joined in slot 6 for team red.
+[22:50:40] BanchoBot: Enari left the game.
+[22:50:40] BanchoBot: MakiBrony left the game.
+[22:50:40] BCraftMG: !mp mods NF
+[22:50:40] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:50:42] BanchoBot: Countdown ends in 10 seconds
+[22:50:42] BCraftMG: !mp map 3226510 0
+[22:50:42] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3226510 Mitsukiyo - Unwelcome School
+[22:50:42] BanchoBot: Changed match mode to Osu
+[22:50:44] BCraftMG: !mp timer 120
+[22:50:44] BanchoBot: Countdown aborted
+[22:50:44] BanchoBot: Countdown ends in 2 minutes
+[22:50:47] BCraftMG: !mp mods NF EZ
+[22:50:47] BanchoBot: Enabled NoFail, Easy, disabled FreeMod
+[22:50:58] BanchoBot: Kut joined in slot 2 for team red.
+[22:50:58] BanchoBot: Iwakura joined in slot 6 for team red.
+[22:51:00] BanchoBot: Kut moved to slot 7
+[22:51:05] BanchoBot: Kut changed to Blue
+[22:51:16] ImaginaryVaxei: i love ez
+[22:51:25] Seleen: me too
+[22:51:27] BanchoBot: Iwakura moved to slot 2
+[22:51:32] ImaginaryVaxei: omg i luv ez..
+[22:51:34] BanchoBot: Kut moved to slot 6
+[22:51:41] kirndy: i love it more with hd
+[22:51:45] BanchoBot: Countdown ends in 1 minute
+[22:51:52] Iwakura: glhfhfhfhfh
+[22:51:54] Seleen: ar-15
+[22:51:57] BanchoBot: All players are ready
+[22:51:57] kirndy: glgl
+[22:51:59] Kut: gl
+[22:52:00] BCraftMG: !mp settings
+[22:52:01] Seleen: glhfff
+[22:52:01] BanchoBot: Room name: STT3: (#freeminusls) vs (:flag_be: DUTCHLAND :flag, History: https://osu.ppy.sh/mp/102159770
+[22:52:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/3226510 Mitsukiyo - Unwelcome School
+[22:52:01] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:52:01] BanchoBot: Active mods: NoFail, Easy
+[22:52:01] BanchoBot: Players: 6
+[22:52:01] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9027651 kirndy          [Team Red ]
+[22:52:01] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12143372 Iwakura         [Team Red ]
+[22:52:01] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12483293 ImaginaryVaxei  [Team Red ]
+[22:52:01] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/2844779 boterham        [Team Blue]
+[22:52:01] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/9362168 Seleen          [Team Blue]
+[22:52:01] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/3859899 Kut             [Team Blue]
+[22:52:02] BCraftMG: !mp start 10
+[22:52:03] BanchoBot: Countdown aborted
+[22:52:03] BanchoBot: Match starts in 10 seconds
+[22:52:03] BanchoBot: Queued the match to start in 10 seconds
+[22:52:10] BanchoBot: Match starts in 5 seconds
+[22:52:10] BanchoBot: Match starts in 4 seconds
+[22:52:12] BanchoBot: Match starts in 3 seconds
+[22:52:12] BanchoBot: Good luck, have fun!
+[22:52:15] BanchoBot: The match has started!
+[22:54:16] BCraftMG: !mp addref ROB_
+[22:54:18] BanchoBot: Added ROB_ to the match referees
+[22:54:25] BanchoBot: ImaginaryVaxei finished playing (Score: 52932, PASSED).
+[22:54:25] BanchoBot: Iwakura finished playing (Score: 190815, PASSED).
+[22:54:27] BanchoBot: Kut finished playing (Score: 18487, PASSED).
+[22:54:27] BanchoBot: Seleen finished playing (Score: 498004, PASSED).
+[22:54:27] BanchoBot: kirndy finished playing (Score: 199516, PASSED).
+[22:54:27] BanchoBot: boterham finished playing (Score: 27376, PASSED).
+[22:54:27] BanchoBot: The match has finished!
+[22:54:30] BCraftMG: #freeminusls : 1 | 2 : :flag_be:  DUTCHLAND  :flag_be:
+[22:54:32] BCraftMG: Next team to pick: #freeminusls
+[22:54:35] BCraftMG: !mp timer 120
+[22:54:35] BanchoBot: Countdown ends in 2 minutes
+[22:54:55] BanchoBot: Enari joined in slot 7 for team blue.
+[22:54:57] ImaginaryVaxei: dt3
+[22:54:57] BanchoBot: Eliteronix joined in slot 8 for team red.
+[22:54:59] Enari: dt3
+[22:55:01] Kut: this was a team effort
+[22:55:06] BanchoBot: Iwakura left the game.
+[22:55:08] BanchoBot: Enari moved to slot 2
+[22:55:08] BanchoBot: Enari changed to Red
+[22:55:08] BanchoBot: Eliteronix left the game.
+[22:55:28] BanchoBot: MakiBrony joined in slot 7 for team blue.
+[22:55:33] BCraftMG: !mp mods DT NF
+[22:55:33] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[22:55:35] BanchoBot: Countdown ends in 1 minute
+[22:55:35] BCraftMG: !mp map 3665391 0
+[22:55:35] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3665391 Mitsukiyo - Bunny Bunny Carrot Carrot
+[22:55:35] BanchoBot: Changed match mode to Osu
+[22:55:37] BCraftMG: !mp timer 120
+[22:55:37] BanchoBot: Countdown aborted
+[22:55:37] BanchoBot: Countdown ends in 2 minutes
+[22:55:42] BanchoBot: kirndy moved to slot 8
+[22:56:02] Kut is listening to [https://osu.ppy.sh/beatmapsets/1786699#/3665391 Mitsukiyo - Bunny Bunny Carrot Carrot]
+[22:56:04] BanchoBot: Kut left the game.
+[22:56:08] BCraftMG: please make sure #freeminusls is on slot 1-3
+[22:56:11] boterham is listening to [https://osu.ppy.sh/beatmapsets/1786699#/3665391 Mitsukiyo - Bunny Bunny Carrot Carrot]
+[22:56:14] BCraftMG: DUTCHLAND 4-6
+[22:56:18] BanchoBot: Kut joined in slot 1 for team blue.
+[22:56:18] BanchoBot: boterham left the game.
+[22:56:25] Seleen: did the map update
+[22:56:25] BanchoBot: Kut moved to slot 6
+[22:56:30] BanchoBot: MakiBrony moved to slot 1
+[22:56:31] BCraftMG: uhh
+[22:56:31] BCraftMG: yes
+[22:56:32] BanchoBot: MakiBrony changed to Red
+[22:56:35] BCraftMG: we had this problem earlier
+[22:56:37] BanchoBot: boterham joined in slot 4 for team red.
+[22:56:37] Kut: we literally played the map yday?
+[22:56:37] Kut: huh
+[22:56:39] BanchoBot: Countdown ends in 1 minute
+[22:56:43] BCraftMG: update 8 hours ago
+[22:56:43] BanchoBot: boterham changed to Blue
+[22:56:43] Kut: ??
+[22:56:43] BanchoBot: kirndy left the game.
+[22:56:46] Seleen: aaa
+[22:56:59] Kut: ???
+[22:57:02] Kut: what changed
+[22:57:06] BCraftMG: im not sure
+[22:57:08] BanchoBot: Countdown ends in 30 seconds
+[22:57:13] MakiBrony: gl!
+[22:57:21] BanchoBot: All players are ready
+[22:57:25] BCraftMG: !mp settings
+[22:57:26] BanchoBot: Room name: STT3: (#freeminusls) vs (:flag_be: DUTCHLAND :flag, History: https://osu.ppy.sh/mp/102159770
+[22:57:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/3665391 Mitsukiyo - Bunny Bunny Carrot Carrot
+[22:57:26] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:57:26] BanchoBot: Active mods: NoFail, DoubleTime
+[22:57:26] BanchoBot: Players: 6
+[22:57:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7101953 MakiBrony       [Team Red ]
+[22:57:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13396819 Enari           [Team Red ]
+[22:57:26] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12483293 ImaginaryVaxei  [Team Red ]
+[22:57:26] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/2844779 boterham        [Team Blue]
+[22:57:26] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/9362168 Seleen          [Team Blue]
+[22:57:26] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/3859899 Kut             [Team Blue]
+[22:57:28] BCraftMG: !mp start 10
+[22:57:28] Seleen: glhf !!
+[22:57:28] BanchoBot: Countdown ends in 10 seconds
+[22:57:28] BanchoBot: Countdown aborted
+[22:57:28] BanchoBot: Match starts in 10 seconds
+[22:57:28] BanchoBot: Queued the match to start in 10 seconds
+[22:57:35] BanchoBot: Match starts in 5 seconds
+[22:57:35] Enari: gl
+[22:57:35] BanchoBot: Match starts in 4 seconds
+[22:57:37] BanchoBot: Match starts in 3 seconds
+[22:57:37] BanchoBot: Good luck, have fun!
+[22:57:39] BanchoBot: The match has started!
+[22:59:06] BanchoBot: Enari finished playing (Score: 477948, PASSED).
+[22:59:06] BanchoBot: MakiBrony finished playing (Score: 369251, PASSED).
+[22:59:06] BanchoBot: ImaginaryVaxei finished playing (Score: 679077, PASSED).
+[22:59:06] BanchoBot: boterham finished playing (Score: 468451, PASSED).
+[22:59:06] BanchoBot: Seleen finished playing (Score: 593193, PASSED).
+[22:59:06] BanchoBot: Kut finished playing (Score: 166903, PASSED).
+[22:59:06] BanchoBot: The match has finished!
+[22:59:08] BCraftMG: #freeminusls : 2 | 2 : :flag_be:  DUTCHLAND  :flag_be:
+[22:59:10] BCraftMG: Next team to pick: :flag_be:  DUTCHLAND  :flag_be:
+[22:59:12] BCraftMG: !mp timer 120
+[22:59:12] BanchoBot: Countdown ends in 2 minutes
+[23:00:01] BanchoBot: MakiBrony left the game.
+[23:00:13] BanchoBot: Countdown ends in 1 minute
+[23:00:20] Kut: dt1
+[23:00:35] BCraftMG: !mp mods DT NF
+[23:00:35] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[23:00:37] BCraftMG: !mp map 1414553 0
+[23:00:37] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1414553 Itou Masumi - Yume no Naka no Watashi no Yume
+[23:00:37] BanchoBot: Changed match mode to Osu
+[23:00:40] BCraftMG: !mp timer 120
+[23:00:40] BanchoBot: Countdown aborted
+[23:00:40] BanchoBot: Countdown ends in 2 minutes
+[23:00:58] BanchoBot: MakiBrony joined in slot 1 for team blue.
+[23:01:13] BanchoBot: MakiBrony changed to Red
+[23:01:22] BanchoBot: All players are ready
+[23:01:26] BCraftMG: !mp settings
+[23:01:27] Seleen: glhfff
+[23:01:27] BanchoBot: Room name: STT3: (#freeminusls) vs (:flag_be: DUTCHLAND :flag, History: https://osu.ppy.sh/mp/102159770
+[23:01:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/1414553 Itou Masumi - Yume no Naka no Watashi no Yume
+[23:01:27] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:01:27] BanchoBot: Active mods: NoFail, DoubleTime
+[23:01:27] BanchoBot: Players: 6
+[23:01:27] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7101953 MakiBrony       [Team Red ]
+[23:01:27] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13396819 Enari           [Team Red ]
+[23:01:27] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12483293 ImaginaryVaxei  [Team Red ]
+[23:01:27] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/2844779 boterham        [Team Blue]
+[23:01:27] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/9362168 Seleen          [Team Blue]
+[23:01:27] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/3859899 Kut             [Team Blue]
+[23:01:28] BCraftMG: !mp start 10
+[23:01:29] Kut: gl
+[23:01:29] BanchoBot: Countdown aborted
+[23:01:29] BanchoBot: Match starts in 10 seconds
+[23:01:29] BanchoBot: Queued the match to start in 10 seconds
+[23:01:33] MakiBrony: gl
+[23:01:36] BanchoBot: Match starts in 5 seconds
+[23:01:36] BanchoBot: Match starts in 4 seconds
+[23:01:38] BanchoBot: Match starts in 3 seconds
+[23:01:38] BanchoBot: Good luck, have fun!
+[23:01:40] BanchoBot: The match has started!
+[23:05:19] BanchoBot: ImaginaryVaxei finished playing (Score: 1153384, PASSED).
+[23:05:19] BanchoBot: boterham finished playing (Score: 1157199, PASSED).
+[23:05:19] BanchoBot: MakiBrony finished playing (Score: 1167819, PASSED).
+[23:05:19] BanchoBot: Kut finished playing (Score: 456291, PASSED).
+[23:05:19] BanchoBot: Enari finished playing (Score: 565927, PASSED).
+[23:05:21] BanchoBot: Seleen finished playing (Score: 1199880, PASSED).
+[23:05:21] BanchoBot: The match has finished!
+[23:05:24] BCraftMG: #freeminusls : 3 | 2 : :flag_be:  DUTCHLAND  :flag_be:
+[23:05:26] BCraftMG: Next team to pick: #freeminusls
+[23:05:28] BCraftMG: !mp timer 120
+[23:05:28] BanchoBot: Countdown ends in 2 minutes
+[23:06:02] BanchoBot: kirndy joined in slot 7 for team blue.
+[23:06:13] BanchoBot: MakiBrony left the game.
+[23:06:15] Enari: nm5
+[23:06:15] BanchoBot: kirndy left the game.
+[23:06:29] BanchoBot: Countdown ends in 1 minute
+[23:06:29] BCraftMG: !mp mods NF
+[23:06:29] BanchoBot: Enabled NoFail, disabled FreeMod
+[23:06:31] BCraftMG: !mp map 3653240 0
+[23:06:31] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3653240 brz1128 vs. M-UE - Bloody Marquis
+[23:06:31] BanchoBot: Changed match mode to Osu
+[23:06:33] BCraftMG: !mp timer 120
+[23:06:33] BanchoBot: Countdown aborted
+[23:06:33] BanchoBot: Countdown ends in 2 minutes
+[23:07:09] BanchoBot: kirndy joined in slot 1 for team blue.
+[23:07:11] BanchoBot: MakiBrony joined in slot 7 for team blue.
+[23:07:13] BanchoBot: kirndy moved to slot 8
+[23:07:20] BanchoBot: MakiBrony moved to slot 1
+[23:07:20] BanchoBot: MakiBrony changed to Red
+[23:07:20] BanchoBot: MakiBrony changed to Blue
+[23:07:22] BanchoBot: MakiBrony changed to Red
+[23:07:24] BanchoBot: kirndy left the game.
+[23:07:34] BanchoBot: Countdown ends in 1 minute
+[23:07:47] BanchoBot: All players are ready
+[23:07:49] MakiBrony: glhf!
+[23:07:49] BCraftMG: !mp settings
+[23:07:51] BanchoBot: Room name: STT3: (#freeminusls) vs (:flag_be: DUTCHLAND :flag, History: https://osu.ppy.sh/mp/102159770
+[23:07:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/3653240 brz1128 vs. M-UE - Bloody Marquis
+[23:07:51] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:07:51] BanchoBot: Active mods: NoFail
+[23:07:51] BanchoBot: Players: 6
+[23:07:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7101953 MakiBrony       [Team Red ]
+[23:07:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13396819 Enari           [Team Red ]
+[23:07:51] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12483293 ImaginaryVaxei  [Team Red ]
+[23:07:51] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/2844779 boterham        [Team Blue]
+[23:07:51] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/9362168 Seleen          [Team Blue]
+[23:07:51] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/3859899 Kut             [Team Blue]
+[23:07:53] BCraftMG: !mp start 10
+[23:07:54] Kut: gl!
+[23:07:54] Enari: gl
+[23:07:54] BanchoBot: Countdown aborted
+[23:07:54] BanchoBot: Match starts in 10 seconds
+[23:07:54] BanchoBot: Queued the match to start in 10 seconds
+[23:07:56] Seleen: glhf!!!
+[23:08:00] BanchoBot: Match starts in 5 seconds
+[23:08:00] BanchoBot: Match starts in 4 seconds
+[23:08:03] BanchoBot: Match starts in 3 seconds
+[23:08:03] BanchoBot: Good luck, have fun!
+[23:08:05] BanchoBot: The match has started!
+[23:10:28] BanchoBot: Kut finished playing (Score: 384830, PASSED).
+[23:10:28] BanchoBot: ImaginaryVaxei finished playing (Score: 912968, PASSED).
+[23:10:28] BanchoBot: Enari finished playing (Score: 639859, PASSED).
+[23:10:28] BanchoBot: Seleen finished playing (Score: 700443, PASSED).
+[23:10:30] BanchoBot: MakiBrony finished playing (Score: 450027, PASSED).
+[23:10:30] BanchoBot: boterham finished playing (Score: 603495, PASSED).
+[23:10:30] BanchoBot: The match has finished!
+[23:10:32] BCraftMG: #freeminusls : 4 | 2 : :flag_be:  DUTCHLAND  :flag_be:
+[23:10:34] BCraftMG: Next team to pick: :flag_be:  DUTCHLAND  :flag_be:
+[23:10:37] BCraftMG: !mp timer 120
+[23:10:37] BanchoBot: Countdown ends in 2 minutes
+[23:11:10] BanchoBot: boterham left the game.
+[23:11:13] BanchoBot: kirndy joined in slot 4 for team red.
+[23:11:17] BanchoBot: kirndy moved to slot 7
+[23:11:24] BanchoBot: Eliteronix joined in slot 4 for team red.
+[23:11:26] BanchoBot: Eliteronix changed to Blue
+[23:11:26] Kut: nm4
+[23:11:33] Eliteronix: Wokege
+[23:11:33] BanchoBot: MakiBrony left the game.
+[23:11:37] Seleen: nm3
+[23:11:37] BanchoBot: Countdown ends in 1 minute
+[23:11:37] Seleen: kut
+[23:11:39] Seleen: asdf
+[23:11:46] BCraftMG: nm4 gon
+[23:11:52] Kut: nm3
+[23:11:59] BCraftMG: !mp mods NF
+[23:11:59] BanchoBot: Enabled NoFail, disabled FreeMod
+[23:12:01] BCraftMG: !mp map 3571449 0
+[23:12:01] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3571449 patirchev - Angelfish
+[23:12:01] BanchoBot: Changed match mode to Osu
+[23:12:04] BCraftMG: !mp timer 120
+[23:12:04] BanchoBot: Countdown aborted
+[23:12:04] BanchoBot: Countdown ends in 2 minutes
+[23:12:10] BanchoBot: Enari left the game.
+[23:12:12] ImaginaryVaxei: ee
+[23:12:17] BanchoBot: kirndy moved to slot 2
+[23:12:26] BanchoBot: Iwakura joined in slot 1 for team blue.
+[23:12:44] BanchoBot: Iwakura changed to Red
+[23:12:50] kirndy: glgl
+[23:12:52] BanchoBot: All players are ready
+[23:12:55] Iwakura: hfhfhf
+[23:12:57] BCraftMG: !mp settings
+[23:12:59] BanchoBot: Room name: STT3: (#freeminusls) vs (:flag_be: DUTCHLAND :flag, History: https://osu.ppy.sh/mp/102159770
+[23:12:59] BanchoBot: Beatmap: https://osu.ppy.sh/b/3571449 patirchev - Angelfish
+[23:12:59] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:12:59] BanchoBot: Active mods: NoFail
+[23:12:59] BanchoBot: Players: 6
+[23:12:59] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12143372 Iwakura         [Team Red ]
+[23:12:59] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9027651 kirndy          [Team Red ]
+[23:12:59] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12483293 ImaginaryVaxei  [Team Red ]
+[23:12:59] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/4520333 Eliteronix      [Team Blue]
+[23:12:59] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/9362168 Seleen          [Team Blue]
+[23:12:59] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/3859899 Kut             [Team Blue]
+[23:13:00] BCraftMG: !mp start 10
+[23:13:01] BanchoBot: Countdown aborted
+[23:13:01] BanchoBot: Match starts in 10 seconds
+[23:13:01] BanchoBot: Queued the match to start in 10 seconds
+[23:13:04] kirndy: hfhf
+[23:13:04] Seleen: glhfff
+[23:13:06] Kut: gl
+[23:13:08] BanchoBot: Match starts in 5 seconds
+[23:13:08] BanchoBot: Match starts in 4 seconds
+[23:13:08] Kut: hf
+[23:13:11] BanchoBot: Match starts in 3 seconds
+[23:13:11] BanchoBot: Good luck, have fun!
+[23:13:13] BanchoBot: The match has started!
+[23:17:16] BanchoBot: Seleen finished playing (Score: 720396, PASSED).
+[23:17:16] BanchoBot: Eliteronix finished playing (Score: 572613, PASSED).
+[23:17:16] BanchoBot: Kut finished playing (Score: 395949, PASSED).
+[23:17:16] BanchoBot: ImaginaryVaxei finished playing (Score: 677953, PASSED).
+[23:17:18] BanchoBot: Iwakura finished playing (Score: 270773, PASSED).
+[23:17:18] BanchoBot: kirndy finished playing (Score: 439736, PASSED).
+[23:17:18] BanchoBot: The match has finished!
+[23:17:20] BCraftMG: #freeminusls : 4 | 3 : :flag_be:  DUTCHLAND  :flag_be:
+[23:17:23] BCraftMG: Next team to pick: #freeminusls
+[23:17:25] BCraftMG: !mp timer 120
+[23:17:25] BanchoBot: Countdown ends in 2 minutes
+[23:17:36] ImaginaryVaxei: this map is cursed lol
+[23:17:36] BanchoBot: Enari joined in slot 7 for team blue.
+[23:17:45] BanchoBot: boterham joined in slot 8 for team red.
+[23:17:50] BanchoBot: Iwakura left the game.
+[23:17:54] ImaginaryVaxei: i cant hit first 400 combo
+[23:17:58] BanchoBot: boterham changed to Blue
+[23:18:01] Enari: nm2
+[23:18:03] BanchoBot: MakiBrony joined in slot 1 for team blue.
+[23:18:05] BanchoBot: MakiBrony changed to Red
+[23:18:05] BanchoBot: Eliteronix left the game.
+[23:18:07] BanchoBot: Enari moved to slot 4
+[23:18:10] BanchoBot: kirndy moved to slot 7
+[23:18:10] BanchoBot: Enari moved to slot 2
+[23:18:10] BanchoBot: kirndy left the game.
+[23:18:12] BanchoBot: Enari changed to Red
+[23:18:12] BanchoBot: boterham moved to slot 4
+[23:18:25] BanchoBot: Countdown ends in 1 minute
+[23:18:32] BCraftMG: !mp mods NF
+[23:18:32] BanchoBot: Enabled NoFail, disabled FreeMod
+[23:18:34] BCraftMG: !mp map 3356836 0
+[23:18:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3356836 DM Ashura - Classical Insanity
+[23:18:34] BanchoBot: Changed match mode to Osu
+[23:18:36] BCraftMG: !mp timer 120
+[23:18:36] BanchoBot: Countdown aborted
+[23:18:36] BanchoBot: Countdown ends in 2 minutes
+[23:19:16] BanchoBot: All players are ready
+[23:19:18] MakiBrony: gl!
+[23:19:19] BCraftMG: !mp settings
+[23:19:21] BanchoBot: Room name: STT3: (#freeminusls) vs (:flag_be: DUTCHLAND :flag, History: https://osu.ppy.sh/mp/102159770
+[23:19:21] BanchoBot: Beatmap: https://osu.ppy.sh/b/3356836 DM Ashura - Classical Insanity
+[23:19:21] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:19:21] BanchoBot: Active mods: NoFail
+[23:19:21] BanchoBot: Players: 6
+[23:19:21] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7101953 MakiBrony       [Team Red ]
+[23:19:21] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13396819 Enari           [Team Red ]
+[23:19:21] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12483293 ImaginaryVaxei  [Team Red ]
+[23:19:21] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/2844779 boterham        [Team Blue]
+[23:19:21] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/9362168 Seleen          [Team Blue]
+[23:19:21] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/3859899 Kut             [Team Blue]
+[23:19:23] BCraftMG: !mp start 10
+[23:19:23] Enari: gl
+[23:19:25] BanchoBot: Countdown aborted
+[23:19:25] BanchoBot: Match starts in 10 seconds
+[23:19:25] BanchoBot: Queued the match to start in 10 seconds
+[23:19:27] Seleen: glhfff
+[23:19:32] BanchoBot: Match starts in 5 seconds
+[23:19:32] BanchoBot: Match starts in 4 seconds
+[23:19:34] BanchoBot: Match starts in 3 seconds
+[23:19:34] BanchoBot: Good luck, have fun!
+[23:19:36] BanchoBot: The match has started!
+[23:21:49] BanchoBot: Seleen finished playing (Score: 637280, PASSED).
+[23:21:49] BanchoBot: MakiBrony finished playing (Score: 614133, PASSED).
+[23:21:51] BanchoBot: boterham finished playing (Score: 230604, PASSED).
+[23:21:51] BanchoBot: ImaginaryVaxei finished playing (Score: 843256, PASSED).
+[23:21:51] BanchoBot: Enari finished playing (Score: 503073, PASSED).
+[23:21:51] BanchoBot: Kut finished playing (Score: 152285, PASSED).
+[23:21:51] BanchoBot: The match has finished!
+[23:21:54] BCraftMG: #freeminusls : 5 | 3 : :flag_be:  DUTCHLAND  :flag_be:
+[23:21:56] BCraftMG: Next team to pick: :flag_be:  DUTCHLAND  :flag_be:
+[23:21:58] BCraftMG: !mp timer 120
+[23:21:58] BanchoBot: Countdown ends in 2 minutes
+[23:22:11] BanchoBot: Seleen left the game.
+[23:22:16] ImaginaryVaxei: ah mousedrift
+[23:22:25] ImaginaryVaxei: anyway good try for sightread i think
+[23:22:42] BCraftMG: monkaS
+[23:22:47] BCraftMG: what a cha
+[23:22:48] BCraftMG: d
+[23:22:58] BanchoBot: Countdown ends in 1 minute
+[23:23:02] Kut: FM1
+[23:23:09] BanchoBot: Eliteronix joined in slot 5 for team blue.
+[23:23:11] BCraftMG: !mp mods Freemod NF
+[23:23:11] BanchoBot: Disabled all mods, enabled FreeMod
+[23:23:13] BCraftMG: !mp map 2588362 0
+[23:23:14] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2588362 Yorushika - Deep Indigo
+[23:23:14] BanchoBot: Changed match mode to Osu
+[23:23:14] BanchoBot: MakiBrony left the game.
+[23:23:16] BCraftMG: !mp timer 120
+[23:23:16] BanchoBot: Countdown aborted
+[23:23:16] BanchoBot: Countdown ends in 2 minutes
+[23:23:40] BanchoBot: MakiBrony joined in slot 1 for team blue.
+[23:23:47] BanchoBot: MakiBrony left the game.
+[23:24:06] BCraftMG: quick reminder 3 unique mods
+[23:24:14] BanchoBot: kirndy joined in slot 1 for team blue.
+[23:24:16] BanchoBot: Countdown ends in 1 minute
+[23:24:20] BanchoBot: kirndy changed to Red
+[23:24:42] BanchoBot: All players are ready
+[23:24:45] BCraftMG: !mp settings
+[23:24:47] BanchoBot: Countdown ends in 30 seconds
+[23:24:47] kirndy: GL
+[23:24:47] BanchoBot: Room name: STT3: (#freeminusls) vs (:flag_be: DUTCHLAND :flag, History: https://osu.ppy.sh/mp/102159770
+[23:24:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/2588362 Yorushika - Deep Indigo
+[23:24:47] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:24:47] BanchoBot: Active mods: Freemod
+[23:24:47] BanchoBot: Players: 6
+[23:24:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9027651 kirndy          [Team Red  / NoFail, Hidden]
+[23:24:47] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13396819 Enari           [Team Red  / NoFail, HardRock]
+[23:24:47] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12483293 ImaginaryVaxei  [Team Red  / NoFail, HardRock]
+[23:24:47] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/2844779 boterham        [Team Blue / NoFail, HardRock]
+[23:24:47] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4520333 Eliteronix      [Team Blue / NoFail, Hidden]
+[23:24:47] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/3859899 Kut             [Team Blue / NoFail, Hidden]
+[23:24:50] BCraftMG: !mp start 10
+[23:24:51] Kut: gl
+[23:24:51] BanchoBot: Countdown aborted
+[23:24:51] BanchoBot: Match starts in 10 seconds
+[23:24:51] BanchoBot: Queued the match to start in 10 seconds
+[23:24:58] BanchoBot: Match starts in 5 seconds
+[23:24:58] BanchoBot: Match starts in 4 seconds
+[23:25:00] BanchoBot: Match starts in 3 seconds
+[23:25:00] BanchoBot: Good luck, have fun!
+[23:25:02] BanchoBot: The match has started!
+[23:28:47] BanchoBot: Enari finished playing (Score: 526793, PASSED).
+[23:28:47] BanchoBot: boterham finished playing (Score: 769505, PASSED).
+[23:28:47] BanchoBot: Kut finished playing (Score: 431753, PASSED).
+[23:28:47] BanchoBot: ImaginaryVaxei finished playing (Score: 606284, PASSED).
+[23:28:49] BanchoBot: Eliteronix finished playing (Score: 545960, PASSED).
+[23:28:49] BanchoBot: kirndy finished playing (Score: 879462, PASSED).
+[23:28:49] BanchoBot: The match has finished!
+[23:28:51] BCraftMG: #freeminusls : 6 | 3 : :flag_be:  DUTCHLAND  :flag_be:
+[23:28:53] BCraftMG: **#freeminusls wins the match**
+[23:28:54] BCraftMG: ggwp
+[23:29:02] Enari: no acc fix
+[23:29:06] Eliteronix: gg
+[23:29:06] Enari: rip
+[23:29:08] kirndy: ggwp
+[23:29:13] ImaginaryVaxei: gg
+[23:29:13] kirndy: thanks for ref
+[23:29:13] BanchoBot: ImaginaryVaxei left the game.
+[23:29:15] Kut: gg
+[23:29:19] Eliteronix: ty for ref
+[23:29:22] Enari: ty for playing
+[23:29:24] BanchoBot: Eliteronix left the game.
+[23:29:24] Enari: ty for ref
+[23:29:24] BanchoBot: Enari left the game.
+[23:29:25] BCraftMG: ty for playing
+[23:29:26] BanchoBot: kirndy left the game.
+[23:29:35] BanchoBot: boterham left the game.
+[23:29:37] BanchoBot: Kut left the game.
+[23:29:54] BCraftMG: !mp close
+[23:29:57] BanchoBot: Closed the match

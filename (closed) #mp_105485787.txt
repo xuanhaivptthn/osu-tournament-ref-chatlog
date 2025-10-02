@@ -1,0 +1,277 @@
+[20:58:00] Joined #mp_105485787
+[20:58:00] DaddyStage: !mp settings
+[20:58:01] BanchoBot: Room name: MDDC: (Qualifiers) vs (EX-5), History: https://osu.ppy.sh/mp/105485787
+[20:58:01] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[20:58:01] BanchoBot: Players: 0
+[20:58:19] DaddyStage: !mp set 0 2 2
+[20:58:20] BanchoBot: Changed match settings to 2 slots, HeadToHead, Combo
+[20:58:28] DaddyStage: !mp set 2 3 2
+[20:58:29] BanchoBot: Changed match settings to 2 slots, TeamVs, ScoreV2
+[20:58:35] DaddyStage: !mp set 2 0 2
+[20:58:36] BanchoBot: Changed match settings to 2 slots, TeamVs, Score
+[20:58:41] DaddyStage: !mp set 0 2 2
+[20:58:41] BanchoBot: Changed match settings to 2 slots, HeadToHead, Combo
+[20:58:51] DaddyStage: !mp set 0 3 2
+[20:58:52] BanchoBot: Changed match settings to 2 slots, HeadToHead, ScoreV2
+[20:58:56] DaddyStage: !mp invite #8266808
+[20:58:56] BanchoBot: Invited [Boy]DaLat to the room
+[20:59:02] BanchoBot: [Boy]DaLat joined in slot 1.
+[20:59:05] [Boy]DaLat: HELLO ONG
+[20:59:09] DaddyStage: !mp map 3731630 0
+[20:59:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3731630 Tadokoro Azusa - Storyteller
+[20:59:10] BanchoBot: Changed match mode to Osu
+[20:59:10] DaddyStage: !mp mods 1
+[20:59:11] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:59:12] [Boy]DaLat: TOI CHUA DOWN MAP POOL NEN LA ONG CO THE
+[20:59:12] [Boy]DaLat: !MP
+[20:59:22] BanchoBot: All players are ready
+[20:59:23] [Boy]DaLat: oke
+[20:59:25] DaddyStage: !mp settings
+[20:59:25] BanchoBot: Room name: MDDC: (Qualifiers) vs (EX-5), History: https://osu.ppy.sh/mp/105485787
+[20:59:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/3731630 Tadokoro Azusa - Storyteller
+[20:59:25] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:59:25] BanchoBot: Active mods: NoFail
+[20:59:25] BanchoBot: Players: 1
+[20:59:25] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      
+[20:59:26] DaddyStage: !mp start 5 glhf
+[20:59:28] DaddyStage: vai
+[20:59:28] BanchoBot: Match starts in 5 seconds
+[20:59:28] BanchoBot: Queued the match to start in 5 seconds
+[20:59:29] BanchoBot: Match starts in 4 seconds
+[20:59:30] BanchoBot: Match starts in 3 seconds
+[20:59:31] BanchoBot: Good luck, have fun!
+[20:59:33] BanchoBot: The match has started!
+[21:04:11] BanchoBot: [Boy]DaLat finished playing (Score: 544099, PASSED).
+[21:04:11] BanchoBot: The match has finished!
+[21:04:13] DaddyStage: !mp map 3903393 0
+[21:04:14] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3903393 Discord Registers - Kiri Kakaru Mei Yoru ~ Foggy Night ~
+[21:04:14] BanchoBot: Changed match mode to Osu
+[21:04:16] DaddyStage: !mp settings
+[21:04:17] BanchoBot: Room name: MDDC: (Qualifiers) vs (EX-5), History: https://osu.ppy.sh/mp/105485787
+[21:04:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/3903393 Discord Registers - Kiri Kakaru Mei Yoru ~ Foggy Night ~
+[21:04:17] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:04:17] BanchoBot: Active mods: NoFail
+[21:04:17] BanchoBot: Players: 1
+[21:04:17] BanchoBot: Slot 1  No Map    https://osu.ppy.sh/u/8266808 [Boy]DaLat      
+[21:04:23] [Boy]DaLat: DANG KI ACC DISCORD
+[21:04:29] BanchoBot: All players are ready
+[21:04:32] DaddyStage: !mp settings
+[21:04:33] BanchoBot: Room name: MDDC: (Qualifiers) vs (EX-5), History: https://osu.ppy.sh/mp/105485787
+[21:04:33] BanchoBot: Beatmap: https://osu.ppy.sh/b/3903393 Discord Registers - Kiri Kakaru Mei Yoru ~ Foggy Night ~
+[21:04:33] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:04:33] BanchoBot: Active mods: NoFail
+[21:04:33] BanchoBot: Players: 1
+[21:04:33] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      
+[21:04:35] DaddyStage: !mp start 5 glhf
+[21:04:37] BanchoBot: Match starts in 5 seconds
+[21:04:37] BanchoBot: Queued the match to start in 5 seconds
+[21:04:38] BanchoBot: Match starts in 4 seconds
+[21:04:39] BanchoBot: Match starts in 3 seconds
+[21:04:40] BanchoBot: Good luck, have fun!
+[21:04:42] BanchoBot: The match has started!
+[21:06:59] BanchoBot: [Boy]DaLat finished playing (Score: 57490, PASSED).
+[21:06:59] BanchoBot: The match has finished!
+[21:07:04] [Boy]DaLat: DAY ROI
+[21:07:05] [Boy]DaLat: 57K
+[21:07:06] DaddyStage: !mp map 3144020 0
+[21:07:07] [Boy]DaLat: DAY ROIII
+[21:07:07] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3144020 Eve - Nonsense Bungaku
+[21:07:07] BanchoBot: Changed match mode to Osu
+[21:07:23] BanchoBot: All players are ready
+[21:07:28] DaddyStage: !mp map 3593847 0
+[21:07:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3593847 PSYQUI - Mend Your Ways feat. Such
+[21:07:29] BanchoBot: Changed match mode to Osu
+[21:07:30] DaddyStage: che
+[21:07:31] DaddyStage: t
+[21:07:35] DaddyStage: t!mp map 3144020 0
+[21:07:36] [Boy]DaLat: vai
+[21:07:37] [Boy]DaLat: drake
+[21:07:37] DaddyStage: !mp map 3144020 0
+[21:07:38] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3144020 Eve - Nonsense Bungaku
+[21:07:38] BanchoBot: Changed match mode to Osu
+[21:07:46] BanchoBot: All players are ready
+[21:07:47] DaddyStage: !mp settings
+[21:07:48] BanchoBot: Room name: MDDC: (Qualifiers) vs (EX-5), History: https://osu.ppy.sh/mp/105485787
+[21:07:48] BanchoBot: Beatmap: https://osu.ppy.sh/b/3144020 Eve - Nonsense Bungaku
+[21:07:48] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:07:48] BanchoBot: Active mods: NoFail
+[21:07:48] BanchoBot: Players: 1
+[21:07:48] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      
+[21:07:50] DaddyStage: nham ti j cang
+[21:07:51] DaddyStage: !mp start 5 glhf
+[21:07:53] BanchoBot: Match starts in 5 seconds
+[21:07:53] BanchoBot: Queued the match to start in 5 seconds
+[21:07:54] BanchoBot: Match starts in 4 seconds
+[21:07:55] BanchoBot: Match starts in 3 seconds
+[21:07:56] BanchoBot: Good luck, have fun!
+[21:07:58] BanchoBot: The match has started!
+[21:11:31] BanchoBot: [Boy]DaLat finished playing (Score: 232783, PASSED).
+[21:11:31] BanchoBot: The match has finished!
+[21:11:40] [Boy]DaLat: vai van duoc 200k ha
+[21:11:40] DaddyStage: !mp map 3593847 0
+[21:11:41] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3593847 PSYQUI - Mend Your Ways feat. Such
+[21:11:41] BanchoBot: Changed match mode to Osu
+[21:11:44] BanchoBot: All players are ready
+[21:11:58] DaddyStage: !mp settings
+[21:11:58] BanchoBot: Room name: MDDC: (Qualifiers) vs (EX-5), History: https://osu.ppy.sh/mp/105485787
+[21:11:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/3593847 PSYQUI - Mend Your Ways feat. Such
+[21:11:58] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:11:58] BanchoBot: Active mods: NoFail
+[21:11:58] BanchoBot: Players: 1
+[21:11:58] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      
+[21:11:59] DaddyStage: !mp start 5 glhf
+[21:12:00] BanchoBot: Match starts in 5 seconds
+[21:12:00] BanchoBot: Queued the match to start in 5 seconds
+[21:12:01] BanchoBot: Match starts in 4 seconds
+[21:12:02] BanchoBot: Match starts in 3 seconds
+[21:12:03] BanchoBot: Good luck, have fun!
+[21:12:05] BanchoBot: The match has started!
+[21:14:32] DaddyStage: !mp settings
+[21:14:34] BanchoBot: Room name: MDDC: (Qualifiers) vs (EX-5), History: https://osu.ppy.sh/mp/105485787
+[21:14:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/3593847 PSYQUI - Mend Your Ways feat. Such
+[21:14:34] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:14:34] BanchoBot: Active mods: NoFail
+[21:14:34] BanchoBot: Players: 1
+[21:14:34] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/8266808 [Boy]DaLat      
+[21:15:48] BanchoBot: [Boy]DaLat finished playing (Score: 418446, PASSED).
+[21:15:48] BanchoBot: The match has finished!
+[21:15:50] DaddyStage: !mp map 1278874 0
+[21:15:51] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1278874 senya - Zetsubou no Fuchi
+[21:15:51] BanchoBot: Changed match mode to Osu
+[21:15:53] DaddyStage: !mp mods 9
+[21:15:54] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:16:02] [Boy]DaLat: map tu day roi !!!
+[21:16:03] BanchoBot: All players are ready
+[21:16:06] [Boy]DaLat: tu`
+[21:16:07] DaddyStage: !mp settings
+[21:16:08] BanchoBot: Room name: MDDC: (Qualifiers) vs (EX-5), History: https://osu.ppy.sh/mp/105485787
+[21:16:08] BanchoBot: Beatmap: https://osu.ppy.sh/b/1278874 senya - Zetsubou no Fuchi
+[21:16:08] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:16:08] BanchoBot: Active mods: NoFail, Hidden
+[21:16:08] BanchoBot: Players: 1
+[21:16:08] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      
+[21:16:09] DaddyStage: !mp start 5 glhf
+[21:16:09] BanchoBot: Match starts in 5 seconds
+[21:16:09] BanchoBot: Queued the match to start in 5 seconds
+[21:16:10] BanchoBot: Match starts in 4 seconds
+[21:16:11] [Boy]DaLat: T.T
+[21:16:11] BanchoBot: Match starts in 3 seconds
+[21:16:12] BanchoBot: Good luck, have fun!
+[21:16:15] BanchoBot: The match has started!
+[21:19:27] BanchoBot: [Boy]DaLat finished playing (Score: 320683, PASSED).
+[21:19:27] BanchoBot: The match has finished!
+[21:19:29] DaddyStage: !mp map 84538 0
+[21:19:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/84538 Groove Coverage - The End (Nightcore Remix)
+[21:19:29] BanchoBot: Changed match mode to Osu
+[21:19:40] BanchoBot: All players are ready
+[21:19:41] DaddyStage: !mp settings
+[21:19:42] BanchoBot: Room name: MDDC: (Qualifiers) vs (EX-5), History: https://osu.ppy.sh/mp/105485787
+[21:19:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/84538 Groove Coverage - The End (Nightcore Remix)
+[21:19:42] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:19:42] BanchoBot: Active mods: NoFail, Hidden
+[21:19:42] BanchoBot: Players: 1
+[21:19:42] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      
+[21:19:43] DaddyStage: !mp start 5 glhf
+[21:19:43] BanchoBot: Match starts in 5 seconds
+[21:19:43] BanchoBot: Queued the match to start in 5 seconds
+[21:19:44] BanchoBot: Match starts in 4 seconds
+[21:19:45] BanchoBot: Match starts in 3 seconds
+[21:19:47] BanchoBot: Good luck, have fun!
+[21:19:49] BanchoBot: The match has started!
+[21:22:10] BanchoBot: [Boy]DaLat finished playing (Score: 426714, PASSED).
+[21:22:10] BanchoBot: The match has finished!
+[21:22:19] DaddyStage: !mp map 2965623 0
+[21:22:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2965623 Ryokuoushoku Shakai - LADYBUG
+[21:22:20] BanchoBot: Changed match mode to Osu
+[21:22:22] DaddyStage: !mp mods 17
+[21:22:24] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[21:22:34] BanchoBot: All players are ready
+[21:22:39] DaddyStage: !mp settings
+[21:22:40] BanchoBot: Room name: MDDC: (Qualifiers) vs (EX-5), History: https://osu.ppy.sh/mp/105485787
+[21:22:40] BanchoBot: Beatmap: https://osu.ppy.sh/b/2965623 Ryokuoushoku Shakai - LADYBUG
+[21:22:40] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:22:40] BanchoBot: Active mods: NoFail, HardRock
+[21:22:40] BanchoBot: Players: 1
+[21:22:40] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      
+[21:22:40] DaddyStage: !mp start 5 glhf
+[21:22:41] BanchoBot: Match starts in 5 seconds
+[21:22:41] BanchoBot: Queued the match to start in 5 seconds
+[21:22:42] BanchoBot: Match starts in 4 seconds
+[21:22:43] BanchoBot: Match starts in 3 seconds
+[21:22:44] BanchoBot: Good luck, have fun!
+[21:22:46] BanchoBot: The match has started!
+[21:26:45] BanchoBot: [Boy]DaLat finished playing (Score: 205694, PASSED).
+[21:26:45] BanchoBot: The match has finished!
+[21:26:47] DaddyStage: !mp map 501755 0
+[21:26:47] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/501755 Kiryu - EVE
+[21:26:47] BanchoBot: Changed match mode to Osu
+[21:27:09] BanchoBot: All players are ready
+[21:27:10] DaddyStage: !mp settings
+[21:27:10] BanchoBot: Room name: MDDC: (Qualifiers) vs (EX-5), History: https://osu.ppy.sh/mp/105485787
+[21:27:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/501755 Kiryu - EVE
+[21:27:10] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:27:10] BanchoBot: Active mods: NoFail, HardRock
+[21:27:10] BanchoBot: Players: 1
+[21:27:10] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      
+[21:27:12] DaddyStage: !mp start 5 glhf
+[21:27:12] BanchoBot: Match starts in 5 seconds
+[21:27:12] BanchoBot: Queued the match to start in 5 seconds
+[21:27:13] BanchoBot: Match starts in 4 seconds
+[21:27:15] BanchoBot: Match starts in 3 seconds
+[21:27:16] BanchoBot: Good luck, have fun!
+[21:27:18] BanchoBot: The match has started!
+[21:29:35] BanchoBot: [Boy]DaLat finished playing (Score: 289954, PASSED).
+[21:29:35] BanchoBot: The match has finished!
+[21:30:06] [Boy]DaLat: @DaddyStage
+[21:30:09] DaddyStage: !mp map 1615500 0
+[21:30:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1615500 Naru Hakobe (CV: M.A.O) - Neko Matsuri
+[21:30:10] BanchoBot: Changed match mode to Osu
+[21:30:11] [Boy]DaLat: bcraft!!!
+[21:30:14] DaddyStage: !mp mods 65
+[21:30:15] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:30:21] DaddyStage: ua
+[21:30:22] BanchoBot: All players are ready
+[21:30:24] DaddyStage: !mp settings
+[21:30:25] BanchoBot: Room name: MDDC: (Qualifiers) vs (EX-5), History: https://osu.ppy.sh/mp/105485787
+[21:30:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/1615500 Naru Hakobe (CV: M.A.O) - Neko Matsuri
+[21:30:25] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:30:25] BanchoBot: Active mods: NoFail, DoubleTime
+[21:30:25] BanchoBot: Players: 1
+[21:30:25] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      
+[21:30:25] DaddyStage: !mp start 5 glhf
+[21:30:26] BanchoBot: Match starts in 5 seconds
+[21:30:26] BanchoBot: Queued the match to start in 5 seconds
+[21:30:27] BanchoBot: Match starts in 4 seconds
+[21:30:28] BanchoBot: Match starts in 3 seconds
+[21:30:29] BanchoBot: Good luck, have fun!
+[21:30:32] BanchoBot: The match has started!
+[21:30:52] DaddyStage: i was looking at cat pics
+[21:32:12] BanchoBot: [Boy]DaLat finished playing (Score: 525672, PASSED).
+[21:32:12] BanchoBot: The match has finished!
+[21:32:14] DaddyStage: !mp map 1814067 0
+[21:32:14] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1814067 ak+q & Redeilia - Enigma Helix
+[21:32:14] BanchoBot: Changed match mode to Osu
+[21:32:40] BanchoBot: All players are ready
+[21:32:49] DaddyStage: !mp settings
+[21:32:50] BanchoBot: Room name: MDDC: (Qualifiers) vs (EX-5), History: https://osu.ppy.sh/mp/105485787
+[21:32:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/1814067 ak+q & Redeilia - Enigma Helix
+[21:32:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:32:50] BanchoBot: Active mods: NoFail, DoubleTime
+[21:32:50] BanchoBot: Players: 1
+[21:32:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8266808 [Boy]DaLat      
+[21:32:50] DaddyStage: !mp start 5 glhf
+[21:32:51] BanchoBot: Match starts in 5 seconds
+[21:32:51] BanchoBot: Queued the match to start in 5 seconds
+[21:32:52] BanchoBot: Match starts in 4 seconds
+[21:32:53] BanchoBot: Match starts in 3 seconds
+[21:32:54] BanchoBot: Good luck, have fun!
+[21:32:57] BanchoBot: The match has started!
+[21:35:01] BanchoBot: [Boy]DaLat finished playing (Score: 266877, PASSED).
+[21:35:01] BanchoBot: The match has finished!
+[21:35:08] [Boy]DaLat: thx for ref hehe
+[21:35:13] DaddyStage: hehe
+[21:35:21] DaddyStage: \/o
+[21:35:30] [Boy]DaLat: bai bai
+[21:35:30] BanchoBot: [Boy]DaLat left the game.
+[21:35:43] DaddyStage: !mp close
+[21:35:44] BanchoBot: Closed the match

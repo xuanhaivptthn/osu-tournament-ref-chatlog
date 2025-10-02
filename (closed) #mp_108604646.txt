@@ -1,0 +1,344 @@
+[00:51:19] Joined #mp_108604646
+[00:51:19] BCraftMG: !mp settings
+[00:51:21] BanchoBot: Room name: PTSP: (Qualifiers) vs (B5), History: https://osu.ppy.sh/mp/108604646
+[00:51:21] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[00:51:21] BanchoBot: Players: 0
+[00:53:12] BCraftMG: !mp set 0 3 8
+[00:53:13] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[00:54:14] BCraftMG: !mp settings
+[00:54:14] BanchoBot: Room name: PTSP: (Qualifiers) vs (B5), History: https://osu.ppy.sh/mp/108604646
+[00:54:14] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:54:14] BanchoBot: Players: 0
+[00:54:18] BCraftMG: !mp mods NF
+[00:54:18] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:54:20] BCraftMG: !mp map 1985106 0
+[00:54:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1985106 BLUE ENCOUNT - FREEDOM
+[00:54:20] BanchoBot: Changed match mode to Osu
+[00:54:21] BCraftMG: !mp timer 120
+[00:54:21] BanchoBot: Countdown ends in 2 minutes
+[00:54:40] BCraftMG: !mp aborttimer
+[00:54:40] BanchoBot: Countdown aborted
+[00:54:51] BCraftMG: !mp invite #6192747
+[00:54:51] BanchoBot: Invited Astatoru to the room
+[00:59:01] BanchoBot: Astatoru joined in slot 1.
+[00:59:13] BanchoBot: ihateHDmod joined in slot 2.
+[00:59:26] BanchoBot: All players are ready
+[00:59:29] BCraftMG: !mp settings
+[00:59:31] BanchoBot: Room name: PTSP: (Qualifiers) vs (B5), History: https://osu.ppy.sh/mp/108604646
+[00:59:31] BanchoBot: Beatmap: https://osu.ppy.sh/b/1985106 BLUE ENCOUNT - FREEDOM
+[00:59:31] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:59:31] BanchoBot: Active mods: NoFail
+[00:59:31] BanchoBot: Players: 2
+[00:59:31] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6192747 Astatoru        
+[00:59:31] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6868602 ihateHDmod      
+[00:59:31] BCraftMG: !mp start 5 glhf
+[00:59:32] BanchoBot: Match starts in 5 seconds
+[00:59:32] BanchoBot: Queued the match to start in 5 seconds
+[00:59:33] BanchoBot: Match starts in 4 seconds
+[00:59:34] BanchoBot: Match starts in 3 seconds
+[00:59:35] BanchoBot: Good luck, have fun!
+[00:59:37] BanchoBot: The match has started!
+[00:59:37] Astatoru: gl
+[01:03:40] BanchoBot: Astatoru finished playing (Score: 480327, PASSED).
+[01:03:42] BanchoBot: ihateHDmod finished playing (Score: 480156, PASSED).
+[01:03:42] BanchoBot: The match has finished!
+[01:03:49] ihateHDmod: сука, телефон всю игру в жопе звинел
+[01:03:50] ihateHDmod: ща уберу
+[01:03:57] ihateHDmod: лол
+[01:03:59] ihateHDmod: 200 поинтов разница
+[01:04:04] BCraftMG: !mp mods NF
+[01:04:04] BanchoBot: Enabled NoFail, disabled FreeMod
+[01:04:06] BCraftMG: !mp map 3944144 0
+[01:04:06] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3944144 Sabaton - Twilight of the Thunder God
+[01:04:06] BanchoBot: Changed match mode to Osu
+[01:04:37] BanchoBot: All players are ready
+[01:04:38] BCraftMG: !mp settings
+[01:04:38] BanchoBot: Room name: PTSP: (Qualifiers) vs (B5), History: https://osu.ppy.sh/mp/108604646
+[01:04:38] BanchoBot: Beatmap: https://osu.ppy.sh/b/3944144 Sabaton - Twilight of the Thunder God
+[01:04:38] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:04:38] BanchoBot: Active mods: NoFail
+[01:04:38] BanchoBot: Players: 2
+[01:04:38] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6192747 Astatoru        
+[01:04:38] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6868602 ihateHDmod      
+[01:04:40] BCraftMG: !mp start 5 glhf
+[01:04:40] BanchoBot: Match starts in 5 seconds
+[01:04:40] BanchoBot: Queued the match to start in 5 seconds
+[01:04:41] BanchoBot: Match starts in 4 seconds
+[01:04:42] BanchoBot: Match starts in 3 seconds
+[01:04:43] BanchoBot: Good luck, have fun!
+[01:04:45] BanchoBot: The match has started!
+[01:08:22] BanchoBot: ihateHDmod finished playing (Score: 582184, PASSED).
+[01:08:22] BanchoBot: Astatoru finished playing (Score: 959153, PASSED).
+[01:08:22] BanchoBot: The match has finished!
+[01:08:27] BCraftMG: !mp mods NF
+[01:08:27] BanchoBot: Enabled NoFail, disabled FreeMod
+[01:08:28] BCraftMG: !mp map 3323779 0
+[01:08:28] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3323779 Yonekura Chihiro - DEAR MY WAKER
+[01:08:28] BanchoBot: Changed match mode to Osu
+[01:08:33] Astatoru: ah yes
+[01:08:35] Astatoru: the rng alt
+[01:08:45] BanchoBot: All players are ready
+[01:08:49] BCraftMG: !mp settings
+[01:08:49] BanchoBot: Room name: PTSP: (Qualifiers) vs (B5), History: https://osu.ppy.sh/mp/108604646
+[01:08:49] BanchoBot: Beatmap: https://osu.ppy.sh/b/3323779 Yonekura Chihiro - DEAR MY WAKER
+[01:08:49] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:08:49] BanchoBot: Active mods: NoFail
+[01:08:49] BanchoBot: Players: 2
+[01:08:49] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6192747 Astatoru        
+[01:08:49] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6868602 ihateHDmod      
+[01:08:51] BCraftMG: !mp start 5 glhf
+[01:08:52] BanchoBot: Match starts in 5 seconds
+[01:08:52] BanchoBot: Queued the match to start in 5 seconds
+[01:08:53] Astatoru: glhf
+[01:08:53] BanchoBot: Match starts in 4 seconds
+[01:08:54] BanchoBot: Match starts in 3 seconds
+[01:08:55] BanchoBot: Good luck, have fun!
+[01:08:57] BanchoBot: The match has started!
+[01:13:07] BanchoBot: Astatoru finished playing (Score: 358580, PASSED).
+[01:13:08] BanchoBot: ihateHDmod finished playing (Score: 221635, PASSED).
+[01:13:08] BanchoBot: The match has finished!
+[01:13:13] BCraftMG: !mp mods NF
+[01:13:13] BanchoBot: Enabled NoFail, disabled FreeMod
+[01:13:14] BCraftMG: !mp map 3695129 0
+[01:13:14] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3695129 MYUKKE. - NO ONE YES MAN
+[01:13:14] BanchoBot: Changed match mode to Osu
+[01:13:29] BanchoBot: All players are ready
+[01:13:34] BCraftMG: !mp settings
+[01:13:35] BanchoBot: Room name: PTSP: (Qualifiers) vs (B5), History: https://osu.ppy.sh/mp/108604646
+[01:13:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/3695129 MYUKKE. - NO ONE YES MAN
+[01:13:35] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:13:35] BanchoBot: Active mods: NoFail
+[01:13:35] BanchoBot: Players: 2
+[01:13:35] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6192747 Astatoru        
+[01:13:35] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6868602 ihateHDmod      
+[01:13:36] BCraftMG: !mp start 5 glhf
+[01:13:37] BanchoBot: Match starts in 5 seconds
+[01:13:37] BanchoBot: Queued the match to start in 5 seconds
+[01:13:38] BanchoBot: Match starts in 4 seconds
+[01:13:39] BanchoBot: Match starts in 3 seconds
+[01:13:40] BanchoBot: Good luck, have fun!
+[01:13:42] BanchoBot: The match has started!
+[01:15:53] BanchoBot: ihateHDmod finished playing (Score: 324404, PASSED).
+[01:15:54] BanchoBot: Astatoru finished playing (Score: 364861, PASSED).
+[01:15:54] BanchoBot: The match has finished!
+[01:16:00] BCraftMG: !mp mods HD NF
+[01:16:01] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[01:16:02] BCraftMG: !mp map 4140823 0
+[01:16:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4140823 Inoue Bona - Usouso Doki
+[01:16:02] BanchoBot: Changed match mode to Osu
+[01:16:53] BCraftMG: !mp settings
+[01:16:54] BanchoBot: Room name: PTSP: (Qualifiers) vs (B5), History: https://osu.ppy.sh/mp/108604646
+[01:16:54] BanchoBot: Beatmap: https://osu.ppy.sh/b/4140823 Inoue Bona - Usouso Doki
+[01:16:54] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:16:54] BanchoBot: Active mods: NoFail, Hidden
+[01:16:54] BanchoBot: Players: 2
+[01:16:54] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6192747 Astatoru        
+[01:16:54] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/6868602 ihateHDmod      
+[01:17:01] BanchoBot: All players are ready
+[01:17:04] BCraftMG: !mp settings
+[01:17:06] BanchoBot: Room name: PTSP: (Qualifiers) vs (B5), History: https://osu.ppy.sh/mp/108604646
+[01:17:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/4140823 Inoue Bona - Usouso Doki
+[01:17:06] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:17:06] BanchoBot: Active mods: NoFail, Hidden
+[01:17:06] BanchoBot: Players: 2
+[01:17:06] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6192747 Astatoru        
+[01:17:06] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6868602 ihateHDmod      
+[01:17:06] BCraftMG: !mp start 5 glhf
+[01:17:06] BanchoBot: Match starts in 5 seconds
+[01:17:06] BanchoBot: Queued the match to start in 5 seconds
+[01:17:08] BanchoBot: Match starts in 4 seconds
+[01:17:09] BanchoBot: Match starts in 3 seconds
+[01:17:10] BanchoBot: Good luck, have fun!
+[01:17:12] BanchoBot: The match has started!
+[01:19:22] BanchoBot: Astatoru finished playing (Score: 179380, PASSED).
+[01:19:23] BanchoBot: ihateHDmod finished playing (Score: 98344, PASSED).
+[01:19:23] BanchoBot: The match has finished!
+[01:19:27] BCraftMG: !mp mods HR NF
+[01:19:27] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[01:19:28] BCraftMG: !mp map 3264072 0
+[01:19:28] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3264072 Two Door Cinema Club - Cigarettes in the Theatre
+[01:19:28] BanchoBot: Changed match mode to Osu
+[01:19:53] BanchoBot: All players are ready
+[01:19:55] BCraftMG: !mp settings
+[01:19:56] BanchoBot: Room name: PTSP: (Qualifiers) vs (B5), History: https://osu.ppy.sh/mp/108604646
+[01:19:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/3264072 Two Door Cinema Club - Cigarettes in the Theatre
+[01:19:56] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:19:56] BanchoBot: Active mods: NoFail, HardRock
+[01:19:56] BanchoBot: Players: 2
+[01:19:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6192747 Astatoru        
+[01:19:56] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6868602 ihateHDmod      
+[01:19:57] BCraftMG: !mp start 5 glhf
+[01:19:58] BanchoBot: Match starts in 5 seconds
+[01:19:58] BanchoBot: Queued the match to start in 5 seconds
+[01:19:59] BanchoBot: Match starts in 4 seconds
+[01:20:00] BanchoBot: Match starts in 3 seconds
+[01:20:01] BanchoBot: Good luck, have fun!
+[01:20:04] BanchoBot: The match has started!
+[01:23:30] BanchoBot: ihateHDmod finished playing (Score: 242080, PASSED).
+[01:23:31] BanchoBot: Astatoru finished playing (Score: 298918, PASSED).
+[01:23:31] BanchoBot: The match has finished!
+[01:23:36] BCraftMG: !mp mods DT NF
+[01:23:36] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[01:23:37] BCraftMG: !mp map 2292493 0
+[01:23:37] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2292493 Soken Masayoshi - Sunrise
+[01:23:37] BanchoBot: Changed match mode to Osu
+[01:24:13] BanchoBot: All players are ready
+[01:24:17] BCraftMG: !mp settings
+[01:24:18] Astatoru: hfhf
+[01:24:18] BanchoBot: Room name: PTSP: (Qualifiers) vs (B5), History: https://osu.ppy.sh/mp/108604646
+[01:24:18] BanchoBot: Beatmap: https://osu.ppy.sh/b/2292493 Soken Masayoshi - Sunrise
+[01:24:18] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:24:18] BanchoBot: Active mods: NoFail, DoubleTime
+[01:24:18] BanchoBot: Players: 2
+[01:24:18] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6192747 Astatoru        
+[01:24:18] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6868602 ihateHDmod      
+[01:24:19] BCraftMG: !mp start 5 glhf
+[01:24:20] BanchoBot: Match starts in 5 seconds
+[01:24:20] BanchoBot: Queued the match to start in 5 seconds
+[01:24:21] BanchoBot: Match starts in 4 seconds
+[01:24:22] BanchoBot: Match starts in 3 seconds
+[01:24:23] BanchoBot: Good luck, have fun!
+[01:24:26] BanchoBot: The match has started!
+[01:27:34] BanchoBot: ihateHDmod finished playing (Score: 233404, PASSED).
+[01:27:34] BanchoBot: Astatoru finished playing (Score: 443913, PASSED).
+[01:27:34] BanchoBot: The match has finished!
+[01:27:40] BCraftMG: !mp mods DT NF
+[01:27:40] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[01:27:41] BCraftMG: !mp map 3363306 0
+[01:27:41] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3363306 Fred V - Already Disappeared
+[01:27:41] BanchoBot: Changed match mode to Osu
+[01:28:30] BanchoBot: All players are ready
+[01:28:32] BCraftMG: !mp settings
+[01:28:34] BanchoBot: Room name: PTSP: (Qualifiers) vs (B5), History: https://osu.ppy.sh/mp/108604646
+[01:28:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/3363306 Fred V - Already Disappeared
+[01:28:34] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:28:34] BanchoBot: Active mods: NoFail, DoubleTime
+[01:28:34] BanchoBot: Players: 2
+[01:28:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6192747 Astatoru        
+[01:28:34] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6868602 ihateHDmod      
+[01:28:36] BCraftMG: !mp start 5 glhf
+[01:28:37] BanchoBot: Match starts in 5 seconds
+[01:28:37] BanchoBot: Queued the match to start in 5 seconds
+[01:28:38] BanchoBot: Match starts in 4 seconds
+[01:28:39] BanchoBot: Match starts in 3 seconds
+[01:28:40] BanchoBot: Good luck, have fun!
+[01:28:41] Astatoru: gl
+[01:28:42] BanchoBot: The match has started!
+[01:31:21] BanchoBot: Astatoru finished playing (Score: 758065, PASSED).
+[01:31:22] BanchoBot: ihateHDmod finished playing (Score: 656646, PASSED).
+[01:31:22] BanchoBot: The match has finished!
+[01:31:28] BCraftMG: !mp mods Freemod NF
+[01:31:28] BanchoBot: Disabled all mods, enabled FreeMod
+[01:31:29] BCraftMG: !mp map 2069969 0
+[01:31:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2069969 Enter Shikari - Rat Race
+[01:31:29] BanchoBot: Changed match mode to Osu
+[01:31:33] BCraftMG: !mp settings
+[01:31:34] BanchoBot: Room name: PTSP: (Qualifiers) vs (B5), History: https://osu.ppy.sh/mp/108604646
+[01:31:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/2069969 Enter Shikari - Rat Race
+[01:31:34] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:31:34] BanchoBot: Active mods: Freemod
+[01:31:34] BanchoBot: Players: 2
+[01:31:34] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/6192747 Astatoru        
+[01:31:34] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/6868602 ihateHDmod      
+[01:32:01] BanchoBot: All players are ready
+[01:32:03] BCraftMG: !mp settings
+[01:32:04] BanchoBot: Room name: PTSP: (Qualifiers) vs (B5), History: https://osu.ppy.sh/mp/108604646
+[01:32:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/2069969 Enter Shikari - Rat Race
+[01:32:04] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:32:04] BanchoBot: Active mods: Freemod
+[01:32:04] BanchoBot: Players: 2
+[01:32:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6192747 Astatoru        [NoFail, Hidden]
+[01:32:04] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6868602 ihateHDmod      [NoFail, HardRock]
+[01:32:07] BCraftMG: !mp start 5 glhf
+[01:32:08] BanchoBot: Match starts in 5 seconds
+[01:32:08] BanchoBot: Queued the match to start in 5 seconds
+[01:32:09] BanchoBot: Match starts in 4 seconds
+[01:32:10] BanchoBot: Match starts in 3 seconds
+[01:32:11] BanchoBot: Good luck, have fun!
+[01:32:14] BanchoBot: The match has started!
+[01:35:39] BanchoBot: ihateHDmod finished playing (Score: 930561, PASSED).
+[01:35:40] BanchoBot: Astatoru finished playing (Score: 929633, PASSED).
+[01:35:40] BanchoBot: The match has finished!
+[01:35:46] BCraftMG: !mp mods Freemod NF
+[01:35:46] BanchoBot: Disabled all mods, enabled FreeMod
+[01:35:47] BCraftMG: !mp map 905724 0
+[01:35:47] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/905724 senya - Kimiiro Subliminal
+[01:35:47] BanchoBot: Changed match mode to Osu
+[01:36:35] BanchoBot: All players are ready
+[01:36:38] BCraftMG: !mp settings
+[01:36:38] BanchoBot: Room name: PTSP: (Qualifiers) vs (B5), History: https://osu.ppy.sh/mp/108604646
+[01:36:38] BanchoBot: Beatmap: https://osu.ppy.sh/b/905724 senya - Kimiiro Subliminal
+[01:36:38] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:36:38] BanchoBot: Active mods: Freemod
+[01:36:38] BanchoBot: Players: 2
+[01:36:38] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6192747 Astatoru        [NoFail, Hidden]
+[01:36:38] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6868602 ihateHDmod      [NoFail, HardRock]
+[01:36:40] BCraftMG: !mp start 5 glhf
+[01:36:40] BanchoBot: Match starts in 5 seconds
+[01:36:40] BanchoBot: Queued the match to start in 5 seconds
+[01:36:41] Astatoru: hfhf
+[01:36:41] BanchoBot: Match starts in 4 seconds
+[01:36:43] BanchoBot: Match starts in 3 seconds
+[01:36:44] BanchoBot: Good luck, have fun!
+[01:36:46] BanchoBot: The match has started!
+[01:40:56] BanchoBot: ihateHDmod finished playing (Score: 407632, PASSED).
+[01:40:57] BanchoBot: Astatoru finished playing (Score: 364024, PASSED).
+[01:40:57] BanchoBot: The match has finished!
+[01:40:59] BCraftMG: !mp map 2415770
+[01:40:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2415770 Hino Isuka - Moonheart (Mameyudoufu Remix)
+[01:41:04] BCraftMG: !mp mods NF EZ
+[01:41:05] BanchoBot: Enabled NoFail, Easy, disabled FreeMod
+[01:41:18] Astatoru: suffering.
+[01:41:50] BanchoBot: All players are ready
+[01:41:55] BCraftMG: !mp settings
+[01:41:56] BanchoBot: Room name: PTSP: (Qualifiers) vs (B5), History: https://osu.ppy.sh/mp/108604646
+[01:41:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/2415770 Hino Isuka - Moonheart (Mameyudoufu Remix)
+[01:41:56] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:41:56] BanchoBot: Active mods: NoFail, Easy
+[01:41:56] BanchoBot: Players: 2
+[01:41:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6192747 Astatoru        
+[01:41:56] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6868602 ihateHDmod      
+[01:41:58] BCraftMG: understandable
+[01:41:59] BCraftMG: !mp start 5 glhf
+[01:42:00] BanchoBot: Match starts in 5 seconds
+[01:42:00] BanchoBot: Queued the match to start in 5 seconds
+[01:42:01] BanchoBot: Match starts in 4 seconds
+[01:42:02] BanchoBot: Match starts in 3 seconds
+[01:42:03] BanchoBot: Good luck, have fun!
+[01:42:05] Astatoru: hf i guess
+[01:42:05] BanchoBot: The match has started!
+[01:45:08] BanchoBot: Astatoru finished playing (Score: 13618, PASSED).
+[01:45:08] BanchoBot: ihateHDmod finished playing (Score: 9116, PASSED).
+[01:45:08] BanchoBot: The match has finished!
+[01:45:10] BCraftMG: !mp map 1618998
+[01:45:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1618998 dark cat - BUBBLE TEA (feat. juu & cinders)
+[01:45:16] BCraftMG: !mp mods NF FL
+[01:45:16] BanchoBot: Enabled NoFail, Flashlight, disabled FreeMod
+[01:45:47] BanchoBot: All players are ready
+[01:45:51] Astatoru: hfhf
+[01:45:51] BCraftMG: !mp settings
+[01:45:52] BanchoBot: Room name: PTSP: (Qualifiers) vs (B5), History: https://osu.ppy.sh/mp/108604646
+[01:45:52] BanchoBot: Beatmap: https://osu.ppy.sh/b/1618998 dark cat - BUBBLE TEA (feat. juu & cinders)
+[01:45:52] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:45:52] BanchoBot: Active mods: NoFail, Flashlight
+[01:45:52] BanchoBot: Players: 2
+[01:45:52] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6192747 Astatoru        
+[01:45:52] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6868602 ihateHDmod      
+[01:45:52] BCraftMG: !mp start 5 glhf
+[01:45:53] BanchoBot: Match starts in 5 seconds
+[01:45:53] BanchoBot: Queued the match to start in 5 seconds
+[01:45:54] BanchoBot: Match starts in 4 seconds
+[01:45:55] BanchoBot: Match starts in 3 seconds
+[01:45:56] BanchoBot: Good luck, have fun!
+[01:45:58] BanchoBot: The match has started!
+[01:48:25] BanchoBot: ihateHDmod finished playing (Score: 236331, PASSED).
+[01:48:27] BanchoBot: Astatoru finished playing (Score: 428427, PASSED).
+[01:48:27] BanchoBot: The match has finished!
+[01:48:33] BCraftMG: ggwp
+[01:48:36] Astatoru: ggs
+[01:48:38] ihateHDmod: gg
+[01:48:42] Astatoru: thanks for the ref!!
+[01:48:44] BanchoBot: ihateHDmod left the game.
+[01:48:47] BanchoBot: Astatoru left the game.
+[01:49:00] BCraftMG: !mp close
+[01:49:01] BanchoBot: Closed the match

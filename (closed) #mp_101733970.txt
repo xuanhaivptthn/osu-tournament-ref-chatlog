@@ -1,0 +1,554 @@
+[20:50:25] Joined #mp_101733970
+[20:50:25] BCraftMG: !mp settings
+[20:50:27] BanchoBot: Room name: SOSF: (Qualifiers) vs (Q8), History: https://osu.ppy.sh/mp/101733970
+[20:50:27] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[20:50:27] BanchoBot: Players: 0
+[20:51:56] Join channel /join {channel}, /j {channel}, /msg {channel}, /chat {channel}, /query {channel}
+[20:51:56] Leave channel /leave, /part, /p
+[20:51:56] Clear channel /clear
+[20:51:56] Send action /me {msg}
+[20:51:56] Save logs /savelog, /save, /log
+[20:51:56]  -----
+[20:51:56] MP set cheat sheet !mp set {teammode} [{scoremode} {size}]
+[20:51:56] teammode 0: Head To Head, 1: Tag Coop, 2: Team Vs, 3: Tag Team Vs
+[20:51:56] scoremode 0: Score, 1: Accuracy, 2: Combo, 3: Score V2
+[20:52:09] BCraftMG: !mp set 0 3 8
+[20:52:11] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[20:52:22] BCraftMG: !mp invite #17557099
+[20:52:22] BanchoBot: Invited tgame to the room
+[20:52:26] BCraftMG: !mp invite #9315355
+[20:52:27] BanchoBot: Invited SkroutzRekd to the room
+[20:52:29] BanchoBot: tgame joined in slot 1.
+[20:52:30] BCraftMG: !mp invite #5470299
+[20:52:32] BanchoBot: tgame left the game.
+[20:52:32] BanchoBot: Invited -TwiHD to the room
+[20:52:33] BCraftMG: o/
+[20:52:39] BanchoBot: tgame joined in slot 1.
+[20:52:48] BCraftMG: !mp map 2335100 0
+[20:52:50] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2335100 AliA - utopia
+[20:52:50] BanchoBot: Changed match mode to Osu
+[20:52:52] BCraftMG: !mp mods 1
+[20:52:52] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:52:57] BCraftMG: !mp settings
+[20:52:57] BanchoBot: Room name: SOSF: (Qualifiers) vs (Q8), History: https://osu.ppy.sh/mp/101733970
+[20:52:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/2335100 AliA - utopia
+[20:52:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:52:57] BanchoBot: Active mods: NoFail
+[20:52:57] BanchoBot: Players: 1
+[20:52:57] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/17557099 tgame           
+[20:53:25] BanchoBot: dovekichi joined in slot 2.
+[20:53:32] BanchoBot: tgame left the game.
+[20:53:34] BanchoBot: dovekichi moved to slot 1
+[20:54:22] BanchoBot: -TwiHD joined in slot 2.
+[20:54:25] BanchoBot: -TwiHD moved to slot 6
+[20:54:27] dovekichi: o/
+[20:54:32] -TwiHD: o/
+[20:54:32] BCraftMG: o//
+[20:54:34] BanchoBot: BlankTap joined in slot 2.
+[20:54:36] BanchoBot: BlankTap moved to slot 3
+[20:54:38] BlankTap: \o
+[20:54:48] dovekichi: \o
+[20:55:18] BanchoBot: Bunan- joined in slot 2.
+[20:55:52] BanchoBot: BlankTap left the game.
+[20:55:57] BanchoBot: -TwiHD moved to slot 4
+[20:55:57] BanchoBot: -TwiHD moved to slot 3
+[20:56:57] BCraftMG: owo
+[20:57:34] BanchoBot: dovekichi moved to slot 5
+[20:57:45] BanchoBot: -TwiHD moved to slot 1
+[20:57:56] BanchoBot: dovekichi moved to slot 8
+[20:57:59] -TwiHD: dash team
+[20:57:59] BanchoBot: tgame joined in slot 3.
+[20:58:08] BanchoBot: tgame moved to slot 7
+[20:58:13] BanchoBot: dovekichi moved to slot 5
+[20:58:22] -TwiHD: waiting for 1 more team right?
+[20:58:22] BCraftMG: !mp invite #9315355
+[20:58:24] -TwiHD: BCraftMG
+[20:58:26] BCraftMG: yes
+[20:58:26] BanchoBot: Invited SkroutzRekd to the room
+[20:58:30] BCraftMG: !mp invite #9315355
+[20:58:31] BanchoBot: Invited SkroutzRekd to the room
+[20:58:43] BanchoBot: ginrou0803 joined in slot 3.
+[20:58:47] BanchoBot: tgame left the game.
+[20:58:49] BCraftMG: bancho took the inv
+[20:58:54] BanchoBot: SkroutzRekd joined in slot 4.
+[20:58:56] BanchoBot: ginrou0803 moved to slot 8
+[20:59:00] BCraftMG: yayy
+[20:59:12] BanchoBot: NakanoAzusa joined in slot 3.
+[20:59:21] SkroutzRekd: pogchampu
+[20:59:41] BCraftMG: poggu
+[20:59:43] BCraftMG: please ready up
+[20:59:46] BCraftMG: !mp settings
+[20:59:47] BanchoBot: ginrou0803 moved to slot 6
+[20:59:47] BanchoBot: Room name: SOSF: (Qualifiers) vs (Q8), History: https://osu.ppy.sh/mp/101733970
+[20:59:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/2335100 AliA - utopia
+[20:59:47] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:59:47] BanchoBot: Active mods: NoFail
+[20:59:47] BanchoBot: Players: 6
+[20:59:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/5470299 -TwiHD          
+[20:59:47] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/2763354 Bunan-          
+[20:59:47] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/8552735 NakanoAzusa     
+[20:59:47] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9315355 SkroutzRekd     
+[20:59:47] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4177361 dovekichi       
+[20:59:47] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/2379533 ginrou0803      
+[20:59:51] -TwiHD: glhF
+[20:59:54] Bunan-: hfhf
+[20:59:54] dovekichi: glhf
+[21:00:03] BanchoBot: All players are ready
+[21:00:03] SkroutzRekd: glgl
+[21:00:07] BCraftMG: !mp settings
+[21:00:07] NakanoAzusa: glhf
+[21:00:07] ginrou0803: gl
+[21:00:09] BCraftMG: !mp start 10
+[21:00:10] BanchoBot: Room name: SOSF: (Qualifiers) vs (Q8), History: https://osu.ppy.sh/mp/101733970
+[21:00:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/2335100 AliA - utopia
+[21:00:10] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:00:10] BanchoBot: Active mods: NoFail
+[21:00:10] BanchoBot: Players: 6
+[21:00:10] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/5470299 -TwiHD          
+[21:00:10] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/2763354 Bunan-          
+[21:00:10] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8552735 NakanoAzusa     
+[21:00:10] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9315355 SkroutzRekd     
+[21:00:10] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4177361 dovekichi       
+[21:00:10] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/2379533 ginrou0803      
+[21:00:12] BanchoBot: Match starts in 10 seconds
+[21:00:12] BanchoBot: Queued the match to start in 10 seconds
+[21:00:19] BanchoBot: Match starts in 5 seconds
+[21:00:19] BanchoBot: Match starts in 4 seconds
+[21:00:21] BanchoBot: Match starts in 3 seconds
+[21:00:21] BanchoBot: Good luck, have fun!
+[21:00:23] BanchoBot: The match has started!
+[21:04:53] BanchoBot: SkroutzRekd finished playing (Score: 479830, PASSED).
+[21:04:55] BanchoBot: dovekichi finished playing (Score: 585908, PASSED).
+[21:04:55] BanchoBot: ginrou0803 finished playing (Score: 607203, PASSED).
+[21:04:55] BanchoBot: NakanoAzusa finished playing (Score: 913976, PASSED).
+[21:04:55] BanchoBot: -TwiHD finished playing (Score: 792345, PASSED).
+[21:04:55] BanchoBot: Bunan- finished playing (Score: 432930, PASSED).
+[21:04:55] BanchoBot: The match has finished!
+[21:05:05] BanchoBot: BlankTap joined in slot 7.
+[21:05:21] BanchoBot: -TwiHD moved to slot 8
+[21:05:22] BCraftMG: !mp map 2905806 0
+[21:05:23] BanchoBot: NakanoAzusa moved to slot 1
+[21:05:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2905806 ke-ji feat. Nanahira - Ange du Blanc Pur
+[21:05:23] BanchoBot: Changed match mode to Osu
+[21:05:28] BanchoBot: BlankTap moved to slot 3
+[21:05:32] BanchoBot: -TwiHD left the game.
+[21:05:49] BCraftMG: !mp timer 120
+[21:05:51] BanchoBot: Countdown ends in 2 minutes
+[21:06:18] NakanoAzusa: glhf
+[21:06:18] BanchoBot: All players are ready
+[21:06:21] BCraftMG: !mp settings
+[21:06:23] BlankTap: Glhf!
+[21:06:23] BanchoBot: Room name: SOSF: (Qualifiers) vs (Q8), History: https://osu.ppy.sh/mp/101733970
+[21:06:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/2905806 ke-ji feat. Nanahira - Ange du Blanc Pur
+[21:06:23] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:06:23] BanchoBot: Active mods: NoFail
+[21:06:23] BanchoBot: Players: 6
+[21:06:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8552735 NakanoAzusa     
+[21:06:23] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/2763354 Bunan-          
+[21:06:23] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10137131 BlankTap        
+[21:06:23] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9315355 SkroutzRekd     
+[21:06:23] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4177361 dovekichi       
+[21:06:23] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/2379533 ginrou0803      
+[21:06:25] BCraftMG: !mp start 10
+[21:06:28] ginrou0803: gl
+[21:06:28] BanchoBot: Countdown aborted
+[21:06:28] BanchoBot: Match starts in 10 seconds
+[21:06:28] BanchoBot: Queued the match to start in 10 seconds
+[21:06:32] SkroutzRekd: gl
+[21:06:35] BanchoBot: Match starts in 5 seconds
+[21:06:35] BanchoBot: Match starts in 4 seconds
+[21:06:35] BanchoBot: Match starts in 3 seconds
+[21:06:37] BanchoBot: Good luck, have fun!
+[21:06:40] BanchoBot: The match has started!
+[21:10:28] BanchoBot: NakanoAzusa finished playing (Score: 457400, PASSED).
+[21:10:28] BanchoBot: ginrou0803 finished playing (Score: 317948, PASSED).
+[21:10:28] BanchoBot: BlankTap finished playing (Score: 457968, PASSED).
+[21:10:28] BanchoBot: SkroutzRekd finished playing (Score: 587796, PASSED).
+[21:10:31] BanchoBot: Bunan- finished playing (Score: 902520, PASSED).
+[21:10:31] BanchoBot: dovekichi finished playing (Score: 384128, PASSED).
+[21:10:31] BanchoBot: The match has finished!
+[21:10:33] BCraftMG: !mp map 2692632 0
+[21:10:35] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2692632 THE BINARY mido - Ego mo Id mo Tanjun ni
+[21:10:35] BanchoBot: Changed match mode to Osu
+[21:10:40] BanchoBot: -TwiHD joined in slot 7.
+[21:10:41] BCraftMG: !mp timer 120
+[21:10:42] BanchoBot: -TwiHD moved to slot 8
+[21:10:42] BanchoBot: Countdown ends in 2 minutes
+[21:10:49] BanchoBot: Bunan- left the game.
+[21:10:53] BanchoBot: -TwiHD moved to slot 2
+[21:11:16] -TwiHD: glHF
+[21:11:21] SkroutzRekd: gl
+[21:11:21] ginrou0803: glgl
+[21:11:26] dovekichi: glhf
+[21:11:26] BanchoBot: All players are ready
+[21:11:27] BCraftMG: !mp settings
+[21:11:28] BlankTap: Glhf!
+[21:11:28] BanchoBot: Room name: SOSF: (Qualifiers) vs (Q8), History: https://osu.ppy.sh/mp/101733970
+[21:11:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/2692632 THE BINARY mido - Ego mo Id mo Tanjun ni
+[21:11:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:11:28] BanchoBot: Active mods: NoFail
+[21:11:28] BanchoBot: Players: 6
+[21:11:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8552735 NakanoAzusa     
+[21:11:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5470299 -TwiHD          
+[21:11:28] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10137131 BlankTap        
+[21:11:28] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9315355 SkroutzRekd     
+[21:11:28] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4177361 dovekichi       
+[21:11:28] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/2379533 ginrou0803      
+[21:11:30] BCraftMG: !mp start 10
+[21:11:33] NakanoAzusa: glhf
+[21:11:33] BanchoBot: Countdown aborted
+[21:11:33] BanchoBot: Match starts in 10 seconds
+[21:11:33] BanchoBot: Queued the match to start in 10 seconds
+[21:11:39] BanchoBot: Match starts in 5 seconds
+[21:11:39] BanchoBot: Match starts in 4 seconds
+[21:11:42] BanchoBot: Match starts in 3 seconds
+[21:11:42] BanchoBot: Good luck, have fun!
+[21:11:44] BanchoBot: The match has started!
+[21:15:56] BanchoBot: -TwiHD finished playing (Score: 622580, PASSED).
+[21:15:56] BanchoBot: SkroutzRekd finished playing (Score: 447387, PASSED).
+[21:15:56] BanchoBot: NakanoAzusa finished playing (Score: 168544, PASSED).
+[21:15:56] BanchoBot: dovekichi finished playing (Score: 378560, PASSED).
+[21:15:56] BanchoBot: BlankTap finished playing (Score: 659434, PASSED).
+[21:15:56] BanchoBot: ginrou0803 finished playing (Score: 453319, PASSED).
+[21:15:56] BanchoBot: The match has finished!
+[21:16:19] BCraftMG: !mp map 2973666 0
+[21:16:22] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2973666 BEMANI Sound Team "Expander" - STOIC HYPOTHESIS
+[21:16:22] BanchoBot: Changed match mode to Osu
+[21:16:23] BCraftMG: !mp timer 120
+[21:16:24] BanchoBot: Countdown ends in 2 minutes
+[21:16:47] -TwiHD: glHF
+[21:16:49] SkroutzRekd: gl
+[21:16:49] BanchoBot: All players are ready
+[21:16:50] BCraftMG: !mp settings
+[21:16:51] BlankTap: Glhf!
+[21:16:51] BanchoBot: Room name: SOSF: (Qualifiers) vs (Q8), History: https://osu.ppy.sh/mp/101733970
+[21:16:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/2973666 BEMANI Sound Team "Expander" - STOIC HYPOTHESIS
+[21:16:51] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:16:51] BanchoBot: Active mods: NoFail
+[21:16:51] BanchoBot: Players: 6
+[21:16:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8552735 NakanoAzusa     
+[21:16:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5470299 -TwiHD          
+[21:16:51] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10137131 BlankTap        
+[21:16:51] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9315355 SkroutzRekd     
+[21:16:51] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4177361 dovekichi       
+[21:16:51] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/2379533 ginrou0803      
+[21:16:52] BCraftMG: !mp start 10
+[21:16:54] ginrou0803: glhf
+[21:16:54] dovekichi: glhf
+[21:16:54] BanchoBot: Countdown aborted
+[21:16:54] BanchoBot: Match starts in 10 seconds
+[21:16:54] BanchoBot: Queued the match to start in 10 seconds
+[21:17:01] BanchoBot: Match starts in 5 seconds
+[21:17:01] BanchoBot: Match starts in 4 seconds
+[21:17:03] BanchoBot: Match starts in 3 seconds
+[21:17:03] BanchoBot: Good luck, have fun!
+[21:17:05] BanchoBot: The match has started!
+[21:19:12] BanchoBot: -TwiHD finished playing (Score: 272496, PASSED).
+[21:19:12] BanchoBot: BlankTap finished playing (Score: 388203, PASSED).
+[21:19:14] BanchoBot: dovekichi finished playing (Score: 399856, PASSED).
+[21:19:14] BanchoBot: ginrou0803 finished playing (Score: 193562, PASSED).
+[21:19:14] BanchoBot: NakanoAzusa finished playing (Score: 117939, PASSED).
+[21:19:14] BanchoBot: SkroutzRekd finished playing (Score: 357663, PASSED).
+[21:19:14] BanchoBot: The match has finished!
+[21:19:16] BCraftMG: !mp map 3168337 0
+[21:19:18] BCraftMG: !mp mods 9
+[21:19:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3168337 HiTECH NINJA - Memecore
+[21:19:19] BanchoBot: Changed match mode to Osu
+[21:19:20] BCraftMG: !mp timer 120
+[21:19:21] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:19:23] BanchoBot: Countdown ends in 2 minutes
+[21:19:56] -TwiHD: glhf
+[21:20:07] BanchoBot: All players are ready
+[21:20:07] BanchoBot: All players are ready
+[21:20:12] ginrou0803: glgl
+[21:20:12] SkroutzRekd: GL
+[21:20:14] BCraftMG: !mp settings
+[21:20:15] BanchoBot: Room name: SOSF: (Qualifiers) vs (Q8), History: https://osu.ppy.sh/mp/101733970
+[21:20:15] BanchoBot: Beatmap: https://osu.ppy.sh/b/3168337 HiTECH NINJA - Memecore
+[21:20:15] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:20:15] BanchoBot: Active mods: NoFail, Hidden
+[21:20:15] BanchoBot: Players: 6
+[21:20:15] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8552735 NakanoAzusa     
+[21:20:15] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5470299 -TwiHD          
+[21:20:15] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10137131 BlankTap        
+[21:20:15] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9315355 SkroutzRekd     
+[21:20:15] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4177361 dovekichi       
+[21:20:15] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/2379533 ginrou0803      
+[21:20:16] BCraftMG: !mp start 10
+[21:20:17] dovekichi: glhf
+[21:20:17] BanchoBot: Countdown aborted
+[21:20:17] BanchoBot: Match starts in 10 seconds
+[21:20:17] BanchoBot: Queued the match to start in 10 seconds
+[21:20:22] NakanoAzusa: glhf
+[21:20:24] BlankTap: Glhf!
+[21:20:24] BanchoBot: Match starts in 5 seconds
+[21:20:24] BanchoBot: Match starts in 4 seconds
+[21:20:26] BanchoBot: Match starts in 3 seconds
+[21:20:26] BanchoBot: Good luck, have fun!
+[21:20:28] BanchoBot: The match has started!
+[21:23:15] BanchoBot: NakanoAzusa finished playing (Score: 101303, PASSED).
+[21:23:17] BanchoBot: -TwiHD finished playing (Score: 489786, PASSED).
+[21:23:17] BanchoBot: BlankTap finished playing (Score: 435684, PASSED).
+[21:23:17] BanchoBot: ginrou0803 finished playing (Score: 387349, PASSED).
+[21:23:17] BanchoBot: dovekichi finished playing (Score: 302474, PASSED).
+[21:23:17] BanchoBot: SkroutzRekd finished playing (Score: 290214, PASSED).
+[21:23:17] BanchoBot: The match has finished!
+[21:23:21] BCraftMG: !mp map 2405667 0
+[21:23:22] BanchoBot: Bunan- joined in slot 7.
+[21:23:22] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2405667 raito - Blood Drain -Again-
+[21:23:22] BanchoBot: Changed match mode to Osu
+[21:23:25] BCraftMG: !mp timer 120
+[21:23:27] BanchoBot: Countdown ends in 2 minutes
+[21:23:38] BanchoBot: BlankTap left the game.
+[21:23:43] BanchoBot: Bunan- moved to slot 3
+[21:24:14] BanchoBot: All players are ready
+[21:24:14] -TwiHD: glhf
+[21:24:18] dovekichi: glhf
+[21:24:21] ginrou0803: glgl
+[21:24:23] SkroutzRekd: gl
+[21:24:23] Bunan-: hfhf
+[21:24:25] BCraftMG: !mp settings
+[21:24:28] NakanoAzusa: glhf
+[21:24:28] BanchoBot: Countdown ends in 1 minute
+[21:24:28] BanchoBot: Room name: SOSF: (Qualifiers) vs (Q8), History: https://osu.ppy.sh/mp/101733970
+[21:24:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/2405667 raito - Blood Drain -Again-
+[21:24:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:24:28] BanchoBot: Active mods: NoFail, Hidden
+[21:24:28] BanchoBot: Players: 6
+[21:24:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8552735 NakanoAzusa     
+[21:24:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5470299 -TwiHD          
+[21:24:28] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/2763354 Bunan-          
+[21:24:28] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9315355 SkroutzRekd     
+[21:24:28] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4177361 dovekichi       
+[21:24:28] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/2379533 ginrou0803      
+[21:24:29] BCraftMG: !mp start 10
+[21:24:30] BanchoBot: Countdown aborted
+[21:24:30] BanchoBot: Match starts in 10 seconds
+[21:24:30] BanchoBot: Queued the match to start in 10 seconds
+[21:24:37] BanchoBot: Match starts in 5 seconds
+[21:24:37] BanchoBot: Match starts in 4 seconds
+[21:24:39] BanchoBot: Match starts in 3 seconds
+[21:24:39] BanchoBot: Good luck, have fun!
+[21:24:41] BanchoBot: The match has started!
+[21:28:30] BanchoBot: ginrou0803 finished playing (Score: 501753, PASSED).
+[21:28:30] BanchoBot: dovekichi finished playing (Score: 700229, PASSED).
+[21:28:30] BanchoBot: -TwiHD finished playing (Score: 852939, PASSED).
+[21:28:30] BanchoBot: NakanoAzusa finished playing (Score: 50853, PASSED).
+[21:28:32] BanchoBot: Bunan- finished playing (Score: 561381, PASSED).
+[21:28:34] BanchoBot: SkroutzRekd finished playing (Score: 216522, PASSED).
+[21:28:34] BanchoBot: The match has finished!
+[21:28:36] BCraftMG: !mp map 1176958 0
+[21:28:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1176958 Toromaru - Enigma
+[21:28:39] BanchoBot: Changed match mode to Osu
+[21:28:39] BCraftMG: !mp mods 17
+[21:28:40] BCraftMG: !mp timer 120
+[21:28:41] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[21:28:43] BanchoBot: Countdown ends in 2 minutes
+[21:28:53] BanchoBot: -TwiHD moved to slot 8
+[21:28:55] BanchoBot: ginrou0803 left the game.
+[21:29:00] BanchoBot: tgame joined in slot 2.
+[21:29:02] BanchoBot: BlankTap joined in slot 6.
+[21:29:09] BanchoBot: BlankTap left the game.
+[21:29:11] BanchoBot: tgame moved to slot 6
+[21:29:32] BanchoBot: BlankTap joined in slot 2.
+[21:29:35] BanchoBot: -TwiHD left the game.
+[21:29:44] BanchoBot: Countdown ends in 1 minute
+[21:29:53] BanchoBot: All players are ready
+[21:29:57] BCraftMG: !mp settings
+[21:29:58] BanchoBot: Room name: SOSF: (Qualifiers) vs (Q8), History: https://osu.ppy.sh/mp/101733970
+[21:29:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/1176958 Toromaru - Enigma
+[21:29:58] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:29:58] BanchoBot: Active mods: NoFail, HardRock
+[21:29:58] BanchoBot: Players: 6
+[21:29:58] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8552735 NakanoAzusa     
+[21:29:58] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10137131 BlankTap        
+[21:29:58] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/2763354 Bunan-          
+[21:29:58] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9315355 SkroutzRekd     
+[21:29:58] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4177361 dovekichi       
+[21:29:58] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/17557099 tgame           
+[21:30:01] BCraftMG: !mp start 10
+[21:30:03] BlankTap: Glhf!
+[21:30:03] BanchoBot: Countdown aborted
+[21:30:03] BanchoBot: Match starts in 10 seconds
+[21:30:03] BanchoBot: Queued the match to start in 10 seconds
+[21:30:05] SkroutzRekd: gl
+[21:30:10] BanchoBot: Match starts in 5 seconds
+[21:30:10] NakanoAzusa: glhf
+[21:30:10] BanchoBot: Match starts in 4 seconds
+[21:30:12] BanchoBot: Match starts in 3 seconds
+[21:30:12] tgame: gl
+[21:30:12] BanchoBot: Good luck, have fun!
+[21:30:14] BanchoBot: The match has started!
+[21:32:18] BanchoBot: SkroutzRekd finished playing (Score: 432952, PASSED).
+[21:32:18] BanchoBot: Bunan- finished playing (Score: 392788, PASSED).
+[21:32:18] BanchoBot: BlankTap finished playing (Score: 394706, PASSED).
+[21:32:20] BanchoBot: dovekichi finished playing (Score: 635213, PASSED).
+[21:32:20] BanchoBot: NakanoAzusa finished playing (Score: 206940, PASSED).
+[21:32:20] BanchoBot: tgame finished playing (Score: 224710, PASSED).
+[21:32:20] BanchoBot: The match has finished!
+[21:32:23] BCraftMG: !mp map 2202224 0
+[21:32:25] BCraftMG: !mp timer 120
+[21:32:25] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2202224 nana(Sevencolors) - chameleon
+[21:32:25] BanchoBot: Changed match mode to Osu
+[21:32:27] BanchoBot: Countdown ends in 2 minutes
+[21:33:07] BanchoBot: ginrou0803 joined in slot 7.
+[21:33:09] BanchoBot: dovekichi left the game.
+[21:33:28] BanchoBot: Countdown ends in 1 minute
+[21:33:35] BanchoBot: All players are ready
+[21:33:40] BCraftMG: !mp settings
+[21:33:41] BanchoBot: Room name: SOSF: (Qualifiers) vs (Q8), History: https://osu.ppy.sh/mp/101733970
+[21:33:41] BanchoBot: Beatmap: https://osu.ppy.sh/b/2202224 nana(Sevencolors) - chameleon
+[21:33:41] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:33:41] BanchoBot: Active mods: NoFail, HardRock
+[21:33:41] BanchoBot: Players: 6
+[21:33:41] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8552735 NakanoAzusa     
+[21:33:41] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10137131 BlankTap        
+[21:33:41] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/2763354 Bunan-          
+[21:33:41] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9315355 SkroutzRekd     
+[21:33:41] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/17557099 tgame           
+[21:33:41] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/2379533 ginrou0803      
+[21:33:45] BCraftMG: !mp start 10
+[21:33:47] ginrou0803: glgl
+[21:33:47] BanchoBot: Countdown aborted
+[21:33:47] BanchoBot: Match starts in 10 seconds
+[21:33:47] BanchoBot: Queued the match to start in 10 seconds
+[21:33:49] BlankTap: Glhf!
+[21:33:51] NakanoAzusa: glhf
+[21:33:54] BanchoBot: Match starts in 5 seconds
+[21:33:54] BanchoBot: Match starts in 4 seconds
+[21:33:56] BanchoBot: Match starts in 3 seconds
+[21:33:56] tgame: glgl
+[21:33:56] BanchoBot: Good luck, have fun!
+[21:33:58] BanchoBot: The match has started!
+[21:37:19] BanchoBot: dovekichi joined in slot 5.
+[21:37:21] BanchoBot: NakanoAzusa finished playing (Score: 359416, PASSED).
+[21:37:21] BanchoBot: SkroutzRekd finished playing (Score: 524369, PASSED).
+[21:37:21] BanchoBot: Bunan- finished playing (Score: 576308, PASSED).
+[21:37:21] BanchoBot: BlankTap finished playing (Score: 450413, PASSED).
+[21:37:21] BanchoBot: ginrou0803 finished playing (Score: 571117, PASSED).
+[21:37:23] BanchoBot: tgame finished playing (Score: 454803, PASSED).
+[21:37:23] BanchoBot: The match has finished!
+[21:37:27] BCraftMG: !mp map 2750914 0
+[21:37:28] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2750914 Yousei Teikoku - Paradiso=Inferno
+[21:37:28] BanchoBot: Changed match mode to Osu
+[21:37:29] BCraftMG: !mp mods 65
+[21:37:30] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:37:32] BCraftMG: !mp timer 120
+[21:37:35] BanchoBot: Countdown ends in 2 minutes
+[21:37:40] BanchoBot: -TwiHD joined in slot 8.
+[21:37:44] BCraftMG: 2 more :widepeepohappy:
+[21:37:54] BanchoBot: ginrou0803 left the game.
+[21:37:56] BanchoBot: BlankTap left the game.
+[21:37:59] BanchoBot: -TwiHD moved to slot 2
+[21:38:03] SkroutzRekd: fingers go brrr
+[21:38:36] Bunan-: my first time seeing this map
+[21:38:36] BanchoBot: Countdown ends in 1 minute
+[21:38:43] -TwiHD: I agree!
+[21:38:45] BanchoBot: All players are ready
+[21:38:48] -TwiHD: glhf
+[21:38:48] NakanoAzusa: glhf
+[21:38:48] tgame: glkgl
+[21:38:53] BCraftMG: is it in the pool
+[21:38:56] BCraftMG: :tf:
+[21:38:57] dovekichi: glhf
+[21:38:58] BCraftMG: !mp settings
+[21:38:59] BanchoBot: Room name: SOSF: (Qualifiers) vs (Q8), History: https://osu.ppy.sh/mp/101733970
+[21:38:59] BanchoBot: Beatmap: https://osu.ppy.sh/b/2750914 Yousei Teikoku - Paradiso=Inferno
+[21:38:59] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:38:59] BanchoBot: Active mods: NoFail, DoubleTime
+[21:38:59] BanchoBot: Players: 6
+[21:38:59] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8552735 NakanoAzusa     
+[21:38:59] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5470299 -TwiHD          
+[21:38:59] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/2763354 Bunan-          
+[21:38:59] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9315355 SkroutzRekd     
+[21:38:59] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4177361 dovekichi       
+[21:38:59] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/17557099 tgame           
+[21:39:02] SkroutzRekd: XD
+[21:39:03] BCraftMG: !mp start 10
+[21:39:04] BanchoBot: Countdown aborted
+[21:39:04] BanchoBot: Match starts in 10 seconds
+[21:39:04] BanchoBot: Queued the match to start in 10 seconds
+[21:39:08] BCraftMG: dont scare me like that
+[21:39:11] BanchoBot: Match starts in 5 seconds
+[21:39:11] -TwiHD: :froggy:
+[21:39:11] BanchoBot: Match starts in 4 seconds
+[21:39:11] SkroutzRekd: gl
+[21:39:13] BanchoBot: Match starts in 3 seconds
+[21:39:13] BanchoBot: Good luck, have fun!
+[21:39:15] BanchoBot: The match has started!
+[21:41:42] BanchoBot: tgame finished playing (Score: 230946, PASSED).
+[21:41:42] BanchoBot: -TwiHD finished playing (Score: 391230, PASSED).
+[21:41:42] BanchoBot: SkroutzRekd finished playing (Score: 230308, PASSED).
+[21:41:44] BanchoBot: Bunan- finished playing (Score: 274876, PASSED).
+[21:41:44] BanchoBot: dovekichi finished playing (Score: 659643, PASSED).
+[21:41:45] BanchoBot: NakanoAzusa finished playing (Score: 148461, PASSED).
+[21:41:45] BanchoBot: The match has finished!
+[21:41:48] BCraftMG: !mp map 1694417 0
+[21:41:49] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1694417 UNISON SQUARE GARDEN - Sugar Song to Bitter Step
+[21:41:49] BanchoBot: Changed match mode to Osu
+[21:41:51] BCraftMG: !mp timer 120
+[21:41:54] BanchoBot: Countdown ends in 2 minutes
+[21:41:56] BanchoBot: Bunan- left the game.
+[21:42:20] BanchoBot: BlankTap joined in slot 3.
+[21:42:54] BanchoBot: All players are ready
+[21:42:54] BanchoBot: Countdown ends in 1 minute
+[21:42:59] BCraftMG: !mp settings
+[21:42:59] -TwiHD: glhf
+[21:42:59] SkroutzRekd: GL
+[21:43:01] BlankTap: Glhf!
+[21:43:01] dovekichi: glhf
+[21:43:01] BanchoBot: Room name: SOSF: (Qualifiers) vs (Q8), History: https://osu.ppy.sh/mp/101733970
+[21:43:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/1694417 UNISON SQUARE GARDEN - Sugar Song to Bitter Step
+[21:43:01] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:43:01] BanchoBot: Active mods: NoFail, DoubleTime
+[21:43:01] BanchoBot: Players: 6
+[21:43:01] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8552735 NakanoAzusa     
+[21:43:01] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5470299 -TwiHD          
+[21:43:01] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10137131 BlankTap        
+[21:43:01] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9315355 SkroutzRekd     
+[21:43:01] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4177361 dovekichi       
+[21:43:01] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/17557099 tgame           
+[21:43:03] BCraftMG: !mp start 10
+[21:43:04] NakanoAzusa: glhf
+[21:43:04] BanchoBot: Countdown aborted
+[21:43:04] BanchoBot: Match starts in 10 seconds
+[21:43:04] BanchoBot: Queued the match to start in 10 seconds
+[21:43:06] BCraftMG: GL <3
+[21:43:11] BanchoBot: Match starts in 5 seconds
+[21:43:11] BanchoBot: Match starts in 4 seconds
+[21:43:13] BanchoBot: Match starts in 3 seconds
+[21:43:13] BanchoBot: Good luck, have fun!
+[21:43:16] BanchoBot: The match has started!
+[21:46:09] BanchoBot: BlankTap finished playing (Score: 294660, PASSED).
+[21:46:11] BanchoBot: NakanoAzusa finished playing (Score: 90695, PASSED).
+[21:46:11] BanchoBot: dovekichi finished playing (Score: 359887, PASSED).
+[21:46:11] BanchoBot: SkroutzRekd finished playing (Score: 308516, PASSED).
+[21:46:11] BanchoBot: tgame finished playing (Score: 119141, PASSED).
+[21:46:11] BanchoBot: -TwiHD finished playing (Score: 364119, PASSED).
+[21:46:11] BanchoBot: The match has finished!
+[21:46:21] BCraftMG: ggwp :3
+[21:46:25] -TwiHD: ggs
+[21:46:28] NakanoAzusa: ggwp
+[21:46:28] -TwiHD: ty for the ref
+[21:46:28] dovekichi: ggs
+[21:46:30] BanchoBot: -TwiHD left the game.
+[21:46:30] SkroutzRekd: gg!
+[21:46:30] BanchoBot: tgame left the game.
+[21:46:32] BlankTap: Thank you for the lobby and the ref
+[21:46:32] NakanoAzusa: ty for the ref
+[21:46:32] BCraftMG: o//
+[21:46:35] SkroutzRekd: ty for ref
+[21:46:35] BlankTap: 0/!
+[21:46:35] BanchoBot: BlankTap left the game.
+[21:46:35] BanchoBot: SkroutzRekd left the game.
+[21:46:35] BanchoBot: NakanoAzusa left the game.
+[21:46:37] dovekichi: ty ref!
+[21:46:37] BanchoBot: dovekichi left the game.
+[21:46:42] BCraftMG: !mp settings
+[21:46:44] BanchoBot: Room name: SOSF: (Qualifiers) vs (Q8), History: https://osu.ppy.sh/mp/101733970
+[21:46:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/1694417 UNISON SQUARE GARDEN - Sugar Song to Bitter Step
+[21:46:44] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:46:44] BanchoBot: Active mods: NoFail, DoubleTime
+[21:46:44] BanchoBot: Players: 0
+[21:46:46] BCraftMG: !mp close
+[21:46:48] BanchoBot: Closed the match

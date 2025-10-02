@@ -1,0 +1,362 @@
+[19:55:21] Joined #mp_106222373
+[19:55:21] DaddyStage: !mp settings
+[19:55:22] BanchoBot: Room name: 1v1 pt 2: (SIay) vs (WinterCambing), History: https://osu.ppy.sh/mp/106222373
+[19:55:22] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[19:55:22] BanchoBot: Players: 0
+[19:55:41] DaddyStage: !Mp set 2 3 3
+[19:55:42] BanchoBot: Changed match settings to 3 slots, TeamVs, ScoreV2
+[19:55:44] DaddyStage: !mp invite Siay
+[19:55:45] BanchoBot: Invited SIay to the room
+[19:55:50] DaddyStage: !mp invite Wintercambing
+[19:55:51] BanchoBot: Invited WinterCambing to the room
+[19:56:16] BanchoBot: SIay joined in slot 1 for team blue.
+[19:57:00] DaddyStage: ola
+[19:57:07] SIay: ola
+[19:57:11] DaddyStage: !mp team siay red
+[19:57:12] BanchoBot: SIay changed to Red
+[19:57:12] BanchoBot: Moved SIay to team Red
+[19:57:59] DaddyStage: giai nay co warm up khong z
+[19:58:02] DaddyStage: !mp host siay
+[19:58:02] BanchoBot: SIay became the host.
+[19:58:02] BanchoBot: Changed match host to SIay
+[19:58:05] BanchoBot: Beatmap changed to: Tu Tu Wan - Wo Yao Jin Ke La [Pata-Mon's Insane] (https://osu.ppy.sh/b/3539612)
+[19:58:09] SIay: idk
+[19:58:13] SIay: t skip warmup
+[19:58:22] DaddyStage: aight
+[19:58:31] DaddyStage: !mp invite #11028687
+[19:58:32] BanchoBot: Invited WinterCambing to the room
+[20:02:25] DaddyStage: !mp invite #11028687
+[20:02:25] BanchoBot: Invited WinterCambing to the room
+[20:02:29] BanchoBot: WinterCambing joined in slot 2 for team red.
+[20:02:45] DaddyStage: doi team koi
+[20:02:53] SIay: có warmup ko winter
+[20:03:04] WinterCambing: nah
+[20:03:14] WinterCambing: warm up nay giờ rồi
+[20:03:15] SIay: ok clear host đi ref
+[20:03:27] DaddyStage: !mp clearhost
+[20:03:27] BanchoBot: Cleared match host
+[20:03:29] DaddyStage: aight
+[20:03:39] DaddyStage: !mp team WinterCambing blue
+[20:03:40] BanchoBot: WinterCambing changed to Blue
+[20:03:40] BanchoBot: Moved WinterCambing to team Blue
+[20:03:41] DaddyStage: roll
+[20:03:47] SIay: !roll
+[20:03:47] BanchoBot: SIay rolls 18 point(s)
+[20:03:48] WinterCambing: !roll
+[20:03:48] BanchoBot: WinterCambing rolls 72 point(s)
+[20:03:58] DaddyStage: Winner chooses pick/ban order, 1st pick = 2nd ban
+[20:04:00] WinterCambing: hmm
+[20:04:01] DaddyStage: neu sai blame saku
+[20:04:41] WinterCambing: pick NM1, ban NM6
+[20:04:52] DaddyStage: oat fak
+[20:04:56] SIay: wut
+[20:05:03] WinterCambing: hmm?
+[20:05:39] DaddyStage: 2 ng roll chọn thứ tự pick/ban xong đến ban xong mới đến pick mà ba
+[20:05:40] DaddyStage: tf
+[20:06:05] WinterCambing: à, xin lôi nhiều
+[20:06:42] WinterCambing: thế là tôi pick đầu phải ko?
+[20:06:56] DaddyStage: ông thắng roll nên ông chọn pick trước hoặc sau
+[20:07:15] WinterCambing: thế tôi pick sau
+[20:07:23] DaddyStage: aight ban trước
+[20:07:30] DaddyStage: ban luôn nm6 nhé
+[20:07:37] WinterCambing: ok
+[20:07:49] SIay: ban hd1
+[20:08:12] DaddyStage: wintercambing 2nd ban
+[20:08:30] WinterCambing: HR2
+[20:08:47] SIay: ban nm3
+[20:09:05] DaddyStage: SIay | 0 - 0 | WinterCambing // First Pick: SIay
+[20:09:05] DaddyStage: !mp timer 120
+[20:09:07] BanchoBot: Countdown ends in 2 minutes
+[20:09:17] SIay: hr1
+[20:09:40] DaddyStage: !mp map 507728 0
+[20:09:41] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/507728 Natsume Chiaki - Hanairo Biyori
+[20:09:41] BanchoBot: Changed match mode to Osu
+[20:09:42] DaddyStage: !mp mods 17
+[20:09:42] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[20:09:42] DaddyStage: !mp timer 120
+[20:09:43] BanchoBot: Countdown aborted
+[20:09:43] BanchoBot: Countdown ends in 2 minutes
+[20:09:56] BanchoBot: All players are ready
+[20:10:07] DaddyStage: !mp settings
+[20:10:09] BanchoBot: Room name: 1v1 pt 2: (SIay) vs (WinterCambing), History: https://osu.ppy.sh/mp/106222373
+[20:10:09] BanchoBot: Beatmap: https://osu.ppy.sh/b/507728 Natsume Chiaki - Hanairo Biyori
+[20:10:09] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:10:09] BanchoBot: Active mods: NoFail, HardRock
+[20:10:09] BanchoBot: Players: 2
+[20:10:09] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9587896 SIay            [Team Red ]
+[20:10:09] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11028687 WinterCambing   [Team Blue]
+[20:10:09] DaddyStage: !mp start 5 glhf
+[20:10:10] BanchoBot: Countdown aborted
+[20:10:10] BanchoBot: Match starts in 5 seconds
+[20:10:10] BanchoBot: Queued the match to start in 5 seconds
+[20:10:11] BanchoBot: Match starts in 4 seconds
+[20:10:12] BanchoBot: Match starts in 3 seconds
+[20:10:13] BanchoBot: Good luck, have fun!
+[20:10:15] BanchoBot: The match has started!
+[20:13:25] BanchoBot: SIay finished playing (Score: 941245, PASSED).
+[20:13:25] BanchoBot: WinterCambing finished playing (Score: 174479, PASSED).
+[20:13:25] BanchoBot: The match has finished!
+[20:13:38] WinterCambing: ko co HD choi nhu nguoi mu
+[20:13:53] DaddyStage: SIay | 1 - 0 | WinterCambing // Next Pick: WinterCambing
+[20:13:53] DaddyStage: !mp timer 120
+[20:13:55] BanchoBot: Countdown ends in 2 minutes
+[20:14:02] SIay: t thì hd như người mù
+[20:14:06] WinterCambing: HD2
+[20:14:10] WinterCambing: :yep:
+[20:14:11] DaddyStage: 2 nguoi mu choi voi nhau
+[20:14:19] DaddyStage: !mp map 72470 0
+[20:14:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/72470 Nico Nico Douga - Owens
+[20:14:19] BanchoBot: Changed match mode to Osu
+[20:14:21] DaddyStage: !mp mods 9
+[20:14:22] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[20:14:22] DaddyStage: !mp timer 120
+[20:14:23] BanchoBot: Countdown aborted
+[20:14:23] BanchoBot: Countdown ends in 2 minutes
+[20:14:24] DaddyStage: hop ly
+[20:14:27] SIay: man i'm dead
+[20:14:31] WinterCambing: wtf
+[20:14:46] BanchoBot: All players are ready
+[20:14:53] WinterCambing: bruh practice nham map
+[20:14:59] BanchoBot: All players are ready
+[20:15:06] WinterCambing: toang cmnr
+[20:15:17] SIay: ko
+[20:15:19] DaddyStage: !mp settings
+[20:15:20] SIay: t toang mới đúng
+[20:15:20] BanchoBot: Room name: 1v1 pt 2: (SIay) vs (WinterCambing), History: https://osu.ppy.sh/mp/106222373
+[20:15:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/72470 Nico Nico Douga - Owens
+[20:15:20] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:15:20] BanchoBot: Active mods: NoFail, Hidden
+[20:15:20] BanchoBot: Players: 2
+[20:15:20] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9587896 SIay            [Team Red ]
+[20:15:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11028687 WinterCambing   [Team Blue]
+[20:15:21] DaddyStage: !mp start 5 glhf
+[20:15:21] BanchoBot: Countdown aborted
+[20:15:21] BanchoBot: Match starts in 5 seconds
+[20:15:21] BanchoBot: Queued the match to start in 5 seconds
+[20:15:22] BanchoBot: Match starts in 4 seconds
+[20:15:23] BanchoBot: Match starts in 3 seconds
+[20:15:24] BanchoBot: Good luck, have fun!
+[20:15:27] BanchoBot: The match has started!
+[20:17:18] BanchoBot: WinterCambing finished playing (Score: 779572, PASSED).
+[20:17:19] BanchoBot: SIay finished playing (Score: 197237, PASSED).
+[20:17:19] BanchoBot: The match has finished!
+[20:17:32] WinterCambing: holy crap
+[20:17:39] DaddyStage: SIay | 1 - 1 | WinterCambing // Next Pick: SIay
+[20:17:40] DaddyStage: !mp timer 120
+[20:17:41] BanchoBot: Countdown ends in 2 minutes
+[20:17:47] SIay: dt2
+[20:17:54] DaddyStage: !mp map 3034527 0
+[20:17:54] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3034527 BPM15Q - Go Shoot!
+[20:17:54] BanchoBot: Changed match mode to Osu
+[20:17:56] DaddyStage: !mp mods 65
+[20:17:57] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[20:18:41] BanchoBot: Countdown ends in 1 minute
+[20:18:57] BanchoBot: All players are ready
+[20:19:00] DaddyStage: !mp settings
+[20:19:01] BanchoBot: Room name: 1v1 pt 2: (SIay) vs (WinterCambing), History: https://osu.ppy.sh/mp/106222373
+[20:19:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/3034527 BPM15Q - Go Shoot!
+[20:19:01] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:19:01] BanchoBot: Active mods: NoFail, DoubleTime
+[20:19:01] BanchoBot: Players: 2
+[20:19:01] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9587896 SIay            [Team Red ]
+[20:19:01] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11028687 WinterCambing   [Team Blue]
+[20:19:01] DaddyStage: !mp start 5 glhf
+[20:19:02] BanchoBot: Countdown aborted
+[20:19:02] BanchoBot: Match starts in 5 seconds
+[20:19:02] BanchoBot: Queued the match to start in 5 seconds
+[20:19:03] BanchoBot: Match starts in 4 seconds
+[20:19:04] BanchoBot: Match starts in 3 seconds
+[20:19:05] BanchoBot: Good luck, have fun!
+[20:19:07] BanchoBot: The match has started!
+[20:22:05] BanchoBot: WinterCambing finished playing (Score: 188913, PASSED).
+[20:22:06] BanchoBot: SIay finished playing (Score: 416609, PASSED).
+[20:22:06] BanchoBot: The match has finished!
+[20:22:28] DaddyStage: SIay | 2 - 1 | WinterCambing // Next Pick: WinterCambing
+[20:22:30] DaddyStage: !mp timer 120
+[20:22:31] BanchoBot: Countdown ends in 2 minutes
+[20:22:39] WinterCambing: Fm2
+[20:22:51] DaddyStage: !mp map 41946 0
+[20:22:52] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/41946 Cle - Broken Moon Remix
+[20:22:52] BanchoBot: Changed match mode to Osu
+[20:22:54] DaddyStage: !mp mods Freemod
+[20:22:55] BanchoBot: Disabled all mods, enabled FreeMod
+[20:23:11] BanchoBot: All players are ready
+[20:23:23] DaddyStage: !mp settings
+[20:23:23] BanchoBot: Room name: 1v1 pt 2: (SIay) vs (WinterCambing), History: https://osu.ppy.sh/mp/106222373
+[20:23:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/41946 Cle - Broken Moon Remix
+[20:23:23] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:23:23] BanchoBot: Active mods: Freemod
+[20:23:23] BanchoBot: Players: 2
+[20:23:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9587896 SIay            [Team Red  / NoFail, HardRock]
+[20:23:23] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11028687 WinterCambing   [Team Blue / Hidden]
+[20:23:27] DaddyStage: nf where
+[20:23:31] BanchoBot: Countdown ends in 1 minute
+[20:23:38] BanchoBot: All players are ready
+[20:23:39] DaddyStage: !mp settings
+[20:23:39] BanchoBot: Room name: 1v1 pt 2: (SIay) vs (WinterCambing), History: https://osu.ppy.sh/mp/106222373
+[20:23:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/41946 Cle - Broken Moon Remix
+[20:23:39] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:23:39] BanchoBot: Active mods: Freemod
+[20:23:39] BanchoBot: Players: 2
+[20:23:39] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9587896 SIay            [Team Red  / NoFail, HardRock]
+[20:23:39] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11028687 WinterCambing   [Team Blue / NoFail, Hidden]
+[20:23:42] DaddyStage: !mp start 5 glhf
+[20:23:42] BanchoBot: Countdown aborted
+[20:23:42] BanchoBot: Match starts in 5 seconds
+[20:23:42] BanchoBot: Queued the match to start in 5 seconds
+[20:23:44] BanchoBot: Match starts in 4 seconds
+[20:23:45] BanchoBot: Match starts in 3 seconds
+[20:23:46] BanchoBot: Good luck, have fun!
+[20:23:48] BanchoBot: The match has started!
+[20:26:12] BanchoBot: SIay finished playing (Score: 461836, PASSED).
+[20:26:13] BanchoBot: WinterCambing finished playing (Score: 368497, PASSED).
+[20:26:13] BanchoBot: The match has finished!
+[20:26:23] WinterCambing: rip
+[20:26:38] DaddyStage: SIay | 3 - 1 | WinterCambing // Next Pick: SIay
+[20:26:41] DaddyStage: !mp timer 120
+[20:26:41] BanchoBot: Countdown ends in 2 minutes
+[20:26:53] SIay: fm1
+[20:27:04] DaddyStage: !mp map 3215003 0
+[20:27:04] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3215003 SEBii - do u care, if i stare?
+[20:27:04] BanchoBot: Changed match mode to Osu
+[20:27:07] DaddyStage: chac la
+[20:27:10] DaddyStage: khong can doi mod dau nhi
+[20:27:11] BanchoBot: All players are ready
+[20:27:14] DaddyStage: !mp settings
+[20:27:15] BanchoBot: Room name: 1v1 pt 2: (SIay) vs (WinterCambing), History: https://osu.ppy.sh/mp/106222373
+[20:27:15] BanchoBot: Beatmap: https://osu.ppy.sh/b/3215003 SEBii - do u care, if i stare?
+[20:27:15] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:27:15] BanchoBot: Active mods: Freemod
+[20:27:15] BanchoBot: Players: 2
+[20:27:15] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9587896 SIay            [Team Red  / NoFail, HardRock]
+[20:27:15] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11028687 WinterCambing   [Team Blue / NoFail, Hidden]
+[20:27:18] DaddyStage: !mp start 5 glhf
+[20:27:18] BanchoBot: Countdown aborted
+[20:27:18] BanchoBot: Match starts in 5 seconds
+[20:27:18] BanchoBot: Queued the match to start in 5 seconds
+[20:27:19] BanchoBot: Match starts in 4 seconds
+[20:27:20] BanchoBot: Match starts in 3 seconds
+[20:27:21] BanchoBot: Good luck, have fun!
+[20:27:24] BanchoBot: The match has started!
+[20:29:38] BanchoBot: WinterCambing finished playing (Score: 376073, PASSED).
+[20:29:39] BanchoBot: SIay finished playing (Score: 719134, PASSED).
+[20:29:39] BanchoBot: The match has finished!
+[20:29:57] DaddyStage: SIay | 4 - 1 | WinterCambing // Next Pick: WinterCambing
+[20:30:00] DaddyStage: !mp timer 120
+[20:30:00] BanchoBot: Countdown ends in 2 minutes
+[20:30:07] WinterCambing: nm3
+[20:30:23] DaddyStage: !mp map 2663017 0
+[20:30:24] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2663017 EmoCo. - This Club is Not 4 U
+[20:30:24] BanchoBot: Changed match mode to Osu
+[20:30:25] DaddyStage: !mp mods 1
+[20:30:25] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:30:26] DaddyStage: !mp timer 120
+[20:30:28] BanchoBot: Countdown aborted
+[20:30:28] BanchoBot: Countdown ends in 2 minutes
+[20:30:30] SIay: wut
+[20:30:31] SIay: ban r mà
+[20:30:45] DaddyStage: chet ngay cai toi referee copy id o sheet khac
+[20:30:50] DaddyStage: nm3 ban r
+[20:31:07] WinterCambing: oops
+[20:31:12] DaddyStage: @WinterCambing pick lai thx
+[20:31:25] WinterCambing: uhh nm5
+[20:31:29] BanchoBot: Countdown ends in 1 minute
+[20:31:38] DaddyStage: !mp map 2839573 0
+[20:31:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2839573 Whispered - Exile of the Floating World
+[20:31:39] BanchoBot: Changed match mode to Osu
+[20:31:41] DaddyStage: !mp mods 1
+[20:31:43] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:31:58] BanchoBot: Countdown ends in 30 seconds
+[20:32:00] WinterCambing: wtf tai roi ma
+[20:32:19] BanchoBot: Countdown ends in 10 seconds
+[20:32:23] BanchoBot: Countdown ends in 5 seconds
+[20:32:24] BanchoBot: Countdown ends in 4 seconds
+[20:32:25] BanchoBot: Countdown ends in 3 seconds
+[20:32:27] BanchoBot: Countdown ends in 2 seconds
+[20:32:27] BanchoBot: Countdown ends in 1 second
+[20:32:28] BanchoBot: Countdown finished
+[20:32:43] DaddyStage: bip
+[20:32:51] WinterCambing: bruh
+[20:32:57] DaddyStage: !mp settings
+[20:32:57] BanchoBot: Room name: 1v1 pt 2: (SIay) vs (WinterCambing), History: https://osu.ppy.sh/mp/106222373
+[20:32:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/2839573 Whispered - Exile of the Floating World
+[20:32:57] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:32:57] BanchoBot: Active mods: NoFail
+[20:32:57] BanchoBot: Players: 2
+[20:32:57] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/9587896 SIay            [Team Red ]
+[20:32:57] BanchoBot: Slot 2  No Map    https://osu.ppy.sh/u/11028687 WinterCambing   [Team Blue]
+[20:32:58] WinterCambing: vnpt issue
+[20:33:30] DaddyStage: đừng đổ tội cho vnpt nữa trân trọng cảm ơn
+[20:33:33] DaddyStage: https://api.chimu.moe/v1/download/769346?n=1
+[20:33:36] DaddyStage: https://api.nerinyan.moe/d/769346?nv=1
+[20:33:39] DaddyStage: https://dl.sayobot.cn/beatmaps/download/novideo/769346
+[20:33:42] DaddyStage: https://beatconnect.io/b/769346
+[20:34:10] WinterCambing: nvm, disk full
+[20:34:48] WinterCambing: cho toi xin loi nhieu
+[20:34:58] SIay: ko sao
+[20:35:48] BanchoBot: All players are ready
+[20:35:55] DaddyStage: !mp settings
+[20:35:56] BanchoBot: Room name: 1v1 pt 2: (SIay) vs (WinterCambing), History: https://osu.ppy.sh/mp/106222373
+[20:35:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/2839573 Whispered - Exile of the Floating World
+[20:35:56] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:35:56] BanchoBot: Active mods: NoFail
+[20:35:56] BanchoBot: Players: 2
+[20:35:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9587896 SIay            [Team Red ]
+[20:35:56] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11028687 WinterCambing   [Team Blue]
+[20:35:58] DaddyStage: !mp start 5 glhf
+[20:35:59] BanchoBot: Match starts in 5 seconds
+[20:35:59] BanchoBot: Queued the match to start in 5 seconds
+[20:36:01] BanchoBot: Match starts in 4 seconds
+[20:36:01] BanchoBot: Match starts in 3 seconds
+[20:36:02] BanchoBot: Good luck, have fun!
+[20:36:04] BanchoBot: The match has started!
+[20:40:21] BanchoBot: SIay finished playing (Score: 138169, PASSED).
+[20:40:22] BanchoBot: WinterCambing finished playing (Score: 228153, PASSED).
+[20:40:22] BanchoBot: The match has finished!
+[20:41:06] DaddyStage: SIay | 4 - 2 | WinterCambing // Next Pick: SIay
+[20:41:07] DaddyStage: !mp timer 120
+[20:41:07] BanchoBot: Countdown ends in 2 minutes
+[20:41:11] SIay: dt3
+[20:41:35] DaddyStage: !mp map 2801137 0
+[20:41:35] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2801137 Garoad - Every Day is Night
+[20:41:35] BanchoBot: Changed match mode to Osu
+[20:41:38] DaddyStage: !mp mods 65
+[20:41:39] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[20:41:39] DaddyStage: !mp timer 120
+[20:41:40] BanchoBot: Countdown aborted
+[20:41:40] BanchoBot: Countdown ends in 2 minutes
+[20:41:45] BanchoBot: All players are ready
+[20:41:49] DaddyStage: !mp settings
+[20:41:51] BanchoBot: Room name: 1v1 pt 2: (SIay) vs (WinterCambing), History: https://osu.ppy.sh/mp/106222373
+[20:41:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/2801137 Garoad - Every Day is Night
+[20:41:51] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:41:51] BanchoBot: Active mods: NoFail, DoubleTime
+[20:41:51] BanchoBot: Players: 2
+[20:41:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9587896 SIay            [Team Red ]
+[20:41:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11028687 WinterCambing   [Team Blue]
+[20:41:53] DaddyStage: !mp start 5 glhf
+[20:41:54] BanchoBot: Countdown aborted
+[20:41:54] BanchoBot: Match starts in 5 seconds
+[20:41:54] BanchoBot: Queued the match to start in 5 seconds
+[20:41:55] BanchoBot: Match starts in 4 seconds
+[20:41:56] BanchoBot: Match starts in 3 seconds
+[20:41:58] BanchoBot: Good luck, have fun!
+[20:42:00] BanchoBot: The match has started!
+[20:44:35] BanchoBot: WinterCambing finished playing (Score: 31886, PASSED).
+[20:44:36] BanchoBot: SIay finished playing (Score: 494252, PASSED).
+[20:44:36] BanchoBot: The match has finished!
+[20:44:46] WinterCambing: ggwp
+[20:44:48] SIay: ggwp
+[20:44:49] DaddyStage: ggwp
+[20:44:54] SIay: tks for ref
+[20:45:05] SIay: bye
+[20:45:10] SIay: giờ t chuẩn bị trận sau
+[20:45:15] BanchoBot: SIay left the game.
+[20:45:17] WinterCambing: đc đánh với anh là 1 niềm vui lớn :3
+[20:45:21] WinterCambing: oh
+[20:45:22] WinterCambing: sadge
+[20:45:23] WinterCambing: cya
+[20:45:24] DaddyStage: xd
+[20:45:27] BanchoBot: WinterCambing left the game.
+[20:45:28] DaddyStage: !mp close
+[20:45:29] BanchoBot: Closed the match

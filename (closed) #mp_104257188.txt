@@ -1,0 +1,812 @@
+[21:22:31] Joined #mp_104257188
+[21:22:31] BCraftMG: !mp settings
+[21:22:33] BanchoBot: Room name: THT3: (To The Cosmic) vs (Cafe Đá), History: https://osu.ppy.sh/mp/104257188
+[21:22:33] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[21:22:33] BanchoBot: Players: 0
+[21:22:44] BCraftMG: !mp set 0 3 8
+[21:22:44] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[21:22:54] BCraftMG: !mp addref listrefs
+[21:22:55] BanchoBot: User not found: listrefs
+[21:22:59] BCraftMG: !mp addref Satxri
+[21:23:01] BanchoBot: Added Satxri to the match referees
+[21:23:03] BCraftMG: !mp listrefs
+[21:23:04] BanchoBot: Match referees:
+[21:23:04] BanchoBot: Satxri
+[21:23:04] BanchoBot: BCraftMG
+[21:25:31] BCraftMG: !mp invite #7696512
+[21:25:32] BanchoBot: Invited Hoaq to the room
+[21:25:34] BCraftMG: !mp invite #6790404
+[21:25:34] BanchoBot: Invited MyAimGenoKiller to the room
+[21:25:36] BCraftMG: !mp invite #9740299
+[21:25:36] BanchoBot: Invited -Mayui- to the room
+[21:25:38] BCraftMG: !mp invite #13004516
+[21:25:39] BanchoBot: Invited Hanamaru_ to the room
+[21:25:40] BCraftMG: !mp invite #11976076
+[21:25:41] BanchoBot: Invited aquasimp to the room
+[21:25:42] BCraftMG: !mp invite #12683342
+[21:25:43] BanchoBot: Invited Cimpher to the room
+[21:25:49] BanchoBot: aquasimp joined in slot 1.
+[21:25:54] BanchoBot: -Mayui- joined in slot 2.
+[21:26:10] BCraftMG: !mp settings
+[21:26:11] BanchoBot: Room name: THT3: (To The Cosmic) vs (Cafe Đá), History: https://osu.ppy.sh/mp/104257188
+[21:26:11] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:26:11] BanchoBot: Players: 2
+[21:26:11] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/11976076 aquasimp        
+[21:26:11] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/9740299 -Mayui-         
+[21:26:16] BCraftMG: !mp set 2 3 8
+[21:26:17] BanchoBot: Changed match settings to 8 slots, TeamVs, ScoreV2
+[21:26:26] aquasimp: hello
+[21:26:33] BCraftMG: hi
+[21:26:41] BanchoBot: Cimpher joined in slot 3 for team blue.
+[21:26:51] BCraftMG: !mp settings
+[21:26:54] BanchoBot: Room name: THT3: (To The Cosmic) vs (Cafe Đá), History: https://osu.ppy.sh/mp/104257188
+[21:26:54] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:26:54] BanchoBot: Players: 3
+[21:26:54] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/11976076 aquasimp        [Team Blue]
+[21:26:54] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/9740299 -Mayui-         [Team Red ]
+[21:26:54] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/12683342 Cimpher         [Team Blue]
+[21:27:08] BanchoBot: aquasimp moved to slot 4
+[21:27:08] BanchoBot: aquasimp moved to slot 5
+[21:27:10] BanchoBot: Hanamaru_ joined in slot 1 for team blue.
+[21:27:12] BCraftMG: To The Cosmic team Red 1-3
+[21:27:12] BanchoBot: aquasimp moved to slot 4
+[21:27:14] BanchoBot: Cimpher moved to slot 6
+[21:27:14] BanchoBot: Hoaq joined in slot 3 for team blue.
+[21:27:18] BanchoBot: Hanamaru_ moved to slot 5
+[21:27:19] BanchoBot: Hoaq moved to slot 1
+[21:27:21] BCraftMG: Cafe Đá team Blue 4-6
+[21:27:22] BCraftMG: xincamon
+[21:27:25] BanchoBot: Hoaq changed to Red
+[21:27:34] Hoaq: tai sao toi k co inv
+[21:27:38] Hoaq: -rep ref
+[21:27:40] aquasimp: sure bozo
+[21:27:51] BCraftMG: -rep bancho
+[21:27:57] Hoaq: where the geno at
+[21:28:30] Hanamaru_: beo biet gi ko anh
+[21:28:52] BanchoBot: MyAimGenoKiller joined in slot 3 for team blue.
+[21:29:02] BanchoBot: MyAimGenoKiller changed to Red
+[21:29:03] Hoaq: beo' ?
+[21:29:04] BCraftMG: https://cdn.discordapp.com/attachments/852976601268224030/1027588290427244626/unknown.png
+[21:29:05] MyAimGenoKiller: o/
+[21:29:09] aquasimp: i'd like to offer 50 pi netwok token
+[21:29:13] Hanamaru_: beo
+[21:29:16] Hanamaru_: beo beo beo
+[21:29:20] MyAimGenoKiller: !roll 728
+[21:29:20] BanchoBot: MyAimGenoKiller rolls 690 point(s)
+[21:29:27] Hoaq: ua the la khong cho warmup trong lobby a
+[21:29:29] Hoaq: chan the
+[21:29:31] Hoaq: vnoc con cho ma
+[21:29:38] BCraftMG: @host
+[21:29:42] -Mayui-: o/
+[21:29:43] BCraftMG: :3c
+[21:29:47] BCraftMG: xin chao
+[21:29:55] Cimpher: xin chao mayonaise
+[21:30:03] BCraftMG: Giờ mời captain 2 team roll
+[21:30:10] Cimpher: !roll
+[21:30:10] BanchoBot: Cimpher rolls 11 point(s)
+[21:30:15] MyAimGenoKiller: bruh
+[21:30:18] Hanamaru_: =))))
+[21:30:23] aquasimp: rip bozo
+[21:30:24] Hoaq: duoc warmup nhe
+[21:30:29] BCraftMG: ua
+[21:30:31] Hoaq: from satxri
+[21:30:40] Hoaq: len stream ping satxri
+[21:30:40] Hoaq: trust
+[21:30:40] BCraftMG: !mp host Hoaq
+[21:30:41] Hoaq: !roll
+[21:30:41] BanchoBot: Hoaq rolls 74 point(s)
+[21:30:41] BanchoBot: Hoaq became the host.
+[21:30:41] BanchoBot: Changed match host to Hoaq
+[21:30:43] BanchoBot: Beatmap changed to: Tartarate - It's Rainy To Bye (ft. Hoshimachi Suisei) [WILL THIN] (https://osu.ppy.sh/b/3699577)
+[21:30:49] BanchoBot: Host is changing map...
+[21:31:02] BanchoBot: Beatmap changed to: Tokoyami Towa - -ERROR [AR 9.5] (https://osu.ppy.sh/b/3755585)
+[21:31:04] BanchoBot: Host is changing map...
+[21:31:12] BanchoBot: Beatmap changed to: t+pazolite (HARDCORE TANO*C) feat. TANO*C ALL STARS - Hardcore Syndrome [RAVING /w OVNC OFFLINE 2022] (https://osu.ppy.sh/b/3740946)
+[21:31:21] MyAimGenoKiller: haiyaa
+[21:31:22] MyAimGenoKiller: lai mo
+[21:31:22] MyAimGenoKiller: moi
+[21:31:26] Hoaq: ehe
+[21:31:30] MyAimGenoKiller: kekw
+[21:31:46] -Mayui-: mo freemod coi
+[21:31:48] Hanamaru_: OMG
+[21:32:25] Hanamaru_: OMG
+[21:32:37] BCraftMG: !mp settings
+[21:32:38] BanchoBot: Room name: THT3: (To The Cosmic) vs (Cafe Đá), History: https://osu.ppy.sh/mp/104257188
+[21:32:38] BanchoBot: Beatmap: https://osu.ppy.sh/b/3740946 t+pazolite (HARDCORE TANO*C) feat. TANO*C ALL STARS - Hardcore Syndrome [RAVING /w OVNC OFFLINE 2022]
+[21:32:38] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:32:38] BanchoBot: Active mods: Freemod
+[21:32:38] BanchoBot: Players: 6
+[21:32:38] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/7696512 Hoaq            [Host / Team Red  / NoFail]
+[21:32:38] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9740299 -Mayui-         [Team Red  / NoFail]
+[21:32:38] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/6790404 MyAimGenoKiller [Team Red  / NoFail]
+[21:32:38] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/11976076 aquasimp        [Team Blue]
+[21:32:38] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/13004516 Hanamaru_       [Team Blue / NoFail]
+[21:32:38] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/12683342 Cimpher         [Team Blue / NoFail]
+[21:32:47] Hoaq: stream tai map xong chua
+[21:32:57] aquasimp: modCHeck
+[21:33:03] BanchoBot: All players are ready
+[21:33:05] MyAimGenoKiller: modCHeck
+[21:33:06] BanchoBot: The match has started!
+[21:35:48] BanchoBot: MyAimGenoKiller finished playing (Score: 123730, PASSED).
+[21:35:48] BanchoBot: -Mayui- finished playing (Score: 92608, PASSED).
+[21:35:48] BanchoBot: aquasimp finished playing (Score: 103786, PASSED).
+[21:35:50] BanchoBot: Hanamaru_ finished playing (Score: 54466, PASSED).
+[21:35:50] BanchoBot: Hoaq finished playing (Score: 127359, PASSED).
+[21:35:50] BanchoBot: Cimpher finished playing (Score: 37687, PASSED).
+[21:35:50] BanchoBot: The match has finished!
+[21:36:06] Hanamaru_: #dmhoaq
+[21:36:10] aquasimp: #nomoremaimai
+[21:36:19] Hanamaru_: #onlyogenki
+[21:36:32] BCraftMG: monka
+[21:36:36] Hoaq: the
+[21:36:39] BCraftMG: Cimpher pick warm up ko anh
+[21:36:40] Hoaq: #chunithm when
+[21:36:42] MyAimGenoKiller: #MVNCwhen
+[21:36:42] aquasimp: hello mr Hoaq
+[21:36:44] BanchoBot: aquasimp became the host.
+[21:36:45] Cimpher: co
+[21:36:45] aquasimp: pls share host
+[21:36:49] BanchoBot: Host is changing map...
+[21:37:02] BanchoBot: Beatmap changed to: t+pazolite (HARDCORE TANO*C) feat. TANO*C ALL STARS - Hardcore Syndrome [RAVING /w OVNC OFFLINE 2022] (https://osu.ppy.sh/b/3740946)
+[21:37:04] BanchoBot: Cimpher became the host.
+[21:37:06] BanchoBot: Host is changing map...
+[21:37:28] BanchoBot: Beatmap changed to: Akira Complex - Ether Strike ('Divine Mercy' Extended) [1E 1048.1-5937] (https://osu.ppy.sh/b/2462239)
+[21:37:43] Hanamaru_: ?
+[21:38:27] Hoaq: #stopGameA
+[21:38:29] -Mayui-: i got INSIDE
+[21:38:38] aquasimp: ambatonat
+[21:38:40] BanchoBot: All players are ready
+[21:38:42] Hanamaru_: when
+[21:38:44] MyAimGenoKiller: golf
+[21:38:50] MyAimGenoKiller: when
+[21:38:50] -Mayui-: gl
+[21:39:16] BCraftMG: !mp settings
+[21:39:18] BanchoBot: Room name: THT3: (To The Cosmic) vs (Cafe Đá), History: https://osu.ppy.sh/mp/104257188
+[21:39:18] BanchoBot: Beatmap: https://osu.ppy.sh/b/2462239 Akira Complex - Ether Strike ('Divine Mercy' Extended) [1E 1048.1-5937]
+[21:39:18] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:39:18] BanchoBot: Active mods: Freemod
+[21:39:18] BanchoBot: Players: 6
+[21:39:18] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7696512 Hoaq            [Team Red  / NoFail]
+[21:39:18] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9740299 -Mayui-         [Team Red  / NoFail]
+[21:39:18] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6790404 MyAimGenoKiller [Team Red  / NoFail]
+[21:39:18] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11976076 aquasimp        [Team Blue / NoFail]
+[21:39:18] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13004516 Hanamaru_       [Team Blue / NoFail]
+[21:39:18] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12683342 Cimpher         [Host / Team Blue / NoFail]
+[21:39:23] Hoaq: golf
+[21:39:41] BCraftMG: <3mins warm up
+[21:39:45] BCraftMG: :skull:
+[21:39:49] Hoaq: thua
+[21:39:51] MyAimGenoKiller: leggo
+[21:39:51] -Mayui-: pha luat
+[21:39:51] Hoaq: 4p di
+[21:39:51] Cimpher: hoi cham
+[21:39:53] -Mayui-: hu ce
+[21:39:53] Hoaq: k sao dau
+[21:39:53] MyAimGenoKiller: :skull:
+[21:39:55] Hoaq: pha luat
+[21:39:56] BanchoBot: Host is changing map...
+[21:40:04] -Mayui-: troi oi
+[21:40:04] BanchoBot: Beatmap changed to: Ookuni Kanon - Flame Seal of 135 Seconds [Suffering] (https://osu.ppy.sh/b/3768495)
+[21:40:06] -Mayui-: i got INSIDE
+[21:40:09] -Mayui-: vailo
+[21:40:09] -Mayui-: z
+[21:40:19] aquasimp: #nomoremaimai
+[21:40:19] Hoaq: =))))
+[21:40:19] aquasimp: ffs
+[21:40:28] Hoaq: MOT TRAM BA MUOI LAM GIAY
+[21:40:30] BCraftMG: !mp settings
+[21:40:32] BanchoBot: Room name: THT3: (To The Cosmic) vs (Cafe Đá), History: https://osu.ppy.sh/mp/104257188
+[21:40:32] BanchoBot: Beatmap: https://osu.ppy.sh/b/3768495 Ookuni Kanon - Flame Seal of 135 Seconds [Suffering]
+[21:40:32] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:40:32] BanchoBot: Active mods: Freemod
+[21:40:32] BanchoBot: Players: 6
+[21:40:32] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/7696512 Hoaq            [Team Red  / NoFail]
+[21:40:32] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9740299 -Mayui-         [Team Red  / NoFail]
+[21:40:32] BanchoBot: Slot 3  No Map    https://osu.ppy.sh/u/6790404 MyAimGenoKiller [Team Red  / NoFail]
+[21:40:32] BanchoBot: Slot 4  No Map    https://osu.ppy.sh/u/11976076 aquasimp        [Team Blue / NoFail]
+[21:40:32] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/13004516 Hanamaru_       [Team Blue / NoFail]
+[21:40:32] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/12683342 Cimpher         [Host / Team Blue / NoFail]
+[21:40:40] MyAimGenoKiller: :skull:
+[21:40:40] Hoaq: LUA HAI CAU CUA 135 GIAY
+[21:40:41] Hanamaru_: where world end lone line ss
+[21:40:41] MyAimGenoKiller: only maimai
+[21:40:45] -Mayui-: co gai va ong gia danh nhau chay lua trong 135 giay
+[21:41:00] BCraftMG: !mp settings
+[21:41:02] MyAimGenoKiller: maimai osu tourney when guys
+[21:41:02] BanchoBot: Room name: THT3: (To The Cosmic) vs (Cafe Đá), History: https://osu.ppy.sh/mp/104257188
+[21:41:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/3768495 Ookuni Kanon - Flame Seal of 135 Seconds [Suffering]
+[21:41:02] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:41:02] BanchoBot: Active mods: Freemod
+[21:41:02] BanchoBot: Players: 6
+[21:41:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7696512 Hoaq            [Team Red  / NoFail]
+[21:41:02] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9740299 -Mayui-         [Team Red  / NoFail]
+[21:41:02] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/6790404 MyAimGenoKiller [Team Red  / NoFail]
+[21:41:02] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11976076 aquasimp        [Team Blue / NoFail]
+[21:41:02] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13004516 Hanamaru_       [Team Blue / NoFail]
+[21:41:02] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12683342 Cimpher         [Host / Team Blue / NoFail]
+[21:41:04] BCraftMG: !mp start
+[21:41:05] BanchoBot: The match has started!
+[21:41:05] BanchoBot: Started the match
+[21:41:07] Hoaq: soon
+[21:42:45] BCraftMG: !mp addref Salt-Ranocchio
+[21:42:48] BanchoBot: Added Salt-Ranocchio to the match referees
+[21:43:25] BanchoBot: Hoaq finished playing (Score: 216938, PASSED).
+[21:43:25] BanchoBot: aquasimp finished playing (Score: 156812, PASSED).
+[21:43:25] BanchoBot: MyAimGenoKiller finished playing (Score: 242167, PASSED).
+[21:43:27] BanchoBot: Hanamaru_ finished playing (Score: 40012, PASSED).
+[21:43:27] BanchoBot: -Mayui- finished playing (Score: 81356, PASSED).
+[21:43:27] BanchoBot: Cimpher finished playing (Score: 58913, PASSED).
+[21:43:27] BanchoBot: The match has finished!
+[21:43:32] BCraftMG: !mp clearhost
+[21:43:33] MyAimGenoKiller: ok
+[21:43:33] BanchoBot: Cleared match host
+[21:43:34] MyAimGenoKiller: gaming
+[21:43:37] BCraftMG: :3c
+[21:43:51] BCraftMG: 2 captain vui lòng roll
+[21:44:04] Cimpher: !roll
+[21:44:04] BanchoBot: Cimpher rolls 10 point(s)
+[21:44:06] aquasimp: roll rồi
+[21:44:08] aquasimp: ???
+[21:44:12] Hanamaru_: ?
+[21:44:12] Cimpher: ????????????????
+[21:44:19] MyAimGenoKiller: ???????
+[21:44:23] MyAimGenoKiller: 11 r 10
+[21:44:24] BCraftMG: thua
+[21:44:25] aquasimp: nãy 11
+[21:44:27] Hanamaru_: e thu roll nha ae
+[21:44:27] aquasimp: nay 10
+[21:44:27] Hoaq: =)))))))))))))))))))))))))))))
+[21:44:27] MyAimGenoKiller: :skull:
+[21:44:28] Hanamaru_: !roll
+[21:44:28] BanchoBot: Hanamaru_ rolls 72 point(s)
+[21:44:28] MyAimGenoKiller: thua
+[21:44:30] aquasimp: chúc mừng nha cưng
+[21:44:32] Hoaq: !roll
+[21:44:32] BanchoBot: Hoaq rolls 68 point(s)
+[21:44:38] Hoaq: almost nice number
+[21:44:40] Cimpher: CC
+[21:44:42] Hanamaru_: CON CHO CIMPHER
+[21:44:46] BCraftMG: To The Cosmic, pick hay ban trước
+[21:44:47] -Mayui-: !roll 728
+[21:44:47] BanchoBot: -Mayui- rolls 379 point(s)
+[21:44:49] Hoaq: co co gang
+[21:44:53] Hoaq: pick truoc
+[21:44:55] MyAimGenoKiller: !roll 728
+[21:44:55] BanchoBot: MyAimGenoKiller rolls 208 point(s)
+[21:44:59] Salt-Ranocchio: !mp settings
+[21:44:59] BanchoBot: Room name: THT3: (To The Cosmic) vs (Cafe Đá), History: https://osu.ppy.sh/mp/104257188
+[21:44:59] BanchoBot: Beatmap: https://osu.ppy.sh/b/3768495 Ookuni Kanon - Flame Seal of 135 Seconds [Suffering]
+[21:44:59] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:44:59] BanchoBot: Active mods: Freemod
+[21:44:59] BanchoBot: Players: 6
+[21:44:59] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/7696512 Hoaq            [Team Red  / NoFail]
+[21:44:59] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/9740299 -Mayui-         [Team Red  / NoFail]
+[21:44:59] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/6790404 MyAimGenoKiller [Team Red  / NoFail]
+[21:44:59] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/11976076 aquasimp        [Team Blue / NoFail]
+[21:44:59] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/13004516 Hanamaru_       [Team Blue / NoFail]
+[21:44:59] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/12683342 Cimpher         [Team Blue / NoFail]
+[21:45:09] BCraftMG: Cafe Đá first ban
+[21:45:09] Salt-Ranocchio: hi
+[21:45:13] BCraftMG: !mp timer 120
+[21:45:13] BanchoBot: Countdown ends in 2 minutes
+[21:45:17] Hanamaru_: ban hoaq
+[21:45:24] -Mayui-: ban hoaq pls
+[21:45:24] Cimpher: ban hoaq
+[21:45:33] Hoaq: ban hoaq
+[21:45:35] Cimpher: hd2
+[21:45:40] Salt-Ranocchio: pick tb 1 nha ae
+[21:45:41] Hoaq: oge
+[21:45:41] Hanamaru_: #banhoaq
+[21:45:43] aquasimp: ban hoaq riu
+[21:45:43] BCraftMG: To The Cosmic ban
+[21:45:45] BCraftMG: !mp timer 120
+[21:45:47] BanchoBot: Countdown aborted
+[21:45:47] BanchoBot: Countdown ends in 2 minutes
+[21:45:51] Hoaq: fm2 ban
+[21:45:51] MyAimGenoKiller: huhu
+[21:45:51] MyAimGenoKiller: hd2
+[21:45:58] BCraftMG: To The Cosmic | 0 - 0 | Cafe Đá // First Pick: To The Cosmic
+[21:45:58] MyAimGenoKiller: why ban hd2
+[21:45:59] BCraftMG: !mp timer 120
+[21:46:02] MyAimGenoKiller: :skull:
+[21:46:02] Hoaq: ong oi
+[21:46:02] BanchoBot: Countdown aborted
+[21:46:02] BanchoBot: Countdown ends in 2 minutes
+[21:46:04] -Mayui-: geno hd2
+[21:46:05] Hoaq: ben kia co 1 player
+[21:46:05] Hanamaru_: vi hoaq
+[21:46:07] Hoaq: sap di ngu r
+[21:46:09] MyAimGenoKiller: riel
+[21:46:13] Cimpher: can tinh tao
+[21:46:18] Salt-Ranocchio: real
+[21:46:28] Hoaq: !roll 5
+[21:46:28] BanchoBot: Hoaq rolls 2 point(s)
+[21:46:37] Hoaq: o chet me roll bat pick hd a
+[21:46:41] Hoaq: choi hd khong ae team toi
+[21:46:44] Hoaq: con co hd1 thoi
+[21:46:46] Hanamaru_: ?
+[21:46:46] -Mayui-: OGE
+[21:46:50] Hanamaru_: LA SAO
+[21:46:59] MyAimGenoKiller: :khuyettatxelan:
+[21:47:03] BanchoBot: Countdown ends in 1 minute
+[21:47:05] Hoaq: :tf:
+[21:47:07] Hoaq: hd1
+[21:47:20] BCraftMG: !mp map 2464763 0
+[21:47:21] BCraftMG: !mp mods 9
+[21:47:22] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2464763 Yousei Teikoku - one
+[21:47:22] BanchoBot: Changed match mode to Osu
+[21:47:24] BCraftMG: !mp timer 120
+[21:47:24] Hanamaru_: #19GAI
+[21:47:24] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:47:25] -Mayui-: roll de pick mod
+[21:47:27] -Mayui-: rat hoaq
+[21:47:27] BanchoBot: Countdown aborted
+[21:47:27] BanchoBot: Countdown ends in 2 minutes
+[21:47:38] Hoaq: roll de pick mod
+[21:47:42] Hoaq: xong roll de pick map
+[21:47:46] Hoaq: nhung ma roll vao mod con co 1 map
+[21:47:50] Hoaq: khoi roll tiep
+[21:47:50] Hoaq: :tf:
+[21:47:55] Hoaq: !roll 1000
+[21:47:55] BanchoBot: Hoaq rolls 281 point(s)
+[21:47:59] -Mayui-: !roll 728
+[21:47:59] BanchoBot: -Mayui- rolls 669 point(s)
+[21:48:05] -Mayui-: 69
+[21:48:05] MyAimGenoKiller: !roll 728
+[21:48:05] BanchoBot: MyAimGenoKiller rolls 604 point(s)
+[21:48:14] aquasimp: nice
+[21:48:17] -Mayui-: ambatukam
+[21:48:20] MyAimGenoKiller: !roll 728
+[21:48:20] BanchoBot: MyAimGenoKiller rolls 292 point(s)
+[21:48:24] Hoaq: golf
+[21:48:24] BanchoBot: All players are ready
+[21:48:26] BCraftMG: !mp settings
+[21:48:28] -Mayui-: gl
+[21:48:28] Hanamaru_: chien si truong son
+[21:48:28] BanchoBot: Countdown ends in 1 minute
+[21:48:28] MyAimGenoKiller: golf
+[21:48:28] BanchoBot: Room name: THT3: (To The Cosmic) vs (Cafe Đá), History: https://osu.ppy.sh/mp/104257188
+[21:48:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/2464763 Yousei Teikoku - one
+[21:48:28] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:48:28] BanchoBot: Active mods: NoFail, Hidden
+[21:48:28] BanchoBot: Players: 6
+[21:48:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7696512 Hoaq            [Team Red ]
+[21:48:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9740299 -Mayui-         [Team Red ]
+[21:48:28] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6790404 MyAimGenoKiller [Team Red ]
+[21:48:28] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11976076 aquasimp        [Team Blue]
+[21:48:28] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13004516 Hanamaru_       [Team Blue]
+[21:48:28] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12683342 Cimpher         [Team Blue]
+[21:48:29] aquasimp: golfers
+[21:48:32] BCraftMG: !mp start 5 glhf
+[21:48:33] BanchoBot: Countdown aborted
+[21:48:33] BanchoBot: Match starts in 5 seconds
+[21:48:33] BanchoBot: Queued the match to start in 5 seconds
+[21:48:35] BanchoBot: Match starts in 4 seconds
+[21:48:37] BanchoBot: Match starts in 3 seconds
+[21:48:37] BanchoBot: Good luck, have fun!
+[21:48:39] BanchoBot: The match has started!
+[21:49:09] MyAimGenoKiller: alo
+[21:49:12] MyAimGenoKiller: hu loading
+[21:49:16] Hoaq: deadge
+[21:49:18] Hanamaru_: gyze
+[21:49:21] BCraftMG: :skull:
+[21:49:24] MyAimGenoKiller: gyze
+[21:49:27] BanchoBot: Hanamaru_ left the game.
+[21:49:29] BCraftMG: !mp abort
+[21:49:31] BanchoBot: Hanamaru_ joined in slot 5 for team blue.
+[21:49:31] BanchoBot: Aborted the match
+[21:49:35] BanchoBot: -Mayui- left the game.
+[21:49:35] Hanamaru_: ?
+[21:49:48] Hoaq: NOOOOOOOOOOOOOOOOOOOO
+[21:49:50] Hoaq: MAYUI
+[21:49:51] BCraftMG: sao lai ca Mayui left
+[21:49:52] aquasimp: what the firetruck
+[21:49:54] BCraftMG: cai gi day
+[21:49:59] BanchoBot: -Mayui- joined in slot 2 for team red.
+[21:49:59] Hoaq: bancho
+[21:50:03] Hoaq: rat xin loi ae
+[21:50:03] MyAimGenoKiller: a oke
+[21:50:09] MyAimGenoKiller: tuong cup dien :tf:
+[21:50:12] -Mayui-: peppy
+[21:50:16] -Mayui-: :tf:
+[21:50:16] BanchoBot: All players are ready
+[21:50:16] BCraftMG: !mp settings
+[21:50:18] -Mayui-: gl
+[21:50:18] BanchoBot: Room name: THT3: (To The Cosmic) vs (Cafe Đá), History: https://osu.ppy.sh/mp/104257188
+[21:50:18] BanchoBot: Beatmap: https://osu.ppy.sh/b/2464763 Yousei Teikoku - one
+[21:50:18] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:50:18] BanchoBot: Active mods: NoFail, Hidden
+[21:50:18] BanchoBot: Players: 6
+[21:50:18] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7696512 Hoaq            [Team Red ]
+[21:50:18] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9740299 -Mayui-         [Team Red ]
+[21:50:18] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6790404 MyAimGenoKiller [Team Red ]
+[21:50:18] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11976076 aquasimp        [Team Blue]
+[21:50:18] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13004516 Hanamaru_       [Team Blue]
+[21:50:18] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12683342 Cimpher         [Team Blue]
+[21:50:21] BCraftMG: !mp start 5 glhf
+[21:50:22] BanchoBot: Match starts in 5 seconds
+[21:50:22] BanchoBot: Queued the match to start in 5 seconds
+[21:50:23] BanchoBot: Match starts in 4 seconds
+[21:50:25] BanchoBot: Match starts in 3 seconds
+[21:50:25] BanchoBot: Good luck, have fun!
+[21:50:25] MyAimGenoKiller: golfism
+[21:50:27] BanchoBot: The match has started!
+[21:50:27] Hoaq: take 2
+[21:54:27] BanchoBot: Hanamaru_ finished playing (Score: 364839, PASSED).
+[21:54:28] BanchoBot: Hoaq finished playing (Score: 916609, PASSED).
+[21:54:28] BanchoBot: -Mayui- finished playing (Score: 675969, PASSED).
+[21:54:28] BanchoBot: Cimpher finished playing (Score: 497053, PASSED).
+[21:54:28] BanchoBot: MyAimGenoKiller finished playing (Score: 449186, PASSED).
+[21:54:29] BanchoBot: aquasimp finished playing (Score: 733594, PASSED).
+[21:54:29] BanchoBot: The match has finished!
+[21:54:35] BCraftMG: To The Cosmic | 1 - 0 | Cafe Đá // Next Pick: Cafe Đá
+[21:54:37] BCraftMG: !mp timer 120
+[21:54:39] BanchoBot: Countdown ends in 2 minutes
+[21:54:44] BCraftMG: rip 20k
+[21:54:54] aquasimp: che^
+[21:55:01] Hoaq: rat xin loi ae
+[21:55:05] Hoaq: toi da k co duoc 20k
+[21:55:39] BanchoBot: Countdown ends in 1 minute
+[21:55:47] -Mayui-: S rank co dc 20k k
+[21:55:47] -Mayui-: :tf:
+[21:55:48] Cimpher: fm1
+[21:55:54] Hoaq: :tf:
+[21:56:02] BCraftMG: !mp map 3064146 0
+[21:56:03] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3064146 cYsmix - Abandoned Shrine Party
+[21:56:03] BanchoBot: Changed match mode to Osu
+[21:56:06] BCraftMG: !mp mods Freemod
+[21:56:07] BanchoBot: Disabled all mods, enabled FreeMod
+[21:56:09] BCraftMG: !mp timer 120
+[21:56:09] BanchoBot: Countdown ends in 30 seconds
+[21:56:11] Hoaq: [no map]
+[21:56:11] BanchoBot: Countdown aborted
+[21:56:11] BanchoBot: Countdown ends in 2 minutes
+[21:56:15] Hoaq: xin 30s wc
+[21:56:43] MyAimGenoKiller: :tf:
+[21:57:11] BanchoBot: Countdown ends in 1 minute
+[21:57:14] BCraftMG: 2 mod per team
+[21:57:31] BCraftMG: nói chung là 1 hr 1 hd 1 nm :tf:
+[21:57:39] aquasimp: 2 main characters, the 3rd one is just a 3rd wheel
+[21:57:41] aquasimp: :tf:
+[21:57:43] BanchoBot: Countdown ends in 30 seconds
+[21:57:50] Hoaq: geno oi
+[21:57:52] Hoaq: toi tin ong
+[21:57:54] Cimpher: tanker
+[21:58:01] BanchoBot: Countdown ends in 10 seconds
+[21:58:07] BanchoBot: Countdown ends in 5 seconds
+[21:58:07] MyAimGenoKiller: :skull:
+[21:58:07] BanchoBot: Countdown ends in 4 seconds
+[21:58:09] BanchoBot: Countdown ends in 3 seconds
+[21:58:11] BanchoBot: Countdown ends in 2 seconds
+[21:58:11] BanchoBot: Countdown ends in 1 second
+[21:58:13] BanchoBot: Countdown finished
+[21:58:14] BCraftMG: !mp settings
+[21:58:15] BanchoBot: All players are ready
+[21:58:15] BanchoBot: Room name: THT3: (To The Cosmic) vs (Cafe Đá), History: https://osu.ppy.sh/mp/104257188
+[21:58:15] BanchoBot: Beatmap: https://osu.ppy.sh/b/3064146 cYsmix - Abandoned Shrine Party
+[21:58:15] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:58:15] BanchoBot: Active mods: Freemod
+[21:58:15] BanchoBot: Players: 6
+[21:58:15] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7696512 Hoaq            [Team Red  / NoFail, HardRock]
+[21:58:15] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9740299 -Mayui-         [Team Red  / NoFail, Hidden]
+[21:58:15] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6790404 MyAimGenoKiller [Team Red  / NoFail]
+[21:58:15] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11976076 aquasimp        [Team Blue / NoFail, HardRock]
+[21:58:15] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13004516 Hanamaru_       [Team Blue / NoFail]
+[21:58:15] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12683342 Cimpher         [Team Blue / NoFail, Hidden]
+[21:58:16] -Mayui-: gl
+[21:58:18] MyAimGenoKiller: golf
+[21:58:20] MyAimGenoKiller: golfist
+[21:58:24] Hoaq: golf
+[21:58:29] BCraftMG: !mp settings
+[21:58:30] BanchoBot: Room name: THT3: (To The Cosmic) vs (Cafe Đá), History: https://osu.ppy.sh/mp/104257188
+[21:58:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/3064146 cYsmix - Abandoned Shrine Party
+[21:58:30] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:58:30] BanchoBot: Active mods: Freemod
+[21:58:30] BanchoBot: Players: 6
+[21:58:30] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7696512 Hoaq            [Team Red  / NoFail, HardRock]
+[21:58:30] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9740299 -Mayui-         [Team Red  / NoFail, Hidden]
+[21:58:30] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6790404 MyAimGenoKiller [Team Red  / NoFail]
+[21:58:30] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11976076 aquasimp        [Team Blue / NoFail, HardRock]
+[21:58:30] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13004516 Hanamaru_       [Team Blue / NoFail]
+[21:58:30] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12683342 Cimpher         [Team Blue / NoFail, Hidden]
+[21:58:35] aquasimp: golf on dzntz
+[21:58:44] Hoaq: golf on da nang
+[21:59:05] BCraftMG: uhhhhhhhhhh
+[21:59:07] Hoaq: wat we wait
+[21:59:10] BCraftMG: !mp start 5 glhf
+[21:59:11] BanchoBot: Match starts in 5 seconds
+[21:59:11] BanchoBot: Queued the match to start in 5 seconds
+[21:59:13] BanchoBot: Match starts in 4 seconds
+[21:59:14] BanchoBot: Match starts in 3 seconds
+[21:59:14] aquasimp: tech dif?
+[21:59:14] BanchoBot: Good luck, have fun!
+[21:59:16] MyAimGenoKiller: kek
+[21:59:16] BanchoBot: The match has started!
+[22:02:28] BanchoBot: Hoaq finished playing (Score: 171162, PASSED).
+[22:02:28] BanchoBot: -Mayui- finished playing (Score: 348425, PASSED).
+[22:02:28] BanchoBot: aquasimp finished playing (Score: 248392, PASSED).
+[22:02:28] BanchoBot: MyAimGenoKiller finished playing (Score: 495322, PASSED).
+[22:02:28] BanchoBot: Cimpher finished playing (Score: 148992, PASSED).
+[22:02:28] BanchoBot: Hanamaru_ finished playing (Score: 444300, PASSED).
+[22:02:28] BanchoBot: The match has finished!
+[22:02:33] Hoaq: TAI SAO
+[22:02:34] BCraftMG: To The Cosmic | 2 - 0 | Cafe Đá // Next Pick: To The Cosmic
+[22:02:37] BCraftMG: !mp timer 120
+[22:02:39] Hoaq: TOI LAI PHAI CHOI HR RHYTHM
+[22:02:39] BanchoBot: Countdown ends in 2 minutes
+[22:02:40] Hoaq: ALO
+[22:02:46] Hoaq: !roll 4
+[22:02:46] BanchoBot: Hoaq rolls 2 point(s)
+[22:02:57] MyAimGenoKiller: :khuyettatxelan:
+[22:02:59] Hoaq: !roll 2
+[22:02:59] BanchoBot: Hoaq rolls 2 point(s)
+[22:03:05] Hoaq: vai l
+[22:03:08] -Mayui-: vailoz
+[22:03:08] -Mayui-: hoaq
+[22:03:08] -Mayui-: adk;hf
+[22:03:12] Hoaq: che
+[22:03:14] Hoaq: nm3
+[22:03:21] Hoaq: nghe nhac
+[22:03:24] BCraftMG: !mp map 2167576 0
+[22:03:25] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2167576 ZUTOMAYO - Kan Saete Kuyashiiwa
+[22:03:25] BanchoBot: Changed match mode to Osu
+[22:03:25] BCraftMG: !mp mods 1
+[22:03:27] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:03:28] BCraftMG: !mp timer 120
+[22:03:29] BanchoBot: Countdown aborted
+[22:03:29] BanchoBot: Countdown ends in 2 minutes
+[22:03:31] Cimpher: o7
+[22:03:33] Hanamaru_: cai dit
+[22:03:38] aquasimp: xin vinh biet cu
+[22:03:42] Hoaq: m thay t vua roll vao cai gi khong
+[22:03:44] Hoaq: HR2
+[22:03:46] BCraftMG: GERA
+[22:03:48] Hoaq: ROI AI CHOI
+[22:03:55] Cimpher: hello
+[22:03:57] aquasimp: D:
+[22:03:59] Hanamaru_: DA EM
+[22:03:59] -Mayui-: brb
+[22:03:59] BanchoBot: -Mayui- left the game.
+[22:04:01] Hanamaru_: ko bt choi
+[22:04:01] MyAimGenoKiller: :3c
+[22:04:08] BanchoBot: -Mayui- joined in slot 2 for team red.
+[22:04:22] BanchoBot: All players are ready
+[22:04:23] BCraftMG: !mp settings
+[22:04:24] BanchoBot: Room name: THT3: (To The Cosmic) vs (Cafe Đá), History: https://osu.ppy.sh/mp/104257188
+[22:04:24] BanchoBot: Beatmap: https://osu.ppy.sh/b/2167576 ZUTOMAYO - Kan Saete Kuyashiiwa
+[22:04:24] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:04:24] BanchoBot: Active mods: NoFail
+[22:04:24] BanchoBot: Players: 6
+[22:04:24] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7696512 Hoaq            [Team Red ]
+[22:04:24] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9740299 -Mayui-         [Team Red ]
+[22:04:24] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6790404 MyAimGenoKiller [Team Red ]
+[22:04:24] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11976076 aquasimp        [Team Blue]
+[22:04:24] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13004516 Hanamaru_       [Team Blue]
+[22:04:24] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12683342 Cimpher         [Team Blue]
+[22:04:25] BCraftMG: !mp start 5 glhf
+[22:04:25] BanchoBot: Countdown aborted
+[22:04:25] BanchoBot: Match starts in 5 seconds
+[22:04:25] BanchoBot: Queued the match to start in 5 seconds
+[22:04:27] BanchoBot: Match starts in 4 seconds
+[22:04:27] Hoaq: golfest
+[22:04:29] BanchoBot: Match starts in 3 seconds
+[22:04:29] MyAimGenoKiller: goldfish
+[22:04:29] BanchoBot: Good luck, have fun!
+[22:04:29] -Mayui-: gl
+[22:04:31] BanchoBot: The match has started!
+[22:08:34] BanchoBot: -Mayui- finished playing (Score: 562089, PASSED).
+[22:08:34] BanchoBot: Hoaq finished playing (Score: 355828, PASSED).
+[22:08:34] BanchoBot: Cimpher finished playing (Score: 182307, PASSED).
+[22:08:34] BanchoBot: MyAimGenoKiller finished playing (Score: 882140, PASSED).
+[22:08:34] BanchoBot: aquasimp finished playing (Score: 328690, PASSED).
+[22:08:34] BanchoBot: Hanamaru_ finished playing (Score: 409362, PASSED).
+[22:08:34] BanchoBot: The match has finished!
+[22:08:38] BCraftMG: To The Cosmic | 3 - 0 | Cafe Đá // Next Pick: Cafe Đá
+[22:08:40] BCraftMG: !mp timer 120
+[22:08:42] BanchoBot: Countdown ends in 2 minutes
+[22:08:53] BCraftMG: troi oi @Satxri dem so chua chuan roi
+[22:08:56] -Mayui-: geno tat break the law coi
+[22:08:56] Cimpher: nm4
+[22:08:58] -Mayui-: >:(
+[22:09:02] Hoaq: ngay` huy?
+[22:09:04] MyAimGenoKiller: kekw
+[22:09:11] BCraftMG: !mp map 1464590 0
+[22:09:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1464590 Camellia - Chirality
+[22:09:12] BanchoBot: Changed match mode to Osu
+[22:09:15] BCraftMG: !mp mods 1
+[22:09:17] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:09:19] BCraftMG: !mp timẻ 120
+[22:09:22] BCraftMG: dcm
+[22:09:24] BCraftMG: !mp timer 120
+[22:09:24] BanchoBot: Countdown aborted
+[22:09:24] BanchoBot: Countdown ends in 2 minutes
+[22:09:26] aquasimp: can i have a minute
+[22:09:28] aquasimp: reset osu
+[22:09:28] BanchoBot: aquasimp left the game.
+[22:09:36] -Mayui-: timẻ
+[22:09:49] BCraftMG: anh Geno xin stk có người ting ting 20k kìa :tf:
+[22:10:26] BanchoBot: Countdown ends in 1 minute
+[22:10:30] MyAimGenoKiller: adu :o
+[22:10:37] BanchoBot: aquasimp joined in slot 4 for team red.
+[22:10:43] BanchoBot: aquasimp changed to Blue
+[22:10:56] BanchoBot: Countdown ends in 30 seconds
+[22:11:15] BanchoBot: Countdown ends in 10 seconds
+[22:11:20] BanchoBot: Countdown ends in 5 seconds
+[22:11:22] BanchoBot: Countdown ends in 4 seconds
+[22:11:22] BanchoBot: Countdown ends in 3 seconds
+[22:11:24] BanchoBot: Countdown ends in 2 seconds
+[22:11:24] BanchoBot: Countdown ends in 1 second
+[22:11:26] BanchoBot: Countdown finished
+[22:11:26] BCraftMG: !mp settings
+[22:11:28] BanchoBot: Room name: THT3: (To The Cosmic) vs (Cafe Đá), History: https://osu.ppy.sh/mp/104257188
+[22:11:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/1464590 Camellia - Chirality
+[22:11:28] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:11:28] BanchoBot: Active mods: NoFail
+[22:11:28] BanchoBot: Players: 6
+[22:11:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7696512 Hoaq            [Team Red ]
+[22:11:28] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/9740299 -Mayui-         [Team Red ]
+[22:11:28] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6790404 MyAimGenoKiller [Team Red ]
+[22:11:28] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11976076 aquasimp        [Team Blue]
+[22:11:28] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13004516 Hanamaru_       [Team Blue]
+[22:11:28] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12683342 Cimpher         [Team Blue]
+[22:11:33] BCraftMG: Hello -Mayui-
+[22:11:44] BanchoBot: All players are ready
+[22:11:47] MyAimGenoKiller: bancho gaming?
+[22:11:47] -Mayui-: sr
+[22:11:47] BCraftMG: !mp settings
+[22:11:48] BanchoBot: Room name: THT3: (To The Cosmic) vs (Cafe Đá), History: https://osu.ppy.sh/mp/104257188
+[22:11:48] BanchoBot: Beatmap: https://osu.ppy.sh/b/1464590 Camellia - Chirality
+[22:11:48] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:11:48] BanchoBot: Active mods: NoFail
+[22:11:48] BanchoBot: Players: 6
+[22:11:48] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7696512 Hoaq            [Team Red ]
+[22:11:48] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9740299 -Mayui-         [Team Red ]
+[22:11:48] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6790404 MyAimGenoKiller [Team Red ]
+[22:11:48] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11976076 aquasimp        [Team Blue]
+[22:11:48] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13004516 Hanamaru_       [Team Blue]
+[22:11:48] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12683342 Cimpher         [Team Blue]
+[22:11:50] -Mayui-: dang ambatukam
+[22:11:52] MyAimGenoKiller: golfishing
+[22:11:53] BCraftMG: !mp start 5 glhf
+[22:11:54] BanchoBot: Match starts in 5 seconds
+[22:11:54] BanchoBot: Queued the match to start in 5 seconds
+[22:11:56] BanchoBot: Match starts in 4 seconds
+[22:11:58] BanchoBot: Match starts in 3 seconds
+[22:11:58] BanchoBot: Good luck, have fun!
+[22:11:59] BanchoBot: The match has started!
+[22:13:41] BanchoBot: Hoaq finished playing (Score: 978270, PASSED).
+[22:13:41] BanchoBot: -Mayui- finished playing (Score: 527058, PASSED).
+[22:13:41] BanchoBot: Cimpher finished playing (Score: 400317, PASSED).
+[22:13:41] BanchoBot: aquasimp finished playing (Score: 932538, PASSED).
+[22:13:41] BanchoBot: Hanamaru_ finished playing (Score: 661856, PASSED).
+[22:13:41] BanchoBot: MyAimGenoKiller finished playing (Score: 979342, PASSED).
+[22:13:41] BanchoBot: The match has finished!
+[22:13:48] BCraftMG: To The Cosmic | 4 - 0 | Cafe Đá // Next Pick: To The Cosmic
+[22:13:51] BCraftMG: !mp timer 120
+[22:13:52] BanchoBot: Countdown ends in 2 minutes
+[22:14:04] BCraftMG: 1sb :yep:
+[22:14:09] aquasimp: toi bi scam ae
+[22:14:27] Hoaq: geno
+[22:14:29] Hoaq: ong oi
+[22:14:31] Hoaq: muon choi gi
+[22:14:37] Hoaq: chac chan khong phai HR
+[22:14:46] BCraftMG: tiebreaker
+[22:14:50] Hanamaru_: ANH OI
+[22:14:50] Hanamaru_: MINH CHOI
+[22:14:53] BanchoBot: Countdown ends in 1 minute
+[22:14:53] Hanamaru_: CHOI
+[22:15:08] Hoaq: choi da a
+[22:15:10] Hoaq: ok
+[22:15:20] Hanamaru_: oki
+[22:15:20] Hoaq: GENO DAU ROI
+[22:15:24] BanchoBot: Countdown ends in 30 seconds
+[22:15:31] aquasimp: choi da?
+[22:15:33] aquasimp: da co
+[22:15:36] aquasimp: Cafe Da BakiNaki
+[22:15:36] Hoaq: MYAIMGENOKILLER
+[22:15:36] Cimpher: choi voi
+[22:15:40] Hoaq: TOI TRIEU HOI ONG
+[22:15:42] MyAimGenoKiller: nm5
+[22:15:42] BanchoBot: Countdown ends in 10 seconds
+[22:15:44] MyAimGenoKiller: kekw
+[22:15:48] BanchoBot: Countdown ends in 5 seconds
+[22:15:50] BanchoBot: Countdown ends in 4 seconds
+[22:15:50] -Mayui-: bulli
+[22:15:50] Hoaq: NVM
+[22:15:50] BanchoBot: Countdown ends in 3 seconds
+[22:15:50] Hoaq: NM5
+[22:15:51] BanchoBot: Countdown ends in 2 seconds
+[22:15:51] BanchoBot: Countdown ends in 1 second
+[22:15:53] BanchoBot: Countdown finished
+[22:15:57] aquasimp: bulli roi
+[22:15:58] BCraftMG: !mp map 3448872 0
+[22:15:59] Hanamaru_: MINH CHOI TB DI
+[22:15:59] aquasimp: xin 1 ve
+[22:15:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3448872 Lime - Luminaria
+[22:15:59] BanchoBot: Changed match mode to Osu
+[22:16:01] Hanamaru_: TROI OI
+[22:16:04] BCraftMG: !mp timer 120
+[22:16:04] BanchoBot: Countdown ends in 2 minutes
+[22:16:10] -Mayui-: neu hoaq 500k map nay toi se report hoaq
+[22:16:16] aquasimp: adu
+[22:16:16] Hoaq: o the
+[22:16:18] aquasimp: gcs
+[22:16:22] Hoaq: sao lai lam the
+[22:16:24] Hoaq: o kia
+[22:16:29] Hoaq: toi bi dong doi bulli kia ae
+[22:16:38] -Mayui-: hoaq nao speed player
+[22:16:38] -Mayui-: omg
+[22:16:40] -Mayui-: ambatukma
+[22:17:01] BanchoBot: All players are ready
+[22:17:05] BanchoBot: Countdown ends in 1 minute
+[22:17:08] Hoaq: feesh
+[22:17:16] aquasimp: finana
+[22:17:18] MyAimGenoKiller: golfeesh
+[22:17:19] BCraftMG: !mp settings
+[22:17:20] -Mayui-: the chung ta co dinh lay 30k k
+[22:17:22] BanchoBot: Room name: THT3: (To The Cosmic) vs (Cafe Đá), History: https://osu.ppy.sh/mp/104257188
+[22:17:22] BanchoBot: Beatmap: https://osu.ppy.sh/b/3448872 Lime - Luminaria
+[22:17:22] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:17:22] BanchoBot: Active mods: NoFail
+[22:17:22] BanchoBot: Players: 6
+[22:17:22] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7696512 Hoaq            [Team Red ]
+[22:17:22] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9740299 -Mayui-         [Team Red ]
+[22:17:22] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6790404 MyAimGenoKiller [Team Red ]
+[22:17:22] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11976076 aquasimp        [Team Blue]
+[22:17:22] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13004516 Hanamaru_       [Team Blue]
+[22:17:22] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12683342 Cimpher         [Team Blue]
+[22:17:25] BCraftMG: !mp start 5 glhf
+[22:17:27] -Mayui-: 100k con suy nghi lai
+[22:17:27] BanchoBot: Countdown aborted
+[22:17:27] BanchoBot: Match starts in 5 seconds
+[22:17:27] BanchoBot: Queued the match to start in 5 seconds
+[22:17:29] -Mayui-: 30k it qua
+[22:17:29] BanchoBot: Match starts in 4 seconds
+[22:17:29] MyAimGenoKiller: ez 30k
+[22:17:31] BanchoBot: Match starts in 3 seconds
+[22:17:31] BanchoBot: Good luck, have fun!
+[22:17:33] BanchoBot: The match has started!
+[22:20:06] BanchoBot: Hanamaru_ finished playing (Score: 172277, PASSED).
+[22:20:06] BanchoBot: Cimpher finished playing (Score: 242842, PASSED).
+[22:20:06] BanchoBot: MyAimGenoKiller finished playing (Score: 560131, PASSED).
+[22:20:06] BanchoBot: -Mayui- finished playing (Score: 357874, PASSED).
+[22:20:06] BanchoBot: aquasimp finished playing (Score: 446528, PASSED).
+[22:20:06] BanchoBot: Hoaq finished playing (Score: 910000, PASSED).
+[22:20:06] BanchoBot: The match has finished!
+[22:20:11] aquasimp: ggwp
+[22:20:13] -Mayui-: HOAQ LEN REDDIT NHE
+[22:20:13] -Mayui-: DM HOAQ
+[22:20:18] Hoaq: ONG NOI GI CO
+[22:20:20] Hoaq: ALO
+[22:20:22] Hoaq: ONG NOI GI CO
+[22:20:28] Hanamaru_: DITME HOAQ
+[22:20:29] MyAimGenoKiller: :tf:
+[22:20:38] BCraftMG: WYSI
+[22:20:44] Hoaq: 160BPM
+[22:20:48] Hoaq: NHIP TIM TOI
+[22:20:50] Hoaq: NGAY BAY GIO
+[22:21:09] MyAimGenoKiller: ggwp
+[22:21:11] -Mayui-: nhip tim ong con nhanh hon muc bpm toi co the bam dc
+[22:21:11] Hoaq: anyway
+[22:21:13] Hanamaru_: MY SCORE
+[22:21:13] -Mayui-: anyway ggwp
+[22:21:15] Hoaq: ggwp thx for ref
+[22:21:19] -Mayui-: wc
+[22:21:21] aquasimp: thx for ref
+[22:21:22] MyAimGenoKiller: WYSI
+[22:21:24] BanchoBot: aquasimp left the game.
+[22:21:24] -Mayui-: tks for ref
+[22:21:26] -Mayui-: !roll 728
+[22:21:26] BanchoBot: -Mayui- rolls 4 point(s)
+[22:21:26] BanchoBot: Cimpher left the game.
+[22:21:28] BanchoBot: Hoaq left the game.
+[22:21:30] MyAimGenoKiller: tks for ref
+[22:21:30] Hanamaru_: thnx for ref
+[22:21:30] BanchoBot: Hanamaru_ left the game.
+[22:21:30] -Mayui-: 4
+[22:21:30] BanchoBot: -Mayui- left the game.
+[22:21:32] MyAimGenoKiller: !roll 728
+[22:21:32] BanchoBot: MyAimGenoKiller rolls 270 point(s)
+[22:21:36] BanchoBot: MyAimGenoKiller left the game.
+[22:22:12] BCraftMG: !mp close
+[22:22:13] BanchoBot: Closed the match

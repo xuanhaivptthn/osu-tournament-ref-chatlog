@@ -1,0 +1,548 @@
+[02:53:40] Joined #mp_112710608
+[02:53:40] BCraftMG: !mp settings
+[02:53:42] BanchoBot: Room name: PTFM2: (Geag) vs (Decheg_777), History: https://osu.ppy.sh/mp/112710608
+[02:53:42] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[02:53:42] BanchoBot: Players: 0
+[02:54:00] BCraftMG: !mp set 2 3 3
+[02:54:01] BanchoBot: Changed match settings to 3 slots, TeamVs, ScoreV2
+[02:54:01] BCraftMG: !mp map 4298840
+[02:54:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4298840 Serani Poji - Pipo Pipo
+[02:54:12] BCraftMG: !mp invite Geag
+[02:54:13] BanchoBot: Invited Geag to the room
+[02:54:16] BCraftMG: !mp invite Decheg_777
+[02:54:17] BanchoBot: Invited Decheg_777 to the room
+[02:54:57] BanchoBot: Decheg_777 joined in slot 1 for team blue.
+[02:55:03] BanchoBot: Decheg_777 left the game.
+[02:56:41] BanchoBot: Decheg_777 joined in slot 1 for team blue.
+[02:56:44] BanchoBot: Decheg_777 left the game.
+[02:56:53] BanchoBot: Decheg_777 joined in slot 1 for team blue.
+[02:57:07] BCraftMG: woo
+[02:57:09] BCraftMG: warmup?
+[02:57:52] Decheg_777: me skip
+[02:58:12] BCraftMG: okey
+[02:58:58] BanchoBot: Geag joined in slot 2 for team red.
+[02:59:05] BCraftMG: hi
+[02:59:07] Geag: gm
+[02:59:15] BCraftMG: warmup?
+[02:59:15] Decheg_777: hello
+[02:59:21] Geag: skip
+[02:59:32] BCraftMG: ok roll plsea
+[02:59:39] Geag: !roll
+[02:59:39] BanchoBot: Geag rolls 20 point(s)
+[02:59:47] Decheg_777: !roll
+[02:59:47] BanchoBot: Decheg_777 rolls 34 point(s)
+[03:00:03] Geag: this is already my 3rd match today
+[03:00:04] BCraftMG: Roll winner chooses First Ban - Second Pick or Second Ban - First Pick
+[03:00:04] Geag: im tired
+[03:00:11] Decheg_777: ;w;
+[03:00:26] Decheg_777: first ban second pick
+[03:00:33] BCraftMG: life of an osu tournament player
+[03:00:57] Geag: life was so good when i was in 1 tournament
+[03:01:03] Geag: cant wait to have that happen again
+[03:01:03] BCraftMG: lets get to ban then
+[03:01:05] BCraftMG: still 1 ban
+[03:01:08] BCraftMG: !mp timer 90
+[03:01:09] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[03:01:13] BCraftMG: decheg ban first
+[03:01:29] Decheg_777: ban EZ2
+[03:01:37] BCraftMG: wait
+[03:01:38] BCraftMG: fuc
+[03:01:40] BanchoBot: Countdown ends in 1 minute
+[03:01:45] BCraftMG: im supposed to do fp first
+[03:01:48] BCraftMG: Roll loser gets First Forced Pick and the remaining order.
+[03:01:58] Geag: oh ok
+[03:02:02] Decheg_777: ah
+[03:02:09] BanchoBot: Countdown ends in 30 seconds
+[03:02:13] BCraftMG: so geag send first fp first
+[03:02:22] BCraftMG: !mp timer 120
+[03:02:23] Geag: fp is opponent has to pick right
+[03:02:23] BanchoBot: Countdown aborted
+[03:02:23] BanchoBot: Countdown ends in 2 minutes
+[03:02:28] BCraftMG: yea
+[03:02:34] Decheg_777: yea
+[03:02:51] Geag: dtfm3 fp
+[03:03:05] BCraftMG: decheg fp
+[03:03:07] BCraftMG: !mp timer 120
+[03:03:08] BanchoBot: Countdown aborted
+[03:03:08] BanchoBot: Countdown ends in 2 minutes
+[03:03:50] Decheg_777: hr1
+[03:03:55] Geag: sob
+[03:04:09] BanchoBot: Countdown ends in 1 minute
+[03:04:10] BCraftMG: now to ban
+[03:04:12] BCraftMG: Geag ban
+[03:04:13] BCraftMG: !mp timer 120
+[03:04:15] BanchoBot: Countdown aborted
+[03:04:15] BanchoBot: Countdown ends in 2 minutes
+[03:04:27] Geag: decheg ban ez2
+[03:04:28] Geag: ok
+[03:04:29] BCraftMG: Decheg you got that ez2 ban
+[03:04:31] Geag: ban ez1
+[03:04:31] BCraftMG: yea
+[03:04:40] BCraftMG: rip ez
+[03:04:46] Decheg_777: 0_0
+[03:04:53] Geag: i played ez1 i got 40k i am not playing that
+[03:05:08] BCraftMG: Geag | 0 : 0 | Decheg_777 // Next to pick: Geag
+[03:05:09] BCraftMG: !mp timer 120
+[03:05:09] BanchoBot: Countdown aborted
+[03:05:09] BanchoBot: Countdown ends in 2 minutes
+[03:05:30] Geag: dtfm2
+[03:05:45] BanchoBot: Decheg_777 left the game.
+[03:05:46] BCraftMG: !mp map 2613128 0
+[03:05:46] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2613128 DJ TOTTO feat. 3L - Youkakushi -Ayakashi Kakushi-
+[03:05:46] BanchoBot: Changed match mode to Osu
+[03:05:52] BCraftMG: !mp mods dt freemod
+[03:05:54] BanchoBot: Enabled DoubleTime, enabled FreeMod
+[03:05:57] BCraftMG: !mp timer 120
+[03:05:58] BanchoBot: Countdown aborted
+[03:05:58] BanchoBot: Countdown ends in 2 minutes
+[03:06:56] BanchoBot: Decheg_777 joined in slot 1 for team blue.
+[03:06:59] BanchoBot: Countdown ends in 1 minute
+[03:07:22] BanchoBot: All players are ready
+[03:07:24] Geag: glhfff
+[03:07:28] BanchoBot: Countdown ends in 30 seconds
+[03:07:30] Decheg_777: gl
+[03:07:36] BCraftMG: !mp settings
+[03:07:37] BanchoBot: Room name: PTFM2: (Geag) vs (Decheg_777), History: https://osu.ppy.sh/mp/112710608
+[03:07:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/2613128 DJ TOTTO feat. 3L - Youkakushi -Ayakashi Kakushi-
+[03:07:37] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:07:37] BanchoBot: Active mods: DoubleTime, Freemod
+[03:07:37] BanchoBot: Players: 2
+[03:07:37] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10997439 Decheg_777      [Team Blue / NoFail, Hidden]
+[03:07:37] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16052525 Geag            [Team Red  / NoFail]
+[03:07:40] BCraftMG: !mp start 5 glhf
+[03:07:42] BanchoBot: Countdown aborted
+[03:07:42] BanchoBot: Match starts in 5 seconds
+[03:07:42] BanchoBot: Queued the match to start in 5 seconds
+[03:07:43] BanchoBot: Match starts in 4 seconds
+[03:07:45] BanchoBot: Match starts in 3 seconds
+[03:07:45] BanchoBot: Good luck, have fun!
+[03:07:47] BanchoBot: The match has started!
+[03:09:14] BanchoBot: Geag finished playing (Score: 469686, PASSED).
+[03:09:15] BanchoBot: Decheg_777 finished playing (Score: 587297, PASSED).
+[03:09:15] BanchoBot: The match has finished!
+[03:09:24] Geag: i didnt combo oops
+[03:09:27] BCraftMG: Geag | 0 : 1 | Decheg_777 // Next to pick: Decheg_777
+[03:09:29] BCraftMG: !mp timer 120
+[03:09:30] BanchoBot: Countdown ends in 2 minutes
+[03:09:49] BanchoBot: Decheg_777 left the game.
+[03:10:30] BanchoBot: Countdown ends in 1 minute
+[03:10:45] BanchoBot: Decheg_777 joined in slot 1 for team blue.
+[03:10:49] Decheg_777: dtfm2
+[03:10:54] Decheg_777: dtfm3
+[03:11:01] BanchoBot: Countdown ends in 30 seconds
+[03:11:03] BCraftMG: !mp map 3688128 0
+[03:11:04] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3688128 ZUN - Extend Ash ~ Houraijin
+[03:11:04] BanchoBot: Changed match mode to Osu
+[03:11:05] BCraftMG: !mp timer 120
+[03:11:06] BanchoBot: Countdown aborted
+[03:11:06] BanchoBot: Countdown ends in 2 minutes
+[03:11:12] BanchoBot: Decheg_777 left the game.
+[03:11:29] BanchoBot: Decheg_777 joined in slot 1 for team blue.
+[03:11:35] Decheg_777: offcet lost
+[03:11:38] Geag: gg
+[03:11:38] BanchoBot: Decheg_777 left the game.
+[03:12:00] BanchoBot: Decheg_777 joined in slot 1 for team blue.
+[03:12:06] Geag: i play with no offset and get 94 acc
+[03:12:06] BanchoBot: Countdown ends in 1 minute
+[03:12:08] BanchoBot: All players are ready
+[03:12:10] BCraftMG: !mp settings
+[03:12:11] BanchoBot: Room name: PTFM2: (Geag) vs (Decheg_777), History: https://osu.ppy.sh/mp/112710608
+[03:12:11] BanchoBot: Beatmap: https://osu.ppy.sh/b/3688128 ZUN - Extend Ash ~ Houraijin
+[03:12:11] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:12:11] BanchoBot: Active mods: DoubleTime, Freemod
+[03:12:11] BanchoBot: Players: 2
+[03:12:11] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10997439 Decheg_777      [Team Blue / NoFail, Hidden]
+[03:12:11] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16052525 Geag            [Team Red  / NoFail]
+[03:12:12] Geag: glhf
+[03:12:13] BCraftMG: !mp start 5 glhf
+[03:12:15] BanchoBot: Countdown aborted
+[03:12:15] BanchoBot: Match starts in 5 seconds
+[03:12:15] BanchoBot: Queued the match to start in 5 seconds
+[03:12:16] BanchoBot: Match starts in 4 seconds
+[03:12:18] BanchoBot: Match starts in 3 seconds
+[03:12:19] BanchoBot: Good luck, have fun!
+[03:12:21] BanchoBot: The match has started!
+[03:14:13] BanchoBot: Geag finished playing (Score: 1004556, PASSED).
+[03:14:13] BanchoBot: Decheg_777 finished playing (Score: 1000614, PASSED).
+[03:14:13] BanchoBot: The match has finished!
+[03:14:24] Decheg_777: oh
+[03:14:26] Geag: o
+[03:14:28] BCraftMG: Geag | 1 : 1 | Decheg_777 // Next to pick: Geag
+[03:14:29] BCraftMG: wtf
+[03:14:29] BCraftMG: !mp timer 120
+[03:14:32] BanchoBot: Countdown ends in 2 minutes
+[03:14:36] Geag: i got my one
+[03:14:42] Decheg_777: sb
+[03:14:54] Geag: nm4
+[03:15:04] BCraftMG: !mp map 4438538 0
+[03:15:05] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4438538 tn-shi - Synthesis.
+[03:15:05] BanchoBot: Changed match mode to Osu
+[03:15:06] BCraftMG: !mp mods 1
+[03:15:07] BanchoBot: Enabled NoFail, disabled FreeMod
+[03:15:10] BCraftMG: !mp timer 120
+[03:15:11] BanchoBot: Countdown aborted
+[03:15:11] BanchoBot: Countdown ends in 2 minutes
+[03:15:13] Geag: this map is so fun
+[03:15:17] BanchoBot: All players are ready
+[03:15:17] Geag: glhf
+[03:15:19] BCraftMG: !mp settings
+[03:15:20] BanchoBot: Room name: PTFM2: (Geag) vs (Decheg_777), History: https://osu.ppy.sh/mp/112710608
+[03:15:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/4438538 tn-shi - Synthesis.
+[03:15:20] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:15:20] BanchoBot: Active mods: NoFail
+[03:15:20] BanchoBot: Players: 2
+[03:15:20] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10997439 Decheg_777      [Team Blue]
+[03:15:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16052525 Geag            [Team Red ]
+[03:15:21] BCraftMG: !mp start 5 glhf
+[03:15:23] BanchoBot: Countdown aborted
+[03:15:23] BanchoBot: Match starts in 5 seconds
+[03:15:23] BanchoBot: Queued the match to start in 5 seconds
+[03:15:24] BanchoBot: Match starts in 4 seconds
+[03:15:25] BanchoBot: Match starts in 3 seconds
+[03:15:26] BanchoBot: Good luck, have fun!
+[03:15:28] BanchoBot: The match has started!
+[03:19:24] BanchoBot: Geag finished playing (Score: 951567, PASSED).
+[03:19:24] BanchoBot: Decheg_777 finished playing (Score: 404638, PASSED).
+[03:19:24] BanchoBot: The match has finished!
+[03:19:34] BCraftMG: Geag | 2 : 1 | Decheg_777 // Next to pick: Decheg_777
+[03:19:36] BCraftMG: !mp timer 120
+[03:19:36] BanchoBot: Countdown ends in 2 minutes
+[03:19:38] Geag: i got my 2
+[03:19:58] Decheg_777: fm3
+[03:20:12] BCraftMG: !mp map 3373369 0
+[03:20:13] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3373369 Camellia - Routing
+[03:20:13] BanchoBot: Changed match mode to Osu
+[03:20:17] BCraftMG: !mp mods Freemod
+[03:20:17] BanchoBot: Disabled all mods, enabled FreeMod
+[03:20:19] BCraftMG: !mp timer 120
+[03:20:20] BanchoBot: Countdown aborted
+[03:20:20] BanchoBot: Countdown ends in 2 minutes
+[03:20:31] BanchoBot: All players are ready
+[03:20:34] Geag: glhf
+[03:20:38] Decheg_777: gl
+[03:20:39] BCraftMG: !mp settings
+[03:20:40] BanchoBot: Room name: PTFM2: (Geag) vs (Decheg_777), History: https://osu.ppy.sh/mp/112710608
+[03:20:40] BanchoBot: Beatmap: https://osu.ppy.sh/b/3373369 Camellia - Routing
+[03:20:40] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:20:40] BanchoBot: Active mods: Freemod
+[03:20:40] BanchoBot: Players: 2
+[03:20:40] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10997439 Decheg_777      [Team Blue / NoFail, Hidden]
+[03:20:40] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16052525 Geag            [Team Red  / NoFail]
+[03:20:41] BCraftMG: !mp start 5 glhf
+[03:20:41] BanchoBot: Countdown aborted
+[03:20:41] BanchoBot: Match starts in 5 seconds
+[03:20:41] BanchoBot: Queued the match to start in 5 seconds
+[03:20:42] BanchoBot: Match starts in 4 seconds
+[03:20:44] BanchoBot: Match starts in 3 seconds
+[03:20:45] BanchoBot: Good luck, have fun!
+[03:20:47] BanchoBot: The match has started!
+[03:22:52] BanchoBot: Decheg_777 finished playing (Score: 989229, PASSED).
+[03:22:52] BanchoBot: Geag finished playing (Score: 635292, PASSED).
+[03:22:52] BanchoBot: The match has finished!
+[03:23:02] Geag: ns decheg
+[03:23:08] Decheg_777: thanku
+[03:23:08] Geag: hr1
+[03:23:21] BCraftMG: !mp map 2850593 0
+[03:23:22] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2850593 Adust Rain - Misery Song
+[03:23:22] BanchoBot: Changed match mode to Osu
+[03:23:24] BCraftMG: !mp mods HR NF
+[03:23:25] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[03:23:26] BCraftMG: !mp timer 120
+[03:23:27] BanchoBot: Countdown ends in 2 minutes
+[03:23:31] Geag: i die now
+[03:23:34] Geag: glhf
+[03:23:47] BanchoBot: All players are ready
+[03:23:55] Decheg_777: gl!
+[03:24:07] BCraftMG: !mp settings
+[03:24:08] BanchoBot: Room name: PTFM2: (Geag) vs (Decheg_777), History: https://osu.ppy.sh/mp/112710608
+[03:24:08] BanchoBot: Beatmap: https://osu.ppy.sh/b/2850593 Adust Rain - Misery Song
+[03:24:08] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:24:08] BanchoBot: Active mods: NoFail, HardRock
+[03:24:08] BanchoBot: Players: 2
+[03:24:08] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10997439 Decheg_777      [Team Blue]
+[03:24:08] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16052525 Geag            [Team Red ]
+[03:24:10] BCraftMG: !mp start 5 glhf
+[03:24:11] BanchoBot: Countdown aborted
+[03:24:11] BanchoBot: Match starts in 5 seconds
+[03:24:11] BanchoBot: Queued the match to start in 5 seconds
+[03:24:12] BanchoBot: Match starts in 4 seconds
+[03:24:14] BanchoBot: Match starts in 3 seconds
+[03:24:15] BanchoBot: Good luck, have fun!
+[03:24:17] BanchoBot: The match has started!
+[03:28:35] BanchoBot: Decheg_777 finished playing (Score: 592538, PASSED).
+[03:28:36] BanchoBot: Geag finished playing (Score: 638673, PASSED).
+[03:28:36] BanchoBot: The match has finished!
+[03:28:53] Geag: wtf that was playable
+[03:28:58] BCraftMG: Geag | 3 : 2 | Decheg_777 // Next to pick: Decheg_777
+[03:29:01] BCraftMG: scam
+[03:29:02] BCraftMG: !mp timer 120
+[03:29:02] BanchoBot: Countdown ends in 2 minutes
+[03:29:23] Decheg_777: nm1
+[03:29:30] Geag: i thought there was going to be more spacing
+[03:29:49] BCraftMG: !mp map 1561745 0
+[03:29:50] BCraftMG: !mp mods 1
+[03:29:50] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1561745 Shano x 40mP - Kiritorisen (Speed Up Ver.)
+[03:29:50] BanchoBot: Changed match mode to Osu
+[03:29:52] BanchoBot: Enabled NoFail, disabled FreeMod
+[03:29:52] BCraftMG: !mp timer 120
+[03:29:53] BanchoBot: Countdown aborted
+[03:29:53] BanchoBot: Countdown ends in 2 minutes
+[03:29:59] BanchoBot: All players are ready
+[03:30:00] Geag: glhf
+[03:30:06] Decheg_777: gl
+[03:30:32] BCraftMG: !mp settings
+[03:30:34] BanchoBot: Room name: PTFM2: (Geag) vs (Decheg_777), History: https://osu.ppy.sh/mp/112710608
+[03:30:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/1561745 Shano x 40mP - Kiritorisen (Speed Up Ver.)
+[03:30:34] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:30:34] BanchoBot: Active mods: NoFail
+[03:30:34] BanchoBot: Players: 2
+[03:30:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10997439 Decheg_777      [Team Blue]
+[03:30:34] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16052525 Geag            [Team Red ]
+[03:30:35] BCraftMG: !mp start 5 glhf
+[03:30:35] BanchoBot: Countdown aborted
+[03:30:35] BanchoBot: Match starts in 5 seconds
+[03:30:35] BanchoBot: Queued the match to start in 5 seconds
+[03:30:37] BanchoBot: Match starts in 4 seconds
+[03:30:38] BanchoBot: Match starts in 3 seconds
+[03:30:39] BanchoBot: Good luck, have fun!
+[03:30:41] BanchoBot: The match has started!
+[03:32:09] BanchoBot: Decheg_777 finished playing (Score: 777742, PASSED).
+[03:32:11] BanchoBot: Geag finished playing (Score: 536708, PASSED).
+[03:32:11] BanchoBot: The match has finished!
+[03:32:21] Geag: 0 combined 100s
+[03:32:21] Geag: lmao
+[03:32:24] BCraftMG: Geag | 3 : 3 | Decheg_777 // Next to pick: Geag
+[03:32:27] Geag: ns
+[03:32:31] BCraftMG: !mp timer 120
+[03:32:31] BanchoBot: Countdown ends in 2 minutes
+[03:32:51] Geag: nm2
+[03:33:32] BanchoBot: Countdown ends in 1 minute
+[03:33:35] Geag: @BCraftMG nm2
+[03:33:37] BCraftMG: !mp map 3142708 0
+[03:33:38] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3142708 Eternal Tears Of Sorrow - Dark Alliance
+[03:33:38] BanchoBot: Changed match mode to Osu
+[03:33:40] BCraftMG: !mp mods NF
+[03:33:42] BanchoBot: Enabled NoFail, disabled FreeMod
+[03:33:43] BCraftMG: !mp timer 120
+[03:33:44] BanchoBot: Countdown aborted
+[03:33:44] BanchoBot: Countdown ends in 2 minutes
+[03:33:45] BanchoBot: All players are ready
+[03:33:46] BCraftMG: !mp settings
+[03:33:47] Geag: glhf
+[03:33:47] BanchoBot: Room name: PTFM2: (Geag) vs (Decheg_777), History: https://osu.ppy.sh/mp/112710608
+[03:33:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/3142708 Eternal Tears Of Sorrow - Dark Alliance
+[03:33:47] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:33:47] BanchoBot: Active mods: NoFail
+[03:33:47] BanchoBot: Players: 2
+[03:33:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10997439 Decheg_777      [Team Blue]
+[03:33:47] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16052525 Geag            [Team Red ]
+[03:33:48] BCraftMG: !mp start 5 glhf
+[03:33:49] BanchoBot: Countdown aborted
+[03:33:49] BanchoBot: Match starts in 5 seconds
+[03:33:49] BanchoBot: Queued the match to start in 5 seconds
+[03:33:51] BanchoBot: Match starts in 4 seconds
+[03:33:52] BanchoBot: Match starts in 3 seconds
+[03:33:54] BanchoBot: Good luck, have fun!
+[03:33:55] Decheg_777: gl
+[03:33:55] BanchoBot: The match has started!
+[03:37:53] BanchoBot: Decheg_777 finished playing (Score: 684935, PASSED).
+[03:37:53] BanchoBot: Geag finished playing (Score: 998302, PASSED).
+[03:37:53] BanchoBot: The match has finished!
+[03:38:02] BCraftMG: Geag | 4 : 3 | Decheg_777 // Next to pick: Decheg_777
+[03:38:03] Decheg_777: fm1
+[03:38:03] BCraftMG: !mp timer 120
+[03:38:04] BanchoBot: Countdown ends in 2 minutes
+[03:38:09] BanchoBot: Decheg_777 left the game.
+[03:38:10] BCraftMG: !mp map 4418212 0
+[03:38:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4418212 Apollo - Brazil
+[03:38:10] BanchoBot: Changed match mode to Osu
+[03:38:14] BCraftMG: !mp mods Freemod
+[03:38:15] BanchoBot: Disabled all mods, enabled FreeMod
+[03:38:19] Geag: aksdhjakhsdjkhsd
+[03:38:33] BCraftMG: !mp timer 120
+[03:38:35] BanchoBot: Countdown aborted
+[03:38:35] BanchoBot: Countdown ends in 2 minutes
+[03:39:24] BanchoBot: Decheg_777 joined in slot 1 for team blue.
+[03:39:31] Geag: this pick is so funny
+[03:39:35] Geag: glhf
+[03:39:35] BanchoBot: Countdown ends in 1 minute
+[03:39:37] BCraftMG: brazil
+[03:39:39] BCraftMG: !mp settings
+[03:39:39] BanchoBot: Room name: PTFM2: (Geag) vs (Decheg_777), History: https://osu.ppy.sh/mp/112710608
+[03:39:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/4418212 Apollo - Brazil
+[03:39:39] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:39:39] BanchoBot: Active mods: Freemod
+[03:39:39] BanchoBot: Players: 2
+[03:39:39] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/10997439 Decheg_777      [Team Blue / NoFail, Easy]
+[03:39:39] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16052525 Geag            [Team Red  / NoFail, Hidden]
+[03:39:45] BanchoBot: All players are ready
+[03:39:46] BCraftMG: !mp settings
+[03:39:48] Geag: hippo cup pick fr
+[03:39:48] BanchoBot: Room name: PTFM2: (Geag) vs (Decheg_777), History: https://osu.ppy.sh/mp/112710608
+[03:39:48] BanchoBot: Beatmap: https://osu.ppy.sh/b/4418212 Apollo - Brazil
+[03:39:48] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:39:48] BanchoBot: Active mods: Freemod
+[03:39:48] BanchoBot: Players: 2
+[03:39:48] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10997439 Decheg_777      [Team Blue / NoFail, Easy]
+[03:39:48] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16052525 Geag            [Team Red  / NoFail, Hidden]
+[03:39:50] BCraftMG: !mp start 5 glhf
+[03:39:51] BanchoBot: Countdown aborted
+[03:39:51] BanchoBot: Match starts in 5 seconds
+[03:39:51] BanchoBot: Queued the match to start in 5 seconds
+[03:39:52] BanchoBot: Match starts in 4 seconds
+[03:39:54] BanchoBot: Match starts in 3 seconds
+[03:39:55] BanchoBot: Good luck, have fun!
+[03:39:57] BanchoBot: The match has started!
+[03:40:43] BanchoBot: Geag finished playing (Score: 329810, PASSED).
+[03:40:44] BanchoBot: Decheg_777 finished playing (Score: 441992, PASSED).
+[03:40:44] BanchoBot: The match has finished!
+[03:40:50] Geag: wtf decheg
+[03:40:51] Geag: ns
+[03:40:57] Decheg_777: ah
+[03:40:57] BCraftMG: ez btw
+[03:41:00] Decheg_777: 40s map
+[03:41:04] BCraftMG: Geag | 4 : 4 | Decheg_777 // Next to pick: Geag
+[03:41:06] BCraftMG: !mp timer 120
+[03:41:07] BanchoBot: Countdown ends in 2 minutes
+[03:41:17] Geag: i am a little bit out of picks
+[03:41:17] Geag: nm3
+[03:41:33] BCraftMG: !mp map 1279490 0
+[03:41:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1279490 Rita - dorchadas
+[03:41:34] BanchoBot: Changed match mode to Osu
+[03:41:36] BCraftMG: !mp mods NF
+[03:41:37] BanchoBot: Enabled NoFail, disabled FreeMod
+[03:41:38] BCraftMG: !mp timer 120
+[03:41:38] BanchoBot: Countdown aborted
+[03:41:38] BanchoBot: Countdown ends in 2 minutes
+[03:42:00] BanchoBot: All players are ready
+[03:42:03] Geag: glhff
+[03:42:07] Decheg_777: fl
+[03:42:08] Decheg_777: gl
+[03:42:19] BCraftMG: !mp settings
+[03:42:20] BanchoBot: Room name: PTFM2: (Geag) vs (Decheg_777), History: https://osu.ppy.sh/mp/112710608
+[03:42:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/1279490 Rita - dorchadas
+[03:42:20] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:42:20] BanchoBot: Active mods: NoFail
+[03:42:20] BanchoBot: Players: 2
+[03:42:20] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10997439 Decheg_777      [Team Blue]
+[03:42:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16052525 Geag            [Team Red ]
+[03:42:21] BCraftMG: !mp start 5 glhf
+[03:42:21] BanchoBot: Countdown aborted
+[03:42:21] BanchoBot: Match starts in 5 seconds
+[03:42:21] BanchoBot: Queued the match to start in 5 seconds
+[03:42:23] BanchoBot: Match starts in 4 seconds
+[03:42:24] BanchoBot: Match starts in 3 seconds
+[03:42:25] BanchoBot: Good luck, have fun!
+[03:42:27] BanchoBot: The match has started!
+[03:47:07] BanchoBot: Decheg_777 finished playing (Score: 654672, PASSED).
+[03:47:07] BanchoBot: Geag finished playing (Score: 801218, PASSED).
+[03:47:07] BanchoBot: The match has finished!
+[03:47:47] BanchoBot: Decheg_777 left the game.
+[03:49:21] BanchoBot: Decheg_777 joined in slot 1 for team blue.
+[03:49:33] BCraftMG: a
+[03:49:34] Decheg_777: dtfm1
+[03:49:41] Geag: a
+[03:49:45] Decheg_777: a
+[03:49:46] BCraftMG: 1 sec
+[03:50:10] BCraftMG: !mp map 3399306 0
+[03:50:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3399306 Ohara Yuiko - Massugu
+[03:50:11] BanchoBot: Changed match mode to Osu
+[03:50:13] BCraftMG: !mp mods Freemod DT
+[03:50:13] BanchoBot: Enabled DoubleTime, enabled FreeMod
+[03:50:15] BCraftMG: ok there we go
+[03:50:17] BCraftMG: !mp timer 120
+[03:50:18] BanchoBot: Countdown ends in 2 minutes
+[03:50:22] Geag: glhf
+[03:50:34] BanchoBot: All players are ready
+[03:50:36] BCraftMG: !mp settings
+[03:50:37] BanchoBot: Room name: PTFM2: (Geag) vs (Decheg_777), History: https://osu.ppy.sh/mp/112710608
+[03:50:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/3399306 Ohara Yuiko - Massugu
+[03:50:37] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:50:37] BanchoBot: Active mods: DoubleTime, Freemod
+[03:50:37] BanchoBot: Players: 2
+[03:50:37] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/10997439 Decheg_777      [Team Blue / NoFail, Hidden]
+[03:50:37] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16052525 Geag            [Team Red ]
+[03:50:44] BanchoBot: All players are ready
+[03:50:55] BCraftMG: !mp settings
+[03:50:55] BanchoBot: Room name: PTFM2: (Geag) vs (Decheg_777), History: https://osu.ppy.sh/mp/112710608
+[03:50:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/3399306 Ohara Yuiko - Massugu
+[03:50:55] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:50:55] BanchoBot: Active mods: DoubleTime, Freemod
+[03:50:55] BanchoBot: Players: 2
+[03:50:55] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10997439 Decheg_777      [Team Blue / NoFail, Hidden]
+[03:50:55] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16052525 Geag            [Team Red  / NoFail]
+[03:50:57] BCraftMG: !mp start 5 glhf
+[03:50:58] BanchoBot: Countdown aborted
+[03:50:58] BanchoBot: Match starts in 5 seconds
+[03:50:58] BanchoBot: Queued the match to start in 5 seconds
+[03:50:59] BanchoBot: Match starts in 4 seconds
+[03:51:01] BanchoBot: Match starts in 3 seconds
+[03:51:02] BanchoBot: Good luck, have fun!
+[03:51:04] BanchoBot: The match has started!
+[03:54:09] BanchoBot: Geag finished playing (Score: 636485, PASSED).
+[03:54:09] BanchoBot: Decheg_777 finished playing (Score: 877067, PASSED).
+[03:54:09] BanchoBot: The match has finished!
+[03:54:26] BCraftMG: !mp map 2241054 0
+[03:54:27] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2241054 Chiyoko - Baby Fantastic! (Epsilon Remix)
+[03:54:27] BanchoBot: Changed match mode to Osu
+[03:54:31] BCraftMG: !mp mods Freemod
+[03:54:32] BanchoBot: Disabled all mods, enabled FreeMod
+[03:54:33] BCraftMG: !mp timer 120
+[03:54:33] BanchoBot: Countdown ends in 2 minutes
+[03:54:35] BCraftMG: well
+[03:54:50] BanchoBot: Decheg_777 left the game.
+[03:54:50] Geag: well
+[03:55:34] BanchoBot: Countdown ends in 1 minute
+[03:56:01] BanchoBot: Decheg_777 joined in slot 1 for team blue.
+[03:56:04] BanchoBot: Countdown ends in 30 seconds
+[03:56:13] Geag: decheg, mutual?
+[03:56:20] Decheg_777: sure
+[03:56:24] BanchoBot: Countdown ends in 10 seconds
+[03:56:24] Decheg_777: <3
+[03:56:28] BanchoBot: Countdown ends in 5 seconds
+[03:56:30] BanchoBot: Countdown ends in 4 seconds
+[03:56:31] BanchoBot: Countdown ends in 3 seconds
+[03:56:33] BanchoBot: Countdown ends in 2 seconds
+[03:56:33] Geag: :D
+[03:56:33] BanchoBot: Countdown ends in 1 second
+[03:56:34] BanchoBot: Countdown finished
+[03:56:34] Geag: glhf
+[03:56:41] Geag: this match was awesome
+[03:56:43] BCraftMG: !mp settings
+[03:56:44] BanchoBot: Room name: PTFM2: (Geag) vs (Decheg_777), History: https://osu.ppy.sh/mp/112710608
+[03:56:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/2241054 Chiyoko - Baby Fantastic! (Epsilon Remix)
+[03:56:44] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:56:44] BanchoBot: Active mods: Freemod
+[03:56:44] BanchoBot: Players: 2
+[03:56:44] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/10997439 Decheg_777      [Team Blue / NoFail, Hidden]
+[03:56:44] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16052525 Geag            [Team Red  / NoFail]
+[03:56:47] BanchoBot: All players are ready
+[03:56:49] BCraftMG: !mp settings
+[03:56:50] BanchoBot: Room name: PTFM2: (Geag) vs (Decheg_777), History: https://osu.ppy.sh/mp/112710608
+[03:56:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/2241054 Chiyoko - Baby Fantastic! (Epsilon Remix)
+[03:56:50] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:56:50] BanchoBot: Active mods: Freemod
+[03:56:50] BanchoBot: Players: 2
+[03:56:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10997439 Decheg_777      [Team Blue / NoFail, Hidden]
+[03:56:50] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16052525 Geag            [Team Red  / NoFail]
+[03:56:52] BCraftMG: !mp start 5 glhf
+[03:56:53] BanchoBot: Match starts in 5 seconds
+[03:56:53] BanchoBot: Queued the match to start in 5 seconds
+[03:56:54] BanchoBot: Match starts in 4 seconds
+[03:56:55] BanchoBot: Match starts in 3 seconds
+[03:56:57] BanchoBot: Good luck, have fun!
+[03:56:58] Decheg_777: :D
+[03:56:58] BanchoBot: The match has started!
+[04:02:41] BanchoBot: Geag finished playing (Score: 338311, PASSED).
+[04:02:41] BanchoBot: Decheg_777 finished playing (Score: 304836, PASSED).
+[04:02:41] BanchoBot: The match has finished!
+[04:02:57] Geag: ggwp
+[04:03:00] Decheg_777: gg
+[04:03:01] BCraftMG: ggwpp
+[04:03:04] Geag: ty for ref
+[04:03:05] Decheg_777: thx for ref and game
+[04:03:07] BanchoBot: Decheg_777 left the game.
+[04:03:11] Geag: o/
+[04:03:22] BanchoBot: Geag left the game.
+[04:03:27] BCraftMG: !mp close
+[04:03:28] BanchoBot: Closed the match

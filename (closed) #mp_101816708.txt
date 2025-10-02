@@ -1,0 +1,561 @@
+[20:48:18] Joined #mp_101816708
+[20:48:18] BCraftMG: !mp settings
+[20:48:20] BanchoBot: Room name: STT3: (a) vs (:grimacing:), History: https://osu.ppy.sh/mp/101816708
+[20:48:20] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[20:48:20] BanchoBot: Players: 0
+[20:48:35] BCraftMG: !mp set 2 3 12
+[20:48:37] BanchoBot: Changed match settings to 12 slots, TeamVs, ScoreV2
+[20:48:47] BCraftMG: !mp mods Freemod
+[20:48:48] BanchoBot: Disabled all mods, enabled FreeMod
+[20:49:23] BCraftMG: !mp settings
+[20:49:23] BanchoBot: Room name: STT3: (a) vs (:grimacing:), History: https://osu.ppy.sh/mp/101816708
+[20:49:23] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:49:23] BanchoBot: Active mods: Freemod
+[20:49:23] BanchoBot: Players: 0
+[20:52:56] BCraftMG: !mp invite #9878349
+[20:52:56] BanchoBot: User not found
+[20:52:58] BCraftMG: !mp invite #13445197
+[20:52:58] BanchoBot: Invited calculus to the room
+[20:53:00] BCraftMG: !mp invite #6512490
+[20:53:00] BanchoBot: Invited Simonosis to the room
+[20:53:00] BCraftMG: !mp invite #16052525
+[20:53:00] BanchoBot: User not found
+[20:53:00] BCraftMG: !mp invite #11536421
+[20:53:00] BanchoBot: Invited zfr to the room
+[20:53:02] BCraftMG: !mp invite #11526714
+[20:53:02] BanchoBot: User not found
+[20:53:02] BCraftMG: !mp invite #19641527
+[20:53:02] BanchoBot: Invited Amber397 to the room
+[20:53:04] BCraftMG: !mp invite #3925586
+[20:53:04] BanchoBot: Invited Loazo to the room
+[20:53:04] BCraftMG: !mp invite #18365113
+[20:53:04] BanchoBot: Invited mirinshoyu to the room
+[20:53:06] BCraftMG: !mp invite #14463439
+[20:53:06] BanchoBot: Invited _Hachikun_ to the room
+[20:53:06] BCraftMG: !mp invite #10398422
+[20:53:06] BanchoBot: Invited ScautTheGamer to the room
+[20:53:17] BanchoBot: Simonosis joined in slot 1 for team blue.
+[20:53:23] BCraftMG: o/
+[20:53:41] Simonosis: o/
+[20:53:48] BanchoBot: Amber397 joined in slot 2 for team red.
+[20:53:51] BanchoBot: ScautTheGamer joined in slot 3 for team blue.
+[20:54:06] BanchoBot: Simonosis moved to slot 12
+[20:54:08] BanchoBot: ScautTheGamer moved to slot 1
+[20:54:10] BanchoBot: ScautTheGamer changed to Red
+[20:54:13] BanchoBot: zfr joined in slot 3 for team blue.
+[20:54:20] BCraftMG: amber you wanna pick warmup while waiting?
+[20:54:24] BCraftMG: !mp host Amber397
+[20:54:26] BanchoBot: Amber397 became the host.
+[20:54:26] BanchoBot: Changed match host to Amber397
+[20:54:28] BanchoBot: Beatmap changed to: Masayoshi Minoshima - Alice Maestera feat. nomico [-Sylvari & Zelq's Lunatic] (https://osu.ppy.sh/b/2738811)
+[20:54:34] BanchoBot: Host is changing map...
+[20:55:11] BanchoBot: mirinshoyu joined in slot 4 for team red.
+[20:55:22] BanchoBot: _Hachikun_ joined in slot 5 for team blue.
+[20:55:27] zfr: NA dont get firetrucked in scheduling challenge (real)
+[20:55:31] BCraftMG: Warmups must be between 4.0 and 7.0 stars and must be 3:30 in drain time or less after mods are applied. A warmup map cannot be from the current week's pool.
+[20:55:39] BCraftMG: :skull:
+[20:55:42] BanchoBot: calculus joined in slot 6 for team red.
+[20:55:49] BanchoBot: zfr moved to slot 11
+[20:55:55] BanchoBot: Beatmap changed to: Chaos City Niigata - Ukiyoe Yokochou [nika mika's Sanbanchou Another] (https://osu.ppy.sh/b/1566637)
+[20:56:22] BCraftMG: you guy can start the warm up on your own ^^
+[20:56:26] BanchoBot: mirinshoyu moved to slot 3
+[20:56:30] BanchoBot: Loazo joined in slot 4 for team red.
+[20:56:36] BanchoBot: zfr moved to slot 7
+[20:56:49] BanchoBot: _Hachikun_ changed to Red
+[20:57:11] BanchoBot: calculus changed to Blue
+[20:57:11] BanchoBot: calculus changed to Red
+[20:57:11] BanchoBot: calculus changed to Blue
+[20:57:13] BanchoBot: calculus changed to Red
+[20:57:16] BanchoBot: calculus changed to Blue
+[20:57:20] BanchoBot: _Hachikun_ changed to Blue
+[20:57:20] BanchoBot: _Hachikun_ changed to Red
+[20:57:20] BanchoBot: _Hachikun_ changed to Blue
+[20:57:20] BanchoBot: _Hachikun_ changed to Red
+[20:57:20] BanchoBot: _Hachikun_ changed to Blue
+[20:57:22] BanchoBot: _Hachikun_ changed to Red
+[20:57:42] BanchoBot: _Hachikun_ moved to slot 11
+[20:57:44] BanchoBot: _Hachikun_ moved to slot 5
+[20:57:44] BanchoBot: _Hachikun_ moved to slot 11
+[20:57:46] BanchoBot: zfr moved to slot 5
+[20:57:51] BanchoBot: The match has started!
+[21:00:04] BanchoBot: zfr finished playing (Score: 535974, PASSED).
+[21:00:04] BanchoBot: mirinshoyu finished playing (Score: 707097, PASSED).
+[21:00:04] BanchoBot: Simonosis finished playing (Score: 434891, PASSED).
+[21:00:04] BanchoBot: ScautTheGamer finished playing (Score: 379201, PASSED).
+[21:00:04] BanchoBot: Amber397 finished playing (Score: 584155, PASSED).
+[21:00:04] BanchoBot: _Hachikun_ finished playing (Score: 157656, PASSED).
+[21:00:06] BanchoBot: Loazo finished playing (Score: 274286, PASSED).
+[21:00:10] BanchoBot: calculus finished playing (Score: 387434, PASSED).
+[21:00:10] BanchoBot: The match has finished!
+[21:00:36] BanchoBot: calculus became the host.
+[21:00:41] BanchoBot: zfr became the host.
+[21:00:43] BanchoBot: Host is changing map...
+[21:01:55] BanchoBot: Beatmap changed to: inabakumori - Lost Umbrella [Expert] (https://osu.ppy.sh/b/2708392)
+[21:02:12] mirinshoyu: nice map
+[21:02:19] zfr: thanks
+[21:02:34] mirinshoyu: i love it
+[21:02:47] BCraftMG: a will be red, :grimacing: will be blue for this match
+[21:03:01] BCraftMG: slots is not important for now, but please stay near your teammates ^^
+[21:03:02] BanchoBot: calculus left the game.
+[21:03:15] BanchoBot: Loazo moved to slot 8
+[21:03:17] BanchoBot: _Hachikun_ moved to slot 4
+[21:03:19] BanchoBot: _Hachikun_ moved to slot 6
+[21:03:19] BanchoBot: _Hachikun_ moved to slot 7
+[21:03:21] BanchoBot: Loazo moved to slot 4
+[21:03:24] BanchoBot: zfr moved to slot 11
+[21:03:26] BanchoBot: _Hachikun_ moved to slot 5
+[21:03:32] _Hachikun_: :)
+[21:03:34] BanchoBot: Amber397 moved to slot 7
+[21:03:34] BanchoBot: Amber397 moved to slot 2
+[21:03:41] BanchoBot: All players are ready
+[21:03:42] BCraftMG: (:
+[21:03:45] BanchoBot: The match has started!
+[21:04:16] BanchoBot: calculus joined in slot 6 for team red.
+[21:04:31] BanchoBot: calculus left the game.
+[21:07:15] BanchoBot: Simonosis finished playing (Score: 293373, PASSED).
+[21:07:15] BanchoBot: Amber397 finished playing (Score: 283213, PASSED).
+[21:07:15] BanchoBot: Loazo finished playing (Score: 532602, PASSED).
+[21:07:15] BanchoBot: mirinshoyu finished playing (Score: 361401, PASSED).
+[21:07:15] BanchoBot: ScautTheGamer finished playing (Score: 518702, PASSED).
+[21:07:17] BanchoBot: zfr finished playing (Score: 502838, PASSED).
+[21:07:17] BanchoBot: _Hachikun_ finished playing (Score: 113063, PASSED).
+[21:07:17] BanchoBot: The match has finished!
+[21:07:20] BCraftMG: !mp clearhost
+[21:07:22] BanchoBot: Cleared match host
+[21:07:29] BCraftMG: whos rolling for :grimacing:?
+[21:07:56] zfr: calculus has the best rolls
+[21:07:56] BanchoBot: calculus joined in slot 6 for team red.
+[21:08:00] BCraftMG: we will start with protect first
+[21:08:03] zfr: calc roll
+[21:08:04] BCraftMG: both team please !roll
+[21:08:05] zfr: :D
+[21:08:05] Simonosis: !roll
+[21:08:05] BanchoBot: Simonosis rolls 15 point(s)
+[21:08:14] calculus: im captain
+[21:08:16] calculus: !roll
+[21:08:16] BanchoBot: calculus rolls 20 point(s)
+[21:08:18] Amber397: !roll
+[21:08:18] BanchoBot: Amber397 rolls 4 point(s)
+[21:08:22] calculus: wait zfr is captain
+[21:08:22] zfr: FKLMFSJKLNMsfJKLSF
+[21:08:25] zfr: LMAO
+[21:08:27] calculus: wait neverminf
+[21:08:27] mirinshoyu: LOL
+[21:08:27] Amber397: :(
+[21:08:29] Loazo: :(
+[21:08:32] BCraftMG: ...
+[21:08:33] calculus: :D
+[21:08:38] _Hachikun_: reroll?
+[21:08:38] Amber397: いつもの
+[21:08:40] zfr: no
+[21:08:41] BCraftMG: ill accept roll from calculus
+[21:08:45] zfr: was but a joke
+[21:08:49] BCraftMG: :grimacing: your protect?
+[21:08:49] _Hachikun_: sad]
+[21:08:51] Amber397: haaaaaaa
+[21:09:05] BCraftMG: !mp timer 120
+[21:09:06] BanchoBot: Countdown ends in 2 minutes
+[21:09:27] BCraftMG: If a timer runs out due to a team failing to protect, ban, or pick, the team will forfeit that choice and as punishment for delay of game, their opponent will be given an additional choice in protecting, picking, or banning (depending on whichever decision is currently underway). A 3 second buffer for Bancho is permitted after the timer has concluded,
+[21:09:37] zfr: !roll 14
+[21:09:37] BanchoBot: zfr rolls 2 point(s)
+[21:09:38] BCraftMG: strictly according to the referee's IRC and no other source.
+[21:09:39] Loazo: tldr pls
+[21:09:57] BCraftMG: tldr pick before timer end or you are doomed
+[21:10:01] zfr: nm2
+[21:10:07] BanchoBot: Countdown ends in 1 minute
+[21:10:10] zfr: roll for protect or dum
+[21:10:12] BanchoBot: calculus changed to Blue
+[21:10:15] BCraftMG: a, your protect?
+[21:10:16] Loazo: ?_?
+[21:10:19] BCraftMG: !mp timer 120
+[21:10:21] BanchoBot: Countdown aborted
+[21:10:21] BanchoBot: Countdown ends in 2 minutes
+[21:10:27] calculus: !roll 13
+[21:10:27] BanchoBot: calculus rolls 12 point(s)
+[21:10:31] BCraftMG: my god
+[21:10:34] calculus: ok they protect ez1
+[21:10:42] zfr: :D
+[21:10:44] zfr: true real
+[21:10:44] calculus: :tf:
+[21:10:49] Amber397: nm4
+[21:11:00] BCraftMG: next is !roll for pick or ban order
+[21:11:12] BCraftMG: ez and ht is automatically protected in this round
+[21:11:22] BanchoBot: Countdown ends in 1 minute
+[21:11:22] Amber397: !roll
+[21:11:22] BanchoBot: Amber397 rolls 31 point(s)
+[21:11:37] calculus: !roll
+[21:11:37] BanchoBot: calculus rolls 3 point(s)
+[21:11:52] BanchoBot: Countdown ends in 30 seconds
+[21:11:56] BCraftMG: a, please choose your pick or ban order
+[21:11:57] calculus: tjhat was warmup
+[21:11:57] zfr: its because we're up at ungodly hours mhm mhm
+[21:11:58] BCraftMG: !mp aborttimer
+[21:11:59] calculus: !roll
+[21:11:59] BanchoBot: calculus rolls 79 point(s)
+[21:12:01] BanchoBot: Countdown aborted
+[21:12:03] zfr: lmaonfnjjsn
+[21:12:12] mirinshoyu: low numbers lol
+[21:12:40] Amber397: 2nd ban
+[21:13:03] BCraftMG: :grimacing: please choose your pick order
+[21:13:24] zfr: pick 2nd
+[21:13:34] BCraftMG: :grimacing: first pick?
+[21:13:44] zfr: are we not banning first
+[21:13:46] zfr: wtf is this
+[21:13:58] BCraftMG: wait first ban
+[21:14:00] BCraftMG: wrong word
+[21:14:01] BCraftMG: :tf:
+[21:14:10] ScautTheGamer: xd
+[21:14:14] BCraftMG: !mp timer 120
+[21:14:16] BanchoBot: Countdown ends in 2 minutes
+[21:14:25] zfr: !roll 10
+[21:14:25] BanchoBot: zfr rolls 8 point(s)
+[21:14:38] zfr: dt2
+[21:14:49] BCraftMG: a, your ban please
+[21:15:00] Amber397: nm3
+[21:15:18] BanchoBot: Countdown ends in 1 minute
+[21:15:33] BCraftMG: a | 0 - 0 | :grimacing: // First Pick: a
+[21:15:35] BCraftMG: !mp timer 120
+[21:15:38] BanchoBot: Countdown aborted
+[21:15:38] BanchoBot: Countdown ends in 2 minutes
+[21:15:51] Amber397: ht1
+[21:16:22] calculus: why would you do this to us :sobL
+[21:16:24] zfr: this is the least fun match ive ever played and it hasnt even started yet jfc
+[21:16:24] BCraftMG: !mp mods NoMod
+[21:16:24] BanchoBot: Disabled all mods, disabled FreeMod
+[21:16:26] calculus: it is 7 am
+[21:16:26] BCraftMG: !mp map 129891 0
+[21:16:26] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/129891 xi - FREEDOM DiVE
+[21:16:26] BanchoBot: Changed match mode to Osu
+[21:16:28] BCraftMG: !mp mods NF EZ
+[21:16:28] BCraftMG: !mp timer 120
+[21:16:28] BanchoBot: Countdown aborted
+[21:16:28] BanchoBot: Countdown ends in 2 minutes
+[21:16:30] BanchoBot: Enabled NoFail, Easy, disabled FreeMod
+[21:16:33] BCraftMG: wait
+[21:16:37] BCraftMG: !mp mods NF HT
+[21:16:39] BanchoBot: Enabled NoFail, HalfTime, disabled FreeMod
+[21:16:46] BanchoBot: Amber397 left the game.
+[21:16:46] BanchoBot: _Hachikun_ left the game.
+[21:16:48] BanchoBot: mirinshoyu moved to slot 2
+[21:16:52] BanchoBot: calculus moved to slot 5
+[21:16:52] zfr: nono put ez back on
+[21:16:56] BanchoBot: zfr moved to slot 6
+[21:16:56] BanchoBot: Loazo moved to slot 3
+[21:17:01] BanchoBot: zfr moved to slot 4
+[21:17:12] Loazo: ezzzz
+[21:17:27] BanchoBot: Countdown ends in 1 minute
+[21:17:38] zfr: cant we just mutually agree to put ez on
+[21:17:45] Loazo: lol
+[21:17:53] zfr: "lol" isnt a yes or a no
+[21:17:55] calculus: +1
+[21:17:58] BanchoBot: Countdown ends in 30 seconds
+[21:18:09] BanchoBot: All players are ready
+[21:18:14] BCraftMG: !mp settings
+[21:18:15] BanchoBot: Room name: STT3: (a) vs (:grimacing:), History: https://osu.ppy.sh/mp/101816708
+[21:18:15] BanchoBot: Beatmap: https://osu.ppy.sh/b/129891 xi - FREEDOM DiVE
+[21:18:15] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:18:15] BanchoBot: Active mods: NoFail, HalfTime
+[21:18:15] BanchoBot: Players: 6
+[21:18:15] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10398422 ScautTheGamer   [Team Red ]
+[21:18:15] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18365113 mirinshoyu      [Team Red ]
+[21:18:15] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/3925586 Loazo           [Team Red ]
+[21:18:15] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11536421 zfr             [Team Blue]
+[21:18:15] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13445197 calculus        [Team Blue]
+[21:18:15] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/6512490 Simonosis       [Team Blue]
+[21:18:17] BanchoBot: Countdown ends in 10 seconds
+[21:18:19] BCraftMG: !mp start 10
+[21:18:20] BanchoBot: Countdown aborted
+[21:18:20] BanchoBot: Match starts in 10 seconds
+[21:18:20] BanchoBot: Queued the match to start in 10 seconds
+[21:18:26] mirinshoyu: gl
+[21:18:26] BanchoBot: Match starts in 5 seconds
+[21:18:26] calculus: gllghf
+[21:18:26] BanchoBot: Match starts in 4 seconds
+[21:18:28] BanchoBot: Match starts in 3 seconds
+[21:18:28] BanchoBot: Good luck, have fun!
+[21:18:28] ScautTheGamer: glhf
+[21:18:30] BanchoBot: The match has started!
+[21:24:26] BanchoBot: zfr finished playing (Score: 41595, PASSED).
+[21:24:26] BanchoBot: Loazo finished playing (Score: 157103, PASSED).
+[21:24:26] BanchoBot: Simonosis finished playing (Score: 29465, PASSED).
+[21:24:28] BanchoBot: ScautTheGamer finished playing (Score: 104989, PASSED).
+[21:24:28] BanchoBot: mirinshoyu finished playing (Score: 75929, PASSED).
+[21:24:30] BanchoBot: calculus finished playing (Score: 34457, PASSED).
+[21:24:30] BanchoBot: The match has finished!
+[21:24:32] BCraftMG: a : 1 | 0 : :grimacing:
+[21:24:34] BCraftMG: Next team to pick: :grimacing:
+[21:24:37] BCraftMG: !mp timer 120
+[21:24:37] BanchoBot: Countdown ends in 2 minutes
+[21:24:45] zfr: thats cringe
+[21:24:52] BanchoBot: Amber397 joined in slot 6 for team red.
+[21:24:54] ScautTheGamer: XD
+[21:25:07] zfr: !roll 11
+[21:25:07] BanchoBot: zfr rolls 9 point(s)
+[21:25:10] BanchoBot: Amber397 moved to slot 8
+[21:25:29] zfr: fm1
+[21:25:34] BanchoBot: mirinshoyu left the game.
+[21:25:36] BanchoBot: Countdown ends in 1 minute
+[21:25:38] BanchoBot: Amber397 moved to slot 2
+[21:25:41] BanchoBot: _Hachikun_ joined in slot 6 for team red.
+[21:25:43] BanchoBot: _Hachikun_ left the game.
+[21:25:47] BCraftMG: !mp mods Freemod NF
+[21:25:47] BanchoBot: Disabled all mods, enabled FreeMod
+[21:25:50] BCraftMG: !mp map 2623025 0
+[21:25:50] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2623025 Nekomata Master+ - chaos eater -IIDX edition-
+[21:25:50] BanchoBot: Changed match mode to Osu
+[21:25:52] BCraftMG: !mp timer 120
+[21:25:52] BanchoBot: Countdown aborted
+[21:25:52] BanchoBot: Countdown ends in 2 minutes
+[21:26:52] BanchoBot: Countdown ends in 1 minute
+[21:27:04] BCraftMG: !mp settings
+[21:27:05] BanchoBot: Room name: STT3: (a) vs (:grimacing:), History: https://osu.ppy.sh/mp/101816708
+[21:27:05] BanchoBot: Beatmap: https://osu.ppy.sh/b/2623025 Nekomata Master+ - chaos eater -IIDX edition-
+[21:27:05] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:27:05] BanchoBot: Active mods: Freemod
+[21:27:05] BanchoBot: Players: 6
+[21:27:05] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10398422 ScautTheGamer   [Team Red  / NoFail, HardRock]
+[21:27:05] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19641527 Amber397        [Team Red  / NoFail, Hidden]
+[21:27:05] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/3925586 Loazo           [Team Red  / NoFail, Hidden]
+[21:27:05] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/11536421 zfr             [Team Blue / NoFail, Hidden]
+[21:27:05] BanchoBot: Slot 5  No Map    https://osu.ppy.sh/u/13445197 calculus        [Team Blue / NoFail, Hidden]
+[21:27:05] BanchoBot: Slot 12 Not Ready https://osu.ppy.sh/u/6512490 Simonosis       [Team Blue / NoFail, HardRock]
+[21:27:22] BanchoBot: Countdown ends in 30 seconds
+[21:27:27] BanchoBot: All players are ready
+[21:27:30] BCraftMG: !mp settings
+[21:27:31] BanchoBot: Room name: STT3: (a) vs (:grimacing:), History: https://osu.ppy.sh/mp/101816708
+[21:27:31] BanchoBot: Beatmap: https://osu.ppy.sh/b/2623025 Nekomata Master+ - chaos eater -IIDX edition-
+[21:27:31] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:27:31] BanchoBot: Active mods: Freemod
+[21:27:31] BanchoBot: Players: 6
+[21:27:31] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10398422 ScautTheGamer   [Team Red  / NoFail, HardRock]
+[21:27:31] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19641527 Amber397        [Team Red  / NoFail, Hidden]
+[21:27:31] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/3925586 Loazo           [Team Red  / NoFail, Hidden]
+[21:27:31] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11536421 zfr             [Team Blue / NoFail, Hidden]
+[21:27:31] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13445197 calculus        [Team Blue / NoFail, Hidden]
+[21:27:31] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/6512490 Simonosis       [Team Blue / NoFail, HardRock]
+[21:27:35] BCraftMG: !mp start 10
+[21:27:36] BanchoBot: Countdown aborted
+[21:27:36] BanchoBot: Match starts in 10 seconds
+[21:27:36] BanchoBot: Queued the match to start in 10 seconds
+[21:27:42] BanchoBot: Match starts in 5 seconds
+[21:27:42] BanchoBot: Match starts in 4 seconds
+[21:27:44] BanchoBot: Match starts in 3 seconds
+[21:27:44] calculus: glglghf
+[21:27:44] BanchoBot: Good luck, have fun!
+[21:27:47] BanchoBot: The match has started!
+[21:27:49] ScautTheGamer: glhf
+[21:29:46] BanchoBot: Loazo finished playing (Score: 456867, PASSED).
+[21:29:49] BanchoBot: Simonosis finished playing (Score: 283894, PASSED).
+[21:29:49] BanchoBot: Amber397 finished playing (Score: 674694, PASSED).
+[21:29:49] BanchoBot: ScautTheGamer finished playing (Score: 352046, PASSED).
+[21:29:49] BanchoBot: calculus finished playing (Score: 461037, PASSED).
+[21:29:49] BanchoBot: zfr finished playing (Score: 486862, PASSED).
+[21:29:49] BanchoBot: The match has finished!
+[21:29:53] BCraftMG: a : 2 | 0 : :grimacing:
+[21:29:55] BCraftMG: Next team to pick: a
+[21:29:57] BCraftMG: !mp timer 120
+[21:29:57] BanchoBot: Countdown ends in 2 minutes
+[21:30:22] Amber397: ez1
+[21:30:31] zfr: thats crazy btw
+[21:30:37] BCraftMG: !mp mods NoMod
+[21:30:37] BanchoBot: Disabled all mods, disabled FreeMod
+[21:30:39] BCraftMG: !mp map 2593908 0
+[21:30:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2593908 miyashita yuu - p.h.
+[21:30:39] BanchoBot: Changed match mode to Osu
+[21:30:42] BCraftMG: !mp timer 120
+[21:30:42] BanchoBot: Countdown aborted
+[21:30:42] BanchoBot: Countdown ends in 2 minutes
+[21:30:42] BCraftMG: !mp mods EZ NF
+[21:30:44] BanchoBot: ScautTheGamer left the game.
+[21:30:44] BanchoBot: Enabled NoFail, Easy, disabled FreeMod
+[21:30:52] BanchoBot: mirinshoyu joined in slot 1 for team blue.
+[21:30:55] BanchoBot: mirinshoyu changed to Red
+[21:31:36] BanchoBot: All players are ready
+[21:31:41] BCraftMG: !mp settings
+[21:31:41] BanchoBot: Countdown ends in 1 minute
+[21:31:43] BanchoBot: Room name: STT3: (a) vs (:grimacing:), History: https://osu.ppy.sh/mp/101816708
+[21:31:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/2593908 miyashita yuu - p.h.
+[21:31:43] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:31:43] BanchoBot: Active mods: NoFail, Easy
+[21:31:43] BanchoBot: Players: 6
+[21:31:43] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18365113 mirinshoyu      [Team Red ]
+[21:31:43] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19641527 Amber397        [Team Red ]
+[21:31:43] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/3925586 Loazo           [Team Red ]
+[21:31:43] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11536421 zfr             [Team Blue]
+[21:31:43] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13445197 calculus        [Team Blue]
+[21:31:43] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/6512490 Simonosis       [Team Blue]
+[21:31:45] BCraftMG: !mp start 10
+[21:31:45] BanchoBot: Countdown aborted
+[21:31:45] BanchoBot: Match starts in 10 seconds
+[21:31:45] BanchoBot: Queued the match to start in 10 seconds
+[21:31:52] BanchoBot: Match starts in 5 seconds
+[21:31:52] BanchoBot: Match starts in 4 seconds
+[21:31:52] calculus: i ss this
+[21:31:54] BanchoBot: Match starts in 3 seconds
+[21:31:54] BanchoBot: Good luck, have fun!
+[21:31:54] calculus: watch
+[21:31:55] BCraftMG: baseball
+[21:31:56] BanchoBot: The match has started!
+[21:31:56] zfr: real
+[21:34:37] BanchoBot: calculus finished playing (Score: 17928, PASSED).
+[21:34:37] BanchoBot: zfr finished playing (Score: 119940, PASSED).
+[21:34:39] BanchoBot: Loazo finished playing (Score: 285609, PASSED).
+[21:34:39] BanchoBot: Simonosis finished playing (Score: 12494, PASSED).
+[21:34:39] BanchoBot: mirinshoyu finished playing (Score: 495775, PASSED).
+[21:34:39] BanchoBot: Amber397 finished playing (Score: 297022, PASSED).
+[21:34:39] BanchoBot: The match has finished!
+[21:34:42] BCraftMG: a : 3 | 0 : :grimacing:
+[21:34:44] BCraftMG: Next team to pick: :grimacing:
+[21:34:46] BCraftMG: !mp timer 120
+[21:34:46] BanchoBot: Countdown ends in 2 minutes
+[21:35:17] zfr: !roll 9
+[21:35:17] BanchoBot: zfr rolls 5 point(s)
+[21:35:28] zfr: hd2
+[21:35:39] BanchoBot: Loazo left the game.
+[21:35:45] BanchoBot: Countdown ends in 1 minute
+[21:35:47] BanchoBot: _Hachikun_ joined in slot 3 for team blue.
+[21:35:52] BCraftMG: !mp mods HD NF
+[21:35:52] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:35:54] BanchoBot: _Hachikun_ changed to Red
+[21:35:54] BCraftMG: !mp map 2907160 0
+[21:35:54] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2907160 Silentroom - NULCTRL
+[21:35:54] BanchoBot: Changed match mode to Osu
+[21:35:56] BCraftMG: !mp timer 120
+[21:35:56] BanchoBot: Countdown aborted
+[21:35:56] BanchoBot: Countdown ends in 2 minutes
+[21:36:36] BanchoBot: All players are ready
+[21:36:41] BCraftMG: !mp settings
+[21:36:43] BanchoBot: Room name: STT3: (a) vs (:grimacing:), History: https://osu.ppy.sh/mp/101816708
+[21:36:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/2907160 Silentroom - NULCTRL
+[21:36:43] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:36:43] BanchoBot: Active mods: NoFail, Hidden
+[21:36:43] BanchoBot: Players: 6
+[21:36:43] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18365113 mirinshoyu      [Team Red ]
+[21:36:43] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19641527 Amber397        [Team Red ]
+[21:36:43] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14463439 _Hachikun_      [Team Red ]
+[21:36:43] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11536421 zfr             [Team Blue]
+[21:36:43] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13445197 calculus        [Team Blue]
+[21:36:43] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/6512490 Simonosis       [Team Blue]
+[21:36:45] BCraftMG: !mp start 10
+[21:36:47] BanchoBot: Countdown aborted
+[21:36:47] BanchoBot: Match starts in 10 seconds
+[21:36:47] BanchoBot: Queued the match to start in 10 seconds
+[21:36:54] calculus: glhf
+[21:36:54] BanchoBot: Match starts in 5 seconds
+[21:36:54] BanchoBot: Match starts in 4 seconds
+[21:36:56] BanchoBot: Match starts in 3 seconds
+[21:36:56] BanchoBot: Good luck, have fun!
+[21:36:56] zfr: glhf
+[21:36:58] _Hachikun_: GL
+[21:36:58] mirinshoyu: glhf
+[21:36:58] BanchoBot: The match has started!
+[21:37:02] calculus: glhf
+[21:39:30] BanchoBot: Amber397 finished playing (Score: 493670, PASSED).
+[21:39:30] BanchoBot: calculus finished playing (Score: 537320, PASSED).
+[21:39:30] BanchoBot: Simonosis finished playing (Score: 147925, PASSED).
+[21:39:30] BanchoBot: zfr finished playing (Score: 311184, PASSED).
+[21:39:30] BanchoBot: mirinshoyu finished playing (Score: 487496, PASSED).
+[21:39:32] BanchoBot: _Hachikun_ finished playing (Score: 555274, PASSED).
+[21:39:32] BanchoBot: The match has finished!
+[21:39:36] BCraftMG: a : 4 | 0 : :grimacing:
+[21:39:38] BCraftMG: Next team to pick: a
+[21:39:41] BCraftMG: !mp timer 120
+[21:39:41] BanchoBot: Countdown ends in 2 minutes
+[21:40:20] BanchoBot: ScautTheGamer joined in slot 6 for team red.
+[21:40:20] BanchoBot: Loazo joined in slot 7 for team blue.
+[21:40:35] BanchoBot: ScautTheGamer moved to slot 8
+[21:40:40] BanchoBot: Countdown ends in 1 minute
+[21:40:42] BanchoBot: Amber397 moved to slot 6
+[21:40:44] BanchoBot: mirinshoyu left the game.
+[21:40:44] BanchoBot: _Hachikun_ moved to slot 11
+[21:40:46] ScautTheGamer: !ROLL 2
+[21:40:46] BanchoBot: ScautTheGamer rolls 1 point(s)
+[21:40:51] BanchoBot: ScautTheGamer moved to slot 1
+[21:40:53] Amber397: nm2
+[21:40:57] BanchoBot: Loazo moved to slot 2
+[21:40:59] BanchoBot: Loazo changed to Red
+[21:41:02] BanchoBot: _Hachikun_ left the game.
+[21:41:02] calculus: you are the worst
+[21:41:06] BanchoBot: mirinshoyu joined in slot 3 for team blue.
+[21:41:08] BCraftMG: !mp mods NF
+[21:41:08] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:41:10] BanchoBot: mirinshoyu changed to Red
+[21:41:10] BCraftMG: !mp map 734096 0
+[21:41:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/734096 Azel - -Astraia-
+[21:41:10] BanchoBot: Changed match mode to Osu
+[21:41:10] BanchoBot: Countdown ends in 30 seconds
+[21:41:12] BCraftMG: !mp timer 120
+[21:41:12] BanchoBot: Countdown aborted
+[21:41:12] BanchoBot: Countdown ends in 2 minutes
+[21:41:12] calculus: you are the worst you are the worst you are the worst you are the worst you are the worst you are the worst you are the worst you are the worst you are the worst
+[21:41:17] calculus: :(
+[21:41:19] BanchoBot: Amber397 left the game.
+[21:41:32] Loazo: :S
+[21:41:34] ScautTheGamer: :)
+[21:41:41] Loazo: ;D
+[21:41:58] BanchoBot: All players are ready
+[21:42:03] BCraftMG: !mp settings
+[21:42:05] BanchoBot: Room name: STT3: (a) vs (:grimacing:), History: https://osu.ppy.sh/mp/101816708
+[21:42:05] BanchoBot: Beatmap: https://osu.ppy.sh/b/734096 Azel - -Astraia-
+[21:42:05] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:42:05] BanchoBot: Active mods: NoFail
+[21:42:05] BanchoBot: Players: 6
+[21:42:05] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10398422 ScautTheGamer   [Team Red ]
+[21:42:05] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3925586 Loazo           [Team Red ]
+[21:42:05] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/18365113 mirinshoyu      [Team Red ]
+[21:42:05] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11536421 zfr             [Team Blue]
+[21:42:05] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13445197 calculus        [Team Blue]
+[21:42:05] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/6512490 Simonosis       [Team Blue]
+[21:42:07] BCraftMG: !mp start 10
+[21:42:09] calculus: i ss this
+[21:42:09] BanchoBot: Countdown aborted
+[21:42:09] BanchoBot: Match starts in 10 seconds
+[21:42:09] BanchoBot: Queued the match to start in 10 seconds
+[21:42:11] calculus: watch
+[21:42:16] BanchoBot: Match starts in 5 seconds
+[21:42:16] BanchoBot: Match starts in 4 seconds
+[21:42:18] ScautTheGamer: glhf
+[21:42:18] BanchoBot: Match starts in 3 seconds
+[21:42:18] BanchoBot: Good luck, have fun!
+[21:42:20] mirinshoyu: gl
+[21:42:20] BanchoBot: The match has started!
+[21:45:02] BanchoBot: Loazo finished playing (Score: 908938, PASSED).
+[21:45:02] BanchoBot: calculus finished playing (Score: 127381, PASSED).
+[21:45:02] BanchoBot: ScautTheGamer finished playing (Score: 946217, PASSED).
+[21:45:02] BanchoBot: mirinshoyu finished playing (Score: 487403, PASSED).
+[21:45:04] BanchoBot: zfr finished playing (Score: 433787, PASSED).
+[21:45:04] BanchoBot: Simonosis finished playing (Score: 496651, PASSED).
+[21:45:04] BanchoBot: The match has finished!
+[21:45:06] BCraftMG: a : 5 | 0 : :grimacing:
+[21:45:09] BCraftMG: **a wins the match**
+[21:45:15] Simonosis: gg
+[21:45:15] BanchoBot: Simonosis left the game.
+[21:45:20] BanchoBot: Amber397 joined in slot 6 for team red.
+[21:45:22] Loazo: ggwp
+[21:45:22] BCraftMG: :sob:
+[21:45:24] calculus: gg
+[21:45:26] Amber397: ggwp
+[21:45:26] zfr: ty ref
+[21:45:28] BanchoBot: zfr left the game.
+[21:45:28] ScautTheGamer: ggwp
+[21:45:28] BanchoBot: _Hachikun_ joined in slot 4 for team red.
+[21:45:30] mirinshoyu: gg
+[21:45:30] BCraftMG: ggwp
+[21:45:33] Loazo: sryyy :S
+[21:45:33] BanchoBot: calculus left the game.
+[21:45:33] ScautTheGamer: ty ref
+[21:45:35] BanchoBot: Amber397 left the game.
+[21:45:37] mirinshoyu: thank you ref!
+[21:45:41] _Hachikun_: ggwp!
+[21:45:46] _Hachikun_: ty ref!!!!
+[21:45:52] BanchoBot: _Hachikun_ left the game.
+[21:45:54] BanchoBot: mirinshoyu left the game.
+[21:45:56] BCraftMG: o/
+[21:45:57] BanchoBot: Amber397 joined in slot 3 for team blue.
+[21:46:03] ScautTheGamer: o/
+[21:46:03] BanchoBot: ScautTheGamer left the game.
+[21:46:05] BanchoBot: Amber397 left the game.
+[21:46:07] Loazo: bb
+[21:46:10] BanchoBot: Loazo left the game.
+[21:46:34] BCraftMG: !mp close
+[21:46:36] BanchoBot: Closed the match

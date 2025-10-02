@@ -1,0 +1,435 @@
+[01:03:46] Joined #mp_109979426
+[01:03:46] BCraftMG: !mp settings
+[01:03:47] BanchoBot: Room name: PTE : (Qualifiers) vs (B10), History: https://osu.ppy.sh/mp/109979426
+[01:03:47] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[01:03:47] BanchoBot: Players: 0
+[01:04:03] BCraftMG: !mp invite VMPR13
+[01:04:04] BanchoBot: Invited VMPR13 to the room
+[01:04:08] BCraftMG: !mp invite bonnflow
+[01:04:08] BanchoBot: Invited bonnflow to the room
+[01:04:10] BCraftMG: !mp invite Heaki
+[01:04:11] BanchoBot: Invited Heaki to the room
+[01:04:14] BanchoBot: VMPR13 joined in slot 1.
+[01:04:18] BCraftMG: !mp set 0 3 16
+[01:04:19] BanchoBot: Changed match settings to 16 slots, HeadToHead, ScoreV2
+[01:04:32] BanchoBot: Heaki joined in slot 2.
+[01:04:32] BanchoBot: u-litay joined in slot 3.
+[01:04:39] BanchoBot: bonnflow joined in slot 4.
+[01:04:42] bonnflow: hello o/
+[01:04:53] VMPR13: u-litay is my teammate
+[01:05:02] BanchoBot: DarkHalis9 joined in slot 5.
+[01:05:14] BCraftMG: !mp map 3924030
+[01:05:14] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3924030 nonoc - Relive
+[01:05:15] BCraftMG: !mp mods 1
+[01:05:15] BanchoBot: Enabled NoFail, disabled FreeMod
+[01:05:23] BanchoBot: miimo__miimo joined in slot 6.
+[01:05:30] DarkHalis9: o/
+[01:05:33] Heaki: 0/
+[01:05:45] VMPR13: will we play like this?
+[01:05:53] BanchoBot: Heaki moved to slot 7
+[01:06:03] BCraftMG: !mp settings
+[01:06:05] BanchoBot: Room name: PTE : (Qualifiers) vs (B10), History: https://osu.ppy.sh/mp/109979426
+[01:06:05] BanchoBot: Beatmap: https://osu.ppy.sh/b/3924030 nonoc - Relive
+[01:06:05] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:06:05] BanchoBot: Active mods: NoFail
+[01:06:05] BanchoBot: Players: 6
+[01:06:05] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/11414644 VMPR13          
+[01:06:05] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/9858803 u-litay         
+[01:06:05] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10983752 bonnflow        
+[01:06:05] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/24811052 DarkHalis9      
+[01:06:05] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/21436323 miimo__miimo    
+[01:06:05] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/18844163 Heaki           
+[01:06:11] BCraftMG: ready up pls
+[01:06:14] BanchoBot: u-litay moved to slot 2
+[01:06:15] BanchoBot: DarkHalis9 moved to slot 3
+[01:06:18] Heaki: 1s
+[01:06:24] BCraftMG: there will be a 2mins timer between map after this
+[01:06:30] bonnflow: gl everyone hf :)
+[01:06:34] BanchoBot: Heaki moved to slot 5
+[01:06:36] BanchoBot: All players are ready
+[01:06:39] BCraftMG: !mp settings
+[01:06:39] DarkHalis9: gl!
+[01:06:39] BanchoBot: Room name: PTE : (Qualifiers) vs (B10), History: https://osu.ppy.sh/mp/109979426
+[01:06:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/3924030 nonoc - Relive
+[01:06:39] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:06:39] BanchoBot: Active mods: NoFail
+[01:06:39] BanchoBot: Players: 6
+[01:06:39] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11414644 VMPR13          
+[01:06:39] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9858803 u-litay         
+[01:06:39] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/24811052 DarkHalis9      
+[01:06:39] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10983752 bonnflow        
+[01:06:39] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/18844163 Heaki           
+[01:06:39] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/21436323 miimo__miimo    
+[01:06:44] Heaki: gl
+[01:06:45] BCraftMG: !mp start 5 glhf
+[01:06:45] BanchoBot: Match starts in 5 seconds
+[01:06:45] BanchoBot: Queued the match to start in 5 seconds
+[01:06:46] BanchoBot: Match starts in 4 seconds
+[01:06:48] BanchoBot: Match starts in 3 seconds
+[01:06:49] BanchoBot: Good luck, have fun!
+[01:06:51] BanchoBot: The match has started!
+[01:10:56] BanchoBot: bonnflow finished playing (Score: 888396, PASSED).
+[01:10:58] BanchoBot: Heaki finished playing (Score: 455556, PASSED).
+[01:10:58] BanchoBot: miimo__miimo finished playing (Score: 443067, PASSED).
+[01:10:58] BanchoBot: VMPR13 finished playing (Score: 392732, PASSED).
+[01:10:58] BanchoBot: DarkHalis9 finished playing (Score: 509316, PASSED).
+[01:10:58] BanchoBot: u-litay finished playing (Score: 291837, PASSED).
+[01:10:58] BanchoBot: The match has finished!
+[01:11:02] BCraftMG: !mp map 908887
+[01:11:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/908887 void - Crisscrosser
+[01:11:04] BCraftMG: !mp timer 120
+[01:11:05] BanchoBot: Countdown ends in 2 minutes
+[01:11:13] DarkHalis9: GJ bonn!
+[01:11:17] bonnflow: thanks :D
+[01:11:18] bonnflow: you too
+[01:11:27] Heaki: gg
+[01:11:27] BanchoBot: Heaki left the game.
+[01:11:29] BanchoBot: karimovic joined in slot 5.
+[01:11:30] DarkHalis9: gg
+[01:11:35] bonnflow: gg
+[01:11:56] DarkHalis9: now i practice HR1 till its my turn again
+[01:12:00] DarkHalis9: c ya!
+[01:12:06] BanchoBot: Countdown ends in 1 minute
+[01:12:08] BanchoBot: DarkHalis9 left the game.
+[01:12:35] BanchoBot: maicon192011 joined in slot 3.
+[01:12:36] BanchoBot: Countdown ends in 30 seconds
+[01:12:39] maicon192011: hi
+[01:12:41] BanchoBot: All players are ready
+[01:12:44] bonnflow: hi o/
+[01:12:45] BCraftMG: !mp settings
+[01:12:45] BanchoBot: Room name: PTE : (Qualifiers) vs (B10), History: https://osu.ppy.sh/mp/109979426
+[01:12:45] BanchoBot: Beatmap: https://osu.ppy.sh/b/908887 void - Crisscrosser
+[01:12:45] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:12:45] BanchoBot: Active mods: NoFail
+[01:12:45] BanchoBot: Players: 6
+[01:12:45] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11414644 VMPR13          
+[01:12:45] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9858803 u-litay         
+[01:12:45] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8018944 maicon192011    
+[01:12:45] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10983752 bonnflow        
+[01:12:45] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12629986 karimovic       
+[01:12:45] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/21436323 miimo__miimo    
+[01:12:47] bonnflow: gl everyone hf!
+[01:12:48] BCraftMG: !mp start 5 glhf
+[01:12:48] BanchoBot: Countdown aborted
+[01:12:48] BanchoBot: Match starts in 5 seconds
+[01:12:48] BanchoBot: Queued the match to start in 5 seconds
+[01:12:50] BanchoBot: Match starts in 4 seconds
+[01:12:51] BanchoBot: Match starts in 3 seconds
+[01:12:53] BanchoBot: Good luck, have fun!
+[01:12:54] BanchoBot: The match has started!
+[01:14:59] BanchoBot: VMPR13 finished playing (Score: 402920, PASSED).
+[01:14:59] BanchoBot: u-litay finished playing (Score: 124733, PASSED).
+[01:15:01] BanchoBot: miimo__miimo finished playing (Score: 268098, PASSED).
+[01:15:01] BanchoBot: karimovic finished playing (Score: 407172, PASSED).
+[01:15:01] BanchoBot: bonnflow finished playing (Score: 467944, PASSED).
+[01:15:04] BanchoBot: maicon192011 finished playing (Score: 763967, PASSED).
+[01:15:04] BanchoBot: The match has finished!
+[01:15:08] BCraftMG: !mp map 3035501
+[01:15:08] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3035501 Sangatsu no Phantasia - Koufuku na Wagamama
+[01:15:11] bonnflow: awesome job maicon
+[01:15:11] BCraftMG: !mp timer 120
+[01:15:12] BanchoBot: Countdown ends in 2 minutes
+[01:15:14] bonnflow: :D
+[01:15:20] BanchoBot: miimo__miimo left the game.
+[01:15:23] bonnflow: gg
+[01:15:33] maicon192011: cursor lag
+[01:16:13] BanchoBot: Countdown ends in 1 minute
+[01:16:28] BanchoBot: Heaki joined in slot 6.
+[01:16:43] BanchoBot: Countdown ends in 30 seconds
+[01:16:52] BanchoBot: All players are ready
+[01:16:56] BCraftMG: !mp settings
+[01:16:58] BanchoBot: Room name: PTE : (Qualifiers) vs (B10), History: https://osu.ppy.sh/mp/109979426
+[01:16:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/3035501 Sangatsu no Phantasia - Koufuku na Wagamama
+[01:16:58] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:16:58] BanchoBot: Active mods: NoFail
+[01:16:58] BanchoBot: Players: 6
+[01:16:58] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11414644 VMPR13          
+[01:16:58] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9858803 u-litay         
+[01:16:58] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8018944 maicon192011    
+[01:16:58] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10983752 bonnflow        
+[01:16:58] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12629986 karimovic       
+[01:16:58] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/18844163 Heaki           
+[01:16:59] BCraftMG: !mp start 5 glhf
+[01:16:59] BanchoBot: Countdown aborted
+[01:16:59] BanchoBot: Match starts in 5 seconds
+[01:16:59] BanchoBot: Queued the match to start in 5 seconds
+[01:17:01] BanchoBot: Match starts in 4 seconds
+[01:17:02] BanchoBot: Match starts in 3 seconds
+[01:17:03] BanchoBot: Good luck, have fun!
+[01:17:05] BanchoBot: The match has started!
+[01:20:56] BanchoBot: bonnflow finished playing (Score: 601950, PASSED).
+[01:20:56] BanchoBot: Heaki finished playing (Score: 333205, PASSED).
+[01:20:56] BanchoBot: karimovic finished playing (Score: 197315, PASSED).
+[01:20:58] BanchoBot: maicon192011 finished playing (Score: 249822, PASSED).
+[01:20:58] BanchoBot: VMPR13 finished playing (Score: 274119, PASSED).
+[01:20:59] BanchoBot: u-litay finished playing (Score: 142696, PASSED).
+[01:20:59] BanchoBot: The match has finished!
+[01:21:02] BCraftMG: !mp map 2094462
+[01:21:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2094462 Ax feat. Natsukawa Yoko - Sakimori Renka
+[01:21:06] BCraftMG: !mp mods 9
+[01:21:07] Heaki: 1min i have a call
+[01:21:07] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[01:21:08] BCraftMG: !mp timer 120
+[01:21:08] BanchoBot: Countdown ends in 2 minutes
+[01:21:13] bonnflow: gg
+[01:21:16] maicon192011: nice
+[01:21:22] bonnflow: thanks :)
+[01:21:23] VMPR13: nm4
+[01:21:26] VMPR13: wrong map
+[01:21:29] maicon192011: nm4
+[01:21:38] BCraftMG: !mp map 3737825
+[01:21:38] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3737825 PSYQUI - Education
+[01:21:40] BCraftMG: !mp mods 1
+[01:21:41] BanchoBot: Enabled NoFail, disabled FreeMod
+[01:21:45] BCraftMG: whoops
+[01:21:59] BanchoBot: miimo__miimo joined in slot 7.
+[01:22:05] BanchoBot: karimovic left the game.
+[01:22:08] BanchoBot: miimo__miimo moved to slot 5
+[01:22:09] BanchoBot: Countdown ends in 1 minute
+[01:22:24] Heaki: 1s
+[01:22:36] BanchoBot: All players are ready
+[01:22:39] BanchoBot: Countdown ends in 30 seconds
+[01:22:41] Heaki: ready
+[01:22:42] BCraftMG: !mp settings
+[01:22:42] BanchoBot: Room name: PTE : (Qualifiers) vs (B10), History: https://osu.ppy.sh/mp/109979426
+[01:22:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/3737825 PSYQUI - Education
+[01:22:42] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:22:42] BanchoBot: Active mods: NoFail
+[01:22:42] BanchoBot: Players: 6
+[01:22:42] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11414644 VMPR13          
+[01:22:42] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9858803 u-litay         
+[01:22:42] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8018944 maicon192011    
+[01:22:42] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10983752 bonnflow        
+[01:22:42] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/21436323 miimo__miimo    
+[01:22:42] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/18844163 Heaki           
+[01:22:44] BCraftMG: !mp start 5 glhf
+[01:22:45] BanchoBot: Countdown aborted
+[01:22:45] BanchoBot: Match starts in 5 seconds
+[01:22:45] BanchoBot: Queued the match to start in 5 seconds
+[01:22:47] BanchoBot: Match starts in 4 seconds
+[01:22:48] BanchoBot: Match starts in 3 seconds
+[01:22:50] BanchoBot: Good luck, have fun!
+[01:22:51] BanchoBot: The match has started!
+[01:26:48] BanchoBot: u-litay finished playing (Score: 304816, PASSED).
+[01:26:50] BanchoBot: maicon192011 finished playing (Score: 629378, PASSED).
+[01:26:50] BanchoBot: Heaki finished playing (Score: 699731, PASSED).
+[01:26:50] BanchoBot: VMPR13 finished playing (Score: 744978, PASSED).
+[01:26:51] BanchoBot: bonnflow finished playing (Score: 758237, PASSED).
+[01:26:51] BanchoBot: miimo__miimo finished playing (Score: 331220, PASSED).
+[01:26:51] BanchoBot: The match has finished!
+[01:26:53] BCraftMG: !mp map 2094462
+[01:26:55] BCraftMG: !mp mods 9
+[01:26:56] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2094462 Ax feat. Natsukawa Yoko - Sakimori Renka
+[01:26:57] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[01:27:28] bonnflow: gg
+[01:27:34] VMPR13: just a sec
+[01:27:38] BanchoBot: karimovic joined in slot 7.
+[01:27:43] BanchoBot: miimo__miimo left the game.
+[01:27:44] BanchoBot: karimovic moved to slot 5
+[01:28:49] BanchoBot: All players are ready
+[01:28:54] BCraftMG: !mp settings
+[01:28:54] BanchoBot: Room name: PTE : (Qualifiers) vs (B10), History: https://osu.ppy.sh/mp/109979426
+[01:28:54] BanchoBot: Beatmap: https://osu.ppy.sh/b/2094462 Ax feat. Natsukawa Yoko - Sakimori Renka
+[01:28:54] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:28:54] BanchoBot: Active mods: NoFail, Hidden
+[01:28:54] BanchoBot: Players: 6
+[01:28:54] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11414644 VMPR13          
+[01:28:54] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9858803 u-litay         
+[01:28:54] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8018944 maicon192011    
+[01:28:54] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10983752 bonnflow        
+[01:28:54] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12629986 karimovic       
+[01:28:54] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/18844163 Heaki           
+[01:28:57] bonnflow: glhf :)
+[01:28:57] BCraftMG: !mp start 5 glhf
+[01:28:58] BanchoBot: Match starts in 5 seconds
+[01:28:58] BanchoBot: Queued the match to start in 5 seconds
+[01:29:00] BanchoBot: Match starts in 4 seconds
+[01:29:01] BanchoBot: Match starts in 3 seconds
+[01:29:03] BanchoBot: Good luck, have fun!
+[01:29:04] BanchoBot: The match has started!
+[01:32:22] BanchoBot: bonnflow finished playing (Score: 674604, PASSED).
+[01:32:22] BanchoBot: Heaki finished playing (Score: 681151, PASSED).
+[01:32:22] BanchoBot: maicon192011 finished playing (Score: 460528, PASSED).
+[01:32:22] BanchoBot: VMPR13 finished playing (Score: 424318, PASSED).
+[01:32:22] BanchoBot: u-litay finished playing (Score: 515969, PASSED).
+[01:32:22] BanchoBot: karimovic finished playing (Score: 409696, PASSED).
+[01:32:22] BanchoBot: The match has finished!
+[01:32:24] BCraftMG: !mp map 2619929
+[01:32:25] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2619929 Amane - BOOZEHOUND
+[01:32:35] bonnflow: nice play heaki :)
+[01:32:36] bonnflow: gg
+[01:32:44] Heaki: gg
+[01:32:45] Heaki: ty
+[01:32:51] VMPR13: here the real game start
+[01:32:54] bonnflow: XD
+[01:33:01] bonnflow: y'all ready for this?
+[01:33:03] bonnflow: hd2 time
+[01:33:06] bonnflow: everyone's favorite
+[01:33:06] BanchoBot: All players are ready
+[01:33:06] maicon192011: ffffffffffffffffffffffddddddd
+[01:33:07] Heaki: nah
+[01:33:08] BCraftMG: no
+[01:33:10] BCraftMG: !mp settings
+[01:33:10] Heaki: go brrrrr
+[01:33:12] BanchoBot: Room name: PTE : (Qualifiers) vs (B10), History: https://osu.ppy.sh/mp/109979426
+[01:33:12] BanchoBot: Beatmap: https://osu.ppy.sh/b/2619929 Amane - BOOZEHOUND
+[01:33:12] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:33:12] BanchoBot: Active mods: NoFail, Hidden
+[01:33:12] BanchoBot: Players: 6
+[01:33:12] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11414644 VMPR13          
+[01:33:12] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9858803 u-litay         
+[01:33:12] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8018944 maicon192011    
+[01:33:12] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10983752 bonnflow        
+[01:33:12] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12629986 karimovic       
+[01:33:12] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/18844163 Heaki           
+[01:33:13] BCraftMG: !mp start 5 glhf
+[01:33:13] BanchoBot: Match starts in 5 seconds
+[01:33:13] BanchoBot: Queued the match to start in 5 seconds
+[01:33:15] BanchoBot: Match starts in 4 seconds
+[01:33:16] BanchoBot: Match starts in 3 seconds
+[01:33:16] BanchoBot: Good luck, have fun!
+[01:33:19] BanchoBot: The match has started!
+[01:36:02] BanchoBot: bonnflow finished playing (Score: 838698, PASSED).
+[01:36:02] BanchoBot: u-litay finished playing (Score: 283660, PASSED).
+[01:36:03] BanchoBot: karimovic finished playing (Score: 384659, PASSED).
+[01:36:03] BanchoBot: VMPR13 finished playing (Score: 148706, PASSED).
+[01:36:03] BanchoBot: Heaki finished playing (Score: 253266, PASSED).
+[01:36:03] BanchoBot: maicon192011 finished playing (Score: 304891, PASSED).
+[01:36:03] BanchoBot: The match has finished!
+[01:36:05] BCraftMG: !mp map 2027623
+[01:36:06] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2027623 THE ORAL CIGARETTES - Wagamama de Gomakasanaide
+[01:36:08] BCraftMG: !mp mods 17
+[01:36:09] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[01:36:24] BanchoBot: DarkHalis9 joined in slot 7.
+[01:36:27] DarkHalis9: o/
+[01:36:30] Heaki: ggs
+[01:36:39] bonnflow: gl :)
+[01:36:40] bonnflow: ggs
+[01:36:42] BanchoBot: bonnflow left the game.
+[01:36:45] BanchoBot: DarkHalis9 moved to slot 4
+[01:36:51] BanchoBot: miimo__miimo joined in slot 7.
+[01:36:55] BanchoBot: karimovic left the game.
+[01:36:57] BanchoBot: Heaki moved to slot 5
+[01:37:00] BanchoBot: maicon192011 left the game.
+[01:37:14] BanchoBot: maicon192011 joined in slot 3.
+[01:37:32] BanchoBot: miimo__miimo moved to slot 6
+[01:37:34] BanchoBot: All players are ready
+[01:37:35] BCraftMG: !mp settings
+[01:37:36] BanchoBot: Room name: PTE : (Qualifiers) vs (B10), History: https://osu.ppy.sh/mp/109979426
+[01:37:36] BanchoBot: Beatmap: https://osu.ppy.sh/b/2027623 THE ORAL CIGARETTES - Wagamama de Gomakasanaide
+[01:37:36] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:37:36] BanchoBot: Active mods: NoFail, HardRock
+[01:37:36] BanchoBot: Players: 6
+[01:37:36] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11414644 VMPR13          
+[01:37:36] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9858803 u-litay         
+[01:37:36] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8018944 maicon192011    
+[01:37:36] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/24811052 DarkHalis9      
+[01:37:36] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/18844163 Heaki           
+[01:37:36] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/21436323 miimo__miimo    
+[01:37:39] BCraftMG: !mp start 5
+[01:37:40] DarkHalis9: glhf!
+[01:37:40] BanchoBot: Match starts in 5 seconds
+[01:37:40] BanchoBot: Queued the match to start in 5 seconds
+[01:37:41] BanchoBot: Match starts in 4 seconds
+[01:37:43] BanchoBot: Match starts in 3 seconds
+[01:37:44] BanchoBot: Good luck, have fun!
+[01:37:46] BanchoBot: The match has started!
+[01:42:11] BanchoBot: miimo__miimo finished playing (Score: 46961, PASSED).
+[01:42:11] BanchoBot: VMPR13 finished playing (Score: 213059, PASSED).
+[01:42:11] BanchoBot: u-litay finished playing (Score: 19659, PASSED).
+[01:42:11] BanchoBot: Heaki finished playing (Score: 49467, PASSED).
+[01:42:12] BanchoBot: DarkHalis9 finished playing (Score: 352118, PASSED).
+[01:42:12] BanchoBot: maicon192011 finished playing (Score: 307660, PASSED).
+[01:42:12] BanchoBot: The match has finished!
+[01:42:15] BCraftMG: !mp map 1523138
+[01:42:15] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1523138 Kajiura Yuki - Sis puella magica!
+[01:42:16] BCraftMG: !mp timer 120
+[01:42:17] BanchoBot: Countdown ends in 2 minutes
+[01:42:22] BanchoBot: bonnflow joined in slot 7.
+[01:42:27] DarkHalis9: les goo new PB for me on that
+[01:42:40] DarkHalis9: ggs
+[01:42:42] BanchoBot: karimovic joined in slot 8.
+[01:42:46] bonnflow: :D
+[01:42:48] bonnflow: nice job
+[01:42:55] BanchoBot: miimo__miimo left the game.
+[01:42:57] BanchoBot: maicon192011 left the game.
+[01:43:01] BanchoBot: bonnflow moved to slot 3
+[01:43:14] BanchoBot: All players are ready
+[01:43:16] BanchoBot: karimovic moved to slot 6
+[01:43:17] BanchoBot: Countdown ends in 1 minute
+[01:43:32] BCraftMG: !mp settings
+[01:43:34] BanchoBot: Room name: PTE : (Qualifiers) vs (B10), History: https://osu.ppy.sh/mp/109979426
+[01:43:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/1523138 Kajiura Yuki - Sis puella magica!
+[01:43:34] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:43:34] BanchoBot: Active mods: NoFail, HardRock
+[01:43:34] BanchoBot: Players: 6
+[01:43:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11414644 VMPR13          
+[01:43:34] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9858803 u-litay         
+[01:43:34] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10983752 bonnflow        
+[01:43:34] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/24811052 DarkHalis9      
+[01:43:34] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/18844163 Heaki           
+[01:43:34] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12629986 karimovic       
+[01:43:35] BCraftMG: !mp start 5 glhf
+[01:43:35] bonnflow: glhf!
+[01:43:35] BanchoBot: Countdown aborted
+[01:43:35] BanchoBot: Match starts in 5 seconds
+[01:43:35] BanchoBot: Queued the match to start in 5 seconds
+[01:43:37] BanchoBot: Match starts in 4 seconds
+[01:43:38] BanchoBot: Match starts in 3 seconds
+[01:43:38] BanchoBot: Good luck, have fun!
+[01:43:40] DarkHalis9: gl
+[01:43:41] BanchoBot: The match has started!
+[01:46:20] BanchoBot: karimovic finished playing (Score: 111880, PASSED).
+[01:46:22] BanchoBot: Heaki finished playing (Score: 193122, PASSED).
+[01:46:22] BanchoBot: DarkHalis9 finished playing (Score: 694749, PASSED).
+[01:46:22] BanchoBot: u-litay finished playing (Score: 98239, PASSED).
+[01:46:23] BanchoBot: bonnflow finished playing (Score: 229602, PASSED).
+[01:46:23] BanchoBot: VMPR13 finished playing (Score: 317704, PASSED).
+[01:46:23] BanchoBot: The match has finished!
+[01:46:35] bonnflow: awesome halis! :)
+[01:46:38] bonnflow: i threw a bit sorry
+[01:46:38] DarkHalis9: dang i threw at the end
+[01:46:40] DarkHalis9: ggs
+[01:46:43] bonnflow: gg
+[01:46:43] BanchoBot: miimo__miimo joined in slot 7.
+[01:46:55] BanchoBot: karimovic left the game.
+[01:46:56] Heaki: gg
+[01:46:59] BanchoBot: miimo__miimo moved to slot 6
+[01:47:08] BanchoBot: maicon192011 joined in slot 7.
+[01:47:10] DarkHalis9: GL with the DTs everyone o/
+[01:47:14] BanchoBot: DarkHalis9 left the game.
+[01:47:24] BanchoBot: maicon192011 moved to slot 4
+[01:47:50] Heaki: wait
+[01:49:09] VMPR13: BCraftMG
+[01:50:10] Heaki: my ref just gone
+[01:50:55] VMPR13: did he leave or something?
+[01:51:20] Heaki: it might be his net or something
+[01:51:36] Heaki: i dont think he just leave without saying a thing
+[01:51:38] bonnflow: anything going on in the discord?
+[01:51:50] VMPR13: could you ping him in discord?
+[01:51:57] Heaki: aight 1s
+[01:51:57] bonnflow: i will
+[01:52:09] Heaki: ok
+[01:53:36] bonnflow: no response yet
+[01:54:08] Heaki: be went to seelp
+[01:54:14] Heaki: bro*
+[01:54:20] bonnflow: :'(
+[01:54:34] VMPR13: i've saved the mp link, we can ask to ref someone else
+[01:54:50] miimo__miimo: we cant do anything just waiting
+[01:54:52] bonnflow: i;m messaging the discord
+[01:54:58] bonnflow: i pinged hosts
+[01:55:51] bonnflow: still no response TT
+[01:57:36] VMPR13: the thing is, it's very late, and everyone in my house is going to sleep
+[01:57:48] VMPR13: i won't be able to finish this
+[01:58:17] bonnflow: we're messaging now, hopefully we'll get a rescue
+[01:58:46] bonnflow: they are making a second mp i think
+[01:58:55] bonnflow: so we will move over
+[01:59:33] bonnflow: another ref is going to send invites in less than 5 minutes
+[02:00:10] Heaki: yep
+[02:01:20] BanchoBot: VMPR13 left the game.
+[02:01:22] miimo__miimo: i guess we continue later
+[02:01:33] BanchoBot: u-litay left the game.
+[02:01:35] BanchoBot: bonnflow left the game.
+[02:01:38] BanchoBot: maicon192011 left the game.
+[02:01:41] BanchoBot: Heaki left the game.
+[02:02:15] BanchoBot: miimo__miimo left the game.

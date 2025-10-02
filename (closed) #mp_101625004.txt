@@ -1,0 +1,427 @@
+[18:47:00] Joined #mp_101625004
+[18:47:00] BCraftMG: !mp settings
+[18:47:02] BanchoBot: Room name: OwY: (_Faith_) vs ([ChubbyPenguin]), History: https://osu.ppy.sh/mp/101625004
+[18:47:02] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[18:47:02] BanchoBot: Players: 0
+[18:47:20] BCraftMG: !mp invite #17513298
+[18:47:21] BanchoBot: Invited [ChubbyPenguin] to the room
+[18:47:38] BCraftMG: !mp invite #17755571
+[18:47:39] BanchoBot: Invited _Faith_ to the room
+[18:47:58] BanchoBot: _Faith_ joined in slot 1.
+[18:48:05] BCraftMG: !mp invite #17513298
+[18:48:07] BanchoBot: Invited [ChubbyPenguin] to the room
+[18:48:11] Join channel /join {channel}, /j {channel}, /msg {channel}, /chat {channel}, /query {channel}
+[18:48:11] Leave channel /leave, /part, /p
+[18:48:11] Clear channel /clear
+[18:48:11] Send action /me {msg}
+[18:48:11] Save logs /savelog, /save, /log
+[18:48:11]  -----
+[18:48:11] MP set cheat sheet !mp set {teammode} [{scoremode} {size}]
+[18:48:11] teammode 0: Head To Head, 1: Tag Coop, 2: Team Vs, 3: Tag Team Vs
+[18:48:11] scoremode 0: Score, 1: Accuracy, 2: Combo, 3: Score V2
+[18:48:23] BCraftMG: !mp set 2 3 3
+[18:48:24] BanchoBot: Changed match settings to 3 slots, TeamVs, ScoreV2
+[18:48:39] BanchoBot: [ChubbyPenguin] joined in slot 2 for team red.
+[18:48:42] BCraftMG: !mp settings
+[18:48:43] BanchoBot: Room name: OwY: (_Faith_) vs ([ChubbyPenguin]), History: https://osu.ppy.sh/mp/101625004
+[18:48:43] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[18:48:43] BanchoBot: Players: 2
+[18:48:43] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/17755571 _Faith_         [Team Blue]
+[18:48:43] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/17513298 [ChubbyPenguin] [Team Red ]
+[18:48:50] BCraftMG: cac anh co muon roll nhu choi real khong
+[18:49:10] [ChubbyPenguin]: !roll
+[18:49:10] BanchoBot: [ChubbyPenguin] rolls 6 point(s)
+[18:49:14] BCraftMG: lmfao
+[18:49:14] _Faith_: !roll
+[18:49:14] BanchoBot: _Faith_ rolls 91 point(s)
+[18:49:49] [ChubbyPenguin]: mo discord drop fps nen ko vao duoc
+[18:49:52] BCraftMG: faith ban trc hay pick trc
+[18:50:04] _Faith_: pick trc
+[18:50:12] [ChubbyPenguin]: me ban nm1
+[18:50:39] _Faith_: ban dt2
+[18:50:55] BCraftMG: ok
+[18:50:56] BCraftMG: hold
+[18:52:30] BCraftMG: _Faith_ | 0 - 0 | [ChubbyPenguin] // Next Pick: _Faith_
+[18:52:34] BCraftMG: !mp timer 120
+[18:52:35] BanchoBot: Countdown ends in 2 minutes
+[18:52:46] _Faith_: nm4
+[18:52:54] BCraftMG: !mp map 2877438 0
+[18:52:56] BCraftMG: !Mp mods 1
+[18:52:56] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2877438 tokiwa - Syuou Sange
+[18:52:56] BanchoBot: Changed match mode to Osu
+[18:52:58] BanchoBot: Enabled NoFail, disabled FreeMod
+[18:52:59] BCraftMG: !mp timer 120
+[18:53:02] BanchoBot: Countdown aborted
+[18:53:02] BanchoBot: Countdown ends in 2 minutes
+[18:53:12] BCraftMG: bo com di
+[18:53:14] BCraftMG: an lam j
+[18:53:25] [ChubbyPenguin]: :skull:
+[18:53:27] _Faith_: cai com di
+[18:53:29] _Faith_: nghien com lam j
+[18:53:38] [ChubbyPenguin]: lego
+[18:53:50] BanchoBot: All players are ready
+[18:53:52] BCraftMG: !mp settings
+[18:53:52] _Faith_: glhf
+[18:53:54] BanchoBot: Room name: OwY: (_Faith_) vs ([ChubbyPenguin]), History: https://osu.ppy.sh/mp/101625004
+[18:53:54] BanchoBot: Beatmap: https://osu.ppy.sh/b/2877438 tokiwa - Syuou Sange
+[18:53:54] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[18:53:54] BanchoBot: Active mods: NoFail
+[18:53:54] BanchoBot: Players: 2
+[18:53:54] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17755571 _Faith_         [Team Blue]
+[18:53:54] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17513298 [ChubbyPenguin] [Team Red ]
+[18:53:55] BCraftMG: !mp start 10
+[18:53:56] [ChubbyPenguin]: gl
+[18:53:56] BanchoBot: Countdown aborted
+[18:53:56] BanchoBot: Match starts in 10 seconds
+[18:53:56] BanchoBot: Queued the match to start in 10 seconds
+[18:54:01] BanchoBot: Match starts in 5 seconds
+[18:54:03] BanchoBot: Match starts in 4 seconds
+[18:54:03] BanchoBot: Match starts in 3 seconds
+[18:54:05] BanchoBot: Good luck, have fun!
+[18:54:07] BanchoBot: The match has started!
+[18:56:13] BanchoBot: [ChubbyPenguin] finished playing (Score: 165262, PASSED).
+[18:56:15] BanchoBot: _Faith_ finished playing (Score: 329291, PASSED).
+[18:56:15] BanchoBot: The match has finished!
+[18:56:40] BCraftMG: _Faith_ | 1 - 0 | [ChubbyPenguin] // Next Pick: [ChubbyPenguin]
+[18:56:43] BCraftMG: !mp timer 120
+[18:56:44] _Faith_: chet nguoi
+[18:56:46] [ChubbyPenguin]: me pick hr2
+[18:56:46] _Faith_: nm4
+[18:56:46] BanchoBot: Countdown ends in 2 minutes
+[18:57:00] BCraftMG: !mp map 1264401 0
+[18:57:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1264401 Nekomata Master - Sayonara Heaven
+[18:57:02] BanchoBot: Changed match mode to Osu
+[18:57:02] BCraftMG: !mp mods 17
+[18:57:03] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[18:57:04] BCraftMG: !mp timer 120
+[18:57:05] BanchoBot: Countdown aborted
+[18:57:05] BanchoBot: Countdown ends in 2 minutes
+[18:57:31] BanchoBot: All players are ready
+[18:57:33] BCraftMG: !mp settings
+[18:57:35] [ChubbyPenguin]: gl
+[18:57:35] BanchoBot: Room name: OwY: (_Faith_) vs ([ChubbyPenguin]), History: https://osu.ppy.sh/mp/101625004
+[18:57:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/1264401 Nekomata Master - Sayonara Heaven
+[18:57:35] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[18:57:35] BanchoBot: Active mods: NoFail, HardRock
+[18:57:35] BanchoBot: Players: 2
+[18:57:35] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17755571 _Faith_         [Team Blue]
+[18:57:35] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17513298 [ChubbyPenguin] [Team Red ]
+[18:57:37] _Faith_: gl
+[18:57:37] BCraftMG: !mp start 10
+[18:57:38] BanchoBot: Countdown aborted
+[18:57:38] BanchoBot: Match starts in 10 seconds
+[18:57:38] BanchoBot: Queued the match to start in 10 seconds
+[18:57:44] BanchoBot: Match starts in 5 seconds
+[18:57:46] BanchoBot: Match starts in 4 seconds
+[18:57:46] BanchoBot: Match starts in 3 seconds
+[18:57:48] BanchoBot: Good luck, have fun!
+[18:57:50] BanchoBot: The match has started!
+[18:59:47] BanchoBot: [ChubbyPenguin] finished playing (Score: 103045, PASSED).
+[18:59:49] BanchoBot: _Faith_ finished playing (Score: 106763, PASSED).
+[18:59:49] BanchoBot: The match has finished!
+[19:00:04] BCraftMG: _Faith_ | 2 - 0 | [ChubbyPenguin] // Next Pick: _Faith_
+[19:00:05] BCraftMG: !mp timer 120
+[19:00:07] BanchoBot: Countdown ends in 2 minutes
+[19:00:09] [ChubbyPenguin]: rip aim :skull:
+[19:00:18] BCraftMG: dcm bố faith
+[19:00:24] BCraftMG: bỏ cả đoạn cuối
+[19:00:25] BCraftMG: win cc
+[19:00:28] _Faith_: rip aim
+[19:00:48] _Faith_: pick
+[19:00:50] _Faith_: nm2
+[19:01:00] BCraftMG: !mp map 2983479 0
+[19:01:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2983479 Serenity - Lionheart
+[19:01:02] BanchoBot: Changed match mode to Osu
+[19:01:02] BCraftMG: !mp mods 1
+[19:01:04] BanchoBot: Enabled NoFail, disabled FreeMod
+[19:01:04] BCraftMG: !mp timer 120
+[19:01:05] BanchoBot: Countdown aborted
+[19:01:05] BanchoBot: Countdown ends in 2 minutes
+[19:01:11] BCraftMG: !mp lock
+[19:01:11] [ChubbyPenguin]: :sheesh:
+[19:01:11] BanchoBot: Locked the match
+[19:01:15] BCraftMG: adu
+[19:01:17] BCraftMG: lion heart
+[19:01:19] BCraftMG: sech
+[19:01:52] BanchoBot: All players are ready
+[19:01:56] _Faith_: win nm2 lam cho
+[19:02:01] BCraftMG: !mp settings
+[19:02:02] BanchoBot: Room name: OwY: (_Faith_) vs ([ChubbyPenguin]), History: https://osu.ppy.sh/mp/101625004
+[19:02:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/2983479 Serenity - Lionheart
+[19:02:02] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:02:02] BanchoBot: Active mods: NoFail
+[19:02:02] BanchoBot: Players: 2
+[19:02:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17755571 _Faith_         [Team Blue]
+[19:02:02] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17513298 [ChubbyPenguin] [Team Red ]
+[19:02:03] BCraftMG: !mp start 10
+[19:02:04] BanchoBot: Countdown aborted
+[19:02:04] BanchoBot: Match starts in 10 seconds
+[19:02:04] BanchoBot: Queued the match to start in 10 seconds
+[19:02:10] BanchoBot: Match starts in 5 seconds
+[19:02:12] BanchoBot: Match starts in 4 seconds
+[19:02:12] BanchoBot: Match starts in 3 seconds
+[19:02:14] BanchoBot: Good luck, have fun!
+[19:02:16] BanchoBot: The match has started!
+[19:06:13] BanchoBot: _Faith_ finished playing (Score: 230774, PASSED).
+[19:06:13] BanchoBot: [ChubbyPenguin] finished playing (Score: 77686, PASSED).
+[19:06:13] BanchoBot: The match has finished!
+[19:06:34] _Faith_: acc
+[19:06:34] _Faith_: xin dung nhin
+[19:06:37] [ChubbyPenguin]: pick cai j ko can aim nhi
+[19:06:41] [ChubbyPenguin]: ae goi y
+[19:06:43] BCraftMG: _Faith_ | 3 - 0 | [ChubbyPenguin] // Next Pick: [ChubbyPenguin]
+[19:06:48] BCraftMG: !mp timer 120
+[19:06:49] BanchoBot: Countdown ends in 2 minutes
+[19:06:50] BCraftMG: pick tb
+[19:06:51] _Faith_: nm5
+[19:06:51] _Faith_: aim it
+[19:06:58] [ChubbyPenguin]: pick HD2
+[19:07:05] BCraftMG: chet me faith
+[19:07:22] _Faith_: thoi xong
+[19:07:27] BCraftMG: !mp map 1641637 0
+[19:07:28] [ChubbyPenguin]: chet ca toi
+[19:07:28] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1641637 RUMI - Densetsu no Matsuri
+[19:07:28] BanchoBot: Changed match mode to Osu
+[19:07:29] BCraftMG: !mp mods 9
+[19:07:30] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[19:07:31] [ChubbyPenguin]: :skull:
+[19:07:32] BCraftMG: !mp timer 120
+[19:07:34] BanchoBot: Countdown aborted
+[19:07:34] BanchoBot: Countdown ends in 2 minutes
+[19:07:41] BCraftMG: chet ngay con hang minh quan
+[19:07:53] _Faith_: bo may ay nhi
+[19:07:56] BCraftMG: bo9
+[19:08:13] [ChubbyPenguin]: bcraftmg hom nao day toi ref nhe, dang ki lam ref tour mania ma ko biet ref :skull:
+[19:08:18] BCraftMG: vai
+[19:08:22] BanchoBot: All players are ready
+[19:08:25] _Faith_: =))))
+[19:08:30] BCraftMG: !mp start 10
+[19:08:30] BanchoBot: Countdown aborted
+[19:08:30] BanchoBot: Match starts in 10 seconds
+[19:08:30] BanchoBot: Queued the match to start in 10 seconds
+[19:08:37] BanchoBot: Match starts in 5 seconds
+[19:08:37] BanchoBot: Match starts in 4 seconds
+[19:08:38] BCraftMG: thực ra ref tour thì dễ
+[19:08:38] BanchoBot: Match starts in 3 seconds
+[19:08:38] _Faith_: glhf
+[19:08:39] BanchoBot: Good luck, have fun!
+[19:08:40] _Faith_: me lose
+[19:08:40] BanchoBot: The match has started!
+[19:08:45] BCraftMG: nó có cái gọi là ref sheet
+[19:08:52] BCraftMG: ngồi copy paste là chính
+[19:11:36] BanchoBot: _Faith_ finished playing (Score: 28646, PASSED).
+[19:11:38] _Faith_: hhwe
+[19:11:40] BanchoBot: [ChubbyPenguin] finished playing (Score: 56975, PASSED).
+[19:11:40] BanchoBot: The match has finished!
+[19:11:41] _Faith_: DSADJASJ;;AHSD
+[19:11:47] [ChubbyPenguin]: shheeehh
+[19:12:02] BCraftMG: _Faith_ | 3 - 1 | [ChubbyPenguin] // Next Pick: _Faith_
+[19:12:04] BCraftMG: !mp timer 120
+[19:12:05] BanchoBot: Countdown ends in 2 minutes
+[19:12:09] _Faith_: nm3
+[19:12:13] BCraftMG: chết ngay con hàng mq
+[19:12:23] BCraftMG: !mp map 3581830 0
+[19:12:25] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3581830 TUYU - Territory Battle
+[19:12:25] BanchoBot: Changed match mode to Osu
+[19:12:25] BCraftMG: !mp mods 1
+[19:12:27] BanchoBot: Enabled NoFail, disabled FreeMod
+[19:12:29] BCraftMG: !MP timer 120
+[19:12:31] BanchoBot: Countdown aborted
+[19:12:31] BanchoBot: Countdown ends in 2 minutes
+[19:12:51] [ChubbyPenguin]: tuyu banger
+[19:12:56] BCraftMG: based
+[19:13:19] BanchoBot: All players are ready
+[19:13:21] BCraftMG: !mp settings
+[19:13:23] BanchoBot: Room name: OwY: (_Faith_) vs ([ChubbyPenguin]), History: https://osu.ppy.sh/mp/101625004
+[19:13:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/3581830 TUYU - Territory Battle
+[19:13:23] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:13:23] BanchoBot: Active mods: NoFail
+[19:13:23] BanchoBot: Players: 2
+[19:13:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17755571 _Faith_         [Team Blue]
+[19:13:23] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17513298 [ChubbyPenguin] [Team Red ]
+[19:13:26] BCraftMG: !mp start 10
+[19:13:27] [ChubbyPenguin]: den luc comeback
+[19:13:27] BanchoBot: Countdown aborted
+[19:13:27] BanchoBot: Match starts in 10 seconds
+[19:13:27] BanchoBot: Queued the match to start in 10 seconds
+[19:13:32] _Faith_: tuyu la e cua tucony
+[19:13:32] BanchoBot: Match starts in 5 seconds
+[19:13:35] BanchoBot: Match starts in 4 seconds
+[19:13:35] BanchoBot: Match starts in 3 seconds
+[19:13:36] BanchoBot: Good luck, have fun!
+[19:13:39] BanchoBot: The match has started!
+[19:16:13] BanchoBot: [ChubbyPenguin] finished playing (Score: 139956, PASSED).
+[19:16:15] BanchoBot: _Faith_ finished playing (Score: 53561, PASSED).
+[19:16:15] BanchoBot: The match has finished!
+[19:16:23] _Faith_: dm dang choi co con muoi cu bay bay
+[19:16:31] [ChubbyPenguin]: ae
+[19:16:32] BCraftMG: _Faith_ | 3 - 2 | [ChubbyPenguin] // Next Pick: [ChubbyPenguin]
+[19:16:33] BCraftMG: !mp timer 120
+[19:16:35] [ChubbyPenguin]: hoi ho thorlion xem toi pick map j phat
+[19:16:36] BanchoBot: Countdown ends in 2 minutes
+[19:17:19] [ChubbyPenguin]: pick dt3
+[19:17:21] BCraftMG: thorlion dang apex
+[19:17:36] BCraftMG: !mp map 2503310 0
+[19:17:37] BanchoBot: Countdown ends in 1 minute
+[19:17:37] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2503310 zts - Captain Murasa
+[19:17:37] BanchoBot: Changed match mode to Osu
+[19:17:40] BCraftMG: !mp mods 65
+[19:17:41] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[19:17:44] BCraftMG: !mp timer 120
+[19:17:46] BanchoBot: Countdown aborted
+[19:17:46] BanchoBot: Countdown ends in 2 minutes
+[19:17:57] _Faith_: vai ca DT
+[19:18:01] _Faith_: tam biet cuoc choi r
+[19:18:15] BanchoBot: _Faith_ left the game.
+[19:18:17] BanchoBot: _Faith_ joined in slot 1 for team blue.
+[19:18:23] _Faith_: bi ngao
+[19:18:27] _Faith_: thay skin cai
+[19:18:31] _Faith_: bi thoat ra ngoai luon
+[19:18:39] [ChubbyPenguin]: choi dt bang chuot cursor cu bi vang linh ta linh tinh ay
+[19:18:41] BCraftMG: skill issue
+[19:18:43] BanchoBot: All players are ready
+[19:18:47] BanchoBot: Countdown ends in 1 minute
+[19:18:50] BCraftMG: !mp settings
+[19:18:51] BanchoBot: Room name: OwY: (_Faith_) vs ([ChubbyPenguin]), History: https://osu.ppy.sh/mp/101625004
+[19:18:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/2503310 zts - Captain Murasa
+[19:18:51] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:18:51] BanchoBot: Active mods: NoFail, DoubleTime
+[19:18:51] BanchoBot: Players: 2
+[19:18:52] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17755571 _Faith_         [Team Blue]
+[19:18:52] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17513298 [ChubbyPenguin] [Team Red ]
+[19:18:53] _Faith_: glhf
+[19:18:53] [ChubbyPenguin]: exactly
+[19:18:54] BCraftMG: !mp start 10
+[19:18:55] [ChubbyPenguin]: gl
+[19:18:55] BanchoBot: Countdown aborted
+[19:18:55] BanchoBot: Match starts in 10 seconds
+[19:18:55] BanchoBot: Queued the match to start in 10 seconds
+[19:18:57] _Faith_: chuan bi an com
+[19:19:01] BanchoBot: Match starts in 5 seconds
+[19:19:01] BanchoBot: Match starts in 4 seconds
+[19:19:03] BanchoBot: Match starts in 3 seconds
+[19:19:03] BanchoBot: Good luck, have fun!
+[19:19:06] BanchoBot: The match has started!
+[19:23:02] BanchoBot: _Faith_ finished playing (Score: 193889, PASSED).
+[19:23:02] BanchoBot: [ChubbyPenguin] finished playing (Score: 291344, PASSED).
+[19:23:02] BanchoBot: The match has finished!
+[19:23:06] BCraftMG: _Faith_ | 3 - 3 | [ChubbyPenguin] // Next Pick: [ChubbyPenguin]
+[19:23:06] _Faith_: vcl
+[19:23:08] BCraftMG: !mp timer 120
+[19:23:10] _Faith_: ko bam noi DT
+[19:23:10] BanchoBot: Countdown ends in 2 minutes
+[19:23:11] BCraftMG: bán độ rồi
+[19:23:23] BCraftMG: anh nào ting ting cho faith à
+[19:23:26] [ChubbyPenguin]: faith pick chu
+[19:23:37] BCraftMG: _Faith_ | 3 - 3 | [ChubbyPenguin] // Next Pick: _Faith_
+[19:23:39] BCraftMG: copy nham
+[19:23:41] BCraftMG: =)))
+[19:23:42] _Faith_: con map j vui vui nhi
+[19:23:59] [ChubbyPenguin]: ua tuong cai day la tu dong
+[19:24:00] [ChubbyPenguin]: hoa ra chay bang com a
+[19:24:02] [ChubbyPenguin]: =]]
+[19:24:09] _Faith_: HD1
+[19:24:11] BanchoBot: Countdown ends in 1 minute
+[19:24:15] BCraftMG: cái tin nhắn t nhắn là bằng cơm
+[19:24:26] BCraftMG: còn thường add điểm thì sẽ có ref sheet ns óaout
+[19:24:37] BCraftMG: !mp map 1696541
+[19:24:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1696541 Uinyasu, Occhoko Bunny - Aa Kenran no Yume ga Gotoku (Epsilon Remix)
+[19:24:41] BCraftMG: !mp mods 9
+[19:24:41] BanchoBot: Countdown ends in 30 seconds
+[19:24:43] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[19:24:45] BCraftMG: !mp timer 120
+[19:24:47] BanchoBot: Countdown aborted
+[19:24:47] BanchoBot: Countdown ends in 2 minutes
+[19:24:53] BCraftMG: adu
+[19:25:17] _Faith_: hr1 tryout 6wc
+[19:25:25] BCraftMG: sao anh lai biet
+[19:25:35] _Faith_: toi xem
+[19:25:46] BanchoBot: All players are ready
+[19:25:47] BanchoBot: Countdown ends in 1 minute
+[19:25:51] _Faith_: glgl
+[19:25:52] BCraftMG: !mp settings
+[19:25:53] BanchoBot: Room name: OwY: (_Faith_) vs ([ChubbyPenguin]), History: https://osu.ppy.sh/mp/101625004
+[19:25:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/1696541 Uinyasu, Occhoko Bunny - Aa Kenran no Yume ga Gotoku (Epsilon Remix)
+[19:25:53] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:25:53] BanchoBot: Active mods: NoFail, Hidden
+[19:25:53] BanchoBot: Players: 2
+[19:25:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17755571 _Faith_         [Team Blue]
+[19:25:54] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17513298 [ChubbyPenguin] [Team Red ]
+[19:25:55] BCraftMG: !mp start 10
+[19:25:56] [ChubbyPenguin]: gl
+[19:25:56] BanchoBot: Countdown aborted
+[19:25:56] BanchoBot: Match starts in 10 seconds
+[19:25:56] BanchoBot: Queued the match to start in 10 seconds
+[19:26:01] BanchoBot: Match starts in 5 seconds
+[19:26:03] BanchoBot: Match starts in 4 seconds
+[19:26:03] BanchoBot: Match starts in 3 seconds
+[19:26:05] BanchoBot: Good luck, have fun!
+[19:26:05] BanchoBot: The match has started!
+[19:30:13] BanchoBot: [ChubbyPenguin] finished playing (Score: 141345, PASSED).
+[19:30:15] BanchoBot: _Faith_ finished playing (Score: 221079, PASSED).
+[19:30:15] BanchoBot: The match has finished!
+[19:30:18] BCraftMG: _Faith_ | 4 - 3 | [ChubbyPenguin] // Next Pick: [ChubbyPenguin]
+[19:30:23] BCraftMG: !mp timer 120
+[19:30:24] [ChubbyPenguin]: hd1 nay hoi darc
+[19:30:24] BanchoBot: Countdown ends in 2 minutes
+[19:30:26] [ChubbyPenguin]: pick nm5
+[19:30:34] _Faith_: tb
+[19:30:36] _Faith_: la ro
+[19:30:40] BCraftMG: !mp map 3448872 0
+[19:30:42] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3448872 Lime - Luminaria
+[19:30:42] BanchoBot: Changed match mode to Osu
+[19:30:42] BCraftMG: !mp timer 120
+[19:30:44] BanchoBot: Countdown aborted
+[19:30:44] BanchoBot: Countdown ends in 2 minutes
+[19:30:44] BCraftMG: !mp mods 1
+[19:30:46] BanchoBot: Enabled NoFail, disabled FreeMod
+[19:30:56] [ChubbyPenguin]: ban ca do, chung toi ban do
+[19:31:18] BanchoBot: All players are ready
+[19:31:20] [ChubbyPenguin]: gl
+[19:31:22] _Faith_: noi chung la ko danh tb doi k ne
+[19:31:25] _Faith_: gl
+[19:31:27] BCraftMG: !mp settings
+[19:31:29] BanchoBot: Room name: OwY: (_Faith_) vs ([ChubbyPenguin]), History: https://osu.ppy.sh/mp/101625004
+[19:31:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/3448872 Lime - Luminaria
+[19:31:29] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:31:29] BanchoBot: Active mods: NoFail
+[19:31:29] BanchoBot: Players: 2
+[19:31:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17755571 _Faith_         [Team Blue]
+[19:31:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17513298 [ChubbyPenguin] [Team Red ]
+[19:31:32] BCraftMG: !mp start 10
+[19:31:33] BanchoBot: Countdown aborted
+[19:31:33] BanchoBot: Match starts in 10 seconds
+[19:31:33] BanchoBot: Queued the match to start in 10 seconds
+[19:31:39] BanchoBot: Match starts in 5 seconds
+[19:31:41] BanchoBot: Match starts in 4 seconds
+[19:31:41] BanchoBot: Match starts in 3 seconds
+[19:31:41] BanchoBot: Good luck, have fun!
+[19:31:43] BanchoBot: The match has started!
+[19:34:18] BanchoBot: [ChubbyPenguin] finished playing (Score: 111976, PASSED).
+[19:34:20] BanchoBot: _Faith_ finished playing (Score: 138814, PASSED).
+[19:34:20] BanchoBot: The match has finished!
+[19:34:32] _Faith_: VAI
+[19:34:34] _Faith_: BAN DO THAT A
+[19:34:49] [ChubbyPenguin]: GG
+[19:34:53] _Faith_: ggwp
+[19:34:57] [ChubbyPenguin]: ko
+[19:35:01] BCraftMG: !mp map 2633790 0
+[19:35:03] _Faith_: HUA HEN 1 NGAY CHOI TABLET
+[19:35:03] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2633790 tochi - Ascension (feat. Yoko Kanno)
+[19:35:03] BanchoBot: Changed match mode to Osu
+[19:35:05] [ChubbyPenguin]: lau ngay ko chs game
+[19:35:05] BCraftMG: !mp mods 1 Freemod
+[19:35:07] BanchoBot: Disabled all mods, enabled FreeMod
+[19:35:07] BCraftMG: :smirk:
+[19:35:15] _Faith_: TB KO
+[19:35:17] [ChubbyPenguin]: ua lam gi co TB
+[19:35:25] [ChubbyPenguin]: toi di an com day
+[19:35:27] [ChubbyPenguin]: cam on ref
+[19:35:28] BCraftMG: kekw
+[19:35:30] BCraftMG: kekw
+[19:35:33] BCraftMG: tam piet
+[19:35:34] BanchoBot: [ChubbyPenguin] left the game.
+[19:35:36] _Faith_: sad
+[19:35:36] BanchoBot: _Faith_ left the game.
+[19:35:40] BCraftMG: !mp close
+[19:35:42] BanchoBot: Closed the match

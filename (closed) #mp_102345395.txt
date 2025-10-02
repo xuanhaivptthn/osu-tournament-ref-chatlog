@@ -1,0 +1,738 @@
+[23:53:18] Joined #mp_102345395
+[23:53:19] BCraftMG: !mp settings
+[23:53:20] BanchoBot: Room name: STT3: (McDo Workers) vs (#freeminusls), History: https://osu.ppy.sh/mp/102345395
+[23:53:20] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[23:53:20] BanchoBot: Players: 0
+[23:53:43] BCraftMG: !mp set 2 3 12
+[23:53:43] BanchoBot: Changed match settings to 12 slots, TeamVs, ScoreV2
+[23:53:52] BCraftMG: !mp invite #13396819
+[23:53:52] BanchoBot: Invited Enari to the room
+[23:53:53] BCraftMG: !mp invite #13055978
+[23:53:53] BanchoBot: User not found
+[23:53:54] BCraftMG: !mp invite #9027651
+[23:53:54] BanchoBot: Invited kirndy to the room
+[23:53:55] BCraftMG: !mp invite #7101953
+[23:53:55] BanchoBot: Invited MakiBrony to the room
+[23:53:56] BCraftMG: !mp invite #12143372
+[23:53:56] BanchoBot: Invited Iwakura to the room
+[23:53:57] BCraftMG: !mp invite #12483293
+[23:53:57] BanchoBot: Invited ImaginaryVaxei to the room
+[23:53:58] BCraftMG: !mp invite #14951633
+[23:53:58] BanchoBot: Invited LouisD to the room
+[23:53:59] BCraftMG: !mp invite #11129041
+[23:53:59] BanchoBot: Invited Draxarta to the room
+[23:54:00] BCraftMG: !mp invite #15872196
+[23:54:00] BanchoBot: Invited Durrr_Meuble to the room
+[23:54:01] BCraftMG: !mp invite #7990049
+[23:54:01] BanchoBot: Invited Foahcha to the room
+[23:54:02] BCraftMG: !mp invite #11934951
+[23:54:02] BanchoBot: Invited THE METHOD to the room
+[23:54:03] BCraftMG: !mp invite #16420104
+[23:54:03] BanchoBot: Invited Mimil to the room
+[23:54:09] BanchoBot: kirndy joined in slot 1 for team blue.
+[23:54:10] BanchoBot: LouisD joined in slot 2 for team red.
+[23:54:24] BCraftMG: !mp addref ROB_
+[23:54:24] BanchoBot: User not found: ROB_
+[23:54:28] LouisD: hello there
+[23:54:29] LouisD: owo
+[23:54:35] kirndy: o/
+[23:54:35] BanchoBot: Enari joined in slot 3 for team blue.
+[23:54:36] BanchoBot: MakiBrony joined in slot 4 for team red.
+[23:54:40] Enari: o/
+[23:54:51] BanchoBot: Durrr_Meuble joined in slot 5 for team blue.
+[23:54:51] BCraftMG: o/
+[23:54:56] BCraftMG: you guys want warm up?
+[23:54:57] BanchoBot: kirndy left the game.
+[23:55:00] Durrr_Meuble: o////
+[23:55:14] Enari: sure, why not
+[23:55:18] BCraftMG: !mp host Enari
+[23:55:19] BanchoBot: Enari became the host.
+[23:55:19] BanchoBot: Changed match host to Enari
+[23:55:20] BanchoBot: Beatmap changed to: Polyphia - Rich Kids (feat. Yvette Young) [Chizu's Insane] (https://osu.ppy.sh/b/2963497)
+[23:55:21] BanchoBot: Host is changing map...
+[23:55:29] BanchoBot: Beatmap changed to: SOUND HOLIC feat. Nana Takahashi - XINOBIKILL [tourney ver.] (https://osu.ppy.sh/b/3241863)
+[23:55:34] BCraftMG: McDo Workers is Red 1-3; #freeminusls is Blue 4-6
+[23:55:43] BanchoBot: MakiBrony changed to Blue
+[23:55:52] BanchoBot: Durrr_Meuble changed to Red
+[23:55:52] BanchoBot: Durrr_Meuble moved to slot 1
+[23:55:53] BanchoBot: ImaginaryVaxei joined in slot 5 for team blue.
+[23:55:58] BanchoBot: Iwakura joined in slot 6 for team red.
+[23:56:07] BanchoBot: Iwakura changed to Blue
+[23:56:39] BanchoBot: Enari moved to slot 7
+[23:56:46] BCraftMG: !mp addref ROB_
+[23:56:47] BanchoBot: Added ROB_ to the match referees
+[23:56:50] BanchoBot: Po1SoN3SS joined in slot 3 for team blue.
+[23:56:50] BCraftMG: !mp listrefs
+[23:56:51] BanchoBot: Match referees:
+[23:56:51] BanchoBot: ROB_
+[23:56:51] BanchoBot: BCraftMG
+[23:57:04] Po1SoN3SS: o/
+[23:57:06] BanchoBot: Mimil joined in slot 8 for team red.
+[23:57:09] Iwakura: hai
+[23:57:13] BanchoBot: Foahcha joined in slot 9 for team blue.
+[23:57:16] BanchoBot: Mimil left the game.
+[23:57:16] BCraftMG: you can start the map when everyone is ready :D
+[23:57:29] BanchoBot: Foahcha changed to Red
+[23:57:31] BanchoBot: Foahcha moved to slot 8
+[23:57:38] Foahcha: HELLOI
+[23:58:27] LouisD: hmmm
+[23:58:28] BanchoBot: Po1SoN3SS left the game.
+[23:58:31] BanchoBot: All players are ready
+[23:58:36] BanchoBot: Enari moved to slot 3
+[23:58:38] BanchoBot: The match has started!
+[00:00:50] BanchoBot: MakiBrony finished playing (Score: 92986, PASSED).
+[00:00:50] BanchoBot: Iwakura finished playing (Score: 103572, PASSED).
+[00:00:50] BanchoBot: Durrr_Meuble finished playing (Score: 105367, PASSED).
+[00:00:51] BanchoBot: ImaginaryVaxei finished playing (Score: 112007, PASSED).
+[00:00:51] BanchoBot: Foahcha finished playing (Score: 128212, PASSED).
+[00:00:51] BanchoBot: Enari finished playing (Score: 132410, PASSED).
+[00:00:51] BanchoBot: LouisD finished playing (Score: 58401, PASSED).
+[00:00:51] BanchoBot: The match has finished!
+[00:01:02] BCraftMG: !mp host LouisD
+[00:01:02] BanchoBot: LouisD became the host.
+[00:01:02] BanchoBot: Changed match host to LouisD
+[00:01:08] BanchoBot: Foahcha became the host.
+[00:01:10] BanchoBot: Host is changing map...
+[00:01:36] BanchoBot: Beatmap changed to: Camellia - Towards The Horizon [Endless Journey] (https://osu.ppy.sh/b/1491270)
+[00:02:28] BanchoBot: All players are ready
+[00:02:35] BanchoBot: The match has started!
+[00:04:45] BanchoBot: LouisD finished playing (Score: 82455, PASSED).
+[00:04:45] BanchoBot: MakiBrony finished playing (Score: 150917, PASSED).
+[00:04:46] BanchoBot: Foahcha finished playing (Score: 276486, PASSED).
+[00:04:46] BanchoBot: Durrr_Meuble finished playing (Score: 104982, PASSED).
+[00:04:47] BanchoBot: Iwakura finished playing (Score: 182242, PASSED).
+[00:04:47] BanchoBot: Enari finished playing (Score: 129823, PASSED).
+[00:04:50] BanchoBot: ImaginaryVaxei finished playing (Score: 249684, PASSED).
+[00:04:50] BanchoBot: The match has finished!
+[00:04:58] BCraftMG: !mp clearhost
+[00:04:59] BanchoBot: Cleared match host
+[00:05:06] BCraftMG: lets start with protect roll
+[00:05:07] BCraftMG: 2 cap
+[00:05:10] BCraftMG: please roll
+[00:05:15] BanchoBot: ImaginaryVaxei left the game.
+[00:05:18] Enari: !roll
+[00:05:18] BanchoBot: Enari rolls 61 point(s)
+[00:05:19] LouisD: !roll
+[00:05:19] BanchoBot: LouisD rolls 95 point(s)
+[00:05:21] MakiBrony: !roll
+[00:05:21] BanchoBot: MakiBrony rolls 24 point(s)
+[00:05:23] BanchoBot: Durrr_Meuble left the game.
+[00:05:23] BanchoBot: Durrr_Meuble joined in slot 1 for team blue.
+[00:05:27] BanchoBot: Durrr_Meuble changed to Red
+[00:05:28] BanchoBot: Durrr_Meuble changed to Blue
+[00:05:28] BanchoBot: Durrr_Meuble changed to Red
+[00:05:43] BCraftMG: McDo Workers, please choose your protect order
+[00:05:51] LouisD: 2nd protect
+[00:05:59] BCraftMG: #freeminusls, your protect please
+[00:06:01] BCraftMG: !mp timer 120
+[00:06:01] BanchoBot: Countdown ends in 2 minutes
+[00:06:20] Enari: hr2
+[00:06:28] BCraftMG: McDo Workers, yours?
+[00:06:29] BCraftMG: !mp timer 120
+[00:06:30] BanchoBot: Countdown aborted
+[00:06:30] BanchoBot: Countdown ends in 2 minutes
+[00:06:37] LouisD: nm5
+[00:06:51] BCraftMG: okay now for picks or bans order roll
+[00:06:56] BCraftMG: 2 captain please roll again
+[00:06:58] LouisD: !roll
+[00:06:58] BanchoBot: LouisD rolls 53 point(s)
+[00:06:59] Enari: !roll
+[00:06:59] BanchoBot: Enari rolls 29 point(s)
+[00:07:08] MakiBrony: !roll
+[00:07:08] BanchoBot: MakiBrony rolls 35 point(s)
+[00:07:09] LouisD: :sunglasses:
+[00:07:13] BCraftMG: McDo Workers, please choose your pick or ban order
+[00:07:23] LouisD: ban 2nd
+[00:07:30] BanchoBot: Countdown ends in 1 minute
+[00:07:35] BCraftMG: #freeminusls, please choose your pick order
+[00:07:38] BCraftMG: !mp aborttimer
+[00:07:39] BanchoBot: Countdown aborted
+[00:07:41] Enari: 1st
+[00:07:58] BCraftMG: okay
+[00:08:16] BCraftMG: ban order is ABAB, lets start with #freeminusls ban
+[00:08:17] BCraftMG: !mp timer 120
+[00:08:18] BanchoBot: Countdown ends in 2 minutes
+[00:08:25] Enari: nm2
+[00:08:41] BCraftMG: McDo Workers, your first ban?
+[00:08:42] BCraftMG: !mp timer 120
+[00:08:43] BanchoBot: Countdown aborted
+[00:08:43] BanchoBot: Countdown ends in 2 minutes
+[00:08:46] LouisD: hr1
+[00:08:58] BCraftMG: #freeminusls, your second ban
+[00:09:01] BCraftMG: !Mp timer 12
+[00:09:01] BanchoBot: Countdown aborted
+[00:09:01] BanchoBot: Countdown ends in 12 seconds
+[00:09:04] BanchoBot: Countdown ends in 10 seconds
+[00:09:09] BanchoBot: Countdown ends in 5 seconds
+[00:09:10] BanchoBot: Countdown ends in 4 seconds
+[00:09:11] BanchoBot: Countdown ends in 3 seconds
+[00:09:12] BanchoBot: Countdown ends in 2 seconds
+[00:09:13] BanchoBot: Countdown ends in 1 second
+[00:09:14] BanchoBot: Countdown finished
+[00:09:14] BCraftMG: wait :tf:
+[00:09:17] BCraftMG: !mp timer 120
+[00:09:17] BanchoBot: Countdown ends in 2 minutes
+[00:09:19] Enari: ez2
+[00:09:33] BCraftMG: McDo Workers, last ban/
+[00:09:34] BanchoBot: MakiBrony left the game.
+[00:09:35] BCraftMG: !mp timer 120
+[00:09:36] BanchoBot: Countdown aborted
+[00:09:36] BanchoBot: Countdown ends in 2 minutes
+[00:09:37] LouisD: je vais pleurer
+[00:09:44] BanchoBot: Foahcha moved to slot 4
+[00:09:44] Durrr_Meuble: pleurage
+[00:09:50] LouisD: dt1
+[00:09:55] BCraftMG: McDo Workers | 0 - 0 | #freeminusls // First Pick: #freeminusls
+[00:09:58] BCraftMG: !mp timer 120
+[00:09:59] BanchoBot: Countdown aborted
+[00:09:59] BanchoBot: Countdown ends in 2 minutes
+[00:10:44] BanchoBot: Foahcha left the game.
+[00:10:45] Enari: fm2
+[00:10:48] BanchoBot: Enari moved to slot 4
+[00:10:49] BanchoBot: Iwakura left the game.
+[00:10:54] BanchoBot: Durrr_Meuble left the game.
+[00:10:56] BCraftMG: !mp mods Freemod NF
+[00:10:56] BanchoBot: Disabled all mods, enabled FreeMod
+[00:10:57] BCraftMG: !mp map 37166 0
+[00:10:57] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/37166 IOSYS - Okuu's Nuclear Fusion Dojo
+[00:10:57] BanchoBot: Changed match mode to Osu
+[00:10:58] BCraftMG: !mp timer 120
+[00:10:58] BanchoBot: Countdown aborted
+[00:10:58] BanchoBot: Countdown ends in 2 minutes
+[00:11:02] BanchoBot: Foahcha joined in slot 1 for team blue.
+[00:11:03] BanchoBot: kirndy joined in slot 3 for team blue.
+[00:11:11] BanchoBot: Mimil joined in slot 5 for team blue.
+[00:11:13] BanchoBot: Foahcha changed to Red
+[00:11:13] BanchoBot: Foahcha changed to Blue
+[00:11:14] BanchoBot: Enari moved to slot 6
+[00:11:14] BanchoBot: Foahcha changed to Red
+[00:11:15] BCraftMG: once again, McDo Workers is Red 1-3; #freeminusls is Blue in 4-6
+[00:11:18] BanchoBot: kirndy moved to slot 4
+[00:11:21] BanchoBot: ImaginaryVaxei joined in slot 3 for team blue.
+[00:11:22] BCraftMG: !mp size 8
+[00:11:22] BanchoBot: Changed match to size 8
+[00:11:29] BanchoBot: Mimil changed to Red
+[00:11:30] BanchoBot: ImaginaryVaxei moved to slot 7
+[00:11:31] BanchoBot: ImaginaryVaxei moved to slot 3
+[00:11:33] BanchoBot: ImaginaryVaxei moved to slot 8
+[00:11:37] BanchoBot: Mimil moved to slot 3
+[00:11:38] BanchoBot: ImaginaryVaxei moved to slot 5
+[00:11:58] BanchoBot: Countdown ends in 1 minute
+[00:12:09] BanchoBot: All players are ready
+[00:12:14] kirndy: glhf!
+[00:12:15] BCraftMG: !mp settings
+[00:12:15] BanchoBot: Room name: STT3: (McDo Workers) vs (#freeminusls), History: https://osu.ppy.sh/mp/102345395
+[00:12:15] BanchoBot: Beatmap: https://osu.ppy.sh/b/37166 IOSYS - Okuu's Nuclear Fusion Dojo
+[00:12:15] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:12:15] BanchoBot: Active mods: Freemod
+[00:12:15] BanchoBot: Players: 6
+[00:12:15] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7990049 Foahcha         [Team Red  / NoFail, Easy]
+[00:12:15] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14951633 LouisD          [Team Red  / NoFail, Hidden]
+[00:12:15] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16420104 Mimil           [Team Red  / NoFail, HardRock]
+[00:12:15] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9027651 kirndy          [Team Blue / NoFail, Hidden]
+[00:12:15] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12483293 ImaginaryVaxei  [Team Blue / NoFail, HardRock]
+[00:12:15] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/13396819 Enari           [Team Blue / NoFail, HardRock]
+[00:12:20] Mimil: glhf
+[00:12:21] BCraftMG: !mp start 10
+[00:12:21] LouisD: glhf
+[00:12:21] BanchoBot: Countdown aborted
+[00:12:21] BanchoBot: Match starts in 10 seconds
+[00:12:21] BanchoBot: Queued the match to start in 10 seconds
+[00:12:26] BanchoBot: Match starts in 5 seconds
+[00:12:27] BanchoBot: Match starts in 4 seconds
+[00:12:28] BanchoBot: Match starts in 3 seconds
+[00:12:30] BanchoBot: Good luck, have fun!
+[00:12:32] BanchoBot: The match has started!
+[00:15:50] BanchoBot: Mimil finished playing (Score: 286311, PASSED).
+[00:15:50] BanchoBot: Foahcha finished playing (Score: 262274, PASSED).
+[00:15:50] BanchoBot: ImaginaryVaxei finished playing (Score: 421911, PASSED).
+[00:15:50] BanchoBot: Enari finished playing (Score: 454428, PASSED).
+[00:15:50] BanchoBot: kirndy finished playing (Score: 482798, PASSED).
+[00:15:50] BanchoBot: LouisD finished playing (Score: 302348, PASSED).
+[00:15:50] BanchoBot: The match has finished!
+[00:16:09] BCraftMG: McDo Workers please pick while i calaulate points
+[00:16:11] BCraftMG: !mp timer 120
+[00:16:11] BanchoBot: Countdown ends in 2 minutes
+[00:16:24] BanchoBot: Durrr_Meuble joined in slot 7 for team blue.
+[00:16:25] BanchoBot: Mimil left the game.
+[00:16:27] BanchoBot: Durrr_Meuble moved to slot 3
+[00:16:29] BanchoBot: Durrr_Meuble changed to Red
+[00:16:54] LouisD: nm5
+[00:16:58] BanchoBot: Foahcha left the game.
+[00:17:07] BanchoBot: Durrr_Meuble moved to slot 1
+[00:17:12] BanchoBot: Countdown ends in 1 minute
+[00:17:14] BCraftMG: !mp mods NF
+[00:17:14] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:17:15] BCraftMG: !mp map 3258081 0
+[00:17:15] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3258081 MAX MAXIMIZER VS DJ TOTTO - Rebellio
+[00:17:15] BanchoBot: Changed match mode to Osu
+[00:17:16] BCraftMG: !mp timer 120
+[00:17:16] BanchoBot: Countdown aborted
+[00:17:16] BanchoBot: Countdown ends in 2 minutes
+[00:17:29] BanchoBot: LouisD left the game.
+[00:17:29] BanchoBot: MakiBrony joined in slot 2 for team red.
+[00:17:30] BCraftMG: #freeminusls wons with a difference of 311498.5
+[00:17:46] BanchoBot: MakiBrony moved to slot 3
+[00:17:48] BanchoBot: MakiBrony changed to Blue
+[00:17:51] BanchoBot: Foahcha joined in slot 2 for team red.
+[00:17:56] BanchoBot: MakiBrony moved to slot 7
+[00:18:01] BanchoBot: Draxarta joined in slot 3 for team blue.
+[00:18:16] BanchoBot: Countdown ends in 1 minute
+[00:18:38] BanchoBot: Draxarta changed to Red
+[00:18:43] BanchoBot: kirndy moved to slot 8
+[00:18:46] BanchoBot: Countdown ends in 30 seconds
+[00:18:47] BanchoBot: kirndy left the game.
+[00:18:47] BanchoBot: MakiBrony moved to slot 4
+[00:18:50] BanchoBot: All players are ready
+[00:18:53] MakiBrony: GL!
+[00:18:55] BCraftMG: !mp settings
+[00:18:55] BanchoBot: Room name: STT3: (McDo Workers) vs (#freeminusls), History: https://osu.ppy.sh/mp/102345395
+[00:18:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/3258081 MAX MAXIMIZER VS DJ TOTTO - Rebellio
+[00:18:56] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:18:56] BanchoBot: Active mods: NoFail
+[00:18:56] BanchoBot: Players: 6
+[00:18:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15872196 Durrr_Meuble    [Team Red ]
+[00:18:56] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7990049 Foahcha         [Team Red ]
+[00:18:56] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11129041 Draxarta        [Team Red ]
+[00:18:56] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7101953 MakiBrony       [Team Blue]
+[00:18:56] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12483293 ImaginaryVaxei  [Team Blue]
+[00:18:56] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/13396819 Enari           [Team Blue]
+[00:18:58] Foahcha: gl hf
+[00:18:59] Durrr_Meuble: glllll
+[00:18:59] BCraftMG: !mp start 5
+[00:18:59] BanchoBot: Countdown aborted
+[00:18:59] BanchoBot: Match starts in 5 seconds
+[00:18:59] BanchoBot: Queued the match to start in 5 seconds
+[00:19:00] BanchoBot: Match starts in 4 seconds
+[00:19:01] BanchoBot: Match starts in 3 seconds
+[00:19:03] BanchoBot: Good luck, have fun!
+[00:19:05] BanchoBot: The match has started!
+[00:21:15] BanchoBot: Draxarta finished playing (Score: 511362, PASSED).
+[00:21:15] BanchoBot: Foahcha finished playing (Score: 799613, PASSED).
+[00:21:16] BanchoBot: Enari finished playing (Score: 422005, PASSED).
+[00:21:16] BanchoBot: ImaginaryVaxei finished playing (Score: 683920, PASSED).
+[00:21:16] BanchoBot: MakiBrony finished playing (Score: 990632, PASSED).
+[00:21:16] BanchoBot: Durrr_Meuble finished playing (Score: 284722, PASSED).
+[00:21:16] BanchoBot: The match has finished!
+[00:21:19] BCraftMG: McDo Workers : 0 | 2 : #freeminusls
+[00:21:20] BCraftMG: Next team to pick: #freeminusls
+[00:21:21] BCraftMG: !mp timer 120
+[00:21:21] BanchoBot: Countdown ends in 2 minutes
+[00:21:46] BanchoBot: LouisD joined in slot 7 for team blue.
+[00:22:03] Enari: hd2
+[00:22:11] BanchoBot: Draxarta left the game.
+[00:22:13] BCraftMG: !mp mods HD NF
+[00:22:13] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[00:22:14] BCraftMG: !mp map 2876970 0
+[00:22:14] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2876970 Kitashirakawa Tamako (CV: Suzaki Aya) - Dramatic Market Ride (TV Size)
+[00:22:14] BanchoBot: Changed match mode to Osu
+[00:22:15] BCraftMG: !mp timer 120
+[00:22:15] BanchoBot: Countdown aborted
+[00:22:15] BanchoBot: Countdown ends in 2 minutes
+[00:22:23] BanchoBot: LouisD moved to slot 3
+[00:22:23] BanchoBot: Foahcha left the game.
+[00:22:24] BanchoBot: LouisD changed to Red
+[00:22:24] BanchoBot: MakiBrony left the game.
+[00:22:30] BanchoBot: kirndy joined in slot 2 for team red.
+[00:22:31] BanchoBot: Foahcha joined in slot 4 for team red.
+[00:22:36] BanchoBot: Durrr_Meuble left the game.
+[00:22:40] BanchoBot: Foahcha moved to slot 1
+[00:22:41] BanchoBot: ImaginaryVaxei left the game.
+[00:22:50] BanchoBot: kirndy moved to slot 4
+[00:22:51] BanchoBot: kirndy changed to Blue
+[00:23:00] BanchoBot: Po1SoN3SS joined in slot 2 for team red.
+[00:23:01] BanchoBot: Mimil joined in slot 5 for team blue.
+[00:23:13] BanchoBot: Mimil moved to slot 7
+[00:23:14] BanchoBot: Mimil changed to Red
+[00:23:14] BanchoBot: Countdown ends in 1 minute
+[00:23:15] BanchoBot: Po1SoN3SS moved to slot 5
+[00:23:18] BanchoBot: Po1SoN3SS changed to Blue
+[00:23:18] BanchoBot: Mimil moved to slot 2
+[00:23:36] LouisD: glhf
+[00:23:37] BanchoBot: All players are ready
+[00:23:38] BCraftMG: !mp settings
+[00:23:39] BanchoBot: Room name: STT3: (McDo Workers) vs (#freeminusls), History: https://osu.ppy.sh/mp/102345395
+[00:23:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/2876970 Kitashirakawa Tamako (CV: Suzaki Aya) - Dramatic Market Ride (TV Size)
+[00:23:39] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:23:39] BanchoBot: Active mods: NoFail, Hidden
+[00:23:39] BanchoBot: Players: 6
+[00:23:39] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7990049 Foahcha         [Team Red ]
+[00:23:39] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16420104 Mimil           [Team Red ]
+[00:23:39] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14951633 LouisD          [Team Red ]
+[00:23:39] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9027651 kirndy          [Team Blue]
+[00:23:39] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13055978 Po1SoN3SS       [Team Blue]
+[00:23:39] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/13396819 Enari           [Team Blue]
+[00:23:40] Enari: glhf
+[00:23:40] kirndy: glhf
+[00:23:40] Po1SoN3SS: glhf!
+[00:23:40] Foahcha: gl hf
+[00:23:42] BCraftMG: !mp start 10
+[00:23:42] BanchoBot: Countdown aborted
+[00:23:42] BanchoBot: Match starts in 10 seconds
+[00:23:42] BanchoBot: Queued the match to start in 10 seconds
+[00:23:47] BanchoBot: Match starts in 5 seconds
+[00:23:49] BanchoBot: Match starts in 4 seconds
+[00:23:50] BanchoBot: Match starts in 3 seconds
+[00:23:51] BanchoBot: Good luck, have fun!
+[00:23:53] BanchoBot: The match has started!
+[00:25:32] BanchoBot: LouisD finished playing (Score: 634892, PASSED).
+[00:25:32] BanchoBot: kirndy finished playing (Score: 959370, PASSED).
+[00:25:32] BanchoBot: Po1SoN3SS finished playing (Score: 426855, PASSED).
+[00:25:33] BanchoBot: Enari finished playing (Score: 573026, PASSED).
+[00:25:33] BanchoBot: Foahcha finished playing (Score: 432313, PASSED).
+[00:25:33] BanchoBot: Mimil finished playing (Score: 325159, PASSED).
+[00:25:33] BanchoBot: The match has finished!
+[00:25:36] BCraftMG: McDo Workers : 0 | 3 : #freeminusls
+[00:25:37] BCraftMG: Next team to pick: McDo Workers
+[00:25:38] BCraftMG: !mp timer 120
+[00:25:38] BanchoBot: Countdown ends in 2 minutes
+[00:26:19] BanchoBot: Mimil left the game.
+[00:26:32] BanchoBot: Durrr_Meuble joined in slot 2 for team red.
+[00:26:37] LouisD: ht2
+[00:26:37] BanchoBot: Countdown ends in 1 minute
+[00:26:44] BanchoBot: Enari left the game.
+[00:26:45] BCraftMG: !mp mods NoMod
+[00:26:45] BanchoBot: Disabled all mods, disabled FreeMod
+[00:26:46] BCraftMG: !mp map 1602658 0
+[00:26:46] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1602658 P*Light - SAY BAY
+[00:26:46] BanchoBot: Changed match mode to Osu
+[00:26:47] BCraftMG: !mp timer 120
+[00:26:47] BanchoBot: Countdown aborted
+[00:26:47] BanchoBot: Countdown ends in 2 minutes
+[00:26:47] BanchoBot: LouisD left the game.
+[00:26:48] BanchoBot: ImaginaryVaxei joined in slot 3 for team blue.
+[00:26:52] BanchoBot: MakiBrony joined in slot 6 for team red.
+[00:26:53] BCraftMG: !mp mods HT NF
+[00:26:53] BanchoBot: Enabled NoFail, HalfTime, disabled FreeMod
+[00:26:57] BanchoBot: ImaginaryVaxei moved to slot 7
+[00:26:58] BanchoBot: MakiBrony changed to Blue
+[00:27:03] BanchoBot: kirndy moved to slot 8
+[00:27:10] BanchoBot: MakiBrony moved to slot 4
+[00:27:12] BanchoBot: ImaginaryVaxei moved to slot 6
+[00:27:26] BanchoBot: Po1SoN3SS left the game.
+[00:27:29] BanchoBot: Mimil joined in slot 3 for team blue.
+[00:27:38] MakiBrony: кирунди иди сюда
+[00:27:42] BanchoBot: Mimil changed to Red
+[00:27:42] BanchoBot: ImaginaryVaxei moved to slot 5
+[00:27:42] Foahcha: glhf
+[00:27:45] BanchoBot: kirndy moved to slot 6
+[00:27:46] MakiBrony: gl!
+[00:27:47] BanchoBot: Countdown ends in 1 minute
+[00:27:50] Mimil: glhf
+[00:27:54] kirndy: glhfhf
+[00:28:01] BanchoBot: All players are ready
+[00:28:02] BCraftMG: !mp settings
+[00:28:04] BanchoBot: Room name: STT3: (McDo Workers) vs (#freeminusls), History: https://osu.ppy.sh/mp/102345395
+[00:28:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/1602658 P*Light - SAY BAY
+[00:28:04] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:28:04] BanchoBot: Active mods: NoFail, HalfTime
+[00:28:04] BanchoBot: Players: 6
+[00:28:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7990049 Foahcha         [Team Red ]
+[00:28:04] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15872196 Durrr_Meuble    [Team Red ]
+[00:28:04] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16420104 Mimil           [Team Red ]
+[00:28:04] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7101953 MakiBrony       [Team Blue]
+[00:28:04] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12483293 ImaginaryVaxei  [Team Blue]
+[00:28:04] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/9027651 kirndy          [Team Blue]
+[00:28:06] BCraftMG: !mp start 10
+[00:28:06] BanchoBot: Countdown aborted
+[00:28:06] BanchoBot: Match starts in 10 seconds
+[00:28:06] BanchoBot: Queued the match to start in 10 seconds
+[00:28:12] BanchoBot: Match starts in 5 seconds
+[00:28:13] BanchoBot: Match starts in 4 seconds
+[00:28:14] BanchoBot: Match starts in 3 seconds
+[00:28:15] BanchoBot: Good luck, have fun!
+[00:28:16] Durrr_Meuble: gl
+[00:28:17] BanchoBot: The match has started!
+[00:31:03] BanchoBot: ImaginaryVaxei finished playing (Score: 99843, PASSED).
+[00:31:03] BanchoBot: kirndy finished playing (Score: 182197, PASSED).
+[00:31:03] BanchoBot: Durrr_Meuble finished playing (Score: 67915, PASSED).
+[00:31:03] BanchoBot: Mimil finished playing (Score: 112188, PASSED).
+[00:31:04] BanchoBot: MakiBrony finished playing (Score: 81889, PASSED).
+[00:31:05] BanchoBot: Foahcha finished playing (Score: 127027, PASSED).
+[00:31:05] BanchoBot: The match has finished!
+[00:31:07] BCraftMG: McDo Workers : 0 | 4 : #freeminusls
+[00:31:08] BCraftMG: Next team to pick: #freeminusls
+[00:31:09] BCraftMG: !mp timer 120
+[00:31:09] BanchoBot: Countdown ends in 2 minutes
+[00:31:28] BanchoBot: LouisD joined in slot 7 for team blue.
+[00:31:39] BanchoBot: Enari joined in slot 8 for team red.
+[00:32:06] Enari: nm3
+[00:32:09] BanchoBot: Countdown ends in 1 minute
+[00:32:15] BCraftMG: !mp mods NF
+[00:32:15] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:32:16] BCraftMG: !mp map 3257640 0
+[00:32:16] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3257640 leroy - the dariacore to YTP pipeline
+[00:32:16] BanchoBot: Changed match mode to Osu
+[00:32:17] BCraftMG: !mp timer 120
+[00:32:17] BanchoBot: Countdown aborted
+[00:32:17] BanchoBot: Countdown ends in 2 minutes
+[00:32:25] BanchoBot: Enari changed to Blue
+[00:32:32] BanchoBot: LouisD left the game.
+[00:32:34] BanchoBot: Enari moved to slot 7
+[00:32:36] MakiBrony: !roll
+[00:32:36] BanchoBot: MakiBrony rolls 4 point(s)
+[00:32:36] Enari: !roll 2
+[00:32:36] BanchoBot: Enari rolls 2 point(s)
+[00:32:40] BanchoBot: Enari left the game.
+[00:32:44] kirndy: whistle babe whistle
+[00:32:58] BanchoBot: All players are ready
+[00:33:01] BCraftMG: !mp settings
+[00:33:02] BanchoBot: Room name: STT3: (McDo Workers) vs (#freeminusls), History: https://osu.ppy.sh/mp/102345395
+[00:33:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/3257640 leroy - the dariacore to YTP pipeline
+[00:33:02] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:33:02] BanchoBot: Active mods: NoFail
+[00:33:02] BanchoBot: Players: 6
+[00:33:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7990049 Foahcha         [Team Red ]
+[00:33:02] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15872196 Durrr_Meuble    [Team Red ]
+[00:33:02] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16420104 Mimil           [Team Red ]
+[00:33:02] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7101953 MakiBrony       [Team Blue]
+[00:33:03] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12483293 ImaginaryVaxei  [Team Blue]
+[00:33:03] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/9027651 kirndy          [Team Blue]
+[00:33:03] BCraftMG: !mp start 10
+[00:33:03] MakiBrony: banger
+[00:33:03] BanchoBot: Countdown aborted
+[00:33:03] BanchoBot: Match starts in 10 seconds
+[00:33:03] BanchoBot: Queued the match to start in 10 seconds
+[00:33:09] BanchoBot: Match starts in 5 seconds
+[00:33:10] BanchoBot: Match starts in 4 seconds
+[00:33:10] BanchoBot: Match starts in 3 seconds
+[00:33:11] BanchoBot: Good luck, have fun!
+[00:33:13] BanchoBot: The match has started!
+[00:35:32] BanchoBot: Foahcha finished playing (Score: 634494, PASSED).
+[00:35:32] BanchoBot: Durrr_Meuble finished playing (Score: 250186, PASSED).
+[00:35:32] BanchoBot: ImaginaryVaxei finished playing (Score: 321444, PASSED).
+[00:35:32] BanchoBot: Mimil finished playing (Score: 186696, PASSED).
+[00:35:33] BanchoBot: MakiBrony finished playing (Score: 502762, PASSED).
+[00:35:34] BanchoBot: kirndy finished playing (Score: 287345, PASSED).
+[00:35:34] BanchoBot: The match has finished!
+[00:35:36] BCraftMG: McDo Workers : 0 | 5 : #freeminusls
+[00:35:37] BCraftMG: Next team to pick: McDo Workers
+[00:35:38] BCraftMG: !mp timer 120
+[00:35:38] BanchoBot: Countdown ends in 2 minutes
+[00:35:48] BanchoBot: Enari joined in slot 7 for team blue.
+[00:35:51] BanchoBot: LouisD joined in slot 8 for team red.
+[00:35:59] LouisD: je suis sans mots
+[00:36:16] LouisD: ez1
+[00:36:20] BanchoBot: MakiBrony left the game.
+[00:36:25] BanchoBot: Enari left the game.
+[00:36:28] BanchoBot: Durrr_Meuble left the game.
+[00:36:31] BCraftMG: !mp mods NoMod
+[00:36:31] BanchoBot: Disabled all mods, disabled FreeMod
+[00:36:32] BCraftMG: !mp map 2405667 0
+[00:36:32] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2405667 raito - Blood Drain -Again-
+[00:36:32] BanchoBot: Changed match mode to Osu
+[00:36:33] BCraftMG: !mp timer 120
+[00:36:33] BanchoBot: Countdown aborted
+[00:36:33] BanchoBot: Countdown ends in 2 minutes
+[00:36:38] BCraftMG: !mp mods EZ NF
+[00:36:38] BanchoBot: Enabled NoFail, Easy, disabled FreeMod
+[00:36:38] BanchoBot: Iwakura joined in slot 2 for team red.
+[00:36:59] BanchoBot: Iwakura changed to Blue
+[00:37:02] BanchoBot: MakiBrony joined in slot 4 for team red.
+[00:37:12] BanchoBot: MakiBrony changed to Blue
+[00:37:33] BanchoBot: Countdown ends in 1 minute
+[00:37:35] BanchoBot: MakiBrony left the game.
+[00:37:38] BanchoBot: ImaginaryVaxei moved to slot 4
+[00:37:56] LouisD: iwakura move plz
+[00:38:02] BanchoBot: Iwakura moved to slot 7
+[00:38:03] BanchoBot: Countdown ends in 30 seconds
+[00:38:04] BanchoBot: LouisD moved to slot 2
+[00:38:06] BanchoBot: Iwakura moved to slot 5
+[00:38:10] Iwakura: hfhf
+[00:38:17] kirndy: hfhfhf
+[00:38:22] Foahcha: gl hf
+[00:38:23] BanchoBot: Countdown ends in 10 seconds
+[00:38:27] BanchoBot: Countdown ends in 5 seconds
+[00:38:28] BanchoBot: Countdown ends in 4 seconds
+[00:38:29] BanchoBot: Countdown ends in 3 seconds
+[00:38:30] BanchoBot: Countdown ends in 2 seconds
+[00:38:32] BanchoBot: Countdown ends in 1 second
+[00:38:32] BCraftMG: !mp settings
+[00:38:33] BanchoBot: Countdown finished
+[00:38:33] BanchoBot: Room name: STT3: (McDo Workers) vs (#freeminusls), History: https://osu.ppy.sh/mp/102345395
+[00:38:33] BanchoBot: Beatmap: https://osu.ppy.sh/b/2405667 raito - Blood Drain -Again-
+[00:38:33] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:38:33] BanchoBot: Active mods: NoFail, Easy
+[00:38:33] BanchoBot: Players: 6
+[00:38:33] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7990049 Foahcha         [Team Red ]
+[00:38:33] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/14951633 LouisD          [Team Red ]
+[00:38:33] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16420104 Mimil           [Team Red ]
+[00:38:33] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12483293 ImaginaryVaxei  [Team Blue]
+[00:38:33] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12143372 Iwakura         [Team Blue]
+[00:38:33] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/9027651 kirndy          [Team Blue]
+[00:38:40] BanchoBot: All players are ready
+[00:38:40] BCraftMG: LouisD ready?
+[00:38:42] BCraftMG: !mp settings
+[00:38:43] BanchoBot: Room name: STT3: (McDo Workers) vs (#freeminusls), History: https://osu.ppy.sh/mp/102345395
+[00:38:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/2405667 raito - Blood Drain -Again-
+[00:38:43] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:38:43] BanchoBot: Active mods: NoFail, Easy
+[00:38:43] BanchoBot: Players: 6
+[00:38:43] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7990049 Foahcha         [Team Red ]
+[00:38:43] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14951633 LouisD          [Team Red ]
+[00:38:43] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16420104 Mimil           [Team Red ]
+[00:38:43] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12483293 ImaginaryVaxei  [Team Blue]
+[00:38:43] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12143372 Iwakura         [Team Blue]
+[00:38:43] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/9027651 kirndy          [Team Blue]
+[00:38:45] BCraftMG: !mp start 10
+[00:38:45] BanchoBot: Match starts in 10 seconds
+[00:38:45] BanchoBot: Queued the match to start in 10 seconds
+[00:38:51] BanchoBot: Match starts in 5 seconds
+[00:38:52] BanchoBot: Match starts in 4 seconds
+[00:38:53] BanchoBot: Match starts in 3 seconds
+[00:38:54] BanchoBot: Good luck, have fun!
+[00:38:56] BanchoBot: The match has started!
+[00:42:42] BanchoBot: kirndy finished playing (Score: 180986, PASSED).
+[00:42:42] BanchoBot: Iwakura finished playing (Score: 170084, PASSED).
+[00:42:43] BanchoBot: LouisD finished playing (Score: 178250, PASSED).
+[00:42:43] BanchoBot: Mimil finished playing (Score: 116145, PASSED).
+[00:42:43] BanchoBot: Foahcha finished playing (Score: 147581, PASSED).
+[00:42:43] BanchoBot: ImaginaryVaxei finished playing (Score: 58047, PASSED).
+[00:42:43] BanchoBot: The match has finished!
+[00:42:44] BCraftMG: McDo Workers : 1 | 5 : #freeminusls
+[00:42:45] BCraftMG: Next team to pick: #freeminusls
+[00:42:46] BCraftMG: !mp timer 120
+[00:42:46] BanchoBot: Countdown ends in 2 minutes
+[00:43:01] BanchoBot: Enari joined in slot 7 for team blue.
+[00:43:13] LouisD: LETSGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[00:43:13] Enari: nm4
+[00:43:29] BCraftMG: !mp mods NF
+[00:43:29] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:43:30] BCraftMG: !mp map 1263848 0
+[00:43:30] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1263848 BlackY - Paradission
+[00:43:30] BanchoBot: Changed match mode to Osu
+[00:43:31] BCraftMG: !mp timer 120
+[00:43:31] BanchoBot: Countdown aborted
+[00:43:31] BanchoBot: Countdown ends in 2 minutes
+[00:43:36] BanchoBot: Durrr_Meuble joined in slot 8 for team red.
+[00:43:38] BanchoBot: Mimil left the game.
+[00:43:40] BanchoBot: LouisD left the game.
+[00:43:41] BanchoBot: Enari left the game.
+[00:43:43] BanchoBot: Draxarta joined in slot 2 for team red.
+[00:43:48] BanchoBot: Durrr_Meuble moved to slot 3
+[00:43:50] BanchoBot: MakiBrony joined in slot 7 for team blue.
+[00:43:50] BanchoBot: Iwakura left the game.
+[00:43:56] BanchoBot: MakiBrony moved to slot 5
+[00:44:17] MakiBrony: gl!
+[00:44:20] Foahcha: gl hf
+[00:44:26] kirndy: glhf
+[00:44:31] BanchoBot: Countdown ends in 1 minute
+[00:44:32] MakiBrony: fffdfdffdfdfffdfdffdfffdfdffffdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfd
+[00:44:32] BanchoBot: All players are ready
+[00:44:34] BCraftMG: !mp settings
+[00:44:34] Draxarta: gl
+[00:44:35] BanchoBot: Room name: STT3: (McDo Workers) vs (#freeminusls), History: https://osu.ppy.sh/mp/102345395
+[00:44:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/1263848 BlackY - Paradission
+[00:44:35] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:44:35] BanchoBot: Active mods: NoFail
+[00:44:35] BanchoBot: Players: 6
+[00:44:35] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7990049 Foahcha         [Team Red ]
+[00:44:35] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11129041 Draxarta        [Team Red ]
+[00:44:35] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15872196 Durrr_Meuble    [Team Red ]
+[00:44:35] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12483293 ImaginaryVaxei  [Team Blue]
+[00:44:35] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/7101953 MakiBrony       [Team Blue]
+[00:44:35] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/9027651 kirndy          [Team Blue]
+[00:44:36] BCraftMG: !mp start 10
+[00:44:36] Durrr_Meuble: glllll
+[00:44:37] BanchoBot: Countdown aborted
+[00:44:37] BanchoBot: Match starts in 10 seconds
+[00:44:37] BanchoBot: Queued the match to start in 10 seconds
+[00:44:41] BCraftMG: GL
+[00:44:42] BanchoBot: Match starts in 5 seconds
+[00:44:43] BanchoBot: Match starts in 4 seconds
+[00:44:44] BanchoBot: Match starts in 3 seconds
+[00:44:45] BanchoBot: Good luck, have fun!
+[00:44:47] BanchoBot: The match has started!
+[00:46:50] BanchoBot: ImaginaryVaxei finished playing (Score: 483330, PASSED).
+[00:46:50] BanchoBot: Foahcha finished playing (Score: 565935, PASSED).
+[00:46:50] BanchoBot: Draxarta finished playing (Score: 447615, PASSED).
+[00:46:51] BanchoBot: MakiBrony finished playing (Score: 398884, PASSED).
+[00:46:51] BanchoBot: Durrr_Meuble finished playing (Score: 273752, PASSED).
+[00:46:52] BanchoBot: kirndy finished playing (Score: 401279, PASSED).
+[00:46:52] BanchoBot: The match has finished!
+[00:46:54] BCraftMG: McDo Workers : 2 | 5 : #freeminusls
+[00:46:55] BCraftMG: Next team to pick: McDo Workers
+[00:46:56] BCraftMG: !mp timer 120
+[00:46:56] BanchoBot: Countdown ends in 2 minutes
+[00:47:11] BanchoBot: LouisD joined in slot 7 for team blue.
+[00:47:56] BanchoBot: Countdown ends in 1 minute
+[00:48:21] BanchoBot: Enari joined in slot 8 for team red.
+[00:48:25] BanchoBot: Draxarta left the game.
+[00:48:26] BanchoBot: Countdown ends in 30 seconds
+[00:48:28] LouisD: HT1
+[00:48:36] BanchoBot: ImaginaryVaxei left the game.
+[00:48:39] BanchoBot: Enari moved to slot 4
+[00:48:40] BanchoBot: LouisD moved to slot 2
+[00:48:42] BanchoBot: LouisD changed to Red
+[00:48:43] BCraftMG: !mp mods NoMod
+[00:48:43] BanchoBot: Disabled all mods, disabled FreeMod
+[00:48:45] BanchoBot: Iwakura joined in slot 7 for team blue.
+[00:48:45] BCraftMG: !mp map 3459056 0
+[00:48:45] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3459056 Trerey-U + NIWASHI - Hisui
+[00:48:45] BanchoBot: Changed match mode to Osu
+[00:48:46] BCraftMG: !mp timer 120
+[00:48:46] BanchoBot: Countdown aborted
+[00:48:46] BanchoBot: Countdown ends in 2 minutes
+[00:48:48] BCraftMG: !mp mods HT NF
+[00:48:48] BanchoBot: Enabled NoFail, HalfTime, disabled FreeMod
+[00:48:48] BanchoBot: MakiBrony left the game.
+[00:48:55] BanchoBot: Enari changed to Blue
+[00:49:08] BanchoBot: Iwakura moved to slot 5
+[00:49:14] BanchoBot: All players are ready
+[00:49:17] Iwakura: hfhfhff
+[00:49:18] kirndy: glgl
+[00:49:25] BCraftMG: !mp settings
+[00:49:26] BanchoBot: Room name: STT3: (McDo Workers) vs (#freeminusls), History: https://osu.ppy.sh/mp/102345395
+[00:49:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/3459056 Trerey-U + NIWASHI - Hisui
+[00:49:26] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:49:26] BanchoBot: Active mods: NoFail, HalfTime
+[00:49:26] BanchoBot: Players: 6
+[00:49:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7990049 Foahcha         [Team Red ]
+[00:49:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14951633 LouisD          [Team Red ]
+[00:49:26] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15872196 Durrr_Meuble    [Team Red ]
+[00:49:26] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13396819 Enari           [Team Blue]
+[00:49:26] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12143372 Iwakura         [Team Blue]
+[00:49:26] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/9027651 kirndy          [Team Blue]
+[00:49:27] BCraftMG: !mp start 10
+[00:49:28] Foahcha: gl hf
+[00:49:28] BanchoBot: Countdown aborted
+[00:49:28] BanchoBot: Match starts in 10 seconds
+[00:49:28] BanchoBot: Queued the match to start in 10 seconds
+[00:49:32] LouisD: *glhf
+[00:49:33] BanchoBot: Match starts in 5 seconds
+[00:49:34] LouisD: :)
+[00:49:34] BanchoBot: Match starts in 4 seconds
+[00:49:35] BanchoBot: Match starts in 3 seconds
+[00:49:37] BanchoBot: Good luck, have fun!
+[00:49:39] BanchoBot: The match has started!
+[00:52:34] BanchoBot: kirndy finished playing (Score: 109246, PASSED).
+[00:52:35] BanchoBot: Foahcha finished playing (Score: 88827, PASSED).
+[00:52:35] BanchoBot: LouisD finished playing (Score: 46126, PASSED).
+[00:52:35] BanchoBot: Iwakura finished playing (Score: 48639, PASSED).
+[00:52:36] BanchoBot: Enari finished playing (Score: 64873, PASSED).
+[00:52:36] BanchoBot: Durrr_Meuble finished playing (Score: 82867, PASSED).
+[00:52:36] BanchoBot: The match has finished!
+[00:52:42] BCraftMG: McDo Workers : 2 | 6 : #freeminusls
+[00:52:43] BCraftMG: **#freeminusls wins the match**
+[00:52:52] BCraftMG: GGWP
+[00:52:52] LouisD: GGWP
+[00:52:52] kirndy: ggwp!
+[00:52:58] Enari: ggwp
+[00:53:02] Foahcha: gg wp
+[00:53:04] Iwakura: ggwp
+[00:53:05] BCraftMG: McDo Workers you guys has a really good run
+[00:53:15] LouisD: yeah
+[00:53:21] Foahcha: thx ref
+[00:53:22] BanchoBot: Enari left the game.
+[00:53:23] BCraftMG: gl on others tournaments <3
+[00:53:31] Foahcha: <3
+[00:53:35] BanchoBot: Foahcha left the game.
+[00:53:43] kirndy: o/
+[00:53:43] LouisD: :)
+[00:53:45] BanchoBot: kirndy left the game.
+[00:53:51] BCraftMG: #freeminusls gl on your next match too
+[00:53:53] BanchoBot: Iwakura left the game.
+[00:53:54] BanchoBot: LouisD left the game.
+[00:54:10] BanchoBot: Durrr_Meuble left the game.
+[00:54:31] BCraftMG: !mp close
+[00:54:32] BanchoBot: Closed the match

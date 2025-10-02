@@ -1,0 +1,654 @@
+[20:52:23] Joined #mp_104299804
+[20:52:23] BCraftMG: !mp settings
+[20:52:25] BanchoBot: Room name: THT3: (Unami :yum:) vs (fumo), History: https://osu.ppy.sh/mp/104299804
+[20:52:25] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[20:52:25] BanchoBot: Players: 0
+[20:52:36] BCraftMG: !mp set 0 3 8
+[20:52:37] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[20:52:41] BCraftMG: !mp addref Satxri
+[20:52:44] BanchoBot: Added Satxri to the match referees
+[20:53:32] BCraftMG: !mp set 2 3 8
+[20:53:33] BanchoBot: Changed match settings to 8 slots, TeamVs, ScoreV2
+[20:54:12] BCraftMG: !mp invite #14279837
+[20:54:13] BCraftMG: !mp invite #5449433
+[20:54:13] BanchoBot: Invited namiee to the room
+[20:54:16] BanchoBot: Invited Ui chan to the room
+[20:54:16] BCraftMG: !mp invite #7936917
+[20:54:18] BanchoBot: Invited Uzuru to the room
+[20:54:19] BCraftMG: !mp invite #12223059
+[20:54:20] BanchoBot: Invited Plugin to the room
+[20:54:21] BCraftMG: !mp invite #14783137
+[20:54:22] BanchoBot: Invited Kriatix to the room
+[20:54:22] BCraftMG: !mp invite #16396650
+[20:54:24] BanchoBot: Invited Markurii to the room
+[20:57:02] BanchoBot: Plugin joined in slot 1 for team blue.
+[20:57:06] BCraftMG: !mp invite #14279837
+[20:57:06] BanchoBot: Kriatix joined in slot 2 for team red.
+[20:57:08] BanchoBot: Invited namiee to the room
+[20:57:11] BCraftMG: !mp invite #5449433
+[20:57:12] BanchoBot: Invited Ui chan to the room
+[20:57:13] BCraftMG: !mp invite #7936917
+[20:57:15] BanchoBot: Invited Uzuru to the room
+[20:57:19] BanchoBot: namiee joined in slot 3 for team blue.
+[20:57:20] BCraftMG: xin trao
+[20:57:21] BanchoBot: namiee moved to slot 4
+[20:57:23] BanchoBot: namiee changed to Red
+[20:57:25] namiee: ai hoi
+[20:57:29] BCraftMG: Unami red 1-3
+[20:57:33] BCraftMG: fumo blue 4-6
+[20:57:40] BCraftMG: va khong ai hoi
+[20:57:43] BanchoBot: namiee moved to slot 3
+[20:58:00] Kriatix: aight
+[20:58:04] BanchoBot: Kriatix changed to Blue
+[20:58:37] BanchoBot: Plugin moved to slot 4
+[20:58:47] BCraftMG: team unami slot 1-3 nhe
+[20:58:56] BanchoBot: Kriatix moved to slot 5
+[20:59:12] BCraftMG: các anh có muốn warm up khum
+[20:59:29] BCraftMG: <3mins
+[20:59:33] Kriatix: yes
+[20:59:35] BanchoBot: Uzuru joined in slot 1 for team blue.
+[20:59:41] Uzuru: hi
+[20:59:45] BCraftMG: !mp host Kriatix
+[20:59:46] Kriatix: hello
+[20:59:46] BanchoBot: Kriatix became the host.
+[20:59:46] BanchoBot: Changed match host to Kriatix
+[20:59:48] BanchoBot: Beatmap changed to: Noboru feat.Mitani Nana - Shiroi Yuki no Princess wa [Extra] (https://osu.ppy.sh/b/949736)
+[21:00:05] BanchoBot: Ui chan joined in slot 2 for team red.
+[21:00:07] BanchoBot: Host is changing map...
+[21:00:44] BanchoBot: Beatmap changed to: Tsunamaru - Gin no Fluch [Insane] (https://osu.ppy.sh/b/235309)
+[21:00:57] BanchoBot: Markurii joined in slot 6 for team red.
+[21:00:57] BanchoBot: Uzuru changed to Red
+[21:00:57] BCraftMG: 3:06
+[21:00:58] BCraftMG: :stare
+[21:00:59] BCraftMG: :
+[21:01:03] namiee: D:
+[21:01:05] namiee: co dt kia
+[21:01:07] namiee: :(
+[21:01:09] BCraftMG: adu
+[21:01:09] BCraftMG: !mp settings
+[21:01:12] BanchoBot: Room name: THT3: (Unami :yum:) vs (fumo), History: https://osu.ppy.sh/mp/104299804
+[21:01:12] BanchoBot: Beatmap: https://osu.ppy.sh/b/235309 Tsunamaru - Gin no Fluch [Insane]
+[21:01:12] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:01:12] BanchoBot: Active mods: DoubleTime
+[21:01:12] BanchoBot: Players: 6
+[21:01:12] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/7936917 Uzuru           [Team Red ]
+[21:01:12] BanchoBot: Slot 2  No Map    https://osu.ppy.sh/u/5449433 Ui chan         [Team Red ]
+[21:01:12] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/14279837 namiee          [Team Red ]
+[21:01:12] BanchoBot: Slot 4  No Map    https://osu.ppy.sh/u/12223059 Plugin          [Team Blue]
+[21:01:12] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/14783137 Kriatix         [Host / Team Blue]
+[21:01:12] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/16396650 Markurii        [Team Red ]
+[21:01:16] Plugin: gvs
+[21:01:18] Kriatix: :P
+[21:01:20] Ui_chan: đi tiểu phát
+[21:01:27] Markurii: :tron:
+[21:01:31] BanchoBot: Markurii changed to Blue
+[21:01:35] Kriatix: :okayge:
+[21:01:40] Plugin: narky thich chon
+[21:02:56] BanchoBot: All players are ready
+[21:03:03] namiee: zo ae
+[21:03:07] BanchoBot: The match has started!
+[21:03:11] Uzuru: lag r
+[21:03:22] BCraftMG: vai
+[21:05:20] BanchoBot: Kriatix finished playing (Score: 617320, PASSED).
+[21:05:20] BanchoBot: Plugin finished playing (Score: 327026, PASSED).
+[21:05:20] BanchoBot: namiee finished playing (Score: 59099, PASSED).
+[21:05:20] BanchoBot: Uzuru finished playing (Score: 484286, PASSED).
+[21:05:20] BanchoBot: Ui chan finished playing (Score: 493820, PASSED).
+[21:05:22] BanchoBot: Markurii finished playing (Score: 492445, PASSED).
+[21:05:22] BanchoBot: The match has finished!
+[21:05:50] Kriatix: died
+[21:05:54] BCraftMG: hello
+[21:06:01] Ui_chan: !where BCraftMG
+[21:06:01] BanchoBot: BCraftMG is in Vietnam
+[21:06:05] BCraftMG: Unami warm up ko anh
+[21:06:08] Plugin: alo
+[21:06:08] namiee: hi
+[21:06:12] BCraftMG: !mp host namiee
+[21:06:13] BanchoBot: namiee became the host.
+[21:06:13] BanchoBot: Changed match host to namiee
+[21:06:21] BanchoBot: Host is changing map...
+[21:07:31] BanchoBot: Beatmap changed to: Tsunamaru - Gin no Fluch [Insane] (https://osu.ppy.sh/b/235309)
+[21:07:33] namiee: luoi qua
+[21:07:33] namiee: skip di
+[21:07:39] BCraftMG: oge
+[21:07:42] namiee: bcraftmg
+[21:07:42] BCraftMG: !mp clearhost
+[21:07:44] BanchoBot: Cleared match host
+[21:07:48] BCraftMG: roll pliz
+[21:07:57] Kriatix: monka
+[21:08:10] namiee: !roll
+[21:08:10] BanchoBot: namiee rolls 47 point(s)
+[21:08:13] Markurii: !roll
+[21:08:13] BanchoBot: Markurii rolls 47 point(s)
+[21:08:17] namiee: ???????
+[21:08:17] Ui_chan: ?
+[21:08:17] Kriatix: wtffff
+[21:08:19] Plugin: wtf
+[21:08:19] Markurii: ???????
+[21:08:21] Plugin: oge
+[21:08:23] Kriatix: vaiiiii
+[21:08:23] namiee: h sao
+[21:08:32] Kriatix: roll agane
+[21:08:33] BCraftMG: thi reroll thoi chu sao
+[21:08:34] BCraftMG: troi oi
+[21:08:37] namiee: roll lai ha
+[21:08:37] namiee: !roll
+[21:08:37] BanchoBot: namiee rolls 28 point(s)
+[21:08:41] Markurii: !roll
+[21:08:41] BanchoBot: Markurii rolls 28 point(s)
+[21:08:43] Ui_chan: ??
+[21:08:43] Uzuru: lmoa
+[21:08:43] namiee: ??????????
+[21:08:43] Uzuru: wftgf
+[21:08:45] Kriatix: ouirw3ehngbiuowhtgqeiwru7atgfo
+[21:08:45] Markurii: sdujmadyhnad
+[21:08:45] Uzuru: ???
+[21:08:48] Uzuru: whattt
+[21:08:48] BCraftMG: ALO
+[21:08:50] Kriatix: ?????????????????
+[21:08:51] BCraftMG: ?????????????????????????????????
+[21:08:52] Plugin: troi oi
+[21:08:54] Ui_chan: rigged
+[21:08:54] Plugin: than giao cach cam a
+[21:08:57] Markurii: alo bancho
+[21:08:59] namiee: !roll
+[21:08:59] BanchoBot: namiee rolls 72 point(s)
+[21:09:01] Markurii: !roll
+[21:09:01] BanchoBot: Markurii rolls 78 point(s)
+[21:09:07] Kriatix: wowwwwww
+[21:09:09] namiee: troi oi du ma
+[21:09:14] Uzuru: xd
+[21:09:18] BCraftMG: ok gud
+[21:09:29] BCraftMG: fumo pick truowcc hay ban trước
+[21:09:42] Markurii: ban truoc
+[21:10:04] Kriatix: clips channel moment
+[21:10:08] BCraftMG: fumo ban
+[21:10:10] BCraftMG: !mp timer 120
+[21:10:13] BanchoBot: Countdown ends in 2 minutes
+[21:10:23] Markurii: hd1
+[21:10:26] Markurii: trolle
+[21:10:31] BCraftMG: Unami ban
+[21:10:35] BCraftMG: !mp timer 120
+[21:10:36] BanchoBot: Countdown aborted
+[21:10:36] BanchoBot: Countdown ends in 2 minutes
+[21:11:37] BanchoBot: Countdown ends in 1 minute
+[21:11:42] Kriatix: zz
+[21:12:00] namiee: hr2
+[21:12:08] BanchoBot: Countdown ends in 30 seconds
+[21:12:14] BCraftMG: Unami :yum: | 0 - 0 | fumo // First Pick: Unami :yum:
+[21:12:16] BCraftMG: !mp timer 120
+[21:12:17] BanchoBot: Countdown aborted
+[21:12:17] BanchoBot: Countdown ends in 2 minutes
+[21:13:18] BanchoBot: Countdown ends in 1 minute
+[21:13:20] namiee: !roll 2
+[21:13:20] BanchoBot: namiee rolls 1 point(s)
+[21:13:24] namiee: nm1
+[21:13:36] BCraftMG: !mp map 2848184 0
+[21:13:38] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2848184 MY FIRST STORY - LEADER
+[21:13:38] BanchoBot: Changed match mode to Osu
+[21:13:38] BCraftMG: !mp mods 1
+[21:13:40] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:13:44] BCraftMG: !mp timer 120
+[21:13:44] BanchoBot: Countdown aborted
+[21:13:44] BanchoBot: Countdown ends in 2 minutes
+[21:13:53] Kriatix: okayge
+[21:14:01] Markurii: riu
+[21:14:12] BCraftMG: !mp settings
+[21:14:13] BanchoBot: All players are ready
+[21:14:13] BanchoBot: Room name: THT3: (Unami :yum:) vs (fumo), History: https://osu.ppy.sh/mp/104299804
+[21:14:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/2848184 MY FIRST STORY - LEADER
+[21:14:13] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:14:13] BanchoBot: Active mods: NoFail
+[21:14:13] BanchoBot: Players: 6
+[21:14:13] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7936917 Uzuru           [Team Red ]
+[21:14:13] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5449433 Ui chan         [Team Red ]
+[21:14:13] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14279837 namiee          [Team Red ]
+[21:14:13] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12223059 Plugin          [Team Blue]
+[21:14:13] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/14783137 Kriatix         [Team Blue]
+[21:14:13] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/16396650 Markurii        [Team Blue]
+[21:14:16] BCraftMG: adu
+[21:14:19] BCraftMG: !mp start 5 glhf
+[21:14:19] BanchoBot: Countdown aborted
+[21:14:19] BanchoBot: Match starts in 5 seconds
+[21:14:19] BanchoBot: Queued the match to start in 5 seconds
+[21:14:21] BanchoBot: Match starts in 4 seconds
+[21:14:21] BanchoBot: Match starts in 3 seconds
+[21:14:23] BanchoBot: Good luck, have fun!
+[21:14:23] namiee: golf
+[21:14:23] Uzuru: glhf
+[21:14:25] BanchoBot: The match has started!
+[21:18:32] BanchoBot: namiee finished playing (Score: 273331, PASSED).
+[21:18:32] BanchoBot: Uzuru finished playing (Score: 583076, PASSED).
+[21:18:32] BanchoBot: Ui chan finished playing (Score: 986475, PASSED).
+[21:18:32] BanchoBot: Markurii finished playing (Score: 724298, PASSED).
+[21:18:32] BanchoBot: Kriatix finished playing (Score: 628497, PASSED).
+[21:18:32] BanchoBot: Plugin finished playing (Score: 483907, PASSED).
+[21:18:32] BanchoBot: The match has finished!
+[21:18:35] BCraftMG: UI CHANN
+[21:18:37] Ui_chan: xdd
+[21:18:37] BCraftMG: UI CHANNNNNNNNNNNNNNNNN
+[21:18:39] Plugin: chon roi
+[21:18:45] BCraftMG: Unami :yum: | 1 - 0 | fumo // Next Pick: fumo
+[21:18:47] BCraftMG: !mp timer 120
+[21:18:48] BanchoBot: Countdown ends in 2 minutes
+[21:18:52] Kriatix: damn
+[21:19:00] Markurii: tron vai
+[21:19:07] Uzuru: holy
+[21:19:07] Markurii: hd2
+[21:19:11] namiee: D:
+[21:19:24] BCraftMG: ban hd1 pick hd2
+[21:19:26] BCraftMG: tactics
+[21:19:28] BCraftMG: !mp map 2938091 0
+[21:19:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2938091 capsule - RGB
+[21:19:29] BanchoBot: Changed match mode to Osu
+[21:19:31] BCraftMG: !mp mods 9
+[21:19:33] BCraftMG: !mp timer 120
+[21:19:33] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:19:35] BanchoBot: Countdown aborted
+[21:19:35] BanchoBot: Countdown ends in 2 minutes
+[21:19:53] namiee: :(
+[21:20:02] BCraftMG: good night guys
+[21:20:04] Kriatix: gl
+[21:20:10] BanchoBot: All players are ready
+[21:20:15] BCraftMG: !mp settings
+[21:20:16] BanchoBot: Room name: THT3: (Unami :yum:) vs (fumo), History: https://osu.ppy.sh/mp/104299804
+[21:20:16] BanchoBot: Beatmap: https://osu.ppy.sh/b/2938091 capsule - RGB
+[21:20:16] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:20:16] BanchoBot: Active mods: NoFail, Hidden
+[21:20:16] BanchoBot: Players: 6
+[21:20:16] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7936917 Uzuru           [Team Red ]
+[21:20:16] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5449433 Ui chan         [Team Red ]
+[21:20:16] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14279837 namiee          [Team Red ]
+[21:20:16] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12223059 Plugin          [Team Blue]
+[21:20:16] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/14783137 Kriatix         [Team Blue]
+[21:20:16] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/16396650 Markurii        [Team Blue]
+[21:20:19] namiee: glhf
+[21:20:21] BCraftMG: !mp start 5 glhf
+[21:20:23] BanchoBot: Countdown aborted
+[21:20:23] BanchoBot: Match starts in 5 seconds
+[21:20:23] BanchoBot: Queued the match to start in 5 seconds
+[21:20:25] BanchoBot: Match starts in 4 seconds
+[21:20:25] BanchoBot: Match starts in 3 seconds
+[21:20:27] BanchoBot: Good luck, have fun!
+[21:20:27] Uzuru: glhf
+[21:20:29] BanchoBot: The match has started!
+[21:20:29] Plugin: hd2 toi xin phep throw
+[21:24:12] BanchoBot: namiee finished playing (Score: 178637, PASSED).
+[21:24:12] BanchoBot: Markurii finished playing (Score: 417657, PASSED).
+[21:24:12] BanchoBot: Kriatix finished playing (Score: 441865, PASSED).
+[21:24:12] BanchoBot: Plugin finished playing (Score: 87880, PASSED).
+[21:24:16] BanchoBot: Uzuru finished playing (Score: 159854, PASSED).
+[21:24:16] BanchoBot: Ui chan finished playing (Score: 867149, PASSED).
+[21:24:16] BanchoBot: The match has finished!
+[21:24:20] namiee: D:
+[21:24:22] BCraftMG: Unami :yum: | 2 - 0 | fumo // Next Pick: Unami :yum:
+[21:24:24] BCraftMG: ?
+[21:24:31] Ui_chan: xdding
+[21:24:36] BCraftMG: block 1 ganh keo
+[21:24:44] namiee: ui chan D:
+[21:24:51] Ui_chan: block 1 gánh kèo = thua soonTM
+[21:25:00] Ui_chan: block 3 gánh kèo = win giải
+[21:25:02] Ui_chan: <3
+[21:25:18] BCraftMG: !mp timer 120
+[21:25:20] BanchoBot: Countdown ends in 2 minutes
+[21:26:21] BanchoBot: Countdown ends in 1 minute
+[21:26:34] namiee: dt1
+[21:26:43] BCraftMG: !mp map 558277 0
+[21:26:47] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/558277 Hanatan - Torinoko City
+[21:26:47] BanchoBot: Changed match mode to Osu
+[21:26:47] BCraftMG: !mp mods 65
+[21:26:49] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:26:50] BCraftMG: !mp timer 120
+[21:26:51] BanchoBot: Countdown ends in 30 seconds
+[21:26:51] BanchoBot: Countdown aborted
+[21:26:51] BanchoBot: Countdown ends in 2 minutes
+[21:27:07] Kriatix: sightread time
+[21:27:09] Kriatix: :tf:
+[21:27:13] BCraftMG: the death
+[21:27:14] BanchoBot: Markurii left the game.
+[21:27:22] Plugin: cai chet
+[21:27:33] BanchoBot: Markurii joined in slot 6 for team red.
+[21:27:35] namiee: o
+[21:27:35] BanchoBot: Markurii changed to Blue
+[21:27:48] BanchoBot: All players are ready
+[21:27:52] BCraftMG: !mp settings
+[21:27:53] BanchoBot: Countdown ends in 1 minute
+[21:27:53] namiee: than trung
+[21:27:53] BanchoBot: Room name: THT3: (Unami :yum:) vs (fumo), History: https://osu.ppy.sh/mp/104299804
+[21:27:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/558277 Hanatan - Torinoko City
+[21:27:53] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:27:53] BanchoBot: Active mods: NoFail, DoubleTime
+[21:27:53] BanchoBot: Players: 6
+[21:27:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7936917 Uzuru           [Team Red ]
+[21:27:53] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5449433 Ui chan         [Team Red ]
+[21:27:53] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14279837 namiee          [Team Red ]
+[21:27:53] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12223059 Plugin          [Team Blue]
+[21:27:53] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/14783137 Kriatix         [Team Blue]
+[21:27:53] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/16396650 Markurii        [Team Blue]
+[21:27:57] BCraftMG: !mp start 5 glhf
+[21:27:59] BanchoBot: Countdown aborted
+[21:27:59] BanchoBot: Match starts in 5 seconds
+[21:27:59] BanchoBot: Queued the match to start in 5 seconds
+[21:28:02] BanchoBot: Match starts in 4 seconds
+[21:28:02] BanchoBot: Match starts in 3 seconds
+[21:28:03] BanchoBot: Good luck, have fun!
+[21:28:06] BanchoBot: The match has started!
+[21:28:06] Uzuru: glhf
+[21:30:27] BanchoBot: Plugin finished playing (Score: 898427, PASSED).
+[21:30:27] BanchoBot: Markurii finished playing (Score: 1185260, PASSED).
+[21:30:27] BanchoBot: Uzuru finished playing (Score: 645733, PASSED).
+[21:30:27] BanchoBot: namiee finished playing (Score: 554692, PASSED).
+[21:30:29] BanchoBot: Kriatix finished playing (Score: 1155513, PASSED).
+[21:30:29] BanchoBot: Ui chan finished playing (Score: 934496, PASSED).
+[21:30:29] BanchoBot: The match has finished!
+[21:30:39] BCraftMG: Unami :yum: | 2 - 1 | fumo // Next Pick: fumo
+[21:30:44] BCraftMG: !mp timer 120
+[21:30:46] BanchoBot: Countdown ends in 2 minutes
+[21:30:48] namiee: sac
+[21:30:53] Kriatix: oof
+[21:30:59] BCraftMG: tri
+[21:31:18] BCraftMG: TROI OI STREAM OK ROI
+[21:31:19] Kriatix: triple s
+[21:31:21] Kriatix: wowow
+[21:31:24] BCraftMG: @COMMENTATORS
+[21:31:28] Kriatix: riu
+[21:31:30] namiee: gamma dau mat qua
+[21:31:30] namiee: :(
+[21:31:48] BanchoBot: Countdown ends in 1 minute
+[21:32:16] BanchoBot: Countdown ends in 30 seconds
+[21:32:23] Markurii: dt2
+[21:32:32] namiee: :(((((
+[21:32:33] BCraftMG: !mp map 169618 0
+[21:32:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/169618 Yumeji Ruri - The answer BLOOD ~Senketsu no Michishirube~ (Short Ver.)
+[21:32:34] BanchoBot: Changed match mode to Osu
+[21:32:37] BCraftMG: !mp timer 120
+[21:32:38] BanchoBot: Countdown ends in 10 seconds
+[21:32:38] BanchoBot: Countdown aborted
+[21:32:38] BanchoBot: Countdown ends in 2 minutes
+[21:33:18] BanchoBot: All players are ready
+[21:33:20] BCraftMG: !mp settings
+[21:33:21] BanchoBot: Room name: THT3: (Unami :yum:) vs (fumo), History: https://osu.ppy.sh/mp/104299804
+[21:33:21] BanchoBot: Beatmap: https://osu.ppy.sh/b/169618 Yumeji Ruri - The answer BLOOD ~Senketsu no Michishirube~ (Short Ver.)
+[21:33:21] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:33:21] BanchoBot: Active mods: NoFail, DoubleTime
+[21:33:21] BanchoBot: Players: 6
+[21:33:21] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7936917 Uzuru           [Team Red ]
+[21:33:21] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5449433 Ui chan         [Team Red ]
+[21:33:21] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14279837 namiee          [Team Red ]
+[21:33:21] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12223059 Plugin          [Team Blue]
+[21:33:21] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/14783137 Kriatix         [Team Blue]
+[21:33:21] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/16396650 Markurii        [Team Blue]
+[21:33:23] BCraftMG: !mp start 5 glhf
+[21:33:25] Kriatix: glgl
+[21:33:25] BanchoBot: Countdown aborted
+[21:33:25] BanchoBot: Match starts in 5 seconds
+[21:33:25] BanchoBot: Queued the match to start in 5 seconds
+[21:33:27] BanchoBot: Match starts in 4 seconds
+[21:33:27] BanchoBot: Match starts in 3 seconds
+[21:33:29] BanchoBot: Good luck, have fun!
+[21:33:29] namiee: glhf
+[21:33:31] BanchoBot: The match has started!
+[21:35:11] BanchoBot: Ui chan finished playing (Score: 950631, PASSED).
+[21:35:11] BanchoBot: namiee finished playing (Score: 153527, PASSED).
+[21:35:11] BanchoBot: Markurii finished playing (Score: 1111418, PASSED).
+[21:35:11] BanchoBot: Kriatix finished playing (Score: 502137, PASSED).
+[21:35:11] BanchoBot: Uzuru finished playing (Score: 727753, PASSED).
+[21:35:13] BanchoBot: Plugin finished playing (Score: 522163, PASSED).
+[21:35:13] BanchoBot: The match has finished!
+[21:35:20] Plugin: ah yes
+[21:35:22] Plugin: marky
+[21:35:24] BCraftMG: Unami :yum: | 2 - 2 | fumo // Next Pick: Unami :yum:
+[21:35:26] BCraftMG: !mp timer 120
+[21:35:26] Plugin: good shit
+[21:35:28] BanchoBot: Countdown ends in 2 minutes
+[21:35:31] Kriatix: pogger
+[21:35:33] namiee: oc oc oc
+[21:35:40] Ui_chan: oc oc
+[21:36:07] BCraftMG: khi bạn bị mù
+[21:36:10] Plugin: roi oi
+[21:36:10] Plugin: quy si
+[21:36:30] BanchoBot: Countdown ends in 1 minute
+[21:36:59] BanchoBot: Countdown ends in 30 seconds
+[21:37:20] BanchoBot: Countdown ends in 10 seconds
+[21:37:24] BanchoBot: Countdown ends in 5 seconds
+[21:37:26] BanchoBot: Countdown ends in 4 seconds
+[21:37:26] BanchoBot: Countdown ends in 3 seconds
+[21:37:29] BanchoBot: Countdown ends in 2 seconds
+[21:37:29] BanchoBot: Countdown ends in 1 second
+[21:37:29] BanchoBot: Countdown finished
+[21:37:31] namiee: nm2
+[21:37:35] namiee: ay vua kip
+[21:37:52] BCraftMG: !mp map 3205100 0
+[21:37:53] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3205100 Felicity of the Millennium - Sacred Renaissance
+[21:37:53] BanchoBot: Changed match mode to Osu
+[21:37:54] BCraftMG: !mp timer 120
+[21:37:55] BCraftMG: !mp mods 1
+[21:37:55] BanchoBot: Countdown ends in 2 minutes
+[21:37:57] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:38:00] Plugin: :xe lan:
+[21:38:00] Kriatix: hold
+[21:38:04] Kriatix: gimme a min
+[21:38:53] Kriatix: k im ready
+[21:38:57] BanchoBot: Countdown ends in 1 minute
+[21:39:02] BanchoBot: All players are ready
+[21:39:09] Plugin: cool
+[21:39:13] Kriatix: glgl
+[21:39:21] BCraftMG: !mp settings
+[21:39:22] namiee: glhf
+[21:39:22] Uzuru: glhf
+[21:39:24] BCraftMG: !mp start 5 glhf
+[21:39:24] Markurii: gl!
+[21:39:24] BanchoBot: Room name: THT3: (Unami :yum:) vs (fumo), History: https://osu.ppy.sh/mp/104299804
+[21:39:24] BanchoBot: Beatmap: https://osu.ppy.sh/b/3205100 Felicity of the Millennium - Sacred Renaissance
+[21:39:24] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:39:24] BanchoBot: Active mods: NoFail
+[21:39:24] BanchoBot: Players: 6
+[21:39:24] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7936917 Uzuru           [Team Red ]
+[21:39:24] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5449433 Ui chan         [Team Red ]
+[21:39:24] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14279837 namiee          [Team Red ]
+[21:39:24] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12223059 Plugin          [Team Blue]
+[21:39:24] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/14783137 Kriatix         [Team Blue]
+[21:39:24] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/16396650 Markurii        [Team Blue]
+[21:39:27] BanchoBot: Countdown ends in 30 seconds
+[21:39:27] BanchoBot: Countdown aborted
+[21:39:27] BanchoBot: Match starts in 5 seconds
+[21:39:27] BanchoBot: Queued the match to start in 5 seconds
+[21:39:29] BanchoBot: Match starts in 4 seconds
+[21:39:29] BanchoBot: Match starts in 3 seconds
+[21:39:31] BanchoBot: Good luck, have fun!
+[21:39:33] BanchoBot: The match has started!
+[21:42:13] BanchoBot: Markurii finished playing (Score: 587486, PASSED).
+[21:42:13] BanchoBot: namiee finished playing (Score: 146863, PASSED).
+[21:42:13] BanchoBot: Kriatix finished playing (Score: 847156, PASSED).
+[21:42:13] BanchoBot: Ui chan finished playing (Score: 487626, PASSED).
+[21:42:13] BanchoBot: Plugin finished playing (Score: 392358, PASSED).
+[21:42:15] BanchoBot: Uzuru finished playing (Score: 548823, PASSED).
+[21:42:15] BanchoBot: The match has finished!
+[21:42:17] namiee: #deletenotelock
+[21:42:20] BCraftMG: Unami :yum: | 2 - 3 | fumo // Next Pick: fumo
+[21:42:25] BCraftMG: !mp mods 120
+[21:42:26] BanchoBot: Enabled Hidden, HardRock, SuddenDeath, DoubleTime, disabled FreeMod
+[21:42:29] BCraftMG: chet me
+[21:42:31] BCraftMG: !mp timer 120
+[21:42:33] Kriatix: oof shaking
+[21:42:33] BanchoBot: Countdown ends in 2 minutes
+[21:42:47] BCraftMG: !mp mods 0
+[21:42:48] BanchoBot: Disabled all mods, disabled FreeMod
+[21:43:09] Markurii: double pick dc ko a
+[21:43:24] namiee: D:
+[21:43:33] BanchoBot: Countdown ends in 1 minute
+[21:43:53] BCraftMG: ua
+[21:43:55] BCraftMG: khoan h
+[21:43:58] namiee: bcraftmg
+[21:44:00] namiee: nguoi ta hoi kia
+[21:44:04] BanchoBot: Countdown ends in 30 seconds
+[21:44:25] BanchoBot: Countdown ends in 10 seconds
+[21:44:27] Markurii: @bcraftmg
+[21:44:29] BanchoBot: Countdown ends in 5 seconds
+[21:44:29] BanchoBot: Countdown ends in 4 seconds
+[21:44:30] BCraftMG: delay timer phat
+[21:44:31] BanchoBot: Countdown ends in 3 seconds
+[21:44:31] BanchoBot: Countdown ends in 2 seconds
+[21:44:34] BanchoBot: Countdown ends in 1 second
+[21:44:34] BanchoBot: Countdown finished
+[21:44:37] BCraftMG: oge co double pick
+[21:44:50] BCraftMG: choi da that r
+[21:44:56] Markurii: pog
+[21:44:56] Plugin: oge
+[21:45:02] Markurii: vay thi len dt3
+[21:45:07] namiee: sac
+[21:45:08] BCraftMG: !mp map 2671858 0
+[21:45:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2671858 Camellia - Compute It With Some Devilish Alcoholic Steampunk Engines
+[21:45:10] BanchoBot: Changed match mode to Osu
+[21:45:12] BCraftMG: !mp mods 65
+[21:45:14] Kriatix: dt gameing
+[21:45:14] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:45:14] BCraftMG: !mp timer 120
+[21:45:16] BanchoBot: Countdown ends in 2 minutes
+[21:45:52] BanchoBot: All players are ready
+[21:46:00] BCraftMG: !mp settings
+[21:46:01] BanchoBot: Room name: THT3: (Unami :yum:) vs (fumo), History: https://osu.ppy.sh/mp/104299804
+[21:46:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/2671858 Camellia - Compute It With Some Devilish Alcoholic Steampunk Engines
+[21:46:01] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:46:01] BanchoBot: Active mods: NoFail, DoubleTime
+[21:46:01] BanchoBot: Players: 6
+[21:46:01] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7936917 Uzuru           [Team Red ]
+[21:46:01] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5449433 Ui chan         [Team Red ]
+[21:46:01] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14279837 namiee          [Team Red ]
+[21:46:01] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12223059 Plugin          [Team Blue]
+[21:46:01] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/14783137 Kriatix         [Team Blue]
+[21:46:01] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/16396650 Markurii        [Team Blue]
+[21:46:03] BCraftMG: !mp start 5 glhf
+[21:46:03] BanchoBot: Countdown aborted
+[21:46:03] BanchoBot: Match starts in 5 seconds
+[21:46:03] BanchoBot: Queued the match to start in 5 seconds
+[21:46:05] BanchoBot: Match starts in 4 seconds
+[21:46:05] Kriatix: glgl
+[21:46:05] BanchoBot: Match starts in 3 seconds
+[21:46:08] Uzuru: glhf
+[21:46:08] BanchoBot: Good luck, have fun!
+[21:46:10] BanchoBot: The match has started!
+[21:49:11] BanchoBot: Ui chan finished playing (Score: 1074309, PASSED).
+[21:49:11] BanchoBot: namiee finished playing (Score: 83348, PASSED).
+[21:49:11] BanchoBot: Markurii finished playing (Score: 495220, PASSED).
+[21:49:11] BanchoBot: Uzuru finished playing (Score: 508212, PASSED).
+[21:49:11] BanchoBot: Kriatix finished playing (Score: 501985, PASSED).
+[21:49:13] BanchoBot: Plugin finished playing (Score: 317820, PASSED).
+[21:49:13] BanchoBot: The match has finished!
+[21:49:20] namiee: ! ! ! !
+[21:49:24] BCraftMG: Unami :yum: | 3 - 3 | fumo // Next Pick: Unami :yum:
+[21:49:27] BCraftMG: !mp timer 120
+[21:49:29] BanchoBot: Countdown ends in 2 minutes
+[21:50:00] namiee: !roll 3
+[21:50:00] BanchoBot: namiee rolls 2 point(s)
+[21:50:05] namiee: nm4
+[21:50:14] BCraftMG: !mp map 1464590 0
+[21:50:16] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1464590 Camellia - Chirality
+[21:50:16] BanchoBot: Changed match mode to Osu
+[21:50:17] BCraftMG: !mp mods 1
+[21:50:18] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:50:20] BCraftMG: !mp timer 120
+[21:50:22] BanchoBot: Countdown aborted
+[21:50:22] BanchoBot: Countdown ends in 2 minutes
+[21:51:09] BCraftMG: :yum:
+[21:51:09] BanchoBot: All players are ready
+[21:51:11] BCraftMG: !mp settings
+[21:51:14] BanchoBot: Room name: THT3: (Unami :yum:) vs (fumo), History: https://osu.ppy.sh/mp/104299804
+[21:51:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/1464590 Camellia - Chirality
+[21:51:14] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:51:14] BanchoBot: Active mods: NoFail
+[21:51:14] BanchoBot: Players: 6
+[21:51:14] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7936917 Uzuru           [Team Red ]
+[21:51:14] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5449433 Ui chan         [Team Red ]
+[21:51:14] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14279837 namiee          [Team Red ]
+[21:51:14] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12223059 Plugin          [Team Blue]
+[21:51:14] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/14783137 Kriatix         [Team Blue]
+[21:51:14] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/16396650 Markurii        [Team Blue]
+[21:51:15] BCraftMG: !mp start 5 glhf
+[21:51:16] BanchoBot: Countdown aborted
+[21:51:16] BanchoBot: Match starts in 5 seconds
+[21:51:16] BanchoBot: Queued the match to start in 5 seconds
+[21:51:18] BanchoBot: Match starts in 4 seconds
+[21:51:18] BanchoBot: Match starts in 3 seconds
+[21:51:20] BanchoBot: Good luck, have fun!
+[21:51:23] BanchoBot: The match has started!
+[21:51:23] Uzuru: glhf
+[21:53:02] BanchoBot: Ui chan finished playing (Score: 982100, PASSED).
+[21:53:05] BanchoBot: Plugin finished playing (Score: 501982, PASSED).
+[21:53:05] BanchoBot: namiee finished playing (Score: 117037, PASSED).
+[21:53:05] BanchoBot: Kriatix finished playing (Score: 934808, PASSED).
+[21:53:05] BanchoBot: Uzuru finished playing (Score: 344947, PASSED).
+[21:53:07] BanchoBot: Markurii finished playing (Score: 968003, PASSED).
+[21:53:07] BanchoBot: The match has finished!
+[21:53:18] namiee: sac
+[21:53:20] BCraftMG: Unami :yum: | 3 - 4 | fumo // Next Pick: fumo
+[21:53:23] BCraftMG: !mp timer 120
+[21:53:25] BanchoBot: Countdown ends in 2 minutes
+[21:53:43] Markurii: nm5
+[21:53:56] BCraftMG: !mp map 3448872 0
+[21:53:57] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3448872 Lime - Luminaria
+[21:53:57] BanchoBot: Changed match mode to Osu
+[21:54:01] namiee: ! ?
+[21:54:02] BCraftMG: !mp timer 120
+[21:54:03] BanchoBot: Countdown aborted
+[21:54:03] BanchoBot: Countdown ends in 2 minutes
+[21:54:58] BanchoBot: All players are ready
+[21:55:05] BanchoBot: Countdown ends in 1 minute
+[21:55:05] namiee: dit me may hanamaru
+[21:55:08] BCraftMG: !mp settings
+[21:55:10] BanchoBot: Room name: THT3: (Unami :yum:) vs (fumo), History: https://osu.ppy.sh/mp/104299804
+[21:55:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/3448872 Lime - Luminaria
+[21:55:10] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:55:10] BanchoBot: Active mods: NoFail
+[21:55:10] BanchoBot: Players: 6
+[21:55:10] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7936917 Uzuru           [Team Red ]
+[21:55:10] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5449433 Ui chan         [Team Red ]
+[21:55:10] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14279837 namiee          [Team Red ]
+[21:55:10] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12223059 Plugin          [Team Blue]
+[21:55:10] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/14783137 Kriatix         [Team Blue]
+[21:55:10] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/16396650 Markurii        [Team Blue]
+[21:55:10] BCraftMG: !mp start 5 glhf
+[21:55:12] BanchoBot: Countdown aborted
+[21:55:12] BanchoBot: Match starts in 5 seconds
+[21:55:12] BanchoBot: Queued the match to start in 5 seconds
+[21:55:14] BanchoBot: Match starts in 4 seconds
+[21:55:14] BanchoBot: Match starts in 3 seconds
+[21:55:16] Kriatix: gl
+[21:55:16] BanchoBot: Good luck, have fun!
+[21:55:16] Uzuru: glhf
+[21:55:18] BanchoBot: The match has started!
+[21:55:18] namiee: glhf
+[21:57:52] BanchoBot: Markurii finished playing (Score: 938732, PASSED).
+[21:57:52] BanchoBot: Ui chan finished playing (Score: 769835, PASSED).
+[21:57:52] BanchoBot: namiee finished playing (Score: 139476, PASSED).
+[21:57:52] BanchoBot: Plugin finished playing (Score: 233031, PASSED).
+[21:57:52] BanchoBot: Kriatix finished playing (Score: 497305, PASSED).
+[21:57:52] BanchoBot: Uzuru finished playing (Score: 480077, PASSED).
+[21:57:52] BanchoBot: The match has finished!
+[21:57:59] Plugin: MARKY GOOD SHIT
+[21:58:01] Uzuru: gg
+[21:58:06] BCraftMG: Congrats to fumo for winning this match! GGWP both teams!
+[21:58:07] Kriatix: LETSGO
+[21:58:14] Ui_chan: gg
+[21:58:16] Markurii: ggwp
+[21:58:19] Ui_chan: di choi ow thui
+[21:58:19] BanchoBot: Ui chan left the game.
+[21:58:27] namiee: gg
+[21:58:30] namiee: thanks for ref
+[21:58:32] Uzuru: ggwp
+[21:58:34] namiee: +4 lien quan
+[21:58:38] Uzuru: cảm ơn đã ref
+[21:58:41] Markurii: ty for ref <3
+[21:58:41] Kriatix: GGWP
+[21:58:45] namiee: <3
+[21:58:45] BanchoBot: namiee left the game.
+[21:58:48] Kriatix: cam on ref
+[21:58:48] Kriatix: :D
+[21:58:54] BCraftMG: o/
+[21:58:54] BanchoBot: Uzuru left the game.
+[21:58:54] BanchoBot: Markurii left the game.
+[21:59:03] Kriatix: o//
+[22:02:01] BanchoBot: Plugin left the game.
+[22:19:24] BanchoBot: Kriatix left the game.
+[22:19:53] BCraftMG: !mp close
+[22:19:54] BanchoBot: Closed the match

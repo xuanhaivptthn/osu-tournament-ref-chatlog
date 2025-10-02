@@ -1,0 +1,366 @@
+[20:52:39] Joined #mp_110760873
+[20:52:39] BCraftMG: !mp settings
+[20:52:40] BanchoBot: Room name: MEADC: (Qualifiers) vs (Lobby EX5), History: https://osu.ppy.sh/mp/110760873
+[20:52:40] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[20:52:40] BanchoBot: Players: 0
+[20:52:58] BCraftMG: !mp set 0 3 3
+[20:52:59] BanchoBot: Changed match settings to 3 slots, HeadToHead, ScoreV2
+[20:53:16] BCraftMG: !mp map 2689519 0
+[20:53:16] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2689519 Hoshimachi Suisei & Amane Kanata - Tsukiakari
+[20:53:16] BanchoBot: Changed match mode to Osu
+[20:53:18] BCraftMG: !mp mods 1
+[20:53:18] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:53:29] BCraftMG: !mp invite CallMeRed
+[20:53:30] BanchoBot: User not found
+[20:53:31] BCraftMG: !mp invite Equidimensional
+[20:53:31] BanchoBot: User not found
+[20:54:54] BCraftMG: !mp invite CallMeRed
+[20:54:55] BanchoBot: Invited CallMeRed to the room
+[20:55:00] BCraftMG: !mp invite Equidimensional
+[20:55:01] BanchoBot: User not found
+[20:59:11] BCraftMG: !mp invite Equidimensional
+[20:59:12] BanchoBot: User not found
+[21:08:10] BanchoBot: CallMeRed joined in slot 1.
+[21:08:19] BCraftMG: !mp invite Equidimensional
+[21:08:20] BanchoBot: Invited Equidimensional to the room
+[21:09:14] BanchoBot: Equidimensional joined in slot 2.
+[21:09:20] BCraftMG: hi
+[21:09:27] CallMeRed: my hands are c0ld af rn
+[21:09:31] Equidimensional: same
+[21:09:37] Equidimensional: i just came back home
+[21:09:40] Equidimensional: yoo red 5 digit
+[21:10:28] CallMeRed: broke out of the 6 digit curse
+[21:10:36] BanchoBot: All players are ready
+[21:10:37] BCraftMG: !mp settings
+[21:10:38] Equidimensional: im ready
+[21:10:38] BanchoBot: Room name: MEADC: (Qualifiers) vs (Lobby EX5), History: https://osu.ppy.sh/mp/110760873
+[21:10:38] BanchoBot: Beatmap: https://osu.ppy.sh/b/2689519 Hoshimachi Suisei & Amane Kanata - Tsukiakari
+[21:10:38] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:10:38] BanchoBot: Active mods: NoFail
+[21:10:38] BanchoBot: Players: 2
+[21:10:38] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11959709 CallMeRed       
+[21:10:38] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17440191 Equidimensional 
+[21:10:39] Equidimensional: xD
+[21:10:41] BCraftMG: !mp start 5 glhf
+[21:10:41] BanchoBot: Match starts in 5 seconds
+[21:10:41] BanchoBot: Queued the match to start in 5 seconds
+[21:10:42] BanchoBot: Match starts in 4 seconds
+[21:10:43] BanchoBot: Match starts in 3 seconds
+[21:10:44] BanchoBot: Good luck, have fun!
+[21:10:46] Equidimensional: glhf
+[21:10:46] BanchoBot: The match has started!
+[21:14:48] BanchoBot: CallMeRed finished playing (Score: 377641, PASSED).
+[21:14:48] BanchoBot: Equidimensional finished playing (Score: 370998, PASSED).
+[21:14:48] BanchoBot: The match has finished!
+[21:14:50] BCraftMG: !mp map 2636406 0
+[21:14:50] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2636406 Twilight Force - Valley of the Vale
+[21:14:50] BanchoBot: Changed match mode to Osu
+[21:15:03] Equidimensional: IM SO NOT WARTMED UP
+[21:15:06] Equidimensional: WTFFF MY SCORE IS OSB AD
+[21:15:08] CallMeRed: SAME
+[21:15:19] Equidimensional: shush
+[21:15:55] BanchoBot: All players are ready
+[21:15:56] BCraftMG: !mp settings
+[21:15:57] BanchoBot: Room name: MEADC: (Qualifiers) vs (Lobby EX5), History: https://osu.ppy.sh/mp/110760873
+[21:15:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/2636406 Twilight Force - Valley of the Vale
+[21:15:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:15:57] BanchoBot: Active mods: NoFail
+[21:15:57] BanchoBot: Players: 2
+[21:15:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11959709 CallMeRed       
+[21:15:57] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17440191 Equidimensional 
+[21:15:58] BCraftMG: !mp start 5 glhf
+[21:15:59] BanchoBot: Match starts in 5 seconds
+[21:15:59] BanchoBot: Queued the match to start in 5 seconds
+[21:16:01] BanchoBot: Match starts in 4 seconds
+[21:16:01] BanchoBot: Match starts in 3 seconds
+[21:16:02] BanchoBot: Good luck, have fun!
+[21:16:04] BanchoBot: The match has started!
+[21:19:47] BanchoBot: Equidimensional finished playing (Score: 195333, PASSED).
+[21:19:47] BanchoBot: CallMeRed finished playing (Score: 304168, PASSED).
+[21:19:47] BanchoBot: The match has finished!
+[21:19:52] BCraftMG: !mp map 2430730 0
+[21:19:53] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2430730 Utsu-P feat. flower - Living ghost is alive
+[21:19:53] BanchoBot: Changed match mode to Osu
+[21:19:54] Equidimensional: i ran out of stamina
+[21:19:54] Equidimensional: ,aspokfsclfcx
+[21:20:21] BanchoBot: All players are ready
+[21:20:28] BCraftMG: !mp settings
+[21:20:29] BanchoBot: Room name: MEADC: (Qualifiers) vs (Lobby EX5), History: https://osu.ppy.sh/mp/110760873
+[21:20:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/2430730 Utsu-P feat. flower - Living ghost is alive
+[21:20:29] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:20:29] BanchoBot: Active mods: NoFail
+[21:20:29] BanchoBot: Players: 2
+[21:20:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11959709 CallMeRed       
+[21:20:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17440191 Equidimensional 
+[21:20:30] BCraftMG: !mp start 5 glhf
+[21:20:30] BanchoBot: Match starts in 5 seconds
+[21:20:30] BanchoBot: Queued the match to start in 5 seconds
+[21:20:31] BanchoBot: Match starts in 4 seconds
+[21:20:32] BanchoBot: Match starts in 3 seconds
+[21:20:33] BanchoBot: Good luck, have fun!
+[21:20:35] BanchoBot: The match has started!
+[21:24:03] BanchoBot: Equidimensional finished playing (Score: 367075, PASSED).
+[21:24:04] BanchoBot: CallMeRed finished playing (Score: 436865, PASSED).
+[21:24:04] BanchoBot: The match has finished!
+[21:24:06] BCraftMG: !mp map 3180421 0
+[21:24:07] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3180421 3R2 - Corruption
+[21:24:07] BanchoBot: Changed match mode to Osu
+[21:24:40] BanchoBot: All players are ready
+[21:24:41] BCraftMG: !mp settings
+[21:24:42] BanchoBot: Room name: MEADC: (Qualifiers) vs (Lobby EX5), History: https://osu.ppy.sh/mp/110760873
+[21:24:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/3180421 3R2 - Corruption
+[21:24:42] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:24:42] BanchoBot: Active mods: NoFail
+[21:24:42] BanchoBot: Players: 2
+[21:24:42] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11959709 CallMeRed       
+[21:24:42] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17440191 Equidimensional 
+[21:24:43] BCraftMG: !mp start 5 glhf
+[21:24:43] BanchoBot: Match starts in 5 seconds
+[21:24:43] BanchoBot: Queued the match to start in 5 seconds
+[21:24:44] BanchoBot: Match starts in 4 seconds
+[21:24:45] BanchoBot: Match starts in 3 seconds
+[21:24:46] BanchoBot: Good luck, have fun!
+[21:24:48] BanchoBot: The match has started!
+[21:27:20] BanchoBot: Equidimensional finished playing (Score: 202506, PASSED).
+[21:27:22] BanchoBot: CallMeRed finished playing (Score: 283369, PASSED).
+[21:27:22] BanchoBot: The match has finished!
+[21:27:25] BCraftMG: !mp map 3142574 0
+[21:27:25] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3142574 KikuoHana - Desert Theater
+[21:27:25] BanchoBot: Changed match mode to Osu
+[21:27:27] BCraftMG: !mp mods 9
+[21:27:28] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:27:33] BanchoBot: All players are ready
+[21:27:35] BCraftMG: !mp settings
+[21:27:35] BanchoBot: Room name: MEADC: (Qualifiers) vs (Lobby EX5), History: https://osu.ppy.sh/mp/110760873
+[21:27:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/3142574 KikuoHana - Desert Theater
+[21:27:35] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:27:35] BanchoBot: Active mods: NoFail, Hidden
+[21:27:35] BanchoBot: Players: 2
+[21:27:35] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11959709 CallMeRed       
+[21:27:35] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17440191 Equidimensional 
+[21:27:37] BCraftMG: !mp start 5 glhf
+[21:27:37] BanchoBot: Match starts in 5 seconds
+[21:27:37] BanchoBot: Queued the match to start in 5 seconds
+[21:27:38] BanchoBot: Match starts in 4 seconds
+[21:27:40] BanchoBot: Match starts in 3 seconds
+[21:27:41] BanchoBot: Good luck, have fun!
+[21:27:43] BanchoBot: The match has started!
+[21:31:49] BanchoBot: CallMeRed finished playing (Score: 630158, PASSED).
+[21:31:50] BanchoBot: Equidimensional finished playing (Score: 315076, PASSED).
+[21:31:50] BanchoBot: The match has finished!
+[21:31:52] BCraftMG: !mp map 3994999 0
+[21:31:53] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3994999 Aiko Kayo - Hitomi no Naka no Meikyuu
+[21:31:53] BanchoBot: Changed match mode to Osu
+[21:32:42] BanchoBot: All players are ready
+[21:32:45] BCraftMG: !mp settings
+[21:32:45] BanchoBot: Room name: MEADC: (Qualifiers) vs (Lobby EX5), History: https://osu.ppy.sh/mp/110760873
+[21:32:45] BanchoBot: Beatmap: https://osu.ppy.sh/b/3994999 Aiko Kayo - Hitomi no Naka no Meikyuu
+[21:32:45] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:32:45] BanchoBot: Active mods: NoFail, Hidden
+[21:32:45] BanchoBot: Players: 2
+[21:32:45] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11959709 CallMeRed       
+[21:32:45] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17440191 Equidimensional 
+[21:32:47] Equidimensional: lets gooo
+[21:32:49] BCraftMG: !mp start 5 glhf
+[21:32:49] BanchoBot: Match starts in 5 seconds
+[21:32:49] BanchoBot: Queued the match to start in 5 seconds
+[21:32:50] BanchoBot: Match starts in 4 seconds
+[21:32:52] BanchoBot: Match starts in 3 seconds
+[21:32:53] BanchoBot: Good luck, have fun!
+[21:32:55] BanchoBot: The match has started!
+[21:37:03] BanchoBot: CallMeRed finished playing (Score: 273244, PASSED).
+[21:37:04] BanchoBot: Equidimensional finished playing (Score: 75396, PASSED).
+[21:37:04] BanchoBot: The match has finished!
+[21:37:08] BCraftMG: !mp map 3037872 0
+[21:37:09] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3037872 Dareharu - Flowering
+[21:37:09] BanchoBot: Changed match mode to Osu
+[21:37:12] BCraftMG: !mp mods 17
+[21:37:12] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[21:37:37] BanchoBot: All players are ready
+[21:37:39] BCraftMG: !mp settings
+[21:37:41] BanchoBot: Room name: MEADC: (Qualifiers) vs (Lobby EX5), History: https://osu.ppy.sh/mp/110760873
+[21:37:41] BanchoBot: Beatmap: https://osu.ppy.sh/b/3037872 Dareharu - Flowering
+[21:37:41] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:37:41] BanchoBot: Active mods: NoFail, HardRock
+[21:37:41] BanchoBot: Players: 2
+[21:37:41] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11959709 CallMeRed       
+[21:37:41] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17440191 Equidimensional 
+[21:37:42] BCraftMG: !mp start 5 glhf
+[21:37:43] BanchoBot: Match starts in 5 seconds
+[21:37:43] BanchoBot: Queued the match to start in 5 seconds
+[21:37:44] BanchoBot: Match starts in 4 seconds
+[21:37:45] BanchoBot: Match starts in 3 seconds
+[21:37:46] BanchoBot: Good luck, have fun!
+[21:37:48] BanchoBot: The match has started!
+[21:41:41] BanchoBot: CallMeRed finished playing (Score: 249599, PASSED).
+[21:41:41] BanchoBot: Equidimensional finished playing (Score: 101999, PASSED).
+[21:41:41] BanchoBot: The match has finished!
+[21:41:44] BCraftMG: !mp map 2700999 0
+[21:41:45] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2700999 The Winking Owl - Let Go
+[21:41:45] BanchoBot: Changed match mode to Osu
+[21:42:06] BanchoBot: All players are ready
+[21:42:08] BCraftMG: !mp settings
+[21:42:09] BanchoBot: Room name: MEADC: (Qualifiers) vs (Lobby EX5), History: https://osu.ppy.sh/mp/110760873
+[21:42:09] BanchoBot: Beatmap: https://osu.ppy.sh/b/2700999 The Winking Owl - Let Go
+[21:42:09] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:42:09] BanchoBot: Active mods: NoFail, HardRock
+[21:42:09] BanchoBot: Players: 2
+[21:42:09] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11959709 CallMeRed       
+[21:42:09] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17440191 Equidimensional 
+[21:42:10] BCraftMG: !mp start 5 glhf
+[21:42:11] BanchoBot: Match starts in 5 seconds
+[21:42:11] BanchoBot: Queued the match to start in 5 seconds
+[21:42:12] BanchoBot: Match starts in 4 seconds
+[21:42:13] BanchoBot: Match starts in 3 seconds
+[21:42:14] BanchoBot: Good luck, have fun!
+[21:42:16] BanchoBot: The match has started!
+[21:46:07] BanchoBot: Equidimensional finished playing (Score: 178196, PASSED).
+[21:46:07] BanchoBot: CallMeRed finished playing (Score: 116913, PASSED).
+[21:46:07] BanchoBot: The match has finished!
+[21:46:11] BCraftMG: !mp map 2225267 0
+[21:46:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2225267 EDOGA-SULLIVAN - WONDERFUL WONDER
+[21:46:12] BanchoBot: Changed match mode to Osu
+[21:46:39] CallMeRed: MOD?
+[21:46:45] BCraftMG: !mp mods 65
+[21:46:46] Equidimensional: ةخي؟
+[21:46:46] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:46:55] Equidimensional: mod
+[21:46:58] Equidimensional: soryr rong languayge
+[21:47:04] BCraftMG: dwdw
+[21:47:07] BanchoBot: All players are ready
+[21:47:08] BCraftMG: !mp settings
+[21:47:09] BanchoBot: Room name: MEADC: (Qualifiers) vs (Lobby EX5), History: https://osu.ppy.sh/mp/110760873
+[21:47:09] BanchoBot: Beatmap: https://osu.ppy.sh/b/2225267 EDOGA-SULLIVAN - WONDERFUL WONDER
+[21:47:09] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:47:09] BanchoBot: Active mods: NoFail, DoubleTime
+[21:47:09] BanchoBot: Players: 2
+[21:47:09] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11959709 CallMeRed       
+[21:47:09] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17440191 Equidimensional 
+[21:47:10] BCraftMG: !mp start 5 glhf
+[21:47:11] BanchoBot: Match starts in 5 seconds
+[21:47:11] BanchoBot: Queued the match to start in 5 seconds
+[21:47:12] BanchoBot: Match starts in 4 seconds
+[21:47:13] BanchoBot: Match starts in 3 seconds
+[21:47:14] BanchoBot: Good luck, have fun!
+[21:47:16] Equidimensional: im so soryr
+[21:47:17] BanchoBot: The match has started!
+[21:49:26] BanchoBot: CallMeRed finished playing (Score: 209911, PASSED).
+[21:49:27] BanchoBot: Equidimensional finished playing (Score: 214541, PASSED).
+[21:49:27] BanchoBot: The match has finished!
+[21:49:29] BCraftMG: !mp map 3688128 0
+[21:49:30] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3688128 ZUN - Extend Ash ~ Houraijin
+[21:49:30] BanchoBot: Changed match mode to Osu
+[21:49:34] Equidimensional: br
+[21:49:35] Equidimensional: brb
+[21:50:00] Equidimensional: MAN I GTG
+[21:50:05] Equidimensional: can i play the rest in like
+[21:50:07] Equidimensional: 10 minutes?
+[21:50:09] Equidimensional: mr ref
+[21:50:14] BCraftMG: sure
+[21:50:23] Equidimensional: k ill ping u when im back
+[21:50:26] BCraftMG: pls ping me tho so i remember
+[21:50:27] BanchoBot: Equidimensional left the game.
+[21:50:42] BanchoBot: All players are ready
+[21:50:43] BCraftMG: xd
+[21:50:44] BCraftMG: !mp settings
+[21:50:45] BanchoBot: Room name: MEADC: (Qualifiers) vs (Lobby EX5), History: https://osu.ppy.sh/mp/110760873
+[21:50:45] BanchoBot: Beatmap: https://osu.ppy.sh/b/3688128 ZUN - Extend Ash ~ Houraijin
+[21:50:45] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:50:45] BanchoBot: Active mods: NoFail, DoubleTime
+[21:50:45] BanchoBot: Players: 1
+[21:50:45] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11959709 CallMeRed       
+[21:50:47] BCraftMG: !mp start 5 glhf
+[21:50:48] BanchoBot: Match starts in 5 seconds
+[21:50:48] BanchoBot: Queued the match to start in 5 seconds
+[21:50:49] BanchoBot: Match starts in 4 seconds
+[21:50:50] BanchoBot: Match starts in 3 seconds
+[21:50:51] BanchoBot: Good luck, have fun!
+[21:50:53] BanchoBot: The match has started!
+[21:52:44] BanchoBot: CallMeRed finished playing (Score: 233105, PASSED).
+[21:52:44] BanchoBot: The match has finished!
+[21:52:48] BCraftMG: !mp map 849438 0
+[21:52:49] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/849438 Rise Against - State of the Union
+[21:52:49] BanchoBot: Changed match mode to Osu
+[21:52:52] CallMeRed: i just cant speed ig
+[21:52:55] BCraftMG: !mp mods 3
+[21:52:56] BanchoBot: Enabled NoFail, Easy, disabled FreeMod
+[21:53:21] BanchoBot: All players are ready
+[21:53:22] BCraftMG: !mp settings
+[21:53:23] BanchoBot: Room name: MEADC: (Qualifiers) vs (Lobby EX5), History: https://osu.ppy.sh/mp/110760873
+[21:53:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/849438 Rise Against - State of the Union
+[21:53:23] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:53:23] BanchoBot: Active mods: NoFail, Easy
+[21:53:23] BanchoBot: Players: 1
+[21:53:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11959709 CallMeRed       
+[21:53:26] BCraftMG: !mp start 5 glhf
+[21:53:26] BanchoBot: Match starts in 5 seconds
+[21:53:26] BanchoBot: Queued the match to start in 5 seconds
+[21:53:27] BanchoBot: Match starts in 4 seconds
+[21:53:28] BanchoBot: Match starts in 3 seconds
+[21:53:29] BanchoBot: Good luck, have fun!
+[21:53:31] BanchoBot: The match has started!
+[21:56:01] BanchoBot: CallMeRed finished playing (Score: 501233, PASSED).
+[21:56:01] BanchoBot: The match has finished!
+[21:56:07] CallMeRed: yoo i fced
+[21:56:11] BCraftMG: ggwp
+[21:56:17] CallMeRed: thx for ref
+[21:56:28] BanchoBot: CallMeRed left the game.
+[21:56:35] BCraftMG: !mp map 3688128 0
+[21:56:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3688128 ZUN - Extend Ash ~ Houraijin
+[21:56:36] BanchoBot: Changed match mode to Osu
+[21:56:39] BCraftMG: !mp mods 65
+[21:56:40] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:58:58] BCraftMG: !mp invite Equidimensional
+[21:58:59] BanchoBot: Invited Equidimensional to the room
+[21:59:02] BanchoBot: Equidimensional joined in slot 1.
+[21:59:05] BCraftMG: heya
+[21:59:06] BanchoBot: All players are ready
+[21:59:08] BCraftMG: !mp settings
+[21:59:08] BanchoBot: Room name: MEADC: (Qualifiers) vs (Lobby EX5), History: https://osu.ppy.sh/mp/110760873
+[21:59:08] BanchoBot: Beatmap: https://osu.ppy.sh/b/3688128 ZUN - Extend Ash ~ Houraijin
+[21:59:08] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:59:08] BanchoBot: Active mods: NoFail, DoubleTime
+[21:59:08] BanchoBot: Players: 1
+[21:59:08] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17440191 Equidimensional 
+[21:59:10] BCraftMG: !mp start 5 glhf
+[21:59:11] BanchoBot: Match starts in 5 seconds
+[21:59:11] BanchoBot: Queued the match to start in 5 seconds
+[21:59:12] BanchoBot: Match starts in 4 seconds
+[21:59:13] BanchoBot: Match starts in 3 seconds
+[21:59:14] BanchoBot: Good luck, have fun!
+[21:59:16] BanchoBot: The match has started!
+[21:59:23] Equidimensional: hi
+[22:01:09] BanchoBot: Equidimensional finished playing (Score: 262500, PASSED).
+[22:01:09] BanchoBot: The match has finished!
+[22:01:13] BCraftMG: !mp map 849438 0
+[22:01:13] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/849438 Rise Against - State of the Union
+[22:01:13] BanchoBot: Changed match mode to Osu
+[22:01:16] BCraftMG: !mp mods 3
+[22:01:17] BanchoBot: Enabled NoFail, Easy, disabled FreeMod
+[22:01:21] BanchoBot: All players are ready
+[22:01:22] BCraftMG: !mp settings
+[22:01:23] BanchoBot: Room name: MEADC: (Qualifiers) vs (Lobby EX5), History: https://osu.ppy.sh/mp/110760873
+[22:01:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/849438 Rise Against - State of the Union
+[22:01:23] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:01:23] BanchoBot: Active mods: NoFail, Easy
+[22:01:23] BanchoBot: Players: 1
+[22:01:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17440191 Equidimensional 
+[22:01:24] BCraftMG: !mp start 5 glhf
+[22:01:25] BanchoBot: Match starts in 5 seconds
+[22:01:25] BanchoBot: Queued the match to start in 5 seconds
+[22:01:26] BanchoBot: Match starts in 4 seconds
+[22:01:27] BanchoBot: Match starts in 3 seconds
+[22:01:28] Equidimensional: WTF THERE IS EZ??
+[22:01:28] BanchoBot: Good luck, have fun!
+[22:01:29] Equidimensional: shit,
+[22:01:31] BanchoBot: The match has started!
+[22:01:43] BCraftMG: lmfao
+[22:04:00] BanchoBot: Equidimensional finished playing (Score: 43717, PASSED).
+[22:04:00] BanchoBot: The match has finished!
+[22:04:07] Equidimensional: ok that
+[22:04:08] Equidimensional: ...
+[22:04:10] Equidimensional: bye
+[22:04:14] Equidimensional: thx for ref
+[22:04:14] BanchoBot: Equidimensional left the game.
+[22:04:17] BCraftMG: !mp close
+[22:04:18] BanchoBot: Closed the match

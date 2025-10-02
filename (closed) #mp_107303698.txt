@@ -1,0 +1,377 @@
+[19:31:57] Joined #mp_107303698
+[19:31:57] BCraftMG: !mp settings
+[19:31:58] BanchoBot: Room name: RROH: (Simmeru) vs (Slowpoke392), History: https://osu.ppy.sh/mp/107303698
+[19:31:58] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[19:31:58] BanchoBot: Players: 0
+[19:32:07] BCraftMG: !mp invite #20057724
+[19:32:08] BanchoBot: Invited Simmeru to the room
+[19:32:10] BCraftMG: !mp invite #26065707
+[19:32:11] BanchoBot: Invited Slowpoke392 to the room
+[19:32:12] BanchoBot: Simmeru joined in slot 1.
+[19:32:18] BanchoBot: Slowpoke392 joined in slot 2.
+[19:32:20] BCraftMG: !mp set 2 3 8
+[19:32:20] BanchoBot: Changed match settings to 8 slots, TeamVs, ScoreV2
+[19:32:21] BCraftMG: !mp settings
+[19:32:22] BanchoBot: Room name: RROH: (Simmeru) vs (Slowpoke392), History: https://osu.ppy.sh/mp/107303698
+[19:32:22] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:32:22] BanchoBot: Players: 2
+[19:32:22] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/20057724 Simmeru         [Team Blue]
+[19:32:22] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/26065707 Slowpoke392     [Team Red ]
+[19:32:31] BCraftMG: như toi đã nói
+[19:32:33] Simmeru: !roll
+[19:32:33] BanchoBot: Simmeru rolls 28 point(s)
+[19:32:34] BCraftMG: skip warm up nhé
+[19:32:44] BCraftMG: roll luoon
+[19:32:45] Simmeru: chac toi thieu vai map pool ay
+[19:32:51] BCraftMG: :prayge:
+[19:32:52] Slowpoke392: !roll
+[19:32:52] BanchoBot: Slowpoke392 rolls 83 point(s)
+[19:33:11] BCraftMG: Slowpoke392 chọn pick trước hay ban trước?
+[19:33:29] Slowpoke392: pick
+[19:33:42] BCraftMG: Simmeru ban trước
+[19:33:43] BCraftMG: !mp timer 120
+[19:33:45] BanchoBot: Countdown ends in 2 minutes
+[19:33:47] Simmeru: ban HR1
+[19:33:59] BCraftMG: Slowpoke ban
+[19:33:59] BCraftMG: !mp timer 120
+[19:34:00] BanchoBot: Countdown aborted
+[19:34:00] BanchoBot: Countdown ends in 2 minutes
+[19:34:24] Slowpoke392: HD2
+[19:34:36] BCraftMG: Simmeru | 0 - 0 | Slowpoke392 // Bo9 - First Pick: Slowpoke392
+[19:34:37] BCraftMG: !mp timer 120
+[19:34:39] BanchoBot: Countdown aborted
+[19:34:39] BanchoBot: Countdown ends in 2 minutes
+[19:35:11] Slowpoke392: nm2
+[19:35:29] BCraftMG: !mp map 3297107 0
+[19:35:30] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3297107 Jun Kuroda - Terpsichore
+[19:35:30] BanchoBot: Changed match mode to Osu
+[19:35:31] BCraftMG: !mp mods 1
+[19:35:32] BanchoBot: Enabled NoFail, disabled FreeMod
+[19:35:34] BCraftMG: !mp timer 120
+[19:35:35] BanchoBot: Countdown aborted
+[19:35:35] BanchoBot: Countdown ends in 2 minutes
+[19:36:05] BanchoBot: All players are ready
+[19:36:08] BCraftMG: !mp settings
+[19:36:09] BanchoBot: Room name: RROH: (Simmeru) vs (Slowpoke392), History: https://osu.ppy.sh/mp/107303698
+[19:36:09] BanchoBot: Beatmap: https://osu.ppy.sh/b/3297107 Jun Kuroda - Terpsichore
+[19:36:09] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:36:09] BanchoBot: Active mods: NoFail
+[19:36:09] BanchoBot: Players: 2
+[19:36:09] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/20057724 Simmeru         [Team Blue]
+[19:36:09] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/26065707 Slowpoke392     [Team Red ]
+[19:36:10] BCraftMG: !mp start 5 glhf
+[19:36:10] BanchoBot: Countdown aborted
+[19:36:10] BanchoBot: Match starts in 5 seconds
+[19:36:10] BanchoBot: Queued the match to start in 5 seconds
+[19:36:11] BanchoBot: Match starts in 4 seconds
+[19:36:13] BanchoBot: Match starts in 3 seconds
+[19:36:14] BanchoBot: Good luck, have fun!
+[19:36:16] BanchoBot: The match has started!
+[19:38:35] BanchoBot: Simmeru finished playing (Score: 322009, PASSED).
+[19:38:35] BanchoBot: Slowpoke392 finished playing (Score: 485017, PASSED).
+[19:38:35] BanchoBot: The match has finished!
+[19:38:46] BCraftMG: Simmeru | 0 - 1 | Slowpoke392 // Bo9 - Next Pick: Simmeru
+[19:38:49] BCraftMG: !mp timer 120
+[19:38:50] BanchoBot: Countdown ends in 2 minutes
+[19:39:02] Simmeru: pick NM1
+[19:39:19] BCraftMG: !mp map 3261801 0
+[19:39:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3261801 Primary - Sweets Weekend
+[19:39:20] BanchoBot: Changed match mode to Osu
+[19:39:21] BCraftMG: !mp timer 120
+[19:39:21] BanchoBot: Countdown aborted
+[19:39:21] BanchoBot: Countdown ends in 2 minutes
+[19:40:00] BanchoBot: All players are ready
+[19:40:02] BCraftMG: !mp settings
+[19:40:03] BanchoBot: Room name: RROH: (Simmeru) vs (Slowpoke392), History: https://osu.ppy.sh/mp/107303698
+[19:40:03] BanchoBot: Beatmap: https://osu.ppy.sh/b/3261801 Primary - Sweets Weekend
+[19:40:03] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:40:03] BanchoBot: Active mods: NoFail
+[19:40:03] BanchoBot: Players: 2
+[19:40:03] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/20057724 Simmeru         [Team Blue]
+[19:40:03] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/26065707 Slowpoke392     [Team Red ]
+[19:40:04] BCraftMG: !mp start 5 glhf
+[19:40:04] BanchoBot: Countdown aborted
+[19:40:04] BanchoBot: Match starts in 5 seconds
+[19:40:04] BanchoBot: Queued the match to start in 5 seconds
+[19:40:05] BanchoBot: Match starts in 4 seconds
+[19:40:06] BanchoBot: Match starts in 3 seconds
+[19:40:08] BanchoBot: Good luck, have fun!
+[19:40:10] BanchoBot: The match has started!
+[19:43:43] BanchoBot: Slowpoke392 finished playing (Score: 572116, PASSED).
+[19:43:43] BanchoBot: Simmeru finished playing (Score: 940476, PASSED).
+[19:43:43] BanchoBot: The match has finished!
+[19:43:54] BCraftMG: Simmeru | 1 - 1 | Slowpoke392 // Bo9 - Next Pick: Slowpoke392
+[19:43:55] BCraftMG: !mp timer 120
+[19:43:57] BanchoBot: Countdown ends in 2 minutes
+[19:44:24] Slowpoke392: dt2
+[19:44:41] BCraftMG: !mp map 2619226 0
+[19:44:42] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2619226 ALEPH - The Evil Spirit
+[19:44:42] BanchoBot: Changed match mode to Osu
+[19:44:46] BCraftMG: !mp mods 65
+[19:44:48] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[19:44:48] BCraftMG: !mp timer 120
+[19:44:49] BanchoBot: Countdown aborted
+[19:44:49] BanchoBot: Countdown ends in 2 minutes
+[19:44:53] BanchoBot: All players are ready
+[19:44:58] BCraftMG: !mp settings
+[19:44:59] BanchoBot: Room name: RROH: (Simmeru) vs (Slowpoke392), History: https://osu.ppy.sh/mp/107303698
+[19:44:59] BanchoBot: Beatmap: https://osu.ppy.sh/b/2619226 ALEPH - The Evil Spirit
+[19:44:59] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:44:59] BanchoBot: Active mods: NoFail, DoubleTime
+[19:44:59] BanchoBot: Players: 2
+[19:44:59] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/20057724 Simmeru         [Team Blue]
+[19:44:59] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/26065707 Slowpoke392     [Team Red ]
+[19:45:00] BCraftMG: !mp start 5 glhf
+[19:45:00] BanchoBot: Countdown aborted
+[19:45:00] BanchoBot: Match starts in 5 seconds
+[19:45:00] BanchoBot: Queued the match to start in 5 seconds
+[19:45:01] BanchoBot: Match starts in 4 seconds
+[19:45:03] BanchoBot: Match starts in 3 seconds
+[19:45:04] BanchoBot: Good luck, have fun!
+[19:45:06] BanchoBot: The match has started!
+[19:47:13] BanchoBot: Simmeru finished playing (Score: 431728, PASSED).
+[19:47:14] BanchoBot: Slowpoke392 finished playing (Score: 552344, PASSED).
+[19:47:14] BanchoBot: The match has finished!
+[19:47:30] BCraftMG: Simmeru | 1 - 2 | Slowpoke392 // Bo9 - Next Pick: Simmeru
+[19:47:31] BCraftMG: !mp timer 120
+[19:47:32] BanchoBot: Countdown ends in 2 minutes
+[19:47:35] Simmeru: DT1
+[19:47:52] BCraftMG: !mp map 1560857 0
+[19:47:53] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1560857 XX:me - Torikago
+[19:47:53] BanchoBot: Changed match mode to Osu
+[19:47:53] BCraftMG: !mp timer 120
+[19:47:54] BanchoBot: Countdown aborted
+[19:47:54] BanchoBot: Countdown ends in 2 minutes
+[19:48:07] BanchoBot: All players are ready
+[19:48:20] BCraftMG: !mp settings
+[19:48:21] BanchoBot: Room name: RROH: (Simmeru) vs (Slowpoke392), History: https://osu.ppy.sh/mp/107303698
+[19:48:21] BanchoBot: Beatmap: https://osu.ppy.sh/b/1560857 XX:me - Torikago
+[19:48:21] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:48:21] BanchoBot: Active mods: NoFail, DoubleTime
+[19:48:21] BanchoBot: Players: 2
+[19:48:21] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/20057724 Simmeru         [Team Blue]
+[19:48:21] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/26065707 Slowpoke392     [Team Red ]
+[19:48:22] BCraftMG: !mp start 5 glhf
+[19:48:22] BanchoBot: Countdown aborted
+[19:48:22] BanchoBot: Match starts in 5 seconds
+[19:48:22] BanchoBot: Queued the match to start in 5 seconds
+[19:48:24] BanchoBot: Match starts in 4 seconds
+[19:48:25] BanchoBot: Match starts in 3 seconds
+[19:48:26] BanchoBot: Good luck, have fun!
+[19:48:29] BanchoBot: The match has started!
+[19:51:01] BanchoBot: Slowpoke392 finished playing (Score: 669792, PASSED).
+[19:51:01] BanchoBot: Simmeru finished playing (Score: 1078712, PASSED).
+[19:51:01] BanchoBot: The match has finished!
+[19:51:25] BCraftMG: Simmeru | 2 - 2 | Slowpoke392 // Bo9 - Next Pick: Slowpoke392
+[19:51:26] BCraftMG: !mp timer 120
+[19:51:28] BanchoBot: Countdown ends in 2 minutes
+[19:51:41] Slowpoke392: hd1
+[19:52:10] BCraftMG: !mp map 3925789 0
+[19:52:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3925789 YOASOBI - Shukufuku
+[19:52:12] BanchoBot: Changed match mode to Osu
+[19:52:12] BCraftMG: !mp mods 9
+[19:52:13] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[19:52:13] BCraftMG: !mp timer 120
+[19:52:14] BanchoBot: Countdown aborted
+[19:52:14] BanchoBot: Countdown ends in 2 minutes
+[19:52:40] BanchoBot: All players are ready
+[19:52:42] BCraftMG: !mp settings
+[19:52:42] BanchoBot: Room name: RROH: (Simmeru) vs (Slowpoke392), History: https://osu.ppy.sh/mp/107303698
+[19:52:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/3925789 YOASOBI - Shukufuku
+[19:52:42] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:52:42] BanchoBot: Active mods: NoFail, Hidden
+[19:52:42] BanchoBot: Players: 2
+[19:52:42] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/20057724 Simmeru         [Team Blue]
+[19:52:42] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/26065707 Slowpoke392     [Team Red ]
+[19:52:43] BCraftMG: !mp start 5 glhf
+[19:52:43] BanchoBot: Countdown aborted
+[19:52:43] BanchoBot: Match starts in 5 seconds
+[19:52:43] BanchoBot: Queued the match to start in 5 seconds
+[19:52:44] BanchoBot: Match starts in 4 seconds
+[19:52:46] BanchoBot: Match starts in 3 seconds
+[19:52:47] BanchoBot: Good luck, have fun!
+[19:52:49] BanchoBot: The match has started!
+[19:56:09] BanchoBot: Simmeru finished playing (Score: 543425, PASSED).
+[19:56:09] BanchoBot: Slowpoke392 finished playing (Score: 550524, PASSED).
+[19:56:09] BanchoBot: The match has finished!
+[19:56:18] Simmeru: gg
+[19:56:32] BCraftMG: Simmeru | 2 - 3 | Slowpoke392 // Bo9 - Next Pick: Simmeru
+[19:56:38] BCraftMG: !mp timer 120
+[19:56:38] BanchoBot: Countdown ends in 2 minutes
+[19:56:42] Simmeru: DT3
+[19:57:28] Simmeru: pick DT3
+[19:57:36] BCraftMG: !mp map 2210582 0
+[19:57:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2210582 -45 - Midorigo Queen Bee
+[19:57:36] BanchoBot: Changed match mode to Osu
+[19:57:37] BCraftMG: !mp mods 65
+[19:57:39] BanchoBot: Countdown ends in 1 minute
+[19:57:39] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[19:57:39] BCraftMG: !mp timer 120
+[19:57:40] BanchoBot: Countdown aborted
+[19:57:40] BanchoBot: Countdown ends in 2 minutes
+[19:57:44] BanchoBot: All players are ready
+[19:57:55] BCraftMG: !mp settings
+[19:57:56] BanchoBot: Room name: RROH: (Simmeru) vs (Slowpoke392), History: https://osu.ppy.sh/mp/107303698
+[19:57:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/2210582 -45 - Midorigo Queen Bee
+[19:57:56] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:57:56] BanchoBot: Active mods: NoFail, DoubleTime
+[19:57:56] BanchoBot: Players: 2
+[19:57:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/20057724 Simmeru         [Team Blue]
+[19:57:56] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/26065707 Slowpoke392     [Team Red ]
+[19:57:57] BCraftMG: !mp start 5 glhf
+[19:57:58] BanchoBot: Countdown aborted
+[19:57:58] BanchoBot: Match starts in 5 seconds
+[19:57:58] BanchoBot: Queued the match to start in 5 seconds
+[19:57:59] BanchoBot: Match starts in 4 seconds
+[19:58:00] BanchoBot: Match starts in 3 seconds
+[19:58:01] BanchoBot: Good luck, have fun!
+[19:58:03] BanchoBot: The match has started!
+[20:00:43] BanchoBot: Slowpoke392 finished playing (Score: 616188, PASSED).
+[20:00:43] BanchoBot: Simmeru finished playing (Score: 715381, PASSED).
+[20:00:43] BanchoBot: The match has finished!
+[20:00:55] Simmeru: ti thi thua
+[20:01:10] BCraftMG: Simmeru | 3 - 3 | Slowpoke392 // Bo9 - Next Pick: Slowpoke392
+[20:01:11] BCraftMG: !mp timer 120
+[20:01:12] BanchoBot: Countdown ends in 2 minutes
+[20:01:55] Simmeru: pick HR di ong
+[20:02:13] BanchoBot: Countdown ends in 1 minute
+[20:02:21] Slowpoke392: nm4
+[20:02:28] Slowpoke392: khong choi duoc hr ong oi
+[20:02:33] BCraftMG: !mp map 3546172 0
+[20:02:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3546172 Aethral - It's Boss Time, dude
+[20:02:33] BanchoBot: Changed match mode to Osu
+[20:02:34] BCraftMG: !mp mods 1
+[20:02:35] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:02:35] BCraftMG: !mp timer 120
+[20:02:36] BanchoBot: Countdown aborted
+[20:02:36] BanchoBot: Countdown ends in 2 minutes
+[20:02:39] Simmeru: toi cung dau choi duoc
+[20:02:43] BanchoBot: All players are ready
+[20:02:44] BCraftMG: !mp settings
+[20:02:45] BanchoBot: Room name: RROH: (Simmeru) vs (Slowpoke392), History: https://osu.ppy.sh/mp/107303698
+[20:02:45] BanchoBot: Beatmap: https://osu.ppy.sh/b/3546172 Aethral - It's Boss Time, dude
+[20:02:45] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:02:45] BanchoBot: Active mods: NoFail
+[20:02:45] BanchoBot: Players: 2
+[20:02:45] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/20057724 Simmeru         [Team Blue]
+[20:02:45] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/26065707 Slowpoke392     [Team Red ]
+[20:02:45] BCraftMG: !mp start 5 glhf
+[20:02:45] BanchoBot: Countdown aborted
+[20:02:45] BanchoBot: Match starts in 5 seconds
+[20:02:45] BanchoBot: Queued the match to start in 5 seconds
+[20:02:47] BanchoBot: Match starts in 4 seconds
+[20:02:47] Slowpoke392: :)
+[20:02:48] BanchoBot: Match starts in 3 seconds
+[20:02:48] BanchoBot: Good luck, have fun!
+[20:02:51] BanchoBot: The match has started!
+[20:03:10] BCraftMG: !mp invite #10542491
+[20:03:11] BanchoBot: Invited -Kiyoko- to the room
+[20:03:15] BanchoBot: -Kiyoko- joined in slot 3 for team blue.
+[20:03:18] BCraftMG: nham lobby r anh oi
+[20:03:19] BCraftMG: :tf:
+[20:03:21] BanchoBot: -Kiyoko- left the game.
+[20:05:17] BanchoBot: Simmeru finished playing (Score: 306620, PASSED).
+[20:05:17] BanchoBot: Slowpoke392 finished playing (Score: 619284, PASSED).
+[20:05:17] BanchoBot: The match has finished!
+[20:05:26] Simmeru: gg
+[20:05:32] BCraftMG: Simmeru | 3 - 4 | Slowpoke392 // Bo9 - Next Pick: Simmeru
+[20:05:33] Slowpoke392: gg
+[20:05:35] BCraftMG: ai cho
+[20:05:37] BCraftMG: bo9 ma
+[20:05:40] Simmeru: ua ua
+[20:05:41] BCraftMG: !mp timer 120
+[20:05:42] BanchoBot: Countdown ends in 2 minutes
+[20:05:45] Slowpoke392: ow
+[20:05:52] Slowpoke392: :))
+[20:05:54] Simmeru: vai o
+[20:06:01] Slowpoke392: lu qua
+[20:06:04] Simmeru: NM3 kho khong ong
+[20:06:21] Slowpoke392: toi chua choi
+[20:06:26] Simmeru: vai
+[20:06:42] BanchoBot: Countdown ends in 1 minute
+[20:06:45] Simmeru: pick HR2
+[20:06:51] Slowpoke392: ong pick hr cung duoc
+[20:06:54] BCraftMG: Simmeru | 3 - 4 | Slowpoke392 // Bo9 - First : Slowpoke392
+[20:07:01] BCraftMG: !mp map 21108 0
+[20:07:03] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/21108 DJ - Mocha - Fallen Angel
+[20:07:03] BanchoBot: Changed match mode to Osu
+[20:07:03] BCraftMG: !mp mods 17
+[20:07:04] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[20:07:04] BCraftMG: !mp timer 120
+[20:07:05] BanchoBot: Countdown aborted
+[20:07:05] BanchoBot: Countdown ends in 2 minutes
+[20:07:20] BanchoBot: All players are ready
+[20:07:39] Slowpoke392: oh no
+[20:07:47] Simmeru: ha?
+[20:07:47] Slowpoke392: cs6.5
+[20:08:06] BanchoBot: Countdown ends in 1 minute
+[20:08:10] BCraftMG: !mp settings
+[20:08:10] BanchoBot: Room name: RROH: (Simmeru) vs (Slowpoke392), History: https://osu.ppy.sh/mp/107303698
+[20:08:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/21108 DJ - Mocha - Fallen Angel
+[20:08:10] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:08:10] BanchoBot: Active mods: NoFail, HardRock
+[20:08:10] BanchoBot: Players: 2
+[20:08:10] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/20057724 Simmeru         [Team Blue]
+[20:08:10] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/26065707 Slowpoke392     [Team Red ]
+[20:08:11] BCraftMG: !mp start 5 glhf
+[20:08:12] BanchoBot: Countdown aborted
+[20:08:12] BanchoBot: Match starts in 5 seconds
+[20:08:12] BanchoBot: Queued the match to start in 5 seconds
+[20:08:14] BanchoBot: Match starts in 4 seconds
+[20:08:15] BanchoBot: Match starts in 3 seconds
+[20:08:16] BanchoBot: Good luck, have fun!
+[20:08:17] BanchoBot: The match has started!
+[20:10:21] BanchoBot: Simmeru finished playing (Score: 122005, PASSED).
+[20:10:21] BanchoBot: Slowpoke392 finished playing (Score: 104092, PASSED).
+[20:10:21] BanchoBot: The match has finished!
+[20:10:28] Simmeru: XD
+[20:10:36] Simmeru: TB thoi
+[20:10:46] Slowpoke392: yeah
+[20:10:46] Simmeru: cai nay moi quyet dinh ne
+[20:10:52] Simmeru: chu tui dau biet bam HR dau
+[20:11:10] BCraftMG: aughhhh
+[20:11:16] BCraftMG: !mp map 2991582 0
+[20:11:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2991582 Kawada Mami - Wings of Courage -Sora o Koete- (Epsilon Remix)
+[20:11:17] BanchoBot: Changed match mode to Osu
+[20:11:18] BCraftMG: !mp mods Freemod
+[20:11:18] Slowpoke392: run lam roi
+[20:11:18] BCraftMG: !mp timer 120
+[20:11:19] BanchoBot: Disabled all mods, enabled FreeMod
+[20:11:20] BanchoBot: Countdown ends in 2 minutes
+[20:11:34] BanchoBot: All players are ready
+[20:11:35] BCraftMG: TB có thể chơi nm nhé
+[20:11:48] BCraftMG: !mp settings
+[20:11:49] BanchoBot: Room name: RROH: (Simmeru) vs (Slowpoke392), History: https://osu.ppy.sh/mp/107303698
+[20:11:49] BanchoBot: Beatmap: https://osu.ppy.sh/b/2991582 Kawada Mami - Wings of Courage -Sora o Koete- (Epsilon Remix)
+[20:11:49] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:11:49] BanchoBot: Active mods: Freemod
+[20:11:49] BanchoBot: Players: 2
+[20:11:49] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/20057724 Simmeru         [Team Blue]
+[20:11:49] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/26065707 Slowpoke392     [Team Red ]
+[20:11:49] BCraftMG: !mp start 5 glhf
+[20:11:50] BanchoBot: Countdown aborted
+[20:11:50] BanchoBot: Match starts in 5 seconds
+[20:11:50] BanchoBot: Queued the match to start in 5 seconds
+[20:11:51] BanchoBot: Match starts in 4 seconds
+[20:11:52] BanchoBot: Match starts in 3 seconds
+[20:11:54] BanchoBot: Good luck, have fun!
+[20:11:55] BanchoBot: The match has started!
+[20:16:42] BanchoBot: Slowpoke392 finished playing (Score: 329290, FAILED).
+[20:16:42] BanchoBot: Simmeru finished playing (Score: 530053, PASSED).
+[20:16:42] BanchoBot: The match has finished!
+[20:16:47] Simmeru: gg
+[20:16:52] Slowpoke392: ggwp
+[20:16:53] Simmeru: ong choi hay lam
+[20:16:58] Simmeru: tam biet
+[20:17:03] Simmeru: muatual
+[20:17:03] Slowpoke392: gl
+[20:17:06] Simmeru: khong ong
+[20:17:07] BCraftMG: ggwp :3c
+[20:17:07] Slowpoke392: ok
+[20:17:20] Simmeru: bai mn
+[20:17:22] BanchoBot: Simmeru left the game.
+[20:17:29] BCraftMG: o/
+[20:17:31] Slowpoke392: bye bye
+[20:17:32] BanchoBot: Slowpoke392 left the game.
+[20:17:42] BCraftMG: !mp close
+[20:17:44] BanchoBot: Closed the match

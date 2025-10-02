@@ -1,0 +1,376 @@
+[01:50:55] Joined #mp_101956463
+[01:50:55] BCraftMG: !mp settings
+[01:50:57] BanchoBot: Room name: SOSF: (danid5) vs (MINHOCA LOKA Fanboy), History: https://osu.ppy.sh/mp/101956463
+[01:50:57] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[01:50:57] BanchoBot: Players: 0
+[01:55:53] BCraftMG: !mp invite #11393715
+[01:55:54] BanchoBot: Invited TobisawaMisaki to the room
+[01:55:56] BCraftMG: !mp invite #8404990
+[01:55:58] BanchoBot: User not found
+[01:56:00] BCraftMG: !mp invite #11371245
+[01:56:01] BanchoBot: Invited aahoff to the room
+[01:56:04] BCraftMG: !mp invite #15251627
+[01:56:05] BanchoBot: Invited Qiqi to the room
+[01:56:07] BCraftMG: !mp invite #10159709
+[01:56:09] BanchoBot: TobisawaMisaki joined in slot 1.
+[01:56:09] BanchoBot: User not found
+[01:56:11] BCraftMG: !mp invite #15173918
+[01:56:11] BanchoBot: Invited DuduxrZ to the room
+[01:56:14] BanchoBot: aahoff joined in slot 2.
+[01:56:20] BCraftMG: !mp set 2 3 8
+[01:56:20] BanchoBot: Changed match settings to 8 slots, TeamVs, ScoreV2
+[01:56:22] BCraftMG: !mp settings
+[01:56:23] BanchoBot: Room name: SOSF: (danid5) vs (MINHOCA LOKA Fanboy), History: https://osu.ppy.sh/mp/101956463
+[01:56:23] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:56:23] BanchoBot: Players: 2
+[01:56:23] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/11393715 TobisawaMisaki  [Team Blue]
+[01:56:23] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/11371245 aahoff          [Team Red ]
+[01:56:29] BCraftMG: u wanna do warm up?
+[01:56:33] BanchoBot: Qiqi joined in slot 3 for team blue.
+[01:56:40] BanchoBot: Qiqi changed to Red
+[01:56:47] BanchoBot: TobisawaMisaki changed to Red
+[01:56:47] BanchoBot: TobisawaMisaki changed to Blue
+[01:56:49] BanchoBot: Qiqi changed to Blue
+[01:56:49] BanchoBot: Qiqi changed to Red
+[01:56:55] TobisawaMisaki: i would be down
+[01:57:02] Qiqi: hello
+[01:57:03] BCraftMG: !mp host TobisawaMisaki
+[01:57:04] BanchoBot: TobisawaMisaki became the host.
+[01:57:04] BanchoBot: Changed match host to TobisawaMisaki
+[01:57:05] BCraftMG: o/
+[01:57:06] TobisawaMisaki: o7
+[01:57:06] BanchoBot: Beatmap changed to: Kinjishi - Nageki no Ki [Insane] (https://osu.ppy.sh/b/2130349)
+[01:57:06] BanchoBot: DuduxrZ joined in slot 4 for team red.
+[01:57:13] TobisawaMisaki: we red or blue
+[01:57:15] DuduxrZ: o/
+[01:57:19] BanchoBot: aahoff changed to Blue
+[01:57:24] BanchoBot: Host is changing map...
+[01:57:43] BCraftMG: danid5 is red
+[01:57:47] BCraftMG: the other team is blue
+[01:57:52] BanchoBot: aahoff changed to Red
+[01:57:54] BanchoBot: Beatmap changed to: onoken - Amnolys [d6n's Extra] (https://osu.ppy.sh/b/2114008)
+[01:58:01] BanchoBot: TobisawaMisaki changed to Red
+[01:58:20] BanchoBot: Qiqi changed to Blue
+[01:58:24] BanchoBot: DuduxrZ changed to Blue
+[01:58:29] BanchoBot: All players are ready
+[01:58:33] BanchoBot: The match has started!
+[01:59:00] BCraftMG: !mp settings
+[01:59:00] BanchoBot: Room name: SOSF: (danid5) vs (MINHOCA LOKA Fanboy), History: https://osu.ppy.sh/mp/101956463
+[01:59:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/2114008 onoken - Amnolys [d6n's Extra]
+[01:59:00] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:59:00] BanchoBot: Active mods: Freemod
+[01:59:00] BanchoBot: Players: 4
+[01:59:00] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/11393715 TobisawaMisaki  [Host / Team Red  / NoFail, Hidden]
+[01:59:00] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/11371245 aahoff          [Team Red  / NoFail]
+[01:59:00] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/15251627 Qiqi            [Team Blue / NoFail]
+[01:59:00] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/15173918 DuduxrZ         [Team Blue / NoFail]
+[02:00:39] BanchoBot: aahoff finished playing (Score: 440429, PASSED).
+[02:00:42] BanchoBot: Qiqi finished playing (Score: 443621, PASSED).
+[02:00:42] BanchoBot: TobisawaMisaki finished playing (Score: 421664, PASSED).
+[02:00:42] BanchoBot: DuduxrZ finished playing (Score: 246476, PASSED).
+[02:00:42] BanchoBot: The match has finished!
+[02:00:57] BanchoBot: Qiqi became the host.
+[02:01:02] BanchoBot: DuduxrZ became the host.
+[02:01:15] BanchoBot: Qiqi became the host.
+[02:01:17] BanchoBot: Host is changing map...
+[02:02:09] BanchoBot: Beatmap changed to: Bellini - Samba de Janeiro [Do you really thought i was going to map this again?] (https://osu.ppy.sh/b/2065778)
+[02:02:22] TobisawaMisaki: banger
+[02:02:33] BanchoBot: All players are ready
+[02:02:37] BanchoBot: The match has started!
+[02:04:37] BanchoBot: aahoff finished playing (Score: 336680, PASSED).
+[02:04:37] BanchoBot: DuduxrZ finished playing (Score: 164438, PASSED).
+[02:04:39] BanchoBot: Qiqi finished playing (Score: 337794, PASSED).
+[02:04:39] BanchoBot: TobisawaMisaki finished playing (Score: 345373, PASSED).
+[02:04:39] BanchoBot: The match has finished!
+[02:04:56] BCraftMG: !mp clearhost
+[02:04:59] BanchoBot: Cleared match host
+[02:05:03] Qiqi: s l i d e r s
+[02:05:03] BCraftMG: alright lets start with !roll
+[02:05:10] TobisawaMisaki: !roll
+[02:05:10] BanchoBot: TobisawaMisaki rolls 4 point(s)
+[02:05:10] Qiqi: !roll
+[02:05:10] BanchoBot: Qiqi rolls 81 point(s)
+[02:05:14] TobisawaMisaki: ok
+[02:05:16] TobisawaMisaki: sorry
+[02:05:20] Qiqi: lmao
+[02:05:25] TobisawaMisaki: close one
+[02:05:34] BCraftMG: MINHOCA LOKA Fanboy, please choose your pick ban order
+[02:05:39] BCraftMG: 1st pick = 2nd ban
+[02:05:42] BCraftMG: !mp timer 120
+[02:05:45] BanchoBot: Countdown ends in 2 minutes
+[02:06:06] Qiqi: second ban
+[02:06:37] BCraftMG: danid5, your ban please
+[02:06:39] BCraftMG: !mp timer 120
+[02:06:41] BanchoBot: Countdown aborted
+[02:06:41] BanchoBot: Countdown ends in 2 minutes
+[02:06:43] TobisawaMisaki: dt3 ban
+[02:06:56] Qiqi: ban hd2
+[02:07:10] BCraftMG: danid5 | 0 - 0 | MINHOCA LOKA Fanboy // First Pick: MINHOCA LOKA Fanboy
+[02:07:11] BCraftMG: !mp timer 120
+[02:07:14] BanchoBot: Countdown aborted
+[02:07:14] BanchoBot: Countdown ends in 2 minutes
+[02:08:08] Qiqi: hr2
+[02:08:15] BanchoBot: Countdown ends in 1 minute
+[02:08:30] BCraftMG: !mp mods HR NF
+[02:08:30] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[02:08:32] BCraftMG: !mp map 2130349 0
+[02:08:32] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2130349 Kinjishi - Nageki no Ki
+[02:08:32] BanchoBot: Changed match mode to Osu
+[02:08:34] BCraftMG: !mp timer 120
+[02:08:34] BanchoBot: Countdown aborted
+[02:08:34] BanchoBot: Countdown ends in 2 minutes
+[02:08:41] TobisawaMisaki: glhf
+[02:08:56] BanchoBot: All players are ready
+[02:08:57] BCraftMG: !mp settings
+[02:08:58] Qiqi: glhf
+[02:08:58] BanchoBot: Room name: SOSF: (danid5) vs (MINHOCA LOKA Fanboy), History: https://osu.ppy.sh/mp/101956463
+[02:08:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/2130349 Kinjishi - Nageki no Ki
+[02:08:58] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:08:58] BanchoBot: Active mods: NoFail, HardRock
+[02:08:58] BanchoBot: Players: 4
+[02:08:58] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11393715 TobisawaMisaki  [Team Red ]
+[02:08:58] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11371245 aahoff          [Team Red ]
+[02:08:58] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15251627 Qiqi            [Team Blue]
+[02:08:58] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15173918 DuduxrZ         [Team Blue]
+[02:08:59] BCraftMG: !mp start 10
+[02:09:00] aahoff: glhf
+[02:09:00] BanchoBot: Countdown aborted
+[02:09:00] BanchoBot: Match starts in 10 seconds
+[02:09:00] BanchoBot: Queued the match to start in 10 seconds
+[02:09:04] DuduxrZ: glhf
+[02:09:07] BanchoBot: Match starts in 5 seconds
+[02:09:07] BanchoBot: Match starts in 4 seconds
+[02:09:09] BanchoBot: Match starts in 3 seconds
+[02:09:09] BanchoBot: Good luck, have fun!
+[02:09:11] BanchoBot: The match has started!
+[02:11:13] BanchoBot: Qiqi finished playing (Score: 512451, PASSED).
+[02:11:13] BanchoBot: TobisawaMisaki finished playing (Score: 876795, PASSED).
+[02:11:13] BanchoBot: DuduxrZ finished playing (Score: 346452, PASSED).
+[02:11:15] BanchoBot: aahoff finished playing (Score: 663326, PASSED).
+[02:11:15] BanchoBot: The match has finished!
+[02:11:19] BCraftMG: danid5 : 1 | 0 : MINHOCA LOKA Fanboy
+[02:11:21] BCraftMG: Next team to pick: danid5
+[02:11:23] BCraftMG: !mp timer 120
+[02:11:23] BanchoBot: Countdown ends in 2 minutes
+[02:11:39] Qiqi: let me quickly turn off my team scores
+[02:11:41] BanchoBot: Qiqi left the game.
+[02:12:00] TobisawaMisaki: nm3
+[02:12:04] BanchoBot: Qiqi joined in slot 3 for team blue.
+[02:12:16] BCraftMG: !mp mods NF
+[02:12:16] BanchoBot: Enabled NoFail, disabled FreeMod
+[02:12:18] BCraftMG: !mp map 2680283 0
+[02:12:18] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2680283 ZUTOMAYO - Haze Haseru Hateru made
+[02:12:18] BanchoBot: Changed match mode to Osu
+[02:12:20] BCraftMG: !mp timer 120
+[02:12:20] BanchoBot: Countdown aborted
+[02:12:20] BanchoBot: Countdown ends in 2 minutes
+[02:12:39] BanchoBot: All players are ready
+[02:12:44] Qiqi: glhf
+[02:12:46] aahoff: glhf
+[02:12:46] BCraftMG: !mp start 10
+[02:12:48] DuduxrZ: glhf
+[02:12:48] BanchoBot: Countdown aborted
+[02:12:48] BanchoBot: Match starts in 10 seconds
+[02:12:48] BanchoBot: Queued the match to start in 10 seconds
+[02:12:50] TobisawaMisaki: glhf
+[02:12:55] BanchoBot: Match starts in 5 seconds
+[02:12:55] BanchoBot: Match starts in 4 seconds
+[02:12:56] BanchoBot: Match starts in 3 seconds
+[02:12:56] BanchoBot: Good luck, have fun!
+[02:12:59] BanchoBot: The match has started!
+[02:17:06] BanchoBot: TobisawaMisaki finished playing (Score: 977245, PASSED).
+[02:17:06] BanchoBot: Qiqi finished playing (Score: 516103, PASSED).
+[02:17:06] BanchoBot: aahoff finished playing (Score: 579249, PASSED).
+[02:17:06] BanchoBot: DuduxrZ finished playing (Score: 559574, PASSED).
+[02:17:06] BanchoBot: The match has finished!
+[02:17:07] BCraftMG: danid5 : 2 | 0 : MINHOCA LOKA Fanboy
+[02:17:10] BCraftMG: Next team to pick: MINHOCA LOKA Fanboy
+[02:17:12] BCraftMG: !mp timer 120
+[02:17:12] BanchoBot: Countdown ends in 2 minutes
+[02:17:42] Qiqi: dt1
+[02:17:55] BCraftMG: !mp mods DT NF
+[02:17:55] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[02:17:57] BCraftMG: !mp map 1912368 0
+[02:17:57] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1912368 Afilia Saga - Neptune*Sagashite
+[02:17:57] BanchoBot: Changed match mode to Osu
+[02:17:59] BCraftMG: !mp timer 120
+[02:17:59] BanchoBot: Countdown aborted
+[02:17:59] BanchoBot: Countdown ends in 2 minutes
+[02:18:05] TobisawaMisaki: no map :tf:
+[02:18:36] BanchoBot: All players are ready
+[02:18:38] Qiqi: hfhf
+[02:18:39] BCraftMG: !mp settings
+[02:18:40] BanchoBot: Room name: SOSF: (danid5) vs (MINHOCA LOKA Fanboy), History: https://osu.ppy.sh/mp/101956463
+[02:18:40] BanchoBot: Beatmap: https://osu.ppy.sh/b/1912368 Afilia Saga - Neptune*Sagashite
+[02:18:40] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:18:40] BanchoBot: Active mods: NoFail, DoubleTime
+[02:18:40] BanchoBot: Players: 4
+[02:18:40] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11393715 TobisawaMisaki  [Team Red ]
+[02:18:40] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11371245 aahoff          [Team Red ]
+[02:18:40] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15251627 Qiqi            [Team Blue]
+[02:18:40] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15173918 DuduxrZ         [Team Blue]
+[02:18:41] BCraftMG: !mp start 10
+[02:18:42] aahoff: glhf
+[02:18:42] BanchoBot: Countdown aborted
+[02:18:42] BanchoBot: Match starts in 10 seconds
+[02:18:42] BanchoBot: Queued the match to start in 10 seconds
+[02:18:46] TobisawaMisaki: glhf
+[02:18:46] DuduxrZ: glhf
+[02:18:49] BanchoBot: Match starts in 5 seconds
+[02:18:49] BanchoBot: Match starts in 4 seconds
+[02:18:51] BanchoBot: Match starts in 3 seconds
+[02:18:51] BanchoBot: Good luck, have fun!
+[02:18:54] BanchoBot: The match has started!
+[02:22:00] BanchoBot: aahoff finished playing (Score: 726762, PASSED).
+[02:22:02] BanchoBot: TobisawaMisaki finished playing (Score: 1124037, PASSED).
+[02:22:02] BanchoBot: DuduxrZ finished playing (Score: 521674, PASSED).
+[02:22:02] BanchoBot: Qiqi finished playing (Score: 1173804, PASSED).
+[02:22:02] BanchoBot: The match has finished!
+[02:22:06] BCraftMG: danid5 : 3 | 0 : MINHOCA LOKA Fanboy
+[02:22:08] BCraftMG: Next team to pick: danid5
+[02:22:11] BCraftMG: !mp timer 120
+[02:22:11] BanchoBot: Countdown ends in 2 minutes
+[02:23:11] BanchoBot: Countdown ends in 1 minute
+[02:23:17] TobisawaMisaki: hd1
+[02:23:31] BCraftMG: !mp mods HD NF
+[02:23:31] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[02:23:34] BCraftMG: !mp map 1278874 0
+[02:23:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1278874 senya - Zetsubou no Fuchi
+[02:23:34] BanchoBot: Changed match mode to Osu
+[02:23:36] BCraftMG: !mp timer 120
+[02:23:36] BanchoBot: Countdown aborted
+[02:23:36] BanchoBot: Countdown ends in 2 minutes
+[02:23:51] BanchoBot: All players are ready
+[02:23:55] BCraftMG: !mp settings
+[02:23:55] BanchoBot: Room name: SOSF: (danid5) vs (MINHOCA LOKA Fanboy), History: https://osu.ppy.sh/mp/101956463
+[02:23:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/1278874 senya - Zetsubou no Fuchi
+[02:23:55] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:23:55] BanchoBot: Active mods: NoFail, Hidden
+[02:23:55] BanchoBot: Players: 4
+[02:23:55] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11393715 TobisawaMisaki  [Team Red ]
+[02:23:55] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11371245 aahoff          [Team Red ]
+[02:23:55] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15251627 Qiqi            [Team Blue]
+[02:23:55] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15173918 DuduxrZ         [Team Blue]
+[02:23:56] BCraftMG: !mp start 10
+[02:23:58] TobisawaMisaki: glhf
+[02:23:58] BanchoBot: Countdown aborted
+[02:23:58] BanchoBot: Match starts in 10 seconds
+[02:23:58] BanchoBot: Queued the match to start in 10 seconds
+[02:24:04] BanchoBot: Match starts in 5 seconds
+[02:24:04] Qiqi: glhf
+[02:24:04] BanchoBot: Match starts in 4 seconds
+[02:24:06] BanchoBot: Match starts in 3 seconds
+[02:24:06] BanchoBot: Good luck, have fun!
+[02:24:08] DuduxrZ: gl
+[02:24:08] BanchoBot: The match has started!
+[02:27:21] BanchoBot: aahoff finished playing (Score: 506781, PASSED).
+[02:27:21] BanchoBot: Qiqi finished playing (Score: 409239, PASSED).
+[02:27:21] BanchoBot: TobisawaMisaki finished playing (Score: 914088, PASSED).
+[02:27:24] BanchoBot: DuduxrZ finished playing (Score: 310482, PASSED).
+[02:27:24] BanchoBot: The match has finished!
+[02:27:26] BCraftMG: danid5 : 4 | 0 : MINHOCA LOKA Fanboy
+[02:27:28] BCraftMG: Next team to pick: MINHOCA LOKA Fanboy
+[02:27:30] BCraftMG: !mp timer 120
+[02:27:30] BanchoBot: Countdown ends in 2 minutes
+[02:27:34] Qiqi: rip ss
+[02:27:41] TobisawaMisaki: ôutch
+[02:27:47] Qiqi: nm5 pls
+[02:28:03] BCraftMG: !mp mods NF
+[02:28:03] BanchoBot: Enabled NoFail, disabled FreeMod
+[02:28:05] BCraftMG: !mp map 3155328 0
+[02:28:05] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3155328 MisoilePunch - Aurolla
+[02:28:05] BanchoBot: Changed match mode to Osu
+[02:28:07] BCraftMG: !mp timer 120
+[02:28:07] BanchoBot: Countdown aborted
+[02:28:07] BanchoBot: Countdown ends in 2 minutes
+[02:28:33] BanchoBot: All players are ready
+[02:28:36] BCraftMG: !mp settings
+[02:28:38] BanchoBot: Room name: SOSF: (danid5) vs (MINHOCA LOKA Fanboy), History: https://osu.ppy.sh/mp/101956463
+[02:28:38] BanchoBot: Beatmap: https://osu.ppy.sh/b/3155328 MisoilePunch - Aurolla
+[02:28:38] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:28:38] BanchoBot: Active mods: NoFail
+[02:28:38] BanchoBot: Players: 4
+[02:28:38] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11393715 TobisawaMisaki  [Team Red ]
+[02:28:38] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11371245 aahoff          [Team Red ]
+[02:28:38] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15251627 Qiqi            [Team Blue]
+[02:28:38] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15173918 DuduxrZ         [Team Blue]
+[02:28:39] BCraftMG: !mp start 10
+[02:28:40] BanchoBot: Countdown aborted
+[02:28:40] BanchoBot: Match starts in 10 seconds
+[02:28:40] BanchoBot: Queued the match to start in 10 seconds
+[02:28:44] Qiqi: glhf
+[02:28:44] TobisawaMisaki: glhf
+[02:28:46] aahoff: glhf
+[02:28:46] BanchoBot: Match starts in 5 seconds
+[02:28:46] BanchoBot: Match starts in 4 seconds
+[02:28:48] BanchoBot: Match starts in 3 seconds
+[02:28:48] BanchoBot: Good luck, have fun!
+[02:28:51] BanchoBot: The match has started!
+[02:30:57] BanchoBot: aahoff finished playing (Score: 570151, PASSED).
+[02:30:57] BanchoBot: TobisawaMisaki finished playing (Score: 454375, PASSED).
+[02:30:57] BanchoBot: Qiqi finished playing (Score: 736962, PASSED).
+[02:30:59] BanchoBot: DuduxrZ finished playing (Score: 630029, PASSED).
+[02:30:59] BanchoBot: The match has finished!
+[02:31:01] BCraftMG: danid5 : 4 | 1 : MINHOCA LOKA Fanboy
+[02:31:03] BCraftMG: Next team to pick: danid5
+[02:31:05] BCraftMG: !mp timer 120
+[02:31:05] BanchoBot: Countdown ends in 2 minutes
+[02:31:29] BanchoBot: aahoff left the game.
+[02:31:34] TobisawaMisaki: hd3
+[02:31:44] BCraftMG: !mp mods HD NF
+[02:31:44] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[02:31:46] BCraftMG: !mp map 1697752 0
+[02:31:46] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1697752 Nekomata Master+ - Funny shuffle
+[02:31:46] BanchoBot: Changed match mode to Osu
+[02:31:49] BCraftMG: !mp timer 120
+[02:31:49] BanchoBot: Countdown aborted
+[02:31:49] BanchoBot: Countdown ends in 2 minutes
+[02:32:04] BanchoBot: aahoff joined in slot 2 for team red.
+[02:32:15] TobisawaMisaki: glhf
+[02:32:21] Qiqi: glgl
+[02:32:21] BanchoBot: All players are ready
+[02:32:23] DuduxrZ: glhf
+[02:32:24] BCraftMG: !mp settings
+[02:32:26] aahoff: glhf
+[02:32:26] BanchoBot: Room name: SOSF: (danid5) vs (MINHOCA LOKA Fanboy), History: https://osu.ppy.sh/mp/101956463
+[02:32:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/1697752 Nekomata Master+ - Funny shuffle
+[02:32:26] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:32:26] BanchoBot: Active mods: NoFail, Hidden
+[02:32:26] BanchoBot: Players: 4
+[02:32:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11393715 TobisawaMisaki  [Team Red ]
+[02:32:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11371245 aahoff          [Team Red ]
+[02:32:26] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15251627 Qiqi            [Team Blue]
+[02:32:26] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15173918 DuduxrZ         [Team Blue]
+[02:32:27] BCraftMG: !mp start 10
+[02:32:28] TobisawaMisaki: banger song btw
+[02:32:28] BanchoBot: Countdown aborted
+[02:32:28] BanchoBot: Match starts in 10 seconds
+[02:32:28] BanchoBot: Queued the match to start in 10 seconds
+[02:32:34] BanchoBot: Match starts in 5 seconds
+[02:32:34] BanchoBot: Match starts in 4 seconds
+[02:32:36] BanchoBot: Match starts in 3 seconds
+[02:32:36] BanchoBot: Good luck, have fun!
+[02:32:39] BanchoBot: The match has started!
+[02:34:29] BanchoBot: aahoff finished playing (Score: 674773, PASSED).
+[02:34:29] BanchoBot: Qiqi finished playing (Score: 580855, PASSED).
+[02:34:29] BanchoBot: TobisawaMisaki finished playing (Score: 598713, PASSED).
+[02:34:29] BanchoBot: DuduxrZ finished playing (Score: 391109, PASSED).
+[02:34:29] BanchoBot: The match has finished!
+[02:34:34] BCraftMG: danid5 : 5 | 1 : MINHOCA LOKA Fanboy
+[02:34:36] BCraftMG: **danid5 wins the match**
+[02:34:38] aahoff: ggwp
+[02:34:40] DuduxrZ: ggwp
+[02:34:40] TobisawaMisaki: ggwp
+[02:34:42] Qiqi: ggs
+[02:34:42] aahoff: ty for ref
+[02:34:44] BanchoBot: aahoff left the game.
+[02:34:47] Qiqi: ty for the ref
+[02:34:47] TobisawaMisaki: ty for ref
+[02:34:47] BanchoBot: DuduxrZ left the game.
+[02:34:47] BanchoBot: Qiqi left the game.
+[02:34:47] BCraftMG: ggwp
+[02:34:48] BCraftMG: <3
+[02:34:49] BCraftMG: o/
+[02:34:51] BanchoBot: TobisawaMisaki left the game.
+[02:34:54] BCraftMG: !mp close
+[02:34:55] BanchoBot: Closed the match

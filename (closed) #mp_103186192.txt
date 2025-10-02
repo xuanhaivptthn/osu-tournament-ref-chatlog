@@ -1,0 +1,370 @@
+[01:13:38] Joined #mp_103186192
+[01:13:38] BCraftMG: !mp settings
+[01:13:40] BanchoBot: Room name: GWK: (Qualifiers) vs (Lobby 30), History: https://osu.ppy.sh/mp/103186192
+[01:13:40] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[01:13:40] BanchoBot: Players: 0
+[01:13:58] BCraftMG: !mp set 0 3
+[01:13:59] BanchoBot: Changed match settings to HeadToHead, ScoreV2
+[01:14:05] BCraftMG: !mp invite salkin
+[01:14:05] BanchoBot: Invited salkin to the room
+[01:15:06] BanchoBot: salkin joined in slot 1.
+[01:15:17] BCraftMG: !mp map 2945039 0
+[01:15:18] BanchoBot: Rekinaja joined in slot 2.
+[01:15:18] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2945039 EiK feat. Raimu - a wonderful days -rebirth-
+[01:15:18] BanchoBot: Changed match mode to Osu
+[01:15:19] BCraftMG: !mp mods 1
+[01:15:20] BanchoBot: Enabled NoFail, disabled FreeMod
+[01:15:28] BanchoBot: DGmG joined in slot 3.
+[01:15:32] BanchoBot: kwotaq joined in slot 4.
+[01:15:43] BCraftMG: this is a confusing ref sheet
+[01:15:54] salkin: There are like no refs
+[01:16:11] BanchoBot: Rekinaja left the game.
+[01:16:36] BCraftMG: get ready lol
+[01:17:13] BCraftMG: why do i see sudden death
+[01:17:37] BanchoBot: kwotaq moved to slot 2
+[01:17:39] DGmG: why not
+[01:17:55] BanchoBot: Merami Cat joined in slot 4.
+[01:18:19] BCraftMG: theres only 1 team so
+[01:18:23] BCraftMG: take your time
+[01:18:36] BanchoBot: Merami Cat left the game.
+[01:18:44] BanchoBot: All players are ready
+[01:18:54] BCraftMG: !mp start 10
+[01:18:56] BanchoBot: Match starts in 10 seconds
+[01:18:56] BanchoBot: Queued the match to start in 10 seconds
+[01:18:58] DGmG: here we go
+[01:19:02] BanchoBot: Match starts in 5 seconds
+[01:19:02] BanchoBot: Match starts in 4 seconds
+[01:19:04] BanchoBot: Match starts in 3 seconds
+[01:19:04] BanchoBot: Good luck, have fun!
+[01:19:06] BanchoBot: The match has started!
+[01:19:08] salkin: help
+[01:22:23] BanchoBot: DGmG finished playing (Score: 504680, PASSED).
+[01:22:23] BanchoBot: kwotaq finished playing (Score: 460944, PASSED).
+[01:22:25] BanchoBot: salkin finished playing (Score: 432827, PASSED).
+[01:22:25] BanchoBot: The match has finished!
+[01:22:35] BCraftMG: !mp map 2535354 0
+[01:22:35] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2535354 Twinkle Rhythm - ZETTAI x BREAK!! Twinkle Rhythm
+[01:22:35] BanchoBot: Changed match mode to Osu
+[01:22:40] BanchoBot: kwotaq left the game.
+[01:22:46] BanchoBot: Rekinaja joined in slot 2.
+[01:22:52] BanchoBot: Rekinaja left the game.
+[01:23:01] BanchoBot: DGmG moved to slot 2
+[01:23:15] BanchoBot: Noez joined in slot 3.
+[01:23:38] Noez: o/
+[01:24:03] BanchoBot: All players are ready
+[01:24:05] BCraftMG: !mp start 10
+[01:24:07] BanchoBot: Match starts in 10 seconds
+[01:24:07] BanchoBot: Queued the match to start in 10 seconds
+[01:24:13] BanchoBot: Match starts in 5 seconds
+[01:24:13] BanchoBot: Match starts in 4 seconds
+[01:24:15] BanchoBot: Match starts in 3 seconds
+[01:24:15] BanchoBot: Good luck, have fun!
+[01:24:17] BanchoBot: The match has started!
+[01:26:53] BanchoBot: Noez finished playing (Score: 510488, PASSED).
+[01:26:53] BanchoBot: salkin finished playing (Score: 650955, PASSED).
+[01:26:53] BanchoBot: DGmG finished playing (Score: 406392, PASSED).
+[01:26:53] BanchoBot: The match has finished!
+[01:27:08] BCraftMG: !mp map 2890070 0
+[01:27:09] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2890070 Mitsukasa Ayase (CV: Sawasawa Sawa) - PERFECT GIRL
+[01:27:09] BanchoBot: Changed match mode to Osu
+[01:27:13] BanchoBot: DGmG left the game.
+[01:27:15] BanchoBot: salkin left the game.
+[01:27:19] BanchoBot: Rekinaja joined in slot 1.
+[01:27:21] BanchoBot: Merami Cat joined in slot 2.
+[01:27:43] BanchoBot: kwotaq joined in slot 4.
+[01:27:53] BanchoBot: kwotaq left the game.
+[01:27:57] BanchoBot: All players are ready
+[01:28:04] BCraftMG: !mp settings
+[01:28:06] BanchoBot: Room name: GWK: (Qualifiers) vs (Lobby 30), History: https://osu.ppy.sh/mp/103186192
+[01:28:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/2890070 Mitsukasa Ayase (CV: Sawasawa Sawa) - PERFECT GIRL
+[01:28:06] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:28:06] BanchoBot: Active mods: NoFail
+[01:28:06] BanchoBot: Players: 3
+[01:28:06] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/2214908 Rekinaja        
+[01:28:06] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9370189 Merami Cat      
+[01:28:06] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/625949 Noez            
+[01:28:06] BCraftMG: !mp start 10
+[01:28:08] BanchoBot: Match starts in 10 seconds
+[01:28:08] BanchoBot: Queued the match to start in 10 seconds
+[01:28:14] BanchoBot: Match starts in 5 seconds
+[01:28:14] BanchoBot: Match starts in 4 seconds
+[01:28:14] Merami_Cat: glll
+[01:28:16] BanchoBot: Match starts in 3 seconds
+[01:28:16] BanchoBot: Good luck, have fun!
+[01:28:18] BanchoBot: The match has started!
+[01:28:21] BCraftMG: glgl
+[01:31:45] BanchoBot: Rekinaja finished playing (Score: 328887, PASSED).
+[01:31:47] BanchoBot: Merami Cat finished playing (Score: 519435, PASSED).
+[01:31:47] BanchoBot: Noez finished playing (Score: 461693, PASSED).
+[01:31:47] BanchoBot: The match has finished!
+[01:31:55] BCraftMG: !mp map 2733296 0
+[01:31:56] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2733296 seatrus - MONONOKE
+[01:31:56] BanchoBot: Changed match mode to Osu
+[01:32:03] BanchoBot: Rekinaja left the game.
+[01:32:15] BanchoBot: DGmG joined in slot 1.
+[01:32:19] BanchoBot: Noez left the game.
+[01:32:38] BanchoBot: salkin joined in slot 3.
+[01:33:14] BanchoBot: All players are ready
+[01:33:20] BCraftMG: !mp settings
+[01:33:22] BanchoBot: Room name: GWK: (Qualifiers) vs (Lobby 30), History: https://osu.ppy.sh/mp/103186192
+[01:33:22] BanchoBot: Beatmap: https://osu.ppy.sh/b/2733296 seatrus - MONONOKE
+[01:33:22] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:33:22] BanchoBot: Active mods: NoFail
+[01:33:22] BanchoBot: Players: 3
+[01:33:22] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3460534 DGmG            
+[01:33:22] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9370189 Merami Cat      
+[01:33:22] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6499356 salkin          
+[01:33:23] BCraftMG: !mp start 10
+[01:33:24] BanchoBot: Match starts in 10 seconds
+[01:33:24] BanchoBot: Queued the match to start in 10 seconds
+[01:33:28] Merami_Cat: glhf!
+[01:33:30] BanchoBot: Match starts in 5 seconds
+[01:33:30] BanchoBot: Match starts in 4 seconds
+[01:33:32] BanchoBot: Match starts in 3 seconds
+[01:33:32] BanchoBot: Good luck, have fun!
+[01:33:34] BanchoBot: The match has started!
+[01:36:02] BanchoBot: salkin finished playing (Score: 318427, PASSED).
+[01:36:02] BanchoBot: Merami Cat finished playing (Score: 265185, PASSED).
+[01:36:04] BanchoBot: DGmG finished playing (Score: 238943, PASSED).
+[01:36:04] BanchoBot: The match has finished!
+[01:36:10] BCraftMG: !mp map 2148690 0
+[01:36:12] BCraftMG: !mp mods 9
+[01:36:14] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2148690 TORIENA - RAT RACE
+[01:36:14] BanchoBot: Changed match mode to Osu
+[01:36:16] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[01:36:24] BanchoBot: Merami Cat left the game.
+[01:36:26] BanchoBot: salkin left the game.
+[01:36:34] BanchoBot: kwotaq joined in slot 2.
+[01:37:00] BanchoBot: Rekinaja joined in slot 3.
+[01:37:14] BanchoBot: All players are ready
+[01:37:19] BCraftMG: !mp settings
+[01:37:21] BanchoBot: Room name: GWK: (Qualifiers) vs (Lobby 30), History: https://osu.ppy.sh/mp/103186192
+[01:37:21] BanchoBot: Beatmap: https://osu.ppy.sh/b/2148690 TORIENA - RAT RACE
+[01:37:21] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:37:21] BanchoBot: Active mods: NoFail, Hidden
+[01:37:21] BanchoBot: Players: 3
+[01:37:21] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3460534 DGmG            
+[01:37:21] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8195972 kwotaq          
+[01:37:21] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/2214908 Rekinaja        
+[01:37:22] BCraftMG: !mp start 10
+[01:37:22] BanchoBot: Match starts in 10 seconds
+[01:37:22] BanchoBot: Queued the match to start in 10 seconds
+[01:37:28] BanchoBot: Match starts in 5 seconds
+[01:37:30] BanchoBot: Match starts in 4 seconds
+[01:37:30] BanchoBot: Match starts in 3 seconds
+[01:37:30] BanchoBot: Good luck, have fun!
+[01:37:32] BanchoBot: The match has started!
+[01:41:23] BanchoBot: kwotaq finished playing (Score: 547649, PASSED).
+[01:41:23] BanchoBot: DGmG finished playing (Score: 369897, PASSED).
+[01:41:25] BanchoBot: Rekinaja finished playing (Score: 538807, PASSED).
+[01:41:25] BanchoBot: The match has finished!
+[01:41:33] BCraftMG: !mp map 3629621 0
+[01:41:35] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3629621 Marc-Andre Hamelin - Circus Galop (Cut Ver.)
+[01:41:35] BanchoBot: Changed match mode to Osu
+[01:42:25] BanchoBot: All players are ready
+[01:42:39] BCraftMG: !mp start 10
+[01:42:39] BanchoBot: Match starts in 10 seconds
+[01:42:39] BanchoBot: Queued the match to start in 10 seconds
+[01:42:45] BanchoBot: Match starts in 5 seconds
+[01:42:47] BanchoBot: Match starts in 4 seconds
+[01:42:47] BanchoBot: Match starts in 3 seconds
+[01:42:50] BanchoBot: Good luck, have fun!
+[01:42:50] BanchoBot: The match has started!
+[01:45:02] BanchoBot: DGmG finished playing (Score: 373695, PASSED).
+[01:45:02] BanchoBot: kwotaq finished playing (Score: 615682, PASSED).
+[01:45:04] BanchoBot: Rekinaja finished playing (Score: 369553, PASSED).
+[01:45:04] BanchoBot: The match has finished!
+[01:45:11] BCraftMG: !mp map 2546969 0
+[01:45:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2546969 BUTAOTOME feat. Ito Kanako - Lost Word Chronicle
+[01:45:12] BanchoBot: Changed match mode to Osu
+[01:45:15] BCraftMG: !mp mods 17
+[01:45:16] BanchoBot: Rekinaja left the game.
+[01:45:16] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[01:45:18] BanchoBot: kwotaq left the game.
+[01:45:20] BanchoBot: DGmG left the game.
+[01:45:32] BanchoBot: Merami Cat joined in slot 1.
+[01:45:34] BanchoBot: salkin joined in slot 2.
+[01:46:12] BanchoBot: Noez joined in slot 3.
+[01:46:40] BanchoBot: All players are ready
+[01:46:44] Merami_Cat: glhf!
+[01:46:46] BCraftMG: !mp settings
+[01:46:47] BanchoBot: Room name: GWK: (Qualifiers) vs (Lobby 30), History: https://osu.ppy.sh/mp/103186192
+[01:46:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/2546969 BUTAOTOME feat. Ito Kanako - Lost Word Chronicle
+[01:46:47] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:46:47] BanchoBot: Active mods: NoFail, HardRock
+[01:46:47] BanchoBot: Players: 3
+[01:46:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9370189 Merami Cat      
+[01:46:47] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6499356 salkin          
+[01:46:47] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/625949 Noez            
+[01:46:47] BCraftMG: !mp start 10
+[01:46:48] BanchoBot: Match starts in 10 seconds
+[01:46:48] BanchoBot: Queued the match to start in 10 seconds
+[01:46:54] BanchoBot: Match starts in 5 seconds
+[01:46:56] BanchoBot: Match starts in 4 seconds
+[01:46:56] BanchoBot: Match starts in 3 seconds
+[01:46:56] BanchoBot: Good luck, have fun!
+[01:47:00] BanchoBot: The match has started!
+[01:50:45] BanchoBot: Noez finished playing (Score: 554570, PASSED).
+[01:50:45] BanchoBot: Merami Cat finished playing (Score: 422854, PASSED).
+[01:50:45] BanchoBot: salkin finished playing (Score: 539345, PASSED).
+[01:50:45] BanchoBot: The match has finished!
+[01:50:56] BCraftMG: !mp map 1656870 0
+[01:50:57] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1656870 Nanamori-chu * Goraku-bu - Happy Time wa Owaranai
+[01:50:57] BanchoBot: Changed match mode to Osu
+[01:52:21] Merami_Cat: glhf!
+[01:52:21] BanchoBot: All players are ready
+[01:52:25] BCraftMG: !mp settings
+[01:52:26] BCraftMG: !mp start 10
+[01:52:27] BanchoBot: Room name: GWK: (Qualifiers) vs (Lobby 30), History: https://osu.ppy.sh/mp/103186192
+[01:52:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/1656870 Nanamori-chu * Goraku-bu - Happy Time wa Owaranai
+[01:52:27] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:52:27] BanchoBot: Active mods: NoFail, HardRock
+[01:52:27] BanchoBot: Players: 3
+[01:52:27] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9370189 Merami Cat      
+[01:52:27] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6499356 salkin          
+[01:52:27] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/625949 Noez            
+[01:52:28] BCraftMG: g;g;
+[01:52:29] BanchoBot: Match starts in 10 seconds
+[01:52:29] BanchoBot: Queued the match to start in 10 seconds
+[01:52:30] BCraftMG: gl
+[01:52:35] BanchoBot: Match starts in 5 seconds
+[01:52:37] BanchoBot: Match starts in 4 seconds
+[01:52:37] BanchoBot: Match starts in 3 seconds
+[01:52:39] BanchoBot: Good luck, have fun!
+[01:52:41] BanchoBot: The match has started!
+[01:54:53] BanchoBot: salkin finished playing (Score: 419663, PASSED).
+[01:54:53] BanchoBot: Noez finished playing (Score: 439859, PASSED).
+[01:54:55] BanchoBot: Merami Cat finished playing (Score: 512837, PASSED).
+[01:54:55] BanchoBot: The match has finished!
+[01:55:05] BCraftMG: !mp map 2975069 0
+[01:55:06] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2975069 Will Stetson - Harumachi Clover (Swing Arrangement)
+[01:55:06] BanchoBot: Changed match mode to Osu
+[01:55:07] BCraftMG: !mp mods 65
+[01:55:07] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[01:55:59] Merami_Cat: gl!
+[01:56:01] BanchoBot: All players are ready
+[01:56:06] BCraftMG: !mp settings
+[01:56:08] BanchoBot: Room name: GWK: (Qualifiers) vs (Lobby 30), History: https://osu.ppy.sh/mp/103186192
+[01:56:08] BanchoBot: Beatmap: https://osu.ppy.sh/b/2975069 Will Stetson - Harumachi Clover (Swing Arrangement)
+[01:56:08] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:56:08] BanchoBot: Active mods: NoFail, DoubleTime
+[01:56:08] BanchoBot: Players: 3
+[01:56:08] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9370189 Merami Cat      
+[01:56:08] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6499356 salkin          
+[01:56:08] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/625949 Noez            
+[01:56:08] BCraftMG: !mp start 10
+[01:56:10] BanchoBot: Match starts in 10 seconds
+[01:56:10] BanchoBot: Queued the match to start in 10 seconds
+[01:56:13] BCraftMG: :3
+[01:56:15] BanchoBot: Match starts in 5 seconds
+[01:56:18] BanchoBot: Match starts in 4 seconds
+[01:56:18] BanchoBot: Match starts in 3 seconds
+[01:56:19] BanchoBot: Good luck, have fun!
+[01:56:21] BanchoBot: The match has started!
+[01:56:52] BanchoBot: Merami Cat finished playing (Score: 1030993, PASSED).
+[01:56:52] BanchoBot: Noez finished playing (Score: 493818, PASSED).
+[01:56:52] BanchoBot: salkin finished playing (Score: 789473, PASSED).
+[01:56:52] BanchoBot: The match has finished!
+[01:57:05] BCraftMG: wait whf
+[01:57:07] BanchoBot: salkin left the game.
+[01:57:09] BanchoBot: DGmG joined in slot 2.
+[01:57:19] BCraftMG: !mp map 84311 0
+[01:57:19] Merami_Cat: :3
+[01:57:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/84311 Sakaue Nachi - Think of You
+[01:57:19] BanchoBot: Changed match mode to Osu
+[01:57:25] BanchoBot: Noez left the game.
+[01:57:28] BCraftMG: who the f put harumachi clover in here
+[01:57:35] BanchoBot: kwotaq joined in slot 3.
+[01:57:37] DGmG: xD
+[01:57:55] BanchoBot: All players are ready
+[01:58:00] BCraftMG: !mp settings
+[01:58:01] BCraftMG: !mp start 10
+[01:58:01] BanchoBot: Room name: GWK: (Qualifiers) vs (Lobby 30), History: https://osu.ppy.sh/mp/103186192
+[01:58:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/84311 Sakaue Nachi - Think of You
+[01:58:01] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:58:01] BanchoBot: Active mods: NoFail, DoubleTime
+[01:58:01] BanchoBot: Players: 3
+[01:58:01] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9370189 Merami Cat      
+[01:58:01] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3460534 DGmG            
+[01:58:01] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8195972 kwotaq          
+[01:58:03] BanchoBot: Match starts in 10 seconds
+[01:58:03] BanchoBot: Queued the match to start in 10 seconds
+[01:58:09] BanchoBot: Match starts in 5 seconds
+[01:58:09] Merami_Cat: gggl@
+[01:58:09] BanchoBot: Match starts in 4 seconds
+[01:58:11] BanchoBot: Match starts in 3 seconds
+[01:58:11] BanchoBot: Good luck, have fun!
+[01:58:13] BanchoBot: The match has started!
+[02:00:33] BanchoBot: DGmG finished playing (Score: 418077, PASSED).
+[02:00:33] BanchoBot: kwotaq finished playing (Score: 702060, PASSED).
+[02:00:33] BanchoBot: Merami Cat finished playing (Score: 735836, PASSED).
+[02:00:33] BanchoBot: The match has finished!
+[02:00:41] BCraftMG: !mp map 1415441 0
+[02:00:41] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1415441 Hotaru Murasaki - Re:TrymenT
+[02:00:41] BanchoBot: Changed match mode to Osu
+[02:00:44] BCraftMG: !mp mods SD
+[02:00:45] BanchoBot: salkin joined in slot 4.
+[02:00:45] BanchoBot: Enabled SuddenDeath, disabled FreeMod
+[02:01:00] BCraftMG: uhhh
+[02:01:16] BanchoBot: kwotaq left the game.
+[02:01:20] BanchoBot: salkin moved to slot 3
+[02:01:37] BanchoBot: Rekinaja joined in slot 4.
+[02:01:43] BanchoBot: Merami Cat left the game.
+[02:01:45] BanchoBot: kwotaq joined in slot 1.
+[02:02:01] BanchoBot: salkin left the game.
+[02:02:07] BanchoBot: DGmG moved to slot 6
+[02:02:09] BanchoBot: DGmG moved to slot 2
+[02:02:33] BanchoBot: Rekinaja moved to slot 3
+[02:02:37] BanchoBot: All players are ready
+[02:02:46] BCraftMG: !mp settings
+[02:02:47] BanchoBot: Room name: GWK: (Qualifiers) vs (Lobby 30), History: https://osu.ppy.sh/mp/103186192
+[02:02:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/1415441 Hotaru Murasaki - Re:TrymenT
+[02:02:47] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[02:02:47] BanchoBot: Active mods: SuddenDeath
+[02:02:47] BanchoBot: Players: 3
+[02:02:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8195972 kwotaq          
+[02:02:47] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3460534 DGmG            
+[02:02:47] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/2214908 Rekinaja        
+[02:02:48] BCraftMG: !mp start 10
+[02:02:49] BanchoBot: Match starts in 10 seconds
+[02:02:49] BanchoBot: Queued the match to start in 10 seconds
+[02:02:55] BanchoBot: Match starts in 5 seconds
+[02:02:55] BanchoBot: Match starts in 4 seconds
+[02:02:57] BanchoBot: Match starts in 3 seconds
+[02:02:57] BanchoBot: Good luck, have fun!
+[02:02:59] BanchoBot: The match has started!
+[02:04:43] BanchoBot: DGmG finished playing (Score: 726442, FAILED).
+[02:04:43] BanchoBot: Rekinaja finished playing (Score: 704160, FAILED).
+[02:04:45] BanchoBot: kwotaq finished playing (Score: 765546, FAILED).
+[02:04:45] BanchoBot: The match has finished!
+[02:04:51] BCraftMG: ggwp
+[02:04:59] BCraftMG: now i go sleep
+[02:05:19] Rekinaja: good night
+[02:05:21] Rekinaja: i guess
+[02:05:21] BanchoBot: Merami Cat joined in slot 4.
+[02:05:29] BCraftMG: its 2am
+[02:05:36] BCraftMG: i just need to close the lobby
+[02:05:43] BCraftMG: waiting for u guys to leave :3
+[02:05:54] Rekinaja: >:)
+[02:06:02] Rekinaja: so no sleep for you if we dont leave
+[02:06:11] Merami_Cat: yo
+[02:06:12] BCraftMG: i mean
+[02:06:29] Merami_Cat: my teammate says they read theres a retry option on sd
+[02:06:35] BCraftMG: i can go sleep and this lobby will automatically close in 30mins of inactivity
+[02:07:02] BCraftMG: quote it
+[02:07:07] BCraftMG: give source
+[02:07:14] BCraftMG: no proof? i go slep
+[02:08:36] BanchoBot: DGmG left the game.
+[02:08:38] BCraftMG: holy firetruck
+[02:08:38] BanchoBot: Merami Cat moved to slot 2
+[02:08:45] BCraftMG: you guys not actually staying
+[02:08:46] BCraftMG: right?
+[02:09:05] BCraftMG: look
+[02:09:14] BCraftMG: i dont want to close it before you leave
+[02:09:25] BCraftMG: or you will be stuck with the #multiplayer
+[02:09:31] BanchoBot: Rekinaja left the game.
+[02:09:34] BanchoBot: Merami Cat left the game.
+[02:09:41] BCraftMG: o//
+[02:10:10] BanchoBot: kwotaq left the game.
+[02:10:41] BCraftMG: !mp close
+[02:10:42] BanchoBot: Closed the match

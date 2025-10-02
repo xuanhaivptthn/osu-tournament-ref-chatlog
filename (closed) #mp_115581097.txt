@@ -1,0 +1,895 @@
+[01:03:49] Joined #mp_115581097
+[01:03:49] BCraftMG: !mp settings
+[01:03:51] BanchoBot: Room name: CC5: (Qualifiers) vs (Match Z6), History: https://osu.ppy.sh/mp/115581097
+[01:03:51] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[01:03:51] BanchoBot: Players: 0
+[01:04:02] BCraftMG: !mp invite #15213139
+[01:04:03] BanchoBot: Invited gecseboti to the room
+[01:04:04] BCraftMG: !mp invite #8645133
+[01:04:04] BanchoBot: Invited pedeko to the room
+[01:04:08] BCraftMG: !mp set 0 3 12
+[01:04:09] BanchoBot: Changed match settings to 12 slots, HeadToHead, ScoreV2
+[01:04:40] BanchoBot: gecseboti joined in slot 1.
+[01:04:59] BanchoBot: pedeko joined in slot 2.
+[01:05:24] BanchoBot: Hellbeak joined in slot 3.
+[01:05:24] BanchoBot: Poke714 joined in slot 4.
+[01:05:26] BanchoBot: Mejiro McQueen joined in slot 5.
+[01:05:30] BanchoBot: nemq joined in slot 6.
+[01:05:33] BanchoBot: nemq moved to slot 12
+[01:05:35] BanchoBot: Nicolaa joined in slot 6.
+[01:05:38] BanchoBot: nanawo joined in slot 7.
+[01:05:47] BanchoBot: Ezius joined in slot 8.
+[01:05:50] BanchoBot: Raoul joined in slot 9.
+[01:05:54] BanchoBot: Poke714 left the game.
+[01:05:57] Ezius: INCEWRT
+[01:06:04] Hellbeak: o/
+[01:06:07] Ezius: whatsup you freak
+[01:06:16] BanchoBot: nanawo left the game.
+[01:06:20] Mejiro_McQueen: hellowo
+[01:06:20] BanchoBot: pedeko moved to slot 11
+[01:06:22] BanchoBot: uragirarete joined in slot 2.
+[01:06:26] BanchoBot: uragirarete left the game.
+[01:06:29] BanchoBot: Ezius moved to slot 10
+[01:06:31] BCraftMG: thats a lot of people for 2 teams
+[01:06:36] BCraftMG: !mp size 16
+[01:06:37] Nicolaa: hii
+[01:06:37] BanchoBot: Changed match to size 16
+[01:07:00] BanchoBot: miyuo joined in slot 2.
+[01:07:02] BanchoBot: miyuo moved to slot 4
+[01:07:05] BanchoBot: miyuo moved to slot 8
+[01:07:05] BanchoBot: pedeko moved to slot 7
+[01:07:08] BanchoBot: miyuo moved to slot 11
+[01:07:35] Raoul: can we start please
+[01:07:58] BanchoBot: Nicolaa left the game.
+[01:08:16] BCraftMG: !mp settings
+[01:08:17] BanchoBot: Room name: CC5: (Qualifiers) vs (Match Z6), History: https://osu.ppy.sh/mp/115581097
+[01:08:17] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:08:17] BanchoBot: Players: 8
+[01:08:17] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/15213139 gecseboti       
+[01:08:17] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/2367495 Hellbeak        
+[01:08:17] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/11555612 Mejiro McQueen  
+[01:08:17] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/8645133 pedeko          
+[01:08:17] BanchoBot: Slot 9  Not Ready https://osu.ppy.sh/u/9924405 Raoul           
+[01:08:17] BanchoBot: Slot 10 Not Ready https://osu.ppy.sh/u/1861823 Ezius           
+[01:08:17] BanchoBot: Slot 11 Not Ready https://osu.ppy.sh/u/15242810 miyuo           
+[01:08:17] BanchoBot: Slot 12 Not Ready https://osu.ppy.sh/u/11644972 nemq            
+[01:08:18] BCraftMG: ready up
+[01:08:24] gecseboti: no map yet
+[01:08:25] Raoul: you didn't put a map...
+[01:08:27] Raoul: or nf...
+[01:08:30] Hellbeak: huh
+[01:08:32] BCraftMG: !mp map 2155805 0
+[01:08:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2155805 Douglas Robb (Hoobastank) - Fist Bump
+[01:08:33] BanchoBot: Changed match mode to Osu
+[01:08:35] BCraftMG: !mp mods 1
+[01:08:36] BanchoBot: Enabled NoFail, disabled FreeMod
+[01:08:39] BCraftMG: sorry i forgot
+[01:08:43] BCraftMG: !mp settings
+[01:08:44] BanchoBot: Room name: CC5: (Qualifiers) vs (Match Z6), History: https://osu.ppy.sh/mp/115581097
+[01:08:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/2155805 Douglas Robb (Hoobastank) - Fist Bump
+[01:08:44] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:08:44] BanchoBot: Active mods: NoFail
+[01:08:44] BanchoBot: Players: 8
+[01:08:44] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/15213139 gecseboti       
+[01:08:44] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/2367495 Hellbeak        
+[01:08:44] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/11555612 Mejiro McQueen  
+[01:08:44] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/8645133 pedeko          
+[01:08:44] BanchoBot: Slot 9  Not Ready https://osu.ppy.sh/u/9924405 Raoul           
+[01:08:44] BanchoBot: Slot 10 Not Ready https://osu.ppy.sh/u/1861823 Ezius           
+[01:08:44] BanchoBot: Slot 11 Not Ready https://osu.ppy.sh/u/15242810 miyuo           
+[01:08:44] BanchoBot: Slot 12 Not Ready https://osu.ppy.sh/u/11644972 nemq            
+[01:08:51] BanchoBot: pedeko moved to slot 13
+[01:08:54] BanchoBot: Mejiro McQueen moved to slot 4
+[01:08:55] BanchoBot: Raoul moved to slot 2
+[01:09:43] BanchoBot: All players are ready
+[01:09:44] miyuo: glhf
+[01:09:45] BCraftMG: !mp settings
+[01:09:46] BanchoBot: Room name: CC5: (Qualifiers) vs (Match Z6), History: https://osu.ppy.sh/mp/115581097
+[01:09:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/2155805 Douglas Robb (Hoobastank) - Fist Bump
+[01:09:46] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:09:46] BanchoBot: Active mods: NoFail
+[01:09:46] BanchoBot: Players: 8
+[01:09:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15213139 gecseboti       
+[01:09:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9924405 Raoul           
+[01:09:46] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/2367495 Hellbeak        
+[01:09:46] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11555612 Mejiro McQueen  
+[01:09:46] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/1861823 Ezius           
+[01:09:46] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/15242810 miyuo           
+[01:09:46] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/11644972 nemq            
+[01:09:46] BanchoBot: Slot 13 Ready     https://osu.ppy.sh/u/8645133 pedeko          
+[01:09:47] Mejiro_McQueen: glhf
+[01:09:48] BCraftMG: !mp start 5 glhf
+[01:09:49] nemq: glgl
+[01:09:49] BanchoBot: Match starts in 5 seconds
+[01:09:49] BanchoBot: Queued the match to start in 5 seconds
+[01:09:50] Raoul: gl hf
+[01:09:50] BanchoBot: Match starts in 4 seconds
+[01:09:52] BanchoBot: Match starts in 3 seconds
+[01:09:53] BanchoBot: Good luck, have fun!
+[01:09:53] gecseboti: glhf
+[01:09:55] BanchoBot: The match has started!
+[01:14:25] BanchoBot: Raoul finished playing (Score: 427156, PASSED).
+[01:14:25] BanchoBot: miyuo finished playing (Score: 704958, PASSED).
+[01:14:25] BanchoBot: gecseboti finished playing (Score: 890462, PASSED).
+[01:14:25] BanchoBot: nemq finished playing (Score: 768390, PASSED).
+[01:14:27] BanchoBot: Mejiro McQueen finished playing (Score: 513096, PASSED).
+[01:14:27] BanchoBot: pedeko finished playing (Score: 724242, PASSED).
+[01:14:27] BanchoBot: Hellbeak finished playing (Score: 629427, PASSED).
+[01:14:27] BanchoBot: Ezius finished playing (Score: 603555, PASSED).
+[01:14:27] BanchoBot: The match has finished!
+[01:14:32] BCraftMG: !mp map 2940824 0
+[01:14:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2940824 DUAL ALTER WORLD - Veracila
+[01:14:33] BanchoBot: Changed match mode to Osu
+[01:14:33] BCraftMG: !mp timer 120
+[01:14:34] BanchoBot: Countdown ends in 2 minutes
+[01:15:14] BanchoBot: Belladonna joined in slot 5.
+[01:15:29] BanchoBot: Belladonna left the game.
+[01:15:35] BanchoBot: Countdown ends in 1 minute
+[01:15:38] BanchoBot: Mejiro McQueen moved to slot 6
+[01:15:40] BanchoBot: Raoul moved to slot 7
+[01:15:54] BanchoBot: Mejiro McQueen moved to slot 4
+[01:15:56] BanchoBot: Mejiro McQueen moved to slot 5
+[01:15:56] BanchoBot: Mejiro McQueen moved to slot 4
+[01:15:57] BanchoBot: Mejiro McQueen moved to slot 5
+[01:15:57] BanchoBot: Mejiro McQueen moved to slot 4
+[01:16:05] BanchoBot: Countdown ends in 30 seconds
+[01:16:08] BanchoBot: Belladonna joined in slot 2.
+[01:16:09] BanchoBot: Belladonna moved to slot 5
+[01:16:11] BanchoBot: Belladonna moved to slot 2
+[01:16:16] BanchoBot: Raoul left the game.
+[01:16:25] BanchoBot: Countdown ends in 10 seconds
+[01:16:28] BanchoBot: Nicolaa joined in slot 5.
+[01:16:30] BanchoBot: Countdown ends in 5 seconds
+[01:16:31] BanchoBot: Countdown ends in 4 seconds
+[01:16:33] BanchoBot: Countdown ends in 3 seconds
+[01:16:33] BanchoBot: Countdown ends in 2 seconds
+[01:16:34] BanchoBot: Countdown ends in 1 second
+[01:16:36] BanchoBot: Countdown finished
+[01:16:36] BanchoBot: pedeko left the game.
+[01:16:36] Nicolaa: hi
+[01:16:37] BCraftMG: !mp settings
+[01:16:39] BanchoBot: Room name: CC5: (Qualifiers) vs (Match Z6), History: https://osu.ppy.sh/mp/115581097
+[01:16:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/2940824 DUAL ALTER WORLD - Veracila
+[01:16:39] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:16:39] BanchoBot: Active mods: NoFail
+[01:16:39] BanchoBot: Players: 8
+[01:16:39] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/15213139 gecseboti       
+[01:16:39] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/11758404 Belladonna      
+[01:16:39] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/2367495 Hellbeak        
+[01:16:39] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/11555612 Mejiro McQueen  
+[01:16:39] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/18922516 Nicolaa         
+[01:16:39] BanchoBot: Slot 10 Not Ready https://osu.ppy.sh/u/1861823 Ezius           
+[01:16:39] BanchoBot: Slot 11 Not Ready https://osu.ppy.sh/u/15242810 miyuo           
+[01:16:39] BanchoBot: Slot 12 Not Ready https://osu.ppy.sh/u/11644972 nemq            
+[01:16:47] BCraftMG: ready?
+[01:16:53] BanchoBot: All players are ready
+[01:16:55] nemq: glgl
+[01:16:56] Mejiro_McQueen: glhf
+[01:17:01] BCraftMG: !mp settings
+[01:17:02] BanchoBot: Room name: CC5: (Qualifiers) vs (Match Z6), History: https://osu.ppy.sh/mp/115581097
+[01:17:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/2940824 DUAL ALTER WORLD - Veracila
+[01:17:02] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:17:02] BanchoBot: Active mods: NoFail
+[01:17:02] BanchoBot: Players: 8
+[01:17:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15213139 gecseboti       
+[01:17:02] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11758404 Belladonna      
+[01:17:02] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/2367495 Hellbeak        
+[01:17:02] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11555612 Mejiro McQueen  
+[01:17:02] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/18922516 Nicolaa         
+[01:17:02] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/1861823 Ezius           
+[01:17:02] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/15242810 miyuo           
+[01:17:02] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/11644972 nemq            
+[01:17:04] Belladonna: gl
+[01:17:04] BCraftMG: !mp start 5 glhf
+[01:17:05] BanchoBot: Match starts in 5 seconds
+[01:17:05] BanchoBot: Queued the match to start in 5 seconds
+[01:17:07] BanchoBot: Match starts in 4 seconds
+[01:17:08] BanchoBot: Match starts in 3 seconds
+[01:17:10] BanchoBot: Good luck, have fun!
+[01:17:11] BanchoBot: The match has started!
+[01:17:11] gecseboti: glhf
+[01:17:11] Nicolaa: gl
+[01:21:06] BanchoBot: gecseboti finished playing (Score: 500682, PASSED).
+[01:21:06] BanchoBot: Hellbeak finished playing (Score: 674159, PASSED).
+[01:21:07] BanchoBot: miyuo finished playing (Score: 883994, PASSED).
+[01:21:07] BanchoBot: Mejiro McQueen finished playing (Score: 522490, PASSED).
+[01:21:08] BanchoBot: Ezius finished playing (Score: 441334, PASSED).
+[01:21:10] BanchoBot: Nicolaa finished playing (Score: 633394, PASSED).
+[01:21:10] BanchoBot: nemq finished playing (Score: 573380, PASSED).
+[01:21:10] BanchoBot: Belladonna finished playing (Score: 415828, PASSED).
+[01:21:10] BanchoBot: The match has finished!
+[01:21:15] BCraftMG: !mp map 4654341 0
+[01:21:16] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4654341 AZKi - Intersection
+[01:21:16] BanchoBot: Changed match mode to Osu
+[01:21:17] BCraftMG: !mp timer 120
+[01:21:17] BanchoBot: Countdown ends in 2 minutes
+[01:21:29] BanchoBot: Poke714 joined in slot 6.
+[01:21:32] BanchoBot: Mejiro McQueen moved to slot 9
+[01:21:34] BanchoBot: Poke714 moved to slot 16
+[01:21:36] BanchoBot: Belladonna left the game.
+[01:21:48] BanchoBot: Poke714 moved to slot 7
+[01:22:03] BanchoBot: Mejiro McQueen left the game.
+[01:22:18] BanchoBot: Countdown ends in 1 minute
+[01:22:21] BanchoBot: miyuo left the game.
+[01:22:43] BanchoBot: nanawo joined in slot 2.
+[01:22:48] BanchoBot: Countdown ends in 30 seconds
+[01:22:49] BanchoBot: pedeko joined in slot 4.
+[01:22:57] BanchoBot: gecseboti moved to slot 6
+[01:23:07] BanchoBot: nemq moved to slot 9
+[01:23:09] BanchoBot: Countdown ends in 10 seconds
+[01:23:13] BanchoBot: Countdown ends in 5 seconds
+[01:23:14] BanchoBot: Countdown ends in 4 seconds
+[01:23:14] BanchoBot: Countdown ends in 3 seconds
+[01:23:16] BanchoBot: Countdown ends in 2 seconds
+[01:23:17] BanchoBot: Countdown ends in 1 second
+[01:23:17] nemq: glgl
+[01:23:19] BanchoBot: Countdown finished
+[01:23:19] Poke714: hfhf
+[01:23:20] BCraftMG: !mp settings
+[01:23:20] BanchoBot: All players are ready
+[01:23:20] BanchoBot: Room name: CC5: (Qualifiers) vs (Match Z6), History: https://osu.ppy.sh/mp/115581097
+[01:23:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/4654341 AZKi - Intersection
+[01:23:20] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:23:20] BanchoBot: Active mods: NoFail
+[01:23:20] BanchoBot: Players: 8
+[01:23:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5426640 nanawo          
+[01:23:20] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/2367495 Hellbeak        
+[01:23:20] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8645133 pedeko          
+[01:23:21] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/18922516 Nicolaa         
+[01:23:21] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/15213139 gecseboti       
+[01:23:21] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8084370 Poke714         
+[01:23:21] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11644972 nemq            
+[01:23:21] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/1861823 Ezius           
+[01:23:23] BCraftMG: !mp start 5 glhf
+[01:23:23] Hellbeak: hf
+[01:23:23] Nicolaa: gll
+[01:23:23] gecseboti: glhf
+[01:23:23] BanchoBot: Match starts in 5 seconds
+[01:23:23] BanchoBot: Queued the match to start in 5 seconds
+[01:23:25] Nicolaa: glgl
+[01:23:25] BanchoBot: Match starts in 4 seconds
+[01:23:26] BanchoBot: Match starts in 3 seconds
+[01:23:28] BanchoBot: Good luck, have fun!
+[01:23:29] BanchoBot: The match has started!
+[01:25:49] BanchoBot: baliiii joined in slot 1.
+[01:26:03] BanchoBot: baliiii left the game.
+[01:27:07] BanchoBot: nanawo finished playing (Score: 452320, PASSED).
+[01:27:09] BanchoBot: nemq finished playing (Score: 342146, PASSED).
+[01:27:09] BanchoBot: Hellbeak finished playing (Score: 722610, PASSED).
+[01:27:09] BanchoBot: Nicolaa finished playing (Score: 503334, PASSED).
+[01:27:09] BanchoBot: Poke714 finished playing (Score: 359467, PASSED).
+[01:27:09] BanchoBot: gecseboti finished playing (Score: 437472, PASSED).
+[01:27:10] BanchoBot: pedeko finished playing (Score: 511238, PASSED).
+[01:27:10] BanchoBot: Ezius finished playing (Score: 495184, PASSED).
+[01:27:10] BanchoBot: The match has finished!
+[01:27:22] BCraftMG: !mp map 4187148 0
+[01:27:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4187148 Silentroom - NULCTRL (factal Remix)
+[01:27:23] BanchoBot: Changed match mode to Osu
+[01:27:25] BCraftMG: !mp timer 120
+[01:27:26] BanchoBot: Countdown ends in 2 minutes
+[01:27:42] BanchoBot: pedeko left the game.
+[01:28:01] BanchoBot: Mejiro McQueen joined in slot 1.
+[01:28:04] BanchoBot: Mejiro McQueen moved to slot 13
+[01:28:07] BanchoBot: Hellbeak left the game.
+[01:28:13] BanchoBot: nanawo moved to slot 16
+[01:28:26] BanchoBot: Countdown ends in 1 minute
+[01:28:35] BanchoBot: Hellbeak joined in slot 1.
+[01:28:40] BanchoBot: miyuo joined in slot 2.
+[01:28:42] BanchoBot: Hellbeak moved to slot 3
+[01:28:44] BanchoBot: Hellbeak moved to slot 4
+[01:28:48] BanchoBot: miyuo moved to slot 11
+[01:28:57] BanchoBot: Countdown ends in 30 seconds
+[01:29:02] BanchoBot: Mejiro McQueen left the game.
+[01:29:11] BanchoBot: Ezius moved to slot 15
+[01:29:12] BanchoBot: All players are ready
+[01:29:16] BCraftMG: !mp settings
+[01:29:16] BanchoBot: Countdown ends in 10 seconds
+[01:29:18] nemq: glgl
+[01:29:18] BanchoBot: Room name: CC5: (Qualifiers) vs (Match Z6), History: https://osu.ppy.sh/mp/115581097
+[01:29:18] BanchoBot: Beatmap: https://osu.ppy.sh/b/4187148 Silentroom - NULCTRL (factal Remix)
+[01:29:18] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:29:18] BanchoBot: Active mods: NoFail
+[01:29:18] BanchoBot: Players: 8
+[01:29:18] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/2367495 Hellbeak        
+[01:29:18] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/18922516 Nicolaa         
+[01:29:18] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/15213139 gecseboti       
+[01:29:18] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8084370 Poke714         
+[01:29:18] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11644972 nemq            
+[01:29:18] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/15242810 miyuo           
+[01:29:18] BanchoBot: Slot 15 Ready     https://osu.ppy.sh/u/1861823 Ezius           
+[01:29:18] BanchoBot: Slot 16 Ready     https://osu.ppy.sh/u/5426640 nanawo          
+[01:29:19] Hellbeak: hf
+[01:29:19] BanchoBot: miyuo moved to slot 14
+[01:29:20] BCraftMG: !mp start 5 glhf
+[01:29:21] Poke714: hfhf
+[01:29:21] BanchoBot: Countdown aborted
+[01:29:21] BanchoBot: Match starts in 5 seconds
+[01:29:21] BanchoBot: Queued the match to start in 5 seconds
+[01:29:22] gecseboti: glhf
+[01:29:22] Nicolaa: glgl
+[01:29:22] BanchoBot: Match starts in 4 seconds
+[01:29:24] BanchoBot: Match starts in 3 seconds
+[01:29:24] BanchoBot: Good luck, have fun!
+[01:29:27] BanchoBot: The match has started!
+[01:32:30] BanchoBot: Ezius finished playing (Score: 368179, PASSED).
+[01:32:30] BanchoBot: Nicolaa finished playing (Score: 347612, PASSED).
+[01:32:31] BanchoBot: Hellbeak finished playing (Score: 525756, PASSED).
+[01:32:31] BanchoBot: nanawo finished playing (Score: 380984, PASSED).
+[01:32:31] BanchoBot: Poke714 finished playing (Score: 467009, PASSED).
+[01:32:31] BanchoBot: gecseboti finished playing (Score: 392265, PASSED).
+[01:32:31] BanchoBot: nemq finished playing (Score: 379972, PASSED).
+[01:32:33] BanchoBot: miyuo finished playing (Score: 595582, PASSED).
+[01:32:33] BanchoBot: The match has finished!
+[01:32:42] BanchoBot: Sepid joined in slot 1.
+[01:32:43] BCraftMG: !mp map 3679870 0
+[01:32:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3679870 Srav3R - Hereafter (feat. shully)
+[01:32:43] BanchoBot: Changed match mode to Osu
+[01:32:46] BanchoBot: Sepid moved to slot 10
+[01:32:46] nanawo: racist map
+[01:32:48] BanchoBot: nanawo left the game.
+[01:32:48] BCraftMG: !mp mods 9
+[01:32:49] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[01:32:52] BanchoBot: Ezius moved to slot 12
+[01:32:54] BCraftMG: !mp timer 120
+[01:32:55] BanchoBot: Ezius left the game.
+[01:32:55] BanchoBot: Countdown ends in 2 minutes
+[01:32:56] BanchoBot: Sepid moved to slot 8
+[01:33:02] BanchoBot: Poke714 moved to slot 16
+[01:33:05] BanchoBot: Hellbeak left the game.
+[01:33:10] BanchoBot: Sepid moved to slot 3
+[01:33:20] BanchoBot: Mejiro McQueen joined in slot 1.
+[01:33:20] BanchoBot: miyuo moved to slot 15
+[01:33:23] BanchoBot: miyuo moved to slot 14
+[01:33:29] BanchoBot: Poke714 left the game.
+[01:33:36] BanchoBot: pedeko joined in slot 2.
+[01:33:40] BanchoBot: pedeko moved to slot 7
+[01:33:42] BanchoBot: pedeko moved to slot 10
+[01:33:45] BanchoBot: Sepid moved to slot 8
+[01:33:46] BanchoBot: Sepid moved to slot 11
+[01:33:55] BanchoBot: Countdown ends in 1 minute
+[01:33:58] BanchoBot: miyuo moved to slot 12
+[01:34:03] BanchoBot: -Tynamo joined in slot 2.
+[01:34:08] BanchoBot: Ezius joined in slot 3.
+[01:34:10] BanchoBot: nemq left the game.
+[01:34:10] BanchoBot: Ezius moved to slot 8
+[01:34:13] BanchoBot: Ezius moved to slot 9
+[01:34:26] BanchoBot: Countdown ends in 30 seconds
+[01:34:26] BanchoBot: gecseboti moved to slot 3
+[01:34:38] BanchoBot: Nicolaa moved to slot 4
+[01:34:45] BanchoBot: Countdown ends in 10 seconds
+[01:34:51] BanchoBot: Countdown ends in 5 seconds
+[01:34:51] BanchoBot: Countdown ends in 4 seconds
+[01:34:53] BanchoBot: Countdown ends in 3 seconds
+[01:34:54] BanchoBot: Countdown ends in 2 seconds
+[01:34:54] BanchoBot: All players are ready
+[01:34:54] BanchoBot: Countdown ends in 1 second
+[01:34:56] BanchoBot: Countdown finished
+[01:35:06] BCraftMG: !mp settings
+[01:35:06] BanchoBot: Room name: CC5: (Qualifiers) vs (Match Z6), History: https://osu.ppy.sh/mp/115581097
+[01:35:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/3679870 Srav3R - Hereafter (feat. shully)
+[01:35:06] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:35:06] BanchoBot: Active mods: NoFail, Hidden
+[01:35:06] BanchoBot: Players: 8
+[01:35:06] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11555612 Mejiro McQueen  
+[01:35:06] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3638962 -Tynamo         
+[01:35:06] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15213139 gecseboti       
+[01:35:06] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/18922516 Nicolaa         
+[01:35:06] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/1861823 Ezius           
+[01:35:06] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/8645133 pedeko          
+[01:35:06] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/12032130 Sepid           
+[01:35:06] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/15242810 miyuo           
+[01:35:08] BCraftMG: !mp start 5 glhf
+[01:35:08] Nicolaa: gllgl
+[01:35:08] Mejiro_McQueen: glhfhfhfhfhf
+[01:35:09] BanchoBot: Match starts in 5 seconds
+[01:35:09] BanchoBot: Queued the match to start in 5 seconds
+[01:35:11] Sepid: hf
+[01:35:11] BanchoBot: Match starts in 4 seconds
+[01:35:12] gecseboti: glhf
+[01:35:12] BanchoBot: Match starts in 3 seconds
+[01:35:14] BanchoBot: Good luck, have fun!
+[01:35:15] -Tynamo: GOOF LUCK
+[01:35:15] BanchoBot: The match has started!
+[01:39:17] BanchoBot: -Tynamo finished playing (Score: 382279, PASSED).
+[01:39:17] BanchoBot: pedeko finished playing (Score: 454731, PASSED).
+[01:39:17] BanchoBot: gecseboti finished playing (Score: 404268, PASSED).
+[01:39:17] BanchoBot: miyuo finished playing (Score: 289221, PASSED).
+[01:39:18] BanchoBot: Nicolaa finished playing (Score: 388923, PASSED).
+[01:39:18] BanchoBot: Mejiro McQueen finished playing (Score: 350313, PASSED).
+[01:39:18] BanchoBot: Sepid finished playing (Score: 681343, PASSED).
+[01:39:18] BanchoBot: Ezius finished playing (Score: 291977, PASSED).
+[01:39:18] BanchoBot: The match has finished!
+[01:39:21] BanchoBot: Poke714 joined in slot 5.
+[01:39:28] BCraftMG: !mp map 4010621 0
+[01:39:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4010621 Bronco (El Gigante de America) - Chocheman
+[01:39:29] BanchoBot: Changed match mode to Osu
+[01:39:30] BCraftMG: !mp timer 120
+[01:39:32] BanchoBot: Countdown ends in 2 minutes
+[01:39:57] Nicolaa: CHOCHEMAN
+[01:39:58] BanchoBot: Nicolaa left the game.
+[01:40:01] BanchoBot: miyuo left the game.
+[01:40:03] BanchoBot: Poke714 moved to slot 4
+[01:40:32] BanchoBot: Countdown ends in 1 minute
+[01:40:42] gecseboti: d-_-b
+[01:40:48] BanchoBot: uragirarete joined in slot 5.
+[01:40:54] BanchoBot: uragirarete moved to slot 8
+[01:40:57] BanchoBot: nemq joined in slot 5.
+[01:40:57] BanchoBot: pedeko moved to slot 13
+[01:40:57] BanchoBot: uragirarete moved to slot 12
+[01:41:02] BanchoBot: pedeko left the game.
+[01:41:03] BanchoBot: Countdown ends in 30 seconds
+[01:41:10] BanchoBot: nemq moved to slot 8
+[01:41:12] BanchoBot: nemq moved to slot 10
+[01:41:22] BanchoBot: Countdown ends in 10 seconds
+[01:41:27] BanchoBot: Countdown ends in 5 seconds
+[01:41:28] gecseboti: glhf
+[01:41:28] BanchoBot: Countdown ends in 4 seconds
+[01:41:29] BanchoBot: Countdown ends in 3 seconds
+[01:41:30] BanchoBot: Countdown ends in 2 seconds
+[01:41:30] Poke714: hfhf
+[01:41:31] Sepid: glhf
+[01:41:31] BanchoBot: Countdown ends in 1 second
+[01:41:31] uragirarete: g
+[01:41:33] BanchoBot: Countdown finished
+[01:41:34] nemq: glgl
+[01:41:36] Mejiro_McQueen: glhf
+[01:41:39] BCraftMG: !mp settings
+[01:41:40] BanchoBot: All players are ready
+[01:41:40] BanchoBot: Room name: CC5: (Qualifiers) vs (Match Z6), History: https://osu.ppy.sh/mp/115581097
+[01:41:40] BanchoBot: Beatmap: https://osu.ppy.sh/b/4010621 Bronco (El Gigante de America) - Chocheman
+[01:41:40] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:41:40] BanchoBot: Active mods: NoFail, Hidden
+[01:41:40] BanchoBot: Players: 8
+[01:41:40] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11555612 Mejiro McQueen  
+[01:41:40] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3638962 -Tynamo         
+[01:41:40] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15213139 gecseboti       
+[01:41:40] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8084370 Poke714         
+[01:41:40] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/1861823 Ezius           
+[01:41:40] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/11644972 nemq            
+[01:41:40] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/12032130 Sepid           
+[01:41:40] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/16679145 uragirarete     
+[01:41:43] -Tynamo: GOOF LUCK
+[01:41:47] Ezius: EL CHOCHEMAN
+[01:41:50] BCraftMG: !mp start 5 glhf
+[01:41:50] BanchoBot: Match starts in 5 seconds
+[01:41:50] BanchoBot: Queued the match to start in 5 seconds
+[01:41:52] uragirarete: int time
+[01:41:52] BanchoBot: Match starts in 4 seconds
+[01:41:53] BanchoBot: Match starts in 3 seconds
+[01:41:55] BanchoBot: Good luck, have fun!
+[01:41:56] BanchoBot: The match has started!
+[01:44:40] BanchoBot: Poke714 finished playing (Score: 319149, PASSED).
+[01:44:40] BanchoBot: -Tynamo finished playing (Score: 411521, PASSED).
+[01:44:40] BanchoBot: uragirarete finished playing (Score: 521715, PASSED).
+[01:44:40] BanchoBot: Sepid finished playing (Score: 631361, PASSED).
+[01:44:41] BanchoBot: nemq finished playing (Score: 250487, PASSED).
+[01:44:41] BanchoBot: gecseboti finished playing (Score: 300725, PASSED).
+[01:44:43] BanchoBot: Mejiro McQueen finished playing (Score: 746205, PASSED).
+[01:44:43] BanchoBot: Ezius finished playing (Score: 393852, PASSED).
+[01:44:43] BanchoBot: The match has finished!
+[01:44:47] BCraftMG: !mp map 4069029 0
+[01:44:48] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4069029 Yorushika - Semi-Transparent Boy
+[01:44:48] BanchoBot: Changed match mode to Osu
+[01:44:51] BCraftMG: !mp mods 17
+[01:44:51] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[01:44:52] BCraftMG: !mp timer 120
+[01:44:53] BanchoBot: Countdown ends in 2 minutes
+[01:44:57] BanchoBot: Nicolaa joined in slot 5.
+[01:45:12] uragirarete: oop
+[01:45:15] BanchoBot: pedeko joined in slot 6.
+[01:45:16] BanchoBot: Mejiro McQueen moved to slot 13
+[01:45:16] BanchoBot: uragirarete moved to slot 7
+[01:45:18] BanchoBot: Mejiro McQueen moved to slot 15
+[01:45:19] BanchoBot: Sepid left the game.
+[01:45:21] BanchoBot: Poke714 left the game.
+[01:45:24] BanchoBot: Nicolaa moved to slot 4
+[01:45:28] BanchoBot: -Tynamo moved to slot 8
+[01:45:30] BanchoBot: Nicolaa moved to slot 5
+[01:45:31] BanchoBot: Nicolaa moved to slot 13
+[01:45:31] BanchoBot: uragirarete left the game.
+[01:45:38] BanchoBot: Mejiro McQueen left the game.
+[01:45:44] BanchoBot: -Tynamo left the game.
+[01:45:46] BanchoBot: Raoul joined in slot 1.
+[01:45:47] BanchoBot: nanawo joined in slot 2.
+[01:45:53] BanchoBot: Countdown ends in 1 minute
+[01:45:53] BanchoBot: pedeko moved to slot 11
+[01:46:04] BanchoBot: Hellbeak joined in slot 4.
+[01:46:04] BanchoBot: nanawo moved to slot 16
+[01:46:24] BanchoBot: Countdown ends in 30 seconds
+[01:46:30] Hellbeak: hf
+[01:46:40] nemq: glgl
+[01:46:43] BanchoBot: Countdown ends in 10 seconds
+[01:46:43] BCraftMG: !mp settings
+[01:46:45] BanchoBot: Room name: CC5: (Qualifiers) vs (Match Z6), History: https://osu.ppy.sh/mp/115581097
+[01:46:45] BanchoBot: Beatmap: https://osu.ppy.sh/b/4069029 Yorushika - Semi-Transparent Boy
+[01:46:45] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:46:45] BanchoBot: Active mods: NoFail, HardRock
+[01:46:45] BanchoBot: Players: 8
+[01:46:45] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9924405 Raoul           
+[01:46:45] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15213139 gecseboti       
+[01:46:45] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/2367495 Hellbeak        
+[01:46:45] BanchoBot: Slot 9  Not Ready https://osu.ppy.sh/u/1861823 Ezius           
+[01:46:45] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/11644972 nemq            
+[01:46:45] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/8645133 pedeko          
+[01:46:45] BanchoBot: Slot 13 Ready     https://osu.ppy.sh/u/18922516 Nicolaa         
+[01:46:45] BanchoBot: Slot 16 Ready     https://osu.ppy.sh/u/5426640 nanawo          
+[01:46:46] BanchoBot: All players are ready
+[01:46:48] BCraftMG: !mp start 5 glhf
+[01:46:49] BanchoBot: Countdown ends in 5 seconds
+[01:46:49] BanchoBot: Countdown ends in 4 seconds
+[01:46:49] BanchoBot: Countdown aborted
+[01:46:49] BanchoBot: Match starts in 5 seconds
+[01:46:49] BanchoBot: Queued the match to start in 5 seconds
+[01:46:50] BanchoBot: Match starts in 4 seconds
+[01:46:50] gecseboti: glhf
+[01:46:52] BanchoBot: Match starts in 3 seconds
+[01:46:54] BanchoBot: Good luck, have fun!
+[01:46:54] Raoul: gl
+[01:46:55] BanchoBot: The match has started!
+[01:51:44] BanchoBot: nanawo finished playing (Score: 510140, PASSED).
+[01:51:44] BanchoBot: gecseboti finished playing (Score: 375462, PASSED).
+[01:51:44] BanchoBot: Raoul finished playing (Score: 543539, PASSED).
+[01:51:44] BanchoBot: Nicolaa finished playing (Score: 519632, PASSED).
+[01:51:44] BanchoBot: Hellbeak finished playing (Score: 787876, PASSED).
+[01:51:44] BanchoBot: nemq finished playing (Score: 737652, PASSED).
+[01:51:45] BanchoBot: pedeko finished playing (Score: 472782, PASSED).
+[01:51:45] BanchoBot: Ezius finished playing (Score: 394217, PASSED).
+[01:51:45] BanchoBot: The match has finished!
+[01:51:57] BanchoBot: Belladonna joined in slot 2.
+[01:52:00] BanchoBot: Ezius left the game.
+[01:52:09] BCraftMG: !mp map 2270319 0
+[01:52:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2270319 Cranky - Libera me
+[01:52:10] BanchoBot: Changed match mode to Osu
+[01:52:15] BCraftMG: !mp timer 120
+[01:52:16] BanchoBot: Countdown ends in 2 minutes
+[01:52:20] BanchoBot: -Tynamo joined in slot 5.
+[01:52:23] BanchoBot: Mejiro McQueen joined in slot 6.
+[01:52:28] BanchoBot: Mejiro McQueen moved to slot 15
+[01:52:31] BanchoBot: Mejiro McQueen left the game.
+[01:52:32] BanchoBot: Nicolaa moved to slot 7
+[01:53:11] Belladonna: !roll 100
+[01:53:11] BanchoBot: Belladonna rolls 57 point(s)
+[01:53:15] nanawo: !roll 100
+[01:53:15] BanchoBot: nanawo rolls 55 point(s)
+[01:53:17] BanchoBot: Countdown ends in 1 minute
+[01:53:20] BanchoBot: gecseboti left the game.
+[01:53:24] BanchoBot: -Tynamo moved to slot 3
+[01:53:27] nemq: !roll
+[01:53:27] BanchoBot: nemq rolls 64 point(s)
+[01:53:29] BanchoBot: pedeko left the game.
+[01:53:29] BanchoBot: Nicolaa moved to slot 5
+[01:53:30] Belladonna: !roll 100 dubs and i hit the pattern
+[01:53:30] BanchoBot: Belladonna rolls 96 point(s)
+[01:53:33] Belladonna: gg
+[01:53:37] Hellbeak: gg
+[01:53:42] Nicolaa: gg
+[01:53:43] nanawo: !roll 100 dubs and i hit
+[01:53:43] BanchoBot: nanawo rolls 65 point(s)
+[01:53:45] BanchoBot: All players are ready
+[01:53:46] BanchoBot: Countdown ends in 30 seconds
+[01:53:48] nanawo: gg
+[01:53:53] BCraftMG: !mp settings
+[01:53:55] BanchoBot: Room name: CC5: (Qualifiers) vs (Match Z6), History: https://osu.ppy.sh/mp/115581097
+[01:53:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/2270319 Cranky - Libera me
+[01:53:55] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:53:55] BanchoBot: Active mods: NoFail, HardRock
+[01:53:55] BanchoBot: Players: 7
+[01:53:55] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9924405 Raoul           
+[01:53:55] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/11758404 Belladonna      
+[01:53:55] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/3638962 -Tynamo         
+[01:53:55] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/2367495 Hellbeak        
+[01:53:55] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/18922516 Nicolaa         
+[01:53:55] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/11644972 nemq            
+[01:53:55] BanchoBot: Slot 16 Ready     https://osu.ppy.sh/u/5426640 nanawo          
+[01:54:01] BanchoBot: pedeko joined in slot 6.
+[01:54:07] BanchoBot: Countdown ends in 10 seconds
+[01:54:12] BanchoBot: Countdown ends in 5 seconds
+[01:54:13] BanchoBot: Countdown ends in 4 seconds
+[01:54:13] BanchoBot: Countdown ends in 3 seconds
+[01:54:15] nemq: glgl
+[01:54:15] BanchoBot: Countdown ends in 2 seconds
+[01:54:16] BanchoBot: Countdown ends in 1 second
+[01:54:16] BanchoBot: All players are ready
+[01:54:16] BanchoBot: Countdown finished
+[01:54:19] BCraftMG: !mp settings
+[01:54:19] BanchoBot: Room name: CC5: (Qualifiers) vs (Match Z6), History: https://osu.ppy.sh/mp/115581097
+[01:54:19] BanchoBot: Beatmap: https://osu.ppy.sh/b/2270319 Cranky - Libera me
+[01:54:19] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:54:19] BanchoBot: Active mods: NoFail, HardRock
+[01:54:19] BanchoBot: Players: 8
+[01:54:19] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9924405 Raoul           
+[01:54:19] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11758404 Belladonna      
+[01:54:19] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/3638962 -Tynamo         
+[01:54:19] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/2367495 Hellbeak        
+[01:54:19] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/18922516 Nicolaa         
+[01:54:19] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/8645133 pedeko          
+[01:54:19] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/11644972 nemq            
+[01:54:19] BanchoBot: Slot 16 Ready     https://osu.ppy.sh/u/5426640 nanawo          
+[01:54:21] Raoul: gl
+[01:54:21] Hellbeak: hf
+[01:54:21] BCraftMG: !mp start 5 glhf
+[01:54:22] BanchoBot: Match starts in 5 seconds
+[01:54:22] BanchoBot: Queued the match to start in 5 seconds
+[01:54:24] Nicolaa: glgl
+[01:54:24] BanchoBot: Match starts in 4 seconds
+[01:54:25] BanchoBot: Match starts in 3 seconds
+[01:54:27] BanchoBot: Good luck, have fun!
+[01:54:28] BanchoBot: The match has started!
+[01:57:02] BanchoBot: -Tynamo finished playing (Score: 481769, PASSED).
+[01:57:03] BanchoBot: nanawo finished playing (Score: 598774, PASSED).
+[01:57:03] BanchoBot: Raoul finished playing (Score: 595612, PASSED).
+[01:57:03] BanchoBot: pedeko finished playing (Score: 611848, PASSED).
+[01:57:03] BanchoBot: Nicolaa finished playing (Score: 485638, PASSED).
+[01:57:05] BanchoBot: nemq finished playing (Score: 429042, PASSED).
+[01:57:05] BanchoBot: Belladonna finished playing (Score: 397113, PASSED).
+[01:57:05] BanchoBot: Hellbeak finished playing (Score: 359344, PASSED).
+[01:57:05] BanchoBot: The match has finished!
+[01:57:14] BCraftMG: !mp map 431147 0
+[01:57:15] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/431147 Sakamoto Maaya - Okaerinasai (tomatomerde Remix)
+[01:57:15] BanchoBot: Changed match mode to Osu
+[01:57:23] BanchoBot: -Tynamo left the game.
+[01:57:25] BCraftMG: !mp mods 65
+[01:57:26] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[01:57:26] BCraftMG: !mp timer 120
+[01:57:27] BanchoBot: Countdown ends in 2 minutes
+[01:57:37] BanchoBot: Raoul left the game.
+[01:57:37] BanchoBot: pedeko left the game.
+[01:58:08] BanchoBot: baliiii joined in slot 1.
+[01:58:16] BanchoBot: Raoul joined in slot 3.
+[01:58:20] BanchoBot: Nicolaa left the game.
+[01:58:20] BanchoBot: baliiii moved to slot 6
+[01:58:21] BanchoBot: baliiii moved to slot 5
+[01:58:27] BanchoBot: Countdown ends in 1 minute
+[01:58:45] BanchoBot: gecseboti joined in slot 1.
+[01:58:47] BanchoBot: Mejiro McQueen joined in slot 6.
+[01:59:05] BanchoBot: miyuo joined in slot 7.
+[01:59:05] BanchoBot: Nicolaa joined in slot 8.
+[01:59:05] BanchoBot: Countdown ends in 30 seconds
+[01:59:05] BanchoBot: Mejiro McQueen moved to slot 14
+[01:59:05] BanchoBot: gecseboti left the game.
+[01:59:05] BanchoBot: Mejiro McQueen left the game.
+[01:59:05] Hellbeak: HF
+[01:59:05] BanchoBot: miyuo moved to slot 9
+[01:59:07] BanchoBot: miyuo moved to slot 15
+[01:59:17] BanchoBot: Countdown ends in 10 seconds
+[01:59:19] nemq: zczczczcz
+[01:59:22] BCraftMG: !mp settings
+[01:59:23] nemq: glgl
+[01:59:23] BanchoBot: Countdown ends in 5 seconds
+[01:59:23] BanchoBot: Countdown ends in 4 seconds
+[01:59:23] BanchoBot: Room name: CC5: (Qualifiers) vs (Match Z6), History: https://osu.ppy.sh/mp/115581097
+[01:59:24] BanchoBot: Beatmap: https://osu.ppy.sh/b/431147 Sakamoto Maaya - Okaerinasai (tomatomerde Remix)
+[01:59:24] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:59:24] BanchoBot: Active mods: NoFail, DoubleTime
+[01:59:24] BanchoBot: Players: 8
+[01:59:24] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11758404 Belladonna      
+[01:59:24] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9924405 Raoul           
+[01:59:24] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/2367495 Hellbeak        
+[01:59:24] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/14059423 baliiii         
+[01:59:24] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/18922516 Nicolaa         
+[01:59:24] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/11644972 nemq            
+[01:59:24] BanchoBot: Slot 15 Not Ready https://osu.ppy.sh/u/15242810 miyuo           
+[01:59:24] BanchoBot: Slot 16 Ready     https://osu.ppy.sh/u/5426640 nanawo          
+[01:59:25] BanchoBot: Countdown ends in 3 seconds
+[01:59:26] BanchoBot: Countdown ends in 2 seconds
+[01:59:26] BanchoBot: Countdown ends in 1 second
+[01:59:28] BanchoBot: Countdown finished
+[01:59:35] nanawo: gl
+[01:59:50] BCraftMG: !mp settings
+[01:59:51] nanawo: my watch said i had a stressful day
+[01:59:51] BanchoBot: Room name: CC5: (Qualifiers) vs (Match Z6), History: https://osu.ppy.sh/mp/115581097
+[01:59:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/431147 Sakamoto Maaya - Okaerinasai (tomatomerde Remix)
+[01:59:51] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:59:51] BanchoBot: Active mods: NoFail, DoubleTime
+[01:59:51] BanchoBot: Players: 8
+[01:59:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11758404 Belladonna      
+[01:59:51] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9924405 Raoul           
+[01:59:51] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/2367495 Hellbeak        
+[01:59:51] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/14059423 baliiii         
+[01:59:51] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/18922516 Nicolaa         
+[01:59:51] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/11644972 nemq            
+[01:59:51] BanchoBot: Slot 15 Ready     https://osu.ppy.sh/u/15242810 miyuo           
+[01:59:51] BanchoBot: Slot 16 Ready     https://osu.ppy.sh/u/5426640 nanawo          
+[01:59:56] nanawo: and i had poor sleep
+[01:59:56] nanawo: gg
+[01:59:59] BCraftMG: Nicolaa?
+[02:00:04] Belladonna: i went to sleep at 10am
+[02:00:06] Belladonna: gg
+[02:00:09] Raoul: he crashed
+[02:00:12] Hellbeak: maybe he crashed
+[02:00:16] nemq: erm
+[02:00:18] BanchoBot: Nicolaa left the game.
+[02:00:29] nanawo: u got a different 4th
+[02:00:31] nanawo: ?
+[02:00:34] BCraftMG: !mp timer 90
+[02:00:35] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[02:00:40] BanchoBot: gecseboti joined in slot 1.
+[02:00:43] Belladonna: firetruck it im using the cookiezi skin
+[02:00:43] Raoul: yes
+[02:00:46] Raoul: let's start
+[02:00:53] BanchoBot: All players are ready
+[02:00:53] BCraftMG: !mp settings
+[02:00:55] BanchoBot: Room name: CC5: (Qualifiers) vs (Match Z6), History: https://osu.ppy.sh/mp/115581097
+[02:00:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/431147 Sakamoto Maaya - Okaerinasai (tomatomerde Remix)
+[02:00:55] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[02:00:55] BanchoBot: Active mods: NoFail, DoubleTime
+[02:00:55] BanchoBot: Players: 8
+[02:00:55] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15213139 gecseboti       
+[02:00:55] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11758404 Belladonna      
+[02:00:55] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9924405 Raoul           
+[02:00:55] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/2367495 Hellbeak        
+[02:00:55] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/14059423 baliiii         
+[02:00:55] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/11644972 nemq            
+[02:00:55] BanchoBot: Slot 15 Ready     https://osu.ppy.sh/u/15242810 miyuo           
+[02:00:55] BanchoBot: Slot 16 Ready     https://osu.ppy.sh/u/5426640 nanawo          
+[02:00:57] BCraftMG: !mp start 5 glhf
+[02:00:58] BanchoBot: Countdown aborted
+[02:00:58] BanchoBot: Match starts in 5 seconds
+[02:00:58] BanchoBot: Queued the match to start in 5 seconds
+[02:00:59] BanchoBot: Match starts in 4 seconds
+[02:00:59] gecseboti: glhf
+[02:01:00] Raoul: gl hf
+[02:01:00] BanchoBot: Match starts in 3 seconds
+[02:01:02] BanchoBot: Good luck, have fun!
+[02:01:02] nemq: glgl
+[02:01:03] BanchoBot: The match has started!
+[02:05:03] BanchoBot: Belladonna finished playing (Score: 388400, PASSED).
+[02:05:03] BanchoBot: Hellbeak finished playing (Score: 601166, PASSED).
+[02:05:03] BanchoBot: Raoul finished playing (Score: 622821, PASSED).
+[02:05:03] BanchoBot: nemq finished playing (Score: 632250, PASSED).
+[02:05:03] BanchoBot: miyuo finished playing (Score: 536852, PASSED).
+[02:05:03] BanchoBot: nanawo finished playing (Score: 606038, PASSED).
+[02:05:03] BanchoBot: gecseboti finished playing (Score: 752404, PASSED).
+[02:05:04] BanchoBot: baliiii finished playing (Score: 1069190, PASSED).
+[02:05:04] BanchoBot: The match has finished!
+[02:05:20] BCraftMG: !mp map 3902731 0
+[02:05:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3902731 TJ Davis - Can You Feel the Sunshine?
+[02:05:20] BanchoBot: Changed match mode to Osu
+[02:05:22] BCraftMG: !mp timer 120
+[02:05:23] BanchoBot: Countdown ends in 2 minutes
+[02:05:45] BanchoBot: nanawo left the game.
+[02:05:48] BanchoBot: Ezius joined in slot 6.
+[02:05:51] BanchoBot: Ezius moved to slot 16
+[02:06:25] BanchoBot: Countdown ends in 1 minute
+[02:06:26] BanchoBot: Belladonna left the game.
+[02:06:39] BanchoBot: Nicolaa joined in slot 2.
+[02:06:46] BanchoBot: nanawo joined in slot 6.
+[02:06:47] Hellbeak: hf
+[02:06:48] BanchoBot: baliiii left the game.
+[02:06:50] Nicolaa: hii
+[02:06:54] BanchoBot: Countdown ends in 30 seconds
+[02:07:03] Hellbeak: minimo un fc pa
+[02:07:10] nanawo: im dropping either 300k or 900k
+[02:07:15] BanchoBot: Countdown ends in 10 seconds
+[02:07:15] BanchoBot: All players are ready
+[02:07:17] Nicolaa: se me rompe la pc en cual1uier momento klrj32lkr3
+[02:07:19] BanchoBot: Countdown ends in 5 seconds
+[02:07:19] BCraftMG: !mp settings
+[02:07:21] Nicolaa: gl
+[02:07:21] BanchoBot: Countdown ends in 4 seconds
+[02:07:21] BanchoBot: Room name: CC5: (Qualifiers) vs (Match Z6), History: https://osu.ppy.sh/mp/115581097
+[02:07:21] BanchoBot: Beatmap: https://osu.ppy.sh/b/3902731 TJ Davis - Can You Feel the Sunshine?
+[02:07:21] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[02:07:21] BanchoBot: Active mods: NoFail, DoubleTime
+[02:07:21] BanchoBot: Players: 8
+[02:07:21] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15213139 gecseboti       
+[02:07:21] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18922516 Nicolaa         
+[02:07:21] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9924405 Raoul           
+[02:07:21] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/2367495 Hellbeak        
+[02:07:21] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/5426640 nanawo          
+[02:07:21] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/11644972 nemq            
+[02:07:21] BanchoBot: Slot 15 Ready     https://osu.ppy.sh/u/15242810 miyuo           
+[02:07:21] BanchoBot: Slot 16 Ready     https://osu.ppy.sh/u/1861823 Ezius           
+[02:07:22] BanchoBot: Countdown ends in 3 seconds
+[02:07:22] nemq: glgl
+[02:07:22] BanchoBot: Countdown ends in 2 seconds
+[02:07:22] BCraftMG: !mp start 5 glhf
+[02:07:23] BanchoBot: Countdown ends in 1 second
+[02:07:23] Raoul: gl hf
+[02:07:23] gecseboti: fglhf
+[02:07:23] BanchoBot: Countdown aborted
+[02:07:23] BanchoBot: Match starts in 5 seconds
+[02:07:23] BanchoBot: Queued the match to start in 5 seconds
+[02:07:25] BanchoBot: Match starts in 4 seconds
+[02:07:26] BanchoBot: Match starts in 3 seconds
+[02:07:27] BanchoBot: Good luck, have fun!
+[02:07:29] BanchoBot: The match has started!
+[02:10:51] BanchoBot: nanawo finished playing (Score: 474471, PASSED).
+[02:10:51] BanchoBot: Nicolaa finished playing (Score: 728779, PASSED).
+[02:10:51] BanchoBot: gecseboti finished playing (Score: 710125, PASSED).
+[02:10:51] BanchoBot: Ezius finished playing (Score: 599848, PASSED).
+[02:10:52] BanchoBot: Raoul finished playing (Score: 931133, PASSED).
+[02:10:52] BanchoBot: miyuo finished playing (Score: 782087, PASSED).
+[02:10:52] BanchoBot: nemq finished playing (Score: 453827, PASSED).
+[02:10:52] BanchoBot: Hellbeak finished playing (Score: 764858, PASSED).
+[02:10:52] BanchoBot: The match has finished!
+[02:10:54] BCraftMG: !mp map 1124630 0
+[02:10:55] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1124630 Feint - We Won't Be Alone (feat. Laura Brehm)
+[02:10:55] BanchoBot: Changed match mode to Osu
+[02:10:58] BCraftMG: !mp mods 3
+[02:10:59] BanchoBot: Enabled NoFail, Easy, disabled FreeMod
+[02:11:00] BCraftMG: !mp timer 120
+[02:11:01] BanchoBot: Countdown ends in 2 minutes
+[02:11:07] BanchoBot: Poke714 joined in slot 5.
+[02:11:07] BanchoBot: Belladonna joined in slot 7.
+[02:11:12] BanchoBot: nemq left the game.
+[02:11:25] BanchoBot: Raoul left the game.
+[02:11:31] BanchoBot: miyuo left the game.
+[02:11:34] BanchoBot: Poke714 moved to slot 3
+[02:11:36] BanchoBot: Hellbeak left the game.
+[02:11:40] BanchoBot: Mejiro McQueen joined in slot 4.
+[02:11:40] BanchoBot: gecseboti left the game.
+[02:11:51] BanchoBot: gecseboti joined in slot 1.
+[02:11:59] Belladonna: UPSIDES TO THIS POOL: THIS SONG IS IN IT
+[02:12:01] BanchoBot: Countdown ends in 1 minute
+[02:12:03] Belladonna: DOWNSIDEWS TO THIS POOL: EVERYTHING ELSE
+[02:12:06] BanchoBot: uragirarete joined in slot 5.
+[02:12:10] nanawo: hey i like nm3
+[02:12:20] Poke714: hfhf
+[02:12:26] Ezius: upside of this pool
+[02:12:28] Ezius: ez1 nm3
+[02:12:32] BanchoBot: Countdown ends in 30 seconds
+[02:12:35] BanchoBot: Ezius moved to slot 8
+[02:12:35] BanchoBot: Nicolaa left the game.
+[02:12:39] uragirarete: ez us
+[02:12:39] BanchoBot: -Tynamo joined in slot 2.
+[02:12:52] BanchoBot: Countdown ends in 10 seconds
+[02:12:52] BanchoBot: All players are ready
+[02:12:55] Mejiro_McQueen: glhf
+[02:12:55] nanawo: gl hf
+[02:12:56] BanchoBot: Countdown ends in 5 seconds
+[02:12:57] BCraftMG: !mp settings
+[02:12:58] BanchoBot: Countdown ends in 4 seconds
+[02:12:58] BanchoBot: Countdown ends in 3 seconds
+[02:12:58] BanchoBot: Room name: CC5: (Qualifiers) vs (Match Z6), History: https://osu.ppy.sh/mp/115581097
+[02:12:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/1124630 Feint - We Won't Be Alone (feat. Laura Brehm)
+[02:12:58] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[02:12:58] BanchoBot: Active mods: NoFail, Easy
+[02:12:58] BanchoBot: Players: 8
+[02:12:58] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15213139 gecseboti       
+[02:12:58] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3638962 -Tynamo         
+[02:12:58] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8084370 Poke714         
+[02:12:58] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11555612 Mejiro McQueen  
+[02:12:58] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/16679145 uragirarete     
+[02:12:58] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/5426640 nanawo          
+[02:12:58] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11758404 Belladonna      
+[02:12:58] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/1861823 Ezius           
+[02:12:59] Ezius: glhf
+[02:12:59] -Tynamo: GOOF LUCK
+[02:12:59] gecseboti: glhf
+[02:12:59] BanchoBot: Countdown ends in 2 seconds
+[02:13:00] BCraftMG: !mp start 5 glhf
+[02:13:01] BanchoBot: Countdown ends in 1 second
+[02:13:01] BanchoBot: Countdown aborted
+[02:13:01] BanchoBot: Match starts in 5 seconds
+[02:13:01] BanchoBot: Queued the match to start in 5 seconds
+[02:13:02] BanchoBot: Match starts in 4 seconds
+[02:13:04] BanchoBot: Match starts in 3 seconds
+[02:13:04] BanchoBot: Good luck, have fun!
+[02:13:07] BanchoBot: The match has started!
+[02:16:17] BanchoBot: Mejiro McQueen finished playing (Score: 422584, PASSED).
+[02:16:17] BanchoBot: nanawo finished playing (Score: 181614, PASSED).
+[02:16:17] BanchoBot: Poke714 finished playing (Score: 267528, PASSED).
+[02:16:17] BanchoBot: Ezius finished playing (Score: 302738, PASSED).
+[02:16:17] BanchoBot: gecseboti finished playing (Score: 264888, PASSED).
+[02:16:18] BanchoBot: -Tynamo finished playing (Score: 330227, PASSED).
+[02:16:18] BanchoBot: uragirarete finished playing (Score: 487463, PASSED).
+[02:16:18] BanchoBot: Belladonna finished playing (Score: 186699, PASSED).
+[02:16:18] BanchoBot: The match has finished!
+[02:16:40] BanchoBot: Belladonna left the game.
+[02:16:46] nanawo: ty ref
+[02:16:46] BanchoBot: nanawo left the game.
+[02:16:49] uragirarete: ty for ref
+[02:16:57] gecseboti: ty for ref
+[02:17:00] BanchoBot: gecseboti left the game.
+[02:17:03] Mejiro_McQueen: ty 4 ref
+[02:17:04] Mejiro_McQueen: o///
+[02:17:04] BanchoBot: Mejiro McQueen left the game.
+[02:17:09] Poke714: tahanks for reffing
+[02:17:14] BanchoBot: Poke714 left the game.
+[02:17:21] Ezius: ty for ref o/
+[02:17:21] BanchoBot: Ezius left the game.
+[02:17:21] -Tynamo: ty for ref o//
+[02:17:23] BanchoBot: -Tynamo left the game.
+[02:18:22] BCraftMG: !mp close
+[02:18:23] BanchoBot: Closed the match

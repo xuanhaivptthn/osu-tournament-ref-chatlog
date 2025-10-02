@@ -1,0 +1,492 @@
+[21:53:56] Joined #mp_107072508
+[21:53:56] BCraftMG: !mp settings
+[21:53:57] BanchoBot: Room name: 5WC2023: (Qualifiers) vs (Match KW), History: https://osu.ppy.sh/mp/107072508
+[21:53:57] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[21:53:57] BanchoBot: Players: 0
+[21:54:15] BCraftMG: !mp set 0 3 8
+[21:54:16] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[21:54:20] BCraftMG: !mp invite #6870049
+[21:54:22] BanchoBot: Invited -Snake to the room
+[21:59:25] BanchoBot: -Snake joined in slot 1.
+[21:59:37] BCraftMG: o/
+[21:59:41] BCraftMG: !mp map 3386357 0
+[21:59:42] BCraftMG: !mp mods 1
+[21:59:42] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3386357 nonoc - Relive
+[21:59:42] BanchoBot: Changed match mode to Osu
+[21:59:44] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:59:48] -Snake: Hello!
+[21:59:57] BanchoBot: _sola joined in slot 2.
+[22:01:51] BanchoBot: Pokin joined in slot 3.
+[22:01:57] BanchoBot: KHAFx joined in slot 4.
+[22:01:59] BanchoBot: Bisuke joined in slot 5.
+[22:02:04] _sola: alr
+[22:02:11] BanchoBot: CyberToothLion joined in slot 6.
+[22:02:20] _sola: lmfao
+[22:02:48] Bisuke: me sola pokin and either cyber or khafx
+[22:02:56] BanchoBot: -Snake left the game.
+[22:03:18] _sola: who has the btter score
+[22:03:27] Bisuke: cyber
+[22:03:41] BanchoBot: Pokin moved to slot 1
+[22:03:43] KHAFx: sola, bisuke here
+[22:03:43] KHAFx: 100%
+[22:03:43] _sola: in the sheet
+[22:03:45] KHAFx: nm1
+[22:04:06] CyberToothLion: pokin too
+[22:04:26] Bisuke: cyber better in multi khafx better in sheet
+[22:04:31] BanchoBot: -Snake joined in slot 3.
+[22:04:37] _sola: khaf r u consistent here?
+[22:04:40] _sola: and cyber?
+[22:04:50] KHAFx: i would give 50-60% consistent
+[22:04:52] KHAFx: to myself
+[22:05:00] BanchoBot: -Snake left the game.
+[22:05:02] CyberToothLion: i would go for it
+[22:05:05] BanchoBot: CyberToothLion moved to slot 3
+[22:05:08] BanchoBot: KHAFx left the game.
+[22:05:10] BanchoBot: Bisuke moved to slot 4
+[22:05:16] _sola: alr
+[22:05:18] BanchoBot: All players are ready
+[22:05:25] BCraftMG: !mp settings
+[22:05:27] BanchoBot: Room name: 5WC2023: (Qualifiers) vs (Match KW), History: https://osu.ppy.sh/mp/107072508
+[22:05:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/3386357 nonoc - Relive
+[22:05:27] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:05:27] BanchoBot: Active mods: NoFail
+[22:05:27] BanchoBot: Players: 4
+[22:05:27] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11661764 Pokin           
+[22:05:27] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19770259 _sola           
+[22:05:27] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/7735611 CyberToothLion  
+[22:05:27] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6658273 Bisuke          
+[22:05:29] BanchoBot: All players are ready
+[22:05:30] BCraftMG: !mp settings
+[22:05:32] BanchoBot: Room name: 5WC2023: (Qualifiers) vs (Match KW), History: https://osu.ppy.sh/mp/107072508
+[22:05:32] BanchoBot: Beatmap: https://osu.ppy.sh/b/3386357 nonoc - Relive
+[22:05:32] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:05:32] BanchoBot: Active mods: NoFail
+[22:05:32] BanchoBot: Players: 4
+[22:05:32] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11661764 Pokin           
+[22:05:32] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19770259 _sola           
+[22:05:32] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7735611 CyberToothLion  
+[22:05:32] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6658273 Bisuke          
+[22:05:32] BCraftMG: !mp start 5 glhf
+[22:05:33] BanchoBot: Match starts in 5 seconds
+[22:05:33] BanchoBot: Queued the match to start in 5 seconds
+[22:05:34] BanchoBot: Match starts in 4 seconds
+[22:05:35] BanchoBot: Match starts in 3 seconds
+[22:05:37] BanchoBot: Good luck, have fun!
+[22:05:39] BanchoBot: The match has started!
+[22:09:42] BanchoBot: CyberToothLion finished playing (Score: 504560, PASSED).
+[22:09:44] BanchoBot: _sola finished playing (Score: 909900, PASSED).
+[22:09:44] BanchoBot: Pokin finished playing (Score: 475466, PASSED).
+[22:09:44] BanchoBot: Bisuke finished playing (Score: 411091, PASSED).
+[22:09:44] BanchoBot: The match has finished!
+[22:10:01] BCraftMG: !mp map 3798373 0
+[22:10:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3798373 Metrik - We Got It (feat. Rothwell)
+[22:10:02] BanchoBot: Changed match mode to Osu
+[22:10:06] BanchoBot: Bisuke left the game.
+[22:10:11] CyberToothLion: sola Insane
+[22:10:20] BanchoBot: KHAFx joined in slot 4.
+[22:10:28] Pokin: wp
+[22:10:37] BanchoBot: _sola left the game.
+[22:12:08] BanchoBot: -Anonymous joined in slot 2.
+[22:12:15] BanchoBot: All players are ready
+[22:12:18] BCraftMG: !mp settings
+[22:12:20] BanchoBot: Room name: 5WC2023: (Qualifiers) vs (Match KW), History: https://osu.ppy.sh/mp/107072508
+[22:12:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/3798373 Metrik - We Got It (feat. Rothwell)
+[22:12:20] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:12:20] BanchoBot: Active mods: NoFail
+[22:12:20] BanchoBot: Players: 4
+[22:12:20] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11661764 Pokin           
+[22:12:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/1482519 -Anonymous      
+[22:12:20] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7735611 CyberToothLion  
+[22:12:20] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7409103 KHAFx           
+[22:12:21] BCraftMG: !mp start 5 glhf
+[22:12:22] BanchoBot: Match starts in 5 seconds
+[22:12:22] BanchoBot: Queued the match to start in 5 seconds
+[22:12:23] BanchoBot: Match starts in 4 seconds
+[22:12:24] BanchoBot: Match starts in 3 seconds
+[22:12:26] BanchoBot: Good luck, have fun!
+[22:12:28] BanchoBot: The match has started!
+[22:15:57] BanchoBot: -Anonymous finished playing (Score: 479219, PASSED).
+[22:15:58] BanchoBot: Pokin finished playing (Score: 781373, PASSED).
+[22:16:01] BanchoBot: CyberToothLion finished playing (Score: 729791, PASSED).
+[22:16:02] BanchoBot: KHAFx finished playing (Score: 542331, PASSED).
+[22:16:02] BanchoBot: The match has finished!
+[22:16:06] BCraftMG: !mp map 4011061 0
+[22:16:07] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4011061 Street - firewall
+[22:16:07] BanchoBot: Changed match mode to Osu
+[22:16:13] BanchoBot: -Anonymous left the game.
+[22:16:25] BanchoBot: KHAFx left the game.
+[22:16:26] BanchoBot: _sola joined in slot 2.
+[22:17:17] BanchoBot: Bisuke joined in slot 4.
+[22:18:03] BanchoBot: CyberToothLion moved to slot 8
+[22:18:04] Bisuke: isnt snake playing this
+[22:18:12] _sola: hell na
+[22:18:14] _sola: you
+[22:18:14] BanchoBot: CyberToothLion moved to slot 3
+[22:18:19] CyberToothLion: lol
+[22:18:20] Pokin: he doesnt like this nm3
+[22:18:27] BanchoBot: All players are ready
+[22:18:29] CyberToothLion: lets go
+[22:18:30] _sola: funny joke bisuke
+[22:18:36] BCraftMG: !mp settings
+[22:18:38] BanchoBot: Room name: 5WC2023: (Qualifiers) vs (Match KW), History: https://osu.ppy.sh/mp/107072508
+[22:18:38] BanchoBot: Beatmap: https://osu.ppy.sh/b/4011061 Street - firewall
+[22:18:38] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:18:38] BanchoBot: Active mods: NoFail
+[22:18:38] BanchoBot: Players: 4
+[22:18:38] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11661764 Pokin           
+[22:18:38] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19770259 _sola           
+[22:18:38] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7735611 CyberToothLion  
+[22:18:38] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6658273 Bisuke          
+[22:18:40] BCraftMG: !mp start 5 glhf
+[22:18:42] BanchoBot: Match starts in 5 seconds
+[22:18:42] BanchoBot: Queued the match to start in 5 seconds
+[22:18:43] BanchoBot: Match starts in 4 seconds
+[22:18:44] BanchoBot: Match starts in 3 seconds
+[22:18:46] BanchoBot: Good luck, have fun!
+[22:18:47] BanchoBot: The match has started!
+[22:20:03] BanchoBot: -Snake joined in slot 5.
+[22:20:13] BanchoBot: -Snake left the game.
+[22:22:06] BanchoBot: Bisuke finished playing (Score: 206791, PASSED).
+[22:22:07] BanchoBot: Pokin finished playing (Score: 167823, PASSED).
+[22:22:08] BanchoBot: CyberToothLion finished playing (Score: 130527, PASSED).
+[22:22:08] BanchoBot: _sola finished playing (Score: 253355, PASSED).
+[22:22:08] BanchoBot: The match has finished!
+[22:22:21] BCraftMG: !mp map 3967162 0
+[22:22:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3967162 Street - Hestia
+[22:22:21] BanchoBot: Changed match mode to Osu
+[22:23:32] BanchoBot: Pokin left the game.
+[22:23:35] BanchoBot: -Anonymous joined in slot 1.
+[22:23:45] BanchoBot: CyberToothLion left the game.
+[22:24:28] BanchoBot: CyberToothLion joined in slot 3.
+[22:24:33] CyberToothLion: its me
+[22:24:36] CyberToothLion: lets go
+[22:25:18] BanchoBot: All players are ready
+[22:25:21] BCraftMG: !mp settings
+[22:25:22] BanchoBot: Room name: 5WC2023: (Qualifiers) vs (Match KW), History: https://osu.ppy.sh/mp/107072508
+[22:25:22] BanchoBot: Beatmap: https://osu.ppy.sh/b/3967162 Street - Hestia
+[22:25:22] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:25:22] BanchoBot: Active mods: NoFail
+[22:25:22] BanchoBot: Players: 4
+[22:25:22] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/1482519 -Anonymous      
+[22:25:22] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19770259 _sola           
+[22:25:22] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7735611 CyberToothLion  
+[22:25:22] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6658273 Bisuke          
+[22:25:23] BCraftMG: !mp start 5 glhf
+[22:25:24] BanchoBot: Match starts in 5 seconds
+[22:25:24] BanchoBot: Queued the match to start in 5 seconds
+[22:25:25] BanchoBot: Match starts in 4 seconds
+[22:25:25] BanchoBot: Match starts in 3 seconds
+[22:25:27] BanchoBot: Good luck, have fun!
+[22:25:28] BanchoBot: The match has started!
+[22:27:43] BanchoBot: -Anonymous finished playing (Score: 275011, PASSED).
+[22:27:43] BanchoBot: Bisuke finished playing (Score: 352601, PASSED).
+[22:27:43] BanchoBot: CyberToothLion finished playing (Score: 221728, PASSED).
+[22:27:44] BanchoBot: _sola finished playing (Score: 335720, PASSED).
+[22:27:44] BanchoBot: The match has finished!
+[22:28:00] BCraftMG: !mp map 2453711 0
+[22:28:01] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2453711 sekai - Zange Mairi
+[22:28:01] BanchoBot: Changed match mode to Osu
+[22:28:01] BCraftMG: !mp mods 9
+[22:28:02] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[22:28:07] BanchoBot: _sola left the game.
+[22:28:17] BanchoBot: CyberToothLion left the game.
+[22:28:24] BanchoBot: -Snake joined in slot 2.
+[22:28:33] BanchoBot: Pokin joined in slot 3.
+[22:28:48] -Snake: ش
+[22:28:52] -Snake: ش*
+[22:28:56] -Snake: a**
+[22:28:59] Pokin: LOOL
+[22:29:11] -Snake: arabic keyb tsk tsk tsk
+[22:29:16] Pokin: sh
+[22:29:19] BanchoBot: All players are ready
+[22:29:21] BCraftMG: !mp settings
+[22:29:23] BanchoBot: Room name: 5WC2023: (Qualifiers) vs (Match KW), History: https://osu.ppy.sh/mp/107072508
+[22:29:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/2453711 sekai - Zange Mairi
+[22:29:23] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:29:23] BanchoBot: Active mods: NoFail, Hidden
+[22:29:23] BanchoBot: Players: 4
+[22:29:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/1482519 -Anonymous      
+[22:29:23] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6870049 -Snake          
+[22:29:23] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11661764 Pokin           
+[22:29:23] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6658273 Bisuke          
+[22:29:23] BCraftMG: !mp start 5 glhf
+[22:29:24] BanchoBot: Match starts in 5 seconds
+[22:29:24] BanchoBot: Queued the match to start in 5 seconds
+[22:29:25] BanchoBot: Match starts in 4 seconds
+[22:29:26] BanchoBot: Match starts in 3 seconds
+[22:29:28] BanchoBot: Good luck, have fun!
+[22:29:30] BanchoBot: The match has started!
+[22:32:57] BanchoBot: -Anonymous finished playing (Score: 444235, PASSED).
+[22:32:57] BanchoBot: -Snake finished playing (Score: 320596, PASSED).
+[22:32:58] BanchoBot: Bisuke finished playing (Score: 284531, PASSED).
+[22:32:58] BanchoBot: Pokin finished playing (Score: 318260, PASSED).
+[22:32:58] BanchoBot: The match has finished!
+[22:33:06] BCraftMG: !mp map 4010479 0
+[22:33:07] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4010479 PUP - My Life Is Over And I Couldn't Be Happier
+[22:33:07] BanchoBot: Changed match mode to Osu
+[22:33:14] BanchoBot: -Anonymous left the game.
+[22:33:33] BanchoBot: -Anonymous joined in slot 1.
+[22:34:14] BanchoBot: All players are ready
+[22:34:17] BCraftMG: !mp settings
+[22:34:18] BanchoBot: Room name: 5WC2023: (Qualifiers) vs (Match KW), History: https://osu.ppy.sh/mp/107072508
+[22:34:18] BanchoBot: Beatmap: https://osu.ppy.sh/b/4010479 PUP - My Life Is Over And I Couldn't Be Happier
+[22:34:18] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:34:18] BanchoBot: Active mods: NoFail, Hidden
+[22:34:18] BanchoBot: Players: 4
+[22:34:18] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/1482519 -Anonymous      
+[22:34:18] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6870049 -Snake          
+[22:34:18] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11661764 Pokin           
+[22:34:18] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6658273 Bisuke          
+[22:34:20] BCraftMG: !mp start 5 glhf
+[22:34:21] BanchoBot: Match starts in 5 seconds
+[22:34:21] BanchoBot: Queued the match to start in 5 seconds
+[22:34:23] BanchoBot: Match starts in 4 seconds
+[22:34:24] BanchoBot: Match starts in 3 seconds
+[22:34:25] BanchoBot: Good luck, have fun!
+[22:34:28] BanchoBot: The match has started!
+[22:37:04] BanchoBot: -Anonymous finished playing (Score: 248789, PASSED).
+[22:37:04] BanchoBot: Pokin finished playing (Score: 100264, PASSED).
+[22:37:04] BanchoBot: Bisuke finished playing (Score: 104650, PASSED).
+[22:37:04] BanchoBot: -Snake finished playing (Score: 113238, PASSED).
+[22:37:04] BanchoBot: The match has finished!
+[22:37:10] BanchoBot: -Snake left the game.
+[22:37:14] BCraftMG: !mp map 904351 0
+[22:37:14] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/904351 Virtual Riot feat. Varia - Edge
+[22:37:14] BanchoBot: Changed match mode to Osu
+[22:37:16] BCraftMG: !mp mods 17
+[22:37:17] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[22:37:27] BanchoBot: -Anonymous left the game.
+[22:37:28] BanchoBot: KHAFx joined in slot 1.
+[22:38:49] BanchoBot: _sola joined in slot 2.
+[22:39:04] KHAFx: lets go boiz
+[22:39:16] BanchoBot: All players are ready
+[22:39:19] _sola: lag
+[22:39:46] BanchoBot: All players are ready
+[22:39:50] _sola: im good
+[22:39:58] Pokin: rdy
+[22:40:00] BCraftMG: !mp settings
+[22:40:02] BanchoBot: Room name: 5WC2023: (Qualifiers) vs (Match KW), History: https://osu.ppy.sh/mp/107072508
+[22:40:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/904351 Virtual Riot feat. Varia - Edge
+[22:40:02] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:40:02] BanchoBot: Active mods: NoFail, HardRock
+[22:40:02] BanchoBot: Players: 4
+[22:40:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7409103 KHAFx           
+[22:40:02] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19770259 _sola           
+[22:40:02] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11661764 Pokin           
+[22:40:02] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6658273 Bisuke          
+[22:40:04] BCraftMG: !mp start 5 glhf
+[22:40:05] BanchoBot: Match starts in 5 seconds
+[22:40:05] BanchoBot: Queued the match to start in 5 seconds
+[22:40:06] BanchoBot: Match starts in 4 seconds
+[22:40:07] BanchoBot: Match starts in 3 seconds
+[22:40:09] BanchoBot: Good luck, have fun!
+[22:40:11] BanchoBot: The match has started!
+[22:42:32] BanchoBot: Pokin finished playing (Score: 240209, PASSED).
+[22:42:32] BanchoBot: Bisuke finished playing (Score: 638968, PASSED).
+[22:42:34] BanchoBot: KHAFx finished playing (Score: 156202, PASSED).
+[22:42:37] BanchoBot: _sola finished playing (Score: 557041, PASSED).
+[22:42:37] BanchoBot: The match has finished!
+[22:42:43] BCraftMG: !mp map 4011065 0
+[22:42:44] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4011065 Tkay Maidza - So Cold
+[22:42:44] BanchoBot: Changed match mode to Osu
+[22:42:52] KHAFx: sorry xD
+[22:42:55] BanchoBot: _sola left the game.
+[22:43:28] BanchoBot: -Anonymous joined in slot 2.
+[22:43:37] Pokin: dw about it lol
+[22:43:57] KHAFx: i carry now
+[22:44:08] -Anonymous: idk how I got 4th, but I'll try my best XD
+[22:44:13] Pokin: inshallah
+[22:44:27] BanchoBot: All players are ready
+[22:44:30] BCraftMG: !mp settings
+[22:44:31] BanchoBot: Room name: 5WC2023: (Qualifiers) vs (Match KW), History: https://osu.ppy.sh/mp/107072508
+[22:44:31] BanchoBot: Beatmap: https://osu.ppy.sh/b/4011065 Tkay Maidza - So Cold
+[22:44:31] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:44:31] BanchoBot: Active mods: NoFail, HardRock
+[22:44:31] BanchoBot: Players: 4
+[22:44:31] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7409103 KHAFx           
+[22:44:31] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/1482519 -Anonymous      
+[22:44:31] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11661764 Pokin           
+[22:44:31] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6658273 Bisuke          
+[22:44:31] BCraftMG: !mp start 5 glhf
+[22:44:32] BanchoBot: Match starts in 5 seconds
+[22:44:32] BanchoBot: Queued the match to start in 5 seconds
+[22:44:33] BanchoBot: Match starts in 4 seconds
+[22:44:34] BanchoBot: Match starts in 3 seconds
+[22:44:36] BanchoBot: Good luck, have fun!
+[22:44:38] BanchoBot: The match has started!
+[22:47:20] BanchoBot: KHAFx finished playing (Score: 455722, PASSED).
+[22:47:22] BanchoBot: Bisuke finished playing (Score: 448233, PASSED).
+[22:47:22] BanchoBot: Pokin finished playing (Score: 304224, PASSED).
+[22:47:22] BanchoBot: -Anonymous finished playing (Score: 239556, PASSED).
+[22:47:22] BanchoBot: The match has finished!
+[22:47:31] BanchoBot: -Anonymous left the game.
+[22:47:34] BCraftMG: !mp map 3155766 0
+[22:47:35] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3155766 Chihara Minori - Kono Sekai wa Bokura wo Matteita
+[22:47:35] BanchoBot: Changed match mode to Osu
+[22:47:37] BCraftMG: !mp mods 65
+[22:47:38] BanchoBot: Bisuke left the game.
+[22:47:38] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[22:47:48] KHAFx: i said i was gonna cary
+[22:47:56] BanchoBot: -Anonymous joined in slot 2.
+[22:48:05] Pokin: wp
+[22:48:11] BanchoBot: _sola joined in slot 4.
+[22:48:13] KHAFx: almost fced
+[22:48:13] KHAFx: :C
+[22:49:04] KHAFx: farming time
+[22:49:51] -Anonymous: back
+[22:49:51] BanchoBot: All players are ready
+[22:49:53] BCraftMG: !mp settings
+[22:49:55] BanchoBot: Room name: 5WC2023: (Qualifiers) vs (Match KW), History: https://osu.ppy.sh/mp/107072508
+[22:49:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/3155766 Chihara Minori - Kono Sekai wa Bokura wo Matteita
+[22:49:55] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:49:55] BanchoBot: Active mods: NoFail, DoubleTime
+[22:49:55] BanchoBot: Players: 4
+[22:49:55] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7409103 KHAFx           
+[22:49:55] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/1482519 -Anonymous      
+[22:49:55] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11661764 Pokin           
+[22:49:55] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/19770259 _sola           
+[22:49:56] KHAFx: wb
+[22:49:58] BCraftMG: !mp start 5 glhf
+[22:49:58] BanchoBot: Match starts in 5 seconds
+[22:49:58] BanchoBot: Queued the match to start in 5 seconds
+[22:50:00] BanchoBot: Match starts in 4 seconds
+[22:50:01] BanchoBot: Match starts in 3 seconds
+[22:50:02] BanchoBot: Good luck, have fun!
+[22:50:05] BanchoBot: The match has started!
+[22:52:36] BanchoBot: -Anonymous finished playing (Score: 504365, PASSED).
+[22:52:36] BanchoBot: Pokin finished playing (Score: 520234, PASSED).
+[22:52:37] BanchoBot: KHAFx finished playing (Score: 442021, PASSED).
+[22:52:37] BanchoBot: _sola finished playing (Score: 544168, PASSED).
+[22:52:37] BanchoBot: The match has finished!
+[22:53:10] BCraftMG: !mp map 4019994 0
+[22:53:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4019994 ZUN - Extend Ash ~ Houraijin
+[22:53:12] BanchoBot: Changed match mode to Osu
+[22:53:17] BanchoBot: -Anonymous left the game.
+[22:53:31] BanchoBot: -Anonymous joined in slot 2.
+[22:53:43] BanchoBot: _sola left the game.
+[22:54:08] BanchoBot: CyberToothLion joined in slot 4.
+[22:54:21] -Anonymous: vcvcvcvcvcvcvcvcvcvcvcvcvcvc
+[22:54:32] BanchoBot: All players are ready
+[22:54:32] KHAFx: cvccvcvccvcvcvcccvcvcvcvccvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvcvccvcvcvcvcvcvcvcvcvc
+[22:54:41] CyberToothLion: .,.,.,.,.,.,m.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,..,.
+[22:54:46] KHAFx: i use cv too
+[22:54:50] -Anonymous: nice
+[22:54:52] -Anonymous: the m though
+[22:54:52] KHAFx: cuz z and x dead
+[22:54:54] CyberToothLion: .,.,.,.,.,.,.,.,.,.,.
+[22:54:58] BCraftMG: !mp settings
+[22:54:58] BanchoBot: Room name: 5WC2023: (Qualifiers) vs (Match KW), History: https://osu.ppy.sh/mp/107072508
+[22:54:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/4019994 ZUN - Extend Ash ~ Houraijin
+[22:54:58] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:54:58] BanchoBot: Active mods: NoFail, DoubleTime
+[22:54:58] BanchoBot: Players: 4
+[22:54:58] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7409103 KHAFx           
+[22:54:58] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/1482519 -Anonymous      
+[22:54:58] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11661764 Pokin           
+[22:54:58] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7735611 CyberToothLion  
+[22:55:00] BCraftMG: !mp start 5 glhf
+[22:55:01] BanchoBot: Match starts in 5 seconds
+[22:55:01] BanchoBot: Queued the match to start in 5 seconds
+[22:55:02] BanchoBot: Match starts in 4 seconds
+[22:55:03] BanchoBot: Match starts in 3 seconds
+[22:55:04] BanchoBot: Good luck, have fun!
+[22:55:07] CyberToothLion: ,...,,,,,
+[22:55:07] BanchoBot: The match has started!
+[22:56:57] BanchoBot: Pokin finished playing (Score: 167000, PASSED).
+[22:56:57] BanchoBot: -Anonymous finished playing (Score: 281373, PASSED).
+[22:56:57] BanchoBot: CyberToothLion finished playing (Score: 428625, PASSED).
+[22:56:59] BanchoBot: KHAFx finished playing (Score: 413600, PASSED).
+[22:56:59] BanchoBot: The match has finished!
+[22:57:04] BanchoBot: -Anonymous left the game.
+[22:57:10] KHAFx: cvcvccvcvcv
+[22:57:15] BanchoBot: KHAFx left the game.
+[22:57:21] BanchoBot: _sola joined in slot 1.
+[22:57:29] _sola: mr ref
+[22:57:34] BanchoBot: Bisuke joined in slot 2.
+[22:57:36] BCraftMG: !mp map 3996028 0
+[22:57:37] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3996028 MYTH & ROID - PANTA RHEI
+[22:57:37] BanchoBot: Changed match mode to Osu
+[22:57:39] BCraftMG: !mp mods Freemod
+[22:57:40] BanchoBot: Disabled all mods, enabled FreeMod
+[22:57:49] _sola: ref
+[22:57:56] _sola: what is the rules for fm
+[22:58:18] BCraftMG: 4 mod count minimum
+[22:58:18] BanchoBot: -Snake joined in slot 5.
+[22:58:31] BCraftMG: need 1 hd and 1 hr seperate
+[22:58:36] BCraftMG: ez can replace hd
+[22:58:49] -Snake: o
+[22:58:50] BanchoBot: -Anonymous joined in slot 6.
+[22:58:56] -Snake: 4 mod count\
+[22:58:56] Bisuke: so is no mod allowed or not
+[22:58:57] BCraftMG: hdhr counts as 2 mod but wont count as hr nor hd
+[22:59:01] _sola: 4 mods?
+[22:59:17] Pokin: so hdhr hd hr nm works
+[22:59:21] BCraftMG: yes
+[22:59:32] _sola: alr
+[22:59:33] _sola: whos who
+[22:59:40] -Snake: uhhhh
+[22:59:43] Bisuke: uhh
+[22:59:43] CyberToothLion: iim hd
+[22:59:48] Bisuke: i can rng hdhr i guess
+[22:59:49] -Snake: i can do meh hd
+[22:59:49] -Anonymous: If I play, I do hd
+[22:59:55] Pokin: bisuke hdhr sola nm
+[23:00:04] Pokin: we need 1 hd 1 hr
+[23:00:04] _sola: oka
+[23:00:15] -Snake: we need one hr
+[23:00:17] _sola: wait put ur mods
+[23:00:22] _sola: so we can see whos out or not
+[23:00:24] -Snake: bisuke cant go hdhr
+[23:00:34] _sola: i can try hdhr
+[23:00:45] CyberToothLion: who can go HR only
+[23:00:45] _sola: but sum1 has to like gaurantee a good score
+[23:00:46] _sola: in nm
+[23:00:46] -Snake: we must have an HR only player guys
+[23:00:51] Pokin: ill go hr
+[23:01:00] BanchoBot: -Anonymous left the game.
+[23:01:05] -Snake: sola nm
+[23:01:09] -Snake: and bisuke hdhr?
+[23:01:09] _sola: yep
+[23:01:14] -Snake: perfect
+[23:01:16] -Snake: gl gl
+[23:01:17] Bisuke: pokin take the hdhr hit for me
+[23:01:23] BanchoBot: -Snake left the game.
+[23:01:29] Pokin: im down
+[23:01:36] Pokin: but u gotta crit
+[23:01:41] Bisuke: damn nvm
+[23:01:46] Pokin: LOL
+[23:01:56] Pokin: actually i think itd be better if i hdhr ull do better hr
+[23:01:58] Bisuke: saika mode incoming dw
+[23:02:07] Bisuke: aight
+[23:02:21] BanchoBot: All players are ready
+[23:02:21] CyberToothLion: go
+[23:02:25] BCraftMG: !mp settings
+[23:02:26] BanchoBot: Room name: 5WC2023: (Qualifiers) vs (Match KW), History: https://osu.ppy.sh/mp/107072508
+[23:02:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/3996028 MYTH & ROID - PANTA RHEI
+[23:02:26] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:02:26] BanchoBot: Active mods: Freemod
+[23:02:26] BanchoBot: Players: 4
+[23:02:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19770259 _sola           [NoFail]
+[23:02:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6658273 Bisuke          [NoFail, HardRock]
+[23:02:26] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11661764 Pokin           [NoFail, Hidden, HardRock]
+[23:02:26] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7735611 CyberToothLion  [NoFail, Hidden]
+[23:02:30] BCraftMG: !mp start 5 glhf
+[23:02:31] BanchoBot: Match starts in 5 seconds
+[23:02:31] BanchoBot: Queued the match to start in 5 seconds
+[23:02:32] BanchoBot: Match starts in 4 seconds
+[23:02:33] BanchoBot: Match starts in 3 seconds
+[23:02:34] BanchoBot: Good luck, have fun!
+[23:02:37] BanchoBot: The match has started!
+[23:06:01] BanchoBot: Pokin finished playing (Score: 158418, PASSED).
+[23:06:01] BanchoBot: Bisuke finished playing (Score: 275000, PASSED).
+[23:06:04] BanchoBot: CyberToothLion finished playing (Score: 221614, PASSED).
+[23:06:04] BanchoBot: _sola finished playing (Score: 536341, PASSED).
+[23:06:04] BanchoBot: The match has finished!
+[23:06:14] BCraftMG: ggwp!
+[23:06:16] BanchoBot: _sola left the game.
+[23:06:23] Pokin: thank u for hosting :3
+[23:06:29] BanchoBot: Bisuke left the game.
+[23:06:34] BanchoBot: Pokin left the game.
+[23:06:43] BanchoBot: CyberToothLion left the game.
+[23:06:45] BCraftMG: !mp close
+[23:06:47] BanchoBot: Closed the match

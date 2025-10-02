@@ -1,0 +1,81 @@
+[17:48:26] Joined #mp_101403877
+[17:48:26] BCraftMG: !mp settings
+[17:48:28] BanchoBot: Room name: STT3: (EX11) vs (Qualifiers), History: https://osu.ppy.sh/mp/101403877
+[17:48:28] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[17:48:28] BanchoBot: Players: 0
+[17:48:45] BCraftMG: !mp set 0 3 8
+[17:48:46] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[17:49:41] BCraftMG: !mp maps 3044298
+[17:49:45] BCraftMG: !mp mods 1
+[17:49:46] BanchoBot: Enabled NoFail, disabled FreeMod
+[17:50:54] BCraftMG: !mp invite #9921139
+[17:50:55] BanchoBot: Invited Ternafis to the room
+[17:55:45] BCraftMG: !mp invite #9921139
+[17:55:45] BCraftMG: !mp invite #9921139
+[17:55:46] BCraftMG: !mp invite #9921139
+[17:55:46] BanchoBot: Invited Ternafis to the room
+[17:55:50] BCraftMG: !mp invite #9921139
+[17:55:51] BanchoBot: Ternafis joined in slot 1.
+[17:55:51] BanchoBot: User is already in the room
+[17:55:55] Ternafis: o/
+[17:55:57] BCraftMG: o///
+[17:56:27] BanchoBot: -4EPHbILLI- joined in slot 2.
+[17:56:39] BanchoBot: -4EPHbILLI- left the game.
+[17:58:36] BanchoBot: KOTEL0K joined in slot 2.
+[17:59:10] BanchoBot: mikuenjoyer_69 joined in slot 3.
+[17:59:34] BanchoBot: Nyeki joined in slot 4.
+[18:00:28] KOTEL0K: !roll 1000
+[18:00:28] BanchoBot: KOTEL0K rolls 98 point(s)
+[18:01:12] Nyeki: !roll my acc
+[18:01:12] BanchoBot: Nyeki rolls 99 point(s)
+[18:02:20] BCraftMG: !mp settings
+[18:02:21] BanchoBot: Room name: STT3: (EX11) vs (Qualifiers), History: https://osu.ppy.sh/mp/101403877
+[18:02:21] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[18:02:21] BanchoBot: Active mods: NoFail
+[18:02:21] BanchoBot: Players: 4
+[18:02:21] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/9921139 Ternafis        
+[18:02:21] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/14260048 KOTEL0K         
+[18:02:21] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/7834402 mikuenjoyer_69  
+[18:02:21] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/17342436 Nyeki           
+[18:02:34] mikuenjoyer_69: !roll
+[18:02:34] BanchoBot: mikuenjoyer_69 rolls 3 point(s)
+[18:02:49] KOTEL0K: !rolll 1000
+[18:03:10] mikuenjoyer_69: BCraftMG
+[18:03:14] mikuenjoyer_69: holaaaaaaaaaaa
+[18:03:35] BCraftMG: heya
+[18:03:45] BCraftMG: are we ready to go yet?
+[18:03:45] mikuenjoyer_69: can we start
+[18:03:46] BanchoBot: KOTEL0K left the game.
+[18:04:00] Ternafis: yeah we're ready
+[18:04:02] mikuenjoyer_69: you didn't set the map
+[18:04:06] BCraftMG: ready up pkease
+[18:04:08] BCraftMG: oh
+[18:04:18] BCraftMG: !mp map 3044298
+[18:04:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3044298 CHiCO with HoneyWorks - Kessen Spirit
+[18:04:25] BanchoBot: mikuenjoyer_69 moved to slot 2
+[18:04:26] BCraftMG: !mp mods 1
+[18:04:27] BanchoBot: All players are ready
+[18:04:27] BanchoBot: Enabled NoFail, disabled FreeMod
+[18:04:28] BCraftMG: sorry
+[18:04:43] mikuenjoyer_69: glhf
+[18:04:44] BanchoBot: All players are ready
+[18:04:51] BCraftMG: !mp settings
+[18:04:53] BanchoBot: Room name: STT3: (EX11) vs (Qualifiers), History: https://osu.ppy.sh/mp/101403877
+[18:04:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/3044298 CHiCO with HoneyWorks - Kessen Spirit
+[18:04:53] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[18:04:53] BanchoBot: Active mods: NoFail
+[18:04:53] BanchoBot: Players: 3
+[18:04:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9921139 Ternafis        
+[18:04:53] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7834402 mikuenjoyer_69  
+[18:04:53] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/17342436 Nyeki           
+[18:04:54] BCraftMG: !mp start 10
+[18:04:56] BanchoBot: Match starts in 10 seconds
+[18:04:56] BanchoBot: Queued the match to start in 10 seconds
+[18:04:58] Ternafis: gl
+[18:05:00] BanchoBot: Match starts in 5 seconds
+[18:05:02] BanchoBot: Match starts in 4 seconds
+[18:05:03] BanchoBot: Match starts in 3 seconds
+[18:05:05] BanchoBot: Good luck, have fun!
+[18:05:06] BanchoBot: The match has started!
+[18:12:47] BCraftMG: a
+[18:12:52] BCraftMG: did i lag

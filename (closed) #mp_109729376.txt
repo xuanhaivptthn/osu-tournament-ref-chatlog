@@ -1,0 +1,245 @@
+[06:54:30] Joined #mp_109729376
+[06:54:30] BCraftMG: !mp settings
+[06:54:31] BanchoBot: Room name: ANZT: Qualifiers Lobby X10, History: https://osu.ppy.sh/mp/109729376
+[06:54:31] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[06:54:31] BanchoBot: Players: 0
+[06:54:48] BCraftMG: !mp set 0 3 8
+[06:54:48] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[06:54:50] BCraftMG: !mp set 0 3 3
+[06:54:50] BanchoBot: Changed match settings to 3 slots, HeadToHead, ScoreV2
+[06:54:54] BCraftMG: !mp map 3603027
+[06:54:55] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3603027 May'n - graphite/diamond
+[06:54:56] BCraftMG: !mp mods 1
+[06:54:57] BanchoBot: Enabled NoFail, disabled FreeMod
+[06:55:04] BCraftMG: !mp invite #6659116
+[06:55:05] BanchoBot: Invited Vordi to the room
+[06:55:13] BanchoBot: Vordi joined in slot 1.
+[06:55:17] Vordi: yoo
+[06:55:18] BCraftMG: o/
+[06:55:19] Vordi: 1 sec
+[06:57:33] BanchoBot: All players are ready
+[06:57:34] Vordi: rdy
+[06:57:36] BCraftMG: !mp settings
+[06:57:37] BanchoBot: Room name: ANZT: Qualifiers Lobby X10, History: https://osu.ppy.sh/mp/109729376
+[06:57:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/3603027 May'n - graphite/diamond
+[06:57:37] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[06:57:37] BanchoBot: Active mods: NoFail
+[06:57:37] BanchoBot: Players: 1
+[06:57:37] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6659116 Vordi           
+[06:57:38] BCraftMG: !mp start 5 glhf
+[06:57:40] BanchoBot: Match starts in 5 seconds
+[06:57:40] BanchoBot: Queued the match to start in 5 seconds
+[06:57:41] BanchoBot: Match starts in 4 seconds
+[06:57:42] BanchoBot: Match starts in 3 seconds
+[06:57:43] BanchoBot: Good luck, have fun!
+[06:57:45] Vordi: ty
+[06:57:45] BanchoBot: The match has started!
+[07:02:02] BanchoBot: Vordi finished playing (Score: 457673, PASSED).
+[07:02:02] BanchoBot: The match has finished!
+[07:02:05] BCraftMG: !mp map 3783072
+[07:02:05] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3783072 Len - U.N. Owen was her?
+[07:02:47] BanchoBot: All players are ready
+[07:02:49] BCraftMG: !mp settings
+[07:02:50] BanchoBot: Room name: ANZT: Qualifiers Lobby X10, History: https://osu.ppy.sh/mp/109729376
+[07:02:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/3783072 Len - U.N. Owen was her?
+[07:02:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[07:02:50] BanchoBot: Active mods: NoFail
+[07:02:50] BanchoBot: Players: 1
+[07:02:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6659116 Vordi           
+[07:02:51] BCraftMG: !mp start 5 glhf
+[07:02:52] BanchoBot: Match starts in 5 seconds
+[07:02:52] BanchoBot: Queued the match to start in 5 seconds
+[07:02:54] BanchoBot: Match starts in 4 seconds
+[07:02:55] BanchoBot: Match starts in 3 seconds
+[07:02:56] BanchoBot: Good luck, have fun!
+[07:02:58] BanchoBot: The match has started!
+[07:05:15] BanchoBot: Vordi finished playing (Score: 357078, PASSED).
+[07:05:15] BanchoBot: The match has finished!
+[07:05:17] BCraftMG: !mp map 2633136
+[07:05:18] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2633136 Tenjin Kotone - Who Are You Nante Iwanaide
+[07:06:06] BanchoBot: All players are ready
+[07:06:11] BCraftMG: !mp settings
+[07:06:12] BanchoBot: Room name: ANZT: Qualifiers Lobby X10, History: https://osu.ppy.sh/mp/109729376
+[07:06:12] BanchoBot: Beatmap: https://osu.ppy.sh/b/2633136 Tenjin Kotone - Who Are You Nante Iwanaide
+[07:06:12] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[07:06:12] BanchoBot: Active mods: NoFail
+[07:06:12] BanchoBot: Players: 1
+[07:06:12] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6659116 Vordi           
+[07:06:12] BCraftMG: !mp start 5 glhf
+[07:06:13] BanchoBot: Match starts in 5 seconds
+[07:06:13] BanchoBot: Queued the match to start in 5 seconds
+[07:06:14] BanchoBot: Match starts in 4 seconds
+[07:06:15] BanchoBot: Match starts in 3 seconds
+[07:06:16] BanchoBot: Good luck, have fun!
+[07:06:18] BanchoBot: The match has started!
+[07:09:46] BanchoBot: Vordi finished playing (Score: 314863, PASSED).
+[07:09:46] BanchoBot: The match has finished!
+[07:09:48] BCraftMG: !mp map 2831915
+[07:09:49] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2831915 Sano Nobuyoshi - Duration
+[07:10:21] BanchoBot: All players are ready
+[07:10:25] BCraftMG: !mp settings
+[07:10:25] BanchoBot: Room name: ANZT: Qualifiers Lobby X10, History: https://osu.ppy.sh/mp/109729376
+[07:10:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/2831915 Sano Nobuyoshi - Duration
+[07:10:25] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[07:10:25] BanchoBot: Active mods: NoFail
+[07:10:25] BanchoBot: Players: 1
+[07:10:25] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6659116 Vordi           
+[07:10:26] BCraftMG: !mp start 5 glhf
+[07:10:27] BanchoBot: Match starts in 5 seconds
+[07:10:27] BanchoBot: Queued the match to start in 5 seconds
+[07:10:28] BanchoBot: Match starts in 4 seconds
+[07:10:30] BanchoBot: Match starts in 3 seconds
+[07:10:31] BanchoBot: Good luck, have fun!
+[07:10:33] BanchoBot: The match has started!
+[07:12:40] BanchoBot: Vordi finished playing (Score: 361284, PASSED).
+[07:12:40] BanchoBot: The match has finished!
+[07:12:43] BCraftMG: !mp map 3815776
+[07:12:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3815776 isekaijoucho x KOKO - Kokuin
+[07:12:45] BCraftMG: !mp mods 9
+[07:12:45] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[07:12:59] BanchoBot: All players are ready
+[07:13:01] BCraftMG: !mp settings
+[07:13:02] BanchoBot: Room name: ANZT: Qualifiers Lobby X10, History: https://osu.ppy.sh/mp/109729376
+[07:13:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/3815776 isekaijoucho x KOKO - Kokuin
+[07:13:02] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[07:13:02] BanchoBot: Active mods: NoFail, Hidden
+[07:13:02] BanchoBot: Players: 1
+[07:13:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6659116 Vordi           
+[07:13:03] BCraftMG: !mp start 5 glhf
+[07:13:03] BanchoBot: Match starts in 5 seconds
+[07:13:03] BanchoBot: Queued the match to start in 5 seconds
+[07:13:04] BanchoBot: Match starts in 4 seconds
+[07:13:05] BanchoBot: Match starts in 3 seconds
+[07:13:07] BanchoBot: Good luck, have fun!
+[07:13:09] BanchoBot: The match has started!
+[07:15:59] BanchoBot: Vordi finished playing (Score: 374703, PASSED).
+[07:15:59] BanchoBot: The match has finished!
+[07:16:03] BCraftMG: !mp map 3790303
+[07:16:04] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3790303 Zektbach - Apocalypse ~dirge of swans~
+[07:16:11] BanchoBot: All players are ready
+[07:16:13] BCraftMG: !mp settings
+[07:16:14] BanchoBot: Room name: ANZT: Qualifiers Lobby X10, History: https://osu.ppy.sh/mp/109729376
+[07:16:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/3790303 Zektbach - Apocalypse ~dirge of swans~
+[07:16:14] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[07:16:14] BanchoBot: Active mods: NoFail, Hidden
+[07:16:15] BanchoBot: Players: 1
+[07:16:15] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6659116 Vordi           
+[07:16:15] BCraftMG: !mp start 5 glhf
+[07:16:17] BanchoBot: Match starts in 5 seconds
+[07:16:17] BanchoBot: Queued the match to start in 5 seconds
+[07:16:18] BanchoBot: Match starts in 4 seconds
+[07:16:19] BanchoBot: Match starts in 3 seconds
+[07:16:20] BanchoBot: Good luck, have fun!
+[07:16:22] BanchoBot: The match has started!
+[07:18:34] BanchoBot: Vordi finished playing (Score: 230893, PASSED).
+[07:18:34] BanchoBot: The match has finished!
+[07:18:37] BCraftMG: !mp map 3754400
+[07:18:37] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3754400 OxT - GO CRY GO
+[07:18:39] BCraftMG: !mp mods 17
+[07:18:40] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[07:19:28] BanchoBot: All players are ready
+[07:19:30] BCraftMG: !mp settings
+[07:19:30] BanchoBot: Room name: ANZT: Qualifiers Lobby X10, History: https://osu.ppy.sh/mp/109729376
+[07:19:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/3754400 OxT - GO CRY GO
+[07:19:30] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[07:19:30] BanchoBot: Active mods: NoFail, HardRock
+[07:19:30] BanchoBot: Players: 1
+[07:19:30] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6659116 Vordi           
+[07:19:31] BCraftMG: !mp start 5 glhf
+[07:19:33] BanchoBot: Match starts in 5 seconds
+[07:19:33] BanchoBot: Queued the match to start in 5 seconds
+[07:19:34] BanchoBot: Match starts in 4 seconds
+[07:19:35] BanchoBot: Match starts in 3 seconds
+[07:19:36] BanchoBot: Good luck, have fun!
+[07:19:38] BanchoBot: The match has started!
+[07:23:10] BanchoBot: Vordi finished playing (Score: 526241, PASSED).
+[07:23:10] BanchoBot: The match has finished!
+[07:23:12] BCraftMG: !mp map 3841553
+[07:23:13] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3841553 Cranky - Into the Unknown
+[07:23:53] BanchoBot: All players are ready
+[07:23:56] BCraftMG: !mp settings
+[07:23:57] BanchoBot: Room name: ANZT: Qualifiers Lobby X10, History: https://osu.ppy.sh/mp/109729376
+[07:23:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/3841553 Cranky - Into the Unknown
+[07:23:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[07:23:57] BanchoBot: Active mods: NoFail, HardRock
+[07:23:57] BanchoBot: Players: 1
+[07:23:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6659116 Vordi           
+[07:23:57] BCraftMG: !mp start 5 glhf
+[07:23:58] BanchoBot: Match starts in 5 seconds
+[07:23:58] BanchoBot: Queued the match to start in 5 seconds
+[07:23:59] BanchoBot: Match starts in 4 seconds
+[07:24:00] BanchoBot: Match starts in 3 seconds
+[07:24:01] BanchoBot: Good luck, have fun!
+[07:24:03] BanchoBot: The match has started!
+[07:26:16] BanchoBot: Vordi finished playing (Score: 935980, PASSED).
+[07:26:16] BanchoBot: The match has finished!
+[07:26:18] BCraftMG: !mp map 4227777
+[07:26:18] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4227777 Fujijo Seitokai Shikkou-bu - Best FriendS
+[07:26:23] BCraftMG: !mp mods 65
+[07:26:23] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[07:26:26] Vordi: atleast I didnt troll 1 map jesus
+[07:26:36] BCraftMG: xd
+[07:27:17] BanchoBot: All players are ready
+[07:27:19] BCraftMG: !mp settings
+[07:27:19] BanchoBot: Room name: ANZT: Qualifiers Lobby X10, History: https://osu.ppy.sh/mp/109729376
+[07:27:19] BanchoBot: Beatmap: https://osu.ppy.sh/b/4227777 Fujijo Seitokai Shikkou-bu - Best FriendS
+[07:27:19] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[07:27:19] BanchoBot: Active mods: NoFail, DoubleTime
+[07:27:19] BanchoBot: Players: 1
+[07:27:19] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6659116 Vordi           
+[07:27:19] BCraftMG: !mp start 5 glhf
+[07:27:20] BanchoBot: Match starts in 5 seconds
+[07:27:20] BanchoBot: Queued the match to start in 5 seconds
+[07:27:21] BanchoBot: Match starts in 4 seconds
+[07:27:22] BanchoBot: Match starts in 3 seconds
+[07:27:23] BanchoBot: Good luck, have fun!
+[07:27:25] BanchoBot: The match has started!
+[07:30:34] BanchoBot: Vordi finished playing (Score: 642498, PASSED).
+[07:30:34] BanchoBot: The match has finished!
+[07:30:36] BCraftMG: !mp map 2701648
+[07:30:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2701648 ginkiha feat. TEA - Hare
+[07:31:09] BanchoBot: All players are ready
+[07:31:11] BCraftMG: !mp settings
+[07:31:11] BanchoBot: Room name: ANZT: Qualifiers Lobby X10, History: https://osu.ppy.sh/mp/109729376
+[07:31:11] BanchoBot: Beatmap: https://osu.ppy.sh/b/2701648 ginkiha feat. TEA - Hare
+[07:31:11] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[07:31:11] BanchoBot: Active mods: NoFail, DoubleTime
+[07:31:11] BanchoBot: Players: 1
+[07:31:11] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/6659116 Vordi           
+[07:31:12] BCraftMG: !mp start 5 glhf
+[07:31:13] BanchoBot: All players are ready
+[07:31:13] BanchoBot: Match starts in 5 seconds
+[07:31:13] BanchoBot: Queued the match to start in 5 seconds
+[07:31:14] BanchoBot: Match starts in 4 seconds
+[07:31:15] BanchoBot: Match starts in 3 seconds
+[07:31:16] BanchoBot: Good luck, have fun!
+[07:31:18] BanchoBot: The match has started!
+[07:33:38] BanchoBot: Vordi finished playing (Score: 610758, PASSED).
+[07:33:38] BanchoBot: The match has finished!
+[07:33:40] BCraftMG: !mp map 3181361
+[07:33:41] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3181361 BUTAOTOME - Tanoshii Sensou no Uta
+[07:33:46] BanchoBot: All players are ready
+[07:33:48] BCraftMG: !mp settings
+[07:33:48] BanchoBot: Room name: ANZT: Qualifiers Lobby X10, History: https://osu.ppy.sh/mp/109729376
+[07:33:48] BanchoBot: Beatmap: https://osu.ppy.sh/b/3181361 BUTAOTOME - Tanoshii Sensou no Uta
+[07:33:48] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[07:33:48] BanchoBot: Active mods: NoFail, DoubleTime
+[07:33:48] BanchoBot: Players: 1
+[07:33:48] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6659116 Vordi           
+[07:33:49] BCraftMG: !mp start 5 glhf
+[07:33:49] BanchoBot: Match starts in 5 seconds
+[07:33:49] BanchoBot: Queued the match to start in 5 seconds
+[07:33:50] BanchoBot: Match starts in 4 seconds
+[07:33:52] BanchoBot: Match starts in 3 seconds
+[07:33:53] BanchoBot: Good luck, have fun!
+[07:33:55] BanchoBot: The match has started!
+[07:36:17] BanchoBot: Vordi finished playing (Score: 786774, PASSED).
+[07:36:17] BanchoBot: The match has finished!
+[07:36:26] Vordi: tyvm for ref on short noticr
+[07:36:29] BCraftMG: :3c
+[07:36:32] BCraftMG: ggwp
+[07:36:39] Vordi: o/
+[07:36:41] BanchoBot: Vordi left the game.
+[07:36:42] BCraftMG: o/
+[07:36:45] BCraftMG: !mp close
+[07:36:47] BanchoBot: Closed the match

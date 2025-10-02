@@ -1,0 +1,407 @@
+[22:52:41] Joined #mp_109491461
+[22:52:41] BCraftMG: !mp settings
+[22:52:41] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q9), History: https://osu.ppy.sh/mp/109491461
+[22:52:41] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[22:52:41] BanchoBot: Players: 0
+[22:52:54] BCraftMG: !mp set 0 3 3
+[22:52:55] BanchoBot: Changed match settings to 3 slots, HeadToHead, ScoreV2
+[22:53:11] BCraftMG: !mp map 4142536 0
+[22:53:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4142536 Hoshimachi Suisei - Newton
+[22:53:11] BanchoBot: Changed match mode to Osu
+[22:53:13] BCraftMG: !mp mods 1
+[22:53:15] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:54:34] BCraftMG: !mp invite #8956749
+[22:54:34] BanchoBot: Invited __Neo to the room
+[22:54:35] BCraftMG: !mp invite #10270382
+[22:54:36] BanchoBot: Invited Quiligru to the room
+[22:55:48] BanchoBot: Quiligru joined in slot 1.
+[22:56:09] BCraftMG: hi
+[22:56:24] Quiligru: hello
+[22:56:26] Quiligru: hes in map rn
+[22:56:30] Quiligru: wait a minute
+[22:56:33] Quiligru: d:
+[22:56:38] BanchoBot: __Neo joined in slot 2.
+[22:56:40] BCraftMG: :3c
+[22:56:50] Quiligru: START START START START
+[22:56:53] BanchoBot: All players are ready
+[22:56:55] BCraftMG: !mp settings
+[22:56:56] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q9), History: https://osu.ppy.sh/mp/109491461
+[22:56:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/4142536 Hoshimachi Suisei - Newton
+[22:56:56] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:56:56] BanchoBot: Active mods: NoFail
+[22:56:56] BanchoBot: Players: 2
+[22:56:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10270382 Quiligru        
+[22:56:56] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8956749 __Neo           
+[22:56:57] BCraftMG: !mp start 5 glhf
+[22:56:58] BanchoBot: Match starts in 5 seconds
+[22:56:58] BanchoBot: Queued the match to start in 5 seconds
+[22:56:59] BanchoBot: Match starts in 4 seconds
+[22:57:00] BCraftMG: sheez chill
+[22:57:00] BanchoBot: Match starts in 3 seconds
+[22:57:01] BanchoBot: Good luck, have fun!
+[22:57:03] BanchoBot: The match has started!
+[23:00:44] BanchoBot: __Neo finished playing (Score: 377745, PASSED).
+[23:00:45] BanchoBot: Quiligru finished playing (Score: 582048, PASSED).
+[23:00:45] BanchoBot: The match has finished!
+[23:00:48] BCraftMG: !mp map 4187144 0
+[23:00:49] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4187144 Raimukun - Nyarlathotep's Dreamland
+[23:00:49] BanchoBot: Changed match mode to Osu
+[23:01:01] Quiligru: I HATE SLIDESR I HATE SLIDERS
+[23:01:04] BCraftMG: !mp settings
+[23:01:04] Quiligru: I HATE THEM I HATE THEM
+[23:01:04] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q9), History: https://osu.ppy.sh/mp/109491461
+[23:01:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/4187144 Raimukun - Nyarlathotep's Dreamland
+[23:01:04] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:01:04] BanchoBot: Active mods: NoFail
+[23:01:04] BanchoBot: Players: 2
+[23:01:04] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/10270382 Quiligru        
+[23:01:04] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/8956749 __Neo           
+[23:01:10] __Neo: i hate cs over 4 i hate cs over 4
+[23:01:59] BanchoBot: All players are ready
+[23:02:02] BCraftMG: !mp settings
+[23:02:03] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q9), History: https://osu.ppy.sh/mp/109491461
+[23:02:03] BanchoBot: Beatmap: https://osu.ppy.sh/b/4187144 Raimukun - Nyarlathotep's Dreamland
+[23:02:03] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:02:03] BanchoBot: Active mods: NoFail
+[23:02:03] BanchoBot: Players: 2
+[23:02:03] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10270382 Quiligru        
+[23:02:03] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8956749 __Neo           
+[23:02:03] BCraftMG: !mp start 5 glhf
+[23:02:04] BanchoBot: Match starts in 5 seconds
+[23:02:04] BanchoBot: Queued the match to start in 5 seconds
+[23:02:05] BanchoBot: Match starts in 4 seconds
+[23:02:06] Quiligru: glhf
+[23:02:06] BanchoBot: Match starts in 3 seconds
+[23:02:07] BanchoBot: Good luck, have fun!
+[23:02:09] BanchoBot: The match has started!
+[23:04:43] BanchoBot: __Neo finished playing (Score: 251219, PASSED).
+[23:04:43] BanchoBot: Quiligru finished playing (Score: 583895, PASSED).
+[23:04:43] BanchoBot: The match has finished!
+[23:04:46] BCraftMG: !mp map 4068544 0
+[23:04:46] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4068544 hitorie - NONSENSE
+[23:04:46] BanchoBot: Changed match mode to Osu
+[23:04:49] Quiligru: I HATE
+[23:04:50] Quiligru: THSI GAME
+[23:04:51] Quiligru: WITH THIS
+[23:04:52] Quiligru: REVERSE HCOKE
+[23:04:52] BCraftMG: !mp timer 90
+[23:04:53] Quiligru: !!!!!!!!!!!
+[23:04:53] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[23:04:55] __Neo: worst nm2 in existence
+[23:05:08] BanchoBot: All players are ready
+[23:05:08] Quiligru: i love it
+[23:05:10] BCraftMG: !mp settings
+[23:05:11] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q9), History: https://osu.ppy.sh/mp/109491461
+[23:05:11] BanchoBot: Beatmap: https://osu.ppy.sh/b/4068544 hitorie - NONSENSE
+[23:05:11] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:05:11] BanchoBot: Active mods: NoFail
+[23:05:11] BanchoBot: Players: 2
+[23:05:11] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10270382 Quiligru        
+[23:05:11] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8956749 __Neo           
+[23:05:11] BCraftMG: !mp start 5 glhf
+[23:05:13] BanchoBot: Countdown aborted
+[23:05:13] BanchoBot: Match starts in 5 seconds
+[23:05:13] BanchoBot: Queued the match to start in 5 seconds
+[23:05:14] BanchoBot: Match starts in 4 seconds
+[23:05:15] BanchoBot: Match starts in 3 seconds
+[23:05:16] BanchoBot: Good luck, have fun!
+[23:05:18] BanchoBot: The match has started!
+[23:09:27] BanchoBot: __Neo finished playing (Score: 119457, PASSED).
+[23:09:28] BanchoBot: Quiligru finished playing (Score: 181875, PASSED).
+[23:09:28] BanchoBot: The match has finished!
+[23:09:30] BCraftMG: !mp map 3535254 0
+[23:09:30] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3535254 kors k vs Yooh - 2 Beasts Unchained
+[23:09:30] BanchoBot: Changed match mode to Osu
+[23:10:33] BanchoBot: All players are ready
+[23:10:35] BCraftMG: !mp settings
+[23:10:35] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q9), History: https://osu.ppy.sh/mp/109491461
+[23:10:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/3535254 kors k vs Yooh - 2 Beasts Unchained
+[23:10:35] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:10:35] BanchoBot: Active mods: NoFail
+[23:10:35] BanchoBot: Players: 2
+[23:10:35] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10270382 Quiligru        
+[23:10:35] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8956749 __Neo           
+[23:10:37] BCraftMG: !mp start 5 glhf
+[23:10:38] BanchoBot: Match starts in 5 seconds
+[23:10:38] BanchoBot: Queued the match to start in 5 seconds
+[23:10:39] Quiligru: glhf
+[23:10:39] BanchoBot: Match starts in 4 seconds
+[23:10:40] BanchoBot: Match starts in 3 seconds
+[23:10:41] BanchoBot: Good luck, have fun!
+[23:10:43] BanchoBot: The match has started!
+[23:10:43] __Neo: gl
+[23:12:45] BanchoBot: Quiligru finished playing (Score: 167088, PASSED).
+[23:12:47] BanchoBot: __Neo finished playing (Score: 274060, PASSED).
+[23:12:47] BanchoBot: The match has finished!
+[23:12:51] BCraftMG: !mp map 3183305 0
+[23:12:52] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3183305 tarolabo - eth ken
+[23:12:52] BanchoBot: Changed match mode to Osu
+[23:13:01] Quiligru: who mapped this bro
+[23:13:02] Quiligru: ?
+[23:13:04] Quiligru: this mm5
+[23:13:04] Quiligru: nm5
+[23:13:05] __Neo: goofy ahh map
+[23:13:11] __Neo: "who"
+[23:13:21] BanchoBot: All players are ready
+[23:13:25] BCraftMG: !mp settings
+[23:13:26] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q9), History: https://osu.ppy.sh/mp/109491461
+[23:13:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/3183305 tarolabo - eth ken
+[23:13:26] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:13:26] BanchoBot: Active mods: NoFail
+[23:13:26] BanchoBot: Players: 2
+[23:13:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10270382 Quiligru        
+[23:13:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8956749 __Neo           
+[23:13:27] BCraftMG: !mp start 5 glhf
+[23:13:27] BanchoBot: Match starts in 5 seconds
+[23:13:27] BanchoBot: Queued the match to start in 5 seconds
+[23:13:28] BanchoBot: Match starts in 4 seconds
+[23:13:29] BanchoBot: Match starts in 3 seconds
+[23:13:30] BanchoBot: Good luck, have fun!
+[23:13:32] Quiligru: who pooled this
+[23:13:32] BanchoBot: The match has started!
+[23:16:00] BanchoBot: __Neo finished playing (Score: 134697, PASSED).
+[23:16:02] BanchoBot: Quiligru finished playing (Score: 139364, PASSED).
+[23:16:02] BanchoBot: The match has finished!
+[23:16:04] BCraftMG: !mp map 4019527 0
+[23:16:05] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4019527 Lon - Yuru Fuwa Jukai Girl
+[23:16:05] BanchoBot: Changed match mode to Osu
+[23:16:05] BCraftMG: !mp mods 9
+[23:16:06] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[23:16:13] Quiligru: I HATE THIS MAP
+[23:16:14] Quiligru: I HATE THSI MAP
+[23:16:47] BanchoBot: All players are ready
+[23:16:49] Quiligru: glhf
+[23:16:51] Quiligru: i ahte this
+[23:16:55] BCraftMG: !mp settings
+[23:16:55] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q9), History: https://osu.ppy.sh/mp/109491461
+[23:16:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/4019527 Lon - Yuru Fuwa Jukai Girl
+[23:16:55] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:16:55] BanchoBot: Active mods: NoFail, Hidden
+[23:16:55] BanchoBot: Players: 2
+[23:16:55] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10270382 Quiligru        
+[23:16:55] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8956749 __Neo           
+[23:16:56] BCraftMG: !mp start 5 glhf
+[23:16:56] BanchoBot: Match starts in 5 seconds
+[23:16:56] BanchoBot: Queued the match to start in 5 seconds
+[23:16:57] BanchoBot: Match starts in 4 seconds
+[23:16:58] BanchoBot: Match starts in 3 seconds
+[23:16:59] BanchoBot: Good luck, have fun!
+[23:17:01] BanchoBot: The match has started!
+[23:20:14] BanchoBot: Quiligru finished playing (Score: 272821, PASSED).
+[23:20:15] BanchoBot: __Neo finished playing (Score: 205493, PASSED).
+[23:20:15] BanchoBot: The match has finished!
+[23:20:19] BCraftMG: !mp map 3535284 0
+[23:20:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3535284 Sheena Ringo - Open Secret
+[23:20:20] BanchoBot: Changed match mode to Osu
+[23:20:23] __Neo: brbr
+[23:20:25] __Neo: brb
+[23:22:03] BCraftMG: !mp settings
+[23:22:04] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q9), History: https://osu.ppy.sh/mp/109491461
+[23:22:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/3535284 Sheena Ringo - Open Secret
+[23:22:04] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:22:04] BanchoBot: Active mods: NoFail, Hidden
+[23:22:04] BanchoBot: Players: 2
+[23:22:04] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/10270382 Quiligru        
+[23:22:04] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8956749 __Neo           
+[23:22:11] BanchoBot: All players are ready
+[23:22:12] Quiligru: glhf
+[23:22:13] BCraftMG: !mp settings
+[23:22:13] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q9), History: https://osu.ppy.sh/mp/109491461
+[23:22:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/3535284 Sheena Ringo - Open Secret
+[23:22:13] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:22:13] BanchoBot: Active mods: NoFail, Hidden
+[23:22:13] BanchoBot: Players: 2
+[23:22:13] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10270382 Quiligru        
+[23:22:13] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8956749 __Neo           
+[23:22:15] BCraftMG: !mp start 5 glhf
+[23:22:15] BanchoBot: Match starts in 5 seconds
+[23:22:15] BanchoBot: Queued the match to start in 5 seconds
+[23:22:16] BanchoBot: Match starts in 4 seconds
+[23:22:18] BanchoBot: Match starts in 3 seconds
+[23:22:18] BanchoBot: Good luck, have fun!
+[23:22:20] BanchoBot: The match has started!
+[23:25:29] BanchoBot: __Neo finished playing (Score: 35058, PASSED).
+[23:25:29] BanchoBot: Quiligru finished playing (Score: 47169, PASSED).
+[23:25:29] BanchoBot: The match has finished!
+[23:25:31] BCraftMG: !mp map 3853099 0
+[23:25:31] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3853099 wowaka - Ura-Omote Lovers feat. Hatsune Miku
+[23:25:31] BanchoBot: Changed match mode to Osu
+[23:25:43] Quiligru: kill the man who pooled this hd2
+[23:26:36] BanchoBot: All players are ready
+[23:26:38] BCraftMG: !mp settings
+[23:26:38] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q9), History: https://osu.ppy.sh/mp/109491461
+[23:26:38] BanchoBot: Beatmap: https://osu.ppy.sh/b/3853099 wowaka - Ura-Omote Lovers feat. Hatsune Miku
+[23:26:38] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:26:38] BanchoBot: Active mods: NoFail, Hidden
+[23:26:38] BanchoBot: Players: 2
+[23:26:38] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10270382 Quiligru        
+[23:26:38] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/8956749 __Neo           
+[23:26:39] BanchoBot: All players are ready
+[23:26:40] BCraftMG: !mp start 5 glhf
+[23:26:40] BanchoBot: Match starts in 5 seconds
+[23:26:40] BanchoBot: Queued the match to start in 5 seconds
+[23:26:42] BanchoBot: Match starts in 4 seconds
+[23:26:42] BanchoBot: Match starts in 3 seconds
+[23:26:43] BanchoBot: Good luck, have fun!
+[23:26:46] BanchoBot: The match has started!
+[23:29:56] BanchoBot: __Neo finished playing (Score: 60969, PASSED).
+[23:29:56] BanchoBot: Quiligru finished playing (Score: 56970, PASSED).
+[23:29:56] BanchoBot: The match has finished!
+[23:29:59] BCraftMG: !mp map 3742259 0
+[23:29:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3742259 UROBOROS - ZODIAC
+[23:29:59] BanchoBot: Changed match mode to Osu
+[23:30:03] BCraftMG: !mp mods 17
+[23:30:05] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[23:30:25] BanchoBot: All players are ready
+[23:30:27] BCraftMG: !mp settings
+[23:30:27] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q9), History: https://osu.ppy.sh/mp/109491461
+[23:30:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/3742259 UROBOROS - ZODIAC
+[23:30:27] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:30:27] BanchoBot: Active mods: NoFail, HardRock
+[23:30:27] BanchoBot: Players: 2
+[23:30:27] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10270382 Quiligru        
+[23:30:27] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8956749 __Neo           
+[23:30:28] BCraftMG: !mp start 5 glhf
+[23:30:28] BanchoBot: Match starts in 5 seconds
+[23:30:28] BanchoBot: Queued the match to start in 5 seconds
+[23:30:30] BanchoBot: Match starts in 4 seconds
+[23:30:31] BanchoBot: Match starts in 3 seconds
+[23:30:32] BanchoBot: Good luck, have fun!
+[23:30:33] BanchoBot: The match has started!
+[23:34:15] BanchoBot: __Neo finished playing (Score: 350205, PASSED).
+[23:34:15] BanchoBot: Quiligru finished playing (Score: 306832, PASSED).
+[23:34:15] BanchoBot: The match has finished!
+[23:34:16] BCraftMG: !mp map 4016778 0
+[23:34:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4016778 onoken feat. Misaki - Gokuaku no Hana
+[23:34:17] BanchoBot: Changed match mode to Osu
+[23:34:45] Quiligru: glhf
+[23:34:57] BanchoBot: All players are ready
+[23:35:01] BCraftMG: !mp settings
+[23:35:02] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q9), History: https://osu.ppy.sh/mp/109491461
+[23:35:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/4016778 onoken feat. Misaki - Gokuaku no Hana
+[23:35:02] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:35:02] BanchoBot: Active mods: NoFail, HardRock
+[23:35:02] BanchoBot: Players: 2
+[23:35:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10270382 Quiligru        
+[23:35:02] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8956749 __Neo           
+[23:35:03] BCraftMG: !mp start 5 glhf
+[23:35:04] Quiligru: bez uvrede ja bi ovo sve sso da niste pizde
+[23:35:04] BanchoBot: Match starts in 5 seconds
+[23:35:04] BanchoBot: Queued the match to start in 5 seconds
+[23:35:06] BanchoBot: Match starts in 4 seconds
+[23:35:07] BanchoBot: Match starts in 3 seconds
+[23:35:08] BanchoBot: Good luck, have fun!
+[23:35:09] BanchoBot: The match has started!
+[23:37:17] BanchoBot: __Neo finished playing (Score: 319959, PASSED).
+[23:37:17] BanchoBot: Quiligru finished playing (Score: 612484, PASSED).
+[23:37:17] BanchoBot: The match has finished!
+[23:37:19] BCraftMG: !mp map 2590758 0
+[23:37:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2590758 K/DA - THE BADDEST feat. (G)I-DLE, Bea Miller, Wolftyla
+[23:37:20] BanchoBot: Changed match mode to Osu
+[23:38:25] BanchoBot: All players are ready
+[23:38:26] BCraftMG: !mp settings
+[23:38:28] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q9), History: https://osu.ppy.sh/mp/109491461
+[23:38:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/2590758 K/DA - THE BADDEST feat. (G)I-DLE, Bea Miller, Wolftyla
+[23:38:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:38:28] BanchoBot: Active mods: NoFail, HardRock
+[23:38:28] BanchoBot: Players: 2
+[23:38:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10270382 Quiligru        
+[23:38:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8956749 __Neo           
+[23:38:28] BCraftMG: !mp start 5 glhf
+[23:38:31] BanchoBot: Match starts in 5 seconds
+[23:38:31] BanchoBot: Queued the match to start in 5 seconds
+[23:38:32] BanchoBot: Match starts in 4 seconds
+[23:38:40] BanchoBot: Match starts in 3 seconds
+[23:38:40] BanchoBot: Good luck, have fun!
+[23:38:40] BanchoBot: The match has started!
+[23:41:18] BanchoBot: Quiligru finished playing (Score: 312764, PASSED).
+[23:41:19] BanchoBot: __Neo finished playing (Score: 664873, PASSED).
+[23:41:19] BanchoBot: The match has finished!
+[23:41:23] BCraftMG: !mp map 3424169 0
+[23:41:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3424169 Vaundy - Hadaka no Yuusha
+[23:41:23] BanchoBot: Changed match mode to Osu
+[23:41:26] BCraftMG: !mp mods 65
+[23:41:26] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[23:42:01] BanchoBot: All players are ready
+[23:42:03] BCraftMG: !mp settings
+[23:42:04] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q9), History: https://osu.ppy.sh/mp/109491461
+[23:42:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/3424169 Vaundy - Hadaka no Yuusha
+[23:42:04] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:42:04] BanchoBot: Active mods: NoFail, DoubleTime
+[23:42:04] BanchoBot: Players: 2
+[23:42:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10270382 Quiligru        
+[23:42:04] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8956749 __Neo           
+[23:42:04] Quiligru: glhf
+[23:42:06] BCraftMG: !mp start 5 glhf
+[23:42:06] Quiligru: !
+[23:42:06] Quiligru: glhf
+[23:42:06] BanchoBot: Match starts in 5 seconds
+[23:42:06] BanchoBot: Queued the match to start in 5 seconds
+[23:42:07] BanchoBot: Match starts in 4 seconds
+[23:42:08] BanchoBot: Match starts in 3 seconds
+[23:42:09] BanchoBot: Good luck, have fun!
+[23:42:11] BanchoBot: The match has started!
+[23:44:30] BanchoBot: __Neo finished playing (Score: 364400, PASSED).
+[23:44:31] BanchoBot: Quiligru finished playing (Score: 505348, PASSED).
+[23:44:31] BanchoBot: The match has finished!
+[23:44:33] BCraftMG: !mp map 3228276 0
+[23:44:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3228276 senya - Kimiiro Subliminal
+[23:44:34] BanchoBot: Changed match mode to Osu
+[23:45:03] BanchoBot: All players are ready
+[23:45:05] BCraftMG: !mp settings
+[23:45:06] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q9), History: https://osu.ppy.sh/mp/109491461
+[23:45:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/3228276 senya - Kimiiro Subliminal
+[23:45:06] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:45:06] BanchoBot: Active mods: NoFail, DoubleTime
+[23:45:06] BanchoBot: Players: 2
+[23:45:06] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10270382 Quiligru        
+[23:45:06] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8956749 __Neo           
+[23:45:07] BCraftMG: !mp start 5 glhf
+[23:45:07] BanchoBot: Match starts in 5 seconds
+[23:45:07] BanchoBot: Queued the match to start in 5 seconds
+[23:45:08] BanchoBot: Match starts in 4 seconds
+[23:45:09] BanchoBot: Match starts in 3 seconds
+[23:45:10] BanchoBot: Good luck, have fun!
+[23:45:12] BanchoBot: The match has started!
+[23:47:59] BanchoBot: __Neo finished playing (Score: 457082, PASSED).
+[23:48:01] BanchoBot: Quiligru finished playing (Score: 497399, PASSED).
+[23:48:01] BanchoBot: The match has finished!
+[23:48:11] Quiligru: wors rtufcking pool ever
+[23:48:11] BCraftMG: !mp map 2149694 0
+[23:48:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2149694 Enter Shikari - Wall
+[23:48:12] BanchoBot: Changed match mode to Osu
+[23:48:20] Quiligru: please tell the poolers to actually try next time
+[23:48:23] Quiligru: every firetrucknig map is jsut flow aim
+[23:48:32] Quiligru: not a single firetruckig map is in their category
+[23:48:38] Quiligru: everything is just hnm2 except the actual nm2
+[23:48:58] BanchoBot: All players are ready
+[23:48:59] __Neo: legit
+[23:48:59] BCraftMG: !mp settings
+[23:49:00] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q9), History: https://osu.ppy.sh/mp/109491461
+[23:49:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/2149694 Enter Shikari - Wall
+[23:49:00] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:49:00] BanchoBot: Active mods: NoFail, DoubleTime
+[23:49:00] BanchoBot: Players: 2
+[23:49:00] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10270382 Quiligru        
+[23:49:00] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8956749 __Neo           
+[23:49:01] BCraftMG: !mp start 5 glhf
+[23:49:02] BanchoBot: Match starts in 5 seconds
+[23:49:02] BanchoBot: Queued the match to start in 5 seconds
+[23:49:04] BanchoBot: Match starts in 4 seconds
+[23:49:04] BanchoBot: Match starts in 3 seconds
+[23:49:05] BanchoBot: Good luck, have fun!
+[23:49:07] BanchoBot: The match has started!
+[23:49:24] BCraftMG: maybe try to raise your concern in #mappool-feedback
+[23:52:14] BanchoBot: __Neo finished playing (Score: 360133, PASSED).
+[23:52:15] BanchoBot: Quiligru finished playing (Score: 674275, PASSED).
+[23:52:15] BanchoBot: The match has finished!
+[23:52:28] Quiligru: ty for reffing
+[23:52:31] Quiligru: have a good day
+[23:52:32] __Neo: ty
+[23:52:36] BCraftMG: o/
+[23:52:38] __Neo: o/
+[23:52:44] Quiligru: o7
+[23:52:45] BanchoBot: __Neo left the game.
+[23:52:47] BanchoBot: Quiligru left the game.
+[23:52:58] BCraftMG: !mp close
+[23:52:59] BanchoBot: Closed the match

@@ -1,0 +1,537 @@
+[20:47:16] Joined #mp_101407754
+[20:47:16] BCraftMG: !mp settings
+[20:47:17] BanchoBot: Room name: STT3: (Q44B) vs (Qualifiers), History: https://osu.ppy.sh/mp/101407754
+[20:47:17] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[20:47:17] BanchoBot: Players: 0
+[20:47:59] BCraftMG: !mp set 0 3 15
+[20:48:00] BanchoBot: Changed match settings to 15 slots, HeadToHead, ScoreV2
+[20:48:01] BCraftMG: !mp map 3044298 0
+[20:48:01] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3044298 CHiCO with HoneyWorks - Kessen Spirit
+[20:48:01] BanchoBot: Changed match mode to Osu
+[20:48:03] BCraftMG: !mp mods 1
+[20:48:04] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:52:44] BCraftMG: !mp invite #7128826
+[20:52:44] BanchoBot: User not found
+[20:52:49] BCraftMG: !mp invite #10038631
+[20:52:50] BanchoBot: Invited Geanyl to the room
+[20:52:52] BCraftMG: !mp invite #15293336
+[20:52:54] BanchoBot: Invited Maopo to the room
+[20:53:00] BCraftMG: !mp invite #5143605
+[20:53:00] BanchoBot: Invited m0fum0fu to the room
+[20:53:14] BanchoBot: Geanyl joined in slot 1.
+[20:53:15] BanchoBot: m0fum0fu joined in slot 2.
+[20:53:37] BanchoBot: Maopo joined in slot 3.
+[20:53:52] BanchoBot: shiroeneko joined in slot 4.
+[20:53:54] BanchoBot: Ostiminum joined in slot 5.
+[20:54:10] BanchoBot: Kozakura- joined in slot 6.
+[20:54:16] BanchoBot: squidstain joined in slot 7.
+[20:54:42] BanchoBot: squidstain left the game.
+[20:55:09] BanchoBot: Floth joined in slot 7.
+[20:55:16] BanchoBot: Ariisu joined in slot 8.
+[20:55:19] BanchoBot: BananaMNM8210 joined in slot 9.
+[20:55:33] BanchoBot: BananaMNM8210 moved to slot 15
+[20:55:42] BanchoBot: BananaMNM8210 moved to slot 9
+[20:55:46] BanchoBot: BananaMNM8210 moved to slot 11
+[20:57:06] BanchoBot: m0fum0fu left the game.
+[20:57:07] BanchoBot: JokThree joined in slot 2.
+[20:57:15] BanchoBot: Geanyl moved to slot 10
+[20:57:20] BanchoBot: Ariisu moved to slot 1
+[20:57:25] BanchoBot: All players are ready
+[20:57:35] BCraftMG: !mp settings
+[20:57:35] BanchoBot: Geanyl moved to slot 8
+[20:57:35] BanchoBot: Room name: STT3: (Q44B) vs (Qualifiers), History: https://osu.ppy.sh/mp/101407754
+[20:57:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/3044298 CHiCO with HoneyWorks - Kessen Spirit
+[20:57:35] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:57:35] BanchoBot: Active mods: NoFail
+[20:57:35] BanchoBot: Players: 9
+[20:57:35] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/4029900 Ariisu          
+[20:57:35] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7713152 JokThree        
+[20:57:35] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15293336 Maopo           
+[20:57:35] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11120533 shiroeneko      
+[20:57:35] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11633163 Ostiminum       
+[20:57:35] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/4473506 Kozakura-       
+[20:57:35] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11134301 Floth           
+[20:57:35] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10038631 Geanyl          
+[20:57:35] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/14664996 BananaMNM8210   
+[20:57:38] Floth: glhf
+[20:57:41] BCraftMG: glgl
+[20:57:41] Ostiminum: glhf
+[20:57:42] Maopo: glhf
+[20:57:45] BCraftMG: !mp start 5
+[20:57:46] BananaMNM8210: gl
+[20:57:46] BanchoBot: Match starts in 5 seconds
+[20:57:46] BanchoBot: Queued the match to start in 5 seconds
+[20:57:47] BanchoBot: Match starts in 4 seconds
+[20:57:48] BanchoBot: Match starts in 3 seconds
+[20:57:50] BanchoBot: Good luck, have fun!
+[20:57:52] BanchoBot: The match has started!
+[20:59:15] BanchoBot: DVDthe1st joined in slot 9.
+[20:59:19] BanchoBot: DVDthe1st left the game.
+[21:01:56] BanchoBot: DVDthe1st joined in slot 9.
+[21:02:01] BanchoBot: DVDthe1st left the game.
+[21:02:29] BanchoBot: Maopo finished playing (Score: 396193, PASSED).
+[21:02:29] BanchoBot: JokThree finished playing (Score: 672129, PASSED).
+[21:02:29] BanchoBot: Ariisu finished playing (Score: 291886, PASSED).
+[21:02:29] BanchoBot: Kozakura- finished playing (Score: 441310, PASSED).
+[21:02:31] BanchoBot: Ostiminum finished playing (Score: 434761, PASSED).
+[21:02:31] BanchoBot: Floth finished playing (Score: 641366, PASSED).
+[21:02:31] BanchoBot: BananaMNM8210 finished playing (Score: 865059, PASSED).
+[21:02:32] BanchoBot: shiroeneko finished playing (Score: 946247, PASSED).
+[21:02:35] BanchoBot: Geanyl finished playing (Score: 598999, PASSED).
+[21:02:36] BanchoBot: The match has finished!
+[21:02:42] BCraftMG: !mp map 3056724 0
+[21:02:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3056724 Plum - Halloween Candystore
+[21:02:43] BanchoBot: Changed match mode to Osu
+[21:03:25] BanchoBot: heyimcrunchy joined in slot 9.
+[21:03:26] BanchoBot: Floth left the game.
+[21:03:30] BanchoBot: Geanyl moved to slot 7
+[21:03:33] JokThree: heyimcrunchy
+[21:03:35] JokThree: WADDUP
+[21:03:43] heyimcrunchy: oh hi
+[21:03:44] heyimcrunchy: LOL
+[21:03:47] BanchoBot: m0fum0fu joined in slot 8.
+[21:03:52] JokThree: love u
+[21:03:57] BanchoBot: JokThree left the game.
+[21:04:02] BanchoBot: Kozakura- moved to slot 2
+[21:04:12] BanchoBot: All players are ready
+[21:04:20] BCraftMG: !mp settings
+[21:04:21] BanchoBot: Room name: STT3: (Q44B) vs (Qualifiers), History: https://osu.ppy.sh/mp/101407754
+[21:04:21] BanchoBot: Beatmap: https://osu.ppy.sh/b/3056724 Plum - Halloween Candystore
+[21:04:21] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:04:21] BanchoBot: Active mods: NoFail
+[21:04:21] BanchoBot: Players: 9
+[21:04:21] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/4029900 Ariisu          
+[21:04:21] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4473506 Kozakura-       
+[21:04:21] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15293336 Maopo           
+[21:04:21] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11120533 shiroeneko      
+[21:04:21] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11633163 Ostiminum       
+[21:04:21] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/10038631 Geanyl          
+[21:04:21] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/5143605 m0fum0fu        
+[21:04:21] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/13067221 heyimcrunchy    
+[21:04:21] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/14664996 BananaMNM8210   
+[21:04:23] BCraftMG: !mp start 5
+[21:04:25] BanchoBot: Match starts in 5 seconds
+[21:04:25] BanchoBot: Queued the match to start in 5 seconds
+[21:04:26] BanchoBot: Match starts in 4 seconds
+[21:04:27] heyimcrunchy: glgl
+[21:04:27] BanchoBot: Match starts in 3 seconds
+[21:04:28] BanchoBot: Good luck, have fun!
+[21:04:30] BanchoBot: The match has started!
+[21:07:04] BanchoBot: Ostiminum finished playing (Score: 237607, PASSED).
+[21:07:05] BanchoBot: Kozakura- finished playing (Score: 206485, PASSED).
+[21:07:05] BanchoBot: BananaMNM8210 finished playing (Score: 584117, PASSED).
+[21:07:06] BanchoBot: Ariisu finished playing (Score: 288032, PASSED).
+[21:07:06] BanchoBot: Maopo finished playing (Score: 489039, PASSED).
+[21:07:07] BanchoBot: shiroeneko finished playing (Score: 324961, PASSED).
+[21:07:07] BanchoBot: m0fum0fu finished playing (Score: 227691, PASSED).
+[21:07:07] BanchoBot: heyimcrunchy finished playing (Score: 255869, PASSED).
+[21:07:09] BanchoBot: Geanyl finished playing (Score: 370901, PASSED).
+[21:07:09] BanchoBot: The match has finished!
+[21:07:46] BanchoBot: shiroeneko left the game.
+[21:07:50] BCraftMG: !mp map 3580667 0
+[21:07:51] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3580667 Tanchiky - REDOUT feat. Torika (Cut Ver.)
+[21:07:51] BanchoBot: Changed match mode to Osu
+[21:07:52] BCraftMG: !mp timer 120
+[21:07:53] BanchoBot: Countdown ends in 2 minutes
+[21:07:54] BanchoBot: Floth joined in slot 4.
+[21:08:00] BanchoBot: Ayumu Uehara joined in slot 6.
+[21:08:04] BanchoBot: heyimcrunchy left the game.
+[21:08:09] BanchoBot: squidstain joined in slot 9.
+[21:08:15] BanchoBot: BananaMNM8210 moved to slot 10
+[21:08:23] BanchoBot: JokThree joined in slot 11.
+[21:08:27] BanchoBot: Maopo moved to slot 14
+[21:08:35] JokThree: KOZAKURA-
+[21:08:37] JokThree: TO THE BENCH
+[21:08:41] Kozakura-: ok
+[21:08:41] Floth: no
+[21:08:43] BanchoBot: Kozakura- left the game.
+[21:08:48] JokThree: HEHE
+[21:08:49] BanchoBot: m0fum0fu moved to slot 2
+[21:08:51] BanchoBot: Maopo left the game.
+[21:08:53] JokThree: WHERES CRUNCHY
+[21:08:53] Ostiminum: imagine being able to be sent to the bench rn
+[21:08:54] BanchoBot: Countdown ends in 1 minute
+[21:08:55] JokThree: why he not here
+[21:09:01] Ostiminum: our other two players are SLEEPING
+[21:09:03] JokThree: i love crunchy
+[21:09:10] Geanyl: real
+[21:09:14] BanchoBot: All players are ready
+[21:09:15] Floth: sorry but our osu trivium champion is playing instead
+[21:09:15] m0fum0fu: our cap is gone
+[21:09:15] m0fum0fu: lmao
+[21:09:16] squidstain: WHERES CRUNCHY
+[21:09:16] Ayumu_Uehara: glgl
+[21:09:20] JokThree: i could kiss him
+[21:09:20] Ostiminum: ong?
+[21:09:23] BanchoBot: Countdown ends in 30 seconds
+[21:09:27] Ostiminum: glglllgglglglglg
+[21:09:27] Ayumu_Uehara: ong
+[21:09:28] BCraftMG: !mp settings
+[21:09:28] BanchoBot: Room name: STT3: (Q44B) vs (Qualifiers), History: https://osu.ppy.sh/mp/101407754
+[21:09:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/3580667 Tanchiky - REDOUT feat. Torika (Cut Ver.)
+[21:09:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:09:28] BanchoBot: Active mods: NoFail
+[21:09:28] BanchoBot: Players: 9
+[21:09:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/4029900 Ariisu          
+[21:09:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5143605 m0fum0fu        
+[21:09:28] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11134301 Floth           
+[21:09:28] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11633163 Ostiminum       
+[21:09:28] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/13626098 Ayumu Uehara    
+[21:09:28] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/10038631 Geanyl          
+[21:09:28] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11073207 squidstain      
+[21:09:28] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/14664996 BananaMNM8210   
+[21:09:28] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/7713152 JokThree        
+[21:09:29] Floth: glhf
+[21:09:32] BCraftMG: !mp start 10
+[21:09:33] BanchoBot: Countdown aborted
+[21:09:33] BanchoBot: Match starts in 10 seconds
+[21:09:33] BanchoBot: Queued the match to start in 10 seconds
+[21:09:35] BananaMNM8210: gl
+[21:09:39] BanchoBot: Match starts in 5 seconds
+[21:09:40] BanchoBot: Match starts in 4 seconds
+[21:09:40] BanchoBot: Match starts in 3 seconds
+[21:09:41] BanchoBot: Good luck, have fun!
+[21:09:43] BanchoBot: The match has started!
+[21:11:42] BanchoBot: Floth finished playing (Score: 606806, PASSED).
+[21:11:42] BanchoBot: Ariisu finished playing (Score: 327809, PASSED).
+[21:11:42] BanchoBot: BananaMNM8210 finished playing (Score: 542901, PASSED).
+[21:11:42] BanchoBot: Geanyl finished playing (Score: 183669, PASSED).
+[21:11:43] BanchoBot: squidstain finished playing (Score: 349441, PASSED).
+[21:11:43] BanchoBot: Ayumu Uehara finished playing (Score: 353600, PASSED).
+[21:11:43] BanchoBot: m0fum0fu finished playing (Score: 399055, PASSED).
+[21:11:44] BanchoBot: JokThree finished playing (Score: 313671, PASSED).
+[21:11:44] BanchoBot: Ostiminum finished playing (Score: 314000, PASSED).
+[21:11:44] BanchoBot: The match has finished!
+[21:12:01] BCraftMG: !mp map 2675202 0
+[21:12:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2675202 Kagemori Michiru (CV: Morohoshi Sumire) - Ready to
+[21:12:02] BanchoBot: Changed match mode to Osu
+[21:12:14] BanchoBot: squidstain moved to slot 14
+[21:12:16] Floth: are you the new bananaman
+[21:12:23] BanchoBot: DVDthe1st joined in slot 3.
+[21:12:24] BanchoBot: Ayumu Uehara left the game.
+[21:12:25] BananaMNM8210: its mnm tho..
+[21:12:26] Ostiminum: he is the brother of bananaman
+[21:12:28] m0fum0fu: HAY
+[21:12:30] m0fum0fu: ARE YOU
+[21:12:31] m0fum0fu: READY TO GO
+[21:12:34] BanchoBot: Maopo joined in slot 6.
+[21:12:36] Floth: i am not
+[21:12:46] Ostiminum: same
+[21:12:50] Ostiminum: i dont want to alt
+[21:12:54] BanchoBot: BananaMNM8210 moved to slot 8
+[21:12:58] m0fum0fu: FLOW AIM SUX
+[21:12:59] BanchoBot: Ariisu left the game.
+[21:13:02] BanchoBot: DVDthe1st moved to slot 1
+[21:13:07] BanchoBot: BananaMNM8210 moved to slot 3
+[21:13:18] BanchoBot: squidstain left the game.
+[21:13:27] BanchoBot: JokThree moved to slot 8
+[21:13:27] BanchoBot: shiroeneko joined in slot 9.
+[21:13:35] BanchoBot: All players are ready
+[21:13:36] Floth: where is crunchy osu
+[21:13:45] DVDthe1st: watch bna
+[21:13:46] JokThree: YA
+[21:13:55] shiroeneko: bna good. watch
+[21:13:59] JokThree: SUISEX
+[21:14:07] Floth: ez1 sucks tho
+[21:14:07] BCraftMG: !mp settings
+[21:14:08] BanchoBot: Room name: STT3: (Q44B) vs (Qualifiers), History: https://osu.ppy.sh/mp/101407754
+[21:14:08] BanchoBot: Beatmap: https://osu.ppy.sh/b/2675202 Kagemori Michiru (CV: Morohoshi Sumire) - Ready to
+[21:14:08] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:14:08] BanchoBot: Active mods: NoFail
+[21:14:08] BanchoBot: Players: 9
+[21:14:08] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/2138989 DVDthe1st       
+[21:14:08] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5143605 m0fum0fu        
+[21:14:08] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14664996 BananaMNM8210   
+[21:14:08] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11134301 Floth           
+[21:14:08] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11633163 Ostiminum       
+[21:14:08] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/15293336 Maopo           
+[21:14:08] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/10038631 Geanyl          
+[21:14:08] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/7713152 JokThree        
+[21:14:08] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11120533 shiroeneko      
+[21:14:10] BCraftMG: !mp start 5
+[21:14:10] BanchoBot: Match starts in 5 seconds
+[21:14:10] BanchoBot: Queued the match to start in 5 seconds
+[21:14:12] BanchoBot: Match starts in 4 seconds
+[21:14:13] BanchoBot: Match starts in 3 seconds
+[21:14:14] BanchoBot: Good luck, have fun!
+[21:14:16] BanchoBot: The match has started!
+[21:17:15] BCraftMG: a
+[21:17:18] BanchoBot: DVDthe1st finished playing (Score: 573123, PASSED).
+[21:17:18] BanchoBot: Ostiminum finished playing (Score: 408338, PASSED).
+[21:17:18] BanchoBot: m0fum0fu finished playing (Score: 324044, PASSED).
+[21:17:18] BanchoBot: JokThree finished playing (Score: 384233, PASSED).
+[21:17:18] BanchoBot: Geanyl finished playing (Score: 189677, PASSED).
+[21:17:18] BanchoBot: Floth finished playing (Score: 563548, PASSED).
+[21:17:18] BanchoBot: shiroeneko finished playing (Score: 363855, PASSED).
+[21:17:19] BanchoBot: BananaMNM8210 finished playing (Score: 327569, PASSED).
+[21:17:20] BanchoBot: Maopo finished playing (Score: 400614, PASSED).
+[21:17:20] BanchoBot: The match has finished!
+[21:17:23] BCraftMG: !mp map 2675202 0
+[21:17:24] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2675202 Kagemori Michiru (CV: Morohoshi Sumire) - Ready to
+[21:17:24] BanchoBot: Changed match mode to Osu
+[21:17:34] BCraftMG: !mp timer 120
+[21:17:34] BanchoBot: Countdown ends in 2 minutes
+[21:17:39] Ostiminum: hoshimachi suisei in my pool?!!
+[21:17:45] JokThree: why are yall benching crunchy
+[21:17:48] BCraftMG: ez picks
+[21:17:48] JokThree: he would fc that easily
+[21:17:49] BCraftMG: :TF:
+[21:17:50] BanchoBot: shiroeneko left the game.
+[21:17:56] Floth: :tf:
+[21:17:59] BanchoBot: heyimcrunchy joined in slot 9.
+[21:18:00] Floth: tactical bench
+[21:18:20] BanchoBot: Ariisu joined in slot 10.
+[21:18:23] BanchoBot: JokThree left the game.
+[21:18:35] BanchoBot: Countdown ends in 1 minute
+[21:18:49] BanchoBot: Ariisu moved to slot 8
+[21:18:52] Floth: he's here
+[21:19:05] BanchoBot: Countdown ends in 30 seconds
+[21:19:08] m0fum0fu: uh
+[21:19:08] m0fum0fu: map
+[21:19:10] m0fum0fu: @ref
+[21:19:14] m0fum0fu: @bcraftmg
+[21:19:25] BanchoBot: Countdown ends in 10 seconds
+[21:19:30] BanchoBot: Countdown ends in 5 seconds
+[21:19:31] BanchoBot: Countdown ends in 4 seconds
+[21:19:32] BanchoBot: Countdown ends in 3 seconds
+[21:19:34] BanchoBot: Countdown ends in 2 seconds
+[21:19:35] BanchoBot: Countdown ends in 1 second
+[21:19:35] BanchoBot: Countdown finished
+[21:19:37] BCraftMG: uhhh
+[21:19:44] Ostiminum: refridgerator where
+[21:19:46] Floth: dead because of hidden
+[21:19:48] BCraftMG: !mp map 2844710 0
+[21:19:48] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2844710 solfa feat. Shimotsuki Haruka - leap in your mind
+[21:19:48] BanchoBot: Changed match mode to Osu
+[21:19:56] BCraftMG: !mp mods 9
+[21:19:56] Ostiminum: not in my eroge maps
+[21:19:56] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:20:09] Floth: i love singletapping 210bpm
+[21:20:21] BanchoBot: All players are ready
+[21:20:24] Floth: glhf
+[21:20:27] BCraftMG: !mp settings
+[21:20:27] heyimcrunchy: glgl
+[21:20:27] BanchoBot: Room name: STT3: (Q44B) vs (Qualifiers), History: https://osu.ppy.sh/mp/101407754
+[21:20:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/2844710 solfa feat. Shimotsuki Haruka - leap in your mind
+[21:20:27] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:20:27] BanchoBot: Active mods: NoFail, Hidden
+[21:20:27] BanchoBot: Players: 9
+[21:20:27] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/2138989 DVDthe1st       
+[21:20:27] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5143605 m0fum0fu        
+[21:20:27] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14664996 BananaMNM8210   
+[21:20:27] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11134301 Floth           
+[21:20:27] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11633163 Ostiminum       
+[21:20:27] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/15293336 Maopo           
+[21:20:27] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/10038631 Geanyl          
+[21:20:27] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/4029900 Ariisu          
+[21:20:27] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/13067221 heyimcrunchy    
+[21:20:32] BCraftMG: sorry for slow respond
+[21:20:35] BCraftMG: !Mp start 5
+[21:20:36] BanchoBot: Match starts in 5 seconds
+[21:20:36] BanchoBot: Queued the match to start in 5 seconds
+[21:20:37] BanchoBot: Match starts in 4 seconds
+[21:20:38] BanchoBot: Match starts in 3 seconds
+[21:20:39] BanchoBot: Good luck, have fun!
+[21:20:39] Maopo: glhf
+[21:20:40] Ostiminum: i dont want to not aim (they called it anti-aim map)
+[21:20:42] BanchoBot: The match has started!
+[21:25:35] BanchoBot: Floth finished playing (Score: 488318, PASSED).
+[21:25:35] BanchoBot: m0fum0fu finished playing (Score: 375897, PASSED).
+[21:25:35] BanchoBot: Ariisu finished playing (Score: 302946, PASSED).
+[21:25:35] BanchoBot: heyimcrunchy finished playing (Score: 464928, PASSED).
+[21:25:35] BanchoBot: DVDthe1st finished playing (Score: 398952, PASSED).
+[21:25:37] BanchoBot: Ostiminum finished playing (Score: 549023, PASSED).
+[21:25:37] BanchoBot: Geanyl finished playing (Score: 141035, PASSED).
+[21:25:37] BanchoBot: BananaMNM8210 finished playing (Score: 210425, PASSED).
+[21:25:37] BanchoBot: Maopo finished playing (Score: 543967, PASSED).
+[21:25:37] BanchoBot: The match has finished!
+[21:25:42] BCraftMG: !mp map 1524996 0
+[21:25:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1524996 Casandra - Freaks Romanticism
+[21:25:43] BanchoBot: Changed match mode to Osu
+[21:25:46] BCraftMG: !mp mods 9
+[21:25:47] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:25:54] Floth: one of the best map in this pool
+[21:25:55] Floth: that was
+[21:25:59] BanchoBot: JokThree joined in slot 10.
+[21:26:01] BanchoBot: Ariisu left the game.
+[21:26:07] BanchoBot: Maopo left the game.
+[21:26:13] BanchoBot: squidstain joined in slot 6.
+[21:26:17] Floth: i love singletapping 210bpm (2)
+[21:26:27] BCraftMG: !mp timer 120
+[21:26:28] BanchoBot: Countdown ends in 2 minutes
+[21:26:50] squidstain: i love singletapping 210bpm
+[21:27:01] BanchoBot: All players are ready
+[21:27:06] heyimcrunchy: glgl
+[21:27:07] BCraftMG: !mp settings
+[21:27:08] BanchoBot: Room name: STT3: (Q44B) vs (Qualifiers), History: https://osu.ppy.sh/mp/101407754
+[21:27:08] BanchoBot: Beatmap: https://osu.ppy.sh/b/1524996 Casandra - Freaks Romanticism
+[21:27:08] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:27:08] BanchoBot: Active mods: NoFail, Hidden
+[21:27:08] BanchoBot: Players: 9
+[21:27:08] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/2138989 DVDthe1st       
+[21:27:08] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5143605 m0fum0fu        
+[21:27:08] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14664996 BananaMNM8210   
+[21:27:08] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11134301 Floth           
+[21:27:08] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11633163 Ostiminum       
+[21:27:08] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11073207 squidstain      
+[21:27:08] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/10038631 Geanyl          
+[21:27:08] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/13067221 heyimcrunchy    
+[21:27:08] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/7713152 JokThree        
+[21:27:11] Floth: glhf
+[21:27:11] Ostiminum: glglglglgl
+[21:27:12] BCraftMG: !mp start 5
+[21:27:14] BanchoBot: Countdown aborted
+[21:27:14] BanchoBot: Match starts in 5 seconds
+[21:27:14] BanchoBot: Queued the match to start in 5 seconds
+[21:27:15] BanchoBot: Match starts in 4 seconds
+[21:27:16] BanchoBot: Match starts in 3 seconds
+[21:27:17] BanchoBot: Good luck, have fun!
+[21:27:19] BanchoBot: The match has started!
+[21:27:19] squidstain: glhf
+[21:29:20] BanchoBot: squidstain finished playing (Score: 610248, PASSED).
+[21:29:20] BanchoBot: BananaMNM8210 finished playing (Score: 378509, PASSED).
+[21:29:20] BanchoBot: DVDthe1st finished playing (Score: 901093, PASSED).
+[21:29:21] BanchoBot: heyimcrunchy finished playing (Score: 920608, PASSED).
+[21:29:21] BanchoBot: Floth finished playing (Score: 648071, PASSED).
+[21:29:21] BanchoBot: JokThree finished playing (Score: 477971, PASSED).
+[21:29:21] BanchoBot: m0fum0fu finished playing (Score: 523240, PASSED).
+[21:29:22] BanchoBot: Ostiminum finished playing (Score: 571724, PASSED).
+[21:29:22] BanchoBot: Geanyl finished playing (Score: 122219, PASSED).
+[21:29:22] BanchoBot: The match has finished!
+[21:29:29] BCraftMG: !mp map 230127 0
+[21:29:30] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/230127 TOTAL OBJECTION - Higurashi Moratorium
+[21:29:30] BanchoBot: Changed match mode to Osu
+[21:29:34] BCraftMG: !mp mods 17
+[21:29:35] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[21:29:41] JokThree: i love u crunchy
+[21:29:41] BanchoBot: squidstain left the game.
+[21:29:50] heyimcrunchy: aw
+[21:29:51] BCraftMG: !mp timer 120
+[21:29:52] BanchoBot: shiroeneko joined in slot 6.
+[21:29:52] BanchoBot: m0fum0fu left the game.
+[21:29:52] BanchoBot: Countdown ends in 2 minutes
+[21:30:02] JokThree: cant wait for u to carry me again next week
+[21:30:04] BanchoBot: Ariisu joined in slot 2.
+[21:30:08] BanchoBot: JokThree moved to slot 8
+[21:30:15] heyimcrunchy: no u carry
+[21:30:17] Ostiminum: he was forced to play hr
+[21:30:25] BanchoBot: Kozakura- joined in slot 10.
+[21:30:27] BanchoBot: Ayumu Uehara joined in slot 11.
+[21:30:37] Floth: timezone osu
+[21:30:37] BanchoBot: heyimcrunchy left the game.
+[21:30:41] BanchoBot: DVDthe1st left the game.
+[21:30:52] BanchoBot: Countdown ends in 1 minute
+[21:31:00] Ayumu_Uehara: glgl
+[21:31:00] BanchoBot: All players are ready
+[21:31:02] Ayumu_Uehara: yes hi
+[21:31:02] Floth: how was dinner @Ayumu Uehara
+[21:31:05] Ostiminum: glglgl
+[21:31:08] BCraftMG: !mp settings
+[21:31:08] Floth: glhf
+[21:31:08] BanchoBot: Room name: STT3: (Q44B) vs (Qualifiers), History: https://osu.ppy.sh/mp/101407754
+[21:31:08] BanchoBot: Beatmap: https://osu.ppy.sh/b/230127 TOTAL OBJECTION - Higurashi Moratorium
+[21:31:08] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:31:08] BanchoBot: Active mods: NoFail, HardRock
+[21:31:08] BanchoBot: Players: 9
+[21:31:08] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4029900 Ariisu          
+[21:31:08] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14664996 BananaMNM8210   
+[21:31:08] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11134301 Floth           
+[21:31:08] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11633163 Ostiminum       
+[21:31:08] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11120533 shiroeneko      
+[21:31:08] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/10038631 Geanyl          
+[21:31:08] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/7713152 JokThree        
+[21:31:08] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/4473506 Kozakura-       
+[21:31:08] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/13626098 Ayumu Uehara    
+[21:31:09] Ayumu_Uehara: very good
+[21:31:11] BCraftMG: !mp start 10
+[21:31:12] Ayumu_Uehara: thanks for asking
+[21:31:12] BanchoBot: Countdown aborted
+[21:31:12] BanchoBot: Match starts in 10 seconds
+[21:31:12] BanchoBot: Queued the match to start in 10 seconds
+[21:31:18] BanchoBot: Match starts in 5 seconds
+[21:31:19] BanchoBot: Match starts in 4 seconds
+[21:31:19] BanchoBot: Match starts in 3 seconds
+[21:31:20] BanchoBot: Good luck, have fun!
+[21:31:22] shiroeneko: glgl
+[21:31:22] BanchoBot: The match has started!
+[21:34:58] BanchoBot: JokThree finished playing (Score: 695499, PASSED).
+[21:34:59] BanchoBot: Ayumu Uehara finished playing (Score: 905178, PASSED).
+[21:34:59] BanchoBot: BananaMNM8210 finished playing (Score: 741294, PASSED).
+[21:34:59] BanchoBot: Ariisu finished playing (Score: 497767, PASSED).
+[21:34:59] BanchoBot: Kozakura- finished playing (Score: 448748, PASSED).
+[21:34:59] BanchoBot: Ostiminum finished playing (Score: 271000, PASSED).
+[21:34:59] BanchoBot: Geanyl finished playing (Score: 341084, PASSED).
+[21:35:00] BanchoBot: shiroeneko finished playing (Score: 866761, PASSED).
+[21:35:04] BanchoBot: Floth finished playing (Score: 721287, PASSED).
+[21:35:04] BanchoBot: The match has finished!
+[21:35:21] Floth: i love ayumu real Malaysia Team A 5wc player
+[21:35:33] JokThree: i love crunchy
+[21:35:35] Ostiminum: ayumu with no ayumu pfp
+[21:35:35] JokThree: my love
+[21:35:36] Ostiminum: real
+[21:35:37] JokThree: and carry
+[21:35:50] BananaMNM8210: slow slidered :<
+[21:35:55] Ayumu_Uehara: froggy
+[21:36:02] BanchoBot: Geanyl moved to slot 1
+[21:36:03] BanchoBot: Geanyl moved to slot 7
+[21:36:07] Floth: yggorf
+[21:36:32] Floth: map?
+[21:36:49] BanchoBot: JokThree left the game.
+[21:36:59] Floth: ref you there?
+[21:37:17] BanchoBot: DVDthe1st joined in slot 1.
+[21:37:25] DVDthe1st: map
+[21:37:37] BanchoBot: JokThree joined in slot 8.
+[21:37:37] BanchoBot: DVDthe1st left the game.
+[21:37:49] BanchoBot: BananaMNM8210 moved to slot 9
+[21:37:50] BanchoBot: BananaMNM8210 moved to slot 12
+[21:37:51] BanchoBot: BananaMNM8210 moved to slot 9
+[21:38:25] Ostiminum: dw guys
+[21:38:27] Ostiminum: i got you
+[21:38:47] BanchoBot: JokThree left the game.
+[21:38:52] Geanyl: BCraftMG
+[21:38:53] Geanyl: balls
+[21:38:55] Ostiminum: !mp map 2258540
+[21:39:01] Ostiminum: !mp mods HRNF
+[21:39:02] Floth: ty osti
+[21:39:05] Ostiminum: !mp timer 120
+[21:39:08] Ostiminum: welcome
+[21:40:11] BanchoBot: Ostiminum left the game.
+[21:40:17] BanchoBot: Ayumu Uehara left the game.
+[21:40:25] BanchoBot: Ostiminum joined in slot 1.
+[21:40:32] BanchoBot: Ostiminum moved to slot 3
+[21:40:32] BanchoBot: Ostiminum moved to slot 1
+[21:40:43] Ostiminum: me when
+[21:40:45] Ostiminum: your mom
+[21:40:54] BananaMNM8210: nice
+[21:41:07] Floth: i agree she is very nice
+[21:41:07] BanchoBot: Ostiminum left the game.
+[21:41:17] BanchoBot: shiroeneko moved to slot 3
+[21:41:19] BanchoBot: shiroeneko moved to slot 5
+[21:41:20] BanchoBot: shiroeneko moved to slot 3
+[21:41:21] BananaMNM8210: mhm
+[21:42:01] BanchoBot: BananaMNM8210 moved to slot 1
+[21:42:02] BanchoBot: BananaMNM8210 moved to slot 6
+[21:42:05] BanchoBot: BananaMNM8210 moved to slot 8
+[21:42:07] BanchoBot: BananaMNM8210 moved to slot 6
+[21:42:45] BanchoBot: Ostiminum joined in slot 1.
+[21:43:14] BanchoBot: Geanyl left the game.
+[21:43:18] BanchoBot: BananaMNM8210 left the game.
+[21:43:29] BanchoBot: Ostiminum left the game.
+[21:44:07] BanchoBot: Ayumu Uehara joined in slot 1.
+[21:44:10] BanchoBot: Ayumu Uehara left the game.
+[21:44:12] BanchoBot: shiroeneko left the game.
+[21:44:23] BanchoBot: Floth left the game.
+[21:44:24] BanchoBot: Kozakura- left the game.
+[21:44:25] BanchoBot: JokThree joined in slot 1.
+[21:45:12] BanchoBot: Ariisu left the game.
+[21:45:20] BanchoBot: JokThree left the game.
+[21:55:48] BCraftMG: !mp settings
+[21:55:49] BanchoBot: Room name: STT3: (Q44B) vs (Qualifiers), History: https://osu.ppy.sh/mp/101407754
+[21:55:49] BanchoBot: Beatmap: https://osu.ppy.sh/b/230127 TOTAL OBJECTION - Higurashi Moratorium
+[21:55:49] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:55:49] BanchoBot: Active mods: NoFail, HardRock
+[21:55:49] BanchoBot: Players: 0
+[21:56:33] BanchoBot: Ayumu Uehara joined in slot 1.
+[21:56:35] BanchoBot: Ayumu Uehara left the game.
+[22:01:50] BCraftMG: !mp close
+[22:01:51] BanchoBot: Closed the match

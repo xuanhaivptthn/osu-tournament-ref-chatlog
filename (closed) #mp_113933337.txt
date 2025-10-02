@@ -1,0 +1,429 @@
+[22:56:13] Joined #mp_113933337
+[22:56:13] BCraftMG: !mp settings
+[22:56:15] BanchoBot: Room name: DACHO: (Div2 Qualifier) vs (Lobby Q57), History: https://osu.ppy.sh/mp/113933337
+[22:56:15] BanchoBot: Beatmap: https://osu.ppy.sh/b/3802263 Alestorm - Shipwrecked
+[22:56:15] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[22:56:15] BanchoBot: Active mods: NoFail
+[22:56:15] BanchoBot: Players: 2
+[22:56:15] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/13141032 Liz to Aoi Tori 
+[22:56:15] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/6263574 Hixia           
+[22:56:16] Hixia: ibrb
+[22:56:41] BanchoBot: Liz to Aoi Tori left the game.
+[22:57:27] BanchoBot: Liz to Aoi Tori joined in slot 1.
+[22:58:11] BCraftMG: !mp settings
+[22:58:12] BanchoBot: Room name: DACHO: (Div2 Qualifier) vs (Lobby Q57), History: https://osu.ppy.sh/mp/113933337
+[22:58:12] BanchoBot: Beatmap: https://osu.ppy.sh/b/3802263 Alestorm - Shipwrecked
+[22:58:12] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[22:58:12] BanchoBot: Active mods: NoFail
+[22:58:12] BanchoBot: Players: 2
+[22:58:12] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/13141032 Liz to Aoi Tori 
+[22:58:12] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/6263574 Hixia           
+[22:58:15] BCraftMG: hmm
+[22:58:19] BCraftMG: !mp invite okvijo
+[22:58:20] BanchoBot: User not found
+[22:58:22] BCraftMG: !mp invite Ezius
+[22:58:22] BanchoBot: Invited Ezius to the room
+[22:58:24] Hixia: gm
+[22:59:27] BanchoBot: Ezius joined in slot 3.
+[22:59:42] BCraftMG: hi
+[22:59:56] Ezius: hi
+[22:59:59] BCraftMG: 4th player doesnt seem to be online atm
+[23:01:07] BCraftMG: !mp invite okvijo
+[23:01:07] BanchoBot: User not found
+[23:01:18] BCraftMG: we gonna start with only 3 then
+[23:01:26] Ezius: alright
+[23:01:29] Hixia: btw is it intended that its sv1
+[23:01:31] BCraftMG: ready up
+[23:01:33] BCraftMG: nope
+[23:01:37] BCraftMG: !mp set 0 3 8
+[23:01:38] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[23:01:50] BanchoBot: All players are ready
+[23:01:55] BCraftMG: !mp settings
+[23:01:56] BanchoBot: Room name: DACHO: (Div2 Qualifier) vs (Lobby Q57), History: https://osu.ppy.sh/mp/113933337
+[23:01:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/3802263 Alestorm - Shipwrecked
+[23:01:56] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:01:56] BanchoBot: Active mods: NoFail
+[23:01:56] BanchoBot: Players: 3
+[23:01:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13141032 Liz to Aoi Tori 
+[23:01:56] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6263574 Hixia           
+[23:01:56] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/1861823 Ezius           
+[23:01:57] BCraftMG: !mp start 5 glhf
+[23:01:58] BanchoBot: Match starts in 5 seconds
+[23:01:58] BanchoBot: Queued the match to start in 5 seconds
+[23:01:59] BanchoBot: Match starts in 4 seconds
+[23:02:00] BanchoBot: Match starts in 3 seconds
+[23:02:01] BanchoBot: Good luck, have fun!
+[23:02:03] BanchoBot: The match has started!
+[23:05:40] BanchoBot: Hixia finished playing (Score: 542013, PASSED).
+[23:05:40] BanchoBot: Ezius finished playing (Score: 504671, PASSED).
+[23:05:41] BanchoBot: Liz to Aoi Tori finished playing (Score: 258670, PASSED).
+[23:05:41] BanchoBot: The match has finished!
+[23:05:43] BCraftMG: !mp map 3141960
+[23:05:44] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3141960 MisomyL - Ring ! Run ! Nyan!!
+[23:05:46] BCraftMG: !mp timer 120
+[23:05:46] BanchoBot: Countdown ends in 2 minutes
+[23:06:24] BanchoBot: All players are ready
+[23:06:27] BCraftMG: !mp settings
+[23:06:28] BanchoBot: Room name: DACHO: (Div2 Qualifier) vs (Lobby Q57), History: https://osu.ppy.sh/mp/113933337
+[23:06:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/3141960 MisomyL - Ring ! Run ! Nyan!!
+[23:06:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:06:28] BanchoBot: Active mods: NoFail
+[23:06:28] BanchoBot: Players: 3
+[23:06:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13141032 Liz to Aoi Tori 
+[23:06:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6263574 Hixia           
+[23:06:28] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/1861823 Ezius           
+[23:06:29] BCraftMG: !mp start 5 glhf
+[23:06:30] BanchoBot: Countdown aborted
+[23:06:30] BanchoBot: Match starts in 5 seconds
+[23:06:30] BanchoBot: Queued the match to start in 5 seconds
+[23:06:31] BanchoBot: Match starts in 4 seconds
+[23:06:32] BanchoBot: Match starts in 3 seconds
+[23:06:33] BanchoBot: Good luck, have fun!
+[23:06:35] BanchoBot: The match has started!
+[23:08:42] BanchoBot: Ezius finished playing (Score: 597823, PASSED).
+[23:08:42] BanchoBot: Hixia finished playing (Score: 514034, PASSED).
+[23:08:44] BanchoBot: Liz to Aoi Tori finished playing (Score: 283851, PASSED).
+[23:08:44] BanchoBot: The match has finished!
+[23:08:48] BCraftMG: !mp map 3154910
+[23:08:49] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3154910 PeriTune - Prairie4
+[23:08:54] BCraftMG: !mp timer 120
+[23:08:55] BanchoBot: Countdown ends in 2 minutes
+[23:09:31] BanchoBot: All players are ready
+[23:09:33] BCraftMG: !mp settings
+[23:09:35] BanchoBot: Room name: DACHO: (Div2 Qualifier) vs (Lobby Q57), History: https://osu.ppy.sh/mp/113933337
+[23:09:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/3154910 PeriTune - Prairie4
+[23:09:35] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:09:35] BanchoBot: Active mods: NoFail
+[23:09:35] BanchoBot: Players: 3
+[23:09:35] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13141032 Liz to Aoi Tori 
+[23:09:35] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6263574 Hixia           
+[23:09:35] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/1861823 Ezius           
+[23:09:36] BCraftMG: !mp start 5 glhf
+[23:09:37] BanchoBot: Countdown aborted
+[23:09:37] BanchoBot: Match starts in 5 seconds
+[23:09:37] BanchoBot: Queued the match to start in 5 seconds
+[23:09:38] BanchoBot: Match starts in 4 seconds
+[23:09:39] BanchoBot: Match starts in 3 seconds
+[23:09:40] BanchoBot: Good luck, have fun!
+[23:09:42] BanchoBot: The match has started!
+[23:12:13] BanchoBot: Hixia finished playing (Score: 484189, PASSED).
+[23:12:13] BanchoBot: Ezius finished playing (Score: 423306, PASSED).
+[23:12:14] BanchoBot: Liz to Aoi Tori finished playing (Score: 119469, PASSED).
+[23:12:14] BanchoBot: The match has finished!
+[23:12:18] BCraftMG: !mp map 2915478
+[23:12:18] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2915478 Zekk - Turbulence
+[23:12:19] BCraftMG: !mp timer 120
+[23:12:19] BanchoBot: Countdown ends in 2 minutes
+[23:12:34] Hixia: finally [no map]
+[23:13:16] BanchoBot: All players are ready
+[23:13:19] BanchoBot: Countdown ends in 1 minute
+[23:13:24] BCraftMG: !mp settings
+[23:13:26] BanchoBot: Room name: DACHO: (Div2 Qualifier) vs (Lobby Q57), History: https://osu.ppy.sh/mp/113933337
+[23:13:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/2915478 Zekk - Turbulence
+[23:13:26] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:13:26] BanchoBot: Active mods: NoFail
+[23:13:26] BanchoBot: Players: 3
+[23:13:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13141032 Liz to Aoi Tori 
+[23:13:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6263574 Hixia           
+[23:13:26] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/1861823 Ezius           
+[23:13:27] BCraftMG: !mp start 5 glhf
+[23:13:28] BanchoBot: Countdown aborted
+[23:13:28] BanchoBot: Match starts in 5 seconds
+[23:13:28] BanchoBot: Queued the match to start in 5 seconds
+[23:13:29] BanchoBot: Match starts in 4 seconds
+[23:13:30] BanchoBot: Match starts in 3 seconds
+[23:13:31] BanchoBot: Good luck, have fun!
+[23:13:33] BanchoBot: The match has started!
+[23:16:33] BanchoBot: Liz to Aoi Tori finished playing (Score: 330905, PASSED).
+[23:16:33] BanchoBot: Hixia finished playing (Score: 170192, PASSED).
+[23:16:33] BanchoBot: Ezius finished playing (Score: 393750, PASSED).
+[23:16:33] BanchoBot: The match has finished!
+[23:16:35] BCraftMG: !mp map 3802071
+[23:16:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3802071 john - Utage
+[23:16:36] BCraftMG: !mp timer 120
+[23:16:36] BCraftMG: !mp timer 120
+[23:16:37] BanchoBot: Countdown ends in 2 minutes
+[23:17:37] BanchoBot: Countdown ends in 1 minute
+[23:17:50] BanchoBot: All players are ready
+[23:17:52] BCraftMG: !mp settings
+[23:17:53] BanchoBot: Room name: DACHO: (Div2 Qualifier) vs (Lobby Q57), History: https://osu.ppy.sh/mp/113933337
+[23:17:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/3802071 john - Utage
+[23:17:53] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:17:53] BanchoBot: Active mods: NoFail
+[23:17:53] BanchoBot: Players: 3
+[23:17:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13141032 Liz to Aoi Tori 
+[23:17:53] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6263574 Hixia           
+[23:17:53] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/1861823 Ezius           
+[23:17:59] BCraftMG: !mp start 5 glhf
+[23:18:00] BanchoBot: Countdown aborted
+[23:18:00] BanchoBot: Match starts in 5 seconds
+[23:18:00] BanchoBot: Queued the match to start in 5 seconds
+[23:18:01] BanchoBot: Match starts in 4 seconds
+[23:18:02] BanchoBot: Match starts in 3 seconds
+[23:18:03] BanchoBot: Good luck, have fun!
+[23:18:05] BanchoBot: The match has started!
+[23:20:49] BanchoBot: Hixia finished playing (Score: 39792, PASSED).
+[23:20:50] BanchoBot: Ezius finished playing (Score: 469381, PASSED).
+[23:20:50] BanchoBot: Liz to Aoi Tori finished playing (Score: 31441, PASSED).
+[23:20:50] BanchoBot: The match has finished!
+[23:20:57] BCraftMG: !mp map 3451160
+[23:20:58] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3451160 Rib - Tsukiakari
+[23:20:59] BCraftMG: !mp mods 9
+[23:21:00] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[23:21:01] BCraftMG: !mp timer 120
+[23:21:02] BanchoBot: Countdown ends in 2 minutes
+[23:21:25] BanchoBot: All players are ready
+[23:21:28] BCraftMG: !mp settings
+[23:21:29] BanchoBot: Room name: DACHO: (Div2 Qualifier) vs (Lobby Q57), History: https://osu.ppy.sh/mp/113933337
+[23:21:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/3451160 Rib - Tsukiakari
+[23:21:29] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:21:29] BanchoBot: Active mods: NoFail, Hidden
+[23:21:29] BanchoBot: Players: 3
+[23:21:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13141032 Liz to Aoi Tori 
+[23:21:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6263574 Hixia           
+[23:21:29] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/1861823 Ezius           
+[23:21:30] BCraftMG: !mp start 5 glhf
+[23:21:31] BanchoBot: Countdown aborted
+[23:21:31] BanchoBot: Match starts in 5 seconds
+[23:21:31] BanchoBot: Queued the match to start in 5 seconds
+[23:21:32] BanchoBot: Match starts in 4 seconds
+[23:21:33] BanchoBot: Match starts in 3 seconds
+[23:21:34] BanchoBot: Good luck, have fun!
+[23:21:36] BanchoBot: The match has started!
+[23:25:35] BanchoBot: Ezius finished playing (Score: 264756, PASSED).
+[23:25:36] BanchoBot: Liz to Aoi Tori finished playing (Score: 258357, PASSED).
+[23:25:37] BanchoBot: Hixia finished playing (Score: 373211, PASSED).
+[23:25:37] BanchoBot: The match has finished!
+[23:25:38] BCraftMG: !mp map 4058452
+[23:25:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4058452 Kairiki bear feat. Hatsune Miku - BUG
+[23:25:40] BCraftMG: !mp timer 120
+[23:25:41] BanchoBot: Countdown ends in 2 minutes
+[23:26:41] Hixia: dont forget to hydrate
+[23:26:41] BanchoBot: Countdown ends in 1 minute
+[23:26:46] Hixia: :thumbsup:
+[23:26:53] BanchoBot: All players are ready
+[23:26:55] Ezius: hydrant
+[23:26:57] BCraftMG: !mp settings
+[23:26:57] BanchoBot: Room name: DACHO: (Div2 Qualifier) vs (Lobby Q57), History: https://osu.ppy.sh/mp/113933337
+[23:26:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/4058452 Kairiki bear feat. Hatsune Miku - BUG
+[23:26:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:26:57] BanchoBot: Active mods: NoFail, Hidden
+[23:26:57] BanchoBot: Players: 3
+[23:26:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13141032 Liz to Aoi Tori 
+[23:26:57] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6263574 Hixia           
+[23:26:57] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/1861823 Ezius           
+[23:26:59] BCraftMG: !mp start 5 glhf
+[23:27:00] BanchoBot: Countdown aborted
+[23:27:00] BanchoBot: Match starts in 5 seconds
+[23:27:00] BanchoBot: Queued the match to start in 5 seconds
+[23:27:02] BanchoBot: Match starts in 4 seconds
+[23:27:02] BanchoBot: Match starts in 3 seconds
+[23:27:03] BanchoBot: Good luck, have fun!
+[23:27:05] BanchoBot: The match has started!
+[23:29:49] BanchoBot: Hixia finished playing (Score: 147578, PASSED).
+[23:29:50] BanchoBot: Ezius finished playing (Score: 369029, PASSED).
+[23:29:50] BanchoBot: Liz to Aoi Tori finished playing (Score: 28855, PASSED).
+[23:29:50] BanchoBot: The match has finished!
+[23:29:53] BCraftMG: !mp map 4011062
+[23:29:54] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4011062 Street - firewall
+[23:29:55] BCraftMG: !mp timer 120
+[23:29:55] BanchoBot: Countdown ends in 2 minutes
+[23:30:45] BanchoBot: All players are ready
+[23:30:47] BCraftMG: !mp settings
+[23:30:48] BanchoBot: Room name: DACHO: (Div2 Qualifier) vs (Lobby Q57), History: https://osu.ppy.sh/mp/113933337
+[23:30:48] BanchoBot: Beatmap: https://osu.ppy.sh/b/4011062 Street - firewall
+[23:30:48] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:30:48] BanchoBot: Active mods: NoFail, Hidden
+[23:30:48] BanchoBot: Players: 3
+[23:30:48] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13141032 Liz to Aoi Tori 
+[23:30:48] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6263574 Hixia           
+[23:30:48] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/1861823 Ezius           
+[23:30:49] BCraftMG: !mp start 5 glhf
+[23:30:49] BanchoBot: Countdown aborted
+[23:30:49] BanchoBot: Match starts in 5 seconds
+[23:30:49] BanchoBot: Queued the match to start in 5 seconds
+[23:30:50] BanchoBot: Match starts in 4 seconds
+[23:30:52] BanchoBot: Match starts in 3 seconds
+[23:30:52] BanchoBot: Good luck, have fun!
+[23:30:54] BanchoBot: The match has started!
+[23:34:11] BanchoBot: Hixia finished playing (Score: 239999, PASSED).
+[23:34:11] BanchoBot: Ezius finished playing (Score: 450354, PASSED).
+[23:34:13] BanchoBot: Liz to Aoi Tori finished playing (Score: 78148, PASSED).
+[23:34:13] BanchoBot: The match has finished!
+[23:34:18] BCraftMG: !mp map 2798816
+[23:34:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2798816 Aimer - twoface
+[23:34:22] BCraftMG: !mp mods 17
+[23:34:22] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[23:34:23] BCraftMG: !mp timer 120
+[23:34:23] BanchoBot: Countdown ends in 2 minutes
+[23:35:24] BanchoBot: Countdown ends in 1 minute
+[23:35:31] BanchoBot: All players are ready
+[23:35:32] BCraftMG: !mp settings
+[23:35:33] BanchoBot: Room name: DACHO: (Div2 Qualifier) vs (Lobby Q57), History: https://osu.ppy.sh/mp/113933337
+[23:35:33] BanchoBot: Beatmap: https://osu.ppy.sh/b/2798816 Aimer - twoface
+[23:35:33] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:35:33] BanchoBot: Active mods: NoFail, HardRock
+[23:35:33] BanchoBot: Players: 3
+[23:35:33] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13141032 Liz to Aoi Tori 
+[23:35:33] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6263574 Hixia           
+[23:35:33] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/1861823 Ezius           
+[23:35:34] BCraftMG: !mp start 5 glhf
+[23:35:34] BanchoBot: Countdown aborted
+[23:35:34] BanchoBot: Match starts in 5 seconds
+[23:35:34] BanchoBot: Queued the match to start in 5 seconds
+[23:35:35] BanchoBot: Match starts in 4 seconds
+[23:35:37] BanchoBot: Match starts in 3 seconds
+[23:35:37] BanchoBot: Good luck, have fun!
+[23:35:39] BanchoBot: The match has started!
+[23:38:48] BanchoBot: Hixia finished playing (Score: 723216, PASSED).
+[23:38:48] BanchoBot: Ezius finished playing (Score: 690975, PASSED).
+[23:38:49] BanchoBot: Liz to Aoi Tori finished playing (Score: 343975, PASSED).
+[23:38:49] BanchoBot: The match has finished!
+[23:38:52] BCraftMG: !mp map 332962
+[23:38:52] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/332962 Qrispy Joybox - snow prism
+[23:38:53] BCraftMG: !mp timer 120
+[23:38:54] BanchoBot: Countdown ends in 2 minutes
+[23:39:34] BanchoBot: All players are ready
+[23:39:45] BCraftMG: !mp settings
+[23:39:46] BanchoBot: Room name: DACHO: (Div2 Qualifier) vs (Lobby Q57), History: https://osu.ppy.sh/mp/113933337
+[23:39:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/332962 Qrispy Joybox - snow prism
+[23:39:46] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:39:46] BanchoBot: Active mods: NoFail, HardRock
+[23:39:46] BanchoBot: Players: 3
+[23:39:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13141032 Liz to Aoi Tori 
+[23:39:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6263574 Hixia           
+[23:39:46] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/1861823 Ezius           
+[23:39:47] BCraftMG: !mp start 5 glhf
+[23:39:48] BanchoBot: Countdown aborted
+[23:39:48] BanchoBot: Match starts in 5 seconds
+[23:39:48] BanchoBot: Queued the match to start in 5 seconds
+[23:39:49] BanchoBot: Match starts in 4 seconds
+[23:39:50] BanchoBot: Match starts in 3 seconds
+[23:39:51] BanchoBot: Good luck, have fun!
+[23:39:53] BanchoBot: The match has started!
+[23:41:52] BanchoBot: Liz to Aoi Tori finished playing (Score: 605668, PASSED).
+[23:41:53] BanchoBot: Ezius finished playing (Score: 668447, PASSED).
+[23:41:53] BanchoBot: Hixia finished playing (Score: 994887, PASSED).
+[23:41:53] BanchoBot: The match has finished!
+[23:41:55] BCraftMG: !mp map 4598559
+[23:41:56] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4598559 Dz'Xa - Izumi 7983
+[23:41:57] BCraftMG: !mp timer 120
+[23:41:57] BanchoBot: Countdown ends in 2 minutes
+[23:42:45] BanchoBot: All players are ready
+[23:42:46] BCraftMG: !mp settings
+[23:42:47] BanchoBot: Room name: DACHO: (Div2 Qualifier) vs (Lobby Q57), History: https://osu.ppy.sh/mp/113933337
+[23:42:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/4598559 Dz'Xa - Izumi 7983
+[23:42:47] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:42:47] BanchoBot: Active mods: NoFail, HardRock
+[23:42:47] BanchoBot: Players: 3
+[23:42:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13141032 Liz to Aoi Tori 
+[23:42:47] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6263574 Hixia           
+[23:42:47] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/1861823 Ezius           
+[23:42:48] BCraftMG: !mp start 5 glhf
+[23:42:49] BanchoBot: Countdown aborted
+[23:42:49] BanchoBot: Match starts in 5 seconds
+[23:42:49] BanchoBot: Queued the match to start in 5 seconds
+[23:42:51] BanchoBot: Match starts in 4 seconds
+[23:42:52] BanchoBot: Match starts in 3 seconds
+[23:42:53] BanchoBot: Good luck, have fun!
+[23:42:54] BanchoBot: The match has started!
+[23:46:00] BanchoBot: Ezius finished playing (Score: 565533, PASSED).
+[23:46:00] BanchoBot: Hixia finished playing (Score: 334129, PASSED).
+[23:46:01] BanchoBot: Liz to Aoi Tori finished playing (Score: 189065, PASSED).
+[23:46:01] BanchoBot: The match has finished!
+[23:46:04] BCraftMG: !mp map 4551067
+[23:46:06] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4551067 Isekaijoucho - Kaki Tsuzuketa Kimi e
+[23:46:07] BCraftMG: !mp mods 65
+[23:46:09] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[23:46:12] BCraftMG: !mp timer 120
+[23:46:13] BanchoBot: Countdown ends in 2 minutes
+[23:46:59] BanchoBot: All players are ready
+[23:47:01] BCraftMG: !mp settings
+[23:47:01] BanchoBot: Room name: DACHO: (Div2 Qualifier) vs (Lobby Q57), History: https://osu.ppy.sh/mp/113933337
+[23:47:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/4551067 Isekaijoucho - Kaki Tsuzuketa Kimi e
+[23:47:01] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:47:02] BanchoBot: Active mods: NoFail, DoubleTime
+[23:47:02] BanchoBot: Players: 3
+[23:47:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13141032 Liz to Aoi Tori 
+[23:47:02] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6263574 Hixia           
+[23:47:02] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/1861823 Ezius           
+[23:47:02] BCraftMG: !mp start 5 glhf
+[23:47:02] BanchoBot: Countdown aborted
+[23:47:02] BanchoBot: Match starts in 5 seconds
+[23:47:02] BanchoBot: Queued the match to start in 5 seconds
+[23:47:03] BanchoBot: Match starts in 4 seconds
+[23:47:04] BanchoBot: Match starts in 3 seconds
+[23:47:06] BanchoBot: Good luck, have fun!
+[23:47:07] BanchoBot: The match has started!
+[23:50:19] BanchoBot: Ezius finished playing (Score: 1122057, PASSED).
+[23:50:20] BanchoBot: Liz to Aoi Tori finished playing (Score: 229396, PASSED).
+[23:50:22] BanchoBot: Hixia finished playing (Score: 760815, PASSED).
+[23:50:22] BanchoBot: The match has finished!
+[23:50:25] BCraftMG: !mp map 3993328
+[23:50:25] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3993328 KAMELOT - Phantom Divine (Shadow Empire)
+[23:50:26] BCraftMG: !mp timer 120
+[23:50:26] BanchoBot: Countdown ends in 2 minutes
+[23:51:21] BanchoBot: All players are ready
+[23:51:25] BCraftMG: !mp settings
+[23:51:25] BanchoBot: Room name: DACHO: (Div2 Qualifier) vs (Lobby Q57), History: https://osu.ppy.sh/mp/113933337
+[23:51:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/3993328 KAMELOT - Phantom Divine (Shadow Empire)
+[23:51:25] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:51:25] BanchoBot: Active mods: NoFail, DoubleTime
+[23:51:25] BanchoBot: Players: 3
+[23:51:25] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13141032 Liz to Aoi Tori 
+[23:51:25] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6263574 Hixia           
+[23:51:25] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/1861823 Ezius           
+[23:51:26] BCraftMG: !mp start 5 glhf
+[23:51:27] BanchoBot: Countdown ends in 1 minute
+[23:51:27] BanchoBot: Countdown aborted
+[23:51:27] BanchoBot: Match starts in 5 seconds
+[23:51:27] BanchoBot: Queued the match to start in 5 seconds
+[23:51:29] BanchoBot: Match starts in 4 seconds
+[23:51:29] BanchoBot: Match starts in 3 seconds
+[23:51:31] BanchoBot: Good luck, have fun!
+[23:51:33] BanchoBot: The match has started!
+[23:54:22] BanchoBot: Hixia finished playing (Score: 656986, PASSED).
+[23:54:23] BanchoBot: Ezius finished playing (Score: 340019, PASSED).
+[23:54:26] BanchoBot: Liz to Aoi Tori finished playing (Score: 271470, PASSED).
+[23:54:26] BanchoBot: The match has finished!
+[23:54:29] BCraftMG: !mp map 3687259
+[23:54:30] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3687259 MIHARU - Yakkami-Okami
+[23:54:42] Hixia: ok didnt expect dt2 to be that shred
+[23:55:30] BCraftMG: !mp timer 120
+[23:55:31] BanchoBot: Countdown ends in 2 minutes
+[23:55:35] BanchoBot: All players are ready
+[23:55:36] BCraftMG: !mp settings
+[23:55:37] BanchoBot: Room name: DACHO: (Div2 Qualifier) vs (Lobby Q57), History: https://osu.ppy.sh/mp/113933337
+[23:55:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/3687259 MIHARU - Yakkami-Okami
+[23:55:37] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:55:37] BanchoBot: Active mods: NoFail, DoubleTime
+[23:55:37] BanchoBot: Players: 3
+[23:55:37] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13141032 Liz to Aoi Tori 
+[23:55:37] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/6263574 Hixia           
+[23:55:37] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/1861823 Ezius           
+[23:55:38] BCraftMG: !mp start 5 glhf
+[23:55:39] BanchoBot: Countdown aborted
+[23:55:39] BanchoBot: Match starts in 5 seconds
+[23:55:39] BanchoBot: Queued the match to start in 5 seconds
+[23:55:41] BanchoBot: Match starts in 4 seconds
+[23:55:41] BanchoBot: Match starts in 3 seconds
+[23:55:42] BanchoBot: Good luck, have fun!
+[23:55:44] BanchoBot: The match has started!
+[23:58:08] BanchoBot: Hixia finished playing (Score: 549288, PASSED).
+[23:58:08] BanchoBot: Ezius finished playing (Score: 371623, PASSED).
+[23:58:11] BanchoBot: Liz to Aoi Tori finished playing (Score: 157427, PASSED).
+[23:58:11] BanchoBot: The match has finished!
+[23:58:12] BCraftMG: ggưp
+[23:58:20] BCraftMG: no dc :)
+[23:58:25] Liz_to_Aoi_Tori: thx for ref
+[23:58:26] Hixia: ggwp
+[23:58:28] Hixia: thx for ref
+[23:58:34] Liz_to_Aoi_Tori: y
+[23:58:35] Ezius: ty for ref o/
+[23:58:37] Ezius: ggwp
+[23:58:38] BanchoBot: Hixia left the game.
+[23:58:51] BanchoBot: Liz to Aoi Tori left the game.
+[23:58:51] BanchoBot: Ezius left the game.
+[23:58:57] BCraftMG: !mp clóe
+[23:59:00] BCraftMG: !mp close
+[23:59:01] BanchoBot: Closed the match

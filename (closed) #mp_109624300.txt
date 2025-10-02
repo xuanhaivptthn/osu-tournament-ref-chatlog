@@ -1,0 +1,691 @@
+[22:53:56] Joined #mp_109624300
+[22:53:56] BCraftMG: !mp settings
+[22:53:57] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q57), History: https://osu.ppy.sh/mp/109624300
+[22:53:57] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[22:53:57] BanchoBot: Players: 0
+[22:54:22] BCraftMG: !mp invite #9869794
+[22:54:23] BanchoBot: Invited BabyScylla to the room
+[22:54:24] BCraftMG: !mp invite #15346564
+[22:54:24] BanchoBot: User not found
+[22:54:26] BCraftMG: !mp invite #5850031
+[22:54:28] BCraftMG: !mp invite #14272234
+[22:54:28] BanchoBot: Invited Crynless to the room
+[22:54:29] BanchoBot: Invited Jairofracaso to the room
+[22:54:30] BCraftMG: !mp invite #16420295
+[22:54:31] BanchoBot: Invited Jairofrancaso to the room
+[22:54:35] BCraftMG: !mp map 4142536 0
+[22:54:35] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4142536 Hoshimachi Suisei - Newton
+[22:54:35] BanchoBot: Changed match mode to Osu
+[22:54:37] BCraftMG: !mp mods 1
+[22:54:37] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:54:42] BCraftMG: !mp set 0 3 8
+[22:54:43] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[22:55:52] BanchoBot: BabyScylla joined in slot 1.
+[22:56:00] BabyScylla: o/
+[22:56:07] BCraftMG: o/
+[22:56:10] BanchoBot: Crynless joined in slot 2.
+[22:56:18] BanchoBot: Crynless moved to slot 5
+[22:56:19] BanchoBot: Crynless moved to slot 6
+[22:58:12] BanchoBot: Jairofrancaso joined in slot 2.
+[22:58:15] BanchoBot: Jairofracaso joined in slot 3.
+[22:58:27] BCraftMG: !mp invite #14272234
+[22:58:28] BanchoBot: User is already in the room
+[22:58:36] Jairofrancaso: holaaaaa
+[22:58:39] Jairofrancaso: :3
+[22:58:42] Jairofracaso: bonjour mon ami crynless
+[22:58:52] Jairofrancaso: si hombre
+[22:59:01] BabyScylla: jajaja
+[22:59:05] BCraftMG: !mp invite #15346564
+[22:59:06] BanchoBot: User not found
+[22:59:20] Jairofracaso: y no responde :(
+[22:59:43] BabyScylla: f
+[22:59:52] BabyScylla: btw voy casi sightread lol
+[23:00:02] BabyScylla: me he visto un par de mapas
+[23:00:21] Jairofracaso: son sightreadeables casi todos
+[23:00:39] BanchoBot: Crynless moved to slot 5
+[23:00:56] BabyScylla: f baire
+[23:01:06] Jairofracaso: los unicos un poco chungos yendo sightread son el nm5 y el hd2
+[23:01:14] BCraftMG: still no respond so ready up please
+[23:01:15] BabyScylla: hd2 es facil tbh
+[23:01:23] BanchoBot: Crynless moved to slot 4
+[23:01:35] Jairofrancaso: go
+[23:01:38] BanchoBot: All players are ready
+[23:01:40] BCraftMG: !mp settings
+[23:01:41] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q57), History: https://osu.ppy.sh/mp/109624300
+[23:01:41] BanchoBot: Beatmap: https://osu.ppy.sh/b/4142536 Hoshimachi Suisei - Newton
+[23:01:41] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:01:41] BanchoBot: Active mods: NoFail
+[23:01:41] BanchoBot: Players: 4
+[23:01:41] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9869794 BabyScylla      
+[23:01:41] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16420295 Jairofrancaso   
+[23:01:41] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14272234 Jairofracaso    
+[23:01:41] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5850031 Crynless        
+[23:01:43] BabyScylla: glhf
+[23:01:43] BCraftMG: !mp start 5 glhf
+[23:01:44] BanchoBot: Match starts in 5 seconds
+[23:01:44] BanchoBot: Queued the match to start in 5 seconds
+[23:01:46] BanchoBot: Match starts in 4 seconds
+[23:01:47] BanchoBot: Match starts in 3 seconds
+[23:01:47] BanchoBot: Good luck, have fun!
+[23:01:51] BanchoBot: The match has started!
+[23:01:51] Jairofrancaso: glglglg
+[23:05:31] BanchoBot: Jairofracaso finished playing (Score: 467423, PASSED).
+[23:05:31] BanchoBot: BabyScylla finished playing (Score: 515603, PASSED).
+[23:05:31] BanchoBot: Jairofrancaso finished playing (Score: 538626, PASSED).
+[23:05:31] BanchoBot: Crynless finished playing (Score: 505561, PASSED).
+[23:05:31] BanchoBot: The match has finished!
+[23:05:34] BCraftMG: !mp map 4187144 0
+[23:05:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4187144 Raimukun - Nyarlathotep's Dreamland
+[23:05:34] BanchoBot: Changed match mode to Osu
+[23:05:39] BabyScylla: me he comido un stream
+[23:05:39] BabyScylla: lol
+[23:05:44] BCraftMG: !mp timer 120
+[23:05:45] BanchoBot: Countdown ends in 2 minutes
+[23:05:50] Jairofracaso: jairo me ha troleado
+[23:05:55] Jairofrancaso: nos hemos comido el triangulo
+[23:05:56] Jairofrancaso: yo iba ss
+[23:05:59] Jairofrancaso: its joever
+[23:06:09] Jairofracaso: me ha puesto antes un mapa de speed y he cambiado las teclas
+[23:06:17] Jairofrancaso: aprende
+[23:06:24] BanchoBot: All players are ready
+[23:06:24] BabyScylla: dale ready anda xd
+[23:06:27] BCraftMG: !mp settings
+[23:06:27] Jairofracaso: la cuerda
+[23:06:27] Crynless: Road to 100K
+[23:06:27] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q57), History: https://osu.ppy.sh/mp/109624300
+[23:06:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/4187144 Raimukun - Nyarlathotep's Dreamland
+[23:06:27] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:06:27] BanchoBot: Active mods: NoFail
+[23:06:27] BanchoBot: Players: 4
+[23:06:27] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9869794 BabyScylla      
+[23:06:27] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16420295 Jairofrancaso   
+[23:06:27] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14272234 Jairofracaso    
+[23:06:27] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5850031 Crynless        
+[23:06:29] BCraftMG: !mp start 5 glhf
+[23:06:30] BanchoBot: Countdown aborted
+[23:06:30] BanchoBot: Match starts in 5 seconds
+[23:06:30] BanchoBot: Queued the match to start in 5 seconds
+[23:06:32] BanchoBot: Match starts in 4 seconds
+[23:06:33] BanchoBot: Match starts in 3 seconds
+[23:06:33] BanchoBot: Good luck, have fun!
+[23:06:36] BanchoBot: The match has started!
+[23:06:38] BabyScylla: glhf
+[23:09:10] BanchoBot: BabyScylla finished playing (Score: 700904, PASSED).
+[23:09:10] BanchoBot: Jairofrancaso finished playing (Score: 536463, PASSED).
+[23:09:12] BanchoBot: Crynless finished playing (Score: 139897, PASSED).
+[23:09:12] BanchoBot: Jairofracaso finished playing (Score: 391009, PASSED).
+[23:09:12] BanchoBot: The match has finished!
+[23:09:15] BCraftMG: !mp map 4068544 0
+[23:09:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4068544 hitorie - NONSENSE
+[23:09:17] BanchoBot: Changed match mode to Osu
+[23:09:22] Jairofrancaso: sliders
+[23:09:23] BabyScylla: jairofraudaso
+[23:09:25] Jairofrancaso: buenas s
+[23:09:26] BCraftMG: !mp timer 120
+[23:09:28] BanchoBot: Countdown ends in 2 minutes
+[23:09:30] BabyScylla: ty
+[23:09:30] Crynless: Cringe sliders
+[23:09:34] Jairofrancaso: true
+[23:09:38] BanchoBot: All players are ready
+[23:09:39] BabyScylla: I sbd at the start lol
+[23:09:42] BabyScylla: on nothing
+[23:09:42] Crynless: xD
+[23:09:43] BCraftMG: !mp settings
+[23:09:44] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q57), History: https://osu.ppy.sh/mp/109624300
+[23:09:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/4068544 hitorie - NONSENSE
+[23:09:44] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:09:44] BanchoBot: Active mods: NoFail
+[23:09:44] BanchoBot: Players: 4
+[23:09:44] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9869794 BabyScylla      
+[23:09:44] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16420295 Jairofrancaso   
+[23:09:44] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14272234 Jairofracaso    
+[23:09:44] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5850031 Crynless        
+[23:09:45] Jairofrancaso: same
+[23:09:46] BCraftMG: !mp start 5 glhf
+[23:09:47] BanchoBot: Countdown aborted
+[23:09:47] BanchoBot: Match starts in 5 seconds
+[23:09:47] BanchoBot: Queued the match to start in 5 seconds
+[23:09:49] BanchoBot: Match starts in 4 seconds
+[23:09:50] BanchoBot: Match starts in 3 seconds
+[23:09:50] Jairofrancaso: i sbed 2 times on nothing
+[23:09:50] BanchoBot: Good luck, have fun!
+[23:09:52] BabyScylla: glhf
+[23:09:53] BanchoBot: The match has started!
+[23:14:01] BanchoBot: Jairofrancaso finished playing (Score: 325551, PASSED).
+[23:14:01] BanchoBot: Crynless finished playing (Score: 142402, PASSED).
+[23:14:01] BanchoBot: Jairofracaso finished playing (Score: 289914, PASSED).
+[23:14:03] BanchoBot: BabyScylla finished playing (Score: 252097, PASSED).
+[23:14:03] BanchoBot: The match has finished!
+[23:14:09] BCraftMG: !mp map 3535254 0
+[23:14:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3535254 kors k vs Yooh - 2 Beasts Unchained
+[23:14:11] BanchoBot: Changed match mode to Osu
+[23:14:12] BabyScylla: no puedo leer esto xd
+[23:14:15] Jairofracaso: cant
+[23:14:15] Crynless: Maybe I should've signle tap every jumps :/
+[23:14:19] Jairofrancaso: 16 misses
+[23:14:20] BabyScylla: lol
+[23:14:23] BCraftMG: !mp timer 120
+[23:14:25] BanchoBot: Countdown ends in 2 minutes
+[23:14:38] Crynless: I'm so bad sadly
+[23:14:38] BabyScylla: this map is shit
+[23:14:39] Crynless: :D
+[23:14:39] BabyScylla: tbh
+[23:14:44] Crynless: True
+[23:14:44] BanchoBot: All players are ready
+[23:14:46] BCraftMG: !mp settings
+[23:14:47] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q57), History: https://osu.ppy.sh/mp/109624300
+[23:14:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/3535254 kors k vs Yooh - 2 Beasts Unchained
+[23:14:47] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:14:47] BanchoBot: Active mods: NoFail
+[23:14:47] BanchoBot: Players: 4
+[23:14:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9869794 BabyScylla      
+[23:14:47] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16420295 Jairofrancaso   
+[23:14:47] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14272234 Jairofracaso    
+[23:14:47] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5850031 Crynless        
+[23:14:48] BCraftMG: !mp start 5 glhf
+[23:14:49] BanchoBot: Countdown aborted
+[23:14:49] BanchoBot: Match starts in 5 seconds
+[23:14:49] BanchoBot: Queued the match to start in 5 seconds
+[23:14:50] BanchoBot: Match starts in 4 seconds
+[23:14:52] BanchoBot: Match starts in 3 seconds
+[23:14:52] BanchoBot: Good luck, have fun!
+[23:14:53] BabyScylla: glhf
+[23:14:55] BanchoBot: The match has started!
+[23:16:57] BanchoBot: Crynless finished playing (Score: 151350, PASSED).
+[23:16:57] BanchoBot: Jairofracaso finished playing (Score: 174544, PASSED).
+[23:16:58] BanchoBot: BabyScylla finished playing (Score: 166108, PASSED).
+[23:16:58] BanchoBot: Jairofrancaso finished playing (Score: 227044, PASSED).
+[23:16:58] BanchoBot: The match has finished!
+[23:17:00] BCraftMG: !mp map 3183305 0
+[23:17:01] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3183305 tarolabo - eth ken
+[23:17:01] BanchoBot: Changed match mode to Osu
+[23:17:04] BCraftMG: !mp timer 120
+[23:17:05] BanchoBot: Countdown ends in 2 minutes
+[23:17:08] BabyScylla: vaya asco de mapa
+[23:17:11] BabyScylla: este tambien xd
+[23:17:11] Jairofrancaso: somo unos criminales
+[23:17:13] Jairofrancaso: true
+[23:17:19] Jairofrancaso: odio los reverse sliders en nm4
+[23:17:22] Crynless: Everyone missed on the same slider 100% sure :D
+[23:17:24] Jairofrancaso: y sliders que se tengan que leer la forma
+[23:17:28] Jairofrancaso: yeah
+[23:17:30] Jairofrancaso: on the slow one
+[23:17:36] BabyScylla: es que cosas random ahora se les llama mapas
+[23:17:38] Crynless: Impossible to read
+[23:17:41] Jairofrancaso: yep
+[23:17:47] Jairofrancaso: had random curves
+[23:17:52] Crynless: Gimmick time :skull:
+[23:17:54] BanchoBot: All players are ready
+[23:17:58] BCraftMG: !mp settings
+[23:17:59] BabyScylla: mappers are getting way too used to putting random stuff
+[23:17:59] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q57), History: https://osu.ppy.sh/mp/109624300
+[23:17:59] BanchoBot: Beatmap: https://osu.ppy.sh/b/3183305 tarolabo - eth ken
+[23:17:59] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:17:59] BanchoBot: Active mods: NoFail
+[23:17:59] BanchoBot: Players: 4
+[23:17:59] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9869794 BabyScylla      
+[23:17:59] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16420295 Jairofrancaso   
+[23:17:59] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14272234 Jairofracaso    
+[23:17:59] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5850031 Crynless        
+[23:18:00] BCraftMG: !mp start 5 glhf
+[23:18:00] BanchoBot: Countdown aborted
+[23:18:00] BanchoBot: Match starts in 5 seconds
+[23:18:00] BanchoBot: Queued the match to start in 5 seconds
+[23:18:02] BanchoBot: Match starts in 4 seconds
+[23:18:03] BanchoBot: Match starts in 3 seconds
+[23:18:03] BanchoBot: Good luck, have fun!
+[23:18:05] BabyScylla: glhf
+[23:18:06] BanchoBot: The match has started!
+[23:20:32] BanchoBot: BabyScylla finished playing (Score: 97589, PASSED).
+[23:20:34] BanchoBot: Jairofracaso finished playing (Score: 131488, PASSED).
+[23:20:34] BanchoBot: Jairofrancaso finished playing (Score: 230630, PASSED).
+[23:20:34] BanchoBot: Crynless finished playing (Score: 195242, PASSED).
+[23:20:34] BanchoBot: The match has finished!
+[23:20:45] BabyScylla: como odio el gimmick con nm
+[23:20:46] Crynless: Golem lobby :D
+[23:20:48] BabyScylla: en fin
+[23:20:56] Jairofrancaso: nice accs!!!
+[23:20:57] BabyScylla: ahora lo bueno de la mappool
+[23:21:07] BabyScylla: ref?
+[23:21:10] Jairofrancaso: ahora lo bueno
+[23:21:22] Jairofrancaso: es criminal el mapa
+[23:21:29] BabyScylla: BCraftMG
+[23:21:30] Jairofrancaso: ademas que se me olvido que ar era al principio
+[23:21:32] Crynless: HD3 is worse
+[23:21:32] Jairofrancaso: y no di nada
+[23:21:36] Jairofrancaso: hd3 is fun
+[23:21:40] Jairofrancaso: best map
+[23:21:43] Jairofrancaso: of the pool
+[23:21:43] BabyScylla: @BCraftMG
+[23:21:46] BabyScylla: era asi? xd
+[23:21:47] Crynless: I hate cut streams / Alt
+[23:21:47] Jairofracaso: ref is sleeping
+[23:21:49] Crynless: ...
+[23:21:51] Jairofrancaso: puede
+[23:21:51] Jairofracaso: zzz
+[23:21:54] Jairofracaso: zz
+[23:21:54] Crynless: zzzzzzzzzzz
+[23:21:57] BabyScylla: zzz
+[23:21:58] Jairofrancaso: zzzzzzzz
+[23:22:03] Jairofracaso: zzz
+[23:22:14] BCraftMG: !mp map 4019527 0
+[23:22:14] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4019527 Lon - Yuru Fuwa Jukai Girl
+[23:22:14] BanchoBot: Changed match mode to Osu
+[23:22:21] BCraftMG: oops
+[23:22:22] Jairofrancaso: hiiii
+[23:22:23] BCraftMG: very sorry
+[23:22:24] BCraftMG: !mp mods 9
+[23:22:25] BabyScylla: there he is :D
+[23:22:25] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[23:22:27] BabyScylla: np
+[23:22:36] Jairofracaso: np np
+[23:22:42] Jairofrancaso: o 300k o 700k
+[23:22:44] BanchoBot: All players are ready
+[23:22:45] BCraftMG: !mp settings
+[23:22:46] BabyScylla: everybody would've fallen asleep with that nm5
+[23:22:47] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q57), History: https://osu.ppy.sh/mp/109624300
+[23:22:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/4019527 Lon - Yuru Fuwa Jukai Girl
+[23:22:47] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:22:47] BanchoBot: Active mods: NoFail, Hidden
+[23:22:47] BanchoBot: Players: 4
+[23:22:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9869794 BabyScylla      
+[23:22:47] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16420295 Jairofrancaso   
+[23:22:47] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14272234 Jairofracaso    
+[23:22:47] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5850031 Crynless        
+[23:22:48] BCraftMG: !mp start 5 glhf
+[23:22:49] BanchoBot: Match starts in 5 seconds
+[23:22:49] BanchoBot: Queued the match to start in 5 seconds
+[23:22:50] BanchoBot: Match starts in 4 seconds
+[23:22:52] BanchoBot: Match starts in 3 seconds
+[23:22:52] BanchoBot: Good luck, have fun!
+[23:22:53] BabyScylla: glhf
+[23:22:53] Jairofrancaso: gl
+[23:22:55] BanchoBot: The match has started!
+[23:26:09] BanchoBot: Crynless finished playing (Score: 347700, PASSED).
+[23:26:09] BanchoBot: Jairofrancaso finished playing (Score: 312567, PASSED).
+[23:26:09] BanchoBot: Jairofracaso finished playing (Score: 865916, PASSED).
+[23:26:09] BanchoBot: BabyScylla finished playing (Score: 695894, PASSED).
+[23:26:09] BanchoBot: The match has finished!
+[23:26:14] BCraftMG: !mp map 3535284 0
+[23:26:15] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3535284 Sheena Ringo - Open Secret
+[23:26:15] BanchoBot: Changed match mode to Osu
+[23:26:21] BabyScylla: odio los dobles
+[23:26:23] Jairofrancaso: pue seos 300k
+[23:26:24] BabyScylla: que bonito asco
+[23:26:26] Jairofrancaso: no puedo aimear hoy
+[23:26:27] Jairofrancaso: yo tambien
+[23:26:29] Jairofracaso: padreadita al jairo pocho
+[23:26:30] Jairofrancaso: los he fallado todos
+[23:26:41] Jairofrancaso: te he ganado los otrso 5 mapas zzz
+[23:26:51] BabyScylla: xd
+[23:27:02] BanchoBot: All players are ready
+[23:27:05] BabyScylla: glhf
+[23:27:06] BCraftMG: !mp settings
+[23:27:07] Jairofrancaso: glgglglgllglglglglg
+[23:27:07] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q57), History: https://osu.ppy.sh/mp/109624300
+[23:27:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/3535284 Sheena Ringo - Open Secret
+[23:27:07] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:27:07] BanchoBot: Active mods: NoFail, Hidden
+[23:27:07] BanchoBot: Players: 4
+[23:27:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9869794 BabyScylla      
+[23:27:07] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16420295 Jairofrancaso   
+[23:27:07] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14272234 Jairofracaso    
+[23:27:07] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5850031 Crynless        
+[23:27:07] BCraftMG: !mp start 5 glhf
+[23:27:08] BanchoBot: Match starts in 5 seconds
+[23:27:08] BanchoBot: Queued the match to start in 5 seconds
+[23:27:09] BanchoBot: Match starts in 4 seconds
+[23:27:11] BanchoBot: Match starts in 3 seconds
+[23:27:11] BanchoBot: Good luck, have fun!
+[23:27:14] BanchoBot: The match has started!
+[23:30:22] BanchoBot: Jairofrancaso finished playing (Score: 210979, PASSED).
+[23:30:22] BanchoBot: BabyScylla finished playing (Score: 271548, PASSED).
+[23:30:22] BanchoBot: Crynless finished playing (Score: 160102, PASSED).
+[23:30:22] BanchoBot: Jairofracaso finished playing (Score: 303758, PASSED).
+[23:30:22] BanchoBot: The match has finished!
+[23:30:27] BCraftMG: !mp map 3853099 0
+[23:30:28] BabyScylla: le he sacado fc sightread
+[23:30:28] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3853099 wowaka - Ura-Omote Lovers feat. Hatsune Miku
+[23:30:28] BanchoBot: Changed match mode to Osu
+[23:30:31] BabyScylla: y ahora ni llego a 300k
+[23:30:36] BabyScylla: bonito asco de dia
+[23:30:38] Jairofrancaso: cant play hd2 on qualis
+[23:30:41] Jairofracaso: padreadita x2 al jairo pocho
+[23:30:45] Jairofrancaso: el mejor mapa de la pool
+[23:30:52] Crynless: Time to die
+[23:30:52] Jairofrancaso: te voy a triplicar la score en esto
+[23:30:55] Crynless: For me :)
+[23:30:56] BabyScylla: como le saque 200k a esto me voy
+[23:31:06] Jairofracaso: np man
+[23:31:06] Jairofrancaso: como le saque menos de 400k me voy
+[23:31:15] Jairofracaso: i cant even get 90 k on this
+[23:31:20] Jairofrancaso: gga
+[23:31:21] Jairofrancaso: ggs
+[23:31:21] Crynless: Ty
+[23:31:23] Crynless: :D
+[23:31:23] BanchoBot: All players are ready
+[23:31:26] BCraftMG: !mp settings
+[23:31:28] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q57), History: https://osu.ppy.sh/mp/109624300
+[23:31:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/3853099 wowaka - Ura-Omote Lovers feat. Hatsune Miku
+[23:31:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:31:28] BanchoBot: Active mods: NoFail, Hidden
+[23:31:28] BanchoBot: Players: 4
+[23:31:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9869794 BabyScylla      
+[23:31:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16420295 Jairofrancaso   
+[23:31:28] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14272234 Jairofracaso    
+[23:31:28] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5850031 Crynless        
+[23:31:29] BCraftMG: !mp start 5 glhf
+[23:31:31] BanchoBot: Match starts in 5 seconds
+[23:31:31] BanchoBot: Queued the match to start in 5 seconds
+[23:31:32] BanchoBot: Match starts in 4 seconds
+[23:31:34] BanchoBot: Match starts in 3 seconds
+[23:31:34] BanchoBot: Good luck, have fun!
+[23:31:37] BanchoBot: The match has started!
+[23:34:47] BanchoBot: BabyScylla finished playing (Score: 220209, PASSED).
+[23:34:49] BanchoBot: Crynless finished playing (Score: 191399, PASSED).
+[23:34:49] BanchoBot: Jairofracaso finished playing (Score: 95465, PASSED).
+[23:34:50] BanchoBot: Jairofrancaso finished playing (Score: 287667, PASSED).
+[23:34:50] BanchoBot: The match has finished!
+[23:34:52] BCraftMG: !mp map 3742259 0
+[23:34:53] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3742259 UROBOROS - ZODIAC
+[23:34:53] BanchoBot: Changed match mode to Osu
+[23:34:54] BCraftMG: !mp mods 17
+[23:34:55] Crynless: wtf I Pop off
+[23:34:55] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[23:34:56] BCraftMG: !mp timer 120
+[23:34:56] BabyScylla: que ganas de suicicio
+[23:34:56] BanchoBot: Countdown ends in 2 minutes
+[23:34:58] Jairofrancaso: doy el final
+[23:34:58] Jairofracaso: i got 90k
+[23:34:58] Jairofrancaso: opsiujnDBHFP0897USEIHfoiwE4FGW4
+[23:35:01] Jairofracaso: less gooooooooooo
+[23:35:06] Jairofrancaso: i cant
+[23:35:09] Crynless: HD is so racist
+[23:35:20] Jairofracaso: i am HD
+[23:35:20] BabyScylla: can I corn already :c
+[23:35:29] Jairofrancaso: can i leave :3
+[23:35:43] BCraftMG: nyot
+[23:35:50] Jairofrancaso: ggs
+[23:35:57] BanchoBot: Countdown ends in 1 minute
+[23:35:59] Crynless: Can't leave after HR 's ?
+[23:36:04] BanchoBot: All players are ready
+[23:36:06] BCraftMG: !mp settings
+[23:36:07] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q57), History: https://osu.ppy.sh/mp/109624300
+[23:36:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/3742259 UROBOROS - ZODIAC
+[23:36:07] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:36:07] BanchoBot: Active mods: NoFail, HardRock
+[23:36:07] BanchoBot: Players: 4
+[23:36:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9869794 BabyScylla      
+[23:36:07] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16420295 Jairofrancaso   
+[23:36:07] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14272234 Jairofracaso    
+[23:36:07] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5850031 Crynless        
+[23:36:08] BCraftMG: !mp start 5 glhf
+[23:36:10] BanchoBot: Countdown aborted
+[23:36:10] BanchoBot: Match starts in 5 seconds
+[23:36:10] BanchoBot: Queued the match to start in 5 seconds
+[23:36:11] BanchoBot: Match starts in 4 seconds
+[23:36:13] BanchoBot: Match starts in 3 seconds
+[23:36:13] BanchoBot: Good luck, have fun!
+[23:36:16] BabyScylla: glhf
+[23:36:16] BanchoBot: The match has started!
+[23:40:01] BanchoBot: Crynless finished playing (Score: 269837, PASSED).
+[23:40:01] BanchoBot: Jairofracaso finished playing (Score: 506391, PASSED).
+[23:40:02] BanchoBot: Jairofrancaso finished playing (Score: 420394, PASSED).
+[23:40:02] BanchoBot: BabyScylla finished playing (Score: 305585, PASSED).
+[23:40:02] BanchoBot: The match has finished!
+[23:40:04] BCraftMG: !mp map 4016778 0
+[23:40:05] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4016778 onoken feat. Misaki - Gokuaku no Hana
+[23:40:05] BanchoBot: Changed match mode to Osu
+[23:40:07] Crynless: firetruckk this NM1
+[23:40:30] Jairofracaso: padreadita x3 al jairo pocho
+[23:40:38] Jairofrancaso: kiss
+[23:40:41] BabyScylla: I dont like this pool
+[23:40:44] Jairofracaso: huh
+[23:40:45] Jairofrancaso: same!!!
+[23:40:50] Crynless: No one likes
+[23:40:58] BanchoBot: All players are ready
+[23:41:00] BCraftMG: !mp settings
+[23:41:01] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q57), History: https://osu.ppy.sh/mp/109624300
+[23:41:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/4016778 onoken feat. Misaki - Gokuaku no Hana
+[23:41:01] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:41:01] BanchoBot: Active mods: NoFail, HardRock
+[23:41:01] BanchoBot: Players: 4
+[23:41:01] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9869794 BabyScylla      
+[23:41:01] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16420295 Jairofrancaso   
+[23:41:01] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14272234 Jairofracaso    
+[23:41:01] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5850031 Crynless        
+[23:41:02] BCraftMG: !mp start 5 glhf
+[23:41:02] BanchoBot: Match starts in 5 seconds
+[23:41:02] BanchoBot: Queued the match to start in 5 seconds
+[23:41:04] BanchoBot: Match starts in 4 seconds
+[23:41:05] Jairofracaso: pool hater
+[23:41:05] BanchoBot: Match starts in 3 seconds
+[23:41:05] Jairofracaso: i am
+[23:41:05] BanchoBot: Good luck, have fun!
+[23:41:08] BanchoBot: The match has started!
+[23:43:16] BanchoBot: Crynless finished playing (Score: 733286, PASSED).
+[23:43:16] BanchoBot: Jairofracaso finished playing (Score: 368965, PASSED).
+[23:43:16] BanchoBot: BabyScylla finished playing (Score: 296244, PASSED).
+[23:43:16] BanchoBot: Jairofrancaso finished playing (Score: 417615, PASSED).
+[23:43:16] BanchoBot: The match has finished!
+[23:43:25] BabyScylla: nice score
+[23:43:35] BabyScylla: sinceramente no se que testea este pick
+[23:43:41] Crynless: HR is so easy compare to HD for this pool
+[23:43:42] BabyScylla: porque precision no es
+[23:43:42] Jairofracaso: my god crynless
+[23:43:44] Crynless: So sad ...
+[23:43:51] Jairofrancaso: mm
+[23:43:53] Jairofrancaso: for me
+[23:43:59] Jairofrancaso: its about the same
+[23:44:10] BabyScylla: nah hd is def harder
+[23:44:18] Crynless: Ty
+[23:44:21] Jairofracaso: mei pool
+[23:44:27] BabyScylla: maybe hd2 is the only normal map
+[23:44:27] Jairofrancaso: mei pol
+[23:44:28] Jairofracaso: obviously its bad
+[23:44:30] Jairofrancaso: nah
+[23:44:36] Jairofrancaso: hd1 is easy
+[23:44:41] Jairofrancaso: just the doubles
+[23:44:47] Crynless: HD1 doesn't count
+[23:44:50] Crynless: RNG Map
+[23:44:56] Jairofracaso: ref?
+[23:44:57] BabyScylla: compared to the rest of the pool its still above the dif range
+[23:44:59] Jairofrancaso: yeah
+[23:44:59] Jairofrancaso: ref
+[23:45:04] Jairofracaso: zzz
+[23:45:07] Jairofrancaso: and the nm4
+[23:45:10] Crynless: zzz
+[23:45:11] BabyScylla: @BCraftMG
+[23:45:13] Jairofrancaso: zzz
+[23:45:19] Jairofracaso: zzz
+[23:45:25] Jairofrancaso: pls i need to finish the pool
+[23:45:25] Jairofrancaso: ref
+[23:45:31] Crynless: HR is so easy compared to the rest of the pool it's annoying ...
+[23:45:37] Jairofrancaso: ggs...
+[23:45:40] Crynless: BCraftMG
+[23:45:43] BabyScylla: I just wanna go play apex pls
+[23:45:51] Jairofracaso: imo hr1 was the easiest map of the pool
+[23:45:52] Jairofrancaso: i just wanna go play 22v2v2v in league
+[23:45:54] Jairofrancaso: pls
+[23:45:59] Jairofrancaso: yeah hr1 was the easiest
+[23:46:02] BabyScylla: I cant play osu with this heat
+[23:46:09] Jairofrancaso: hr3 worst map of the pool!!!!!!!!!!!!!!
+[23:46:17] Crynless: HR2 was the easiest
+[23:46:17] BabyScylla: either hr1 or dt1 are the easiest maps
+[23:46:23] Jairofrancaso: hr1
+[23:46:28] BabyScylla: hr2 has bs patterns
+[23:46:32] Jairofrancaso: i got 700k sightread with 91 acc on dt1
+[23:46:35] Jairofrancaso: so maybe its dt1
+[23:46:35] Crynless: If CS.6.5 is mostly Aim it's easy
+[23:46:37] BabyScylla: its not a good tournament map
+[23:46:52] Jairofrancaso: rerf
+[23:46:54] Jairofrancaso: pls
+[23:46:55] BCraftMG: !mp map 2590758 0
+[23:46:55] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2590758 K/DA - THE BADDEST feat. (G)I-DLE, Bea Miller, Wolftyla
+[23:46:55] BanchoBot: Changed match mode to Osu
+[23:46:57] Crynless: Didn't even look at DT's
+[23:46:57] Jairofrancaso: i need to go
+[23:47:00] Jairofrancaso: tytytyryytytytytyt
+[23:47:09] BanchoBot: All players are ready
+[23:47:11] BCraftMG: ảghhh
+[23:47:12] BCraftMG: !mp settings
+[23:47:13] BCraftMG: !mp start 5 glhf
+[23:47:14] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q57), History: https://osu.ppy.sh/mp/109624300
+[23:47:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/2590758 K/DA - THE BADDEST feat. (G)I-DLE, Bea Miller, Wolftyla
+[23:47:14] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:47:14] BanchoBot: Active mods: NoFail, HardRock
+[23:47:14] BanchoBot: Players: 4
+[23:47:14] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9869794 BabyScylla      
+[23:47:14] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16420295 Jairofrancaso   
+[23:47:14] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14272234 Jairofracaso    
+[23:47:14] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5850031 Crynless        
+[23:47:15] BanchoBot: Match starts in 5 seconds
+[23:47:15] BanchoBot: Queued the match to start in 5 seconds
+[23:47:17] BanchoBot: Match starts in 4 seconds
+[23:47:17] BCraftMG: my internet dying
+[23:47:18] BanchoBot: Match starts in 3 seconds
+[23:47:18] BanchoBot: Good luck, have fun!
+[23:47:21] BabyScylla: glhhf
+[23:47:21] BanchoBot: The match has started!
+[23:47:21] Jairofrancaso: gllglglglg
+[23:50:01] BanchoBot: Jairofracaso finished playing (Score: 286693, PASSED).
+[23:50:03] BanchoBot: BabyScylla finished playing (Score: 240206, PASSED).
+[23:50:03] BanchoBot: Jairofrancaso finished playing (Score: 429976, PASSED).
+[23:50:03] BanchoBot: Crynless finished playing (Score: 324985, PASSED).
+[23:50:03] BanchoBot: The match has finished!
+[23:50:07] BCraftMG: !mp map 3424169 0
+[23:50:08] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3424169 Vaundy - Hadaka no Yuusha
+[23:50:08] BanchoBot: Changed match mode to Osu
+[23:50:13] BCraftMG: !mp mods 65
+[23:50:14] Crynless: How can I miss Aim this
+[23:50:14] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[23:50:20] BabyScylla: I hate KD/A hr maps
+[23:50:26] Jairofracaso: me too
+[23:50:40] BabyScylla: its like tech but not
+[23:50:45] BabyScylla: just fast sliders
+[23:51:06] Crynless: Is there Stacks ?
+[23:51:08] BanchoBot: All players are ready
+[23:51:09] BCraftMG: !mp settings
+[23:51:09] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q57), History: https://osu.ppy.sh/mp/109624300
+[23:51:09] BanchoBot: Beatmap: https://osu.ppy.sh/b/3424169 Vaundy - Hadaka no Yuusha
+[23:51:09] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:51:09] BanchoBot: Active mods: NoFail, DoubleTime
+[23:51:09] BanchoBot: Players: 4
+[23:51:09] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9869794 BabyScylla      
+[23:51:09] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16420295 Jairofrancaso   
+[23:51:09] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14272234 Jairofracaso    
+[23:51:09] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5850031 Crynless        
+[23:51:11] BCraftMG: !mp start 5 glhf
+[23:51:12] BanchoBot: Match starts in 5 seconds
+[23:51:12] BanchoBot: Queued the match to start in 5 seconds
+[23:51:14] BabyScylla: dunno
+[23:51:14] BanchoBot: Match starts in 4 seconds
+[23:51:15] BanchoBot: Match starts in 3 seconds
+[23:51:15] BanchoBot: Good luck, have fun!
+[23:51:19] BabyScylla: glhf
+[23:51:19] BanchoBot: The match has started!
+[23:53:37] BanchoBot: Crynless finished playing (Score: 314955, PASSED).
+[23:53:37] BanchoBot: Jairofrancaso finished playing (Score: 391321, PASSED).
+[23:53:37] BanchoBot: Jairofracaso finished playing (Score: 346201, PASSED).
+[23:53:39] BanchoBot: BabyScylla finished playing (Score: 322091, PASSED).
+[23:53:39] BanchoBot: The match has finished!
+[23:53:41] BCraftMG: !mp map 3228276 0
+[23:53:42] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3228276 senya - Kimiiro Subliminal
+[23:53:42] BanchoBot: Changed match mode to Osu
+[23:53:50] Crynless: Those slow parts :skull:
+[23:53:57] BabyScylla: I just dislike the song on dt1
+[23:54:03] Jairofrancaso: its good
+[23:54:05] BabyScylla: there's nothing else
+[23:54:07] Jairofracaso: dt if its not farm i suck at it
+[23:54:19] Jairofrancaso: best map
+[23:54:30] BabyScylla: senya map <3
+[23:54:36] Jairofrancaso: senya map
+[23:54:41] BanchoBot: All players are ready
+[23:54:44] BCraftMG: !mp settings
+[23:54:46] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q57), History: https://osu.ppy.sh/mp/109624300
+[23:54:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/3228276 senya - Kimiiro Subliminal
+[23:54:46] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:54:46] BanchoBot: Active mods: NoFail, DoubleTime
+[23:54:46] BanchoBot: Players: 4
+[23:54:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9869794 BabyScylla      
+[23:54:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16420295 Jairofrancaso   
+[23:54:46] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14272234 Jairofracaso    
+[23:54:46] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5850031 Crynless        
+[23:54:46] BCraftMG: !mp start 5 glhf
+[23:54:47] Jairofracaso: time to suck
+[23:54:47] BanchoBot: Match starts in 5 seconds
+[23:54:47] BanchoBot: Queued the match to start in 5 seconds
+[23:54:49] BanchoBot: Match starts in 4 seconds
+[23:54:50] BanchoBot: Match starts in 3 seconds
+[23:54:50] BanchoBot: Good luck, have fun!
+[23:54:52] BabyScylla: glhf
+[23:54:53] BanchoBot: The match has started!
+[23:57:37] BanchoBot: BabyScylla finished playing (Score: 389596, PASSED).
+[23:57:38] BanchoBot: Crynless finished playing (Score: 112217, PASSED).
+[23:57:38] BanchoBot: Jairofracaso finished playing (Score: 168233, PASSED).
+[23:57:38] BanchoBot: Jairofrancaso finished playing (Score: 482773, PASSED).
+[23:57:38] BanchoBot: The match has finished!
+[23:57:40] BCraftMG: !mp map 2149694 0
+[23:57:41] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2149694 Enter Shikari - Wall
+[23:57:41] BanchoBot: Changed match mode to Osu
+[23:57:47] BabyScylla: quiero cometer suicidio
+[23:57:47] Jairofrancaso: nice
+[23:57:47] Crynless: Senya maps sucks for real
+[23:57:51] Jairofrancaso: hit all streams
+[23:57:53] Jairofracaso: no fingers
+[23:57:56] Jairofrancaso: and missread a pattern
+[23:57:56] BabyScylla: he fallado en todo lo que no era speed
+[23:57:59] Jairofracaso: cant tap
+[23:58:03] Jairofrancaso: senya maps are the best maps
+[23:58:07] BabyScylla: y ahora esta mierda de mapa
+[23:58:10] BabyScylla: joder que dia..
+[23:58:17] Jairofrancaso: nada
+[23:58:20] Jairofrancaso: yo tambien tengo mal dia
+[23:58:27] Jairofrancaso: ntp
+[23:58:34] BanchoBot: All players are ready
+[23:58:41] BCraftMG: !mp settings
+[23:58:42] Jairofrancaso: lo importante es hacerlo bien luego
+[23:58:42] Crynless: 3 mins :skull!
+[23:58:42] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q57), History: https://osu.ppy.sh/mp/109624300
+[23:58:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/2149694 Enter Shikari - Wall
+[23:58:42] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:58:42] BanchoBot: Active mods: NoFail, DoubleTime
+[23:58:42] BanchoBot: Players: 4
+[23:58:42] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9869794 BabyScylla      
+[23:58:42] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16420295 Jairofrancaso   
+[23:58:42] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14272234 Jairofracaso    
+[23:58:42] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/5850031 Crynless        
+[23:58:43] BCraftMG: !mp start 5 glhf
+[23:58:43] Crynless: :
+[23:58:43] BanchoBot: Match starts in 5 seconds
+[23:58:43] BanchoBot: Queued the match to start in 5 seconds
+[23:58:45] BanchoBot: Match starts in 4 seconds
+[23:58:46] BanchoBot: Match starts in 3 seconds
+[23:58:46] BanchoBot: Good luck, have fun!
+[23:58:49] BanchoBot: The match has started!
+[00:01:56] BanchoBot: Jairofrancaso finished playing (Score: 492974, PASSED).
+[00:01:56] BanchoBot: Jairofracaso finished playing (Score: 130845, PASSED).
+[00:01:56] BanchoBot: Crynless finished playing (Score: 70395, PASSED).
+[00:01:56] BanchoBot: BabyScylla finished playing (Score: 378958, PASSED).
+[00:01:56] BanchoBot: The match has finished!
+[00:01:59] Crynless: erzQSKMLFGHIJKMFG<RISHNMPJIFOG¨SED°
+[00:02:03] Crynless: That's why I hate Speed
+[00:02:04] BabyScylla: bonito sb
+[00:02:06] BCraftMG: ggwp
+[00:02:08] BabyScylla: ale ggwp
+[00:02:08] Jairofrancaso: gg
+[00:02:11] BabyScylla: me voy a suicidar
+[00:02:12] BabyScylla: o/
+[00:02:14] Jairofracaso: ggwp
+[00:02:21] Jairofracaso: crynless mutual?
+[00:02:27] BanchoBot: BabyScylla left the game.
+[00:02:32] Jairofrancaso: o/
+[00:02:33] BanchoBot: Jairofrancaso left the game.
+[00:02:43] Crynless: Jarrofracaso look at my profile and you will have my answer
+[00:02:47] Jairofracaso: je suis français aussi
+[00:03:01] Crynless: Look at my profile for mutual
+[00:03:07] Crynless: You'ill find my answer
+[00:03:13] BanchoBot: Crynless left the game.
+[00:03:19] BanchoBot: Jairofracaso left the game.
+[00:03:28] BCraftMG: !mp close
+[00:03:28] BanchoBot: Closed the match

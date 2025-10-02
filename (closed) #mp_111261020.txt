@@ -1,0 +1,451 @@
+[00:53:17] Joined #mp_111261020
+[00:53:17] BCraftMG: !mp settings
+[00:53:18] BanchoBot: Room name: cRSC: (Qualifiers) vs (Match A10), History: https://osu.ppy.sh/mp/111261020
+[00:53:18] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[00:53:19] BanchoBot: Players: 0
+[00:55:19] BCraftMG: !mp set 0 3 8
+[00:55:20] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[00:55:24] BCraftMG: !mp invite #16320893
+[00:55:24] BanchoBot: Invited -Dever to the room
+[00:55:26] BCraftMG: !mp invite #15846736
+[00:55:26] BanchoBot: Invited -Jayden to the room
+[00:55:27] BCraftMG: !mp invite #8576293
+[00:55:28] BanchoBot: Invited OsuSven to the room
+[00:55:29] BCraftMG: !mp invite #14723002
+[00:55:30] BanchoBot: User not found
+[00:55:33] BCraftMG: !mp map 3232640 0
+[00:55:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3232640 Sirius Chord - Drastic Melody (Game Ver.)
+[00:55:34] BanchoBot: Changed match mode to Osu
+[00:55:35] BanchoBot: OsuSven joined in slot 1.
+[00:55:35] BCraftMG: !mp mods 1
+[00:55:36] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:55:38] OsuSven: thx
+[00:55:44] BanchoBot: -Dever joined in slot 2.
+[00:56:13] BanchoBot: -Jayden joined in slot 3.
+[00:57:08] BanchoBot: -Jayden left the game.
+[00:57:15] BanchoBot: OsuSven left the game.
+[00:58:30] BanchoBot: -Jayden joined in slot 1.
+[00:58:56] BanchoBot: OsuSven joined in slot 3.
+[00:59:19] -Dever: reclusive:
+[00:59:32] BCraftMG: !mp invite #14723002
+[00:59:33] BanchoBot: Invited Reclusive to the room
+[00:59:36] OsuSven: is being very reclusive
+[00:59:43] -Dever: he said brb im gonna get food
+[01:00:04] OsuSven: lol just like me fr
+[01:00:19] BanchoBot: Reclusive joined in slot 4.
+[01:00:43] OsuSven: glhf
+[01:00:54] -Dever: hey ref can one of our friends join like
+[01:00:56] -Dever: right now
+[01:00:58] BCraftMG: who
+[01:01:06] Reclusive: meowmeowmmeowme
+[01:01:12] -Dever: meowmeowmmeowme
+[01:01:28] BCraftMG: !mp invite #23124445
+[01:01:29] BanchoBot: Invited meowmeowmmeowme to the room
+[01:01:37] BanchoBot: All players are ready
+[01:01:46] BanchoBot: meowmeowmmeowme joined in slot 5.
+[01:01:47] BCraftMG: !mp settings
+[01:01:48] BanchoBot: Room name: cRSC: (Qualifiers) vs (Match A10), History: https://osu.ppy.sh/mp/111261020
+[01:01:48] BanchoBot: Beatmap: https://osu.ppy.sh/b/3232640 Sirius Chord - Drastic Melody (Game Ver.)
+[01:01:48] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:01:48] BanchoBot: Active mods: NoFail
+[01:01:48] BanchoBot: Players: 5
+[01:01:48] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15846736 -Jayden         
+[01:01:48] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16320893 -Dever          
+[01:01:48] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8576293 OsuSven         
+[01:01:48] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/14723002 Reclusive       
+[01:01:48] BanchoBot: Slot 5  No Map    https://osu.ppy.sh/u/23124445 meowmeowmmeowme 
+[01:02:02] BanchoBot: All players are ready
+[01:02:09] BCraftMG: !mp settings
+[01:02:10] BanchoBot: Room name: cRSC: (Qualifiers) vs (Match A10), History: https://osu.ppy.sh/mp/111261020
+[01:02:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/3232640 Sirius Chord - Drastic Melody (Game Ver.)
+[01:02:10] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:02:10] BanchoBot: Active mods: NoFail
+[01:02:10] BanchoBot: Players: 5
+[01:02:10] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15846736 -Jayden         
+[01:02:10] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16320893 -Dever          
+[01:02:10] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8576293 OsuSven         
+[01:02:10] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14723002 Reclusive       
+[01:02:10] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/23124445 meowmeowmmeowme 
+[01:02:11] BCraftMG: !mp start 5 glhf
+[01:02:12] BanchoBot: Match starts in 5 seconds
+[01:02:12] BanchoBot: Queued the match to start in 5 seconds
+[01:02:13] BanchoBot: Match starts in 4 seconds
+[01:02:14] BanchoBot: Match starts in 3 seconds
+[01:02:16] BanchoBot: Good luck, have fun!
+[01:02:17] Reclusive: gl
+[01:02:18] BanchoBot: The match has started!
+[01:04:17] BanchoBot: OsuSven finished playing (Score: 341217, PASSED).
+[01:04:17] BanchoBot: -Dever finished playing (Score: 583711, PASSED).
+[01:04:17] BanchoBot: Reclusive finished playing (Score: 459127, PASSED).
+[01:04:17] BanchoBot: meowmeowmmeowme finished playing (Score: 907906, PASSED).
+[01:04:18] BanchoBot: -Jayden finished playing (Score: 385683, PASSED).
+[01:04:18] BanchoBot: The match has finished!
+[01:04:30] BCraftMG: !mp map 4049716 0
+[01:04:31] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4049716 Maverick - opaque
+[01:04:31] BanchoBot: Changed match mode to Osu
+[01:04:32] BCraftMG: !mp timer 120
+[01:04:33] BanchoBot: Countdown ends in 2 minutes
+[01:04:59] BanchoBot: All players are ready
+[01:05:03] Reclusive: ncie socore zab
+[01:05:07] meowmeowmmeowme: tyty
+[01:05:16] BCraftMG: !mp settings
+[01:05:17] BanchoBot: Room name: cRSC: (Qualifiers) vs (Match A10), History: https://osu.ppy.sh/mp/111261020
+[01:05:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/4049716 Maverick - opaque
+[01:05:17] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:05:17] BanchoBot: Active mods: NoFail
+[01:05:17] BanchoBot: Players: 5
+[01:05:17] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15846736 -Jayden         
+[01:05:17] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16320893 -Dever          
+[01:05:17] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8576293 OsuSven         
+[01:05:17] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14723002 Reclusive       
+[01:05:17] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/23124445 meowmeowmmeowme 
+[01:05:18] BCraftMG: !mp start 5 glhf
+[01:05:19] BanchoBot: Countdown aborted
+[01:05:19] BanchoBot: Match starts in 5 seconds
+[01:05:19] BanchoBot: Queued the match to start in 5 seconds
+[01:05:20] BanchoBot: Match starts in 4 seconds
+[01:05:21] BanchoBot: Match starts in 3 seconds
+[01:05:22] BanchoBot: Good luck, have fun!
+[01:05:24] BanchoBot: The match has started!
+[01:07:44] BanchoBot: OsuSven finished playing (Score: 232986, PASSED).
+[01:07:45] BanchoBot: -Jayden finished playing (Score: 694069, PASSED).
+[01:07:45] BanchoBot: -Dever finished playing (Score: 428246, PASSED).
+[01:07:46] BanchoBot: Reclusive finished playing (Score: 237094, PASSED).
+[01:07:46] BanchoBot: meowmeowmmeowme finished playing (Score: 457187, PASSED).
+[01:07:46] BanchoBot: The match has finished!
+[01:07:53] BCraftMG: !mp map 3845627 0
+[01:07:53] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3845627 Norman J. Grossfeld, Russell Velazquez - Turtles Theme (TV Size)
+[01:07:53] BanchoBot: Changed match mode to Osu
+[01:07:54] BCraftMG: !mp timer 120
+[01:07:55] BanchoBot: Countdown ends in 2 minutes
+[01:08:25] BanchoBot: All players are ready
+[01:08:30] BCraftMG: !mp settings
+[01:08:31] BanchoBot: Room name: cRSC: (Qualifiers) vs (Match A10), History: https://osu.ppy.sh/mp/111261020
+[01:08:31] BanchoBot: Beatmap: https://osu.ppy.sh/b/3845627 Norman J. Grossfeld, Russell Velazquez - Turtles Theme (TV Size)
+[01:08:31] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:08:31] BanchoBot: Active mods: NoFail
+[01:08:31] BanchoBot: Players: 5
+[01:08:31] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15846736 -Jayden         
+[01:08:31] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16320893 -Dever          
+[01:08:31] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8576293 OsuSven         
+[01:08:31] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14723002 Reclusive       
+[01:08:31] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/23124445 meowmeowmmeowme 
+[01:08:32] BCraftMG: !mp start 5 glhf
+[01:08:32] BanchoBot: Countdown aborted
+[01:08:32] BanchoBot: Match starts in 5 seconds
+[01:08:32] BanchoBot: Queued the match to start in 5 seconds
+[01:08:33] BanchoBot: Match starts in 4 seconds
+[01:08:34] BanchoBot: Match starts in 3 seconds
+[01:08:35] Reclusive: glglgl
+[01:08:35] BanchoBot: Good luck, have fun!
+[01:08:38] BanchoBot: The match has started!
+[01:09:45] BanchoBot: OsuSven finished playing (Score: 394091, PASSED).
+[01:09:45] BanchoBot: -Dever finished playing (Score: 529223, PASSED).
+[01:09:45] BanchoBot: Reclusive finished playing (Score: 267423, PASSED).
+[01:09:45] BanchoBot: -Jayden finished playing (Score: 259644, PASSED).
+[01:09:45] BanchoBot: meowmeowmmeowme finished playing (Score: 438954, PASSED).
+[01:09:45] BanchoBot: The match has finished!
+[01:09:55] BCraftMG: !mp map 4051891 0
+[01:09:56] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4051891 lapix - Flying Castle
+[01:09:56] BanchoBot: Changed match mode to Osu
+[01:10:23] BanchoBot: All players are ready
+[01:10:27] BCraftMG: !mp settings
+[01:10:28] BanchoBot: Room name: cRSC: (Qualifiers) vs (Match A10), History: https://osu.ppy.sh/mp/111261020
+[01:10:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/4051891 lapix - Flying Castle
+[01:10:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:10:28] BanchoBot: Active mods: NoFail
+[01:10:28] BanchoBot: Players: 5
+[01:10:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15846736 -Jayden         
+[01:10:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16320893 -Dever          
+[01:10:28] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8576293 OsuSven         
+[01:10:28] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14723002 Reclusive       
+[01:10:28] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/23124445 meowmeowmmeowme 
+[01:10:29] BCraftMG: !mp start 5 glhf
+[01:10:29] BanchoBot: Match starts in 5 seconds
+[01:10:29] BanchoBot: Queued the match to start in 5 seconds
+[01:10:31] BanchoBot: Match starts in 4 seconds
+[01:10:32] BanchoBot: Match starts in 3 seconds
+[01:10:33] BanchoBot: Good luck, have fun!
+[01:10:35] BanchoBot: The match has started!
+[01:12:45] BanchoBot: Reclusive finished playing (Score: 388697, PASSED).
+[01:12:46] BanchoBot: meowmeowmmeowme finished playing (Score: 447456, PASSED).
+[01:12:46] BanchoBot: -Jayden finished playing (Score: 559902, PASSED).
+[01:12:46] BanchoBot: -Dever finished playing (Score: 922358, PASSED).
+[01:12:47] BanchoBot: OsuSven finished playing (Score: 238048, PASSED).
+[01:12:47] BanchoBot: The match has finished!
+[01:12:52] BCraftMG: !mp map 3602896 0
+[01:12:53] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3602896 Yousei Teikoku - Baptize (TV Size)
+[01:12:53] BanchoBot: Changed match mode to Osu
+[01:13:07] BCraftMG: !mp mods 9
+[01:13:07] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[01:13:08] BCraftMG: !mp timer 120
+[01:13:09] BanchoBot: Countdown ends in 2 minutes
+[01:13:37] BanchoBot: All players are ready
+[01:13:39] BCraftMG: !mp settings
+[01:13:40] BanchoBot: Room name: cRSC: (Qualifiers) vs (Match A10), History: https://osu.ppy.sh/mp/111261020
+[01:13:40] BanchoBot: Beatmap: https://osu.ppy.sh/b/3602896 Yousei Teikoku - Baptize (TV Size)
+[01:13:40] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:13:40] BanchoBot: Active mods: NoFail, Hidden
+[01:13:40] BanchoBot: Players: 5
+[01:13:40] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15846736 -Jayden         
+[01:13:40] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16320893 -Dever          
+[01:13:40] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8576293 OsuSven         
+[01:13:40] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14723002 Reclusive       
+[01:13:40] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/23124445 meowmeowmmeowme 
+[01:13:41] BCraftMG: !mp start 5 glhf
+[01:13:42] BanchoBot: Countdown aborted
+[01:13:42] BanchoBot: Match starts in 5 seconds
+[01:13:42] BanchoBot: Queued the match to start in 5 seconds
+[01:13:43] BanchoBot: Match starts in 4 seconds
+[01:13:44] BanchoBot: Match starts in 3 seconds
+[01:13:45] BanchoBot: Good luck, have fun!
+[01:13:47] BanchoBot: The match has started!
+[01:15:24] BanchoBot: meowmeowmmeowme finished playing (Score: 736433, PASSED).
+[01:15:24] BanchoBot: OsuSven finished playing (Score: 249444, PASSED).
+[01:15:24] BanchoBot: -Jayden finished playing (Score: 601145, PASSED).
+[01:15:24] BanchoBot: -Dever finished playing (Score: 669339, PASSED).
+[01:15:25] BanchoBot: Reclusive finished playing (Score: 515602, PASSED).
+[01:15:25] BanchoBot: The match has finished!
+[01:15:33] BCraftMG: !mp map 4201373 0
+[01:15:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4201373 SHK - Last Rebirth
+[01:15:34] BanchoBot: Changed match mode to Osu
+[01:15:37] BCraftMG: !mp timer 120
+[01:15:37] BanchoBot: Countdown ends in 2 minutes
+[01:16:05] BanchoBot: All players are ready
+[01:16:06] BCraftMG: !mp settings
+[01:16:07] BanchoBot: Room name: cRSC: (Qualifiers) vs (Match A10), History: https://osu.ppy.sh/mp/111261020
+[01:16:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/4201373 SHK - Last Rebirth
+[01:16:07] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:16:07] BanchoBot: Active mods: NoFail, Hidden
+[01:16:07] BanchoBot: Players: 5
+[01:16:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15846736 -Jayden         
+[01:16:07] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16320893 -Dever          
+[01:16:07] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8576293 OsuSven         
+[01:16:07] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14723002 Reclusive       
+[01:16:07] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/23124445 meowmeowmmeowme 
+[01:16:08] BCraftMG: !mp start 5 glhf
+[01:16:09] BanchoBot: Countdown aborted
+[01:16:09] BanchoBot: Match starts in 5 seconds
+[01:16:09] BanchoBot: Queued the match to start in 5 seconds
+[01:16:11] BanchoBot: Match starts in 4 seconds
+[01:16:11] BanchoBot: Match starts in 3 seconds
+[01:16:12] BanchoBot: Good luck, have fun!
+[01:16:14] BanchoBot: The match has started!
+[01:18:10] BanchoBot: -Jayden finished playing (Score: 59365, PASSED).
+[01:18:12] BanchoBot: meowmeowmmeowme finished playing (Score: 151974, PASSED).
+[01:18:13] BanchoBot: Reclusive finished playing (Score: 130655, PASSED).
+[01:18:13] BanchoBot: OsuSven finished playing (Score: 88113, PASSED).
+[01:18:13] BanchoBot: -Dever finished playing (Score: 314738, PASSED).
+[01:18:13] BanchoBot: The match has finished!
+[01:18:34] BCraftMG: !mp map 4007099 0
+[01:18:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4007099 DVRST - SHE IS HYPERACTIVE
+[01:18:34] BanchoBot: Changed match mode to Osu
+[01:18:35] BCraftMG: !mp mods 17
+[01:18:36] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[01:18:40] BCraftMG: !mp timer 120
+[01:18:40] BanchoBot: Countdown ends in 2 minutes
+[01:19:33] BanchoBot: All players are ready
+[01:19:41] BanchoBot: Countdown ends in 1 minute
+[01:19:46] BCraftMG: !mp settings
+[01:19:47] BanchoBot: Room name: cRSC: (Qualifiers) vs (Match A10), History: https://osu.ppy.sh/mp/111261020
+[01:19:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/4007099 DVRST - SHE IS HYPERACTIVE
+[01:19:47] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:19:47] BanchoBot: Active mods: NoFail, HardRock
+[01:19:47] BanchoBot: Players: 5
+[01:19:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15846736 -Jayden         
+[01:19:47] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16320893 -Dever          
+[01:19:47] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8576293 OsuSven         
+[01:19:47] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14723002 Reclusive       
+[01:19:47] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/23124445 meowmeowmmeowme 
+[01:19:48] BCraftMG: !mp start 5 glhf
+[01:19:49] BanchoBot: Countdown aborted
+[01:19:49] BanchoBot: Match starts in 5 seconds
+[01:19:49] BanchoBot: Queued the match to start in 5 seconds
+[01:19:50] BanchoBot: Match starts in 4 seconds
+[01:19:51] BanchoBot: Match starts in 3 seconds
+[01:19:52] BanchoBot: Good luck, have fun!
+[01:19:54] BanchoBot: The match has started!
+[01:20:18] OsuSven: the map is stuck loading for me
+[01:20:25] -Jayden: abort
+[01:20:28] -Jayden: not working
+[01:20:29] BCraftMG: !mp abort
+[01:20:30] -Dever: waiting for players
+[01:20:30] BanchoBot: Aborted the match
+[01:20:35] BanchoBot: OsuSven left the game.
+[01:20:36] -Jayden: try2
+[01:20:39] BanchoBot: OsuSven joined in slot 3.
+[01:20:46] BanchoBot: All players are ready
+[01:20:47] BCraftMG: !mp settings
+[01:20:48] BanchoBot: Room name: cRSC: (Qualifiers) vs (Match A10), History: https://osu.ppy.sh/mp/111261020
+[01:20:48] BanchoBot: Beatmap: https://osu.ppy.sh/b/4007099 DVRST - SHE IS HYPERACTIVE
+[01:20:48] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:20:48] BanchoBot: Active mods: NoFail, HardRock
+[01:20:48] BanchoBot: Players: 5
+[01:20:48] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15846736 -Jayden         
+[01:20:48] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16320893 -Dever          
+[01:20:48] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8576293 OsuSven         
+[01:20:48] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14723002 Reclusive       
+[01:20:48] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/23124445 meowmeowmmeowme 
+[01:20:49] BCraftMG: !mp start 5 glhf
+[01:20:50] BanchoBot: Match starts in 5 seconds
+[01:20:50] BanchoBot: Queued the match to start in 5 seconds
+[01:20:51] BanchoBot: Match starts in 4 seconds
+[01:20:52] BanchoBot: Match starts in 3 seconds
+[01:20:53] BanchoBot: Good luck, have fun!
+[01:20:55] BanchoBot: The match has started!
+[01:21:07] OsuSven: again
+[01:21:08] OsuSven: how
+[01:21:17] -Dever: waiting for players
+[01:21:20] BCraftMG: !mp abort
+[01:21:22] BanchoBot: Aborted the match
+[01:21:27] BanchoBot: OsuSven left the game.
+[01:21:38] BanchoBot: OsuSven joined in slot 3.
+[01:21:48] OsuSven: I disabled video now hope that works
+[01:21:50] BanchoBot: All players are ready
+[01:21:54] BCraftMG: !mp settings
+[01:21:55] BanchoBot: Room name: cRSC: (Qualifiers) vs (Match A10), History: https://osu.ppy.sh/mp/111261020
+[01:21:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/4007099 DVRST - SHE IS HYPERACTIVE
+[01:21:55] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:21:55] BanchoBot: Active mods: NoFail, HardRock
+[01:21:55] BanchoBot: Players: 5
+[01:21:55] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15846736 -Jayden         
+[01:21:55] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16320893 -Dever          
+[01:21:55] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8576293 OsuSven         
+[01:21:55] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14723002 Reclusive       
+[01:21:55] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/23124445 meowmeowmmeowme 
+[01:21:56] BCraftMG: !mp start 5 glhf
+[01:21:56] BanchoBot: Match starts in 5 seconds
+[01:21:56] BanchoBot: Queued the match to start in 5 seconds
+[01:21:58] BanchoBot: Match starts in 4 seconds
+[01:21:59] BanchoBot: Match starts in 3 seconds
+[01:22:00] BanchoBot: Good luck, have fun!
+[01:22:02] BanchoBot: The match has started!
+[01:24:13] BanchoBot: -Jayden finished playing (Score: 334270, PASSED).
+[01:24:13] BanchoBot: OsuSven finished playing (Score: 214854, PASSED).
+[01:24:13] BanchoBot: meowmeowmmeowme finished playing (Score: 283040, PASSED).
+[01:24:13] BanchoBot: Reclusive finished playing (Score: 296072, PASSED).
+[01:24:13] BanchoBot: -Dever finished playing (Score: 285209, PASSED).
+[01:24:13] BanchoBot: The match has finished!
+[01:24:28] BCraftMG: !mp map 2884186 0
+[01:24:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2884186 Tatsh feat. K.Nayuki - Sphere
+[01:24:29] BanchoBot: Changed match mode to Osu
+[01:24:46] BCraftMG: !mp timer 120
+[01:24:47] BanchoBot: Countdown ends in 2 minutes
+[01:24:50] BanchoBot: All players are ready
+[01:25:09] BanchoBot: All players are ready
+[01:25:09] BCraftMG: !mp settings
+[01:25:10] BanchoBot: All players are ready
+[01:25:10] BanchoBot: Room name: cRSC: (Qualifiers) vs (Match A10), History: https://osu.ppy.sh/mp/111261020
+[01:25:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/2884186 Tatsh feat. K.Nayuki - Sphere
+[01:25:10] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:25:10] BanchoBot: Active mods: NoFail, HardRock
+[01:25:10] BanchoBot: Players: 5
+[01:25:10] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15846736 -Jayden         
+[01:25:10] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/16320893 -Dever          
+[01:25:10] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8576293 OsuSven         
+[01:25:10] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14723002 Reclusive       
+[01:25:10] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/23124445 meowmeowmmeowme 
+[01:25:11] BanchoBot: All players are ready
+[01:25:11] BanchoBot: -Dever moved to slot 6
+[01:25:12] BanchoBot: -Dever moved to slot 2
+[01:25:13] BanchoBot: -Dever moved to slot 6
+[01:25:14] BCraftMG: !mp settings
+[01:25:14] BanchoBot: -Dever moved to slot 2
+[01:25:14] BanchoBot: Room name: cRSC: (Qualifiers) vs (Match A10), History: https://osu.ppy.sh/mp/111261020
+[01:25:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/2884186 Tatsh feat. K.Nayuki - Sphere
+[01:25:14] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:25:14] BanchoBot: Active mods: NoFail, HardRock
+[01:25:14] BanchoBot: Players: 5
+[01:25:14] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15846736 -Jayden         
+[01:25:14] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16320893 -Dever          
+[01:25:14] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8576293 OsuSven         
+[01:25:14] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14723002 Reclusive       
+[01:25:14] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/23124445 meowmeowmmeowme 
+[01:25:16] BCraftMG: !mp start 5 glhf
+[01:25:16] BanchoBot: Countdown aborted
+[01:25:16] BanchoBot: Match starts in 5 seconds
+[01:25:16] BanchoBot: Queued the match to start in 5 seconds
+[01:25:17] BanchoBot: Match starts in 4 seconds
+[01:25:19] BanchoBot: Match starts in 3 seconds
+[01:25:19] BanchoBot: Good luck, have fun!
+[01:25:21] BanchoBot: The match has started!
+[01:25:22] meowmeowmmeowme: dilf
+[01:27:18] BanchoBot: meowmeowmmeowme finished playing (Score: 243840, PASSED).
+[01:27:18] BanchoBot: -Dever finished playing (Score: 552656, PASSED).
+[01:27:18] BanchoBot: -Jayden finished playing (Score: 456366, PASSED).
+[01:27:18] BanchoBot: OsuSven finished playing (Score: 282335, PASSED).
+[01:27:18] BanchoBot: Reclusive finished playing (Score: 475610, PASSED).
+[01:27:18] BanchoBot: The match has finished!
+[01:27:31] BCraftMG: !mp map 3479875 0
+[01:27:32] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3479875 Vaundy - Hadaka no Yuusha (TV Size)
+[01:27:32] BanchoBot: Changed match mode to Osu
+[01:27:34] BCraftMG: !mp mods 65
+[01:27:35] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[01:28:19] BanchoBot: All players are ready
+[01:28:23] BCraftMG: !mp settings
+[01:28:24] BanchoBot: Room name: cRSC: (Qualifiers) vs (Match A10), History: https://osu.ppy.sh/mp/111261020
+[01:28:24] BanchoBot: Beatmap: https://osu.ppy.sh/b/3479875 Vaundy - Hadaka no Yuusha (TV Size)
+[01:28:24] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:28:24] BanchoBot: Active mods: NoFail, DoubleTime
+[01:28:24] BanchoBot: Players: 5
+[01:28:24] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15846736 -Jayden         
+[01:28:24] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16320893 -Dever          
+[01:28:24] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8576293 OsuSven         
+[01:28:24] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14723002 Reclusive       
+[01:28:24] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/23124445 meowmeowmmeowme 
+[01:28:25] BCraftMG: !mp start 5 glhf
+[01:28:26] BanchoBot: Match starts in 5 seconds
+[01:28:26] BanchoBot: Queued the match to start in 5 seconds
+[01:28:27] BanchoBot: Match starts in 4 seconds
+[01:28:28] BanchoBot: Match starts in 3 seconds
+[01:28:29] BanchoBot: Good luck, have fun!
+[01:28:31] BanchoBot: The match has started!
+[01:29:38] BanchoBot: OsuSven finished playing (Score: 157925, PASSED).
+[01:29:38] BanchoBot: Reclusive finished playing (Score: 133005, PASSED).
+[01:29:38] BanchoBot: -Jayden finished playing (Score: 538908, PASSED).
+[01:29:39] BanchoBot: meowmeowmmeowme finished playing (Score: 455106, PASSED).
+[01:29:40] BanchoBot: -Dever finished playing (Score: 690766, PASSED).
+[01:29:40] BanchoBot: The match has finished!
+[01:29:48] BCraftMG: !mp map 3670829 0
+[01:29:49] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3670829 ginkiha - Ixia Polystachya (Sentou)
+[01:29:49] BanchoBot: Changed match mode to Osu
+[01:29:52] OsuSven: there we go finally got 69
+[01:30:13] BanchoBot: All players are ready
+[01:30:18] BCraftMG: !mp settings
+[01:30:19] BanchoBot: Room name: cRSC: (Qualifiers) vs (Match A10), History: https://osu.ppy.sh/mp/111261020
+[01:30:19] BanchoBot: Beatmap: https://osu.ppy.sh/b/3670829 ginkiha - Ixia Polystachya (Sentou)
+[01:30:19] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:30:19] BanchoBot: Active mods: NoFail, DoubleTime
+[01:30:19] BanchoBot: Players: 5
+[01:30:19] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15846736 -Jayden         
+[01:30:19] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16320893 -Dever          
+[01:30:19] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8576293 OsuSven         
+[01:30:19] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14723002 Reclusive       
+[01:30:19] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/23124445 meowmeowmmeowme 
+[01:30:20] BCraftMG: !mp start 5 glhf
+[01:30:21] BanchoBot: Match starts in 5 seconds
+[01:30:21] BanchoBot: Queued the match to start in 5 seconds
+[01:30:23] BanchoBot: Match starts in 4 seconds
+[01:30:23] BanchoBot: Match starts in 3 seconds
+[01:30:24] BanchoBot: Good luck, have fun!
+[01:30:26] BanchoBot: The match has started!
+[01:31:43] BanchoBot: -Jayden finished playing (Score: 1126004, PASSED).
+[01:31:43] BanchoBot: meowmeowmmeowme finished playing (Score: 1151615, PASSED).
+[01:31:43] BanchoBot: Reclusive finished playing (Score: 296643, PASSED).
+[01:31:43] BanchoBot: -Dever finished playing (Score: 1184550, PASSED).
+[01:31:44] BanchoBot: OsuSven finished playing (Score: 249731, PASSED).
+[01:31:44] BanchoBot: The match has finished!
+[01:32:03] -Dever: ggwp
+[01:32:04] BanchoBot: -Dever left the game.
+[01:32:06] OsuSven: thanks for ref bb
+[01:32:06] -Jayden: gg ty4ref
+[01:32:07] BanchoBot: -Jayden left the game.
+[01:32:07] Reclusive: ]THCX FOR REF
+[01:32:09] Reclusive: GGH
+[01:32:10] Reclusive: BYE
+[01:32:10] BCraftMG: bbbb
+[01:32:11] BanchoBot: Reclusive left the game.
+[01:32:12] BanchoBot: OsuSven left the game.
+[01:32:16] meowmeowmmeowme: ty for reffing
+[01:32:17] BCraftMG: !mp close
+[01:32:17] BanchoBot: Closed the match

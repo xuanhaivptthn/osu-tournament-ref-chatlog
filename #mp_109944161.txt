@@ -1,0 +1,325 @@
+[21:54:00] Joined #mp_109944161
+[21:54:00] BCraftMG: !mp settings
+[21:54:02] BanchoBot: Room name: PTE : (Qualifiers) vs (C15), History: https://osu.ppy.sh/mp/109944161
+[21:54:02] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[21:54:02] BanchoBot: Players: 0
+[21:54:23] BCraftMG: !mp set 0 3 6
+[21:54:24] BanchoBot: Changed match settings to 6 slots, HeadToHead, ScoreV2
+[21:54:33] BCraftMG: !mp map 3924030
+[21:54:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3924030 nonoc - Relive
+[21:54:34] BCraftMG: !mp mods 1
+[21:54:35] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:56:05] BCraftMG: !mp invite aespect
+[21:56:06] BanchoBot: User not found
+[21:59:40] BCraftMG: !mp invite Kuranami_Kazu
+[21:59:42] BanchoBot: Invited Kuranami_Kazu to the room
+[21:59:51] BCraftMG: !mp invite qiyo
+[21:59:52] BanchoBot: User not found
+[21:59:56] BCraftMG: !mp invite not_peder
+[21:59:57] BanchoBot: Invited not_peder to the room
+[22:00:01] BanchoBot: not_peder joined in slot 1.
+[22:00:24] BanchoBot: qiyo joined in slot 2.
+[22:00:34] qiyo: o/
+[22:00:37] not_peder: o/
+[22:00:38] BCraftMG: !mp ban Kuranami_Kazu
+[22:00:40] BanchoBot: User is not in the match!
+[22:00:44] BCraftMG: hi
+[22:00:44] BCraftMG: !mp settings
+[22:00:46] BanchoBot: Room name: PTE : (Qualifiers) vs (C15), History: https://osu.ppy.sh/mp/109944161
+[22:00:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/3924030 nonoc - Relive
+[22:00:46] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:00:46] BanchoBot: Active mods: NoFail
+[22:00:46] BanchoBot: Players: 2
+[22:00:46] BanchoBot: Slot 1  No Map    https://osu.ppy.sh/u/28093600 not_peder       
+[22:00:46] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/17117946 qiyo            
+[22:01:29] not_peder: ban kura lmfao
+[22:01:45] BCraftMG: i
+[22:01:52] not_peder: wait
+[22:01:53] BCraftMG: kinda invited the wrong player
+[22:01:55] not_peder: let us think
+[22:02:04] not_peder: okay
+[22:02:05] not_peder: sightread we go
+[22:02:25] BanchoBot: All players are ready
+[22:02:27] qiyo: yep
+[22:02:27] qiyo: glgl :3
+[22:02:28] BCraftMG: !mp settings
+[22:02:29] BanchoBot: Room name: PTE : (Qualifiers) vs (C15), History: https://osu.ppy.sh/mp/109944161
+[22:02:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/3924030 nonoc - Relive
+[22:02:29] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:02:29] BanchoBot: Active mods: NoFail
+[22:02:29] BanchoBot: Players: 2
+[22:02:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/28093600 not_peder       
+[22:02:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17117946 qiyo            
+[22:02:30] BCraftMG: !mp start 5 glhf
+[22:02:31] not_peder: gl :3
+[22:02:31] BanchoBot: Match starts in 5 seconds
+[22:02:31] BanchoBot: Queued the match to start in 5 seconds
+[22:02:33] BanchoBot: Match starts in 4 seconds
+[22:02:34] BanchoBot: Match starts in 3 seconds
+[22:02:34] BanchoBot: Good luck, have fun!
+[22:02:37] BanchoBot: The match has started!
+[22:06:41] BanchoBot: not_peder finished playing (Score: 697972, PASSED).
+[22:06:41] BanchoBot: qiyo finished playing (Score: 997222, PASSED).
+[22:06:41] BanchoBot: The match has finished!
+[22:06:59] BCraftMG: !mp map 908887
+[22:06:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/908887 void - Crisscrosser
+[22:07:15] BanchoBot: All players are ready
+[22:07:24] BCraftMG: !mp settings
+[22:07:26] not_peder: glgl heheheahewha
+[22:07:26] BanchoBot: Room name: PTE : (Qualifiers) vs (C15), History: https://osu.ppy.sh/mp/109944161
+[22:07:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/908887 void - Crisscrosser
+[22:07:26] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:07:26] BanchoBot: Active mods: NoFail
+[22:07:26] BanchoBot: Players: 2
+[22:07:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/28093600 not_peder       
+[22:07:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17117946 qiyo            
+[22:07:26] BCraftMG: !mp start 5 glhf
+[22:07:27] qiyo: glgl :3
+[22:07:27] BanchoBot: Match starts in 5 seconds
+[22:07:27] BanchoBot: Queued the match to start in 5 seconds
+[22:07:29] BanchoBot: Match starts in 4 seconds
+[22:07:30] BanchoBot: Match starts in 3 seconds
+[22:07:30] BanchoBot: Good luck, have fun!
+[22:07:33] BanchoBot: The match has started!
+[22:09:36] BanchoBot: not_peder finished playing (Score: 489585, PASSED).
+[22:09:38] BanchoBot: qiyo finished playing (Score: 671179, PASSED).
+[22:09:38] BanchoBot: The match has finished!
+[22:09:45] BCraftMG: !mp map 3035501
+[22:09:45] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3035501 Sangatsu no Phantasia - Koufuku na Wagamama
+[22:10:02] BanchoBot: All players are ready
+[22:10:05] BCraftMG: !mp settings
+[22:10:07] BanchoBot: Room name: PTE : (Qualifiers) vs (C15), History: https://osu.ppy.sh/mp/109944161
+[22:10:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/3035501 Sangatsu no Phantasia - Koufuku na Wagamama
+[22:10:07] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:10:07] BanchoBot: Active mods: NoFail
+[22:10:07] BanchoBot: Players: 2
+[22:10:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/28093600 not_peder       
+[22:10:07] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17117946 qiyo            
+[22:10:07] BCraftMG: !mp start 5 glhf
+[22:10:09] BanchoBot: Match starts in 5 seconds
+[22:10:09] BanchoBot: Queued the match to start in 5 seconds
+[22:10:10] BanchoBot: Match starts in 4 seconds
+[22:10:12] BanchoBot: Match starts in 3 seconds
+[22:10:12] BanchoBot: Good luck, have fun!
+[22:10:13] qiyo: glgl :3
+[22:10:15] BanchoBot: The match has started!
+[22:10:18] not_peder: glhf heheh :3
+[22:14:04] BanchoBot: qiyo finished playing (Score: 400745, PASSED).
+[22:14:04] BanchoBot: not_peder finished playing (Score: 423998, PASSED).
+[22:14:04] BanchoBot: The match has finished!
+[22:14:07] BCraftMG: !mp map 3737825
+[22:14:07] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3737825 PSYQUI - Education
+[22:14:20] BanchoBot: not_peder left the game.
+[22:14:37] BanchoBot: aespect joined in slot 1.
+[22:14:43] BanchoBot: All players are ready
+[22:14:45] BCraftMG: !mp settings
+[22:14:47] BanchoBot: Room name: PTE : (Qualifiers) vs (C15), History: https://osu.ppy.sh/mp/109944161
+[22:14:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/3737825 PSYQUI - Education
+[22:14:47] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:14:47] BanchoBot: Active mods: NoFail
+[22:14:47] BanchoBot: Players: 2
+[22:14:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17439874 aespect         
+[22:14:47] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17117946 qiyo            
+[22:14:48] BCraftMG: !mp start 5 glhf
+[22:14:48] qiyo: glgl :3
+[22:14:49] BanchoBot: Match starts in 5 seconds
+[22:14:49] BanchoBot: Queued the match to start in 5 seconds
+[22:14:51] BanchoBot: Match starts in 4 seconds
+[22:14:52] BanchoBot: Match starts in 3 seconds
+[22:14:52] BanchoBot: Good luck, have fun!
+[22:14:55] BanchoBot: The match has started!
+[22:14:57] BanchoBot: aespect left the game.
+[22:15:02] BanchoBot: aespect joined in slot 1.
+[22:15:08] aespect: ABORT
+[22:15:11] aespect: abort
+[22:15:12] aespect: please
+[22:15:18] aespect: sdkdfs
+[22:15:22] BCraftMG: !mp abort
+[22:15:23] BanchoBot: Aborted the match
+[22:15:34] BCraftMG: ehe
+[22:15:41] BanchoBot: All players are ready
+[22:15:41] qiyo: glgl :3
+[22:15:45] BCraftMG: sorry for slow abort
+[22:15:46] BCraftMG: !mp settings
+[22:15:48] BanchoBot: Room name: PTE : (Qualifiers) vs (C15), History: https://osu.ppy.sh/mp/109944161
+[22:15:48] BanchoBot: Beatmap: https://osu.ppy.sh/b/3737825 PSYQUI - Education
+[22:15:48] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:15:48] BanchoBot: Active mods: NoFail
+[22:15:48] BanchoBot: Players: 2
+[22:15:48] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17439874 aespect         
+[22:15:48] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17117946 qiyo            
+[22:15:49] aespect: gl#
+[22:15:50] BCraftMG: !mp start 5 glhf
+[22:15:52] BanchoBot: Match starts in 5 seconds
+[22:15:52] BanchoBot: Queued the match to start in 5 seconds
+[22:15:53] BanchoBot: Match starts in 4 seconds
+[22:15:55] BanchoBot: Match starts in 3 seconds
+[22:15:55] aespect: no worries
+[22:15:55] BanchoBot: Good luck, have fun!
+[22:15:58] BanchoBot: The match has started!
+[22:19:51] BanchoBot: aespect finished playing (Score: 826420, PASSED).
+[22:19:51] BanchoBot: qiyo finished playing (Score: 578896, PASSED).
+[22:19:51] BanchoBot: The match has finished!
+[22:20:02] BCraftMG: !mp map 2094462
+[22:20:03] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2094462 Ax feat. Natsukawa Yoko - Sakimori Renka
+[22:20:04] BCraftMG: !mp mods 9
+[22:20:04] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[22:20:58] BanchoBot: All players are ready
+[22:21:00] qiyo: glgl :3
+[22:21:01] BCraftMG: !mp settings
+[22:21:03] BanchoBot: Room name: PTE : (Qualifiers) vs (C15), History: https://osu.ppy.sh/mp/109944161
+[22:21:03] BanchoBot: Beatmap: https://osu.ppy.sh/b/2094462 Ax feat. Natsukawa Yoko - Sakimori Renka
+[22:21:03] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:21:03] BanchoBot: Active mods: NoFail, Hidden
+[22:21:03] BanchoBot: Players: 2
+[22:21:03] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17439874 aespect         
+[22:21:03] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17117946 qiyo            
+[22:21:03] BCraftMG: !mp start 5 glhf
+[22:21:04] BanchoBot: Match starts in 5 seconds
+[22:21:04] BanchoBot: Queued the match to start in 5 seconds
+[22:21:06] BanchoBot: Match starts in 4 seconds
+[22:21:07] BanchoBot: Match starts in 3 seconds
+[22:21:07] BanchoBot: Good luck, have fun!
+[22:21:10] BanchoBot: The match has started!
+[22:24:24] BanchoBot: qiyo finished playing (Score: 994817, PASSED).
+[22:24:24] BanchoBot: aespect finished playing (Score: 923369, PASSED).
+[22:24:24] BanchoBot: The match has finished!
+[22:24:28] BCraftMG: !mp map 2619929
+[22:24:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2619929 Amane - BOOZEHOUND
+[22:24:38] BanchoBot: qiyo left the game.
+[22:24:50] BanchoBot: not_peder joined in slot 2.
+[22:25:24] BanchoBot: All players are ready
+[22:25:26] BCraftMG: !mp settings
+[22:25:27] BanchoBot: Room name: PTE : (Qualifiers) vs (C15), History: https://osu.ppy.sh/mp/109944161
+[22:25:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/2619929 Amane - BOOZEHOUND
+[22:25:27] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:25:27] BanchoBot: Active mods: NoFail, Hidden
+[22:25:27] BanchoBot: Players: 2
+[22:25:27] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17439874 aespect         
+[22:25:27] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/28093600 not_peder       
+[22:25:28] BCraftMG: !mp start 5 glhf
+[22:25:28] BanchoBot: Match starts in 5 seconds
+[22:25:28] BanchoBot: Queued the match to start in 5 seconds
+[22:25:30] BanchoBot: Match starts in 4 seconds
+[22:25:31] BanchoBot: Match starts in 3 seconds
+[22:25:31] BanchoBot: Good luck, have fun!
+[22:25:31] not_peder: glgl :3
+[22:25:34] BanchoBot: The match has started!
+[22:28:17] BanchoBot: aespect finished playing (Score: 382353, PASSED).
+[22:28:17] BanchoBot: not_peder finished playing (Score: 403806, PASSED).
+[22:28:17] BanchoBot: The match has finished!
+[22:28:20] BCraftMG: !mp map 2027623
+[22:28:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2027623 THE ORAL CIGARETTES - Wagamama de Gomakasanaide
+[22:28:22] BCraftMG: !mp mods 17
+[22:28:23] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[22:28:26] BanchoBot: qiyo joined in slot 3.
+[22:28:38] BanchoBot: aespect left the game.
+[22:28:58] BanchoBot: qiyo moved to slot 1
+[22:29:06] BanchoBot: All players are ready
+[22:29:08] BCraftMG: !mp settings
+[22:29:09] BanchoBot: Room name: PTE : (Qualifiers) vs (C15), History: https://osu.ppy.sh/mp/109944161
+[22:29:09] BanchoBot: Beatmap: https://osu.ppy.sh/b/2027623 THE ORAL CIGARETTES - Wagamama de Gomakasanaide
+[22:29:09] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:29:09] BanchoBot: Active mods: NoFail, HardRock
+[22:29:09] BanchoBot: Players: 2
+[22:29:09] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17117946 qiyo            
+[22:29:09] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/28093600 not_peder       
+[22:29:10] BCraftMG: !mp start 5 glhf
+[22:29:12] BanchoBot: Match starts in 5 seconds
+[22:29:12] BanchoBot: Queued the match to start in 5 seconds
+[22:29:13] BanchoBot: Match starts in 4 seconds
+[22:29:15] BanchoBot: Match starts in 3 seconds
+[22:29:15] BanchoBot: Good luck, have fun!
+[22:29:16] qiyo: glgl :3
+[22:29:18] BanchoBot: The match has started!
+[22:29:18] not_peder: glhf :3
+[22:33:42] BanchoBot: qiyo finished playing (Score: 457841, PASSED).
+[22:33:43] BanchoBot: not_peder finished playing (Score: 154529, PASSED).
+[22:33:43] BanchoBot: The match has finished!
+[22:33:47] BCraftMG: !mp map 1523138
+[22:33:48] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1523138 Kajiura Yuki - Sis puella magica!
+[22:33:58] BanchoBot: not_peder left the game.
+[22:34:32] BanchoBot: not_peder joined in slot 2.
+[22:35:29] BanchoBot: All players are ready
+[22:35:31] BCraftMG: !mp settings
+[22:35:32] BanchoBot: Room name: PTE : (Qualifiers) vs (C15), History: https://osu.ppy.sh/mp/109944161
+[22:35:32] BanchoBot: Beatmap: https://osu.ppy.sh/b/1523138 Kajiura Yuki - Sis puella magica!
+[22:35:32] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:35:32] BanchoBot: Active mods: NoFail, HardRock
+[22:35:32] BanchoBot: Players: 2
+[22:35:32] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17117946 qiyo            
+[22:35:32] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/28093600 not_peder       
+[22:35:34] BCraftMG: !mp start 5 glhf
+[22:35:35] not_peder: gl :3333
+[22:35:35] qiyo: glgl .3
+[22:35:35] BanchoBot: Match starts in 5 seconds
+[22:35:35] BanchoBot: Queued the match to start in 5 seconds
+[22:35:36] qiyo: :4
+[22:35:36] BanchoBot: Match starts in 4 seconds
+[22:35:36] qiyo: :3
+[22:35:38] BanchoBot: Match starts in 3 seconds
+[22:35:38] BanchoBot: Good luck, have fun!
+[22:35:41] BanchoBot: The match has started!
+[22:38:19] BanchoBot: qiyo finished playing (Score: 717389, PASSED).
+[22:38:19] BanchoBot: not_peder finished playing (Score: 250065, PASSED).
+[22:38:19] BanchoBot: The match has finished!
+[22:38:23] BCraftMG: !mp map 4105349
+[22:38:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4105349 ICHIKO - YOU'RE THE ONE
+[22:38:25] BCraftMG: !mp mods 65
+[22:38:26] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[22:39:18] BanchoBot: All players are ready
+[22:39:20] qiyo: glgl :3
+[22:39:24] BCraftMG: !mp settings
+[22:39:26] BCraftMG: !mp start 5 glhf
+[22:39:26] BanchoBot: Room name: PTE : (Qualifiers) vs (C15), History: https://osu.ppy.sh/mp/109944161
+[22:39:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/4105349 ICHIKO - YOU'RE THE ONE
+[22:39:26] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:39:26] BanchoBot: Active mods: NoFail, DoubleTime
+[22:39:26] BanchoBot: Players: 2
+[22:39:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17117946 qiyo            
+[22:39:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/28093600 not_peder       
+[22:39:27] not_peder: glhf heheah :3
+[22:39:27] BanchoBot: Match starts in 5 seconds
+[22:39:27] BanchoBot: Queued the match to start in 5 seconds
+[22:39:29] BanchoBot: Match starts in 4 seconds
+[22:39:30] BanchoBot: Match starts in 3 seconds
+[22:39:32] BanchoBot: Good luck, have fun!
+[22:39:33] BanchoBot: The match has started!
+[22:42:25] BanchoBot: qiyo finished playing (Score: 1129759, PASSED).
+[22:42:25] BanchoBot: not_peder finished playing (Score: 657422, PASSED).
+[22:42:25] BanchoBot: The match has finished!
+[22:42:27] BCraftMG: !mp map 3533589
+[22:42:28] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3533589 DIANA - Beethoven Virus
+[22:43:03] BanchoBot: All players are ready
+[22:43:06] BCraftMG: !mp settings
+[22:43:08] BanchoBot: Room name: PTE : (Qualifiers) vs (C15), History: https://osu.ppy.sh/mp/109944161
+[22:43:08] BanchoBot: Beatmap: https://osu.ppy.sh/b/3533589 DIANA - Beethoven Virus
+[22:43:08] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:43:08] BanchoBot: Active mods: NoFail, DoubleTime
+[22:43:08] BanchoBot: Players: 2
+[22:43:08] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17117946 qiyo            
+[22:43:08] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/28093600 not_peder       
+[22:43:09] BCraftMG: !mp start 5 glhf
+[22:43:09] BanchoBot: Match starts in 5 seconds
+[22:43:09] BanchoBot: Queued the match to start in 5 seconds
+[22:43:11] BanchoBot: Match starts in 4 seconds
+[22:43:13] BanchoBot: Match starts in 3 seconds
+[22:43:13] qiyo: glgl :3
+[22:43:13] BanchoBot: Good luck, have fun!
+[22:43:16] BanchoBot: The match has started!
+[22:43:17] not_peder: glgl
+[22:45:46] BanchoBot: not_peder finished playing (Score: 427948, PASSED).
+[22:45:46] BanchoBot: qiyo finished playing (Score: 1049714, PASSED).
+[22:45:46] BanchoBot: The match has finished!
+[22:46:00] qiyo: thanks for ref!
+[22:46:04] BCraftMG: ggwp :3c
+[22:46:06] not_peder: ty for ref
+[22:46:10] BanchoBot: not_peder left the game.
+[22:46:10] qiyo: or do we have second run? ;3
+[22:46:28] BCraftMG: uhh i dont think so
+[22:46:30] qiyo: BCraftMG mutual?
+[22:46:48] BCraftMG: sure :3
+[22:46:54] qiyo: yoo thanks for mutual!
+[22:46:57] qiyo: bye o/
+[22:47:00] BanchoBot: qiyo left the game.
+[23:17:42] BCraftMG: !mp close

@@ -1,0 +1,816 @@
+[21:20:44] Joined #mp_107442588
+[21:20:44] BCraftMG: !mp settings
+[21:20:45] BanchoBot: Room name: 5WC2023: (Hong Kong) vs (Belarus), History: https://osu.ppy.sh/mp/107442588
+[21:20:45] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[21:20:45] BanchoBot: Players: 0
+[21:20:53] BCraftMG: !mp set 2 3 16
+[21:20:53] BanchoBot: Changed match settings to 16 slots, TeamVs, ScoreV2
+[21:21:06] BCraftMG: !mp addref Lupa
+[21:21:07] BanchoBot: Added Lupa to the match referees
+[21:24:13] BCraftMG: !mp invite #4801735
+[21:24:14] BanchoBot: Invited Dragbit 5 to the room
+[21:24:17] BCraftMG: !mp invite #14220975
+[21:24:18] BanchoBot: Invited Yuuka to the room
+[21:25:29] BanchoBot: Yuuka joined in slot 1 for team blue.
+[21:25:35] Yuuka: hello there
+[21:25:56] BCraftMG: o/
+[21:26:09] BCraftMG: no one send me maps so no warm up :D
+[21:26:14] BCraftMG: Hong Kong red + slots 1-4 and Belarus blue + slots 5-8
+[21:26:32] BanchoBot: Yuuka moved to slot 5
+[21:26:36] Yuuka: good
+[21:26:39] BanchoBot: Decheg_777 joined in slot 1 for team blue.
+[21:26:42] BanchoBot: Wexxxxxy joined in slot 2 for team red.
+[21:26:42] BanchoBot: xunev joined in slot 3 for team blue.
+[21:26:43] BanchoBot: Tepe6oHbka joined in slot 4 for team red.
+[21:26:46] BanchoBot: Tepe6oHbka left the game.
+[21:26:59] BanchoBot: Wexxxxxy changed to Blue
+[21:27:00] BanchoBot: xunev moved to slot 6
+[21:27:05] BanchoBot: Decheg_777 moved to slot 7
+[21:27:07] BanchoBot: Decheg_777 left the game.
+[21:27:13] BanchoBot: Decheg_777 joined in slot 1 for team blue.
+[21:27:16] BanchoBot: Decheg_777 moved to slot 7
+[21:27:27] BanchoBot: - PPanDoRaA - joined in slot 1 for team blue.
+[21:27:30] BanchoBot: Dragbit 5 joined in slot 3 for team blue.
+[21:27:48] -_PPanDoRaA_-: hi yuuka
+[21:27:49] Yuuka: heLLO
+[21:28:02] Yuuka: HIII
+[21:28:03] -_PPanDoRaA_-: what did you spend the 50 euros on
+[21:28:06] Yuuka: How much gacha currency do i need to pay you to go on an emergency family meeting?
+[21:28:09] Yuuka: tank gacha
+[21:28:09] Yuuka: :D
+[21:28:19] -_PPanDoRaA_-: ic
+[21:28:27] Yuuka: i couldn't get the money
+[21:28:38] -_PPanDoRaA_-: D:
+[21:28:38] Yuuka: cus no payment system that would accept money transfer
+[21:28:46] Decheg_777: heyo
+[21:28:49] Decheg_777: yuuka
+[21:28:52] BCraftMG: !mp map 3667847 0
+[21:28:53] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3667847 Maison book girl - bath room
+[21:28:53] BanchoBot: Changed match mode to Osu
+[21:28:55] BCraftMG: !mp mods Freemod
+[21:28:55] BanchoBot: Disabled all mods, enabled FreeMod
+[21:29:17] BanchoBot: Decheg_777 left the game.
+[21:29:23] BanchoBot: whyia joined in slot 4 for team red.
+[21:29:45] BanchoBot: - PPanDoRaA - changed to Red
+[21:29:46] BCraftMG: Hong Kong red + slots 1-4 and Belarus blue + slots 5-8
+[21:29:47] BanchoBot: whyia left the game.
+[21:29:56] BanchoBot: whyia joined in slot 4 for team red.
+[21:29:56] BanchoBot: Dragbit 5 changed to Red
+[21:29:56] BanchoBot: Wexxxxxy moved to slot 7
+[21:30:02] Yuuka: could've spent that money on duolingo plus or whatever that shit is called
+[21:30:05] Yuuka: too bad its unavailable too
+[21:30:06] BanchoBot: uadfb75t6hst joined in slot 2 for team red.
+[21:30:18] Yuuka: so no extra chinese lessons for me
+[21:30:19] Yuuka: :lastday:
+[21:30:28] -_PPanDoRaA_-: sadge
+[21:30:38] BanchoBot: All players are ready
+[21:30:38] xunev: wakaranai
+[21:30:41] BCraftMG: !mp settings
+[21:30:43] BanchoBot: Room name: 5WC2023: (Hong Kong) vs (Belarus), History: https://osu.ppy.sh/mp/107442588
+[21:30:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/3667847 Maison book girl - bath room
+[21:30:43] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:30:43] BanchoBot: Active mods: Freemod
+[21:30:43] BanchoBot: Players: 7
+[21:30:43] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10625776 - PPanDoRaA -   [Team Red  / NoFail]
+[21:30:43] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10479710 uadfb75t6hst    [Team Red  / NoFail]
+[21:30:43] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4801735 Dragbit 5       [Team Red  / NoFail, Hidden, HardRock]
+[21:30:43] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13896734 whyia           [Team Red  / NoFail]
+[21:30:43] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/14220975 Yuuka           [Team Blue / NoFail, HardRock]
+[21:30:43] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10590105 xunev           [Team Blue / NoFail, HardRock]
+[21:30:43] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11134074 Wexxxxxy        [Team Blue / NoFail, HardRock]
+[21:30:45] BCraftMG: !mp start 5 glhf
+[21:30:46] BanchoBot: Match starts in 5 seconds
+[21:30:46] BanchoBot: Queued the match to start in 5 seconds
+[21:30:47] BanchoBot: Match starts in 4 seconds
+[21:30:49] BanchoBot: Match starts in 3 seconds
+[21:30:49] BanchoBot: Good luck, have fun!
+[21:30:51] BanchoBot: The match has started!
+[21:32:13] BanchoBot: yiu2 joined in slot 8 for team red.
+[21:32:56] BanchoBot: lelxdme joined in slot 9 for team blue.
+[21:33:08] BanchoBot: Tepe6oHbka joined in slot 10 for team red.
+[21:33:11] BanchoBot: Tepe6oHbka left the game.
+[21:33:28] BanchoBot: lelxdme left the game.
+[21:33:48] BanchoBot: Decheg_777 joined in slot 9 for team blue.
+[21:33:51] BanchoBot: yiu2 left the game.
+[21:33:54] BanchoBot: yiu2 joined in slot 8 for team red.
+[21:34:12] BanchoBot: Decheg_777 left the game.
+[21:34:37] BanchoBot: yiu2 left the game.
+[21:34:46] BanchoBot: RemIscute07 joined in slot 8 for team red.
+[21:34:56] BanchoBot: RemIscute07 left the game.
+[21:35:01] BanchoBot: uadfb75t6hst finished playing (Score: 7628, PASSED).
+[21:35:01] BanchoBot: Dragbit 5 finished playing (Score: 23880, PASSED).
+[21:35:02] BanchoBot: Wexxxxxy finished playing (Score: 276154, PASSED).
+[21:35:02] BanchoBot: xunev finished playing (Score: 46359, PASSED).
+[21:35:02] BanchoBot: whyia finished playing (Score: 23960, PASSED).
+[21:35:03] BanchoBot: - PPanDoRaA - finished playing (Score: 50019, PASSED).
+[21:35:03] BanchoBot: Yuuka finished playing (Score: 0, PASSED).
+[21:35:03] BanchoBot: The match has finished!
+[21:35:17] BanchoBot: Decheg_777 joined in slot 8 for team red.
+[21:35:22] BanchoBot: Decheg_777 moved to slot 10
+[21:35:23] BanchoBot: Decheg_777 moved to slot 9
+[21:35:29] BCraftMG: !mp clearhost
+[21:35:30] BanchoBot: Cleared match host
+[21:35:32] BanchoBot: whyia left the game.
+[21:35:33] BCraftMG: Roll please :3c
+[21:35:39] Yuuka: !roll
+[21:35:39] BanchoBot: Yuuka rolls 65 point(s)
+[21:35:47] Dragbit_5: !roll
+[21:35:47] BanchoBot: Dragbit 5 rolls 98 point(s)
+[21:35:53] BanchoBot: Tsukime joined in slot 4 for team red.
+[21:35:53] Wexxxxxy: )
+[21:36:01] Dragbit_5: sightread roll
+[21:36:04] Dragbit_5: no way
+[21:36:10] BCraftMG: First Protect: Belarus
+[21:36:10] BCraftMG: !mp timer 120
+[21:36:11] BanchoBot: Countdown ends in 2 minutes
+[21:36:26] Wexxxxxy: congrats on the first roll ever
+[21:36:45] Yuuka: HD2
+[21:37:00] BCraftMG: Next Protect: Hong Kong
+[21:37:00] BCraftMG: !mp timer 120
+[21:37:02] BanchoBot: Countdown aborted
+[21:37:02] BanchoBot: Countdown ends in 2 minutes
+[21:37:53] Dragbit_5: dt3
+[21:38:03] BanchoBot: Countdown ends in 1 minute
+[21:38:03] BanchoBot: Cringe lad joined in slot 8 for team red.
+[21:38:18] BCraftMG: First Ban: Hong Kong
+[21:38:19] BCraftMG: !mp timer 120
+[21:38:20] BanchoBot: Countdown aborted
+[21:38:20] BanchoBot: Countdown ends in 2 minutes
+[21:38:32] Dragbit_5: do we have 2 bans?
+[21:38:40] BCraftMG: yes
+[21:38:49] BCraftMG: 2 bans, order ABBA
+[21:39:07] BanchoBot: Cringe lad left the game.
+[21:39:21] BanchoBot: Countdown ends in 1 minute
+[21:39:51] BanchoBot: Countdown ends in 30 seconds
+[21:39:57] Dragbit_5: hr2
+[21:40:06] Wexxxxxy: ошибка
+[21:40:11] BanchoBot: Countdown ends in 10 seconds
+[21:40:15] BCraftMG: Next Ban: Belarus
+[21:40:16] BanchoBot: Countdown ends in 5 seconds
+[21:40:16] BCraftMG: !mp timer 120
+[21:40:18] BanchoBot: Countdown ends in 4 seconds
+[21:40:18] BanchoBot: Countdown aborted
+[21:40:18] BanchoBot: Countdown ends in 2 minutes
+[21:40:18] xunev: памылка
+[21:40:24] BanchoBot: - PPanDoRaA - left the game.
+[21:40:27] Wexxxxxy: I agree!
+[21:40:28] Yuuka: DT1
+[21:40:35] BanchoBot: Tsukime left the game.
+[21:40:40] BanchoBot: Tsukime joined in slot 1 for team blue.
+[21:40:44] BanchoBot: Tsukime changed to Red
+[21:40:47] BCraftMG: Belarus 2nd ban
+[21:40:49] BCraftMG: !mp timer 120
+[21:40:50] BanchoBot: Countdown aborted
+[21:40:50] BanchoBot: Countdown ends in 2 minutes
+[21:41:00] Yuuka: NM5
+[21:41:05] Wexxxxxy: ошибка
+[21:41:17] xunev: не
+[21:41:34] BCraftMG: Next Ban: Hong Kong
+[21:41:34] BCraftMG: !mp timer 120
+[21:41:36] BanchoBot: Countdown aborted
+[21:41:36] BanchoBot: Countdown ends in 2 minutes
+[21:42:17] BanchoBot: uadfb75t6hst left the game.
+[21:42:37] BanchoBot: Countdown ends in 1 minute
+[21:43:06] BanchoBot: Countdown ends in 30 seconds
+[21:43:17] BanchoBot: - PPanDoRaA - joined in slot 2 for team red.
+[21:43:19] Dragbit_5: nm3
+[21:43:26] BanchoBot: Countdown ends in 10 seconds
+[21:43:29] BCraftMG: Hong Kong | 0 - 0 | Belarus // Bo11 - First Pick: Hong Kong
+[21:43:30] BCraftMG: !mp timer 120
+[21:43:31] BanchoBot: Countdown ends in 5 seconds
+[21:43:31] BanchoBot: Countdown aborted
+[21:43:31] BanchoBot: Countdown ends in 2 minutes
+[21:43:34] Wexxxxxy: ошибка
+[21:43:35] BanchoBot: Tsukime left the game.
+[21:43:46] Decheg_777: 0_0
+[21:43:46] BanchoBot: Cringe lad joined in slot 1 for team blue.
+[21:44:02] BanchoBot: Wexxxxxy left the game.
+[21:44:31] BanchoBot: Countdown ends in 1 minute
+[21:44:31] BanchoBot: - PPanDoRaA - left the game.
+[21:44:42] BanchoBot: RemIscute07 joined in slot 2 for team red.
+[21:44:52] Dragbit_5: dt3
+[21:44:53] BanchoBot: Dragbit 5 left the game.
+[21:45:01] BanchoBot: Countdown ends in 30 seconds
+[21:45:02] BanchoBot: TibyEmb joined in slot 3 for team blue.
+[21:45:07] BanchoBot: Tepe6oHbka joined in slot 4 for team red.
+[21:45:10] BanchoBot: xunev left the game.
+[21:45:14] BanchoBot: Yuuka moved to slot 11
+[21:45:15] BanchoBot: Tepe6oHbka moved to slot 6
+[21:45:15] BanchoBot: Yuuka moved to slot 12
+[21:45:18] BanchoBot: TibyEmb moved to slot 7
+[21:45:18] BCraftMG: !mp map 3642351 0
+[21:45:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3642351 -45 - System 0
+[21:45:19] BanchoBot: Changed match mode to Osu
+[21:45:21] BCraftMG: !mp mods 65
+[21:45:21] BanchoBot: Countdown ends in 10 seconds
+[21:45:21] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:45:23] BanchoBot: Tepe6oHbka changed to Blue
+[21:45:25] BCraftMG: !mp timer 120
+[21:45:25] BanchoBot: Countdown aborted
+[21:45:25] BanchoBot: Countdown ends in 2 minutes
+[21:45:29] BanchoBot: Tsukime joined in slot 3 for team blue.
+[21:45:32] BanchoBot: Yuuka left the game.
+[21:45:35] BanchoBot: Decheg_777 changed to Blue
+[21:45:38] BanchoBot: Tsukime changed to Red
+[21:45:40] BanchoBot: yiu2 joined in slot 4 for team red.
+[21:45:41] BanchoBot: Cringe lad moved to slot 5
+[21:45:50] BanchoBot: - PPanDoRaA - joined in slot 1 for team blue.
+[21:45:52] BanchoBot: - PPanDoRaA - changed to Red
+[21:46:07] BanchoBot: Decheg_777 moved to slot 8
+[21:46:12] Decheg_777: tezu
+[21:46:14] Cringe_lad: hfhf
+[21:46:15] Decheg_777: hewwo
+[21:46:19] yiu2: ello
+[21:46:26] yiu2: glhf
+[21:46:26] BanchoBot: Countdown ends in 1 minute
+[21:46:40] -_PPanDoRaA_-: glhf
+[21:46:44] TibyEmb: glhf!!
+[21:46:54] Tsukime: glgl
+[21:46:56] BanchoBot: Countdown ends in 30 seconds
+[21:46:57] BanchoBot: All players are ready
+[21:46:57] RemIscute07: glhf!!
+[21:46:57] BCraftMG: !mp settings
+[21:46:58] BanchoBot: Room name: 5WC2023: (Hong Kong) vs (Belarus), History: https://osu.ppy.sh/mp/107442588
+[21:46:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/3642351 -45 - System 0
+[21:46:58] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:46:58] BanchoBot: Active mods: NoFail, DoubleTime
+[21:46:58] BanchoBot: Players: 8
+[21:46:58] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10625776 - PPanDoRaA -   [Team Red ]
+[21:46:58] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18296925 RemIscute07     [Team Red ]
+[21:46:58] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16375942 Tsukime         [Team Red ]
+[21:46:58] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/20988374 yiu2            [Team Red ]
+[21:46:58] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/14156003 Cringe lad      [Team Blue]
+[21:46:58] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/17604898 Tepe6oHbka      [Team Blue]
+[21:46:58] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/12354557 TibyEmb         [Team Blue]
+[21:46:58] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10997439 Decheg_777      [Team Blue]
+[21:47:02] BCraftMG: !mp start 5 glhf
+[21:47:02] BanchoBot: Countdown aborted
+[21:47:02] BanchoBot: Match starts in 5 seconds
+[21:47:02] BanchoBot: Queued the match to start in 5 seconds
+[21:47:05] BanchoBot: Match starts in 4 seconds
+[21:47:05] BanchoBot: Match starts in 3 seconds
+[21:47:06] BanchoBot: Good luck, have fun!
+[21:47:08] BanchoBot: The match has started!
+[21:49:32] BanchoBot: yiu2 finished playing (Score: 780750, PASSED).
+[21:49:32] BanchoBot: TibyEmb finished playing (Score: 527231, PASSED).
+[21:49:32] BanchoBot: - PPanDoRaA - finished playing (Score: 1060229, PASSED).
+[21:49:32] BanchoBot: Tepe6oHbka finished playing (Score: 513170, PASSED).
+[21:49:32] BanchoBot: Cringe lad finished playing (Score: 569759, PASSED).
+[21:49:33] BanchoBot: RemIscute07 finished playing (Score: 1124259, PASSED).
+[21:49:34] BanchoBot: Tsukime finished playing (Score: 450882, PASSED).
+[21:49:34] BanchoBot: Decheg_777 finished playing (Score: 543238, PASSED).
+[21:49:34] BanchoBot: The match has finished!
+[21:49:49] BCraftMG: Hong Kong | 1 - 0 | Belarus // Bo11 - Next Pick: Belarus
+[21:49:52] BCraftMG: !mp timer 120
+[21:49:52] BanchoBot: Countdown ends in 2 minutes
+[21:49:59] BanchoBot: whyia joined in slot 9 for team blue.
+[21:50:06] BanchoBot: yiu2 left the game.
+[21:50:11] BanchoBot: Decheg_777 left the game.
+[21:50:17] BanchoBot: xunev joined in slot 4 for team red.
+[21:50:17] BanchoBot: Dragbit 5 joined in slot 8 for team red.
+[21:50:17] BanchoBot: TibyEmb left the game.
+[21:50:26] BanchoBot: xunev moved to slot 7
+[21:50:29] BanchoBot: whyia moved to slot 10
+[21:50:29] BanchoBot: xunev changed to Blue
+[21:50:30] BanchoBot: whyia moved to slot 16
+[21:50:35] BanchoBot: Tepe6oHbka left the game.
+[21:50:41] BanchoBot: Yuuka joined in slot 4 for team red.
+[21:50:42] BanchoBot: Yuuka moved to slot 14
+[21:50:52] BanchoBot: Countdown ends in 1 minute
+[21:50:54] BanchoBot: Dragbit 5 moved to slot 4
+[21:51:23] BanchoBot: Countdown ends in 30 seconds
+[21:51:27] Yuuka: are there any technical pauses in the rules
+[21:51:36] BCraftMG: you can get a time out
+[21:51:41] Yuuka: pc died for one of our players xd
+[21:51:43] BanchoBot: Countdown ends in 10 seconds
+[21:51:46] BanchoBot: Decheg_777 joined in slot 6 for team red.
+[21:51:48] BanchoBot: Countdown ends in 5 seconds
+[21:51:49] BanchoBot: Countdown ends in 4 seconds
+[21:51:50] BanchoBot: Countdown ends in 3 seconds
+[21:51:51] BanchoBot: Countdown ends in 2 seconds
+[21:51:52] Yuuka: how long is that timeout
+[21:51:52] BanchoBot: Countdown ends in 1 second
+[21:51:53] BanchoBot: Countdown finished
+[21:52:07] Yuuka: Sorry for that
+[21:52:22] BCraftMG: !mp timer 120
+[21:52:23] BanchoBot: Countdown ends in 2 minutes
+[21:52:24] Yuuka: he is booting rn
+[21:52:28] BCraftMG: 120s timeout
+[21:52:31] BanchoBot: Decheg_777 left the game.
+[21:52:32] BCraftMG: i had to go check
+[21:52:41] Yuuka: Thank you
+[21:53:07] BCraftMG: please read the rules next time :arge:
+[21:53:24] BanchoBot: Countdown ends in 1 minute
+[21:53:41] Yuuka: i'll be honest tourney rules mumbojumbo is not my strongest suit
+[21:53:53] BanchoBot: Countdown ends in 30 seconds
+[21:54:12] Yuuka: NM4
+[21:54:14] BanchoBot: Countdown ends in 10 seconds
+[21:54:19] BanchoBot: Countdown ends in 5 seconds
+[21:54:20] BanchoBot: Countdown ends in 4 seconds
+[21:54:21] BanchoBot: Countdown ends in 3 seconds
+[21:54:22] BanchoBot: Countdown ends in 2 seconds
+[21:54:22] BanchoBot: Decheg_777 joined in slot 6 for team red.
+[21:54:23] BCraftMG: !mp map 4051891 0
+[21:54:23] BanchoBot: Countdown ends in 1 second
+[21:54:23] BanchoBot: Countdown finished
+[21:54:24] BCraftMG: !mp mods 1
+[21:54:24] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4051891 lapix - Flying Castle
+[21:54:24] BanchoBot: Changed match mode to Osu
+[21:54:24] BCraftMG: !mp timer 120
+[21:54:25] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:54:26] BanchoBot: Countdown ends in 2 minutes
+[21:54:34] BanchoBot: Dragbit 5 left the game.
+[21:54:39] BanchoBot: Yuuka moved to slot 8
+[21:54:41] BanchoBot: Yuuka changed to Blue
+[21:54:41] BanchoBot: yiu2 joined in slot 4 for team red.
+[21:54:47] BanchoBot: whyia left the game.
+[21:54:50] BanchoBot: Decheg_777 changed to Blue
+[21:55:04] yiu2: glhf
+[21:55:10] BanchoBot: All players are ready
+[21:55:10] Cringe_lad: hfhf
+[21:55:12] -_PPanDoRaA_-: glhf
+[21:55:12] RemIscute07: glhf
+[21:55:18] Yuuka: lghjlghjlghj\
+[21:55:19] Yuuka: !!!!!!
+[21:55:21] xunev: glhf
+[21:55:26] BanchoBot: Countdown ends in 1 minute
+[21:55:39] BCraftMG: !mp settings
+[21:55:40] BanchoBot: Room name: 5WC2023: (Hong Kong) vs (Belarus), History: https://osu.ppy.sh/mp/107442588
+[21:55:40] BanchoBot: Beatmap: https://osu.ppy.sh/b/4051891 lapix - Flying Castle
+[21:55:40] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:55:40] BanchoBot: Active mods: NoFail
+[21:55:40] BanchoBot: Players: 8
+[21:55:40] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10625776 - PPanDoRaA -   [Team Red ]
+[21:55:40] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18296925 RemIscute07     [Team Red ]
+[21:55:40] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16375942 Tsukime         [Team Red ]
+[21:55:40] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/20988374 yiu2            [Team Red ]
+[21:55:40] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/14156003 Cringe lad      [Team Blue]
+[21:55:40] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10997439 Decheg_777      [Team Blue]
+[21:55:40] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/10590105 xunev           [Team Blue]
+[21:55:40] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/14220975 Yuuka           [Team Blue]
+[21:55:44] BCraftMG: !mp start 5 glhf
+[21:55:45] BanchoBot: Countdown aborted
+[21:55:45] BanchoBot: Match starts in 5 seconds
+[21:55:45] BanchoBot: Queued the match to start in 5 seconds
+[21:55:46] BanchoBot: Match starts in 4 seconds
+[21:55:48] BanchoBot: Match starts in 3 seconds
+[21:55:49] BanchoBot: Good luck, have fun!
+[21:55:51] BanchoBot: The match has started!
+[21:58:01] BanchoBot: Tsukime finished playing (Score: 516853, PASSED).
+[21:58:01] BanchoBot: Decheg_777 finished playing (Score: 573613, PASSED).
+[21:58:01] BanchoBot: Yuuka finished playing (Score: 663061, PASSED).
+[21:58:02] BanchoBot: yiu2 finished playing (Score: 447075, PASSED).
+[21:58:02] BanchoBot: RemIscute07 finished playing (Score: 569319, PASSED).
+[21:58:02] BanchoBot: xunev finished playing (Score: 364464, PASSED).
+[21:58:02] BanchoBot: - PPanDoRaA - finished playing (Score: 566200, PASSED).
+[21:58:03] BanchoBot: Cringe lad finished playing (Score: 361777, PASSED).
+[21:58:03] BanchoBot: The match has finished!
+[21:58:19] BCraftMG: Hong Kong | 2 - 0 | Belarus // Bo11 - Next Pick: Hong Kong
+[21:58:19] BCraftMG: !mp timer 120
+[21:58:21] BanchoBot: Countdown ends in 2 minutes
+[21:58:41] yiu2: dt2
+[21:58:46] BanchoBot: yiu2 left the game.
+[21:58:47] BanchoBot: Cringe lad left the game.
+[21:59:05] BCraftMG: !mp map 3678641 0
+[21:59:05] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3678641 Tatsh - Xanatos
+[21:59:05] BanchoBot: Changed match mode to Osu
+[21:59:06] BCraftMG: !mp mods 65
+[21:59:07] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:59:08] BCraftMG: !mp timer 120
+[21:59:08] BanchoBot: Countdown aborted
+[21:59:08] BanchoBot: Countdown ends in 2 minutes
+[21:59:09] BanchoBot: TibyEmb joined in slot 4 for team red.
+[21:59:13] BanchoBot: Yuuka moved to slot 10
+[21:59:18] BanchoBot: - PPanDoRaA - left the game.
+[21:59:22] BanchoBot: TibyEmb moved to slot 5
+[21:59:26] BanchoBot: TibyEmb changed to Blue
+[21:59:32] BanchoBot: Yuuka moved to slot 14
+[21:59:37] BanchoBot: Tepe6oHbka joined in slot 1 for team blue.
+[21:59:44] BanchoBot: Yuuka left the game.
+[21:59:49] BanchoBot: Tepe6oHbka moved to slot 8
+[22:00:00] BanchoBot: - PPanDoRaA - joined in slot 1 for team blue.
+[22:00:03] BanchoBot: - PPanDoRaA - changed to Red
+[22:00:08] BanchoBot: Countdown ends in 1 minute
+[22:00:33] BanchoBot: yiu2 joined in slot 4 for team red.
+[22:00:38] BanchoBot: Countdown ends in 30 seconds
+[22:00:46] RemIscute07: glhf!!
+[22:00:50] -_PPanDoRaA_-: glhf
+[22:00:52] Decheg_777: 12121212121212121
+[22:00:54] BanchoBot: All players are ready
+[22:00:58] BCraftMG: !mp settings
+[22:00:59] BanchoBot: Countdown ends in 10 seconds
+[22:00:59] BanchoBot: Room name: 5WC2023: (Hong Kong) vs (Belarus), History: https://osu.ppy.sh/mp/107442588
+[22:00:59] BanchoBot: Beatmap: https://osu.ppy.sh/b/3678641 Tatsh - Xanatos
+[22:00:59] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:00:59] BanchoBot: Active mods: NoFail, DoubleTime
+[22:00:59] BanchoBot: Players: 8
+[22:00:59] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10625776 - PPanDoRaA -   [Team Red ]
+[22:00:59] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18296925 RemIscute07     [Team Red ]
+[22:00:59] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16375942 Tsukime         [Team Red ]
+[22:00:59] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/20988374 yiu2            [Team Red ]
+[22:00:59] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12354557 TibyEmb         [Team Blue]
+[22:00:59] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10997439 Decheg_777      [Team Blue]
+[22:00:59] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/10590105 xunev           [Team Blue]
+[22:00:59] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/17604898 Tepe6oHbka      [Team Blue]
+[22:01:00] BCraftMG: !mp start 5 glhf
+[22:01:01] BanchoBot: Countdown aborted
+[22:01:01] BanchoBot: Match starts in 5 seconds
+[22:01:01] BanchoBot: Queued the match to start in 5 seconds
+[22:01:03] BanchoBot: Match starts in 4 seconds
+[22:01:03] BanchoBot: Match starts in 3 seconds
+[22:01:04] BanchoBot: Good luck, have fun!
+[22:01:06] BanchoBot: The match has started!
+[22:02:57] BanchoBot: - PPanDoRaA - finished playing (Score: 515710, PASSED).
+[22:02:58] BanchoBot: Tsukime finished playing (Score: 437241, PASSED).
+[22:02:58] BanchoBot: yiu2 finished playing (Score: 660740, PASSED).
+[22:02:58] BanchoBot: Tepe6oHbka finished playing (Score: 591086, PASSED).
+[22:02:58] BanchoBot: TibyEmb finished playing (Score: 618062, PASSED).
+[22:02:58] BanchoBot: xunev finished playing (Score: 456450, PASSED).
+[22:02:59] BanchoBot: RemIscute07 finished playing (Score: 461353, PASSED).
+[22:02:59] BanchoBot: Decheg_777 finished playing (Score: 418827, PASSED).
+[22:02:59] BanchoBot: The match has finished!
+[22:03:18] BanchoBot: yiu2 left the game.
+[22:03:20] BCraftMG: Hong Kong | 2 - 1 | Belarus // Bo11 - Next Pick: Belarus
+[22:03:21] BCraftMG: !mp timer 120
+[22:03:23] BanchoBot: Countdown ends in 2 minutes
+[22:03:31] BanchoBot: Dragbit 5 joined in slot 4 for team red.
+[22:03:54] BanchoBot: whyia joined in slot 9 for team blue.
+[22:03:59] BanchoBot: whyia moved to slot 16
+[22:04:09] BanchoBot: Yuuka joined in slot 9 for team blue.
+[22:04:12] BanchoBot: Yuuka moved to slot 10
+[22:04:21] BanchoBot: Dragbit 5 left the game.
+[22:04:23] BanchoBot: Countdown ends in 1 minute
+[22:04:28] BanchoBot: whyia changed to Red
+[22:04:28] BanchoBot: whyia changed to Blue
+[22:04:29] BanchoBot: whyia changed to Red
+[22:04:33] BanchoBot: Cringe lad joined in slot 4 for team red.
+[22:04:53] BanchoBot: Countdown ends in 30 seconds
+[22:05:13] BanchoBot: Countdown ends in 10 seconds
+[22:05:18] BanchoBot: Countdown ends in 5 seconds
+[22:05:19] BanchoBot: Countdown ends in 4 seconds
+[22:05:20] BanchoBot: Countdown ends in 3 seconds
+[22:05:21] BanchoBot: Countdown ends in 2 seconds
+[22:05:22] BanchoBot: Countdown ends in 1 second
+[22:05:24] BanchoBot: Countdown finished
+[22:05:24] Yuuka: HR1
+[22:05:39] BanchoBot: xunev left the game.
+[22:05:42] BCraftMG: !mp map 2456625 0
+[22:05:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2456625 happy30 - Relentless
+[22:05:43] BanchoBot: Changed match mode to Osu
+[22:05:44] BCraftMG: !mp mods 17
+[22:05:45] BCraftMG: !mp timer 120
+[22:05:45] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[22:05:46] BanchoBot: Countdown ends in 2 minutes
+[22:05:54] BanchoBot: RemIscute07 left the game.
+[22:05:57] BanchoBot: Yuuka moved to slot 7
+[22:05:59] BanchoBot: whyia left the game.
+[22:06:04] BanchoBot: lelxdme joined in slot 2 for team red.
+[22:06:05] BCraftMG: Please avoid sending map at the near end of timer
+[22:06:16] BanchoBot: Tepe6oHbka left the game.
+[22:06:21] BanchoBot: Cringe lad moved to slot 8
+[22:06:23] BanchoBot: Cringe lad changed to Blue
+[22:06:25] BanchoBot: lelxdme moved to slot 9
+[22:06:26] BanchoBot: lelxdme moved to slot 4
+[22:06:32] BanchoBot: Decheg_777 left the game.
+[22:06:34] Yuuka: Sorry
+[22:06:47] BanchoBot: Countdown ends in 1 minute
+[22:07:07] BanchoBot: Yuuka moved to slot 6
+[22:07:07] BanchoBot: Decheg_777 joined in slot 2 for team red.
+[22:07:15] BanchoBot: yiu2 joined in slot 7 for team blue.
+[22:07:17] BanchoBot: Countdown ends in 30 seconds
+[22:07:23] BanchoBot: yiu2 moved to slot 9
+[22:07:29] BanchoBot: Decheg_777 moved to slot 7
+[22:07:30] BanchoBot: Decheg_777 changed to Blue
+[22:07:31] BanchoBot: yiu2 moved to slot 2
+[22:07:32] BanchoBot: yiu2 changed to Red
+[22:07:36] Cringe_lad: hfhf
+[22:07:37] BanchoBot: Countdown ends in 10 seconds
+[22:07:41] yiu2: glhf
+[22:07:41] BanchoBot: Countdown ends in 5 seconds
+[22:07:42] BanchoBot: Countdown ends in 4 seconds
+[22:07:43] BanchoBot: Countdown ends in 3 seconds
+[22:07:44] BanchoBot: Countdown ends in 2 seconds
+[22:07:45] BanchoBot: Countdown ends in 1 second
+[22:07:46] BanchoBot: Countdown finished
+[22:07:53] BCraftMG: !mp settings
+[22:07:54] BanchoBot: Room name: 5WC2023: (Hong Kong) vs (Belarus), History: https://osu.ppy.sh/mp/107442588
+[22:07:54] BanchoBot: Beatmap: https://osu.ppy.sh/b/2456625 happy30 - Relentless
+[22:07:54] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:07:54] BanchoBot: Active mods: NoFail, HardRock
+[22:07:54] BanchoBot: Players: 8
+[22:07:54] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10625776 - PPanDoRaA -   [Team Red ]
+[22:07:54] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20988374 yiu2            [Team Red ]
+[22:07:54] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16375942 Tsukime         [Team Red ]
+[22:07:54] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13795588 lelxdme         [Team Red ]
+[22:07:54] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12354557 TibyEmb         [Team Blue]
+[22:07:54] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/14220975 Yuuka           [Team Blue]
+[22:07:54] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/10997439 Decheg_777      [Team Blue]
+[22:07:54] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/14156003 Cringe lad      [Team Blue]
+[22:07:57] BCraftMG: !mp settings
+[22:07:58] BanchoBot: Room name: 5WC2023: (Hong Kong) vs (Belarus), History: https://osu.ppy.sh/mp/107442588
+[22:07:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/2456625 happy30 - Relentless
+[22:07:58] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:07:58] BanchoBot: Active mods: NoFail, HardRock
+[22:07:58] BanchoBot: Players: 8
+[22:07:58] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10625776 - PPanDoRaA -   [Team Red ]
+[22:07:58] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20988374 yiu2            [Team Red ]
+[22:07:58] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16375942 Tsukime         [Team Red ]
+[22:07:58] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13795588 lelxdme         [Team Red ]
+[22:07:58] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12354557 TibyEmb         [Team Blue]
+[22:07:58] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/14220975 Yuuka           [Team Blue]
+[22:07:58] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/10997439 Decheg_777      [Team Blue]
+[22:07:58] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/14156003 Cringe lad      [Team Blue]
+[22:07:58] TibyEmb: реди ребят
+[22:07:58] BanchoBot: All players are ready
+[22:08:05] Decheg_777: sorry
+[22:08:11] BCraftMG: !mp settings
+[22:08:12] BanchoBot: Room name: 5WC2023: (Hong Kong) vs (Belarus), History: https://osu.ppy.sh/mp/107442588
+[22:08:12] BanchoBot: Beatmap: https://osu.ppy.sh/b/2456625 happy30 - Relentless
+[22:08:12] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:08:12] BanchoBot: Active mods: NoFail, HardRock
+[22:08:12] BanchoBot: Players: 8
+[22:08:12] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10625776 - PPanDoRaA -   [Team Red ]
+[22:08:12] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20988374 yiu2            [Team Red ]
+[22:08:12] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16375942 Tsukime         [Team Red ]
+[22:08:12] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13795588 lelxdme         [Team Red ]
+[22:08:12] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12354557 TibyEmb         [Team Blue]
+[22:08:12] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/14220975 Yuuka           [Team Blue]
+[22:08:12] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/10997439 Decheg_777      [Team Blue]
+[22:08:12] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/14156003 Cringe lad      [Team Blue]
+[22:08:12] BCraftMG: !mp start 5 glhf
+[22:08:14] BanchoBot: Match starts in 5 seconds
+[22:08:14] BanchoBot: Queued the match to start in 5 seconds
+[22:08:15] BanchoBot: Match starts in 4 seconds
+[22:08:16] BanchoBot: Match starts in 3 seconds
+[22:08:17] Yuuka: flgfghlhg
+[22:08:17] BanchoBot: Good luck, have fun!
+[22:08:19] Yuuka: !!!!!
+[22:08:19] BanchoBot: The match has started!
+[22:12:02] BanchoBot: yiu2 finished playing (Score: 566795, PASSED).
+[22:12:02] BanchoBot: Yuuka finished playing (Score: 490788, PASSED).
+[22:12:03] BanchoBot: Tsukime finished playing (Score: 353708, PASSED).
+[22:12:03] BanchoBot: lelxdme finished playing (Score: 585260, PASSED).
+[22:12:03] BanchoBot: TibyEmb finished playing (Score: 342903, PASSED).
+[22:12:04] BanchoBot: Decheg_777 finished playing (Score: 499849, PASSED).
+[22:12:04] BanchoBot: - PPanDoRaA - finished playing (Score: 712056, PASSED).
+[22:12:04] BanchoBot: Cringe lad finished playing (Score: 593809, PASSED).
+[22:12:04] BanchoBot: The match has finished!
+[22:12:28] BCraftMG: Hong Kong | 3 - 1 | Belarus // Bo11 - Next Pick: Hong Kong
+[22:12:29] BCraftMG: !mp timer 120
+[22:12:30] BanchoBot: Countdown ends in 2 minutes
+[22:12:47] BanchoBot: lelxdme moved to slot 13
+[22:12:48] BanchoBot: lelxdme moved to slot 4
+[22:13:31] BanchoBot: Countdown ends in 1 minute
+[22:14:01] BanchoBot: Countdown ends in 30 seconds
+[22:14:10] BanchoBot: TibyEmb left the game.
+[22:14:21] BanchoBot: Countdown ends in 10 seconds
+[22:14:26] BanchoBot: Countdown ends in 5 seconds
+[22:14:27] BanchoBot: Countdown ends in 4 seconds
+[22:14:28] BanchoBot: Countdown ends in 3 seconds
+[22:14:29] BanchoBot: Countdown ends in 2 seconds
+[22:14:30] Tsukime: fm2
+[22:14:30] BanchoBot: Countdown ends in 1 second
+[22:14:30] lelxdme: Fm2
+[22:14:31] BanchoBot: Countdown finished
+[22:14:33] BCraftMG: !mp settings
+[22:14:34] BanchoBot: Room name: 5WC2023: (Hong Kong) vs (Belarus), History: https://osu.ppy.sh/mp/107442588
+[22:14:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/2456625 happy30 - Relentless
+[22:14:34] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:14:34] BanchoBot: Active mods: NoFail, HardRock
+[22:14:34] BanchoBot: Players: 7
+[22:14:34] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/10625776 - PPanDoRaA -   [Team Red ]
+[22:14:34] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/20988374 yiu2            [Team Red ]
+[22:14:34] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/16375942 Tsukime         [Team Red ]
+[22:14:34] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/13795588 lelxdme         [Team Red ]
+[22:14:34] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/14220975 Yuuka           [Team Blue]
+[22:14:34] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/10997439 Decheg_777      [Team Blue]
+[22:14:34] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/14156003 Cringe lad      [Team Blue]
+[22:14:39] BanchoBot: yiu2 left the game.
+[22:14:41] BCraftMG: !mp map 4050010 0
+[22:14:42] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4050010 REDALiCE - FLOWER REDALiCE Remix
+[22:14:42] BanchoBot: Changed match mode to Osu
+[22:14:44] BCraftMG: !mp mods Freemod
+[22:14:45] BanchoBot: Disabled all mods, enabled FreeMod
+[22:14:45] BCraftMG: :arge:
+[22:14:47] BCraftMG: !mp timer 120
+[22:14:49] BanchoBot: Countdown ends in 2 minutes
+[22:15:04] BanchoBot: RemTouk joined in slot 2 for team red.
+[22:15:09] BanchoBot: RemTouk moved to slot 5
+[22:15:11] BanchoBot: RemTouk changed to Blue
+[22:15:25] RemTouk: hihihi
+[22:15:36] BanchoBot: yiu2 joined in slot 2 for team red.
+[22:15:37] Cringe_lad: hahaha
+[22:15:49] BanchoBot: Countdown ends in 1 minute
+[22:15:50] yiu2: glhf
+[22:15:53] RemTouk: glhf
+[22:15:56] BanchoBot: All players are ready
+[22:15:57] Tsukime: glgl
+[22:15:57] Cringe_lad: hfhf
+[22:15:58] BCraftMG: !mp settings
+[22:15:59] BanchoBot: Room name: 5WC2023: (Hong Kong) vs (Belarus), History: https://osu.ppy.sh/mp/107442588
+[22:15:59] BanchoBot: Beatmap: https://osu.ppy.sh/b/4050010 REDALiCE - FLOWER REDALiCE Remix
+[22:15:59] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:15:59] BanchoBot: Active mods: Freemod
+[22:15:59] BanchoBot: Players: 8
+[22:15:59] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10625776 - PPanDoRaA -   [Team Red  / NoFail]
+[22:15:59] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20988374 yiu2            [Team Red  / NoFail, Hidden]
+[22:15:59] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16375942 Tsukime         [Team Red  / NoFail, Hidden, HardRock]
+[22:15:59] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13795588 lelxdme         [Team Red  / NoFail, HardRock]
+[22:15:59] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11558544 RemTouk         [Team Blue / NoFail, Hidden]
+[22:15:59] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/14220975 Yuuka           [Team Blue / NoFail, HardRock]
+[22:15:59] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/10997439 Decheg_777      [Team Blue / NoFail, Hidden]
+[22:15:59] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/14156003 Cringe lad      [Team Blue / NoFail, HardRock]
+[22:16:00] Yuuka: ghljlhgjhlgj
+[22:16:02] Yuuka: !!!!!!!
+[22:16:05] BCraftMG: !mp start 5 glhf
+[22:16:05] BanchoBot: Countdown aborted
+[22:16:05] BanchoBot: Match starts in 5 seconds
+[22:16:05] BanchoBot: Queued the match to start in 5 seconds
+[22:16:07] BanchoBot: Match starts in 4 seconds
+[22:16:08] BanchoBot: Match starts in 3 seconds
+[22:16:09] BanchoBot: Good luck, have fun!
+[22:16:11] BanchoBot: The match has started!
+[22:18:21] BanchoBot: Decheg_777 finished playing (Score: 351844, PASSED).
+[22:18:21] BanchoBot: RemTouk finished playing (Score: 404990, PASSED).
+[22:18:21] BanchoBot: yiu2 finished playing (Score: 482441, PASSED).
+[22:18:21] BanchoBot: Tsukime finished playing (Score: 353435, PASSED).
+[22:18:21] BanchoBot: - PPanDoRaA - finished playing (Score: 765463, PASSED).
+[22:18:22] BanchoBot: Yuuka finished playing (Score: 531317, PASSED).
+[22:18:22] BanchoBot: lelxdme finished playing (Score: 375670, PASSED).
+[22:18:22] BanchoBot: Cringe lad finished playing (Score: 219791, PASSED).
+[22:18:22] BanchoBot: The match has finished!
+[22:18:41] BCraftMG: Hong Kong | 4 - 1 | Belarus // Bo11 - Next Pick: Belarus
+[22:18:42] BCraftMG: !mp timer 120
+[22:18:44] BanchoBot: Countdown ends in 2 minutes
+[22:18:56] BanchoBot: yiu2 left the game.
+[22:19:00] BanchoBot: uadfb75t6hst joined in slot 2 for team red.
+[22:19:07] BanchoBot: Dragbit 5 joined in slot 9 for team blue.
+[22:19:08] BanchoBot: uadfb75t6hst left the game.
+[22:19:13] BanchoBot: Dragbit 5 moved to slot 2
+[22:19:15] BanchoBot: Dragbit 5 changed to Red
+[22:19:25] BanchoBot: xunev joined in slot 9 for team blue.
+[22:19:32] BanchoBot: Cringe lad left the game.
+[22:19:44] BanchoBot: Countdown ends in 1 minute
+[22:19:49] BanchoBot: xunev moved to slot 8
+[22:19:52] BanchoBot: RemTouk left the game.
+[22:19:53] BanchoBot: TibyEmb joined in slot 5 for team blue.
+[22:19:54] Yuuka: HR3
+[22:20:10] BanchoBot: Dragbit 5 left the game.
+[22:20:12] BanchoBot: Decheg_777 left the game.
+[22:20:14] BanchoBot: Countdown ends in 30 seconds
+[22:20:15] BCraftMG: !mp map 3756258 0
+[22:20:16] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3756258 polysha - Hypnos Metropolis
+[22:20:16] BanchoBot: Changed match mode to Osu
+[22:20:16] BCraftMG: !mp mods 17
+[22:20:17] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[22:20:17] BCraftMG: !mp timer 120
+[22:20:18] BanchoBot: Countdown aborted
+[22:20:18] BanchoBot: Countdown ends in 2 minutes
+[22:20:29] BanchoBot: RemIscute07 joined in slot 2 for team red.
+[22:20:37] BanchoBot: RemIscute07 moved to slot 7
+[22:20:38] BanchoBot: RemIscute07 moved to slot 2
+[22:20:42] BanchoBot: Decheg_777 joined in slot 7 for team blue.
+[22:20:44] BanchoBot: RemIscute07 left the game.
+[22:20:56] xunev: ты заствлял меня сасать
+[22:21:02] BanchoBot: yiu2 joined in slot 2 for team red.
+[22:21:19] BanchoBot: Countdown ends in 1 minute
+[22:21:28] BanchoBot: All players are ready
+[22:21:29] yiu2: glhf
+[22:21:31] BCraftMG: !mp settings
+[22:21:32] Yuuka: fghlflhglfghlfhg
+[22:21:32] BanchoBot: Room name: 5WC2023: (Hong Kong) vs (Belarus), History: https://osu.ppy.sh/mp/107442588
+[22:21:32] BanchoBot: Beatmap: https://osu.ppy.sh/b/3756258 polysha - Hypnos Metropolis
+[22:21:32] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:21:32] BanchoBot: Active mods: NoFail, HardRock
+[22:21:32] BanchoBot: Players: 8
+[22:21:32] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10625776 - PPanDoRaA -   [Team Red ]
+[22:21:32] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20988374 yiu2            [Team Red ]
+[22:21:32] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16375942 Tsukime         [Team Red ]
+[22:21:32] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13795588 lelxdme         [Team Red ]
+[22:21:32] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12354557 TibyEmb         [Team Blue]
+[22:21:32] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/14220975 Yuuka           [Team Blue]
+[22:21:32] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/10997439 Decheg_777      [Team Blue]
+[22:21:32] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10590105 xunev           [Team Blue]
+[22:21:32] Yuuka: @!@@!!@!@!!
+[22:21:33] BCraftMG: !mp start 5 glhf
+[22:21:33] BanchoBot: Countdown aborted
+[22:21:33] BanchoBot: Match starts in 5 seconds
+[22:21:33] BanchoBot: Queued the match to start in 5 seconds
+[22:21:34] lelxdme: glhf
+[22:21:34] BanchoBot: Match starts in 4 seconds
+[22:21:35] TibyEmb: glglg
+[22:21:35] BanchoBot: Match starts in 3 seconds
+[22:21:35] xunev: glhf
+[22:21:36] BanchoBot: Good luck, have fun!
+[22:21:38] BanchoBot: The match has started!
+[22:23:37] BanchoBot: lelxdme finished playing (Score: 558010, PASSED).
+[22:23:38] BanchoBot: Yuuka finished playing (Score: 360823, PASSED).
+[22:23:38] BanchoBot: - PPanDoRaA - finished playing (Score: 507799, PASSED).
+[22:23:38] BanchoBot: xunev finished playing (Score: 373341, PASSED).
+[22:23:38] BanchoBot: yiu2 finished playing (Score: 590310, PASSED).
+[22:23:38] BanchoBot: TibyEmb finished playing (Score: 781392, PASSED).
+[22:23:39] BanchoBot: Tsukime finished playing (Score: 817156, PASSED).
+[22:23:39] BanchoBot: Decheg_777 finished playing (Score: 335845, PASSED).
+[22:23:39] BanchoBot: The match has finished!
+[22:23:55] BCraftMG: Hong Kong | 5 - 1 | Belarus // Bo11 - Next Pick: Hong Kong
+[22:23:56] BanchoBot: Dragbit 5 joined in slot 9 for team blue.
+[22:23:57] BCraftMG: !mp timer 120
+[22:23:58] BanchoBot: Countdown ends in 2 minutes
+[22:24:02] xunev: ну вот и все ребята
+[22:24:38] BanchoBot: yiu2 left the game.
+[22:24:46] TibyEmb: nm2 please
+[22:24:55] BanchoBot: Tepe6oHbka joined in slot 2 for team red.
+[22:24:58] BanchoBot: Countdown ends in 1 minute
+[22:25:08] BanchoBot: Tepe6oHbka left the game.
+[22:25:12] Dragbit_5: nm2
+[22:25:14] Dragbit_5: ok
+[22:25:15] BanchoBot: lelxdme moved to slot 11
+[22:25:16] BanchoBot: lelxdme left the game.
+[22:25:18] BanchoBot: Tepe6oHbka joined in slot 2 for team red.
+[22:25:19] TibyEmb: thx!!
+[22:25:27] BCraftMG: !mp map 3666429 0
+[22:25:27] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3666429 Hymn Above Traumatic Emotion - Fuku ga Yogoreta Janai! (Nano Reflectia Cover)
+[22:25:27] BanchoBot: Changed match mode to Osu
+[22:25:28] BanchoBot: Countdown ends in 30 seconds
+[22:25:29] BCraftMG: !mp mods 1
+[22:25:29] BanchoBot: RemIscute07 joined in slot 4 for team red.
+[22:25:29] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:25:30] BanchoBot: - PPanDoRaA - left the game.
+[22:25:30] BanchoBot: Yuuka moved to slot 11
+[22:25:32] BCraftMG: !mp timer 120
+[22:25:33] BanchoBot: Countdown aborted
+[22:25:33] BanchoBot: Countdown ends in 2 minutes
+[22:25:35] BanchoBot: Dragbit 5 left the game.
+[22:25:39] BanchoBot: Yuuka left the game.
+[22:25:39] BanchoBot: RemIscute07 left the game.
+[22:25:44] BanchoBot: Decheg_777 moved to slot 10
+[22:25:50] BanchoBot: Tepe6oHbka moved to slot 6
+[22:25:54] BanchoBot: whyia joined in slot 1 for team blue.
+[22:26:12] BanchoBot: Tepe6oHbka changed to Blue
+[22:26:12] BanchoBot: yiu2 joined in slot 2 for team red.
+[22:26:15] BanchoBot: - PPanDoRaA - joined in slot 4 for team red.
+[22:26:22] BanchoBot: whyia moved to slot 7
+[22:26:23] BanchoBot: whyia moved to slot 1
+[22:26:23] BanchoBot: whyia changed to Red
+[22:26:33] BanchoBot: Countdown ends in 1 minute
+[22:26:36] BanchoBot: Decheg_777 moved to slot 9
+[22:26:39] BanchoBot: Decheg_777 moved to slot 7
+[22:26:42] whyia: glhf
+[22:26:47] yiu2: glhf
+[22:26:47] BanchoBot: All players are ready
+[22:26:48] Tsukime: glgl
+[22:26:51] BCraftMG: !mp settings
+[22:26:52] BanchoBot: Room name: 5WC2023: (Hong Kong) vs (Belarus), History: https://osu.ppy.sh/mp/107442588
+[22:26:52] BanchoBot: Beatmap: https://osu.ppy.sh/b/3666429 Hymn Above Traumatic Emotion - Fuku ga Yogoreta Janai! (Nano Reflectia Cover)
+[22:26:52] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:26:52] BanchoBot: Active mods: NoFail
+[22:26:52] BanchoBot: Players: 8
+[22:26:52] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13896734 whyia           [Team Red ]
+[22:26:52] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20988374 yiu2            [Team Red ]
+[22:26:52] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16375942 Tsukime         [Team Red ]
+[22:26:52] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10625776 - PPanDoRaA -   [Team Red ]
+[22:26:52] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12354557 TibyEmb         [Team Blue]
+[22:26:52] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/17604898 Tepe6oHbka      [Team Blue]
+[22:26:52] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/10997439 Decheg_777      [Team Blue]
+[22:26:52] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10590105 xunev           [Team Blue]
+[22:26:53] BCraftMG: !mp start 5 glhf
+[22:26:54] BanchoBot: Countdown aborted
+[22:26:54] BanchoBot: Match starts in 5 seconds
+[22:26:54] BanchoBot: Queued the match to start in 5 seconds
+[22:26:55] BanchoBot: Match starts in 4 seconds
+[22:26:56] BanchoBot: Match starts in 3 seconds
+[22:26:57] BanchoBot: Good luck, have fun!
+[22:26:59] BanchoBot: The match has started!
+[22:29:17] BanchoBot: - PPanDoRaA - finished playing (Score: 572440, PASSED).
+[22:29:17] BanchoBot: Decheg_777 finished playing (Score: 950582, PASSED).
+[22:29:18] BanchoBot: whyia finished playing (Score: 392154, PASSED).
+[22:29:18] BanchoBot: Tepe6oHbka finished playing (Score: 567123, PASSED).
+[22:29:18] BanchoBot: xunev finished playing (Score: 315254, PASSED).
+[22:29:18] BanchoBot: yiu2 finished playing (Score: 528702, PASSED).
+[22:29:18] BanchoBot: Tsukime finished playing (Score: 932525, PASSED).
+[22:29:19] BanchoBot: TibyEmb finished playing (Score: 397061, PASSED).
+[22:29:19] BanchoBot: The match has finished!
+[22:29:32] BCraftMG: Hong Kong | 6 - 1 | Belarus // Hong Kong wins! GGWP
+[22:29:40] Decheg_777: gg!
+[22:29:45] yiu2: ggwp
+[22:29:46] BanchoBot: yiu2 left the game.
+[22:29:47] Tsukime: gg
+[22:29:47] whyia: ggwp
+[22:29:48] -_PPanDoRaA_-: ggs
+[22:29:49] BanchoBot: whyia left the game.
+[22:29:50] Tsukime: thanks for ref
+[22:29:52] TibyEmb: gg
+[22:29:52] Tsukime: o/
+[22:29:53] TibyEmb: gl next
+[22:29:55] BanchoBot: TibyEmb left the game.
+[22:29:55] BanchoBot: Tsukime left the game.
+[22:29:56] -_PPanDoRaA_-: thanks ref
+[22:29:57] BCraftMG: o/
+[22:29:58] xunev: gg
+[22:30:00] BanchoBot: xunev left the game.
+[22:30:01] BanchoBot: - PPanDoRaA - left the game.
+[22:30:04] BanchoBot: Decheg_777 left the game.
+[22:30:07] Tepe6oHbka: gg
+[22:30:11] BanchoBot: Tepe6oHbka left the game.
+[22:30:52] BCraftMG: !mp close
+[22:30:53] BanchoBot: Closed the match

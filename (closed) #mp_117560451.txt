@@ -1,0 +1,906 @@
+[00:51:59] Joined #mp_117560451
+[00:51:59] BCraftMG: !mp settings
+[00:52:00] BanchoBot: Room name: OFDC: (403 grams of anger) vs (the murder), History: https://osu.ppy.sh/mp/117560451
+[00:52:00] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[00:52:00] BanchoBot: Players: 0
+[00:52:11] BCraftMG: !mp addref ongon
+[00:52:12] BanchoBot: User not found: ongon
+[00:52:23] BCraftMG: !mp map 3895683
+[00:52:24] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3895683 rN - Harumachi Elevator
+[00:54:06] BCraftMG: !mp addref ongon
+[00:54:07] BanchoBot: Added ongon to the match referees
+[00:54:41] BCraftMG: !mp invite #14312709
+[00:54:41] BanchoBot: User not found
+[00:54:44] BCraftMG: !mp invite #24108659
+[00:54:45] BanchoBot: Invited BetterMeman to the room
+[00:54:51] BCraftMG: !mp invite #12704509
+[00:54:53] BanchoBot: Invited TOPXVLAD to the room
+[00:55:48] BCraftMG: !mp invite #29878163
+[00:55:49] BanchoBot: User not found
+[00:55:50] BCraftMG: !mp invite #20388417
+[00:55:52] BanchoBot: Invited Erikillo to the room
+[00:55:53] BCraftMG: !mp invite #9634912
+[00:55:54] BanchoBot: Invited Sakamuro to the room
+[00:55:56] BCraftMG: !mp invite #32755390
+[00:55:57] BanchoBot: Invited EXANIY to the room
+[00:56:11] BanchoBot: BetterMeman joined in slot 1.
+[00:56:15] BCraftMG: !mp set 2 3 12
+[00:56:17] BanchoBot: Changed match settings to 12 slots, TeamVs, ScoreV2
+[00:56:19] BetterMeman: hiya
+[00:56:22] BanchoBot: Erikillo joined in slot 2 for team red.
+[00:56:22] BCraftMG: o/
+[00:56:24] BCraftMG: !mp settings
+[00:56:24] BanchoBot: Room name: OFDC: (403 grams of anger) vs (the murder), History: https://osu.ppy.sh/mp/117560451
+[00:56:24] BanchoBot: Beatmap: https://osu.ppy.sh/b/3895683 rN - Harumachi Elevator
+[00:56:24] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:56:24] BanchoBot: Players: 2
+[00:56:24] BanchoBot: Slot 1  No Map    https://osu.ppy.sh/u/24108659 BetterMeman     [Team Blue]
+[00:56:24] BanchoBot: Slot 2  No Map    https://osu.ppy.sh/u/20388417 Erikillo        [Team Red ]
+[00:56:31] Erikillo: Hello
+[00:56:32] BanchoBot: Erikillo left the game.
+[00:56:43] BanchoBot: EXANIY joined in slot 2 for team red.
+[00:56:56] BanchoBot: EXANIY changed to Blue
+[00:57:10] BanchoBot: EXANIY changed to Red
+[00:57:21] BetterMeman: hiya
+[00:57:55] EXANIY: hehihihihihi
+[00:58:00] BetterMeman: did erikillo come in say hi and leave
+[00:58:08] BCraftMG: 403 grams of anger: red team and slots 1-3 // the murder: blue team and slots 4-6
+[00:58:09] BCraftMG: yes
+[00:58:13] BanchoBot: BetterMeman moved to slot 4
+[00:58:15] BanchoBot: Arion Ashira joined in slot 1 for team blue.
+[00:58:17] BetterMeman: bruh
+[00:58:19] BanchoBot: Arion Ashira moved to slot 12
+[00:58:24] BCraftMG: anyway
+[00:58:28] BCraftMG: warmups or no
+[00:58:44] EXANIY: warmups
+[00:58:50] BetterMeman: nope
+[00:59:01] BanchoBot: cant tap joined in slot 1 for team blue.
+[00:59:06] BCraftMG: alr 1 warmup then
+[00:59:17] BCraftMG: !mp host exaniy
+[00:59:18] BanchoBot: EXANIY became the host.
+[00:59:18] BanchoBot: Changed match host to EXANIY
+[00:59:24] BCraftMG: where is your captain btw
+[00:59:37] BCraftMG: ill need someone on red to do ban picks later
+[00:59:48] BanchoBot: TheGrabi joined in slot 3 for team blue.
+[00:59:49] BanchoBot: Arion Ashira left the game.
+[00:59:54] BanchoBot: TheGrabi moved to slot 12
+[01:00:03] BCraftMG: !mp invite #14312709
+[01:00:05] BanchoBot: Invited MyAngelCaxarok to the room
+[01:00:06] BanchoBot: Erikillo joined in slot 3 for team blue.
+[01:00:09] BanchoBot: Softwarm joined in slot 5 for team blue.
+[01:00:14] BanchoBot: Erikillo left the game.
+[01:00:14] BanchoBot: Sakamuro joined in slot 3 for team blue.
+[01:00:17] BetterMeman: welcome back erikillo
+[01:00:18] BanchoBot: MyAngelCaxarok joined in slot 6 for team red.
+[01:00:28] BetterMeman: is bro gone again
+[01:00:32] BanchoBot: TOPXVLAD joined in slot 7 for team blue.
+[01:00:38] BCraftMG: !mp map 4152199
+[01:00:38] BanchoBot: TheGrabi left the game.
+[01:00:38] BetterMeman: hiya vlad
+[01:00:38] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4152199 HOYO-MiX - Space Walk
+[01:00:41] cant_tap: bestxvlad
+[01:00:42] cant_tap: o/
+[01:00:47] BCraftMG: ongon is screaming imma change the map real quick
+[01:00:54] BanchoBot: TheGrabi joined in slot 8 for team red.
+[01:01:02] cant_tap: let him scream, it's his job
+[01:01:05] BCraftMG: @MyAngelCaxarok do you want to pikc a warmup
+[01:01:14] MyAngelCaxarok: yes
+[01:01:20] BCraftMG: !mp host MyAngelCaxarok
+[01:01:22] BanchoBot: MyAngelCaxarok became the host.
+[01:01:22] BanchoBot: Changed match host to MyAngelCaxarok
+[01:01:29] BCraftMG: keep it under 3:30
+[01:01:35] BanchoBot: Erikillo joined in slot 9 for team blue.
+[01:01:37] BanchoBot: TheGrabi changed to Blue
+[01:01:43] BanchoBot: Erikillo changed to Red
+[01:01:43] BanchoBot: Host is changing map...
+[01:02:00] BanchoBot: Sakamuro changed to Red
+[01:02:34] BanchoBot: Beatmap changed to: Neuromonakh Feofan - Remeslo [Extreme] (https://osu.ppy.sh/b/1897551)
+[01:03:24] BanchoBot: Softwarm left the game.
+[01:03:52] BanchoBot: The match has started!
+[01:07:07] BanchoBot: TheGrabi finished playing (Score: 58422, PASSED).
+[01:07:07] BanchoBot: BetterMeman finished playing (Score: 187710, PASSED).
+[01:07:09] BanchoBot: Erikillo finished playing (Score: 325649, PASSED).
+[01:07:09] BanchoBot: Sakamuro finished playing (Score: 69432, PASSED).
+[01:07:10] BanchoBot: TOPXVLAD finished playing (Score: 15618, FAILED).
+[01:07:10] BanchoBot: cant tap finished playing (Score: 185516, PASSED).
+[01:07:10] BanchoBot: EXANIY finished playing (Score: 95558, PASSED).
+[01:07:10] BanchoBot: MyAngelCaxarok finished playing (Score: 191361, PASSED).
+[01:07:10] BanchoBot: The match has finished!
+[01:07:14] BCraftMG: !mp clearhost
+[01:07:15] BanchoBot: Cleared match host
+[01:07:16] BCraftMG: roll time
+[01:07:28] BetterMeman: !roll
+[01:07:28] BanchoBot: BetterMeman rolls 61 point(s)
+[01:07:40] MyAngelCaxarok: !roll
+[01:07:40] BanchoBot: MyAngelCaxarok rolls 69 point(s)
+[01:08:01] BCraftMG: 403 grams of anger: red team and slots 1-3 // the murder: blue team and slots 4-6
+[01:08:11] BCraftMG: red team choose pick or ban order
+[01:08:17] BanchoBot: TOPXVLAD moved to slot 5
+[01:08:18] BanchoBot: TOPXVLAD changed to Red
+[01:08:20] BanchoBot: TOPXVLAD moved to slot 7
+[01:08:22] BanchoBot: Erikillo moved to slot 12
+[01:08:34] MyAngelCaxarok: 2 ban
+[01:08:42] BCraftMG: blue team choose pick order
+[01:09:10] BetterMeman: pick 2ned
+[01:09:24] BCraftMG: First Ban: the murder
+[01:09:25] BCraftMG: !mp timer 120
+[01:09:27] BanchoBot: Countdown ends in 2 minutes
+[01:09:41] BetterMeman: hr1
+[01:09:43] BCraftMG: hi stream
+[01:09:52] BCraftMG: Next Ban: 403 grams of anger
+[01:09:55] BCraftMG: !mp timer 120
+[01:09:55] BanchoBot: Countdown aborted
+[01:09:55] BanchoBot: Countdown ends in 2 minutes
+[01:10:16] BanchoBot: TOPXVLAD left the game.
+[01:10:23] BanchoBot: Erikillo left the game.
+[01:10:56] BanchoBot: Countdown ends in 1 minute
+[01:11:26] BanchoBot: Countdown ends in 30 seconds
+[01:11:36] BCraftMG: !mp settings
+[01:11:38] BanchoBot: Room name: OFDC: (403 grams of anger) vs (the murder), History: https://osu.ppy.sh/mp/117560451
+[01:11:38] BanchoBot: Beatmap: https://osu.ppy.sh/b/1897551 Neuromonakh Feofan - Remeslo [Extreme]
+[01:11:38] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:11:38] BanchoBot: Active mods: Freemod
+[01:11:38] BanchoBot: Players: 6
+[01:11:38] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/3984458 cant tap        [Team Blue / NoFail]
+[01:11:38] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/32755390 EXANIY          [Team Red  / NoFail]
+[01:11:38] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/9634912 Sakamuro        [Team Red  / NoFail, HardRock]
+[01:11:38] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/24108659 BetterMeman     [Team Blue / NoFail]
+[01:11:38] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/14312709 MyAngelCaxarok  [Team Red ]
+[01:11:38] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/18945443 TheGrabi        [Team Blue / NoFail]
+[01:11:39] MyAngelCaxarok: fm1\
+[01:11:47] BanchoBot: Countdown ends in 10 seconds
+[01:11:50] BCraftMG: 403 grams of anger | 0 - 0 | the murder // Bo9 - First Pick: 403 grams of anger
+[01:11:51] BanchoBot: Countdown ends in 5 seconds
+[01:11:51] BCraftMG: !mp timer 120
+[01:11:52] BanchoBot: Countdown ends in 4 seconds
+[01:11:52] BanchoBot: Countdown aborted
+[01:11:52] BanchoBot: Countdown ends in 2 minutes
+[01:11:55] BanchoBot: Erikillo joined in slot 5 for team blue.
+[01:11:57] BanchoBot: Erikillo moved to slot 7
+[01:12:00] BanchoBot: Erikillo changed to Red
+[01:12:13] BanchoBot: Sakamuro left the game.
+[01:12:27] BanchoBot: cant tap left the game.
+[01:12:48] BanchoBot: EXANIY moved to slot 1
+[01:12:52] BanchoBot: Countdown ends in 1 minute
+[01:12:59] BanchoBot: MyAngelCaxarok moved to slot 2
+[01:13:07] BanchoBot: Erikillo left the game.
+[01:13:23] BanchoBot: Countdown ends in 30 seconds
+[01:13:24] BCraftMG: !mp make OFDC: (a) vs (b)
+[01:13:26] MyAngelCaxarok: dt3
+[01:13:32] BanchoBot: MyAngelCaxarok moved to slot 12
+[01:13:32] BanchoBot: BetterMeman left the game.
+[01:13:35] BCraftMG: !mp map 2600748 0
+[01:13:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2600748 Memme - China Dress
+[01:13:36] BanchoBot: Changed match mode to Osu
+[01:13:37] BCraftMG: !mp mods 65
+[01:13:38] BanchoBot: cant tap joined in slot 2 for team red.
+[01:13:38] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[01:13:39] BCraftMG: !mp timer 120
+[01:13:40] BanchoBot: Countdown aborted
+[01:13:40] BanchoBot: Countdown ends in 2 minutes
+[01:13:46] MyAngelCaxarok: hi depict
+[01:14:01] cant_tap: hi joyin
+[01:14:02] BanchoBot: TheGrabi left the game.
+[01:14:03] BanchoBot: TOPXVLAD joined in slot 3 for team blue.
+[01:14:07] BanchoBot: cant tap moved to slot 11
+[01:14:15] cant_tap: I'm totally in for this map
+[01:14:21] MyAngelCaxarok: :tf:
+[01:14:25] BanchoBot: Gianni-Morandi joined in slot 2 for team red.
+[01:14:29] BanchoBot: TOPXVLAD changed to Red
+[01:14:33] MyAngelCaxarok: i play llike two maps this match
+[01:14:36] BanchoBot: BetterMeman joined in slot 4 for team red.
+[01:14:40] BanchoBot: Countdown ends in 1 minute
+[01:15:10] BanchoBot: Countdown ends in 30 seconds
+[01:15:14] BanchoBot: Mintxgun joined in slot 5 for team blue.
+[01:15:14] BanchoBot: BetterMeman changed to Blue
+[01:15:19] BanchoBot: Gianni-Morandi left the game.
+[01:15:30] BanchoBot: Countdown ends in 10 seconds
+[01:15:31] BanchoBot: Softwarm joined in slot 2 for team red.
+[01:15:32] BanchoBot: Gianni-Morandi joined in slot 6 for team red.
+[01:15:35] BanchoBot: Countdown ends in 5 seconds
+[01:15:35] BanchoBot: cant tap left the game.
+[01:15:36] BanchoBot: Countdown ends in 4 seconds
+[01:15:38] BanchoBot: Countdown ends in 3 seconds
+[01:15:38] BanchoBot: Countdown ends in 2 seconds
+[01:15:39] BanchoBot: Countdown ends in 1 second
+[01:15:40] BanchoBot: Countdown finished
+[01:15:41] BetterMeman: glgl
+[01:15:44] BetterMeman: waiottttt
+[01:15:44] BetterMeman: wait
+[01:15:45] BCraftMG: !mp settings
+[01:15:47] BanchoBot: Erikillo joined in slot 7 for team blue.
+[01:15:47] BanchoBot: Room name: OFDC: (403 grams of anger) vs (the murder), History: https://osu.ppy.sh/mp/117560451
+[01:15:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/2600748 Memme - China Dress
+[01:15:47] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:15:47] BanchoBot: Active mods: NoFail, DoubleTime
+[01:15:47] BanchoBot: Players: 8
+[01:15:47] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/32755390 EXANIY          [Team Red ]
+[01:15:47] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4213278 Softwarm        [Team Red ]
+[01:15:47] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/12704509 TOPXVLAD        [Team Red ]
+[01:15:47] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/24108659 BetterMeman     [Team Blue]
+[01:15:47] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/16017584 Mintxgun        [Team Blue]
+[01:15:47] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/29878163 Gianni-Morandi  [Team Red ]
+[01:15:47] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/20388417 Erikillo        [Team Blue]
+[01:15:47] BanchoBot: Slot 12 Not Ready https://osu.ppy.sh/u/14312709 MyAngelCaxarok  [Team Red ]
+[01:15:48] BetterMeman: softwarm blue
+[01:15:49] BanchoBot: Erikillo left the game.
+[01:15:53] BetterMeman: gianni wrong slot
+[01:15:53] BanchoBot: Softwarm changed to Blue
+[01:15:53] BanchoBot: MyAngelCaxarok left the game.
+[01:15:58] BetterMeman: softwarm wrong slot
+[01:15:58] BanchoBot: Softwarm moved to slot 7
+[01:16:06] BCraftMG: !mp settings
+[01:16:07] BanchoBot: Room name: OFDC: (403 grams of anger) vs (the murder), History: https://osu.ppy.sh/mp/117560451
+[01:16:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/2600748 Memme - China Dress
+[01:16:07] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:16:07] BanchoBot: Active mods: NoFail, DoubleTime
+[01:16:07] BanchoBot: Players: 6
+[01:16:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/32755390 EXANIY          [Team Red ]
+[01:16:07] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/12704509 TOPXVLAD        [Team Red ]
+[01:16:07] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/24108659 BetterMeman     [Team Blue]
+[01:16:07] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/16017584 Mintxgun        [Team Blue]
+[01:16:07] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/29878163 Gianni-Morandi  [Team Red ]
+[01:16:07] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/4213278 Softwarm        [Team Blue]
+[01:16:10] BCraftMG: wrong color too
+[01:16:16] BanchoBot: Gianni-Morandi moved to slot 2
+[01:16:16] BetterMeman: gianni slot 2
+[01:16:17] BanchoBot: Softwarm moved to slot 6
+[01:16:19] BCraftMG: o
+[01:16:20] BetterMeman: ok there we go
+[01:16:23] TOPXVLAD: glhf!!!
+[01:16:25] BCraftMG: !mp settings
+[01:16:26] BanchoBot: Room name: OFDC: (403 grams of anger) vs (the murder), History: https://osu.ppy.sh/mp/117560451
+[01:16:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/2600748 Memme - China Dress
+[01:16:26] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:16:26] BanchoBot: Active mods: NoFail, DoubleTime
+[01:16:26] BanchoBot: Players: 6
+[01:16:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/32755390 EXANIY          [Team Red ]
+[01:16:26] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/29878163 Gianni-Morandi  [Team Red ]
+[01:16:26] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12704509 TOPXVLAD        [Team Red ]
+[01:16:26] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/24108659 BetterMeman     [Team Blue]
+[01:16:26] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/16017584 Mintxgun        [Team Blue]
+[01:16:26] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/4213278 Softwarm        [Team Blue]
+[01:16:27] BCraftMG: ready up
+[01:16:27] Softwarm: glgl
+[01:16:29] BanchoBot: All players are ready
+[01:16:31] BCraftMG: !mp settings
+[01:16:32] Mintxgun: gl
+[01:16:32] EXANIY: glhf
+[01:16:32] BanchoBot: Room name: OFDC: (403 grams of anger) vs (the murder), History: https://osu.ppy.sh/mp/117560451
+[01:16:32] BanchoBot: Beatmap: https://osu.ppy.sh/b/2600748 Memme - China Dress
+[01:16:32] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:16:32] BanchoBot: Active mods: NoFail, DoubleTime
+[01:16:32] BanchoBot: Players: 6
+[01:16:32] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/32755390 EXANIY          [Team Red ]
+[01:16:32] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/29878163 Gianni-Morandi  [Team Red ]
+[01:16:32] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12704509 TOPXVLAD        [Team Red ]
+[01:16:32] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/24108659 BetterMeman     [Team Blue]
+[01:16:32] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/16017584 Mintxgun        [Team Blue]
+[01:16:32] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/4213278 Softwarm        [Team Blue]
+[01:16:34] BCraftMG: !mp start 5 glhf!
+[01:16:34] BanchoBot: Match starts in 5 seconds
+[01:16:34] BanchoBot: Queued the match to start in 5 seconds
+[01:16:35] BanchoBot: Match starts in 4 seconds
+[01:16:37] BanchoBot: Match starts in 3 seconds
+[01:16:38] BanchoBot: Good luck, have fun!
+[01:16:39] BanchoBot: The match has started!
+[01:18:11] BanchoBot: TOPXVLAD finished playing (Score: 649195, PASSED).
+[01:18:11] BanchoBot: EXANIY finished playing (Score: 413612, PASSED).
+[01:18:11] BanchoBot: Mintxgun finished playing (Score: 593432, PASSED).
+[01:18:11] BanchoBot: Softwarm finished playing (Score: 264942, PASSED).
+[01:18:12] BanchoBot: Gianni-Morandi finished playing (Score: 569140, PASSED).
+[01:18:12] BanchoBot: BetterMeman finished playing (Score: 574389, PASSED).
+[01:18:12] BanchoBot: The match has finished!
+[01:18:22] BanchoBot: MyAngelCaxarok joined in slot 7 for team blue.
+[01:18:24] BCraftMG: 403 grams of anger | 1 - 0 | the murder // Bo9 - Next Pick: the murder
+[01:18:25] BCraftMG: !mp timer 120
+[01:18:25] BanchoBot: cant tap joined in slot 8 for team red.
+[01:18:26] BanchoBot: Countdown ends in 2 minutes
+[01:18:36] BanchoBot: MyAngelCaxarok moved to slot 9
+[01:18:58] BanchoBot: Erikillo joined in slot 7 for team blue.
+[01:19:10] BanchoBot: Erikillo changed to Red
+[01:19:19] BetterMeman: nmn2
+[01:19:20] BetterMeman: nm2
+[01:19:27] BanchoBot: Countdown ends in 1 minute
+[01:19:28] BCraftMG: !mp map 3706218 0
+[01:19:28] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3706218 stargaze shelter - optical
+[01:19:28] BanchoBot: Changed match mode to Osu
+[01:19:29] BCraftMG: !mp mods 1
+[01:19:30] BanchoBot: Enabled NoFail, disabled FreeMod
+[01:19:33] BCraftMG: !mp timer 120
+[01:19:33] BanchoBot: Countdown aborted
+[01:19:33] BanchoBot: Countdown ends in 2 minutes
+[01:19:52] BanchoBot: caxarokuwu joined in slot 10 for team red.
+[01:19:56] TOPXVLAD: ого
+[01:19:58] TOPXVLAD: сенами привет
+[01:20:01] BanchoBot: MyAngelCaxarok moved to slot 12
+[01:20:05] TOPXVLAD: не хочешь за нас сыграть
+[01:20:05] caxarokuwu: ого привтеь
+[01:20:13] BanchoBot: EXANIY left the game.
+[01:20:16] caxarokuwu: у меня 5вц через час я без вармапа и пул не играл
+[01:20:21] BanchoBot: Erikillo moved to slot 1
+[01:20:24] TOPXVLAD: капеееец
+[01:20:26] TOPXVLAD: ну ладно тогда
+[01:20:26] TOPXVLAD: гл
+[01:20:27] BanchoBot: Mintxgun left the game.
+[01:20:29] BanchoBot: Arion Ashira joined in slot 5 for team blue.
+[01:20:30] caxarokuwu: руиню руиню
+[01:20:30] BanchoBot: cant tap left the game.
+[01:20:34] BanchoBot: Countdown ends in 1 minute
+[01:20:37] caxarokuwu: спасибо и вам удачи
+[01:20:38] BanchoBot: caxarokuwu left the game.
+[01:20:42] BanchoBot: MyAngelCaxarok left the game.
+[01:21:00] BanchoBot: All players are ready
+[01:21:04] TOPXVLAD: glhf
+[01:21:04] BanchoBot: Countdown ends in 30 seconds
+[01:21:08] Erikillo: hf
+[01:21:13] BCraftMG: !mp settings
+[01:21:13] BanchoBot: Room name: OFDC: (403 grams of anger) vs (the murder), History: https://osu.ppy.sh/mp/117560451
+[01:21:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/3706218 stargaze shelter - optical
+[01:21:13] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:21:13] BanchoBot: Active mods: NoFail
+[01:21:13] BanchoBot: Players: 6
+[01:21:13] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/20388417 Erikillo        [Team Red ]
+[01:21:13] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/29878163 Gianni-Morandi  [Team Red ]
+[01:21:13] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12704509 TOPXVLAD        [Team Red ]
+[01:21:13] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/24108659 BetterMeman     [Team Blue]
+[01:21:13] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/10192636 Arion Ashira    [Team Blue]
+[01:21:13] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/4213278 Softwarm        [Team Blue]
+[01:21:15] BCraftMG: !mp start 5 glhf!
+[01:21:16] BanchoBot: Countdown aborted
+[01:21:16] BanchoBot: Match starts in 5 seconds
+[01:21:16] BanchoBot: Queued the match to start in 5 seconds
+[01:21:17] BanchoBot: Match starts in 4 seconds
+[01:21:18] BanchoBot: Match starts in 3 seconds
+[01:21:19] BanchoBot: Good luck, have fun!
+[01:21:22] BanchoBot: The match has started!
+[01:25:12] BanchoBot: Gianni-Morandi finished playing (Score: 323565, PASSED).
+[01:25:12] BanchoBot: BetterMeman finished playing (Score: 821462, PASSED).
+[01:25:12] BanchoBot: Erikillo finished playing (Score: 440301, PASSED).
+[01:25:12] BanchoBot: Softwarm finished playing (Score: 320205, PASSED).
+[01:25:12] BanchoBot: TOPXVLAD finished playing (Score: 302241, PASSED).
+[01:25:12] BanchoBot: Arion Ashira finished playing (Score: 314931, PASSED).
+[01:25:12] BanchoBot: The match has finished!
+[01:25:22] BCraftMG: 403 grams of anger | 1 - 1 | the murder // Bo9 - Next Pick: 403 grams of anger
+[01:25:24] BCraftMG: !mp timer 120
+[01:25:26] BanchoBot: Countdown ends in 2 minutes
+[01:25:33] BanchoBot: MyAngelCaxarok joined in slot 7 for team blue.
+[01:25:37] BanchoBot: cant tap joined in slot 8 for team red.
+[01:25:37] BanchoBot: EXANIY joined in slot 9 for team blue.
+[01:25:46] BanchoBot: Erikillo left the game.
+[01:26:00] BanchoBot: EXANIY moved to slot 1
+[01:26:04] BanchoBot: EXANIY changed to Red
+[01:26:27] BanchoBot: Countdown ends in 1 minute
+[01:26:32] MyAngelCaxarok: dt1
+[01:26:46] BanchoBot: cant tap left the game.
+[01:26:49] BCraftMG: no double pick except nm
+[01:26:57] BanchoBot: Countdown ends in 30 seconds
+[01:26:58] MyAngelCaxarok: ahhhhh
+[01:27:02] MyAngelCaxarok: hr2
+[01:27:10] BanchoBot: Mintxgun joined in slot 8 for team red.
+[01:27:11] BCraftMG: !mp map 76638 0
+[01:27:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/76638 Akita Neru - Gotya Gotya Uruse~!
+[01:27:11] BanchoBot: Changed match mode to Osu
+[01:27:14] BCraftMG: !mp mods 17
+[01:27:15] BanchoBot: MyAngelCaxarok moved to slot 12
+[01:27:15] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[01:27:17] BanchoBot: Countdown ends in 10 seconds
+[01:27:20] BCraftMG: !mp timer 120
+[01:27:21] BanchoBot: Countdown aborted
+[01:27:21] BanchoBot: Countdown ends in 2 minutes
+[01:27:26] BanchoBot: Mintxgun left the game.
+[01:27:40] BanchoBot: Arion Ashira left the game.
+[01:27:42] BanchoBot: Mintxgun joined in slot 5 for team blue.
+[01:27:54] BanchoBot: MyAngelCaxarok left the game.
+[01:28:06] BetterMeman: man
+[01:28:11] BetterMeman: why yall gotta make me play hr
+[01:28:22] BanchoBot: Countdown ends in 1 minute
+[01:28:25] BanchoBot: All players are ready
+[01:28:33] Softwarm: gotcha gotye uruse
+[01:28:36] BetterMeman: ccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+[01:28:40] BCraftMG: !mp settings
+[01:28:40] BanchoBot: Room name: OFDC: (403 grams of anger) vs (the murder), History: https://osu.ppy.sh/mp/117560451
+[01:28:40] BanchoBot: Beatmap: https://osu.ppy.sh/b/76638 Akita Neru - Gotya Gotya Uruse~!
+[01:28:40] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:28:40] BanchoBot: Active mods: NoFail, HardRock
+[01:28:40] BanchoBot: Players: 6
+[01:28:40] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/32755390 EXANIY          [Team Red ]
+[01:28:40] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/29878163 Gianni-Morandi  [Team Red ]
+[01:28:40] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12704509 TOPXVLAD        [Team Red ]
+[01:28:40] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/24108659 BetterMeman     [Team Blue]
+[01:28:40] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/16017584 Mintxgun        [Team Blue]
+[01:28:40] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/4213278 Softwarm        [Team Blue]
+[01:28:41] BCraftMG: !mp start 5 glhf!
+[01:28:41] BanchoBot: Countdown aborted
+[01:28:41] BanchoBot: Match starts in 5 seconds
+[01:28:41] BanchoBot: Queued the match to start in 5 seconds
+[01:28:43] BanchoBot: Match starts in 4 seconds
+[01:28:44] BanchoBot: Match starts in 3 seconds
+[01:28:45] BanchoBot: Good luck, have fun!
+[01:28:47] BanchoBot: The match has started!
+[01:31:29] BanchoBot: BetterMeman finished playing (Score: 669608, PASSED).
+[01:31:30] BanchoBot: EXANIY finished playing (Score: 424779, PASSED).
+[01:31:30] BanchoBot: Softwarm finished playing (Score: 235747, PASSED).
+[01:31:30] BanchoBot: Gianni-Morandi finished playing (Score: 408492, PASSED).
+[01:31:30] BanchoBot: TOPXVLAD finished playing (Score: 428931, PASSED).
+[01:31:30] BanchoBot: Mintxgun finished playing (Score: 321624, PASSED).
+[01:31:30] BanchoBot: The match has finished!
+[01:31:44] BCraftMG: 403 grams of anger | 2 - 1 | the murder // Bo9 - Next Pick: the murder
+[01:31:45] BCraftMG: !mp timer 120
+[01:31:46] BanchoBot: MyAngelCaxarok joined in slot 7 for team blue.
+[01:31:47] BanchoBot: Countdown ends in 2 minutes
+[01:32:11] BanchoBot: MyAngelCaxarok moved to slot 12
+[01:32:47] BanchoBot: Countdown ends in 1 minute
+[01:32:51] BetterMeman: nm4
+[01:32:59] BanchoBot: TOPXVLAD left the game.
+[01:33:00] BCraftMG: !mp map 1462155 0
+[01:33:01] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1462155 ZYTOKINE - Dancing Dollz feat. cold kiss - REDALiCE Remix
+[01:33:01] BanchoBot: Changed match mode to Osu
+[01:33:02] BCraftMG: !mp mods 1
+[01:33:03] BanchoBot: Enabled NoFail, disabled FreeMod
+[01:33:09] BCraftMG: !mp timer 120
+[01:33:10] BanchoBot: Countdown aborted
+[01:33:10] BanchoBot: Countdown ends in 2 minutes
+[01:33:11] BanchoBot: TOPXVLAD joined in slot 3 for team blue.
+[01:33:12] BanchoBot: Softwarm left the game.
+[01:33:16] BanchoBot: Erikillo joined in slot 6 for team red.
+[01:33:22] BanchoBot: TOPXVLAD changed to Red
+[01:33:22] BanchoBot: Erikillo left the game.
+[01:33:35] BanchoBot: MyAngelCaxarok left the game.
+[01:34:02] BanchoBot: Arion Ashira joined in slot 6 for team red.
+[01:34:06] BanchoBot: Arion Ashira changed to Blue
+[01:34:10] BanchoBot: Countdown ends in 1 minute
+[01:34:34] BetterMeman: the world if softwarm's pc didnt blow up last night
+[01:34:40] BanchoBot: Countdown ends in 30 seconds
+[01:34:47] BanchoBot: All players are ready
+[01:34:50] BCraftMG: !mp settings
+[01:34:50] BanchoBot: Room name: OFDC: (403 grams of anger) vs (the murder), History: https://osu.ppy.sh/mp/117560451
+[01:34:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/1462155 ZYTOKINE - Dancing Dollz feat. cold kiss - REDALiCE Remix
+[01:34:50] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:34:50] BanchoBot: Active mods: NoFail
+[01:34:50] BanchoBot: Players: 6
+[01:34:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/32755390 EXANIY          [Team Red ]
+[01:34:50] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/29878163 Gianni-Morandi  [Team Red ]
+[01:34:50] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12704509 TOPXVLAD        [Team Red ]
+[01:34:50] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/24108659 BetterMeman     [Team Blue]
+[01:34:50] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/16017584 Mintxgun        [Team Blue]
+[01:34:50] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10192636 Arion Ashira    [Team Blue]
+[01:34:52] BCraftMG: !mp start 5 glhf!
+[01:34:52] BanchoBot: Countdown aborted
+[01:34:52] BanchoBot: Match starts in 5 seconds
+[01:34:52] BanchoBot: Queued the match to start in 5 seconds
+[01:34:53] BanchoBot: Match starts in 4 seconds
+[01:34:54] BanchoBot: Match starts in 3 seconds
+[01:34:55] BanchoBot: Good luck, have fun!
+[01:34:57] EXANIY: пдра
+[01:34:57] BanchoBot: The match has started!
+[01:34:58] EXANIY: glhf
+[01:38:25] BanchoBot: Mintxgun finished playing (Score: 625781, PASSED).
+[01:38:25] BanchoBot: EXANIY finished playing (Score: 544554, PASSED).
+[01:38:25] BanchoBot: Gianni-Morandi finished playing (Score: 338971, PASSED).
+[01:38:26] BanchoBot: TOPXVLAD finished playing (Score: 645486, PASSED).
+[01:38:26] BanchoBot: BetterMeman finished playing (Score: 687446, PASSED).
+[01:38:27] BanchoBot: Arion Ashira finished playing (Score: 562863, PASSED).
+[01:38:27] BanchoBot: The match has finished!
+[01:38:42] BCraftMG: 403 grams of anger | 2 - 2 | the murder // Bo9 - Next Pick: 403 grams of anger
+[01:38:44] BCraftMG: !mp timer 120
+[01:38:45] BanchoBot: Countdown ends in 2 minutes
+[01:38:56] BanchoBot: MyAngelCaxarok joined in slot 7 for team blue.
+[01:39:08] BanchoBot: cant tap joined in slot 8 for team red.
+[01:39:46] BanchoBot: Countdown ends in 1 minute
+[01:40:01] BanchoBot: cant tap moved to slot 11
+[01:40:03] BanchoBot: cant tap moved to slot 12
+[01:40:16] BanchoBot: Countdown ends in 30 seconds
+[01:40:25] MyAngelCaxarok: dt2
+[01:40:35] BCraftMG: !mp map 106790 0
+[01:40:37] BanchoBot: Countdown ends in 10 seconds
+[01:40:37] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/106790 Kagamine Rin - Kokoro
+[01:40:37] BanchoBot: Changed match mode to Osu
+[01:40:39] BCraftMG: !mp mods 65
+[01:40:41] BanchoBot: Countdown ends in 5 seconds
+[01:40:41] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[01:40:42] BanchoBot: Countdown ends in 4 seconds
+[01:40:42] BCraftMG: !mp timer 120
+[01:40:43] BanchoBot: Countdown ends in 3 seconds
+[01:40:43] BanchoBot: Countdown aborted
+[01:40:43] BanchoBot: Countdown ends in 2 minutes
+[01:40:46] BanchoBot: Arion Ashira left the game.
+[01:40:48] BanchoBot: MyAngelCaxarok left the game.
+[01:41:07] BanchoBot: MyAngelCaxarok joined in slot 6 for team red.
+[01:41:09] BanchoBot: MyAngelCaxarok left the game.
+[01:41:28] BanchoBot: Arion Ashira joined in slot 6 for team red.
+[01:41:33] BanchoBot: Arion Ashira changed to Blue
+[01:41:43] BanchoBot: cant tap left the game.
+[01:41:43] BanchoBot: Countdown ends in 1 minute
+[01:42:15] BanchoBot: Countdown ends in 30 seconds
+[01:42:21] BanchoBot: All players are ready
+[01:42:23] BCraftMG: !mp settings
+[01:42:24] BanchoBot: Room name: OFDC: (403 grams of anger) vs (the murder), History: https://osu.ppy.sh/mp/117560451
+[01:42:24] BanchoBot: Beatmap: https://osu.ppy.sh/b/106790 Kagamine Rin - Kokoro
+[01:42:24] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:42:24] BanchoBot: Active mods: NoFail, DoubleTime
+[01:42:24] BanchoBot: Players: 6
+[01:42:24] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/32755390 EXANIY          [Team Red ]
+[01:42:24] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/29878163 Gianni-Morandi  [Team Red ]
+[01:42:24] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12704509 TOPXVLAD        [Team Red ]
+[01:42:24] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/24108659 BetterMeman     [Team Blue]
+[01:42:24] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/16017584 Mintxgun        [Team Blue]
+[01:42:24] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10192636 Arion Ashira    [Team Blue]
+[01:42:29] BCraftMG: !mp start 5 glhf!
+[01:42:30] BanchoBot: Countdown aborted
+[01:42:30] BanchoBot: Match starts in 5 seconds
+[01:42:30] BanchoBot: Queued the match to start in 5 seconds
+[01:42:32] BetterMeman: nothingburger map time
+[01:42:32] TOPXVLAD: glhf
+[01:42:32] BanchoBot: Match starts in 4 seconds
+[01:42:33] BanchoBot: Match starts in 3 seconds
+[01:42:34] BanchoBot: Good luck, have fun!
+[01:42:35] EXANIY: glhf
+[01:42:35] BanchoBot: The match has started!
+[01:45:27] BanchoBot: Arion Ashira finished playing (Score: 828143, PASSED).
+[01:45:28] BanchoBot: EXANIY finished playing (Score: 984849, PASSED).
+[01:45:28] BanchoBot: Gianni-Morandi finished playing (Score: 619730, PASSED).
+[01:45:28] BanchoBot: BetterMeman finished playing (Score: 1129006, PASSED).
+[01:45:28] BanchoBot: TOPXVLAD finished playing (Score: 1125477, PASSED).
+[01:45:28] BanchoBot: Mintxgun finished playing (Score: 591044, PASSED).
+[01:45:28] BanchoBot: The match has finished!
+[01:45:43] BCraftMG: 403 grams of anger | 3 - 2 | the murder // Bo9 - Next Pick: the murder
+[01:45:44] BCraftMG: !mp timer 120
+[01:45:45] BanchoBot: Countdown ends in 2 minutes
+[01:45:50] BanchoBot: MyAngelCaxarok joined in slot 7 for team blue.
+[01:46:13] BanchoBot: MyAngelCaxarok moved to slot 12
+[01:46:44] BanchoBot: Erikillo joined in slot 7 for team blue.
+[01:46:45] BanchoBot: Countdown ends in 1 minute
+[01:46:52] BanchoBot: Erikillo moved to slot 11
+[01:47:16] BanchoBot: Countdown ends in 30 seconds
+[01:47:21] BetterMeman: hd1
+[01:47:26] BanchoBot: EXANIY left the game.
+[01:47:30] BanchoBot: MyAngelCaxarok moved to slot 1
+[01:47:30] BanchoBot: Gianni-Morandi left the game.
+[01:47:30] BanchoBot: Erikillo changed to Red
+[01:47:33] BanchoBot: Erikillo moved to slot 2
+[01:47:34] BCraftMG: !mp map 4249769 0
+[01:47:34] BanchoBot: MyAngelCaxarok changed to Red
+[01:47:35] BanchoBot: Countdown ends in 10 seconds
+[01:47:35] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4249769 Tenchio - skeleton (Lettuce ver.)
+[01:47:35] BanchoBot: Changed match mode to Osu
+[01:47:38] BCraftMG: !mp mods 9
+[01:47:39] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[01:47:40] BCraftMG: !mp timer 120
+[01:47:41] BanchoBot: Countdown ends in 5 seconds
+[01:47:41] BanchoBot: Countdown aborted
+[01:47:41] BanchoBot: Countdown ends in 2 minutes
+[01:48:12] BanchoBot: Arion Ashira moved to slot 12
+[01:48:17] BanchoBot: Arion Ashira left the game.
+[01:48:29] BanchoBot: TOPXVLAD left the game.
+[01:48:32] BanchoBot: Softwarm joined in slot 3 for team blue.
+[01:48:41] BanchoBot: Countdown ends in 1 minute
+[01:48:46] BetterMeman: this is my kind of music right here
+[01:48:49] BanchoBot: Softwarm moved to slot 6
+[01:48:49] BetterMeman: this shit slaps
+[01:49:01] MyAngelCaxarok: are we allowed to take timeouts after picks?
+[01:49:11] BanchoBot: Countdown ends in 30 seconds
+[01:49:17] BanchoBot: TOPXVLAD joined in slot 3 for team blue.
+[01:49:27] BanchoBot: TOPXVLAD changed to Red
+[01:49:31] BanchoBot: Countdown ends in 10 seconds
+[01:49:32] BCraftMG: uhh
+[01:49:34] BCraftMG: prob yes
+[01:49:36] BanchoBot: Countdown ends in 5 seconds
+[01:49:37] BanchoBot: Countdown ends in 4 seconds
+[01:49:39] BanchoBot: Countdown ends in 3 seconds
+[01:49:39] MyAngelCaxarok: oh no first maps
+[01:49:39] BanchoBot: Countdown ends in 2 seconds
+[01:49:39] BanchoBot: All players are ready
+[01:49:40] BanchoBot: Countdown ends in 1 second
+[01:49:41] BCraftMG: !mp settings
+[01:49:41] BanchoBot: Countdown finished
+[01:49:41] MyAngelCaxarok: okok ty
+[01:49:43] BanchoBot: Room name: OFDC: (403 grams of anger) vs (the murder), History: https://osu.ppy.sh/mp/117560451
+[01:49:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/4249769 Tenchio - skeleton (Lettuce ver.)
+[01:49:43] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:49:43] BanchoBot: Active mods: NoFail, Hidden
+[01:49:43] BanchoBot: Players: 6
+[01:49:43] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14312709 MyAngelCaxarok  [Team Red ]
+[01:49:43] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20388417 Erikillo        [Team Red ]
+[01:49:43] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12704509 TOPXVLAD        [Team Red ]
+[01:49:43] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/24108659 BetterMeman     [Team Blue]
+[01:49:43] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/16017584 Mintxgun        [Team Blue]
+[01:49:43] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/4213278 Softwarm        [Team Blue]
+[01:49:44] BCraftMG: !mp start 5 glhf!
+[01:49:45] BanchoBot: Match starts in 5 seconds
+[01:49:45] BanchoBot: Queued the match to start in 5 seconds
+[01:49:47] BanchoBot: Match starts in 4 seconds
+[01:49:48] BanchoBot: Match starts in 3 seconds
+[01:49:49] BanchoBot: Good luck, have fun!
+[01:49:51] MyAngelCaxarok: пдра!!!!!!!!!!!!!!!!!!!!!!!!!!
+[01:49:51] BanchoBot: The match has started!
+[01:52:50] BanchoBot: Erikillo finished playing (Score: 487229, PASSED).
+[01:52:50] BanchoBot: Softwarm finished playing (Score: 579096, PASSED).
+[01:52:50] BanchoBot: BetterMeman finished playing (Score: 696526, PASSED).
+[01:52:50] BanchoBot: TOPXVLAD finished playing (Score: 640101, PASSED).
+[01:52:50] BanchoBot: Mintxgun finished playing (Score: 550941, PASSED).
+[01:52:51] BanchoBot: MyAngelCaxarok finished playing (Score: 387250, PASSED).
+[01:52:51] BanchoBot: The match has finished!
+[01:53:03] BCraftMG: 403 grams of anger | 3 - 3 | the murder // Bo9 - Next Pick: 403 grams of anger
+[01:53:04] BCraftMG: !mp timer 120
+[01:53:04] BanchoBot: Countdown ends in 2 minutes
+[01:53:37] BanchoBot: cant tap joined in slot 7 for team blue.
+[01:54:05] BanchoBot: Countdown ends in 1 minute
+[01:54:35] BanchoBot: Countdown ends in 30 seconds
+[01:54:55] BanchoBot: Countdown ends in 10 seconds
+[01:54:59] MyAngelCaxarok: !roll 100
+[01:54:59] BanchoBot: MyAngelCaxarok rolls 40 point(s)
+[01:55:00] BanchoBot: Countdown ends in 5 seconds
+[01:55:00] MyAngelCaxarok: n3
+[01:55:01] BanchoBot: Countdown ends in 4 seconds
+[01:55:03] BanchoBot: Countdown ends in 3 seconds
+[01:55:03] BanchoBot: Countdown ends in 2 seconds
+[01:55:04] BanchoBot: Countdown ends in 1 second
+[01:55:05] BanchoBot: Countdown finished
+[01:55:05] MyAngelCaxarok: nm4
+[01:55:06] MyAngelCaxarok: nm3
+[01:55:08] TOPXVLAD: nm3
+[01:55:08] MyAngelCaxarok: i am sorry
+[01:55:18] BanchoBot: Mintxgun left the game.
+[01:55:20] BetterMeman: nm4 :susge:
+[01:55:20] BCraftMG: !mp map 2013044 0
+[01:55:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2013044 Kevin Penkin - The First Layer
+[01:55:21] BanchoBot: Changed match mode to Osu
+[01:55:25] BCraftMG: !mp mods 1
+[01:55:26] BanchoBot: Gianni-Morandi joined in slot 5 for team blue.
+[01:55:26] BanchoBot: Enabled NoFail, disabled FreeMod
+[01:55:35] MyAngelCaxarok: yeah like reallt liked the map
+[01:55:37] MyAngelCaxarok: xdd
+[01:55:37] TOPXVLAD: guys i will get 90k on this
+[01:55:37] BanchoBot: MyAngelCaxarok moved to slot 8
+[01:55:39] TOPXVLAD: gl!!
+[01:55:43] BanchoBot: Softwarm left the game.
+[01:55:47] BanchoBot: Gianni-Morandi moved to slot 1
+[01:55:50] BanchoBot: MyAngelCaxarok left the game.
+[01:55:50] BanchoBot: Gianni-Morandi changed to Red
+[01:55:50] BanchoBot: cant tap moved to slot 5
+[01:55:58] cant_tap: vlad on precision
+[01:56:00] cant_tap: what is this world
+[01:56:15] TOPXVLAD: i am forced to permalobby help me
+[01:56:25] cant_tap: ;_;
+[01:56:32] BanchoBot: Softwarm joined in slot 6 for team red.
+[01:56:43] BanchoBot: Softwarm changed to Blue
+[01:56:54] BanchoBot: All players are ready
+[01:56:55] BCraftMG: !mp settings
+[01:56:56] cant_tap: hfhf
+[01:56:56] BanchoBot: Room name: OFDC: (403 grams of anger) vs (the murder), History: https://osu.ppy.sh/mp/117560451
+[01:56:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/2013044 Kevin Penkin - The First Layer
+[01:56:56] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:56:56] BanchoBot: Active mods: NoFail
+[01:56:56] BanchoBot: Players: 6
+[01:56:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/29878163 Gianni-Morandi  [Team Red ]
+[01:56:56] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20388417 Erikillo        [Team Red ]
+[01:56:56] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12704509 TOPXVLAD        [Team Red ]
+[01:56:56] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/24108659 BetterMeman     [Team Blue]
+[01:56:56] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/3984458 cant tap        [Team Blue]
+[01:56:56] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/4213278 Softwarm        [Team Blue]
+[01:56:57] BCraftMG: !mp start 5 glhf!
+[01:56:59] BanchoBot: Match starts in 5 seconds
+[01:56:59] BanchoBot: Queued the match to start in 5 seconds
+[01:57:00] TOPXVLAD: glhf
+[01:57:00] BanchoBot: Match starts in 4 seconds
+[01:57:01] BanchoBot: Match starts in 3 seconds
+[01:57:02] BanchoBot: Good luck, have fun!
+[01:57:04] BanchoBot: The match has started!
+[01:59:04] BanchoBot: BetterMeman finished playing (Score: 448372, PASSED).
+[01:59:04] BanchoBot: cant tap finished playing (Score: 643116, PASSED).
+[01:59:04] BanchoBot: Erikillo finished playing (Score: 628139, PASSED).
+[01:59:04] BanchoBot: Gianni-Morandi finished playing (Score: 853883, PASSED).
+[01:59:05] BanchoBot: Softwarm finished playing (Score: 289154, PASSED).
+[01:59:07] BanchoBot: TOPXVLAD finished playing (Score: 912729, PASSED).
+[01:59:07] BanchoBot: The match has finished!
+[01:59:22] BCraftMG: 403 grams of anger | 4 - 3 | the murder // Bo9 - Next Pick: the murder
+[01:59:34] BCraftMG: are we seriously shooting for tb
+[01:59:35] BCraftMG: !mp timer 120
+[01:59:35] BanchoBot: Countdown ends in 2 minutes
+[01:59:40] BanchoBot: MyAngelCaxarok joined in slot 7 for team blue.
+[01:59:43] BanchoBot: Softwarm left the game.
+[01:59:55] BanchoBot: MyAngelCaxarok moved to slot 12
+[02:00:36] BanchoBot: Countdown ends in 1 minute
+[02:01:06] BanchoBot: Countdown ends in 30 seconds
+[02:01:15] BetterMeman: hd2
+[02:01:17] BanchoBot: Gianni-Morandi left the game.
+[02:01:20] BCraftMG: double pick
+[02:01:21] MyAngelCaxarok: wait
+[02:01:24] MyAngelCaxarok: double pick
+[02:01:25] BanchoBot: Countdown ends in 10 seconds
+[02:01:28] BetterMeman: shiiiiiit
+[02:01:30] BanchoBot: Countdown ends in 5 seconds
+[02:01:32] BanchoBot: Countdown ends in 4 seconds
+[02:01:33] BanchoBot: Countdown ends in 3 seconds
+[02:01:33] BetterMeman: nm5
+[02:01:33] BanchoBot: Countdown ends in 2 seconds
+[02:01:34] BanchoBot: Countdown ends in 1 second
+[02:01:36] BanchoBot: Countdown finished
+[02:01:43] BanchoBot: Gianni-Morandi joined in slot 1 for team blue.
+[02:01:53] BanchoBot: Gianni-Morandi changed to Red
+[02:01:55] BCraftMG: !mp map 3671821 0
+[02:01:56] BCraftMG: !mp mods 1
+[02:01:56] BanchoBot: Softwarm joined in slot 6 for team red.
+[02:01:56] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3671821 PALC - S kazhdym
+[02:01:56] BanchoBot: Changed match mode to Osu
+[02:01:58] BanchoBot: Enabled NoFail, disabled FreeMod
+[02:01:58] BCraftMG: !mp timer 120
+[02:01:59] BanchoBot: cant tap moved to slot 7
+[02:01:59] BanchoBot: Countdown ends in 2 minutes
+[02:02:00] BanchoBot: cant tap moved to slot 10
+[02:02:02] BanchoBot: Gianni-Morandi left the game.
+[02:02:08] BanchoBot: TOPXVLAD left the game.
+[02:02:09] BanchoBot: MyAngelCaxarok moved to slot 1
+[02:02:11] BanchoBot: EXANIY joined in slot 3 for team blue.
+[02:02:12] BanchoBot: MyAngelCaxarok changed to Red
+[02:02:13] BanchoBot: Softwarm left the game.
+[02:02:21] BanchoBot: EXANIY changed to Red
+[02:02:36] BanchoBot: cant tap moved to slot 5
+[02:02:55] BanchoBot: Softwarm joined in slot 6 for team red.
+[02:03:00] BanchoBot: Countdown ends in 1 minute
+[02:03:00] BanchoBot: Softwarm changed to Blue
+[02:03:02] BanchoBot: Softwarm changed to Red
+[02:03:02] BanchoBot: Softwarm changed to Blue
+[02:03:18] BanchoBot: All players are ready
+[02:03:24] BCraftMG: !mp settings
+[02:03:26] BanchoBot: Room name: OFDC: (403 grams of anger) vs (the murder), History: https://osu.ppy.sh/mp/117560451
+[02:03:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/3671821 PALC - S kazhdym
+[02:03:26] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:03:26] BanchoBot: Active mods: NoFail
+[02:03:26] BanchoBot: Players: 6
+[02:03:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14312709 MyAngelCaxarok  [Team Red ]
+[02:03:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20388417 Erikillo        [Team Red ]
+[02:03:26] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/32755390 EXANIY          [Team Red ]
+[02:03:26] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/24108659 BetterMeman     [Team Blue]
+[02:03:26] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/3984458 cant tap        [Team Blue]
+[02:03:26] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/4213278 Softwarm        [Team Blue]
+[02:03:29] BCraftMG: !mp start 5 glhf!
+[02:03:29] BanchoBot: Countdown ends in 30 seconds
+[02:03:29] BanchoBot: Countdown aborted
+[02:03:29] BanchoBot: Match starts in 5 seconds
+[02:03:29] BanchoBot: Queued the match to start in 5 seconds
+[02:03:31] BanchoBot: Match starts in 4 seconds
+[02:03:32] BanchoBot: Match starts in 3 seconds
+[02:03:33] BanchoBot: Good luck, have fun!
+[02:03:33] Softwarm: glgl
+[02:03:34] BanchoBot: The match has started!
+[02:03:38] MyAngelCaxarok: pdra!!!!!!!!!!!!
+[02:06:28] BanchoBot: BetterMeman finished playing (Score: 612164, PASSED).
+[02:06:28] BanchoBot: Erikillo finished playing (Score: 639179, PASSED).
+[02:06:28] BanchoBot: Softwarm finished playing (Score: 754934, PASSED).
+[02:06:29] BanchoBot: EXANIY finished playing (Score: 350341, PASSED).
+[02:06:29] BanchoBot: cant tap finished playing (Score: 264859, PASSED).
+[02:06:31] BanchoBot: MyAngelCaxarok finished playing (Score: 464038, PASSED).
+[02:06:31] BanchoBot: The match has finished!
+[02:06:47] BCraftMG: !mp map 721158 0
+[02:06:48] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/721158 Shimotsuki Haruka - Youka to Yumeutsutsu
+[02:06:48] BanchoBot: Changed match mode to Osu
+[02:06:50] BCraftMG: !mp mods 1 freemod
+[02:06:52] BanchoBot: Erikillo left the game.
+[02:06:52] BanchoBot: Disabled all mods, enabled FreeMod
+[02:06:53] BCraftMG: !mp timer 120
+[02:06:54] BanchoBot: Countdown ends in 2 minutes
+[02:07:12] BanchoBot: BetterMeman left the game.
+[02:07:14] BanchoBot: EXANIY left the game.
+[02:07:29] BanchoBot: TOPXVLAD joined in slot 2 for team red.
+[02:07:54] BanchoBot: Gianni-Morandi joined in slot 3 for team blue.
+[02:07:54] BanchoBot: Softwarm left the game.
+[02:07:55] BanchoBot: Countdown ends in 1 minute
+[02:07:56] BanchoBot: BetterMeman joined in slot 4 for team red.
+[02:08:03] BanchoBot: MyAngelCaxarok moved to slot 6
+[02:08:07] BanchoBot: BetterMeman changed to Blue
+[02:08:25] BanchoBot: Countdown ends in 30 seconds
+[02:08:31] BanchoBot: Erikillo joined in slot 1 for team blue.
+[02:08:35] BanchoBot: EXANIY joined in slot 7 for team blue.
+[02:08:43] TOPXVLAD: timeout
+[02:08:44] TOPXVLAD: pls
+[02:08:44] BanchoBot: Countdown ends in 10 seconds
+[02:08:46] BanchoBot: Softwarm joined in slot 8 for team red.
+[02:08:49] BanchoBot: Countdown ends in 5 seconds
+[02:08:49] BanchoBot: Softwarm left the game.
+[02:08:51] BanchoBot: EXANIY changed to Red
+[02:08:51] BanchoBot: Countdown ends in 4 seconds
+[02:08:52] BanchoBot: Countdown ends in 3 seconds
+[02:08:54] BCraftMG: afer timer end
+[02:08:54] BanchoBot: Countdown ends in 2 seconds
+[02:08:54] BanchoBot: Countdown ends in 1 second
+[02:08:55] BanchoBot: Countdown finished
+[02:08:59] BCraftMG: !mp timer 180
+[02:09:00] BanchoBot: Countdown ends in 3 minutes
+[02:09:05] BanchoBot: cant tap left the game.
+[02:09:10] BanchoBot: Erikillo left the game.
+[02:09:13] BanchoBot: EXANIY left the game.
+[02:09:44] BanchoBot: TOPXVLAD left the game.
+[02:09:57] BanchoBot: TOPXVLAD joined in slot 1 for team blue.
+[02:10:01] BanchoBot: Countdown ends in 2 minutes
+[02:10:09] BanchoBot: TOPXVLAD left the game.
+[02:10:45] BanchoBot: Sakamuro joined in slot 1 for team blue.
+[02:10:48] BanchoBot: MyAngelCaxarok moved to slot 12
+[02:11:01] BanchoBot: Countdown ends in 1 minute
+[02:11:02] BanchoBot: Sakamuro changed to Red
+[02:11:03] BanchoBot: cant tap joined in slot 2 for team red.
+[02:11:03] BanchoBot: Arion Ashira joined in slot 5 for team blue.
+[02:11:07] BanchoBot: TOPXVLAD joined in slot 6 for team red.
+[02:11:18] BanchoBot: cant tap changed to Blue
+[02:11:19] BanchoBot: cant tap moved to slot 7
+[02:11:20] BanchoBot: TOPXVLAD moved to slot 2
+[02:11:23] BanchoBot: Gianni-Morandi changed to Red
+[02:11:24] BanchoBot: Arion Ashira moved to slot 11
+[02:11:26] BanchoBot: Arion Ashira moved to slot 5
+[02:11:26] BetterMeman: man why yall gotta play the tb
+[02:11:28] BanchoBot: cant tap moved to slot 6
+[02:11:31] BanchoBot: Countdown ends in 30 seconds
+[02:11:32] BetterMeman: sightread it like a real player
+[02:11:37] MyAngelCaxarok: we are team
+[02:11:45] TOPXVLAD: i tried it with ez
+[02:11:49] MyAngelCaxarok: not a player
+[02:11:50] BanchoBot: Countdown ends in 10 seconds
+[02:11:53] BanchoBot: Erikillo joined in slot 7 for team blue.
+[02:11:54] BanchoBot: MyAngelCaxarok left the game.
+[02:11:55] BanchoBot: Countdown ends in 5 seconds
+[02:11:57] BanchoBot: Countdown ends in 4 seconds
+[02:11:57] BanchoBot: Erikillo left the game.
+[02:11:58] BanchoBot: Countdown ends in 3 seconds
+[02:11:58] BanchoBot: Countdown ends in 2 seconds
+[02:11:59] BanchoBot: Countdown ends in 1 second
+[02:12:01] BanchoBot: Countdown finished
+[02:12:04] BCraftMG: !mp settings
+[02:12:06] BanchoBot: Room name: OFDC: (403 grams of anger) vs (the murder), History: https://osu.ppy.sh/mp/117560451
+[02:12:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/721158 Shimotsuki Haruka - Youka to Yumeutsutsu
+[02:12:06] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:12:06] BanchoBot: Active mods: Freemod
+[02:12:06] BanchoBot: Players: 6
+[02:12:06] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/9634912 Sakamuro        [Team Red  / NoFail, HardRock]
+[02:12:06] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/12704509 TOPXVLAD        [Team Red  / NoFail, Easy]
+[02:12:06] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/29878163 Gianni-Morandi  [Team Red  / NoFail]
+[02:12:06] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/24108659 BetterMeman     [Team Blue / NoFail]
+[02:12:06] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/10192636 Arion Ashira    [Team Blue / NoFail]
+[02:12:06] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/3984458 cant tap        [Team Blue / NoFail]
+[02:12:08] BCraftMG: ready up
+[02:12:15] BCraftMG: and what the hell
+[02:12:16] BanchoBot: All players are ready
+[02:12:20] Sakamuro: hello team
+[02:12:22] BCraftMG: !mp settings
+[02:12:23] BanchoBot: Room name: OFDC: (403 grams of anger) vs (the murder), History: https://osu.ppy.sh/mp/117560451
+[02:12:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/721158 Shimotsuki Haruka - Youka to Yumeutsutsu
+[02:12:23] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:12:23] BanchoBot: Active mods: Freemod
+[02:12:23] BanchoBot: Players: 6
+[02:12:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9634912 Sakamuro        [Team Red  / NoFail, HardRock]
+[02:12:23] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12704509 TOPXVLAD        [Team Red  / NoFail]
+[02:12:23] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/29878163 Gianni-Morandi  [Team Red  / NoFail]
+[02:12:23] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/24108659 BetterMeman     [Team Blue / NoFail]
+[02:12:23] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/10192636 Arion Ashira    [Team Blue / NoFail]
+[02:12:23] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/3984458 cant tap        [Team Blue / NoFail]
+[02:12:27] BCraftMG: !mp start 5 glhf!
+[02:12:28] BanchoBot: Match starts in 5 seconds
+[02:12:28] BanchoBot: Queued the match to start in 5 seconds
+[02:12:29] BanchoBot: Match starts in 4 seconds
+[02:12:31] BanchoBot: Match starts in 3 seconds
+[02:12:31] BCraftMG: no balls
+[02:12:32] BanchoBot: Good luck, have fun!
+[02:12:33] BanchoBot: The match has started!
+[02:17:49] BanchoBot: TOPXVLAD finished playing (Score: 426073, PASSED).
+[02:17:49] BanchoBot: cant tap finished playing (Score: 641648, PASSED).
+[02:17:49] BanchoBot: BetterMeman finished playing (Score: 650770, PASSED).
+[02:17:49] BanchoBot: Gianni-Morandi finished playing (Score: 473873, PASSED).
+[02:17:50] BanchoBot: Arion Ashira finished playing (Score: 472193, PASSED).
+[02:17:50] BanchoBot: Sakamuro finished playing (Score: 244227, PASSED).
+[02:17:50] BanchoBot: The match has finished!
+[02:17:54] BCraftMG: 403 grams of anger | 4 - 5 | the murder // the murder wins! GGWP
+[02:18:03] TOPXVLAD: gg
+[02:18:17] BanchoBot: TOPXVLAD left the game.
+[02:18:22] Arion_Ashira: ggwp
+[02:18:25] Sakamuro: gg
+[02:18:27] BetterMeman: ggs
+[02:18:29] BanchoBot: Erikillo joined in slot 2 for team red.
+[02:18:30] BetterMeman: thx for ref
+[02:18:31] BanchoBot: Gianni-Morandi left the game.
+[02:18:33] BetterMeman: thx for stream
+[02:18:34] Erikillo: well played
+[02:18:37] BanchoBot: BetterMeman left the game.
+[02:18:39] BanchoBot: Erikillo left the game.
+[02:18:43] BanchoBot: Sakamuro left the game.
+[02:19:29] BCraftMG: !mp close
+[02:19:30] BanchoBot: Closed the match

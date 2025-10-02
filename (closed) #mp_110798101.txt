@@ -1,0 +1,496 @@
+[23:04:15] Joined #mp_110798101
+[23:04:15] BCraftMG: !mp settings
+[23:04:16] BanchoBot: Room name: MEADC: (Qualifiers) vs (Lobby 13), History: https://osu.ppy.sh/mp/110798101
+[23:04:16] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[23:04:16] BanchoBot: Players: 0
+[23:04:34] BCraftMG: !mp set 0 3 8
+[23:04:34] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[23:04:55] BCraftMG: !mp invite [ R J M ]
+[23:04:55] BanchoBot: User not found
+[23:04:56] BCraftMG: !mp invite _sola
+[23:04:57] BanchoBot: Invited _sola to the room
+[23:04:58] BCraftMG: !mp invite Ereeeen
+[23:05:00] BanchoBot: Invited Ereeeen to the room
+[23:05:01] BCraftMG: !mp invite rimee
+[23:05:02] BanchoBot: Invited rimee to the room
+[23:05:03] BCraftMG: !mp invite EyesNeverOpen
+[23:05:04] BanchoBot: Invited EyesNeverOpen to the room
+[23:05:05] BCraftMG: !mp invite golem de caca
+[23:05:05] BanchoBot: Invited golem de caca to the room
+[23:05:09] BanchoBot: _sola joined in slot 1.
+[23:05:13] BanchoBot: golem de caca joined in slot 2.
+[23:05:17] golem_de_caca: hi
+[23:05:24] _sola: hello
+[23:05:40] BanchoBot: rimee joined in slot 3.
+[23:05:42] BanchoBot: Ereeeen joined in slot 4.
+[23:06:03] _sola: o//
+[23:06:11] Ereeeen: o/
+[23:06:12] rimee: o/
+[23:06:36] Ereeeen: just entered home after a heavy dinner
+[23:06:39] Ereeeen: aint warmed up at all lol
+[23:07:26] BanchoBot: EyesNeverOpen joined in slot 5.
+[23:07:38] EyesNeverOpen: do i still have to play the maps I already have a score on?
+[23:07:43] golem_de_caca: i need to go pee
+[23:07:48] BCraftMG: !mp invite [ R J M ]
+[23:07:50] BanchoBot: User not found
+[23:07:59] BCraftMG: oh what map do you start
+[23:08:08] EyesNeverOpen: hr1
+[23:08:10] Ereeeen: ez1
+[23:08:10] BCraftMG: after HD2
+[23:08:16] BCraftMG: ok you can leave then
+[23:08:23] BCraftMG: ill ping when hr1
+[23:08:28] BCraftMG: !mp map 2689519 0
+[23:08:28] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2689519 Hoshimachi Suisei & Amane Kanata - Tsukiakari
+[23:08:28] BanchoBot: Changed match mode to Osu
+[23:08:29] BCraftMG: !mp mods 1
+[23:08:29] BanchoBot: Enabled NoFail, disabled FreeMod
+[23:08:30] EyesNeverOpen: oki thank u
+[23:08:49] BanchoBot: EyesNeverOpen left the game.
+[23:09:20] BCraftMG: hmm
+[23:09:22] BCraftMG: we have 4
+[23:09:25] BCraftMG: RIM is offline atm
+[23:09:30] BCraftMG: !mp settings
+[23:09:30] BanchoBot: Room name: MEADC: (Qualifiers) vs (Lobby 13), History: https://osu.ppy.sh/mp/110798101
+[23:09:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/2689519 Hoshimachi Suisei & Amane Kanata - Tsukiakari
+[23:09:30] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:09:30] BanchoBot: Active mods: NoFail
+[23:09:30] BanchoBot: Players: 4
+[23:09:30] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19770259 _sola           
+[23:09:30] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/18323396 golem de caca   
+[23:09:30] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15418915 rimee           
+[23:09:30] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10677819 Ereeeen         
+[23:09:34] _sola: rip
+[23:09:37] golem_de_caca: ok i'm so back
+[23:09:42] BanchoBot: All players are ready
+[23:09:43] _sola: wb
+[23:09:49] BCraftMG: !mp settings
+[23:09:50] BanchoBot: Room name: MEADC: (Qualifiers) vs (Lobby 13), History: https://osu.ppy.sh/mp/110798101
+[23:09:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/2689519 Hoshimachi Suisei & Amane Kanata - Tsukiakari
+[23:09:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:09:50] BanchoBot: Active mods: NoFail
+[23:09:50] BanchoBot: Players: 4
+[23:09:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19770259 _sola           
+[23:09:50] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18323396 golem de caca   
+[23:09:50] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15418915 rimee           
+[23:09:50] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10677819 Ereeeen         
+[23:09:51] BCraftMG: !mp start 5 glhf
+[23:09:52] BanchoBot: Match starts in 5 seconds
+[23:09:52] BanchoBot: Queued the match to start in 5 seconds
+[23:09:53] BanchoBot: Match starts in 4 seconds
+[23:09:54] BanchoBot: Match starts in 3 seconds
+[23:09:55] BanchoBot: Good luck, have fun!
+[23:09:57] golem_de_caca: glhf
+[23:09:57] BanchoBot: The match has started!
+[23:13:59] BanchoBot: _sola finished playing (Score: 538444, PASSED).
+[23:13:59] BanchoBot: Ereeeen finished playing (Score: 371686, PASSED).
+[23:13:59] BanchoBot: golem de caca finished playing (Score: 794877, PASSED).
+[23:14:00] BanchoBot: rimee finished playing (Score: 293640, PASSED).
+[23:14:00] BanchoBot: The match has finished!
+[23:14:01] BCraftMG: !mp map 2636406 0
+[23:14:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2636406 Twilight Force - Valley of the Vale
+[23:14:02] BanchoBot: Changed match mode to Osu
+[23:14:04] BCraftMG: !mp timer 120
+[23:14:04] BanchoBot: Countdown ends in 2 minutes
+[23:14:09] BCraftMG: !mp addref SakuyaMyAngel
+[23:14:10] BanchoBot: User not found: SakuyaMyAngel
+[23:14:17] golem_de_caca: not bad for a sightread
+[23:14:18] BanchoBot: All players are ready
+[23:14:20] BCraftMG: !mp settings
+[23:14:22] golem_de_caca: glhf
+[23:14:22] BanchoBot: Room name: MEADC: (Qualifiers) vs (Lobby 13), History: https://osu.ppy.sh/mp/110798101
+[23:14:22] BanchoBot: Beatmap: https://osu.ppy.sh/b/2636406 Twilight Force - Valley of the Vale
+[23:14:22] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:14:22] BanchoBot: Active mods: NoFail
+[23:14:22] BanchoBot: Players: 4
+[23:14:22] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19770259 _sola           
+[23:14:22] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18323396 golem de caca   
+[23:14:22] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15418915 rimee           
+[23:14:22] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10677819 Ereeeen         
+[23:14:22] BCraftMG: !mp start 5 glhf
+[23:14:24] BanchoBot: Countdown aborted
+[23:14:24] BanchoBot: Match starts in 5 seconds
+[23:14:24] BanchoBot: Queued the match to start in 5 seconds
+[23:14:25] BanchoBot: Match starts in 4 seconds
+[23:14:26] BanchoBot: Match starts in 3 seconds
+[23:14:27] BanchoBot: Good luck, have fun!
+[23:14:29] BanchoBot: The match has started!
+[23:15:00] BCraftMG: !mp addref SakuyaMyAngel
+[23:15:01] BanchoBot: User not found: SakuyaMyAngel
+[23:18:11] BanchoBot: rimee finished playing (Score: 62368, PASSED).
+[23:18:11] BanchoBot: Ereeeen finished playing (Score: 111387, PASSED).
+[23:18:11] BanchoBot: _sola finished playing (Score: 70841, PASSED).
+[23:18:13] BanchoBot: golem de caca finished playing (Score: 632103, PASSED).
+[23:18:13] BanchoBot: The match has finished!
+[23:18:17] BCraftMG: !mp map 2430730 0
+[23:18:18] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2430730 Utsu-P feat. flower - Living ghost is alive
+[23:18:18] BanchoBot: Changed match mode to Osu
+[23:18:20] BCraftMG: !mp timer 120
+[23:18:21] BanchoBot: Countdown ends in 2 minutes
+[23:18:29] rimee: my game froze :(((
+[23:18:45] BanchoBot: All players are ready
+[23:18:47] BCraftMG: !mp settings
+[23:18:48] BanchoBot: Room name: MEADC: (Qualifiers) vs (Lobby 13), History: https://osu.ppy.sh/mp/110798101
+[23:18:48] BanchoBot: Beatmap: https://osu.ppy.sh/b/2430730 Utsu-P feat. flower - Living ghost is alive
+[23:18:48] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:18:48] BanchoBot: Active mods: NoFail
+[23:18:48] BanchoBot: Players: 4
+[23:18:48] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19770259 _sola           
+[23:18:48] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18323396 golem de caca   
+[23:18:48] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15418915 rimee           
+[23:18:48] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10677819 Ereeeen         
+[23:18:49] BCraftMG: !mp start 5 glhf
+[23:18:50] BanchoBot: Countdown aborted
+[23:18:50] BanchoBot: Match starts in 5 seconds
+[23:18:50] BanchoBot: Queued the match to start in 5 seconds
+[23:18:51] BanchoBot: Match starts in 4 seconds
+[23:18:52] BanchoBot: Match starts in 3 seconds
+[23:18:54] BanchoBot: Good luck, have fun!
+[23:18:55] BanchoBot: The match has started!
+[23:18:56] golem_de_caca: glhf
+[23:22:24] BanchoBot: golem de caca finished playing (Score: 430205, PASSED).
+[23:22:24] BanchoBot: rimee finished playing (Score: 96585, PASSED).
+[23:22:24] BanchoBot: Ereeeen finished playing (Score: 209233, PASSED).
+[23:22:25] BanchoBot: _sola finished playing (Score: 463894, PASSED).
+[23:22:25] BanchoBot: The match has finished!
+[23:22:28] BCraftMG: !mp map 3180421 0
+[23:22:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3180421 3R2 - Corruption
+[23:22:29] BanchoBot: Changed match mode to Osu
+[23:22:34] BCraftMG: !mp timer 120
+[23:22:35] BanchoBot: Countdown ends in 2 minutes
+[23:23:10] BanchoBot: All players are ready
+[23:23:13] BCraftMG: !mp settings
+[23:23:14] BanchoBot: Room name: MEADC: (Qualifiers) vs (Lobby 13), History: https://osu.ppy.sh/mp/110798101
+[23:23:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/3180421 3R2 - Corruption
+[23:23:14] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:23:14] BanchoBot: Active mods: NoFail
+[23:23:14] BanchoBot: Players: 4
+[23:23:14] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19770259 _sola           
+[23:23:14] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18323396 golem de caca   
+[23:23:14] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15418915 rimee           
+[23:23:14] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10677819 Ereeeen         
+[23:23:14] BCraftMG: !mp start 5 glhf
+[23:23:15] BanchoBot: Countdown aborted
+[23:23:15] BanchoBot: Match starts in 5 seconds
+[23:23:15] BanchoBot: Queued the match to start in 5 seconds
+[23:23:16] BanchoBot: Match starts in 4 seconds
+[23:23:17] BanchoBot: Match starts in 3 seconds
+[23:23:18] BanchoBot: Good luck, have fun!
+[23:23:20] BanchoBot: The match has started!
+[23:25:51] BanchoBot: golem de caca finished playing (Score: 261502, PASSED).
+[23:25:51] BanchoBot: Ereeeen finished playing (Score: 131434, PASSED).
+[23:25:52] BanchoBot: rimee finished playing (Score: 44937, PASSED).
+[23:25:52] BanchoBot: _sola finished playing (Score: 267255, PASSED).
+[23:25:52] BanchoBot: The match has finished!
+[23:25:55] BCraftMG: !mp map 3142574 0
+[23:25:55] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3142574 KikuoHana - Desert Theater
+[23:25:55] BanchoBot: Changed match mode to Osu
+[23:25:57] BCraftMG: !mp mods 9
+[23:25:58] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[23:26:01] BCraftMG: !mp timer 120
+[23:26:02] BanchoBot: Countdown ends in 2 minutes
+[23:26:26] BanchoBot: All players are ready
+[23:26:28] BCraftMG: !mp settings
+[23:26:29] BanchoBot: Room name: MEADC: (Qualifiers) vs (Lobby 13), History: https://osu.ppy.sh/mp/110798101
+[23:26:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/3142574 KikuoHana - Desert Theater
+[23:26:29] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:26:29] BanchoBot: Active mods: NoFail, Hidden
+[23:26:29] BanchoBot: Players: 4
+[23:26:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19770259 _sola           
+[23:26:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18323396 golem de caca   
+[23:26:29] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15418915 rimee           
+[23:26:29] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10677819 Ereeeen         
+[23:26:30] BCraftMG: !mp start 5 glhf
+[23:26:31] BanchoBot: Countdown aborted
+[23:26:31] BanchoBot: Match starts in 5 seconds
+[23:26:31] BanchoBot: Queued the match to start in 5 seconds
+[23:26:32] BanchoBot: Match starts in 4 seconds
+[23:26:33] BanchoBot: Match starts in 3 seconds
+[23:26:34] BanchoBot: Good luck, have fun!
+[23:26:36] BanchoBot: The match has started!
+[23:30:42] BanchoBot: golem de caca finished playing (Score: 254792, PASSED).
+[23:30:42] BanchoBot: rimee finished playing (Score: 57826, PASSED).
+[23:30:43] BanchoBot: Ereeeen finished playing (Score: 167839, PASSED).
+[23:30:43] BanchoBot: _sola finished playing (Score: 260574, PASSED).
+[23:30:43] BanchoBot: The match has finished!
+[23:30:48] BCraftMG: !mp map 3994999 0
+[23:30:49] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3994999 Aiko Kayo - Hitomi no Naka no Meikyuu
+[23:30:49] BanchoBot: Changed match mode to Osu
+[23:30:52] BCraftMG: !mp timer 120
+[23:30:53] BanchoBot: Countdown ends in 2 minutes
+[23:30:56] Ereeeen: man im so not warmed
+[23:31:01] golem_de_caca: why is hd2 so long :c
+[23:31:05] _sola: true
+[23:31:13] Ereeeen: i havent played thsi even once
+[23:31:16] golem_de_caca: same
+[23:31:16] Ereeeen: fk hd2
+[23:31:24] BanchoBot: All players are ready
+[23:31:25] golem_de_caca: fk hd
+[23:31:27] BCraftMG: !mp settings
+[23:31:27] BanchoBot: Room name: MEADC: (Qualifiers) vs (Lobby 13), History: https://osu.ppy.sh/mp/110798101
+[23:31:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/3994999 Aiko Kayo - Hitomi no Naka no Meikyuu
+[23:31:27] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:31:27] BanchoBot: Active mods: NoFail, Hidden
+[23:31:27] BanchoBot: Players: 4
+[23:31:27] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19770259 _sola           
+[23:31:27] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18323396 golem de caca   
+[23:31:27] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15418915 rimee           
+[23:31:27] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10677819 Ereeeen         
+[23:31:28] BCraftMG: !mp start 5 glhf
+[23:31:29] BanchoBot: Countdown aborted
+[23:31:29] BanchoBot: Match starts in 5 seconds
+[23:31:29] BanchoBot: Queued the match to start in 5 seconds
+[23:31:30] BanchoBot: Match starts in 4 seconds
+[23:31:32] Ereeeen: fr
+[23:31:32] BanchoBot: Match starts in 3 seconds
+[23:31:33] BanchoBot: Good luck, have fun!
+[23:31:35] BanchoBot: The match has started!
+[23:35:43] BanchoBot: golem de caca finished playing (Score: 80758, PASSED).
+[23:35:43] BanchoBot: _sola finished playing (Score: 80751, PASSED).
+[23:35:43] BanchoBot: Ereeeen finished playing (Score: 47712, PASSED).
+[23:35:43] BanchoBot: rimee finished playing (Score: 11156, PASSED).
+[23:35:43] BanchoBot: The match has finished!
+[23:35:47] BCraftMG: !mp map 3037872 0
+[23:35:48] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3037872 Dareharu - Flowering
+[23:35:48] BanchoBot: Changed match mode to Osu
+[23:35:53] BCraftMG: !mp mods 17
+[23:35:53] _sola: lmfao
+[23:35:53] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[23:35:56] _sola: 7 points difference
+[23:35:59] BCraftMG: !mp timer 120
+[23:36:01] BanchoBot: Countdown ends in 2 minutes
+[23:36:04] _sola: i chainmissed at the end :/
+[23:36:04] BCraftMG: still a difference
+[23:36:25] BanchoBot: All players are ready
+[23:36:27] BCraftMG: !mp settings
+[23:36:28] BanchoBot: Room name: MEADC: (Qualifiers) vs (Lobby 13), History: https://osu.ppy.sh/mp/110798101
+[23:36:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/3037872 Dareharu - Flowering
+[23:36:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:36:28] BanchoBot: Active mods: NoFail, HardRock
+[23:36:28] BanchoBot: Players: 4
+[23:36:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19770259 _sola           
+[23:36:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18323396 golem de caca   
+[23:36:28] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15418915 rimee           
+[23:36:28] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10677819 Ereeeen         
+[23:36:29] BCraftMG: !mp start 5 glhf
+[23:36:30] BanchoBot: Countdown aborted
+[23:36:30] BanchoBot: Match starts in 5 seconds
+[23:36:30] BanchoBot: Queued the match to start in 5 seconds
+[23:36:31] BanchoBot: Match starts in 4 seconds
+[23:36:32] BanchoBot: Match starts in 3 seconds
+[23:36:33] BanchoBot: Good luck, have fun!
+[23:36:35] BanchoBot: The match has started!
+[23:40:29] BanchoBot: rimee finished playing (Score: 23026, PASSED).
+[23:40:29] BanchoBot: golem de caca finished playing (Score: 353571, PASSED).
+[23:40:30] BanchoBot: _sola finished playing (Score: 187097, PASSED).
+[23:40:31] BanchoBot: Ereeeen finished playing (Score: 72325, PASSED).
+[23:40:31] BanchoBot: The match has finished!
+[23:40:32] BCraftMG: !mp map 2700999 0
+[23:40:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2700999 The Winking Owl - Let Go
+[23:40:33] BanchoBot: Changed match mode to Osu
+[23:40:43] Ereeeen: didnt we forget eyes
+[23:40:50] golem_de_caca: oh right
+[23:40:51] BanchoBot: EyesNeverOpen joined in slot 5.
+[23:40:51] BCraftMG: yes
+[23:40:53] golem_de_caca: lmao
+[23:41:07] BCraftMG: here we go
+[23:41:31] EyesNeverOpen: what kind of map
+[23:41:32] EyesNeverOpen: is this
+[23:41:37] _sola: no clue
+[23:41:40] Ereeeen: cs6.5
+[23:41:50] Ereeeen: simple rhtym
+[23:41:52] BanchoBot: All players are ready
+[23:41:54] BCraftMG: !mp settings
+[23:41:54] BanchoBot: Room name: MEADC: (Qualifiers) vs (Lobby 13), History: https://osu.ppy.sh/mp/110798101
+[23:41:54] BanchoBot: Beatmap: https://osu.ppy.sh/b/2700999 The Winking Owl - Let Go
+[23:41:54] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:41:54] BanchoBot: Active mods: NoFail, HardRock
+[23:41:54] BanchoBot: Players: 5
+[23:41:54] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19770259 _sola           
+[23:41:54] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18323396 golem de caca   
+[23:41:54] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15418915 rimee           
+[23:41:54] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10677819 Ereeeen         
+[23:41:54] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/10170668 EyesNeverOpen   
+[23:41:56] BCraftMG: !mp start 5 glhf
+[23:41:57] BanchoBot: Match starts in 5 seconds
+[23:41:57] BanchoBot: Queued the match to start in 5 seconds
+[23:41:58] BanchoBot: Match starts in 4 seconds
+[23:41:59] BCraftMG: doesnt sound simple
+[23:42:00] BanchoBot: Match starts in 3 seconds
+[23:42:01] BanchoBot: Good luck, have fun!
+[23:42:03] BanchoBot: The match has started!
+[23:42:04] EyesNeverOpen: glhf hfgl
+[23:45:54] BanchoBot: rimee finished playing (Score: 87471, PASSED).
+[23:45:54] BanchoBot: EyesNeverOpen finished playing (Score: 508255, PASSED).
+[23:45:55] BanchoBot: _sola finished playing (Score: 248809, PASSED).
+[23:45:55] BanchoBot: golem de caca finished playing (Score: 729112, PASSED).
+[23:45:56] BanchoBot: Ereeeen finished playing (Score: 248226, PASSED).
+[23:45:56] BanchoBot: The match has finished!
+[23:46:05] BCraftMG: !mp map 2225267 0
+[23:46:07] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2225267 EDOGA-SULLIVAN - WONDERFUL WONDER
+[23:46:07] BanchoBot: Changed match mode to Osu
+[23:46:08] BCraftMG: !mp mods 65
+[23:46:09] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[23:46:10] BCraftMG: !mp timer 120
+[23:46:11] BanchoBot: Countdown ends in 2 minutes
+[23:46:17] Ereeeen: i hate this map
+[23:47:00] BanchoBot: All players are ready
+[23:47:04] EyesNeverOpen: glhf hfgl
+[23:47:04] BCraftMG: !mp settings
+[23:47:05] BanchoBot: Room name: MEADC: (Qualifiers) vs (Lobby 13), History: https://osu.ppy.sh/mp/110798101
+[23:47:05] BanchoBot: Beatmap: https://osu.ppy.sh/b/2225267 EDOGA-SULLIVAN - WONDERFUL WONDER
+[23:47:05] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:47:05] BanchoBot: Active mods: NoFail, DoubleTime
+[23:47:05] BanchoBot: Players: 5
+[23:47:05] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19770259 _sola           
+[23:47:05] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18323396 golem de caca   
+[23:47:05] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15418915 rimee           
+[23:47:05] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10677819 Ereeeen         
+[23:47:05] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/10170668 EyesNeverOpen   
+[23:47:06] BCraftMG: !mp start 5 glhf
+[23:47:07] BanchoBot: Countdown aborted
+[23:47:07] BanchoBot: Match starts in 5 seconds
+[23:47:07] BanchoBot: Queued the match to start in 5 seconds
+[23:47:08] BanchoBot: Match starts in 4 seconds
+[23:47:09] Ereeeen: gl
+[23:47:09] BanchoBot: Match starts in 3 seconds
+[23:47:10] BanchoBot: Good luck, have fun!
+[23:47:12] BanchoBot: The match has started!
+[23:49:22] BanchoBot: _sola finished playing (Score: 259063, PASSED).
+[23:49:23] BanchoBot: Ereeeen finished playing (Score: 149989, PASSED).
+[23:49:23] BanchoBot: EyesNeverOpen finished playing (Score: 335709, PASSED).
+[23:49:23] BanchoBot: golem de caca finished playing (Score: 920626, PASSED).
+[23:49:24] BanchoBot: rimee finished playing (Score: 133653, PASSED).
+[23:49:24] BanchoBot: The match has finished!
+[23:49:31] BCraftMG: !mp map 3688128 0
+[23:49:32] golem_de_caca: goofy ahh ending
+[23:49:32] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3688128 ZUN - Extend Ash ~ Houraijin
+[23:49:32] BanchoBot: Changed match mode to Osu
+[23:49:41] EyesNeverOpen: totor wtf
+[23:49:49] golem_de_caca: i missread the intro
+[23:49:50] golem_de_caca: :c
+[23:49:57] EyesNeverOpen: i missread the everything
+[23:50:03] Ereeeen: i sliderbroke like 100 times
+[23:50:08] EyesNeverOpen: i love sightreading ar9+ dt
+[23:50:11] EyesNeverOpen: :oooooooooooooooooooh:
+[23:50:20] BanchoBot: All players are ready
+[23:50:21] BCraftMG: !mp settings
+[23:50:22] BanchoBot: Room name: MEADC: (Qualifiers) vs (Lobby 13), History: https://osu.ppy.sh/mp/110798101
+[23:50:22] BanchoBot: Beatmap: https://osu.ppy.sh/b/3688128 ZUN - Extend Ash ~ Houraijin
+[23:50:22] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:50:22] BanchoBot: Active mods: NoFail, DoubleTime
+[23:50:22] BanchoBot: Players: 5
+[23:50:22] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19770259 _sola           
+[23:50:22] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18323396 golem de caca   
+[23:50:22] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15418915 rimee           
+[23:50:22] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10677819 Ereeeen         
+[23:50:22] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/10170668 EyesNeverOpen   
+[23:50:23] BCraftMG: !mp start 5 glhf
+[23:50:24] BanchoBot: Match starts in 5 seconds
+[23:50:24] BanchoBot: Queued the match to start in 5 seconds
+[23:50:25] BanchoBot: Match starts in 4 seconds
+[23:50:26] BanchoBot: Match starts in 3 seconds
+[23:50:28] BanchoBot: Good luck, have fun!
+[23:50:29] Ereeeen: dddfdfdfdfdfdfdfd
+[23:50:30] BanchoBot: The match has started!
+[23:50:32] EyesNeverOpen: glhf hfgl
+[23:52:22] BanchoBot: Ereeeen finished playing (Score: 73279, PASSED).
+[23:52:22] BanchoBot: golem de caca finished playing (Score: 1048153, PASSED).
+[23:52:22] BanchoBot: rimee finished playing (Score: 146908, PASSED).
+[23:52:22] BanchoBot: _sola finished playing (Score: 502493, PASSED).
+[23:52:23] BanchoBot: EyesNeverOpen finished playing (Score: 615215, PASSED).
+[23:52:23] BanchoBot: The match has finished!
+[23:52:25] BCraftMG: !mp map 849438 0
+[23:52:26] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/849438 Rise Against - State of the Union
+[23:52:26] BanchoBot: Changed match mode to Osu
+[23:52:28] EyesNeverOpen: man.
+[23:52:32] BCraftMG: !mp mods 3
+[23:52:32] BanchoBot: Enabled NoFail, Easy, disabled FreeMod
+[23:52:37] _sola: i was about to leave
+[23:52:39] EyesNeverOpen: nice fc totor
+[23:52:44] Ereeeen: can i leave
+[23:52:44] golem_de_caca: thx
+[23:52:44] _sola: i forgot about this
+[23:52:50] rimee: wth theres ez
+[23:52:51] golem_de_caca: same lmao
+[23:53:12] EyesNeverOpen: is red #1 on thi9s
+[23:53:21] BanchoBot: All players are ready
+[23:53:22] BCraftMG: !mp settings
+[23:53:23] BanchoBot: Room name: MEADC: (Qualifiers) vs (Lobby 13), History: https://osu.ppy.sh/mp/110798101
+[23:53:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/849438 Rise Against - State of the Union
+[23:53:23] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:53:23] BanchoBot: Active mods: NoFail, Easy
+[23:53:23] BanchoBot: Players: 5
+[23:53:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19770259 _sola           
+[23:53:23] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18323396 golem de caca   
+[23:53:23] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15418915 rimee           
+[23:53:23] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10677819 Ereeeen         
+[23:53:23] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/10170668 EyesNeverOpen   
+[23:53:25] BCraftMG: !mp start 5 glhf
+[23:53:26] golem_de_caca: i will be
+[23:53:26] BanchoBot: Match starts in 5 seconds
+[23:53:26] BanchoBot: Queued the match to start in 5 seconds
+[23:53:27] EyesNeverOpen: glhf hfgl
+[23:53:27] BanchoBot: Match starts in 4 seconds
+[23:53:29] BanchoBot: Match starts in 3 seconds
+[23:53:29] golem_de_caca: #1
+[23:53:29] BanchoBot: Good luck, have fun!
+[23:53:31] BanchoBot: The match has started!
+[23:53:38] EyesNeverOpen: :fire:
+[23:56:00] BanchoBot: _sola finished playing (Score: 37090, PASSED).
+[23:56:00] BanchoBot: rimee finished playing (Score: 21132, PASSED).
+[23:56:00] BanchoBot: EyesNeverOpen finished playing (Score: 102678, PASSED).
+[23:56:01] BanchoBot: Ereeeen finished playing (Score: 15832, PASSED).
+[23:56:01] BanchoBot: golem de caca finished playing (Score: 50552, PASSED).
+[23:56:01] BanchoBot: The match has finished!
+[23:56:12] BCraftMG: !mp map 3037872 0
+[23:56:13] golem_de_caca: so fun
+[23:56:13] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3037872 Dareharu - Flowering
+[23:56:13] BanchoBot: Changed match mode to Osu
+[23:56:14] _sola: ggwp
+[23:56:14] EyesNeverOpen: im doomed
+[23:56:15] BCraftMG: yall can leave
+[23:56:17] BCraftMG: !mp mods 17
+[23:56:17] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[23:56:21] BanchoBot: golem de caca left the game.
+[23:56:22] _sola: ty for ref
+[23:56:24] BanchoBot: _sola left the game.
+[23:56:29] rimee: thx ref
+[23:56:31] rimee: pce
+[23:56:32] BanchoBot: rimee left the game.
+[23:56:35] BanchoBot: Ereeeen left the game.
+[23:56:45] BCraftMG: damn
+[23:56:47] EyesNeverOpen: this is alt right
+[23:56:49] BCraftMG: ez then hr right after
+[23:56:51] BanchoBot: EyesNeverOpen moved to slot 1
+[23:57:00] BCraftMG: good question
+[23:57:00] BCraftMG: idk
+[23:57:07] BanchoBot: All players are ready
+[23:57:08] BCraftMG: !mp settings
+[23:57:09] BanchoBot: Room name: MEADC: (Qualifiers) vs (Lobby 13), History: https://osu.ppy.sh/mp/110798101
+[23:57:09] BanchoBot: Beatmap: https://osu.ppy.sh/b/3037872 Dareharu - Flowering
+[23:57:09] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:57:09] BanchoBot: Active mods: NoFail, HardRock
+[23:57:09] BanchoBot: Players: 1
+[23:57:09] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10170668 EyesNeverOpen   
+[23:57:10] BCraftMG: !mp start 5 glhf
+[23:57:11] BanchoBot: Match starts in 5 seconds
+[23:57:11] BanchoBot: Queued the match to start in 5 seconds
+[23:57:12] BanchoBot: Match starts in 4 seconds
+[23:57:13] BanchoBot: Match starts in 3 seconds
+[23:57:14] EyesNeverOpen: yeah i think this is alt
+[23:57:14] BanchoBot: Good luck, have fun!
+[23:57:16] BanchoBot: The match has started!
+[23:57:21] EyesNeverOpen: ty for the good luck
+[23:57:22] EyesNeverOpen: :D
+[00:01:09] BanchoBot: EyesNeverOpen finished playing (Score: 208112, PASSED).
+[00:01:09] BanchoBot: The match has finished!
+[00:01:16] BCraftMG: ggwp :D
+[00:01:21] EyesNeverOpen: im not getting top 16
+[00:01:22] EyesNeverOpen: ggwp
+[00:01:24] EyesNeverOpen: ty for ref
+[00:01:26] EyesNeverOpen: and lobby
+[00:01:30] EyesNeverOpen: and uh
+[00:01:30] EyesNeverOpen: meow
+[00:01:30] BanchoBot: EyesNeverOpen left the game.
+[00:01:34] BCraftMG: !mp close
+[00:01:34] BanchoBot: Closed the match

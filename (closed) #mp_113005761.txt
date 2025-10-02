@@ -1,0 +1,669 @@
+[00:53:23] Joined #mp_113005761
+[00:53:23] BCraftMG: !mp settings
+[00:53:24] BanchoBot: Room name: 5WC2024: Portugal Qualifiers, History: https://osu.ppy.sh/mp/113005761
+[00:53:24] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[00:53:24] BanchoBot: Players: 0
+[00:54:20] BCraftMG: !mp set 0 3 8
+[00:54:22] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[00:54:31] BCraftMG: !mp mods 1
+[00:54:32] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:54:33] BCraftMG: !mp map 3895683
+[00:54:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3895683 rN - Harumachi Elevator
+[00:54:39] BCraftMG: !mp invite #14223852
+[00:54:40] BanchoBot: Invited iceGOD to the room
+[00:58:48] BanchoBot: iceGOD joined in slot 1.
+[00:58:54] BCraftMG: o/
+[00:58:57] BCraftMG: please invite your team
+[00:59:12] BanchoBot: ReDLinE- joined in slot 2.
+[00:59:19] BanchoBot: ILLKID13 joined in slot 3.
+[00:59:24] BanchoBot: MakiDonalds Jr joined in slot 4.
+[00:59:24] BCraftMG: !mp map 4174036
+[00:59:25] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4174036 Bring Me The Horizon - Kingslayer (feat. BABYMETAL)
+[00:59:27] BanchoBot: J P joined in slot 5.
+[00:59:31] BanchoBot: MakiDonalds Jr left the game.
+[00:59:34] BanchoBot: _Foxy joined in slot 4.
+[00:59:39] BanchoBot: _Foxy left the game.
+[00:59:42] BanchoBot: J P moved to slot 4
+[01:00:09] ReDLinE-: yo
+[01:00:26] BanchoBot: Astravan joined in slot 5.
+[01:00:36] BanchoBot: ReDLinE- left the game.
+[01:00:41] BanchoBot: Astravan moved to slot 2
+[01:01:04] BCraftMG: ready?
+[01:01:46] Astravan: !roll 1000
+[01:01:46] BanchoBot: Astravan rolls 449 point(s)
+[01:01:48] J_P: zzzz
+[01:01:49] BanchoBot: All players are ready
+[01:01:52] ILLKID13: !roll 1000
+[01:01:52] BanchoBot: ILLKID13 rolls 641 point(s)
+[01:01:52] iceGOD: golf
+[01:01:54] J_P: !roll 1000
+[01:01:54] BanchoBot: J P rolls 743 point(s)
+[01:01:55] BCraftMG: !mp settings
+[01:01:57] BanchoBot: Room name: 5WC2024: Portugal Qualifiers, History: https://osu.ppy.sh/mp/113005761
+[01:01:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/4174036 Bring Me The Horizon - Kingslayer (feat. BABYMETAL)
+[01:01:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:01:57] BanchoBot: Active mods: NoFail
+[01:01:57] BanchoBot: Players: 4
+[01:01:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14223852 iceGOD          
+[01:01:57] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10907826 Astravan        
+[01:01:57] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15670735 ILLKID13        
+[01:01:57] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10040931 J P             
+[01:01:58] BCraftMG: !mp start 5 glhf
+[01:01:58] ILLKID13: golfinho
+[01:01:58] Astravan: glock
+[01:01:58] BanchoBot: Match starts in 5 seconds
+[01:01:58] BanchoBot: Queued the match to start in 5 seconds
+[01:02:00] J_P: golf
+[01:02:00] BanchoBot: Match starts in 4 seconds
+[01:02:01] BanchoBot: Match starts in 3 seconds
+[01:02:01] BanchoBot: Good luck, have fun!
+[01:02:04] BanchoBot: The match has started!
+[01:05:51] BanchoBot: ILLKID13 finished playing (Score: 360860, PASSED).
+[01:05:51] BanchoBot: J P finished playing (Score: 443539, PASSED).
+[01:05:51] BanchoBot: iceGOD finished playing (Score: 405084, PASSED).
+[01:05:51] BanchoBot: Astravan finished playing (Score: 659552, PASSED).
+[01:05:51] BanchoBot: The match has finished!
+[01:06:11] BanchoBot: Astravan left the game.
+[01:06:12] BCraftMG: !mp map 4178416
+[01:06:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4178416 Kushper - Versailles
+[01:06:14] BanchoBot: J P left the game.
+[01:06:15] BanchoBot: ReDLinE- joined in slot 2.
+[01:06:16] BCraftMG: !mp timer 120
+[01:06:17] BanchoBot: MakiDonalds Jr joined in slot 4.
+[01:06:17] BanchoBot: Countdown ends in 2 minutes
+[01:06:24] BanchoBot: MakiDonalds Jr left the game.
+[01:06:33] BanchoBot: MakiDonalds Jr joined in slot 4.
+[01:06:53] MakiDonalds_Jr: glgl
+[01:06:57] ILLKID13: glhf
+[01:06:59] MakiDonalds_Jr: ah ele ja vem
+[01:07:00] ReDLinE-: golf
+[01:07:18] BanchoBot: Countdown ends in 1 minute
+[01:07:36] BanchoBot: All players are ready
+[01:07:44] BCraftMG: !mp settings
+[01:07:45] BanchoBot: Room name: 5WC2024: Portugal Qualifiers, History: https://osu.ppy.sh/mp/113005761
+[01:07:45] BanchoBot: Beatmap: https://osu.ppy.sh/b/4178416 Kushper - Versailles
+[01:07:45] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:07:45] BanchoBot: Active mods: NoFail
+[01:07:45] BanchoBot: Players: 4
+[01:07:45] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14223852 iceGOD          
+[01:07:45] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15839660 ReDLinE-        
+[01:07:45] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15670735 ILLKID13        
+[01:07:45] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16577798 MakiDonalds Jr  
+[01:07:46] BCraftMG: !mp start 5 glhf
+[01:07:46] BanchoBot: Countdown aborted
+[01:07:46] BanchoBot: Match starts in 5 seconds
+[01:07:46] BanchoBot: Queued the match to start in 5 seconds
+[01:07:48] BanchoBot: Match starts in 4 seconds
+[01:07:49] BanchoBot: Match starts in 3 seconds
+[01:07:51] BanchoBot: Good luck, have fun!
+[01:07:52] BanchoBot: The match has started!
+[01:07:54] ReDLinE-: golf
+[01:11:35] BanchoBot: ReDLinE- finished playing (Score: 325791, PASSED).
+[01:11:35] BanchoBot: iceGOD finished playing (Score: 325042, PASSED).
+[01:11:35] BanchoBot: ILLKID13 finished playing (Score: 348753, PASSED).
+[01:11:35] BanchoBot: MakiDonalds Jr finished playing (Score: 287502, PASSED).
+[01:11:35] BanchoBot: The match has finished!
+[01:11:42] BCraftMG: !mp map 4191546
+[01:11:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4191546 Adust Rain - psychology
+[01:11:43] BCraftMG: !mp timer 120
+[01:11:45] BanchoBot: Countdown ends in 2 minutes
+[01:11:52] BanchoBot: ILLKID13 left the game.
+[01:11:52] BanchoBot: ReDLinE- left the game.
+[01:11:56] BanchoBot: J P joined in slot 2.
+[01:11:58] BanchoBot: MakiDonalds Jr moved to slot 3
+[01:12:41] BanchoBot: Astravan joined in slot 4.
+[01:12:46] BanchoBot: Countdown ends in 1 minute
+[01:13:13] MakiDonalds_Jr: <we did not cook
+[01:13:14] BanchoBot: All players are ready
+[01:13:16] BanchoBot: Countdown ends in 30 seconds
+[01:13:19] BCraftMG: !mp settings
+[01:13:20] Astravan: estou aqui contra a minha propria vontade
+[01:13:20] BanchoBot: Room name: 5WC2024: Portugal Qualifiers, History: https://osu.ppy.sh/mp/113005761
+[01:13:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/4191546 Adust Rain - psychology
+[01:13:20] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:13:20] BanchoBot: Active mods: NoFail
+[01:13:20] BanchoBot: Players: 4
+[01:13:20] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14223852 iceGOD          
+[01:13:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10040931 J P             
+[01:13:20] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16577798 MakiDonalds Jr  
+[01:13:20] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10907826 Astravan        
+[01:13:21] BCraftMG: !mp start 5 glhf
+[01:13:21] BanchoBot: Countdown aborted
+[01:13:21] BanchoBot: Match starts in 5 seconds
+[01:13:21] BanchoBot: Queued the match to start in 5 seconds
+[01:13:23] BanchoBot: Match starts in 4 seconds
+[01:13:24] BanchoBot: Match starts in 3 seconds
+[01:13:26] BanchoBot: Good luck, have fun!
+[01:13:26] J_P: gold
+[01:13:27] BanchoBot: The match has started!
+[01:17:06] BanchoBot: MakiDonalds Jr finished playing (Score: 243245, PASSED).
+[01:17:08] BanchoBot: iceGOD finished playing (Score: 219215, PASSED).
+[01:17:08] BanchoBot: J P finished playing (Score: 218920, PASSED).
+[01:17:08] BanchoBot: Astravan finished playing (Score: 127964, PASSED).
+[01:17:08] BanchoBot: The match has finished!
+[01:17:17] BCraftMG: !mp map 3141740
+[01:17:18] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3141740 Agressor Bunx - Acid Mirage (Tourney Cut)
+[01:17:19] BCraftMG: !mp timer 120
+[01:17:21] BanchoBot: Countdown ends in 2 minutes
+[01:17:27] BanchoBot: ILLKID13 joined in slot 5.
+[01:17:33] BanchoBot: J P left the game.
+[01:17:34] BanchoBot: ILLKID13 moved to slot 2
+[01:18:20] BanchoBot: All players are ready
+[01:18:22] BanchoBot: Countdown ends in 1 minute
+[01:18:25] BCraftMG: !mp settings
+[01:18:25] BanchoBot: Room name: 5WC2024: Portugal Qualifiers, History: https://osu.ppy.sh/mp/113005761
+[01:18:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/3141740 Agressor Bunx - Acid Mirage (Tourney Cut)
+[01:18:25] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:18:25] BanchoBot: Active mods: NoFail
+[01:18:25] BanchoBot: Players: 4
+[01:18:25] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14223852 iceGOD          
+[01:18:25] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15670735 ILLKID13        
+[01:18:25] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16577798 MakiDonalds Jr  
+[01:18:25] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10907826 Astravan        
+[01:18:28] BCraftMG: !mp start 5 glhf
+[01:18:29] BanchoBot: Countdown aborted
+[01:18:29] BanchoBot: Match starts in 5 seconds
+[01:18:29] BanchoBot: Queued the match to start in 5 seconds
+[01:18:31] BanchoBot: Match starts in 4 seconds
+[01:18:32] BanchoBot: Match starts in 3 seconds
+[01:18:34] BanchoBot: Good luck, have fun!
+[01:18:35] BanchoBot: The match has started!
+[01:20:57] BanchoBot: MakiDonalds Jr finished playing (Score: 463602, PASSED).
+[01:20:57] BanchoBot: iceGOD finished playing (Score: 241333, PASSED).
+[01:20:57] BanchoBot: ILLKID13 finished playing (Score: 246538, PASSED).
+[01:20:59] BanchoBot: Astravan finished playing (Score: 282640, PASSED).
+[01:20:59] BanchoBot: The match has finished!
+[01:21:03] BCraftMG: !mp map 4519090
+[01:21:05] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4519090 Mitsukai Dokuro (CV:Chiba Saeko) - Bokusatsu Tenshi Dokuro-chan
+[01:21:05] BCraftMG: !mp timer 120
+[01:21:06] BanchoBot: Countdown ends in 2 minutes
+[01:21:09] BanchoBot: Astravan left the game.
+[01:21:15] BanchoBot: ILLKID13 left the game.
+[01:21:17] BanchoBot: iceGOD left the game.
+[01:21:24] BanchoBot: ReDLinE- joined in slot 1.
+[01:21:29] BanchoBot: _Foxy joined in slot 2.
+[01:21:30] BanchoBot: held joined in slot 4.
+[01:21:57] BanchoBot: MakiDonalds Jr left the game.
+[01:22:08] BanchoBot: Countdown ends in 1 minute
+[01:22:33] BanchoBot: MakiDonalds Jr joined in slot 3.
+[01:22:36] BanchoBot: All players are ready
+[01:22:37] BanchoBot: Countdown ends in 30 seconds
+[01:22:38] BCraftMG: !mp settings
+[01:22:39] BanchoBot: Room name: 5WC2024: Portugal Qualifiers, History: https://osu.ppy.sh/mp/113005761
+[01:22:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/4519090 Mitsukai Dokuro (CV:Chiba Saeko) - Bokusatsu Tenshi Dokuro-chan
+[01:22:39] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:22:39] BanchoBot: Active mods: NoFail
+[01:22:39] BanchoBot: Players: 4
+[01:22:39] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15839660 ReDLinE-        
+[01:22:39] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7652852 _Foxy           
+[01:22:39] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16577798 MakiDonalds Jr  
+[01:22:39] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13140949 held            
+[01:22:41] BCraftMG: !mp start 5 glhf
+[01:22:42] BanchoBot: Countdown aborted
+[01:22:42] BanchoBot: Match starts in 5 seconds
+[01:22:42] BanchoBot: Queued the match to start in 5 seconds
+[01:22:43] _Foxy: glglgl
+[01:22:43] BanchoBot: Match starts in 4 seconds
+[01:22:45] BanchoBot: Match starts in 3 seconds
+[01:22:45] BanchoBot: Good luck, have fun!
+[01:22:48] BanchoBot: The match has started!
+[01:22:48] ReDLinE-: golf
+[01:23:07] MakiDonalds_Jr: aborst
+[01:23:09] MakiDonalds_Jr: pls
+[01:23:16] MakiDonalds_Jr: @ref
+[01:23:36] MakiDonalds_Jr: BCraftMG
+[01:24:04] BanchoBot: MakiDonalds Jr left the game.
+[01:24:22] BanchoBot: MakiDonalds Jr joined in slot 3.
+[01:24:24] BanchoBot: ReDLinE- finished playing (Score: 204001, PASSED).
+[01:24:25] BanchoBot: _Foxy finished playing (Score: 234942, PASSED).
+[01:24:25] BanchoBot: held finished playing (Score: 83512, PASSED).
+[01:24:25] BanchoBot: The match has finished!
+[01:24:25] MakiDonalds_Jr: bro abort
+[01:24:37] MakiDonalds_Jr: alo??
+[01:24:38] BCraftMG: is it only you
+[01:24:41] BCraftMG: that have problem
+[01:24:44] BCraftMG: or all 4
+[01:24:55] MakiDonalds_Jr: my game crashed the first 10 econds
+[01:25:02] BCraftMG: then you will replay the map later
+[01:25:05] BanchoBot: iceGOD joined in slot 5.
+[01:25:20] BCraftMG: !mp map 2603674
+[01:25:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2603674 Jun.A - The Fairy's Adventurous Tale
+[01:25:22] BCraftMG: !mp mods 9
+[01:25:22] MakiDonalds_Jr: can i play it now?
+[01:25:22] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[01:25:25] BanchoBot: held left the game.
+[01:25:27] BanchoBot: ReDLinE- left the game.
+[01:25:30] BanchoBot: _Foxy left the game.
+[01:25:31] BCraftMG: nop
+[01:25:33] BanchoBot: iceGOD moved to slot 4
+[01:25:34] BCraftMG: after dt3
+[01:25:36] BanchoBot: Astravan joined in slot 1.
+[01:25:42] MakiDonalds_Jr: okok
+[01:25:43] BanchoBot: J P joined in slot 2.
+[01:26:33] Astravan: icegod
+[01:27:01] BanchoBot: All players are ready
+[01:27:03] BCraftMG: !mp settings
+[01:27:04] J_P: gl
+[01:27:04] BanchoBot: Room name: 5WC2024: Portugal Qualifiers, History: https://osu.ppy.sh/mp/113005761
+[01:27:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/2603674 Jun.A - The Fairy's Adventurous Tale
+[01:27:04] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:27:04] BanchoBot: Active mods: NoFail, Hidden
+[01:27:04] BanchoBot: Players: 4
+[01:27:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10907826 Astravan        
+[01:27:04] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10040931 J P             
+[01:27:04] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16577798 MakiDonalds Jr  
+[01:27:04] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14223852 iceGOD          
+[01:27:07] BCraftMG: !mp start 5 glhf
+[01:27:07] MakiDonalds_Jr: glgl
+[01:27:07] BanchoBot: Match starts in 5 seconds
+[01:27:07] BanchoBot: Queued the match to start in 5 seconds
+[01:27:09] BanchoBot: Match starts in 4 seconds
+[01:27:10] BanchoBot: Match starts in 3 seconds
+[01:27:12] BanchoBot: Good luck, have fun!
+[01:27:13] BanchoBot: The match has started!
+[01:29:35] BanchoBot: J P finished playing (Score: 457413, PASSED).
+[01:29:35] BanchoBot: Astravan finished playing (Score: 370575, PASSED).
+[01:29:35] BanchoBot: iceGOD finished playing (Score: 346877, PASSED).
+[01:29:35] BanchoBot: MakiDonalds Jr finished playing (Score: 464974, PASSED).
+[01:29:35] BanchoBot: The match has finished!
+[01:29:50] BCraftMG: !mp map 3800124
+[01:29:52] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3800124 earthmind - ARCADIA
+[01:29:53] BanchoBot: _Foxy joined in slot 5.
+[01:29:55] BanchoBot: ReDLinE- joined in slot 6.
+[01:29:55] BanchoBot: J P left the game.
+[01:29:55] BCraftMG: !mp timer 120
+[01:29:56] BanchoBot: Countdown ends in 2 minutes
+[01:29:59] BanchoBot: Astravan left the game.
+[01:30:01] BanchoBot: ReDLinE- moved to slot 1
+[01:30:01] BanchoBot: iceGOD left the game.
+[01:30:10] BanchoBot: held joined in slot 2.
+[01:30:11] BanchoBot: _Foxy moved to slot 4
+[01:30:14] BanchoBot: MakiDonalds Jr left the game.
+[01:30:50] BanchoBot: MakiDonalds Jr joined in slot 3.
+[01:30:56] BanchoBot: Countdown ends in 1 minute
+[01:31:11] BanchoBot: All players are ready
+[01:31:14] _Foxy: glglgl
+[01:31:22] BCraftMG: !mp settings
+[01:31:23] BanchoBot: Room name: 5WC2024: Portugal Qualifiers, History: https://osu.ppy.sh/mp/113005761
+[01:31:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/3800124 earthmind - ARCADIA
+[01:31:23] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:31:23] BanchoBot: Active mods: NoFail, Hidden
+[01:31:23] BanchoBot: Players: 4
+[01:31:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15839660 ReDLinE-        
+[01:31:23] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13140949 held            
+[01:31:23] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16577798 MakiDonalds Jr  
+[01:31:23] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7652852 _Foxy           
+[01:31:24] BCraftMG: !mp start 5 glhf
+[01:31:25] BanchoBot: Countdown aborted
+[01:31:25] BanchoBot: Match starts in 5 seconds
+[01:31:25] BanchoBot: Queued the match to start in 5 seconds
+[01:31:26] BanchoBot: Match starts in 4 seconds
+[01:31:28] ReDLinE-: glgl
+[01:31:28] BanchoBot: Match starts in 3 seconds
+[01:31:29] BanchoBot: Good luck, have fun!
+[01:31:31] BanchoBot: The match has started!
+[01:31:31] MakiDonalds_Jr: z<z<z<<z<z<
+[01:35:39] BanchoBot: ReDLinE- finished playing (Score: 254955, PASSED).
+[01:35:39] BanchoBot: MakiDonalds Jr finished playing (Score: 283649, PASSED).
+[01:35:41] BanchoBot: _Foxy finished playing (Score: 235629, PASSED).
+[01:35:41] BanchoBot: held finished playing (Score: 325283, PASSED).
+[01:35:41] BanchoBot: The match has finished!
+[01:35:46] BCraftMG: !mp map 2754917
+[01:35:47] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2754917 ARM (IOSYS) + Brasscapsule - Jazz is Rad
+[01:35:48] BCraftMG: !mp timer 120
+[01:35:50] BanchoBot: Countdown ends in 2 minutes
+[01:35:54] BanchoBot: _Foxy left the game.
+[01:35:55] BanchoBot: ReDLinE- left the game.
+[01:36:00] BanchoBot: iceGOD joined in slot 1.
+[01:36:03] BanchoBot: J P joined in slot 4.
+[01:36:04] BanchoBot: held left the game.
+[01:36:36] BanchoBot: held joined in slot 2.
+[01:36:51] BanchoBot: Countdown ends in 1 minute
+[01:37:21] BanchoBot: Countdown ends in 30 seconds
+[01:37:40] BanchoBot: Countdown ends in 10 seconds
+[01:37:46] BanchoBot: Countdown ends in 5 seconds
+[01:37:46] BanchoBot: Countdown ends in 4 seconds
+[01:37:48] BanchoBot: Countdown ends in 3 seconds
+[01:37:49] BanchoBot: Countdown ends in 2 seconds
+[01:37:49] BanchoBot: Countdown ends in 1 second
+[01:37:50] BanchoBot: All players are ready
+[01:37:50] BanchoBot: Countdown finished
+[01:37:55] BCraftMG: !mp settings
+[01:37:57] J_P: mb
+[01:37:57] BanchoBot: Room name: 5WC2024: Portugal Qualifiers, History: https://osu.ppy.sh/mp/113005761
+[01:37:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/2754917 ARM (IOSYS) + Brasscapsule - Jazz is Rad
+[01:37:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:37:57] BanchoBot: Active mods: NoFail, Hidden
+[01:37:57] BanchoBot: Players: 4
+[01:37:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14223852 iceGOD          
+[01:37:57] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13140949 held            
+[01:37:57] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16577798 MakiDonalds Jr  
+[01:37:57] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10040931 J P             
+[01:37:59] BCraftMG: !mp start 5 glhf
+[01:38:01] BanchoBot: Match starts in 5 seconds
+[01:38:01] BanchoBot: Queued the match to start in 5 seconds
+[01:38:02] BanchoBot: Match starts in 4 seconds
+[01:38:04] BanchoBot: Match starts in 3 seconds
+[01:38:05] BanchoBot: Good luck, have fun!
+[01:38:05] J_P: gl
+[01:38:07] BanchoBot: The match has started!
+[01:40:10] BanchoBot: iceGOD finished playing (Score: 106402, PASSED).
+[01:40:10] BanchoBot: J P finished playing (Score: 126741, PASSED).
+[01:40:12] BanchoBot: MakiDonalds Jr finished playing (Score: 192256, PASSED).
+[01:40:12] BanchoBot: held finished playing (Score: 286950, PASSED).
+[01:40:12] BanchoBot: The match has finished!
+[01:40:16] BanchoBot: ReDLinE- joined in slot 5.
+[01:40:21] BCraftMG: !mp map 1694583
+[01:40:22] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1694583 Camellia feat. Nanahira - Bassdrop Freaks (2018 "Redrop" ver.)
+[01:40:26] BCraftMG: !mp mods 17
+[01:40:27] BanchoBot: J P left the game.
+[01:40:27] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[01:40:29] BCraftMG: !mp timer 120
+[01:40:30] BanchoBot: Countdown ends in 2 minutes
+[01:40:33] BanchoBot: ReDLinE- moved to slot 4
+[01:40:36] BanchoBot: held left the game.
+[01:40:54] BanchoBot: Astravan joined in slot 2.
+[01:41:13] BanchoBot: All players are ready
+[01:41:15] Astravan: death threads.
+[01:41:15] BCraftMG: !mp settings
+[01:41:16] BanchoBot: Room name: 5WC2024: Portugal Qualifiers, History: https://osu.ppy.sh/mp/113005761
+[01:41:16] BanchoBot: Beatmap: https://osu.ppy.sh/b/1694583 Camellia feat. Nanahira - Bassdrop Freaks (2018 "Redrop" ver.)
+[01:41:16] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:41:16] BanchoBot: Active mods: NoFail, HardRock
+[01:41:16] BanchoBot: Players: 4
+[01:41:16] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14223852 iceGOD          
+[01:41:16] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10907826 Astravan        
+[01:41:16] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16577798 MakiDonalds Jr  
+[01:41:16] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15839660 ReDLinE-        
+[01:41:17] BCraftMG: !mp start 5 glhf
+[01:41:18] BanchoBot: Countdown aborted
+[01:41:18] BanchoBot: Match starts in 5 seconds
+[01:41:18] BanchoBot: Queued the match to start in 5 seconds
+[01:41:19] BanchoBot: Match starts in 4 seconds
+[01:41:21] BanchoBot: Match starts in 3 seconds
+[01:41:22] BanchoBot: Good luck, have fun!
+[01:41:24] BanchoBot: The match has started!
+[01:42:05] BCraftMG: !mp map 3754547
+[01:42:05] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3754547 School Food Punishment - fiction nonfiction
+[01:46:02] BanchoBot: ReDLinE- finished playing (Score: 350704, PASSED).
+[01:46:02] BanchoBot: iceGOD finished playing (Score: 355708, PASSED).
+[01:46:03] BanchoBot: Astravan finished playing (Score: 451601, PASSED).
+[01:46:03] BanchoBot: MakiDonalds Jr finished playing (Score: 242414, PASSED).
+[01:46:03] BanchoBot: The match has finished!
+[01:46:08] BCraftMG: !mp map 3754547
+[01:46:09] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3754547 School Food Punishment - fiction nonfiction
+[01:46:10] BCraftMG: !mp timer 120
+[01:46:10] BanchoBot: Countdown ends in 2 minutes
+[01:46:11] BCraftMG: !mp settings
+[01:46:12] BanchoBot: Room name: 5WC2024: Portugal Qualifiers, History: https://osu.ppy.sh/mp/113005761
+[01:46:12] BanchoBot: Beatmap: https://osu.ppy.sh/b/3754547 School Food Punishment - fiction nonfiction
+[01:46:12] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:46:12] BanchoBot: Active mods: NoFail, HardRock
+[01:46:12] BanchoBot: Players: 4
+[01:46:12] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/14223852 iceGOD          
+[01:46:12] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/10907826 Astravan        
+[01:46:12] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/16577798 MakiDonalds Jr  
+[01:46:12] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/15839660 ReDLinE-        
+[01:46:24] BanchoBot: Astravan left the game.
+[01:46:25] BanchoBot: J P joined in slot 2.
+[01:46:30] BanchoBot: ReDLinE- left the game.
+[01:46:42] BanchoBot: _Foxy joined in slot 4.
+[01:46:58] BanchoBot: Astravan joined in slot 5.
+[01:47:12] BanchoBot: Countdown ends in 1 minute
+[01:47:21] BanchoBot: MakiDonalds Jr left the game.
+[01:47:27] BanchoBot: Astravan moved to slot 3
+[01:47:31] Astravan: !roll 1000
+[01:47:31] BanchoBot: Astravan rolls 127 point(s)
+[01:47:36] Astravan: almost
+[01:47:42] BanchoBot: Countdown ends in 30 seconds
+[01:47:49] _Foxy: !rol 1100000
+[01:47:55] BanchoBot: All players are ready
+[01:47:58] _Foxy: rol moment
+[01:48:01] BanchoBot: Countdown ends in 10 seconds
+[01:48:02] _Foxy: !roll 11000000
+[01:48:02] BanchoBot: _Foxy rolls 3317699 point(s)
+[01:48:05] BanchoBot: Countdown ends in 5 seconds
+[01:48:07] BanchoBot: Countdown ends in 4 seconds
+[01:48:08] BanchoBot: Countdown ends in 3 seconds
+[01:48:08] J_P: !roll 1
+[01:48:08] BanchoBot: J P rolls 1 point(s)
+[01:48:08] BanchoBot: Countdown ends in 2 seconds
+[01:48:10] BanchoBot: Countdown ends in 1 second
+[01:48:11] BanchoBot: Countdown finished
+[01:48:13] Astravan: glock
+[01:48:13] BCraftMG: !mp settings
+[01:48:15] BanchoBot: Room name: 5WC2024: Portugal Qualifiers, History: https://osu.ppy.sh/mp/113005761
+[01:48:15] BanchoBot: Beatmap: https://osu.ppy.sh/b/3754547 School Food Punishment - fiction nonfiction
+[01:48:15] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:48:15] BanchoBot: Active mods: NoFail, HardRock
+[01:48:15] BanchoBot: Players: 4
+[01:48:15] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14223852 iceGOD          
+[01:48:15] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10040931 J P             
+[01:48:15] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10907826 Astravan        
+[01:48:15] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7652852 _Foxy           
+[01:48:16] BCraftMG: !mp start 5 glhf
+[01:48:17] BanchoBot: Match starts in 5 seconds
+[01:48:17] BanchoBot: Queued the match to start in 5 seconds
+[01:48:19] _Foxy: glglgl
+[01:48:19] BanchoBot: Match starts in 4 seconds
+[01:48:20] BanchoBot: Match starts in 3 seconds
+[01:48:20] BanchoBot: Good luck, have fun!
+[01:48:22] J_P: folg
+[01:48:23] BanchoBot: The match has started!
+[01:51:21] BanchoBot: _Foxy finished playing (Score: 304049, PASSED).
+[01:51:21] BanchoBot: iceGOD finished playing (Score: 380924, PASSED).
+[01:51:23] BanchoBot: J P finished playing (Score: 426038, PASSED).
+[01:51:23] BanchoBot: Astravan finished playing (Score: 287786, PASSED).
+[01:51:23] BanchoBot: The match has finished!
+[01:51:26] BCraftMG: !mp map 2106420
+[01:51:27] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2106420 tarolabo - Zeitmesser
+[01:51:28] BCraftMG: !mp timer 120
+[01:51:29] BanchoBot: Countdown ends in 2 minutes
+[01:51:30] BanchoBot: Astravan left the game.
+[01:51:36] BanchoBot: ReDLinE- joined in slot 3.
+[01:51:46] BCraftMG: !mp settings
+[01:51:47] BanchoBot: Room name: 5WC2024: Portugal Qualifiers, History: https://osu.ppy.sh/mp/113005761
+[01:51:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/2106420 tarolabo - Zeitmesser
+[01:51:47] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:51:47] BanchoBot: Active mods: NoFail, HardRock
+[01:51:47] BanchoBot: Players: 4
+[01:51:47] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/14223852 iceGOD          
+[01:51:47] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/10040931 J P             
+[01:51:47] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/15839660 ReDLinE-        
+[01:51:47] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/7652852 _Foxy           
+[01:52:16] BanchoBot: Astravan joined in slot 5.
+[01:52:28] BanchoBot: Astravan left the game.
+[01:52:30] BanchoBot: Countdown ends in 1 minute
+[01:52:42] BanchoBot: All players are ready
+[01:52:45] ReDLinE-: golf
+[01:52:45] _Foxy: glglgl
+[01:52:49] BCraftMG: !mp settings
+[01:52:50] BanchoBot: Room name: 5WC2024: Portugal Qualifiers, History: https://osu.ppy.sh/mp/113005761
+[01:52:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/2106420 tarolabo - Zeitmesser
+[01:52:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:52:50] BanchoBot: Active mods: NoFail, HardRock
+[01:52:50] BanchoBot: Players: 4
+[01:52:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14223852 iceGOD          
+[01:52:50] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10040931 J P             
+[01:52:50] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15839660 ReDLinE-        
+[01:52:50] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7652852 _Foxy           
+[01:52:50] BCraftMG: !mp start 5 glhf
+[01:52:51] J_P: gl
+[01:52:51] BanchoBot: Countdown aborted
+[01:52:51] BanchoBot: Match starts in 5 seconds
+[01:52:51] BanchoBot: Queued the match to start in 5 seconds
+[01:52:52] BanchoBot: Match starts in 4 seconds
+[01:52:54] BanchoBot: Match starts in 3 seconds
+[01:52:55] BanchoBot: Good luck, have fun!
+[01:52:57] BanchoBot: The match has started!
+[01:54:57] BanchoBot: ReDLinE- finished playing (Score: 438259, PASSED).
+[01:54:57] BanchoBot: iceGOD finished playing (Score: 546639, PASSED).
+[01:54:57] BanchoBot: J P finished playing (Score: 517235, PASSED).
+[01:54:57] BanchoBot: _Foxy finished playing (Score: 346135, PASSED).
+[01:54:57] BanchoBot: The match has finished!
+[01:54:59] BanchoBot: _Foxy left the game.
+[01:55:05] BCraftMG: !mp map 2671123
+[01:55:06] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2671123 Sakakibara Yui - Scarlet
+[01:55:09] BCraftMG: !mp mods 65
+[01:55:10] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[01:55:11] BCraftMG: !mp timer 120
+[01:55:12] BanchoBot: Countdown ends in 2 minutes
+[01:55:13] BanchoBot: ILLKID13 joined in slot 4.
+[01:55:16] BanchoBot: J P left the game.
+[01:55:18] BanchoBot: ILLKID13 moved to slot 2
+[01:55:36] BanchoBot: ReDLinE- moved to slot 7
+[01:55:42] BanchoBot: Astravan joined in slot 3.
+[01:55:43] BanchoBot: ReDLinE- left the game.
+[01:55:48] Astravan: death threads again.
+[01:55:49] BanchoBot: MakiDonalds Jr joined in slot 4.
+[01:56:13] BanchoBot: Countdown ends in 1 minute
+[01:56:22] MakiDonalds_Jr: preciso de me redimir neste
+[01:56:25] MakiDonalds_Jr: s
+[01:56:28] Astravan: eu n vou redimir
+[01:56:34] Astravan: vai ser 200k~
+[01:56:40] ILLKID13: I agree!
+[01:56:41] Astravan: ainda por cima o ice n da ready e desaqueço
+[01:56:43] BanchoBot: Countdown ends in 30 seconds
+[01:56:55] BanchoBot: All players are ready
+[01:56:56] BCraftMG: !mp settings
+[01:56:56] MakiDonalds_Jr: vdd foi por isso q fizemos 1.2 no nm2
+[01:56:56] BanchoBot: Room name: 5WC2024: Portugal Qualifiers, History: https://osu.ppy.sh/mp/113005761
+[01:56:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/2671123 Sakakibara Yui - Scarlet
+[01:56:56] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:56:56] BanchoBot: Active mods: NoFail, DoubleTime
+[01:56:56] BanchoBot: Players: 4
+[01:56:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14223852 iceGOD          
+[01:56:56] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15670735 ILLKID13        
+[01:56:56] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10907826 Astravan        
+[01:56:56] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16577798 MakiDonalds Jr  
+[01:56:57] BCraftMG: !mp start 5 glhf
+[01:56:57] MakiDonalds_Jr: :tf:
+[01:56:59] BanchoBot: Countdown aborted
+[01:56:59] BanchoBot: Match starts in 5 seconds
+[01:56:59] BanchoBot: Queued the match to start in 5 seconds
+[01:57:00] BanchoBot: Match starts in 4 seconds
+[01:57:02] BanchoBot: Match starts in 3 seconds
+[01:57:02] BanchoBot: Good luck, have fun!
+[01:57:03] MakiDonalds_Jr: glgl
+[01:57:05] BanchoBot: The match has started!
+[01:59:47] BanchoBot: Astravan finished playing (Score: 348240, PASSED).
+[01:59:47] BanchoBot: ILLKID13 finished playing (Score: 274862, PASSED).
+[01:59:47] BanchoBot: MakiDonalds Jr finished playing (Score: 348459, PASSED).
+[01:59:49] BanchoBot: iceGOD finished playing (Score: 245634, PASSED).
+[01:59:49] BanchoBot: The match has finished!
+[02:00:02] BanchoBot: ReDLinE- joined in slot 5.
+[02:00:10] BCraftMG: !mp map 2130652
+[02:00:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2130652 Powerwolf - Christ & Combat
+[02:00:12] BanchoBot: Astravan left the game.
+[02:00:29] BanchoBot: ReDLinE- moved to slot 3
+[02:01:28] MakiDonalds_Jr: oh caralho tou a perder warmup
+[02:01:33] MakiDonalds_Jr: :tf:
+[02:01:37] ILLKID13: :tf:
+[02:01:43] BanchoBot: All players are ready
+[02:01:46] ReDLinE-: golf
+[02:01:47] MakiDonalds_Jr: gla
+[02:01:50] BCraftMG: !mp settings
+[02:01:51] ILLKID13: golfinho
+[02:01:51] BanchoBot: Room name: 5WC2024: Portugal Qualifiers, History: https://osu.ppy.sh/mp/113005761
+[02:01:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/2130652 Powerwolf - Christ & Combat
+[02:01:51] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[02:01:51] BanchoBot: Active mods: NoFail, DoubleTime
+[02:01:51] BanchoBot: Players: 4
+[02:01:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14223852 iceGOD          
+[02:01:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15670735 ILLKID13        
+[02:01:51] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15839660 ReDLinE-        
+[02:01:51] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16577798 MakiDonalds Jr  
+[02:01:52] BCraftMG: !mp start 5 glhf
+[02:01:54] BanchoBot: Match starts in 5 seconds
+[02:01:54] BanchoBot: Queued the match to start in 5 seconds
+[02:01:55] BanchoBot: Match starts in 4 seconds
+[02:01:57] BanchoBot: Match starts in 3 seconds
+[02:01:57] BanchoBot: Good luck, have fun!
+[02:01:59] BanchoBot: The match has started!
+[02:04:30] BanchoBot: MakiDonalds Jr finished playing (Score: 398246, PASSED).
+[02:04:30] BanchoBot: iceGOD finished playing (Score: 215695, PASSED).
+[02:04:31] BanchoBot: ReDLinE- finished playing (Score: 306283, PASSED).
+[02:04:31] BanchoBot: ILLKID13 finished playing (Score: 339598, PASSED).
+[02:04:31] BanchoBot: The match has finished!
+[02:04:48] MakiDonalds_Jr: um top score for once
+[02:05:10] BCraftMG: !mp map 3145696
+[02:05:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3145696 Ito Kanako - Desire Blue sky
+[02:05:12] BCraftMG: !mp timer 120
+[02:05:13] BanchoBot: Countdown ends in 2 minutes
+[02:06:11] MakiDonalds_Jr: mimimi
+[02:06:13] BanchoBot: Countdown ends in 1 minute
+[02:06:22] ILLKID13: !roll 1000
+[02:06:22] BanchoBot: ILLKID13 rolls 901 point(s)
+[02:06:28] BanchoBot: All players are ready
+[02:06:28] MakiDonalds_Jr: !roll acc
+[02:06:28] BanchoBot: MakiDonalds Jr rolls 16 point(s)
+[02:06:32] MakiDonalds_Jr: eia bem
+[02:06:38] ILLKID13: gg
+[02:06:44] BanchoBot: Countdown ends in 30 seconds
+[02:06:45] MakiDonalds_Jr: !roll misscount
+[02:06:45] BanchoBot: MakiDonalds Jr rolls 61 point(s)
+[02:06:51] ILLKID13: gg pt2
+[02:06:57] BCraftMG: !mp settings
+[02:06:58] BanchoBot: Room name: 5WC2024: Portugal Qualifiers, History: https://osu.ppy.sh/mp/113005761
+[02:06:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/3145696 Ito Kanako - Desire Blue sky
+[02:06:58] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[02:06:58] BanchoBot: Active mods: NoFail, DoubleTime
+[02:06:58] BanchoBot: Players: 4
+[02:06:58] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14223852 iceGOD          
+[02:06:58] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15670735 ILLKID13        
+[02:06:58] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15839660 ReDLinE-        
+[02:06:58] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16577798 MakiDonalds Jr  
+[02:06:59] ReDLinE-: !roll ac
+[02:06:59] BanchoBot: ReDLinE- rolls 87 point(s)
+[02:07:01] BCraftMG: !mp start 5 glhf
+[02:07:02] BanchoBot: Countdown aborted
+[02:07:02] BanchoBot: Match starts in 5 seconds
+[02:07:02] BanchoBot: Queued the match to start in 5 seconds
+[02:07:03] ReDLinE-: gg
+[02:07:03] MakiDonalds_Jr: olha
+[02:07:03] BanchoBot: Match starts in 4 seconds
+[02:07:05] BanchoBot: Match starts in 3 seconds
+[02:07:06] BanchoBot: Good luck, have fun!
+[02:07:06] ILLKID13: !roll acc
+[02:07:06] BanchoBot: ILLKID13 rolls 94 point(s)
+[02:07:08] BanchoBot: The match has started!
+[02:10:08] BanchoBot: ReDLinE- finished playing (Score: 393861, PASSED).
+[02:10:08] BanchoBot: MakiDonalds Jr finished playing (Score: 615567, PASSED).
+[02:10:08] BanchoBot: ILLKID13 finished playing (Score: 415937, PASSED).
+[02:10:08] BanchoBot: iceGOD finished playing (Score: 374516, PASSED).
+[02:10:08] BanchoBot: The match has finished!
+[02:10:34] BCraftMG: !mp map 4519090
+[02:10:35] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4519090 Mitsukai Dokuro (CV:Chiba Saeko) - Bokusatsu Tenshi Dokuro-chan
+[02:10:36] BCraftMG: !mp mods 1
+[02:10:36] MakiDonalds_Jr: ok my nm5 now
+[02:10:36] BanchoBot: Enabled NoFail, disabled FreeMod
+[02:10:41] BanchoBot: iceGOD left the game.
+[02:10:47] BanchoBot: ReDLinE- left the game.
+[02:10:50] BanchoBot: ILLKID13 left the game.
+[02:11:03] BanchoBot: All players are ready
+[02:11:10] BCraftMG: !mp settings
+[02:11:10] BanchoBot: Room name: 5WC2024: Portugal Qualifiers, History: https://osu.ppy.sh/mp/113005761
+[02:11:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/4519090 Mitsukai Dokuro (CV:Chiba Saeko) - Bokusatsu Tenshi Dokuro-chan
+[02:11:10] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[02:11:10] BanchoBot: Active mods: NoFail
+[02:11:10] BanchoBot: Players: 1
+[02:11:10] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16577798 MakiDonalds Jr  
+[02:11:11] BCraftMG: !mp start 5 glhf
+[02:11:12] BanchoBot: Match starts in 5 seconds
+[02:11:12] BanchoBot: Queued the match to start in 5 seconds
+[02:11:13] BanchoBot: Match starts in 4 seconds
+[02:11:15] BanchoBot: Match starts in 3 seconds
+[02:11:15] BanchoBot: Good luck, have fun!
+[02:11:18] BanchoBot: The match has started!
+[02:12:57] BanchoBot: MakiDonalds Jr finished playing (Score: 226304, PASSED).
+[02:12:57] BanchoBot: The match has finished!
+[02:13:06] MakiDonalds_Jr: aight
+[02:13:11] MakiDonalds_Jr: thx for ref
+[02:13:11] BCraftMG: geegee
+[02:13:17] MakiDonalds_Jr: in name of the team since everyone left
+[02:13:18] MakiDonalds_Jr: lol
+[02:13:21] MakiDonalds_Jr: o7
+[02:13:27] BanchoBot: MakiDonalds Jr left the game.
+[02:13:43] BCraftMG: !mp clo
+[02:13:45] BCraftMG: !mp close
+[02:13:46] BanchoBot: Closed the match

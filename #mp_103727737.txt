@@ -1,0 +1,625 @@
+[03:04:15] Joined #mp_103727737
+[03:04:15] BCraftMG: !mp settings
+[03:04:19] BanchoBot: Room name: ZRC: (New Talents) vs (mapping peaked in 2010), History: https://osu.ppy.sh/mp/103727737
+[03:04:19] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[03:04:19] BanchoBot: Players: 0
+[03:04:31] BCraftMG: !mp set 2 3 8
+[03:04:33] BanchoBot: Changed match settings to 8 slots, TeamVs, ScoreV2
+[03:04:37] BCraftMG: !mp invite #11266889
+[03:04:38] BanchoBot: Invited Koress to the room
+[03:04:39] BCraftMG: !mp invite #16725049
+[03:04:39] BanchoBot: Invited AgorelL to the room
+[03:04:41] BCraftMG: !mp invite #10442506
+[03:04:42] BanchoBot: Invited morph1ne to the room
+[03:04:43] BCraftMG: !mp invite #594863
+[03:04:45] BanchoBot: Invited Martinawa to the room
+[03:04:45] BCraftMG: !mp invite #12983762
+[03:04:46] BanchoBot: Invited Remissys to the room
+[03:04:49] BCraftMG: !mp invite #8155626
+[03:04:50] BanchoBot: User not found
+[03:04:51] BanchoBot: Martinawa joined in slot 1 for team blue.
+[03:04:56] BanchoBot: Remissys joined in slot 2 for team red.
+[03:05:03] BanchoBot: Remissys changed to Blue
+[03:05:22] Remissys: did you say win by default?
+[03:05:26] BanchoBot: morph1ne joined in slot 3 for team blue.
+[03:05:33] BanchoBot: morph1ne changed to Red
+[03:05:57] BanchoBot: AgorelL joined in slot 4 for team red.
+[03:06:16] Remissys: hey guys come join us on vc
+[03:06:21] BCraftMG: you know your mp link is 103727737
+[03:06:32] Martinawa: firetruck off
+[03:06:40] Remissys: we're already doomed our best player had to leave for his gradma's funeral
+[03:06:46] Remissys: wysi
+[03:07:04] BCraftMG: oh
+[03:07:06] BCraftMG: uhh
+[03:07:11] BCraftMG: you wanna do warm up?
+[03:07:19] Remissys: suuure why not
+[03:07:24] BanchoBot: Koress joined in slot 5 for team blue.
+[03:07:26] Koress: hey
+[03:07:28] BCraftMG: !mp host Remissys
+[03:07:29] BanchoBot: Remissys became the host.
+[03:07:29] BanchoBot: Changed match host to Remissys
+[03:07:30] BanchoBot: Beatmap changed to: TUYU - Dorei Janai nara Nan Desu ka? [Condemned] (https://osu.ppy.sh/b/3110914)
+[03:07:37] BanchoBot: Host is changing map...
+[03:08:02] AgorelL: hey
+[03:08:10] BanchoBot: Beatmap changed to: Reol - Netoge Haijin Sprechchor [Gamer] (https://osu.ppy.sh/b/1413154)
+[03:08:20] Koress: bruh
+[03:08:26] Koress: 4:46
+[03:08:45] Remissys: warmup is lower than 5min right?
+[03:08:50] BCraftMG: 4mins i think
+[03:08:50] Koress: eyah
+[03:09:02] Koress: nvm then
+[03:09:07] Remissys: zstreak said 5min on announcements
+[03:09:16] BCraftMG: theres no rules
+[03:09:19] BCraftMG: uhhhh
+[03:09:20] Martinawa: it is 5 minutes on the rules
+[03:09:21] BCraftMG: okay
+[03:09:25] Remissys: bruh
+[03:09:25] Martinawa: there are rules
+[03:09:31] AgorelL: okok
+[03:09:32] Remissys: not anymore
+[03:09:33] AgorelL: chill dude
+[03:10:23] BanchoBot: Koress changed to Red
+[03:10:23] BanchoBot: Koress changed to Blue
+[03:10:24] BanchoBot: Koress changed to Red
+[03:10:36] BanchoBot: All players are ready
+[03:10:38] BCraftMG: oh yea new talents on red
+[03:10:48] Koress: yep
+[03:10:53] Remissys: can someone put nf please
+[03:11:06] Martinawa: no freemod
+[03:11:15] Remissys: wait i cannot put fm for somereason
+[03:11:18] BCraftMG: !mp settings
+[03:11:19] BanchoBot: Room name: ZRC: (New Talents) vs (mapping peaked in 2010), History: https://osu.ppy.sh/mp/103727737
+[03:11:19] BanchoBot: Beatmap: https://osu.ppy.sh/b/1413154 Reol - Netoge Haijin Sprechchor [Gamer]
+[03:11:19] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:11:19] BanchoBot: Players: 5
+[03:11:19] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/594863 Martinawa       [Team Blue]
+[03:11:19] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12983762 Remissys        [Host / Team Blue]
+[03:11:19] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/10442506 morph1ne        [Team Red ]
+[03:11:19] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/16725049 AgorelL         [Team Red ]
+[03:11:19] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11266889 Koress          [Team Red ]
+[03:11:26] BCraftMG: !mp mods Freempd
+[03:11:27] BanchoBot: Disabled all mods, disabled FreeMod
+[03:11:30] BCraftMG: !mp mods Freemod
+[03:11:30] BanchoBot: Disabled all mods, enabled FreeMod
+[03:11:33] AgorelL: unlucky
+[03:11:39] Martinawa: ty
+[03:11:45] BanchoBot: All players are ready
+[03:11:46] BanchoBot: The match has started!
+[03:16:42] BanchoBot: AgorelL finished playing (Score: 241561, PASSED).
+[03:16:42] BanchoBot: Koress finished playing (Score: 184801, PASSED).
+[03:16:42] BanchoBot: Martinawa finished playing (Score: 51077, PASSED).
+[03:16:43] BanchoBot: Remissys finished playing (Score: 417772, PASSED).
+[03:16:43] BanchoBot: morph1ne finished playing (Score: 488138, PASSED).
+[03:16:43] BanchoBot: The match has finished!
+[03:17:05] BCraftMG: well
+[03:17:12] Remissys: matin almost got 72.7 acc sadge
+[03:17:14] BanchoBot: morph1ne became the host.
+[03:17:16] AgorelL: cool
+[03:17:17] AgorelL: nt
+[03:18:05] Koress: no warmup for us
+[03:18:14] BCraftMG: !mp clearhost
+[03:18:14] BanchoBot: Cleared match host
+[03:18:17] BCraftMG: roll pls
+[03:18:27] Remissys: !roll
+[03:18:27] BanchoBot: Remissys rolls 54 point(s)
+[03:18:32] Koress: !roll
+[03:18:32] BanchoBot: Koress rolls 68 point(s)
+[03:19:05] BCraftMG: 1 sec
+[03:19:09] BCraftMG: Winner chooses pick/ban order, 1st pick = 2nd ban
+[03:19:09] AgorelL: are you guys going to stream or?
+[03:19:18] BCraftMG: dont think so
+[03:19:22] Koress: pick order
+[03:19:35] BCraftMG: 1st or 2nd pick?
+[03:19:36] AgorelL: why?
+[03:20:07] Koress: wait
+[03:20:11] Martinawa: "The team with the higher roll can choose either pick order or ban order, with the other team choosing the unchosen order."
+[03:20:12] Remissys: probably everyone who can stream is asleep im guessing
+[03:20:12] Koress: i can change right
+[03:20:14] Koress: i messed up
+[03:20:22] Koress: i meant ban order
+[03:20:26] Koress: my keyboard doubletapped
+[03:20:45] morph1ne: tf
+[03:20:49] Koress: 2nd ban
+[03:20:59] AgorelL: tf
+[03:21:03] BCraftMG: Martinawa where did you get that from
+[03:21:13] Martinawa: in the sheet
+[03:21:13] BCraftMG: theres nothing on forum posts
+[03:21:16] Martinawa: main sheet
+[03:21:21] Martinawa: there is a link to the rules document
+[03:21:24] BCraftMG: huH
+[03:21:41] Remissys: lmao
+[03:22:08] BCraftMG: fUCK
+[03:22:24] BCraftMG: Koress you 2nd ban?
+[03:22:40] Koress: yeaH
+[03:22:46] BCraftMG: why make a rules doc if not even put on forum post
+[03:23:19] BCraftMG: mapping peaked pick order
+[03:23:41] Martinawa: pick 2nd
+[03:24:19] BCraftMG: ban order ABAB
+[03:24:22] Martinawa: ban NM3
+[03:24:23] BCraftMG: start with blue ban
+[03:24:35] BCraftMG: Red ban
+[03:24:38] BCraftMG: !Mp timer 120
+[03:24:38] BanchoBot: Countdown ends in 2 minutes
+[03:24:44] Koress: dt3
+[03:24:53] BCraftMG: Blue
+[03:24:55] BCraftMG: !mp timer 120
+[03:24:56] BanchoBot: Countdown aborted
+[03:24:56] BanchoBot: Countdown ends in 2 minutes
+[03:25:05] Martinawa: HR3
+[03:25:24] BCraftMG: Red
+[03:25:26] BCraftMG: !mp timer 120
+[03:25:26] BanchoBot: Countdown aborted
+[03:25:26] BanchoBot: Countdown ends in 2 minutes
+[03:26:02] Koress: hd2
+[03:26:10] BCraftMG: New Talents | 0 - 0 | mapping peaked in 2010 // First Pick: New Talents
+[03:26:12] BCraftMG: !mp timer 120
+[03:26:13] BanchoBot: Countdown aborted
+[03:26:13] BanchoBot: Countdown ends in 2 minutes
+[03:26:52] BCraftMG: bruh 90s
+[03:26:58] BCraftMG: ill put 90s timer next time
+[03:27:12] Koress: nm2
+[03:27:14] BanchoBot: Countdown ends in 1 minute
+[03:27:20] BCraftMG: !mp map 1819782 0
+[03:27:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1819782 Ryu* - Sakura Mirage (STARLiGHT Mix)
+[03:27:21] BanchoBot: Changed match mode to Osu
+[03:27:22] BCraftMG: !mp mods 1
+[03:27:22] BanchoBot: Enabled NoFail, disabled FreeMod
+[03:27:23] BCraftMG: !mp timer 90
+[03:27:24] BanchoBot: Countdown aborted
+[03:27:24] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[03:27:31] BanchoBot: Koress left the game.
+[03:27:54] BanchoBot: Countdown ends in 1 minute
+[03:27:55] BanchoBot: All players are ready
+[03:27:58] BCraftMG: !mp settings
+[03:27:59] BanchoBot: Room name: ZRC: (New Talents) vs (mapping peaked in 2010), History: https://osu.ppy.sh/mp/103727737
+[03:27:59] BanchoBot: Beatmap: https://osu.ppy.sh/b/1819782 Ryu* - Sakura Mirage (STARLiGHT Mix)
+[03:27:59] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:27:59] BanchoBot: Active mods: NoFail
+[03:27:59] BanchoBot: Players: 4
+[03:27:59] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/594863 Martinawa       [Team Blue]
+[03:27:59] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12983762 Remissys        [Team Blue]
+[03:27:59] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10442506 morph1ne        [Team Red ]
+[03:27:59] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16725049 AgorelL         [Team Red ]
+[03:28:01] BCraftMG: !mp start 10
+[03:28:01] BanchoBot: Countdown aborted
+[03:28:01] BanchoBot: Match starts in 10 seconds
+[03:28:01] BanchoBot: Queued the match to start in 10 seconds
+[03:28:04] Martinawa: glhf
+[03:28:07] BanchoBot: Match starts in 5 seconds
+[03:28:07] BanchoBot: Match starts in 4 seconds
+[03:28:09] BanchoBot: Match starts in 3 seconds
+[03:28:10] BanchoBot: Good luck, have fun!
+[03:28:10] Remissys: glgl
+[03:28:11] morph1ne: gl
+[03:28:11] BanchoBot: The match has started!
+[03:31:40] BanchoBot: Martinawa finished playing (Score: 709707, PASSED).
+[03:31:40] BanchoBot: AgorelL finished playing (Score: 582862, PASSED).
+[03:31:40] BanchoBot: morph1ne finished playing (Score: 923977, PASSED).
+[03:31:41] BanchoBot: Remissys finished playing (Score: 477831, PASSED).
+[03:31:41] BanchoBot: The match has finished!
+[03:32:04] BanchoBot: Koress joined in slot 5 for team blue.
+[03:32:13] BCraftMG: New Talents | 1 - 0 | mapping peaked in 2010 // Next Pick: mapping peaked in 2010
+[03:32:15] BCraftMG: !mp timer 90
+[03:32:16] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[03:32:37] Remissys: i thought i was fcing but i sbed somewhere in the middle of the map and i had no idea lmao
+[03:32:45] Martinawa: DT2
+[03:32:47] BanchoBot: Countdown ends in 1 minute
+[03:33:02] BCraftMG: !mp map 3299370 0
+[03:33:03] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3299370 -45 - System Sun
+[03:33:03] BanchoBot: Changed match mode to Osu
+[03:33:04] BCraftMG: !mp mods 65
+[03:33:05] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[03:33:06] BCraftMG: !mp timer 90
+[03:33:07] BanchoBot: Countdown aborted
+[03:33:07] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[03:33:34] Koress: quick bathroom
+[03:33:38] BanchoBot: Countdown ends in 1 minute
+[03:33:38] BanchoBot: AgorelL left the game.
+[03:34:08] BanchoBot: Countdown ends in 30 seconds
+[03:34:28] BanchoBot: Countdown ends in 10 seconds
+[03:34:33] BanchoBot: Countdown ends in 5 seconds
+[03:34:34] BanchoBot: Countdown ends in 4 seconds
+[03:34:35] BanchoBot: Countdown ends in 3 seconds
+[03:34:36] BanchoBot: Countdown ends in 2 seconds
+[03:34:36] BanchoBot: Countdown ends in 1 second
+[03:34:38] BanchoBot: Countdown finished
+[03:34:40] BanchoBot: All players are ready
+[03:34:45] BanchoBot: Koress changed to Red
+[03:34:51] BCraftMG: !mp settings
+[03:34:51] BanchoBot: All players are ready
+[03:34:51] BanchoBot: Room name: ZRC: (New Talents) vs (mapping peaked in 2010), History: https://osu.ppy.sh/mp/103727737
+[03:34:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/3299370 -45 - System Sun
+[03:34:51] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:34:51] BanchoBot: Active mods: NoFail, DoubleTime
+[03:34:51] BanchoBot: Players: 4
+[03:34:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/594863 Martinawa       [Team Blue]
+[03:34:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12983762 Remissys        [Team Blue]
+[03:34:51] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10442506 morph1ne        [Team Red ]
+[03:34:51] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11266889 Koress          [Team Red ]
+[03:34:57] BCraftMG: !mp start 10
+[03:34:58] BanchoBot: Match starts in 10 seconds
+[03:34:58] BanchoBot: Queued the match to start in 10 seconds
+[03:34:59] morph1ne: gl
+[03:35:03] Martinawa: glgl
+[03:35:04] BanchoBot: Match starts in 5 seconds
+[03:35:04] BanchoBot: Match starts in 4 seconds
+[03:35:05] Koress: gl
+[03:35:05] BanchoBot: Match starts in 3 seconds
+[03:35:06] Remissys: glgl
+[03:35:06] BanchoBot: Good luck, have fun!
+[03:35:09] BanchoBot: The match has started!
+[03:37:55] BanchoBot: morph1ne finished playing (Score: 1125865, PASSED).
+[03:37:57] BanchoBot: Koress finished playing (Score: 983418, PASSED).
+[03:37:57] BanchoBot: Remissys finished playing (Score: 655300, PASSED).
+[03:37:58] BanchoBot: Martinawa finished playing (Score: 175971, PASSED).
+[03:37:58] BanchoBot: The match has finished!
+[03:38:06] Remissys: lmao
+[03:38:17] Koress: i was overstreaming
+[03:38:19] Martinawa: ok bye
+[03:38:21] Koress: the entire time
+[03:38:21] BanchoBot: AgorelL joined in slot 4 for team red.
+[03:38:34] BCraftMG: New Talents | 2 - 0 | mapping peaked in 2010 // Next Pick: New Talents
+[03:38:36] BCraftMG: !mp timer 90
+[03:38:37] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[03:39:08] BanchoBot: Countdown ends in 1 minute
+[03:39:37] BanchoBot: Countdown ends in 30 seconds
+[03:39:38] Koress: nm4
+[03:39:56] Remissys: bruh why are you picking the only maps we can play
+[03:39:58] BanchoBot: Countdown ends in 10 seconds
+[03:40:03] BanchoBot: Countdown ends in 5 seconds
+[03:40:04] BanchoBot: Countdown ends in 4 seconds
+[03:40:05] BanchoBot: Countdown ends in 3 seconds
+[03:40:05] BanchoBot: Countdown ends in 2 seconds
+[03:40:07] BCraftMG: !mp map 3443675 0
+[03:40:07] Koress: damn
+[03:40:07] BanchoBot: Countdown ends in 1 second
+[03:40:08] BanchoBot: Countdown finished
+[03:40:08] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3443675 PSYQUI - Raise your hands feat. Such
+[03:40:08] BanchoBot: Changed match mode to Osu
+[03:40:08] BCraftMG: !mp mods 1
+[03:40:08] BanchoBot: Enabled NoFail, disabled FreeMod
+[03:40:09] BCraftMG: !mp timer 90
+[03:40:10] Remissys: just pick anything else and we lose
+[03:40:10] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[03:40:11] Koress: mental game
+[03:40:21] BanchoBot: AgorelL left the game.
+[03:40:24] Remissys: i cant play hd and martin cant play hd
+[03:40:30] Remissys: just finish us pls
+[03:40:31] Martinawa: yes
+[03:40:41] BanchoBot: Countdown ends in 1 minute
+[03:40:42] Koress: why?
+[03:40:43] Remissys: wait martin cant play hr*
+[03:40:57] Remissys: our best player is gone we dont have picks to choose
+[03:41:05] Koress: ohh
+[03:41:10] BanchoBot: All players are ready
+[03:41:11] BanchoBot: Countdown ends in 30 seconds
+[03:41:14] Remissys: just playing rn just for no reason
+[03:41:16] BCraftMG: life
+[03:41:16] BCraftMG: !mp settings
+[03:41:17] BanchoBot: Room name: ZRC: (New Talents) vs (mapping peaked in 2010), History: https://osu.ppy.sh/mp/103727737
+[03:41:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/3443675 PSYQUI - Raise your hands feat. Such
+[03:41:17] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:41:17] BanchoBot: Active mods: NoFail
+[03:41:17] BanchoBot: Players: 4
+[03:41:17] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/594863 Martinawa       [Team Blue]
+[03:41:17] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12983762 Remissys        [Team Blue]
+[03:41:17] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10442506 morph1ne        [Team Red ]
+[03:41:17] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11266889 Koress          [Team Red ]
+[03:41:19] BCraftMG: !mp start 10
+[03:41:20] BanchoBot: Countdown aborted
+[03:41:20] BanchoBot: Match starts in 10 seconds
+[03:41:20] BanchoBot: Queued the match to start in 10 seconds
+[03:41:26] BanchoBot: Match starts in 5 seconds
+[03:41:27] BanchoBot: Match starts in 4 seconds
+[03:41:27] BanchoBot: Match starts in 3 seconds
+[03:41:28] BanchoBot: Good luck, have fun!
+[03:41:31] BanchoBot: The match has started!
+[03:41:31] Koress: gl
+[03:44:34] BanchoBot: Martinawa finished playing (Score: 325818, PASSED).
+[03:44:34] BanchoBot: morph1ne finished playing (Score: 655976, PASSED).
+[03:44:34] BanchoBot: Remissys finished playing (Score: 811361, PASSED).
+[03:44:36] BanchoBot: Koress finished playing (Score: 516377, PASSED).
+[03:44:36] BanchoBot: The match has finished!
+[03:44:50] Remissys: wow
+[03:44:59] Koress: i trolled so hard
+[03:45:00] BCraftMG: New Talents | 3 - 0 | mapping peaked in 2010 // Next Pick: mapping peaked in 2010
+[03:45:01] BCraftMG: !mp timer 90
+[03:45:01] Koress: dude
+[03:45:01] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[03:45:16] Remissys: sad i under aimed at the start on nothing
+[03:45:16] Remissys: lmao
+[03:45:29] Koress: i fingerlocked 2 times
+[03:45:31] BanchoBot: Countdown ends in 1 minute
+[03:45:42] Martinawa: FM1
+[03:46:02] BanchoBot: Countdown ends in 30 seconds
+[03:46:09] BCraftMG: !mp map 3038203 0
+[03:46:09] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3038203 IOSYS feat. Nanahira - Judgment Day Has Come
+[03:46:09] BanchoBot: Changed match mode to Osu
+[03:46:11] BCraftMG: !mp mods Freemod
+[03:46:11] BanchoBot: Disabled all mods, enabled FreeMod
+[03:46:13] BCraftMG: !mp timer 120
+[03:46:14] BanchoBot: Countdown aborted
+[03:46:14] BanchoBot: Countdown ends in 2 minutes
+[03:46:16] BCraftMG: !mp timer 90
+[03:46:16] BanchoBot: Countdown aborted
+[03:46:16] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[03:46:23] BanchoBot: Koress left the game.
+[03:46:36] BanchoBot: AgorelL joined in slot 4 for team red.
+[03:46:47] BanchoBot: Countdown ends in 1 minute
+[03:47:04] BanchoBot: All players are ready
+[03:47:06] BCraftMG: !mp settings
+[03:47:06] BanchoBot: Room name: ZRC: (New Talents) vs (mapping peaked in 2010), History: https://osu.ppy.sh/mp/103727737
+[03:47:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/3038203 IOSYS feat. Nanahira - Judgment Day Has Come
+[03:47:06] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:47:06] BanchoBot: Active mods: Freemod
+[03:47:06] BanchoBot: Players: 4
+[03:47:06] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/594863 Martinawa       [Team Blue / NoFail, Hidden]
+[03:47:06] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12983762 Remissys        [Team Blue / NoFail, HardRock]
+[03:47:06] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10442506 morph1ne        [Team Red  / NoFail, HardRock]
+[03:47:06] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16725049 AgorelL         [Team Red  / NoFail, Hidden]
+[03:47:08] morph1ne: gl
+[03:47:11] BCraftMG: !mp start 10
+[03:47:12] Martinawa: golf
+[03:47:12] Remissys: glgl
+[03:47:12] BanchoBot: Countdown aborted
+[03:47:12] BanchoBot: Match starts in 10 seconds
+[03:47:12] BanchoBot: Queued the match to start in 10 seconds
+[03:47:18] AgorelL: gl
+[03:47:18] BanchoBot: Match starts in 5 seconds
+[03:47:19] BanchoBot: Match starts in 4 seconds
+[03:47:19] BanchoBot: Match starts in 3 seconds
+[03:47:20] BanchoBot: Good luck, have fun!
+[03:47:23] BanchoBot: The match has started!
+[03:51:24] BanchoBot: Remissys finished playing (Score: 341066, PASSED).
+[03:51:24] BanchoBot: Martinawa finished playing (Score: 348831, PASSED).
+[03:51:24] BanchoBot: morph1ne finished playing (Score: 554106, PASSED).
+[03:51:24] BanchoBot: AgorelL finished playing (Score: 501535, PASSED).
+[03:51:24] BanchoBot: The match has finished!
+[03:51:44] BanchoBot: Koress joined in slot 5 for team blue.
+[03:51:55] BCraftMG: New Talents | 4 - 0 | mapping peaked in 2010 // Next Pick: New Talents
+[03:51:57] BCraftMG: !mp timer 90
+[03:51:58] BanchoBot: Koress changed to Red
+[03:51:58] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[03:52:29] BanchoBot: Countdown ends in 1 minute
+[03:52:46] Remissys: just pick hd or hr pls
+[03:52:52] Remissys: i just want this to be over
+[03:52:59] BanchoBot: Countdown ends in 30 seconds
+[03:53:19] BanchoBot: Countdown ends in 10 seconds
+[03:53:23] Koress: fm2
+[03:53:24] BanchoBot: Countdown ends in 5 seconds
+[03:53:25] BanchoBot: Countdown ends in 4 seconds
+[03:53:25] BanchoBot: Countdown ends in 3 seconds
+[03:53:26] BanchoBot: Countdown ends in 2 seconds
+[03:53:27] BanchoBot: Countdown ends in 1 second
+[03:53:29] BanchoBot: Countdown finished
+[03:53:41] BCraftMG: !mp map 1565719 0
+[03:53:42] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1565719 ClariS - Hitorigoto -TV MIX-
+[03:53:42] BanchoBot: Changed match mode to Osu
+[03:53:42] BCraftMG: !mp mods 90
+[03:53:43] BanchoBot: Enabled Easy, Hidden, HardRock, DoubleTime, disabled FreeMod
+[03:53:49] Koress: you get hd and hr in one
+[03:53:54] BanchoBot: AgorelL left the game.
+[03:53:59] BanchoBot: Koress moved to slot 4
+[03:54:00] Martinawa: wtf is up with the mods
+[03:54:08] Koress: lmao
+[03:54:10] morph1ne: lul
+[03:54:13] Koress: we playin 4mod
+[03:54:16] BCraftMG: !mp timer 90
+[03:54:18] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[03:54:19] BCraftMG: !mp mods Freemod
+[03:54:19] BCraftMG: LMFAO
+[03:54:20] Koress: farming on the next level
+[03:54:20] BanchoBot: Disabled all mods, enabled FreeMod
+[03:54:21] BCraftMG: WRONG COMMAND
+[03:54:23] morph1ne: okay les go
+[03:54:26] Koress: XDD
+[03:54:49] BanchoBot: Countdown ends in 1 minute
+[03:54:51] morph1ne: hitorigoto
+[03:54:59] Koress: ayaya
+[03:55:18] BanchoBot: Countdown ends in 30 seconds
+[03:55:25] BanchoBot: All players are ready
+[03:55:31] Koress: gl
+[03:55:35] morph1ne: gl
+[03:55:38] BanchoBot: Countdown ends in 10 seconds
+[03:55:43] BanchoBot: Countdown ends in 5 seconds
+[03:55:44] BanchoBot: Countdown ends in 4 seconds
+[03:55:46] BanchoBot: Countdown ends in 3 seconds
+[03:55:46] BanchoBot: Countdown ends in 2 seconds
+[03:55:47] BanchoBot: Countdown ends in 1 second
+[03:55:48] BanchoBot: Countdown finished
+[03:55:48] BCraftMG: !mp settings
+[03:55:49] BanchoBot: Room name: ZRC: (New Talents) vs (mapping peaked in 2010), History: https://osu.ppy.sh/mp/103727737
+[03:55:49] BanchoBot: Beatmap: https://osu.ppy.sh/b/1565719 ClariS - Hitorigoto -TV MIX-
+[03:55:49] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[03:55:49] BanchoBot: Active mods: Freemod
+[03:55:49] BanchoBot: Players: 4
+[03:55:49] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/594863 Martinawa       [Team Blue / NoFail, Hidden]
+[03:55:49] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12983762 Remissys        [Team Blue / NoFail, HardRock]
+[03:55:49] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10442506 morph1ne        [Team Red  / NoFail, HardRock]
+[03:55:49] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11266889 Koress          [Team Red  / NoFail, Hidden]
+[03:55:53] BCraftMG: !mp start 10
+[03:55:54] BanchoBot: Match starts in 10 seconds
+[03:55:54] BanchoBot: Queued the match to start in 10 seconds
+[03:56:00] BanchoBot: Match starts in 5 seconds
+[03:56:01] BanchoBot: Match starts in 4 seconds
+[03:56:01] BanchoBot: Match starts in 3 seconds
+[03:56:02] BanchoBot: Good luck, have fun!
+[03:56:05] BanchoBot: The match has started!
+[03:57:42] BanchoBot: Martinawa finished playing (Score: 344293, PASSED).
+[03:57:42] BanchoBot: Koress finished playing (Score: 869441, PASSED).
+[03:57:42] BanchoBot: Remissys finished playing (Score: 197153, PASSED).
+[03:57:42] BanchoBot: morph1ne finished playing (Score: 321943, PASSED).
+[03:57:42] BanchoBot: The match has finished!
+[03:58:18] BanchoBot: AgorelL joined in slot 5 for team blue.
+[03:58:41] BCraftMG: New Talents | 5 - 0 | mapping peaked in 2010 // Next Pick: mapping peaked in 2010
+[03:58:42] BCraftMG: !mp timer 120
+[03:58:43] BanchoBot: Countdown ends in 2 minutes
+[03:59:43] BanchoBot: Countdown ends in 1 minute
+[03:59:43] Martinawa: HR2
+[03:59:47] Remissys: hr2
+[03:59:48] BanchoBot: AgorelL changed to Red
+[03:59:52] BCraftMG: !mp map 78007 0
+[03:59:53] Remissys: the shortest map in the pool
+[03:59:53] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/78007 dj TAKA - Freeway Shuffle
+[03:59:53] BanchoBot: Changed match mode to Osu
+[03:59:54] BCraftMG: !mp mods 17
+[03:59:55] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[03:59:57] BCraftMG: !mp timer 90
+[03:59:57] BanchoBot: Countdown aborted
+[03:59:57] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[04:00:04] Remissys: i just download this map
+[04:00:28] BanchoBot: Countdown ends in 1 minute
+[04:00:29] BanchoBot: AgorelL left the game.
+[04:00:42] Koress: good
+[04:00:48] Koress: because i cant play it
+[04:00:51] BanchoBot: All players are ready
+[04:00:58] BanchoBot: Countdown ends in 30 seconds
+[04:01:18] BCraftMG: !mp settings
+[04:01:18] BanchoBot: Countdown ends in 10 seconds
+[04:01:18] BanchoBot: Room name: ZRC: (New Talents) vs (mapping peaked in 2010), History: https://osu.ppy.sh/mp/103727737
+[04:01:18] BanchoBot: Beatmap: https://osu.ppy.sh/b/78007 dj TAKA - Freeway Shuffle
+[04:01:18] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[04:01:18] BanchoBot: Active mods: NoFail, HardRock
+[04:01:18] BanchoBot: Players: 4
+[04:01:18] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/594863 Martinawa       [Team Blue]
+[04:01:18] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12983762 Remissys        [Team Blue]
+[04:01:18] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10442506 morph1ne        [Team Red ]
+[04:01:18] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11266889 Koress          [Team Red ]
+[04:01:20] BCraftMG: !mp start 10
+[04:01:21] BanchoBot: Countdown aborted
+[04:01:21] BanchoBot: Match starts in 10 seconds
+[04:01:21] BanchoBot: Queued the match to start in 10 seconds
+[04:01:22] Remissys: ref
+[04:01:25] Remissys: thx
+[04:01:26] BanchoBot: Match starts in 5 seconds
+[04:01:27] BanchoBot: Match starts in 4 seconds
+[04:01:29] BanchoBot: Match starts in 3 seconds
+[04:01:29] BanchoBot: Good luck, have fun!
+[04:01:31] BanchoBot: The match has started!
+[04:03:16] BanchoBot: morph1ne finished playing (Score: 536869, PASSED).
+[04:03:17] BanchoBot: Martinawa finished playing (Score: 161179, PASSED).
+[04:03:17] BanchoBot: Remissys finished playing (Score: 649782, PASSED).
+[04:03:17] BanchoBot: Koress finished playing (Score: 167301, PASSED).
+[04:03:17] BanchoBot: The match has finished!
+[04:03:28] Martinawa: yay
+[04:03:31] Koress: UDhsUDHSUJ
+[04:03:31] Remissys: wtf this map is so easy
+[04:03:33] Martinawa: we won on the 2010 map
+[04:03:33] Koress: I CANT PALY SHTIS
+[04:03:51] Remissys: i broke on the last slider i didnt think it was gonna be slow
+[04:04:01] BCraftMG: New Talents | 5 - 1 | mapping peaked in 2010 // Next Pick: New Talents
+[04:04:03] BCraftMG: !mp timer 90
+[04:04:04] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[04:04:34] BanchoBot: Countdown ends in 1 minute
+[04:04:40] Remissys: firetruck we were not supposed to win
+[04:05:04] BanchoBot: Countdown ends in 30 seconds
+[04:05:05] Remissys: ref can we ask for a reduced timer?
+[04:05:21] BCraftMG: uhhhh
+[04:05:23] Koress: dt1
+[04:05:24] BanchoBot: Countdown ends in 10 seconds
+[04:05:29] BanchoBot: Countdown ends in 5 seconds
+[04:05:31] BanchoBot: Countdown ends in 4 seconds
+[04:05:32] BanchoBot: Countdown ends in 3 seconds
+[04:05:32] BanchoBot: Countdown ends in 2 seconds
+[04:05:33] BanchoBot: Countdown ends in 1 second
+[04:05:34] BanchoBot: Countdown finished
+[04:05:35] BanchoBot: AgorelL joined in slot 5 for team blue.
+[04:05:40] BCraftMG: !mp map 2692599 0
+[04:05:40] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2692599 TOMATO GUMMY feat. Shirakami Fubuki - FINE!! (Cut Ver.)
+[04:05:40] BanchoBot: Changed match mode to Osu
+[04:05:42] BCraftMG: !mp mods 65
+[04:05:43] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[04:05:48] Koress: ayeee
+[04:05:49] Koress: 8 star dt1
+[04:05:51] AgorelL: umm
+[04:05:52] AgorelL: last diff
+[04:05:53] BCraftMG: if your opponent agree
+[04:05:54] morph1ne: not this map
+[04:05:54] AgorelL: man
+[04:05:56] BCraftMG: !mp timer 90
+[04:05:56] Martinawa: wrong didd
+[04:05:56] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[04:05:58] Martinawa: wrong diff
+[04:05:59] Remissys: wrong diff
+[04:06:04] AgorelL: wrong diff
+[04:06:08] BCraftMG: huh
+[04:06:12] Koress: hard diff
+[04:06:14] Koress: not this one
+[04:06:17] Koress: this one is 7 star
+[04:06:19] Koress: 8*
+[04:06:20] Remissys: its hard diff
+[04:06:26] Remissys: the sheet is wrong
+[04:06:26] BanchoBot: Countdown ends in 1 minute
+[04:06:27] Martinawa: right diff is 2692597
+[04:06:27] BCraftMG: !mp settings
+[04:06:29] BanchoBot: Room name: ZRC: (New Talents) vs (mapping peaked in 2010), History: https://osu.ppy.sh/mp/103727737
+[04:06:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/2692599 TOMATO GUMMY feat. Shirakami Fubuki - FINE!! (Cut Ver.)
+[04:06:29] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[04:06:29] BanchoBot: Active mods: NoFail, DoubleTime
+[04:06:29] BanchoBot: Players: 5
+[04:06:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/594863 Martinawa       [Team Blue]
+[04:06:29] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/12983762 Remissys        [Team Blue]
+[04:06:29] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/10442506 morph1ne        [Team Red ]
+[04:06:29] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/11266889 Koress          [Team Red ]
+[04:06:29] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/16725049 AgorelL         [Team Blue]
+[04:06:31] AgorelL: yea
+[04:06:38] BCraftMG: !mp map 2692597 0
+[04:06:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2692597 TOMATO GUMMY feat. Shirakami Fubuki - FINE!! (Cut Ver.)
+[04:06:39] BanchoBot: Changed match mode to Osu
+[04:06:45] Martinawa: ty
+[04:06:47] Koress: sheet trolled
+[04:06:50] Koress: ok cya
+[04:06:52] BanchoBot: Koress left the game.
+[04:06:56] BanchoBot: Countdown ends in 30 seconds
+[04:06:57] BanchoBot: AgorelL changed to Red
+[04:07:02] BanchoBot: AgorelL moved to slot 4
+[04:07:11] BCraftMG: !mp aborttimer
+[04:07:12] BanchoBot: Countdown aborted
+[04:07:23] BanchoBot: All players are ready
+[04:07:28] BCraftMG: !mp settings
+[04:07:29] BanchoBot: Room name: ZRC: (New Talents) vs (mapping peaked in 2010), History: https://osu.ppy.sh/mp/103727737
+[04:07:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/2692597 TOMATO GUMMY feat. Shirakami Fubuki - FINE!! (Cut Ver.)
+[04:07:29] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[04:07:29] BanchoBot: Active mods: NoFail, DoubleTime
+[04:07:29] BanchoBot: Players: 4
+[04:07:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/594863 Martinawa       [Team Blue]
+[04:07:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12983762 Remissys        [Team Blue]
+[04:07:29] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10442506 morph1ne        [Team Red ]
+[04:07:29] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16725049 AgorelL         [Team Red ]
+[04:07:30] BCraftMG: !mp start 10
+[04:07:31] BanchoBot: Match starts in 10 seconds
+[04:07:31] BanchoBot: Queued the match to start in 10 seconds
+[04:07:37] BanchoBot: Match starts in 5 seconds
+[04:07:37] morph1ne: gl
+[04:07:38] BanchoBot: Match starts in 4 seconds
+[04:07:39] BanchoBot: Match starts in 3 seconds
+[04:07:39] BanchoBot: Good luck, have fun!
+[04:07:41] BanchoBot: The match has started!
+[04:09:25] BanchoBot: Remissys finished playing (Score: 600332, PASSED).
+[04:09:25] BanchoBot: AgorelL finished playing (Score: 726410, PASSED).
+[04:09:25] BanchoBot: Martinawa finished playing (Score: 352907, PASSED).
+[04:09:26] BanchoBot: morph1ne finished playing (Score: 473895, PASSED).
+[04:09:26] BanchoBot: The match has finished!
+[04:09:39] AgorelL: gg
+[04:09:41] BCraftMG: ggwp
+[04:09:42] BanchoBot: Koress joined in slot 5 for team blue.
+[04:09:43] BCraftMG: Congrats to New Talents for winning this match! GGWP both teams!
+[04:09:46] Koress: gg
+[04:09:47] Martinawa: it's joever
+[04:09:48] Martinawa: gf
+[04:09:49] BCraftMG: was not a sweep
+[04:09:49] Koress: thanks for ref
+[04:09:50] Martinawa: gg
+[04:09:50] AgorelL: wpwp
+[04:09:51] Remissys: oh its over t
+[04:09:52] Martinawa: ty for ref
+[04:09:55] Remissys: thank god
+[04:09:58] BanchoBot: Martinawa left the game.
+[04:10:00] Remissys: thx for ref
+[04:10:00] BanchoBot: Koress left the game.
+[04:10:02] Remissys: cya
+[04:10:03] BanchoBot: Remissys left the game.
+[04:10:12] BCraftMG: o/
+[04:10:14] morph1ne: gg
+[04:10:18] BanchoBot: morph1ne left the game.
+[04:10:27] BanchoBot: AgorelL left the game.

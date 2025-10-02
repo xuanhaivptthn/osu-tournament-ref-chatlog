@@ -1,0 +1,301 @@
+[18:18:41] Joined #mp_109735715
+[18:18:41] BCraftMG: !mp settings
+[18:18:42] BanchoBot: Room name: o!NNT5: (Qualifiers) vs (Match SAT-18), History: https://osu.ppy.sh/mp/109735715
+[18:18:42] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[18:18:42] BanchoBot: Players: 0
+[18:18:47] BCraftMG: !mp set 0 3 6
+[18:18:48] BanchoBot: Changed match settings to 6 slots, HeadToHead, ScoreV2
+[18:18:56] BCraftMG: !mp invite #10890712
+[18:18:57] BanchoBot: Invited Tonnisdk to the room
+[18:18:59] BCraftMG: !mp map 3764599 0
+[18:19:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3764599 Shiena Nishizawa - Shark
+[18:19:00] BanchoBot: Changed match mode to Osu
+[18:19:01] BCraftMG: !mp mods 1
+[18:19:01] BanchoBot: Enabled NoFail, disabled FreeMod
+[18:19:09] BanchoBot: Tonnisdk joined in slot 1.
+[18:19:20] BCraftMG: helo
+[18:19:24] BanchoBot: Kriatix joined in slot 2.
+[18:19:25] Tonnisdk: cam on ref
+[18:19:39] Tonnisdk: o/
+[18:19:44] Kriatix: saved
+[18:19:45] BanchoBot: Tonnisdk left the game.
+[18:20:45] BanchoBot: Tonnisdk joined in slot 1.
+[18:21:38] BanchoBot: bappoes joined in slot 3.
+[18:21:44] Tonnisdk: ey we good
+[18:21:44] BanchoBot: Tonnisdk left the game.
+[18:21:48] BanchoBot: bappoes moved to slot 1
+[18:21:56] BanchoBot: All players are ready
+[18:21:58] BCraftMG: !mp settings
+[18:21:58] BanchoBot: Room name: o!NNT5: (Qualifiers) vs (Match SAT-18), History: https://osu.ppy.sh/mp/109735715
+[18:21:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/3764599 Shiena Nishizawa - Shark
+[18:21:58] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[18:21:58] BanchoBot: Active mods: NoFail
+[18:21:58] BanchoBot: Players: 2
+[18:21:58] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12579786 bappoes         
+[18:21:58] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[18:22:00] Kriatix: gogo
+[18:22:00] BCraftMG: !mp start 5 glhf
+[18:22:01] BanchoBot: Match starts in 5 seconds
+[18:22:01] BanchoBot: Queued the match to start in 5 seconds
+[18:22:02] BanchoBot: Match starts in 4 seconds
+[18:22:03] BanchoBot: Match starts in 3 seconds
+[18:22:05] BanchoBot: Good luck, have fun!
+[18:22:06] BanchoBot: The match has started!
+[18:25:41] BanchoBot: Kriatix finished playing (Score: 389907, PASSED).
+[18:25:41] BanchoBot: bappoes finished playing (Score: 365583, PASSED).
+[18:25:41] BanchoBot: The match has finished!
+[18:25:45] BCraftMG: !mp map 3944144 0
+[18:25:45] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3944144 Sabaton - Twilight of the Thunder God
+[18:25:45] BanchoBot: Changed match mode to Osu
+[18:25:48] Kriatix: sightread fc to this lol
+[18:26:02] bappoes: :skull:
+[18:26:16] BanchoBot: Tonnisdk joined in slot 3.
+[18:26:20] BanchoBot: bappoes left the game.
+[18:26:24] BanchoBot: Tonnisdk moved to slot 1
+[18:26:54] Kriatix: gogo juice
+[18:27:00] BanchoBot: All players are ready
+[18:27:02] BCraftMG: !mp settings
+[18:27:02] BanchoBot: Room name: o!NNT5: (Qualifiers) vs (Match SAT-18), History: https://osu.ppy.sh/mp/109735715
+[18:27:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/3944144 Sabaton - Twilight of the Thunder God
+[18:27:02] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[18:27:02] BanchoBot: Active mods: NoFail
+[18:27:02] BanchoBot: Players: 2
+[18:27:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10890712 Tonnisdk        
+[18:27:02] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[18:27:03] BCraftMG: !mp start 5 glhf
+[18:27:05] BanchoBot: Match starts in 5 seconds
+[18:27:05] BanchoBot: Queued the match to start in 5 seconds
+[18:27:06] BanchoBot: Match starts in 4 seconds
+[18:27:07] BanchoBot: Match starts in 3 seconds
+[18:27:09] BanchoBot: Good luck, have fun!
+[18:27:10] BanchoBot: The match has started!
+[18:30:47] BanchoBot: Tonnisdk finished playing (Score: 978410, PASSED).
+[18:30:47] BanchoBot: Kriatix finished playing (Score: 487280, PASSED).
+[18:30:47] BanchoBot: The match has finished!
+[18:30:54] BCraftMG: !mp map 3193021 0
+[18:30:55] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3193021 Wiseman (CV: Harada Sayaka & CV: Kito Akari & CV: Mano Ayumi) - Wiseman no Thema
+[18:30:55] BanchoBot: Changed match mode to Osu
+[18:32:27] BanchoBot: All players are ready
+[18:32:29] Kriatix: gogho
+[18:32:32] Kriatix: gl
+[18:32:37] BCraftMG: !mp settings
+[18:32:39] Tonnisdk: gl
+[18:32:39] BanchoBot: Room name: o!NNT5: (Qualifiers) vs (Match SAT-18), History: https://osu.ppy.sh/mp/109735715
+[18:32:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/3193021 Wiseman (CV: Harada Sayaka & CV: Kito Akari & CV: Mano Ayumi) - Wiseman no Thema
+[18:32:39] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[18:32:39] BanchoBot: Active mods: NoFail
+[18:32:39] BanchoBot: Players: 2
+[18:32:39] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10890712 Tonnisdk        
+[18:32:39] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[18:32:39] BCraftMG: !mp start 5 glhf
+[18:32:40] BanchoBot: All players are ready
+[18:32:40] BanchoBot: Match starts in 5 seconds
+[18:32:40] BanchoBot: Queued the match to start in 5 seconds
+[18:32:41] BanchoBot: Match starts in 4 seconds
+[18:32:42] BanchoBot: Match starts in 3 seconds
+[18:32:44] BanchoBot: Good luck, have fun!
+[18:32:45] BanchoBot: The match has started!
+[18:36:20] BanchoBot: Kriatix finished playing (Score: 342834, PASSED).
+[18:36:20] BanchoBot: Tonnisdk finished playing (Score: 391340, PASSED).
+[18:36:20] BanchoBot: The match has finished!
+[18:36:22] BCraftMG: !mp map 3010492 0
+[18:36:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3010492 Dollscythe - Flashes
+[18:36:23] BanchoBot: Changed match mode to Osu
+[18:36:29] Kriatix: oo
+[18:36:33] Kriatix: pretty nice
+[18:36:46] BanchoBot: Tonnisdk left the game.
+[18:37:39] BanchoBot: bappoes joined in slot 1.
+[18:37:46] bappoes: god bless
+[18:37:49] bappoes: rng
+[18:37:53] Kriatix: this map rng
+[18:37:55] BanchoBot: All players are ready
+[18:38:01] Kriatix: gl
+[18:38:14] BCraftMG: !mp settings
+[18:38:14] BanchoBot: Room name: o!NNT5: (Qualifiers) vs (Match SAT-18), History: https://osu.ppy.sh/mp/109735715
+[18:38:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/3010492 Dollscythe - Flashes
+[18:38:14] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[18:38:14] BanchoBot: Active mods: NoFail
+[18:38:14] BanchoBot: Players: 2
+[18:38:14] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12579786 bappoes         
+[18:38:14] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[18:38:17] BCraftMG: !mp start 5 glhf
+[18:38:18] BanchoBot: Match starts in 5 seconds
+[18:38:18] BanchoBot: Queued the match to start in 5 seconds
+[18:38:19] BanchoBot: Match starts in 4 seconds
+[18:38:21] BanchoBot: Match starts in 3 seconds
+[18:38:22] BanchoBot: Good luck, have fun!
+[18:38:23] BanchoBot: The match has started!
+[18:40:26] BanchoBot: Kriatix finished playing (Score: 265409, PASSED).
+[18:40:27] BanchoBot: bappoes finished playing (Score: 363558, PASSED).
+[18:40:27] BanchoBot: The match has finished!
+[18:40:30] BCraftMG: !mp map 3010492 0
+[18:40:30] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3010492 Dollscythe - Flashes
+[18:40:30] BanchoBot: Changed match mode to Osu
+[18:40:44] Kriatix: ded
+[18:41:04] BanchoBot: bappoes left the game.
+[18:41:24] BanchoBot: Tonnisdk joined in slot 1.
+[18:42:01] Kriatix: ref zz
+[18:42:05] Kriatix: bing
+[18:42:08] BCraftMG: !mp settings
+[18:42:09] BanchoBot: Room name: o!NNT5: (Qualifiers) vs (Match SAT-18), History: https://osu.ppy.sh/mp/109735715
+[18:42:09] BanchoBot: Beatmap: https://osu.ppy.sh/b/3010492 Dollscythe - Flashes
+[18:42:09] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[18:42:09] BanchoBot: Active mods: NoFail
+[18:42:09] BanchoBot: Players: 2
+[18:42:09] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/10890712 Tonnisdk        
+[18:42:09] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/14783137 Kriatix         
+[18:42:18] Kriatix: hd
+[18:42:20] Kriatix: ples
+[18:42:28] BCraftMG: !mp map 3617770 0
+[18:42:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3617770 Shikiura. - Karada wa Shoujiki datte Ittenno
+[18:42:29] BanchoBot: Changed match mode to Osu
+[18:42:30] BCraftMG: !mp mods 9
+[18:42:30] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[18:42:38] Kriatix: poger
+[18:42:40] BanchoBot: All players are ready
+[18:42:42] BCraftMG: !mp settings
+[18:42:43] BanchoBot: Room name: o!NNT5: (Qualifiers) vs (Match SAT-18), History: https://osu.ppy.sh/mp/109735715
+[18:42:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/3617770 Shikiura. - Karada wa Shoujiki datte Ittenno
+[18:42:43] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[18:42:43] BanchoBot: Active mods: NoFail, Hidden
+[18:42:43] BanchoBot: Players: 2
+[18:42:43] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10890712 Tonnisdk        
+[18:42:43] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[18:42:43] BCraftMG: !mp start 5 glhf
+[18:42:44] BanchoBot: Match starts in 5 seconds
+[18:42:44] BanchoBot: Queued the match to start in 5 seconds
+[18:42:45] BanchoBot: Match starts in 4 seconds
+[18:42:46] BanchoBot: Match starts in 3 seconds
+[18:42:48] BanchoBot: Good luck, have fun!
+[18:42:48] Kriatix: gl
+[18:42:49] BanchoBot: The match has started!
+[18:45:18] BanchoBot: Kriatix finished playing (Score: 285816, PASSED).
+[18:45:20] BanchoBot: Tonnisdk finished playing (Score: 431566, PASSED).
+[18:45:20] BanchoBot: The match has finished!
+[18:45:22] BCraftMG: !mp map 3790303 0
+[18:45:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3790303 Zektbach - Apocalypse ~dirge of swans~
+[18:45:23] BanchoBot: Changed match mode to Osu
+[18:45:51] BanchoBot: All players are ready
+[18:45:52] BCraftMG: !mp settings
+[18:45:52] BanchoBot: Room name: o!NNT5: (Qualifiers) vs (Match SAT-18), History: https://osu.ppy.sh/mp/109735715
+[18:45:52] BanchoBot: Beatmap: https://osu.ppy.sh/b/3790303 Zektbach - Apocalypse ~dirge of swans~
+[18:45:52] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[18:45:52] BanchoBot: Active mods: NoFail, Hidden
+[18:45:52] BanchoBot: Players: 2
+[18:45:52] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10890712 Tonnisdk        
+[18:45:52] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[18:45:52] BCraftMG: !mp start 5 glhf
+[18:45:53] BanchoBot: Match starts in 5 seconds
+[18:45:53] BanchoBot: Queued the match to start in 5 seconds
+[18:45:55] BanchoBot: Match starts in 4 seconds
+[18:45:56] BanchoBot: Match starts in 3 seconds
+[18:45:57] BanchoBot: Good luck, have fun!
+[18:45:59] BanchoBot: The match has started!
+[18:48:12] BanchoBot: Tonnisdk finished playing (Score: 266816, PASSED).
+[18:48:12] BanchoBot: Kriatix finished playing (Score: 360949, PASSED).
+[18:48:12] BanchoBot: The match has finished!
+[18:48:17] BCraftMG: !mp map 3560727 0
+[18:48:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3560727 Will Stetson - Kyu-kurarin
+[18:48:17] BanchoBot: Changed match mode to Osu
+[18:48:19] BCraftMG: !mp mods 17
+[18:48:20] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[18:48:57] BanchoBot: bappoes joined in slot 3.
+[18:49:01] BanchoBot: Kriatix left the game.
+[18:49:04] BanchoBot: bappoes moved to slot 2
+[18:49:16] BanchoBot: All players are ready
+[18:49:18] BCraftMG: !mp settings
+[18:49:19] BanchoBot: Room name: o!NNT5: (Qualifiers) vs (Match SAT-18), History: https://osu.ppy.sh/mp/109735715
+[18:49:19] BanchoBot: Beatmap: https://osu.ppy.sh/b/3560727 Will Stetson - Kyu-kurarin
+[18:49:19] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[18:49:19] BanchoBot: Active mods: NoFail, HardRock
+[18:49:19] BanchoBot: Players: 2
+[18:49:19] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10890712 Tonnisdk        
+[18:49:19] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12579786 bappoes         
+[18:49:20] BCraftMG: !mp start 5 glhf
+[18:49:20] BanchoBot: Match starts in 5 seconds
+[18:49:20] BanchoBot: Queued the match to start in 5 seconds
+[18:49:22] BanchoBot: Match starts in 4 seconds
+[18:49:22] Tonnisdk: surely i will hit the sliders
+[18:49:23] BanchoBot: Match starts in 3 seconds
+[18:49:24] BanchoBot: Good luck, have fun!
+[18:49:26] BanchoBot: The match has started!
+[18:53:07] BanchoBot: Tonnisdk finished playing (Score: 429345, PASSED).
+[18:53:07] BanchoBot: bappoes finished playing (Score: 328291, PASSED).
+[18:53:07] BanchoBot: The match has finished!
+[18:53:09] BCraftMG: !mp map 2662619 0
+[18:53:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2662619 Kawada Mami - Borderland
+[18:53:10] BanchoBot: Changed match mode to Osu
+[18:53:48] BanchoBot: All players are ready
+[18:53:55] BCraftMG: !mp settings
+[18:53:56] BanchoBot: Room name: o!NNT5: (Qualifiers) vs (Match SAT-18), History: https://osu.ppy.sh/mp/109735715
+[18:53:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/2662619 Kawada Mami - Borderland
+[18:53:56] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[18:53:56] BanchoBot: Active mods: NoFail, HardRock
+[18:53:56] BanchoBot: Players: 2
+[18:53:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10890712 Tonnisdk        
+[18:53:56] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12579786 bappoes         
+[18:53:57] BCraftMG: !mp start 5 glhf
+[18:53:58] BanchoBot: Match starts in 5 seconds
+[18:53:58] BanchoBot: Queued the match to start in 5 seconds
+[18:54:00] BanchoBot: Match starts in 4 seconds
+[18:54:01] BanchoBot: Match starts in 3 seconds
+[18:54:02] BanchoBot: Good luck, have fun!
+[18:54:04] BanchoBot: The match has started!
+[18:57:48] BanchoBot: bappoes finished playing (Score: 300119, PASSED).
+[18:57:48] BanchoBot: Tonnisdk finished playing (Score: 341371, PASSED).
+[18:57:48] BanchoBot: The match has finished!
+[18:57:54] BCraftMG: !mp map 303799 0
+[18:57:55] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/303799 Diana Boncheva - Purple Passion
+[18:57:55] BanchoBot: Changed match mode to Osu
+[18:58:02] BCraftMG: !mp mods 65
+[18:58:03] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[18:58:36] BanchoBot: All players are ready
+[18:58:38] BCraftMG: !mp settings
+[18:58:39] BanchoBot: Room name: o!NNT5: (Qualifiers) vs (Match SAT-18), History: https://osu.ppy.sh/mp/109735715
+[18:58:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/303799 Diana Boncheva - Purple Passion
+[18:58:39] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[18:58:39] BanchoBot: Active mods: NoFail, DoubleTime
+[18:58:39] BanchoBot: Players: 2
+[18:58:39] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10890712 Tonnisdk        
+[18:58:39] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12579786 bappoes         
+[18:58:40] BCraftMG: !mp start 5 glhf
+[18:58:40] BanchoBot: Match starts in 5 seconds
+[18:58:40] BanchoBot: Queued the match to start in 5 seconds
+[18:58:41] BanchoBot: Match starts in 4 seconds
+[18:58:43] BanchoBot: Match starts in 3 seconds
+[18:58:44] BanchoBot: Good luck, have fun!
+[18:58:45] BanchoBot: The match has started!
+[19:01:20] BanchoBot: bappoes finished playing (Score: 466815, PASSED).
+[19:01:22] BanchoBot: Tonnisdk finished playing (Score: 650812, PASSED).
+[19:01:22] BanchoBot: The match has finished!
+[19:02:11] BanchoBot: All players are ready
+[19:02:18] BCraftMG: !mp map 1768374 0
+[19:02:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1768374 -45 - Yomitsu Hirasaka CORRUPTION
+[19:02:19] BanchoBot: Changed match mode to Osu
+[19:02:23] BanchoBot: All players are ready
+[19:02:28] BCraftMG: !mp settings
+[19:02:29] BanchoBot: Room name: o!NNT5: (Qualifiers) vs (Match SAT-18), History: https://osu.ppy.sh/mp/109735715
+[19:02:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/1768374 -45 - Yomitsu Hirasaka CORRUPTION
+[19:02:29] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[19:02:29] BanchoBot: Active mods: NoFail, DoubleTime
+[19:02:29] BanchoBot: Players: 2
+[19:02:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10890712 Tonnisdk        
+[19:02:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12579786 bappoes         
+[19:02:30] BCraftMG: !mp start 5 glhf
+[19:02:30] BanchoBot: Match starts in 5 seconds
+[19:02:30] BanchoBot: Queued the match to start in 5 seconds
+[19:02:31] BanchoBot: Match starts in 4 seconds
+[19:02:33] BanchoBot: Match starts in 3 seconds
+[19:02:34] BanchoBot: Good luck, have fun!
+[19:02:36] BanchoBot: The match has started!
+[19:05:49] BanchoBot: bappoes finished playing (Score: 302224, PASSED).
+[19:05:52] BanchoBot: Tonnisdk finished playing (Score: 928099, PASSED).
+[19:05:52] BanchoBot: The match has finished!
+[19:06:03] Tonnisdk: wpwp
+[19:06:13] Tonnisdk: thx for ref
+[19:06:22] BCraftMG: npnp
+[19:06:30] Tonnisdk: o/
+[19:06:35] BanchoBot: Tonnisdk left the game.
+[19:06:43] BanchoBot: bappoes left the game.
+[19:07:03] BCraftMG: !mp close
+[19:07:05] BanchoBot: Closed the match

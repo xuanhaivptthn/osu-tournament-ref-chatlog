@@ -1,0 +1,534 @@
+[10:33:32] Joined #mp_106006791
+[10:33:32] DaddyStage: !mp settings
+[10:33:33] BanchoBot: Room name: 5WC23VN: (Tryout) vs (Match W2-EX-10), History: https://osu.ppy.sh/mp/106006791
+[10:33:33] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[10:33:33] BanchoBot: Players: 0
+[10:33:39] DaddyStage: !mp set 0 3 3
+[10:33:40] BanchoBot: Changed match settings to 3 slots, HeadToHead, ScoreV2
+[10:33:43] DaddyStage: !mp invite Kriatix
+[10:33:44] BanchoBot: Invited Kriatix to the room
+[10:34:29] DaddyStage: !mp settings
+[10:34:29] BanchoBot: Room name: 5WC23VN: (Tryout) vs (Match W2-EX-10), History: https://osu.ppy.sh/mp/106006791
+[10:34:29] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[10:34:29] BanchoBot: Players: 0
+[10:35:05] DaddyStage: !mp invite #14783137
+[10:35:05] BanchoBot: Invited Kriatix to the room
+[10:36:41] BanchoBot: Kriatix joined in slot 1.
+[10:36:44] DaddyStage: woo
+[10:36:47] DaddyStage: !mp mods NF
+[10:36:47] BanchoBot: Enabled NoFail, disabled FreeMod
+[10:36:49] DaddyStage: !mp map 3875861 0
+[10:36:49] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3875861 WAGAMAMA RAKIA - GR4VITY G4ME
+[10:36:49] BanchoBot: Changed match mode to Osu
+[10:36:57] Kriatix: warmup die
+[10:37:08] BanchoBot: All players are ready
+[10:37:12] DaddyStage: !mp settings
+[10:37:12] BanchoBot: Room name: 5WC23VN: (Tryout) vs (Match W2-EX-10), History: https://osu.ppy.sh/mp/106006791
+[10:37:12] BanchoBot: Beatmap: https://osu.ppy.sh/b/3875861 WAGAMAMA RAKIA - GR4VITY G4ME
+[10:37:12] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[10:37:12] BanchoBot: Active mods: NoFail
+[10:37:12] BanchoBot: Players: 1
+[10:37:12] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[10:37:13] DaddyStage: !mp start 5 glhf
+[10:37:14] BanchoBot: Match starts in 5 seconds
+[10:37:14] BanchoBot: Queued the match to start in 5 seconds
+[10:37:15] BanchoBot: Match starts in 4 seconds
+[10:37:16] BanchoBot: Match starts in 3 seconds
+[10:37:18] BanchoBot: Good luck, have fun!
+[10:37:19] BanchoBot: The match has started!
+[10:37:20] Kriatix: gl
+[10:41:20] BanchoBot: Kriatix finished playing (Score: 321160, PASSED).
+[10:41:20] BanchoBot: The match has finished!
+[10:41:27] DaddyStage: !mp mods NF
+[10:41:27] BanchoBot: Enabled NoFail, disabled FreeMod
+[10:41:27] Kriatix: firetruckkkkkk
+[10:41:28] DaddyStage: !mp map 2636406 0
+[10:41:28] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2636406 Twilight Force - Valley of the Vale
+[10:41:28] BanchoBot: Changed match mode to Osu
+[10:41:28] Kriatix: lag
+[10:41:30] Kriatix: :((
+[10:41:30] DaddyStage: f
+[10:41:47] BanchoBot: All players are ready
+[10:41:51] Kriatix: im not warmed
+[10:41:51] DaddyStage: !mp settings
+[10:41:52] Kriatix: ded
+[10:41:52] BanchoBot: Room name: 5WC23VN: (Tryout) vs (Match W2-EX-10), History: https://osu.ppy.sh/mp/106006791
+[10:41:52] BanchoBot: Beatmap: https://osu.ppy.sh/b/2636406 Twilight Force - Valley of the Vale
+[10:41:52] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[10:41:52] BanchoBot: Active mods: NoFail
+[10:41:52] BanchoBot: Players: 1
+[10:41:52] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[10:41:56] DaddyStage: !mp start 5 glhf
+[10:41:56] BanchoBot: Match starts in 5 seconds
+[10:41:56] BanchoBot: Queued the match to start in 5 seconds
+[10:41:58] BanchoBot: Match starts in 4 seconds
+[10:41:59] BanchoBot: Match starts in 3 seconds
+[10:42:00] Kriatix: gl
+[10:42:00] BanchoBot: Good luck, have fun!
+[10:42:02] BanchoBot: The match has started!
+[10:45:42] BanchoBot: Kriatix finished playing (Score: 268096, PASSED).
+[10:45:42] BanchoBot: The match has finished!
+[10:45:48] DaddyStage: !mp mods NF
+[10:45:48] BanchoBot: Enabled NoFail, disabled FreeMod
+[10:45:49] DaddyStage: !mp map 3193021 0
+[10:45:49] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3193021 Wiseman (CV: Harada Sayaka & CV: Kito Akari & CV: Mano Ayumi) - Wiseman no Thema
+[10:45:49] BanchoBot: Changed match mode to Osu
+[10:45:50] Kriatix: dam
+[10:46:00] Kriatix: ono
+[10:46:01] BanchoBot: All players are ready
+[10:46:03] DaddyStage: !mp settings
+[10:46:04] BanchoBot: Room name: 5WC23VN: (Tryout) vs (Match W2-EX-10), History: https://osu.ppy.sh/mp/106006791
+[10:46:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/3193021 Wiseman (CV: Harada Sayaka & CV: Kito Akari & CV: Mano Ayumi) - Wiseman no Thema
+[10:46:04] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[10:46:04] BanchoBot: Active mods: NoFail
+[10:46:04] BanchoBot: Players: 1
+[10:46:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[10:46:08] DaddyStage: get warm
+[10:46:09] DaddyStage: !mp start 5 glhf
+[10:46:10] BanchoBot: Match starts in 5 seconds
+[10:46:10] BanchoBot: Queued the match to start in 5 seconds
+[10:46:12] BanchoBot: Match starts in 4 seconds
+[10:46:13] BanchoBot: Match starts in 3 seconds
+[10:46:14] BanchoBot: Good luck, have fun!
+[10:46:16] BanchoBot: The match has started!
+[10:46:17] Kriatix: im cold
+[10:49:51] BanchoBot: Kriatix finished playing (Score: 179444, PASSED).
+[10:49:51] BanchoBot: The match has finished!
+[10:49:57] DaddyStage: !mp mods NF
+[10:49:57] BanchoBot: Enabled NoFail, disabled FreeMod
+[10:49:58] DaddyStage: !mp map 3754093 0
+[10:49:58] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3754093 Rukadesu - Houkago OVERDRIVE!!!!!
+[10:49:58] BanchoBot: Changed match mode to Osu
+[10:49:58] Kriatix: nerve
+[10:50:03] DaddyStage: hugs
+[10:50:35] BanchoBot: All players are ready
+[10:50:38] DaddyStage: !mp settings
+[10:50:40] Kriatix: a
+[10:50:40] BanchoBot: Room name: 5WC23VN: (Tryout) vs (Match W2-EX-10), History: https://osu.ppy.sh/mp/106006791
+[10:50:40] BanchoBot: Beatmap: https://osu.ppy.sh/b/3754093 Rukadesu - Houkago OVERDRIVE!!!!!
+[10:50:40] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[10:50:40] BanchoBot: Active mods: NoFail
+[10:50:40] BanchoBot: Players: 1
+[10:50:40] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[10:50:42] DaddyStage: !mp start 5 glhf
+[10:50:42] BanchoBot: Match starts in 5 seconds
+[10:50:42] BanchoBot: Queued the match to start in 5 seconds
+[10:50:43] BanchoBot: Match starts in 4 seconds
+[10:50:45] BanchoBot: Match starts in 3 seconds
+[10:50:46] BanchoBot: Good luck, have fun!
+[10:50:47] Kriatix: gl
+[10:50:47] BanchoBot: The match has started!
+[10:54:21] BanchoBot: Kriatix finished playing (Score: 303633, PASSED).
+[10:54:21] BanchoBot: The match has finished!
+[10:54:24] Kriatix: wow
+[10:54:27] DaddyStage: !mp mods NF
+[10:54:27] BanchoBot: Enabled NoFail, disabled FreeMod
+[10:54:28] DaddyStage: !mp map 3129534 0
+[10:54:28] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3129534 Diceros Bicornis - ReviveR
+[10:54:28] BanchoBot: Changed match mode to Osu
+[10:54:37] Kriatix: speed D:
+[10:54:50] BanchoBot: All players are ready
+[10:54:59] DaddyStage: !mp settings
+[10:54:59] BanchoBot: Room name: 5WC23VN: (Tryout) vs (Match W2-EX-10), History: https://osu.ppy.sh/mp/106006791
+[10:54:59] BanchoBot: Beatmap: https://osu.ppy.sh/b/3129534 Diceros Bicornis - ReviveR
+[10:54:59] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[10:54:59] BanchoBot: Active mods: NoFail
+[10:54:59] BanchoBot: Players: 1
+[10:54:59] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[10:55:02] DaddyStage: !mp start 5
+[10:55:02] BanchoBot: Match starts in 5 seconds
+[10:55:02] BanchoBot: Queued the match to start in 5 seconds
+[10:55:04] BanchoBot: Match starts in 4 seconds
+[10:55:04] BanchoBot: Match starts in 3 seconds
+[10:55:05] BanchoBot: Good luck, have fun!
+[10:55:08] BanchoBot: The match has started!
+[10:57:13] BanchoBot: Kriatix finished playing (Score: 158046, PASSED).
+[10:57:13] BanchoBot: The match has finished!
+[10:57:21] DaddyStage: !mp mods NF
+[10:57:21] BanchoBot: Enabled NoFail, disabled FreeMod
+[10:57:23] DaddyStage: !mp map 2689460 0
+[10:57:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2689460 OSTER project - piano x forte
+[10:57:23] BanchoBot: Changed match mode to Osu
+[10:57:44] Kriatix: tay lạnh wa
+[10:58:09] DaddyStage: anh kiem nguoi yeu cho am
+[10:58:10] DaddyStage: :tf:
+[10:58:26] Kriatix: tron vay
+[10:58:27] Kriatix: :tf:
+[10:58:30] BanchoBot: All players are ready
+[10:58:35] DaddyStage: !mp settings
+[10:58:35] BanchoBot: Room name: 5WC23VN: (Tryout) vs (Match W2-EX-10), History: https://osu.ppy.sh/mp/106006791
+[10:58:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/2689460 OSTER project - piano x forte
+[10:58:35] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[10:58:35] BanchoBot: Active mods: NoFail
+[10:58:35] BanchoBot: Players: 1
+[10:58:35] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[10:58:36] DaddyStage: !mp start 5
+[10:58:36] BanchoBot: Match starts in 5 seconds
+[10:58:36] BanchoBot: Queued the match to start in 5 seconds
+[10:58:38] BanchoBot: Match starts in 4 seconds
+[10:58:38] BanchoBot: Match starts in 3 seconds
+[10:58:39] BanchoBot: Good luck, have fun!
+[10:58:42] BanchoBot: The match has started!
+[11:01:59] BanchoBot: Kriatix finished playing (Score: 252381, PASSED).
+[11:01:59] BanchoBot: The match has finished!
+[11:02:06] DaddyStage: !mp mods NF HD
+[11:02:06] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[11:02:07] DaddyStage: !mp map 3842253 0
+[11:02:07] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3842253 Denkishiki Karen Ongaku Shuudan - Tenshi no Shitone
+[11:02:07] BanchoBot: Changed match mode to Osu
+[11:02:07] Kriatix: wish
+[11:02:31] Kriatix: hd ew
+[11:02:35] Kriatix: :madge:
+[11:02:38] BanchoBot: All players are ready
+[11:02:47] DaddyStage: ưat can u do
+[11:02:48] DaddyStage: ehe
+[11:02:53] DaddyStage: !mp settings
+[11:02:53] BanchoBot: Room name: 5WC23VN: (Tryout) vs (Match W2-EX-10), History: https://osu.ppy.sh/mp/106006791
+[11:02:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/3842253 Denkishiki Karen Ongaku Shuudan - Tenshi no Shitone
+[11:02:53] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:02:53] BanchoBot: Active mods: NoFail, Hidden
+[11:02:53] BanchoBot: Players: 1
+[11:02:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[11:02:56] Kriatix: nothing
+[11:02:56] DaddyStage: !mp start 5
+[11:02:56] BanchoBot: Match starts in 5 seconds
+[11:02:56] BanchoBot: Queued the match to start in 5 seconds
+[11:02:57] BanchoBot: Match starts in 4 seconds
+[11:02:57] Kriatix: :P
+[11:02:57] BanchoBot: Match starts in 3 seconds
+[11:02:59] BanchoBot: Good luck, have fun!
+[11:03:01] BanchoBot: The match has started!
+[11:06:58] BanchoBot: Kriatix finished playing (Score: 412996, PASSED).
+[11:06:58] BanchoBot: The match has finished!
+[11:07:03] Kriatix: uay
+[11:07:04] DaddyStage: !mp mods NF HD
+[11:07:04] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[11:07:04] Kriatix: popoff
+[11:07:05] DaddyStage: !mp map 3668781 0
+[11:07:05] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3668781 Mitsukiyo - Unwelcome School
+[11:07:05] BanchoBot: Changed match mode to Osu
+[11:07:11] DaddyStage: hd2
+[11:07:14] DaddyStage: cai chet
+[11:07:25] Kriatix: nhung toi practice cai nay roi
+[11:07:31] Kriatix: an 200k neu lucky
+[11:07:33] Kriatix: :tf:
+[11:07:35] BanchoBot: All players are ready
+[11:07:41] DaddyStage: !mp settings
+[11:07:41] BanchoBot: Room name: 5WC23VN: (Tryout) vs (Match W2-EX-10), History: https://osu.ppy.sh/mp/106006791
+[11:07:41] BanchoBot: Beatmap: https://osu.ppy.sh/b/3668781 Mitsukiyo - Unwelcome School
+[11:07:41] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:07:41] BanchoBot: Active mods: NoFail, Hidden
+[11:07:41] BanchoBot: Players: 1
+[11:07:41] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[11:07:43] DaddyStage: !mp start 5
+[11:07:43] BanchoBot: Match starts in 5 seconds
+[11:07:43] BanchoBot: Queued the match to start in 5 seconds
+[11:07:45] BanchoBot: Match starts in 4 seconds
+[11:07:45] BanchoBot: Match starts in 3 seconds
+[11:07:46] BanchoBot: Good luck, have fun!
+[11:07:48] BanchoBot: The match has started!
+[11:09:55] BanchoBot: Kriatix finished playing (Score: 263169, PASSED).
+[11:09:55] BanchoBot: The match has finished!
+[11:10:00] DaddyStage: !mp mods NF HD
+[11:10:00] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[11:10:01] DaddyStage: !mp map 2661537 0
+[11:10:01] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2661537 kanone - Ground Z.E.R.O.
+[11:10:01] BanchoBot: Changed match mode to Osu
+[11:10:01] Kriatix: letsgooooo
+[11:10:31] BanchoBot: All players are ready
+[11:10:33] DaddyStage: sheeshh
+[11:10:35] DaddyStage: !mp settings
+[11:10:35] BanchoBot: Room name: 5WC23VN: (Tryout) vs (Match W2-EX-10), History: https://osu.ppy.sh/mp/106006791
+[11:10:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/2661537 kanone - Ground Z.E.R.O.
+[11:10:35] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:10:35] BanchoBot: Active mods: NoFail, Hidden
+[11:10:35] BanchoBot: Players: 1
+[11:10:35] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[11:10:38] DaddyStage: !mp start 5
+[11:10:38] BanchoBot: Match starts in 5 seconds
+[11:10:38] BanchoBot: Queued the match to start in 5 seconds
+[11:10:39] BanchoBot: Match starts in 4 seconds
+[11:10:39] BanchoBot: Match starts in 3 seconds
+[11:10:40] BanchoBot: Good luck, have fun!
+[11:10:43] BanchoBot: The match has started!
+[11:13:08] BanchoBot: Kriatix finished playing (Score: 144260, PASSED).
+[11:13:08] BanchoBot: The match has finished!
+[11:13:11] Kriatix: ded
+[11:13:16] DaddyStage: !mp mods NF HD
+[11:13:16] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[11:13:17] DaddyStage: !mp map 3804328 0
+[11:13:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3804328 Polyphia - ABC (feat. Sophia Black)
+[11:13:17] BanchoBot: Changed match mode to Osu
+[11:13:24] Kriatix: banger
+[11:13:28] Kriatix: catJAM
+[11:13:30] BanchoBot: All players are ready
+[11:13:38] DaddyStage: !mp settings
+[11:13:38] BanchoBot: Room name: 5WC23VN: (Tryout) vs (Match W2-EX-10), History: https://osu.ppy.sh/mp/106006791
+[11:13:38] BanchoBot: Beatmap: https://osu.ppy.sh/b/3804328 Polyphia - ABC (feat. Sophia Black)
+[11:13:38] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:13:38] BanchoBot: Active mods: NoFail, Hidden
+[11:13:38] BanchoBot: Players: 1
+[11:13:38] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[11:13:39] DaddyStage: !mp start 5
+[11:13:39] BanchoBot: Match starts in 5 seconds
+[11:13:39] BanchoBot: Queued the match to start in 5 seconds
+[11:13:41] BanchoBot: Match starts in 4 seconds
+[11:13:41] BanchoBot: Match starts in 3 seconds
+[11:13:42] BanchoBot: Good luck, have fun!
+[11:13:45] BanchoBot: The match has started!
+[11:16:24] BanchoBot: Kriatix finished playing (Score: 252957, PASSED).
+[11:16:24] BanchoBot: The match has finished!
+[11:16:32] DaddyStage: !mp mods NF HR
+[11:16:32] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[11:16:33] DaddyStage: !mp map 3749455 0
+[11:16:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3749455 Midnight Grand Orchestra - Rat A Tat
+[11:16:33] BanchoBot: Changed match mode to Osu
+[11:16:54] Kriatix: hr >:(
+[11:16:56] BanchoBot: All players are ready
+[11:17:01] DaddyStage: !mp settings
+[11:17:01] BanchoBot: Room name: 5WC23VN: (Tryout) vs (Match W2-EX-10), History: https://osu.ppy.sh/mp/106006791
+[11:17:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/3749455 Midnight Grand Orchestra - Rat A Tat
+[11:17:01] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:17:01] BanchoBot: Active mods: NoFail, HardRock
+[11:17:01] BanchoBot: Players: 1
+[11:17:01] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[11:17:03] DaddyStage: !mp start 5
+[11:17:03] BanchoBot: Match starts in 5 seconds
+[11:17:03] BanchoBot: Queued the match to start in 5 seconds
+[11:17:05] BanchoBot: Match starts in 4 seconds
+[11:17:05] BanchoBot: Match starts in 3 seconds
+[11:17:06] BanchoBot: Good luck, have fun!
+[11:17:09] BanchoBot: The match has started!
+[11:20:51] BanchoBot: Kriatix finished playing (Score: 250315, PASSED).
+[11:20:51] BanchoBot: The match has finished!
+[11:21:02] DaddyStage: !mp mods NF HR
+[11:21:02] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[11:21:03] DaddyStage: !mp map 3251863 0
+[11:21:03] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3251863 Police Piccadilly feat. KAFU - Furachi na Kassai
+[11:21:03] BanchoBot: Changed match mode to Osu
+[11:21:21] BanchoBot: All players are ready
+[11:21:26] DaddyStage: !mp start 5
+[11:21:26] BanchoBot: Match starts in 5 seconds
+[11:21:26] BanchoBot: Queued the match to start in 5 seconds
+[11:21:28] BanchoBot: Match starts in 4 seconds
+[11:21:28] BanchoBot: Match starts in 3 seconds
+[11:21:29] BanchoBot: Good luck, have fun!
+[11:21:32] BanchoBot: The match has started!
+[11:24:00] BanchoBot: Kriatix finished playing (Score: 131388, PASSED).
+[11:24:00] BanchoBot: The match has finished!
+[11:24:06] DaddyStage: !mp mods NF HR
+[11:24:06] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[11:24:08] DaddyStage: !mp map 2827368 0
+[11:24:08] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2827368 Mitsukiyo - Rolling Beat
+[11:24:08] BanchoBot: Changed match mode to Osu
+[11:24:17] BanchoBot: All players are ready
+[11:24:19] DaddyStage: !mp settings
+[11:24:19] BanchoBot: Room name: 5WC23VN: (Tryout) vs (Match W2-EX-10), History: https://osu.ppy.sh/mp/106006791
+[11:24:19] BanchoBot: Beatmap: https://osu.ppy.sh/b/2827368 Mitsukiyo - Rolling Beat
+[11:24:19] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:24:19] BanchoBot: Active mods: NoFail, HardRock
+[11:24:19] BanchoBot: Players: 1
+[11:24:19] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[11:24:22] DaddyStage: !mp start 5
+[11:24:22] BanchoBot: Match starts in 5 seconds
+[11:24:22] BanchoBot: Queued the match to start in 5 seconds
+[11:24:23] BanchoBot: Match starts in 4 seconds
+[11:24:23] BanchoBot: Match starts in 3 seconds
+[11:24:24] BanchoBot: Good luck, have fun!
+[11:24:27] BanchoBot: The match has started!
+[11:26:53] BanchoBot: Kriatix finished playing (Score: 62969, PASSED).
+[11:26:53] BanchoBot: The match has finished!
+[11:26:59] DaddyStage: !mp mods NF HR
+[11:26:59] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[11:27:00] DaddyStage: !mp map 1637465 0
+[11:27:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1637465 Thaehan - Doki-Doki
+[11:27:00] BanchoBot: Changed match mode to Osu
+[11:27:13] BanchoBot: All players are ready
+[11:27:19] Kriatix: worm
+[11:27:20] DaddyStage: !mp settings
+[11:27:20] BanchoBot: Room name: 5WC23VN: (Tryout) vs (Match W2-EX-10), History: https://osu.ppy.sh/mp/106006791
+[11:27:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/1637465 Thaehan - Doki-Doki
+[11:27:20] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:27:20] BanchoBot: Active mods: NoFail, HardRock
+[11:27:20] BanchoBot: Players: 1
+[11:27:20] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[11:27:33] DaddyStage: worm player?!
+[11:27:35] DaddyStage: !mp start 5
+[11:27:35] BanchoBot: Match starts in 5 seconds
+[11:27:35] BanchoBot: Queued the match to start in 5 seconds
+[11:27:37] BanchoBot: Match starts in 4 seconds
+[11:27:37] BanchoBot: Match starts in 3 seconds
+[11:27:38] BanchoBot: Good luck, have fun!
+[11:27:38] Kriatix: true
+[11:27:41] BanchoBot: The match has started!
+[11:29:35] BanchoBot: Kriatix finished playing (Score: 363178, PASSED).
+[11:29:35] BanchoBot: The match has finished!
+[11:29:42] DaddyStage: !mp mods NF DT
+[11:29:42] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[11:29:43] DaddyStage: !mp map 3693984 0
+[11:29:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3693984 chano & 40mP - Natsukoi Hanabi
+[11:29:43] BanchoBot: Changed match mode to Osu
+[11:29:56] BanchoBot: All players are ready
+[11:30:01] DaddyStage: !mp settings
+[11:30:01] BanchoBot: Room name: 5WC23VN: (Tryout) vs (Match W2-EX-10), History: https://osu.ppy.sh/mp/106006791
+[11:30:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/3693984 chano & 40mP - Natsukoi Hanabi
+[11:30:01] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:30:01] BanchoBot: Active mods: NoFail, DoubleTime
+[11:30:01] BanchoBot: Players: 1
+[11:30:01] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[11:30:04] DaddyStage: !mp start 5
+[11:30:04] BanchoBot: Match starts in 5 seconds
+[11:30:04] BanchoBot: Queued the match to start in 5 seconds
+[11:30:04] Kriatix: hd ples :tf:
+[11:30:05] BanchoBot: Match starts in 4 seconds
+[11:30:05] BanchoBot: Match starts in 3 seconds
+[11:30:06] Kriatix: gl
+[11:30:06] BanchoBot: Good luck, have fun!
+[11:30:09] BanchoBot: The match has started!
+[11:33:21] BanchoBot: Kriatix finished playing (Score: 299830, PASSED).
+[11:33:21] BanchoBot: The match has finished!
+[11:33:27] DaddyStage: !mp mods NF DT
+[11:33:27] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[11:33:28] DaddyStage: !mp map 1107464 0
+[11:33:28] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1107464 senya - Zouka de Arou to Shita Mono
+[11:33:28] BanchoBot: Changed match mode to Osu
+[11:33:45] Kriatix: no stam
+[11:33:49] Kriatix: lemme break
+[11:33:53] Kriatix: :P
+[11:33:59] DaddyStage: oki
+[11:34:27] Kriatix: need back in top 10 :madge:
+[11:35:03] BanchoBot: All players are ready
+[11:35:03] BanchoBot: All players are ready
+[11:35:10] DaddyStage: !mp settings
+[11:35:10] BanchoBot: Room name: 5WC23VN: (Tryout) vs (Match W2-EX-10), History: https://osu.ppy.sh/mp/106006791
+[11:35:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/1107464 senya - Zouka de Arou to Shita Mono
+[11:35:10] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:35:10] BanchoBot: Active mods: NoFail, DoubleTime
+[11:35:10] BanchoBot: Players: 1
+[11:35:10] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[11:35:13] DaddyStage: !mp start 5
+[11:35:13] BanchoBot: Match starts in 5 seconds
+[11:35:13] BanchoBot: Queued the match to start in 5 seconds
+[11:35:15] BanchoBot: Match starts in 4 seconds
+[11:35:15] BanchoBot: Match starts in 3 seconds
+[11:35:16] BanchoBot: Good luck, have fun!
+[11:35:17] Kriatix: gl
+[11:35:18] BanchoBot: The match has started!
+[11:37:46] BanchoBot: Kriatix finished playing (Score: 259108, PASSED).
+[11:37:46] BanchoBot: The match has finished!
+[11:37:51] DaddyStage: !mp mods NF DT
+[11:37:51] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[11:37:52] DaddyStage: !mp map 3154788 0
+[11:37:52] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3154788 SHIKI - Lapis
+[11:37:52] BanchoBot: Changed match mode to Osu
+[11:37:54] Kriatix: bad map\
+[11:38:00] BanchoBot: All players are ready
+[11:38:05] DaddyStage: !mp settings
+[11:38:05] BanchoBot: Room name: 5WC23VN: (Tryout) vs (Match W2-EX-10), History: https://osu.ppy.sh/mp/106006791
+[11:38:05] BanchoBot: Beatmap: https://osu.ppy.sh/b/3154788 SHIKI - Lapis
+[11:38:05] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:38:05] BanchoBot: Active mods: NoFail, DoubleTime
+[11:38:05] BanchoBot: Players: 1
+[11:38:05] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[11:38:07] DaddyStage: !mp start 5
+[11:38:07] BanchoBot: Match starts in 5 seconds
+[11:38:07] BanchoBot: Queued the match to start in 5 seconds
+[11:38:08] BanchoBot: Match starts in 4 seconds
+[11:38:08] BanchoBot: Match starts in 3 seconds
+[11:38:09] BanchoBot: Good luck, have fun!
+[11:38:12] BanchoBot: The match has started!
+[11:41:17] BanchoBot: Kriatix finished playing (Score: 222539, PASSED).
+[11:41:17] BanchoBot: The match has finished!
+[11:41:25] DaddyStage: !mp mods NF DT
+[11:41:25] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[11:41:26] DaddyStage: !mp map 2522615 0
+[11:41:26] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2522615 Ryokuoushoku Shakai - Mela!
+[11:41:26] BanchoBot: Changed match mode to Osu
+[11:42:24] BanchoBot: Kriatix left the game.
+[11:43:04] DaddyStage: !mp invite #14783137
+[11:43:04] BanchoBot: Invited Kriatix to the room
+[11:44:02] BanchoBot: Kriatix joined in slot 1.
+[11:44:15] DaddyStage: :skull:
+[11:44:19] Kriatix: osu bout da head out
+[11:44:21] Kriatix: :tf:
+[11:44:30] BanchoBot: All players are ready
+[11:44:33] DaddyStage: !mp settings
+[11:44:33] BanchoBot: Room name: 5WC23VN: (Tryout) vs (Match W2-EX-10), History: https://osu.ppy.sh/mp/106006791
+[11:44:33] BanchoBot: Beatmap: https://osu.ppy.sh/b/2522615 Ryokuoushoku Shakai - Mela!
+[11:44:33] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:44:33] BanchoBot: Active mods: NoFail, DoubleTime
+[11:44:33] BanchoBot: Players: 1
+[11:44:33] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14783137 Kriatix         
+[11:44:34] DaddyStage: !mp start 5
+[11:44:34] BanchoBot: Match starts in 5 seconds
+[11:44:34] BanchoBot: Queued the match to start in 5 seconds
+[11:44:35] BanchoBot: Match starts in 4 seconds
+[11:44:35] BanchoBot: Match starts in 3 seconds
+[11:44:37] BanchoBot: Good luck, have fun!
+[11:44:39] BanchoBot: The match has started!
+[11:47:26] BanchoBot: Kriatix finished playing (Score: 173063, PASSED).
+[11:47:26] BanchoBot: The match has finished!
+[11:47:31] DaddyStage: !mp mods Freemod NF
+[11:47:31] BanchoBot: Disabled all mods, enabled FreeMod
+[11:47:32] DaddyStage: !mp map 3312446 0
+[11:47:32] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3312446 Oreore-Usagi - Drain ReD rain
+[11:47:32] BanchoBot: Changed match mode to Osu
+[11:47:32] Kriatix: mathi type map
+[11:47:43] DaddyStage: finale
+[11:48:14] BanchoBot: All players are ready
+[11:48:18] Kriatix: hd time
+[11:48:26] DaddyStage: !mp settings
+[11:48:26] BanchoBot: Room name: 5WC23VN: (Tryout) vs (Match W2-EX-10), History: https://osu.ppy.sh/mp/106006791
+[11:48:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/3312446 Oreore-Usagi - Drain ReD rain
+[11:48:26] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:48:26] BanchoBot: Active mods: Freemod
+[11:48:26] BanchoBot: Players: 1
+[11:48:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14783137 Kriatix         [Hidden]
+[11:48:35] DaddyStage: nf pls
+[11:48:44] BanchoBot: All players are ready
+[11:48:51] DaddyStage: !mp settings
+[11:48:51] BanchoBot: Room name: 5WC23VN: (Tryout) vs (Match W2-EX-10), History: https://osu.ppy.sh/mp/106006791
+[11:48:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/3312446 Oreore-Usagi - Drain ReD rain
+[11:48:51] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:48:51] BanchoBot: Active mods: Freemod
+[11:48:51] BanchoBot: Players: 1
+[11:48:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14783137 Kriatix         [NoFail]
+[11:49:09] DaddyStage: troi oi
+[11:49:18] Kriatix: wat
+[11:49:21] DaddyStage: hd duoc nma phai them nf nua x
+[11:49:22] DaddyStage: xd
+[11:49:28] Kriatix: o
+[11:49:32] DaddyStage: tb freemod ma
+[11:49:35] BanchoBot: All players are ready
+[11:49:39] DaddyStage: !mp settings
+[11:49:39] BanchoBot: Room name: 5WC23VN: (Tryout) vs (Match W2-EX-10), History: https://osu.ppy.sh/mp/106006791
+[11:49:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/3312446 Oreore-Usagi - Drain ReD rain
+[11:49:39] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:49:39] BanchoBot: Active mods: Freemod
+[11:49:39] BanchoBot: Players: 1
+[11:49:39] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14783137 Kriatix         [NoFail, Hidden]
+[11:49:39] Kriatix: kayge
+[11:49:45] DaddyStage: ehe
+[11:49:48] DaddyStage: !mp start 5
+[11:49:48] BanchoBot: Match starts in 5 seconds
+[11:49:48] BanchoBot: Queued the match to start in 5 seconds
+[11:49:49] BanchoBot: Match starts in 4 seconds
+[11:49:50] BanchoBot: Match starts in 3 seconds
+[11:49:50] BanchoBot: Good luck, have fun!
+[11:49:53] BanchoBot: The match has started!
+[11:52:42] Kriatix: die
+[11:52:50] Kriatix: hd kho qua
+[11:53:01] DaddyStage: :skull:
+[11:55:20] BanchoBot: Kriatix finished playing (Score: 196330, PASSED).
+[11:55:20] BanchoBot: The match has finished!
+[11:55:37] DaddyStage: :bedge:
+[11:55:48] Kriatix: zz
+[11:55:59] DaddyStage: xong rui
+[11:56:09] Kriatix: yes
+[11:56:09] Kriatix: e
+[11:56:16] DaddyStage: o/
+[11:56:20] Kriatix: thank for ref
+[11:56:21] Kriatix: o/
+[11:56:30] BanchoBot: Kriatix left the game.
+[11:56:50] DaddyStage: !mp close
+[11:56:51] BanchoBot: Closed the match

@@ -1,0 +1,731 @@
+[22:50:28] Joined #mp_101792882
+[22:50:28] BCraftMG: !mp settings
+[22:50:30] BanchoBot: Room name: SOSF: (Qualifiers) vs (Q33), History: https://osu.ppy.sh/mp/101792882
+[22:50:30] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[22:50:30] BanchoBot: Players: 0
+[22:50:37] BCraftMG: !mp settings
+[22:50:37] BanchoBot: Room name: SOSF: (Qualifiers) vs (Q33), History: https://osu.ppy.sh/mp/101792882
+[22:50:37] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[22:50:37] BanchoBot: Players: 0
+[22:50:48] BCraftMG: !mp set 0 3 10
+[22:50:48] BanchoBot: Changed match settings to 10 slots, HeadToHead, ScoreV2
+[22:50:57] BCraftMG: !mp mods NF
+[22:50:57] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:50:59] BCraftMG: !mp map 2335100 0
+[22:50:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2335100 AliA - utopia
+[22:50:59] BanchoBot: Changed match mode to Osu
+[22:50:59] BCraftMG: !mp timer 120
+[22:50:59] BanchoBot: Countdown ends in 2 minutes
+[22:51:11] BCraftMG: !mp invite #11108655
+[22:51:11] BanchoBot: Invited Arosami to the room
+[22:51:13] BCraftMG: !mp invite #15220967
+[22:51:13] BanchoBot: Invited Destrox to the room
+[22:51:15] BCraftMG: !mp invite #15346564
+[22:51:15] BanchoBot: Invited Bairechuu to the room
+[22:51:15] BCraftMG: !mp invite #14774102
+[22:51:15] BanchoBot: Invited L9 MATEIUT to the room
+[22:51:58] BanchoBot: Countdown ends in 1 minute
+[22:52:18] BCraftMG: !mp aborttimer
+[22:52:20] BanchoBot: Countdown aborted
+[22:52:31] BCraftMG: !mp invite #11108655
+[22:52:31] BanchoBot: Invited Arosami to the room
+[22:52:34] BCraftMG: !mp invite #15220967
+[22:52:34] BanchoBot: Invited Destrox to the room
+[22:52:36] BCraftMG: !mp invite #15346564
+[22:52:36] BanchoBot: Invited Bairechuu to the room
+[22:52:36] BCraftMG: !mp invite #14774102
+[22:52:36] BanchoBot: Invited L9 MATEIUT to the room
+[22:52:45] BanchoBot: Bairechuu joined in slot 1.
+[22:52:49] Bairechuu: o/
+[22:52:56] BCraftMG: o/
+[22:53:28] BanchoBot: Arosami joined in slot 2.
+[22:54:15] BanchoBot: ZimboGod joined in slot 3.
+[22:54:33] BanchoBot: Arosami left the game.
+[22:55:13] BanchoBot: L9 MATEIUT joined in slot 2.
+[22:55:17] BanchoBot: Destrox joined in slot 4.
+[22:55:26] BCraftMG: o/
+[22:55:28] Destrox: o/
+[22:55:33] Destrox: ostia baire
+[22:55:33] L9_MATEIUT: o/
+[22:55:37] BCraftMG: helo everyone
+[22:55:44] ZimboGod: o/
+[22:55:51] Bairechuu: hey destrox
+[22:56:02] Destrox: brb
+[22:56:06] BanchoBot: Froster23 joined in slot 5.
+[22:56:08] ZimboGod: r u ready for shetmisses?)
+[22:56:22] L9_MATEIUT: no warm up gang
+[22:56:22] BanchoBot: Soupmio joined in slot 6.
+[22:56:22] ZimboGod: to
+[22:56:28] Froster23: sure
+[22:57:34] BanchoBot: bappoes joined in slot 7.
+[22:57:36] BanchoBot: L9 MATEIUT moved to slot 8
+[22:58:34] BanchoBot: dumb dog joined in slot 2.
+[22:58:35] BCraftMG: !mp settings
+[22:58:36] BanchoBot: Room name: SOSF: (Qualifiers) vs (Q33), History: https://osu.ppy.sh/mp/101792882
+[22:58:36] BanchoBot: Beatmap: https://osu.ppy.sh/b/2335100 AliA - utopia
+[22:58:36] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:58:36] BanchoBot: Active mods: NoFail
+[22:58:36] BanchoBot: Players: 8
+[22:58:36] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/15346564 Bairechuu       
+[22:58:36] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/9490968 dumb dog        
+[22:58:36] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/11804476 ZimboGod        
+[22:58:36] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15220967 Destrox         
+[22:58:36] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/11310668 Froster23       
+[22:58:36] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/12964646 Soupmio         
+[22:58:36] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/12579786 bappoes         
+[22:58:36] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/14774102 L9 MATEIUT      
+[22:58:47] BCraftMG: !mp timer 120
+[22:58:49] BanchoBot: Countdown ends in 2 minutes
+[22:58:56] BCraftMG: please be ready at the end of timer
+[22:59:00] L9_MATEIUT: gl hf
+[22:59:03] L9_MATEIUT: i guess
+[22:59:34] Soupmio: glglgl
+[22:59:36] Destrox: glhf
+[22:59:36] bappoes: glgl
+[22:59:40] dumb_dog: golf
+[22:59:49] BanchoBot: All players are ready
+[22:59:51] BanchoBot: Countdown ends in 1 minute
+[22:59:54] Bairechuu: glhf!
+[22:59:55] BCraftMG: !mp settings
+[22:59:56] BanchoBot: Room name: SOSF: (Qualifiers) vs (Q33), History: https://osu.ppy.sh/mp/101792882
+[22:59:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/2335100 AliA - utopia
+[22:59:56] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:59:56] BanchoBot: Active mods: NoFail
+[22:59:56] BanchoBot: Players: 8
+[22:59:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15346564 Bairechuu       
+[22:59:56] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9490968 dumb dog        
+[22:59:56] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11804476 ZimboGod        
+[22:59:56] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15220967 Destrox         
+[22:59:56] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11310668 Froster23       
+[22:59:56] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12964646 Soupmio         
+[22:59:56] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/12579786 bappoes         
+[22:59:56] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/14774102 L9 MATEIUT      
+[22:59:59] BCraftMG: !mp start 10
+[23:00:00] BanchoBot: Countdown aborted
+[23:00:00] BanchoBot: Match starts in 10 seconds
+[23:00:00] BanchoBot: Queued the match to start in 10 seconds
+[23:00:05] ZimboGod: gl
+[23:00:07] BanchoBot: Match starts in 5 seconds
+[23:00:07] BanchoBot: Match starts in 4 seconds
+[23:00:09] BanchoBot: Match starts in 3 seconds
+[23:00:09] BanchoBot: Good luck, have fun!
+[23:00:11] L9_MATEIUT: gl
+[23:00:11] BanchoBot: The match has started!
+[23:00:16] Soupmio: glgl
+[23:04:40] BanchoBot: Froster23 finished playing (Score: 958643, PASSED).
+[23:04:40] BanchoBot: L9 MATEIUT finished playing (Score: 467755, PASSED).
+[23:04:42] BanchoBot: Bairechuu finished playing (Score: 942310, PASSED).
+[23:04:42] BanchoBot: bappoes finished playing (Score: 478698, PASSED).
+[23:04:42] BanchoBot: ZimboGod finished playing (Score: 760122, PASSED).
+[23:04:42] BanchoBot: Destrox finished playing (Score: 215834, PASSED).
+[23:04:42] BanchoBot: dumb dog finished playing (Score: 486496, PASSED).
+[23:04:44] BanchoBot: Soupmio finished playing (Score: 437744, PASSED).
+[23:04:44] BanchoBot: The match has finished!
+[23:04:53] BCraftMG: !mp mods NF
+[23:04:53] BanchoBot: Enabled NoFail, disabled FreeMod
+[23:04:56] BCraftMG: !mp map 2335100 0
+[23:04:56] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2335100 AliA - utopia
+[23:04:56] BanchoBot: Changed match mode to Osu
+[23:04:58] BCraftMG: !mp timer 120
+[23:04:58] BanchoBot: Countdown ends in 2 minutes
+[23:04:58] BCraftMG: !mp mods NF
+[23:04:58] BanchoBot: Enabled NoFail, disabled FreeMod
+[23:05:00] BCraftMG: !mp map 2905806 0
+[23:05:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2905806 ke-ji feat. Nanahira - Ange du Blanc Pur
+[23:05:00] BanchoBot: Changed match mode to Osu
+[23:05:00] BCraftMG: !mp timer 120
+[23:05:00] BanchoBot: Countdown aborted
+[23:05:00] BanchoBot: Countdown ends in 2 minutes
+[23:05:03] BanchoBot: Froster23 left the game.
+[23:05:07] BCraftMG: lmfao
+[23:05:22] BanchoBot: Arosami joined in slot 5.
+[23:05:29] Destrox: xd
+[23:06:00] BanchoBot: Countdown ends in 1 minute
+[23:06:11] BanchoBot: All players are ready
+[23:06:14] BCraftMG: !mp settings
+[23:06:15] BanchoBot: Room name: SOSF: (Qualifiers) vs (Q33), History: https://osu.ppy.sh/mp/101792882
+[23:06:15] BanchoBot: Beatmap: https://osu.ppy.sh/b/2905806 ke-ji feat. Nanahira - Ange du Blanc Pur
+[23:06:15] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:06:15] BanchoBot: Active mods: NoFail
+[23:06:15] BanchoBot: Players: 8
+[23:06:15] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15346564 Bairechuu       
+[23:06:15] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9490968 dumb dog        
+[23:06:15] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11804476 ZimboGod        
+[23:06:15] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15220967 Destrox         
+[23:06:15] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11108655 Arosami         
+[23:06:15] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12964646 Soupmio         
+[23:06:15] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/12579786 bappoes         
+[23:06:15] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/14774102 L9 MATEIUT      
+[23:06:20] Bairechuu: glhf~
+[23:06:22] BCraftMG: !mp start 5
+[23:06:22] BanchoBot: Countdown aborted
+[23:06:22] BanchoBot: Match starts in 5 seconds
+[23:06:22] BanchoBot: Queued the match to start in 5 seconds
+[23:06:22] bappoes: glgl
+[23:06:22] BanchoBot: Match starts in 4 seconds
+[23:06:24] BanchoBot: Match starts in 3 seconds
+[23:06:24] BanchoBot: Good luck, have fun!
+[23:06:24] Destrox: glhf
+[23:06:24] Soupmio: gllll
+[23:06:24] dumb_dog: GL
+[23:06:26] BanchoBot: The match has started!
+[23:06:26] L9_MATEIUT: gl gl
+[23:08:19] Destrox: xd
+[23:10:10] BanchoBot: bappoes finished playing (Score: 330097, PASSED).
+[23:10:10] BanchoBot: Arosami finished playing (Score: 369502, PASSED).
+[23:10:10] BanchoBot: L9 MATEIUT finished playing (Score: 116350, PASSED).
+[23:10:10] BanchoBot: Destrox finished playing (Score: 35691, PASSED).
+[23:10:12] BanchoBot: ZimboGod finished playing (Score: 355419, PASSED).
+[23:10:12] BanchoBot: Soupmio finished playing (Score: 149506, PASSED).
+[23:10:12] BanchoBot: Bairechuu finished playing (Score: 326649, PASSED).
+[23:10:12] BanchoBot: dumb dog finished playing (Score: 148310, PASSED).
+[23:10:12] BanchoBot: The match has finished!
+[23:10:21] BCraftMG: !mp mods NF
+[23:10:21] BanchoBot: Enabled NoFail, disabled FreeMod
+[23:10:23] BCraftMG: !mp map 2692632 0
+[23:10:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2692632 THE BINARY mido - Ego mo Id mo Tanjun ni
+[23:10:23] BanchoBot: Changed match mode to Osu
+[23:10:26] BCraftMG: !mp timer 120
+[23:10:26] BanchoBot: Countdown ends in 2 minutes
+[23:10:28] BanchoBot: Arosami left the game.
+[23:10:39] BanchoBot: Froster23 joined in slot 5.
+[23:11:21] L9_MATEIUT: gl hf
+[23:11:26] BanchoBot: Countdown ends in 1 minute
+[23:11:32] BanchoBot: All players are ready
+[23:11:35] BCraftMG: !mp settings
+[23:11:37] BanchoBot: Room name: SOSF: (Qualifiers) vs (Q33), History: https://osu.ppy.sh/mp/101792882
+[23:11:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/2692632 THE BINARY mido - Ego mo Id mo Tanjun ni
+[23:11:37] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:11:37] BanchoBot: Active mods: NoFail
+[23:11:37] BanchoBot: Players: 8
+[23:11:37] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15346564 Bairechuu       
+[23:11:37] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9490968 dumb dog        
+[23:11:37] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11804476 ZimboGod        
+[23:11:37] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15220967 Destrox         
+[23:11:37] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11310668 Froster23       
+[23:11:37] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12964646 Soupmio         
+[23:11:37] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/12579786 bappoes         
+[23:11:37] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/14774102 L9 MATEIUT      
+[23:11:40] BCraftMG: !mp start 10
+[23:11:41] BanchoBot: Countdown aborted
+[23:11:41] BanchoBot: Match starts in 10 seconds
+[23:11:41] BanchoBot: Queued the match to start in 10 seconds
+[23:11:46] Bairechuu: glhf~!
+[23:11:46] dumb_dog: gl
+[23:11:48] BanchoBot: Match starts in 5 seconds
+[23:11:48] BanchoBot: Match starts in 4 seconds
+[23:11:50] BanchoBot: Match starts in 3 seconds
+[23:11:50] Destrox: gl
+[23:11:50] BanchoBot: Good luck, have fun!
+[23:11:52] BanchoBot: The match has started!
+[23:16:03] BanchoBot: bappoes finished playing (Score: 350873, PASSED).
+[23:16:03] BanchoBot: Froster23 finished playing (Score: 953656, PASSED).
+[23:16:03] BanchoBot: L9 MATEIUT finished playing (Score: 242084, PASSED).
+[23:16:03] BanchoBot: Destrox finished playing (Score: 202519, PASSED).
+[23:16:03] BanchoBot: ZimboGod finished playing (Score: 800165, PASSED).
+[23:16:03] BanchoBot: dumb dog finished playing (Score: 311736, PASSED).
+[23:16:05] BanchoBot: Bairechuu finished playing (Score: 770519, PASSED).
+[23:16:09] BanchoBot: Soupmio finished playing (Score: 121732, PASSED).
+[23:16:09] BanchoBot: The match has finished!
+[23:16:18] BCraftMG: !mp mods NF
+[23:16:18] BanchoBot: Enabled NoFail, disabled FreeMod
+[23:16:20] BCraftMG: !mp map 2973666 0
+[23:16:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2973666 BEMANI Sound Team "Expander" - STOIC HYPOTHESIS
+[23:16:20] BanchoBot: Changed match mode to Osu
+[23:16:22] BCraftMG: !mp timer 120
+[23:16:22] BanchoBot: Countdown ends in 2 minutes
+[23:17:22] BanchoBot: Countdown ends in 1 minute
+[23:17:51] BanchoBot: Countdown ends in 30 seconds
+[23:17:58] Destrox: uhm
+[23:18:02] Destrox: my cursor is bugged
+[23:18:02] Destrox: xd
+[23:18:04] Destrox: can i restart
+[23:18:08] BCraftMG: sure
+[23:18:11] BanchoBot: Countdown ends in 10 seconds
+[23:18:11] Destrox: ty
+[23:18:13] BanchoBot: Destrox left the game.
+[23:18:17] BanchoBot: Countdown ends in 5 seconds
+[23:18:17] BanchoBot: Countdown ends in 4 seconds
+[23:18:20] BanchoBot: Countdown ends in 3 seconds
+[23:18:20] BanchoBot: Countdown ends in 2 seconds
+[23:18:22] BanchoBot: Countdown ends in 1 second
+[23:18:22] BanchoBot: Countdown finished
+[23:18:37] ZimboGod: !roll 1000
+[23:18:37] BanchoBot: ZimboGod rolls 124 point(s)
+[23:18:38] BCraftMG: everyone else please be ready in advance
+[23:18:44] L9_MATEIUT: !roll 1000
+[23:18:44] BanchoBot: L9 MATEIUT rolls 823 point(s)
+[23:18:55] Bairechuu: !roll 1000
+[23:18:55] BanchoBot: Bairechuu rolls 961 point(s)
+[23:18:57] Soupmio: !roll 1000
+[23:18:57] BanchoBot: Soupmio rolls 9 point(s)
+[23:19:01] bappoes: !roll 1000
+[23:19:01] BanchoBot: bappoes rolls 321 point(s)
+[23:19:01] L9_MATEIUT: lol
+[23:19:04] Soupmio: ...
+[23:19:10] dumb_dog: !roll 1000
+[23:19:10] BanchoBot: dumb dog rolls 6 point(s)
+[23:19:12] L9_MATEIUT: !roll 11
+[23:19:13] BanchoBot: L9 MATEIUT rolls 2 point(s)
+[23:19:17] Bairechuu: 9 and 6
+[23:19:19] Bairechuu: sheesh
+[23:19:32] Soupmio: devious asf
+[23:19:43] BanchoBot: Destrox joined in slot 4.
+[23:19:48] BanchoBot: All players are ready
+[23:19:51] BCraftMG: !mp settings
+[23:19:52] L9_MATEIUT: gl hf
+[23:19:52] BanchoBot: Room name: SOSF: (Qualifiers) vs (Q33), History: https://osu.ppy.sh/mp/101792882
+[23:19:52] BanchoBot: Beatmap: https://osu.ppy.sh/b/2973666 BEMANI Sound Team "Expander" - STOIC HYPOTHESIS
+[23:19:52] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:19:52] BanchoBot: Active mods: NoFail
+[23:19:52] BanchoBot: Players: 8
+[23:19:52] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15346564 Bairechuu       
+[23:19:52] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9490968 dumb dog        
+[23:19:52] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11804476 ZimboGod        
+[23:19:52] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15220967 Destrox         
+[23:19:52] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11310668 Froster23       
+[23:19:52] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12964646 Soupmio         
+[23:19:52] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/12579786 bappoes         
+[23:19:52] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/14774102 L9 MATEIUT      
+[23:19:53] BCraftMG: !mp start 10
+[23:19:54] Bairechuu: glhf~
+[23:19:54] BanchoBot: Match starts in 10 seconds
+[23:19:54] BanchoBot: Queued the match to start in 10 seconds
+[23:19:57] bappoes: glgl
+[23:19:57] Destrox: gl
+[23:19:59] ZimboGod: gl
+[23:19:59] Soupmio: glhf!!
+[23:20:01] BanchoBot: Match starts in 5 seconds
+[23:20:01] BanchoBot: Match starts in 4 seconds
+[23:20:03] BanchoBot: Match starts in 3 seconds
+[23:20:03] BanchoBot: Good luck, have fun!
+[23:20:05] BanchoBot: The match has started!
+[23:22:13] BanchoBot: Destrox finished playing (Score: 88263, PASSED).
+[23:22:13] BanchoBot: bappoes finished playing (Score: 188084, PASSED).
+[23:22:13] BanchoBot: L9 MATEIUT finished playing (Score: 246833, PASSED).
+[23:22:15] BanchoBot: ZimboGod finished playing (Score: 335327, PASSED).
+[23:22:15] BanchoBot: Bairechuu finished playing (Score: 563840, PASSED).
+[23:22:15] BanchoBot: dumb dog finished playing (Score: 115315, PASSED).
+[23:22:15] BanchoBot: Froster23 finished playing (Score: 320037, PASSED).
+[23:22:17] BanchoBot: Soupmio finished playing (Score: 74226, PASSED).
+[23:22:17] BanchoBot: The match has finished!
+[23:22:24] BCraftMG: !mp mods NF HD
+[23:22:24] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[23:22:26] BCraftMG: !mp map 3168337 0
+[23:22:26] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3168337 HiTECH NINJA - Memecore
+[23:22:26] BanchoBot: Changed match mode to Osu
+[23:22:29] BCraftMG: !mp timer 120
+[23:22:29] BanchoBot: Countdown ends in 2 minutes
+[23:22:29] BanchoBot: ZimboGod left the game.
+[23:22:29] Bairechuu: i love reverse choking with s rank
+[23:22:35] L9_MATEIUT: now i the fun part
+[23:22:37] L9_MATEIUT: hidden
+[23:22:44] L9_MATEIUT: now is*
+[23:22:50] BanchoBot: Arosami joined in slot 3.
+[23:23:08] Soupmio: wish i could relate
+[23:23:13] Destrox: xd
+[23:23:28] BanchoBot: Countdown ends in 1 minute
+[23:23:33] BanchoBot: All players are ready
+[23:23:35] BanchoBot: L9 MATEIUT left the game.
+[23:23:37] BanchoBot: L9 MATEIUT joined in slot 8.
+[23:23:39] BanchoBot: All players are ready
+[23:23:40] BCraftMG: !mp settings
+[23:23:41] BanchoBot: Room name: SOSF: (Qualifiers) vs (Q33), History: https://osu.ppy.sh/mp/101792882
+[23:23:41] BanchoBot: Beatmap: https://osu.ppy.sh/b/3168337 HiTECH NINJA - Memecore
+[23:23:41] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:23:41] BanchoBot: Active mods: NoFail, Hidden
+[23:23:41] BanchoBot: Players: 8
+[23:23:41] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15346564 Bairechuu       
+[23:23:41] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9490968 dumb dog        
+[23:23:41] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11108655 Arosami         
+[23:23:41] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15220967 Destrox         
+[23:23:41] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11310668 Froster23       
+[23:23:41] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12964646 Soupmio         
+[23:23:41] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/12579786 bappoes         
+[23:23:41] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/14774102 L9 MATEIUT      
+[23:23:43] BCraftMG: !mp start 10
+[23:23:46] Bairechuu: glhf~
+[23:23:46] BanchoBot: Countdown aborted
+[23:23:46] BanchoBot: Match starts in 10 seconds
+[23:23:46] BanchoBot: Queued the match to start in 10 seconds
+[23:23:48] bappoes: glgl
+[23:23:50] L9_MATEIUT: gl gl
+[23:23:52] BanchoBot: Match starts in 5 seconds
+[23:23:52] Destrox: gl
+[23:23:52] Soupmio: glglglgl
+[23:23:52] BanchoBot: Match starts in 4 seconds
+[23:23:55] BanchoBot: Match starts in 3 seconds
+[23:23:55] BanchoBot: Good luck, have fun!
+[23:23:57] dumb_dog: gl
+[23:23:57] BanchoBot: The match has started!
+[23:26:52] BanchoBot: dumb dog finished playing (Score: 78022, PASSED).
+[23:26:52] BanchoBot: Froster23 finished playing (Score: 501088, PASSED).
+[23:26:54] BanchoBot: Soupmio finished playing (Score: 63362, PASSED).
+[23:26:54] BanchoBot: Bairechuu finished playing (Score: 282622, PASSED).
+[23:26:54] BanchoBot: Arosami finished playing (Score: 122648, PASSED).
+[23:26:55] BanchoBot: Destrox finished playing (Score: 25916, PASSED).
+[23:26:55] BanchoBot: L9 MATEIUT finished playing (Score: 62569, PASSED).
+[23:26:57] BanchoBot: bappoes finished playing (Score: 388682, PASSED).
+[23:26:57] BanchoBot: The match has finished!
+[23:27:06] BCraftMG: !mp mods NF HD
+[23:27:06] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[23:27:06] Destrox: what a map to have fun with
+[23:27:08] BCraftMG: !mp map 2405667 0
+[23:27:08] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2405667 raito - Blood Drain -Again-
+[23:27:08] BanchoBot: Changed match mode to Osu
+[23:27:08] Soupmio: hd flowaim :trolldespair:
+[23:27:10] BCraftMG: !mp timer 120
+[23:27:10] BanchoBot: Countdown ends in 2 minutes
+[23:27:10] Bairechuu: i love notelock
+[23:27:24] Bairechuu: i stg trying to acc that map is useless
+[23:27:46] BanchoBot: All players are ready
+[23:27:47] BCraftMG: !mp settings
+[23:27:48] BanchoBot: Room name: SOSF: (Qualifiers) vs (Q33), History: https://osu.ppy.sh/mp/101792882
+[23:27:48] BanchoBot: Beatmap: https://osu.ppy.sh/b/2405667 raito - Blood Drain -Again-
+[23:27:48] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:27:48] BanchoBot: Active mods: NoFail, Hidden
+[23:27:48] BanchoBot: Players: 8
+[23:27:48] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15346564 Bairechuu       
+[23:27:48] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9490968 dumb dog        
+[23:27:48] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11108655 Arosami         
+[23:27:48] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15220967 Destrox         
+[23:27:48] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11310668 Froster23       
+[23:27:48] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12964646 Soupmio         
+[23:27:48] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/12579786 bappoes         
+[23:27:48] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/14774102 L9 MATEIUT      
+[23:27:55] BanchoBot: All players are ready
+[23:27:57] Bairechuu: glhf~
+[23:27:59] BCraftMG: !mp settings
+[23:28:01] BanchoBot: Room name: SOSF: (Qualifiers) vs (Q33), History: https://osu.ppy.sh/mp/101792882
+[23:28:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/2405667 raito - Blood Drain -Again-
+[23:28:01] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:28:01] BanchoBot: Active mods: NoFail, Hidden
+[23:28:01] BanchoBot: Players: 8
+[23:28:01] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15346564 Bairechuu       
+[23:28:01] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9490968 dumb dog        
+[23:28:01] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11108655 Arosami         
+[23:28:01] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15220967 Destrox         
+[23:28:01] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11310668 Froster23       
+[23:28:01] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12964646 Soupmio         
+[23:28:01] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/12579786 bappoes         
+[23:28:01] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/14774102 L9 MATEIUT      
+[23:28:03] BCraftMG: !mp start 10
+[23:28:06] bappoes: glgl
+[23:28:06] Soupmio: glhf
+[23:28:06] BanchoBot: Countdown aborted
+[23:28:06] BanchoBot: Match starts in 10 seconds
+[23:28:06] BanchoBot: Queued the match to start in 10 seconds
+[23:28:12] BanchoBot: Match starts in 5 seconds
+[23:28:12] BanchoBot: Match starts in 4 seconds
+[23:28:14] BanchoBot: Match starts in 3 seconds
+[23:28:14] BanchoBot: Good luck, have fun!
+[23:28:17] BanchoBot: The match has started!
+[23:32:05] BanchoBot: Froster23 finished playing (Score: 327363, PASSED).
+[23:32:05] BanchoBot: Soupmio finished playing (Score: 75593, PASSED).
+[23:32:05] BanchoBot: L9 MATEIUT finished playing (Score: 71982, PASSED).
+[23:32:05] BanchoBot: Arosami finished playing (Score: 142314, PASSED).
+[23:32:05] BanchoBot: Bairechuu finished playing (Score: 287947, PASSED).
+[23:32:05] BanchoBot: Destrox finished playing (Score: 116621, PASSED).
+[23:32:05] BanchoBot: bappoes finished playing (Score: 119542, PASSED).
+[23:32:05] BanchoBot: dumb dog finished playing (Score: 73675, PASSED).
+[23:32:05] BanchoBot: The match has finished!
+[23:32:13] BCraftMG: !mp mods NF HR
+[23:32:13] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[23:32:16] BanchoBot: Froster23 left the game.
+[23:32:18] BCraftMG: !mp map 1176958 0
+[23:32:18] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1176958 Toromaru - Enigma
+[23:32:18] BanchoBot: Changed match mode to Osu
+[23:32:18] BCraftMG: !mp timer 120
+[23:32:18] BanchoBot: Countdown ends in 2 minutes
+[23:32:33] BanchoBot: ZimboGod joined in slot 5.
+[23:32:55] Destrox: hr...
+[23:33:04] BanchoBot: All players are ready
+[23:33:05] BCraftMG: !mp settings
+[23:33:06] L9_MATEIUT: speed map
+[23:33:06] BanchoBot: Room name: SOSF: (Qualifiers) vs (Q33), History: https://osu.ppy.sh/mp/101792882
+[23:33:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/1176958 Toromaru - Enigma
+[23:33:06] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:33:06] BanchoBot: Active mods: NoFail, HardRock
+[23:33:06] BanchoBot: Players: 8
+[23:33:06] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15346564 Bairechuu       
+[23:33:06] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9490968 dumb dog        
+[23:33:06] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11108655 Arosami         
+[23:33:06] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15220967 Destrox         
+[23:33:06] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11804476 ZimboGod        
+[23:33:06] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12964646 Soupmio         
+[23:33:06] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/12579786 bappoes         
+[23:33:06] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/14774102 L9 MATEIUT      
+[23:33:10] BCraftMG: !mp start 10
+[23:33:11] BanchoBot: Countdown aborted
+[23:33:11] BanchoBot: Match starts in 10 seconds
+[23:33:11] BanchoBot: Queued the match to start in 10 seconds
+[23:33:15] bappoes: glgl
+[23:33:15] Soupmio: glhf
+[23:33:17] BanchoBot: Match starts in 5 seconds
+[23:33:17] BanchoBot: Match starts in 4 seconds
+[23:33:20] BanchoBot: Match starts in 3 seconds
+[23:33:20] BanchoBot: Good luck, have fun!
+[23:33:20] Bairechuu: glhf
+[23:33:20] dumb_dog: gl
+[23:33:22] BanchoBot: The match has started!
+[23:35:26] BanchoBot: ZimboGod finished playing (Score: 356256, PASSED).
+[23:35:26] BanchoBot: Soupmio finished playing (Score: 64111, PASSED).
+[23:35:26] BanchoBot: bappoes finished playing (Score: 372148, PASSED).
+[23:35:26] BanchoBot: Arosami finished playing (Score: 634870, PASSED).
+[23:35:26] BanchoBot: L9 MATEIUT finished playing (Score: 221747, PASSED).
+[23:35:26] BanchoBot: Bairechuu finished playing (Score: 284546, PASSED).
+[23:35:26] BanchoBot: Destrox finished playing (Score: 28970, PASSED).
+[23:35:26] BanchoBot: dumb dog finished playing (Score: 151628, PASSED).
+[23:35:26] BanchoBot: The match has finished!
+[23:35:35] Destrox: yeah, hr
+[23:35:35] BCraftMG: !mp mods NF HR
+[23:35:35] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[23:35:37] BCraftMG: !mp map 2202224 0
+[23:35:37] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2202224 nana(Sevencolors) - chameleon
+[23:35:37] BanchoBot: Changed match mode to Osu
+[23:35:39] BCraftMG: !mp timer 120
+[23:35:39] BanchoBot: Countdown ends in 2 minutes
+[23:35:55] BCraftMG: :prayge:
+[23:36:23] BanchoBot: All players are ready
+[23:36:27] BCraftMG: !mp settings
+[23:36:30] BanchoBot: Room name: SOSF: (Qualifiers) vs (Q33), History: https://osu.ppy.sh/mp/101792882
+[23:36:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/2202224 nana(Sevencolors) - chameleon
+[23:36:30] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:36:30] BanchoBot: Active mods: NoFail, HardRock
+[23:36:30] BanchoBot: Players: 8
+[23:36:30] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15346564 Bairechuu       
+[23:36:30] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9490968 dumb dog        
+[23:36:30] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11108655 Arosami         
+[23:36:30] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15220967 Destrox         
+[23:36:30] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11804476 ZimboGod        
+[23:36:30] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12964646 Soupmio         
+[23:36:30] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/12579786 bappoes         
+[23:36:30] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/14774102 L9 MATEIUT      
+[23:36:31] BCraftMG: !mp start 10
+[23:36:32] BanchoBot: Countdown aborted
+[23:36:32] BanchoBot: Match starts in 10 seconds
+[23:36:32] BanchoBot: Queued the match to start in 10 seconds
+[23:36:36] dumb_dog: gl
+[23:36:36] BanchoBot: bappoes left the game.
+[23:36:38] BanchoBot: Match starts in 5 seconds
+[23:36:38] Soupmio: glhf
+[23:36:38] BanchoBot: Match starts in 4 seconds
+[23:36:41] BanchoBot: Match starts in 3 seconds
+[23:36:41] BanchoBot: Good luck, have fun!
+[23:36:43] BanchoBot: The match has started!
+[23:36:43] L9_MATEIUT: stop
+[23:36:45] Destrox: what
+[23:36:47] Destrox: xd
+[23:36:49] BanchoBot: bappoes joined in slot 7.
+[23:36:52] BCraftMG: !mp abort
+[23:36:54] BanchoBot: Aborted the match
+[23:36:56] L9_MATEIUT: please stop
+[23:37:04] bappoes: mb
+[23:37:07] Bairechuu: duro
+[23:37:11] Destrox: duro
+[23:37:12] BCraftMG: buddy
+[23:37:25] BanchoBot: All players are ready
+[23:37:30] BCraftMG: !mp settings
+[23:37:31] Bairechuu: glhf
+[23:37:31] BanchoBot: Room name: SOSF: (Qualifiers) vs (Q33), History: https://osu.ppy.sh/mp/101792882
+[23:37:31] BanchoBot: Beatmap: https://osu.ppy.sh/b/2202224 nana(Sevencolors) - chameleon
+[23:37:31] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:37:31] BanchoBot: Active mods: NoFail, HardRock
+[23:37:31] BanchoBot: Players: 8
+[23:37:31] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15346564 Bairechuu       
+[23:37:31] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9490968 dumb dog        
+[23:37:31] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11108655 Arosami         
+[23:37:31] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15220967 Destrox         
+[23:37:31] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11804476 ZimboGod        
+[23:37:31] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12964646 Soupmio         
+[23:37:31] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/12579786 bappoes         
+[23:37:31] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/14774102 L9 MATEIUT      
+[23:37:35] BCraftMG: !mp start 10
+[23:37:36] BanchoBot: Match starts in 10 seconds
+[23:37:36] BanchoBot: Queued the match to start in 10 seconds
+[23:37:38] Destrox: glhf
+[23:37:43] BanchoBot: Match starts in 5 seconds
+[23:37:43] bappoes: glgl
+[23:37:43] Soupmio: glll
+[23:37:43] BanchoBot: Match starts in 4 seconds
+[23:37:45] BanchoBot: Match starts in 3 seconds
+[23:37:45] BanchoBot: Good luck, have fun!
+[23:37:47] BanchoBot: The match has started!
+[23:41:06] BanchoBot: Soupmio finished playing (Score: 281484, PASSED).
+[23:41:06] BanchoBot: dumb dog finished playing (Score: 494538, PASSED).
+[23:41:06] BanchoBot: bappoes finished playing (Score: 431508, PASSED).
+[23:41:08] BanchoBot: Arosami finished playing (Score: 529736, PASSED).
+[23:41:08] BanchoBot: Bairechuu finished playing (Score: 1050602, PASSED).
+[23:41:08] BanchoBot: Destrox finished playing (Score: 216459, PASSED).
+[23:41:08] BanchoBot: L9 MATEIUT finished playing (Score: 723539, PASSED).
+[23:41:08] BanchoBot: ZimboGod finished playing (Score: 528092, PASSED).
+[23:41:08] BanchoBot: The match has finished!
+[23:41:15] BCraftMG: !mp mods NF DT
+[23:41:15] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[23:41:17] BCraftMG: !mp map 2750914 0
+[23:41:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2750914 Yousei Teikoku - Paradiso=Inferno
+[23:41:17] BanchoBot: Changed match mode to Osu
+[23:41:19] BCraftMG: !mp timer 120
+[23:41:19] BanchoBot: Countdown ends in 2 minutes
+[23:41:19] Destrox: nice fc
+[23:41:22] Bairechuu: sightread buff
+[23:41:22] Destrox: wtf
+[23:41:29] BanchoBot: ZimboGod left the game.
+[23:41:31] BanchoBot: Froster23 joined in slot 5.
+[23:41:31] Destrox: por que a mi eso no me funciona
+[23:41:31] L9_MATEIUT: i hate my shake
+[23:41:35] Soupmio: cracked
+[23:41:35] Destrox: :crying:
+[23:41:46] L9_MATEIUT: 186 bpm
+[23:41:49] L9_MATEIUT: man
+[23:41:51] L9_MATEIUT: why im so nervous
+[23:42:19] BanchoBot: Countdown ends in 1 minute
+[23:42:24] BanchoBot: All players are ready
+[23:42:28] BCraftMG: !mp settings
+[23:42:28] L9_MATEIUT: gl hf
+[23:42:31] BanchoBot: Room name: SOSF: (Qualifiers) vs (Q33), History: https://osu.ppy.sh/mp/101792882
+[23:42:31] BanchoBot: Beatmap: https://osu.ppy.sh/b/2750914 Yousei Teikoku - Paradiso=Inferno
+[23:42:31] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:42:31] BanchoBot: Active mods: NoFail, DoubleTime
+[23:42:31] BanchoBot: Players: 8
+[23:42:31] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15346564 Bairechuu       
+[23:42:31] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9490968 dumb dog        
+[23:42:31] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11108655 Arosami         
+[23:42:31] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15220967 Destrox         
+[23:42:31] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11310668 Froster23       
+[23:42:31] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12964646 Soupmio         
+[23:42:31] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/12579786 bappoes         
+[23:42:31] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/14774102 L9 MATEIUT      
+[23:42:32] BCraftMG: !mp start 10
+[23:42:33] Bairechuu: glhf
+[23:42:33] Destrox: gl
+[23:42:33] BanchoBot: Countdown aborted
+[23:42:33] BanchoBot: Match starts in 10 seconds
+[23:42:33] BanchoBot: Queued the match to start in 10 seconds
+[23:42:37] dumb_dog: gl
+[23:42:40] BanchoBot: Match starts in 5 seconds
+[23:42:40] BanchoBot: Match starts in 4 seconds
+[23:42:42] bappoes: glgl
+[23:42:42] BanchoBot: Match starts in 3 seconds
+[23:42:42] BanchoBot: Good luck, have fun!
+[23:42:44] BanchoBot: The match has started!
+[23:45:11] BanchoBot: Bairechuu finished playing (Score: 603950, PASSED).
+[23:45:11] BanchoBot: dumb dog finished playing (Score: 268528, PASSED).
+[23:45:11] BanchoBot: Froster23 finished playing (Score: 641196, PASSED).
+[23:45:11] BanchoBot: bappoes finished playing (Score: 286926, PASSED).
+[23:45:14] BanchoBot: Arosami finished playing (Score: 409343, PASSED).
+[23:45:14] BanchoBot: L9 MATEIUT finished playing (Score: 144977, PASSED).
+[23:45:14] BanchoBot: Soupmio finished playing (Score: 39242, PASSED).
+[23:45:14] BanchoBot: Destrox finished playing (Score: 122896, PASSED).
+[23:45:14] BanchoBot: The match has finished!
+[23:45:20] Soupmio: xootytapped
+[23:45:23] BCraftMG: !mp mods NF DT
+[23:45:23] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[23:45:25] BCraftMG: !mp map 1694417 0
+[23:45:25] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1694417 UNISON SQUARE GARDEN - Sugar Song to Bitter Step
+[23:45:25] BanchoBot: Changed match mode to Osu
+[23:45:27] BCraftMG: !mp timer 120
+[23:45:27] BanchoBot: Countdown ends in 2 minutes
+[23:45:29] Destrox: haaahahhaha
+[23:46:27] BanchoBot: Countdown ends in 1 minute
+[23:46:30] BanchoBot: All players are ready
+[23:46:34] Bairechuu: glhf
+[23:46:56] BanchoBot: Countdown ends in 30 seconds
+[23:46:56] bappoes: glgl
+[23:47:01] BCraftMG: !mp settings
+[23:47:03] Soupmio: glhf
+[23:47:03] BanchoBot: Room name: SOSF: (Qualifiers) vs (Q33), History: https://osu.ppy.sh/mp/101792882
+[23:47:03] BanchoBot: Beatmap: https://osu.ppy.sh/b/1694417 UNISON SQUARE GARDEN - Sugar Song to Bitter Step
+[23:47:03] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:47:03] BanchoBot: Active mods: NoFail, DoubleTime
+[23:47:03] BanchoBot: Players: 8
+[23:47:03] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15346564 Bairechuu       
+[23:47:03] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9490968 dumb dog        
+[23:47:03] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11108655 Arosami         
+[23:47:03] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15220967 Destrox         
+[23:47:03] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11310668 Froster23       
+[23:47:03] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/12964646 Soupmio         
+[23:47:03] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/12579786 bappoes         
+[23:47:03] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/14774102 L9 MATEIUT      
+[23:47:03] BCraftMG: !mp start 10
+[23:47:05] Destrox: gl
+[23:47:05] BanchoBot: Countdown aborted
+[23:47:05] BanchoBot: Match starts in 10 seconds
+[23:47:05] BanchoBot: Queued the match to start in 10 seconds
+[23:47:07] BanchoBot: L9 MATEIUT left the game.
+[23:47:12] BanchoBot: Match starts in 5 seconds
+[23:47:12] BanchoBot: Match starts in 4 seconds
+[23:47:14] BanchoBot: Match starts in 3 seconds
+[23:47:14] BanchoBot: Good luck, have fun!
+[23:47:16] Destrox: uhm
+[23:47:16] BanchoBot: The match has started!
+[23:47:25] BCraftMG: !mp abort
+[23:47:27] BanchoBot: Aborted the match
+[23:47:34] BanchoBot: L9 MATEIUT joined in slot 8.
+[23:47:34] Bairechuu: bro :sob:
+[23:47:54] L9_MATEIUT: mb mb
+[23:48:05] Destrox: soup get ready
+[23:48:23] Bairechuu: cant we just like start
+[23:48:32] Bairechuu: the 2 mins have already passed
+[23:48:37] BCraftMG: !mp settings
+[23:48:39] BanchoBot: Room name: SOSF: (Qualifiers) vs (Q33), History: https://osu.ppy.sh/mp/101792882
+[23:48:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/1694417 UNISON SQUARE GARDEN - Sugar Song to Bitter Step
+[23:48:39] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:48:39] BanchoBot: Active mods: NoFail, DoubleTime
+[23:48:39] BanchoBot: Players: 8
+[23:48:39] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15346564 Bairechuu       
+[23:48:39] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9490968 dumb dog        
+[23:48:39] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11108655 Arosami         
+[23:48:39] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15220967 Destrox         
+[23:48:39] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11310668 Froster23       
+[23:48:39] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/12964646 Soupmio         
+[23:48:39] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/12579786 bappoes         
+[23:48:39] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/14774102 L9 MATEIUT      
+[23:48:41] Destrox: its ok
+[23:48:45] Destrox: we wont qual anyways
+[23:48:56] dumb_dog: theres people on the lobby
+[23:48:59] BanchoBot: All players are ready
+[23:49:01] BCraftMG: !mp start 10
+[23:49:03] BanchoBot: Match starts in 10 seconds
+[23:49:03] BanchoBot: Queued the match to start in 10 seconds
+[23:49:10] BanchoBot: Match starts in 5 seconds
+[23:49:10] Bairechuu: glhf
+[23:49:10] BanchoBot: Match starts in 4 seconds
+[23:49:10] bappoes: glglwwq:
+[23:49:12] BanchoBot: Match starts in 3 seconds
+[23:49:12] BanchoBot: Good luck, have fun!
+[23:49:14] BanchoBot: The match has started!
+[23:49:19] BCraftMG: i handle this a bit bad too
+[23:52:10] BanchoBot: Bairechuu finished playing (Score: 626516, PASSED).
+[23:52:10] BanchoBot: Soupmio finished playing (Score: 35804, PASSED).
+[23:52:10] BanchoBot: L9 MATEIUT finished playing (Score: 243749, PASSED).
+[23:52:10] BanchoBot: Destrox finished playing (Score: 86145, PASSED).
+[23:52:10] BanchoBot: bappoes finished playing (Score: 149657, PASSED).
+[23:52:10] BanchoBot: Arosami finished playing (Score: 283717, PASSED).
+[23:52:10] BanchoBot: Froster23 finished playing (Score: 347005, PASSED).
+[23:52:12] BanchoBot: dumb dog finished playing (Score: 258168, PASSED).
+[23:52:12] BanchoBot: The match has finished!
+[23:52:21] dumb_dog: ty for the host
+[23:52:23] Destrox: ggwp
+[23:52:25] Destrox: ty for ref
+[23:52:27] Soupmio: ggs
+[23:52:36] L9_MATEIUT: thx for ref!
+[23:52:36] bappoes: ggs
+[23:52:36] Bairechuu: ggwp and gl, ty for ref <3
+[23:52:39] bappoes: ty for ref
+[23:52:41] BanchoBot: dumb dog left the game.
+[23:52:41] BCraftMG: npnp
+[23:52:42] BCraftMG: <3
+[23:52:45] Bairechuu: \o
+[23:52:45] BanchoBot: L9 MATEIUT left the game.
+[23:52:45] BanchoBot: Arosami left the game.
+[23:52:47] BanchoBot: Bairechuu left the game.
+[23:52:47] bappoes: o/
+[23:52:47] Destrox: o7
+[23:52:47] BanchoBot: Destrox left the game.
+[23:52:50] BanchoBot: bappoes left the game.
+[23:52:52] Soupmio: o/
+[23:52:52] BanchoBot: Soupmio left the game.
+[23:52:54] BanchoBot: Froster23 left the game.
+[23:53:03] BCraftMG: !mp close
+[23:53:05] BanchoBot: Closed the match

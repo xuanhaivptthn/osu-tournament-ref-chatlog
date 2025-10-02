@@ -1,0 +1,234 @@
+[19:52:35] Joined #mp_103180648
+[19:52:35] BCraftMG: !mp settings
+[19:52:37] BanchoBot: Room name: TFGT: (soup) vs (Fumole ), History: https://osu.ppy.sh/mp/103180648
+[19:52:37] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[19:52:37] BanchoBot: Players: 0
+[19:52:46] BCraftMG: !mp set 2 3 8
+[19:52:47] BanchoBot: Changed match settings to 8 slots, TeamVs, ScoreV2
+[20:55:13] BCraftMG: !mp mods 1 Freemod
+[20:55:14] BanchoBot: Disabled all mods, enabled FreeMod
+[20:55:52] BCraftMG: !mp invite #14309415
+[20:55:53] BanchoBot: Invited submissive to the room
+[20:55:56] BCraftMG: !mp invite #19052463
+[20:55:58] BanchoBot: Invited Estella fanboy to the room
+[20:56:29] BCraftMG: !mp invite #14309415
+[20:56:31] BanchoBot: Invited submissive to the room
+[20:56:33] BCraftMG: !mp invite #19052463
+[20:56:33] BanchoBot: Invited Estella fanboy to the room
+[20:56:59] BanchoBot: Estella fanboy joined in slot 1 for team blue.
+[20:57:14] BCraftMG: yay
+[20:57:39] BanchoBot: Vixera joined in slot 2 for team red.
+[20:58:41] BCraftMG: Vixera can you change to blue
+[20:58:56] BanchoBot: Vixera changed to Blue
+[21:01:25] Estella_fanboy: wow
+[21:01:59] BCraftMG: !mp invite Ryshult
+[21:02:00] BanchoBot: Invited Ryshult to the room
+[21:02:14] BCraftMG: !mp invite #6973354
+[21:02:15] BanchoBot: Invited ____________ to the room
+[21:02:20] BanchoBot: ____________ joined in slot 3 for team blue.
+[21:02:22] BanchoBot: ____________ moved to slot 5
+[21:02:22] BanchoBot: ____________ changed to Red
+[21:02:31] BCraftMG: hello finally
+[21:02:39] Estella_fanboy: :tf:
+[21:02:44] ____________: hello
+[21:02:59] BanchoBot: submissive joined in slot 3 for team blue.
+[21:02:59] BCraftMG: ____________ is your captain coming
+[21:03:03] Estella_fanboy: hi
+[21:03:08] BanchoBot: submissive changed to Red
+[21:03:10] BanchoBot: submissive moved to slot 4
+[21:03:11] BCraftMG: hi
+[21:03:12] ____________: yes
+[21:03:15] ____________: hes here
+[21:03:24] BCraftMG: we going straight to roll right?
+[21:03:36] Estella_fanboy: sure thing
+[21:03:43] ____________: yes i guess
+[21:03:52] submissive: !roll
+[21:03:52] BanchoBot: submissive rolls 10 point(s)
+[21:03:55] BCraftMG: :skull:
+[21:03:58] Estella_fanboy: !roll
+[21:03:58] BanchoBot: Estella fanboy rolls 66 point(s)
+[21:04:03] ____________: ^^
+[21:04:09] BanchoBot: ____________ moved to slot 3
+[21:04:16] BCraftMG: Fumole  please choose first pick or ban
+[21:04:22] Estella_fanboy: always roll later
+[21:04:47] Estella_fanboy: first pick
+[21:05:36] BCraftMG: soup first ban
+[21:05:43] submissive: fm5
+[21:05:44] BCraftMG: !mp timer 120
+[21:05:45] BanchoBot: Countdown ends in 2 minutes
+[21:05:48] Estella_fanboy: fm7
+[21:06:12] Estella_fanboy: ban fm7
+[21:06:28] BCraftMG: soup | 0 - 0 | Fumole  // First Pick: Fumole
+[21:06:30] BCraftMG: !mp timer 120
+[21:06:31] BanchoBot: Ryshult joined in slot 5 for team blue.
+[21:06:31] BanchoBot: Countdown aborted
+[21:06:31] BanchoBot: Countdown ends in 2 minutes
+[21:07:02] Estella_fanboy: fm1
+[21:07:13] BCraftMG: !mp map 3010391 0
+[21:07:15] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3010391 ELECTROCUTICA feat. Luschka - #006F86
+[21:07:15] BanchoBot: Changed match mode to Osu
+[21:07:18] BCraftMG: !mp timẻ 120
+[21:07:21] BCraftMG: !mp timer 120
+[21:07:24] BanchoBot: Ryshult left the game.
+[21:07:24] BanchoBot: Countdown aborted
+[21:07:24] BanchoBot: Countdown ends in 2 minutes
+[21:07:46] BanchoBot: All players are ready
+[21:07:50] BCraftMG: !mp settings
+[21:07:52] BanchoBot: Room name: TFGT: (soup) vs (Fumole ), History: https://osu.ppy.sh/mp/103180648
+[21:07:52] BanchoBot: Beatmap: https://osu.ppy.sh/b/3010391 ELECTROCUTICA feat. Luschka - #006F86
+[21:07:52] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:07:52] BanchoBot: Active mods: Freemod
+[21:07:52] BanchoBot: Players: 4
+[21:07:52] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19052463 Estella fanboy  [Team Blue / NoFail]
+[21:07:52] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14423163 Vixera          [Team Blue / NoFail]
+[21:07:52] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6973354 ____________    [Team Red  / NoFail]
+[21:07:52] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14309415 submissive      [Team Red  / NoFail]
+[21:08:09] BCraftMG: !mp start 10
+[21:08:10] BanchoBot: Countdown aborted
+[21:08:10] BanchoBot: Match starts in 10 seconds
+[21:08:10] BanchoBot: Queued the match to start in 10 seconds
+[21:08:16] BanchoBot: Match starts in 5 seconds
+[21:08:16] BanchoBot: Match starts in 4 seconds
+[21:08:18] BanchoBot: Match starts in 3 seconds
+[21:08:18] BanchoBot: Good luck, have fun!
+[21:08:20] BanchoBot: The match has started!
+[21:08:20] ____________: glhf
+[21:15:34] BanchoBot: submissive finished playing (Score: 763456, PASSED).
+[21:15:34] BanchoBot: Estella fanboy finished playing (Score: 547511, PASSED).
+[21:15:34] BanchoBot: ____________ finished playing (Score: 380481, PASSED).
+[21:15:34] BanchoBot: Vixera finished playing (Score: 490715, PASSED).
+[21:15:34] BanchoBot: The match has finished!
+[21:15:50] BCraftMG: soup | 1 - 0 | Fumole  // Next Pick: soup
+[21:15:53] BCraftMG: !mp timer 120
+[21:15:54] BanchoBot: Countdown ends in 2 minutes
+[21:16:29] Estella_fanboy: wwwwww
+[21:16:48] submissive: fm6
+[21:16:55] BanchoBot: Countdown ends in 1 minute
+[21:17:07] BCraftMG: !mp map 3434238 0
+[21:17:08] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3434238 Kalafina - red moon
+[21:17:08] BanchoBot: Changed match mode to Osu
+[21:17:13] BCraftMG: !mp timer 120
+[21:17:15] BanchoBot: Countdown aborted
+[21:17:15] BanchoBot: Countdown ends in 2 minutes
+[21:17:17] BanchoBot: ____________ left the game.
+[21:17:21] BCraftMG: please remember to change mods if you need
+[21:18:16] BanchoBot: Countdown ends in 1 minute
+[21:18:45] BanchoBot: All players are ready
+[21:18:45] BanchoBot: Countdown ends in 30 seconds
+[21:18:50] BCraftMG: !mp settings
+[21:18:52] BanchoBot: Room name: TFGT: (soup) vs (Fumole ), History: https://osu.ppy.sh/mp/103180648
+[21:18:52] BanchoBot: Beatmap: https://osu.ppy.sh/b/3434238 Kalafina - red moon
+[21:18:52] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:18:52] BanchoBot: Active mods: Freemod
+[21:18:52] BanchoBot: Players: 3
+[21:18:52] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19052463 Estella fanboy  [Team Blue / NoFail]
+[21:18:52] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14423163 Vixera          [Team Blue / NoFail, HardRock]
+[21:18:52] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14309415 submissive      [Team Red  / NoFail]
+[21:18:58] BanchoBot: Ryshult joined in slot 3 for team blue.
+[21:19:00] Estella_fanboy: other teammates>
+[21:19:07] BanchoBot: Countdown ends in 10 seconds
+[21:19:11] BanchoBot: Countdown ends in 5 seconds
+[21:19:11] BanchoBot: Countdown ends in 4 seconds
+[21:19:13] BanchoBot: Countdown ends in 3 seconds
+[21:19:13] BanchoBot: Countdown ends in 2 seconds
+[21:19:16] BanchoBot: Countdown ends in 1 second
+[21:19:16] BanchoBot: Countdown finished
+[21:19:16] BanchoBot: All players are ready
+[21:19:20] BanchoBot: Ryshult changed to Red
+[21:19:22] BCraftMG: change team buds
+[21:19:24] BCraftMG: !mp settings
+[21:19:27] BanchoBot: Room name: TFGT: (soup) vs (Fumole ), History: https://osu.ppy.sh/mp/103180648
+[21:19:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/3434238 Kalafina - red moon
+[21:19:27] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:19:27] BanchoBot: Active mods: Freemod
+[21:19:27] BanchoBot: Players: 4
+[21:19:27] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/19052463 Estella fanboy  [Team Blue / NoFail]
+[21:19:27] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/14423163 Vixera          [Team Blue / NoFail, HardRock]
+[21:19:27] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/11189164 Ryshult         [Team Red  / NoFail, Hidden]
+[21:19:27] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14309415 submissive      [Team Red  / NoFail]
+[21:19:53] BanchoBot: All players are ready
+[21:19:57] BCraftMG: !mp settings
+[21:19:58] BanchoBot: Room name: TFGT: (soup) vs (Fumole ), History: https://osu.ppy.sh/mp/103180648
+[21:19:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/3434238 Kalafina - red moon
+[21:19:58] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:19:58] BanchoBot: Active mods: Freemod
+[21:19:58] BanchoBot: Players: 4
+[21:19:58] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19052463 Estella fanboy  [Team Blue / NoFail]
+[21:19:58] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14423163 Vixera          [Team Blue / NoFail, HardRock]
+[21:19:58] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11189164 Ryshult         [Team Red  / NoFail]
+[21:19:58] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14309415 submissive      [Team Red  / NoFail]
+[21:20:02] BCraftMG: !mp start 5
+[21:20:04] BanchoBot: Match starts in 5 seconds
+[21:20:04] BanchoBot: Queued the match to start in 5 seconds
+[21:20:06] BanchoBot: Match starts in 4 seconds
+[21:20:06] BanchoBot: Match starts in 3 seconds
+[21:20:08] BanchoBot: Good luck, have fun!
+[21:20:10] BanchoBot: The match has started!
+[21:20:10] Ryshult: glhf
+[21:26:07] BanchoBot: Ryshult finished playing (Score: 493171, PASSED).
+[21:26:07] BanchoBot: Estella fanboy finished playing (Score: 368278, PASSED).
+[21:26:07] BanchoBot: submissive finished playing (Score: 971655, PASSED).
+[21:26:09] BanchoBot: Vixera finished playing (Score: 546171, PASSED).
+[21:26:09] BanchoBot: The match has finished!
+[21:26:24] BanchoBot: ____________ joined in slot 5 for team blue.
+[21:26:27] BCraftMG: soup | 2 - 0 | Fumole  // Next Pick: Fumole
+[21:26:32] BCraftMG: !mp timer 120
+[21:26:33] BanchoBot: Countdown ends in 2 minutes
+[21:26:49] Vixera: fm4
+[21:26:55] BanchoBot: Ryshult left the game.
+[21:26:57] BCraftMG: !mp map 1930104 0
+[21:26:58] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1930104 ziki_7 - Astral Voyager
+[21:26:58] BanchoBot: Changed match mode to Osu
+[21:27:01] BCraftMG: !mp timer 120
+[21:27:02] BanchoBot: Countdown aborted
+[21:27:02] BanchoBot: Countdown ends in 2 minutes
+[21:27:06] BanchoBot: ____________ moved to slot 3
+[21:27:06] BanchoBot: ____________ changed to Red
+[21:27:31] Estella_fanboy: this match is bo?
+[21:27:35] Estella_fanboy: bo5?
+[21:27:57] BCraftMG: 1 sec
+[21:28:03] BCraftMG: yea bo5
+[21:28:03] BanchoBot: Countdown ends in 1 minute
+[21:28:12] Estella_fanboy: ok
+[21:28:12] BanchoBot: All players are ready
+[21:28:14] Estella_fanboy: gl
+[21:28:16] ____________: :3
+[21:28:23] BCraftMG: !mp settings
+[21:28:25] BanchoBot: Room name: TFGT: (soup) vs (Fumole ), History: https://osu.ppy.sh/mp/103180648
+[21:28:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/1930104 ziki_7 - Astral Voyager
+[21:28:25] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:28:25] BanchoBot: Active mods: Freemod
+[21:28:25] BanchoBot: Players: 4
+[21:28:25] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19052463 Estella fanboy  [Team Blue / NoFail]
+[21:28:25] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14423163 Vixera          [Team Blue / NoFail]
+[21:28:25] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6973354 ____________    [Team Red  / NoFail]
+[21:28:25] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14309415 submissive      [Team Red  / NoFail]
+[21:28:31] BCraftMG: !mp start 5 GLHF
+[21:28:32] BanchoBot: Countdown aborted
+[21:28:32] BanchoBot: Match starts in 5 seconds
+[21:28:32] BanchoBot: Queued the match to start in 5 seconds
+[21:28:34] BanchoBot: Match starts in 4 seconds
+[21:28:34] BanchoBot: Match starts in 3 seconds
+[21:28:36] BanchoBot: Good luck, have fun!
+[21:28:38] BanchoBot: The match has started!
+[21:33:55] BanchoBot: Estella fanboy finished playing (Score: 432047, PASSED).
+[21:33:57] BanchoBot: ____________ finished playing (Score: 355667, PASSED).
+[21:33:57] BanchoBot: submissive finished playing (Score: 483495, PASSED).
+[21:33:57] BanchoBot: Vixera finished playing (Score: 405121, PASSED).
+[21:33:57] BanchoBot: The match has finished!
+[21:34:08] BCraftMG: Congrats to soup for winning the match! GGWP both teams!
+[21:34:15] submissive: ggwp
+[21:34:15] Estella_fanboy: 2k points!!!
+[21:34:17] Estella_fanboy: ggwp
+[21:34:21] Vixera: ggs
+[21:34:28] BanchoBot: Vixera left the game.
+[21:34:28] Estella_fanboy: ty for ref
+[21:34:30] BanchoBot: Estella fanboy left the game.
+[21:34:32] BanchoBot: submissive left the game.
+[21:34:32] ____________: gg
+[21:34:33] BCraftMG: o/
+[21:34:35] ____________: ty for ref
+[21:34:54] BanchoBot: ____________ left the game.
+[21:35:55] BCraftMG: !mp clóe
+[21:35:58] BCraftMG: !mp close
+[21:36:00] BanchoBot: Closed the match

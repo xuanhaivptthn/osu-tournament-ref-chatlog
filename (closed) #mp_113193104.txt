@@ -1,0 +1,801 @@
+[20:51:37] Joined #mp_113193104
+[20:51:37] BCraftMG: !mp settings
+[20:51:38] BanchoBot: Room name: 5WC2024: (Thailand) vs (China), History: https://osu.ppy.sh/mp/113193104
+[20:51:38] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[20:51:38] BanchoBot: Players: 0
+[20:51:54] BCraftMG: !mp set 2 3 16
+[20:51:54] BanchoBot: Changed match settings to 16 slots, TeamVs, ScoreV2
+[20:51:56] BCraftMG: !mp map 3895683
+[20:51:57] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3895683 rN - Harumachi Elevator
+[20:52:00] BCraftMG: !mp addref Aetherian
+[20:52:00] BanchoBot: Added Aetherian to the match referees
+[20:52:02] BCraftMG: !mp addref KonKonKinakoN
+[20:52:02] BanchoBot: Added KonKonKinakoN to the match referees
+[20:54:04] BCraftMG: !mp invite #11456628
+[20:54:05] BanchoBot: Invited Moca Aoba to the room
+[20:54:07] BCraftMG: !mp invite #3367476
+[20:54:08] BanchoBot: Invited Knd to the room
+[20:54:58] BanchoBot: Knd joined in slot 1 for team blue.
+[20:55:03] BanchoBot: Knd moved to slot 6
+[20:55:50] BanchoBot: Moca Aoba joined in slot 1 for team blue.
+[20:55:54] BCraftMG: o/
+[20:56:04] BCraftMG: Thailand will be red 1-4
+[20:56:09] BCraftMG: China on blue 5-8
+[20:56:14] Knd: o/
+[20:56:18] BanchoBot: Moca Aoba changed to Red
+[20:56:22] Moca_Aoba: o/
+[20:56:31] BCraftMG: we can start with rolls :3c
+[20:56:43] Moca_Aoba: im so sleepy brahhhhhhhhhhh
+[20:56:44] Moca_Aoba: !roll
+[20:56:44] BanchoBot: Moca Aoba rolls 1 point(s)
+[20:56:45] Knd: !roll
+[20:56:45] BanchoBot: Knd rolls 60 point(s)
+[20:56:48] Moca_Aoba: WTF
+[20:56:52] Knd: lol
+[20:57:02] BCraftMG: insert fire emoji
+[20:57:04] BCraftMG: anyway
+[20:57:05] BCraftMG: The winner of the roll will protect second, ban first, and pick first.
+[20:57:20] BCraftMG: so Thailand protect first
+[20:57:23] BCraftMG: !mp timer 120
+[20:57:25] BanchoBot: Countdown ends in 2 minutes
+[20:57:46] BanchoBot: monkerzaza joined in slot 2 for team red.
+[20:58:13] Moca_Aoba: nm2
+[20:58:23] BanchoBot: monkerzaza left the game.
+[20:58:25] BanchoBot: Countdown ends in 1 minute
+[20:58:27] Moca_Aoba: didnt discuss this as always
+[20:58:30] BCraftMG: China protect
+[20:58:31] BCraftMG: !mp timer 120
+[20:58:32] BanchoBot: Countdown aborted
+[20:58:32] BanchoBot: Countdown ends in 2 minutes
+[20:58:35] Knd: hd2
+[20:58:39] BanchoBot: Trolloli joined in slot 2 for team red.
+[20:58:42] BCraftMG: lovely
+[20:58:44] BanchoBot: TzArtifactz joined in slot 3 for team blue.
+[20:58:49] BCraftMG: China ban first
+[20:58:49] BCraftMG: !mp timer 120
+[20:58:50] BanchoBot: Countdown aborted
+[20:58:50] BanchoBot: Countdown ends in 2 minutes
+[20:58:52] BanchoBot: Trolloli changed to Blue
+[20:58:53] BanchoBot: TzArtifactz changed to Red
+[20:58:54] Knd: ban hr3
+[20:58:54] BanchoBot: TzArtifactz left the game.
+[20:59:02] BanchoBot: Trolloli moved to slot 15
+[20:59:08] BCraftMG: Thailand bans
+[20:59:09] BCraftMG: !mp timer 120
+[20:59:10] BanchoBot: Countdown aborted
+[20:59:10] BanchoBot: Countdown ends in 2 minutes
+[20:59:52] Moca_Aoba: hr1
+[21:00:10] BanchoBot: Countdown ends in 1 minute
+[21:00:22] BCraftMG: 1 more ban
+[21:00:27] BCraftMG: !mp timer 120
+[21:00:28] BanchoBot: Countdown aborted
+[21:00:28] BanchoBot: Countdown ends in 2 minutes
+[21:00:33] Moca_Aoba: can i doubleban again?
+[21:00:37] Moca_Aoba: i forgot
+[21:00:42] BCraftMG: yea you can
+[21:00:44] Knd: wut
+[21:00:54] Moca_Aoba: hr2 it is
+[21:01:00] BanchoBot: No rank joined in slot 2 for team red.
+[21:01:09] BCraftMG: whered hr go
+[21:01:09] Knd: ban hd3
+[21:01:13] BanchoBot: No rank moved to slot 7
+[21:01:15] BanchoBot: No rank moved to slot 5
+[21:01:15] BanchoBot: No rank moved to slot 7
+[21:01:18] BCraftMG: Thailand | 0 - 0 | China // BO9, Next pick: China
+[21:01:18] BanchoBot: No rank changed to Blue
+[21:01:20] BCraftMG: !mp timer 120
+[21:01:20] BanchoBot: Countdown aborted
+[21:01:20] BanchoBot: Countdown ends in 2 minutes
+[21:01:42] Knd: hd2
+[21:01:51] BCraftMG: !mp map 4048863
+[21:01:52] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4048863 baker - Kimi ga Kimi ga -vocanico remix-
+[21:01:53] BanchoBot: WorthlessPlayer joined in slot 2 for team red.
+[21:01:53] BCraftMG: !mp mods 9
+[21:01:54] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:01:55] BCraftMG: !mp timer 120
+[21:01:56] BanchoBot: Countdown aborted
+[21:01:56] BanchoBot: Countdown ends in 2 minutes
+[21:02:01] BanchoBot: Trolloli left the game.
+[21:02:02] BanchoBot: Sand-Star joined in slot 3 for team blue.
+[21:02:05] BanchoBot: Knd moved to slot 8
+[21:02:08] BanchoBot: WorthlessPlayer moved to slot 5
+[21:02:10] BanchoBot: WorthlessPlayer changed to Blue
+[21:02:11] BanchoBot: WorthlessPlayer moved to slot 6
+[21:02:26] BanchoBot: Sand-Star moved to slot 5
+[21:02:55] BanchoBot: monkerzaza joined in slot 2 for team red.
+[21:02:56] BanchoBot: Countdown ends in 1 minute
+[21:03:19] BanchoBot: TzArtifactz joined in slot 3 for team blue.
+[21:03:22] Moca_Aoba: my teammate firetrucking DEAD
+[21:03:26] BanchoBot: Countdown ends in 30 seconds
+[21:03:29] BanchoBot: TzArtifactz changed to Red
+[21:03:29] monkerzaza: gg
+[21:03:42] BCraftMG: timerrr
+[21:03:46] BanchoBot: Countdown ends in 10 seconds
+[21:03:51] BanchoBot: Countdown ends in 5 seconds
+[21:03:53] BanchoBot: Countdown ends in 4 seconds
+[21:03:54] BanchoBot: Countdown ends in 3 seconds
+[21:03:55] BanchoBot: Countdown ends in 2 seconds
+[21:03:55] BanchoBot: Countdown ends in 1 second
+[21:03:56] BanchoBot: Countdown finished
+[21:04:03] WorthlessPlayer: what
+[21:04:12] BanchoBot: NekoShabeta joined in slot 4 for team red.
+[21:04:12] BCraftMG: Moca
+[21:04:19] BCraftMG: please get someone in
+[21:04:25] No_rank: glhf
+[21:04:25] WorthlessPlayer: glhf!
+[21:04:26] BCraftMG: !mp settings
+[21:04:27] BanchoBot: Room name: 5WC2024: (Thailand) vs (China), History: https://osu.ppy.sh/mp/113193104
+[21:04:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/4048863 baker - Kimi ga Kimi ga -vocanico remix-
+[21:04:27] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:04:27] BanchoBot: Active mods: NoFail, Hidden
+[21:04:27] BanchoBot: Players: 8
+[21:04:27] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11456628 Moca Aoba       [Team Red ]
+[21:04:27] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11025701 monkerzaza      [Team Red ]
+[21:04:27] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/14833619 TzArtifactz     [Team Red ]
+[21:04:27] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/12017880 NekoShabeta     [Team Red ]
+[21:04:27] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/19171701 Sand-Star       [Team Blue]
+[21:04:27] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/13858681 WorthlessPlayer [Team Blue]
+[21:04:27] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/10436444 No rank         [Team Blue]
+[21:04:27] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/3367476 Knd             [Team Blue]
+[21:04:29] Moca_Aoba: golf
+[21:04:30] Knd: glgl
+[21:04:33] monkerzaza: goose luck
+[21:04:34] BanchoBot: All players are ready
+[21:04:35] BCraftMG: !mp settings
+[21:04:36] BanchoBot: Room name: 5WC2024: (Thailand) vs (China), History: https://osu.ppy.sh/mp/113193104
+[21:04:36] BanchoBot: Beatmap: https://osu.ppy.sh/b/4048863 baker - Kimi ga Kimi ga -vocanico remix-
+[21:04:36] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:04:36] BanchoBot: Active mods: NoFail, Hidden
+[21:04:36] BanchoBot: Players: 8
+[21:04:36] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11456628 Moca Aoba       [Team Red ]
+[21:04:36] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11025701 monkerzaza      [Team Red ]
+[21:04:36] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14833619 TzArtifactz     [Team Red ]
+[21:04:36] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12017880 NekoShabeta     [Team Red ]
+[21:04:36] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/19171701 Sand-Star       [Team Blue]
+[21:04:36] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/13858681 WorthlessPlayer [Team Blue]
+[21:04:36] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/10436444 No rank         [Team Blue]
+[21:04:36] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/3367476 Knd             [Team Blue]
+[21:04:37] BCraftMG: !mp start 5 glhf
+[21:04:38] BanchoBot: Match starts in 5 seconds
+[21:04:38] BanchoBot: Queued the match to start in 5 seconds
+[21:04:39] BanchoBot: Match starts in 4 seconds
+[21:04:40] BanchoBot: Match starts in 3 seconds
+[21:04:41] BanchoBot: Good luck, have fun!
+[21:04:43] BanchoBot: The match has started!
+[21:07:53] BanchoBot: Sand-Star finished playing (Score: 487913, PASSED).
+[21:07:54] BanchoBot: Knd finished playing (Score: 414779, PASSED).
+[21:07:54] BanchoBot: NekoShabeta finished playing (Score: 448537, PASSED).
+[21:07:54] BanchoBot: monkerzaza finished playing (Score: 588227, PASSED).
+[21:07:54] BanchoBot: No rank finished playing (Score: 458358, PASSED).
+[21:07:54] BanchoBot: WorthlessPlayer finished playing (Score: 526684, PASSED).
+[21:07:54] BanchoBot: Moca Aoba finished playing (Score: 411386, PASSED).
+[21:07:54] BanchoBot: TzArtifactz finished playing (Score: 343018, PASSED).
+[21:07:54] BanchoBot: The match has finished!
+[21:08:07] BCraftMG: Thailand | 0 - 1 | China // BO9, Next pick: Thailand
+[21:08:08] BCraftMG: !mp timer 120
+[21:08:08] BanchoBot: Countdown ends in 2 minutes
+[21:08:23] BanchoBot: gxytcgxytc joined in slot 9 for team blue.
+[21:08:25] BanchoBot: gxytcgxytc moved to slot 11
+[21:08:30] BanchoBot: TzArtifactz left the game.
+[21:08:32] Knd: I don't feel so nervers but I can't control my hand self
+[21:08:40] Knd: why
+[21:08:43] BanchoBot: Knd left the game.
+[21:09:01] BanchoBot: WorthlessPlayer moved to slot 9
+[21:09:01] Moca_Aoba: nm2
+[21:09:07] BanchoBot: Sand-Star left the game.
+[21:09:09] BanchoBot: Countdown ends in 1 minute
+[21:09:09] monkerzaza: excited maybe
+[21:09:09] BanchoBot: WorthlessPlayer left the game.
+[21:09:11] BanchoBot: Ask to Wind joined in slot 3 for team blue.
+[21:09:13] BanchoBot: monkerzaza moved to slot 5
+[21:09:13] BanchoBot: - PPKM - joined in slot 2 for team red.
+[21:09:14] BanchoBot: Abratexz joined in slot 6 for team red.
+[21:09:15] BCraftMG: !mp map 3301559
+[21:09:15] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3301559 Victorius - Super Sonic Samurai
+[21:09:16] BCraftMG: !mp mods 1
+[21:09:16] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:09:18] BCraftMG: !mp timer 120
+[21:09:19] BanchoBot: Countdown aborted
+[21:09:19] BanchoBot: Countdown ends in 2 minutes
+[21:09:25] BanchoBot: Abratexz moved to slot 14
+[21:09:25] Moca_Aoba: rainbows patient tapping
+[21:09:27] BanchoBot: Trolloli joined in slot 6 for team red.
+[21:09:30] BanchoBot: Trolloli moved to slot 8
+[21:09:31] BanchoBot: Trolloli changed to Blue
+[21:09:32] BanchoBot: Ask to Wind left the game.
+[21:09:38] BanchoBot: NekoShabeta left the game.
+[21:09:44] BanchoBot: Abratexz moved to slot 3
+[21:09:51] BanchoBot: Ask to Wind joined in slot 4 for team red.
+[21:09:54] BanchoBot: Ask to Wind moved to slot 6
+[21:09:55] BanchoBot: Ask to Wind changed to Blue
+[21:10:13] BanchoBot: monkerzaza left the game.
+[21:10:17] BanchoBot: Saki Ayase joined in slot 4 for team red.
+[21:10:18] BanchoBot: gxytcgxytc moved to slot 5
+[21:10:20] BanchoBot: Countdown ends in 1 minute
+[21:10:30] BanchoBot: All players are ready
+[21:10:33] gxytcgxytc: glhf
+[21:10:35] Trolloli: glgl
+[21:10:36] BCraftMG: !mp settings
+[21:10:36] BanchoBot: Room name: 5WC2024: (Thailand) vs (China), History: https://osu.ppy.sh/mp/113193104
+[21:10:36] BanchoBot: Beatmap: https://osu.ppy.sh/b/3301559 Victorius - Super Sonic Samurai
+[21:10:36] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:10:36] BanchoBot: Active mods: NoFail
+[21:10:36] BanchoBot: Players: 8
+[21:10:36] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11456628 Moca Aoba       [Team Red ]
+[21:10:36] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11016805 - PPKM -        [Team Red ]
+[21:10:37] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11293951 Abratexz        [Team Red ]
+[21:10:37] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/27818688 Saki Ayase      [Team Red ]
+[21:10:37] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/874891 gxytcgxytc      [Team Blue]
+[21:10:37] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/1855908 Ask to Wind     [Team Blue]
+[21:10:37] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/10436444 No rank         [Team Blue]
+[21:10:37] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/4335279 Trolloli        [Team Blue]
+[21:10:37] Ask_to_Wind: glgl
+[21:10:40] BCraftMG: !mp start 5 glhf
+[21:10:40] BanchoBot: Countdown aborted
+[21:10:40] BanchoBot: Match starts in 5 seconds
+[21:10:40] BanchoBot: Queued the match to start in 5 seconds
+[21:10:41] Abratexz: gl
+[21:10:41] BanchoBot: Match starts in 4 seconds
+[21:10:42] Moca_Aoba: golf
+[21:10:42] BanchoBot: Match starts in 3 seconds
+[21:10:43] BanchoBot: Good luck, have fun!
+[21:10:45] BanchoBot: The match has started!
+[21:10:48] -_PPKM_-: glhf
+[21:15:00] BanchoBot: No rank finished playing (Score: 998972, PASSED).
+[21:15:00] BanchoBot: Moca Aoba finished playing (Score: 295448, PASSED).
+[21:15:00] BanchoBot: Saki Ayase finished playing (Score: 592861, PASSED).
+[21:15:00] BanchoBot: - PPKM - finished playing (Score: 980425, PASSED).
+[21:15:00] BanchoBot: gxytcgxytc finished playing (Score: 422327, PASSED).
+[21:15:00] BanchoBot: Trolloli finished playing (Score: 900747, PASSED).
+[21:15:00] BanchoBot: Abratexz finished playing (Score: 758503, PASSED).
+[21:15:00] BanchoBot: Ask to Wind finished playing (Score: 626302, PASSED).
+[21:15:00] BanchoBot: The match has finished!
+[21:15:07] Moca_Aoba: dude
+[21:15:13] Moca_Aoba: what is happening with my tapping
+[21:15:15] BCraftMG: Thailand | 0 - 2 | China // BO9, Next pick: China
+[21:15:17] Moca_Aoba: hello
+[21:15:18] BanchoBot: Sand-Star joined in slot 9 for team blue.
+[21:15:20] BanchoBot: Knd joined in slot 10 for team red.
+[21:15:21] Trolloli: that score
+[21:15:23] BCraftMG: !mp timer 120
+[21:15:24] BanchoBot: Countdown ends in 2 minutes
+[21:15:30] BanchoBot: Saki Ayase left the game.
+[21:15:30] BanchoBot: Trolloli moved to slot 11
+[21:15:31] Moca_Aoba: is this thing on
+[21:15:39] BanchoBot: Sand-Star moved to slot 13
+[21:15:52] BanchoBot: TzArtifactz joined in slot 4 for team red.
+[21:15:56] BanchoBot: Sand-Star moved to slot 14
+[21:16:23] BanchoBot: WorthlessPlayer joined in slot 8 for team red.
+[21:16:24] BanchoBot: Countdown ends in 1 minute
+[21:16:35] BanchoBot: WorthlessPlayer moved to slot 15
+[21:16:36] BanchoBot: WorthlessPlayer changed to Blue
+[21:16:38] BanchoBot: Sand-Star moved to slot 16
+[21:16:40] BanchoBot: Sand-Star left the game.
+[21:16:45] Knd: pick nm5
+[21:16:45] BanchoBot: gxytcgxytc moved to slot 8
+[21:16:45] BanchoBot: WorthlessPlayer left the game.
+[21:16:48] BanchoBot: Abratexz left the game.
+[21:16:49] BanchoBot: - PPKM - left the game.
+[21:16:52] BanchoBot: No rank left the game.
+[21:16:54] BCraftMG: !mp map 4117331
+[21:16:54] BanchoBot: Countdown ends in 30 seconds
+[21:16:54] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4117331 Frog96 - Letter to the Black World
+[21:16:55] BCraftMG: !mp timer 120
+[21:16:55] BanchoBot: Countdown aborted
+[21:16:55] BanchoBot: Countdown ends in 2 minutes
+[21:17:07] BanchoBot: Knd left the game.
+[21:17:30] BanchoBot: Moca Aoba left the game.
+[21:17:31] BanchoBot: TzArtifactz moved to slot 2
+[21:17:32] BanchoBot: TzArtifactz moved to slot 1
+[21:17:43] BanchoBot: Trolloli moved to slot 7
+[21:17:55] BanchoBot: monkerzaza joined in slot 2 for team red.
+[21:17:55] BanchoBot: Countdown ends in 1 minute
+[21:18:01] BanchoBot: TzArtifactz left the game.
+[21:18:02] BanchoBot: monkerzaza moved to slot 1
+[21:18:04] BanchoBot: Moca Aoba joined in slot 2 for team red.
+[21:18:26] BanchoBot: Countdown ends in 30 seconds
+[21:18:35] BanchoBot: TzArtifactz joined in slot 3 for team blue.
+[21:18:40] BCraftMG: timer check
+[21:18:45] BanchoBot: Knd joined in slot 4 for team red.
+[21:18:46] BanchoBot: Countdown ends in 10 seconds
+[21:18:47] BanchoBot: TzArtifactz changed to Red
+[21:18:48] BanchoBot: Knd moved to slot 5
+[21:18:49] BanchoBot: Knd changed to Blue
+[21:18:51] BanchoBot: Countdown ends in 5 seconds
+[21:18:52] BanchoBot: Countdown ends in 4 seconds
+[21:18:53] BanchoBot: Countdown ends in 3 seconds
+[21:18:54] BanchoBot: Countdown ends in 2 seconds
+[21:18:56] BanchoBot: Countdown ends in 1 second
+[21:18:56] BanchoBot: Countdown finished
+[21:19:04] Knd: hello
+[21:19:15] BanchoBot: Saki Ayase joined in slot 4 for team red.
+[21:19:25] BCraftMG: i am obligated to do mp start 15 next time Thailand stall
+[21:19:28] Moca_Aoba: our internet is rainbows or something
+[21:19:35] BanchoBot: All players are ready
+[21:19:37] BCraftMG: !mp settings
+[21:19:37] BanchoBot: Room name: 5WC2024: (Thailand) vs (China), History: https://osu.ppy.sh/mp/113193104
+[21:19:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/4117331 Frog96 - Letter to the Black World
+[21:19:37] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:19:37] BanchoBot: Active mods: NoFail
+[21:19:37] BanchoBot: Players: 8
+[21:19:37] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11025701 monkerzaza      [Team Red ]
+[21:19:37] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11456628 Moca Aoba       [Team Red ]
+[21:19:37] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14833619 TzArtifactz     [Team Red ]
+[21:19:37] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/27818688 Saki Ayase      [Team Red ]
+[21:19:37] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/3367476 Knd             [Team Blue]
+[21:19:37] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/1855908 Ask to Wind     [Team Blue]
+[21:19:37] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/4335279 Trolloli        [Team Blue]
+[21:19:37] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/874891 gxytcgxytc      [Team Blue]
+[21:19:39] gxytcgxytc: glhf
+[21:19:39] BCraftMG: !mp start 5 glhf
+[21:19:40] BanchoBot: Match starts in 5 seconds
+[21:19:40] BanchoBot: Queued the match to start in 5 seconds
+[21:19:42] BanchoBot: Match starts in 4 seconds
+[21:19:42] Moca_Aoba: golf
+[21:19:42] BanchoBot: Match starts in 3 seconds
+[21:19:43] BanchoBot: Good luck, have fun!
+[21:19:43] Knd: glgl
+[21:19:45] BanchoBot: The match has started!
+[21:21:54] BanchoBot: Ask to Wind finished playing (Score: 366499, PASSED).
+[21:21:54] BanchoBot: Knd finished playing (Score: 457219, PASSED).
+[21:21:54] BanchoBot: gxytcgxytc finished playing (Score: 731491, PASSED).
+[21:21:54] BanchoBot: monkerzaza finished playing (Score: 573371, PASSED).
+[21:21:54] BanchoBot: Moca Aoba finished playing (Score: 272723, PASSED).
+[21:21:55] BanchoBot: Saki Ayase finished playing (Score: 349041, PASSED).
+[21:21:55] BanchoBot: TzArtifactz finished playing (Score: 882994, PASSED).
+[21:21:56] BanchoBot: Trolloli finished playing (Score: 511591, PASSED).
+[21:21:56] BanchoBot: The match has finished!
+[21:22:15] BCraftMG: Thailand | 1 - 2 | China // BO9, Next pick: Thailand
+[21:22:16] BCraftMG: !mp timer 120
+[21:22:17] BanchoBot: Countdown ends in 2 minutes
+[21:22:20] BanchoBot: Saki Ayase left the game.
+[21:22:30] BanchoBot: TzArtifactz left the game.
+[21:22:41] gxytcgxytc: eh
+[21:22:48] BanchoBot: Abratexz joined in slot 3 for team blue.
+[21:22:52] BanchoBot: Abratexz changed to Red
+[21:23:08] BanchoBot: TzArtifactz joined in slot 4 for team red.
+[21:23:09] Moca_Aoba: dt1
+[21:23:12] BanchoBot: Moca Aoba left the game.
+[21:23:13] BanchoBot: - PPKM - joined in slot 2 for team red.
+[21:23:17] BanchoBot: Countdown ends in 1 minute
+[21:23:26] BCraftMG: !mp map 3140225
+[21:23:26] BanchoBot: Ask to Wind moved to slot 11
+[21:23:26] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3140225 Chata - Present
+[21:23:28] BanchoBot: No rank joined in slot 6 for team red.
+[21:23:30] BCraftMG: !mp mods 65
+[21:23:31] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:23:31] BCraftMG: !mp timer 120
+[21:23:32] BanchoBot: Knd left the game.
+[21:23:32] BanchoBot: Ask to Wind left the game.
+[21:23:32] BanchoBot: Countdown aborted
+[21:23:32] BanchoBot: Countdown ends in 2 minutes
+[21:23:34] BanchoBot: No rank changed to Blue
+[21:23:44] BanchoBot: Sand-Star joined in slot 5 for team blue.
+[21:23:47] BanchoBot: gxytcgxytc moved to slot 9
+[21:23:57] BanchoBot: Sand-Star moved to slot 8
+[21:23:59] BanchoBot: Aporia joined in slot 5 for team blue.
+[21:24:05] BanchoBot: gxytcgxytc left the game.
+[21:24:19] BanchoBot: All players are ready
+[21:24:22] BCraftMG: !mp settings
+[21:24:22] BanchoBot: Room name: 5WC2024: (Thailand) vs (China), History: https://osu.ppy.sh/mp/113193104
+[21:24:22] BanchoBot: Beatmap: https://osu.ppy.sh/b/3140225 Chata - Present
+[21:24:22] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:24:22] BanchoBot: Active mods: NoFail, DoubleTime
+[21:24:22] BanchoBot: Players: 8
+[21:24:22] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11025701 monkerzaza      [Team Red ]
+[21:24:22] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11016805 - PPKM -        [Team Red ]
+[21:24:22] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11293951 Abratexz        [Team Red ]
+[21:24:22] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14833619 TzArtifactz     [Team Red ]
+[21:24:22] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/8535398 Aporia          [Team Blue]
+[21:24:22] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10436444 No rank         [Team Blue]
+[21:24:22] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/4335279 Trolloli        [Team Blue]
+[21:24:22] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/19171701 Sand-Star       [Team Blue]
+[21:24:23] Aporia: gl
+[21:24:25] -_PPKM_-: glhf
+[21:24:27] monkerzaza: gl
+[21:24:27] Trolloli: gl
+[21:24:27] BCraftMG: !mp start 5 glhf
+[21:24:27] BanchoBot: Countdown aborted
+[21:24:27] BanchoBot: Match starts in 5 seconds
+[21:24:27] BanchoBot: Queued the match to start in 5 seconds
+[21:24:28] Abratexz: gl
+[21:24:28] Sand-Star: gl
+[21:24:29] BanchoBot: Match starts in 4 seconds
+[21:24:30] BanchoBot: Match starts in 3 seconds
+[21:24:31] BanchoBot: Good luck, have fun!
+[21:24:33] BanchoBot: The match has started!
+[21:26:54] BanchoBot: Trolloli finished playing (Score: 612493, PASSED).
+[21:26:55] BanchoBot: Abratexz finished playing (Score: 1012054, PASSED).
+[21:26:55] BanchoBot: monkerzaza finished playing (Score: 837220, PASSED).
+[21:26:55] BanchoBot: Sand-Star finished playing (Score: 858051, PASSED).
+[21:26:55] BanchoBot: No rank finished playing (Score: 493583, PASSED).
+[21:26:55] BanchoBot: - PPKM - finished playing (Score: 768341, PASSED).
+[21:26:55] BanchoBot: TzArtifactz finished playing (Score: 754763, PASSED).
+[21:26:56] BanchoBot: Aporia finished playing (Score: 1095334, PASSED).
+[21:26:56] BanchoBot: The match has finished!
+[21:27:10] BCraftMG: Thailand | 2 - 2 | China // BO9, Next pick: China
+[21:27:11] BCraftMG: !mp timer 120
+[21:27:13] BanchoBot: Countdown ends in 2 minutes
+[21:27:42] BanchoBot: Aporia left the game.
+[21:27:44] BanchoBot: Sand-Star left the game.
+[21:27:47] BanchoBot: Abratexz left the game.
+[21:28:13] BanchoBot: Countdown ends in 1 minute
+[21:28:25] BanchoBot: Knd joined in slot 3 for team blue.
+[21:28:31] BanchoBot: Knd moved to slot 8
+[21:28:40] BanchoBot: gxytcgxytc joined in slot 3 for team blue.
+[21:28:43] BanchoBot: gxytcgxytc moved to slot 9
+[21:28:44] BanchoBot: Countdown ends in 30 seconds
+[21:28:47] BanchoBot: gxytcgxytc moved to slot 5
+[21:28:52] Knd: pick fm2
+[21:29:00] BCraftMG: !mp map 4502850
+[21:29:01] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4502850 DJ Mashiro - Prismatic Lollipops
+[21:29:03] BanchoBot: No rank moved to slot 11
+[21:29:03] BCraftMG: !mp mods Freemod
+[21:29:04] BanchoBot: Countdown ends in 10 seconds
+[21:29:04] BanchoBot: monkerzaza left the game.
+[21:29:04] BanchoBot: Disabled all mods, enabled FreeMod
+[21:29:05] BCraftMG: !mp timer 120
+[21:29:06] BanchoBot: Countdown aborted
+[21:29:06] BanchoBot: Countdown ends in 2 minutes
+[21:29:08] BCraftMG: 4 mods total. 1 HR/HDHR required. Allowed mods: HD, HR, EZ (1.75x), FL. HDHR/HDEZ = 2 mods. Individuals cannot have 3 mods enabled.
+[21:29:19] BanchoBot: Abratexz joined in slot 1 for team blue.
+[21:29:25] BanchoBot: TzArtifactz moved to slot 3
+[21:29:28] BanchoBot: Abratexz changed to Red
+[21:29:32] BanchoBot: gxytcgxytc left the game.
+[21:29:33] BanchoBot: NekoShabeta joined in slot 4 for team red.
+[21:29:36] BanchoBot: - PPKM - left the game.
+[21:29:38] BanchoBot: monkerzaza joined in slot 2 for team red.
+[21:29:51] BanchoBot: gxytcgxytc joined in slot 5 for team blue.
+[21:30:00] BanchoBot: No rank left the game.
+[21:30:06] BanchoBot: Countdown ends in 1 minute
+[21:30:07] BanchoBot: Ask to Wind joined in slot 6 for team red.
+[21:30:11] BanchoBot: Knd moved to slot 11
+[21:30:16] BanchoBot: Ask to Wind moved to slot 12
+[21:30:19] BanchoBot: Ask to Wind moved to slot 6
+[21:30:26] BanchoBot: Aporia joined in slot 8 for team red.
+[21:30:30] BanchoBot: Aporia changed to Blue
+[21:30:33] BCraftMG: !mp settings
+[21:30:34] BanchoBot: Ask to Wind changed to Blue
+[21:30:34] BanchoBot: Room name: 5WC2024: (Thailand) vs (China), History: https://osu.ppy.sh/mp/113193104
+[21:30:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/4502850 DJ Mashiro - Prismatic Lollipops
+[21:30:34] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:30:34] BanchoBot: Active mods: Freemod
+[21:30:34] BanchoBot: Players: 9
+[21:30:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11293951 Abratexz        [Team Red  / NoFail, HardRock]
+[21:30:34] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11025701 monkerzaza      [Team Red  / NoFail, Hidden]
+[21:30:34] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14833619 TzArtifactz     [Team Red  / NoFail, Easy]
+[21:30:34] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12017880 NekoShabeta     [Team Red  / NoFail, Hidden]
+[21:30:34] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/874891 gxytcgxytc      [Team Blue / NoFail, Easy]
+[21:30:34] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/1855908 Ask to Wind     [Team Blue]
+[21:30:34] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/4335279 Trolloli        [Team Blue / NoFail, Easy]
+[21:30:34] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/8535398 Aporia          [Team Blue / NoFail, HardRock]
+[21:30:34] BanchoBot: Slot 11 Not Ready https://osu.ppy.sh/u/3367476 Knd             [Team Blue / NoFail]
+[21:30:36] BanchoBot: Countdown ends in 30 seconds
+[21:30:38] BanchoBot: Knd left the game.
+[21:30:41] BanchoBot: Ask to Wind moved to slot 12
+[21:30:43] BanchoBot: Ask to Wind moved to slot 6
+[21:30:46] BanchoBot: All players are ready
+[21:30:50] Ask_to_Wind: glgl
+[21:30:53] NekoShabeta: glhf
+[21:30:53] Trolloli: gl
+[21:30:54] monkerzaza: gl
+[21:30:57] Abratexz: gl
+[21:30:57] BanchoBot: Countdown ends in 10 seconds
+[21:30:58] Aporia: glgl
+[21:31:00] BCraftMG: !mp settings
+[21:31:00] TzArtifactz: glgl
+[21:31:00] gxytcgxytc: hf
+[21:31:01] BanchoBot: Countdown ends in 5 seconds
+[21:31:01] BanchoBot: Room name: 5WC2024: (Thailand) vs (China), History: https://osu.ppy.sh/mp/113193104
+[21:31:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/4502850 DJ Mashiro - Prismatic Lollipops
+[21:31:01] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:31:01] BanchoBot: Active mods: Freemod
+[21:31:01] BanchoBot: Players: 8
+[21:31:01] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11293951 Abratexz        [Team Red  / NoFail, HardRock]
+[21:31:01] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11025701 monkerzaza      [Team Red  / NoFail, Hidden]
+[21:31:01] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14833619 TzArtifactz     [Team Red  / NoFail, Easy]
+[21:31:01] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12017880 NekoShabeta     [Team Red  / NoFail, Hidden]
+[21:31:01] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/874891 gxytcgxytc      [Team Blue / NoFail, Easy]
+[21:31:01] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/1855908 Ask to Wind     [Team Blue / NoFail, HardRock]
+[21:31:01] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/4335279 Trolloli        [Team Blue / NoFail, Easy]
+[21:31:01] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/8535398 Aporia          [Team Blue / NoFail, HardRock]
+[21:31:02] BanchoBot: Countdown ends in 4 seconds
+[21:31:03] BanchoBot: Countdown ends in 3 seconds
+[21:31:04] BanchoBot: Countdown ends in 2 seconds
+[21:31:05] BanchoBot: Countdown ends in 1 second
+[21:31:06] BanchoBot: Countdown finished
+[21:31:11] BCraftMG: !mp start 5 glhf
+[21:31:11] BanchoBot: Match starts in 5 seconds
+[21:31:11] BanchoBot: Queued the match to start in 5 seconds
+[21:31:12] BanchoBot: Match starts in 4 seconds
+[21:31:13] BanchoBot: Match starts in 3 seconds
+[21:31:14] BanchoBot: Good luck, have fun!
+[21:31:16] BanchoBot: The match has started!
+[21:32:51] BanchoBot: monkerzaza finished playing (Score: 414366, PASSED).
+[21:32:52] BanchoBot: NekoShabeta finished playing (Score: 736809, PASSED).
+[21:32:53] BanchoBot: Abratexz finished playing (Score: 829638, PASSED).
+[21:32:53] BanchoBot: Aporia finished playing (Score: 421433, PASSED).
+[21:32:53] BanchoBot: gxytcgxytc finished playing (Score: 295777, PASSED).
+[21:32:53] BanchoBot: Ask to Wind finished playing (Score: 742762, PASSED).
+[21:32:53] BanchoBot: Trolloli finished playing (Score: 280674, PASSED).
+[21:32:54] BanchoBot: TzArtifactz finished playing (Score: 418415, PASSED).
+[21:32:54] BanchoBot: The match has finished!
+[21:33:23] BCraftMG: Thailand | 3 - 2 | China // BO9, Next pick: Thailand
+[21:33:24] BCraftMG: !mp timer 120
+[21:33:25] BanchoBot: Countdown ends in 2 minutes
+[21:33:29] BanchoBot: No rank joined in slot 9 for team blue.
+[21:33:30] BanchoBot: Knd joined in slot 10 for team red.
+[21:33:43] TzArtifactz: hd1
+[21:33:47] BanchoBot: Abratexz left the game.
+[21:33:48] BanchoBot: Aporia left the game.
+[21:33:51] BanchoBot: Ask to Wind left the game.
+[21:33:51] BanchoBot: Moca Aoba joined in slot 1 for team blue.
+[21:33:52] BanchoBot: WorthlessPlayer joined in slot 6 for team red.
+[21:33:58] BanchoBot: gxytcgxytc left the game.
+[21:33:58] BCraftMG: !mp map 2139172
+[21:33:59] BanchoBot: WorthlessPlayer moved to slot 8
+[21:33:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2139172 toby fox - Bergentrueckung/ASGORE
+[21:34:00] BanchoBot: WorthlessPlayer changed to Blue
+[21:34:01] BCraftMG: !mp mods 9
+[21:34:01] BanchoBot: WorthlessPlayer moved to slot 6
+[21:34:02] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:34:04] BanchoBot: No rank left the game.
+[21:34:05] BCraftMG: !mp timer 120
+[21:34:06] BanchoBot: Countdown aborted
+[21:34:06] BanchoBot: Countdown ends in 2 minutes
+[21:34:07] BanchoBot: Trolloli moved to slot 9
+[21:34:08] BanchoBot: Knd left the game.
+[21:34:12] BanchoBot: Moca Aoba changed to Red
+[21:34:14] BanchoBot: Moca Aoba changed to Blue
+[21:34:14] BanchoBot: WorthlessPlayer left the game.
+[21:34:16] BanchoBot: Moca Aoba changed to Red
+[21:34:30] BanchoBot: Trolloli moved to slot 8
+[21:34:47] BanchoBot: Moca Aoba left the game.
+[21:34:50] BanchoBot: WorthlessPlayer joined in slot 1 for team blue.
+[21:34:52] BanchoBot: WorthlessPlayer moved to slot 7
+[21:34:54] BanchoBot: WorthlessPlayer moved to slot 6
+[21:35:00] BanchoBot: gxytcgxytc joined in slot 1 for team blue.
+[21:35:01] BanchoBot: gxytcgxytc moved to slot 11
+[21:35:07] BanchoBot: Countdown ends in 1 minute
+[21:35:18] BanchoBot: - PPKM - joined in slot 1 for team blue.
+[21:35:21] BanchoBot: Knd joined in slot 5 for team blue.
+[21:35:21] BanchoBot: - PPKM - changed to Red
+[21:35:24] BanchoBot: Aporia joined in slot 7 for team blue.
+[21:35:36] BanchoBot: Countdown ends in 30 seconds
+[21:35:43] BanchoBot: Knd moved to slot 10
+[21:35:45] BanchoBot: Knd moved to slot 9
+[21:35:53] BanchoBot: gxytcgxytc left the game.
+[21:35:53] BanchoBot: Knd moved to slot 5
+[21:35:56] BanchoBot: Countdown ends in 10 seconds
+[21:36:00] BCraftMG: !mp settings
+[21:36:02] BanchoBot: Countdown ends in 5 seconds
+[21:36:02] BanchoBot: Room name: 5WC2024: (Thailand) vs (China), History: https://osu.ppy.sh/mp/113193104
+[21:36:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/2139172 toby fox - Bergentrueckung/ASGORE
+[21:36:02] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:36:02] BanchoBot: Active mods: NoFail, Hidden
+[21:36:02] BanchoBot: Players: 8
+[21:36:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11016805 - PPKM -        [Team Red ]
+[21:36:02] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11025701 monkerzaza      [Team Red ]
+[21:36:02] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/14833619 TzArtifactz     [Team Red ]
+[21:36:02] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/12017880 NekoShabeta     [Team Red ]
+[21:36:02] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/3367476 Knd             [Team Blue]
+[21:36:02] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/13858681 WorthlessPlayer [Team Blue]
+[21:36:02] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/8535398 Aporia          [Team Blue]
+[21:36:02] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/4335279 Trolloli        [Team Blue]
+[21:36:02] BanchoBot: Countdown ends in 4 seconds
+[21:36:03] BanchoBot: Countdown ends in 3 seconds
+[21:36:03] TzArtifactz: glglgllgllggl
+[21:36:03] WorthlessPlayer: glhf!!
+[21:36:05] BanchoBot: Countdown ends in 2 seconds
+[21:36:05] BanchoBot: Countdown ends in 1 second
+[21:36:07] BanchoBot: Countdown finished
+[21:36:08] -_PPKM_-: glhf
+[21:36:09] BanchoBot: All players are ready
+[21:36:09] Trolloli: gl
+[21:36:09] BCraftMG: !mp start 15
+[21:36:10] BanchoBot: Match starts in 15 seconds
+[21:36:10] BanchoBot: Queued the match to start in 15 seconds
+[21:36:12] Aporia: glgl
+[21:36:15] BanchoBot: Match starts in 10 seconds
+[21:36:20] BanchoBot: Match starts in 5 seconds
+[21:36:21] BanchoBot: Match starts in 4 seconds
+[21:36:22] BanchoBot: Match starts in 3 seconds
+[21:36:23] BanchoBot: Good luck, have fun!
+[21:36:26] BanchoBot: The match has started!
+[21:39:30] BanchoBot: NekoShabeta finished playing (Score: 475124, PASSED).
+[21:39:30] BanchoBot: WorthlessPlayer finished playing (Score: 573340, PASSED).
+[21:39:30] BanchoBot: TzArtifactz finished playing (Score: 502986, PASSED).
+[21:39:30] BanchoBot: Trolloli finished playing (Score: 559534, PASSED).
+[21:39:31] BanchoBot: Knd finished playing (Score: 553750, PASSED).
+[21:39:31] BanchoBot: Aporia finished playing (Score: 629825, PASSED).
+[21:39:31] BanchoBot: - PPKM - finished playing (Score: 472994, PASSED).
+[21:39:32] BanchoBot: monkerzaza finished playing (Score: 539372, PASSED).
+[21:39:32] BanchoBot: The match has finished!
+[21:39:36] BCraftMG: Thailand | 3 - 3 | China // BO9, Next pick: China
+[21:39:37] BCraftMG: !mp timer 120
+[21:39:39] BanchoBot: Countdown ends in 2 minutes
+[21:39:57] BanchoBot: gxytcgxytc joined in slot 9 for team blue.
+[21:39:59] BanchoBot: gxytcgxytc moved to slot 10
+[21:40:09] BanchoBot: TzArtifactz left the game.
+[21:40:39] BanchoBot: Countdown ends in 1 minute
+[21:40:46] BanchoBot: TzArtifactz joined in slot 3 for team blue.
+[21:40:53] BanchoBot: TzArtifactz changed to Red
+[21:40:58] BanchoBot: gxytcgxytc left the game.
+[21:41:09] BanchoBot: Countdown ends in 30 seconds
+[21:41:19] BanchoBot: Aporia left the game.
+[21:41:29] BanchoBot: No rank joined in slot 7 for team blue.
+[21:41:29] BanchoBot: Countdown ends in 10 seconds
+[21:41:30] BanchoBot: WorthlessPlayer moved to slot 9
+[21:41:31] Knd: pick dt2
+[21:41:32] BanchoBot: NekoShabeta left the game.
+[21:41:34] BanchoBot: Countdown ends in 5 seconds
+[21:41:34] BanchoBot: Abratexz joined in slot 4 for team red.
+[21:41:36] BanchoBot: Countdown ends in 4 seconds
+[21:41:37] BanchoBot: Countdown ends in 3 seconds
+[21:41:38] BanchoBot: Countdown ends in 2 seconds
+[21:41:39] BanchoBot: Countdown ends in 1 second
+[21:41:40] BanchoBot: Countdown finished
+[21:41:40] BanchoBot: TzArtifactz left the game.
+[21:41:44] BCraftMG: !mp map 465022
+[21:41:45] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/465022 sakuzyo - Neurotoxin
+[21:41:47] BCraftMG: !mp mods 65
+[21:41:48] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:41:49] BCraftMG: !mp timer 120
+[21:41:49] BanchoBot: Countdown ends in 2 minutes
+[21:42:00] BanchoBot: Ask to Wind joined in slot 3 for team blue.
+[21:42:06] BanchoBot: Ask to Wind moved to slot 6
+[21:42:11] BanchoBot: WorthlessPlayer left the game.
+[21:42:19] BanchoBot: Knd moved to slot 10
+[21:42:33] BanchoBot: Aporia joined in slot 3 for team blue.
+[21:42:34] BanchoBot: gxytcgxytc joined in slot 5 for team blue.
+[21:42:35] BanchoBot: gxytcgxytc moved to slot 9
+[21:42:40] BanchoBot: Knd left the game.
+[21:42:43] BanchoBot: Aporia moved to slot 5
+[21:42:47] BanchoBot: Ask to Wind moved to slot 13
+[21:42:49] BanchoBot: Countdown ends in 1 minute
+[21:42:56] BanchoBot: gxytcgxytc moved to slot 6
+[21:43:00] BanchoBot: TzArtifactz joined in slot 3 for team blue.
+[21:43:02] BanchoBot: Saki Ayase joined in slot 9 for team blue.
+[21:43:05] BanchoBot: Ask to Wind left the game.
+[21:43:07] BanchoBot: TzArtifactz changed to Red
+[21:43:10] BanchoBot: Saki Ayase left the game.
+[21:43:20] BanchoBot: Countdown ends in 30 seconds
+[21:43:23] BCraftMG: !mp settings
+[21:43:24] BanchoBot: Room name: 5WC2024: (Thailand) vs (China), History: https://osu.ppy.sh/mp/113193104
+[21:43:24] BanchoBot: Beatmap: https://osu.ppy.sh/b/465022 sakuzyo - Neurotoxin
+[21:43:24] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:43:24] BanchoBot: Active mods: NoFail, DoubleTime
+[21:43:24] BanchoBot: Players: 8
+[21:43:24] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/11016805 - PPKM -        [Team Red ]
+[21:43:24] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/11025701 monkerzaza      [Team Red ]
+[21:43:24] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/14833619 TzArtifactz     [Team Red ]
+[21:43:24] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11293951 Abratexz        [Team Red ]
+[21:43:24] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/8535398 Aporia          [Team Blue]
+[21:43:24] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/874891 gxytcgxytc      [Team Blue]
+[21:43:24] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/10436444 No rank         [Team Blue]
+[21:43:24] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/4335279 Trolloli        [Team Blue]
+[21:43:33] gxytcgxytc: glhf
+[21:43:39] BanchoBot: Countdown ends in 10 seconds
+[21:43:42] Abratexz: gl
+[21:43:45] BanchoBot: Countdown ends in 5 seconds
+[21:43:46] BanchoBot: Countdown ends in 4 seconds
+[21:43:46] monkerzaza: gl
+[21:43:47] BanchoBot: Countdown ends in 3 seconds
+[21:43:48] BanchoBot: Countdown ends in 2 seconds
+[21:43:49] BanchoBot: Countdown ends in 1 second
+[21:43:50] BanchoBot: Countdown finished
+[21:43:51] -_PPKM_-: glhf
+[21:43:52] BCraftMG: !mp settings
+[21:43:52] Trolloli: gl
+[21:43:53] BanchoBot: All players are ready
+[21:43:53] BanchoBot: Room name: 5WC2024: (Thailand) vs (China), History: https://osu.ppy.sh/mp/113193104
+[21:43:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/465022 sakuzyo - Neurotoxin
+[21:43:53] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:43:53] BanchoBot: Active mods: NoFail, DoubleTime
+[21:43:53] BanchoBot: Players: 8
+[21:43:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11016805 - PPKM -        [Team Red ]
+[21:43:53] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11025701 monkerzaza      [Team Red ]
+[21:43:53] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14833619 TzArtifactz     [Team Red ]
+[21:43:53] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11293951 Abratexz        [Team Red ]
+[21:43:53] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/8535398 Aporia          [Team Blue]
+[21:43:53] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/874891 gxytcgxytc      [Team Blue]
+[21:43:53] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/10436444 No rank         [Team Blue]
+[21:43:53] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/4335279 Trolloli        [Team Blue]
+[21:43:55] BCraftMG: !mp start 5 glhf
+[21:43:55] BanchoBot: Match starts in 5 seconds
+[21:43:55] BanchoBot: Queued the match to start in 5 seconds
+[21:43:56] BanchoBot: Match starts in 4 seconds
+[21:43:57] Aporia: glglgl\
+[21:43:57] BanchoBot: Match starts in 3 seconds
+[21:43:58] BanchoBot: Good luck, have fun!
+[21:44:00] BanchoBot: The match has started!
+[21:45:51] BanchoBot: Trolloli finished playing (Score: 381862, PASSED).
+[21:45:51] BanchoBot: Abratexz finished playing (Score: 729887, PASSED).
+[21:45:51] BanchoBot: - PPKM - finished playing (Score: 359654, PASSED).
+[21:45:51] BanchoBot: TzArtifactz finished playing (Score: 536346, PASSED).
+[21:45:52] BanchoBot: monkerzaza finished playing (Score: 798570, PASSED).
+[21:45:52] BanchoBot: gxytcgxytc finished playing (Score: 547334, PASSED).
+[21:45:52] BanchoBot: No rank finished playing (Score: 545776, PASSED).
+[21:45:53] BanchoBot: Aporia finished playing (Score: 518472, PASSED).
+[21:45:53] BanchoBot: The match has finished!
+[21:46:07] -_PPKM_-: DT3
+[21:46:09] BanchoBot: TzArtifactz left the game.
+[21:46:11] BanchoBot: Knd joined in slot 3 for team blue.
+[21:46:12] BCraftMG: Thailand | 4 - 3 | China // BO9, Next pick: Thailand
+[21:46:19] BCraftMG: !mp map 4246430
+[21:46:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4246430 Aesop Rock - Drums On The Wheel (Instrumental)
+[21:46:21] BCraftMG: !mp timer 120
+[21:46:22] BanchoBot: Countdown ends in 2 minutes
+[21:46:24] BanchoBot: Ask to Wind joined in slot 9 for team blue.
+[21:46:27] BanchoBot: Abratexz left the game.
+[21:46:27] BanchoBot: Aporia left the game.
+[21:46:29] BanchoBot: gxytcgxytc left the game.
+[21:46:30] BanchoBot: Ask to Wind moved to slot 5
+[21:46:30] BanchoBot: Abratexz joined in slot 4 for team red.
+[21:46:34] BanchoBot: Abratexz left the game.
+[21:46:55] BanchoBot: Knd moved to slot 6
+[21:47:23] BanchoBot: Countdown ends in 1 minute
+[21:47:30] BanchoBot: Saki Ayase joined in slot 3 for team blue.
+[21:47:32] BanchoBot: Abratexz joined in slot 4 for team red.
+[21:47:39] BanchoBot: Saki Ayase changed to Red
+[21:47:48] Ask_to_Wind: glgl
+[21:47:50] BanchoBot: All players are ready
+[21:47:52] -_PPKM_-: glgl
+[21:47:52] BanchoBot: Countdown ends in 30 seconds
+[21:47:53] Trolloli: glgl
+[21:47:55] Abratexz: gl
+[21:47:55] No_rank: glhf
+[21:48:05] monkerzaza: gl
+[21:48:10] BCraftMG: !mp settings
+[21:48:11] BanchoBot: Room name: 5WC2024: (Thailand) vs (China), History: https://osu.ppy.sh/mp/113193104
+[21:48:11] BanchoBot: Beatmap: https://osu.ppy.sh/b/4246430 Aesop Rock - Drums On The Wheel (Instrumental)
+[21:48:11] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:48:11] BanchoBot: Active mods: NoFail, DoubleTime
+[21:48:11] BanchoBot: Players: 8
+[21:48:11] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11016805 - PPKM -        [Team Red ]
+[21:48:11] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11025701 monkerzaza      [Team Red ]
+[21:48:11] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/27818688 Saki Ayase      [Team Red ]
+[21:48:11] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11293951 Abratexz        [Team Red ]
+[21:48:11] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/1855908 Ask to Wind     [Team Blue]
+[21:48:11] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/3367476 Knd             [Team Blue]
+[21:48:11] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/10436444 No rank         [Team Blue]
+[21:48:11] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/4335279 Trolloli        [Team Blue]
+[21:48:12] BanchoBot: Countdown ends in 10 seconds
+[21:48:13] BCraftMG: !mp start 5 glhf
+[21:48:13] BanchoBot: Countdown aborted
+[21:48:13] BanchoBot: Match starts in 5 seconds
+[21:48:13] BanchoBot: Queued the match to start in 5 seconds
+[21:48:14] BanchoBot: Match starts in 4 seconds
+[21:48:15] BanchoBot: Match starts in 3 seconds
+[21:48:16] BanchoBot: Good luck, have fun!
+[21:48:18] BanchoBot: The match has started!
+[21:50:38] BanchoBot: No rank finished playing (Score: 586614, PASSED).
+[21:50:38] BanchoBot: - PPKM - finished playing (Score: 297164, PASSED).
+[21:50:38] BanchoBot: Trolloli finished playing (Score: 594722, PASSED).
+[21:50:38] BanchoBot: Saki Ayase finished playing (Score: 989518, PASSED).
+[21:50:38] BanchoBot: monkerzaza finished playing (Score: 410084, PASSED).
+[21:50:39] BanchoBot: Abratexz finished playing (Score: 996496, PASSED).
+[21:50:41] BanchoBot: Knd finished playing (Score: 547798, PASSED).
+[21:50:43] BanchoBot: Ask to Wind finished playing (Score: 374568, PASSED).
+[21:50:43] BanchoBot: The match has finished!
+[21:50:50] BCraftMG: ggwp!
+[21:50:55] Abratexz: ggwp!
+[21:50:58] Knd: ggwp
+[21:50:58] Trolloli: ggs
+[21:51:01] monkerzaza: ggwp
+[21:51:04] -_PPKM_-: ggwp
+[21:51:06] BanchoBot: Abratexz left the game.
+[21:51:06] BanchoBot: Trolloli left the game.
+[21:51:07] BanchoBot: No rank left the game.
+[21:51:08] BanchoBot: Knd left the game.
+[21:51:09] BanchoBot: Moca Aoba joined in slot 4 for team red.
+[21:51:10] BanchoBot: monkerzaza left the game.
+[21:51:11] BanchoBot: Saki Ayase left the game.
+[21:51:11] BanchoBot: - PPKM - left the game.
+[21:51:20] Moca_Aoba: gg thanks for ref!
+[21:51:21] BanchoBot: Moca Aoba left the game.
+[21:51:23] BanchoBot: Ask to Wind left the game.
+[21:51:29] BCraftMG: !mp map 3895683
+[21:51:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3895683 rN - Harumachi Elevator
+[21:51:42] BCraftMG: !mp close
+[21:51:43] BanchoBot: Closed the match

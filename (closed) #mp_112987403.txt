@@ -1,0 +1,638 @@
+[00:22:18] Joined #mp_112987403
+[00:22:18] BCraftMG: !mp settings
+[00:22:19] BanchoBot: Room name: 5WC2024: Bulgaria Qualifiers, History: https://osu.ppy.sh/mp/112987403
+[00:22:19] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[00:22:20] BanchoBot: Players: 0
+[00:22:39] BCraftMG: !mp set 0 3 12
+[00:22:40] BanchoBot: Changed match settings to 12 slots, HeadToHead, ScoreV2
+[00:22:44] BCraftMG: !mp set 0 3 8
+[00:22:46] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[00:23:40] BCraftMG: !mp invite #12349105
+[00:23:41] BanchoBot: Invited Prahosnika to the room
+[00:24:14] BanchoBot: Prahosnika joined in slot 1.
+[00:24:21] Prahosnika: hello ref :)
+[00:24:27] BCraftMG: heya
+[00:24:42] Prahosnika: let me just invite my teammates
+[00:28:07] BCraftMG: !mp map 3895683
+[00:28:09] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3895683 rN - Harumachi Elevator
+[00:28:28] BanchoBot: Hanabi - joined in slot 2.
+[00:28:38] BanchoBot: RioMisstery joined in slot 3.
+[00:28:39] BanchoBot: robatrt joined in slot 4.
+[00:28:46] BanchoBot: MyAngelLumei joined in slot 5.
+[00:28:46] BCraftMG: despairge
+[00:28:48] BCraftMG: yall ready?
+[00:28:53] BanchoBot: RioMisstery left the game.
+[00:28:57] BCraftMG: !mp mods 1
+[00:28:58] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:29:00] Prahosnika: wait this is not NM1
+[00:29:01] MyAngelLumei: uhm
+[00:29:02] BCraftMG: !mp map 4174036
+[00:29:04] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4174036 Bring Me The Horizon - Kingslayer (feat. BABYMETAL)
+[00:29:05] Hanabi_-: that snot nm1
+[00:29:07] BCraftMG: yea i know
+[00:29:09] MyAngelLumei: nvm
+[00:29:12] BanchoBot: robatrt moved to slot 3
+[00:29:15] BCraftMG: its elevator music grrrr
+[00:29:15] Prahosnika: ok we are good now
+[00:29:23] BanchoBot: Prahosnika left the game.
+[00:29:30] BanchoBot: Rengmain joined in slot 1.
+[00:29:31] Hanabi_-: real
+[00:29:36] BanchoBot: MyAngelLumei moved to slot 4
+[00:29:37] BanchoBot: Ivanix joined in slot 5.
+[00:29:37] BanchoBot: Rengmain left the game.
+[00:29:46] BanchoBot: Ivanix moved to slot 1
+[00:30:17] BanchoBot: All players are ready
+[00:30:19] BCraftMG: !mp settings
+[00:30:20] BanchoBot: Room name: 5WC2024: Bulgaria Qualifiers, History: https://osu.ppy.sh/mp/112987403
+[00:30:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/4174036 Bring Me The Horizon - Kingslayer (feat. BABYMETAL)
+[00:30:20] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:30:20] BanchoBot: Active mods: NoFail
+[00:30:20] BanchoBot: Players: 4
+[00:30:20] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16380723 Ivanix          
+[00:30:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14109511 Hanabi -        
+[00:30:20] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11067957 robatrt         
+[00:30:20] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/3703793 MyAngelLumei    
+[00:30:22] BCraftMG: !mp start 5 glhf
+[00:30:23] BanchoBot: Match starts in 5 seconds
+[00:30:23] BanchoBot: Queued the match to start in 5 seconds
+[00:30:24] BanchoBot: Match starts in 4 seconds
+[00:30:26] BanchoBot: Match starts in 3 seconds
+[00:30:27] BanchoBot: Good luck, have fun!
+[00:30:29] BanchoBot: The match has started!
+[00:34:17] BanchoBot: Ivanix finished playing (Score: 888054, PASSED).
+[00:34:18] BanchoBot: robatrt finished playing (Score: 351309, PASSED).
+[00:34:18] BanchoBot: Hanabi - finished playing (Score: 354196, PASSED).
+[00:34:18] BanchoBot: MyAngelLumei finished playing (Score: 424788, PASSED).
+[00:34:18] BanchoBot: The match has finished!
+[00:34:24] BCraftMG: !mp map 4178416
+[00:34:25] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4178416 Kushper - Versailles
+[00:34:27] BanchoBot: Prahosnika joined in slot 5.
+[00:34:28] BCraftMG: !mp timer 120
+[00:34:29] BanchoBot: Countdown ends in 2 minutes
+[00:34:32] BanchoBot: robatrt left the game.
+[00:34:38] BanchoBot: Prahosnika moved to slot 3
+[00:34:51] BanchoBot: Hanabi - left the game.
+[00:35:30] BanchoBot: Countdown ends in 1 minute
+[00:35:57] BanchoBot: Hanabi - joined in slot 2.
+[00:36:00] BanchoBot: Countdown ends in 30 seconds
+[00:36:21] BanchoBot: Countdown ends in 10 seconds
+[00:36:22] BanchoBot: All players are ready
+[00:36:24] BCraftMG: !mp settings
+[00:36:25] BanchoBot: Countdown ends in 5 seconds
+[00:36:25] BanchoBot: Room name: 5WC2024: Bulgaria Qualifiers, History: https://osu.ppy.sh/mp/112987403
+[00:36:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/4178416 Kushper - Versailles
+[00:36:25] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:36:25] BanchoBot: Active mods: NoFail
+[00:36:25] BanchoBot: Players: 4
+[00:36:25] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16380723 Ivanix          
+[00:36:25] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14109511 Hanabi -        
+[00:36:25] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12349105 Prahosnika      
+[00:36:25] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/3703793 MyAngelLumei    
+[00:36:26] BanchoBot: Countdown ends in 4 seconds
+[00:36:28] BanchoBot: Countdown ends in 3 seconds
+[00:36:28] BanchoBot: Countdown ends in 2 seconds
+[00:36:29] BanchoBot: Countdown ends in 1 second
+[00:36:30] BanchoBot: Countdown finished
+[00:36:31] BCraftMG: !mp start 5 glhf
+[00:36:32] BanchoBot: Match starts in 5 seconds
+[00:36:32] BanchoBot: Queued the match to start in 5 seconds
+[00:36:33] BanchoBot: Match starts in 4 seconds
+[00:36:34] BanchoBot: Match starts in 3 seconds
+[00:36:36] BanchoBot: Good luck, have fun!
+[00:36:37] BanchoBot: The match has started!
+[00:40:20] BanchoBot: Hanabi - finished playing (Score: 449713, PASSED).
+[00:40:20] BanchoBot: Prahosnika finished playing (Score: 365967, PASSED).
+[00:40:20] BanchoBot: MyAngelLumei finished playing (Score: 839904, PASSED).
+[00:40:20] BanchoBot: Ivanix finished playing (Score: 554143, PASSED).
+[00:40:20] BanchoBot: The match has finished!
+[00:40:38] BCraftMG: !mp map 4191546
+[00:40:39] BanchoBot: RioMisstery joined in slot 5.
+[00:40:40] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4191546 Adust Rain - psychology
+[00:40:41] BCraftMG: !mp timer 120
+[00:40:41] BanchoBot: Prahosnika left the game.
+[00:40:41] BanchoBot: Countdown ends in 2 minutes
+[00:40:45] BanchoBot: Ivanix left the game.
+[00:40:45] BanchoBot: Hanabi - left the game.
+[00:40:48] BanchoBot: RioMisstery left the game.
+[00:41:05] BanchoBot: Rengmain joined in slot 1.
+[00:41:09] Rengmain: o/
+[00:41:11] BanchoBot: LazerDynamiX joined in slot 2.
+[00:41:43] BanchoBot: Countdown ends in 1 minute
+[00:42:12] BanchoBot: Countdown ends in 30 seconds
+[00:42:22] BanchoBot: Ivanix joined in slot 3.
+[00:42:31] BanchoBot: Countdown ends in 10 seconds
+[00:42:34] BanchoBot: All players are ready
+[00:42:37] BCraftMG: !mp settings
+[00:42:37] BanchoBot: Countdown ends in 5 seconds
+[00:42:37] Rengmain: golf
+[00:42:37] BanchoBot: Room name: 5WC2024: Bulgaria Qualifiers, History: https://osu.ppy.sh/mp/112987403
+[00:42:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/4191546 Adust Rain - psychology
+[00:42:37] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:42:37] BanchoBot: Active mods: NoFail
+[00:42:37] BanchoBot: Players: 4
+[00:42:37] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8170966 Rengmain        
+[00:42:37] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9957793 LazerDynamiX    
+[00:42:37] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16380723 Ivanix          
+[00:42:37] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/3703793 MyAngelLumei    
+[00:42:38] BanchoBot: Countdown ends in 4 seconds
+[00:42:38] BanchoBot: Countdown ends in 3 seconds
+[00:42:39] BCraftMG: !mp start 5 glhf
+[00:42:40] BanchoBot: Countdown ends in 2 seconds
+[00:42:40] BanchoBot: Countdown aborted
+[00:42:40] BanchoBot: Match starts in 5 seconds
+[00:42:40] BanchoBot: Queued the match to start in 5 seconds
+[00:42:41] BanchoBot: Match starts in 4 seconds
+[00:42:43] BanchoBot: Match starts in 3 seconds
+[00:42:44] BanchoBot: Good luck, have fun!
+[00:42:45] BanchoBot: The match has started!
+[00:42:50] Rengmain: moyai
+[00:46:25] BanchoBot: Ivanix finished playing (Score: 327887, PASSED).
+[00:46:25] BanchoBot: MyAngelLumei finished playing (Score: 217361, PASSED).
+[00:46:27] BanchoBot: LazerDynamiX finished playing (Score: 205814, PASSED).
+[00:46:27] BanchoBot: Rengmain finished playing (Score: 243800, PASSED).
+[00:46:27] BanchoBot: The match has finished!
+[00:46:32] BCraftMG: !mp map 3141740
+[00:46:32] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3141740 Agressor Bunx - Acid Mirage (Tourney Cut)
+[00:46:34] BCraftMG: !mp timer 120
+[00:46:35] BanchoBot: Countdown ends in 2 minutes
+[00:46:39] BanchoBot: LazerDynamiX left the game.
+[00:46:49] BanchoBot: RioMisstery joined in slot 2.
+[00:47:31] BanchoBot: Ivanix left the game.
+[00:47:36] BanchoBot: Countdown ends in 1 minute
+[00:48:06] BanchoBot: Countdown ends in 30 seconds
+[00:48:23] BanchoBot: Ivanix joined in slot 3.
+[00:48:25] Rengmain: gl\
+[00:48:25] BanchoBot: Countdown ends in 10 seconds
+[00:48:27] BanchoBot: All players are ready
+[00:48:29] BCraftMG: !mp settings
+[00:48:30] BanchoBot: Room name: 5WC2024: Bulgaria Qualifiers, History: https://osu.ppy.sh/mp/112987403
+[00:48:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/3141740 Agressor Bunx - Acid Mirage (Tourney Cut)
+[00:48:30] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:48:30] BanchoBot: Active mods: NoFail
+[00:48:30] BanchoBot: Players: 4
+[00:48:30] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8170966 Rengmain        
+[00:48:30] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14843773 RioMisstery     
+[00:48:30] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16380723 Ivanix          
+[00:48:30] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/3703793 MyAngelLumei    
+[00:48:31] BCraftMG: !mp start 5 glhf
+[00:48:31] BanchoBot: Countdown ends in 5 seconds
+[00:48:31] BanchoBot: Countdown aborted
+[00:48:31] BanchoBot: Match starts in 5 seconds
+[00:48:31] BanchoBot: Queued the match to start in 5 seconds
+[00:48:32] BanchoBot: Match starts in 4 seconds
+[00:48:34] BanchoBot: Match starts in 3 seconds
+[00:48:35] BanchoBot: Good luck, have fun!
+[00:48:35] Rengmain: golf
+[00:48:37] BanchoBot: The match has started!
+[00:50:59] BanchoBot: RioMisstery finished playing (Score: 334790, PASSED).
+[00:50:59] BanchoBot: Rengmain finished playing (Score: 367278, PASSED).
+[00:51:00] BanchoBot: MyAngelLumei finished playing (Score: 722540, PASSED).
+[00:51:00] BanchoBot: Ivanix finished playing (Score: 423544, PASSED).
+[00:51:00] BanchoBot: The match has finished!
+[00:51:11] BanchoBot: RioMisstery left the game.
+[00:51:17] BanchoBot: Rengmain left the game.
+[00:51:19] BanchoBot: LazerDynamiX joined in slot 1.
+[00:51:20] BCraftMG: !mp map 4519090
+[00:51:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4519090 Mitsukai Dokuro (CV:Chiba Saeko) - Bokusatsu Tenshi Dokuro-chan
+[00:51:22] BCraftMG: !mp timer 120
+[00:51:23] BanchoBot: Countdown ends in 2 minutes
+[00:51:27] BanchoBot: Ivanix left the game.
+[00:51:33] BanchoBot: MyAngelLumei left the game.
+[00:52:24] BanchoBot: Countdown ends in 1 minute
+[00:52:28] BanchoBot: Rengmain joined in slot 2.
+[00:52:30] BanchoBot: Ivanix joined in slot 3.
+[00:52:48] BanchoBot: MyAngelLumei joined in slot 4.
+[00:52:53] BanchoBot: Countdown ends in 30 seconds
+[00:53:03] MyAngelLumei: 4 way fc incoming
+[00:53:09] Ivanix: xd
+[00:53:13] BanchoBot: All players are ready
+[00:53:13] BanchoBot: Countdown ends in 10 seconds
+[00:53:18] BanchoBot: Countdown ends in 5 seconds
+[00:53:20] BanchoBot: Countdown ends in 4 seconds
+[00:53:20] LazerDynamiX: real
+[00:53:20] BanchoBot: Countdown ends in 3 seconds
+[00:53:21] BanchoBot: Countdown ends in 2 seconds
+[00:53:23] BanchoBot: Countdown ends in 1 second
+[00:53:24] BanchoBot: Countdown finished
+[00:53:39] Rengmain: ref?
+[00:53:49] MyAngelLumei: moyaiS
+[00:53:55] LazerDynamiX: moyai
+[00:54:02] Rengmain: moyai
+[00:54:02] BCraftMG: !mp settings
+[00:54:04] BanchoBot: Room name: 5WC2024: Bulgaria Qualifiers, History: https://osu.ppy.sh/mp/112987403
+[00:54:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/4519090 Mitsukai Dokuro (CV:Chiba Saeko) - Bokusatsu Tenshi Dokuro-chan
+[00:54:04] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:54:04] BanchoBot: Active mods: NoFail
+[00:54:04] BanchoBot: Players: 4
+[00:54:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9957793 LazerDynamiX    
+[00:54:04] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8170966 Rengmain        
+[00:54:04] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16380723 Ivanix          
+[00:54:04] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/3703793 MyAngelLumei    
+[00:54:06] BCraftMG: !mp start 5 glhf
+[00:54:07] Ivanix: ref we agree with you
+[00:54:07] BanchoBot: Match starts in 5 seconds
+[00:54:07] BanchoBot: Queued the match to start in 5 seconds
+[00:54:09] BanchoBot: Match starts in 4 seconds
+[00:54:10] Ivanix: we can skip this one xd
+[00:54:10] BanchoBot: Match starts in 3 seconds
+[00:54:12] BanchoBot: Good luck, have fun!
+[00:54:13] BanchoBot: The match has started!
+[00:54:17] BCraftMG: nu
+[00:55:49] BanchoBot: LazerDynamiX finished playing (Score: 143899, PASSED).
+[00:55:49] BanchoBot: Rengmain finished playing (Score: 109430, PASSED).
+[00:55:49] BanchoBot: Ivanix finished playing (Score: 93150, PASSED).
+[00:55:49] BanchoBot: MyAngelLumei finished playing (Score: 188354, PASSED).
+[00:55:49] BanchoBot: The match has finished!
+[00:56:05] BanchoBot: MyAngelLumei left the game.
+[00:56:05] Rengmain: :(
+[00:56:08] BanchoBot: Ivanix left the game.
+[00:56:15] BanchoBot: LazerDynamiX left the game.
+[00:56:19] BCraftMG: !mp map 2603674
+[00:56:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2603674 Jun.A - The Fairy's Adventurous Tale
+[00:56:21] BCraftMG: !mp mods 9
+[00:56:22] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[00:56:22] BCraftMG: !mp timer 120
+[00:56:23] BanchoBot: Countdown ends in 2 minutes
+[00:56:51] BanchoBot: RioMisstery joined in slot 1.
+[00:57:23] BanchoBot: Countdown ends in 1 minute
+[00:57:34] BanchoBot: RioMisstery left the game.
+[00:57:38] BanchoBot: RioMisstery joined in slot 1.
+[00:57:54] BanchoBot: Countdown ends in 30 seconds
+[00:58:06] BanchoBot: MyAngelLumei joined in slot 3.
+[00:58:11] BanchoBot: Ivanix joined in slot 4.
+[00:58:13] BanchoBot: Countdown ends in 10 seconds
+[00:58:19] BanchoBot: Countdown ends in 5 seconds
+[00:58:19] BanchoBot: Countdown ends in 4 seconds
+[00:58:20] BanchoBot: Countdown ends in 3 seconds
+[00:58:22] BanchoBot: Countdown ends in 2 seconds
+[00:58:23] BanchoBot: Countdown ends in 1 second
+[00:58:23] BanchoBot: Countdown finished
+[00:58:31] BanchoBot: All players are ready
+[00:58:33] BanchoBot: All players are ready
+[00:58:40] BCraftMG: !mp settings
+[00:58:40] BanchoBot: Room name: 5WC2024: Bulgaria Qualifiers, History: https://osu.ppy.sh/mp/112987403
+[00:58:40] BanchoBot: Beatmap: https://osu.ppy.sh/b/2603674 Jun.A - The Fairy's Adventurous Tale
+[00:58:40] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:58:40] BanchoBot: Active mods: NoFail, Hidden
+[00:58:40] BanchoBot: Players: 4
+[00:58:40] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14843773 RioMisstery     
+[00:58:40] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8170966 Rengmain        
+[00:58:40] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/3703793 MyAngelLumei    
+[00:58:40] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16380723 Ivanix          
+[00:58:43] BCraftMG: !mp start 5 glhf
+[00:58:44] BanchoBot: Match starts in 5 seconds
+[00:58:44] BanchoBot: Queued the match to start in 5 seconds
+[00:58:45] BanchoBot: Match starts in 4 seconds
+[00:58:47] BanchoBot: Match starts in 3 seconds
+[00:58:48] BanchoBot: Good luck, have fun!
+[00:58:48] Rengmain: moyai
+[00:58:50] BanchoBot: The match has started!
+[01:01:12] BanchoBot: MyAngelLumei finished playing (Score: 350731, PASSED).
+[01:01:13] BanchoBot: Ivanix finished playing (Score: 323582, PASSED).
+[01:01:13] BanchoBot: RioMisstery finished playing (Score: 754843, PASSED).
+[01:01:13] BanchoBot: Rengmain finished playing (Score: 626889, PASSED).
+[01:01:13] BanchoBot: The match has finished!
+[01:01:16] BCraftMG: !mp map 3800124
+[01:01:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3800124 earthmind - ARCADIA
+[01:01:18] BCraftMG: !mp timer 120
+[01:01:19] BanchoBot: Countdown ends in 2 minutes
+[01:01:36] BanchoBot: LazerDynamiX joined in slot 5.
+[01:01:39] BanchoBot: Ivanix left the game.
+[01:01:43] BanchoBot: LazerDynamiX moved to slot 4
+[01:01:59] BanchoBot: MyAngelLumei left the game.
+[01:02:20] BanchoBot: Countdown ends in 1 minute
+[01:02:49] BanchoBot: Countdown ends in 30 seconds
+[01:03:05] BanchoBot: Ivanix joined in slot 3.
+[01:03:10] BanchoBot: Countdown ends in 10 seconds
+[01:03:14] BanchoBot: Countdown ends in 5 seconds
+[01:03:15] BanchoBot: Countdown ends in 4 seconds
+[01:03:17] BanchoBot: All players are ready
+[01:03:17] BanchoBot: Countdown ends in 3 seconds
+[01:03:18] BanchoBot: Countdown ends in 2 seconds
+[01:03:18] BanchoBot: Countdown ends in 1 second
+[01:03:19] BanchoBot: Countdown finished
+[01:03:28] BCraftMG: !mp settings
+[01:03:29] BanchoBot: Room name: 5WC2024: Bulgaria Qualifiers, History: https://osu.ppy.sh/mp/112987403
+[01:03:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/3800124 earthmind - ARCADIA
+[01:03:29] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:03:29] BanchoBot: Active mods: NoFail, Hidden
+[01:03:29] BanchoBot: Players: 4
+[01:03:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14843773 RioMisstery     
+[01:03:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8170966 Rengmain        
+[01:03:29] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16380723 Ivanix          
+[01:03:29] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9957793 LazerDynamiX    
+[01:03:30] BCraftMG: !mp start 5 glhf
+[01:03:32] Rengmain: m
+[01:03:32] BanchoBot: Match starts in 5 seconds
+[01:03:32] BanchoBot: Queued the match to start in 5 seconds
+[01:03:33] BanchoBot: Match starts in 4 seconds
+[01:03:35] BanchoBot: Match starts in 3 seconds
+[01:03:36] BanchoBot: Good luck, have fun!
+[01:03:37] BanchoBot: The match has started!
+[01:03:37] LazerDynamiX: m
+[01:07:46] BanchoBot: Ivanix finished playing (Score: 100717, PASSED).
+[01:07:46] BanchoBot: RioMisstery finished playing (Score: 142323, PASSED).
+[01:07:46] BanchoBot: LazerDynamiX finished playing (Score: 201346, PASSED).
+[01:07:48] BanchoBot: Rengmain finished playing (Score: 267731, PASSED).
+[01:07:48] BanchoBot: The match has finished!
+[01:07:57] BCraftMG: !mp map 2754917
+[01:07:58] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2754917 ARM (IOSYS) + Brasscapsule - Jazz is Rad
+[01:08:01] BCraftMG: !mp timer 120
+[01:08:01] BanchoBot: Countdown ends in 2 minutes
+[01:08:26] BanchoBot: Ivanix left the game.
+[01:09:03] BanchoBot: Countdown ends in 1 minute
+[01:09:31] BanchoBot: Countdown ends in 30 seconds
+[01:09:45] BanchoBot: Ivanix joined in slot 3.
+[01:09:52] BanchoBot: Countdown ends in 10 seconds
+[01:09:56] BanchoBot: Countdown ends in 5 seconds
+[01:09:58] BanchoBot: Countdown ends in 4 seconds
+[01:09:59] BanchoBot: Countdown ends in 3 seconds
+[01:09:59] BanchoBot: Countdown ends in 2 seconds
+[01:10:01] BanchoBot: All players are ready
+[01:10:01] BanchoBot: Countdown ends in 1 second
+[01:10:02] BanchoBot: Countdown finished
+[01:10:03] Rengmain: m
+[01:10:13] LazerDynamiX: m
+[01:10:13] BCraftMG: !mp settings
+[01:10:15] BanchoBot: Room name: 5WC2024: Bulgaria Qualifiers, History: https://osu.ppy.sh/mp/112987403
+[01:10:15] BanchoBot: Beatmap: https://osu.ppy.sh/b/2754917 ARM (IOSYS) + Brasscapsule - Jazz is Rad
+[01:10:15] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:10:15] BanchoBot: Active mods: NoFail, Hidden
+[01:10:15] BanchoBot: Players: 4
+[01:10:15] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14843773 RioMisstery     
+[01:10:15] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8170966 Rengmain        
+[01:10:15] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16380723 Ivanix          
+[01:10:15] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9957793 LazerDynamiX    
+[01:10:16] BCraftMG: !mp start 5 glhf
+[01:10:17] BanchoBot: Match starts in 5 seconds
+[01:10:17] BanchoBot: Queued the match to start in 5 seconds
+[01:10:19] BanchoBot: Match starts in 4 seconds
+[01:10:20] BanchoBot: Match starts in 3 seconds
+[01:10:21] BanchoBot: Good luck, have fun!
+[01:10:23] BanchoBot: The match has started!
+[01:12:28] BanchoBot: Ivanix finished playing (Score: 209802, PASSED).
+[01:12:28] BanchoBot: LazerDynamiX finished playing (Score: 188047, PASSED).
+[01:12:29] BanchoBot: Rengmain finished playing (Score: 356917, PASSED).
+[01:12:31] BanchoBot: RioMisstery finished playing (Score: 169645, PASSED).
+[01:12:31] BanchoBot: The match has finished!
+[01:12:36] BCraftMG: !mp map 1694583
+[01:12:37] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1694583 Camellia feat. Nanahira - Bassdrop Freaks (2018 "Redrop" ver.)
+[01:12:38] BCraftMG: !mp mods 17
+[01:12:39] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[01:12:44] BanchoBot: Rengmain left the game.
+[01:12:50] BanchoBot: RioMisstery left the game.
+[01:12:51] BanchoBot: Ivanix left the game.
+[01:12:53] BanchoBot: LazerDynamiX left the game.
+[01:13:19] BanchoBot: Hanabi - joined in slot 1.
+[01:13:47] BanchoBot: RioMisstery joined in slot 2.
+[01:14:43] BanchoBot: MyAngelLumei joined in slot 3.
+[01:15:07] BanchoBot: Ivanix joined in slot 4.
+[01:15:37] BanchoBot: All players are ready
+[01:15:42] BCraftMG: !mp settings
+[01:15:43] BanchoBot: Room name: 5WC2024: Bulgaria Qualifiers, History: https://osu.ppy.sh/mp/112987403
+[01:15:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/1694583 Camellia feat. Nanahira - Bassdrop Freaks (2018 "Redrop" ver.)
+[01:15:43] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:15:43] BanchoBot: Active mods: NoFail, HardRock
+[01:15:43] BanchoBot: Players: 4
+[01:15:43] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14109511 Hanabi -        
+[01:15:43] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14843773 RioMisstery     
+[01:15:43] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/3703793 MyAngelLumei    
+[01:15:43] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16380723 Ivanix          
+[01:15:45] BCraftMG: !mp start 5 glhf
+[01:15:46] BanchoBot: Match starts in 5 seconds
+[01:15:46] BanchoBot: Queued the match to start in 5 seconds
+[01:15:47] BanchoBot: Match starts in 4 seconds
+[01:15:49] BanchoBot: Match starts in 3 seconds
+[01:15:49] BanchoBot: Good luck, have fun!
+[01:15:52] BanchoBot: The match has started!
+[01:20:29] BanchoBot: Ivanix finished playing (Score: 445609, PASSED).
+[01:20:29] BanchoBot: MyAngelLumei finished playing (Score: 608063, PASSED).
+[01:20:30] BanchoBot: RioMisstery finished playing (Score: 265646, PASSED).
+[01:20:30] BanchoBot: Hanabi - finished playing (Score: 354309, PASSED).
+[01:20:30] BanchoBot: The match has finished!
+[01:20:34] BCraftMG: !mp map 3754547
+[01:20:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3754547 School Food Punishment - fiction nonfiction
+[01:20:43] BanchoBot: RioMisstery left the game.
+[01:20:57] BanchoBot: Ivanix left the game.
+[01:21:31] BanchoBot: robatrt joined in slot 2.
+[01:22:23] BanchoBot: Ivanix joined in slot 4.
+[01:22:40] BanchoBot: All players are ready
+[01:22:44] BCraftMG: !mp settings
+[01:22:46] BanchoBot: Room name: 5WC2024: Bulgaria Qualifiers, History: https://osu.ppy.sh/mp/112987403
+[01:22:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/3754547 School Food Punishment - fiction nonfiction
+[01:22:46] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:22:46] BanchoBot: Active mods: NoFail, HardRock
+[01:22:46] BanchoBot: Players: 4
+[01:22:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14109511 Hanabi -        
+[01:22:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11067957 robatrt         
+[01:22:46] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/3703793 MyAngelLumei    
+[01:22:46] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16380723 Ivanix          
+[01:22:48] BCraftMG: !mp start 5 glhf
+[01:22:49] BanchoBot: Match starts in 5 seconds
+[01:22:49] BanchoBot: Queued the match to start in 5 seconds
+[01:22:50] BanchoBot: Match starts in 4 seconds
+[01:22:52] BanchoBot: Match starts in 3 seconds
+[01:22:52] BanchoBot: Good luck, have fun!
+[01:22:55] BanchoBot: The match has started!
+[01:25:51] BanchoBot: Hanabi - finished playing (Score: 334298, PASSED).
+[01:25:51] BanchoBot: robatrt finished playing (Score: 425394, PASSED).
+[01:25:53] BanchoBot: MyAngelLumei finished playing (Score: 685008, PASSED).
+[01:25:53] BanchoBot: Ivanix finished playing (Score: 488958, PASSED).
+[01:25:53] BanchoBot: The match has finished!
+[01:26:09] BCraftMG: !mp map 2106420
+[01:26:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2106420 tarolabo - Zeitmesser
+[01:26:11] BanchoBot: robatrt left the game.
+[01:26:12] BCraftMG: !mp timer 120
+[01:26:13] BanchoBot: Countdown ends in 2 minutes
+[01:26:18] BanchoBot: Ivanix left the game.
+[01:26:21] BanchoBot: Hanabi - left the game.
+[01:26:44] BanchoBot: MyAngelLumei left the game.
+[01:27:14] BanchoBot: Countdown ends in 1 minute
+[01:27:28] BanchoBot: Hanabi - joined in slot 1.
+[01:27:43] BanchoBot: Countdown ends in 30 seconds
+[01:27:43] BanchoBot: Ivanix joined in slot 2.
+[01:28:03] BanchoBot: Countdown ends in 10 seconds
+[01:28:06] BanchoBot: MyAngelLumei joined in slot 3.
+[01:28:08] BanchoBot: RioMisstery joined in slot 4.
+[01:28:09] BanchoBot: Countdown ends in 5 seconds
+[01:28:09] BanchoBot: Countdown ends in 4 seconds
+[01:28:10] BanchoBot: Countdown ends in 3 seconds
+[01:28:12] BanchoBot: Countdown ends in 2 seconds
+[01:28:12] BanchoBot: Countdown ends in 1 second
+[01:28:13] BanchoBot: Countdown finished
+[01:28:19] BCraftMG: !mp settings
+[01:28:21] BanchoBot: Room name: 5WC2024: Bulgaria Qualifiers, History: https://osu.ppy.sh/mp/112987403
+[01:28:21] BanchoBot: Beatmap: https://osu.ppy.sh/b/2106420 tarolabo - Zeitmesser
+[01:28:21] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:28:21] BanchoBot: Active mods: NoFail, HardRock
+[01:28:21] BanchoBot: Players: 4
+[01:28:21] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/14109511 Hanabi -        
+[01:28:21] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16380723 Ivanix          
+[01:28:21] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/3703793 MyAngelLumei    
+[01:28:21] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14843773 RioMisstery     
+[01:28:36] BanchoBot: All players are ready
+[01:28:37] BCraftMG: !mp settings
+[01:28:39] BanchoBot: Room name: 5WC2024: Bulgaria Qualifiers, History: https://osu.ppy.sh/mp/112987403
+[01:28:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/2106420 tarolabo - Zeitmesser
+[01:28:39] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:28:39] BanchoBot: Active mods: NoFail, HardRock
+[01:28:39] BanchoBot: Players: 4
+[01:28:39] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14109511 Hanabi -        
+[01:28:39] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16380723 Ivanix          
+[01:28:39] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/3703793 MyAngelLumei    
+[01:28:39] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14843773 RioMisstery     
+[01:28:40] MyAngelLumei: SRY
+[01:28:46] BCraftMG: reee
+[01:28:47] BCraftMG: !mp start 5 glhf
+[01:28:47] BanchoBot: Match starts in 5 seconds
+[01:28:47] BanchoBot: Queued the match to start in 5 seconds
+[01:28:49] BanchoBot: Match starts in 4 seconds
+[01:28:50] BanchoBot: Match starts in 3 seconds
+[01:28:50] Hanabi_-: xdd
+[01:28:52] BanchoBot: Good luck, have fun!
+[01:28:53] BanchoBot: The match has started!
+[01:30:51] BanchoBot: Hanabi - finished playing (Score: 266455, PASSED).
+[01:30:53] BanchoBot: RioMisstery finished playing (Score: 383058, PASSED).
+[01:30:53] BanchoBot: Ivanix finished playing (Score: 737040, PASSED).
+[01:30:53] BanchoBot: MyAngelLumei finished playing (Score: 925756, PASSED).
+[01:30:53] BanchoBot: The match has finished!
+[01:30:56] BCraftMG: !mp map 2671123
+[01:30:57] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2671123 Sakakibara Yui - Scarlet
+[01:30:58] BCraftMG: !mp mods 65
+[01:30:59] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[01:31:01] BCraftMG: !mp timer 120
+[01:31:03] BanchoBot: Countdown ends in 2 minutes
+[01:31:07] BanchoBot: RioMisstery left the game.
+[01:31:28] BanchoBot: Hanabi - left the game.
+[01:31:37] BanchoBot: Ivanix left the game.
+[01:31:45] BanchoBot: MyAngelLumei left the game.
+[01:32:04] BanchoBot: Countdown ends in 1 minute
+[01:32:10] BanchoBot: robatrt joined in slot 1.
+[01:32:27] BanchoBot: Hanabi - joined in slot 2.
+[01:32:34] BanchoBot: Countdown ends in 30 seconds
+[01:32:46] BanchoBot: Ivanix joined in slot 3.
+[01:32:54] BanchoBot: Countdown ends in 10 seconds
+[01:32:56] BanchoBot: MyAngelLumei joined in slot 4.
+[01:32:58] BanchoBot: Countdown ends in 5 seconds
+[01:32:59] BanchoBot: Countdown ends in 4 seconds
+[01:33:01] BanchoBot: Countdown ends in 3 seconds
+[01:33:02] BanchoBot: Countdown ends in 2 seconds
+[01:33:02] BanchoBot: Countdown ends in 1 second
+[01:33:03] BanchoBot: All players are ready
+[01:33:03] BanchoBot: Countdown finished
+[01:33:04] BCraftMG: !mp settings
+[01:33:05] BanchoBot: Room name: 5WC2024: Bulgaria Qualifiers, History: https://osu.ppy.sh/mp/112987403
+[01:33:05] BanchoBot: Beatmap: https://osu.ppy.sh/b/2671123 Sakakibara Yui - Scarlet
+[01:33:05] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:33:05] BanchoBot: Active mods: NoFail, DoubleTime
+[01:33:05] BanchoBot: Players: 4
+[01:33:05] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11067957 robatrt         
+[01:33:05] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14109511 Hanabi -        
+[01:33:05] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16380723 Ivanix          
+[01:33:05] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/3703793 MyAngelLumei    
+[01:33:07] BCraftMG: !mp start 5 glhf
+[01:33:08] BanchoBot: Match starts in 5 seconds
+[01:33:08] BanchoBot: Queued the match to start in 5 seconds
+[01:33:09] BanchoBot: Match starts in 4 seconds
+[01:33:11] BanchoBot: Match starts in 3 seconds
+[01:33:11] Hanabi_-: reeeeeeeeeeee
+[01:33:12] BanchoBot: Good luck, have fun!
+[01:33:13] BanchoBot: The match has started!
+[01:35:55] BanchoBot: robatrt finished playing (Score: 332395, PASSED).
+[01:35:57] BanchoBot: MyAngelLumei finished playing (Score: 512299, PASSED).
+[01:35:57] BanchoBot: Ivanix finished playing (Score: 286968, PASSED).
+[01:35:58] BanchoBot: Hanabi - finished playing (Score: 242867, PASSED).
+[01:35:58] BanchoBot: The match has finished!
+[01:36:04] BanchoBot: Prahosnika joined in slot 5.
+[01:36:09] BanchoBot: Ivanix left the game.
+[01:36:11] BCraftMG: !mp map 2130652
+[01:36:12] BanchoBot: robatrt left the game.
+[01:36:12] BanchoBot: Hanabi - left the game.
+[01:36:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2130652 Powerwolf - Christ & Combat
+[01:36:18] BanchoBot: Rengmain joined in slot 1.
+[01:36:24] BCraftMG: !mp settings
+[01:36:25] BanchoBot: MyAngelLumei left the game.
+[01:36:25] BanchoBot: Room name: 5WC2024: Bulgaria Qualifiers, History: https://osu.ppy.sh/mp/112987403
+[01:36:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/2130652 Powerwolf - Christ & Combat
+[01:36:25] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:36:25] BanchoBot: Active mods: NoFail, DoubleTime
+[01:36:25] BanchoBot: Players: 2
+[01:36:25] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/8170966 Rengmain        
+[01:36:25] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/12349105 Prahosnika      
+[01:36:32] BanchoBot: Prahosnika left the game.
+[01:37:21] BanchoBot: RioMisstery joined in slot 2.
+[01:37:22] BanchoBot: Ivanix joined in slot 3.
+[01:37:43] BanchoBot: MyAngelLumei joined in slot 4.
+[01:38:06] BanchoBot: All players are ready
+[01:38:08] Rengmain: m
+[01:38:19] BCraftMG: !mp settings
+[01:38:19] BanchoBot: Room name: 5WC2024: Bulgaria Qualifiers, History: https://osu.ppy.sh/mp/112987403
+[01:38:19] BanchoBot: Beatmap: https://osu.ppy.sh/b/2130652 Powerwolf - Christ & Combat
+[01:38:19] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:38:19] BanchoBot: Active mods: NoFail, DoubleTime
+[01:38:19] BanchoBot: Players: 4
+[01:38:19] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8170966 Rengmain        
+[01:38:19] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14843773 RioMisstery     
+[01:38:19] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16380723 Ivanix          
+[01:38:19] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/3703793 MyAngelLumei    
+[01:38:20] BCraftMG: !mp start 5 glhf
+[01:38:22] BanchoBot: Match starts in 5 seconds
+[01:38:22] BanchoBot: Queued the match to start in 5 seconds
+[01:38:23] BanchoBot: Match starts in 4 seconds
+[01:38:25] BanchoBot: Match starts in 3 seconds
+[01:38:26] BanchoBot: Good luck, have fun!
+[01:38:27] BanchoBot: The match has started!
+[01:40:58] BanchoBot: MyAngelLumei finished playing (Score: 420175, PASSED).
+[01:40:58] BanchoBot: Rengmain finished playing (Score: 353852, PASSED).
+[01:40:58] BanchoBot: RioMisstery finished playing (Score: 384387, PASSED).
+[01:40:58] BanchoBot: Ivanix finished playing (Score: 908750, PASSED).
+[01:40:58] BanchoBot: The match has finished!
+[01:41:06] BCraftMG: !mp map 3145696
+[01:41:08] BanchoBot: Prahosnika joined in slot 5.
+[01:41:08] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3145696 Ito Kanako - Desire Blue sky
+[01:41:09] BCraftMG: !mp timer 120
+[01:41:10] BanchoBot: Rengmain left the game.
+[01:41:10] BanchoBot: Countdown ends in 2 minutes
+[01:41:12] BanchoBot: MyAngelLumei left the game.
+[01:41:14] BanchoBot: RioMisstery left the game.
+[01:41:15] BanchoBot: Prahosnika moved to slot 1
+[01:41:19] BanchoBot: Ivanix left the game.
+[01:42:11] BanchoBot: Countdown ends in 1 minute
+[01:42:41] BanchoBot: Countdown ends in 30 seconds
+[01:42:45] BanchoBot: MyAngelLumei joined in slot 2.
+[01:42:46] BanchoBot: Ivanix joined in slot 3.
+[01:42:48] BanchoBot: Rengmain joined in slot 4.
+[01:42:53] Rengmain: m
+[01:42:59] BanchoBot: All players are ready
+[01:43:00] BCraftMG: !mp settings
+[01:43:01] BanchoBot: Countdown ends in 10 seconds
+[01:43:01] BanchoBot: Room name: 5WC2024: Bulgaria Qualifiers, History: https://osu.ppy.sh/mp/112987403
+[01:43:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/3145696 Ito Kanako - Desire Blue sky
+[01:43:01] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:43:01] BanchoBot: Active mods: NoFail, DoubleTime
+[01:43:01] BanchoBot: Players: 4
+[01:43:01] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12349105 Prahosnika      
+[01:43:01] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3703793 MyAngelLumei    
+[01:43:01] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16380723 Ivanix          
+[01:43:01] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8170966 Rengmain        
+[01:43:04] BCraftMG: !mp start 5 glhf
+[01:43:05] BanchoBot: Countdown ends in 5 seconds
+[01:43:05] BanchoBot: Countdown aborted
+[01:43:05] BanchoBot: Match starts in 5 seconds
+[01:43:05] BanchoBot: Queued the match to start in 5 seconds
+[01:43:06] BanchoBot: Match starts in 4 seconds
+[01:43:08] BanchoBot: Match starts in 3 seconds
+[01:43:09] BanchoBot: Good luck, have fun!
+[01:43:10] BanchoBot: The match has started!
+[01:46:11] BanchoBot: Rengmain finished playing (Score: 409073, PASSED).
+[01:46:11] BanchoBot: Prahosnika finished playing (Score: 262281, PASSED).
+[01:46:12] BanchoBot: MyAngelLumei finished playing (Score: 510887, PASSED).
+[01:46:12] BanchoBot: Ivanix finished playing (Score: 460872, PASSED).
+[01:46:12] BanchoBot: The match has finished!
+[01:46:27] BCraftMG: geegee
+[01:46:29] BanchoBot: Ivanix left the game.
+[01:46:29] BanchoBot: MyAngelLumei left the game.
+[01:46:36] Prahosnika: ty ref
+[01:46:36] BanchoBot: Prahosnika left the game.
+[01:46:54] BCraftMG: !mp close
+[01:46:55] BanchoBot: Closed the match

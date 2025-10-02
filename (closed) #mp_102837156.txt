@@ -1,0 +1,436 @@
+[20:55:17] Joined #mp_102837156
+[20:55:17] BCraftMG: !mp settings
+[20:55:18] BanchoBot: Room name: o!vh: (Qualifiers) vs (Ex1), History: https://osu.ppy.sh/mp/102837156
+[20:55:18] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[20:55:18] BanchoBot: Players: 0
+[20:55:24] BCraftMG: !mp set 0 3 16
+[20:55:26] BanchoBot: Changed match settings to 16 slots, HeadToHead, ScoreV2
+[20:55:28] BCraftMG: !mp invite Kiul
+[20:55:28] BanchoBot: Invited KiuL to the room
+[20:55:31] BCraftMG: !mp invite Orei
+[20:55:31] BanchoBot: Invited Orei to the room
+[20:55:35] BanchoBot: Orei joined in slot 1.
+[20:55:39] BanchoBot: KiuL joined in slot 2.
+[20:55:53] BCraftMG: damn
+[20:55:55] BCraftMG: hi
+[20:55:59] BCraftMG: lan dau lam chuyen ay
+[20:56:01] Orei: o/
+[20:56:03] KiuL: chao
+[20:56:05] BCraftMG: !mp map 2802397 0
+[20:56:05] KiuL: o/
+[20:56:07] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2802397 TUYU - Loser Girl
+[20:56:07] BanchoBot: Changed match mode to Osu
+[20:56:07] BCraftMG: !mp mods 1
+[20:56:08] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:56:11] KiuL: toi chua tai pool
+[20:56:13] KiuL: gomen
+[20:56:18] BCraftMG: D:
+[20:56:22] Orei: ai cung sightread
+[20:56:23] Orei: ksao
+[20:56:24] KiuL: ko sao
+[20:56:41] KiuL: hom nay dung kieu multi zui ze
+[20:56:54] BanchoBot: Orei moved to slot 5
+[20:57:06] BanchoBot: KiuL moved to slot 7
+[20:57:09] BanchoBot: All players are ready
+[20:57:11] BCraftMG: !mp settings
+[20:57:13] BanchoBot: Room name: o!vh: (Qualifiers) vs (Ex1), History: https://osu.ppy.sh/mp/102837156
+[20:57:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/2802397 TUYU - Loser Girl
+[20:57:13] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:57:13] BanchoBot: Active mods: NoFail
+[20:57:13] BanchoBot: Players: 2
+[20:57:13] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/14658394 Orei            
+[20:57:13] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11840611 KiuL            
+[20:57:17] KiuL: glhf
+[20:57:17] BCraftMG: !mp start 5
+[20:57:18] BanchoBot: Match starts in 5 seconds
+[20:57:18] BanchoBot: Queued the match to start in 5 seconds
+[20:57:19] BanchoBot: Match starts in 4 seconds
+[20:57:19] Orei: golf
+[20:57:20] BanchoBot: Match starts in 3 seconds
+[20:57:22] BanchoBot: Good luck, have fun!
+[20:57:24] BanchoBot: The match has started!
+[21:00:47] BanchoBot: Orei finished playing (Score: 743905, PASSED).
+[21:00:47] BanchoBot: KiuL finished playing (Score: 938645, PASSED).
+[21:00:47] BanchoBot: The match has finished!
+[21:00:55] BCraftMG: !mp map 2123588 0
+[21:00:56] Orei: idol pro zay
+[21:00:56] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2123588 Seiryu - AO-Infinity
+[21:00:56] BanchoBot: Changed match mode to Osu
+[21:00:57] Orei: uoc
+[21:01:00] BCraftMG: vai
+[21:01:04] KiuL: xin loi zi da fc
+[21:01:04] BCraftMG: !mp timer 120
+[21:01:05] BanchoBot: Countdown ends in 2 minutes
+[21:01:07] KiuL: nhung ma
+[21:01:08] KiuL: cho 2p
+[21:01:12] KiuL: relax cai
+[21:01:14] KiuL: aaawwww
+[21:01:34] KiuL: me B rank this map
+[21:01:35] KiuL: lmao
+[21:01:38] BCraftMG: vai
+[21:01:47] Orei: em con k co rank
+[21:01:48] Orei: :sob:
+[21:01:53] KiuL: bjp zai
+[21:02:00] Orei: sightread ma
+[21:02:01] Orei: o kia
+[21:02:06] BanchoBot: Countdown ends in 1 minute
+[21:02:12] KiuL: hinh nhu nm
+[21:02:15] KiuL: toi co het thi phnai
+[21:02:17] KiuL: kekw
+[21:02:32] BanchoBot: All players are ready
+[21:02:35] KiuL: glhf
+[21:02:36] BanchoBot: Countdown ends in 30 seconds
+[21:02:36] BCraftMG: !mp settings
+[21:02:37] BanchoBot: Room name: o!vh: (Qualifiers) vs (Ex1), History: https://osu.ppy.sh/mp/102837156
+[21:02:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/2123588 Seiryu - AO-Infinity
+[21:02:37] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:02:37] BanchoBot: Active mods: NoFail
+[21:02:37] BanchoBot: Players: 2
+[21:02:37] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/14658394 Orei            
+[21:02:37] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11840611 KiuL            
+[21:02:41] BCraftMG: !mp start 4
+[21:02:41] BanchoBot: Countdown aborted
+[21:02:41] BanchoBot: Match starts in 4 seconds
+[21:02:41] BanchoBot: Queued the match to start in 4 seconds
+[21:02:42] Orei: golf
+[21:02:42] BanchoBot: Match starts in 3 seconds
+[21:02:44] BanchoBot: Good luck, have fun!
+[21:02:46] BanchoBot: The match has started!
+[21:05:51] BanchoBot: KiuL finished playing (Score: 831997, PASSED).
+[21:05:52] BanchoBot: Orei finished playing (Score: 929491, PASSED).
+[21:05:52] BanchoBot: The match has finished!
+[21:05:59] BCraftMG: !mp map 2442178 0
+[21:06:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2442178 KNOWER - Overtime
+[21:06:00] BanchoBot: Changed match mode to Osu
+[21:06:00] Orei: vl nm2 co aim
+[21:06:02] Orei: kho`
+[21:06:03] BCraftMG: !mp timer 120
+[21:06:03] BanchoBot: Countdown ends in 2 minutes
+[21:06:04] KiuL: ma
+[21:06:08] KiuL: xiu nua mat ai
+[21:06:10] KiuL: aim
+[21:06:14] KiuL: 2p relax
+[21:06:39] BCraftMG: anh co can bat mod relax khong
+[21:06:42] KiuL: zai lone
+[21:06:44] KiuL: mao nay
+[21:06:45] KiuL: co slider
+[21:06:48] KiuL: kienun
+[21:06:51] KiuL: nm3 + nnm4
+[21:06:53] KiuL: hanizzz
+[21:06:55] Orei: map j the
+[21:07:04] BanchoBot: Countdown ends in 1 minute
+[21:07:24] Orei: sao nghe k sightread dc the
+[21:07:25] Orei: D:
+[21:07:33] BanchoBot: Countdown ends in 30 seconds
+[21:07:38] KiuL: map nnay anti sightread ma
+[21:07:38] KiuL: hjc
+[21:07:40] BanchoBot: All players are ready
+[21:07:42] BCraftMG: !mp settings
+[21:07:43] BanchoBot: Room name: o!vh: (Qualifiers) vs (Ex1), History: https://osu.ppy.sh/mp/102837156
+[21:07:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/2442178 KNOWER - Overtime
+[21:07:43] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:07:43] BanchoBot: Active mods: NoFail
+[21:07:43] BanchoBot: Players: 2
+[21:07:43] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/14658394 Orei            
+[21:07:43] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11840611 KiuL            
+[21:07:45] Orei: vai
+[21:07:45] BCraftMG: :3c:
+[21:07:46] Orei: chon zay
+[21:07:47] Orei: golf
+[21:07:50] BCraftMG: !mop start 5
+[21:07:54] BCraftMG: !mp start 5
+[21:07:54] BanchoBot: Countdown ends in 10 seconds
+[21:07:54] KiuL: glhf
+[21:07:55] BanchoBot: Countdown aborted
+[21:07:55] BanchoBot: Match starts in 5 seconds
+[21:07:55] BanchoBot: Queued the match to start in 5 seconds
+[21:07:56] BanchoBot: Match starts in 4 seconds
+[21:07:57] BanchoBot: Match starts in 3 seconds
+[21:07:58] BanchoBot: Good luck, have fun!
+[21:08:00] BanchoBot: The match has started!
+[21:11:25] BanchoBot: Orei left the game.
+[21:11:26] BanchoBot: KiuL finished playing (Score: 421707, PASSED).
+[21:11:26] BanchoBot: The match has finished!
+[21:11:31] BCraftMG: vai
+[21:11:41] KiuL: quit
+[21:11:43] KiuL: quit w
+[21:11:54] KiuL: S rannk bro
+[21:11:57] KiuL: sadge
+[21:12:06] BCraftMG: !mp map 1691949 0
+[21:12:07] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1691949 Camellia - Chirality ("Dissymmetric" Long ver.)
+[21:12:07] BanchoBot: Changed match mode to Osu
+[21:12:25] BanchoBot: All players are ready
+[21:12:42] BCraftMG: !mp settings
+[21:12:43] BanchoBot: Room name: o!vh: (Qualifiers) vs (Ex1), History: https://osu.ppy.sh/mp/102837156
+[21:12:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/1691949 Camellia - Chirality ("Dissymmetric" Long ver.)
+[21:12:43] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:12:43] BanchoBot: Active mods: NoFail
+[21:12:43] BanchoBot: Players: 1
+[21:12:43] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11840611 KiuL            
+[21:12:47] BCraftMG: !mp start
+[21:12:48] BanchoBot: The match has started!
+[21:12:48] BanchoBot: Started the match
+[21:14:46] BCraftMG: !mp invite Orei
+[21:14:47] BanchoBot: Invited Orei to the room
+[21:14:52] BanchoBot: Orei joined in slot 1.
+[21:15:48] BCraftMG: pri  replay nm34 nhe
+[21:16:26] BanchoBot: KiuL finished playing (Score: 463837, PASSED).
+[21:16:26] BanchoBot: The match has finished!
+[21:16:36] BCraftMG: !mp map 2459932 0
+[21:16:37] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2459932 TUYU - Namikare
+[21:16:37] BanchoBot: Changed match mode to Osu
+[21:16:38] BCraftMG: !mp mods 9
+[21:16:38] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:16:39] KiuL: S rank 4 map
+[21:16:40] BCraftMG: !mp timer 120
+[21:16:41] KiuL: hay
+[21:16:41] BanchoBot: Countdown ends in 2 minutes
+[21:16:53] Orei: idol pro zay
+[21:17:10] BanchoBot: All players are ready
+[21:17:23] Orei: ok pri
+[21:17:41] BanchoBot: Countdown ends in 1 minute
+[21:17:43] KiuL: glhf
+[21:17:47] BCraftMG: !mp settings
+[21:17:47] BanchoBot: Room name: o!vh: (Qualifiers) vs (Ex1), History: https://osu.ppy.sh/mp/102837156
+[21:17:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/2459932 TUYU - Namikare
+[21:17:47] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:17:47] BanchoBot: Active mods: NoFail, Hidden
+[21:17:47] BanchoBot: Players: 2
+[21:17:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14658394 Orei            
+[21:17:47] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11840611 KiuL            
+[21:17:51] BCraftMG: !mp start 4
+[21:17:51] BanchoBot: Countdown aborted
+[21:17:51] BanchoBot: Match starts in 4 seconds
+[21:17:51] BanchoBot: Queued the match to start in 4 seconds
+[21:17:53] BanchoBot: Match starts in 3 seconds
+[21:17:54] BanchoBot: Good luck, have fun!
+[21:17:56] BanchoBot: The match has started!
+[21:21:50] BanchoBot: KiuL finished playing (Score: 426878, PASSED).
+[21:21:51] BanchoBot: Orei finished playing (Score: 962317, PASSED).
+[21:21:51] BanchoBot: The match has finished!
+[21:21:59] BCraftMG: !mp map 228493 0
+[21:22:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/228493 TAG - Theory of Eternity
+[21:22:00] BanchoBot: Changed match mode to Osu
+[21:22:06] KiuL: idol
+[21:22:14] Orei: j idol kiul
+[21:22:14] BanchoBot: All players are ready
+[21:22:16] BCraftMG: !mp settings
+[21:22:17] BanchoBot: Room name: o!vh: (Qualifiers) vs (Ex1), History: https://osu.ppy.sh/mp/102837156
+[21:22:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/228493 TAG - Theory of Eternity
+[21:22:17] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:22:17] BanchoBot: Active mods: NoFail, Hidden
+[21:22:17] BanchoBot: Players: 2
+[21:22:17] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14658394 Orei            
+[21:22:17] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11840611 KiuL            
+[21:22:20] BCraftMG: !mp start 5
+[21:22:21] BanchoBot: Match starts in 5 seconds
+[21:22:21] BanchoBot: Queued the match to start in 5 seconds
+[21:22:22] BanchoBot: Match starts in 4 seconds
+[21:22:23] BanchoBot: Match starts in 3 seconds
+[21:22:24] BanchoBot: Good luck, have fun!
+[21:22:26] BanchoBot: The match has started!
+[21:24:28] BanchoBot: Orei finished playing (Score: 848295, PASSED).
+[21:24:29] BanchoBot: KiuL finished playing (Score: 233843, PASSED).
+[21:24:29] BanchoBot: The match has finished!
+[21:24:34] BCraftMG: !mp map 2601642 0
+[21:24:35] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2601642 TUYU - Doro no Bunzai de Watashi dake no Taisetsu o Ubaouda nante
+[21:24:35] BanchoBot: Changed match mode to Osu
+[21:24:36] BCraftMG: !mp mods 17
+[21:24:36] KiuL: nice
+[21:24:36] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[21:24:37] BCraftMG: !mp timer 120
+[21:24:39] BanchoBot: Countdown ends in 2 minutes
+[21:24:40] KiuL: can we ban hd
+[21:24:58] Orei: hd vui ma
+[21:25:12] KiuL: glhf
+[21:25:27] BCraftMG: :3c:
+[21:25:34] BanchoBot: All players are ready
+[21:25:36] Orei: golf
+[21:25:40] BanchoBot: Countdown ends in 1 minute
+[21:25:44] Orei: xe lan thoi
+[21:25:50] KiuL: bjp
+[21:25:52] BCraftMG: !mp settings
+[21:25:53] BanchoBot: Room name: o!vh: (Qualifiers) vs (Ex1), History: https://osu.ppy.sh/mp/102837156
+[21:25:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/2601642 TUYU - Doro no Bunzai de Watashi dake no Taisetsu o Ubaouda nante
+[21:25:53] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:25:53] BanchoBot: Active mods: NoFail, HardRock
+[21:25:53] BanchoBot: Players: 2
+[21:25:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14658394 Orei            
+[21:25:53] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11840611 KiuL            
+[21:25:56] Orei: that
+[21:25:58] Orei: k co aim,
+[21:25:58] BCraftMG: !mp start 4
+[21:25:59] BanchoBot: Countdown aborted
+[21:25:59] BanchoBot: Match starts in 4 seconds
+[21:25:59] BanchoBot: Queued the match to start in 4 seconds
+[21:26:00] BanchoBot: Match starts in 3 seconds
+[21:26:01] BanchoBot: Good luck, have fun!
+[21:26:02] KiuL: bjp
+[21:26:03] BanchoBot: The match has started!
+[21:29:22] BanchoBot: KiuL finished playing (Score: 561494, PASSED).
+[21:29:23] BanchoBot: Orei finished playing (Score: 763137, PASSED).
+[21:29:23] BanchoBot: The match has finished!
+[21:29:30] BCraftMG: !mp map 931491 0
+[21:29:31] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/931491 sakuzyo - Laplace
+[21:29:31] BanchoBot: Changed match mode to Osu
+[21:29:33] KiuL: slider
+[21:29:36] Orei: riu k co aim
+[21:29:42] BCraftMG: !mp timer 120
+[21:29:43] KiuL: me too
+[21:29:43] BanchoBot: Countdown ends in 2 minutes
+[21:29:48] KiuL: adu hr2 nay
+[21:29:51] KiuL: :Skull:
+[21:29:54] Orei: fc nm1 ma bao k co aim
+[21:30:02] Orei: ughhhhhhhhhh
+[21:30:09] KiuL: k biet choi hd za hr
+[21:30:10] KiuL: the
+[21:30:13] BanchoBot: All players are ready
+[21:30:30] Orei: golf
+[21:30:33] BCraftMG: !mp settings
+[21:30:34] KiuL: glhf
+[21:30:34] BanchoBot: Room name: o!vh: (Qualifiers) vs (Ex1), History: https://osu.ppy.sh/mp/102837156
+[21:30:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/931491 sakuzyo - Laplace
+[21:30:34] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:30:34] BanchoBot: Active mods: NoFail, HardRock
+[21:30:34] BanchoBot: Players: 2
+[21:30:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14658394 Orei            
+[21:30:34] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11840611 KiuL            
+[21:30:36] BCraftMG: !mp start 5
+[21:30:36] BanchoBot: Countdown aborted
+[21:30:36] BanchoBot: Match starts in 5 seconds
+[21:30:36] BanchoBot: Queued the match to start in 5 seconds
+[21:30:38] BanchoBot: Match starts in 4 seconds
+[21:30:39] BanchoBot: Match starts in 3 seconds
+[21:30:40] BanchoBot: Good luck, have fun!
+[21:30:41] BanchoBot: The match has started!
+[21:32:32] BanchoBot: Orei finished playing (Score: 538875, PASSED).
+[21:32:33] BanchoBot: KiuL finished playing (Score: 504886, PASSED).
+[21:32:33] BanchoBot: The match has finished!
+[21:32:42] BCraftMG: !mp map 978120 0
+[21:32:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/978120 Yuuhei Satellite (Arranged: Iceon) feat. senya - Yuudachi, Kimi to Kakurega
+[21:32:43] BanchoBot: Changed match mode to Osu
+[21:32:44] BCraftMG: !mp mods 65
+[21:32:44] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:32:59] KiuL: yhr xe lan
+[21:33:00] KiuL: the
+[21:33:08] BCraftMG: :3c:
+[21:33:09] BCraftMG: !mp timer 120
+[21:33:09] Orei: thi em cung xe lan ma
+[21:33:10] BanchoBot: Countdown ends in 2 minutes
+[21:33:14] KiuL: a du
+[21:33:15] Orei: ughhhhhhh
+[21:33:17] KiuL: da den dt
+[21:33:21] KiuL: Bcraft oi
+[21:33:25] KiuL: co bao nhiu dt the
+[21:33:29] BCraftMG: 2 dt thoi anh
+[21:33:35] KiuL: oke
+[21:33:39] BanchoBot: All players are ready
+[21:33:44] BCraftMG: !mp settings
+[21:33:46] BanchoBot: Room name: o!vh: (Qualifiers) vs (Ex1), History: https://osu.ppy.sh/mp/102837156
+[21:33:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/978120 Yuuhei Satellite (Arranged: Iceon) feat. senya - Yuudachi, Kimi to Kakurega
+[21:33:46] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:33:46] BanchoBot: Active mods: NoFail, DoubleTime
+[21:33:46] BanchoBot: Players: 2
+[21:33:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14658394 Orei            
+[21:33:46] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11840611 KiuL            
+[21:33:50] BCraftMG: !mp start 5
+[21:33:51] BanchoBot: Countdown aborted
+[21:33:51] BanchoBot: Match starts in 5 seconds
+[21:33:51] BanchoBot: Queued the match to start in 5 seconds
+[21:33:52] BanchoBot: Match starts in 4 seconds
+[21:33:53] BanchoBot: Match starts in 3 seconds
+[21:33:54] BanchoBot: Good luck, have fun!
+[21:33:57] BanchoBot: The match has started!
+[21:36:35] BanchoBot: Orei finished playing (Score: 651681, PASSED).
+[21:36:36] BanchoBot: KiuL finished playing (Score: 501670, PASSED).
+[21:36:36] BanchoBot: The match has finished!
+[21:36:41] BCraftMG: !mp map 1946272 0
+[21:36:41] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1946272 zts - worldenddominator
+[21:36:41] BanchoBot: Changed match mode to Osu
+[21:36:43] Orei: dt1 nhu dt2
+[21:36:43] BCraftMG: !mp timer 120
+[21:36:44] Orei: ncct
+[21:36:44] BanchoBot: Countdown ends in 2 minutes
+[21:36:55] KiuL: khuc dau bam lone key
+[21:36:57] KiuL: hahaha
+[21:37:14] KiuL: dt2 cc j the nay
+[21:37:17] BanchoBot: All players are ready
+[21:37:21] KiuL: thoi glf
+[21:37:22] Orei: ughhhhhhhh
+[21:37:29] BCraftMG: !mp settings
+[21:37:30] Orei: golf
+[21:37:30] BanchoBot: Room name: o!vh: (Qualifiers) vs (Ex1), History: https://osu.ppy.sh/mp/102837156
+[21:37:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/1946272 zts - worldenddominator
+[21:37:30] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:37:30] BanchoBot: Active mods: NoFail, DoubleTime
+[21:37:30] BanchoBot: Players: 2
+[21:37:30] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14658394 Orei            
+[21:37:30] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11840611 KiuL            
+[21:37:33] BCraftMG: !mp start 5
+[21:37:34] BanchoBot: Countdown aborted
+[21:37:34] BanchoBot: Match starts in 5 seconds
+[21:37:34] BanchoBot: Queued the match to start in 5 seconds
+[21:37:36] BanchoBot: Match starts in 4 seconds
+[21:37:37] BanchoBot: Match starts in 3 seconds
+[21:37:38] BanchoBot: Good luck, have fun!
+[21:37:40] BanchoBot: The match has started!
+[21:40:23] BanchoBot: Orei finished playing (Score: 544005, PASSED).
+[21:40:26] BanchoBot: KiuL finished playing (Score: 329807, PASSED).
+[21:40:26] BanchoBot: The match has finished!
+[21:40:35] Orei: dt2 nay ai pick xung dang 11 diem nha
+[21:40:36] KiuL: quarter :skull:
+[21:40:41] BCraftMG: xd
+[21:40:44] KiuL: 11/100 a anh
+[21:40:46] KiuL: hay
+[21:40:50] Orei: map qua hay
+[21:40:53] Orei: ughhhhhh
+[21:41:05] BCraftMG: the la xong rui
+[21:41:05] KiuL: oki
+[21:41:09] KiuL: cam on zi da ref
+[21:41:10] KiuL: gn
+[21:41:11] BCraftMG: anh orei con nm3 nm4
+[21:41:12] BCraftMG: gn anh
+[21:41:19] Orei: oke
+[21:41:22] BanchoBot: KiuL left the game.
+[21:41:29] BCraftMG: !mp map 2442178 0
+[21:41:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2442178 KNOWER - Overtime
+[21:41:29] BanchoBot: Changed match mode to Osu
+[21:41:32] BCraftMG: !mp mods 1
+[21:41:32] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:41:44] BanchoBot: All players are ready
+[21:41:45] Orei: golf
+[21:41:55] BCraftMG: !mp start 10
+[21:41:56] BanchoBot: Match starts in 10 seconds
+[21:41:56] BanchoBot: Queued the match to start in 10 seconds
+[21:42:02] BanchoBot: Match starts in 5 seconds
+[21:42:03] BanchoBot: Match starts in 4 seconds
+[21:42:04] BanchoBot: Match starts in 3 seconds
+[21:42:05] BanchoBot: Good luck, have fun!
+[21:42:06] BanchoBot: The match has started!
+[21:45:28] BanchoBot: Orei finished playing (Score: 409641, PASSED).
+[21:45:28] BanchoBot: The match has finished!
+[21:45:31] BanchoBot: All players are ready
+[21:46:06] BCraftMG: chet me
+[21:46:10] BCraftMG: !mp map 1691949 0
+[21:46:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1691949 Camellia - Chirality ("Dissymmetric" Long ver.)
+[21:46:12] BanchoBot: Changed match mode to Osu
+[21:46:15] BanchoBot: All players are ready
+[21:46:18] BCraftMG: !mp start
+[21:46:19] BanchoBot: The match has started!
+[21:46:19] BanchoBot: Started the match
+[21:46:22] BCraftMG: quen mat anh
+[21:46:22] Orei: not luon di ref oi
+[21:46:24] BCraftMG: :skull:
+[21:46:34] BCraftMG: sorry anh
+[21:49:56] BanchoBot: Orei finished playing (Score: 580109, PASSED).
+[21:49:56] BanchoBot: The match has finished!
+[21:50:02] BCraftMG: oke anh
+[21:50:06] Orei: ksao anh
+[21:50:07] Orei: xong roi
+[21:50:10] Orei: toi yeu miss
+[21:50:14] Orei: cam on anh da ref
+[21:50:16] Orei: <3
+[21:50:22] BCraftMG: pai anh
+[21:50:25] BanchoBot: Orei left the game.
+[21:50:52] BCraftMG: !mp close
+[21:50:52] BanchoBot: Closed the match

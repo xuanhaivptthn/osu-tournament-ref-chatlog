@@ -1,0 +1,558 @@
+[00:53:31] Joined #mp_113005765
+[00:53:31] BCraftMG: !mp settings
+[00:53:33] BanchoBot: Room name: 5WC2024: Taiwan Qualifiers, History: https://osu.ppy.sh/mp/113005765
+[00:53:33] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[00:53:33] BanchoBot: Players: 0
+[00:54:24] BCraftMG: !mp set 0 3 8
+[00:54:25] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[00:54:27] BCraftMG: !mp mods 1
+[00:54:28] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:54:28] BCraftMG: !mp map 3895683
+[00:54:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3895683 rN - Harumachi Elevator
+[00:54:45] BCraftMG: !mp invite #15184992
+[00:54:46] BanchoBot: Invited Summer_Ouo to the room
+[00:56:04] BanchoBot: Summer_Ouo joined in slot 1.
+[00:56:13] BCraftMG: o/
+[00:56:27] Summer_Ouo: o/
+[00:56:33] Summer_Ouo: harumachi elevator
+[00:57:25] BanchoBot: Summer_Ouo left the game.
+[00:59:51] BanchoBot: Summer_Ouo joined in slot 1.
+[01:00:07] BCraftMG: yey
+[01:00:09] BanchoBot: Ruyaya joined in slot 2.
+[01:00:14] BCraftMG: !mp map 4174036
+[01:00:15] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4174036 Bring Me The Horizon - Kingslayer (feat. BABYMETAL)
+[01:00:19] BanchoBot: Yue0429 joined in slot 3.
+[01:00:34] BCraftMG: the last yue
+[01:00:36] BanchoBot: Meow_Son joined in slot 4.
+[01:00:44] Yue0429: ;(
+[01:00:48] Summer_Ouo: we still have 0428
+[01:00:49] Summer_Ouo: but quit w
+[01:00:53] BanchoBot: All players are ready
+[01:00:54] BCraftMG: !mp settings
+[01:00:56] BanchoBot: Room name: 5WC2024: Taiwan Qualifiers, History: https://osu.ppy.sh/mp/113005765
+[01:00:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/4174036 Bring Me The Horizon - Kingslayer (feat. BABYMETAL)
+[01:00:56] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:00:56] BanchoBot: Active mods: NoFail
+[01:00:56] BanchoBot: Players: 4
+[01:00:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15184992 Summer_Ouo      
+[01:00:56] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16288992 Ruyaya          
+[01:00:56] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9984860 Yue0429         
+[01:00:56] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8186536 Meow_Son        
+[01:01:00] BCraftMG: !mp start 5 glhf
+[01:01:00] Summer_Ouo: glhf
+[01:01:01] BanchoBot: Match starts in 5 seconds
+[01:01:01] BanchoBot: Queued the match to start in 5 seconds
+[01:01:03] BanchoBot: Match starts in 4 seconds
+[01:01:03] Yue0429: FLHF
+[01:01:04] BanchoBot: Match starts in 3 seconds
+[01:01:06] BanchoBot: Good luck, have fun!
+[01:01:07] BanchoBot: The match has started!
+[01:04:55] BanchoBot: Ruyaya finished playing (Score: 939436, PASSED).
+[01:04:55] BanchoBot: Summer_Ouo finished playing (Score: 522714, PASSED).
+[01:04:55] BanchoBot: Yue0429 finished playing (Score: 682085, PASSED).
+[01:04:55] BanchoBot: Meow_Son finished playing (Score: 554899, PASSED).
+[01:04:55] BanchoBot: The match has finished!
+[01:05:04] BCraftMG: !mp map 4178416
+[01:05:05] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4178416 Kushper - Versailles
+[01:05:06] BCraftMG: !mp timer 120
+[01:05:07] BanchoBot: Countdown ends in 2 minutes
+[01:05:19] BanchoBot: [ RoneKu ] joined in slot 5.
+[01:05:20] BanchoBot: Yue0429 left the game.
+[01:05:29] BanchoBot: [ RoneKu ] moved to slot 3
+[01:05:35] BanchoBot: All players are ready
+[01:05:38] Summer_Ouo: glhf
+[01:05:40] BCraftMG: !mp settings
+[01:05:41] BanchoBot: Room name: 5WC2024: Taiwan Qualifiers, History: https://osu.ppy.sh/mp/113005765
+[01:05:41] BanchoBot: Beatmap: https://osu.ppy.sh/b/4178416 Kushper - Versailles
+[01:05:41] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:05:41] BanchoBot: Active mods: NoFail
+[01:05:41] BanchoBot: Players: 4
+[01:05:41] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15184992 Summer_Ouo      
+[01:05:41] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16288992 Ruyaya          
+[01:05:41] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15044350 [ RoneKu ]      
+[01:05:41] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8186536 Meow_Son        
+[01:05:42] BCraftMG: !mp start 5 glhf
+[01:05:43] BanchoBot: Countdown aborted
+[01:05:43] BanchoBot: Match starts in 5 seconds
+[01:05:43] BanchoBot: Queued the match to start in 5 seconds
+[01:05:44] [_RoneKu_]: glhf
+[01:05:44] BanchoBot: Match starts in 4 seconds
+[01:05:45] BanchoBot: Match starts in 3 seconds
+[01:05:45] BanchoBot: Good luck, have fun!
+[01:05:48] BanchoBot: The match has started!
+[01:09:32] BanchoBot: Meow_Son finished playing (Score: 620436, PASSED).
+[01:09:32] BanchoBot: Summer_Ouo finished playing (Score: 531372, PASSED).
+[01:09:32] BanchoBot: Ruyaya finished playing (Score: 669133, PASSED).
+[01:09:32] BanchoBot: [ RoneKu ] finished playing (Score: 460421, PASSED).
+[01:09:32] BanchoBot: The match has finished!
+[01:09:51] BCraftMG: !mp map 4191546
+[01:09:53] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4191546 Adust Rain - psychology
+[01:09:54] BCraftMG: !mp timer 120
+[01:09:54] BanchoBot: [ RoneKu ] left the game.
+[01:09:54] BanchoBot: Countdown ends in 2 minutes
+[01:10:05] BanchoBot: Yue0429 joined in slot 3.
+[01:10:08] BanchoBot: Summer_Ouo moved to slot 8
+[01:10:12] BanchoBot: Yue0429 moved to slot 1
+[01:10:18] BanchoBot: Zefkiel joined in slot 3.
+[01:10:30] BanchoBot: Summer_Ouo left the game.
+[01:10:36] BanchoBot: All players are ready
+[01:10:38] BCraftMG: !mp settings
+[01:10:39] BanchoBot: Room name: 5WC2024: Taiwan Qualifiers, History: https://osu.ppy.sh/mp/113005765
+[01:10:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/4191546 Adust Rain - psychology
+[01:10:39] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:10:39] BanchoBot: Active mods: NoFail
+[01:10:39] BanchoBot: Players: 4
+[01:10:39] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9984860 Yue0429         
+[01:10:39] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16288992 Ruyaya          
+[01:10:39] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7989469 Zefkiel         
+[01:10:39] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8186536 Meow_Son        
+[01:10:40] BCraftMG: !mp start 5 glhf
+[01:10:40] BanchoBot: Countdown aborted
+[01:10:40] BanchoBot: Match starts in 5 seconds
+[01:10:40] BanchoBot: Queued the match to start in 5 seconds
+[01:10:42] BanchoBot: Match starts in 4 seconds
+[01:10:43] BanchoBot: Match starts in 3 seconds
+[01:10:45] BanchoBot: Good luck, have fun!
+[01:10:46] BanchoBot: The match has started!
+[01:14:27] BanchoBot: Meow_Son finished playing (Score: 327918, PASSED).
+[01:14:27] BanchoBot: Zefkiel finished playing (Score: 409274, PASSED).
+[01:14:27] BanchoBot: Yue0429 finished playing (Score: 358157, PASSED).
+[01:14:27] BanchoBot: Ruyaya finished playing (Score: 558809, PASSED).
+[01:14:27] BanchoBot: The match has finished!
+[01:14:31] BCraftMG: !mp map 3141740
+[01:14:31] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3141740 Agressor Bunx - Acid Mirage (Tourney Cut)
+[01:14:32] BCraftMG: !mp timer 120
+[01:14:33] BanchoBot: Countdown ends in 2 minutes
+[01:14:50] BanchoBot: Yue0429 left the game.
+[01:14:58] BanchoBot: Rayter- joined in slot 1.
+[01:15:16] BanchoBot: All players are ready
+[01:15:20] BCraftMG: !mp settings
+[01:15:20] BanchoBot: Room name: 5WC2024: Taiwan Qualifiers, History: https://osu.ppy.sh/mp/113005765
+[01:15:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/3141740 Agressor Bunx - Acid Mirage (Tourney Cut)
+[01:15:20] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:15:20] BanchoBot: Active mods: NoFail
+[01:15:20] BanchoBot: Players: 4
+[01:15:20] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/4113311 Rayter-         
+[01:15:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16288992 Ruyaya          
+[01:15:20] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7989469 Zefkiel         
+[01:15:20] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8186536 Meow_Son        
+[01:15:21] BCraftMG: !mp start 5 glhf
+[01:15:22] BanchoBot: Countdown aborted
+[01:15:22] BanchoBot: Match starts in 5 seconds
+[01:15:22] BanchoBot: Queued the match to start in 5 seconds
+[01:15:23] BanchoBot: Match starts in 4 seconds
+[01:15:25] BanchoBot: Match starts in 3 seconds
+[01:15:26] BanchoBot: Good luck, have fun!
+[01:15:28] BanchoBot: The match has started!
+[01:17:49] BanchoBot: Zefkiel finished playing (Score: 565205, PASSED).
+[01:17:49] BanchoBot: Ruyaya finished playing (Score: 723135, PASSED).
+[01:17:49] BanchoBot: Meow_Son finished playing (Score: 822869, PASSED).
+[01:17:51] BanchoBot: Rayter- finished playing (Score: 649043, PASSED).
+[01:17:51] BanchoBot: The match has finished!
+[01:17:54] BCraftMG: !mp map 4519090
+[01:17:55] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4519090 Mitsukai Dokuro (CV:Chiba Saeko) - Bokusatsu Tenshi Dokuro-chan
+[01:17:56] BCraftMG: !mp timer 120
+[01:17:57] BanchoBot: Countdown ends in 2 minutes
+[01:18:58] BanchoBot: Countdown ends in 1 minute
+[01:19:04] BanchoBot: All players are ready
+[01:19:09] BCraftMG: !mp settings
+[01:19:10] BanchoBot: Room name: 5WC2024: Taiwan Qualifiers, History: https://osu.ppy.sh/mp/113005765
+[01:19:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/4519090 Mitsukai Dokuro (CV:Chiba Saeko) - Bokusatsu Tenshi Dokuro-chan
+[01:19:10] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:19:10] BanchoBot: Active mods: NoFail
+[01:19:10] BanchoBot: Players: 4
+[01:19:10] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/4113311 Rayter-         
+[01:19:10] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16288992 Ruyaya          
+[01:19:10] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7989469 Zefkiel         
+[01:19:10] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8186536 Meow_Son        
+[01:19:13] BCraftMG: !mp start 5 glhf
+[01:19:14] BanchoBot: Countdown aborted
+[01:19:14] BanchoBot: Match starts in 5 seconds
+[01:19:14] BanchoBot: Queued the match to start in 5 seconds
+[01:19:16] BanchoBot: Match starts in 4 seconds
+[01:19:17] BanchoBot: Match starts in 3 seconds
+[01:19:17] BanchoBot: Good luck, have fun!
+[01:19:20] BanchoBot: The match has started!
+[01:20:57] BanchoBot: Ruyaya finished playing (Score: 386743, PASSED).
+[01:20:59] BanchoBot: Meow_Son finished playing (Score: 325941, PASSED).
+[01:20:59] BanchoBot: Zefkiel finished playing (Score: 510950, PASSED).
+[01:20:59] BanchoBot: Rayter- finished playing (Score: 461242, PASSED).
+[01:20:59] BanchoBot: The match has finished!
+[01:21:07] BCraftMG: !mp map 2603674
+[01:21:08] BanchoBot: Meow_Son left the game.
+[01:21:08] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2603674 Jun.A - The Fairy's Adventurous Tale
+[01:21:10] BCraftMG: !mp mods 9
+[01:21:11] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[01:21:11] BCraftMG: !mp timer 120
+[01:21:12] BanchoBot: Countdown ends in 2 minutes
+[01:21:44] BanchoBot: Yue0429 joined in slot 4.
+[01:22:04] BanchoBot: Zefkiel moved to slot 6
+[01:22:08] BanchoBot: Zefkiel moved to slot 3
+[01:22:13] BanchoBot: Countdown ends in 1 minute
+[01:22:43] BanchoBot: Countdown ends in 30 seconds
+[01:22:48] BanchoBot: All players are ready
+[01:22:49] BCraftMG: !mp settings
+[01:22:51] BanchoBot: Room name: 5WC2024: Taiwan Qualifiers, History: https://osu.ppy.sh/mp/113005765
+[01:22:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/2603674 Jun.A - The Fairy's Adventurous Tale
+[01:22:51] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:22:51] BanchoBot: Active mods: NoFail, Hidden
+[01:22:51] BanchoBot: Players: 4
+[01:22:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/4113311 Rayter-         
+[01:22:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16288992 Ruyaya          
+[01:22:51] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7989469 Zefkiel         
+[01:22:51] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9984860 Yue0429         
+[01:22:52] BCraftMG: !mp start 5 glhf
+[01:22:52] BanchoBot: Countdown aborted
+[01:22:52] BanchoBot: Match starts in 5 seconds
+[01:22:52] BanchoBot: Queued the match to start in 5 seconds
+[01:22:54] BanchoBot: Match starts in 4 seconds
+[01:22:55] BanchoBot: Match starts in 3 seconds
+[01:22:55] BanchoBot: Good luck, have fun!
+[01:22:58] BanchoBot: The match has started!
+[01:25:21] BanchoBot: Zefkiel finished playing (Score: 726839, PASSED).
+[01:25:21] BanchoBot: Rayter- finished playing (Score: 458914, PASSED).
+[01:25:21] BanchoBot: Ruyaya finished playing (Score: 996145, PASSED).
+[01:25:22] BanchoBot: Yue0429 finished playing (Score: 473639, PASSED).
+[01:25:22] BanchoBot: The match has finished!
+[01:25:52] BanchoBot: Summer_Ouo joined in slot 5.
+[01:25:55] BanchoBot: Yue0429 left the game.
+[01:25:56] BCraftMG: !mp map 3800124
+[01:25:57] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3800124 earthmind - ARCADIA
+[01:25:58] BCraftMG: !mp timer 120
+[01:25:58] BanchoBot: Countdown ends in 2 minutes
+[01:26:01] BanchoBot: Summer_Ouo moved to slot 4
+[01:26:46] BanchoBot: All players are ready
+[01:26:51] Summer_Ouo: glhf
+[01:26:52] BCraftMG: !mp settings
+[01:26:52] BanchoBot: Room name: 5WC2024: Taiwan Qualifiers, History: https://osu.ppy.sh/mp/113005765
+[01:26:52] BanchoBot: Beatmap: https://osu.ppy.sh/b/3800124 earthmind - ARCADIA
+[01:26:52] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:26:52] BanchoBot: Active mods: NoFail, Hidden
+[01:26:52] BanchoBot: Players: 4
+[01:26:52] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/4113311 Rayter-         
+[01:26:52] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16288992 Ruyaya          
+[01:26:52] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7989469 Zefkiel         
+[01:26:52] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15184992 Summer_Ouo      
+[01:26:53] BCraftMG: !mp start 5 glhf
+[01:26:54] BanchoBot: Countdown aborted
+[01:26:54] BanchoBot: Match starts in 5 seconds
+[01:26:54] BanchoBot: Queued the match to start in 5 seconds
+[01:26:55] BanchoBot: Match starts in 4 seconds
+[01:26:57] BanchoBot: Match starts in 3 seconds
+[01:26:58] BanchoBot: Good luck, have fun!
+[01:27:00] BanchoBot: The match has started!
+[01:29:56] BanchoBot: Zefkiel left the game.
+[01:31:08] BanchoBot: Summer_Ouo finished playing (Score: 535833, PASSED).
+[01:31:10] BanchoBot: Rayter- finished playing (Score: 504391, PASSED).
+[01:31:10] BanchoBot: Ruyaya finished playing (Score: 578599, PASSED).
+[01:31:10] BanchoBot: The match has finished!
+[01:31:18] BCraftMG: !mp map 2754917
+[01:31:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2754917 ARM (IOSYS) + Brasscapsule - Jazz is Rad
+[01:31:21] BCraftMG: !mp timer 120
+[01:31:22] BanchoBot: Countdown ends in 2 minutes
+[01:31:31] Summer_Ouo: can zef replayed hd2 after dt3
+[01:31:34] Summer_Ouo: his game crashed
+[01:31:35] BCraftMG: zefkiel will replay hd2 at the end of the lobby
+[01:31:40] BanchoBot: Meow_Son joined in slot 3.
+[01:31:41] BanchoBot: Meow_Son moved to slot 6
+[01:31:47] Summer_Ouo: :tabien:
+[01:31:54] BanchoBot: Summer_Ouo moved to slot 8
+[01:31:56] BanchoBot: Zefkiel joined in slot 3.
+[01:32:11] Zefkiel: hi ref
+[01:32:15] Zefkiel: can i replay hd2 after
+[01:32:23] BanchoBot: Countdown ends in 1 minute
+[01:32:41] BCraftMG: yes
+[01:32:44] BanchoBot: Rayter- left the game.
+[01:32:47] Zefkiel: ty
+[01:32:50] Zefkiel: love u
+[01:32:53] BanchoBot: Countdown ends in 30 seconds
+[01:32:57] Zefkiel: this is the second time today
+[01:32:57] BanchoBot: Rayter- joined in slot 1.
+[01:33:00] BanchoBot: Rayter- moved to slot 4
+[01:33:02] BanchoBot: Rayter- moved to slot 1
+[01:33:03] BanchoBot: Meow_Son moved to slot 4
+[01:33:03] BanchoBot: Summer_Ouo left the game.
+[01:33:05] BanchoBot: All players are ready
+[01:33:06] BCraftMG: !mp settings
+[01:33:08] BanchoBot: Room name: 5WC2024: Taiwan Qualifiers, History: https://osu.ppy.sh/mp/113005765
+[01:33:08] BanchoBot: Beatmap: https://osu.ppy.sh/b/2754917 ARM (IOSYS) + Brasscapsule - Jazz is Rad
+[01:33:08] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:33:08] BanchoBot: Active mods: NoFail, Hidden
+[01:33:08] BanchoBot: Players: 4
+[01:33:08] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/4113311 Rayter-         
+[01:33:08] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16288992 Ruyaya          
+[01:33:08] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7989469 Zefkiel         
+[01:33:08] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8186536 Meow_Son        
+[01:33:10] BCraftMG: !mp start 5 glhf
+[01:33:11] BanchoBot: Countdown aborted
+[01:33:11] BanchoBot: Match starts in 5 seconds
+[01:33:11] BanchoBot: Queued the match to start in 5 seconds
+[01:33:12] BanchoBot: Match starts in 4 seconds
+[01:33:14] BanchoBot: Match starts in 3 seconds
+[01:33:14] BanchoBot: Good luck, have fun!
+[01:33:17] BanchoBot: The match has started!
+[01:33:17] Meow_Son: !roll
+[01:33:17] BanchoBot: Meow_Son rolls 84 point(s)
+[01:35:21] BanchoBot: Ruyaya finished playing (Score: 405470, PASSED).
+[01:35:21] BanchoBot: Rayter- finished playing (Score: 280054, PASSED).
+[01:35:21] BanchoBot: Meow_Son finished playing (Score: 293046, PASSED).
+[01:35:23] BanchoBot: Zefkiel finished playing (Score: 464132, PASSED).
+[01:35:23] BanchoBot: The match has finished!
+[01:35:29] BanchoBot: Zefkiel left the game.
+[01:35:32] BCraftMG: !mp map 1694583
+[01:35:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1694583 Camellia feat. Nanahira - Bassdrop Freaks (2018 "Redrop" ver.)
+[01:35:38] BanchoBot: Rayter- left the game.
+[01:35:38] BCraftMG: !mp mods 17
+[01:35:39] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[01:35:45] BanchoBot: Zefkiel joined in slot 1.
+[01:35:50] BCraftMG: !mp timer 120
+[01:35:58] BanchoBot: Zefkiel left the game.
+[01:36:04] BanchoBot: Summer_Ouo joined in slot 1.
+[01:36:33] BanchoBot: Yue0429 joined in slot 3.
+[01:36:45] BanchoBot: All players are ready
+[01:36:50] BCraftMG: !mp settings
+[01:36:51] Summer_Ouo: slider stream inc
+[01:36:51] BanchoBot: Room name: 5WC2024: Taiwan Qualifiers, History: https://osu.ppy.sh/mp/113005765
+[01:36:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/1694583 Camellia feat. Nanahira - Bassdrop Freaks (2018 "Redrop" ver.)
+[01:36:51] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:36:51] BanchoBot: Active mods: NoFail, HardRock
+[01:36:51] BanchoBot: Players: 4
+[01:36:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15184992 Summer_Ouo      
+[01:36:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16288992 Ruyaya          
+[01:36:51] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9984860 Yue0429         
+[01:36:51] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8186536 Meow_Son        
+[01:36:52] BCraftMG: !mp start 5 glhf
+[01:36:52] BanchoBot: Match starts in 5 seconds
+[01:36:52] BanchoBot: Queued the match to start in 5 seconds
+[01:36:54] BanchoBot: Match starts in 4 seconds
+[01:36:55] BanchoBot: Match starts in 3 seconds
+[01:36:55] BanchoBot: Good luck, have fun!
+[01:36:58] Summer_Ouo: glhf
+[01:36:58] BanchoBot: The match has started!
+[01:41:36] BanchoBot: Yue0429 finished playing (Score: 459044, PASSED).
+[01:41:36] BanchoBot: Ruyaya finished playing (Score: 774578, PASSED).
+[01:41:37] BanchoBot: Meow_Son finished playing (Score: 500816, PASSED).
+[01:41:37] BanchoBot: Summer_Ouo finished playing (Score: 767346, PASSED).
+[01:41:37] BanchoBot: The match has finished!
+[01:41:53] BCraftMG: !mp map 3754547
+[01:41:53] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3754547 School Food Punishment - fiction nonfiction
+[01:41:54] BCraftMG: !mp timer 120
+[01:41:55] BanchoBot: Countdown ends in 2 minutes
+[01:42:23] BanchoBot: [ RoneKu ] joined in slot 5.
+[01:42:25] BanchoBot: Yue0429 left the game.
+[01:42:47] BanchoBot: [ RoneKu ] left the game.
+[01:42:48] BanchoBot: Yue0429 joined in slot 3.
+[01:42:56] BanchoBot: Countdown ends in 1 minute
+[01:43:06] BanchoBot: All players are ready
+[01:43:12] BCraftMG: !mp settings
+[01:43:13] BanchoBot: Room name: 5WC2024: Taiwan Qualifiers, History: https://osu.ppy.sh/mp/113005765
+[01:43:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/3754547 School Food Punishment - fiction nonfiction
+[01:43:13] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:43:13] BanchoBot: Active mods: NoFail, HardRock
+[01:43:13] BanchoBot: Players: 4
+[01:43:13] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15184992 Summer_Ouo      
+[01:43:13] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16288992 Ruyaya          
+[01:43:13] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9984860 Yue0429         
+[01:43:13] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8186536 Meow_Son        
+[01:43:14] BCraftMG: !mp start 5 glhf
+[01:43:15] BanchoBot: Countdown aborted
+[01:43:15] BanchoBot: Match starts in 5 seconds
+[01:43:15] BanchoBot: Queued the match to start in 5 seconds
+[01:43:17] Summer_Ouo: glhf
+[01:43:17] BanchoBot: Match starts in 4 seconds
+[01:43:18] BanchoBot: Match starts in 3 seconds
+[01:43:18] BanchoBot: Good luck, have fun!
+[01:43:21] BanchoBot: The match has started!
+[01:46:16] BanchoBot: Ruyaya finished playing (Score: 587265, PASSED).
+[01:46:18] BanchoBot: Yue0429 finished playing (Score: 363212, PASSED).
+[01:46:18] BanchoBot: Meow_Son finished playing (Score: 439058, PASSED).
+[01:46:18] BanchoBot: Summer_Ouo finished playing (Score: 388143, PASSED).
+[01:46:18] BanchoBot: The match has finished!
+[01:46:25] BCraftMG: !mp map 2106420
+[01:46:27] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2106420 tarolabo - Zeitmesser
+[01:46:27] BCraftMG: !mp mods 65
+[01:46:28] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[01:46:29] BCraftMG: !mp timer 120
+[01:46:30] BanchoBot: Countdown ends in 2 minutes
+[01:46:46] Ruyaya: wrong mod
+[01:46:55] BanchoBot: Zefkiel joined in slot 5.
+[01:47:01] Ruyaya: @ref
+[01:47:06] BCraftMG: !mp mods 17
+[01:47:07] Summer_Ouo: i dont want dt hr3
+[01:47:07] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[01:47:10] Meow_Son: @BCraftMG
+[01:47:12] BanchoBot: Summer_Ouo left the game.
+[01:47:24] BCraftMG: all good?
+[01:47:31] BanchoBot: Countdown ends in 1 minute
+[01:47:36] BanchoBot: Zefkiel moved to slot 1
+[01:47:52] BanchoBot: Summer_Ouo joined in slot 5.
+[01:47:54] BanchoBot: Yue0429 left the game.
+[01:48:01] BanchoBot: Countdown ends in 30 seconds
+[01:48:04] BanchoBot: Summer_Ouo moved to slot 3
+[01:48:04] BanchoBot: All players are ready
+[01:48:05] Ruyaya: y
+[01:48:08] Summer_Ouo: glhf
+[01:48:08] BCraftMG: !mp settings
+[01:48:10] BanchoBot: Room name: 5WC2024: Taiwan Qualifiers, History: https://osu.ppy.sh/mp/113005765
+[01:48:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/2106420 tarolabo - Zeitmesser
+[01:48:10] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:48:10] BanchoBot: Active mods: NoFail, HardRock
+[01:48:10] BanchoBot: Players: 4
+[01:48:10] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7989469 Zefkiel         
+[01:48:10] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16288992 Ruyaya          
+[01:48:10] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15184992 Summer_Ouo      
+[01:48:10] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8186536 Meow_Son        
+[01:48:12] BCraftMG: !mp start 5 glhf
+[01:48:13] BanchoBot: Countdown aborted
+[01:48:13] BanchoBot: Match starts in 5 seconds
+[01:48:13] BanchoBot: Queued the match to start in 5 seconds
+[01:48:15] BanchoBot: Match starts in 4 seconds
+[01:48:16] BanchoBot: Match starts in 3 seconds
+[01:48:16] BanchoBot: Good luck, have fun!
+[01:48:19] BanchoBot: The match has started!
+[01:50:19] BanchoBot: Meow_Son finished playing (Score: 487205, PASSED).
+[01:50:19] BanchoBot: Zefkiel finished playing (Score: 546727, PASSED).
+[01:50:19] BanchoBot: Ruyaya finished playing (Score: 592838, PASSED).
+[01:50:19] BanchoBot: Summer_Ouo finished playing (Score: 465148, PASSED).
+[01:50:19] BanchoBot: The match has finished!
+[01:50:26] BanchoBot: Yue0429 joined in slot 5.
+[01:50:51] BanchoBot: Zefkiel moved to slot 8
+[01:51:03] BanchoBot: Zefkiel left the game.
+[01:51:24] Summer_Ouo: hi ref
+[01:51:32] BCraftMG: hi
+[01:51:32] Summer_Ouo: its dt time
+[01:51:34] BCraftMG: !mp map 2671123
+[01:51:35] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2671123 Sakakibara Yui - Scarlet
+[01:51:36] BCraftMG: !mp mods 65
+[01:51:38] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[01:51:54] BanchoBot: All players are ready
+[01:51:57] BCraftMG: !mp settings
+[01:51:57] Summer_Ouo: glhf
+[01:51:57] BanchoBot: Room name: 5WC2024: Taiwan Qualifiers, History: https://osu.ppy.sh/mp/113005765
+[01:51:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/2671123 Sakakibara Yui - Scarlet
+[01:51:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:51:57] BanchoBot: Active mods: NoFail, DoubleTime
+[01:51:57] BanchoBot: Players: 4
+[01:51:57] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16288992 Ruyaya          
+[01:51:57] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15184992 Summer_Ouo      
+[01:51:57] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8186536 Meow_Son        
+[01:51:57] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/9984860 Yue0429         
+[01:51:58] BCraftMG: !mp start 5 glhf
+[01:51:59] BanchoBot: Match starts in 5 seconds
+[01:51:59] BanchoBot: Queued the match to start in 5 seconds
+[01:52:00] BanchoBot: Match starts in 4 seconds
+[01:52:01] BanchoBot: Match starts in 3 seconds
+[01:52:03] BanchoBot: Good luck, have fun!
+[01:52:05] BanchoBot: The match has started!
+[01:54:47] BanchoBot: Meow_Son finished playing (Score: 332559, PASSED).
+[01:54:47] BanchoBot: Ruyaya finished playing (Score: 716224, PASSED).
+[01:54:48] BanchoBot: Yue0429 finished playing (Score: 523747, PASSED).
+[01:54:48] BanchoBot: Summer_Ouo finished playing (Score: 512142, PASSED).
+[01:54:48] BanchoBot: The match has finished!
+[01:54:56] BCraftMG: !mp map 2130652
+[01:54:57] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2130652 Powerwolf - Christ & Combat
+[01:55:00] BCraftMG: !mp timer 120
+[01:55:01] BanchoBot: Countdown ends in 2 minutes
+[01:55:04] BanchoBot: [ RoneKu ] joined in slot 1.
+[01:55:09] BanchoBot: Summer_Ouo moved to slot 7
+[01:55:54] BanchoBot: Summer_Ouo left the game.
+[01:55:55] BanchoBot: All players are ready
+[01:55:58] [_RoneKu_]: gllg
+[01:56:02] BanchoBot: Countdown ends in 1 minute
+[01:56:20] BCraftMG: !mp settings
+[01:56:22] BanchoBot: Room name: 5WC2024: Taiwan Qualifiers, History: https://osu.ppy.sh/mp/113005765
+[01:56:22] BanchoBot: Beatmap: https://osu.ppy.sh/b/2130652 Powerwolf - Christ & Combat
+[01:56:22] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:56:22] BanchoBot: Active mods: NoFail, DoubleTime
+[01:56:22] BanchoBot: Players: 4
+[01:56:22] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15044350 [ RoneKu ]      
+[01:56:22] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16288992 Ruyaya          
+[01:56:22] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8186536 Meow_Son        
+[01:56:22] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/9984860 Yue0429         
+[01:56:23] BCraftMG: !mp start 5 glhf
+[01:56:23] BanchoBot: Countdown aborted
+[01:56:23] BanchoBot: Match starts in 5 seconds
+[01:56:23] BanchoBot: Queued the match to start in 5 seconds
+[01:56:25] BanchoBot: Match starts in 4 seconds
+[01:56:26] BanchoBot: Match starts in 3 seconds
+[01:56:26] BanchoBot: Good luck, have fun!
+[01:56:29] BanchoBot: The match has started!
+[01:59:01] BanchoBot: Ruyaya finished playing (Score: 723164, PASSED).
+[01:59:01] BanchoBot: Yue0429 finished playing (Score: 498461, PASSED).
+[01:59:01] BanchoBot: [ RoneKu ] finished playing (Score: 292173, PASSED).
+[01:59:02] BanchoBot: Meow_Son finished playing (Score: 605601, PASSED).
+[01:59:02] BanchoBot: The match has finished!
+[01:59:10] BCraftMG: !mp map 3145696
+[01:59:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3145696 Ito Kanako - Desire Blue sky
+[01:59:12] BCraftMG: !mp timer 120
+[01:59:13] BanchoBot: Countdown ends in 2 minutes
+[01:59:20] BanchoBot: [ RoneKu ] left the game.
+[01:59:26] BanchoBot: Summer_Ouo joined in slot 1.
+[02:00:06] BanchoBot: All players are ready
+[02:00:11] BCraftMG: !mp settings
+[02:00:12] BanchoBot: Room name: 5WC2024: Taiwan Qualifiers, History: https://osu.ppy.sh/mp/113005765
+[02:00:12] BanchoBot: Beatmap: https://osu.ppy.sh/b/3145696 Ito Kanako - Desire Blue sky
+[02:00:12] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[02:00:12] BanchoBot: Active mods: NoFail, DoubleTime
+[02:00:12] BanchoBot: Players: 4
+[02:00:12] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15184992 Summer_Ouo      
+[02:00:12] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16288992 Ruyaya          
+[02:00:12] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8186536 Meow_Son        
+[02:00:12] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/9984860 Yue0429         
+[02:00:13] BCraftMG: !mp start 5 glhf
+[02:00:14] BanchoBot: Countdown ends in 1 minute
+[02:00:14] Summer_Ouo: glhf
+[02:00:14] BanchoBot: Countdown aborted
+[02:00:14] BanchoBot: Match starts in 5 seconds
+[02:00:14] BanchoBot: Queued the match to start in 5 seconds
+[02:00:15] BanchoBot: Match starts in 4 seconds
+[02:00:17] BanchoBot: Match starts in 3 seconds
+[02:00:18] BanchoBot: Good luck, have fun!
+[02:00:20] BanchoBot: The match has started!
+[02:03:20] BanchoBot: Yue0429 finished playing (Score: 723793, PASSED).
+[02:03:20] BanchoBot: Ruyaya finished playing (Score: 1124661, PASSED).
+[02:03:20] BanchoBot: Summer_Ouo finished playing (Score: 472983, PASSED).
+[02:03:20] BanchoBot: Meow_Son finished playing (Score: 562204, PASSED).
+[02:03:20] BanchoBot: The match has finished!
+[02:03:45] BCraftMG: geegee
+[02:03:46] BCraftMG: now
+[02:03:49] BCraftMG: !mp mods 9
+[02:03:49] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[02:03:50] BCraftMG: !mp map 3800124
+[02:03:51] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3800124 earthmind - ARCADIA
+[02:03:52] Meow_Son: gg
+[02:03:53] BCraftMG: Zefkiel replay
+[02:03:54] Ruyaya: thx for ref!
+[02:03:54] BanchoBot: Meow_Son left the game.
+[02:03:57] Summer_Ouo: ggwp
+[02:03:57] BanchoBot: Zefkiel joined in slot 3.
+[02:03:58] BanchoBot: Ruyaya left the game.
+[02:04:00] Summer_Ouo: ty for ref!
+[02:04:03] Summer_Ouo: gl zef
+[02:04:04] BanchoBot: Summer_Ouo left the game.
+[02:04:04] BanchoBot: Yue0429 left the game.
+[02:04:09] BanchoBot: Zefkiel moved to slot 1
+[02:04:09] BanchoBot: All players are ready
+[02:04:12] BCraftMG: !mp settings
+[02:04:13] BanchoBot: Room name: 5WC2024: Taiwan Qualifiers, History: https://osu.ppy.sh/mp/113005765
+[02:04:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/3800124 earthmind - ARCADIA
+[02:04:13] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[02:04:13] BanchoBot: Active mods: NoFail, Hidden
+[02:04:13] BanchoBot: Players: 1
+[02:04:13] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7989469 Zefkiel         
+[02:04:15] BCraftMG: !mp start 5 glhf
+[02:04:15] BanchoBot: Match starts in 5 seconds
+[02:04:15] BanchoBot: Queued the match to start in 5 seconds
+[02:04:16] BanchoBot: Match starts in 4 seconds
+[02:04:18] BanchoBot: Match starts in 3 seconds
+[02:04:19] BanchoBot: Good luck, have fun!
+[02:04:21] BanchoBot: The match has started!
+[02:08:29] BanchoBot: Zefkiel finished playing (Score: 380774, PASSED).
+[02:08:29] BanchoBot: The match has finished!
+[02:08:35] BCraftMG: geegee
+[02:08:36] Zefkiel: ):
+[02:08:37] Zefkiel: \ty for ref
+[02:08:42] BCraftMG: o/
+[02:08:53] BanchoBot: Zefkiel left the game.
+[02:09:04] BCraftMG: !mp close
+[02:09:04] BanchoBot: Closed the match

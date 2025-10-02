@@ -1,0 +1,478 @@
+[19:15:53] Joined #mp_117329935
+[19:15:53] BCraftMG: !mp settings
+[19:15:54] BanchoBot: Room name: 6APC25VN: (Tryouts) vs (Match W1-A4), History: https://osu.ppy.sh/mp/117329935
+[19:15:54] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[19:15:54] BanchoBot: Players: 0
+[19:16:25] BCraftMG: !mp invite #26716585
+[19:16:25] BanchoBot: Invited 1suLp to the room
+[19:16:28] BCraftMG: !mp set 0 3 2
+[19:16:28] BanchoBot: Changed match settings to 2 slots, HeadToHead, ScoreV2
+[19:16:29] BanchoBot: 1suLp joined in slot 1.
+[19:16:29] BCraftMG: !mp map 3895683
+[19:16:30] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3895683 rN - Harumachi Elevator
+[19:16:40] BCraftMG: !mp mods 1
+[19:16:40] BanchoBot: Enabled NoFail, disabled FreeMod
+[19:16:40] BCraftMG: !mp map 4787491 0
+[19:16:41] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4787491 Kohinata Chiko - Rashikunai Koi
+[19:16:41] BanchoBot: Changed match mode to Osu
+[19:16:42] BCraftMG: !mp settings
+[19:16:42] BanchoBot: Room name: 6APC25VN: (Tryouts) vs (Match W1-A4), History: https://osu.ppy.sh/mp/117329935
+[19:16:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/4787491 Kohinata Chiko - Rashikunai Koi
+[19:16:42] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[19:16:42] BanchoBot: Active mods: NoFail
+[19:16:42] BanchoBot: Players: 1
+[19:16:42] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/26716585 1suLp           
+[19:16:55] BanchoBot: All players are ready
+[19:17:02] BCraftMG: zo
+[19:17:02] BCraftMG: !mp settings
+[19:17:03] BanchoBot: Room name: 6APC25VN: (Tryouts) vs (Match W1-A4), History: https://osu.ppy.sh/mp/117329935
+[19:17:03] BanchoBot: Beatmap: https://osu.ppy.sh/b/4787491 Kohinata Chiko - Rashikunai Koi
+[19:17:03] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[19:17:03] BanchoBot: Active mods: NoFail
+[19:17:04] BanchoBot: Players: 1
+[19:17:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/26716585 1suLp           
+[19:17:04] BCraftMG: !mp start 5 glhf!
+[19:17:05] BanchoBot: Match starts in 5 seconds
+[19:17:05] BanchoBot: Queued the match to start in 5 seconds
+[19:17:06] BanchoBot: Match starts in 4 seconds
+[19:17:07] BanchoBot: Match starts in 3 seconds
+[19:17:08] BanchoBot: Good luck, have fun!
+[19:17:10] 1suLp: sdgsdgds
+[19:17:10] BanchoBot: The match has started!
+[19:20:32] BanchoBot: 1suLp finished playing (Score: 125009, PASSED).
+[19:20:32] BanchoBot: The match has finished!
+[19:20:44] BCraftMG: !mp map 4733228 0
+[19:20:44] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4733228 AAAA + Hino Isuka - ha@ppy s@mmer v@c@tion!!
+[19:20:44] BanchoBot: Changed match mode to Osu
+[19:20:51] BanchoBot: All players are ready
+[19:20:56] BCraftMG: !mp settings
+[19:20:57] BanchoBot: Room name: 6APC25VN: (Tryouts) vs (Match W1-A4), History: https://osu.ppy.sh/mp/117329935
+[19:20:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/4733228 AAAA + Hino Isuka - ha@ppy s@mmer v@c@tion!!
+[19:20:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[19:20:57] BanchoBot: Active mods: NoFail
+[19:20:57] BanchoBot: Players: 1
+[19:20:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/26716585 1suLp           
+[19:20:57] BCraftMG: !mp start 5 glhf!
+[19:20:58] BanchoBot: Match starts in 5 seconds
+[19:20:58] BanchoBot: Queued the match to start in 5 seconds
+[19:20:59] BanchoBot: Match starts in 4 seconds
+[19:21:00] BanchoBot: Match starts in 3 seconds
+[19:21:01] BanchoBot: Good luck, have fun!
+[19:21:04] BanchoBot: The match has started!
+[19:23:37] BanchoBot: 1suLp finished playing (Score: 190143, PASSED).
+[19:23:37] BanchoBot: The match has finished!
+[19:23:42] BCraftMG: !mp map 4576818 0
+[19:23:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4576818 Ryokuoushoku Shakai - Mela!
+[19:23:43] BanchoBot: Changed match mode to Osu
+[19:23:54] BanchoBot: All players are ready
+[19:23:59] BCraftMG: !mp settings
+[19:24:00] BanchoBot: Room name: 6APC25VN: (Tryouts) vs (Match W1-A4), History: https://osu.ppy.sh/mp/117329935
+[19:24:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/4576818 Ryokuoushoku Shakai - Mela!
+[19:24:00] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[19:24:00] BanchoBot: Active mods: NoFail
+[19:24:00] BanchoBot: Players: 1
+[19:24:00] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/26716585 1suLp           
+[19:24:00] BCraftMG: !mp start 5 glhf!
+[19:24:01] BanchoBot: Match starts in 5 seconds
+[19:24:01] BanchoBot: Queued the match to start in 5 seconds
+[19:24:02] BanchoBot: Match starts in 4 seconds
+[19:24:03] BanchoBot: Match starts in 3 seconds
+[19:24:04] BanchoBot: Good luck, have fun!
+[19:24:06] BanchoBot: The match has started!
+[19:28:10] BanchoBot: 1suLp finished playing (Score: 125298, PASSED).
+[19:28:10] BanchoBot: The match has finished!
+[19:28:17] BCraftMG: !mp map 4718073 0
+[19:28:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4718073 Akira Complex - GALACTIC WARZONE
+[19:28:17] BanchoBot: Changed match mode to Osu
+[19:28:19] 1suLp: nm3 nay dien qua
+[19:28:20] 1suLp: gjigfjidw
+[19:28:29] BanchoBot: All players are ready
+[19:28:42] BCraftMG: !mp settings
+[19:28:43] BanchoBot: Room name: 6APC25VN: (Tryouts) vs (Match W1-A4), History: https://osu.ppy.sh/mp/117329935
+[19:28:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/4718073 Akira Complex - GALACTIC WARZONE
+[19:28:43] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[19:28:43] BanchoBot: Active mods: NoFail
+[19:28:43] BanchoBot: Players: 1
+[19:28:43] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/26716585 1suLp           
+[19:28:44] BCraftMG: !mp start 5 glhf!
+[19:28:45] BanchoBot: Match starts in 5 seconds
+[19:28:45] BanchoBot: Queued the match to start in 5 seconds
+[19:28:46] BanchoBot: Match starts in 4 seconds
+[19:28:47] BanchoBot: Match starts in 3 seconds
+[19:28:49] BanchoBot: Good luck, have fun!
+[19:28:51] BanchoBot: The match has started!
+[19:31:12] BanchoBot: 1suLp finished playing (Score: 108242, PASSED).
+[19:31:12] BanchoBot: The match has finished!
+[19:31:19] BCraftMG: !mp map 4654745 0
+[19:31:20] 1suLp: ...
+[19:31:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4654745 THINK-chan - FOUR SEASONS
+[19:31:20] BanchoBot: Changed match mode to Osu
+[19:31:32] BanchoBot: All players are ready
+[19:31:38] BCraftMG: !mp settings
+[19:31:39] BanchoBot: Room name: 6APC25VN: (Tryouts) vs (Match W1-A4), History: https://osu.ppy.sh/mp/117329935
+[19:31:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/4654745 THINK-chan - FOUR SEASONS
+[19:31:39] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[19:31:39] BanchoBot: Active mods: NoFail
+[19:31:39] BanchoBot: Players: 1
+[19:31:39] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/26716585 1suLp           
+[19:31:40] BCraftMG: !mp start 5 glhf!
+[19:31:41] BanchoBot: Match starts in 5 seconds
+[19:31:41] BanchoBot: Queued the match to start in 5 seconds
+[19:31:42] BanchoBot: Match starts in 4 seconds
+[19:31:43] BanchoBot: Match starts in 3 seconds
+[19:31:45] BanchoBot: Good luck, have fun!
+[19:31:47] BanchoBot: The match has started!
+[19:34:04] BanchoBot: 1suLp finished playing (Score: 134001, PASSED).
+[19:34:04] BanchoBot: The match has finished!
+[19:34:07] BCraftMG: !mp map 4496718 0
+[19:34:08] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4496718 Aiobahn - Do you love me?
+[19:34:08] BanchoBot: Changed match mode to Osu
+[19:34:19] BCraftMG: speed run z tay ổn k
+[19:34:26] BanchoBot: All players are ready
+[19:34:28] BCraftMG: !mp settings
+[19:34:29] BanchoBot: Room name: 6APC25VN: (Tryouts) vs (Match W1-A4), History: https://osu.ppy.sh/mp/117329935
+[19:34:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/4496718 Aiobahn - Do you love me?
+[19:34:29] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[19:34:29] BanchoBot: Active mods: NoFail
+[19:34:29] BanchoBot: Players: 1
+[19:34:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/26716585 1suLp           
+[19:34:29] BCraftMG: !mp start 5 glhf!
+[19:34:30] BanchoBot: Match starts in 5 seconds
+[19:34:30] BanchoBot: Queued the match to start in 5 seconds
+[19:34:31] 1suLp: khong on
+[19:34:31] BanchoBot: Match starts in 4 seconds
+[19:34:32] BanchoBot: Match starts in 3 seconds
+[19:34:33] BanchoBot: Good luck, have fun!
+[19:34:35] BanchoBot: The match has started!
+[19:36:26] BanchoBot: 1suLp finished playing (Score: 44310, PASSED).
+[19:36:26] BanchoBot: The match has finished!
+[19:36:31] BCraftMG: !mp map 4811916 0
+[19:36:32] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4811916 Ukaroku Feat. SEKAI - Senbou, Itadaki ni Myoujou
+[19:36:32] BanchoBot: Changed match mode to Osu
+[19:36:32] BCraftMG: !mp mods 9
+[19:36:33] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[19:36:36] 1suLp: sop oi cho em bat dt len duoc khong sop
+[19:36:41] BCraftMG: hong
+[19:36:43] BanchoBot: All players are ready
+[19:36:44] BCraftMG: !mp settings
+[19:36:45] BanchoBot: Room name: 6APC25VN: (Tryouts) vs (Match W1-A4), History: https://osu.ppy.sh/mp/117329935
+[19:36:45] BanchoBot: Beatmap: https://osu.ppy.sh/b/4811916 Ukaroku Feat. SEKAI - Senbou, Itadaki ni Myoujou
+[19:36:45] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[19:36:45] BanchoBot: Active mods: NoFail, Hidden
+[19:36:45] BanchoBot: Players: 1
+[19:36:45] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/26716585 1suLp           
+[19:36:45] BCraftMG: !mp start 5 glhf!
+[19:36:46] BanchoBot: Match starts in 5 seconds
+[19:36:46] BanchoBot: Queued the match to start in 5 seconds
+[19:36:47] 1suLp: :sob:
+[19:36:47] BanchoBot: Match starts in 4 seconds
+[19:36:48] BanchoBot: Match starts in 3 seconds
+[19:36:49] BanchoBot: Good luck, have fun!
+[19:36:51] BanchoBot: The match has started!
+[19:40:43] BanchoBot: 1suLp finished playing (Score: 118832, PASSED).
+[19:40:43] BanchoBot: The match has finished!
+[19:40:50] BCraftMG: !mp map 4634936 0
+[19:40:51] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4634936 capitaro - Tenshinranman High Collar Hime
+[19:40:51] BanchoBot: Changed match mode to Osu
+[19:41:00] BanchoBot: All players are ready
+[19:41:12] BCraftMG: !mp settings
+[19:41:13] BanchoBot: Room name: 6APC25VN: (Tryouts) vs (Match W1-A4), History: https://osu.ppy.sh/mp/117329935
+[19:41:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/4634936 capitaro - Tenshinranman High Collar Hime
+[19:41:13] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[19:41:13] BanchoBot: Active mods: NoFail, Hidden
+[19:41:13] BanchoBot: Players: 1
+[19:41:13] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/26716585 1suLp           
+[19:41:16] BCraftMG: !mp start 5 glhf!
+[19:41:16] BanchoBot: Match starts in 5 seconds
+[19:41:16] BanchoBot: Queued the match to start in 5 seconds
+[19:41:17] BanchoBot: Match starts in 4 seconds
+[19:41:18] BanchoBot: Match starts in 3 seconds
+[19:41:19] BanchoBot: Good luck, have fun!
+[19:41:21] BanchoBot: The match has started!
+[19:44:23] BanchoBot: 1suLp finished playing (Score: 41828, PASSED).
+[19:44:23] BanchoBot: The match has finished!
+[19:44:34] BCraftMG: !mp map 4892203 0
+[19:44:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4892203 V0iD - The Police Have Found My Hidden Stash of Stolen Ketamine [Level 2]
+[19:44:34] BanchoBot: Changed match mode to Osu
+[19:44:49] BanchoBot: All players are ready
+[19:44:53] BCraftMG: !mp settings
+[19:44:54] BanchoBot: Room name: 6APC25VN: (Tryouts) vs (Match W1-A4), History: https://osu.ppy.sh/mp/117329935
+[19:44:54] BanchoBot: Beatmap: https://osu.ppy.sh/b/4892203 V0iD - The Police Have Found My Hidden Stash of Stolen Ketamine [Level 2]
+[19:44:54] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[19:44:54] BanchoBot: Active mods: NoFail, Hidden
+[19:44:54] BanchoBot: Players: 1
+[19:44:54] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/26716585 1suLp           
+[19:44:55] BCraftMG: !mp start 5 glhf!
+[19:44:56] BanchoBot: Match starts in 5 seconds
+[19:44:56] BanchoBot: Queued the match to start in 5 seconds
+[19:44:57] BanchoBot: Match starts in 4 seconds
+[19:44:58] BanchoBot: Match starts in 3 seconds
+[19:44:59] BanchoBot: Good luck, have fun!
+[19:45:01] BanchoBot: The match has started!
+[19:47:06] BanchoBot: 1suLp finished playing (Score: 80935, PASSED).
+[19:47:06] BanchoBot: The match has finished!
+[19:47:11] BCraftMG: !mp map 4794286 0
+[19:47:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4794286 Sara Wakui - Escape (feat. mimiko)
+[19:47:12] BanchoBot: Changed match mode to Osu
+[19:47:24] BanchoBot: All players are ready
+[19:48:24] 1suLp: anh a anh co the nhanh mot chut dc khong anh em sap co viec roi
+[19:48:31] 1suLp: TwT
+[19:51:20] BanchoBot: All players are ready
+[19:51:28] BCraftMG: !mp settings
+[19:51:28] BanchoBot: Room name: 6APC25VN: (Tryouts) vs (Match W1-A4), History: https://osu.ppy.sh/mp/117329935
+[19:51:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/4794286 Sara Wakui - Escape (feat. mimiko)
+[19:51:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[19:51:28] BanchoBot: Active mods: NoFail, Hidden
+[19:51:28] BanchoBot: Players: 1
+[19:51:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/26716585 1suLp           
+[19:51:33] BCraftMG: !mp start 5 glhf!
+[19:51:34] BanchoBot: Match starts in 5 seconds
+[19:51:34] BanchoBot: Queued the match to start in 5 seconds
+[19:51:35] BanchoBot: Match starts in 4 seconds
+[19:51:36] BanchoBot: Match starts in 3 seconds
+[19:51:37] BanchoBot: Good luck, have fun!
+[19:51:39] BanchoBot: The match has started!
+[19:55:05] BanchoBot: 1suLp finished playing (Score: 119475, PASSED).
+[19:55:05] BanchoBot: The match has finished!
+[19:55:09] BCraftMG: !mp map 3131397 0
+[19:55:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3131397 Jibaku Shounen Band (Ikuta Yoji x Masayoshi Oishi x ZiNG) - No.7
+[19:55:10] BanchoBot: Changed match mode to Osu
+[19:55:11] 1suLp: anh a doi em ti
+[19:55:13] 1suLp: em nap tien net da
+[19:55:16] BCraftMG: =))))))))
+[19:55:20] BCraftMG: kho
+[19:55:22] BCraftMG: !mp mods 17
+[19:55:22] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[19:56:57] 1suLp: doi em tra tien ti
+[19:57:06] 1suLp: okay
+[19:57:10] 1suLp: tiep anh
+[19:57:10] 1suLp: dgaeg
+[19:57:11] 1suLp: ae'h
+[19:57:12] BCraftMG: !mp settings
+[19:57:13] BanchoBot: Room name: 6APC25VN: (Tryouts) vs (Match W1-A4), History: https://osu.ppy.sh/mp/117329935
+[19:57:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/3131397 Jibaku Shounen Band (Ikuta Yoji x Masayoshi Oishi x ZiNG) - No.7
+[19:57:13] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[19:57:13] BanchoBot: Active mods: NoFail, HardRock
+[19:57:13] BanchoBot: Players: 1
+[19:57:13] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/26716585 1suLp           
+[19:57:30] BanchoBot: All players are ready
+[19:57:31] BCraftMG: !mp settings
+[19:57:33] BanchoBot: Room name: 6APC25VN: (Tryouts) vs (Match W1-A4), History: https://osu.ppy.sh/mp/117329935
+[19:57:33] BanchoBot: Beatmap: https://osu.ppy.sh/b/3131397 Jibaku Shounen Band (Ikuta Yoji x Masayoshi Oishi x ZiNG) - No.7
+[19:57:33] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[19:57:33] BanchoBot: Active mods: NoFail, HardRock
+[19:57:33] BanchoBot: Players: 1
+[19:57:33] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/26716585 1suLp           
+[19:57:33] BCraftMG: !mp start 5 glhf!
+[19:57:34] BanchoBot: Match starts in 5 seconds
+[19:57:34] BanchoBot: Queued the match to start in 5 seconds
+[19:57:35] BanchoBot: Match starts in 4 seconds
+[19:57:36] BanchoBot: Match starts in 3 seconds
+[19:57:37] BanchoBot: Good luck, have fun!
+[19:57:39] BanchoBot: The match has started!
+[20:01:27] BanchoBot: 1suLp finished playing (Score: 129321, PASSED).
+[20:01:27] BanchoBot: The match has finished!
+[20:01:35] BCraftMG: !mp map 3978538 0
+[20:01:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3978538 Mili - Utopiosphere -Platonism-
+[20:01:36] BanchoBot: Changed match mode to Osu
+[20:01:42] BanchoBot: All players are ready
+[20:01:43] BCraftMG: !mp settings
+[20:01:44] BanchoBot: Room name: 6APC25VN: (Tryouts) vs (Match W1-A4), History: https://osu.ppy.sh/mp/117329935
+[20:01:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/3978538 Mili - Utopiosphere -Platonism-
+[20:01:44] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:01:44] BanchoBot: Active mods: NoFail, HardRock
+[20:01:44] BanchoBot: Players: 1
+[20:01:44] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/26716585 1suLp           
+[20:01:45] BCraftMG: !mp start 5 glhf!
+[20:01:45] BanchoBot: Match starts in 5 seconds
+[20:01:45] BanchoBot: Queued the match to start in 5 seconds
+[20:01:47] BanchoBot: Match starts in 4 seconds
+[20:01:48] BanchoBot: Match starts in 3 seconds
+[20:01:49] BanchoBot: Good luck, have fun!
+[20:01:51] BanchoBot: The match has started!
+[20:03:53] BanchoBot: 1suLp finished playing (Score: 208024, PASSED).
+[20:03:53] BanchoBot: The match has finished!
+[20:04:01] 1suLp: kewk 200k hr2
+[20:04:03] BCraftMG: !mp map 4275662 0
+[20:04:04] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4275662 Aitsuki Nakuru - Hatsukoi Nikki
+[20:04:04] BanchoBot: Changed match mode to Osu
+[20:04:06] 1suLp: cung khong "te"
+[20:04:07] BCraftMG: uoc
+[20:04:13] 1suLp: rieng bai nay
+[20:04:14] 1suLp: plsss
+[20:04:14] 1suLp: dt
+[20:04:19] BCraftMG: nuh uh
+[20:04:22] BanchoBot: All players are ready
+[20:04:23] BCraftMG: !mp settings
+[20:04:24] BanchoBot: Room name: 6APC25VN: (Tryouts) vs (Match W1-A4), History: https://osu.ppy.sh/mp/117329935
+[20:04:24] BanchoBot: Beatmap: https://osu.ppy.sh/b/4275662 Aitsuki Nakuru - Hatsukoi Nikki
+[20:04:24] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:04:24] BanchoBot: Active mods: NoFail, HardRock
+[20:04:24] BanchoBot: Players: 1
+[20:04:24] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/26716585 1suLp           
+[20:04:25] BCraftMG: !mp start 5 glhf!
+[20:04:25] BanchoBot: Match starts in 5 seconds
+[20:04:25] BanchoBot: Queued the match to start in 5 seconds
+[20:04:26] BanchoBot: Match starts in 4 seconds
+[20:04:27] BanchoBot: Match starts in 3 seconds
+[20:04:28] BanchoBot: Good luck, have fun!
+[20:04:30] BanchoBot: The match has started!
+[20:07:32] BanchoBot: 1suLp finished playing (Score: 179192, PASSED).
+[20:07:32] BanchoBot: The match has finished!
+[20:07:35] BCraftMG: !mp map 4735519 0
+[20:07:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4735519 kanemiko - Twilight of the Abyss
+[20:07:36] BanchoBot: Changed match mode to Osu
+[20:07:49] BanchoBot: All players are ready
+[20:08:06] BCraftMG: !mp settings
+[20:08:06] BanchoBot: Room name: 6APC25VN: (Tryouts) vs (Match W1-A4), History: https://osu.ppy.sh/mp/117329935
+[20:08:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/4735519 kanemiko - Twilight of the Abyss
+[20:08:06] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:08:06] BanchoBot: Active mods: NoFail, HardRock
+[20:08:06] BanchoBot: Players: 1
+[20:08:06] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/26716585 1suLp           
+[20:08:07] BCraftMG: !mp start 5 glhf!
+[20:08:07] BanchoBot: Match starts in 5 seconds
+[20:08:07] BanchoBot: Queued the match to start in 5 seconds
+[20:08:08] BanchoBot: Match starts in 4 seconds
+[20:08:09] BanchoBot: Match starts in 3 seconds
+[20:08:11] BanchoBot: Good luck, have fun!
+[20:08:13] BanchoBot: The match has started!
+[20:12:13] BanchoBot: 1suLp finished playing (Score: 130359, PASSED).
+[20:12:13] BanchoBot: The match has finished!
+[20:12:19] BCraftMG: !mp map 4854147 0
+[20:12:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4854147 Marcus King - Sucker
+[20:12:20] BanchoBot: Changed match mode to Osu
+[20:12:22] BCraftMG: !mp mods 65
+[20:12:23] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[20:12:28] 1suLp: YESSSSSSSSS
+[20:12:30] BanchoBot: All players are ready
+[20:12:32] BCraftMG: !mp settings
+[20:12:32] BanchoBot: Room name: 6APC25VN: (Tryouts) vs (Match W1-A4), History: https://osu.ppy.sh/mp/117329935
+[20:12:32] BanchoBot: Beatmap: https://osu.ppy.sh/b/4854147 Marcus King - Sucker
+[20:12:32] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:12:32] BanchoBot: Active mods: NoFail, DoubleTime
+[20:12:32] BanchoBot: Players: 1
+[20:12:32] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/26716585 1suLp           
+[20:12:33] BCraftMG: !mp start 5 glhf!
+[20:12:33] BanchoBot: Match starts in 5 seconds
+[20:12:33] BanchoBot: Queued the match to start in 5 seconds
+[20:12:34] BanchoBot: Match starts in 4 seconds
+[20:12:35] BanchoBot: Match starts in 3 seconds
+[20:12:36] BanchoBot: Good luck, have fun!
+[20:12:38] BanchoBot: The match has started!
+[20:15:10] BanchoBot: 1suLp finished playing (Score: 356828, PASSED).
+[20:15:10] BanchoBot: The match has finished!
+[20:15:17] BCraftMG: !mp map 4830671 0
+[20:15:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4830671 YUC'e - intro-duck-tion!!
+[20:15:19] BanchoBot: Changed match mode to Osu
+[20:15:23] BanchoBot: All players are ready
+[20:15:29] BCraftMG: !mp settings
+[20:15:30] BanchoBot: Room name: 6APC25VN: (Tryouts) vs (Match W1-A4), History: https://osu.ppy.sh/mp/117329935
+[20:15:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/4830671 YUC'e - intro-duck-tion!!
+[20:15:30] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:15:30] BanchoBot: Active mods: NoFail, DoubleTime
+[20:15:30] BanchoBot: Players: 1
+[20:15:30] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/26716585 1suLp           
+[20:15:30] BCraftMG: !mp start 5 glhf!
+[20:15:31] BanchoBot: Match starts in 5 seconds
+[20:15:31] BanchoBot: Queued the match to start in 5 seconds
+[20:15:32] BanchoBot: Match starts in 4 seconds
+[20:15:33] BanchoBot: Match starts in 3 seconds
+[20:15:34] BanchoBot: Good luck, have fun!
+[20:15:36] BanchoBot: The match has started!
+[20:18:04] BanchoBot: 1suLp finished playing (Score: 364236, PASSED).
+[20:18:04] BanchoBot: The match has finished!
+[20:18:08] BCraftMG: !mp map 3007687 0
+[20:18:08] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3007687 Hatsuki Yura - RED LUNACY Nightmare_ver
+[20:18:08] BanchoBot: Changed match mode to Osu
+[20:18:12] 1suLp: i hate speed
+[20:18:15] BanchoBot: All players are ready
+[20:18:16] BCraftMG: !mp settings
+[20:18:17] BanchoBot: Room name: 6APC25VN: (Tryouts) vs (Match W1-A4), History: https://osu.ppy.sh/mp/117329935
+[20:18:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/3007687 Hatsuki Yura - RED LUNACY Nightmare_ver
+[20:18:17] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:18:17] BanchoBot: Active mods: NoFail, DoubleTime
+[20:18:17] BanchoBot: Players: 1
+[20:18:17] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/26716585 1suLp           
+[20:18:18] BCraftMG: !mp start 5 glhf!
+[20:18:18] BanchoBot: Match starts in 5 seconds
+[20:18:18] BanchoBot: Queued the match to start in 5 seconds
+[20:18:19] BanchoBot: Match starts in 4 seconds
+[20:18:21] BanchoBot: Match starts in 3 seconds
+[20:18:22] BanchoBot: Good luck, have fun!
+[20:18:24] BanchoBot: The match has started!
+[20:21:16] BanchoBot: 1suLp finished playing (Score: 82474, PASSED).
+[20:21:16] BanchoBot: The match has finished!
+[20:21:18] BCraftMG: !mp map 3388246 0
+[20:21:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3388246 Coldplay - Viva la Vida
+[20:21:19] BanchoBot: Changed match mode to Osu
+[20:21:25] BanchoBot: All players are ready
+[20:21:27] BCraftMG: !mp settings
+[20:21:27] BanchoBot: Room name: 6APC25VN: (Tryouts) vs (Match W1-A4), History: https://osu.ppy.sh/mp/117329935
+[20:21:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/3388246 Coldplay - Viva la Vida
+[20:21:27] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:21:27] BanchoBot: Active mods: NoFail, DoubleTime
+[20:21:27] BanchoBot: Players: 1
+[20:21:27] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/26716585 1suLp           
+[20:21:28] BCraftMG: !mp start 5 glhf!
+[20:21:28] BanchoBot: Match starts in 5 seconds
+[20:21:28] BanchoBot: Queued the match to start in 5 seconds
+[20:21:29] BanchoBot: Match starts in 4 seconds
+[20:21:30] BanchoBot: Match starts in 3 seconds
+[20:21:31] BanchoBot: Good luck, have fun!
+[20:21:34] BanchoBot: The match has started!
+[20:24:04] BanchoBot: 1suLp finished playing (Score: 474414, PASSED).
+[20:24:04] BanchoBot: The match has finished!
+[20:24:12] BCraftMG: !mp map 1566216 0
+[20:24:13] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1566216 oesterreich - Munou
+[20:24:13] BanchoBot: Changed match mode to Osu
+[20:24:14] BCraftMG: !mp mods Freemod
+[20:24:15] BanchoBot: Disabled all mods, enabled FreeMod
+[20:24:33] BanchoBot: All players are ready
+[20:24:36] BCraftMG: !mp settings
+[20:24:37] BanchoBot: Room name: 6APC25VN: (Tryouts) vs (Match W1-A4), History: https://osu.ppy.sh/mp/117329935
+[20:24:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/1566216 oesterreich - Munou
+[20:24:37] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:24:37] BanchoBot: Active mods: Freemod
+[20:24:37] BanchoBot: Players: 1
+[20:24:37] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/26716585 1suLp           [NoFail, HardRock]
+[20:24:39] BCraftMG: !mp start 5 glhf!
+[20:24:40] BanchoBot: Match starts in 5 seconds
+[20:24:40] BanchoBot: Queued the match to start in 5 seconds
+[20:24:41] BanchoBot: Match starts in 4 seconds
+[20:24:43] BanchoBot: Match starts in 3 seconds
+[20:24:44] BanchoBot: Good luck, have fun!
+[20:24:46] BanchoBot: The match has started!
+[20:26:20] BanchoBot: 1suLp finished playing (Score: 231232, PASSED).
+[20:26:20] BanchoBot: The match has finished!
+[20:26:25] BCraftMG: !mp map 4756658 0
+[20:26:26] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4756658 Eagle - Icarus (Akira Complex Remix)
+[20:26:26] BanchoBot: Changed match mode to Osu
+[20:26:28] 1suLp: dm sap bi gank roi
+[20:26:29] 1suLp: :sob:
+[20:26:31] BanchoBot: All players are ready
+[20:26:32] BCraftMG: ngon
+[20:26:32] BCraftMG: !mp settings
+[20:26:34] BanchoBot: All players are ready
+[20:26:34] BanchoBot: Room name: 6APC25VN: (Tryouts) vs (Match W1-A4), History: https://osu.ppy.sh/mp/117329935
+[20:26:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/4756658 Eagle - Icarus (Akira Complex Remix)
+[20:26:34] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:26:34] BanchoBot: Active mods: Freemod
+[20:26:34] BanchoBot: Players: 1
+[20:26:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/26716585 1suLp           [NoFail]
+[20:26:36] BCraftMG: !mp start 5 glhf!
+[20:26:37] BanchoBot: Match starts in 5 seconds
+[20:26:37] BanchoBot: Queued the match to start in 5 seconds
+[20:26:38] BanchoBot: Match starts in 4 seconds
+[20:26:39] BanchoBot: Match starts in 3 seconds
+[20:26:40] BanchoBot: Good luck, have fun!
+[20:26:42] BanchoBot: The match has started!
+[20:33:05] BanchoBot: 1suLp finished playing (Score: 78159, PASSED).
+[20:33:05] BanchoBot: The match has finished!
+[20:33:10] BCraftMG: ok run
+[20:33:11] BCraftMG: :tf:
+[20:33:35] 1suLp: gb sop
+[20:33:41] 1suLp: dm chuan bi bi gank roi
+[20:33:46] BanchoBot: 1suLp left the game.
+[20:33:50] BCraftMG: !mp close
+[20:33:50] BanchoBot: Closed the match

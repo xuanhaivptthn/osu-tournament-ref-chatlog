@@ -1,0 +1,368 @@
+[20:53:11] Joined #mp_104607944
+[20:53:11] DaddyStage: !mp settings
+[20:53:12] BanchoBot: Room name: SMB: (15 UTC) vs (FishOnFire), History: https://osu.ppy.sh/mp/104607944
+[20:53:12] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[20:53:12] BanchoBot: Players: 0
+[20:53:23] DaddyStage: !mp set 2 3 8
+[20:53:24] BanchoBot: Changed match settings to 8 slots, TeamVs, ScoreV2
+[20:54:53] DaddyStage: !mp invite #12790479
+[20:54:54] BanchoBot: Invited shadow modico to the room
+[20:54:55] DaddyStage: !mp invite #6221425
+[20:54:56] BanchoBot: Invited Peti to the room
+[20:56:57] DaddyStage: !mp invite #12790479
+[20:56:58] BanchoBot: Invited shadow modico to the room
+[20:57:01] DaddyStage: !mp invite #6221425
+[20:57:01] BanchoBot: Invited Peti to the room
+[20:57:34] BanchoBot: Peti joined in slot 1 for team blue.
+[20:57:42] DaddyStage: o/
+[20:57:48] Peti: o7
+[20:57:56] Peti: its not getting streamed right?
+[20:58:33] BanchoBot: shadow modico joined in slot 2 for team red.
+[20:58:37] shadow_modico: hello
+[20:58:42] Peti: o7
+[20:58:53] DaddyStage: nope
+[20:58:54] DaddyStage: 1 sec
+[20:59:05] BanchoBot: Amamya Kokoro joined in slot 3 for team blue.
+[20:59:26] DaddyStage: okay
+[20:59:29] DaddyStage: 15utc on red
+[20:59:33] DaddyStage: FishOnFire on blue
+[20:59:33] BanchoBot: Peti moved to slot 4
+[20:59:41] DaddyStage: we can start rolls
+[20:59:41] BanchoBot: shadow modico moved to slot 1
+[20:59:59] shadow_modico: !roll
+[20:59:59] BanchoBot: shadow modico rolls 89 point(s)
+[21:00:17] Peti: !roll
+[21:00:17] BanchoBot: Peti rolls 12 point(s)
+[21:00:26] BanchoBot: Anroyz joined in slot 2 for team red.
+[21:00:36] BanchoBot: Anroyz moved to slot 5
+[21:00:37] BanchoBot: Mizeree joined in slot 2 for team red.
+[21:00:37] BanchoBot: Anroyz changed to Blue
+[21:00:42] BanchoBot: Mizeree changed to Blue
+[21:00:42] BanchoBot: Mizeree moved to slot 6
+[21:00:44] DaddyStage: Winner chooses pick or ban order
+[21:01:05] BanchoBot: rundyyy joined in slot 2 for team red.
+[21:01:06] shadow_modico: 1st pick
+[21:01:09] rundyyy: Moin Meister
+[21:01:21] DaddyStage: FishOnFire choose ban order
+[21:01:22] Mizeree: hihi
+[21:01:35] Anroyz: moin
+[21:01:38] Peti: 1st ban
+[21:01:42] Peti: hd2
+[21:01:57] DaddyStage: ban order abba
+[21:02:03] DaddyStage: 2 bans from 15 utc
+[21:02:05] DaddyStage: !mp timer 120
+[21:02:06] BanchoBot: Countdown ends in 2 minutes
+[21:02:17] shadow_modico: nm5
+[21:03:06] BanchoBot: Countdown ends in 1 minute
+[21:03:21] shadow_modico: dt3
+[21:03:36] BanchoBot: Countdown ends in 30 seconds
+[21:03:42] DaddyStage: FishOnFire last ban
+[21:03:42] DaddyStage: !mp timer 90
+[21:03:43] BanchoBot: Countdown aborted
+[21:03:43] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:03:54] DaddyStage: i need to start using 90s timer for this
+[21:04:12] shadow_modico: sorry zz
+[21:04:14] BanchoBot: Countdown ends in 1 minute
+[21:04:14] rundyyy: yea
+[21:04:25] DaddyStage: no need to sorry xd
+[21:04:27] Peti: hr1
+[21:04:32] DaddyStage: the rules say 90s not 120s so
+[21:04:39] DaddyStage: 15 UTC | 0 - 0 | FishOnFire // First Pick: 15 UTC
+[21:04:41] DaddyStage: !mp timer 90
+[21:04:42] BanchoBot: Countdown aborted
+[21:04:42] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:04:51] BanchoBot: rundyyy left the game.
+[21:04:57] shadow_modico: hd3
+[21:05:02] BanchoBot: Peti left the game.
+[21:05:05] DaddyStage: !mp map 3257450 0
+[21:05:05] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3257450 NICODE & M2U - Predawn
+[21:05:06] BanchoBot: Changed match mode to Osu
+[21:05:07] DaddyStage: !mp mods 9
+[21:05:08] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:05:09] BanchoBot: Amamya Kokoro changed to Red
+[21:05:09] DaddyStage: !mp timer 90
+[21:05:10] BanchoBot: Countdown aborted
+[21:05:10] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:05:11] BanchoBot: Amamya Kokoro moved to slot 8
+[21:05:16] BanchoBot: Amamya Kokoro moved to slot 2
+[21:05:17] BanchoBot: Mizeree moved to slot 3
+[21:05:28] BanchoBot: Anroyz moved to slot 4
+[21:05:40] BanchoBot: Countdown ends in 1 minute
+[21:05:40] BanchoBot: All players are ready
+[21:05:43] DaddyStage: !mp settings
+[21:05:44] BanchoBot: Room name: SMB: (15 UTC) vs (FishOnFire), History: https://osu.ppy.sh/mp/104607944
+[21:05:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/3257450 NICODE & M2U - Predawn
+[21:05:44] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:05:44] BanchoBot: Active mods: NoFail, Hidden
+[21:05:44] BanchoBot: Players: 4
+[21:05:44] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12790479 shadow modico   [Team Red ]
+[21:05:44] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/2511839 Amamya Kokoro   [Team Red ]
+[21:05:44] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12309147 Mizeree         [Team Blue]
+[21:05:44] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/1818573 Anroyz          [Team Blue]
+[21:05:48] DaddyStage: !mp start 5 glhf
+[21:05:49] BanchoBot: Countdown aborted
+[21:05:49] BanchoBot: Match starts in 5 seconds
+[21:05:49] BanchoBot: Queued the match to start in 5 seconds
+[21:05:50] BanchoBot: Match starts in 4 seconds
+[21:05:51] BanchoBot: Match starts in 3 seconds
+[21:05:52] BanchoBot: Good luck, have fun!
+[21:05:54] BanchoBot: The match has started!
+[21:05:57] shadow_modico: glgl
+[21:08:12] BanchoBot: Anroyz finished playing (Score: 484841, PASSED).
+[21:08:12] BanchoBot: Mizeree finished playing (Score: 525333, PASSED).
+[21:08:12] BanchoBot: shadow modico finished playing (Score: 495328, PASSED).
+[21:08:12] BanchoBot: Amamya Kokoro finished playing (Score: 702488, PASSED).
+[21:08:12] BanchoBot: The match has finished!
+[21:08:23] BanchoBot: rundyyy joined in slot 5 for team blue.
+[21:08:24] BanchoBot: Peti joined in slot 6 for team red.
+[21:08:27] DaddyStage: 15 UTC | 1 - 0 | FishOnFire // Next Pick: FishOnFire	v
+[21:08:29] DaddyStage: !mp timer 90
+[21:08:30] BanchoBot: Peti changed to Blue
+[21:08:30] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:08:47] rundyyy: max combo gamer
+[21:08:55] Mizeree: low bpm hd :skull:
+[21:09:00] BanchoBot: Countdown ends in 1 minute
+[21:09:25] rundyyy: skull
+[21:09:31] BanchoBot: Countdown ends in 30 seconds
+[21:09:39] Peti: nm1
+[21:09:39] BanchoBot: Anroyz left the game.
+[21:09:42] BanchoBot: Peti moved to slot 4
+[21:09:46] DaddyStage: !mp map 2777125 0
+[21:09:46] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2777125 iMarine (CV: Uchida Aya) - DEEP BLUE SONG
+[21:09:46] BanchoBot: Changed match mode to Osu
+[21:09:48] DaddyStage: !mp mods 1
+[21:09:50] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:09:50] DaddyStage: !mp timer 90
+[21:09:51] BanchoBot: Countdown ends in 10 seconds
+[21:09:52] BanchoBot: shadow modico left the game.
+[21:09:52] BanchoBot: Countdown aborted
+[21:09:52] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:10:05] BanchoBot: rundyyy moved to slot 1
+[21:10:08] BanchoBot: rundyyy changed to Red
+[21:10:19] BanchoBot: All players are ready
+[21:10:23] BanchoBot: Countdown ends in 1 minute
+[21:10:26] DaddyStage: !mp settings
+[21:10:27] BanchoBot: Room name: SMB: (15 UTC) vs (FishOnFire), History: https://osu.ppy.sh/mp/104607944
+[21:10:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/2777125 iMarine (CV: Uchida Aya) - DEEP BLUE SONG
+[21:10:27] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:10:27] BanchoBot: Active mods: NoFail
+[21:10:27] BanchoBot: Players: 4
+[21:10:27] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10917620 rundyyy         [Team Red ]
+[21:10:27] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/2511839 Amamya Kokoro   [Team Red ]
+[21:10:27] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12309147 Mizeree         [Team Blue]
+[21:10:27] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6221425 Peti            [Team Blue]
+[21:10:31] Peti: glhf
+[21:10:32] DaddyStage: !mp timer 120
+[21:10:32] BanchoBot: Countdown aborted
+[21:10:32] BanchoBot: Countdown ends in 2 minutes
+[21:10:35] Amamya_Kokoro: glhf
+[21:10:38] Mizeree: glgl
+[21:10:45] rundyyy: gl
+[21:10:54] Peti: !mp start 10
+[21:10:55] rundyyy: Ref
+[21:10:59] rundyyy: wrong command
+[21:11:00] DaddyStage: ow
+[21:11:02] DaddyStage: :tf:
+[21:11:02] DaddyStage: !mp settings
+[21:11:03] BanchoBot: Room name: SMB: (15 UTC) vs (FishOnFire), History: https://osu.ppy.sh/mp/104607944
+[21:11:03] BanchoBot: Beatmap: https://osu.ppy.sh/b/2777125 iMarine (CV: Uchida Aya) - DEEP BLUE SONG
+[21:11:03] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:11:03] BanchoBot: Active mods: NoFail
+[21:11:03] BanchoBot: Players: 4
+[21:11:03] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10917620 rundyyy         [Team Red ]
+[21:11:03] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/2511839 Amamya Kokoro   [Team Red ]
+[21:11:03] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12309147 Mizeree         [Team Blue]
+[21:11:03] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6221425 Peti            [Team Blue]
+[21:11:04] DaddyStage: !mp start 5 glhf
+[21:11:04] BanchoBot: Countdown aborted
+[21:11:04] BanchoBot: Match starts in 5 seconds
+[21:11:04] BanchoBot: Queued the match to start in 5 seconds
+[21:11:05] BanchoBot: Match starts in 4 seconds
+[21:11:06] BanchoBot: Match starts in 3 seconds
+[21:11:07] BanchoBot: Good luck, have fun!
+[21:11:09] BanchoBot: The match has started!
+[21:15:13] BanchoBot: Peti finished playing (Score: 571600, PASSED).
+[21:15:14] BanchoBot: Amamya Kokoro finished playing (Score: 987228, PASSED).
+[21:15:14] BanchoBot: Mizeree finished playing (Score: 690526, PASSED).
+[21:15:15] BanchoBot: rundyyy finished playing (Score: 679873, PASSED).
+[21:15:15] BanchoBot: The match has finished!
+[21:15:31] BanchoBot: shadow modico joined in slot 5 for team blue.
+[21:15:39] DaddyStage: 15 UTC | 2 - 0 | FishOnFire // Next Pick: FishOnFire
+[21:15:42] DaddyStage: !mp timer 120
+[21:15:43] BanchoBot: Countdown ends in 2 minutes
+[21:15:57] BanchoBot: shadow modico changed to Red
+[21:16:06] BanchoBot: Anroyz joined in slot 6 for team red.
+[21:16:08] Peti: dt2
+[21:16:09] BanchoBot: Peti left the game.
+[21:16:13] BanchoBot: Anroyz moved to slot 4
+[21:16:14] BanchoBot: Anroyz changed to Blue
+[21:16:15] BanchoBot: shadow modico left the game.
+[21:16:19] DaddyStage: !mp map 239403 0
+[21:16:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/239403 Chase and Status ft. Plan B - End Credits
+[21:16:20] BanchoBot: Changed match mode to Osu
+[21:16:22] DaddyStage: !mp mods 65
+[21:16:23] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:16:25] DaddyStage: !mp timer 120
+[21:16:25] BanchoBot: Countdown aborted
+[21:16:25] BanchoBot: Countdown ends in 2 minutes
+[21:16:27] BanchoBot: Amamya Kokoro left the game.
+[21:17:03] BanchoBot: shadow modico joined in slot 2 for team red.
+[21:17:19] Anroyz: gl
+[21:17:20] BanchoBot: All players are ready
+[21:17:22] DaddyStage: !mp settings
+[21:17:23] Mizeree: gl
+[21:17:23] BanchoBot: Room name: SMB: (15 UTC) vs (FishOnFire), History: https://osu.ppy.sh/mp/104607944
+[21:17:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/239403 Chase and Status ft. Plan B - End Credits
+[21:17:23] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:17:23] BanchoBot: Active mods: NoFail, DoubleTime
+[21:17:23] BanchoBot: Players: 4
+[21:17:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10917620 rundyyy         [Team Red ]
+[21:17:23] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12790479 shadow modico   [Team Red ]
+[21:17:23] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12309147 Mizeree         [Team Blue]
+[21:17:23] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/1818573 Anroyz          [Team Blue]
+[21:17:26] BanchoBot: Countdown ends in 1 minute
+[21:17:28] rundyyy: glgl
+[21:17:30] DaddyStage: !mp start 5 glhf
+[21:17:32] shadow_modico: glgl
+[21:17:32] BanchoBot: Countdown aborted
+[21:17:32] BanchoBot: Match starts in 5 seconds
+[21:17:32] BanchoBot: Queued the match to start in 5 seconds
+[21:17:33] BanchoBot: Match starts in 4 seconds
+[21:17:34] BanchoBot: Match starts in 3 seconds
+[21:17:35] BanchoBot: Good luck, have fun!
+[21:17:37] BanchoBot: The match has started!
+[21:19:43] BanchoBot: Mizeree finished playing (Score: 488336, PASSED).
+[21:19:45] BanchoBot: rundyyy finished playing (Score: 649279, PASSED).
+[21:19:46] BanchoBot: shadow modico finished playing (Score: 547308, PASSED).
+[21:19:47] BanchoBot: Anroyz finished playing (Score: 604826, PASSED).
+[21:19:47] BanchoBot: The match has finished!
+[21:20:02] BanchoBot: Amamya Kokoro joined in slot 5 for team blue.
+[21:20:04] BanchoBot: Amamya Kokoro moved to slot 8
+[21:20:06] BanchoBot: Amamya Kokoro changed to Red
+[21:20:08] DaddyStage: 15 UTC | 3 - 0 | FishOnFire // Next Pick: FishOnFire
+[21:20:11] DaddyStage: !mp timer 90
+[21:20:11] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:20:21] BanchoBot: Anroyz left the game.
+[21:20:23] BanchoBot: Peti joined in slot 4 for team red.
+[21:20:42] BanchoBot: Countdown ends in 1 minute
+[21:20:56] Peti: nm4
+[21:21:05] BanchoBot: Peti changed to Blue
+[21:21:05] Mizeree: bo9?
+[21:21:06] BanchoBot: rundyyy left the game.
+[21:21:08] BanchoBot: Amamya Kokoro moved to slot 1
+[21:21:10] Amamya_Kokoro: yes
+[21:21:12] BanchoBot: Countdown ends in 30 seconds
+[21:21:15] DaddyStage: !mp map 3311337 0
+[21:21:15] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3311337 Dirtyphonics - Night Ride
+[21:21:15] BanchoBot: Changed match mode to Osu
+[21:21:16] DaddyStage: !mp mods 1
+[21:21:17] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:21:18] DaddyStage: !mp timer 90
+[21:21:18] BanchoBot: Countdown aborted
+[21:21:18] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:21:37] BanchoBot: All players are ready
+[21:21:40] Mizeree: hfhf
+[21:21:43] Peti: glhf
+[21:21:45] Amamya_Kokoro: glhf
+[21:21:49] BanchoBot: Countdown ends in 1 minute
+[21:21:53] shadow_modico: glgl
+[21:22:15] DaddyStage: !mp settings
+[21:22:17] shadow_modico: ref?
+[21:22:17] BanchoBot: Room name: SMB: (15 UTC) vs (FishOnFire), History: https://osu.ppy.sh/mp/104607944
+[21:22:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/3311337 Dirtyphonics - Night Ride
+[21:22:17] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:22:17] BanchoBot: Active mods: NoFail
+[21:22:17] BanchoBot: Players: 4
+[21:22:17] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/2511839 Amamya Kokoro   [Team Red ]
+[21:22:17] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12790479 shadow modico   [Team Red ]
+[21:22:17] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12309147 Mizeree         [Team Blue]
+[21:22:17] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6221425 Peti            [Team Blue]
+[21:22:17] DaddyStage: !mp start 5 glhf
+[21:22:17] BanchoBot: Countdown aborted
+[21:22:17] BanchoBot: Match starts in 5 seconds
+[21:22:17] BanchoBot: Queued the match to start in 5 seconds
+[21:22:18] BanchoBot: Match starts in 4 seconds
+[21:22:20] BanchoBot: Match starts in 3 seconds
+[21:22:21] BanchoBot: Good luck, have fun!
+[21:22:23] BanchoBot: The match has started!
+[21:22:23] Amamya_Kokoro: glhf
+[21:25:44] BanchoBot: Amamya Kokoro finished playing (Score: 600288, PASSED).
+[21:25:45] BanchoBot: shadow modico finished playing (Score: 635298, PASSED).
+[21:25:47] BanchoBot: Mizeree finished playing (Score: 375051, PASSED).
+[21:25:48] BanchoBot: Peti finished playing (Score: 402257, PASSED).
+[21:25:48] BanchoBot: The match has finished!
+[21:26:06] DaddyStage: 15 UTC | 4 - 0 | FishOnFire // Next Pick: FishOnFire
+[21:26:08] DaddyStage: !mp timer 120
+[21:26:08] BanchoBot: Countdown ends in 2 minutes
+[21:26:24] BanchoBot: rundyyy joined in slot 5 for team blue.
+[21:26:33] Mizeree: guys
+[21:26:36] Mizeree: what should we pick?
+[21:26:45] rundyyy: hr2
+[21:26:53] Amamya_Kokoro: make it funky now
+[21:26:59] rundyyy: or nm6
+[21:27:06] Mizeree: nm6 is wack
+[21:27:07] Mizeree: cant play it
+[21:27:09] BanchoBot: Countdown ends in 1 minute
+[21:27:09] rundyyy: L
+[21:27:14] Amamya_Kokoro: agree
+[21:27:15] Peti: hr2
+[21:27:24] BanchoBot: shadow modico left the game.
+[21:27:26] BanchoBot: rundyyy moved to slot 2
+[21:27:26] BanchoBot: rundyyy changed to Red
+[21:27:36] BanchoBot: Mizeree left the game.
+[21:27:38] BanchoBot: Peti moved to slot 3
+[21:27:39] BanchoBot: Countdown ends in 30 seconds
+[21:27:50] DaddyStage: !mp map 3542916 0
+[21:27:50] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3542916 Rabbit House - das Leben nach dem Tode
+[21:27:50] BanchoBot: Changed match mode to Osu
+[21:27:52] DaddyStage: !mp mods 17
+[21:27:53] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[21:27:54] DaddyStage: !mp timer 90
+[21:27:55] BanchoBot: Countdown aborted
+[21:27:55] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:27:56] BanchoBot: Anroyz joined in slot 4 for team red.
+[21:27:59] BanchoBot: Anroyz changed to Blue
+[21:28:06] Anroyz: gl
+[21:28:09] rundyyy: glgl
+[21:28:10] Peti: glhf
+[21:28:11] BanchoBot: All players are ready
+[21:28:17] DaddyStage: !mp settings
+[21:28:18] BanchoBot: Room name: SMB: (15 UTC) vs (FishOnFire), History: https://osu.ppy.sh/mp/104607944
+[21:28:18] BanchoBot: Beatmap: https://osu.ppy.sh/b/3542916 Rabbit House - das Leben nach dem Tode
+[21:28:18] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:28:18] BanchoBot: Active mods: NoFail, HardRock
+[21:28:18] BanchoBot: Players: 4
+[21:28:18] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/2511839 Amamya Kokoro   [Team Red ]
+[21:28:18] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10917620 rundyyy         [Team Red ]
+[21:28:18] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6221425 Peti            [Team Blue]
+[21:28:18] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/1818573 Anroyz          [Team Blue]
+[21:28:23] DaddyStage: !mp start 5 glhf
+[21:28:24] BanchoBot: Countdown aborted
+[21:28:24] BanchoBot: Match starts in 5 seconds
+[21:28:24] BanchoBot: Queued the match to start in 5 seconds
+[21:28:25] BanchoBot: Match starts in 4 seconds
+[21:28:26] BanchoBot: Match starts in 3 seconds
+[21:28:27] BanchoBot: Good luck, have fun!
+[21:28:29] BanchoBot: The match has started!
+[21:31:04] BanchoBot: Amamya Kokoro finished playing (Score: 726848, PASSED).
+[21:31:04] BanchoBot: rundyyy finished playing (Score: 853524, PASSED).
+[21:31:04] BanchoBot: Anroyz finished playing (Score: 415178, PASSED).
+[21:31:04] BanchoBot: Peti finished playing (Score: 416086, PASSED).
+[21:31:04] BanchoBot: The match has finished!
+[21:31:14] Anroyz: ggwp
+[21:31:14] Amamya_Kokoro: ggwp
+[21:31:14] rundyyy: ggwp
+[21:31:17] Amamya_Kokoro: thanks for ref
+[21:31:19] DaddyStage: Congrats to 15 UTC for winning this match! GGWP both teams!
+[21:31:20] Peti: ggwp
+[21:31:20] rundyyy: thanks for ref
+[21:31:22] Peti: thx for ref
+[21:31:23] rundyyy: o/
+[21:31:25] BanchoBot: rundyyy left the game.
+[21:31:30] BanchoBot: Anroyz left the game.
+[21:31:32] BanchoBot: Peti left the game.
+[21:31:35] BanchoBot: Peti joined in slot 2 for team red.
+[21:31:41] BanchoBot: Peti left the game.
+[21:31:41] BanchoBot: Amamya Kokoro left the game.
+[21:31:46] DaddyStage: !mp close
+[21:31:47] BanchoBot: Closed the match

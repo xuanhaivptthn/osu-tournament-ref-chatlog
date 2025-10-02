@@ -1,0 +1,510 @@
+[00:48:57] Joined #mp_109511058
+[00:48:57] BCraftMG: !mp settings
+[00:48:58] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q22), History: https://osu.ppy.sh/mp/109511058
+[00:48:58] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[00:48:58] BanchoBot: Players: 0
+[00:49:37] BCraftMG: !mp set 0 3 8
+[00:49:37] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[00:53:32] BCraftMG: !mp invite #15220967
+[00:53:33] BanchoBot: Invited Destrox to the room
+[00:53:38] BCraftMG: !mp invite #16619872
+[00:53:39] BanchoBot: Invited lakemealy3 to the room
+[00:53:40] BCraftMG: !mp invite #13836587
+[00:53:41] BanchoBot: Invited Medoo_ to the room
+[00:53:43] BCraftMG: !mp invite #16810976
+[00:53:44] BanchoBot: User not found
+[00:53:46] BCraftMG: !mp invite #13962152
+[00:53:46] BanchoBot: Invited zZ CreatorGD Zz to the room
+[00:54:09] BanchoBot: Medoo_ joined in slot 1.
+[00:54:24] Medoo_: we start 9?
+[00:54:35] BanchoBot: Medoo_ left the game.
+[00:54:52] BanchoBot: lakemealy3 joined in slot 1.
+[00:55:32] BanchoBot: Medoo_ joined in slot 2.
+[00:56:36] BanchoBot: Medoo_ left the game.
+[00:56:56] BanchoBot: zZ CreatorGD Zz joined in slot 2.
+[00:57:57] BCraftMG: !mp settings
+[00:57:57] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q22), History: https://osu.ppy.sh/mp/109511058
+[00:57:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:57:57] BanchoBot: Players: 2
+[00:57:57] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/16619872 lakemealy3      
+[00:57:57] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/13962152 zZ CreatorGD Zz 
+[00:58:51] BanchoBot: Destrox joined in slot 3.
+[00:58:55] Destrox: ola
+[00:59:15] zZ_CreatorGD_Zz: destrox
+[00:59:19] zZ_CreatorGD_Zz: ven al server de peac xd
+[00:59:20] BanchoBot: Medoo_ joined in slot 4.
+[00:59:27] Destrox: que va bro
+[00:59:43] zZ_CreatorGD_Zz: bueno
+[01:02:14] BCraftMG: !mp map 4142536 0
+[01:02:15] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4142536 Hoshimachi Suisei - Newton
+[01:02:15] BanchoBot: Changed match mode to Osu
+[01:02:16] BCraftMG: !mp mods 1
+[01:02:16] BanchoBot: Enabled NoFail, disabled FreeMod
+[01:02:19] BCraftMG: !mp timer 120
+[01:02:19] BanchoBot: Countdown ends in 2 minutes
+[01:02:29] Destrox: are we 4 players?
+[01:02:42] Destrox: i thought there were like 1 or 2 more
+[01:02:49] BanchoBot: All players are ready
+[01:02:55] BCraftMG: !mp settings
+[01:02:56] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q22), History: https://osu.ppy.sh/mp/109511058
+[01:02:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/4142536 Hoshimachi Suisei - Newton
+[01:02:56] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:02:56] BanchoBot: Active mods: NoFail
+[01:02:56] BanchoBot: Players: 4
+[01:02:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16619872 lakemealy3      
+[01:02:56] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13962152 zZ CreatorGD Zz 
+[01:02:56] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15220967 Destrox         
+[01:02:56] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13836587 Medoo_          
+[01:03:04] BCraftMG: another one moved i think
+[01:03:07] BCraftMG: !mp start 5 glhf
+[01:03:07] BanchoBot: Countdown aborted
+[01:03:07] BanchoBot: Match starts in 5 seconds
+[01:03:07] BanchoBot: Queued the match to start in 5 seconds
+[01:03:08] BanchoBot: Match starts in 4 seconds
+[01:03:09] BanchoBot: Match starts in 3 seconds
+[01:03:10] BanchoBot: Good luck, have fun!
+[01:03:12] BanchoBot: The match has started!
+[01:03:13] zZ_CreatorGD_Zz: glhf
+[01:06:53] BanchoBot: Destrox finished playing (Score: 381543, PASSED).
+[01:06:54] BanchoBot: zZ CreatorGD Zz finished playing (Score: 645528, PASSED).
+[01:06:54] BanchoBot: Medoo_ finished playing (Score: 554833, PASSED).
+[01:06:54] BanchoBot: lakemealy3 finished playing (Score: 1013439, PASSED).
+[01:06:54] BanchoBot: The match has finished!
+[01:06:58] BCraftMG: !mp map 4187144 0
+[01:06:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4187144 Raimukun - Nyarlathotep's Dreamland
+[01:06:59] BanchoBot: Changed match mode to Osu
+[01:07:00] BCraftMG: !mp timer 120
+[01:07:00] BanchoBot: Countdown ends in 2 minutes
+[01:07:02] zZ_CreatorGD_Zz: delete sliders
+[01:07:44] BanchoBot: All players are ready
+[01:07:48] BCraftMG: !mp settings
+[01:07:49] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q22), History: https://osu.ppy.sh/mp/109511058
+[01:07:49] BanchoBot: Beatmap: https://osu.ppy.sh/b/4187144 Raimukun - Nyarlathotep's Dreamland
+[01:07:49] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:07:49] BanchoBot: Active mods: NoFail
+[01:07:49] BanchoBot: Players: 4
+[01:07:49] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16619872 lakemealy3      
+[01:07:49] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13962152 zZ CreatorGD Zz 
+[01:07:49] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15220967 Destrox         
+[01:07:49] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13836587 Medoo_          
+[01:07:49] BCraftMG: !mp start 5 glhf
+[01:07:50] BanchoBot: Countdown aborted
+[01:07:50] BanchoBot: Match starts in 5 seconds
+[01:07:50] BanchoBot: Queued the match to start in 5 seconds
+[01:07:51] BanchoBot: Match starts in 4 seconds
+[01:07:52] BanchoBot: Match starts in 3 seconds
+[01:07:53] BanchoBot: Good luck, have fun!
+[01:07:55] BanchoBot: The match has started!
+[01:10:29] BanchoBot: lakemealy3 finished playing (Score: 590393, PASSED).
+[01:10:29] BanchoBot: Destrox finished playing (Score: 211313, PASSED).
+[01:10:31] BanchoBot: Medoo_ finished playing (Score: 471049, PASSED).
+[01:10:31] BanchoBot: zZ CreatorGD Zz finished playing (Score: 598148, PASSED).
+[01:10:31] BanchoBot: The match has finished!
+[01:10:39] BCraftMG: !mp map 4068544 0
+[01:10:40] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4068544 hitorie - NONSENSE
+[01:10:40] BanchoBot: Changed match mode to Osu
+[01:10:41] lakemealy3: same acc lmao
+[01:10:44] BCraftMG: !mp timer 120
+[01:10:44] BanchoBot: Countdown ends in 2 minutes
+[01:10:47] zZ_CreatorGD_Zz: fair enough
+[01:11:35] BanchoBot: All players are ready
+[01:11:37] BCraftMG: !mp settings
+[01:11:38] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q22), History: https://osu.ppy.sh/mp/109511058
+[01:11:38] BanchoBot: Beatmap: https://osu.ppy.sh/b/4068544 hitorie - NONSENSE
+[01:11:38] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:11:38] BanchoBot: Active mods: NoFail
+[01:11:38] BanchoBot: Players: 4
+[01:11:38] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16619872 lakemealy3      
+[01:11:38] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13962152 zZ CreatorGD Zz 
+[01:11:38] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15220967 Destrox         
+[01:11:38] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13836587 Medoo_          
+[01:11:39] BCraftMG: !mp start 5 glhf
+[01:11:40] BanchoBot: Countdown aborted
+[01:11:40] BanchoBot: Match starts in 5 seconds
+[01:11:40] BanchoBot: Queued the match to start in 5 seconds
+[01:11:41] BanchoBot: Match starts in 4 seconds
+[01:11:42] BanchoBot: Match starts in 3 seconds
+[01:11:43] zZ_CreatorGD_Zz: glhf
+[01:11:43] Destrox: glhf
+[01:11:43] BanchoBot: Good luck, have fun!
+[01:11:45] BanchoBot: The match has started!
+[01:15:54] BanchoBot: zZ CreatorGD Zz finished playing (Score: 374157, PASSED).
+[01:15:54] BanchoBot: Medoo_ finished playing (Score: 215383, PASSED).
+[01:15:55] BanchoBot: Destrox finished playing (Score: 193787, PASSED).
+[01:15:55] BanchoBot: lakemealy3 finished playing (Score: 343789, PASSED).
+[01:15:55] BanchoBot: The match has finished!
+[01:15:59] BCraftMG: !mp map 3535254 0
+[01:16:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3535254 kors k vs Yooh - 2 Beasts Unchained
+[01:16:00] BanchoBot: Changed match mode to Osu
+[01:16:01] BCraftMG: !mp timer 120
+[01:16:02] BanchoBot: Countdown ends in 2 minutes
+[01:16:05] Destrox: i literally got 350 as a sightread
+[01:16:05] Destrox: xd
+[01:16:08] Destrox: 350k
+[01:16:14] zZ_CreatorGD_Zz: same3
+[01:16:31] lakemealy3: nm3 is evil
+[01:16:40] BanchoBot: All players are ready
+[01:16:40] lakemealy3: either hit all or miss
+[01:16:43] BCraftMG: !mp settings
+[01:16:44] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q22), History: https://osu.ppy.sh/mp/109511058
+[01:16:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/3535254 kors k vs Yooh - 2 Beasts Unchained
+[01:16:44] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:16:44] BanchoBot: Active mods: NoFail
+[01:16:44] BanchoBot: Players: 4
+[01:16:44] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16619872 lakemealy3      
+[01:16:44] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13962152 zZ CreatorGD Zz 
+[01:16:44] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15220967 Destrox         
+[01:16:44] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13836587 Medoo_          
+[01:16:46] BCraftMG: !mp start 5 glhf
+[01:16:47] zZ_CreatorGD_Zz: true
+[01:16:47] BanchoBot: Countdown aborted
+[01:16:47] BanchoBot: Match starts in 5 seconds
+[01:16:47] BanchoBot: Queued the match to start in 5 seconds
+[01:16:49] BanchoBot: Match starts in 4 seconds
+[01:16:49] BanchoBot: Match starts in 3 seconds
+[01:16:50] Medoo_: i have c rank on this :sob:
+[01:16:50] BanchoBot: Good luck, have fun!
+[01:16:52] BanchoBot: The match has started!
+[01:18:54] BanchoBot: lakemealy3 finished playing (Score: 314608, PASSED).
+[01:18:55] BanchoBot: Medoo_ finished playing (Score: 158139, PASSED).
+[01:18:56] BanchoBot: Destrox finished playing (Score: 81190, PASSED).
+[01:18:56] BanchoBot: zZ CreatorGD Zz finished playing (Score: 303392, PASSED).
+[01:18:56] BanchoBot: The match has finished!
+[01:19:00] BCraftMG: !mp map 3183305 0
+[01:19:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3183305 tarolabo - eth ken
+[01:19:00] BanchoBot: Changed match mode to Osu
+[01:19:01] BCraftMG: !mp timer 120
+[01:19:01] BanchoBot: Countdown ends in 2 minutes
+[01:19:09] zZ_CreatorGD_Zz: how did i choke this hard
+[01:19:44] BanchoBot: All players are ready
+[01:19:46] BCraftMG: !mp settings
+[01:19:47] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q22), History: https://osu.ppy.sh/mp/109511058
+[01:19:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/3183305 tarolabo - eth ken
+[01:19:47] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:19:47] BanchoBot: Active mods: NoFail
+[01:19:47] BanchoBot: Players: 4
+[01:19:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16619872 lakemealy3      
+[01:19:47] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13962152 zZ CreatorGD Zz 
+[01:19:47] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15220967 Destrox         
+[01:19:47] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13836587 Medoo_          
+[01:19:48] BCraftMG: !mp start 5 glhf
+[01:19:49] BanchoBot: Countdown aborted
+[01:19:49] BanchoBot: Match starts in 5 seconds
+[01:19:49] BanchoBot: Queued the match to start in 5 seconds
+[01:19:51] BanchoBot: Match starts in 4 seconds
+[01:19:52] BanchoBot: Match starts in 3 seconds
+[01:19:53] BanchoBot: Good luck, have fun!
+[01:19:54] BanchoBot: The match has started!
+[01:22:21] BanchoBot: Destrox finished playing (Score: 229054, PASSED).
+[01:22:21] BanchoBot: Medoo_ finished playing (Score: 128655, PASSED).
+[01:22:21] BanchoBot: zZ CreatorGD Zz finished playing (Score: 513546, PASSED).
+[01:22:21] BanchoBot: lakemealy3 finished playing (Score: 343027, PASSED).
+[01:22:21] BanchoBot: The match has finished!
+[01:22:28] BCraftMG: !mp mods 9
+[01:22:29] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[01:22:30] BCraftMG: !mp map 4019527 0
+[01:22:30] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4019527 Lon - Yuru Fuwa Jukai Girl
+[01:22:30] BanchoBot: Changed match mode to Osu
+[01:22:31] BCraftMG: !mp timer 120
+[01:22:32] BanchoBot: Countdown ends in 2 minutes
+[01:23:23] BanchoBot: All players are ready
+[01:23:26] BCraftMG: !mp settings
+[01:23:27] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q22), History: https://osu.ppy.sh/mp/109511058
+[01:23:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/4019527 Lon - Yuru Fuwa Jukai Girl
+[01:23:27] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:23:27] BanchoBot: Active mods: NoFail, Hidden
+[01:23:27] BanchoBot: Players: 4
+[01:23:27] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16619872 lakemealy3      
+[01:23:27] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13962152 zZ CreatorGD Zz 
+[01:23:27] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15220967 Destrox         
+[01:23:27] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13836587 Medoo_          
+[01:23:27] BCraftMG: !mp start 5 glhf
+[01:23:28] BanchoBot: Countdown aborted
+[01:23:28] BanchoBot: Match starts in 5 seconds
+[01:23:28] BanchoBot: Queued the match to start in 5 seconds
+[01:23:29] BanchoBot: Match starts in 4 seconds
+[01:23:30] BanchoBot: Match starts in 3 seconds
+[01:23:31] BanchoBot: Good luck, have fun!
+[01:23:33] BanchoBot: The match has started!
+[01:26:58] BanchoBot: zZ CreatorGD Zz finished playing (Score: 454605, PASSED).
+[01:27:01] BanchoBot: Destrox finished playing (Score: 311461, PASSED).
+[01:27:03] BanchoBot: lakemealy3 finished playing (Score: 415037, PASSED).
+[01:27:03] BanchoBot: Medoo_ finished playing (Score: 294042, PASSED).
+[01:27:03] BanchoBot: The match has finished!
+[01:27:08] Destrox: i gotta restart the game
+[01:27:09] Destrox: 1 sec
+[01:27:13] Destrox: inv me again
+[01:27:14] BCraftMG: !mp map 3535284 0
+[01:27:15] BanchoBot: Destrox left the game.
+[01:27:15] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3535284 Sheena Ringo - Open Secret
+[01:27:15] BanchoBot: Changed match mode to Osu
+[01:27:30] BCraftMG: !mp timer 120
+[01:27:31] BanchoBot: Countdown ends in 2 minutes
+[01:27:45] BCraftMG: !mp invite #15220967
+[01:27:46] BanchoBot: Invited Destrox to the room
+[01:27:53] BanchoBot: Destrox joined in slot 3.
+[01:28:22] BanchoBot: All players are ready
+[01:28:24] BCraftMG: !mp settings
+[01:28:25] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q22), History: https://osu.ppy.sh/mp/109511058
+[01:28:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/3535284 Sheena Ringo - Open Secret
+[01:28:25] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:28:25] BanchoBot: Active mods: NoFail, Hidden
+[01:28:25] BanchoBot: Players: 4
+[01:28:25] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16619872 lakemealy3      
+[01:28:25] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13962152 zZ CreatorGD Zz 
+[01:28:25] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15220967 Destrox         
+[01:28:25] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13836587 Medoo_          
+[01:28:26] BCraftMG: !mp start 5 glhf
+[01:28:26] BanchoBot: Countdown aborted
+[01:28:26] BanchoBot: Match starts in 5 seconds
+[01:28:26] BanchoBot: Queued the match to start in 5 seconds
+[01:28:28] BanchoBot: Match starts in 4 seconds
+[01:28:29] BanchoBot: Match starts in 3 seconds
+[01:28:29] BanchoBot: Good luck, have fun!
+[01:28:32] BanchoBot: The match has started!
+[01:31:39] BanchoBot: Medoo_ finished playing (Score: 92273, PASSED).
+[01:31:41] BanchoBot: lakemealy3 finished playing (Score: 362878, PASSED).
+[01:31:41] BanchoBot: zZ CreatorGD Zz finished playing (Score: 595690, PASSED).
+[01:31:42] BanchoBot: Destrox finished playing (Score: 73896, PASSED).
+[01:31:42] BanchoBot: The match has finished!
+[01:31:45] BCraftMG: !mp map 3853099 0
+[01:31:47] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3853099 wowaka - Ura-Omote Lovers feat. Hatsune Miku
+[01:31:47] BanchoBot: Changed match mode to Osu
+[01:31:47] BCraftMG: !mp timer 120
+[01:31:48] BanchoBot: Countdown ends in 2 minutes
+[01:32:35] BanchoBot: All players are ready
+[01:32:41] BCraftMG: !mp settings
+[01:32:42] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q22), History: https://osu.ppy.sh/mp/109511058
+[01:32:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/3853099 wowaka - Ura-Omote Lovers feat. Hatsune Miku
+[01:32:42] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:32:42] BanchoBot: Active mods: NoFail, Hidden
+[01:32:42] BanchoBot: Players: 4
+[01:32:42] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16619872 lakemealy3      
+[01:32:42] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13962152 zZ CreatorGD Zz 
+[01:32:42] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15220967 Destrox         
+[01:32:42] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13836587 Medoo_          
+[01:32:42] BCraftMG: !mp start 5 glhf
+[01:32:43] BanchoBot: Countdown aborted
+[01:32:44] BanchoBot: Match starts in 5 seconds
+[01:32:44] BanchoBot: Queued the match to start in 5 seconds
+[01:32:45] BanchoBot: Match starts in 4 seconds
+[01:32:47] BanchoBot: Match starts in 3 seconds
+[01:32:48] BanchoBot: Good luck, have fun!
+[01:32:49] BanchoBot: The match has started!
+[01:35:59] BanchoBot: lakemealy3 finished playing (Score: 215595, PASSED).
+[01:35:59] BanchoBot: zZ CreatorGD Zz finished playing (Score: 612758, PASSED).
+[01:36:00] BanchoBot: Medoo_ finished playing (Score: 193327, PASSED).
+[01:36:00] BanchoBot: Destrox finished playing (Score: 72224, PASSED).
+[01:36:00] BanchoBot: The match has finished!
+[01:36:07] BCraftMG: !mp map 3742259 0
+[01:36:08] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3742259 UROBOROS - ZODIAC
+[01:36:08] BanchoBot: Changed match mode to Osu
+[01:36:10] BCraftMG: !mp mods 17
+[01:36:11] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[01:36:11] BCraftMG: !mp timer 120
+[01:36:12] BanchoBot: Countdown ends in 2 minutes
+[01:36:50] lakemealy3: nice score
+[01:36:53] zZ_CreatorGD_Zz: thanks
+[01:36:58] zZ_CreatorGD_Zz: i was sightreading
+[01:37:03] BanchoBot: All players are ready
+[01:37:03] lakemealy3: bruh
+[01:37:06] BCraftMG: !mp settings
+[01:37:07] lakemealy3: I went abyssal mode
+[01:37:07] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q22), History: https://osu.ppy.sh/mp/109511058
+[01:37:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/3742259 UROBOROS - ZODIAC
+[01:37:07] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:37:07] BanchoBot: Active mods: NoFail, HardRock
+[01:37:07] BanchoBot: Players: 4
+[01:37:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16619872 lakemealy3      
+[01:37:07] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13962152 zZ CreatorGD Zz 
+[01:37:07] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15220967 Destrox         
+[01:37:07] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13836587 Medoo_          
+[01:37:08] BCraftMG: !mp start 5 glhf
+[01:37:09] Medoo_: bruh
+[01:37:09] BanchoBot: Countdown aborted
+[01:37:09] BanchoBot: Match starts in 5 seconds
+[01:37:09] BanchoBot: Queued the match to start in 5 seconds
+[01:37:10] Destrox: glhf
+[01:37:10] BanchoBot: Match starts in 4 seconds
+[01:37:11] BanchoBot: Match starts in 3 seconds
+[01:37:12] BanchoBot: Good luck, have fun!
+[01:37:14] BanchoBot: The match has started!
+[01:40:55] BanchoBot: lakemealy3 finished playing (Score: 400805, PASSED).
+[01:40:55] BanchoBot: zZ CreatorGD Zz finished playing (Score: 846539, PASSED).
+[01:40:55] BanchoBot: Medoo_ finished playing (Score: 256206, PASSED).
+[01:40:57] BanchoBot: Destrox finished playing (Score: 183153, PASSED).
+[01:40:57] BanchoBot: The match has finished!
+[01:41:00] BCraftMG: !mp map 4016778 0
+[01:41:01] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4016778 onoken feat. Misaki - Gokuaku no Hana
+[01:41:01] BanchoBot: Changed match mode to Osu
+[01:41:01] BCraftMG: !mp timer 120
+[01:41:02] BanchoBot: Countdown ends in 2 minutes
+[01:41:52] BanchoBot: All players are ready
+[01:42:01] BCraftMG: !mp settings
+[01:42:02] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q22), History: https://osu.ppy.sh/mp/109511058
+[01:42:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/4016778 onoken feat. Misaki - Gokuaku no Hana
+[01:42:02] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:42:02] BanchoBot: Active mods: NoFail, HardRock
+[01:42:02] BanchoBot: Players: 4
+[01:42:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16619872 lakemealy3      
+[01:42:02] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13962152 zZ CreatorGD Zz 
+[01:42:02] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15220967 Destrox         
+[01:42:02] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13836587 Medoo_          
+[01:42:02] BCraftMG: !mp start 5 glhf
+[01:42:03] BanchoBot: Countdown ends in 1 minute
+[01:42:03] BanchoBot: Countdown aborted
+[01:42:03] BanchoBot: Match starts in 5 seconds
+[01:42:03] BanchoBot: Queued the match to start in 5 seconds
+[01:42:05] BanchoBot: Match starts in 4 seconds
+[01:42:05] BanchoBot: Match starts in 3 seconds
+[01:42:06] BanchoBot: Good luck, have fun!
+[01:42:07] zZ_CreatorGD_Zz: glhf
+[01:42:08] BanchoBot: The match has started!
+[01:44:16] BanchoBot: lakemealy3 finished playing (Score: 558567, PASSED).
+[01:44:16] BanchoBot: Medoo_ finished playing (Score: 264128, PASSED).
+[01:44:17] BanchoBot: zZ CreatorGD Zz finished playing (Score: 497038, PASSED).
+[01:44:18] BanchoBot: Destrox finished playing (Score: 156716, PASSED).
+[01:44:18] BanchoBot: The match has finished!
+[01:44:24] BCraftMG: !mp map 2590758 0
+[01:44:24] BCraftMG: !mp timer 120
+[01:44:24] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2590758 K/DA - THE BADDEST feat. (G)I-DLE, Bea Miller, Wolftyla
+[01:44:24] BanchoBot: Changed match mode to Osu
+[01:44:26] BanchoBot: Countdown ends in 2 minutes
+[01:44:31] Destrox: corn
+[01:44:32] Destrox: fr
+[01:44:36] lakemealy3: brb
+[01:44:36] BanchoBot: lakemealy3 left the game.
+[01:45:03] BanchoBot: lakemealy3 joined in slot 1.
+[01:45:11] BanchoBot: All players are ready
+[01:45:17] BCraftMG: !mp settings
+[01:45:18] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q22), History: https://osu.ppy.sh/mp/109511058
+[01:45:18] BanchoBot: Beatmap: https://osu.ppy.sh/b/2590758 K/DA - THE BADDEST feat. (G)I-DLE, Bea Miller, Wolftyla
+[01:45:18] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:45:18] BanchoBot: Active mods: NoFail, HardRock
+[01:45:18] BanchoBot: Players: 4
+[01:45:18] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16619872 lakemealy3      
+[01:45:18] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13962152 zZ CreatorGD Zz 
+[01:45:18] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15220967 Destrox         
+[01:45:18] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13836587 Medoo_          
+[01:45:19] BCraftMG: !mp start 5 glhf
+[01:45:20] BanchoBot: Countdown aborted
+[01:45:20] BanchoBot: Match starts in 5 seconds
+[01:45:20] BanchoBot: Queued the match to start in 5 seconds
+[01:45:21] BanchoBot: Match starts in 4 seconds
+[01:45:22] BanchoBot: Match starts in 3 seconds
+[01:45:23] BanchoBot: Good luck, have fun!
+[01:45:24] zZ_CreatorGD_Zz: glhf
+[01:45:25] BanchoBot: The match has started!
+[01:48:08] BanchoBot: zZ CreatorGD Zz finished playing (Score: 924373, PASSED).
+[01:48:08] BanchoBot: lakemealy3 finished playing (Score: 347655, PASSED).
+[01:48:09] BanchoBot: Medoo_ finished playing (Score: 271055, PASSED).
+[01:48:09] BanchoBot: Destrox finished playing (Score: 167192, PASSED).
+[01:48:09] BanchoBot: The match has finished!
+[01:48:13] BCraftMG: !mp map 3424169 0
+[01:48:14] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3424169 Vaundy - Hadaka no Yuusha
+[01:48:14] BanchoBot: Changed match mode to Osu
+[01:48:15] BCraftMG: !mp mods 65
+[01:48:16] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[01:48:16] BCraftMG: !mp timer 120
+[01:48:17] BanchoBot: Countdown ends in 2 minutes
+[01:48:51] BanchoBot: All players are ready
+[01:48:54] BCraftMG: !mp settings
+[01:48:55] Destrox: glhf
+[01:48:55] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q22), History: https://osu.ppy.sh/mp/109511058
+[01:48:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/3424169 Vaundy - Hadaka no Yuusha
+[01:48:55] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:48:55] BanchoBot: Active mods: NoFail, DoubleTime
+[01:48:55] BanchoBot: Players: 4
+[01:48:55] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16619872 lakemealy3      
+[01:48:55] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13962152 zZ CreatorGD Zz 
+[01:48:55] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15220967 Destrox         
+[01:48:55] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13836587 Medoo_          
+[01:48:56] BCraftMG: !mp start 5 glhf
+[01:48:56] BanchoBot: Countdown aborted
+[01:48:56] BanchoBot: Match starts in 5 seconds
+[01:48:56] BanchoBot: Queued the match to start in 5 seconds
+[01:48:58] BanchoBot: Match starts in 4 seconds
+[01:48:59] BanchoBot: Match starts in 3 seconds
+[01:49:00] BanchoBot: Good luck, have fun!
+[01:49:00] lakemealy3: glhf
+[01:49:01] BanchoBot: The match has started!
+[01:51:20] BanchoBot: zZ CreatorGD Zz finished playing (Score: 672163, PASSED).
+[01:51:21] BanchoBot: lakemealy3 finished playing (Score: 368527, PASSED).
+[01:51:21] BanchoBot: Destrox finished playing (Score: 318378, PASSED).
+[01:51:21] BanchoBot: Medoo_ finished playing (Score: 453141, PASSED).
+[01:51:21] BanchoBot: The match has finished!
+[01:51:28] BCraftMG: !mp map 3228276 0
+[01:51:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3228276 senya - Kimiiro Subliminal
+[01:51:29] BanchoBot: Changed match mode to Osu
+[01:52:08] BanchoBot: All players are ready
+[01:52:11] BCraftMG: !mp settings
+[01:52:13] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q22), History: https://osu.ppy.sh/mp/109511058
+[01:52:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/3228276 senya - Kimiiro Subliminal
+[01:52:13] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:52:13] BanchoBot: Active mods: NoFail, DoubleTime
+[01:52:13] BanchoBot: Players: 4
+[01:52:13] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16619872 lakemealy3      
+[01:52:13] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13962152 zZ CreatorGD Zz 
+[01:52:13] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15220967 Destrox         
+[01:52:13] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13836587 Medoo_          
+[01:52:13] BCraftMG: !mp start 5 glhf
+[01:52:13] BanchoBot: Match starts in 5 seconds
+[01:52:13] BanchoBot: Queued the match to start in 5 seconds
+[01:52:15] BanchoBot: Match starts in 4 seconds
+[01:52:16] BanchoBot: Match starts in 3 seconds
+[01:52:17] BanchoBot: Good luck, have fun!
+[01:52:20] BanchoBot: The match has started!
+[01:55:05] BanchoBot: Medoo_ finished playing (Score: 413275, PASSED).
+[01:55:05] BanchoBot: zZ CreatorGD Zz finished playing (Score: 553845, PASSED).
+[01:55:06] BanchoBot: lakemealy3 finished playing (Score: 520313, PASSED).
+[01:55:06] BanchoBot: Destrox finished playing (Score: 189643, PASSED).
+[01:55:06] BanchoBot: The match has finished!
+[01:55:16] BCraftMG: !mp map 2149694 0
+[01:55:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2149694 Enter Shikari - Wall
+[01:55:17] BanchoBot: Changed match mode to Osu
+[01:55:17] BCraftMG: !mp timer 120
+[01:55:18] BanchoBot: Countdown ends in 2 minutes
+[01:55:45] BanchoBot: All players are ready
+[01:55:47] lakemealy3: 50k incoming
+[01:55:48] BCraftMG: !mp settings
+[01:55:49] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q22), History: https://osu.ppy.sh/mp/109511058
+[01:55:49] BanchoBot: Beatmap: https://osu.ppy.sh/b/2149694 Enter Shikari - Wall
+[01:55:49] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:55:49] BanchoBot: Active mods: NoFail, DoubleTime
+[01:55:49] BanchoBot: Players: 4
+[01:55:49] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16619872 lakemealy3      
+[01:55:49] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13962152 zZ CreatorGD Zz 
+[01:55:49] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15220967 Destrox         
+[01:55:49] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/13836587 Medoo_          
+[01:55:50] BCraftMG: !mp start 5 glhf
+[01:55:51] BanchoBot: Countdown aborted
+[01:55:51] BanchoBot: Match starts in 5 seconds
+[01:55:51] BanchoBot: Queued the match to start in 5 seconds
+[01:55:53] BanchoBot: Match starts in 4 seconds
+[01:55:54] BanchoBot: Match starts in 3 seconds
+[01:55:54] BanchoBot: Good luck, have fun!
+[01:55:56] BanchoBot: The match has started!
+[01:59:02] BanchoBot: Medoo_ finished playing (Score: 418846, PASSED).
+[01:59:02] BanchoBot: lakemealy3 finished playing (Score: 212186, PASSED).
+[01:59:02] BanchoBot: Destrox finished playing (Score: 235173, PASSED).
+[01:59:02] BanchoBot: zZ CreatorGD Zz finished playing (Score: 1053806, PASSED).
+[01:59:02] BanchoBot: The match has finished!
+[01:59:07] lakemealy3: ggwp
+[01:59:12] zZ_CreatorGD_Zz: ggwp
+[01:59:13] lakemealy3: thx for reffing
+[01:59:15] Destrox: ggwp
+[01:59:18] Destrox: ty for ref
+[01:59:19] Destrox: o7
+[01:59:19] zZ_CreatorGD_Zz: i trolled half of the pool
+[01:59:19] BCraftMG: o//
+[01:59:20] BanchoBot: Destrox left the game.
+[01:59:22] BCraftMG: thx for playin
+[01:59:23] zZ_CreatorGD_Zz: ty for ref
+[01:59:24] zZ_CreatorGD_Zz: o/
+[01:59:29] lakemealy3: o/
+[01:59:29] BanchoBot: zZ CreatorGD Zz left the game.
+[01:59:29] BanchoBot: lakemealy3 left the game.
+[01:59:37] Medoo_: o/
+[01:59:38] BanchoBot: Medoo_ left the game.
+[02:00:30] BCraftMG: !mp close
+[02:00:31] BanchoBot: Closed the match

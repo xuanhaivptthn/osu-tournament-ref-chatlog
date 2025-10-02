@@ -1,0 +1,366 @@
+[23:57:36] Joined #mp_117430034
+[23:57:36] BCraftMG: !mp settings
+[23:57:37] BanchoBot: Room name: OFDC: (Qualifiers) vs (Match 33), History: https://osu.ppy.sh/mp/117430034
+[23:57:37] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[23:57:38] BanchoBot: Players: 0
+[23:57:44] BCraftMG: !mp invite #18815482
+[23:57:44] BanchoBot: Invited antoshika to the room
+[23:57:47] BCraftMG: !mp invite #10562731
+[23:57:48] BanchoBot: Invited AutoMode to the room
+[23:57:49] BCraftMG: !mp invite #26837820
+[23:57:49] BanchoBot: Invited Ban Fox to the room
+[23:57:50] BCraftMG: !mp invite #32755390
+[23:57:50] BanchoBot: Invited EXANIY to the room
+[23:57:52] BCraftMG: !mp invite #35893845
+[23:57:53] BanchoBot: Invited gonzei to the room
+[23:57:53] BCraftMG: !mp invite #12232752
+[23:57:54] BanchoBot: Invited Hargaz to the room
+[23:57:55] BCraftMG: !mp invite #18844163
+[23:57:56] BanchoBot: User not found
+[23:57:58] BCraftMG: !mp invite #18844163
+[23:58:00] BCraftMG: !mp invite #22275442
+[23:58:00] BanchoBot: Invited scii to the room
+[23:58:01] BCraftMG: !mp invite #7123185
+[23:58:02] BanchoBot: Invited Taphty to the room
+[23:58:03] BCraftMG: !mp invite #31101941
+[23:58:05] BanchoBot: Invited yuyu3150 to the room
+[23:58:13] BCraftMG: !mp set 0 3 16
+[23:58:13] BanchoBot: Changed match settings to 16 slots, HeadToHead, ScoreV2
+[23:58:26] BanchoBot: AutoMode joined in slot 1.
+[23:58:36] BCraftMG: !mp map 2096921 0
+[23:58:37] BanchoBot: Hargaz joined in slot 2.
+[23:58:37] BanchoBot: Taphty joined in slot 3.
+[23:58:37] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2096921 Utsu-P - Corona
+[23:58:37] BanchoBot: Changed match mode to Osu
+[23:58:38] BCraftMG: !mp mods 17
+[23:58:38] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[23:58:41] BanchoBot: yuyu3150 joined in slot 4.
+[23:58:46] BanchoBot: antoshika joined in slot 5.
+[23:58:51] Taphty: o/ ty
+[23:58:53] BanchoBot: gonzei joined in slot 6.
+[23:58:55] BanchoBot: EXANIY joined in slot 7.
+[23:58:58] EXANIY: HYOYOYO!
+[23:58:59] EXANIY: YOYOYYO!
+[23:58:59] antoshika: o/ all
+[23:59:01] EXANIY: YOYOYOYYO
+[23:59:04] EXANIY: o/
+[23:59:04] yuyu3150: yoyoyoyo
+[23:59:10] antoshika: я уже слышу какой там пиздец на сонге
+[23:59:14] EXANIY: Я СОСКУЧИЛСЯ УЖЕ РЕБЯТА
+[23:59:21] antoshika: XDDDD
+[23:59:39] BCraftMG: !mp invite #26837820
+[23:59:39] BanchoBot: Invited Ban Fox to the room
+[23:59:41] BCraftMG: !mp invite #18844163
+[23:59:43] BanchoBot: User not found
+[23:59:43] BCraftMG: !mp invite #22275442
+[23:59:44] BanchoBot: Ban Fox joined in slot 8.
+[23:59:44] BanchoBot: Invited scii to the room
+[23:59:50] Ban_Fox: haiii
+[23:59:55] BCraftMG: hi agane
+[00:00:02] EXANIY: зиг хайль евериван
+[00:00:03] antoshika: hi best host
+[00:00:17] BCraftMG: scii havent played am i right
+[00:00:20] BCraftMG: then we have enough players
+[00:00:24] BCraftMG: ready up :p
+[00:00:26] Hargaz: yup
+[00:00:28] BCraftMG: !mp settings
+[00:00:29] EXANIY: yea
+[00:00:29] BanchoBot: Room name: OFDC: (Qualifiers) vs (Match 33), History: https://osu.ppy.sh/mp/117430034
+[00:00:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/2096921 Utsu-P - Corona
+[00:00:29] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:00:29] BanchoBot: Active mods: NoFail, HardRock
+[00:00:29] BanchoBot: Players: 8
+[00:00:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10562731 AutoMode        
+[00:00:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12232752 Hargaz          
+[00:00:29] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/7123185 Taphty          
+[00:00:29] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/31101941 yuyu3150        
+[00:00:29] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/18815482 antoshika       
+[00:00:29] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/35893845 gonzei          
+[00:00:29] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/32755390 EXANIY          
+[00:00:29] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/26837820 Ban Fox         
+[00:00:31] EXANIY: я тут можно бан ворды писать же да?
+[00:00:33] EXANIY: ничо?
+[00:00:35] antoshika: yup
+[00:00:38] antoshika: ну можно
+[00:00:39] BanchoBot: All players are ready
+[00:00:40] antoshika: если репорт не накинут
+[00:00:41] BCraftMG: !mp settings
+[00:00:42] EXANIY: негр негр негр пидр пидр пидр
+[00:00:42] BanchoBot: Room name: OFDC: (Qualifiers) vs (Match 33), History: https://osu.ppy.sh/mp/117430034
+[00:00:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/2096921 Utsu-P - Corona
+[00:00:42] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:00:42] BanchoBot: Active mods: NoFail, HardRock
+[00:00:42] BanchoBot: Players: 8
+[00:00:42] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10562731 AutoMode        
+[00:00:42] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12232752 Hargaz          
+[00:00:42] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7123185 Taphty          
+[00:00:42] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/31101941 yuyu3150        
+[00:00:42] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/18815482 antoshika       
+[00:00:42] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/35893845 gonzei          
+[00:00:42] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/32755390 EXANIY          
+[00:00:42] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/26837820 Ban Fox         
+[00:00:44] BCraftMG: !mp start 5 glhf!
+[00:00:44] BanchoBot: Match starts in 5 seconds
+[00:00:44] BanchoBot: Queued the match to start in 5 seconds
+[00:00:45] EXANIY: а
+[00:00:45] BanchoBot: Match starts in 4 seconds
+[00:00:46] antoshika: а так поуй всем
+[00:00:46] BanchoBot: Match starts in 3 seconds
+[00:00:48] BanchoBot: Good luck, have fun!
+[00:00:49] yuyu3150: glhf!
+[00:00:50] BanchoBot: The match has started!
+[00:00:50] Taphty: gl hf
+[00:02:43] BanchoBot: EXANIY left the game.
+[00:04:50] BanchoBot: yuyu3150 finished playing (Score: 205464, PASSED).
+[00:04:50] BanchoBot: AutoMode finished playing (Score: 167837, PASSED).
+[00:04:50] BanchoBot: Ban Fox finished playing (Score: 72235, PASSED).
+[00:04:50] BanchoBot: antoshika finished playing (Score: 172340, PASSED).
+[00:04:52] BanchoBot: gonzei finished playing (Score: 31208, PASSED).
+[00:04:52] BanchoBot: Taphty finished playing (Score: 246814, PASSED).
+[00:04:52] BanchoBot: Hargaz finished playing (Score: 211125, PASSED).
+[00:04:52] BanchoBot: The match has finished!
+[00:05:00] BCraftMG: !mp map 55506 0
+[00:05:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/55506 ESTi - SIN THE LAST SCENE
+[00:05:00] BanchoBot: Changed match mode to Osu
+[00:05:21] BanchoBot: Ban Fox moved to slot 7
+[00:06:29] Ban_Fox: rip player
+[00:06:34] BCraftMG: !mp timer 90
+[00:06:35] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:06:37] BCraftMG: o well just ready up
+[00:06:56] Taphty: did someone leave ?
+[00:07:02] Ban_Fox: yep
+[00:07:05] BanchoBot: Countdown ends in 1 minute
+[00:07:06] Taphty: kk
+[00:07:07] BCraftMG: exaniy muted
+[00:07:35] BanchoBot: Countdown ends in 30 seconds
+[00:07:43] BanchoBot: All players are ready
+[00:07:47] BCraftMG: !mp settings
+[00:07:48] BanchoBot: Room name: OFDC: (Qualifiers) vs (Match 33), History: https://osu.ppy.sh/mp/117430034
+[00:07:48] BanchoBot: Beatmap: https://osu.ppy.sh/b/55506 ESTi - SIN THE LAST SCENE
+[00:07:48] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:07:48] BanchoBot: Active mods: NoFail, HardRock
+[00:07:48] BanchoBot: Players: 7
+[00:07:48] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10562731 AutoMode        
+[00:07:48] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12232752 Hargaz          
+[00:07:48] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7123185 Taphty          
+[00:07:48] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/31101941 yuyu3150        
+[00:07:48] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/18815482 antoshika       
+[00:07:48] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/35893845 gonzei          
+[00:07:48] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/26837820 Ban Fox         
+[00:07:51] BCraftMG: !mp start 5 glhf!
+[00:07:52] yuyu3150: glhf!
+[00:07:52] BanchoBot: Countdown aborted
+[00:07:52] BanchoBot: Match starts in 5 seconds
+[00:07:52] BanchoBot: Queued the match to start in 5 seconds
+[00:07:53] AutoMode: wait for him?
+[00:07:53] BanchoBot: Match starts in 4 seconds
+[00:07:54] BanchoBot: Match starts in 3 seconds
+[00:07:55] AutoMode: ok
+[00:07:55] BanchoBot: Good luck, have fun!
+[00:07:58] BanchoBot: The match has started!
+[00:08:02] BCraftMG: he will replay laturr
+[00:08:22] BCraftMG: !mp invite #32755390
+[00:08:23] BanchoBot: Invited EXANIY to the room
+[00:08:34] BanchoBot: EXANIY joined in slot 8.
+[00:08:40] EXANIY: НУ БЛЯ
+[00:08:41] EXANIY: ЫВАПЖЫВАЖЫАЖ
+[00:08:47] EXANIY: I PLAY IT SO GOOD
+[00:09:52] BanchoBot: Taphty finished playing (Score: 830314, PASSED).
+[00:09:52] BanchoBot: yuyu3150 finished playing (Score: 198296, PASSED).
+[00:09:52] BanchoBot: gonzei finished playing (Score: 62839, PASSED).
+[00:09:53] BanchoBot: AutoMode finished playing (Score: 242465, PASSED).
+[00:09:53] BanchoBot: Ban Fox finished playing (Score: 122613, PASSED).
+[00:09:53] BanchoBot: Hargaz finished playing (Score: 393187, PASSED).
+[00:09:53] BanchoBot: antoshika finished playing (Score: 105858, PASSED).
+[00:09:53] BanchoBot: The match has finished!
+[00:10:01] BCraftMG: !mp map 2843113 0
+[00:10:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2843113 Cardi B - Up
+[00:10:02] BanchoBot: Changed match mode to Osu
+[00:10:05] BCraftMG: !mp mods 65
+[00:10:06] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[00:10:10] antoshika: ВЕРНУЛАСЬ ЛЕГЕНДА
+[00:10:11] antoshika: ВАПЗЛВАПВАПВАХПЭ
+[00:10:14] yuyu3150: nice score
+[00:10:18] EXANIY: ПРИВЕТ РЕБЯТА Я СОСКУЧИЛСЯ
+[00:10:20] EXANIY: ПРИИВЕТ МЕЛКОХУЙ
+[00:10:24] EXANIY: он меня не понимает
+[00:10:24] EXANIY: ну ладно
+[00:10:40] antoshika: ЗАДЫХЗПДЫВАХПЗХАВПДХ
+[00:10:52] EXANIY: автомод слышь
+[00:10:55] EXANIY: а чо не разговариваешь
+[00:11:00] EXANIY: ты нас зрозумив?
+[00:11:16] BanchoBot: All players are ready
+[00:11:18] EXANIY: блдя я боюсь писатиь уже чета
+[00:11:19] BCraftMG: !mp settings
+[00:11:19] BanchoBot: Room name: OFDC: (Qualifiers) vs (Match 33), History: https://osu.ppy.sh/mp/117430034
+[00:11:19] BanchoBot: Beatmap: https://osu.ppy.sh/b/2843113 Cardi B - Up
+[00:11:19] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:11:19] BanchoBot: Active mods: NoFail, DoubleTime
+[00:11:19] BanchoBot: Players: 8
+[00:11:19] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10562731 AutoMode        
+[00:11:19] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12232752 Hargaz          
+[00:11:19] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7123185 Taphty          
+[00:11:19] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/31101941 yuyu3150        
+[00:11:19] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/18815482 antoshika       
+[00:11:19] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/35893845 gonzei          
+[00:11:19] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/26837820 Ban Fox         
+[00:11:19] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/32755390 EXANIY          
+[00:11:20] BCraftMG: !mp start 5 glhf!
+[00:11:22] BanchoBot: Match starts in 5 seconds
+[00:11:22] BanchoBot: Queued the match to start in 5 seconds
+[00:11:23] yuyu3150: glhf!
+[00:11:23] BanchoBot: Match starts in 4 seconds
+[00:11:24] BanchoBot: Match starts in 3 seconds
+[00:11:25] BanchoBot: Good luck, have fun!
+[00:11:25] antoshika: да похуй
+[00:11:26] AutoMode: правильно
+[00:11:27] BanchoBot: The match has started!
+[00:11:27] EXANIY: glhf
+[00:13:18] BanchoBot: AutoMode finished playing (Score: 172553, PASSED).
+[00:13:18] BanchoBot: gonzei finished playing (Score: 74667, PASSED).
+[00:13:18] BanchoBot: antoshika finished playing (Score: 137522, PASSED).
+[00:13:18] BanchoBot: EXANIY finished playing (Score: 293802, PASSED).
+[00:13:18] BanchoBot: Hargaz finished playing (Score: 191499, PASSED).
+[00:13:18] BanchoBot: Taphty finished playing (Score: 309960, PASSED).
+[00:13:19] BanchoBot: yuyu3150 finished playing (Score: 339982, PASSED).
+[00:13:19] BanchoBot: Ban Fox finished playing (Score: 106933, PASSED).
+[00:13:19] BanchoBot: The match has finished!
+[00:13:23] BCraftMG: !mp map 4915651 0
+[00:13:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4915651 Zektbach - Turii ~Panta rhei~
+[00:13:23] BanchoBot: Changed match mode to Osu
+[00:13:46] EXANIY: ААА ТЫ РАЗГОВАРИВАЕШГЬ
+[00:13:49] antoshika: АААААААААААААААААА
+[00:13:52] yuyu3150: last map!
+[00:13:52] antoshika: ЛЕГЕНДА
+[00:13:59] yuyu3150: gl everyone
+[00:14:04] EXANIY: gl
+[00:14:04] antoshika: gl
+[00:14:04] EXANIY: не давй бог
+[00:14:06] Ban_Fox: gl all yall got this!
+[00:14:06] EXANIY: меня не квальнут
+[00:14:08] EXANIY: я сука убьюсь
+[00:14:11] Ban_Fox: 8 way ss
+[00:14:11] BanchoBot: All players are ready
+[00:14:13] Ban_Fox: here we go
+[00:14:14] antoshika: меня тоже не квальнут
+[00:14:16] BCraftMG: !mp settings
+[00:14:17] BanchoBot: Room name: OFDC: (Qualifiers) vs (Match 33), History: https://osu.ppy.sh/mp/117430034
+[00:14:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/4915651 Zektbach - Turii ~Panta rhei~
+[00:14:17] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:14:17] BanchoBot: Active mods: NoFail, DoubleTime
+[00:14:17] BanchoBot: Players: 8
+[00:14:17] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10562731 AutoMode        
+[00:14:17] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12232752 Hargaz          
+[00:14:17] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7123185 Taphty          
+[00:14:17] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/31101941 yuyu3150        
+[00:14:17] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/18815482 antoshika       
+[00:14:17] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/35893845 gonzei          
+[00:14:17] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/26837820 Ban Fox         
+[00:14:17] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/32755390 EXANIY          
+[00:14:18] Taphty: sure
+[00:14:18] BCraftMG: !mp start 5 glhf!
+[00:14:19] antoshika: никто не пассайте
+[00:14:19] BanchoBot: Match starts in 5 seconds
+[00:14:19] BanchoBot: Queued the match to start in 5 seconds
+[00:14:20] BanchoBot: Match starts in 4 seconds
+[00:14:22] BanchoBot: Match starts in 3 seconds
+[00:14:23] antoshika: дайте мне квальнутся
+[00:14:23] BanchoBot: Good luck, have fun!
+[00:14:25] BanchoBot: The match has started!
+[00:15:58] BanchoBot: yuyu3150 finished playing (Score: 222667, PASSED).
+[00:15:58] BanchoBot: gonzei finished playing (Score: 79224, PASSED).
+[00:15:58] BanchoBot: Ban Fox finished playing (Score: 66729, PASSED).
+[00:15:58] BanchoBot: EXANIY finished playing (Score: 230736, PASSED).
+[00:15:58] BanchoBot: Taphty finished playing (Score: 380076, PASSED).
+[00:15:58] BanchoBot: antoshika finished playing (Score: 111701, PASSED).
+[00:15:58] BanchoBot: Hargaz finished playing (Score: 404441, PASSED).
+[00:15:59] BanchoBot: AutoMode finished playing (Score: 111701, PASSED).
+[00:15:59] BanchoBot: The match has finished!
+[00:16:04] EXANIY: блять
+[00:16:06] EXANIY: ну пиздец
+[00:16:08] BCraftMG: ggwp
+[00:16:09] Ban_Fox: ggs
+[00:16:09] antoshika: ну вот я и обосрался
+[00:16:10] yuyu3150: ggs!
+[00:16:11] EXANIY: я ее в 600к прошлый трай отыграл
+[00:16:11] Ban_Fox: wp all yall
+[00:16:11] antoshika: gg
+[00:16:11] EXANIY: ладно
+[00:16:13] BCraftMG: now for the hr replays
+[00:16:14] BCraftMG: !mp map 2096921 0
+[00:16:15] EXANIY: GGWP GUYS
+[00:16:15] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2096921 Utsu-P - Corona
+[00:16:15] BanchoBot: Changed match mode to Osu
+[00:16:15] BCraftMG: !mp mods 17
+[00:16:16] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[00:16:17] yuyu3150: ty for ref!
+[00:16:22] Taphty: ty for saving the lobby
+[00:16:26] Ban_Fox: thanks bcraftmg for the ref
+[00:16:28] antoshika: че мутуал дашь братан
+[00:16:29] Ban_Fox: <333
+[00:16:29] AutoMode: thx everyone
+[00:16:34] BanchoBot: AutoMode left the game.
+[00:16:34] EXANIY: ДАМДАМ
+[00:16:34] BCraftMG: :p
+[00:16:36] yuyu3150: yea
+[00:16:38] BanchoBot: Taphty left the game.
+[00:16:38] BanchoBot: Ban Fox left the game.
+[00:16:38] EXANIY: я тебе все дам антошик
+[00:16:39] yuyu3150: thx!
+[00:16:40] antoshika: ЗВЕРЬ
+[00:16:41] BanchoBot: Hargaz left the game.
+[00:16:41] BanchoBot: yuyu3150 left the game.
+[00:16:42] antoshika: ))
+[00:16:46] BanchoBot: antoshika left the game.
+[00:16:48] BanchoBot: EXANIY moved to slot 1
+[00:16:51] EXANIY: HI REFFF
+[00:16:54] BCraftMG: hi
+[00:16:55] gonzei: ggs
+[00:17:19] BanchoBot: gonzei left the game.
+[00:17:23] BCraftMG: !mp settings
+[00:17:24] BanchoBot: Room name: OFDC: (Qualifiers) vs (Match 33), History: https://osu.ppy.sh/mp/117430034
+[00:17:24] BanchoBot: Beatmap: https://osu.ppy.sh/b/2096921 Utsu-P - Corona
+[00:17:24] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:17:24] BanchoBot: Active mods: NoFail, HardRock
+[00:17:24] BanchoBot: Players: 1
+[00:17:24] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/32755390 EXANIY          
+[00:17:25] BCraftMG: !mp start 5 glhf!
+[00:17:26] BanchoBot: Match starts in 5 seconds
+[00:17:26] BanchoBot: Queued the match to start in 5 seconds
+[00:17:27] BanchoBot: Match starts in 4 seconds
+[00:17:29] BanchoBot: Match starts in 3 seconds
+[00:17:30] BanchoBot: Good luck, have fun!
+[00:17:32] BanchoBot: The match has started!
+[00:21:28] BanchoBot: EXANIY finished playing (Score: 149603, PASSED).
+[00:21:28] BanchoBot: The match has finished!
+[00:21:33] BCraftMG: !mp map 55506 0
+[00:21:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/55506 ESTi - SIN THE LAST SCENE
+[00:21:34] BanchoBot: Changed match mode to Osu
+[00:21:37] EXANIY: WHAT THE firetruck
+[00:21:42] EXANIY: U PLAY IT 500K
+[00:21:44] EXANIY: 1 serc
+[00:22:16] BanchoBot: All players are ready
+[00:22:21] BCraftMG: !mp settings
+[00:22:21] BanchoBot: Room name: OFDC: (Qualifiers) vs (Match 33), History: https://osu.ppy.sh/mp/117430034
+[00:22:21] BanchoBot: Beatmap: https://osu.ppy.sh/b/55506 ESTi - SIN THE LAST SCENE
+[00:22:21] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:22:21] BanchoBot: Active mods: NoFail, HardRock
+[00:22:21] BanchoBot: Players: 1
+[00:22:21] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/32755390 EXANIY          
+[00:22:24] BCraftMG: !mp start 5 glhf!
+[00:22:25] BanchoBot: Match starts in 5 seconds
+[00:22:25] BanchoBot: Queued the match to start in 5 seconds
+[00:22:26] BanchoBot: Match starts in 4 seconds
+[00:22:27] BanchoBot: Match starts in 3 seconds
+[00:22:28] BanchoBot: Good luck, have fun!
+[00:22:31] BanchoBot: The match has started!
+[00:24:23] BanchoBot: EXANIY finished playing (Score: 343466, PASSED).
+[00:24:23] BanchoBot: The match has finished!
+[00:24:28] BCraftMG: geegee
+[00:24:29] EXANIY: weeelllp
+[00:24:35] EXANIY: thanks refff
+[00:24:37] EXANIY: bb
+[00:24:43] EXANIY: gg
+[00:24:45] BanchoBot: EXANIY left the game.
+[00:24:48] BCraftMG: !mp close
+[00:24:48] BanchoBot: Closed the match

@@ -1,0 +1,668 @@
+[21:48:31] Joined #mp_101977199
+[21:48:31] BCraftMG: !mp settings
+[21:48:33] BanchoBot: Room name: STT3: (Ayame Fanclub) vs (circle break), History: https://osu.ppy.sh/mp/101977199
+[21:48:33] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[21:48:33] BanchoBot: Players: 0
+[21:49:20] BCraftMG: !mp set 2 3 12
+[21:49:20] BanchoBot: Changed match settings to 12 slots, TeamVs, ScoreV2
+[21:49:27] BCraftMG: !mp invite #7128826
+[21:49:27] BanchoBot: Invited -Ayame to the room
+[21:49:31] BCraftMG: !mp invite #9379821
+[21:49:32] BanchoBot: Invited Foxy to the room
+[21:50:06] BanchoBot: -Ayame joined in slot 1 for team blue.
+[21:50:13] BCraftMG: haiii
+[21:50:17] BCraftMG: !mp host -Ayame
+[21:50:19] BanchoBot: -Ayame became the host.
+[21:50:19] BanchoBot: Changed match host to -Ayame
+[21:50:21] BanchoBot: Beatmap changed to: celas - Azul (Remix) [Expert] (https://osu.ppy.sh/b/2918272)
+[21:50:25] BCraftMG: you can pick warm up while waiting
+[21:50:25] -Ayame: o/
+[21:52:38] -Ayame: prolly not gonna do warmups
+[21:52:44] -Ayame: little bit lacking on time :tf:
+[21:53:49] BCraftMG: :skull:
+[21:54:25] BanchoBot: Foxy joined in slot 2 for team red.
+[21:54:32] Foxy: hello
+[21:54:37] BCraftMG: Foxy you wanna do warm up?
+[21:54:38] -Ayame: o/
+[21:54:45] Foxy: sure
+[21:54:50] BCraftMG: !mp host Foxy
+[21:54:51] BanchoBot: Foxy became the host.
+[21:54:51] BanchoBot: Changed match host to Foxy
+[21:54:53] BanchoBot: OcklePod joined in slot 3 for team blue.
+[21:54:57] BCraftMG: Warmups must be between 4.0 and 7.0 stars and must be 3:30 in drain time or less after mods are applied. A warmup map cannot be from the current week's pool.
+[21:55:02] BanchoBot: Ariisu joined in slot 4 for team red.
+[21:55:15] BanchoBot: Host is changing map...
+[21:55:41] BanchoBot: -mira joined in slot 5 for team blue.
+[21:55:50] BanchoBot: -mira changed to Red
+[21:56:18] BanchoBot: Beatmap changed to: MDK - Press Start [FR1] (https://osu.ppy.sh/b/2504345)
+[21:57:12] BanchoBot: RAiMEi_BOTTliUM joined in slot 6 for team red.
+[21:57:29] BanchoBot: RAiMEi_BOTTliUM left the game.
+[21:57:42] BCraftMG: !mp settings
+[21:57:47] BanchoBot: Room name: STT3: (Ayame Fanclub) vs (circle break), History: https://osu.ppy.sh/mp/101977199
+[21:57:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/2504345 MDK - Press Start [FR1]
+[21:57:47] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:57:47] BanchoBot: Active mods: Freemod
+[21:57:47] BanchoBot: Players: 5
+[21:57:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7128826 -Ayame          [Team Blue / NoFail]
+[21:57:47] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/9379821 Foxy            [Host / Team Red ]
+[21:57:47] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/7094393 OcklePod        [Team Blue / Hidden]
+[21:57:47] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/4029900 Ariisu          [Team Red ]
+[21:57:47] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/7554753 -mira           [Team Red  / Easy]
+[21:57:57] BanchoBot: OcklePod changed to Red
+[21:58:09] BCraftMG: Ayame Fanclub will be red
+[21:58:14] BCraftMG: circle break will be blue
+[21:58:19] -Ayame: o ok
+[21:58:19] BanchoBot: Foxy changed to Blue
+[21:58:19] BanchoBot: -mira changed to Blue
+[21:58:21] BanchoBot: OcklePod changed to Blue
+[21:58:23] BanchoBot: -Ayame changed to Red
+[21:58:23] BanchoBot: -Ayame changed to Blue
+[21:58:23] BanchoBot: -Ayame changed to Red
+[21:58:23] BanchoBot: -Ayame changed to Blue
+[21:58:26] BanchoBot: -Ayame changed to Red
+[21:58:26] BanchoBot: -Ayame changed to Blue
+[21:58:28] BanchoBot: -Ayame changed to Red
+[21:58:51] BCraftMG: dont want to be rude but please ready and start the warm up :
+[21:58:52] OcklePod: ready now?
+[21:58:52] BCraftMG: c;
+[21:59:05] BanchoBot: All players are ready
+[21:59:07] BanchoBot: The match has started!
+[21:59:46] BanchoBot: Period joined in slot 6 for team red.
+[21:59:59] BanchoBot: Period left the game.
+[22:02:37] BanchoBot: OcklePod finished playing (Score: 116297, PASSED).
+[22:02:39] BanchoBot: -Ayame finished playing (Score: 106639, PASSED).
+[22:02:39] BanchoBot: Foxy finished playing (Score: 115636, PASSED).
+[22:02:39] BanchoBot: Ariisu finished playing (Score: 196578, PASSED).
+[22:02:39] BanchoBot: -mira finished playing (Score: 55618, PASSED).
+[22:02:39] BanchoBot: The match has finished!
+[22:02:42] BCraftMG: !mp clearhost
+[22:02:43] BanchoBot: Cleared match host
+[22:02:49] BCraftMG: alright lets start with !roll for protect order
+[22:02:56] -Ayame: !roll
+[22:02:56] BanchoBot: -Ayame rolls 29 point(s)
+[22:03:05] Foxy: !roll
+[22:03:05] BanchoBot: Foxy rolls 71 point(s)
+[22:03:15] BCraftMG: circle break, please choose your protect order
+[22:03:27] BanchoBot: Period joined in slot 6 for team red.
+[22:03:27] Foxy: second
+[22:03:58] BCraftMG: Ayame Fanclub, please choose your protected map
+[22:04:00] BCraftMG: !mp timer 120
+[22:04:01] -Ayame: HD2
+[22:04:01] BanchoBot: Countdown ends in 2 minutes
+[22:04:28] BCraftMG: circle break, your protect?
+[22:05:01] BanchoBot: Countdown ends in 1 minute
+[22:05:14] Foxy: DT2
+[22:05:23] BanchoBot: RAiMEi_BOTTliUM joined in slot 7 for team blue.
+[22:05:26] BCraftMG: !mp aborttimer
+[22:05:27] BanchoBot: Countdown aborted
+[22:05:40] BCraftMG: next is !roll for ban or pick order
+[22:05:48] BCraftMG: 2 captain please roll again
+[22:05:51] Foxy: !roll
+[22:05:51] BanchoBot: Foxy rolls 4 point(s)
+[22:05:57] -Ayame: !roll
+[22:05:57] BanchoBot: -Ayame rolls 43 point(s)
+[22:06:00] Foxy: hell yea
+[22:06:17] Ariisu: thumbsup
+[22:06:17] BCraftMG: Ayame Fanclub, please choose the pick or ban order
+[22:06:36] -Ayame: pick first
+[22:06:46] BCraftMG: circle break, please choose the ban order
+[22:06:51] Foxy: ban second
+[22:07:02] BCraftMG: Ayame Fanclub, your ban please
+[22:07:04] BCraftMG: !Mp timer 120
+[22:07:06] BanchoBot: Countdown ends in 2 minutes
+[22:07:17] -Ayame: DT1
+[22:07:36] BCraftMG: circle break. your ban?
+[22:07:39] BCraftMG: !mp timer 120
+[22:07:41] BanchoBot: Countdown aborted
+[22:07:41] BanchoBot: Countdown ends in 2 minutes
+[22:08:35] Foxy: HD1
+[22:08:41] BanchoBot: Countdown ends in 1 minute
+[22:08:53] BCraftMG: Ayame Fanclub | 0 - 0 | circle break // First Pick: Ayame Fanclub
+[22:08:54] BCraftMG: !mp timer 120
+[22:08:56] BanchoBot: Countdown aborted
+[22:08:56] BanchoBot: Countdown ends in 2 minutes
+[22:09:02] BanchoBot: Period left the game.
+[22:09:13] -Ayame: HD1
+[22:09:24] OcklePod: are u do have eyes?
+[22:09:28] -Ayame: o didnt see
+[22:09:33] OcklePod: lol
+[22:09:39] BCraftMG: :skull:
+[22:09:43] -Ayame: HD2
+[22:09:46] Foxy: ockle rage mode
+[22:09:56] BanchoBot: Countdown ends in 1 minute
+[22:10:03] BCraftMG: !mp mods HD NF
+[22:10:03] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[22:10:03] BanchoBot: Foxy left the game.
+[22:10:05] BCraftMG: !mp map 36134 0
+[22:10:05] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/36134 Cranky - Luvin' You
+[22:10:05] BanchoBot: Changed match mode to Osu
+[22:10:05] BCraftMG: !mp timer 120
+[22:10:05] BanchoBot: Countdown aborted
+[22:10:05] BanchoBot: Countdown ends in 2 minutes
+[22:10:11] BanchoBot: DVDthe1st joined in slot 2 for team red.
+[22:10:24] BanchoBot: m0fum0fu joined in slot 6 for team red.
+[22:10:26] BanchoBot: Ariisu left the game.
+[22:10:31] BanchoBot: m0fum0fu moved to slot 4
+[22:10:35] BanchoBot: JokThree joined in slot 6 for team red.
+[22:10:37] BanchoBot: OcklePod moved to slot 8
+[22:10:39] BanchoBot: m0fum0fu moved to slot 3
+[22:10:43] BanchoBot: OcklePod moved to slot 4
+[22:10:52] BanchoBot: -Ayame left the game.
+[22:10:56] BanchoBot: JokThree moved to slot 1
+[22:11:03] BanchoBot: RAiMEi_BOTTliUM moved to slot 6
+[22:11:05] BanchoBot: Countdown ends in 1 minute
+[22:11:18] BanchoBot: All players are ready
+[22:11:24] BCraftMG: !mp settings
+[22:11:24] BanchoBot: Room name: STT3: (Ayame Fanclub) vs (circle break), History: https://osu.ppy.sh/mp/101977199
+[22:11:24] BanchoBot: Beatmap: https://osu.ppy.sh/b/36134 Cranky - Luvin' You
+[22:11:24] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:11:24] BanchoBot: Active mods: NoFail, Hidden
+[22:11:24] BanchoBot: Players: 6
+[22:11:24] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7713152 JokThree        [Team Red ]
+[22:11:24] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/2138989 DVDthe1st       [Team Red ]
+[22:11:24] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/5143605 m0fum0fu        [Team Red ]
+[22:11:24] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7094393 OcklePod        [Team Blue]
+[22:11:24] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/7554753 -mira           [Team Blue]
+[22:11:24] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/18212788 RAiMEi_BOTTliUM [Team Blue]
+[22:11:27] BCraftMG: !mp start 10
+[22:11:29] BanchoBot: Countdown aborted
+[22:11:29] BanchoBot: Match starts in 10 seconds
+[22:11:29] BanchoBot: Queued the match to start in 10 seconds
+[22:11:33] m0fum0fu: gl
+[22:11:35] -mira: glhf
+[22:11:35] BanchoBot: Match starts in 5 seconds
+[22:11:35] BanchoBot: Match starts in 4 seconds
+[22:11:37] BanchoBot: Match starts in 3 seconds
+[22:11:37] BanchoBot: Good luck, have fun!
+[22:11:40] OcklePod: gl
+[22:11:40] BanchoBot: The match has started!
+[22:13:57] BanchoBot: OcklePod finished playing (Score: 680124, PASSED).
+[22:13:57] BanchoBot: -mira finished playing (Score: 552184, PASSED).
+[22:13:57] BanchoBot: m0fum0fu finished playing (Score: 397971, PASSED).
+[22:13:57] BanchoBot: JokThree finished playing (Score: 360774, PASSED).
+[22:13:57] BanchoBot: DVDthe1st finished playing (Score: 613949, PASSED).
+[22:13:57] BanchoBot: RAiMEi_BOTTliUM finished playing (Score: 640095, PASSED).
+[22:13:57] BanchoBot: The match has finished!
+[22:14:01] BCraftMG: Ayame Fanclub : 0 | 1 : circle break
+[22:14:03] BCraftMG: Next team to pick: circle break
+[22:14:05] BCraftMG: !mp timer 120
+[22:14:05] BanchoBot: Countdown ends in 2 minutes
+[22:14:10] BanchoBot: Foxy joined in slot 7 for team blue.
+[22:14:35] BanchoBot: Ariisu joined in slot 8 for team red.
+[22:14:46] BanchoBot: Period joined in slot 9 for team blue.
+[22:15:05] BanchoBot: Countdown ends in 1 minute
+[22:15:13] BanchoBot: -Ayame joined in slot 10 for team red.
+[22:15:22] BanchoBot: Ariisu moved to slot 12
+[22:15:32] Foxy: DT2
+[22:15:32] BanchoBot: JokThree left the game.
+[22:15:35] BanchoBot: Countdown ends in 30 seconds
+[22:15:37] BanchoBot: -mira left the game.
+[22:15:37] BanchoBot: RAiMEi_BOTTliUM left the game.
+[22:15:41] BanchoBot: Foxy moved to slot 5
+[22:15:41] BanchoBot: DVDthe1st left the game.
+[22:15:52] BCraftMG: !mp mods DT NF
+[22:15:52] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[22:15:54] BCraftMG: !mp map 2075562 0
+[22:15:54] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2075562 Wyvern's Spirit - Force Zero
+[22:15:54] BanchoBot: Changed match mode to Osu
+[22:15:56] BanchoBot: Countdown ends in 10 seconds
+[22:15:56] BCraftMG: !mp timer 120
+[22:15:56] BanchoBot: Countdown aborted
+[22:15:56] BanchoBot: Countdown ends in 2 minutes
+[22:15:56] BanchoBot: Period moved to slot 6
+[22:15:58] BanchoBot: Ariisu moved to slot 1
+[22:16:04] BanchoBot: -Ayame left the game.
+[22:16:28] BanchoBot: Kozakura- joined in slot 2 for team red.
+[22:16:56] BanchoBot: All players are ready
+[22:16:56] BanchoBot: Countdown ends in 1 minute
+[22:16:59] BCraftMG: !mp settings
+[22:17:00] BanchoBot: Room name: STT3: (Ayame Fanclub) vs (circle break), History: https://osu.ppy.sh/mp/101977199
+[22:17:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/2075562 Wyvern's Spirit - Force Zero
+[22:17:00] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:17:00] BanchoBot: Active mods: NoFail, DoubleTime
+[22:17:00] BanchoBot: Players: 6
+[22:17:00] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/4029900 Ariisu          [Team Red ]
+[22:17:00] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4473506 Kozakura-       [Team Red ]
+[22:17:00] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/5143605 m0fum0fu        [Team Red ]
+[22:17:00] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7094393 OcklePod        [Team Blue]
+[22:17:00] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/9379821 Foxy            [Team Blue]
+[22:17:00] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/2916205 Period          [Team Blue]
+[22:17:02] OcklePod: glhf
+[22:17:02] Foxy: Glhf~
+[22:17:03] BCraftMG: !mp start 10
+[22:17:04] BanchoBot: Countdown aborted
+[22:17:04] BanchoBot: Match starts in 10 seconds
+[22:17:04] BanchoBot: Queued the match to start in 10 seconds
+[22:17:07] m0fum0fu: glgl
+[22:17:08] Period: glgl
+[22:17:10] BanchoBot: Match starts in 5 seconds
+[22:17:10] BanchoBot: Match starts in 4 seconds
+[22:17:13] BanchoBot: Match starts in 3 seconds
+[22:17:13] BanchoBot: Good luck, have fun!
+[22:17:15] BanchoBot: The match has started!
+[22:20:21] BanchoBot: Kozakura- finished playing (Score: 592101, PASSED).
+[22:20:21] BanchoBot: m0fum0fu finished playing (Score: 612930, PASSED).
+[22:20:21] BanchoBot: OcklePod finished playing (Score: 241298, PASSED).
+[22:20:21] BanchoBot: Period finished playing (Score: 329323, PASSED).
+[22:20:21] BanchoBot: Ariisu finished playing (Score: 668926, PASSED).
+[22:20:21] BanchoBot: Foxy finished playing (Score: 357123, PASSED).
+[22:20:21] BanchoBot: The match has finished!
+[22:20:25] BCraftMG: Ayame Fanclub : 1 | 1 : circle break
+[22:20:27] BCraftMG: Next team to pick: Ayame Fanclub
+[22:20:29] BCraftMG: !mp timer 120
+[22:20:29] BanchoBot: Countdown ends in 2 minutes
+[22:20:37] BCraftMG: i see
+[22:20:51] Foxy: third week in a row where protects do nothing and are just break points
+[22:21:00] Ariisu: i think we need to swap captains
+[22:21:10] m0fum0fu: this is the first time
+[22:21:14] m0fum0fu: we actually picked our protect
+[22:21:17] Foxy: apparantly
+[22:21:29] BanchoBot: Countdown ends in 1 minute
+[22:21:59] BanchoBot: Countdown ends in 30 seconds
+[22:22:07] m0fum0fu: oo
+[22:22:07] Ariisu: fm2
+[22:22:07] BanchoBot: DVDthe1st joined in slot 7 for team blue.
+[22:22:09] m0fum0fu: our cap is afk
+[22:22:09] m0fum0fu: sry
+[22:22:12] BanchoBot: Kozakura- left the game.
+[22:22:14] BanchoBot: DVDthe1st left the game.
+[22:22:20] BanchoBot: Countdown ends in 10 seconds
+[22:22:20] Ariisu: we pick fm2
+[22:22:22] BanchoBot: -mira joined in slot 2 for team red.
+[22:22:24] BanchoBot: Countdown ends in 5 seconds
+[22:22:24] BanchoBot: Countdown ends in 4 seconds
+[22:22:26] BanchoBot: Countdown ends in 3 seconds
+[22:22:26] BanchoBot: Countdown ends in 2 seconds
+[22:22:26] BanchoBot: -mira moved to slot 7
+[22:22:29] BanchoBot: Countdown ends in 1 second
+[22:22:29] BCraftMG: !mp mods Freemod NF
+[22:22:29] BanchoBot: Disabled all mods, enabled FreeMod
+[22:22:29] BanchoBot: -mira changed to Blue
+[22:22:29] BanchoBot: Countdown finished
+[22:22:31] BCraftMG: !mp map 46827 0
+[22:22:31] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/46827 KOTOKO - Wing my Way
+[22:22:31] BanchoBot: Changed match mode to Osu
+[22:22:33] BCraftMG: !mp timer 120
+[22:22:33] BanchoBot: Countdown ends in 2 minutes
+[22:22:39] BanchoBot: Foxy moved to slot 12
+[22:22:41] BanchoBot: Period moved to slot 5
+[22:22:44] BanchoBot: -mira moved to slot 6
+[22:22:55] BanchoBot: DVDthe1st joined in slot 2 for team red.
+[22:23:01] BanchoBot: Ariisu left the game.
+[22:23:03] BanchoBot: Foxy left the game.
+[22:23:07] BanchoBot: JokThree joined in slot 1 for team blue.
+[22:23:12] BanchoBot: Ariisu joined in slot 7 for team blue.
+[22:23:14] BanchoBot: m0fum0fu left the game.
+[22:23:18] BanchoBot: Ariisu moved to slot 3
+[22:23:18] BanchoBot: Ariisu changed to Red
+[22:23:29] BanchoBot: JokThree changed to Red
+[22:23:33] BanchoBot: Countdown ends in 1 minute
+[22:23:54] BanchoBot: All players are ready
+[22:23:59] BCraftMG: !mp settings
+[22:24:01] BanchoBot: Room name: STT3: (Ayame Fanclub) vs (circle break), History: https://osu.ppy.sh/mp/101977199
+[22:24:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/46827 KOTOKO - Wing my Way
+[22:24:01] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:24:01] BanchoBot: Active mods: Freemod
+[22:24:01] BanchoBot: Players: 6
+[22:24:01] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7713152 JokThree        [Team Red  / NoFail]
+[22:24:01] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/2138989 DVDthe1st       [Team Red  / NoFail, Easy, Hidden]
+[22:24:01] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4029900 Ariisu          [Team Red  / NoFail, HardRock]
+[22:24:01] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7094393 OcklePod        [Team Blue / NoFail, Hidden]
+[22:24:01] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/2916205 Period          [Team Blue / NoFail, HardRock]
+[22:24:01] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/7554753 -mira           [Team Blue / NoFail, Easy]
+[22:24:03] BanchoBot: Countdown ends in 30 seconds
+[22:24:11] BCraftMG: !mp start 10
+[22:24:11] BanchoBot: Countdown aborted
+[22:24:11] BanchoBot: Match starts in 10 seconds
+[22:24:11] BanchoBot: Queued the match to start in 10 seconds
+[22:24:16] -mira: glhf
+[22:24:18] BanchoBot: Match starts in 5 seconds
+[22:24:18] BanchoBot: Match starts in 4 seconds
+[22:24:20] BanchoBot: Match starts in 3 seconds
+[22:24:20] BanchoBot: Good luck, have fun!
+[22:24:22] BanchoBot: The match has started!
+[22:26:33] BanchoBot: -mira finished playing (Score: 330318, PASSED).
+[22:26:33] BanchoBot: Ariisu finished playing (Score: 921930, PASSED).
+[22:26:33] BanchoBot: Period finished playing (Score: 745910, PASSED).
+[22:26:33] BanchoBot: OcklePod finished playing (Score: 581713, PASSED).
+[22:26:33] BanchoBot: DVDthe1st finished playing (Score: 196890, PASSED).
+[22:26:33] BanchoBot: JokThree finished playing (Score: 521313, PASSED).
+[22:26:33] BanchoBot: The match has finished!
+[22:26:54] BCraftMG: ill need some time to count score
+[22:27:02] BCraftMG: in the meantime circle break please pick
+[22:27:05] BCraftMG: !mp timer 120
+[22:27:07] BanchoBot: Countdown ends in 2 minutes
+[22:27:26] BanchoBot: Foxy joined in slot 7 for team blue.
+[22:28:09] BanchoBot: Countdown ends in 1 minute
+[22:28:30] BCraftMG: Ayame Fanclub | 1 - 2 | circle break // Next Pick: circle break
+[22:28:39] BanchoBot: Countdown ends in 30 seconds
+[22:28:45] Foxy: EZ1
+[22:28:48] BCraftMG: blue won by 117879
+[22:28:50] BanchoBot: Period left the game.
+[22:28:54] BanchoBot: Ariisu left the game.
+[22:28:58] BanchoBot: Countdown ends in 10 seconds
+[22:28:58] BCraftMG: !mp mods NoMod
+[22:28:58] BanchoBot: Disabled all mods, disabled FreeMod
+[22:29:00] BCraftMG: !mp map 3302600 0
+[22:29:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3302600 rejection - Aimai Attitude (feat. Nakamura Sanso)
+[22:29:00] BanchoBot: Changed match mode to Osu
+[22:29:02] BCraftMG: !mp timer 120
+[22:29:02] BanchoBot: Countdown aborted
+[22:29:02] BanchoBot: Countdown ends in 2 minutes
+[22:29:04] BCraftMG: !mp mods EZ
+[22:29:04] BanchoBot: Enabled Easy, disabled FreeMod
+[22:29:06] BanchoBot: Foxy left the game.
+[22:29:09] BCraftMG: !mp mods EZ NF
+[22:29:09] BanchoBot: Enabled NoFail, Easy, disabled FreeMod
+[22:29:11] BanchoBot: DVDthe1st moved to slot 3
+[22:29:48] BanchoBot: m0fum0fu joined in slot 2 for team red.
+[22:30:03] BanchoBot: Countdown ends in 1 minute
+[22:30:09] BanchoBot: RAiMEi_BOTTliUM joined in slot 5 for team blue.
+[22:30:13] OcklePod: glhf
+[22:30:15] BanchoBot: All players are ready
+[22:30:18] -mira: glhf
+[22:30:18] BCraftMG: !mp settings
+[22:30:20] BanchoBot: Room name: STT3: (Ayame Fanclub) vs (circle break), History: https://osu.ppy.sh/mp/101977199
+[22:30:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/3302600 rejection - Aimai Attitude (feat. Nakamura Sanso)
+[22:30:20] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:30:20] BanchoBot: Active mods: NoFail, Easy
+[22:30:20] BanchoBot: Players: 6
+[22:30:20] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7713152 JokThree        [Team Red ]
+[22:30:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5143605 m0fum0fu        [Team Red ]
+[22:30:20] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/2138989 DVDthe1st       [Team Red ]
+[22:30:20] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7094393 OcklePod        [Team Blue]
+[22:30:20] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/18212788 RAiMEi_BOTTliUM [Team Blue]
+[22:30:20] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/7554753 -mira           [Team Blue]
+[22:30:21] BCraftMG: !mp start 10
+[22:30:22] BanchoBot: Countdown aborted
+[22:30:22] BanchoBot: Match starts in 10 seconds
+[22:30:22] BanchoBot: Queued the match to start in 10 seconds
+[22:30:26] m0fum0fu: gl
+[22:30:29] BanchoBot: Match starts in 5 seconds
+[22:30:29] BanchoBot: Match starts in 4 seconds
+[22:30:30] BanchoBot: Match starts in 3 seconds
+[22:30:30] BanchoBot: Good luck, have fun!
+[22:30:33] BanchoBot: The match has started!
+[22:35:05] BanchoBot: OcklePod finished playing (Score: 456030, PASSED).
+[22:35:05] BanchoBot: RAiMEi_BOTTliUM finished playing (Score: 448181, PASSED).
+[22:35:05] BanchoBot: JokThree finished playing (Score: 177917, PASSED).
+[22:35:05] BanchoBot: DVDthe1st finished playing (Score: 152973, PASSED).
+[22:35:05] BanchoBot: -mira finished playing (Score: 491834, PASSED).
+[22:35:07] BanchoBot: m0fum0fu finished playing (Score: 231018, PASSED).
+[22:35:07] BanchoBot: The match has finished!
+[22:35:09] BCraftMG: Ayame Fanclub : 1 | 3 : circle break
+[22:35:11] BCraftMG: Next team to pick: Ayame Fanclub
+[22:35:13] BCraftMG: !mp timer 120
+[22:35:13] BanchoBot: Countdown ends in 2 minutes
+[22:35:20] m0fum0fu: wat
+[22:35:20] BanchoBot: Foxy joined in slot 7 for team blue.
+[22:35:28] OcklePod: wat wat
+[22:35:35] DVDthe1st: wat
+[22:35:37] BanchoBot: Ariisu joined in slot 8 for team red.
+[22:35:41] BanchoBot: DVDthe1st left the game.
+[22:35:50] BanchoBot: m0fum0fu left the game.
+[22:35:54] JokThree: wat
+[22:35:56] BanchoBot: Ariisu left the game.
+[22:36:14] BanchoBot: -Ayame joined in slot 2 for team red.
+[22:36:14] BanchoBot: Countdown ends in 1 minute
+[22:36:18] BanchoBot: Period joined in slot 3 for team blue.
+[22:36:20] BanchoBot: Kozakura- joined in slot 8 for team red.
+[22:36:20] BanchoBot: Period moved to slot 12
+[22:36:24] BanchoBot: Period left the game.
+[22:36:28] BanchoBot: Kozakura- moved to slot 3
+[22:36:35] -Ayame: HR1
+[22:36:35] JokThree: hr1
+[22:36:39] BanchoBot: RAiMEi_BOTTliUM left the game.
+[22:36:43] BanchoBot: -mira left the game.
+[22:36:43] BanchoBot: Countdown ends in 30 seconds
+[22:36:50] BanchoBot: JokThree left the game.
+[22:37:00] BanchoBot: Period joined in slot 1 for team blue.
+[22:37:02] BanchoBot: Countdown ends in 10 seconds
+[22:37:06] BanchoBot: Foxy moved to slot 6
+[22:37:09] BanchoBot: Countdown ends in 5 seconds
+[22:37:09] BanchoBot: Countdown ends in 4 seconds
+[22:37:11] BanchoBot: Countdown ends in 3 seconds
+[22:37:11] BanchoBot: Countdown ends in 2 seconds
+[22:37:13] BanchoBot: Countdown ends in 1 second
+[22:37:13] BanchoBot: Countdown finished
+[22:37:21] BanchoBot: Period moved to slot 12
+[22:37:24] BanchoBot: Period moved to slot 5
+[22:37:25] BCraftMG: o sorry
+[22:37:30] BanchoBot: JokThree joined in slot 1 for team blue.
+[22:37:32] BCraftMG: !mp mods HR NF
+[22:37:32] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[22:37:32] -Ayame: :Tf:
+[22:37:34] BCraftMG: !mp map 3238727 0
+[22:37:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3238727 S3RL x LIDA - My Girlfriend is a Raver
+[22:37:34] BanchoBot: Changed match mode to Osu
+[22:37:34] BCraftMG: !mp timer 120
+[22:37:34] BanchoBot: Countdown ends in 2 minutes
+[22:37:41] BanchoBot: JokThree changed to Red
+[22:37:45] BCraftMG: almost a minute there
+[22:37:54] BCraftMG: i was getting some water
+[22:37:58] BanchoBot: All players are ready
+[22:38:01] BCraftMG: !mp settings
+[22:38:02] BanchoBot: Room name: STT3: (Ayame Fanclub) vs (circle break), History: https://osu.ppy.sh/mp/101977199
+[22:38:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/3238727 S3RL x LIDA - My Girlfriend is a Raver
+[22:38:02] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:38:02] BanchoBot: Active mods: NoFail, HardRock
+[22:38:02] BanchoBot: Players: 6
+[22:38:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7713152 JokThree        [Team Red ]
+[22:38:02] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7128826 -Ayame          [Team Red ]
+[22:38:02] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4473506 Kozakura-       [Team Red ]
+[22:38:02] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7094393 OcklePod        [Team Blue]
+[22:38:02] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/2916205 Period          [Team Blue]
+[22:38:02] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/9379821 Foxy            [Team Blue]
+[22:38:04] BCraftMG: !mp start 10
+[22:38:06] BanchoBot: Countdown aborted
+[22:38:06] BanchoBot: Match starts in 10 seconds
+[22:38:06] BanchoBot: Queued the match to start in 10 seconds
+[22:38:08] Foxy: Glhf~
+[22:38:13] Period: glgl
+[22:38:13] BanchoBot: Match starts in 5 seconds
+[22:38:13] BanchoBot: Match starts in 4 seconds
+[22:38:13] -Ayame: glg
+[22:38:13] OcklePod: glhf
+[22:38:15] BanchoBot: Match starts in 3 seconds
+[22:38:15] BanchoBot: Good luck, have fun!
+[22:38:17] BanchoBot: The match has started!
+[22:41:44] BanchoBot: OcklePod finished playing (Score: 131132, PASSED).
+[22:41:44] BanchoBot: Kozakura- finished playing (Score: 530433, PASSED).
+[22:41:44] BanchoBot: Foxy finished playing (Score: 234938, PASSED).
+[22:41:44] BanchoBot: Period finished playing (Score: 515366, PASSED).
+[22:41:49] BanchoBot: -Ayame finished playing (Score: 390439, PASSED).
+[22:41:53] BanchoBot: JokThree finished playing (Score: 955194, PASSED).
+[22:41:53] BanchoBot: The match has finished!
+[22:41:55] BCraftMG: Ayame Fanclub : 2 | 3 : circle break
+[22:41:57] BCraftMG: Next team to pick: circle break
+[22:41:59] BCraftMG: !mp timer 120
+[22:41:59] BanchoBot: Countdown ends in 2 minutes
+[22:42:37] Foxy: HT
+[22:42:44] BanchoBot: Ariisu joined in slot 7 for team blue.
+[22:42:50] BanchoBot: Kozakura- left the game.
+[22:42:59] BanchoBot: Countdown ends in 1 minute
+[22:43:01] BanchoBot: -Ayame left the game.
+[22:43:07] BanchoBot: m0fum0fu joined in slot 2 for team red.
+[22:43:09] BCraftMG: !mp mods NoMod
+[22:43:09] BanchoBot: Disabled all mods, disabled FreeMod
+[22:43:12] BCraftMG: !mp map 2218881 0
+[22:43:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2218881 Blueberry Sunshine - Act My Age
+[22:43:12] BanchoBot: Changed match mode to Osu
+[22:43:13] BanchoBot: -mira joined in slot 3 for team blue.
+[22:43:13] BCraftMG: !mp timer 120
+[22:43:13] BanchoBot: Countdown aborted
+[22:43:13] BanchoBot: Countdown ends in 2 minutes
+[22:43:16] BCraftMG: !mp mods HT NF
+[22:43:16] BanchoBot: Enabled NoFail, HalfTime, disabled FreeMod
+[22:43:16] BanchoBot: Ariisu left the game.
+[22:43:18] BanchoBot: -mira moved to slot 7
+[22:43:22] BanchoBot: DVDthe1st joined in slot 3 for team blue.
+[22:43:26] BanchoBot: DVDthe1st changed to Red
+[22:43:28] BanchoBot: Foxy moved to slot 10
+[22:43:33] BanchoBot: -mira moved to slot 6
+[22:43:33] BanchoBot: Foxy left the game.
+[22:44:00] BanchoBot: All players are ready
+[22:44:02] BCraftMG: !mp settings
+[22:44:03] BanchoBot: Room name: STT3: (Ayame Fanclub) vs (circle break), History: https://osu.ppy.sh/mp/101977199
+[22:44:03] BanchoBot: Beatmap: https://osu.ppy.sh/b/2218881 Blueberry Sunshine - Act My Age
+[22:44:03] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:44:03] BanchoBot: Active mods: NoFail, HalfTime
+[22:44:03] BanchoBot: Players: 6
+[22:44:03] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7713152 JokThree        [Team Red ]
+[22:44:03] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5143605 m0fum0fu        [Team Red ]
+[22:44:03] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/2138989 DVDthe1st       [Team Red ]
+[22:44:03] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7094393 OcklePod        [Team Blue]
+[22:44:03] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/2916205 Period          [Team Blue]
+[22:44:03] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/7554753 -mira           [Team Blue]
+[22:44:05] BCraftMG: !mp start 10
+[22:44:07] m0fum0fu: glglgl
+[22:44:07] BanchoBot: Countdown aborted
+[22:44:07] BanchoBot: Match starts in 10 seconds
+[22:44:07] BanchoBot: Queued the match to start in 10 seconds
+[22:44:11] -mira: glhf
+[22:44:13] BanchoBot: Match starts in 5 seconds
+[22:44:13] BanchoBot: Match starts in 4 seconds
+[22:44:15] BanchoBot: Match starts in 3 seconds
+[22:44:15] BanchoBot: Good luck, have fun!
+[22:44:17] BanchoBot: The match has started!
+[22:44:19] OcklePod: gglhf
+[22:47:51] BanchoBot: JokThree finished playing (Score: 125629, PASSED).
+[22:47:51] BanchoBot: OcklePod finished playing (Score: 97663, PASSED).
+[22:47:51] BanchoBot: DVDthe1st finished playing (Score: 145672, PASSED).
+[22:47:51] BanchoBot: -mira finished playing (Score: 164149, PASSED).
+[22:47:51] BanchoBot: Period finished playing (Score: 88657, PASSED).
+[22:47:53] BanchoBot: m0fum0fu finished playing (Score: 120674, PASSED).
+[22:47:53] BanchoBot: The match has finished!
+[22:47:57] BCraftMG: Ayame Fanclub : 3 | 3 : circle break
+[22:47:59] BCraftMG: Next team to pick: Ayame Fanclub
+[22:48:01] BCraftMG: !mp timer 120
+[22:48:01] BanchoBot: Countdown ends in 2 minutes
+[22:48:10] BanchoBot: Foxy joined in slot 7 for team blue.
+[22:48:20] BanchoBot: -Ayame joined in slot 8 for team red.
+[22:48:52] BanchoBot: m0fum0fu left the game.
+[22:48:57] BanchoBot: JokThree left the game.
+[22:48:59] BanchoBot: DVDthe1st moved to slot 1
+[22:49:01] -Ayame: HR2 pick
+[22:49:01] BanchoBot: Countdown ends in 1 minute
+[22:49:07] OcklePod: cant double pick right?
+[22:49:12] BanchoBot: DVDthe1st left the game.
+[22:49:18] BanchoBot: Ariisu joined in slot 1 for team blue.
+[22:49:22] BCraftMG: no picks restriction
+[22:49:26] BCraftMG: !mp mods HR NF
+[22:49:26] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[22:49:29] BCraftMG: !mp map 258384 0
+[22:49:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/258384 An - Encryption
+[22:49:29] BanchoBot: Changed match mode to Osu
+[22:49:31] OcklePod: oh
+[22:49:31] BCraftMG: !mp timer 120
+[22:49:31] BanchoBot: Countdown aborted
+[22:49:31] BanchoBot: Countdown ends in 2 minutes
+[22:49:31] BanchoBot: -mira left the game.
+[22:49:42] BanchoBot: -Ayame moved to slot 2
+[22:49:48] BanchoBot: Foxy moved to slot 6
+[22:50:03] BanchoBot: Ariisu changed to Red
+[22:50:07] BanchoBot: Kozakura- joined in slot 3 for team blue.
+[22:50:12] BanchoBot: Kozakura- changed to Red
+[22:50:15] BCraftMG: !mp size 8
+[22:50:16] BanchoBot: Changed match to size 8
+[22:50:31] BanchoBot: Countdown ends in 1 minute
+[22:50:33] BanchoBot: All players are ready
+[22:50:36] BCraftMG: !mp settings
+[22:50:37] BanchoBot: Room name: STT3: (Ayame Fanclub) vs (circle break), History: https://osu.ppy.sh/mp/101977199
+[22:50:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/258384 An - Encryption
+[22:50:37] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:50:37] BanchoBot: Active mods: NoFail, HardRock
+[22:50:37] BanchoBot: Players: 6
+[22:50:37] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/4029900 Ariisu          [Team Red ]
+[22:50:37] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7128826 -Ayame          [Team Red ]
+[22:50:37] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4473506 Kozakura-       [Team Red ]
+[22:50:37] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7094393 OcklePod        [Team Blue]
+[22:50:37] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/2916205 Period          [Team Blue]
+[22:50:37] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/9379821 Foxy            [Team Blue]
+[22:50:40] BCraftMG: !mp start 10
+[22:50:42] Foxy: Glhf~
+[22:50:42] BanchoBot: Countdown aborted
+[22:50:42] BanchoBot: Match starts in 10 seconds
+[22:50:42] BanchoBot: Queued the match to start in 10 seconds
+[22:50:46] OcklePod: glhf
+[22:50:48] BanchoBot: Match starts in 5 seconds
+[22:50:48] BanchoBot: Match starts in 4 seconds
+[22:50:50] BanchoBot: Match starts in 3 seconds
+[22:50:50] Period: glhf
+[22:50:50] BanchoBot: Good luck, have fun!
+[22:50:52] BanchoBot: The match has started!
+[22:53:00] BanchoBot: Foxy finished playing (Score: 469464, PASSED).
+[22:53:00] BanchoBot: OcklePod finished playing (Score: 321322, PASSED).
+[22:53:00] BanchoBot: Kozakura- finished playing (Score: 966655, PASSED).
+[22:53:00] BanchoBot: Ariisu finished playing (Score: 650044, PASSED).
+[22:53:02] BanchoBot: -Ayame finished playing (Score: 778828, PASSED).
+[22:53:02] BanchoBot: Period finished playing (Score: 462657, PASSED).
+[22:53:02] BanchoBot: The match has finished!
+[22:53:04] BCraftMG: Ayame Fanclub : 4 | 3 : circle break
+[22:53:06] BCraftMG: Next team to pick: circle break
+[22:53:09] BCraftMG: !mp timer 120
+[22:53:09] BanchoBot: Countdown ends in 2 minutes
+[22:54:09] BanchoBot: Countdown ends in 1 minute
+[22:54:39] BanchoBot: Countdown ends in 30 seconds
+[22:54:47] Foxy: NM 1
+[22:54:55] BCraftMG: !mp mods NF
+[22:54:55] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:54:58] BCraftMG: !mp map 1934215 0
+[22:54:58] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1934215 t+pazolite - Say Hello to HOLLOWood feat. Akagawa Nene
+[22:54:58] BanchoBot: Changed match mode to Osu
+[22:54:58] BanchoBot: Countdown ends in 10 seconds
+[22:55:00] BCraftMG: !mp timer 120
+[22:55:00] BanchoBot: Countdown aborted
+[22:55:00] BanchoBot: Countdown ends in 2 minutes
+[22:55:08] BanchoBot: Ariisu left the game.
+[22:55:31] BanchoBot: DVDthe1st joined in slot 1 for team blue.
+[22:55:38] BanchoBot: DVDthe1st changed to Red
+[22:55:59] BanchoBot: Countdown ends in 1 minute
+[22:56:03] BanchoBot: All players are ready
+[22:56:06] BCraftMG: !mp settings
+[22:56:07] BanchoBot: Room name: STT3: (Ayame Fanclub) vs (circle break), History: https://osu.ppy.sh/mp/101977199
+[22:56:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/1934215 t+pazolite - Say Hello to HOLLOWood feat. Akagawa Nene
+[22:56:07] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[22:56:07] BanchoBot: Active mods: NoFail
+[22:56:07] BanchoBot: Players: 6
+[22:56:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/2138989 DVDthe1st       [Team Red ]
+[22:56:07] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7128826 -Ayame          [Team Red ]
+[22:56:07] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4473506 Kozakura-       [Team Red ]
+[22:56:07] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7094393 OcklePod        [Team Blue]
+[22:56:07] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/2916205 Period          [Team Blue]
+[22:56:07] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/9379821 Foxy            [Team Blue]
+[22:56:09] BCraftMG: !mp start 10
+[22:56:12] BanchoBot: Countdown aborted
+[22:56:12] BanchoBot: Match starts in 10 seconds
+[22:56:12] BanchoBot: Queued the match to start in 10 seconds
+[22:56:14] Foxy: Glhf~
+[22:56:18] BanchoBot: Match starts in 5 seconds
+[22:56:18] BanchoBot: Match starts in 4 seconds
+[22:56:20] BanchoBot: Match starts in 3 seconds
+[22:56:20] Period: glhf all
+[22:56:20] BanchoBot: Good luck, have fun!
+[22:56:22] BanchoBot: The match has started!
+[23:01:01] BanchoBot: Period finished playing (Score: 782667, PASSED).
+[23:01:04] BanchoBot: Foxy finished playing (Score: 608462, PASSED).
+[23:01:04] BanchoBot: OcklePod finished playing (Score: 521649, PASSED).
+[23:01:04] BanchoBot: DVDthe1st finished playing (Score: 968373, PASSED).
+[23:01:04] BanchoBot: Kozakura- finished playing (Score: 662387, PASSED).
+[23:01:06] BanchoBot: -Ayame finished playing (Score: 581730, PASSED).
+[23:01:06] BanchoBot: The match has finished!
+[23:01:08] BCraftMG: Ayame Fanclub : 5 | 3 : circle break
+[23:01:10] BCraftMG: **Ayame Fanclub wins the match**
+[23:01:14] BCraftMG: GGWP
+[23:01:20] BanchoBot: -Ayame left the game.
+[23:01:29] OcklePod: gg
+[23:01:31] Period: ggs all
+[23:01:35] BanchoBot: OcklePod left the game.
+[23:01:35] Kozakura-: ggwp!
+[23:01:37] Period: ty for ref BCraftMG
+[23:01:41] Foxy: ggs
+[23:01:43] BanchoBot: Kozakura- left the game.
+[23:01:48] BanchoBot: DVDthe1st left the game.
+[23:01:48] Foxy: thanks for ref
+[23:01:52] BanchoBot: Period left the game.
+[23:01:54] BanchoBot: Foxy left the game.
+[23:02:25] BCraftMG: !mp close
+[23:02:25] BanchoBot: Closed the match

@@ -1,0 +1,548 @@
+[22:52:09] Joined #mp_115746840
+[22:52:09] BCraftMG: !mp settings
+[22:52:11] BanchoBot: Room name: VNOC5: (_Casiofx580vnx) vs (VenomPuffs), History: https://osu.ppy.sh/mp/115746840
+[22:52:11] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[22:52:12] BanchoBot: Players: 0
+[22:52:47] BCraftMG: !mp addref Siay
+[22:52:49] BanchoBot: Added Siay to the match referees
+[22:52:52] BCraftMG: !mp set 0 3 3
+[22:52:53] BanchoBot: Changed match settings to 3 slots, HeadToHead, ScoreV2
+[22:52:59] BCraftMG: !mp map 3895683
+[22:53:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3895683 rN - Harumachi Elevator
+[22:58:19] BCraftMG: !mp invite #848961
+[22:58:20] BanchoBot: Invited _Casiofx580vnx to the room
+[22:58:22] BCraftMG: !mp invite #8715313
+[22:58:24] BanchoBot: Invited VenomPuffs to the room
+[22:59:21] BanchoBot: VenomPuffs joined in slot 1.
+[23:00:25] BCraftMG: hi
+[23:00:32] BanchoBot: _Casiofx580vnx joined in slot 2.
+[23:00:36] BCraftMG: a
+[23:00:38] VenomPuffs: chao chao
+[23:00:40] _Casiofx580vnx: o/
+[23:00:43] BCraftMG: can  you two switch slots
+[23:00:54] BanchoBot: VenomPuffs moved to slot 3
+[23:00:57] BanchoBot: _Casiofx580vnx moved to slot 1
+[23:01:00] BanchoBot: VenomPuffs moved to slot 2
+[23:01:05] BCraftMG: then we can rolls
+[23:01:25] _Casiofx580vnx: !roll
+[23:01:25] BanchoBot: _Casiofx580vnx rolls 74 point(s)
+[23:01:28] VenomPuffs: !roll
+[23:01:28] BanchoBot: VenomPuffs rolls 56 point(s)
+[23:01:39] BCraftMG: tam nay
+[23:01:41] BCraftMG: tu giac ik
+[23:01:49] BCraftMG: kasa pick/ban order
+[23:01:53] _Casiofx580vnx: khum
+[23:01:57] _Casiofx580vnx: first pick
+[23:02:11] BCraftMG: venompuffs ban order
+[23:02:18] VenomPuffs: ban 1st
+[23:02:41] BCraftMG: VenomPuffs first prot
+[23:02:42] BCraftMG: !mp timer 120
+[23:02:43] BanchoBot: Countdown ends in 2 minutes
+[23:03:09] VenomPuffs: protect nm5
+[23:03:18] BCraftMG: _Casiofx580vnx protect
+[23:03:19] BCraftMG: !mp timer 120
+[23:03:21] BanchoBot: Countdown aborted
+[23:03:21] BanchoBot: Countdown ends in 2 minutes
+[23:03:44] _Casiofx580vnx: HD2
+[23:03:57] BCraftMG: VenomPuffs ban
+[23:03:58] BCraftMG: !mp timer 120
+[23:04:00] BanchoBot: Countdown aborted
+[23:04:00] BanchoBot: Countdown ends in 2 minutes
+[23:04:17] VenomPuffs: ban dt4
+[23:04:25] BCraftMG: _Casiofx580vnx ban\
+[23:04:26] BCraftMG: !mp timer 120
+[23:04:28] BanchoBot: Countdown aborted
+[23:04:28] BanchoBot: Countdown ends in 2 minutes
+[23:04:38] _Casiofx580vnx: HR2
+[23:04:59] BCraftMG: _Casiofx580vnx | 0 - 0 | VenomPuffs // BO13, Next pick: _Casiofx580vnx
+[23:05:01] BCraftMG: !mp timer 120
+[23:05:02] BanchoBot: Countdown aborted
+[23:05:02] BanchoBot: Countdown ends in 2 minutes
+[23:05:49] _Casiofx580vnx: HD1
+[23:05:57] BCraftMG: !mp map 4491259
+[23:05:57] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4491259 minato feat. Hatsune Miku, Megurine Luka - magnet
+[23:05:58] BCraftMG: !mp mods 9
+[23:05:58] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[23:05:59] BCraftMG: !mp timer 120
+[23:06:00] BanchoBot: Countdown aborted
+[23:06:00] BanchoBot: Countdown ends in 2 minutes
+[23:06:36] BanchoBot: All players are ready
+[23:06:40] BCraftMG: !mp settings
+[23:06:41] BanchoBot: Room name: VNOC5: (_Casiofx580vnx) vs (VenomPuffs), History: https://osu.ppy.sh/mp/115746840
+[23:06:41] BanchoBot: Beatmap: https://osu.ppy.sh/b/4491259 minato feat. Hatsune Miku, Megurine Luka - magnet
+[23:06:41] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:06:41] BanchoBot: Active mods: NoFail, Hidden
+[23:06:41] BanchoBot: Players: 2
+[23:06:41] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/848961 _Casiofx580vnx  
+[23:06:41] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8715313 VenomPuffs      
+[23:06:43] BCraftMG: !mp start 5 glhf
+[23:06:44] BanchoBot: Countdown aborted
+[23:06:44] BanchoBot: Match starts in 5 seconds
+[23:06:44] BanchoBot: Queued the match to start in 5 seconds
+[23:06:45] BanchoBot: Match starts in 4 seconds
+[23:06:47] BanchoBot: Match starts in 3 seconds
+[23:06:47] BanchoBot: Good luck, have fun!
+[23:06:50] BanchoBot: The match has started!
+[23:10:51] BanchoBot: _Casiofx580vnx finished playing (Score: 298744, PASSED).
+[23:10:53] BanchoBot: VenomPuffs finished playing (Score: 236832, PASSED).
+[23:10:53] BanchoBot: The match has finished!
+[23:11:02] BCraftMG: _Casiofx580vnx | 1 - 0 | VenomPuffs // BO13, Next pick: VenomPuffs
+[23:11:03] BCraftMG: !mp timer 120
+[23:11:04] BanchoBot: Countdown ends in 2 minutes
+[23:11:42] BCraftMG: can yall pick the customs please ty :tf:
+[23:12:05] BanchoBot: Countdown ends in 1 minute
+[23:12:21] VenomPuffs: pick dt2
+[23:12:26] BCraftMG: !mp map 4408214
+[23:12:27] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4408214 dj TAKA feat. AiMEE - True Blue
+[23:12:28] BCraftMG: !mp mods 65
+[23:12:29] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[23:12:30] BCraftMG: !mp timer 120
+[23:12:30] BanchoBot: Countdown aborted
+[23:12:30] BanchoBot: Countdown ends in 2 minutes
+[23:13:12] BanchoBot: All players are ready
+[23:13:16] BCraftMG: dm hoaq
+[23:13:17] BCraftMG: !mp settings
+[23:13:19] BanchoBot: Room name: VNOC5: (_Casiofx580vnx) vs (VenomPuffs), History: https://osu.ppy.sh/mp/115746840
+[23:13:19] BanchoBot: Beatmap: https://osu.ppy.sh/b/4408214 dj TAKA feat. AiMEE - True Blue
+[23:13:19] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:13:19] BanchoBot: Active mods: NoFail, DoubleTime
+[23:13:19] BanchoBot: Players: 2
+[23:13:19] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/848961 _Casiofx580vnx  
+[23:13:19] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8715313 VenomPuffs      
+[23:13:20] BCraftMG: !mp start 5 glhf
+[23:13:21] BanchoBot: Countdown aborted
+[23:13:21] BanchoBot: Match starts in 5 seconds
+[23:13:21] BanchoBot: Queued the match to start in 5 seconds
+[23:13:23] _Casiofx580vnx: dm venom
+[23:13:23] BanchoBot: Match starts in 4 seconds
+[23:13:24] BanchoBot: Match starts in 3 seconds
+[23:13:24] BanchoBot: Good luck, have fun!
+[23:13:27] BanchoBot: The match has started!
+[23:15:41] BanchoBot: VenomPuffs finished playing (Score: 171731, PASSED).
+[23:15:41] BanchoBot: _Casiofx580vnx finished playing (Score: 138504, PASSED).
+[23:15:41] BanchoBot: The match has finished!
+[23:16:00] BCraftMG: _Casiofx580vnx | 1 - 1 | VenomPuffs // BO13, Next pick: _Casiofx580vnx
+[23:16:01] BCraftMG: !mp timer 120
+[23:16:02] BanchoBot: Countdown ends in 2 minutes
+[23:16:11] _Casiofx580vnx: nm6
+[23:16:51] BCraftMG: !mp map 4805596
+[23:16:53] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4805596 ZUN - Furuki Yuanxian
+[23:16:54] BCraftMG: !mp mods 1
+[23:16:54] BanchoBot: Enabled NoFail, disabled FreeMod
+[23:16:58] BCraftMG: !mp timer 120
+[23:16:59] BanchoBot: Countdown aborted
+[23:16:59] BanchoBot: Countdown ends in 2 minutes
+[23:17:03] _Casiofx580vnx: wat
+[23:17:13] BCraftMG: update metadata thôi
+[23:17:15] BCraftMG: dw
+[23:18:00] BanchoBot: Countdown ends in 1 minute
+[23:18:21] BanchoBot: All players are ready
+[23:18:29] BanchoBot: Countdown ends in 30 seconds
+[23:18:38] VenomPuffs: golf!
+[23:18:38] BCraftMG: !mp settings
+[23:18:40] BCraftMG: !mp start 5 glhf
+[23:18:41] BanchoBot: Room name: VNOC5: (_Casiofx580vnx) vs (VenomPuffs), History: https://osu.ppy.sh/mp/115746840
+[23:18:41] BanchoBot: Beatmap: https://osu.ppy.sh/b/4805596 ZUN - Furuki Yuanxian
+[23:18:41] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:18:41] BanchoBot: Active mods: NoFail
+[23:18:41] BanchoBot: Players: 2
+[23:18:41] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/848961 _Casiofx580vnx  
+[23:18:41] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8715313 VenomPuffs      
+[23:18:42] _Casiofx580vnx: glgl
+[23:18:42] BanchoBot: Countdown aborted
+[23:18:42] BanchoBot: Match starts in 5 seconds
+[23:18:42] BanchoBot: Queued the match to start in 5 seconds
+[23:18:44] BanchoBot: Match starts in 4 seconds
+[23:18:46] BanchoBot: Match starts in 3 seconds
+[23:18:46] BanchoBot: Good luck, have fun!
+[23:18:48] BanchoBot: The match has started!
+[23:20:47] BanchoBot: VenomPuffs finished playing (Score: 171667, PASSED).
+[23:20:50] BanchoBot: _Casiofx580vnx finished playing (Score: 300401, PASSED).
+[23:20:50] BanchoBot: The match has finished!
+[23:21:11] VenomPuffs: pick nm4
+[23:21:15] BCraftMG: !mp map 4805621
+[23:21:15] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4805621 trung-nova & Lusumi - Inversed Spear of AVALON
+[23:21:18] BCraftMG: !mp mods 1
+[23:21:18] BanchoBot: Enabled NoFail, disabled FreeMod
+[23:21:19] BCraftMG: !mp timer 120
+[23:21:20] BanchoBot: Countdown ends in 2 minutes
+[23:21:27] _Casiofx580vnx: trollin
+[23:22:00] BanchoBot: All players are ready
+[23:22:03] VenomPuffs: glhf
+[23:22:08] BCraftMG: !mp settings
+[23:22:09] BanchoBot: Room name: VNOC5: (_Casiofx580vnx) vs (VenomPuffs), History: https://osu.ppy.sh/mp/115746840
+[23:22:09] BanchoBot: Beatmap: https://osu.ppy.sh/b/4805621 trung-nova & Lusumi - Inversed Spear of AVALON
+[23:22:09] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:22:09] BanchoBot: Active mods: NoFail
+[23:22:09] BanchoBot: Players: 2
+[23:22:09] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/848961 _Casiofx580vnx  
+[23:22:09] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8715313 VenomPuffs      
+[23:22:10] BCraftMG: !mp start 5 glhf
+[23:22:11] BanchoBot: Countdown aborted
+[23:22:11] BanchoBot: Match starts in 5 seconds
+[23:22:11] BanchoBot: Queued the match to start in 5 seconds
+[23:22:12] BanchoBot: Match starts in 4 seconds
+[23:22:14] BanchoBot: Match starts in 3 seconds
+[23:22:15] BanchoBot: Good luck, have fun!
+[23:22:17] BanchoBot: The match has started!
+[23:26:01] BanchoBot: VenomPuffs finished playing (Score: 171084, PASSED).
+[23:26:01] BanchoBot: _Casiofx580vnx finished playing (Score: 177853, PASSED).
+[23:26:01] BanchoBot: The match has finished!
+[23:26:17] BCraftMG: _Casiofx580vnx | 3 - 1 | VenomPuffs // BO13, Next pick: _Casiofx580vnx
+[23:26:23] BCraftMG: Next protect actually
+[23:26:23] BCraftMG: !mp timer 120
+[23:26:25] BanchoBot: Countdown ends in 2 minutes
+[23:26:32] BCraftMG: VenomPuffs protect
+[23:26:36] BCraftMG: unlucky
+[23:27:07] VenomPuffs: protect dt1
+[23:27:18] BCraftMG: _Casiofx580vnx protect
+[23:27:19] BCraftMG: !mp timer 120
+[23:27:20] BanchoBot: Countdown aborted
+[23:27:20] BanchoBot: Countdown ends in 2 minutes
+[23:27:35] _Casiofx580vnx: HD4
+[23:27:38] BCraftMG: @My Angel Chino
+[23:27:51] BCraftMG: VenomPuffs ban
+[23:27:52] BCraftMG: !mp timer 120
+[23:27:53] BanchoBot: Countdown aborted
+[23:27:53] BanchoBot: Countdown ends in 2 minutes
+[23:28:39] VenomPuffs: ban hd3
+[23:28:50] BCraftMG: _Casiofx580vnx ban
+[23:28:51] BCraftMG: !mp timer 120
+[23:28:53] BanchoBot: Countdown aborted
+[23:28:53] BanchoBot: Countdown ends in 2 minutes
+[23:29:24] _Casiofx580vnx: DT3
+[23:29:35] BCraftMG: _Casiofx580vnx | 3 - 1 | VenomPuffs // BO13, Next pick: _Casiofx580vnx
+[23:29:35] BCraftMG: !mp timer 120
+[23:29:36] BanchoBot: Countdown aborted
+[23:29:36] BanchoBot: Countdown ends in 2 minutes
+[23:29:57] _Casiofx580vnx: HR3
+[23:30:05] BCraftMG: !mp map 1093704
+[23:30:06] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1093704 Kanpyohgo - Unmei no Dark Side -Rolling Gothic mix
+[23:30:07] BCraftMG: !mp mods 17
+[23:30:08] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[23:30:08] BCraftMG: !mp timer 120
+[23:30:09] BanchoBot: Countdown aborted
+[23:30:09] BanchoBot: Countdown ends in 2 minutes
+[23:30:13] BCraftMG: hr2's mapper is crying
+[23:30:18] BanchoBot: All players are ready
+[23:30:23] BCraftMG: dm casio
+[23:30:23] BCraftMG: !mp settings
+[23:30:26] BanchoBot: Room name: VNOC5: (_Casiofx580vnx) vs (VenomPuffs), History: https://osu.ppy.sh/mp/115746840
+[23:30:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/1093704 Kanpyohgo - Unmei no Dark Side -Rolling Gothic mix
+[23:30:26] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:30:26] BanchoBot: Active mods: NoFail, HardRock
+[23:30:26] BanchoBot: Players: 2
+[23:30:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/848961 _Casiofx580vnx  
+[23:30:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8715313 VenomPuffs      
+[23:30:26] BCraftMG: !mp start 5 glhf
+[23:30:27] BanchoBot: Countdown aborted
+[23:30:27] BanchoBot: Match starts in 5 seconds
+[23:30:27] BanchoBot: Queued the match to start in 5 seconds
+[23:30:28] VenomPuffs: :sob:
+[23:30:28] BanchoBot: Match starts in 4 seconds
+[23:30:30] BanchoBot: Match starts in 3 seconds
+[23:30:30] BanchoBot: Good luck, have fun!
+[23:30:33] BanchoBot: The match has started!
+[23:34:19] BanchoBot: VenomPuffs finished playing (Score: 234838, PASSED).
+[23:34:19] BanchoBot: _Casiofx580vnx finished playing (Score: 281034, PASSED).
+[23:34:19] BanchoBot: The match has finished!
+[23:34:25] BCraftMG: _Casiofx580vnx | 4 - 1 | VenomPuffs // BO13, Next pick: VenomPuffs
+[23:34:26] BCraftMG: !mp timer 120
+[23:34:28] BanchoBot: Countdown ends in 2 minutes
+[23:34:46] BCraftMG: damn
+[23:34:53] VenomPuffs: pick nm5
+[23:35:03] BCraftMG: !mp map 3493282
+[23:35:04] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3493282 ikaruga_nex - ultimer
+[23:35:04] BCraftMG: !mp mods 1
+[23:35:05] BanchoBot: Enabled NoFail, disabled FreeMod
+[23:35:06] BCraftMG: !mp timer 120
+[23:35:07] BanchoBot: Countdown aborted
+[23:35:07] BanchoBot: Countdown ends in 2 minutes
+[23:35:14] _Casiofx580vnx: im doom
+[23:35:20] _Casiofx580vnx: im calling for help
+[23:35:27] _Casiofx580vnx: !summon Ayamaki
+[23:35:27] VenomPuffs: hehe
+[23:35:36] VenomPuffs: :3
+[23:35:41] _Casiofx580vnx: :3
+[23:35:45] BanchoBot: All players are ready
+[23:35:56] BCraftMG: !mp settings
+[23:35:57] BanchoBot: Room name: VNOC5: (_Casiofx580vnx) vs (VenomPuffs), History: https://osu.ppy.sh/mp/115746840
+[23:35:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/3493282 ikaruga_nex - ultimer
+[23:35:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:35:57] BanchoBot: Active mods: NoFail
+[23:35:57] BanchoBot: Players: 2
+[23:35:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/848961 _Casiofx580vnx  
+[23:35:57] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8715313 VenomPuffs      
+[23:35:58] BCraftMG: !mp start 5 glhf
+[23:35:59] BanchoBot: Countdown aborted
+[23:35:59] BanchoBot: Match starts in 5 seconds
+[23:35:59] BanchoBot: Queued the match to start in 5 seconds
+[23:36:00] BanchoBot: Match starts in 4 seconds
+[23:36:02] BanchoBot: Match starts in 3 seconds
+[23:36:03] BanchoBot: Good luck, have fun!
+[23:36:03] _Casiofx580vnx: good morning i love speed player
+[23:36:05] BanchoBot: The match has started!
+[23:38:01] BanchoBot: VenomPuffs finished playing (Score: 206371, PASSED).
+[23:38:01] BanchoBot: _Casiofx580vnx finished playing (Score: 128230, PASSED).
+[23:38:01] BanchoBot: The match has finished!
+[23:38:12] BCraftMG: _Casiofx580vnx | 4 - 2 | VenomPuffs // BO13, Next pick: _Casiofx580vnx
+[23:38:14] BCraftMG: !mp timer 120
+[23:38:15] BanchoBot: Countdown ends in 2 minutes
+[23:38:28] _Casiofx580vnx: HD4
+[23:38:35] BCraftMG: !mp map 4805663
+[23:38:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4805663 sky_delta - Precursor
+[23:38:37] BCraftMG: !Mp mods 9
+[23:38:37] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[23:38:38] BCraftMG: !mp timer 120
+[23:38:39] BanchoBot: Countdown aborted
+[23:38:39] BanchoBot: Countdown ends in 2 minutes
+[23:39:03] BanchoBot: All players are ready
+[23:39:04] BCraftMG: cocking
+[23:39:05] BCraftMG: !mp settings
+[23:39:08] BanchoBot: Room name: VNOC5: (_Casiofx580vnx) vs (VenomPuffs), History: https://osu.ppy.sh/mp/115746840
+[23:39:08] BanchoBot: Beatmap: https://osu.ppy.sh/b/4805663 sky_delta - Precursor
+[23:39:08] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:39:08] BanchoBot: Active mods: NoFail, Hidden
+[23:39:08] BanchoBot: Players: 2
+[23:39:08] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/848961 _Casiofx580vnx  
+[23:39:08] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8715313 VenomPuffs      
+[23:39:08] BCraftMG: !mp start 5 glhf
+[23:39:09] BanchoBot: Countdown aborted
+[23:39:09] BanchoBot: Match starts in 5 seconds
+[23:39:09] BanchoBot: Queued the match to start in 5 seconds
+[23:39:10] BanchoBot: Match starts in 4 seconds
+[23:39:12] BanchoBot: Match starts in 3 seconds
+[23:39:13] BanchoBot: Good luck, have fun!
+[23:39:15] BanchoBot: The match has started!
+[23:42:32] BanchoBot: _Casiofx580vnx finished playing (Score: 330193, PASSED).
+[23:42:32] BanchoBot: VenomPuffs finished playing (Score: 189042, PASSED).
+[23:42:32] BanchoBot: The match has finished!
+[23:42:55] BCraftMG: _Casiofx580vnx | 5 - 2 | VenomPuffs // BO13, Next pick: VenomPuffs
+[23:42:57] BCraftMG: !mp timer 120
+[23:42:57] BanchoBot: Countdown ends in 2 minutes
+[23:43:00] VenomPuffs: dt1
+[23:43:07] BCraftMG: !mp map 4805662
+[23:43:08] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4805662 Petit Rabbit's - Tenkuu Cafeteria
+[23:43:09] BCraftMG: !mp mods 65
+[23:43:09] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[23:43:10] BCraftMG: !mp timer 120
+[23:43:11] BanchoBot: Countdown aborted
+[23:43:11] BanchoBot: Countdown ends in 2 minutes
+[23:43:42] _Casiofx580vnx: venom please teach me how to play ar10.5
+[23:43:50] BanchoBot: All players are ready
+[23:43:50] BCraftMG: !mp settings
+[23:43:51] BanchoBot: Room name: VNOC5: (_Casiofx580vnx) vs (VenomPuffs), History: https://osu.ppy.sh/mp/115746840
+[23:43:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/4805662 Petit Rabbit's - Tenkuu Cafeteria
+[23:43:51] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:43:51] BanchoBot: Active mods: NoFail, DoubleTime
+[23:43:51] BanchoBot: Players: 2
+[23:43:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/848961 _Casiofx580vnx  
+[23:43:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8715313 VenomPuffs      
+[23:43:52] BCraftMG: !mp start 5 glhf
+[23:43:52] VenomPuffs: the secret is I don't :D
+[23:43:52] BanchoBot: Countdown aborted
+[23:43:52] BanchoBot: Match starts in 5 seconds
+[23:43:52] BanchoBot: Queued the match to start in 5 seconds
+[23:43:54] _Casiofx580vnx: :3
+[23:43:54] BanchoBot: Match starts in 4 seconds
+[23:43:56] BanchoBot: Match starts in 3 seconds
+[23:43:56] BanchoBot: Good luck, have fun!
+[23:43:58] BanchoBot: The match has started!
+[23:46:30] BanchoBot: _Casiofx580vnx finished playing (Score: 247847, PASSED).
+[23:46:32] BanchoBot: VenomPuffs finished playing (Score: 328060, PASSED).
+[23:46:32] BanchoBot: The match has finished!
+[23:46:42] _Casiofx580vnx: bro im dying
+[23:46:44] BCraftMG: _Casiofx580vnx | 5 - 3 | VenomPuffs // BO13, Next pick: _Casiofx580vnx
+[23:46:44] BCraftMG: !mp timer 120
+[23:46:47] BanchoBot: Countdown ends in 2 minutes
+[23:47:09] _Casiofx580vnx: oc oc oc oc oc oc oc oc oc oc
+[23:47:28] _Casiofx580vnx: nm2
+[23:47:37] BCraftMG: !mp map 4805556
+[23:47:37] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4805556 Hideyuki Fukasawa - Gyakkou Unga/Tentai Jutai
+[23:47:38] BCraftMG: !mp mods 1
+[23:47:39] BanchoBot: Enabled NoFail, disabled FreeMod
+[23:47:39] BCraftMG: !mp timer 120
+[23:47:40] BanchoBot: Countdown aborted
+[23:47:40] BanchoBot: Countdown ends in 2 minutes
+[23:47:52] BanchoBot: All players are ready
+[23:48:03] BCraftMG: !mp settings
+[23:48:04] BanchoBot: Room name: VNOC5: (_Casiofx580vnx) vs (VenomPuffs), History: https://osu.ppy.sh/mp/115746840
+[23:48:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/4805556 Hideyuki Fukasawa - Gyakkou Unga/Tentai Jutai
+[23:48:04] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:48:04] BanchoBot: Active mods: NoFail
+[23:48:04] BanchoBot: Players: 2
+[23:48:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/848961 _Casiofx580vnx  
+[23:48:04] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8715313 VenomPuffs      
+[23:48:05] BCraftMG: !mp start 5 glhf
+[23:48:06] BanchoBot: Countdown aborted
+[23:48:06] BanchoBot: Match starts in 5 seconds
+[23:48:06] BanchoBot: Queued the match to start in 5 seconds
+[23:48:07] BanchoBot: Match starts in 4 seconds
+[23:48:09] BanchoBot: Match starts in 3 seconds
+[23:48:09] VenomPuffs: glhf
+[23:48:10] BanchoBot: Good luck, have fun!
+[23:48:12] BanchoBot: The match has started!
+[23:51:12] BanchoBot: _Casiofx580vnx finished playing (Score: 309177, PASSED).
+[23:51:13] BanchoBot: VenomPuffs finished playing (Score: 440696, PASSED).
+[23:51:13] BanchoBot: The match has finished!
+[23:51:18] BCraftMG: _Casiofx580vnx | 5 - 4 | VenomPuffs // BO13, Next pick: VenomPuffs
+[23:51:19] BCraftMG: !mp timer 120
+[23:51:20] BanchoBot: Countdown ends in 2 minutes
+[23:51:43] VenomPuffs: nm3
+[23:51:46] BCraftMG: !mp map 4805574
+[23:51:47] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4805574 ASCA - Real Dawn
+[23:51:48] BCraftMG: !mp mods 1
+[23:51:49] BanchoBot: Enabled NoFail, disabled FreeMod
+[23:51:49] BCraftMG: !mp timer 120
+[23:51:50] BanchoBot: Countdown aborted
+[23:51:50] BanchoBot: Countdown ends in 2 minutes
+[23:52:25] BanchoBot: All players are ready
+[23:52:26] BCraftMG: !mp settings
+[23:52:28] BanchoBot: Room name: VNOC5: (_Casiofx580vnx) vs (VenomPuffs), History: https://osu.ppy.sh/mp/115746840
+[23:52:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/4805574 ASCA - Real Dawn
+[23:52:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:52:28] BanchoBot: Active mods: NoFail
+[23:52:28] BanchoBot: Players: 2
+[23:52:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/848961 _Casiofx580vnx  
+[23:52:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8715313 VenomPuffs      
+[23:52:29] BCraftMG: !mp start 5 glhf
+[23:52:30] BanchoBot: Countdown aborted
+[23:52:30] BanchoBot: Match starts in 5 seconds
+[23:52:30] BanchoBot: Queued the match to start in 5 seconds
+[23:52:31] BanchoBot: Match starts in 4 seconds
+[23:52:32] VenomPuffs: glhf
+[23:52:32] BanchoBot: Match starts in 3 seconds
+[23:52:34] BanchoBot: Good luck, have fun!
+[23:52:36] BanchoBot: The match has started!
+[23:56:27] BanchoBot: VenomPuffs finished playing (Score: 343407, PASSED).
+[23:56:30] BanchoBot: _Casiofx580vnx finished playing (Score: 293961, PASSED).
+[23:56:30] BanchoBot: The match has finished!
+[23:56:42] BCraftMG: _Casiofx580vnx | 5 - 5 | VenomPuffs // BO13, Next pick: _Casiofx580vnx
+[23:56:43] BCraftMG: !mp timer 120
+[23:56:45] BanchoBot: Countdown ends in 2 minutes
+[23:57:42] _Casiofx580vnx: HR4
+[23:57:47] BanchoBot: Countdown ends in 1 minute
+[23:57:51] BCraftMG: !mp map 3215025
+[23:57:52] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3215025 VeetaCrush - Mole
+[23:57:53] BCraftMG: !mp mods 17
+[23:57:54] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[23:57:58] BCraftMG: i have some question
+[23:57:58] BCraftMG: !mp timer 120
+[23:58:00] BanchoBot: Countdown aborted
+[23:58:00] BanchoBot: Countdown ends in 2 minutes
+[23:58:02] BCraftMG: but dont answer
+[23:58:10] _Casiofx580vnx: uhhh
+[23:58:47] BanchoBot: All players are ready
+[23:58:50] BCraftMG: !mp settings
+[23:58:52] BanchoBot: Room name: VNOC5: (_Casiofx580vnx) vs (VenomPuffs), History: https://osu.ppy.sh/mp/115746840
+[23:58:52] BanchoBot: Beatmap: https://osu.ppy.sh/b/3215025 VeetaCrush - Mole
+[23:58:52] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:58:52] BanchoBot: Active mods: NoFail, HardRock
+[23:58:52] BanchoBot: Players: 2
+[23:58:52] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/848961 _Casiofx580vnx  
+[23:58:52] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8715313 VenomPuffs      
+[23:58:53] BCraftMG: !mp start 5 glhf
+[23:58:53] BanchoBot: Countdown aborted
+[23:58:53] BanchoBot: Match starts in 5 seconds
+[23:58:53] BanchoBot: Queued the match to start in 5 seconds
+[23:58:55] BanchoBot: Match starts in 4 seconds
+[23:58:56] BanchoBot: Match starts in 3 seconds
+[23:58:56] BanchoBot: Good luck, have fun!
+[23:58:59] BanchoBot: The match has started!
+[00:01:40] BanchoBot: _Casiofx580vnx finished playing (Score: 270953, PASSED).
+[00:01:40] BanchoBot: VenomPuffs finished playing (Score: 154081, PASSED).
+[00:01:40] BanchoBot: The match has finished!
+[00:02:17] BCraftMG: _Casiofx580vnx | 6 - 5 | VenomPuffs // BO13, Next pick: VenomPuffs
+[00:02:19] BCraftMG: !mp timer 120
+[00:02:20] BanchoBot: Countdown ends in 2 minutes
+[00:03:20] BanchoBot: Countdown ends in 1 minute
+[00:03:50] BanchoBot: Countdown ends in 30 seconds
+[00:04:05] BCraftMG: timer check
+[00:04:08] VenomPuffs: pick nm1
+[00:04:11] BanchoBot: Countdown ends in 10 seconds
+[00:04:12] BCraftMG: !mp map 4805521
+[00:04:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4805521 Yorushika - Replicant
+[00:04:13] BCraftMG: !mp mods 1
+[00:04:14] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:04:14] BCraftMG: !mp timer 120
+[00:04:15] BanchoBot: Countdown ends in 5 seconds
+[00:04:15] BanchoBot: Countdown aborted
+[00:04:15] BanchoBot: Countdown ends in 2 minutes
+[00:05:17] BanchoBot: Countdown ends in 1 minute
+[00:05:44] BanchoBot: All players are ready
+[00:05:47] BanchoBot: Countdown ends in 30 seconds
+[00:05:47] BCraftMG: !mp settings
+[00:05:48] BanchoBot: Room name: VNOC5: (_Casiofx580vnx) vs (VenomPuffs), History: https://osu.ppy.sh/mp/115746840
+[00:05:48] BanchoBot: Beatmap: https://osu.ppy.sh/b/4805521 Yorushika - Replicant
+[00:05:48] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:05:48] BanchoBot: Active mods: NoFail
+[00:05:48] BanchoBot: Players: 2
+[00:05:48] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/848961 _Casiofx580vnx  
+[00:05:48] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8715313 VenomPuffs      
+[00:05:58] BCraftMG: glhf
+[00:05:58] VenomPuffs: glhffffff
+[00:05:59] BCraftMG: !mp start 5 glhf
+[00:06:00] BanchoBot: Countdown aborted
+[00:06:00] BanchoBot: Match starts in 5 seconds
+[00:06:00] BanchoBot: Queued the match to start in 5 seconds
+[00:06:01] BanchoBot: Match starts in 4 seconds
+[00:06:03] BanchoBot: Match starts in 3 seconds
+[00:06:03] BanchoBot: Good luck, have fun!
+[00:06:06] BanchoBot: The match has started!
+[00:09:51] BanchoBot: _Casiofx580vnx finished playing (Score: 758698, PASSED).
+[00:09:54] BanchoBot: VenomPuffs finished playing (Score: 416135, PASSED).
+[00:09:54] BanchoBot: The match has finished!
+[00:10:06] _Casiofx580vnx: wtf did i just do
+[00:10:09] BCraftMG: he cooked
+[00:10:12] BCraftMG: anyway
+[00:10:16] BCraftMG: tb for fun?
+[00:10:23] VenomPuffs: !!!!
+[00:10:23] _Casiofx580vnx: yes
+[00:10:27] _Casiofx580vnx: !!!!
+[00:10:29] VenomPuffs: yes!!!
+[00:10:32] VenomPuffs: gg
+[00:10:40] BCraftMG: !mp map 4805696
+[00:10:41] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4805696 Kagetora. - UNPR3C3D3NT3D TRAV3L3R
+[00:10:47] BCraftMG: !mp mods Freemod
+[00:10:47] BanchoBot: Disabled all mods, enabled FreeMod
+[00:11:27] BanchoBot: All players are ready
+[00:11:28] BCraftMG: !mp settings
+[00:11:28] BanchoBot: Room name: VNOC5: (_Casiofx580vnx) vs (VenomPuffs), History: https://osu.ppy.sh/mp/115746840
+[00:11:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/4805696 Kagetora. - UNPR3C3D3NT3D TRAV3L3R
+[00:11:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:11:28] BanchoBot: Active mods: Freemod
+[00:11:28] BanchoBot: Players: 2
+[00:11:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/848961 _Casiofx580vnx  [NoFail]
+[00:11:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8715313 VenomPuffs      [NoFail]
+[00:11:29] BCraftMG: !mp start 5 glhf
+[00:11:29] BanchoBot: Match starts in 5 seconds
+[00:11:29] BanchoBot: Queued the match to start in 5 seconds
+[00:11:31] BanchoBot: Match starts in 4 seconds
+[00:11:32] BanchoBot: Match starts in 3 seconds
+[00:11:34] BanchoBot: Good luck, have fun!
+[00:11:35] BanchoBot: The match has started!
+[00:16:28] BCraftMG: VenomPuffs forever my TB King
+[00:17:37] BanchoBot: _Casiofx580vnx finished playing (Score: 99895, PASSED).
+[00:17:39] BanchoBot: VenomPuffs finished playing (Score: 171606, PASSED).
+[00:17:39] BanchoBot: The match has finished!
+[00:18:02] _Casiofx580vnx: true
+[00:18:07] _Casiofx580vnx: i forgo to put on hd
+[00:18:10] _Casiofx580vnx: :chon:
+[00:18:15] BCraftMG: shhhhhhhhh
+[00:18:19] BCraftMG: excuses
+[00:18:24] BCraftMG: not even 100k
+[00:18:35] VenomPuffs: Almost every match tb :deadge:
+[00:18:45] BCraftMG: i counted
+[00:18:48] VenomPuffs: cam on tourney
+[00:18:51] BCraftMG: minus 2 matches
+[00:18:54] BCraftMG: all the others are tb
+[00:18:59] _Casiofx580vnx: ty for ref
+[00:19:04] _Casiofx580vnx: ty for match
+[00:19:09] _Casiofx580vnx: o7
+[00:19:17] _Casiofx580vnx: tks for a amazing match venom
+[00:19:23] BanchoBot: _Casiofx580vnx left the game.
+[00:19:27] VenomPuffs: you too
+[00:19:28] VenomPuffs: :3
+[00:19:36] BanchoBot: VenomPuffs left the game.
+[00:19:39] BCraftMG: !mp close
+[00:19:40] BanchoBot: Closed the match

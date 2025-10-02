@@ -1,0 +1,571 @@
+[15:24:28] Joined #mp_104173050
+[15:24:28] BCraftMG: !mp settings
+[15:24:30] BanchoBot: Room name: BQT5: (the boxos) vs (vamos brunei), History: https://osu.ppy.sh/mp/104173050
+[15:24:30] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[15:24:30] BanchoBot: Players: 0
+[15:24:37] BCraftMG: !mp addref rock-on
+[15:24:38] BanchoBot: Added rock-on to the match referees
+[15:24:48] BCraftMG: !mp set 2 3 8
+[15:24:50] BanchoBot: Changed match settings to 8 slots, TeamVs, ScoreV2
+[15:25:05] BCraftMG: !mp listrefs
+[15:25:05] BanchoBot: Match referees:
+[15:25:05] BanchoBot: Rock-on
+[15:25:05] BanchoBot: BCraftMG
+[15:25:13] BCraftMG: !mp invite #16620837
+[15:25:14] BanchoBot: Invited Vodito to the room
+[15:25:17] BCraftMG: !mp invite #17004901
+[15:25:17] BanchoBot: Invited QuarterNerd to the room
+[15:26:45] BCraftMG: !mp map 37098160
+[15:26:45] BanchoBot: Invalid map ID provided
+[15:26:50] BCraftMG: !mp map 3709816 0
+[15:26:51] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3709816 ARForest - Inverted World
+[15:26:51] BanchoBot: Changed match mode to Osu
+[15:27:58] BCraftMG: !mp invite #16620837
+[15:27:59] BanchoBot: Invited Vodito to the room
+[15:28:04] BanchoBot: Vodito joined in slot 1 for team blue.
+[15:28:10] BCraftMG: !mp invite #17004901
+[15:28:11] BanchoBot: Invited QuarterNerd to the room
+[15:28:21] BCraftMG: !mp invite #17004901
+[15:28:22] BanchoBot: Invited QuarterNerd to the room
+[15:28:36] BanchoBot: TangyZhangy joined in slot 2 for team red.
+[15:28:44] TangyZhangy: new phone who dis
+[15:28:53] BanchoBot: McPhlery joined in slot 3 for team blue.
+[15:28:59] BanchoBot: QuarterNerd joined in slot 4 for team red.
+[15:29:04] BCraftMG: o/
+[15:29:17] Vodito: whos wat
+[15:29:18] BCraftMG: the boxos on red 1-2
+[15:29:25] BCraftMG: vamos on blue 3-4
+[15:29:27] BanchoBot: McPhlery moved to slot 5
+[15:29:28] BanchoBot: McPhlery moved to slot 7
+[15:29:30] BanchoBot: QuarterNerd moved to slot 3
+[15:29:31] BanchoBot: QuarterNerd moved to slot 6
+[15:29:33] BanchoBot: McPhlery moved to slot 8
+[15:29:38] BCraftMG: !mp move Vodito 3
+[15:29:39] BanchoBot: Vodito moved to slot 3
+[15:29:39] BanchoBot: Moved Vodito into slot 3
+[15:29:42] BanchoBot: QuarterNerd moved to slot 1
+[15:29:47] QuarterNerd: do we actually download this btw
+[15:29:51] BCraftMG: nop
+[15:29:51] BanchoBot: Oshlin joined in slot 4 for team red.
+[15:29:56] BCraftMG: yall want warm up?
+[15:30:02] BanchoBot: Oshlin moved to slot 5
+[15:30:10] Oshlin: nop
+[15:30:24] TangyZhangy: can i put a quick one
+[15:30:32] TangyZhangy: for me fingers
+[15:30:38] Oshlin: tangy move to 4
+[15:30:41] BanchoBot: TangyZhangy moved to slot 4
+[15:30:42] Oshlin: i think we are 1 and 2
+[15:30:42] BanchoBot: Oshlin moved to slot 2
+[15:30:45] Oshlin: thx
+[15:30:56] BCraftMG: !mp host TangyZhangy
+[15:30:56] BanchoBot: TangyZhangy became the host.
+[15:30:56] BanchoBot: Changed match host to TangyZhangy
+[15:31:01] BanchoBot: Host is changing map...
+[15:31:13] BanchoBot: Beatmap changed to: qfeileadh - breathe [Extreme] (https://osu.ppy.sh/b/2463985)
+[15:31:41] BanchoBot: TangyZhangy changed to Blue
+[15:31:47] TangyZhangy: this a bangerfr
+[15:32:03] BanchoBot: All players are ready
+[15:32:11] BanchoBot: The match has started!
+[15:34:06] BanchoBot: cherry sweet joined in slot 5 for team blue.
+[15:34:18] cherry_sweet: im late
+[15:34:23] BCraftMG: yes
+[15:34:35] BanchoBot: McPhlery finished playing (Score: 3279, PASSED).
+[15:34:36] BanchoBot: Vodito finished playing (Score: 18069, PASSED).
+[15:34:36] BanchoBot: TangyZhangy finished playing (Score: 53346, PASSED).
+[15:34:36] BanchoBot: QuarterNerd finished playing (Score: 19392, PASSED).
+[15:34:36] BanchoBot: Oshlin finished playing (Score: 45968, PASSED).
+[15:34:36] BanchoBot: The match has finished!
+[15:34:46] BCraftMG: roll time:?
+[15:35:09] QuarterNerd: i guess
+[15:35:18] Vodito: Tangy loses his warm up privilage
+[15:35:20] QuarterNerd: 6 digit tourneys when pp rework happens...
+[15:35:24] QuarterNerd: lmao
+[15:35:28] QuarterNerd: probably for the better
+[15:35:28] BCraftMG: lol hows the rank
+[15:35:29] QuarterNerd: ;)
+[15:35:29] Oshlin: yea bru what was that
+[15:35:31] Oshlin: lmao
+[15:35:35] BCraftMG: !mp clearhost
+[15:35:35] BanchoBot: cherry sweet left the game.
+[15:35:37] BanchoBot: Cleared match host
+[15:35:52] BCraftMG: roll pls
+[15:35:57] Vodito: !roll
+[15:35:57] BanchoBot: Vodito rolls 58 point(s)
+[15:36:00] QuarterNerd: !roll
+[15:36:00] BanchoBot: QuarterNerd rolls 18 point(s)
+[15:36:05] Oshlin: oof
+[15:36:06] QuarterNerd: D:
+[15:36:13] QuarterNerd: how am
+[15:36:13] QuarterNerd: i so bad
+[15:36:14] QuarterNerd: at this
+[15:36:19] QuarterNerd: oshlin
+[15:36:20] QuarterNerd: roll now
+[15:36:23] QuarterNerd: i bet u u get higher than vodio
+[15:36:27] BCraftMG: vamos brunei pick or ban order?
+[15:36:28] Oshlin: !roll
+[15:36:28] BanchoBot: Oshlin rolls 6 point(s)
+[15:36:31] Oshlin: ak;jdfsd
+[15:36:34] QuarterNerd: fhdsavuonidfcasuvhnoiafcdohuin
+[15:36:41] Vodito: Ban order 1st
+[15:36:48] Vodito: First ban, Nm2
+[15:37:06] BCraftMG: the boxos pick order?
+[15:37:12] QuarterNerd: pick 1st?
+[15:37:13] QuarterNerd: okie
+[15:37:13] QuarterNerd: yea
+[15:37:15] QuarterNerd: idk
+[15:37:15] QuarterNerd: ok
+[15:37:23] BCraftMG: alright
+[15:37:32] BCraftMG: 2 bans from the boxos
+[15:37:34] BCraftMG: !mp timer 120
+[15:37:35] BanchoBot: Countdown ends in 2 minutes
+[15:37:38] QuarterNerd: hr2
+[15:37:40] QuarterNerd: fm3
+[15:37:59] BCraftMG: vamos last ban
+[15:38:00] BCraftMG: !Mp timer 120
+[15:38:01] BanchoBot: TangyZhangy left the game.
+[15:38:01] BanchoBot: Countdown aborted
+[15:38:01] BanchoBot: Countdown ends in 2 minutes
+[15:38:04] Vodito: DT3
+[15:38:14] BCraftMG: the boxos | 0 - 0 | vamos brunei // First Pick: the boxos
+[15:38:15] BCraftMG: !mp timer 120
+[15:38:16] BanchoBot: Countdown aborted
+[15:38:16] BanchoBot: Countdown ends in 2 minutes
+[15:38:40] QuarterNerd: dt4
+[15:38:50] BCraftMG: !mp map 103566 0
+[15:38:51] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/103566 Two Door Cinema Club - What You Know
+[15:38:51] BanchoBot: Changed match mode to Osu
+[15:38:51] BCraftMG: !mp mods 1
+[15:38:53] BanchoBot: Enabled NoFail, disabled FreeMod
+[15:38:56] BCraftMG: !Mp timer 120
+[15:38:57] BanchoBot: Countdown aborted
+[15:38:57] BanchoBot: Countdown ends in 2 minutes
+[15:39:00] QuarterNerd: for my third ban
+[15:39:04] QuarterNerd: i ban cherry sweet
+[15:39:13] McPhlery: gg we lose
+[15:39:27] QuarterNerd: nya~ :3
+[15:39:36] McPhlery: can we ban 1 of u too?
+[15:39:39] McPhlery: heheheha
+[15:39:39] QuarterNerd: uh
+[15:39:41] QuarterNerd: nah
+[15:39:43] Oshlin: auto dq
+[15:39:43] QuarterNerd: we only 2 players
+[15:39:46] QuarterNerd: u have more than 2
+[15:39:46] QuarterNerd: yea
+[15:39:49] McPhlery: :3
+[15:39:52] Oshlin: imaine having 4
+[15:39:56] QuarterNerd: imagine having more than 2
+[15:39:58] BanchoBot: cherry sweet joined in slot 4 for team red.
+[15:39:58] BanchoBot: Countdown ends in 1 minute
+[15:40:00] QuarterNerd: guys
+[15:40:01] QuarterNerd: this turned into nm4
+[15:40:04] BanchoBot: cherry sweet changed to Blue
+[15:40:04] McPhlery: glhf
+[15:40:07] BanchoBot: McPhlery left the game.
+[15:40:09] BanchoBot: TangyZhangy joined in slot 5 for team blue.
+[15:40:12] BanchoBot: TangyZhangy left the game.
+[15:40:25] Oshlin: golf
+[15:40:28] BanchoBot: Countdown ends in 30 seconds
+[15:40:34] BanchoBot: cherry sweet left the game.
+[15:40:42] QuarterNerd: me when dt4 doesn't have dt
+[15:40:42] BCraftMG: imagine play in tournaments
+[15:40:48] BCraftMG: !mp mods 65
+[15:40:48] BanchoBot: Countdown ends in 10 seconds
+[15:40:48] QuarterNerd: true
+[15:40:48] Vodito: reffing
+[15:40:48] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[15:40:53] BanchoBot: Countdown ends in 5 seconds
+[15:40:54] BanchoBot: Countdown ends in 4 seconds
+[15:40:54] BanchoBot: Countdown ends in 3 seconds
+[15:40:56] BanchoBot: Countdown ends in 2 seconds
+[15:40:57] BCraftMG: multitask moment
+[15:40:58] BanchoBot: Countdown ends in 1 second
+[15:40:58] BanchoBot: Countdown finished
+[15:40:59] QuarterNerd: can we just 2v1 vodito
+[15:41:04] BanchoBot: All players are ready
+[15:41:07] Vodito: no
+[15:41:07] BanchoBot: TangyZhangy joined in slot 4 for team red.
+[15:41:07] BCraftMG: !mp settings
+[15:41:09] BanchoBot: Room name: BQT5: (the boxos) vs (vamos brunei), History: https://osu.ppy.sh/mp/104173050
+[15:41:09] BanchoBot: Beatmap: https://osu.ppy.sh/b/103566 Two Door Cinema Club - What You Know
+[15:41:09] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[15:41:09] BanchoBot: Active mods: NoFail, DoubleTime
+[15:41:09] BanchoBot: Players: 4
+[15:41:09] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17004901 QuarterNerd     [Team Red ]
+[15:41:09] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20019441 Oshlin          [Team Red ]
+[15:41:09] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16620837 Vodito          [Team Blue]
+[15:41:09] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/15706348 TangyZhangy     [Team Red ]
+[15:41:10] BanchoBot: TangyZhangy changed to Blue
+[15:41:12] QuarterNerd: :(
+[15:41:16] BCraftMG: ready
+[15:41:17] BCraftMG: up
+[15:41:26] BanchoBot: All players are ready
+[15:41:29] BCraftMG: !mp settings
+[15:41:30] BanchoBot: Room name: BQT5: (the boxos) vs (vamos brunei), History: https://osu.ppy.sh/mp/104173050
+[15:41:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/103566 Two Door Cinema Club - What You Know
+[15:41:30] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[15:41:30] BanchoBot: Active mods: NoFail, DoubleTime
+[15:41:30] BanchoBot: Players: 4
+[15:41:30] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17004901 QuarterNerd     [Team Red ]
+[15:41:30] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20019441 Oshlin          [Team Red ]
+[15:41:30] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16620837 Vodito          [Team Blue]
+[15:41:30] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15706348 TangyZhangy     [Team Blue]
+[15:41:30] BCraftMG: !mp start 5 glhf
+[15:41:31] BanchoBot: Match starts in 5 seconds
+[15:41:31] BanchoBot: Queued the match to start in 5 seconds
+[15:41:32] BanchoBot: Match starts in 4 seconds
+[15:41:34] BanchoBot: Match starts in 3 seconds
+[15:41:34] BanchoBot: Good luck, have fun!
+[15:41:37] BanchoBot: The match has started!
+[15:41:37] TangyZhangy: ghl#
+[15:43:03] BanchoBot: cherry sweet joined in slot 5 for team blue.
+[15:43:07] BanchoBot: cherry sweet left the game.
+[15:43:45] BanchoBot: QuarterNerd finished playing (Score: 405345, PASSED).
+[15:43:45] BanchoBot: Oshlin finished playing (Score: 925076, PASSED).
+[15:43:45] BanchoBot: TangyZhangy finished playing (Score: 803027, PASSED).
+[15:43:45] BanchoBot: Vodito finished playing (Score: 425428, PASSED).
+[15:43:45] BanchoBot: The match has finished!
+[15:43:56] TangyZhangy: SHIT my pen slipped
+[15:44:02] BCraftMG: the boxos | 1 - 0 | vamos brunei // Next Pick: vamos brunei
+[15:44:03] Oshlin: f
+[15:44:06] BCraftMG: !mp timer 120
+[15:44:07] Oshlin: reverse choke moment
+[15:44:07] BanchoBot: Countdown ends in 2 minutes
+[15:44:15] Vodito: i firetruckng hate sliders
+[15:44:17] QuarterNerd: same
+[15:44:21] QuarterNerd: i hate nerves in general
+[15:44:29] Vodito: nm6
+[15:44:29] BanchoBot: Vodito left the game.
+[15:44:40] QuarterNerd: where is mcphlery
+[15:44:50] BanchoBot: cherry sweet joined in slot 3 for team blue.
+[15:44:56] QuarterNerd: can we ban this guy
+[15:44:58] Oshlin: no
+[15:44:58] Oshlin: go away
+[15:44:58] BCraftMG: !mp map 3376899 0
+[15:44:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3376899 KAF feat. KAFU - phony
+[15:45:00] BanchoBot: Changed match mode to Osu
+[15:45:00] BCraftMG: !mp mods 1
+[15:45:01] QuarterNerd: he fking fc's every single thing
+[15:45:01] BanchoBot: Enabled NoFail, disabled FreeMod
+[15:45:04] BCraftMG: !mp timer 120
+[15:45:04] BanchoBot: Countdown aborted
+[15:45:04] BanchoBot: Countdown ends in 2 minutes
+[15:45:33] cherry_sweet: glgl
+[15:45:37] QuarterNerd: gl
+[15:45:37] BanchoBot: All players are ready
+[15:45:46] Oshlin: golf
+[15:45:50] QuarterNerd: nya~
+[15:45:51] BCraftMG: !mp settings
+[15:45:52] BanchoBot: Room name: BQT5: (the boxos) vs (vamos brunei), History: https://osu.ppy.sh/mp/104173050
+[15:45:52] BanchoBot: Beatmap: https://osu.ppy.sh/b/3376899 KAF feat. KAFU - phony
+[15:45:52] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[15:45:52] BanchoBot: Active mods: NoFail
+[15:45:52] BanchoBot: Players: 4
+[15:45:52] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17004901 QuarterNerd     [Team Red ]
+[15:45:52] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20019441 Oshlin          [Team Red ]
+[15:45:52] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12079158 cherry sweet    [Team Blue]
+[15:45:52] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15706348 TangyZhangy     [Team Blue]
+[15:45:54] BCraftMG: !mp start 5 glhf
+[15:45:55] BanchoBot: Countdown aborted
+[15:45:55] BanchoBot: Match starts in 5 seconds
+[15:45:55] BanchoBot: Queued the match to start in 5 seconds
+[15:45:56] BanchoBot: Match starts in 4 seconds
+[15:45:58] BanchoBot: Match starts in 3 seconds
+[15:45:58] BanchoBot: Good luck, have fun!
+[15:46:01] BanchoBot: The match has started!
+[15:49:16] BanchoBot: Oshlin finished playing (Score: 456062, PASSED).
+[15:49:18] BanchoBot: TangyZhangy finished playing (Score: 237906, PASSED).
+[15:49:18] BanchoBot: QuarterNerd finished playing (Score: 288700, PASSED).
+[15:49:19] BanchoBot: cherry sweet finished playing (Score: 438089, PASSED).
+[15:49:19] BanchoBot: The match has finished!
+[15:49:33] BCraftMG: the boxos | 2 - 0 | vamos brunei // Next Pick: the boxos
+[15:49:36] BCraftMG: !mp timer 120
+[15:49:37] BanchoBot: Countdown ends in 2 minutes
+[15:49:51] QuarterNerd: what is it? ft7?
+[15:49:57] Oshlin: 56
+[15:49:57] QuarterNerd: or is it ft6
+[15:49:57] Oshlin: 6
+[15:50:02] QuarterNerd: 56? we here all night then
+[15:50:04] TangyZhangy: 6
+[15:50:05] QuarterNerd: no sleep
+[15:50:07] QuarterNerd: o ok
+[15:50:22] QuarterNerd: nm3
+[15:50:38] BanchoBot: Countdown ends in 1 minute
+[15:50:47] BanchoBot: TangyZhangy left the game.
+[15:50:48] BCraftMG: !mp map 3788301 0
+[15:50:49] BCraftMG: !mp mods 1
+[15:50:49] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3788301 PSY - That That (prod. & feat. SUGA of BTS)
+[15:50:49] BanchoBot: Changed match mode to Osu
+[15:50:50] cherry_sweet: ft6
+[15:50:50] BanchoBot: Enabled NoFail, disabled FreeMod
+[15:50:51] BCraftMG: !mp timer 120
+[15:50:52] BanchoBot: Countdown aborted
+[15:50:52] BanchoBot: Countdown ends in 2 minutes
+[15:50:54] BanchoBot: TangyZhangy joined in slot 4 for team red.
+[15:50:57] BanchoBot: TangyZhangy changed to Blue
+[15:51:24] BanchoBot: All players are ready
+[15:51:27] Oshlin: golf
+[15:51:31] cherry_sweet: glgl
+[15:51:32] BCraftMG: !mp settings
+[15:51:32] TangyZhangy: gl
+[15:51:32] BanchoBot: Room name: BQT5: (the boxos) vs (vamos brunei), History: https://osu.ppy.sh/mp/104173050
+[15:51:32] BanchoBot: Beatmap: https://osu.ppy.sh/b/3788301 PSY - That That (prod. & feat. SUGA of BTS)
+[15:51:32] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[15:51:32] BanchoBot: Active mods: NoFail
+[15:51:32] BanchoBot: Players: 4
+[15:51:32] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17004901 QuarterNerd     [Team Red ]
+[15:51:32] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20019441 Oshlin          [Team Red ]
+[15:51:32] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12079158 cherry sweet    [Team Blue]
+[15:51:32] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15706348 TangyZhangy     [Team Blue]
+[15:51:33] BCraftMG: !mp start 5 glhf
+[15:51:34] QuarterNerd: glef
+[15:51:34] BanchoBot: Countdown aborted
+[15:51:34] BanchoBot: Match starts in 5 seconds
+[15:51:34] BanchoBot: Queued the match to start in 5 seconds
+[15:51:35] BanchoBot: Match starts in 4 seconds
+[15:51:37] BanchoBot: Match starts in 3 seconds
+[15:51:37] BanchoBot: Good luck, have fun!
+[15:51:40] BanchoBot: The match has started!
+[15:54:40] BanchoBot: Oshlin finished playing (Score: 803841, PASSED).
+[15:54:40] BanchoBot: TangyZhangy finished playing (Score: 342299, PASSED).
+[15:54:40] BanchoBot: cherry sweet finished playing (Score: 442552, PASSED).
+[15:54:40] BanchoBot: QuarterNerd finished playing (Score: 270619, PASSED).
+[15:54:40] BanchoBot: The match has finished!
+[15:54:54] QuarterNerd: wtf
+[15:54:54] QuarterNerd: bruh
+[15:54:56] Oshlin: popff
+[15:54:58] QuarterNerd: i don't need to be here
+[15:54:59] QuarterNerd: have
+[15:55:02] BCraftMG: the boxos | 3 - 0 | vamos brunei // Next Pick: vamos brunei
+[15:55:02] QuarterNerd: oshlin
+[15:55:04] BanchoBot: Vodito joined in slot 5 for team blue.
+[15:55:04] BCraftMG: !mp timer 120
+[15:55:06] QuarterNerd: im on his back rn
+[15:55:06] BanchoBot: Countdown ends in 2 minutes
+[15:55:31] TangyZhangy: the int is real
+[15:55:33] BanchoBot: TangyZhangy left the game.
+[15:55:36] Vodito: HR3
+[15:55:38] BanchoBot: Vodito moved to slot 4
+[15:55:44] BCraftMG: !mp map 3583583 0
+[15:55:46] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3583583 Masayoshi Iimori - Non Stop Rock
+[15:55:46] BanchoBot: Changed match mode to Osu
+[15:55:47] BCraftMG: !mp mods 17
+[15:55:49] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[15:55:49] BCraftMG: !mp timer 120
+[15:55:51] BanchoBot: Countdown aborted
+[15:55:51] BanchoBot: Countdown ends in 2 minutes
+[15:56:16] cherry_sweet: glgl
+[15:56:18] BanchoBot: All players are ready
+[15:56:21] QuarterNerd: u too!
+[15:56:23] Oshlin: golf
+[15:56:24] BCraftMG: !mp settings
+[15:56:26] BanchoBot: Room name: BQT5: (the boxos) vs (vamos brunei), History: https://osu.ppy.sh/mp/104173050
+[15:56:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/3583583 Masayoshi Iimori - Non Stop Rock
+[15:56:26] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[15:56:26] BanchoBot: Active mods: NoFail, HardRock
+[15:56:26] BanchoBot: Players: 4
+[15:56:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17004901 QuarterNerd     [Team Red ]
+[15:56:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20019441 Oshlin          [Team Red ]
+[15:56:26] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12079158 cherry sweet    [Team Blue]
+[15:56:26] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16620837 Vodito          [Team Blue]
+[15:56:27] QuarterNerd: whack
+[15:56:27] QuarterNerd: bonk
+[15:56:29] BCraftMG: !mp start 5 glhf
+[15:56:29] QuarterNerd: oof
+[15:56:31] QuarterNerd: golf ball went bye bye
+[15:56:31] BanchoBot: Countdown aborted
+[15:56:31] BanchoBot: Match starts in 5 seconds
+[15:56:31] BanchoBot: Queued the match to start in 5 seconds
+[15:56:32] BanchoBot: Match starts in 4 seconds
+[15:56:32] QuarterNerd: >:)
+[15:56:34] BanchoBot: Match starts in 3 seconds
+[15:56:34] BanchoBot: Good luck, have fun!
+[15:56:37] BanchoBot: The match has started!
+[15:58:37] BanchoBot: cherry sweet finished playing (Score: 775311, PASSED).
+[15:58:37] BanchoBot: QuarterNerd finished playing (Score: 177740, PASSED).
+[15:58:37] BanchoBot: Oshlin finished playing (Score: 526006, PASSED).
+[15:58:39] BanchoBot: Vodito finished playing (Score: 449760, PASSED).
+[15:58:39] BanchoBot: The match has finished!
+[15:58:50] BCraftMG: the boxos | 3 - 1 | vamos brunei // Next Pick: the boxos
+[15:58:52] BCraftMG: !mp timer 120
+[15:58:54] BanchoBot: Countdown ends in 2 minutes
+[15:59:42] QuarterNerd: dt2
+[15:59:54] BCraftMG: !mp map 3516212 0
+[15:59:55] BanchoBot: Countdown ends in 1 minute
+[15:59:57] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3516212 Eve - Dramaturgy
+[15:59:57] BanchoBot: Changed match mode to Osu
+[15:59:58] BCraftMG: !mp mods 65
+[15:59:59] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[16:00:01] BCraftMG: !mp timer 120
+[16:00:02] BanchoBot: Countdown aborted
+[16:00:02] BanchoBot: Countdown ends in 2 minutes
+[16:00:39] Oshlin: golf
+[16:00:44] BanchoBot: All players are ready
+[16:00:50] BCraftMG: !mp settings
+[16:00:51] cherry_sweet: glgl
+[16:00:51] BanchoBot: Room name: BQT5: (the boxos) vs (vamos brunei), History: https://osu.ppy.sh/mp/104173050
+[16:00:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/3516212 Eve - Dramaturgy
+[16:00:51] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[16:00:51] BanchoBot: Active mods: NoFail, DoubleTime
+[16:00:51] BanchoBot: Players: 4
+[16:00:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17004901 QuarterNerd     [Team Red ]
+[16:00:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20019441 Oshlin          [Team Red ]
+[16:00:51] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12079158 cherry sweet    [Team Blue]
+[16:00:51] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16620837 Vodito          [Team Blue]
+[16:00:54] BCraftMG: !mp start 5 glhf
+[16:00:55] BanchoBot: Countdown aborted
+[16:00:55] BanchoBot: Match starts in 5 seconds
+[16:00:55] BanchoBot: Queued the match to start in 5 seconds
+[16:00:57] BanchoBot: Match starts in 4 seconds
+[16:00:58] BanchoBot: Match starts in 3 seconds
+[16:00:58] BanchoBot: Good luck, have fun!
+[16:01:01] BanchoBot: The match has started!
+[16:03:41] BanchoBot: Oshlin finished playing (Score: 985862, PASSED).
+[16:03:41] BanchoBot: QuarterNerd finished playing (Score: 648592, PASSED).
+[16:03:41] BanchoBot: Vodito finished playing (Score: 825905, PASSED).
+[16:03:43] BanchoBot: cherry sweet finished playing (Score: 717148, PASSED).
+[16:03:43] BanchoBot: The match has finished!
+[16:03:56] BanchoBot: cherry sweet left the game.
+[16:03:59] BCraftMG: the boxos | 4 - 1 | vamos brunei // Next Pick: vamos brunei
+[16:04:03] BCraftMG: !mp timer 120
+[16:04:04] QuarterNerd: hr1
+[16:04:04] BanchoBot: Countdown ends in 2 minutes
+[16:04:05] QuarterNerd: read like abook
+[16:04:06] Vodito: time out
+[16:04:10] QuarterNerd: wait
+[16:04:12] Oshlin: huh
+[16:04:12] QuarterNerd: that's a thing?
+[16:04:12] Vodito: cherry needs to shit
+[16:04:15] QuarterNerd: LMAO
+[16:04:17] Oshlin: LMAO
+[16:04:22] BCraftMG: bruh
+[16:04:22] BCraftMG: ok
+[16:04:25] BanchoBot: cherry sweet joined in slot 3 for team blue.
+[16:04:25] QuarterNerd: guys
+[16:04:30] QuarterNerd: tf
+[16:04:32] Vodito: ok that was fast
+[16:04:32] QuarterNerd: how do u shit that fast
+[16:04:40] QuarterNerd: superhuman shitter
+[16:04:40] QuarterNerd: ngl
+[16:04:59] BanchoBot: cherry sweet left the game.
+[16:05:04] BanchoBot: Countdown ends in 1 minute
+[16:05:11] QuarterNerd: wait
+[16:05:11] BanchoBot: cherry sweet joined in slot 3 for team blue.
+[16:05:12] QuarterNerd: is he shitting again
+[16:05:12] QuarterNerd: nvm
+[16:05:19] Oshlin: bru
+[16:05:23] BCraftMG: wait a second
+[16:05:24] Vodito: HD2
+[16:05:24] BCraftMG: wtf
+[16:05:27] BanchoBot: Vodito left the game.
+[16:05:35] BanchoBot: Countdown ends in 30 seconds
+[16:05:36] BCraftMG: ok nvm
+[16:05:36] BCraftMG: !mp map 2239337 0
+[16:05:38] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2239337 BUTAOTOME - Towa no Maigo
+[16:05:38] BanchoBot: Changed match mode to Osu
+[16:05:39] BCraftMG: !mp mods 9
+[16:05:40] QuarterNerd: mcphlery!!!
+[16:05:40] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[16:05:40] BCraftMG: !mp timer 120
+[16:05:41] BanchoBot: Countdown aborted
+[16:05:41] BanchoBot: Countdown ends in 2 minutes
+[16:05:50] BanchoBot: McPhlery joined in slot 4 for team red.
+[16:05:58] BanchoBot: McPhlery changed to Blue
+[16:06:14] cherry_sweet: glgl
+[16:06:14] Oshlin: golf
+[16:06:19] BanchoBot: All players are ready
+[16:06:19] QuarterNerd: golf ball
+[16:06:24] BCraftMG: !mp settings
+[16:06:26] McPhlery: glhf
+[16:06:26] BanchoBot: Room name: BQT5: (the boxos) vs (vamos brunei), History: https://osu.ppy.sh/mp/104173050
+[16:06:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/2239337 BUTAOTOME - Towa no Maigo
+[16:06:26] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[16:06:26] BanchoBot: Active mods: NoFail, Hidden
+[16:06:26] BanchoBot: Players: 4
+[16:06:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17004901 QuarterNerd     [Team Red ]
+[16:06:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20019441 Oshlin          [Team Red ]
+[16:06:26] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12079158 cherry sweet    [Team Blue]
+[16:06:26] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/20443617 McPhlery        [Team Blue]
+[16:06:26] BCraftMG: !mp start 5 glhf
+[16:06:27] QuarterNerd: what brand of golf balls u like
+[16:06:27] BanchoBot: Countdown aborted
+[16:06:27] BanchoBot: Match starts in 5 seconds
+[16:06:27] BanchoBot: Queued the match to start in 5 seconds
+[16:06:29] BanchoBot: Match starts in 4 seconds
+[16:06:30] BanchoBot: Match starts in 3 seconds
+[16:06:30] BanchoBot: Good luck, have fun!
+[16:06:34] BanchoBot: The match has started!
+[16:09:25] BanchoBot: Oshlin finished playing (Score: 378071, PASSED).
+[16:09:25] BanchoBot: QuarterNerd finished playing (Score: 461969, PASSED).
+[16:09:25] BanchoBot: McPhlery finished playing (Score: 320320, PASSED).
+[16:09:25] BanchoBot: cherry sweet finished playing (Score: 411658, PASSED).
+[16:09:25] BanchoBot: The match has finished!
+[16:09:28] BanchoBot: cherry sweet left the game.
+[16:09:39] BCraftMG: the boxos | 5 - 1 | vamos brunei // Next Pick: the boxos
+[16:09:41] BCraftMG: !mp timer 120
+[16:09:43] BanchoBot: Countdown ends in 2 minutes
+[16:09:47] BanchoBot: Vodito joined in slot 3 for team blue.
+[16:09:49] BanchoBot: cherry sweet joined in slot 5 for team blue.
+[16:10:05] QuarterNerd: nm5
+[16:10:12] BanchoBot: Vodito left the game.
+[16:10:17] BanchoBot: McPhlery left the game.
+[16:10:20] BanchoBot: cherry sweet moved to slot 3
+[16:10:33] BCraftMG: !mp map 3303203 0
+[16:10:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3303203 cosMo@BousouP feat. Hatsune Miku - Machinegun Poem Doll
+[16:10:33] BanchoBot: Changed match mode to Osu
+[16:10:34] BCraftMG: !mp mods 1
+[16:10:35] BanchoBot: Enabled NoFail, disabled FreeMod
+[16:10:35] BCraftMG: !mp timer 120
+[16:10:36] BanchoBot: Countdown aborted
+[16:10:36] BanchoBot: Countdown ends in 2 minutes
+[16:10:41] BanchoBot: TangyZhangy joined in slot 4 for team red.
+[16:10:48] BanchoBot: TangyZhangy changed to Blue
+[16:10:54] QuarterNerd: tangy when actually practices the mappool
+[16:11:06] TangyZhangy: nah i just have maps from last week
+[16:11:07] cherry_sweet: glgl
+[16:11:07] TangyZhangy: :tf:
+[16:11:07] BanchoBot: All players are ready
+[16:11:10] QuarterNerd: o
+[16:11:14] QuarterNerd: :skull:
+[16:11:14] Oshlin: golf
+[16:11:15] QuarterNerd: glgl
+[16:11:19] BCraftMG: !mp settings
+[16:11:20] BanchoBot: Room name: BQT5: (the boxos) vs (vamos brunei), History: https://osu.ppy.sh/mp/104173050
+[16:11:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/3303203 cosMo@BousouP feat. Hatsune Miku - Machinegun Poem Doll
+[16:11:20] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[16:11:21] BanchoBot: Active mods: NoFail
+[16:11:21] BanchoBot: Players: 4
+[16:11:21] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17004901 QuarterNerd     [Team Red ]
+[16:11:21] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20019441 Oshlin          [Team Red ]
+[16:11:21] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/12079158 cherry sweet    [Team Blue]
+[16:11:21] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15706348 TangyZhangy     [Team Blue]
+[16:11:21] BCraftMG: !mp start 5 glhf
+[16:11:22] BanchoBot: Countdown aborted
+[16:11:22] BanchoBot: Match starts in 5 seconds
+[16:11:22] BanchoBot: Queued the match to start in 5 seconds
+[16:11:24] BanchoBot: Match starts in 4 seconds
+[16:11:25] BanchoBot: Match starts in 3 seconds
+[16:11:25] BanchoBot: Good luck, have fun!
+[16:11:28] BanchoBot: The match has started!
+[16:13:40] BanchoBot: Vodito joined in slot 5 for team blue.
+[16:13:51] BanchoBot: Oshlin finished playing (Score: 613406, PASSED).
+[16:13:51] BanchoBot: QuarterNerd finished playing (Score: 584495, PASSED).
+[16:13:51] BanchoBot: TangyZhangy finished playing (Score: 443056, PASSED).
+[16:13:53] BanchoBot: cherry sweet finished playing (Score: 559534, PASSED).
+[16:13:53] BanchoBot: The match has finished!
+[16:14:02] TangyZhangy: ggs
+[16:14:04] Oshlin: ggs!
+[16:14:07] QuarterNerd: ggs
+[16:14:09] Vodito: GGs
+[16:14:12] Vodito: thanks for ref
+[16:14:16] BanchoBot: Vodito left the game.
+[16:14:16] Oshlin: ty for ref
+[16:14:17] cherry_sweet: gege
+[16:14:19] TangyZhangy: ty4ref
+[16:14:19] QuarterNerd: ty for ref
+[16:14:21] BanchoBot: cherry sweet left the game.
+[16:14:32] BanchoBot: Oshlin left the game.
+[16:14:35] BanchoBot: TangyZhangy left the game.
+[16:14:36] BCraftMG: Congrats to the boxos for winning this match! GGWP both teams!
+[16:14:37] BanchoBot: QuarterNerd left the game.
+[16:15:04] BCraftMG: !mp close
+[16:15:05] BanchoBot: Closed the match

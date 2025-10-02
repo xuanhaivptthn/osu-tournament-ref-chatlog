@@ -1,0 +1,199 @@
+[20:10:11] Joined #mp_101406813
+[20:10:11] BCraftMG: !mp settings
+[20:10:13] BanchoBot: Room name: STT3: (Q43-2) vs (Qualifiers), History: https://osu.ppy.sh/mp/101406813
+[20:10:13] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[20:10:13] BanchoBot: Players: 0
+[20:12:28] BCraftMG: !mp invite #2282145
+[20:12:29] BanchoBot: Invited Jiuchu to the room
+[20:12:31] BCraftMG: !mp invite #9057237
+[20:12:32] BanchoBot: Invited Parato to the room
+[20:12:34] BCraftMG: !mp invite #9562353
+[20:12:34] BanchoBot: Invited Musubi to the room
+[20:12:36] BCraftMG: !mp invite #14429830
+[20:12:37] BanchoBot: Invited Anderwear to the room
+[20:12:38] BCraftMG: !mp invite #6938658
+[20:12:39] BanchoBot: Invited Azureus to the room
+[20:12:44] BCraftMG: !mp set 0 3 16
+[20:12:45] BanchoBot: Changed match settings to 16 slots, HeadToHead, ScoreV2
+[20:12:53] BCraftMG: !mp map 2716029
+[20:12:53] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2716029 Camellia - FLYING OUT TO THE SKY (covered by Nanahira, moimoi, Nana Takahashi) (Cut Ver.)
+[20:12:55] BanchoBot: Anderwear joined in slot 1.
+[20:12:58] BCraftMG: !mp mods 257
+[20:12:59] BanchoBot: Enabled NoFail, HalfTime, disabled FreeMod
+[20:13:35] BanchoBot: -Tamiki- joined in slot 2.
+[20:13:42] BanchoBot: Godot_ joined in slot 3.
+[20:14:22] BanchoBot: Musubi joined in slot 4.
+[20:14:34] BCraftMG: !mp invite #2282145
+[20:14:35] BanchoBot: Invited Jiuchu to the room
+[20:14:36] BanchoBot: Enjoyzeno joined in slot 5.
+[20:14:37] BanchoBot: Aixi joined in slot 6.
+[20:14:47] BanchoBot: Musubi left the game.
+[20:14:52] BanchoBot: Enjoyzeno left the game.
+[20:15:00] BanchoBot: Jiuchu joined in slot 4.
+[20:15:15] BanchoBot: Aixi moved to slot 5
+[20:15:18] BanchoBot: chests joined in slot 6.
+[20:15:41] BanchoBot: tuctuctuctuctuc joined in slot 7.
+[20:15:45] BanchoBot: Bunan- joined in slot 8.
+[20:15:53] BCraftMG: !mp invite #9057237
+[20:15:54] BanchoBot: Invited Parato to the room
+[20:15:55] BanchoBot: Jiuchu left the game.
+[20:16:03] BanchoBot: Parato joined in slot 4.
+[20:16:07] BanchoBot: Musubi joined in slot 9.
+[20:16:11] BanchoBot: Enjoyzeno joined in slot 10.
+[20:16:13] BCraftMG: !mp invite Fuki
+[20:16:14] BanchoBot: Invited Fuki to the room
+[20:16:18] BanchoBot: Zacatel joined in slot 11.
+[20:16:22] Aixi: !roll
+[20:16:22] BanchoBot: Aixi rolls 21 point(s)
+[20:16:25] Enjoyzeno: !roll
+[20:16:25] BanchoBot: Enjoyzeno rolls 35 point(s)
+[20:16:29] BanchoBot: Fuki joined in slot 12.
+[20:16:30] Musubi: !roll
+[20:16:30] BanchoBot: Musubi rolls 15 point(s)
+[20:16:30] Aixi: !roll
+[20:16:30] BanchoBot: Aixi rolls 64 point(s)
+[20:16:31] Zacatel: !roll
+[20:16:31] BanchoBot: Zacatel rolls 13 point(s)
+[20:16:47] Aixi: !roll 300000
+[20:16:47] BanchoBot: Aixi rolls 293646 point(s)
+[20:16:54] BanchoBot: Azureus joined in slot 13.
+[20:17:06] Enjoyzeno: !roll 1000
+[20:17:06] BanchoBot: Enjoyzeno rolls 109 point(s)
+[20:17:06] Fuki: i am looking forward to playing this map
+[20:17:09] BCraftMG: !mp settings
+[20:17:10] BanchoBot: Room name: STT3: (Q43-2) vs (Qualifiers), History: https://osu.ppy.sh/mp/101406813
+[20:17:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/2716029 Camellia - FLYING OUT TO THE SKY (covered by Nanahira, moimoi, Nana Takahashi) (Cut Ver.)
+[20:17:10] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:17:10] BanchoBot: Active mods: NoFail, HalfTime
+[20:17:10] BanchoBot: Players: 13
+[20:17:10] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/14429830 Anderwear       
+[20:17:10] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17865200 -Tamiki-        
+[20:17:10] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13107500 Godot_          
+[20:17:10] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9057237 Parato          
+[20:17:10] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/6534834 Aixi            
+[20:17:10] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/14806365 chests          
+[20:17:10] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/10484034 tuctuctuctuctuc 
+[20:17:10] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/2763354 Bunan-          
+[20:17:10] BanchoBot: Slot 9  Not Ready https://osu.ppy.sh/u/9562353 Musubi          
+[20:17:10] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/9753306 Enjoyzeno       
+[20:17:10] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/12195496 Zacatel         
+[20:17:10] BanchoBot: Slot 12 Not Ready https://osu.ppy.sh/u/6567341 Fuki            
+[20:17:10] BanchoBot: Slot 13 No Map    https://osu.ppy.sh/u/6938658 Azureus         
+[20:17:18] Musubi: !roll 300000
+[20:17:18] BanchoBot: Musubi rolls 191327 point(s)
+[20:17:19] BCraftMG: we are still missing 2 players
+[20:17:20] BanchoBot: gxytcgxytc joined in slot 14.
+[20:17:23] BCraftMG: now 1
+[20:17:29] Enjoyzeno: !roll 300000
+[20:17:29] BanchoBot: Enjoyzeno rolls 221467 point(s)
+[20:17:35] gxytcgxytc: owo
+[20:17:36] BCraftMG: which team is missing please get your player in soon
+[20:17:44] Zacatel: the 1h30 quali multi lobby
+[20:17:44] BanchoBot: jj986544591 joined in slot 15.
+[20:17:49] BanchoBot: Azureus left the game.
+[20:18:05] Parato: do we replay maps?
+[20:18:07] BCraftMG: !mp settings
+[20:18:09] BanchoBot: Room name: STT3: (Q43-2) vs (Qualifiers), History: https://osu.ppy.sh/mp/101406813
+[20:18:09] BanchoBot: Beatmap: https://osu.ppy.sh/b/2716029 Camellia - FLYING OUT TO THE SKY (covered by Nanahira, moimoi, Nana Takahashi) (Cut Ver.)
+[20:18:09] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:18:09] BanchoBot: Active mods: NoFail, HalfTime
+[20:18:09] BanchoBot: Players: 14
+[20:18:09] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14429830 Anderwear       
+[20:18:09] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17865200 -Tamiki-        
+[20:18:09] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13107500 Godot_          
+[20:18:09] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9057237 Parato          
+[20:18:09] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/6534834 Aixi            
+[20:18:09] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/14806365 chests          
+[20:18:09] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/10484034 tuctuctuctuctuc 
+[20:18:09] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/2763354 Bunan-          
+[20:18:09] BanchoBot: Slot 9  Not Ready https://osu.ppy.sh/u/9562353 Musubi          
+[20:18:09] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/9753306 Enjoyzeno       
+[20:18:09] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/12195496 Zacatel         
+[20:18:09] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/6567341 Fuki            
+[20:18:09] BanchoBot: Slot 14 Ready     https://osu.ppy.sh/u/874891 gxytcgxytc      
+[20:18:09] BanchoBot: Slot 15 Ready     https://osu.ppy.sh/u/2917990 jj986544591     
+[20:18:12] BCraftMG: nop
+[20:18:17] BCraftMG: we only play the last map
+[20:18:18] Parato: ok
+[20:18:28] BanchoBot: wyrio joined in slot 13.
+[20:18:39] tuctuctuctuctuc: glglgl
+[20:18:43] BanchoBot: All players are ready
+[20:18:46] gxytcgxytc: gl~
+[20:18:50] Aixi: gl :)
+[20:18:53] Musubi: glhf
+[20:18:54] wyrio: gl
+[20:18:57] BCraftMG: !mp settings
+[20:18:58] wyrio: owo
+[20:18:58] BanchoBot: Room name: STT3: (Q43-2) vs (Qualifiers), History: https://osu.ppy.sh/mp/101406813
+[20:18:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/2716029 Camellia - FLYING OUT TO THE SKY (covered by Nanahira, moimoi, Nana Takahashi) (Cut Ver.)
+[20:18:58] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:18:58] BanchoBot: Active mods: NoFail, HalfTime
+[20:18:58] BanchoBot: Players: 15
+[20:18:58] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14429830 Anderwear       
+[20:18:58] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17865200 -Tamiki-        
+[20:18:58] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13107500 Godot_          
+[20:18:58] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9057237 Parato          
+[20:18:58] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/6534834 Aixi            
+[20:18:58] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/14806365 chests          
+[20:18:58] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/10484034 tuctuctuctuctuc 
+[20:18:58] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/2763354 Bunan-          
+[20:18:58] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/9562353 Musubi          
+[20:18:58] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/9753306 Enjoyzeno       
+[20:18:58] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/12195496 Zacatel         
+[20:18:58] BanchoBot: Slot 12 Ready     https://osu.ppy.sh/u/6567341 Fuki            
+[20:18:58] BanchoBot: Slot 13 Ready     https://osu.ppy.sh/u/8984146 wyrio           
+[20:18:58] BanchoBot: Slot 14 Ready     https://osu.ppy.sh/u/874891 gxytcgxytc      
+[20:18:58] BanchoBot: Slot 15 Ready     https://osu.ppy.sh/u/2917990 jj986544591     
+[20:18:59] chests: glglhfhfh!
+[20:19:01] Fuki: glgl
+[20:19:05] Aixi: !roll
+[20:19:05] BanchoBot: Aixi rolls 7 point(s)
+[20:19:05] BCraftMG: !mp start 10
+[20:19:06] BanchoBot: Match starts in 10 seconds
+[20:19:06] BanchoBot: Queued the match to start in 10 seconds
+[20:19:08] Enjoyzeno: !roll
+[20:19:08] BanchoBot: Enjoyzeno rolls 88 point(s)
+[20:19:11] BanchoBot: Match starts in 5 seconds
+[20:19:12] BanchoBot: Match starts in 4 seconds
+[20:19:14] Aixi: >:(
+[20:19:14] BanchoBot: Match starts in 3 seconds
+[20:19:14] BanchoBot: Good luck, have fun!
+[20:19:16] BanchoBot: The match has started!
+[20:22:26] BanchoBot: Musubi finished playing (Score: 87667, PASSED).
+[20:22:27] BanchoBot: wyrio finished playing (Score: 70077, PASSED).
+[20:22:27] BanchoBot: Zacatel finished playing (Score: 155648, PASSED).
+[20:22:27] BanchoBot: Parato finished playing (Score: 39041, PASSED).
+[20:22:27] BanchoBot: jj986544591 finished playing (Score: 178819, PASSED).
+[20:22:27] BanchoBot: Bunan- finished playing (Score: 102055, PASSED).
+[20:22:27] BanchoBot: gxytcgxytc finished playing (Score: 157014, PASSED).
+[20:22:27] BanchoBot: Aixi finished playing (Score: 67866, PASSED).
+[20:22:27] BanchoBot: Fuki finished playing (Score: 95919, PASSED).
+[20:22:27] BanchoBot: Godot_ finished playing (Score: 20244, PASSED).
+[20:22:27] BanchoBot: chests finished playing (Score: 108396, PASSED).
+[20:22:29] BanchoBot: -Tamiki- finished playing (Score: 9011, PASSED).
+[20:22:29] BanchoBot: Anderwear finished playing (Score: 45815, PASSED).
+[20:22:30] BanchoBot: Enjoyzeno finished playing (Score: 40853, PASSED).
+[20:22:30] BanchoBot: tuctuctuctuctuc finished playing (Score: 60432, PASSED).
+[20:22:30] BanchoBot: The match has finished!
+[20:22:38] BanchoBot: jj986544591 left the game.
+[20:22:38] BanchoBot: tuctuctuctuctuc left the game.
+[20:22:42] BanchoBot: wyrio left the game.
+[20:22:42] BCraftMG: gg
+[20:22:43] BCraftMG: xd
+[20:22:43] gxytcgxytc: gg
+[20:22:44] BanchoBot: gxytcgxytc left the game.
+[20:22:46] Bunan-: gg
+[20:22:46] BanchoBot: Parato left the game.
+[20:22:46] BanchoBot: Bunan- left the game.
+[20:22:50] BanchoBot: Godot_ left the game.
+[20:22:52] BanchoBot: Aixi left the game.
+[20:22:52] BanchoBot: Anderwear left the game.
+[20:22:53] BanchoBot: Enjoyzeno left the game.
+[20:22:54] BanchoBot: chests left the game.
+[20:22:56] BanchoBot: -Tamiki- left the game.
+[20:23:01] Musubi: gg
+[20:23:04] BanchoBot: Musubi left the game.
+[20:23:05] BanchoBot: Zacatel left the game.
+[20:23:13] BanchoBot: Fuki left the game.
+[20:24:21] BCraftMG: !mp close
+[20:24:22] BanchoBot: Closed the match

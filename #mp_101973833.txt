@@ -1,0 +1,587 @@
+[19:18:14] Joined #mp_101973833
+[19:18:14] BCraftMG: !mp settings
+[19:18:16] BanchoBot: Room name: STT3: (juicelords) vs (McDo Workers), History: https://osu.ppy.sh/mp/101973833
+[19:18:16] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:18:16] BanchoBot: Players: 6
+[19:18:16] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/14520123 Mains           [Team Red ]
+[19:18:16] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/10589723 Kanade Soku     [Team Red ]
+[19:18:16] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/10722298 NakiriAyame     [Team Blue]
+[19:18:16] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/16420104 Mimil           [Team Blue]
+[19:18:16] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/14951633 LouisD          [Team Blue]
+[19:18:16] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/7990049 Foahcha         [Team Blue]
+[19:18:17] Mains: Fm2
+[19:18:21] BanchoBot: NakiriAyame changed to Red
+[19:18:27] Stage: !mp map 2643263 0
+[19:18:27] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2643263 Shawn Wasabi - LEMONS feat. kennedi
+[19:18:27] BanchoBot: Changed match mode to Osu
+[19:18:33] Stage: !mp mods  NF Freemod
+[19:18:33] BanchoBot: Disabled all mods, enabled FreeMod
+[19:18:41] Mains: banger song
+[19:18:45] Stage: "1 Player with HD (no HR) / 1 Player with HR (no HD) / Teams must have 3+ mods"
+[19:18:47] NakiriAyame: hi stage
+[19:18:53] Stage: hey!
+[19:18:53] BanchoBot: Countdown ends in 1 minute
+[19:19:03] BanchoBot: Mains left the game.
+[19:19:04] NakiriAyame: my teammate hand hurts
+[19:19:05] NakiriAyame: :(
+[19:19:07] BanchoBot: Wingo joined in slot 1 for team blue.
+[19:19:16] Stage: :C
+[19:19:20] LouisD: oof
+[19:19:22] BanchoBot: Countdown ends in 30 seconds
+[19:19:34] Stage: !mp timer 75
+[19:19:34] BanchoBot: Countdown aborted
+[19:19:34] BanchoBot: Countdown ends in 1 minute and 15 seconds
+[19:19:36] LouisD: wingo red plz
+[19:19:40] BanchoBot: Wingo changed to Red
+[19:19:44] Stage: !mp settings
+[19:19:44] BanchoBot: Room name: STT3: (juicelords) vs (McDo Workers), History: https://osu.ppy.sh/mp/101973833
+[19:19:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/2643263 Shawn Wasabi - LEMONS feat. kennedi
+[19:19:44] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:19:44] BanchoBot: Active mods: Freemod
+[19:19:44] BanchoBot: Players: 6
+[19:19:44] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/9047034 Wingo           [Team Red  / NoFail, HardRock]
+[19:19:44] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/10589723 Kanade Soku     [Team Red  / NoFail, Hidden]
+[19:19:44] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/10722298 NakiriAyame     [Team Red  / NoFail, HardRock]
+[19:19:44] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16420104 Mimil           [Team Blue / NoFail, HardRock]
+[19:19:44] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/14951633 LouisD          [Team Blue / NoFail, Hidden]
+[19:19:44] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/7990049 Foahcha         [Team Blue / NoFail, Easy]
+[19:19:48] BanchoBot: Countdown ends in 1 minute
+[19:20:10] BanchoBot: All players are ready
+[19:20:12] LouisD: glhf
+[19:20:14] Stage: !mp settings
+[19:20:14] BanchoBot: Room name: STT3: (juicelords) vs (McDo Workers), History: https://osu.ppy.sh/mp/101973833
+[19:20:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/2643263 Shawn Wasabi - LEMONS feat. kennedi
+[19:20:14] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:20:14] BanchoBot: Active mods: Freemod
+[19:20:14] BanchoBot: Players: 6
+[19:20:14] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9047034 Wingo           [Team Red  / NoFail, HardRock]
+[19:20:14] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10589723 Kanade Soku     [Team Red  / NoFail, Hidden]
+[19:20:14] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10722298 NakiriAyame     [Team Red  / NoFail, HardRock]
+[19:20:14] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16420104 Mimil           [Team Blue / NoFail, HardRock]
+[19:20:14] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/14951633 LouisD          [Team Blue / NoFail, Hidden]
+[19:20:14] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/7990049 Foahcha         [Team Blue / NoFail, Easy]
+[19:20:18] BanchoBot: Countdown ends in 30 seconds
+[19:20:20] Stage: !mp start 10
+[19:20:20] BanchoBot: Countdown aborted
+[19:20:20] BanchoBot: Match starts in 10 seconds
+[19:20:20] BanchoBot: Queued the match to start in 10 seconds
+[19:20:22] Stage: glhf!
+[19:20:22] Kanade_Soku: sorry
+[19:20:22] Foahcha: gl hf
+[19:20:24] BanchoBot: Match starts in 5 seconds
+[19:20:26] BanchoBot: Match starts in 4 seconds
+[19:20:26] Mimil: glhf
+[19:20:26] BanchoBot: Match starts in 3 seconds
+[19:20:28] BanchoBot: Good luck, have fun!
+[19:20:30] BanchoBot: The match has started!
+[19:21:23] BCraftMG: !mp settings
+[19:21:23] BanchoBot: Room name: STT3: (juicelords) vs (McDo Workers), History: https://osu.ppy.sh/mp/101973833
+[19:21:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/2643263 Shawn Wasabi - LEMONS feat. kennedi
+[19:21:23] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:21:23] BanchoBot: Active mods: Freemod
+[19:21:23] BanchoBot: Players: 6
+[19:21:23] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/9047034 Wingo           [Team Red  / NoFail, HardRock]
+[19:21:23] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/10589723 Kanade Soku     [Team Red  / NoFail, Hidden]
+[19:21:23] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/10722298 NakiriAyame     [Team Red  / NoFail, HardRock]
+[19:21:23] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/16420104 Mimil           [Team Blue / NoFail, HardRock]
+[19:21:23] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/14951633 LouisD          [Team Blue / NoFail, Hidden]
+[19:21:23] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/7990049 Foahcha         [Team Blue / NoFail, Easy]
+[19:23:13] BanchoBot: NakiriAyame finished playing (Score: 287920, PASSED).
+[19:23:13] BanchoBot: LouisD finished playing (Score: 525697, PASSED).
+[19:23:13] BanchoBot: Mimil finished playing (Score: 388465, PASSED).
+[19:23:13] BanchoBot: Foahcha finished playing (Score: 250595, PASSED).
+[19:23:13] BanchoBot: Wingo finished playing (Score: 677114, PASSED).
+[19:23:13] BanchoBot: Kanade Soku finished playing (Score: 504565, PASSED).
+[19:23:13] BanchoBot: The match has finished!
+[19:23:24] Stage: Hi guys BCraftMG will be taking over
+[19:23:30] Stage: <3
+[19:23:40] Foahcha: o7
+[19:23:50] Stage: BCraft, all good?
+[19:23:54] LouisD: i'm restarting my game we pick EZ1
+[19:23:56] BanchoBot: LouisD left the game.
+[19:24:12] BanchoBot: Wingo left the game.
+[19:24:18] BanchoBot: LouisD joined in slot 1 for team blue.
+[19:24:22] BanchoBot: Mains joined in slot 5 for team blue.
+[19:24:26] BanchoBot: Mains changed to Red
+[19:24:28] BanchoBot: Mains left the game.
+[19:24:32] BanchoBot: LouisD moved to slot 5
+[19:24:43] BCraftMG: juicelords | 1 - 0 | McDo Workers // Next Pick: McDo Workers
+[19:24:45] BCraftMG: !mp timer 120
+[19:24:46] BanchoBot: Countdown ends in 2 minutes
+[19:24:54] LouisD: ez1
+[19:25:06] BCraftMG: !mp map 2593908
+[19:25:06] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2593908 miyashita yuu - p.h.
+[19:25:14] BCraftMG: !mp mods EZ NF
+[19:25:16] BCraftMG: !mp timer 120
+[19:25:16] BanchoBot: Enabled NoFail, Easy, disabled FreeMod
+[19:25:18] BanchoBot: Countdown aborted
+[19:25:18] BanchoBot: Countdown ends in 2 minutes
+[19:25:21] BCraftMG: ye i was counting score
+[19:25:32] Mimil: np np
+[19:25:50] BanchoBot: Mains joined in slot 1 for team blue.
+[19:25:50] BanchoBot: Mains changed to Red
+[19:26:20] BanchoBot: Countdown ends in 1 minute
+[19:26:30] LouisD: glhf
+[19:26:35] Foahcha: gl hf
+[19:26:39] Mains: glhf
+[19:26:39] BanchoBot: All players are ready
+[19:26:42] BCraftMG: !mp settings
+[19:26:42] NakiriAyame: glhf
+[19:26:42] Mains: i hate ez
+[19:26:42] Mimil: glhf
+[19:26:44] BanchoBot: Room name: STT3: (juicelords) vs (McDo Workers), History: https://osu.ppy.sh/mp/101973833
+[19:26:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/2593908 miyashita yuu - p.h.
+[19:26:44] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:26:44] BanchoBot: Active mods: NoFail, Easy
+[19:26:44] BanchoBot: Players: 6
+[19:26:44] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14520123 Mains           [Team Red ]
+[19:26:44] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10589723 Kanade Soku     [Team Red ]
+[19:26:44] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10722298 NakiriAyame     [Team Red ]
+[19:26:44] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16420104 Mimil           [Team Blue]
+[19:26:44] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/14951633 LouisD          [Team Blue]
+[19:26:44] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/7990049 Foahcha         [Team Blue]
+[19:26:45] BCraftMG: !mp start 10
+[19:26:45] Kanade_Soku: glhf
+[19:26:45] BanchoBot: Countdown aborted
+[19:26:45] BanchoBot: Match starts in 10 seconds
+[19:26:45] BanchoBot: Queued the match to start in 10 seconds
+[19:26:47] LouisD: *i love
+[19:26:52] BanchoBot: Match starts in 5 seconds
+[19:26:52] BanchoBot: Match starts in 4 seconds
+[19:26:53] Mains: :(
+[19:26:53] BanchoBot: Match starts in 3 seconds
+[19:26:55] BanchoBot: Good luck, have fun!
+[19:26:57] BanchoBot: The match has started!
+[19:29:36] BanchoBot: Mains finished playing (Score: 31039, PASSED).
+[19:29:38] BanchoBot: LouisD finished playing (Score: 238736, PASSED).
+[19:29:38] BanchoBot: Kanade Soku finished playing (Score: 302022, PASSED).
+[19:29:38] BanchoBot: Foahcha finished playing (Score: 266403, PASSED).
+[19:29:38] BanchoBot: Mimil finished playing (Score: 78339, PASSED).
+[19:29:38] BanchoBot: NakiriAyame finished playing (Score: 35705, PASSED).
+[19:29:38] BanchoBot: The match has finished!
+[19:30:02] BCraftMG: juicelords | 1 - 1 | McDo Workers // Next Pick: juicelords
+[19:30:03] BCraftMG: !mp timer 120
+[19:30:04] BanchoBot: Countdown ends in 2 minutes
+[19:30:25] Mains: hr2
+[19:30:35] BanchoBot: LouisD left the game.
+[19:30:39] BanchoBot: Draxarta joined in slot 5 for team blue.
+[19:30:41] BanchoBot: Kanade Soku left the game.
+[19:30:41] BCraftMG: !mp mods HR NF
+[19:30:41] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[19:30:43] BCraftMG: !mp map 1985593 0
+[19:30:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1985593 Hanatan - WAVE
+[19:30:43] BanchoBot: Changed match mode to Osu
+[19:30:45] BCraftMG: !mp timer 120
+[19:30:45] BanchoBot: Countdown aborted
+[19:30:45] BanchoBot: Countdown ends in 2 minutes
+[19:30:53] NakiriAyame: hi stage
+[19:31:11] BCraftMG: Stage is no longer here
+[19:31:19] BCraftMG: :(
+[19:31:28] Mains: my tm8 is something else
+[19:31:45] BanchoBot: Countdown ends in 1 minute
+[19:32:01] NakiriAyame: do you guys know who wingo9967 is
+[19:32:01] Mains: no
+[19:32:07] BanchoBot: Wingo joined in slot 2 for team red.
+[19:32:07] Draxarta: no
+[19:32:15] BanchoBot: Countdown ends in 30 seconds
+[19:32:25] NakiriAyame: do you guys know who hunnekotatsuiketaniosu is
+[19:32:29] Mains: this guy is Chatting
+[19:32:35] BanchoBot: Countdown ends in 10 seconds
+[19:32:37] Draxarta: true
+[19:32:39] Draxarta: gl
+[19:32:39] BanchoBot: Countdown ends in 5 seconds
+[19:32:41] BanchoBot: Countdown ends in 4 seconds
+[19:32:41] BanchoBot: Countdown ends in 3 seconds
+[19:32:41] BanchoBot: All players are ready
+[19:32:43] BanchoBot: Countdown ends in 2 seconds
+[19:32:43] BanchoBot: Countdown ends in 1 second
+[19:32:45] BanchoBot: Countdown finished
+[19:32:46] BCraftMG: !mp settings
+[19:32:47] Mains: glhf
+[19:32:47] BanchoBot: All players are ready
+[19:32:47] BanchoBot: Room name: STT3: (juicelords) vs (McDo Workers), History: https://osu.ppy.sh/mp/101973833
+[19:32:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/1985593 Hanatan - WAVE
+[19:32:47] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:32:47] BanchoBot: Active mods: NoFail, HardRock
+[19:32:47] BanchoBot: Players: 6
+[19:32:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14520123 Mains           [Team Red ]
+[19:32:47] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9047034 Wingo           [Team Red ]
+[19:32:47] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10722298 NakiriAyame     [Team Red ]
+[19:32:47] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16420104 Mimil           [Team Blue]
+[19:32:47] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11129041 Draxarta        [Team Blue]
+[19:32:47] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/7990049 Foahcha         [Team Blue]
+[19:32:49] BCraftMG: !mp start 10
+[19:32:49] BanchoBot: Match starts in 10 seconds
+[19:32:49] BanchoBot: Queued the match to start in 10 seconds
+[19:32:55] BanchoBot: Match starts in 5 seconds
+[19:32:55] BanchoBot: Match starts in 4 seconds
+[19:32:57] BanchoBot: Match starts in 3 seconds
+[19:32:57] BanchoBot: Good luck, have fun!
+[19:32:59] BanchoBot: The match has started!
+[19:36:17] BanchoBot: Wingo finished playing (Score: 622916, PASSED).
+[19:36:17] BanchoBot: NakiriAyame finished playing (Score: 458246, PASSED).
+[19:36:17] BanchoBot: Foahcha finished playing (Score: 684088, PASSED).
+[19:36:17] BanchoBot: Draxarta finished playing (Score: 352059, PASSED).
+[19:36:17] BanchoBot: Mains finished playing (Score: 441731, PASSED).
+[19:36:21] BanchoBot: Mimil finished playing (Score: 334925, PASSED).
+[19:36:21] BanchoBot: The match has finished!
+[19:36:23] BCraftMG: juicelords : 2 | 1 : McDo Workers
+[19:36:25] BCraftMG: Next team to pick: McDo Workers
+[19:36:27] BCraftMG: !mp timer 120
+[19:36:27] BanchoBot: Countdown ends in 2 minutes
+[19:36:41] BanchoBot: Draxarta left the game.
+[19:36:45] BanchoBot: LouisD joined in slot 5 for team blue.
+[19:36:47] BanchoBot: Wingo left the game.
+[19:37:26] BanchoBot: Countdown ends in 1 minute
+[19:37:36] LouisD: HT1
+[19:37:53] BCraftMG: !mp mods NoMod
+[19:37:53] BanchoBot: Disabled all mods, disabled FreeMod
+[19:37:55] BCraftMG: !mp map 129891 0
+[19:37:55] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/129891 xi - FREEDOM DiVE
+[19:37:55] BanchoBot: Changed match mode to Osu
+[19:37:57] BCraftMG: !mp timer 120
+[19:37:57] BanchoBot: Countdown aborted
+[19:37:57] BanchoBot: Countdown ends in 2 minutes
+[19:38:01] BCraftMG: !mp mods HT NF
+[19:38:01] BanchoBot: Enabled NoFail, HalfTime, disabled FreeMod
+[19:38:29] BanchoBot: Kanade Soku joined in slot 2 for team red.
+[19:38:35] BanchoBot: NakiriAyame left the game.
+[19:38:39] BanchoBot: NakiriAyame joined in slot 3 for team blue.
+[19:38:53] BanchoBot: NakiriAyame changed to Red
+[19:38:57] BanchoBot: Countdown ends in 1 minute
+[19:38:59] LouisD: glhf
+[19:39:03] Mains: glhf
+[19:39:21] Mimil: glhf
+[19:39:26] Foahcha: gl hf
+[19:39:26] BanchoBot: Countdown ends in 30 seconds
+[19:39:28] BanchoBot: All players are ready
+[19:39:33] BCraftMG: !mp settings
+[19:39:34] BanchoBot: Room name: STT3: (juicelords) vs (McDo Workers), History: https://osu.ppy.sh/mp/101973833
+[19:39:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/129891 xi - FREEDOM DiVE
+[19:39:34] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:39:34] BanchoBot: Active mods: NoFail, HalfTime
+[19:39:34] BanchoBot: Players: 6
+[19:39:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14520123 Mains           [Team Red ]
+[19:39:34] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10589723 Kanade Soku     [Team Red ]
+[19:39:34] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10722298 NakiriAyame     [Team Red ]
+[19:39:34] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16420104 Mimil           [Team Blue]
+[19:39:34] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/14951633 LouisD          [Team Blue]
+[19:39:34] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/7990049 Foahcha         [Team Blue]
+[19:39:36] BCraftMG: !mp start 10
+[19:39:38] Mains: guys im gonna get 727 combo
+[19:39:38] BanchoBot: Countdown aborted
+[19:39:38] BanchoBot: Match starts in 10 seconds
+[19:39:38] BanchoBot: Queued the match to start in 10 seconds
+[19:39:40] Kanade_Soku: im sorry
+[19:39:42] LouisD: omg
+[19:39:42] Kanade_Soku: i will drop 10k
+[19:39:44] Kanade_Soku: im sorry
+[19:39:44] BanchoBot: Match starts in 5 seconds
+[19:39:44] BanchoBot: Match starts in 4 seconds
+[19:39:46] BanchoBot: Match starts in 3 seconds
+[19:39:46] BanchoBot: Good luck, have fun!
+[19:39:48] BanchoBot: The match has started!
+[19:45:46] BanchoBot: NakiriAyame finished playing (Score: 49616, PASSED).
+[19:45:46] BanchoBot: LouisD finished playing (Score: 45127, PASSED).
+[19:45:46] BanchoBot: Mains finished playing (Score: 22020, PASSED).
+[19:45:46] BanchoBot: Mimil finished playing (Score: 91750, PASSED).
+[19:45:46] BanchoBot: Foahcha finished playing (Score: 147942, PASSED).
+[19:45:46] BanchoBot: Kanade Soku finished playing (Score: 46617, PASSED).
+[19:45:46] BanchoBot: The match has finished!
+[19:45:50] BCraftMG: juicelords : 2 | 2 : McDo Workers
+[19:45:52] BCraftMG: Next team to pick: juicelords
+[19:45:54] BCraftMG: !mp timer 120
+[19:45:54] BanchoBot: Countdown ends in 2 minutes
+[19:46:38] Mains: Fm1
+[19:46:47] BCraftMG: !mp mods Freemod NF
+[19:46:47] BanchoBot: Disabled all mods, enabled FreeMod
+[19:46:47] BanchoBot: Foahcha left the game.
+[19:46:49] BCraftMG: !mp map 2623025 0
+[19:46:49] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2623025 Nekomata Master+ - chaos eater -IIDX edition-
+[19:46:49] BanchoBot: Changed match mode to Osu
+[19:46:51] BCraftMG: !mp timer 120
+[19:46:51] BanchoBot: Countdown aborted
+[19:46:51] BanchoBot: Countdown ends in 2 minutes
+[19:46:53] BanchoBot: NakiriAyame left the game.
+[19:46:59] BanchoBot: Wingo joined in slot 3 for team blue.
+[19:47:19] BanchoBot: Draxarta joined in slot 6 for team red.
+[19:47:26] Kanade_Soku: draxarta
+[19:47:26] BanchoBot: Draxarta changed to Blue
+[19:47:28] Kanade_Soku: hiii
+[19:47:28] Kanade_Soku: hiiii
+[19:47:30] Draxarta: o/
+[19:47:40] LouisD: wingo go red owo
+[19:47:51] BanchoBot: Countdown ends in 1 minute
+[19:47:55] BanchoBot: Wingo changed to Red
+[19:47:59] Wingo: thanks
+[19:48:05] LouisD: glhf
+[19:48:09] Wingo: glhf
+[19:48:13] Draxarta: glhf
+[19:48:19] BanchoBot: All players are ready
+[19:48:21] BanchoBot: Countdown ends in 30 seconds
+[19:48:23] BCraftMG: !mp settings
+[19:48:24] BanchoBot: Room name: STT3: (juicelords) vs (McDo Workers), History: https://osu.ppy.sh/mp/101973833
+[19:48:24] BanchoBot: Beatmap: https://osu.ppy.sh/b/2623025 Nekomata Master+ - chaos eater -IIDX edition-
+[19:48:24] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:48:24] BanchoBot: Active mods: Freemod
+[19:48:24] BanchoBot: Players: 6
+[19:48:24] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14520123 Mains           [Team Red  / NoFail, Hidden]
+[19:48:24] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10589723 Kanade Soku     [Team Red  / NoFail, Hidden]
+[19:48:24] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9047034 Wingo           [Team Red  / NoFail, HardRock]
+[19:48:24] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16420104 Mimil           [Team Blue / NoFail, HardRock]
+[19:48:24] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/14951633 LouisD          [Team Blue / NoFail, Hidden]
+[19:48:24] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11129041 Draxarta        [Team Blue / NoFail, Hidden]
+[19:48:27] BCraftMG: !mp start 10
+[19:48:27] BanchoBot: Countdown aborted
+[19:48:27] BanchoBot: Match starts in 10 seconds
+[19:48:27] BanchoBot: Queued the match to start in 10 seconds
+[19:48:33] BanchoBot: Match starts in 5 seconds
+[19:48:33] BanchoBot: Match starts in 4 seconds
+[19:48:35] BanchoBot: Match starts in 3 seconds
+[19:48:35] BanchoBot: Good luck, have fun!
+[19:48:37] BanchoBot: The match has started!
+[19:50:39] BanchoBot: Kanade Soku finished playing (Score: 556710, PASSED).
+[19:50:39] BanchoBot: Mains finished playing (Score: 384567, PASSED).
+[19:50:39] BanchoBot: Wingo finished playing (Score: 585432, PASSED).
+[19:50:39] BanchoBot: Draxarta finished playing (Score: 377719, PASSED).
+[19:50:39] BanchoBot: LouisD finished playing (Score: 371779, PASSED).
+[19:50:39] BanchoBot: Mimil finished playing (Score: 248349, PASSED).
+[19:50:39] BanchoBot: The match has finished!
+[19:50:43] BCraftMG: juicelords : 3 | 2 : McDo Workers
+[19:50:45] BCraftMG: Next team to pick: McDo Workers
+[19:50:47] BCraftMG: !mp timer 120
+[19:50:47] BanchoBot: Countdown ends in 2 minutes
+[19:51:14] BanchoBot: Wingo left the game.
+[19:51:26] LouisD: nm2
+[19:51:32] BanchoBot: Kanade Soku left the game.
+[19:51:39] BanchoBot: NakiriAyame joined in slot 2 for team red.
+[19:51:41] BCraftMG: !mp mods NF
+[19:51:41] BanchoBot: Enabled NoFail, disabled FreeMod
+[19:51:43] BCraftMG: !mp map 734096 0
+[19:51:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/734096 Azel - -Astraia-
+[19:51:43] BanchoBot: Changed match mode to Osu
+[19:51:45] BCraftMG: !mp timer 120
+[19:51:45] BanchoBot: Countdown aborted
+[19:51:45] BanchoBot: Countdown ends in 2 minutes
+[19:52:04] BanchoBot: LouisD left the game.
+[19:52:12] BanchoBot: Foahcha joined in slot 3 for team blue.
+[19:52:18] BanchoBot: Foahcha moved to slot 5
+[19:52:45] BanchoBot: Countdown ends in 1 minute
+[19:53:12] BanchoBot: Kristine joined in slot 3 for team blue.
+[19:53:14] BanchoBot: Countdown ends in 30 seconds
+[19:53:33] BanchoBot: Kristine changed to Red
+[19:53:35] BanchoBot: Countdown ends in 10 seconds
+[19:53:39] BanchoBot: Countdown ends in 5 seconds
+[19:53:41] BanchoBot: Countdown ends in 4 seconds
+[19:53:41] BanchoBot: Countdown ends in 3 seconds
+[19:53:43] BanchoBot: Countdown ends in 2 seconds
+[19:53:43] BanchoBot: Countdown ends in 1 second
+[19:53:45] BanchoBot: Countdown finished
+[19:53:45] Draxarta: gl
+[19:53:49] BCraftMG: !mp settings
+[19:53:52] BanchoBot: Room name: STT3: (juicelords) vs (McDo Workers), History: https://osu.ppy.sh/mp/101973833
+[19:53:52] BanchoBot: Beatmap: https://osu.ppy.sh/b/734096 Azel - -Astraia-
+[19:53:52] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:53:52] BanchoBot: Active mods: NoFail
+[19:53:52] BanchoBot: Players: 6
+[19:53:52] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14520123 Mains           [Team Red ]
+[19:53:52] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10722298 NakiriAyame     [Team Red ]
+[19:53:52] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10466844 Kristine        [Team Red ]
+[19:53:52] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/16420104 Mimil           [Team Blue]
+[19:53:52] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/7990049 Foahcha         [Team Blue]
+[19:53:52] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/11129041 Draxarta        [Team Blue]
+[19:53:54] Mains: glgl
+[19:53:58] BCraftMG: ready up
+[19:53:58] BCraftMG: please
+[19:54:04] BanchoBot: All players are ready
+[19:54:05] BCraftMG: !mp settings
+[19:54:06] Draxarta: ùb
+[19:54:06] BanchoBot: Room name: STT3: (juicelords) vs (McDo Workers), History: https://osu.ppy.sh/mp/101973833
+[19:54:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/734096 Azel - -Astraia-
+[19:54:06] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:54:06] BanchoBot: Active mods: NoFail
+[19:54:06] BanchoBot: Players: 6
+[19:54:06] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14520123 Mains           [Team Red ]
+[19:54:06] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10722298 NakiriAyame     [Team Red ]
+[19:54:06] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10466844 Kristine        [Team Red ]
+[19:54:06] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16420104 Mimil           [Team Blue]
+[19:54:06] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/7990049 Foahcha         [Team Blue]
+[19:54:06] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11129041 Draxarta        [Team Blue]
+[19:54:08] Draxarta: mb
+[19:54:09] BCraftMG: !mp start 10
+[19:54:10] BanchoBot: Match starts in 10 seconds
+[19:54:10] BanchoBot: Queued the match to start in 10 seconds
+[19:54:16] BanchoBot: Match starts in 5 seconds
+[19:54:16] BanchoBot: Match starts in 4 seconds
+[19:54:18] BanchoBot: Match starts in 3 seconds
+[19:54:18] BanchoBot: Good luck, have fun!
+[19:54:20] BanchoBot: The match has started!
+[19:57:03] BanchoBot: Kristine finished playing (Score: 284137, PASSED).
+[19:57:03] BanchoBot: Mains finished playing (Score: 686881, PASSED).
+[19:57:03] BanchoBot: Draxarta finished playing (Score: 575852, PASSED).
+[19:57:03] BanchoBot: Foahcha finished playing (Score: 963461, PASSED).
+[19:57:03] BanchoBot: Mimil finished playing (Score: 936384, PASSED).
+[19:57:03] BanchoBot: NakiriAyame finished playing (Score: 500610, PASSED).
+[19:57:03] BanchoBot: The match has finished!
+[19:57:07] BCraftMG: juicelords : 3 | 3 : McDo Workers
+[19:57:09] BCraftMG: Next team to pick: juicelords
+[19:57:11] BCraftMG: !mp timer 120
+[19:57:11] BanchoBot: Countdown ends in 2 minutes
+[19:57:17] BanchoBot: Kristine left the game.
+[19:57:32] BanchoBot: Draxarta left the game.
+[19:57:47] BanchoBot: Draxarta joined in slot 3 for team blue.
+[19:57:49] BanchoBot: Draxarta moved to slot 6
+[19:58:11] BanchoBot: Countdown ends in 1 minute
+[19:58:41] BanchoBot: Countdown ends in 30 seconds
+[19:58:49] BanchoBot: LouisD joined in slot 3 for team blue.
+[19:58:55] Mains: nm3
+[19:59:01] BanchoBot: Countdown ends in 10 seconds
+[19:59:03] BanchoBot: Draxarta left the game.
+[19:59:03] BCraftMG: !mp mods NF
+[19:59:03] BanchoBot: Enabled NoFail, disabled FreeMod
+[19:59:05] BCraftMG: !mp map 3215999 0
+[19:59:05] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3215999 cybermiso - FFT
+[19:59:05] BanchoBot: Changed match mode to Osu
+[19:59:05] BanchoBot: Countdown ends in 5 seconds
+[19:59:08] BanchoBot: Countdown ends in 4 seconds
+[19:59:08] BCraftMG: !mp timer 120
+[19:59:08] BanchoBot: Countdown aborted
+[19:59:08] BanchoBot: Countdown ends in 2 minutes
+[19:59:20] BanchoBot: Mimil left the game.
+[19:59:28] BanchoBot: LouisD moved to slot 4
+[19:59:28] BanchoBot: Wingo joined in slot 3 for team blue.
+[19:59:35] BanchoBot: Wingo changed to Red
+[19:59:39] Wingo: I DID IT I SWAPPED TO RED
+[19:59:43] Wingo: are you proud of me louis
+[19:59:48] BCraftMG: yes
+[19:59:49] BanchoBot: Draxarta joined in slot 6 for team red.
+[19:59:53] BanchoBot: Draxarta changed to Blue
+[20:00:04] LouisD: POH
+[20:00:04] LouisD: G
+[20:00:06] BanchoBot: All players are ready
+[20:00:08] BanchoBot: Countdown ends in 1 minute
+[20:00:10] Draxarta: gl
+[20:00:12] BCraftMG: !mp settings
+[20:00:14] LouisD: *glhf
+[20:00:14] BanchoBot: Room name: STT3: (juicelords) vs (McDo Workers), History: https://osu.ppy.sh/mp/101973833
+[20:00:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/3215999 cybermiso - FFT
+[20:00:14] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:00:14] BanchoBot: Active mods: NoFail
+[20:00:14] BanchoBot: Players: 6
+[20:00:14] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14520123 Mains           [Team Red ]
+[20:00:14] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10722298 NakiriAyame     [Team Red ]
+[20:00:14] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9047034 Wingo           [Team Red ]
+[20:00:14] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14951633 LouisD          [Team Blue]
+[20:00:14] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/7990049 Foahcha         [Team Blue]
+[20:00:14] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11129041 Draxarta        [Team Blue]
+[20:00:15] BCraftMG: !mp start 10
+[20:00:16] BanchoBot: Countdown aborted
+[20:00:16] BanchoBot: Match starts in 10 seconds
+[20:00:16] BanchoBot: Queued the match to start in 10 seconds
+[20:00:20] Mains: glhf
+[20:00:22] BanchoBot: Match starts in 5 seconds
+[20:00:22] BanchoBot: Match starts in 4 seconds
+[20:00:25] BanchoBot: Match starts in 3 seconds
+[20:00:25] BanchoBot: Good luck, have fun!
+[20:00:27] BanchoBot: The match has started!
+[20:02:38] BanchoBot: Foahcha finished playing (Score: 917332, PASSED).
+[20:02:38] BanchoBot: Draxarta finished playing (Score: 599151, PASSED).
+[20:02:38] BanchoBot: Mains finished playing (Score: 415223, PASSED).
+[20:02:38] BanchoBot: NakiriAyame finished playing (Score: 434921, PASSED).
+[20:02:40] BanchoBot: Wingo finished playing (Score: 607744, PASSED).
+[20:02:42] BanchoBot: LouisD finished playing (Score: 544792, PASSED).
+[20:02:42] BanchoBot: The match has finished!
+[20:02:44] BCraftMG: juicelords : 3 | 4 : McDo Workers
+[20:02:46] BCraftMG: Next team to pick: McDo Workers
+[20:02:48] BCraftMG: !mp timer 120
+[20:02:48] BanchoBot: Countdown ends in 2 minutes
+[20:03:49] BanchoBot: Countdown ends in 1 minute
+[20:04:03] LouisD: DT2
+[20:04:18] BanchoBot: Countdown ends in 30 seconds
+[20:04:22] BanchoBot: NakiriAyame left the game.
+[20:04:26] BanchoBot: LouisD left the game.
+[20:04:33] BCraftMG: !mp mods DT NF
+[20:04:33] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[20:04:35] BCraftMG: !mp map 3335524 0
+[20:04:35] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3335524 Keeno - EOS
+[20:04:35] BanchoBot: Changed match mode to Osu
+[20:04:37] BCraftMG: !mp timer 120
+[20:04:37] BanchoBot: Countdown aborted
+[20:04:37] BanchoBot: Countdown ends in 2 minutes
+[20:04:37] BanchoBot: Mimil joined in slot 2 for team red.
+[20:05:01] BanchoBot: Mimil moved to slot 4
+[20:05:03] BanchoBot: Mimil changed to Blue
+[20:05:05] BanchoBot: Wingo moved to slot 2
+[20:05:20] BanchoBot: NakiriAyame joined in slot 3 for team blue.
+[20:05:24] BanchoBot: NakiriAyame changed to Red
+[20:05:36] BanchoBot: Countdown ends in 1 minute
+[20:05:59] BanchoBot: All players are ready
+[20:06:00] BCraftMG: !mp settings
+[20:06:02] Draxarta: glhf
+[20:06:02] BanchoBot: Room name: STT3: (juicelords) vs (McDo Workers), History: https://osu.ppy.sh/mp/101973833
+[20:06:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/3335524 Keeno - EOS
+[20:06:02] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:06:02] BanchoBot: Active mods: NoFail, DoubleTime
+[20:06:02] BanchoBot: Players: 6
+[20:06:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/14520123 Mains           [Team Red ]
+[20:06:02] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9047034 Wingo           [Team Red ]
+[20:06:02] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10722298 NakiriAyame     [Team Red ]
+[20:06:02] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16420104 Mimil           [Team Blue]
+[20:06:02] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/7990049 Foahcha         [Team Blue]
+[20:06:02] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11129041 Draxarta        [Team Blue]
+[20:06:04] BCraftMG: !mp start 10
+[20:06:06] Mimil: glhf
+[20:06:06] Foahcha: gl hf
+[20:06:06] Mains: glhf
+[20:06:06] BanchoBot: Countdown aborted
+[20:06:06] BanchoBot: Match starts in 10 seconds
+[20:06:06] BanchoBot: Queued the match to start in 10 seconds
+[20:06:08] Wingo: gklhf
+[20:06:12] BanchoBot: Match starts in 5 seconds
+[20:06:12] BanchoBot: Match starts in 4 seconds
+[20:06:14] BanchoBot: Match starts in 3 seconds
+[20:06:14] BanchoBot: Good luck, have fun!
+[20:06:16] BanchoBot: The match has started!
+[20:08:28] BanchoBot: Mains finished playing (Score: 449847, PASSED).
+[20:08:28] BanchoBot: Foahcha finished playing (Score: 870914, PASSED).
+[20:08:28] BanchoBot: Draxarta finished playing (Score: 764298, PASSED).
+[20:08:28] BanchoBot: NakiriAyame finished playing (Score: 547429, PASSED).
+[20:08:28] BanchoBot: Wingo finished playing (Score: 878639, PASSED).
+[20:08:28] BanchoBot: Mimil finished playing (Score: 810024, PASSED).
+[20:08:28] BanchoBot: The match has finished!
+[20:08:32] BCraftMG: juicelords : 3 | 5 : McDo Workers
+[20:08:34] BCraftMG: **McDo Workers wins the match**
+[20:08:47] Wingo: gg
+[20:08:53] Foahcha: gg guys
+[20:08:53] Draxarta: gg
+[20:08:55] Draxarta: wp
+[20:08:55] Mains: gg
+[20:08:57] NakiriAyame: gg
+[20:08:59] NakiriAyame: thanks for ref
+[20:09:01] NakiriAyame: firetruck you french people
+[20:09:03] BanchoBot: NakiriAyame left the game.
+[20:09:03] BanchoBot: LouisD joined in slot 3 for team blue.
+[20:09:08] LouisD: ggwp
+[20:09:08] BanchoBot: Mains left the game.
+[20:09:08] Draxarta: :'(
+[20:09:08] LouisD: ty for ref
+[20:09:10] Foahcha: o7
+[20:09:12] Foahcha: thx ref
+[20:09:16] Draxarta: o/
+[20:09:17] BCraftMG: <3
+[20:09:19] BanchoBot: Wingo left the game.
+[20:09:19] Draxarta: ty for ref
+[20:09:20] BCraftMG: ggwp everyone
+[20:09:29] BanchoBot: Foahcha left the game.
+[20:09:31] BanchoBot: LouisD left the game.
+[20:09:31] Draxarta: u2 ref
+[20:09:38] BCraftMG: o/
+[20:09:42] Draxarta: see you next time
+[20:09:44] Draxarta: o/
+[20:09:44] BanchoBot: Draxarta left the game.
+[20:10:42] BanchoBot: LouisD joined in slot 1 for team blue.
+[20:10:55] Mimil: gg all
+[20:10:57] Mimil: thx for ref
+[20:11:03] BanchoBot: Mimil left the game.
+[20:16:17] BanchoBot: LouisD left the game.
+[21:47:46] BCraftMG: !mp settings

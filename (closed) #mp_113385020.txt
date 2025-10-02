@@ -1,0 +1,502 @@
+[21:56:25] Joined #mp_113385020
+[21:56:25] BCraftMG: !mp settings
+[21:56:26] BanchoBot: Room name: 4WC24VN Tryout: Lobby B5, History: https://osu.ppy.sh/mp/113385020
+[21:56:26] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[21:56:26] BanchoBot: Players: 0
+[21:56:47] BCraftMG: !mp set 0 3 8
+[21:56:48] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[21:58:14] BCraftMG: !mp invite Ayamaki
+[21:58:14] BanchoBot: Invited Ayamaki to the room
+[21:58:20] BCraftMG: !mp invite smthelse
+[21:58:20] BanchoBot: Invited smthelse to the room
+[21:58:37] BCraftMG: !mp invite _Casiofx580vnx
+[21:58:37] BanchoBot: Invited _Casiofx580vnx to the room
+[21:59:40] BanchoBot: smthelse joined in slot 1.
+[21:59:47] BanchoBot: smthelse left the game.
+[22:00:59] BanchoBot: _Casiofx580vnx joined in slot 1.
+[22:01:02] BanchoBot: Ayamaki joined in slot 2.
+[22:01:14] BCraftMG: hehe
+[22:01:20] BCraftMG: !mp map 4179283
+[22:01:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4179283 Mizuki Nana x T.M.Revolution - Kakumei Dualism
+[22:01:21] BCraftMG: !mp mods 1
+[22:01:22] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:01:42] BanchoBot: smthelse joined in slot 3.
+[22:01:45] smthelse: :3
+[22:02:01] _Casiofx580vnx: :3
+[22:02:02] Ayamaki: :3
+[22:02:03] _Casiofx580vnx: chat heo
+[22:02:42] smthelse: :3
+[22:02:46] BanchoBot: All players are ready
+[22:02:58] smthelse: @bcraft
+[22:02:59] BCraftMG: !mp settings
+[22:03:00] BanchoBot: Room name: 4WC24VN Tryout: Lobby B5, History: https://osu.ppy.sh/mp/113385020
+[22:03:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/4179283 Mizuki Nana x T.M.Revolution - Kakumei Dualism
+[22:03:00] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:03:00] BanchoBot: Active mods: NoFail
+[22:03:00] BanchoBot: Players: 3
+[22:03:00] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/848961 _Casiofx580vnx  
+[22:03:00] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16396650 Ayamaki         
+[22:03:00] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[22:03:02] BCraftMG: !mp start 5 glhf
+[22:03:02] _Casiofx580vnx: !roll
+[22:03:02] BanchoBot: _Casiofx580vnx rolls 99 point(s)
+[22:03:02] BanchoBot: Match starts in 5 seconds
+[22:03:02] BanchoBot: Queued the match to start in 5 seconds
+[22:03:04] BanchoBot: Match starts in 4 seconds
+[22:03:05] BanchoBot: Match starts in 3 seconds
+[22:03:05] BanchoBot: Good luck, have fun!
+[22:03:06] smthelse: chit
+[22:03:07] _Casiofx580vnx: o
+[22:03:08] BanchoBot: The match has started!
+[22:07:13] BanchoBot: smthelse finished playing (Score: 382735, PASSED).
+[22:07:13] BanchoBot: _Casiofx580vnx finished playing (Score: 441743, PASSED).
+[22:07:13] BanchoBot: Ayamaki finished playing (Score: 318394, PASSED).
+[22:07:13] BanchoBot: The match has finished!
+[22:07:21] BCraftMG: !mp map 4444744
+[22:07:22] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4444744 xi - Quietus Ray
+[22:07:58] smthelse: !roll
+[22:07:58] BanchoBot: smthelse rolls 87 point(s)
+[22:08:16] BanchoBot: All players are ready
+[22:08:55] BCraftMG: !mp settings
+[22:08:56] BanchoBot: Room name: 4WC24VN Tryout: Lobby B5, History: https://osu.ppy.sh/mp/113385020
+[22:08:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/4444744 xi - Quietus Ray
+[22:08:56] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:08:56] BanchoBot: Active mods: NoFail
+[22:08:56] BanchoBot: Players: 3
+[22:08:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/848961 _Casiofx580vnx  
+[22:08:56] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16396650 Ayamaki         
+[22:08:56] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[22:08:57] BCraftMG: !mp start 5 glhf
+[22:08:57] BanchoBot: Match starts in 5 seconds
+[22:08:57] BanchoBot: Queued the match to start in 5 seconds
+[22:08:59] BanchoBot: Match starts in 4 seconds
+[22:08:59] BanchoBot: Match starts in 3 seconds
+[22:09:00] BanchoBot: Good luck, have fun!
+[22:09:00] smthelse: chit
+[22:09:02] BanchoBot: The match has started!
+[22:11:10] BanchoBot: Ayamaki finished playing (Score: 330512, PASSED).
+[22:11:11] BanchoBot: _Casiofx580vnx finished playing (Score: 515932, PASSED).
+[22:11:11] BanchoBot: smthelse finished playing (Score: 841501, PASSED).
+[22:11:11] BanchoBot: The match has finished!
+[22:11:29] BCraftMG: !mp map 4524268
+[22:11:30] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4524268 ZAQ - Minor Piece
+[22:11:51] _Casiofx580vnx: can i turn on hd
+[22:11:54] _Casiofx580vnx: dsjakldjsoadas
+[22:11:58] smthelse: dm kasa
+[22:12:00] BanchoBot: All players are ready
+[22:12:23] _Casiofx580vnx: ya'
+[22:12:25] _Casiofx580vnx: !roll
+[22:12:25] BanchoBot: _Casiofx580vnx rolls 79 point(s)
+[22:12:33] _Casiofx580vnx: ngay mai chac chan thang roll
+[22:12:37] _Casiofx580vnx: !roll
+[22:12:37] BanchoBot: _Casiofx580vnx rolls 51 point(s)
+[22:12:39] smthelse: !roll
+[22:12:39] BanchoBot: smthelse rolls 85 point(s)
+[22:12:42] smthelse: 8)
+[22:12:48] _Casiofx580vnx: 8)
+[22:12:50] _Casiofx580vnx: dmm
+[22:12:55] smthelse: phat nua ne
+[22:12:57] smthelse: !roll
+[22:12:57] BanchoBot: smthelse rolls 23 point(s)
+[22:12:59] smthelse: cac
+[22:13:04] _Casiofx580vnx: non
+[22:13:05] _Casiofx580vnx: !roll
+[22:13:05] BanchoBot: _Casiofx580vnx rolls 78 point(s)
+[22:13:10] smthelse: >:(
+[22:13:11] _Casiofx580vnx: kk
+[22:13:14] Ayamaki: ua mai toi roll ma
+[22:13:15] smthelse: wher bcraft]
+[22:13:15] Ayamaki: !roll
+[22:13:15] BanchoBot: Ayamaki rolls 69 point(s)
+[22:13:17] BCraftMG: !mp settings
+[22:13:17] BanchoBot: Room name: 4WC24VN Tryout: Lobby B5, History: https://osu.ppy.sh/mp/113385020
+[22:13:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/4524268 ZAQ - Minor Piece
+[22:13:17] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:13:17] BanchoBot: Active mods: NoFail
+[22:13:17] BanchoBot: Players: 3
+[22:13:17] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/848961 _Casiofx580vnx  
+[22:13:17] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16396650 Ayamaki         
+[22:13:17] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[22:13:20] smthelse: :skull
+[22:13:21] Ayamaki: thoi nghi
+[22:13:25] BCraftMG: may toi sap chay r anh oi
+[22:13:26] BCraftMG: !mp start 5 glhf
+[22:13:27] BanchoBot: Match starts in 5 seconds
+[22:13:27] BanchoBot: Queued the match to start in 5 seconds
+[22:13:28] BanchoBot: Match starts in 4 seconds
+[22:13:29] BanchoBot: Match starts in 3 seconds
+[22:13:30] BanchoBot: Good luck, have fun!
+[22:13:33] smthelse: chit
+[22:13:33] BanchoBot: The match has started!
+[22:13:34] BCraftMG: lan sau cu
+[22:13:35] BCraftMG: ref
+[22:13:38] BCraftMG: nhiet tinh vao nhe
+[22:16:48] BanchoBot: _Casiofx580vnx finished playing (Score: 357525, PASSED).
+[22:16:48] BanchoBot: Ayamaki finished playing (Score: 185457, PASSED).
+[22:16:48] BanchoBot: smthelse finished playing (Score: 412497, PASSED).
+[22:16:48] BanchoBot: The match has finished!
+[22:17:10] _Casiofx580vnx: chit
+[22:17:25] BCraftMG: a
+[22:17:26] smthelse: chit
+[22:17:32] BCraftMG: !mp map 3871738
+[22:17:32] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3871738 Juggernaut. - Rebellion
+[22:17:37] _Casiofx580vnx: a
+[22:18:11] BanchoBot: All players are ready
+[22:18:16] _Casiofx580vnx: di wc 1p
+[22:18:18] _Casiofx580vnx: ehe
+[22:18:21] smthelse: a
+[22:18:22] smthelse: em cung the
+[22:18:24] smthelse: hehe
+[22:18:32] BCraftMG: grerrr
+[22:19:38] smthelse: trol
+[22:19:55] _Casiofx580vnx: toi da quay tro lai
+[22:19:56] BanchoBot: All players are ready
+[22:19:59] BCraftMG: !mp settings
+[22:19:59] BanchoBot: Room name: 4WC24VN Tryout: Lobby B5, History: https://osu.ppy.sh/mp/113385020
+[22:19:59] BanchoBot: Beatmap: https://osu.ppy.sh/b/3871738 Juggernaut. - Rebellion
+[22:19:59] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:19:59] BanchoBot: Active mods: NoFail
+[22:19:59] BanchoBot: Players: 3
+[22:19:59] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/848961 _Casiofx580vnx  
+[22:19:59] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16396650 Ayamaki         
+[22:19:59] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[22:20:00] BCraftMG: !mp start 5 glhf
+[22:20:00] smthelse: chit
+[22:20:00] BanchoBot: Match starts in 5 seconds
+[22:20:00] BanchoBot: Queued the match to start in 5 seconds
+[22:20:01] BanchoBot: Match starts in 4 seconds
+[22:20:02] BanchoBot: Match starts in 3 seconds
+[22:20:03] BanchoBot: Good luck, have fun!
+[22:20:05] BanchoBot: The match has started!
+[22:22:59] BanchoBot: _Casiofx580vnx finished playing (Score: 291965, PASSED).
+[22:22:59] BanchoBot: Ayamaki finished playing (Score: 188969, PASSED).
+[22:23:00] BanchoBot: smthelse finished playing (Score: 509788, PASSED).
+[22:23:00] BanchoBot: The match has finished!
+[22:23:07] BCraftMG: !mp map 3198204
+[22:23:08] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3198204 dandeless - micro.wav
+[22:23:33] _Casiofx580vnx: ping
+[22:24:19] BanchoBot: All players are ready
+[22:24:25] BCraftMG: !mp settings
+[22:24:26] BanchoBot: Room name: 4WC24VN Tryout: Lobby B5, History: https://osu.ppy.sh/mp/113385020
+[22:24:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/3198204 dandeless - micro.wav
+[22:24:26] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:24:26] BanchoBot: Active mods: NoFail
+[22:24:26] BanchoBot: Players: 3
+[22:24:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/848961 _Casiofx580vnx  
+[22:24:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16396650 Ayamaki         
+[22:24:26] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[22:24:26] BCraftMG: !mp start 5 glhf
+[22:24:27] BanchoBot: Match starts in 5 seconds
+[22:24:27] BanchoBot: Queued the match to start in 5 seconds
+[22:24:28] BanchoBot: Match starts in 4 seconds
+[22:24:29] BanchoBot: Match starts in 3 seconds
+[22:24:29] smthelse: chit
+[22:24:31] BanchoBot: Good luck, have fun!
+[22:24:32] BanchoBot: The match has started!
+[22:26:37] BanchoBot: _Casiofx580vnx finished playing (Score: 126391, PASSED).
+[22:26:38] BanchoBot: smthelse finished playing (Score: 61995, PASSED).
+[22:26:38] BanchoBot: Ayamaki finished playing (Score: 239874, PASSED).
+[22:26:38] BanchoBot: The match has finished!
+[22:26:43] BCraftMG: !mp map 4386400
+[22:26:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4386400 Hommarju feat. Latte - masterpiece (Cut Ver.)
+[22:26:53] BCraftMG: !mp mods 9
+[22:26:54] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[22:26:59] smthelse: gg
+[22:27:00] smthelse: bye
+[22:27:37] BanchoBot: All players are ready
+[22:28:02] BCraftMG: !mp settings
+[22:28:04] BanchoBot: Room name: 4WC24VN Tryout: Lobby B5, History: https://osu.ppy.sh/mp/113385020
+[22:28:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/4386400 Hommarju feat. Latte - masterpiece (Cut Ver.)
+[22:28:04] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:28:04] BanchoBot: Active mods: NoFail, Hidden
+[22:28:04] BanchoBot: Players: 3
+[22:28:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/848961 _Casiofx580vnx  
+[22:28:04] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16396650 Ayamaki         
+[22:28:04] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[22:28:05] BCraftMG: !mp start 5 glhf
+[22:28:06] BanchoBot: Match starts in 5 seconds
+[22:28:06] BanchoBot: Queued the match to start in 5 seconds
+[22:28:08] BanchoBot: Match starts in 4 seconds
+[22:28:09] BanchoBot: Match starts in 3 seconds
+[22:28:10] BanchoBot: Good luck, have fun!
+[22:28:10] smthelse: glhf
+[22:28:11] smthelse: chit
+[22:28:11] BanchoBot: The match has started!
+[22:31:55] BanchoBot: Ayamaki finished playing (Score: 250176, PASSED).
+[22:31:55] BanchoBot: _Casiofx580vnx finished playing (Score: 202499, PASSED).
+[22:31:55] BanchoBot: smthelse finished playing (Score: 106668, PASSED).
+[22:31:55] BanchoBot: The match has finished!
+[22:31:58] BCraftMG: !mp map 4344442
+[22:31:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4344442 Zekk - Vespera
+[22:32:23] smthelse: i was forced to play hd2
+[22:33:18] BanchoBot: All players are ready
+[22:33:25] BCraftMG: !mp settings
+[22:33:26] BanchoBot: Room name: 4WC24VN Tryout: Lobby B5, History: https://osu.ppy.sh/mp/113385020
+[22:33:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/4344442 Zekk - Vespera
+[22:33:26] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:33:26] BanchoBot: Active mods: NoFail, Hidden
+[22:33:26] BanchoBot: Players: 3
+[22:33:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/848961 _Casiofx580vnx  
+[22:33:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16396650 Ayamaki         
+[22:33:26] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[22:33:27] BCraftMG: !mp start 5 glhf
+[22:33:29] BanchoBot: Match starts in 5 seconds
+[22:33:29] BanchoBot: Queued the match to start in 5 seconds
+[22:33:29] Ayamaki: icant play hd
+[22:33:29] BanchoBot: Match starts in 4 seconds
+[22:33:31] BanchoBot: Match starts in 3 seconds
+[22:33:32] BanchoBot: Good luck, have fun!
+[22:33:34] BanchoBot: The match has started!
+[22:36:13] BanchoBot: Ayamaki finished playing (Score: 156572, PASSED).
+[22:36:13] BanchoBot: _Casiofx580vnx finished playing (Score: 409037, PASSED).
+[22:36:14] BanchoBot: smthelse finished playing (Score: 308613, PASSED).
+[22:36:14] BanchoBot: The match has finished!
+[22:36:24] _Casiofx580vnx: 2 miss
+[22:36:25] _Casiofx580vnx: >>>
+[22:36:26] _Casiofx580vnx: ????
+[22:37:20] BCraftMG: !mp map 4197953
+[22:37:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4197953 yuikonnu & ayaponzu* - Super Nuko World
+[22:37:23] BCraftMG: !mp mods 17
+[22:37:23] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[22:38:11] BanchoBot: All players are ready
+[22:38:21] smthelse: me when hr:
+[22:38:25] BCraftMG: !mp settings
+[22:38:26] BanchoBot: Room name: 4WC24VN Tryout: Lobby B5, History: https://osu.ppy.sh/mp/113385020
+[22:38:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/4197953 yuikonnu & ayaponzu* - Super Nuko World
+[22:38:26] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:38:26] BanchoBot: Active mods: NoFail, HardRock
+[22:38:26] BanchoBot: Players: 3
+[22:38:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/848961 _Casiofx580vnx  
+[22:38:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16396650 Ayamaki         
+[22:38:26] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[22:38:26] BCraftMG: !mp start 5 glhf
+[22:38:27] BanchoBot: Match starts in 5 seconds
+[22:38:27] BanchoBot: Queued the match to start in 5 seconds
+[22:38:28] BanchoBot: Match starts in 4 seconds
+[22:38:30] BanchoBot: Match starts in 3 seconds
+[22:38:30] smthelse: chit
+[22:38:31] BanchoBot: Good luck, have fun!
+[22:38:32] BanchoBot: The match has started!
+[22:42:18] BanchoBot: Ayamaki finished playing (Score: 348710, PASSED).
+[22:42:18] BanchoBot: _Casiofx580vnx finished playing (Score: 366178, PASSED).
+[22:42:19] BanchoBot: smthelse finished playing (Score: 323670, PASSED).
+[22:42:19] BanchoBot: The match has finished!
+[22:42:30] BCraftMG: !mp map 2641007
+[22:42:30] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2641007 Wisp X - Lumina (feat. Xomu)
+[22:43:11] BanchoBot: Ayamaki left the game.
+[22:43:40] BanchoBot: Ayamaki joined in slot 2.
+[22:44:16] BanchoBot: All players are ready
+[22:44:18] BCraftMG: !mp settings
+[22:44:19] BanchoBot: Room name: 4WC24VN Tryout: Lobby B5, History: https://osu.ppy.sh/mp/113385020
+[22:44:19] BanchoBot: Beatmap: https://osu.ppy.sh/b/2641007 Wisp X - Lumina (feat. Xomu)
+[22:44:19] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:44:19] BanchoBot: Active mods: NoFail, HardRock
+[22:44:19] BanchoBot: Players: 3
+[22:44:19] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/848961 _Casiofx580vnx  
+[22:44:19] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16396650 Ayamaki         
+[22:44:19] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[22:44:20] BCraftMG: !mp start 5 glhf
+[22:44:20] BanchoBot: Match starts in 5 seconds
+[22:44:20] BanchoBot: Queued the match to start in 5 seconds
+[22:44:22] BanchoBot: Match starts in 4 seconds
+[22:44:23] BanchoBot: Match starts in 3 seconds
+[22:44:24] BanchoBot: Good luck, have fun!
+[22:44:24] smthelse: glhff
+[22:44:25] smthelse: chiut
+[22:44:26] BanchoBot: The match has started!
+[22:44:26] smthelse: chjuit
+[22:48:10] BanchoBot: _Casiofx580vnx finished playing (Score: 115853, PASSED).
+[22:48:10] BanchoBot: Ayamaki finished playing (Score: 194134, PASSED).
+[22:48:10] BanchoBot: smthelse finished playing (Score: 215973, PASSED).
+[22:48:10] BanchoBot: The match has finished!
+[22:48:44] _Casiofx580vnx: map nhu dai
+[22:48:53] _Casiofx580vnx: cam o axarious
+[22:49:19] smthelse: ref
+[22:49:25] _Casiofx580vnx: ping
+[22:49:30] BCraftMG: !mp map 4511442
+[22:49:31] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4511442 Yasuno Kiyono - Uchuu no Housoku
+[22:49:43] BCraftMG: !mp mods 65
+[22:49:43] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[22:50:09] BanchoBot: All players are ready
+[22:50:11] BCraftMG: !mp settings
+[22:50:11] BanchoBot: Room name: 4WC24VN Tryout: Lobby B5, History: https://osu.ppy.sh/mp/113385020
+[22:50:11] BanchoBot: Beatmap: https://osu.ppy.sh/b/4511442 Yasuno Kiyono - Uchuu no Housoku
+[22:50:11] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:50:11] BanchoBot: Active mods: NoFail, DoubleTime
+[22:50:11] BanchoBot: Players: 3
+[22:50:11] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/848961 _Casiofx580vnx  
+[22:50:11] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16396650 Ayamaki         
+[22:50:11] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[22:50:12] BCraftMG: !mp start 5 glhf
+[22:50:12] BanchoBot: Match starts in 5 seconds
+[22:50:12] BanchoBot: Queued the match to start in 5 seconds
+[22:50:13] BanchoBot: Match starts in 4 seconds
+[22:50:14] BanchoBot: Match starts in 3 seconds
+[22:50:16] BanchoBot: Good luck, have fun!
+[22:50:18] BanchoBot: The match has started!
+[22:53:11] BanchoBot: smthelse finished playing (Score: 604413, PASSED).
+[22:53:12] BanchoBot: _Casiofx580vnx finished playing (Score: 423598, PASSED).
+[22:53:12] BanchoBot: Ayamaki finished playing (Score: 753371, PASSED).
+[22:53:12] BanchoBot: The match has finished!
+[22:53:44] BCraftMG: !mp map 4537093
+[22:53:45] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4537093 THE ORAL CIGARETTES - MACHINEGUN
+[22:53:53] smthelse: gg
+[22:54:05] _Casiofx580vnx: gg
+[22:54:07] BanchoBot: Ayamaki left the game.
+[22:54:52] BanchoBot: Ayamaki joined in slot 2.
+[22:56:18] BanchoBot: All players are ready
+[22:56:21] BCraftMG: !mp settings
+[22:56:22] BanchoBot: Room name: 4WC24VN Tryout: Lobby B5, History: https://osu.ppy.sh/mp/113385020
+[22:56:22] BanchoBot: Beatmap: https://osu.ppy.sh/b/4537093 THE ORAL CIGARETTES - MACHINEGUN
+[22:56:22] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:56:22] BanchoBot: Active mods: NoFail, DoubleTime
+[22:56:22] BanchoBot: Players: 3
+[22:56:22] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/848961 _Casiofx580vnx  
+[22:56:22] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16396650 Ayamaki         
+[22:56:22] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[22:56:22] BCraftMG: !mp start 5 glhf
+[22:56:24] BanchoBot: Match starts in 5 seconds
+[22:56:24] BanchoBot: Queued the match to start in 5 seconds
+[22:56:25] BanchoBot: Match starts in 4 seconds
+[22:56:27] BanchoBot: Match starts in 3 seconds
+[22:56:28] BanchoBot: Good luck, have fun!
+[22:56:28] smthelse: chit
+[22:56:29] BanchoBot: The match has started!
+[22:59:00] BanchoBot: Ayamaki finished playing (Score: 302923, PASSED).
+[22:59:00] BanchoBot: smthelse finished playing (Score: 94991, PASSED).
+[22:59:00] BanchoBot: _Casiofx580vnx finished playing (Score: 52346, PASSED).
+[22:59:00] BanchoBot: The match has finished!
+[22:59:11] BCraftMG: !mp map 2848773
+[22:59:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2848773 Michiru Kagemori (CV: Morohoshi Sumire) - Ready to (Mokelmbe Bootleg)
+[23:00:03] BanchoBot: All players are ready
+[23:00:16] BCraftMG: !mp settings
+[23:00:17] BanchoBot: Room name: 4WC24VN Tryout: Lobby B5, History: https://osu.ppy.sh/mp/113385020
+[23:00:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/2848773 Michiru Kagemori (CV: Morohoshi Sumire) - Ready to (Mokelmbe Bootleg)
+[23:00:17] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:00:17] BanchoBot: Active mods: NoFail, DoubleTime
+[23:00:17] BanchoBot: Players: 3
+[23:00:17] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/848961 _Casiofx580vnx  
+[23:00:17] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16396650 Ayamaki         
+[23:00:17] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13238121 smthelse        
+[23:00:17] BCraftMG: !mp start 5 glhf
+[23:00:18] BanchoBot: Match starts in 5 seconds
+[23:00:18] BanchoBot: Queued the match to start in 5 seconds
+[23:00:20] BanchoBot: Match starts in 4 seconds
+[23:00:21] BanchoBot: Match starts in 3 seconds
+[23:00:22] BanchoBot: Good luck, have fun!
+[23:00:24] BanchoBot: The match has started!
+[23:03:11] BanchoBot: smthelse finished playing (Score: 258005, PASSED).
+[23:03:11] BanchoBot: Ayamaki finished playing (Score: 357715, PASSED).
+[23:03:12] BanchoBot: _Casiofx580vnx finished playing (Score: 55775, PASSED).
+[23:03:12] BanchoBot: The match has finished!
+[23:03:21] BCraftMG: !mp map 3205642
+[23:03:22] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3205642 BUD VIRGIN LOGIC - x Senritsu -Schlehit Melodie-
+[23:03:24] BCraftMG: !mp mods Freemod
+[23:03:25] BanchoBot: Disabled all mods, enabled FreeMod
+[23:04:05] BanchoBot: All players are ready
+[23:04:21] Ayamaki: cho choi no mod di
+[23:04:22] Ayamaki: D:
+[23:04:26] smthelse: :(
+[23:04:28] BCraftMG: khum
+[23:04:29] BCraftMG: !mp settings
+[23:04:29] BanchoBot: Room name: 4WC24VN Tryout: Lobby B5, History: https://osu.ppy.sh/mp/113385020
+[23:04:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/3205642 BUD VIRGIN LOGIC - x Senritsu -Schlehit Melodie-
+[23:04:29] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:04:29] BanchoBot: Active mods: Freemod
+[23:04:29] BanchoBot: Players: 3
+[23:04:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/848961 _Casiofx580vnx  [NoFail, Hidden]
+[23:04:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16396650 Ayamaki         [NoFail, Hidden]
+[23:04:29] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13238121 smthelse        [NoFail, HardRock]
+[23:04:31] BCraftMG: !mp start 5 glhf
+[23:04:32] BanchoBot: Match starts in 5 seconds
+[23:04:32] BanchoBot: Queued the match to start in 5 seconds
+[23:04:33] BanchoBot: Match starts in 4 seconds
+[23:04:34] BanchoBot: Match starts in 3 seconds
+[23:04:36] BanchoBot: Good luck, have fun!
+[23:04:36] smthelse: chit
+[23:04:37] BanchoBot: The match has started!
+[23:08:25] BanchoBot: _Casiofx580vnx finished playing (Score: 392641, PASSED).
+[23:08:25] BanchoBot: smthelse finished playing (Score: 196638, PASSED).
+[23:08:26] BanchoBot: Ayamaki finished playing (Score: 195923, PASSED).
+[23:08:26] BanchoBot: The match has finished!
+[23:08:41] BanchoBot: Ayamaki left the game.
+[23:08:47] _Casiofx580vnx: chit
+[23:08:47] BCraftMG: !mp map 2651794
+[23:08:48] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2651794 Polyphia - O.D.
+[23:08:54] BanchoBot: Ayamaki joined in slot 2.
+[23:09:10] Ayamaki: :(
+[23:09:42] BanchoBot: All players are ready
+[23:09:55] BCraftMG: !mp settings
+[23:09:56] BanchoBot: Room name: 4WC24VN Tryout: Lobby B5, History: https://osu.ppy.sh/mp/113385020
+[23:09:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/2651794 Polyphia - O.D.
+[23:09:56] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:09:56] BanchoBot: Active mods: Freemod
+[23:09:56] BanchoBot: Players: 3
+[23:09:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/848961 _Casiofx580vnx  [NoFail, Hidden]
+[23:09:56] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16396650 Ayamaki         [NoFail, Hidden]
+[23:09:56] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13238121 smthelse        [NoFail, HardRock]
+[23:09:57] BCraftMG: !mp start 5 glhf
+[23:09:57] BanchoBot: Match starts in 5 seconds
+[23:09:57] BanchoBot: Queued the match to start in 5 seconds
+[23:09:58] BanchoBot: Match starts in 4 seconds
+[23:09:59] BanchoBot: Match starts in 3 seconds
+[23:10:00] smthelse: chit
+[23:10:00] BanchoBot: Good luck, have fun!
+[23:10:02] BanchoBot: The match has started!
+[23:13:02] BanchoBot: _Casiofx580vnx finished playing (Score: 156271, PASSED).
+[23:13:03] BanchoBot: smthelse finished playing (Score: 208600, PASSED).
+[23:13:03] BanchoBot: Ayamaki finished playing (Score: 94421, PASSED).
+[23:13:03] BanchoBot: The match has finished!
+[23:13:17] BCraftMG: !mp map 3622207
+[23:13:18] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3622207 Summoning the Lich - Predatory Reflection
+[23:13:49] BanchoBot: Ayamaki left the game.
+[23:14:13] BanchoBot: Ayamaki joined in slot 2.
+[23:14:40] BanchoBot: All players are ready
+[23:14:43] smthelse: gg
+[23:14:43] smthelse: i die
+[23:14:53] BCraftMG: !mp settings
+[23:14:53] BanchoBot: Room name: 4WC24VN Tryout: Lobby B5, History: https://osu.ppy.sh/mp/113385020
+[23:14:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/3622207 Summoning the Lich - Predatory Reflection
+[23:14:53] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:14:53] BanchoBot: Active mods: Freemod
+[23:14:53] BanchoBot: Players: 3
+[23:14:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/848961 _Casiofx580vnx  [NoFail, Hidden]
+[23:14:53] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16396650 Ayamaki         [NoFail, Hidden]
+[23:14:53] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13238121 smthelse        [NoFail, HardRock]
+[23:14:54] BCraftMG: !mp start 5 glhf
+[23:14:55] BanchoBot: Match starts in 5 seconds
+[23:14:55] BanchoBot: Queued the match to start in 5 seconds
+[23:14:56] BanchoBot: Match starts in 4 seconds
+[23:14:58] BanchoBot: Match starts in 3 seconds
+[23:14:58] smthelse: glhf
+[23:14:58] BanchoBot: Good luck, have fun!
+[23:14:59] smthelse: chit
+[23:15:00] BanchoBot: The match has started!
+[23:18:24] BanchoBot: _Casiofx580vnx finished playing (Score: 28592, PASSED).
+[23:18:24] BanchoBot: Ayamaki finished playing (Score: 178410, PASSED).
+[23:18:24] BanchoBot: smthelse finished playing (Score: 96606, PASSED).
+[23:18:24] BanchoBot: The match has finished!
+[23:18:52] _Casiofx580vnx: ggwp
+[23:18:57] Ayamaki: hd nhu cc
+[23:19:04] _Casiofx580vnx: who pool fm3 should went to jail
+[23:19:04] BCraftMG: exactly
+[23:19:07] _Casiofx580vnx: *go
+[23:20:01] BCraftMG: het map r ca nha
+[23:20:04] BCraftMG: ngoi day lam gi nua
+[23:20:06] smthelse: :3
+[23:20:09] smthelse: cam on vi rwef
+[23:20:10] BanchoBot: smthelse left the game.
+[23:20:11] Ayamaki: can fix score nm
+[23:20:12] Ayamaki: :(
+[23:20:15] Ayamaki: cam on vi ref
+[23:20:16] BanchoBot: smthelse joined in slot 3.
+[23:20:16] _Casiofx580vnx: tks for red
+[23:20:17] Ayamaki: <3
+[23:20:18] _Casiofx580vnx: ref
+[23:20:20] _Casiofx580vnx: <3
+[23:20:20] BCraftMG: red
+[23:20:22] BanchoBot: _Casiofx580vnx left the game.
+[23:20:25] BanchoBot: smthelse left the game.
+[23:20:26] BanchoBot: Ayamaki left the game.
+[23:20:28] BCraftMG: !mp close
+[23:20:29] BanchoBot: Closed the match

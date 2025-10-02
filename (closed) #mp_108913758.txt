@@ -1,0 +1,627 @@
+[19:53:24] Joined #mp_108913758
+[19:53:24] BCraftMG: !mp settings
+[19:53:25] BanchoBot: Room name: PTSP: (5DFRT) vs (the), History: https://osu.ppy.sh/mp/108913758
+[19:53:25] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[19:53:25] BanchoBot: Players: 0
+[19:53:42] BCraftMG: !mp set 2 38
+[19:53:42] BanchoBot: Changed match settings to TeamVs, ScoreV2
+[19:53:44] BCraftMG: !mp set 2 38
+[19:53:45] BanchoBot: Changed match settings to TeamVs, ScoreV2
+[19:53:46] BCraftMG: !mp set 2 3 8
+[19:53:47] BanchoBot: Changed match settings to 8 slots, TeamVs, ScoreV2
+[19:53:56] BCraftMG: !mp invite XiaoMyMommy
+[19:53:56] BanchoBot: Invited XiaoMyMommy to the room
+[19:53:57] BCraftMG: !mp invite ruruichi
+[19:53:58] BanchoBot: Invited ruruichi to the room
+[19:56:36] BanchoBot: ruruichi joined in slot 1 for team blue.
+[19:57:12] ruruichi: hello
+[19:57:26] BCraftMG: hi
+[19:57:30] BCraftMG: !mp addref Goaw2551
+[19:57:31] BanchoBot: Added Goaw2551 to the match referees
+[19:58:26] BCraftMG: !mp host ruruichi
+[19:58:28] BanchoBot: ruruichi became the host.
+[19:58:28] BanchoBot: Changed match host to ruruichi
+[19:58:29] BanchoBot: Beatmap changed to: GALNERYUS - Glorious Aggressor [Advance To The Fall] (https://osu.ppy.sh/b/3044911)
+[19:58:34] BanchoBot: Host is changing map...
+[19:58:41] BCraftMG: your team is blue 3-4 btw
+[19:58:59] ruruichi: alright
+[19:59:01] BanchoBot: Beatmap changed to: wotoha - O108ROCKET (feat. Neko Hacker) [Cosmic Extra feat. yf] (https://osu.ppy.sh/b/3169364)
+[19:59:02] BanchoBot: ruruichi moved to slot 3
+[19:59:02] BanchoBot: Host is changing map...
+[19:59:37] BanchoBot: Beatmap changed to: Risa Yuzuki - Cinderella Maker [Shining] (https://osu.ppy.sh/b/3451313)
+[20:00:07] BanchoBot: ruruichi moved to slot 1
+[20:00:10] BanchoBot: ruruichi moved to slot 3
+[20:00:27] BanchoBot: RAiMEi_BOTTliUM joined in slot 1 for team blue.
+[20:00:35] BanchoBot: RAiMEi_BOTTliUM moved to slot 4
+[20:00:43] BanchoBot: moyamoyano_sa joined in slot 1 for team blue.
+[20:00:49] BanchoBot: XiaoMyMommy joined in slot 2 for team red.
+[20:00:54] BanchoBot: XiaoMyMommy moved to slot 5
+[20:01:02] XiaoMyMommy: o/
+[20:01:05] ruruichi: o/
+[20:01:11] RAiMEi_BOTTliUM: o/
+[20:01:40] BanchoBot: moyamoyano_sa changed to Red
+[20:02:21] BanchoBot: XiaoMyMommy moved to slot 2
+[20:02:44] ruruichi: i'm just gonna start alright
+[20:02:51] BanchoBot: All players are ready
+[20:02:51] BanchoBot: Papayapa joined in slot 5 for team blue.
+[20:02:55] BanchoBot: Papayapa moved to slot 7
+[20:03:11] BanchoBot: Papayapa left the game.
+[20:03:19] BanchoBot: The match has started!
+[20:03:19] BanchoBot: XiaoMyMommy left the game.
+[20:05:41] BanchoBot: Papayapa joined in slot 2 for team red.
+[20:06:46] BanchoBot: XiaoMyMommy joined in slot 5 for team blue.
+[20:06:46] BanchoBot: moyamoyano_sa finished playing (Score: 269775, PASSED).
+[20:06:46] BanchoBot: RAiMEi_BOTTliUM finished playing (Score: 171304, PASSED).
+[20:06:46] BanchoBot: ruruichi finished playing (Score: 326407, PASSED).
+[20:06:46] BanchoBot: The match has finished!
+[20:07:00] BanchoBot: XiaoMyMommy became the host.
+[20:07:03] BanchoBot: Host is changing map...
+[20:07:15] BanchoBot: Beatmap changed to: Risa Yuzuki - Cinderella Maker [Shining] (https://osu.ppy.sh/b/3451313)
+[20:07:17] BanchoBot: Papayapa became the host.
+[20:07:22] BanchoBot: Host is changing map...
+[20:08:08] BanchoBot: Beatmap changed to: Uinyasu, Occhoko Bunny - Aa Kenran no Yume ga Gotoku (Epsilon Remix) [Regou's Kaleidoscope] (https://osu.ppy.sh/b/2579159)
+[20:08:50] BanchoBot: All players are ready
+[20:08:55] BanchoBot: The match has started!
+[20:13:07] BanchoBot: ruruichi finished playing (Score: 185643, PASSED).
+[20:13:07] BanchoBot: moyamoyano_sa finished playing (Score: 284265, PASSED).
+[20:13:08] BanchoBot: XiaoMyMommy finished playing (Score: 210179, PASSED).
+[20:13:10] BanchoBot: RAiMEi_BOTTliUM finished playing (Score: 218390, PASSED).
+[20:13:23] BanchoBot: Papayapa finished playing (Score: 71904, PASSED).
+[20:13:23] BanchoBot: The match has finished!
+[20:13:33] BCraftMG: !mp clearhost
+[20:13:34] BanchoBot: Nos_If joined in slot 6 for team red.
+[20:13:34] BanchoBot: Cleared match host
+[20:13:38] BCraftMG: time to roll!
+[20:14:00] XiaoMyMommy: !roll
+[20:14:00] BanchoBot: XiaoMyMommy rolls 49 point(s)
+[20:14:35] BCraftMG: where is ruruichi
+[20:14:40] ruruichi: am I lagging
+[20:14:40] ruruichi: where is my roll
+[20:14:40] ruruichi: !roll
+[20:14:40] BanchoBot: ruruichi rolls 9 point(s)
+[20:14:40] ruruichi: !roll
+[20:14:40] BanchoBot: ruruichi rolls 61 point(s)
+[20:14:40] ruruichi: test
+[20:14:43] ruruichi: I was lagging
+[20:14:48] BCraftMG: uhhhhhhhhhhhhh
+[20:14:53] Nos_If: XD
+[20:15:04] Nos_If: !where ruruichi
+[20:15:04] BanchoBot: ruruichi is in Indonesia
+[20:15:08] BCraftMG: so your 9 roll came to me first
+[20:15:17] ruruichi: yea
+[20:15:19] BCraftMG: which mean XiaoMyMommy won the roll
+[20:15:28] BCraftMG: first pick second ban or first ban second pick
+[20:15:28] moyamoyano_sa: hmm 9 xD
+[20:15:41] moyamoyano_sa: so close
+[20:16:01] BCraftMG: :wokege:
+[20:16:07] BCraftMG: is xiao having issue now
+[20:16:12] Nos_If: first pick second ban
+[20:16:18] XiaoMyMommy: huh
+[20:16:30] Nos_If: banchooooooooooo
+[20:16:39] moyamoyano_sa: so xiao is girl?
+[20:16:43] ruruichi: ban set 5
+[20:16:45] BCraftMG: !mp map 4152199
+[20:16:46] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4152199 HOYO-MiX - Space Walk
+[20:16:59] BCraftMG: red ban
+[20:17:00] BCraftMG: !mp timer 120
+[20:17:02] BanchoBot: Countdown ends in 2 minutes
+[20:17:10] BanchoBot: moyamoyano_sa changed to Blue
+[20:17:18] XiaoMyMommy: ban set 4
+[20:17:26] BCraftMG: 5DFRT | 0 : 0 | the // Next to pick: Red
+[20:17:27] BCraftMG: !mp timer 120
+[20:17:30] BanchoBot: Countdown aborted
+[20:17:30] BanchoBot: Countdown ends in 2 minutes
+[20:17:46] Nos_If: set6
+[20:17:49] BanchoBot: XiaoMyMommy left the game.
+[20:17:56] BanchoBot: RAiMEi_BOTTliUM left the game.
+[20:18:07] BCraftMG: !mp map 3158094 0
+[20:18:07] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3158094 Minato Aqua - Kaisou Ressha
+[20:18:07] BanchoBot: Changed match mode to Osu
+[20:18:09] BCraftMG: !mp mods DT NF
+[20:18:10] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[20:18:13] BCraftMG: !mp timer 120
+[20:18:13] BanchoBot: Countdown aborted
+[20:18:13] BanchoBot: Countdown ends in 2 minutes
+[20:18:38] BanchoBot: moyamoyano_sa moved to slot 4
+[20:18:42] BanchoBot: XiaoMyMommy joined in slot 1 for team blue.
+[20:18:52] BanchoBot: XiaoMyMommy changed to Red
+[20:18:54] BanchoBot: Nos_If moved to slot 5
+[20:18:55] BanchoBot: Nos_If moved to slot 6
+[20:18:58] BanchoBot: Nos_If moved to slot 5
+[20:19:06] Nos_If: !mp kick papayapa pls
+[20:19:08] Nos_If: he afk
+[20:19:14] BanchoBot: Countdown ends in 1 minute
+[20:19:14] Nos_If: XD
+[20:19:27] BCraftMG: !mp kick papayapa
+[20:19:27] BanchoBot: Papayapa left the game.
+[20:19:27] BanchoBot: Kicked Papayapa from the match
+[20:19:32] BanchoBot: Nos_If moved to slot 2
+[20:19:39] Nos_If: glhf
+[20:19:40] moyamoyano_sa: gl
+[20:19:40] BanchoBot: All players are ready
+[20:19:41] BCraftMG: !mp settings
+[20:19:42] BanchoBot: Room name: PTSP: (5DFRT) vs (the), History: https://osu.ppy.sh/mp/108913758
+[20:19:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/3158094 Minato Aqua - Kaisou Ressha
+[20:19:42] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:19:42] BanchoBot: Active mods: NoFail, DoubleTime
+[20:19:42] BanchoBot: Players: 4
+[20:19:42] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11129041 XiaoMyMommy     [Team Red ]
+[20:19:42] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7365196 Nos_If          [Team Red ]
+[20:19:42] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6717559 ruruichi        [Team Blue]
+[20:19:42] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/3891439 moyamoyano_sa   [Team Blue]
+[20:19:43] BCraftMG: !mp start 5 glhf
+[20:19:44] ruruichi: glgl
+[20:19:44] BanchoBot: Countdown ends in 30 seconds
+[20:19:45] BanchoBot: Countdown aborted
+[20:19:45] BanchoBot: Match starts in 5 seconds
+[20:19:45] BanchoBot: Queued the match to start in 5 seconds
+[20:19:47] BanchoBot: Match starts in 4 seconds
+[20:19:48] BanchoBot: Match starts in 3 seconds
+[20:19:48] BanchoBot: Good luck, have fun!
+[20:19:52] BanchoBot: The match has started!
+[20:22:42] BanchoBot: ruruichi finished playing (Score: 409354, PASSED).
+[20:22:42] BanchoBot: Nos_If finished playing (Score: 269129, PASSED).
+[20:22:42] BanchoBot: moyamoyano_sa finished playing (Score: 728681, PASSED).
+[20:22:42] BanchoBot: XiaoMyMommy finished playing (Score: 445684, PASSED).
+[20:22:42] BanchoBot: The match has finished!
+[20:22:59] BCraftMG: !mp map 3854965 0
+[20:23:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3854965 Kano - Batsu to Batsu
+[20:23:00] BanchoBot: Changed match mode to Osu
+[20:23:01] BCraftMG: !mp mods 1
+[20:23:02] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:23:03] BanchoBot: RAiMEi_BOTTliUM joined in slot 5 for team blue.
+[20:23:04] BCraftMG: !mp timer 120
+[20:23:05] BanchoBot: Countdown ends in 2 minutes
+[20:23:08] BanchoBot: moyamoyano_sa left the game.
+[20:23:18] BanchoBot: RAiMEi_BOTTliUM moved to slot 4
+[20:23:51] BanchoBot: All players are ready
+[20:23:54] ruruichi: glgl
+[20:24:00] RAiMEi_BOTTliUM: glhf!!!
+[20:24:02] XiaoMyMommy: gl
+[20:24:03] BCraftMG: !mp settings
+[20:24:04] BanchoBot: Room name: PTSP: (5DFRT) vs (the), History: https://osu.ppy.sh/mp/108913758
+[20:24:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/3854965 Kano - Batsu to Batsu
+[20:24:04] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:24:04] BanchoBot: Active mods: NoFail
+[20:24:04] BanchoBot: Players: 4
+[20:24:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11129041 XiaoMyMommy     [Team Red ]
+[20:24:04] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7365196 Nos_If          [Team Red ]
+[20:24:04] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6717559 ruruichi        [Team Blue]
+[20:24:04] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/18212788 RAiMEi_BOTTliUM [Team Blue]
+[20:24:05] BCraftMG: !mp start 5 glhf
+[20:24:05] BanchoBot: Countdown ends in 1 minute
+[20:24:05] BanchoBot: Countdown aborted
+[20:24:05] BanchoBot: Match starts in 5 seconds
+[20:24:05] BanchoBot: Queued the match to start in 5 seconds
+[20:24:07] BanchoBot: Match starts in 4 seconds
+[20:24:09] BanchoBot: Match starts in 3 seconds
+[20:24:09] BanchoBot: Good luck, have fun!
+[20:24:12] BanchoBot: The match has started!
+[20:28:02] BanchoBot: Nos_If finished playing (Score: 462634, PASSED).
+[20:28:02] BanchoBot: XiaoMyMommy finished playing (Score: 573396, PASSED).
+[20:28:02] BanchoBot: ruruichi finished playing (Score: 253044, PASSED).
+[20:28:02] BanchoBot: RAiMEi_BOTTliUM finished playing (Score: 260257, PASSED).
+[20:28:02] BanchoBot: The match has finished!
+[20:28:13] BCraftMG: 5DFRT | 0 : 0 | the // Next to pick: Blue
+[20:28:13] BCraftMG: !mp timer 120
+[20:28:15] BanchoBot: Countdown ends in 2 minutes
+[20:28:49] ruruichi: set 3
+[20:29:06] BCraftMG: !mp map 2371236 0
+[20:29:07] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2371236 Chikuwa - Jinsei Matatabi
+[20:29:07] BanchoBot: Changed match mode to Osu
+[20:29:11] BCraftMG: !mp mods EZ NF
+[20:29:12] BanchoBot: Papayapa joined in slot 5 for team blue.
+[20:29:12] BanchoBot: Enabled NoFail, Easy, disabled FreeMod
+[20:29:14] BCraftMG: !mp timer 120
+[20:29:16] BanchoBot: Countdown ends in 1 minute
+[20:29:16] BanchoBot: Countdown aborted
+[20:29:16] BanchoBot: Countdown ends in 2 minutes
+[20:29:24] BanchoBot: XiaoMyMommy left the game.
+[20:29:24] RAiMEi_BOTTliUM: EZ TIME
+[20:29:27] BanchoBot: Papayapa changed to Red
+[20:29:29] BanchoBot: Papayapa changed to Blue
+[20:29:30] BanchoBot: Papayapa moved to slot 1
+[20:29:34] BanchoBot: Papayapa changed to Red
+[20:29:40] ruruichi: meow
+[20:29:50] BanchoBot: All players are ready
+[20:29:51] RAiMEi_BOTTliUM: meow
+[20:29:52] BCraftMG: !mp settings
+[20:29:53] BanchoBot: Room name: PTSP: (5DFRT) vs (the), History: https://osu.ppy.sh/mp/108913758
+[20:29:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/2371236 Chikuwa - Jinsei Matatabi
+[20:29:53] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:29:53] BanchoBot: Active mods: NoFail, Easy
+[20:29:53] BanchoBot: Players: 4
+[20:29:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11704595 Papayapa        [Team Red ]
+[20:29:53] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7365196 Nos_If          [Team Red ]
+[20:29:53] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6717559 ruruichi        [Team Blue]
+[20:29:53] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/18212788 RAiMEi_BOTTliUM [Team Blue]
+[20:29:54] BCraftMG: !mp start 5 glhf
+[20:29:55] ruruichi: glgl
+[20:29:55] Nos_If: me dying
+[20:29:55] BanchoBot: Countdown aborted
+[20:29:55] BanchoBot: Match starts in 5 seconds
+[20:29:55] BanchoBot: Queued the match to start in 5 seconds
+[20:29:56] BanchoBot: Match starts in 4 seconds
+[20:29:56] RAiMEi_BOTTliUM: glhf
+[20:29:58] BanchoBot: Match starts in 3 seconds
+[20:29:58] BanchoBot: Good luck, have fun!
+[20:30:01] BanchoBot: The match has started!
+[20:30:01] Nos_If: glgl
+[20:33:32] BanchoBot: ruruichi finished playing (Score: 157364, PASSED).
+[20:33:33] BanchoBot: Papayapa finished playing (Score: 276988, PASSED).
+[20:33:33] BanchoBot: RAiMEi_BOTTliUM finished playing (Score: 383643, PASSED).
+[20:33:33] BanchoBot: Nos_If finished playing (Score: 71978, PASSED).
+[20:33:33] BanchoBot: The match has finished!
+[20:33:50] BanchoBot: XiaoMyMommy joined in slot 5 for team blue.
+[20:33:52] BCraftMG: !mp mods 1
+[20:33:52] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:33:55] BanchoBot: XiaoMyMommy moved to slot 6
+[20:33:57] BanchoBot: XiaoMyMommy changed to Red
+[20:33:59] BanchoBot: moyamoyano_sa joined in slot 5 for team blue.
+[20:33:59] BCraftMG: !mp map 2585025 0
+[20:34:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2585025 100 Gecs - money machine
+[20:34:00] BanchoBot: Changed match mode to Osu
+[20:34:01] BCraftMG: !mp timer 120
+[20:34:02] BanchoBot: Countdown ends in 2 minutes
+[20:34:05] BanchoBot: RAiMEi_BOTTliUM left the game.
+[20:34:07] BanchoBot: Papayapa moved to slot 8
+[20:34:09] BanchoBot: moyamoyano_sa moved to slot 4
+[20:34:09] BanchoBot: Papayapa left the game.
+[20:34:12] BanchoBot: XiaoMyMommy moved to slot 1
+[20:35:00] BanchoBot: All players are ready
+[20:35:01] BCraftMG: !mp settings
+[20:35:03] BanchoBot: Countdown ends in 1 minute
+[20:35:03] ruruichi: glgl
+[20:35:03] BanchoBot: Room name: PTSP: (5DFRT) vs (the), History: https://osu.ppy.sh/mp/108913758
+[20:35:03] BanchoBot: Beatmap: https://osu.ppy.sh/b/2585025 100 Gecs - money machine
+[20:35:03] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:35:03] BanchoBot: Active mods: NoFail
+[20:35:03] BanchoBot: Players: 4
+[20:35:03] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11129041 XiaoMyMommy     [Team Red ]
+[20:35:03] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7365196 Nos_If          [Team Red ]
+[20:35:03] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6717559 ruruichi        [Team Blue]
+[20:35:03] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/3891439 moyamoyano_sa   [Team Blue]
+[20:35:04] BCraftMG: !mp start 5 glhf
+[20:35:05] BanchoBot: Countdown aborted
+[20:35:05] BanchoBot: Match starts in 5 seconds
+[20:35:05] BanchoBot: Queued the match to start in 5 seconds
+[20:35:06] BanchoBot: Match starts in 4 seconds
+[20:35:08] BanchoBot: Match starts in 3 seconds
+[20:35:08] BanchoBot: Good luck, have fun!
+[20:35:11] BanchoBot: The match has started!
+[20:37:12] BanchoBot: XiaoMyMommy finished playing (Score: 503991, PASSED).
+[20:37:12] BanchoBot: ruruichi finished playing (Score: 435045, PASSED).
+[20:37:12] BanchoBot: moyamoyano_sa finished playing (Score: 431949, PASSED).
+[20:37:14] BanchoBot: Nos_If finished playing (Score: 441485, PASSED).
+[20:37:14] BanchoBot: The match has finished!
+[20:37:38] BCraftMG: 5DFRT | 0 : 0 | the // Next to pick: Red
+[20:37:39] BCraftMG: !mp timer 120
+[20:37:40] BanchoBot: Countdown ends in 2 minutes
+[20:38:34] Nos_If: set 2
+[20:38:37] BanchoBot: XiaoMyMommy left the game.
+[20:38:42] BanchoBot: Countdown ends in 1 minute
+[20:38:46] BCraftMG: !mp map 3044911 0
+[20:38:47] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3044911 GALNERYUS - Glorious Aggressor
+[20:38:47] BanchoBot: Changed match mode to Osu
+[20:38:48] BCraftMG: !mp mods 1
+[20:38:49] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:38:49] BCraftMG: !mp timer 120
+[20:38:50] BanchoBot: Countdown aborted
+[20:38:50] BanchoBot: Countdown ends in 2 minutes
+[20:38:54] BanchoBot: moyamoyano_sa left the game.
+[20:39:20] BanchoBot: moyamoyano_sa joined in slot 1 for team blue.
+[20:39:23] BanchoBot: moyamoyano_sa moved to slot 4
+[20:39:23] BanchoBot: XiaoMyMommy joined in slot 1 for team blue.
+[20:39:28] BanchoBot: Nos_If moved to slot 5
+[20:39:28] BanchoBot: XiaoMyMommy changed to Red
+[20:39:28] BanchoBot: Nos_If moved to slot 2
+[20:39:52] BanchoBot: Countdown ends in 1 minute
+[20:39:55] BanchoBot: All players are ready
+[20:39:57] ruruichi: glgl
+[20:39:58] BCraftMG: !mp settings
+[20:39:59] BanchoBot: Room name: PTSP: (5DFRT) vs (the), History: https://osu.ppy.sh/mp/108913758
+[20:39:59] BanchoBot: Beatmap: https://osu.ppy.sh/b/3044911 GALNERYUS - Glorious Aggressor
+[20:39:59] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:39:59] BanchoBot: Active mods: NoFail
+[20:39:59] BanchoBot: Players: 4
+[20:39:59] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11129041 XiaoMyMommy     [Team Red ]
+[20:39:59] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7365196 Nos_If          [Team Red ]
+[20:39:59] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6717559 ruruichi        [Team Blue]
+[20:39:59] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/3891439 moyamoyano_sa   [Team Blue]
+[20:39:59] BCraftMG: !mp start 5 glhf
+[20:40:00] BanchoBot: Countdown aborted
+[20:40:00] BanchoBot: Match starts in 5 seconds
+[20:40:00] BanchoBot: Queued the match to start in 5 seconds
+[20:40:02] BanchoBot: Match starts in 4 seconds
+[20:40:04] moyamoyano_sa: gl;
+[20:40:04] BanchoBot: Match starts in 3 seconds
+[20:40:04] BanchoBot: Good luck, have fun!
+[20:40:05] XiaoMyMommy: gl
+[20:40:05] BanchoBot: The match has started!
+[20:42:24] BanchoBot: moyamoyano_sa finished playing (Score: 260267, PASSED).
+[20:42:25] BanchoBot: ruruichi finished playing (Score: 501968, PASSED).
+[20:42:25] BanchoBot: XiaoMyMommy finished playing (Score: 614462, PASSED).
+[20:42:25] BanchoBot: Nos_If finished playing (Score: 370161, PASSED).
+[20:42:25] BanchoBot: The match has finished!
+[20:42:45] BCraftMG: !mp mods 17
+[20:42:45] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[20:42:48] BCraftMG: !mp map 2178003 0
+[20:42:50] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2178003 Saratoga (CV: Uesaka Sumire) - Souzetsu Gekkou
+[20:42:50] BanchoBot: Changed match mode to Osu
+[20:42:51] BCraftMG: !mp timer 120
+[20:42:52] BanchoBot: Countdown ends in 2 minutes
+[20:43:46] BanchoBot: All players are ready
+[20:43:47] BCraftMG: !mp settings
+[20:43:47] BanchoBot: Room name: PTSP: (5DFRT) vs (the), History: https://osu.ppy.sh/mp/108913758
+[20:43:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/2178003 Saratoga (CV: Uesaka Sumire) - Souzetsu Gekkou
+[20:43:47] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:43:47] BanchoBot: Active mods: NoFail, HardRock
+[20:43:47] BanchoBot: Players: 4
+[20:43:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11129041 XiaoMyMommy     [Team Red ]
+[20:43:47] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7365196 Nos_If          [Team Red ]
+[20:43:47] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6717559 ruruichi        [Team Blue]
+[20:43:47] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/3891439 moyamoyano_sa   [Team Blue]
+[20:43:48] BCraftMG: !mp start 5 glhf
+[20:43:49] BanchoBot: Countdown aborted
+[20:43:49] BanchoBot: Match starts in 5 seconds
+[20:43:49] BanchoBot: Queued the match to start in 5 seconds
+[20:43:51] ruruichi: glgl
+[20:43:51] BanchoBot: Match starts in 4 seconds
+[20:43:52] BanchoBot: Match starts in 3 seconds
+[20:43:52] BanchoBot: Good luck, have fun!
+[20:43:54] BanchoBot: The match has started!
+[20:47:54] BanchoBot: ruruichi finished playing (Score: 344531, PASSED).
+[20:47:54] BanchoBot: XiaoMyMommy finished playing (Score: 170124, PASSED).
+[20:47:54] BanchoBot: moyamoyano_sa finished playing (Score: 417533, PASSED).
+[20:47:56] BanchoBot: Nos_If finished playing (Score: 365526, PASSED).
+[20:47:56] BanchoBot: The match has finished!
+[20:48:19] BCraftMG: 5DFRT | 0 : 0 | the // Next to pick: Blue
+[20:48:21] BCraftMG: !mp timer 120
+[20:48:23] BanchoBot: Countdown ends in 2 minutes
+[20:49:05] BanchoBot: XiaoMyMommy left the game.
+[20:49:12] Nos_If: epic match
+[20:49:24] BanchoBot: Countdown ends in 1 minute
+[20:49:27] moyamoyano_sa: yeah
+[20:49:31] moyamoyano_sa: xD
+[20:49:54] BanchoBot: Countdown ends in 30 seconds
+[20:49:54] ruruichi: i'm happy I got to permalobby
+[20:50:01] ruruichi: set 7
+[20:50:04] Nos_If: :thumbs_up:
+[20:50:14] BanchoBot: Countdown ends in 10 seconds
+[20:50:16] BanchoBot: Papayapa joined in slot 1 for team blue.
+[20:50:19] BanchoBot: Countdown ends in 5 seconds
+[20:50:19] BanchoBot: Countdown ends in 4 seconds
+[20:50:21] BanchoBot: Countdown ends in 3 seconds
+[20:50:21] BanchoBot: Countdown ends in 2 seconds
+[20:50:23] BanchoBot: Countdown ends in 1 second
+[20:50:23] BanchoBot: Nos_If moved to slot 5
+[20:50:24] BanchoBot: Countdown finished
+[20:50:24] BanchoBot: Nos_If moved to slot 2
+[20:50:24] BanchoBot: Nos_If changed to Blue
+[20:50:26] BanchoBot: Nos_If changed to Red
+[20:50:31] BanchoBot: moyamoyano_sa left the game.
+[20:50:48] BanchoBot: RAiMEi_BOTTliUM joined in slot 4 for team red.
+[20:50:50] ruruichi: ref gone
+[20:50:51] BCraftMG: uhhhh
+[20:50:53] BanchoBot: RAiMEi_BOTTliUM changed to Blue
+[20:51:05] ruruichi: set 7
+[20:51:10] BanchoBot: Papayapa left the game.
+[20:51:11] BCraftMG: sorry
+[20:51:11] BCraftMG: !mp map 3134892 0
+[20:51:13] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3134892 P4koo (NONE) - Sogaikan Utopia
+[20:51:13] BanchoBot: Changed match mode to Osu
+[20:51:19] BCraftMG: didnt see ur message
+[20:51:20] BCraftMG: !mp mods 9
+[20:51:22] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[20:51:24] BCraftMG: !mp timer 120
+[20:51:25] BanchoBot: Countdown ends in 2 minutes
+[20:51:28] ruruichi: np
+[20:51:43] Nos_If: papayapa internet is firetrucked
+[20:51:47] Nos_If: :o
+[20:51:48] ruruichi: rip
+[20:51:52] BanchoBot: Papayapa joined in slot 1 for team blue.
+[20:52:12] BanchoBot: Papayapa left the game.
+[20:52:12] BanchoBot: Papayapa joined in slot 1 for team blue.
+[20:52:22] Nos_If: dude
+[20:52:26] BanchoBot: Countdown ends in 1 minute
+[20:52:29] Nos_If: he doesn't see himself in the lobby
+[20:52:29] Nos_If: ..........
+[20:52:33] ruruichi: oh no
+[20:52:34] Nos_If: he here but not here
+[20:52:46] BCraftMG: gotta love when bancho strikes
+[20:52:56] BanchoBot: Countdown ends in 30 seconds
+[20:53:08] Nos_If: hes restarting his pc
+[20:53:11] Nos_If: can we have a short timeout
+[20:53:16] BanchoBot: Countdown ends in 10 seconds
+[20:53:21] BanchoBot: Countdown ends in 5 seconds
+[20:53:21] BanchoBot: Countdown ends in 4 seconds
+[20:53:23] BanchoBot: Countdown ends in 3 seconds
+[20:53:23] BanchoBot: Countdown ends in 2 seconds
+[20:53:25] BanchoBot: Countdown ends in 1 second
+[20:53:26] BanchoBot: Countdown finished
+[20:53:33] BanchoBot: Papayapa left the game.
+[20:53:51] BCraftMG: sure ig
+[20:53:59] BCraftMG: !mp timer 120
+[20:54:00] BanchoBot: Countdown ends in 2 minutes
+[20:54:19] BCraftMG: if he still not back after this please get your other teammate in
+[20:54:37] BanchoBot: Papayapa joined in slot 1 for team blue.
+[20:54:47] BanchoBot: Papayapa changed to Red
+[20:54:54] Papayapa: sorry :c
+[20:55:01] BanchoBot: Countdown ends in 1 minute
+[20:55:04] ruruichi: glgl
+[20:55:06] BanchoBot: All players are ready
+[20:55:07] RAiMEi_BOTTliUM: glhf!
+[20:55:07] Nos_If: he there!
+[20:55:08] BCraftMG: !mp settings
+[20:55:09] Nos_If: GLHF
+[20:55:09] BanchoBot: Room name: PTSP: (5DFRT) vs (the), History: https://osu.ppy.sh/mp/108913758
+[20:55:09] BanchoBot: Beatmap: https://osu.ppy.sh/b/3134892 P4koo (NONE) - Sogaikan Utopia
+[20:55:09] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:55:09] BanchoBot: Active mods: NoFail, Hidden
+[20:55:09] BanchoBot: Players: 4
+[20:55:09] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11704595 Papayapa        [Team Red ]
+[20:55:09] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7365196 Nos_If          [Team Red ]
+[20:55:09] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6717559 ruruichi        [Team Blue]
+[20:55:09] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/18212788 RAiMEi_BOTTliUM [Team Blue]
+[20:55:12] BCraftMG: !mp start 5 glhf
+[20:55:13] BanchoBot: Countdown aborted
+[20:55:13] BanchoBot: Match starts in 5 seconds
+[20:55:13] BanchoBot: Queued the match to start in 5 seconds
+[20:55:14] BanchoBot: Match starts in 4 seconds
+[20:55:16] BanchoBot: Match starts in 3 seconds
+[20:55:16] BanchoBot: Good luck, have fun!
+[20:55:19] BanchoBot: The match has started!
+[20:58:13] BanchoBot: RAiMEi_BOTTliUM finished playing (Score: 853819, PASSED).
+[20:58:15] BanchoBot: Nos_If finished playing (Score: 456694, PASSED).
+[20:58:17] BanchoBot: ruruichi finished playing (Score: 532163, PASSED).
+[20:58:24] BanchoBot: Papayapa finished playing (Score: 810673, PASSED).
+[20:58:24] BanchoBot: The match has finished!
+[20:58:40] BanchoBot: XiaoMyMommy joined in slot 5 for team blue.
+[20:58:47] BanchoBot: XiaoMyMommy left the game.
+[20:58:55] BCraftMG: !mp map 4115627 0
+[20:58:56] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4115627 -45 - Ki no Bou
+[20:58:56] BanchoBot: Changed match mode to Osu
+[20:58:57] BCraftMG: !mp mods DT NF
+[20:58:57] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[20:59:00] BCraftMG: !mp timer 120
+[20:59:01] BanchoBot: Countdown ends in 2 minutes
+[20:59:11] BanchoBot: moyamoyano_sa joined in slot 5 for team blue.
+[20:59:19] Nos_If: best acc worst score
+[20:59:21] Nos_If: gaming
+[20:59:48] ruruichi: combo gaming coming on top
+[20:59:48] BanchoBot: XiaoMyMommy joined in slot 6 for team red.
+[20:59:51] BanchoBot: RAiMEi_BOTTliUM left the game.
+[20:59:53] BanchoBot: moyamoyano_sa moved to slot 4
+[21:00:01] BanchoBot: Countdown ends in 1 minute
+[21:00:25] Nos_If: oops
+[21:00:28] ruruichi: is papayapa okay
+[21:00:30] Nos_If: !mp kick Papayapa again
+[21:00:32] BanchoBot: Countdown ends in 30 seconds
+[21:00:33] BCraftMG: lmao
+[21:00:33] Nos_If: XDD
+[21:00:37] moyamoyano_sa: xD
+[21:00:38] BCraftMG: !mp kick papayapa
+[21:00:38] BanchoBot: Papayapa left the game.
+[21:00:38] BanchoBot: Kicked Papayapa from the match
+[21:00:42] BanchoBot: XiaoMyMommy moved to slot 1
+[21:00:52] BanchoBot: Countdown ends in 10 seconds
+[21:00:57] BanchoBot: Countdown ends in 5 seconds
+[21:00:57] BanchoBot: Countdown ends in 4 seconds
+[21:00:59] BanchoBot: All players are ready
+[21:00:59] BanchoBot: Countdown ends in 3 seconds
+[21:00:59] ruruichi: glgl
+[21:01:00] BCraftMG: !mp settings
+[21:01:01] BanchoBot: Countdown ends in 2 seconds
+[21:01:01] BanchoBot: Countdown ends in 1 second
+[21:01:01] BanchoBot: Room name: PTSP: (5DFRT) vs (the), History: https://osu.ppy.sh/mp/108913758
+[21:01:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/4115627 -45 - Ki no Bou
+[21:01:01] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:01:01] BanchoBot: Active mods: NoFail, DoubleTime
+[21:01:01] BanchoBot: Players: 4
+[21:01:01] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11129041 XiaoMyMommy     [Team Red ]
+[21:01:01] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7365196 Nos_If          [Team Red ]
+[21:01:01] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6717559 ruruichi        [Team Blue]
+[21:01:01] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/3891439 moyamoyano_sa   [Team Blue]
+[21:01:02] BCraftMG: !mp start 5 glhf
+[21:01:02] BanchoBot: Countdown finished
+[21:01:02] BanchoBot: Match starts in 5 seconds
+[21:01:02] BanchoBot: Queued the match to start in 5 seconds
+[21:01:04] moyamoyano_sa: gl
+[21:01:04] BanchoBot: Match starts in 4 seconds
+[21:01:05] BanchoBot: Match starts in 3 seconds
+[21:01:05] BanchoBot: Good luck, have fun!
+[21:01:09] BanchoBot: The match has started!
+[21:01:09] XiaoMyMommy: gl
+[21:03:42] BCraftMG: !mp settings
+[21:03:43] BanchoBot: Room name: PTSP: (5DFRT) vs (the), History: https://osu.ppy.sh/mp/108913758
+[21:03:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/4115627 -45 - Ki no Bou
+[21:03:43] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:03:43] BanchoBot: Active mods: NoFail, DoubleTime
+[21:03:43] BanchoBot: Players: 4
+[21:03:43] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/11129041 XiaoMyMommy     [Team Red ]
+[21:03:43] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/7365196 Nos_If          [Team Red ]
+[21:03:43] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/6717559 ruruichi        [Team Blue]
+[21:03:43] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/3891439 moyamoyano_sa   [Team Blue]
+[21:04:13] BanchoBot: ruruichi finished playing (Score: 741650, PASSED).
+[21:04:15] BanchoBot: XiaoMyMommy finished playing (Score: 1059315, PASSED).
+[21:04:15] BanchoBot: Nos_If finished playing (Score: 535973, PASSED).
+[21:04:15] BanchoBot: moyamoyano_sa finished playing (Score: 930490, PASSED).
+[21:04:15] BanchoBot: The match has finished!
+[21:04:37] BCraftMG: 5DFRT | 0 : 1 | the // Next to pick: Red
+[21:04:39] BCraftMG: !mp timer 120
+[21:04:40] BanchoBot: Countdown ends in 2 minutes
+[21:04:51] XiaoMyMommy: I wonder what do we pick
+[21:04:56] ruruichi: let's see
+[21:04:56] Nos_If: !!!
+[21:04:57] BanchoBot: RAiMEi_BOTTliUM joined in slot 5 for team blue.
+[21:05:02] ruruichi: why don you pick set 4 :tf:
+[21:05:21] XiaoMyMommy: well set 1
+[21:05:28] XiaoMyMommy: I think it's the best choice
+[21:05:39] BCraftMG: did you know
+[21:05:41] BanchoBot: Countdown ends in 1 minute
+[21:05:43] BCraftMG: ur beloved host
+[21:05:49] BCraftMG: already put set 1 in the ref sheet
+[21:05:50] BCraftMG: !mp map 4104534 0
+[21:05:51] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4104534 YOASOBI - Idol
+[21:05:51] BanchoBot: Changed match mode to Osu
+[21:05:53] BanchoBot: moyamoyano_sa left the game.
+[21:05:54] BCraftMG: !mp mods Freemod
+[21:05:55] BanchoBot: Disabled all mods, enabled FreeMod
+[21:05:56] BanchoBot: RAiMEi_BOTTliUM moved to slot 4
+[21:05:58] BCraftMG: Forced SD btw
+[21:05:58] XiaoMyMommy: noway
+[21:05:59] BCraftMG: !mp timer 120
+[21:06:00] BanchoBot: Countdown aborted
+[21:06:00] BanchoBot: Countdown ends in 2 minutes
+[21:06:27] ruruichi: i'm not hitting this map with this nerf
+[21:06:29] ruruichi: nerve*
+[21:06:44] BanchoBot: All players are ready
+[21:06:45] BCraftMG: !mp settings
+[21:06:46] BanchoBot: Room name: PTSP: (5DFRT) vs (the), History: https://osu.ppy.sh/mp/108913758
+[21:06:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/4104534 YOASOBI - Idol
+[21:06:46] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:06:46] BanchoBot: Active mods: Freemod
+[21:06:46] BanchoBot: Players: 4
+[21:06:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11129041 XiaoMyMommy     [Team Red  / SuddenDeath]
+[21:06:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7365196 Nos_If          [Team Red  / SuddenDeath]
+[21:06:46] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6717559 ruruichi        [Team Blue / SuddenDeath]
+[21:06:46] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/18212788 RAiMEi_BOTTliUM [Team Blue / SuddenDeath]
+[21:06:47] ruruichi: glgl
+[21:06:48] BCraftMG: !mp start 5 glhf
+[21:06:49] BanchoBot: Countdown aborted
+[21:06:49] BanchoBot: Match starts in 5 seconds
+[21:06:49] BanchoBot: Queued the match to start in 5 seconds
+[21:06:51] BanchoBot: Match starts in 4 seconds
+[21:06:51] XiaoMyMommy: let's miss the first note
+[21:06:52] BanchoBot: Match starts in 3 seconds
+[21:06:52] BanchoBot: Good luck, have fun!
+[21:06:54] RAiMEi_BOTTliUM: gl
+[21:06:54] BanchoBot: The match has started!
+[21:08:10] BanchoBot: XiaoMyMommy finished playing (Score: 171011, FAILED).
+[21:08:10] BanchoBot: RAiMEi_BOTTliUM finished playing (Score: 149038, PASSED).
+[21:08:10] BanchoBot: Nos_If finished playing (Score: 157769, FAILED).
+[21:08:12] BanchoBot: RAiMEi_BOTTliUM finished playing (Score: 150875, PASSED).
+[21:08:12] BanchoBot: ruruichi finished playing (Score: 162684, PASSED).
+[21:08:12] BanchoBot: The match has finished!
+[21:08:17] ruruichi: holuy
+[21:08:17] Nos_If: wa
+[21:08:19] ruruichi: tahts' gg no
+[21:08:22] ruruichi: we win right
+[21:08:24] Nos_If: ggwp
+[21:08:25] ruruichi: ggwp
+[21:08:27] RAiMEi_BOTTliUM: ggwp!
+[21:08:30] BCraftMG: yep
+[21:08:34] ruruichi: damn
+[21:08:39] ruruichi: stressful match ngl
+[21:08:39] ruruichi: and fun
+[21:08:41] ruruichi: ggwp
+[21:08:58] RAiMEi_BOTTliUM: ty for ref and match
+[21:09:05] BCraftMG: ty for playing
+[21:09:08] BanchoBot: RAiMEi_BOTTliUM left the game.
+[21:09:13] BanchoBot: Nos_If left the game.
+[21:09:15] BanchoBot: XiaoMyMommy left the game.
+[21:09:16] ruruichi: thanks for ref
+[21:09:23] ruruichi: o/
+[21:09:23] BanchoBot: ruruichi left the game.
+[21:09:26] BCraftMG: !mp close
+[21:09:26] BanchoBot: Closed the match

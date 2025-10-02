@@ -1,0 +1,654 @@
+[00:50:36] Joined #mp_115040903
+[00:50:36] BCraftMG: !mp settings
+[00:50:38] BanchoBot: Room name: STT: Qualifiers Lobby B11, History: https://osu.ppy.sh/mp/115040903
+[00:50:38] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[00:50:38] BanchoBot: Players: 0
+[00:50:55] BCraftMG: !mp map 1046293
+[00:50:55] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1046293 Wagakki Band - Roku Chounen to Ichiya Monogatari
+[00:50:58] BCraftMG: !mp mods 1
+[00:50:58] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:51:06] BCraftMG: !mp set 0 3 8
+[00:51:06] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[00:51:13] BCraftMG: !mp invite #11684952
+[00:51:14] BanchoBot: Invited pretty girl to the room
+[00:51:15] BCraftMG: !mp invite #7333471
+[00:51:16] BanchoBot: Invited HAUNTE to the room
+[00:51:17] BCraftMG: !mp invite #2758279
+[00:51:17] BanchoBot: Invited Genryuu Kaiko to the room
+[00:51:48] BanchoBot: pretty girl joined in slot 1.
+[00:51:50] pretty_girl: Hi
+[00:51:55] BCraftMG: o/
+[00:52:04] pretty_girl: brb in 10
+[00:52:06] BanchoBot: pretty girl left the game.
+[00:57:08] BanchoBot: HAUNTE joined in slot 1.
+[00:57:13] BCraftMG: o/
+[00:57:20] HAUNTE: o/
+[00:57:30] BanchoBot: pretty girl joined in slot 2.
+[00:58:27] BanchoBot: 6Nusu9 joined in slot 3.
+[00:58:31] BanchoBot: pretty girl moved to slot 7
+[00:58:38] 6Nusu9: T-T!!!
+[00:59:25] 6Nusu9: whoplay?
+[00:59:27] BanchoBot: Rykaii joined in slot 2.
+[00:59:32] BanchoBot: Rykaii moved to slot 8
+[00:59:32] HAUNTE: uhm
+[00:59:33] HAUNTE: i think its jsut us
+[00:59:35] BanchoBot: Genryuu Kaiko joined in slot 2.
+[00:59:40] 6Nusu9: ajsndioasd
+[00:59:41] 6Nusu9: ok
+[01:00:18] BanchoBot: Rykaii left the game.
+[01:00:20] BanchoBot: Rykaii joined in slot 4.
+[01:00:22] BanchoBot: Rykaii moved to slot 8
+[01:00:30] BCraftMG: !mp settings
+[01:00:31] BanchoBot: Room name: STT: Qualifiers Lobby B11, History: https://osu.ppy.sh/mp/115040903
+[01:00:31] BanchoBot: Beatmap: https://osu.ppy.sh/b/1046293 Wagakki Band - Roku Chounen to Ichiya Monogatari
+[01:00:31] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:00:31] BanchoBot: Active mods: NoFail
+[01:00:31] BanchoBot: Players: 5
+[01:00:31] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/7333471 HAUNTE          
+[01:00:32] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/2758279 Genryuu Kaiko   
+[01:00:32] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/20501126 6Nusu9          
+[01:00:32] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/11684952 pretty girl     
+[01:00:32] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/10792185 Rykaii          
+[01:01:01] BanchoBot: Saryi joined in slot 4.
+[01:01:27] BanchoBot: Bae Suzy joined in slot 5.
+[01:01:32] BanchoBot: Saryi left the game.
+[01:01:32] BanchoBot: Genryuu Kaiko left the game.
+[01:01:36] BanchoBot: Bae Suzy moved to slot 6
+[01:01:36] BanchoBot: Bae Suzy moved to slot 4
+[01:01:48] BanchoBot: Genryuu Kaiko joined in slot 2.
+[01:01:52] BCraftMG: !mp settings
+[01:01:53] BanchoBot: Room name: STT: Qualifiers Lobby B11, History: https://osu.ppy.sh/mp/115040903
+[01:01:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/1046293 Wagakki Band - Roku Chounen to Ichiya Monogatari
+[01:01:53] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:01:53] BanchoBot: Active mods: NoFail
+[01:01:53] BanchoBot: Players: 6
+[01:01:53] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/7333471 HAUNTE          
+[01:01:53] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/2758279 Genryuu Kaiko   
+[01:01:53] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/20501126 6Nusu9          
+[01:01:53] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/3898396 Bae Suzy        
+[01:01:53] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11684952 pretty girl     
+[01:01:53] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10792185 Rykaii          
+[01:01:59] BanchoBot: Saryi joined in slot 5.
+[01:02:03] BanchoBot: Genryuu Kaiko left the game.
+[01:02:04] BCraftMG: get ready please
+[01:02:15] BanchoBot: 6Nusu9 moved to slot 2
+[01:02:17] BanchoBot: All players are ready
+[01:02:19] BCraftMG: !mp settings
+[01:02:20] BanchoBot: Room name: STT: Qualifiers Lobby B11, History: https://osu.ppy.sh/mp/115040903
+[01:02:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/1046293 Wagakki Band - Roku Chounen to Ichiya Monogatari
+[01:02:20] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:02:20] BanchoBot: Active mods: NoFail
+[01:02:20] BanchoBot: Players: 6
+[01:02:20] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7333471 HAUNTE          
+[01:02:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20501126 6Nusu9          
+[01:02:20] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/3898396 Bae Suzy        
+[01:02:20] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/10051720 Saryi           
+[01:02:20] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11684952 pretty girl     
+[01:02:20] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10792185 Rykaii          
+[01:02:22] Bae_Suzy: glhf
+[01:02:29] HAUNTE: gl
+[01:02:31] BCraftMG: !mp start 5 glhf
+[01:02:32] Rykaii: glgl
+[01:02:32] BanchoBot: Match starts in 5 seconds
+[01:02:32] BanchoBot: Queued the match to start in 5 seconds
+[01:02:33] BanchoBot: Match starts in 4 seconds
+[01:02:34] BanchoBot: Match starts in 3 seconds
+[01:02:36] BanchoBot: Good luck, have fun!
+[01:02:37] BanchoBot: The match has started!
+[01:06:28] BanchoBot: pretty girl finished playing (Score: 658586, PASSED).
+[01:06:30] BanchoBot: 6Nusu9 finished playing (Score: 635330, PASSED).
+[01:06:30] BanchoBot: Saryi finished playing (Score: 545515, PASSED).
+[01:06:30] BanchoBot: Bae Suzy finished playing (Score: 473525, PASSED).
+[01:06:30] BanchoBot: HAUNTE finished playing (Score: 504621, PASSED).
+[01:06:31] BanchoBot: Rykaii finished playing (Score: 611214, PASSED).
+[01:06:31] BanchoBot: The match has finished!
+[01:06:44] BCraftMG: !mp map 3192005
+[01:06:45] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3192005 Demetori - Fuujin Shoujo
+[01:06:47] BanchoBot: Rykaii left the game.
+[01:06:50] BanchoBot: Saryi left the game.
+[01:06:53] 6Nusu9: im sorry team
+[01:07:08] BanchoBot: Agnes Digital joined in slot 3.
+[01:07:13] BCraftMG: !mp timer 120
+[01:07:14] BanchoBot: Countdown ends in 2 minutes
+[01:07:17] Agnes_Digital: henlo
+[01:07:25] BanchoBot: Genryuu Kaiko joined in slot 5.
+[01:07:34] HAUNTE: im ready to get 50k
+[01:07:58] BanchoBot: All players are ready
+[01:08:02] BCraftMG: !mp settings
+[01:08:02] BanchoBot: Room name: STT: Qualifiers Lobby B11, History: https://osu.ppy.sh/mp/115040903
+[01:08:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/3192005 Demetori - Fuujin Shoujo
+[01:08:02] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:08:02] BanchoBot: Active mods: NoFail
+[01:08:02] BanchoBot: Players: 6
+[01:08:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7333471 HAUNTE          
+[01:08:02] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20501126 6Nusu9          
+[01:08:03] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/2165622 Agnes Digital   
+[01:08:03] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/3898396 Bae Suzy        
+[01:08:03] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/2758279 Genryuu Kaiko   
+[01:08:03] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11684952 pretty girl     
+[01:08:07] BCraftMG: !mp start 5 glhf
+[01:08:08] BanchoBot: Countdown aborted
+[01:08:08] BanchoBot: Match starts in 5 seconds
+[01:08:08] BanchoBot: Queued the match to start in 5 seconds
+[01:08:09] Bae_Suzy: glhf
+[01:08:09] BanchoBot: Match starts in 4 seconds
+[01:08:10] BanchoBot: Match starts in 3 seconds
+[01:08:11] BanchoBot: Good luck, have fun!
+[01:08:13] BanchoBot: The match has started!
+[01:11:34] BanchoBot: Bae Suzy finished playing (Score: 224851, PASSED).
+[01:11:35] BanchoBot: Genryuu Kaiko finished playing (Score: 546913, PASSED).
+[01:11:36] BanchoBot: HAUNTE finished playing (Score: 260032, PASSED).
+[01:11:36] BanchoBot: pretty girl finished playing (Score: 639688, PASSED).
+[01:11:36] BanchoBot: Agnes Digital finished playing (Score: 520252, PASSED).
+[01:11:37] BanchoBot: 6Nusu9 finished playing (Score: 985541, PASSED).
+[01:11:37] BanchoBot: The match has finished!
+[01:11:44] HAUNTE: my goat
+[01:11:44] BCraftMG: !mp map 4622438
+[01:11:45] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4622438 AJURIKA - BEAT PRISONER -Extended Mix-
+[01:11:48] 6Nusu9: qwihbd ñp-
+[01:11:49] BanchoBot: Agnes Digital left the game.
+[01:11:51] BCraftMG: !mp timer 120
+[01:11:52] BanchoBot: Countdown ends in 2 minutes
+[01:11:59] BanchoBot: Saryi joined in slot 3.
+[01:12:01] BanchoBot: Rykaii joined in slot 6.
+[01:12:01] BanchoBot: Bae Suzy left the game.
+[01:12:04] BanchoBot: Rykaii moved to slot 8
+[01:12:50] BanchoBot: All players are ready
+[01:12:51] BCraftMG: !mp settings
+[01:12:53] BanchoBot: Countdown ends in 1 minute
+[01:12:53] BanchoBot: Room name: STT: Qualifiers Lobby B11, History: https://osu.ppy.sh/mp/115040903
+[01:12:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/4622438 AJURIKA - BEAT PRISONER -Extended Mix-
+[01:12:53] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:12:53] BanchoBot: Active mods: NoFail
+[01:12:53] BanchoBot: Players: 6
+[01:12:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7333471 HAUNTE          
+[01:12:53] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20501126 6Nusu9          
+[01:12:53] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10051720 Saryi           
+[01:12:53] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/2758279 Genryuu Kaiko   
+[01:12:53] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11684952 pretty girl     
+[01:12:53] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10792185 Rykaii          
+[01:12:54] BCraftMG: !mp start 5 glhf
+[01:12:55] BanchoBot: Countdown aborted
+[01:12:55] BanchoBot: Match starts in 5 seconds
+[01:12:55] BanchoBot: Queued the match to start in 5 seconds
+[01:12:56] BanchoBot: Match starts in 4 seconds
+[01:12:58] BanchoBot: Match starts in 3 seconds
+[01:12:59] BanchoBot: Good luck, have fun!
+[01:13:00] BanchoBot: The match has started!
+[01:16:55] BanchoBot: Genryuu Kaiko finished playing (Score: 355255, PASSED).
+[01:16:55] BanchoBot: 6Nusu9 finished playing (Score: 458969, PASSED).
+[01:16:56] BanchoBot: Rykaii finished playing (Score: 284913, PASSED).
+[01:16:56] BanchoBot: HAUNTE finished playing (Score: 399841, PASSED).
+[01:16:56] BanchoBot: Saryi finished playing (Score: 543456, PASSED).
+[01:16:56] BanchoBot: pretty girl finished playing (Score: 448865, PASSED).
+[01:16:56] BanchoBot: The match has finished!
+[01:17:00] BCraftMG: !mp map 1979462
+[01:17:03] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1979462 HyuN - Grin
+[01:18:16] BCraftMG: !mp settings
+[01:18:17] BanchoBot: Room name: STT: Qualifiers Lobby B11, History: https://osu.ppy.sh/mp/115040903
+[01:18:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/1979462 HyuN - Grin
+[01:18:17] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:18:17] BanchoBot: Active mods: NoFail
+[01:18:17] BanchoBot: Players: 6
+[01:18:17] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7333471 HAUNTE          
+[01:18:17] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20501126 6Nusu9          
+[01:18:17] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10051720 Saryi           
+[01:18:17] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/2758279 Genryuu Kaiko   
+[01:18:17] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11684952 pretty girl     
+[01:18:17] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/10792185 Rykaii          
+[01:18:24] BanchoBot: All players are ready
+[01:18:26] BCraftMG: !mp settings
+[01:18:27] BanchoBot: Room name: STT: Qualifiers Lobby B11, History: https://osu.ppy.sh/mp/115040903
+[01:18:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/1979462 HyuN - Grin
+[01:18:27] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:18:27] BanchoBot: Active mods: NoFail
+[01:18:27] BanchoBot: Players: 6
+[01:18:27] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7333471 HAUNTE          
+[01:18:27] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20501126 6Nusu9          
+[01:18:27] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10051720 Saryi           
+[01:18:27] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/2758279 Genryuu Kaiko   
+[01:18:27] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11684952 pretty girl     
+[01:18:27] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10792185 Rykaii          
+[01:18:28] BCraftMG: !mp start 5 glhf
+[01:18:29] BanchoBot: Match starts in 5 seconds
+[01:18:29] BanchoBot: Queued the match to start in 5 seconds
+[01:18:30] BanchoBot: Match starts in 4 seconds
+[01:18:32] BanchoBot: Match starts in 3 seconds
+[01:18:33] BanchoBot: Good luck, have fun!
+[01:18:34] BanchoBot: The match has started!
+[01:21:15] BanchoBot: HAUNTE finished playing (Score: 516061, PASSED).
+[01:21:15] BanchoBot: Genryuu Kaiko finished playing (Score: 441653, PASSED).
+[01:21:18] BanchoBot: Saryi finished playing (Score: 557205, PASSED).
+[01:21:18] BanchoBot: Rykaii finished playing (Score: 645489, PASSED).
+[01:21:18] BanchoBot: 6Nusu9 finished playing (Score: 569289, PASSED).
+[01:21:18] BanchoBot: pretty girl finished playing (Score: 530272, PASSED).
+[01:21:18] BanchoBot: The match has finished!
+[01:21:21] BCraftMG: !mp map 4459402
+[01:21:22] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4459402 RuLu - Bad End Donuts feat. tug
+[01:21:23] BCraftMG: !mp mods 9
+[01:21:23] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[01:21:24] BCraftMG: !mp timer 120
+[01:21:25] BanchoBot: Countdown ends in 2 minutes
+[01:21:48] BanchoBot: Genryuu Kaiko left the game.
+[01:21:58] 6Nusu9: iwant todie
+[01:22:10] HAUNTE: samef
+[01:22:12] BanchoBot: Sepid joined in slot 4.
+[01:22:25] BanchoBot: Countdown ends in 1 minute
+[01:22:56] BanchoBot: Countdown ends in 30 seconds
+[01:23:05] BanchoBot: All players are ready
+[01:23:07] BCraftMG: !mp settings
+[01:23:08] BanchoBot: Room name: STT: Qualifiers Lobby B11, History: https://osu.ppy.sh/mp/115040903
+[01:23:08] BanchoBot: Beatmap: https://osu.ppy.sh/b/4459402 RuLu - Bad End Donuts feat. tug
+[01:23:08] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:23:08] BanchoBot: Active mods: NoFail, Hidden
+[01:23:08] BanchoBot: Players: 6
+[01:23:08] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7333471 HAUNTE          
+[01:23:08] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20501126 6Nusu9          
+[01:23:08] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10051720 Saryi           
+[01:23:08] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12032130 Sepid           
+[01:23:08] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11684952 pretty girl     
+[01:23:08] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10792185 Rykaii          
+[01:23:09] BCraftMG: !mp start 5 glhf
+[01:23:11] BanchoBot: Countdown aborted
+[01:23:11] BanchoBot: Match starts in 5 seconds
+[01:23:11] BanchoBot: Queued the match to start in 5 seconds
+[01:23:12] Rykaii: glgl
+[01:23:12] BanchoBot: Match starts in 4 seconds
+[01:23:13] BanchoBot: Match starts in 3 seconds
+[01:23:15] BanchoBot: Good luck, have fun!
+[01:23:16] BanchoBot: The match has started!
+[01:26:29] BanchoBot: Rykaii finished playing (Score: 256161, PASSED).
+[01:26:29] BanchoBot: pretty girl finished playing (Score: 287670, PASSED).
+[01:26:29] BanchoBot: HAUNTE finished playing (Score: 508584, PASSED).
+[01:26:29] BanchoBot: 6Nusu9 finished playing (Score: 942913, PASSED).
+[01:26:29] BanchoBot: Sepid finished playing (Score: 373681, PASSED).
+[01:26:31] BanchoBot: Saryi finished playing (Score: 414714, PASSED).
+[01:26:31] BanchoBot: The match has finished!
+[01:26:35] BCraftMG: !mp map 3765312
+[01:26:35] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3765312 A.SAKA - Nanatsu Hiiragisuikou (scenic mix)
+[01:26:39] BCraftMG: !mp timer 120
+[01:26:41] BanchoBot: Countdown ends in 2 minutes
+[01:27:01] Sepid: 6nusu9 goated !!
+[01:27:12] 6Nusu9: T-T!!
+[01:27:14] BanchoBot: Agnes Digital joined in slot 5.
+[01:27:17] BanchoBot: pretty girl left the game.
+[01:27:29] BanchoBot: Rykaii moved to slot 6
+[01:27:41] BanchoBot: All players are ready
+[01:27:41] BanchoBot: Countdown ends in 1 minute
+[01:27:44] Agnes_Digital: hfhf
+[01:27:45] BCraftMG: !mp settings
+[01:27:45] Rykaii: glgl
+[01:27:47] BanchoBot: Room name: STT: Qualifiers Lobby B11, History: https://osu.ppy.sh/mp/115040903
+[01:27:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/3765312 A.SAKA - Nanatsu Hiiragisuikou (scenic mix)
+[01:27:47] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:27:47] BanchoBot: Active mods: NoFail, Hidden
+[01:27:47] BanchoBot: Players: 6
+[01:27:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7333471 HAUNTE          
+[01:27:47] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20501126 6Nusu9          
+[01:27:47] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10051720 Saryi           
+[01:27:47] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12032130 Sepid           
+[01:27:47] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/2165622 Agnes Digital   
+[01:27:47] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10792185 Rykaii          
+[01:27:48] BCraftMG: !mp start 5 glhf
+[01:27:49] BanchoBot: Countdown aborted
+[01:27:49] BanchoBot: Match starts in 5 seconds
+[01:27:49] BanchoBot: Queued the match to start in 5 seconds
+[01:27:51] BanchoBot: Match starts in 4 seconds
+[01:27:52] BanchoBot: Match starts in 3 seconds
+[01:27:53] BanchoBot: Good luck, have fun!
+[01:27:55] BanchoBot: The match has started!
+[01:29:59] BanchoBot: 6Nusu9 finished playing (Score: 497269, PASSED).
+[01:29:59] BanchoBot: Rykaii finished playing (Score: 492645, PASSED).
+[01:29:59] BanchoBot: Sepid finished playing (Score: 449773, PASSED).
+[01:30:00] BanchoBot: Agnes Digital finished playing (Score: 304052, PASSED).
+[01:30:00] BanchoBot: HAUNTE finished playing (Score: 461640, PASSED).
+[01:30:00] BanchoBot: Saryi finished playing (Score: 797148, PASSED).
+[01:30:00] BanchoBot: The match has finished!
+[01:30:11] BCraftMG: !mp map 2534559
+[01:30:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2534559 Camellia - FLYING OUT TO THE SKY (covered by Nanahira, moimoi, Nana Takahashi)
+[01:30:12] BCraftMG: !mp mods 17
+[01:30:13] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[01:30:14] BCraftMG: !mp timer 120
+[01:30:15] BanchoBot: Countdown ends in 2 minutes
+[01:30:17] BanchoBot: Agnes Digital left the game.
+[01:30:19] BanchoBot: pretty girl joined in slot 5.
+[01:30:30] BanchoBot: Genryuu Kaiko joined in slot 7.
+[01:30:35] BanchoBot: Sepid left the game.
+[01:31:08] BanchoBot: Genryuu Kaiko moved to slot 4
+[01:31:12] BanchoBot: All players are ready
+[01:31:14] BCraftMG: !mp settings
+[01:31:15] BanchoBot: Room name: STT: Qualifiers Lobby B11, History: https://osu.ppy.sh/mp/115040903
+[01:31:15] BanchoBot: Beatmap: https://osu.ppy.sh/b/2534559 Camellia - FLYING OUT TO THE SKY (covered by Nanahira, moimoi, Nana Takahashi)
+[01:31:15] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:31:15] BanchoBot: Active mods: NoFail, HardRock
+[01:31:15] BanchoBot: Players: 6
+[01:31:15] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7333471 HAUNTE          
+[01:31:15] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20501126 6Nusu9          
+[01:31:15] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10051720 Saryi           
+[01:31:15] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/2758279 Genryuu Kaiko   
+[01:31:15] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11684952 pretty girl     
+[01:31:15] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10792185 Rykaii          
+[01:31:15] BCraftMG: !mp start 5 glhf
+[01:31:16] BanchoBot: Countdown ends in 1 minute
+[01:31:16] BanchoBot: Countdown aborted
+[01:31:16] BanchoBot: Match starts in 5 seconds
+[01:31:16] BanchoBot: Queued the match to start in 5 seconds
+[01:31:17] BanchoBot: Match starts in 4 seconds
+[01:31:19] BanchoBot: Match starts in 3 seconds
+[01:31:20] BanchoBot: Good luck, have fun!
+[01:31:21] BanchoBot: The match has started!
+[01:35:53] BanchoBot: HAUNTE finished playing (Score: 500705, PASSED).
+[01:35:53] BanchoBot: 6Nusu9 finished playing (Score: 600212, PASSED).
+[01:35:53] BanchoBot: Rykaii finished playing (Score: 551553, PASSED).
+[01:35:55] BanchoBot: Genryuu Kaiko finished playing (Score: 848968, PASSED).
+[01:35:55] BanchoBot: Saryi finished playing (Score: 451141, PASSED).
+[01:35:55] BanchoBot: pretty girl finished playing (Score: 579255, PASSED).
+[01:35:55] BanchoBot: The match has finished!
+[01:35:59] BCraftMG: !mp map 4723947
+[01:36:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4723947 paranoid void - Foamy Sky, Eternal City
+[01:36:05] BCraftMG: !mp timer 120
+[01:36:05] BanchoBot: Countdown ends in 2 minutes
+[01:36:23] BanchoBot: Agnes Digital joined in slot 7.
+[01:37:06] BanchoBot: Countdown ends in 1 minute
+[01:37:19] BanchoBot: Rykaii left the game.
+[01:37:21] BanchoBot: Agnes Digital moved to slot 6
+[01:37:29] BanchoBot: All players are ready
+[01:37:36] BanchoBot: Countdown ends in 30 seconds
+[01:37:56] BanchoBot: Countdown ends in 10 seconds
+[01:38:01] BanchoBot: Countdown ends in 5 seconds
+[01:38:03] BanchoBot: Countdown ends in 4 seconds
+[01:38:03] BanchoBot: Countdown ends in 3 seconds
+[01:38:04] BanchoBot: Countdown ends in 2 seconds
+[01:38:05] BanchoBot: Countdown ends in 1 second
+[01:38:05] BanchoBot: Countdown finished
+[01:38:06] BCraftMG: !mp settings
+[01:38:07] BanchoBot: Room name: STT: Qualifiers Lobby B11, History: https://osu.ppy.sh/mp/115040903
+[01:38:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/4723947 paranoid void - Foamy Sky, Eternal City
+[01:38:07] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:38:07] BanchoBot: Active mods: NoFail, HardRock
+[01:38:07] BanchoBot: Players: 6
+[01:38:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7333471 HAUNTE          
+[01:38:07] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20501126 6Nusu9          
+[01:38:07] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10051720 Saryi           
+[01:38:07] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/2758279 Genryuu Kaiko   
+[01:38:07] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11684952 pretty girl     
+[01:38:07] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/2165622 Agnes Digital   
+[01:38:08] BCraftMG: !mp start 5 glhf
+[01:38:09] BanchoBot: Match starts in 5 seconds
+[01:38:09] BanchoBot: Queued the match to start in 5 seconds
+[01:38:11] BanchoBot: Match starts in 4 seconds
+[01:38:12] BanchoBot: Match starts in 3 seconds
+[01:38:13] BanchoBot: Good luck, have fun!
+[01:38:15] Saryi: glgl
+[01:38:15] BanchoBot: The match has started!
+[01:41:37] BanchoBot: pretty girl finished playing (Score: 475680, PASSED).
+[01:41:37] BanchoBot: Saryi finished playing (Score: 558183, PASSED).
+[01:41:37] BanchoBot: 6Nusu9 finished playing (Score: 928170, PASSED).
+[01:41:37] BanchoBot: HAUNTE finished playing (Score: 674622, PASSED).
+[01:41:37] BanchoBot: Agnes Digital finished playing (Score: 307747, PASSED).
+[01:41:37] BanchoBot: Genryuu Kaiko finished playing (Score: 585137, PASSED).
+[01:41:37] BanchoBot: The match has finished!
+[01:41:42] BCraftMG: !mp map 2097324
+[01:41:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2097324 lapix - Kill The Beat
+[01:41:44] BCraftMG: !mp mods 65
+[01:41:45] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[01:41:51] BanchoBot: Agnes Digital left the game.
+[01:41:53] 6Nusu9: ...
+[01:41:54] BCraftMG: !mp timer 120
+[01:41:55] BanchoBot: Countdown ends in 2 minutes
+[01:42:00] BanchoBot: Rykaii joined in slot 6.
+[01:42:04] BanchoBot: Rykaii moved to slot 8
+[01:42:17] BanchoBot: pretty girl moved to slot 7
+[01:42:40] BanchoBot: Bae Suzy joined in slot 5.
+[01:42:43] BanchoBot: Genryuu Kaiko left the game.
+[01:42:56] BanchoBot: Countdown ends in 1 minute
+[01:43:02] BanchoBot: All players are ready
+[01:43:02] BanchoBot: Bae Suzy moved to slot 4
+[01:43:26] BanchoBot: Countdown ends in 30 seconds
+[01:43:30] Bae_Suzy: glhf
+[01:43:40] HAUNTE: erm
+[01:43:41] Rykaii: @ref
+[01:43:46] BanchoBot: Countdown ends in 10 seconds
+[01:43:52] BanchoBot: Countdown ends in 5 seconds
+[01:43:52] BanchoBot: Countdown ends in 4 seconds
+[01:43:53] BanchoBot: Countdown ends in 3 seconds
+[01:43:54] BanchoBot: Countdown ends in 2 seconds
+[01:43:56] BanchoBot: Countdown ends in 1 second
+[01:43:56] BanchoBot: Countdown finished
+[01:43:57] Saryi: erm
+[01:44:09] 6Nusu9: !mp luck 17
+[01:44:13] HAUNTE: @ref hi
+[01:44:19] Rykaii: !roll
+[01:44:19] BanchoBot: Rykaii rolls 86 point(s)
+[01:44:26] 6Nusu9: !roll
+[01:44:26] BanchoBot: 6Nusu9 rolls 58 point(s)
+[01:44:31] pretty_girl: S E P I D
+[01:44:42] BCraftMG: !mp settings
+[01:44:43] BanchoBot: Room name: STT: Qualifiers Lobby B11, History: https://osu.ppy.sh/mp/115040903
+[01:44:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/2097324 lapix - Kill The Beat
+[01:44:43] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:44:43] BanchoBot: Active mods: NoFail, DoubleTime
+[01:44:43] BanchoBot: Players: 6
+[01:44:43] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7333471 HAUNTE          
+[01:44:43] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20501126 6Nusu9          
+[01:44:43] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10051720 Saryi           
+[01:44:43] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/3898396 Bae Suzy        
+[01:44:43] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11684952 pretty girl     
+[01:44:43] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10792185 Rykaii          
+[01:44:45] BCraftMG: hi
+[01:44:46] HAUNTE: !roll
+[01:44:46] BanchoBot: HAUNTE rolls 25 point(s)
+[01:44:46] BCraftMG: sorry
+[01:44:47] BCraftMG: !mp start 5 glhf
+[01:44:49] BanchoBot: Match starts in 5 seconds
+[01:44:49] BanchoBot: Queued the match to start in 5 seconds
+[01:44:50] BanchoBot: Match starts in 4 seconds
+[01:44:51] BanchoBot: Match starts in 3 seconds
+[01:44:53] pretty_girl: dw
+[01:44:53] BanchoBot: Good luck, have fun!
+[01:44:54] BanchoBot: The match has started!
+[01:46:03] BanchoBot: pretty girl finished playing (Score: 710555, PASSED).
+[01:46:03] BanchoBot: Saryi finished playing (Score: 1012173, PASSED).
+[01:46:03] BanchoBot: 6Nusu9 finished playing (Score: 1012272, PASSED).
+[01:46:03] BanchoBot: Bae Suzy finished playing (Score: 427000, PASSED).
+[01:46:04] BanchoBot: HAUNTE finished playing (Score: 526103, PASSED).
+[01:46:04] BanchoBot: Rykaii finished playing (Score: 404081, PASSED).
+[01:46:04] BanchoBot: The match has finished!
+[01:46:11] BCraftMG: !mp map 3611592
+[01:46:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3611592 tapimiru - Motenai Kuse ni ( ' ; w ; ' )
+[01:46:14] BCraftMG: !mp timer 120
+[01:46:15] BanchoBot: Countdown ends in 2 minutes
+[01:46:27] BanchoBot: Saryi left the game.
+[01:46:30] BanchoBot: Rykaii left the game.
+[01:47:07] BanchoBot: Genryuu Kaiko joined in slot 3.
+[01:47:16] BanchoBot: Countdown ends in 1 minute
+[01:47:28] BanchoBot: Rykaii joined in slot 5.
+[01:47:31] BanchoBot: Rykaii moved to slot 8
+[01:47:39] BanchoBot: All players are ready
+[01:47:40] Bae_Suzy: glhf
+[01:47:46] BanchoBot: Countdown ends in 30 seconds
+[01:47:57] BCraftMG: !mp settings
+[01:47:58] BanchoBot: Room name: STT: Qualifiers Lobby B11, History: https://osu.ppy.sh/mp/115040903
+[01:47:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/3611592 tapimiru - Motenai Kuse ni ( ' ; w ; ' )
+[01:47:58] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:47:58] BanchoBot: Active mods: NoFail, DoubleTime
+[01:47:58] BanchoBot: Players: 6
+[01:47:58] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7333471 HAUNTE          
+[01:47:58] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20501126 6Nusu9          
+[01:47:58] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/2758279 Genryuu Kaiko   
+[01:47:58] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/3898396 Bae Suzy        
+[01:47:58] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11684952 pretty girl     
+[01:47:58] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10792185 Rykaii          
+[01:47:59] BCraftMG: !mp start 5 glhf
+[01:47:59] Rykaii: glgl
+[01:47:59] BanchoBot: Countdown aborted
+[01:47:59] BanchoBot: Match starts in 5 seconds
+[01:47:59] BanchoBot: Queued the match to start in 5 seconds
+[01:48:01] BanchoBot: Match starts in 4 seconds
+[01:48:02] BanchoBot: Match starts in 3 seconds
+[01:48:03] BanchoBot: Good luck, have fun!
+[01:48:05] BanchoBot: The match has started!
+[01:50:48] BanchoBot: Rykaii finished playing (Score: 219038, PASSED).
+[01:50:48] BanchoBot: Bae Suzy finished playing (Score: 356011, PASSED).
+[01:50:49] BanchoBot: pretty girl finished playing (Score: 372439, PASSED).
+[01:50:49] BanchoBot: Genryuu Kaiko finished playing (Score: 328173, PASSED).
+[01:50:49] BanchoBot: 6Nusu9 finished playing (Score: 523538, PASSED).
+[01:50:49] BanchoBot: HAUNTE finished playing (Score: 190132, PASSED).
+[01:50:49] BanchoBot: The match has finished!
+[01:51:08] BCraftMG: !mp map 2709018
+[01:51:08] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2709018 BAND-MAID - Spirit!!
+[01:51:10] BCraftMG: !mp mods nf ez
+[01:51:11] BanchoBot: Enabled NoFail, Easy, disabled FreeMod
+[01:51:14] BanchoBot: Bae Suzy left the game.
+[01:51:15] BanchoBot: Agnes Digital joined in slot 4.
+[01:51:19] BanchoBot: pretty girl moved to slot 6
+[01:51:21] BanchoBot: Saryi joined in slot 5.
+[01:51:26] Agnes_Digital: dead
+[01:51:31] pretty_girl: you guys got ez and dtez
+[01:51:33] BanchoBot: pretty girl left the game.
+[01:51:37] Saryi: we are finished
+[01:51:45] 6Nusu9: T-T
+[01:51:45] BanchoBot: Genryuu Kaiko moved to slot 6
+[01:51:56] 6Nusu9: @haunte hñelp
+[01:51:57] 6Nusu9: pls
+[01:52:03] HAUNTE: ill try
+[01:52:03] BCraftMG: !mp timer 90
+[01:52:04] HAUNTE: ilfhsidf
+[01:52:04] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[01:52:07] BanchoBot: All players are ready
+[01:52:09] BCraftMG: !mp settings
+[01:52:10] BanchoBot: Room name: STT: Qualifiers Lobby B11, History: https://osu.ppy.sh/mp/115040903
+[01:52:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/2709018 BAND-MAID - Spirit!!
+[01:52:10] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:52:10] BanchoBot: Active mods: NoFail, Easy
+[01:52:10] BanchoBot: Players: 6
+[01:52:10] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7333471 HAUNTE          
+[01:52:10] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20501126 6Nusu9          
+[01:52:10] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/2165622 Agnes Digital   
+[01:52:10] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/10051720 Saryi           
+[01:52:10] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/2758279 Genryuu Kaiko   
+[01:52:10] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10792185 Rykaii          
+[01:52:12] BCraftMG: !mp start 5 glhf
+[01:52:12] BanchoBot: Countdown aborted
+[01:52:12] BanchoBot: Match starts in 5 seconds
+[01:52:12] BanchoBot: Queued the match to start in 5 seconds
+[01:52:13] BanchoBot: Match starts in 4 seconds
+[01:52:15] BanchoBot: Match starts in 3 seconds
+[01:52:16] BanchoBot: Good luck, have fun!
+[01:52:18] BanchoBot: The match has started!
+[01:56:03] BanchoBot: Agnes Digital finished playing (Score: 128858, PASSED).
+[01:56:03] BanchoBot: HAUNTE finished playing (Score: 175899, PASSED).
+[01:56:03] BanchoBot: Rykaii finished playing (Score: 227656, PASSED).
+[01:56:03] BanchoBot: Genryuu Kaiko finished playing (Score: 63665, PASSED).
+[01:56:05] BanchoBot: Saryi finished playing (Score: 44940, PASSED).
+[01:56:05] BanchoBot: 6Nusu9 finished playing (Score: 106228, PASSED).
+[01:56:05] BanchoBot: The match has finished!
+[01:56:13] BCraftMG: !mp map 1532489
+[01:56:14] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1532489 Infected Mushroom - Spitfire
+[01:56:18] BCraftMG: !mp mods nf ez dt
+[01:56:19] BanchoBot: Enabled NoFail, Easy, DoubleTime, disabled FreeMod
+[01:56:42] BanchoBot: Rykaii moved to slot 3
+[01:57:24] BanchoBot: All players are ready
+[01:57:28] BCraftMG: !mp settings
+[01:57:29] BanchoBot: Room name: STT: Qualifiers Lobby B11, History: https://osu.ppy.sh/mp/115040903
+[01:57:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/1532489 Infected Mushroom - Spitfire
+[01:57:29] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:57:29] BanchoBot: Active mods: NoFail, Easy, DoubleTime
+[01:57:29] BanchoBot: Players: 6
+[01:57:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7333471 HAUNTE          
+[01:57:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20501126 6Nusu9          
+[01:57:29] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10792185 Rykaii          
+[01:57:29] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/2165622 Agnes Digital   
+[01:57:29] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/10051720 Saryi           
+[01:57:29] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/2758279 Genryuu Kaiko   
+[01:57:30] BCraftMG: !mp start 5 glhf
+[01:57:30] BanchoBot: Match starts in 5 seconds
+[01:57:30] BanchoBot: Queued the match to start in 5 seconds
+[01:57:31] BanchoBot: Match starts in 4 seconds
+[01:57:33] BanchoBot: Match starts in 3 seconds
+[01:57:34] BanchoBot: Good luck, have fun!
+[01:57:35] BanchoBot: The match has started!
+[02:02:20] BanchoBot: Saryi finished playing (Score: 131320, PASSED).
+[02:02:22] BanchoBot: Genryuu Kaiko finished playing (Score: 98455, PASSED).
+[02:02:23] BanchoBot: Agnes Digital finished playing (Score: 34891, PASSED).
+[02:02:23] BanchoBot: 6Nusu9 finished playing (Score: 146723, PASSED).
+[02:02:23] BanchoBot: Rykaii finished playing (Score: 123432, PASSED).
+[02:02:23] BanchoBot: HAUNTE finished playing (Score: 201798, PASSED).
+[02:02:23] BanchoBot: The match has finished!
+[02:02:28] BCraftMG: !mp map 1128184
+[02:02:28] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1128184 Vicetone - Kaleidoscope
+[02:02:32] BanchoBot: Agnes Digital left the game.
+[02:02:37] BCraftMG: !mp mods nf hr dt
+[02:02:38] BanchoBot: Enabled NoFail, HardRock, DoubleTime, disabled FreeMod
+[02:02:45] BanchoBot: Bae Suzy joined in slot 4.
+[02:02:50] BanchoBot: Saryi left the game.
+[02:02:57] BanchoBot: Rykaii left the game.
+[02:02:59] BanchoBot: pretty girl joined in slot 3.
+[02:03:17] 6Nusu9: time todie
+[02:03:33] BanchoBot: Saryi joined in slot 5.
+[02:03:36] BanchoBot: Genryuu Kaiko left the game.
+[02:03:38] BanchoBot: pretty girl moved to slot 7
+[02:03:56] pretty_girl: whats the time at
+[02:04:11] BCraftMG: !mp timer 90
+[02:04:12] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[02:04:13] BanchoBot: Rykaii joined in slot 3.
+[02:04:16] BanchoBot: Rykaii moved to slot 6
+[02:04:21] BanchoBot: All players are ready
+[02:04:25] BCraftMG: !mp settings
+[02:04:26] Bae_Suzy: glhf
+[02:04:26] BanchoBot: Room name: STT: Qualifiers Lobby B11, History: https://osu.ppy.sh/mp/115040903
+[02:04:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/1128184 Vicetone - Kaleidoscope
+[02:04:26] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[02:04:26] BanchoBot: Active mods: NoFail, HardRock, DoubleTime
+[02:04:26] BanchoBot: Players: 6
+[02:04:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7333471 HAUNTE          
+[02:04:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20501126 6Nusu9          
+[02:04:26] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/3898396 Bae Suzy        
+[02:04:26] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/10051720 Saryi           
+[02:04:26] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10792185 Rykaii          
+[02:04:26] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11684952 pretty girl     
+[02:04:28] BCraftMG: !mp start 5 glhf
+[02:04:28] BanchoBot: Countdown aborted
+[02:04:28] BanchoBot: Match starts in 5 seconds
+[02:04:28] BanchoBot: Queued the match to start in 5 seconds
+[02:04:29] BanchoBot: Match starts in 4 seconds
+[02:04:31] BanchoBot: Match starts in 3 seconds
+[02:04:32] BanchoBot: Good luck, have fun!
+[02:04:33] BanchoBot: The match has started!
+[02:05:48] BanchoBot: Saryi finished playing (Score: 1209458, PASSED).
+[02:05:50] BanchoBot: Bae Suzy finished playing (Score: 1180238, PASSED).
+[02:05:50] BanchoBot: pretty girl finished playing (Score: 748050, PASSED).
+[02:05:50] BanchoBot: Rykaii finished playing (Score: 810915, PASSED).
+[02:05:50] BanchoBot: HAUNTE finished playing (Score: 1196523, PASSED).
+[02:05:51] BanchoBot: 6Nusu9 finished playing (Score: 277491, PASSED).
+[02:05:51] BanchoBot: The match has finished!
+[02:06:06] Rykaii: gg
+[02:06:09] Rykaii: thx for ref
+[02:06:10] BanchoBot: Rykaii left the game.
+[02:06:10] Saryi: ty for lobby
+[02:06:10] BCraftMG: that should be all
+[02:06:11] Saryi: ref
+[02:06:13] HAUNTE: gg ty for ref GOODNIGHT
+[02:06:15] pretty_girl: ty for ref
+[02:06:17] pretty_girl: gg
+[02:06:18] BanchoBot: HAUNTE left the game.
+[02:06:25] Bae_Suzy: thanks for ref!
+[02:06:25] BanchoBot: Bae Suzy left the game.
+[02:06:29] BanchoBot: Saryi left the game.
+[02:06:30] BanchoBot: pretty girl left the game.
+[02:06:34] BCraftMG: !mp settings
+[02:06:34] BanchoBot: Room name: STT: Qualifiers Lobby B11, History: https://osu.ppy.sh/mp/115040903
+[02:06:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/1128184 Vicetone - Kaleidoscope
+[02:06:34] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[02:06:34] BanchoBot: Active mods: NoFail, HardRock, DoubleTime
+[02:06:34] BanchoBot: Players: 1
+[02:06:34] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/20501126 6Nusu9          
+[02:06:38] 6Nusu9: THX REF
+[02:06:40] 6Nusu9: FOR TE REF
+[02:06:41] 6Nusu9: the
+[02:06:43] 6Nusu9: *
+[02:06:44] BCraftMG: o/
+[02:06:45] 6Nusu9: sprry matyus
+[02:07:00] BanchoBot: 6Nusu9 left the game.
+[02:07:03] BCraftMG: !mp close
+[02:07:04] BanchoBot: Closed the match

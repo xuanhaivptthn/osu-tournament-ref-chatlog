@@ -1,0 +1,555 @@
+[18:53:44] Joined #mp_102861326
+[18:53:44] BCraftMG: !mp settings
+[18:53:46] BanchoBot: Room name: BQT5: (Qualifiers) vs (Lobby A7), History: https://osu.ppy.sh/mp/102861326
+[18:53:46] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[18:53:46] BanchoBot: Players: 0
+[18:54:14] BCraftMG: !mp set 0 3 6
+[18:54:15] BanchoBot: Changed match settings to 6 slots, HeadToHead, ScoreV2
+[18:54:22] BCraftMG: !mp invite Atrucity_
+[18:54:23] BanchoBot: Invited Atrucity_ to the room
+[18:54:25] BCraftMG: !mp invite -Reina
+[18:54:27] BanchoBot: Invited -Reina to the room
+[18:54:40] BanchoBot: Atrucity_ joined in slot 1.
+[18:54:57] BCraftMG: hai
+[18:55:04] BCraftMG: !mp map 3064371
+[18:55:04] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3064371 Aqours - Thrilling One Way
+[18:55:05] BCraftMG: !mp mods 1
+[18:55:05] BanchoBot: Enabled NoFail, disabled FreeMod
+[18:55:40] BanchoBot: Orotodes joined in slot 2.
+[18:55:48] BanchoBot: Outmod joined in slot 3.
+[18:55:55] BCraftMG: hi
+[18:55:56] Orotodes: is this the map
+[18:56:02] BCraftMG: yes
+[18:56:03] Atrucity_: yep
+[18:56:07] BCraftMG: but we waitin for players
+[18:57:06] BanchoBot: Atrucity_ left the game.
+[18:57:12] BanchoBot: Outmod moved to slot 1
+[18:57:14] Orotodes: ok guy left
+[18:57:36] BCraftMG: !mp invite -Reina
+[18:57:37] BanchoBot: Invited -Reina to the room
+[18:57:37] BCraftMG: !mp invite -Reina
+[18:57:44] BanchoBot: -Reina joined in slot 3.
+[18:57:49] Outmod: o/
+[18:57:50] -Reina: hello
+[18:57:54] BCraftMG: o/ halo
+[18:57:57] -Reina: I'm here to score 50k :>
+[18:58:08] Outmod: bruh we are done
+[18:58:14] Orotodes: im here to cut unriped meat
+[18:58:16] Outmod: we haven't played lmao
+[18:58:28] Orotodes: come for shot
+[18:58:31] Orotodes: short
+[18:58:34] BanchoBot: breakerbone joined in slot 4.
+[18:58:37] Outmod: lmao
+[18:58:41] BanchoBot: JoshKiller13 joined in slot 5.
+[18:58:41] BCraftMG: i see
+[18:58:51] BCraftMG: aanyway
+[18:58:56] BCraftMG: 2 players per team
+[18:58:58] -Reina: cya
+[18:59:04] -Reina: goodluck guys
+[18:59:05] BanchoBot: -Reina left the game.
+[18:59:09] Orotodes: ey
+[18:59:10] Orotodes: ph team
+[18:59:17] Outmod: glgl
+[18:59:19] BCraftMG: please ready up ^^
+[18:59:22] JoshKiller13: man im gonna die kek
+[18:59:24] Orotodes: golf!
+[18:59:30] BCraftMG: i will have a 120s timer between maps later on
+[18:59:30] breakerbone: golf
+[18:59:41] Outmod: nah we are lmao
+[18:59:41] BanchoBot: All players are ready
+[18:59:43] breakerbone: oh no
+[18:59:47] BCraftMG: !mp settings
+[18:59:49] BanchoBot: Room name: BQT5: (Qualifiers) vs (Lobby A7), History: https://osu.ppy.sh/mp/102861326
+[18:59:49] BanchoBot: Beatmap: https://osu.ppy.sh/b/3064371 Aqours - Thrilling One Way
+[18:59:49] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[18:59:49] BanchoBot: Active mods: NoFail
+[18:59:49] BanchoBot: Players: 4
+[18:59:49] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15873129 Outmod          
+[18:59:49] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20054960 Orotodes        
+[18:59:49] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/20546010 breakerbone     
+[18:59:49] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/22523908 JoshKiller13    
+[18:59:53] BCraftMG: !mp start 10
+[18:59:54] BanchoBot: Match starts in 10 seconds
+[18:59:54] BanchoBot: Queued the match to start in 10 seconds
+[18:59:59] Outmod: glhf
+[18:59:59] BanchoBot: Match starts in 5 seconds
+[19:00:00] BanchoBot: Match starts in 4 seconds
+[19:00:00] BCraftMG: glgl
+[19:00:01] BanchoBot: Match starts in 3 seconds
+[19:00:02] Orotodes: i will get 10k
+[19:00:02] BanchoBot: Good luck, have fun!
+[19:00:04] Orotodes: watch me
+[19:00:05] Orotodes: !
+[19:00:05] BanchoBot: The match has started!
+[19:04:42] BanchoBot: breakerbone finished playing (Score: 240525, PASSED).
+[19:04:42] BanchoBot: JoshKiller13 finished playing (Score: 455953, PASSED).
+[19:04:44] BanchoBot: Outmod finished playing (Score: 395166, PASSED).
+[19:04:44] BanchoBot: Orotodes finished playing (Score: 604509, PASSED).
+[19:04:44] BanchoBot: The match has finished!
+[19:04:48] BCraftMG: !mp map 908887
+[19:04:49] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/908887 void - Crisscrosser
+[19:04:50] BCraftMG: !mp timer 120
+[19:04:51] BanchoBot: Countdown ends in 2 minutes
+[19:05:01] Outmod: BRO I HAD TWO LAG SPIKES IIN THEW MAP WTF
+[19:05:02] Outmod: LMAOI
+[19:05:09] BCraftMG: Undecided you might want to tell your captain the map is done xd
+[19:05:13] JoshKiller13: man that map was stressful lol
+[19:05:30] breakerbone: im so laggy
+[19:05:35] Outmod: F
+[19:05:51] BanchoBot: Countdown ends in 1 minute
+[19:05:56] BCraftMG: is this pool hard
+[19:06:03] breakerbone: wait can i relog
+[19:06:10] Outmod: tbh i haven't played it
+[19:06:16] BCraftMG: sure
+[19:06:18] Outmod: but i have played the nms tho
+[19:06:18] JoshKiller13: the HD and HR ones will be stressful for me
+[19:06:22] BanchoBot: breakerbone left the game.
+[19:06:22] BanchoBot: Countdown ends in 30 seconds
+[19:06:26] Outmod: fair
+[19:06:36] Orotodes: its gonna be so stressful and confussing till it makes a lgbtq look straight
+[19:06:39] Orotodes: i mean nothing
+[19:06:41] BanchoBot: Countdown ends in 10 seconds
+[19:06:46] BanchoBot: Countdown ends in 5 seconds
+[19:06:47] BanchoBot: Countdown ends in 4 seconds
+[19:06:47] JoshKiller13: lol
+[19:06:48] BanchoBot: Countdown ends in 3 seconds
+[19:06:49] BanchoBot: Countdown ends in 2 seconds
+[19:06:50] BanchoBot: Countdown ends in 1 second
+[19:06:51] BanchoBot: Countdown finished
+[19:07:06] BanchoBot: breakerbone joined in slot 3.
+[19:07:07] BCraftMG: gonna wait now :starege:
+[19:07:09] BCraftMG: oh hi
+[19:07:12] BanchoBot: breakerbone moved to slot 4
+[19:07:16] BCraftMG: okay please ready up
+[19:07:16] breakerbone: ty
+[19:07:16] JoshKiller13: starege
+[19:07:28] BCraftMG: !mp settings
+[19:07:30] BanchoBot: All players are ready
+[19:07:30] BanchoBot: Room name: BQT5: (Qualifiers) vs (Lobby A7), History: https://osu.ppy.sh/mp/102861326
+[19:07:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/908887 void - Crisscrosser
+[19:07:30] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[19:07:30] BanchoBot: Active mods: NoFail
+[19:07:30] BanchoBot: Players: 4
+[19:07:30] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15873129 Outmod          
+[19:07:30] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20054960 Orotodes        
+[19:07:30] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/20546010 breakerbone     
+[19:07:30] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/22523908 JoshKiller13    
+[19:07:35] BCraftMG: !mp settings
+[19:07:36] BanchoBot: Room name: BQT5: (Qualifiers) vs (Lobby A7), History: https://osu.ppy.sh/mp/102861326
+[19:07:36] BanchoBot: Beatmap: https://osu.ppy.sh/b/908887 void - Crisscrosser
+[19:07:36] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[19:07:36] BanchoBot: Active mods: NoFail
+[19:07:36] BanchoBot: Players: 4
+[19:07:36] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15873129 Outmod          
+[19:07:36] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20054960 Orotodes        
+[19:07:36] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/20546010 breakerbone     
+[19:07:36] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/22523908 JoshKiller13    
+[19:07:40] BCraftMG: !mp start 5
+[19:07:40] BanchoBot: Match starts in 5 seconds
+[19:07:40] BanchoBot: Queued the match to start in 5 seconds
+[19:07:41] BanchoBot: Match starts in 4 seconds
+[19:07:42] BCraftMG: GL
+[19:07:43] BanchoBot: Match starts in 3 seconds
+[19:07:44] BanchoBot: Good luck, have fun!
+[19:07:45] Outmod: glhf
+[19:07:47] BanchoBot: The match has started!
+[19:09:49] BanchoBot: Outmod finished playing (Score: 403903, PASSED).
+[19:09:49] BanchoBot: breakerbone finished playing (Score: 621091, PASSED).
+[19:09:52] BanchoBot: JoshKiller13 finished playing (Score: 384506, PASSED).
+[19:09:52] BanchoBot: Orotodes finished playing (Score: 510226, PASSED).
+[19:09:52] BanchoBot: The match has finished!
+[19:09:56] BCraftMG: !mp map 3508565
+[19:09:57] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3508565 Yousei Teikoku - Naikan Uchuu Shisha no Yurikago
+[19:09:58] BCraftMG: !mp timer 120
+[19:09:59] BanchoBot: Countdown ends in 2 minutes
+[19:10:43] breakerbone: aa
+[19:10:59] BanchoBot: Countdown ends in 1 minute
+[19:11:02] Orotodes: ti
+[19:11:03] BanchoBot: All players are ready
+[19:11:07] BCraftMG: !mp settings
+[19:11:07] BanchoBot: Room name: BQT5: (Qualifiers) vs (Lobby A7), History: https://osu.ppy.sh/mp/102861326
+[19:11:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/3508565 Yousei Teikoku - Naikan Uchuu Shisha no Yurikago
+[19:11:07] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[19:11:07] BanchoBot: Active mods: NoFail
+[19:11:07] BanchoBot: Players: 4
+[19:11:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15873129 Outmod          
+[19:11:07] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20054960 Orotodes        
+[19:11:07] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/20546010 breakerbone     
+[19:11:07] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/22523908 JoshKiller13    
+[19:11:09] BCraftMG: bb
+[19:11:13] BCraftMG: !mp start 10
+[19:11:13] BanchoBot: Countdown aborted
+[19:11:13] BanchoBot: Match starts in 10 seconds
+[19:11:13] BanchoBot: Queued the match to start in 10 seconds
+[19:11:18] Outmod: glhf
+[19:11:18] BanchoBot: Match starts in 5 seconds
+[19:11:19] BanchoBot: Match starts in 4 seconds
+[19:11:20] BanchoBot: Match starts in 3 seconds
+[19:11:21] BanchoBot: Good luck, have fun!
+[19:11:23] BanchoBot: The match has started!
+[19:11:24] Orotodes: gld
+[19:14:58] BanchoBot: Outmod finished playing (Score: 444875, PASSED).
+[19:15:00] BanchoBot: breakerbone finished playing (Score: 61991, PASSED).
+[19:15:00] BanchoBot: Orotodes finished playing (Score: 183559, PASSED).
+[19:15:00] BanchoBot: JoshKiller13 finished playing (Score: 129065, PASSED).
+[19:15:00] BanchoBot: The match has finished!
+[19:15:10] JoshKiller13: Bred
+[19:15:19] BCraftMG: !mp map 2124036
+[19:15:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2124036 sky_delta - Midnight City Warfare
+[19:15:21] Outmod: yeah
+[19:15:23] BCraftMG: !mp timer 120
+[19:15:24] BanchoBot: Countdown ends in 2 minutes
+[19:15:25] BanchoBot: Orotodes left the game.
+[19:15:29] BanchoBot: breakerbone left the game.
+[19:15:32] BanchoBot: -Reina joined in slot 2.
+[19:15:33] BanchoBot: Orotodes joined in slot 3.
+[19:15:38] BanchoBot: -Reina moved to slot 4
+[19:15:52] BanchoBot: Outmod left the game.
+[19:15:56] BanchoBot: Orotodes moved to slot 1
+[19:16:01] BanchoBot: Outmod joined in slot 2.
+[19:16:20] -Reina: this is nm4
+[19:16:24] BanchoBot: Countdown ends in 1 minute
+[19:16:25] Outmod: yup
+[19:16:26] -Reina: I thought still nm3
+[19:16:28] -Reina: :scared:
+[19:16:31] BanchoBot: All players are ready
+[19:16:33] BCraftMG: !mp settings
+[19:16:34] BanchoBot: Room name: BQT5: (Qualifiers) vs (Lobby A7), History: https://osu.ppy.sh/mp/102861326
+[19:16:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/2124036 sky_delta - Midnight City Warfare
+[19:16:34] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[19:16:34] BanchoBot: Active mods: NoFail
+[19:16:34] BanchoBot: Players: 4
+[19:16:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/20054960 Orotodes        
+[19:16:34] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15873129 Outmod          
+[19:16:34] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/22657113 -Reina          
+[19:16:34] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/22523908 JoshKiller13    
+[19:16:36] BCraftMG: wat
+[19:16:37] Outmod: :trolley:
+[19:16:39] BCraftMG: !mp start 10
+[19:16:40] BanchoBot: Countdown aborted
+[19:16:40] BanchoBot: Match starts in 10 seconds
+[19:16:40] BanchoBot: Queued the match to start in 10 seconds
+[19:16:44] Outmod: glhf
+[19:16:45] Orotodes: whose our captain
+[19:16:45] BanchoBot: Match starts in 5 seconds
+[19:16:46] BanchoBot: Match starts in 4 seconds
+[19:16:47] Orotodes: im still confused
+[19:16:47] -Reina: glhf
+[19:16:47] BanchoBot: Match starts in 3 seconds
+[19:16:48] BanchoBot: Good luck, have fun!
+[19:16:50] BanchoBot: The match has started!
+[19:18:57] BanchoBot: -Reina finished playing (Score: 90326, PASSED).
+[19:18:57] BanchoBot: Orotodes finished playing (Score: 283192, PASSED).
+[19:18:58] BanchoBot: JoshKiller13 finished playing (Score: 180809, PASSED).
+[19:18:59] BanchoBot: Outmod finished playing (Score: 466127, PASSED).
+[19:18:59] BanchoBot: The match has finished!
+[19:19:11] BCraftMG: !mp map 1558333
+[19:19:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1558333 JUNNA - Here
+[19:19:13] BCraftMG: !mp mods 9
+[19:19:14] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[19:19:15] BCraftMG: !mp timer 120
+[19:19:16] BanchoBot: Countdown ends in 2 minutes
+[19:19:19] BCraftMG: hd time
+[19:19:24] Outmod: :D
+[19:19:46] JoshKiller13: yay slow HD time
+[19:20:02] -Reina: :scared:
+[19:20:06] BanchoBot: All players are ready
+[19:20:12] BCraftMG: !mp settings
+[19:20:14] BanchoBot: Room name: BQT5: (Qualifiers) vs (Lobby A7), History: https://osu.ppy.sh/mp/102861326
+[19:20:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/1558333 JUNNA - Here
+[19:20:14] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[19:20:14] BanchoBot: Active mods: NoFail, Hidden
+[19:20:14] BanchoBot: Players: 4
+[19:20:14] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/20054960 Orotodes        
+[19:20:14] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15873129 Outmod          
+[19:20:14] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/22657113 -Reina          
+[19:20:14] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/22523908 JoshKiller13    
+[19:20:14] BCraftMG: !mp start 10
+[19:20:15] BanchoBot: Countdown aborted
+[19:20:15] BanchoBot: Match starts in 10 seconds
+[19:20:15] BanchoBot: Queued the match to start in 10 seconds
+[19:20:21] BanchoBot: Match starts in 5 seconds
+[19:20:22] BanchoBot: Match starts in 4 seconds
+[19:20:23] BanchoBot: Match starts in 3 seconds
+[19:20:24] BanchoBot: Good luck, have fun!
+[19:20:26] BanchoBot: The match has started!
+[19:24:37] BanchoBot: -Reina finished playing (Score: 277756, PASSED).
+[19:24:38] BanchoBot: Outmod finished playing (Score: 498644, PASSED).
+[19:24:38] BanchoBot: JoshKiller13 finished playing (Score: 188836, PASSED).
+[19:24:38] BanchoBot: Orotodes finished playing (Score: 319834, PASSED).
+[19:24:38] BanchoBot: The match has finished!
+[19:24:41] BCraftMG: !mp map 3423661
+[19:24:41] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3423661 KOTOKO - Koi Kou Enishi (Game Ver.)
+[19:24:45] BCraftMG: !mp timer 120
+[19:24:46] BanchoBot: Countdown ends in 2 minutes
+[19:24:51] JoshKiller13: I really need to watch magnus bride
+[19:25:02] BCraftMG: whats that
+[19:25:04] BanchoBot: Orotodes left the game.
+[19:25:09] JoshKiller13: the anime its from
+[19:25:17] BCraftMG: ohhh
+[19:25:18] BanchoBot: Atrucity_ joined in slot 1.
+[19:25:34] -Reina: time to 20k hd2
+[19:25:39] Atrucity_: me too
+[19:25:42] JoshKiller13: same lol
+[19:25:47] BanchoBot: Countdown ends in 1 minute
+[19:25:51] BanchoBot: breakerbone joined in slot 3.
+[19:25:52] Outmod: at least it's short tho
+[19:25:55] BanchoBot: JoshKiller13 left the game.
+[19:26:08] BanchoBot: breakerbone moved to slot 5
+[19:26:16] BanchoBot: Countdown ends in 30 seconds
+[19:26:36] BanchoBot: Countdown ends in 10 seconds
+[19:26:41] BanchoBot: Countdown ends in 5 seconds
+[19:26:42] BanchoBot: Countdown ends in 4 seconds
+[19:26:43] -Reina: even max gamma can't save me
+[19:26:43] BanchoBot: Countdown ends in 3 seconds
+[19:26:44] BanchoBot: Countdown ends in 2 seconds
+[19:26:45] BanchoBot: Countdown ends in 1 second
+[19:26:46] BanchoBot: Countdown finished
+[19:26:47] BCraftMG: !mp settings
+[19:26:47] BanchoBot: Room name: BQT5: (Qualifiers) vs (Lobby A7), History: https://osu.ppy.sh/mp/102861326
+[19:26:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/3423661 KOTOKO - Koi Kou Enishi (Game Ver.)
+[19:26:47] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[19:26:47] BanchoBot: Active mods: NoFail, Hidden
+[19:26:47] BanchoBot: Players: 4
+[19:26:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/21467363 Atrucity_       
+[19:26:47] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/15873129 Outmod          
+[19:26:47] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/22657113 -Reina          
+[19:26:47] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/20546010 breakerbone     
+[19:26:48] -Reina: glhf
+[19:26:51] breakerbone: gl
+[19:26:53] Atrucity_: glhf!
+[19:26:54] breakerbone: hf
+[19:26:55] BCraftMG: ready uppp
+[19:26:59] Outmod: glhf
+[19:27:04] BanchoBot: All players are ready
+[19:27:06] breakerbone: oops
+[19:27:06] BCraftMG: !mp settings
+[19:27:07] BanchoBot: Room name: BQT5: (Qualifiers) vs (Lobby A7), History: https://osu.ppy.sh/mp/102861326
+[19:27:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/3423661 KOTOKO - Koi Kou Enishi (Game Ver.)
+[19:27:07] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[19:27:07] BanchoBot: Active mods: NoFail, Hidden
+[19:27:07] BanchoBot: Players: 4
+[19:27:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/21467363 Atrucity_       
+[19:27:07] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15873129 Outmod          
+[19:27:07] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/22657113 -Reina          
+[19:27:07] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/20546010 breakerbone     
+[19:27:09] Outmod: sorry lmao
+[19:27:11] BCraftMG: !mp start 5
+[19:27:12] BanchoBot: Match starts in 5 seconds
+[19:27:12] BanchoBot: Queued the match to start in 5 seconds
+[19:27:13] BCraftMG: :3c:
+[19:27:13] BanchoBot: Match starts in 4 seconds
+[19:27:14] BanchoBot: Match starts in 3 seconds
+[19:27:15] BanchoBot: Good luck, have fun!
+[19:27:17] BanchoBot: The match has started!
+[19:29:10] BanchoBot: breakerbone finished playing (Score: 128942, PASSED).
+[19:29:10] BanchoBot: Atrucity_ finished playing (Score: 125166, PASSED).
+[19:29:11] BanchoBot: Outmod finished playing (Score: 115021, PASSED).
+[19:29:11] BanchoBot: -Reina finished playing (Score: 41964, PASSED).
+[19:29:11] BanchoBot: The match has finished!
+[19:29:25] -Reina: even max gamma didn't saved me
+[19:29:29] BCraftMG: hr is gonna be worse
+[19:29:29] -Reina: cya
+[19:29:30] BCraftMG: !mp map 2636530
+[19:29:30] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2636530 Pegboard Nerds - Gunslinga (feat. MC Mota)
+[19:29:31] BCraftMG: !mp mods 17
+[19:29:32] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[19:29:34] BCraftMG: !mp timer 120
+[19:29:35] BanchoBot: Countdown ends in 2 minutes
+[19:29:56] BanchoBot: JoshKiller13 joined in slot 3.
+[19:29:57] Outmod: hr time
+[19:30:02] BanchoBot: JoshKiller13 moved to slot 6
+[19:30:05] -Reina: glhf
+[19:30:06] BanchoBot: -Reina left the game.
+[19:30:09] BanchoBot: JoshKiller13 moved to slot 4
+[19:30:14] Atrucity_: glhf!
+[19:30:27] BanchoBot: All players are ready
+[19:30:31] BCraftMG: !mp settings
+[19:30:32] BanchoBot: Room name: BQT5: (Qualifiers) vs (Lobby A7), History: https://osu.ppy.sh/mp/102861326
+[19:30:32] BanchoBot: Beatmap: https://osu.ppy.sh/b/2636530 Pegboard Nerds - Gunslinga (feat. MC Mota)
+[19:30:32] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[19:30:32] BanchoBot: Active mods: NoFail, HardRock
+[19:30:32] BanchoBot: Players: 4
+[19:30:32] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/21467363 Atrucity_       
+[19:30:32] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15873129 Outmod          
+[19:30:32] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/22523908 JoshKiller13    
+[19:30:32] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/20546010 breakerbone     
+[19:30:35] BanchoBot: Countdown ends in 1 minute
+[19:30:36] BCraftMG: !mp start 5
+[19:30:37] BanchoBot: Countdown aborted
+[19:30:37] BanchoBot: Match starts in 5 seconds
+[19:30:37] BanchoBot: Queued the match to start in 5 seconds
+[19:30:38] BanchoBot: Match starts in 4 seconds
+[19:30:39] breakerbone: glfh
+[19:30:39] BanchoBot: Match starts in 3 seconds
+[19:30:40] BanchoBot: Good luck, have fun!
+[19:30:42] BanchoBot: The match has started!
+[19:33:36] BanchoBot: breakerbone finished playing (Score: 51521, PASSED).
+[19:33:37] BanchoBot: JoshKiller13 finished playing (Score: 78602, PASSED).
+[19:33:38] BanchoBot: Atrucity_ finished playing (Score: 232263, PASSED).
+[19:33:38] BanchoBot: Outmod finished playing (Score: 143493, PASSED).
+[19:33:38] BanchoBot: The match has finished!
+[19:33:42] BCraftMG: !mp map 3407970
+[19:33:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3407970 City Girl - L2M (feat. Kelsey Kuan)
+[19:33:44] BCraftMG: !mp timer 120
+[19:33:45] JoshKiller13: pepepains
+[19:33:45] BanchoBot: Countdown ends in 2 minutes
+[19:34:00] BanchoBot: -Reina joined in slot 3.
+[19:34:14] -Reina: you guys playing hr2?
+[19:34:37] Atrucity_: yep!
+[19:34:46] BanchoBot: Countdown ends in 1 minute
+[19:34:47] breakerbone: nu
+[19:34:49] BanchoBot: breakerbone left the game.
+[19:34:57] -Reina: josh play until dt1 thanks
+[19:35:03] JoshKiller13: kk
+[19:35:06] BanchoBot: All players are ready
+[19:35:10] BanchoBot: -Reina moved to slot 5
+[19:35:11] BanchoBot: -Reina moved to slot 6
+[19:35:12] BanchoBot: -Reina moved to slot 5
+[19:35:12] BanchoBot: All players are ready
+[19:35:16] BanchoBot: Countdown ends in 30 seconds
+[19:35:16] Atrucity_: i play the rest of the pool :)
+[19:35:18] BCraftMG: !mp settings
+[19:35:18] BanchoBot: Room name: BQT5: (Qualifiers) vs (Lobby A7), History: https://osu.ppy.sh/mp/102861326
+[19:35:18] BanchoBot: Beatmap: https://osu.ppy.sh/b/3407970 City Girl - L2M (feat. Kelsey Kuan)
+[19:35:18] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[19:35:18] BanchoBot: Active mods: NoFail, HardRock
+[19:35:18] BanchoBot: Players: 4
+[19:35:18] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/21467363 Atrucity_       
+[19:35:18] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15873129 Outmod          
+[19:35:18] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/22523908 JoshKiller13    
+[19:35:18] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/22657113 -Reina          
+[19:35:22] -Reina: glhf
+[19:35:25] BCraftMG: !mp start 5
+[19:35:26] Outmod: :D#
+[19:35:26] BanchoBot: Countdown aborted
+[19:35:26] BanchoBot: Match starts in 5 seconds
+[19:35:26] BanchoBot: Queued the match to start in 5 seconds
+[19:35:27] BCraftMG: glgl
+[19:35:27] BanchoBot: Match starts in 4 seconds
+[19:35:28] BanchoBot: Match starts in 3 seconds
+[19:35:29] Outmod: glhf
+[19:35:29] BanchoBot: Good luck, have fun!
+[19:35:31] BanchoBot: The match has started!
+[19:35:33] Atrucity_: glhf!
+[19:38:15] BanchoBot: -Reina finished playing (Score: 90172, PASSED).
+[19:38:15] BanchoBot: Atrucity_ finished playing (Score: 318250, PASSED).
+[19:38:17] BanchoBot: Outmod finished playing (Score: 118365, PASSED).
+[19:38:17] BanchoBot: JoshKiller13 finished playing (Score: 57698, PASSED).
+[19:38:17] BanchoBot: The match has finished!
+[19:38:23] BCraftMG: !mp map 3190995
+[19:38:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3190995 Sharlo - anesthesia
+[19:38:26] JoshKiller13: I love small circle ar 10
+[19:38:29] BCraftMG: !mp mods 65
+[19:38:29] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[19:38:30] BCraftMG: !mp timer 120
+[19:38:31] BanchoBot: Countdown ends in 2 minutes
+[19:38:39] -Reina: :pensive:
+[19:38:57] JoshKiller13: man this is really fun of a expirience
+[19:39:02] BanchoBot: breakerbone joined in slot 3.
+[19:39:02] Atrucity_: LMAOOOOOOOOO
+[19:39:05] -Reina: cya
+[19:39:07] BanchoBot: -Reina left the game.
+[19:39:07] breakerbone: ;-;
+[19:39:15] BanchoBot: breakerbone moved to slot 5
+[19:39:17] BanchoBot: All players are ready
+[19:39:22] BCraftMG: !mp settings
+[19:39:23] BanchoBot: Room name: BQT5: (Qualifiers) vs (Lobby A7), History: https://osu.ppy.sh/mp/102861326
+[19:39:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/3190995 Sharlo - anesthesia
+[19:39:23] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[19:39:23] BanchoBot: Active mods: NoFail, DoubleTime
+[19:39:23] BanchoBot: Players: 4
+[19:39:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/21467363 Atrucity_       
+[19:39:23] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15873129 Outmod          
+[19:39:23] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/22523908 JoshKiller13    
+[19:39:23] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/20546010 breakerbone     
+[19:39:29] BCraftMG: !mp start 5
+[19:39:29] BanchoBot: Countdown aborted
+[19:39:29] BanchoBot: Match starts in 5 seconds
+[19:39:29] BanchoBot: Queued the match to start in 5 seconds
+[19:39:30] BanchoBot: Match starts in 4 seconds
+[19:39:31] BanchoBot: Match starts in 3 seconds
+[19:39:32] BanchoBot: Good luck, have fun!
+[19:39:34] BanchoBot: The match has started!
+[19:42:29] BanchoBot: JoshKiller13 finished playing (Score: 502109, PASSED).
+[19:42:30] BanchoBot: breakerbone finished playing (Score: 372141, PASSED).
+[19:42:30] BanchoBot: Outmod finished playing (Score: 499226, PASSED).
+[19:42:30] BanchoBot: Atrucity_ finished playing (Score: 639387, PASSED).
+[19:42:30] BanchoBot: The match has finished!
+[19:42:32] BCraftMG: !mp map 2729415
+[19:42:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2729415 Fujikawa Chiai - Gomi no Hi
+[19:42:47] BCraftMG: !mp timer 120
+[19:42:47] BanchoBot: Countdown ends in 2 minutes
+[19:42:56] BCraftMG: last one :3
+[19:42:59] breakerbone: gg
+[19:43:02] Outmod: yup
+[19:43:07] BanchoBot: -Reina joined in slot 3.
+[19:43:09] BanchoBot: JoshKiller13 left the game.
+[19:43:16] BanchoBot: Orotodes joined in slot 4.
+[19:43:17] -Reina: time to 20k again
+[19:43:22] BanchoBot: Outmod left the game.
+[19:43:24] BanchoBot: -Reina moved to slot 6
+[19:43:36] breakerbone: no map moment
+[19:43:47] BanchoBot: Orotodes moved to slot 2
+[19:43:48] BanchoBot: Countdown ends in 1 minute
+[19:43:52] breakerbone: glhf!
+[19:43:55] -Reina: glhf
+[19:44:03] BanchoBot: All players are ready
+[19:44:04] Orotodes: glhnf
+[19:44:09] Atrucity_: glhf!
+[19:44:11] BCraftMG: !mp settings
+[19:44:12] BanchoBot: Room name: BQT5: (Qualifiers) vs (Lobby A7), History: https://osu.ppy.sh/mp/102861326
+[19:44:12] BanchoBot: Beatmap: https://osu.ppy.sh/b/2729415 Fujikawa Chiai - Gomi no Hi
+[19:44:12] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[19:44:12] BanchoBot: Active mods: NoFail, DoubleTime
+[19:44:12] BanchoBot: Players: 4
+[19:44:12] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/21467363 Atrucity_       
+[19:44:12] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20054960 Orotodes        
+[19:44:12] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/20546010 breakerbone     
+[19:44:12] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/22657113 -Reina          
+[19:44:14] Orotodes: GLHNF
+[19:44:15] BCraftMG: !mp start 10
+[19:44:16] BanchoBot: Countdown aborted
+[19:44:16] BanchoBot: Match starts in 10 seconds
+[19:44:16] BanchoBot: Queued the match to start in 10 seconds
+[19:44:17] Orotodes: GLHNF
+[19:44:21] BanchoBot: Match starts in 5 seconds
+[19:44:22] BanchoBot: Match starts in 4 seconds
+[19:44:23] -Reina: mo mo mo mo
+[19:44:23] BanchoBot: Match starts in 3 seconds
+[19:44:24] BanchoBot: Good luck, have fun!
+[19:44:25] breakerbone: aaa
+[19:44:26] BanchoBot: The match has started!
+[19:47:00] BanchoBot: -Reina finished playing (Score: 79057, PASSED).
+[19:47:01] BanchoBot: breakerbone finished playing (Score: 82517, PASSED).
+[19:47:01] BanchoBot: Orotodes finished playing (Score: 361817, PASSED).
+[19:47:01] BanchoBot: Atrucity_ finished playing (Score: 275470, PASSED).
+[19:47:01] BanchoBot: The match has finished!
+[19:47:13] BCraftMG: andd that is it
+[19:47:14] -Reina: thanks for the ref
+[19:47:16] -Reina: :.
+[19:47:17] -Reina: :>
+[19:47:20] BCraftMG: gg everyone ^^
+[19:47:24] -Reina: ggwp
+[19:47:26] breakerbone: ggs
+[19:47:29] Orotodes: ngl
+[19:47:30] breakerbone: thanks ref
+[19:47:30] Atrucity_: ty for reffing!
+[19:47:31] BCraftMG: you can now leave the lobby
+[19:47:37] Orotodes: i thought reina was the ref
+[19:47:40] BanchoBot: -Reina left the game.
+[19:47:41] Orotodes: not bcraftgm
+[19:47:43] BCraftMG: :stare:
+[19:47:45] BCraftMG: wdym
+[19:47:46] breakerbone: MAOO
+[19:47:49] Atrucity_: later o/
+[19:47:49] breakerbone: LMAO*
+[19:47:50] BanchoBot: Atrucity_ left the game.
+[19:47:51] BCraftMG: i will remember this
+[19:47:53] BanchoBot: breakerbone left the game.
+[19:47:54] Orotodes: nothing
+[19:47:55] Orotodes: ok beybye
+[19:47:58] Orotodes: ily
+[19:47:58] BanchoBot: Orotodes left the game.
+[19:48:12] BCraftMG: !mp close
+[19:48:12] BanchoBot: Closed the match

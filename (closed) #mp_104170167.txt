@@ -1,0 +1,354 @@
+[11:52:25] Joined #mp_104170167
+[11:52:25] BCraftMG: !mp settings
+[11:52:27] BanchoBot: Room name: THT3: (Qualifiers) vs (B3), History: https://osu.ppy.sh/mp/104170167
+[11:52:27] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[11:52:27] BanchoBot: Players: 0
+[11:52:31] BCraftMG: !mp set 0 3 8
+[11:52:33] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[11:52:57] BCraftMG: !mp invite #10649224
+[11:52:59] BanchoBot: Invited greenyoshiyt to the room
+[11:53:05] BanchoBot: greenyoshiyt joined in slot 1.
+[11:53:08] BCraftMG: hi
+[11:53:15] BCraftMG: !mp map 3276259 0
+[11:53:17] greenyoshiyt: henlo
+[11:53:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3276259 Imy - Divine's Game
+[11:53:17] BanchoBot: Changed match mode to Osu
+[11:53:17] BCraftMG: !mp mods 1
+[11:53:18] BanchoBot: Enabled NoFail, disabled FreeMod
+[11:53:20] greenyoshiyt: :blusher:
+[11:53:32] BCraftMG: !mp invite #10542491
+[11:53:33] BanchoBot: Invited -Kiyoko- to the room
+[11:53:34] BCraftMG: !mp invite #14231761
+[11:53:35] BanchoBot: Invited Rizu on osu to the room
+[11:56:51] BanchoBot: -Kiyoko- joined in slot 2.
+[11:57:01] -Kiyoko-: Đang ko aim
+[11:57:04] -Kiyoko-: Đc
+[11:57:06] -Kiyoko-: Cíu
+[11:57:24] BanchoBot: Rizu on osu joined in slot 3.
+[11:57:32] greenyoshiyt: cai chet
+[11:57:39] Rizu_on_osu: cai chet
+[11:57:50] -Kiyoko-: Có ai muốn vc ko? :>
+[11:57:56] greenyoshiyt: oge
+[11:58:00] Rizu_on_osu: cung dc pri
+[11:58:22] BanchoBot: All players are ready
+[11:58:23] BCraftMG: !mp settings
+[11:58:25] BanchoBot: Room name: THT3: (Qualifiers) vs (B3), History: https://osu.ppy.sh/mp/104170167
+[11:58:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/3276259 Imy - Divine's Game
+[11:58:25] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[11:58:25] BanchoBot: Active mods: NoFail
+[11:58:25] BanchoBot: Players: 3
+[11:58:25] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10649224 greenyoshiyt    
+[11:58:25] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10542491 -Kiyoko-        
+[11:58:25] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14231761 Rizu on osu     
+[11:58:28] BCraftMG: !mp start 5 glhf
+[11:58:29] BanchoBot: Match starts in 5 seconds
+[11:58:29] BanchoBot: Queued the match to start in 5 seconds
+[11:58:31] BanchoBot: Match starts in 4 seconds
+[11:58:32] BanchoBot: Match starts in 3 seconds
+[11:58:32] BanchoBot: Good luck, have fun!
+[11:58:35] BanchoBot: The match has started!
+[12:02:02] BCraftMG: !mp settings
+[12:02:02] BanchoBot: Room name: THT3: (Qualifiers) vs (B3), History: https://osu.ppy.sh/mp/104170167
+[12:02:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/3276259 Imy - Divine's Game
+[12:02:02] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[12:02:02] BanchoBot: Active mods: NoFail
+[12:02:02] BanchoBot: Players: 3
+[12:02:02] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/10649224 greenyoshiyt    
+[12:02:02] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/10542491 -Kiyoko-        
+[12:02:02] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/14231761 Rizu on osu     
+[12:02:23] BanchoBot: -Kiyoko- finished playing (Score: 414100, PASSED).
+[12:02:23] BanchoBot: Rizu on osu finished playing (Score: 236659, PASSED).
+[12:02:23] BanchoBot: greenyoshiyt finished playing (Score: 268994, PASSED).
+[12:02:23] BanchoBot: The match has finished!
+[12:02:50] BCraftMG: !mp map 3332936 0
+[12:02:50] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3332936 HyuN feat. YURI - Disorder
+[12:02:50] BanchoBot: Changed match mode to Osu
+[12:03:29] BanchoBot: All players are ready
+[12:03:32] BCraftMG: !mp settings
+[12:03:33] BanchoBot: Room name: THT3: (Qualifiers) vs (B3), History: https://osu.ppy.sh/mp/104170167
+[12:03:33] BanchoBot: Beatmap: https://osu.ppy.sh/b/3332936 HyuN feat. YURI - Disorder
+[12:03:33] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[12:03:33] BanchoBot: Active mods: NoFail
+[12:03:33] BanchoBot: Players: 3
+[12:03:33] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10649224 greenyoshiyt    
+[12:03:33] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10542491 -Kiyoko-        
+[12:03:33] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14231761 Rizu on osu     
+[12:03:38] BCraftMG: !mp start 5
+[12:03:38] BanchoBot: Match starts in 5 seconds
+[12:03:38] BanchoBot: Queued the match to start in 5 seconds
+[12:03:38] BanchoBot: Match starts in 4 seconds
+[12:03:40] BanchoBot: Match starts in 3 seconds
+[12:03:41] BanchoBot: Good luck, have fun!
+[12:03:43] BanchoBot: The match has started!
+[12:06:01] BanchoBot: Rizu on osu finished playing (Score: 171640, PASSED).
+[12:06:02] BanchoBot: -Kiyoko- finished playing (Score: 663049, PASSED).
+[12:06:02] BanchoBot: greenyoshiyt finished playing (Score: 514021, PASSED).
+[12:06:02] BanchoBot: The match has finished!
+[12:06:19] BCraftMG: !mp map 3734887 0
+[12:06:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3734887 BlackY feat. Risa Yuzuki - Shuumatsu Kinema
+[12:06:20] BanchoBot: Changed match mode to Osu
+[12:06:24] BCraftMG: ko auto pick
+[12:06:26] BCraftMG: angry
+[12:06:41] BanchoBot: All players are ready
+[12:06:42] BCraftMG: !mp settings
+[12:06:44] BanchoBot: Room name: THT3: (Qualifiers) vs (B3), History: https://osu.ppy.sh/mp/104170167
+[12:06:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/3734887 BlackY feat. Risa Yuzuki - Shuumatsu Kinema
+[12:06:44] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[12:06:44] BanchoBot: Active mods: NoFail
+[12:06:44] BanchoBot: Players: 3
+[12:06:44] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10649224 greenyoshiyt    
+[12:06:44] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10542491 -Kiyoko-        
+[12:06:44] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14231761 Rizu on osu     
+[12:06:45] BCraftMG: !mp start 5 glhf
+[12:06:46] BanchoBot: Match starts in 5 seconds
+[12:06:46] BanchoBot: Queued the match to start in 5 seconds
+[12:06:47] BanchoBot: Match starts in 4 seconds
+[12:06:49] BanchoBot: Match starts in 3 seconds
+[12:06:50] BanchoBot: Good luck, have fun!
+[12:06:52] BanchoBot: The match has started!
+[12:10:44] BanchoBot: greenyoshiyt finished playing (Score: 207858, PASSED).
+[12:10:45] BanchoBot: -Kiyoko- finished playing (Score: 351457, PASSED).
+[12:10:45] BanchoBot: Rizu on osu finished playing (Score: 123779, PASSED).
+[12:10:45] BanchoBot: The match has finished!
+[12:10:49] BCraftMG: !mp map 2803777 0
+[12:10:50] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2803777 PSYQUI - Eyes on me feat. Such
+[12:10:50] BanchoBot: Changed match mode to Osu
+[12:11:13] -Kiyoko-: Xe lăn let's goooooo
+[12:11:29] BCraftMG: !mp settings
+[12:11:30] BanchoBot: Room name: THT3: (Qualifiers) vs (B3), History: https://osu.ppy.sh/mp/104170167
+[12:11:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/2803777 PSYQUI - Eyes on me feat. Such
+[12:11:30] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[12:11:30] BanchoBot: Active mods: NoFail
+[12:11:30] BanchoBot: Players: 3
+[12:11:30] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/10649224 greenyoshiyt    
+[12:11:30] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/10542491 -Kiyoko-        
+[12:11:30] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/14231761 Rizu on osu     
+[12:11:58] BanchoBot: All players are ready
+[12:12:01] BCraftMG: !mp settings
+[12:12:02] BanchoBot: Room name: THT3: (Qualifiers) vs (B3), History: https://osu.ppy.sh/mp/104170167
+[12:12:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/2803777 PSYQUI - Eyes on me feat. Such
+[12:12:02] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[12:12:02] BanchoBot: Active mods: NoFail
+[12:12:02] BanchoBot: Players: 3
+[12:12:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10649224 greenyoshiyt    
+[12:12:02] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10542491 -Kiyoko-        
+[12:12:02] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14231761 Rizu on osu     
+[12:12:03] BCraftMG: !mp start 5 glhf
+[12:12:04] BanchoBot: Match starts in 5 seconds
+[12:12:04] BanchoBot: Queued the match to start in 5 seconds
+[12:12:05] BanchoBot: Match starts in 4 seconds
+[12:12:07] BanchoBot: Match starts in 3 seconds
+[12:12:08] BanchoBot: Good luck, have fun!
+[12:12:10] BanchoBot: The match has started!
+[12:12:42] BCraftMG: !mp settings 0x4wtrq270z
+[12:12:42] BanchoBot: Room name: THT3: (Qualifiers) vs (B3), History: https://osu.ppy.sh/mp/104170167
+[12:12:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/2803777 PSYQUI - Eyes on me feat. Such
+[12:12:42] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[12:12:42] BanchoBot: Active mods: NoFail
+[12:12:42] BanchoBot: Players: 3
+[12:12:42] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/10649224 greenyoshiyt    
+[12:12:42] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/10542491 -Kiyoko-        
+[12:12:42] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/14231761 Rizu on osu     
+[12:14:05] BanchoBot: Rizu on osu finished playing (Score: 127283, PASSED).
+[12:14:05] BanchoBot: -Kiyoko- finished playing (Score: 135633, PASSED).
+[12:14:06] BanchoBot: greenyoshiyt finished playing (Score: 319334, PASSED).
+[12:14:06] BanchoBot: The match has finished!
+[12:14:14] BCraftMG: !mp map 3287710 0
+[12:14:14] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3287710 Denkishiki Karen Ongaku Shuudan - Shinoburedo
+[12:14:14] BanchoBot: Changed match mode to Osu
+[12:14:15] BCraftMG: !mp mods 9
+[12:14:15] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[12:14:32] BCraftMG: !mp settings
+[12:14:32] BanchoBot: Room name: THT3: (Qualifiers) vs (B3), History: https://osu.ppy.sh/mp/104170167
+[12:14:32] BanchoBot: Beatmap: https://osu.ppy.sh/b/3287710 Denkishiki Karen Ongaku Shuudan - Shinoburedo
+[12:14:32] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[12:14:32] BanchoBot: Active mods: NoFail, Hidden
+[12:14:32] BanchoBot: Players: 3
+[12:14:32] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/10649224 greenyoshiyt    
+[12:14:32] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/10542491 -Kiyoko-        
+[12:14:32] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/14231761 Rizu on osu     
+[12:15:13] BanchoBot: All players are ready
+[12:15:20] BCraftMG: !mp settings
+[12:15:21] BanchoBot: Room name: THT3: (Qualifiers) vs (B3), History: https://osu.ppy.sh/mp/104170167
+[12:15:21] BanchoBot: Beatmap: https://osu.ppy.sh/b/3287710 Denkishiki Karen Ongaku Shuudan - Shinoburedo
+[12:15:21] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[12:15:21] BanchoBot: Active mods: NoFail, Hidden
+[12:15:21] BanchoBot: Players: 3
+[12:15:21] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10649224 greenyoshiyt    
+[12:15:21] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10542491 -Kiyoko-        
+[12:15:21] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14231761 Rizu on osu     
+[12:15:22] BCraftMG: !mp start 5 glhf
+[12:15:23] BanchoBot: Match starts in 5 seconds
+[12:15:23] BanchoBot: Queued the match to start in 5 seconds
+[12:15:24] BanchoBot: Match starts in 4 seconds
+[12:15:26] BanchoBot: Match starts in 3 seconds
+[12:15:27] BanchoBot: Good luck, have fun!
+[12:15:29] BanchoBot: The match has started!
+[12:19:46] BanchoBot: -Kiyoko- finished playing (Score: 324442, PASSED).
+[12:19:46] BanchoBot: greenyoshiyt finished playing (Score: 385645, PASSED).
+[12:19:49] BanchoBot: Rizu on osu finished playing (Score: 197884, PASSED).
+[12:19:49] BanchoBot: The match has finished!
+[12:19:57] BCraftMG: !mp map 1580739 0
+[12:19:58] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1580739 SUPER STAR -MITSURU- - NEW GENERATION -mou, omae shika mienai-
+[12:19:58] BanchoBot: Changed match mode to Osu
+[12:19:58] BCraftMG: hd2
+[12:20:54] greenyoshiyt: map tron lay de so
+[12:20:57] BanchoBot: All players are ready
+[12:20:57] greenyoshiyt: :tf:
+[12:20:58] BCraftMG: !mp settings
+[12:21:00] BanchoBot: Room name: THT3: (Qualifiers) vs (B3), History: https://osu.ppy.sh/mp/104170167
+[12:21:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/1580739 SUPER STAR -MITSURU- - NEW GENERATION -mou, omae shika mienai-
+[12:21:00] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[12:21:00] BanchoBot: Active mods: NoFail, Hidden
+[12:21:00] BanchoBot: Players: 3
+[12:21:00] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10649224 greenyoshiyt    
+[12:21:00] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10542491 -Kiyoko-        
+[12:21:00] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14231761 Rizu on osu     
+[12:21:01] BCraftMG: !mp start 5 glhf
+[12:21:01] BanchoBot: Match starts in 5 seconds
+[12:21:01] BanchoBot: Queued the match to start in 5 seconds
+[12:21:03] BanchoBot: Match starts in 4 seconds
+[12:21:04] BanchoBot: Match starts in 3 seconds
+[12:21:05] BanchoBot: Good luck, have fun!
+[12:21:07] BanchoBot: The match has started!
+[12:23:12] BanchoBot: -Kiyoko- finished playing (Score: 209379, PASSED).
+[12:23:12] BanchoBot: greenyoshiyt finished playing (Score: 273301, PASSED).
+[12:23:13] BanchoBot: Rizu on osu finished playing (Score: 72661, PASSED).
+[12:23:13] BanchoBot: The match has finished!
+[12:23:28] BCraftMG: !mp map 2241585 0
+[12:23:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2241585 Rita - Winter Diamond
+[12:23:29] BanchoBot: Changed match mode to Osu
+[12:23:30] BCraftMG: !mp mods 17
+[12:23:31] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[12:24:16] BanchoBot: All players are ready
+[12:24:33] BCraftMG: !mp settings
+[12:24:34] BanchoBot: Room name: THT3: (Qualifiers) vs (B3), History: https://osu.ppy.sh/mp/104170167
+[12:24:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/2241585 Rita - Winter Diamond
+[12:24:34] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[12:24:34] BanchoBot: Active mods: NoFail, HardRock
+[12:24:34] BanchoBot: Players: 3
+[12:24:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10649224 greenyoshiyt    
+[12:24:34] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10542491 -Kiyoko-        
+[12:24:34] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14231761 Rizu on osu     
+[12:24:35] BCraftMG: !mp start 5 glhf
+[12:24:35] BanchoBot: Match starts in 5 seconds
+[12:24:35] BanchoBot: Queued the match to start in 5 seconds
+[12:24:36] BanchoBot: Match starts in 4 seconds
+[12:24:38] BanchoBot: Match starts in 3 seconds
+[12:24:39] BanchoBot: Good luck, have fun!
+[12:24:41] BanchoBot: The match has started!
+[12:28:42] BanchoBot: -Kiyoko- finished playing (Score: 505460, PASSED).
+[12:28:42] BanchoBot: greenyoshiyt finished playing (Score: 404674, PASSED).
+[12:28:44] BanchoBot: Rizu on osu finished playing (Score: 103099, PASSED).
+[12:28:44] BanchoBot: The match has finished!
+[12:28:49] BCraftMG: !mp map 3021082 0
+[12:28:50] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3021082 PinocchioP feat. Hatsune Miku - Ghosts Play to the Audience
+[12:28:50] BanchoBot: Changed match mode to Osu
+[12:29:17] BanchoBot: greenyoshiyt moved to slot 5
+[12:29:28] BanchoBot: greenyoshiyt moved to slot 1
+[12:29:31] greenyoshiyt: wait a bit
+[12:29:32] greenyoshiyt: 1 min
+[12:31:28] greenyoshiyt: ok me bacc
+[12:31:43] BCraftMG: !mp settings
+[12:31:44] BanchoBot: Room name: THT3: (Qualifiers) vs (B3), History: https://osu.ppy.sh/mp/104170167
+[12:31:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/3021082 PinocchioP feat. Hatsune Miku - Ghosts Play to the Audience
+[12:31:44] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[12:31:44] BanchoBot: Active mods: NoFail, HardRock
+[12:31:44] BanchoBot: Players: 3
+[12:31:44] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10649224 greenyoshiyt    
+[12:31:44] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/10542491 -Kiyoko-        
+[12:31:44] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14231761 Rizu on osu     
+[12:31:51] BanchoBot: All players are ready
+[12:31:58] BCraftMG: !mp settings
+[12:31:59] BanchoBot: Room name: THT3: (Qualifiers) vs (B3), History: https://osu.ppy.sh/mp/104170167
+[12:31:59] BanchoBot: Beatmap: https://osu.ppy.sh/b/3021082 PinocchioP feat. Hatsune Miku - Ghosts Play to the Audience
+[12:31:59] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[12:31:59] BanchoBot: Active mods: NoFail, HardRock
+[12:31:59] BanchoBot: Players: 3
+[12:31:59] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10649224 greenyoshiyt    
+[12:31:59] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10542491 -Kiyoko-        
+[12:31:59] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14231761 Rizu on osu     
+[12:32:00] BCraftMG: !mp start 5 glhf
+[12:32:00] BanchoBot: Match starts in 5 seconds
+[12:32:00] BanchoBot: Queued the match to start in 5 seconds
+[12:32:01] BanchoBot: Match starts in 4 seconds
+[12:32:03] BanchoBot: Match starts in 3 seconds
+[12:32:04] BanchoBot: Good luck, have fun!
+[12:32:06] BanchoBot: The match has started!
+[12:36:00] BanchoBot: greenyoshiyt finished playing (Score: 118775, PASSED).
+[12:36:00] BanchoBot: -Kiyoko- finished playing (Score: 149788, PASSED).
+[12:36:00] BanchoBot: Rizu on osu finished playing (Score: 33030, PASSED).
+[12:36:00] BanchoBot: The match has finished!
+[12:36:02] BCraftMG: !mp map 3243641 0
+[12:36:03] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3243641 FELT - Flower Flag
+[12:36:03] BanchoBot: Changed match mode to Osu
+[12:36:04] BCraftMG: !mp mods 65
+[12:36:04] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[12:37:44] BanchoBot: All players are ready
+[12:37:46] BCraftMG: !mp settings
+[12:37:47] BanchoBot: Room name: THT3: (Qualifiers) vs (B3), History: https://osu.ppy.sh/mp/104170167
+[12:37:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/3243641 FELT - Flower Flag
+[12:37:47] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[12:37:47] BanchoBot: Active mods: NoFail, DoubleTime
+[12:37:47] BanchoBot: Players: 3
+[12:37:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10649224 greenyoshiyt    
+[12:37:47] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10542491 -Kiyoko-        
+[12:37:47] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14231761 Rizu on osu     
+[12:37:48] BCraftMG: !mp start 5 glhf
+[12:37:49] BanchoBot: Match starts in 5 seconds
+[12:37:49] BanchoBot: Queued the match to start in 5 seconds
+[12:37:50] BanchoBot: Match starts in 4 seconds
+[12:37:51] BanchoBot: Match starts in 3 seconds
+[12:37:53] BanchoBot: Good luck, have fun!
+[12:37:54] BanchoBot: The match has started!
+[12:40:59] BanchoBot: greenyoshiyt finished playing (Score: 191880, PASSED).
+[12:41:01] BanchoBot: Rizu on osu finished playing (Score: 111311, PASSED).
+[12:41:02] BanchoBot: -Kiyoko- finished playing (Score: 935936, PASSED).
+[12:41:02] BanchoBot: The match has finished!
+[12:41:05] BCraftMG: !mp map 3047429 0
+[12:41:06] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3047429 Touhou LostWord x RichaadEB - Lost Word Chronicle
+[12:41:06] BanchoBot: Changed match mode to Osu
+[12:43:03] BanchoBot: Rizu on osu moved to slot 4
+[12:43:04] BanchoBot: Rizu on osu moved to slot 3
+[12:43:11] BanchoBot: All players are ready
+[12:43:13] BCraftMG: !mp settings
+[12:43:15] BanchoBot: Room name: THT3: (Qualifiers) vs (B3), History: https://osu.ppy.sh/mp/104170167
+[12:43:15] BanchoBot: Beatmap: https://osu.ppy.sh/b/3047429 Touhou LostWord x RichaadEB - Lost Word Chronicle
+[12:43:15] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[12:43:15] BanchoBot: Active mods: NoFail, DoubleTime
+[12:43:15] BanchoBot: Players: 3
+[12:43:15] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10649224 greenyoshiyt    
+[12:43:15] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/10542491 -Kiyoko-        
+[12:43:15] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14231761 Rizu on osu     
+[12:43:20] BanchoBot: All players are ready
+[12:43:21] BCraftMG: !mp settings
+[12:43:22] BanchoBot: Room name: THT3: (Qualifiers) vs (B3), History: https://osu.ppy.sh/mp/104170167
+[12:43:22] BanchoBot: Beatmap: https://osu.ppy.sh/b/3047429 Touhou LostWord x RichaadEB - Lost Word Chronicle
+[12:43:22] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[12:43:22] BanchoBot: Active mods: NoFail, DoubleTime
+[12:43:22] BanchoBot: Players: 3
+[12:43:22] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10649224 greenyoshiyt    
+[12:43:22] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10542491 -Kiyoko-        
+[12:43:22] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14231761 Rizu on osu     
+[12:43:25] BCraftMG: !mp start 5 glhf
+[12:43:27] BanchoBot: Match starts in 5 seconds
+[12:43:27] BanchoBot: Queued the match to start in 5 seconds
+[12:43:27] BanchoBot: Match starts in 4 seconds
+[12:43:29] BanchoBot: Match starts in 3 seconds
+[12:43:30] BanchoBot: Good luck, have fun!
+[12:43:32] BanchoBot: The match has started!
+[12:46:06] BanchoBot: greenyoshiyt finished playing (Score: 107868, PASSED).
+[12:46:06] BanchoBot: Rizu on osu finished playing (Score: 104290, PASSED).
+[12:46:07] BanchoBot: -Kiyoko- finished playing (Score: 641507, PASSED).
+[12:46:07] BanchoBot: The match has finished!
+[12:46:16] BCraftMG: geegee
+[12:46:21] Rizu_on_osu: gg
+[12:46:23] greenyoshiyt: tks for game
+[12:46:27] BCraftMG: tskr
+[12:46:35] Rizu_on_osu: tks
+[12:46:40] BanchoBot: greenyoshiyt left the game.
+[12:46:49] BCraftMG: o/
+[12:46:49] BanchoBot: Rizu on osu left the game.
+[12:46:52] BanchoBot: -Kiyoko- left the game.
+[12:46:57] BCraftMG: !mp close
+[12:46:58] BanchoBot: Closed the match

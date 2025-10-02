@@ -1,0 +1,695 @@
+[18:53:31] Joined #mp_101947143
+[18:53:31] BCraftMG: !mp settings
+[18:53:33] BanchoBot: Room name: STT3: (no clue) vs (Nya Army), History: https://osu.ppy.sh/mp/101947143
+[18:53:33] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[18:53:33] BanchoBot: Players: 0
+[18:54:23] BCraftMG: !mp settings
+[18:54:23] BanchoBot: Room name: STT3: (no clue) vs (Nya Army), History: https://osu.ppy.sh/mp/101947143
+[18:54:23] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[18:54:23] BanchoBot: Players: 0
+[18:54:35] BCraftMG: !mp set 2 3 11
+[18:54:35] BanchoBot: Changed match settings to 11 slots, TeamVs, ScoreV2
+[18:54:37] BCraftMG: !mp invite #12781215
+[18:54:37] BanchoBot: Invited laGmaN to the room
+[18:54:39] BCraftMG: !mp invite #14590106
+[18:54:39] BanchoBot: User not found
+[18:54:41] BCraftMG: !mp invite #16195397
+[18:54:41] BanchoBot: Invited oshino- to the room
+[18:54:43] BCraftMG: !mp invite #6957298
+[18:54:43] BanchoBot: Invited Unghalor to the room
+[18:54:43] BCraftMG: !mp invite #10849508
+[18:54:43] BanchoBot: Invited YuskasUwU to the room
+[18:54:46] BCraftMG: !mp invite #15615619
+[18:54:46] BanchoBot: Invited arroz-huevo23 to the room
+[18:54:46] BCraftMG: !mp invite #4800074
+[18:54:46] BanchoBot: Invited comm899 to the room
+[18:54:48] BCraftMG: !mp invite #8186536
+[18:54:48] BanchoBot: Invited Dai_Son to the room
+[18:54:48] BCraftMG: !mp invite #4257516
+[18:54:48] BanchoBot: Invited masrte to the room
+[18:54:50] BCraftMG: !mp invite #2529213
+[18:54:50] BanchoBot: Invited SugiuraAyano to the room
+[18:54:50] BCraftMG: !mp invite #7989469
+[18:54:50] BanchoBot: Invited Zefkiel to the room
+[18:55:21] BanchoBot: oshino- joined in slot 1 for team blue.
+[18:55:41] BanchoBot: Zefkiel joined in slot 2 for team red.
+[18:55:42] BCraftMG: o/
+[18:55:59] oshino-: hey
+[18:56:09] BanchoBot: laGmaN joined in slot 3 for team blue.
+[18:56:11] BanchoBot: laGmaN moved to slot 5
+[18:56:11] BanchoBot: comm899 joined in slot 3 for team blue.
+[18:56:11] BanchoBot: laGmaN moved to slot 4
+[18:56:13] BanchoBot: laGmaN moved to slot 5
+[18:56:13] BanchoBot: laGmaN moved to slot 4
+[18:56:15] laGmaN: o/
+[18:56:23] Zefkiel: o/
+[18:56:23] BanchoBot: arroz-huevo23 joined in slot 5 for team blue.
+[18:56:28] BanchoBot: masrte joined in slot 6 for team red.
+[18:56:30] BCraftMG: !mp host Zefkiel
+[18:56:31] BanchoBot: Zefkiel became the host.
+[18:56:31] BanchoBot: Changed match host to Zefkiel
+[18:56:33] BanchoBot: Beatmap changed to: Mrs. GREEN APPLE - Ao to Natsu (katagiri Bootleg) (Sped Up Ver.) [Summer] (https://osu.ppy.sh/b/2527582)
+[18:56:36] BCraftMG: you can pick warm up
+[18:56:37] BanchoBot: comm899 became the host.
+[18:56:45] oshino-: ?
+[18:56:49] BanchoBot: Unghalor joined in slot 7 for team blue.
+[18:56:58] Unghalor: o/
+[18:57:23] BCraftMG: Warmups must be between 4.0 and 7.0 stars and must be 3:30 in drain time or less after mods are applied. A warmup map cannot be from the current week's pool.
+[18:57:24] laGmaN: cant download
+[18:57:26] BanchoBot: YuskasUwU joined in slot 8 for team red.
+[18:57:30] laGmaN: ty
+[18:57:34] oshino-: ty
+[18:57:36] BanchoBot: Zefkiel became the host.
+[18:57:38] BanchoBot: Host is changing map...
+[18:57:46] laGmaN: bcraft are we team blue?
+[18:57:52] BanchoBot: Dai_Son joined in slot 9 for team blue.
+[18:58:09] BCraftMG: yes Nya Army is blue
+[18:58:11] BCraftMG: no clue is red
+[18:58:14] laGmaN: oke ty
+[18:58:24] BanchoBot: YuskasUwU changed to Blue
+[18:58:26] BanchoBot: comm899 changed to Red
+[18:58:36] BanchoBot: Beatmap changed to: USAO - Cyaegha [Avarice] (https://osu.ppy.sh/b/2724800)
+[18:58:50] BCraftMG: catJAM
+[18:59:21] BCraftMG: !mp settings
+[18:59:23] BanchoBot: Room name: STT3: (no clue) vs (Nya Army), History: https://osu.ppy.sh/mp/101947143
+[18:59:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/2724800 USAO - Cyaegha [Avarice]
+[18:59:23] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[18:59:23] BanchoBot: Active mods: Freemod
+[18:59:23] BanchoBot: Players: 9
+[18:59:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16195397 oshino-         [Team Blue / NoFail, Hidden]
+[18:59:23] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/7989469 Zefkiel         [Host / Team Red ]
+[18:59:23] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/4800074 comm899         [Team Red ]
+[18:59:23] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12781215 laGmaN          [Team Blue / NoFail]
+[18:59:23] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/15615619 arroz-huevo23   [Team Blue]
+[18:59:24] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/4257516 masrte          [Team Red ]
+[18:59:24] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/6957298 Unghalor        [Team Blue / NoFail]
+[18:59:24] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/10849508 YuskasUwU       [Team Blue]
+[18:59:24] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/8186536 Dai_Son         [Team Blue]
+[19:00:01] BanchoBot: All players are ready
+[19:00:05] BanchoBot: The match has started!
+[19:02:36] BanchoBot: arroz-huevo23 finished playing (Score: 112426, PASSED).
+[19:02:36] BanchoBot: comm899 finished playing (Score: 275096, PASSED).
+[19:02:36] BanchoBot: masrte finished playing (Score: 213401, PASSED).
+[19:02:36] BanchoBot: laGmaN finished playing (Score: 346560, PASSED).
+[19:02:36] BanchoBot: Unghalor finished playing (Score: 175356, PASSED).
+[19:02:38] BanchoBot: Dai_Son finished playing (Score: 287498, PASSED).
+[19:02:38] BanchoBot: YuskasUwU finished playing (Score: 267247, PASSED).
+[19:02:40] BanchoBot: oshino- finished playing (Score: 98376, PASSED).
+[19:02:40] BanchoBot: Zefkiel finished playing (Score: 591301, PASSED).
+[19:02:40] BanchoBot: The match has finished!
+[19:02:48] BanchoBot: oshino- became the host.
+[19:02:52] BanchoBot: Dai_Son changed to Red
+[19:02:54] BanchoBot: laGmaN became the host.
+[19:02:58] BanchoBot: Host is changing map...
+[19:03:18] BanchoBot: Beatmap changed to: Yousei Teikoku - Autoscopy [Extreme] (https://osu.ppy.sh/b/3333699)
+[19:05:09] BanchoBot: The match has started!
+[19:08:35] BanchoBot: arroz-huevo23 finished playing (Score: 0, PASSED).
+[19:08:35] BanchoBot: Dai_Son finished playing (Score: 46821, PASSED).
+[19:08:37] BanchoBot: laGmaN finished playing (Score: 56231, PASSED).
+[19:08:37] BanchoBot: masrte finished playing (Score: 13129, PASSED).
+[19:08:39] BanchoBot: Unghalor finished playing (Score: 12058, PASSED).
+[19:08:39] BanchoBot: Zefkiel finished playing (Score: 96577, PASSED).
+[19:08:39] BanchoBot: oshino- finished playing (Score: 9799, PASSED).
+[19:08:39] BanchoBot: comm899 finished playing (Score: 41728, PASSED).
+[19:08:39] BanchoBot: YuskasUwU finished playing (Score: 21057, PASSED).
+[19:08:39] BanchoBot: The match has finished!
+[19:08:46] BCraftMG: c:1
+[19:08:49] BCraftMG: !mp clearhost
+[19:08:50] BanchoBot: Cleared match host
+[19:08:54] Unghalor: can we ban this lagman dude
+[19:08:56] BCraftMG: lets start with protect order
+[19:09:03] laGmaN: :tf:
+[19:09:11] BCraftMG: 2 captains please !roll
+[19:09:12] arroz-huevo23: !roll
+[19:09:12] BanchoBot: arroz-huevo23 rolls 77 point(s)
+[19:09:16] laGmaN: !roll
+[19:09:16] BanchoBot: laGmaN rolls 81 point(s)
+[19:09:30] comm899: !roll
+[19:09:30] BanchoBot: comm899 rolls 81 point(s)
+[19:09:34] laGmaN: lol
+[19:09:34] Unghalor: LOL
+[19:09:36] oshino-: lol
+[19:09:36] masrte: !!!!!
+[19:09:37] BCraftMG: D:
+[19:09:38] YuskasUwU: lol
+[19:09:38] arroz-huevo23: xd
+[19:09:40] masrte: LOL
+[19:09:41] BCraftMG: reroll please
+[19:09:42] laGmaN: wtf
+[19:09:42] YuskasUwU: xDDD
+[19:09:46] arroz-huevo23: well guys gg
+[19:09:48] Zefkiel: d-_-b
+[19:09:48] Unghalor: well, i guess its a draw, ggs guys
+[19:09:48] laGmaN: !roll
+[19:09:48] BanchoBot: laGmaN rolls 62 point(s)
+[19:09:50] comm899: !roll
+[19:09:50] BanchoBot: comm899 rolls 74 point(s)
+[19:09:58] laGmaN: damn
+[19:10:02] oshino-: reroll
+[19:10:16] BCraftMG: no clue, your protect please
+[19:10:19] BCraftMG: !mp timer 120
+[19:10:20] BanchoBot: Countdown ends in 2 minutes
+[19:10:38] comm899: we can't select second protect?
+[19:10:47] BCraftMG: nop
+[19:10:57] BCraftMG: roll winner get to protect first
+[19:11:19] comm899: last round we can select
+[19:11:21] BanchoBot: Countdown ends in 1 minute
+[19:11:21] Zefkiel: wait
+[19:11:23] Zefkiel: i thought we can pick
+[19:11:25] comm899: or rules changed
+[19:11:33] Zefkiel: look in faw
+[19:11:33] Zefkiel: faq
+[19:11:33] Zefkiel: bruh
+[19:11:37] laGmaN: we protect hr1 nvm
+[19:11:41] Zefkiel: "Protects are always done first (completely separate procedure from picks / bans, separate !roll, etc.). The team who wins this roll determines the protect order."
+[19:11:51] BanchoBot: Countdown ends in 30 seconds
+[19:12:11] BanchoBot: Countdown ends in 10 seconds
+[19:12:15] BanchoBot: Countdown ends in 5 seconds
+[19:12:17] BanchoBot: Countdown ends in 4 seconds
+[19:12:17] BanchoBot: Countdown ends in 3 seconds
+[19:12:19] BanchoBot: Countdown ends in 2 seconds
+[19:12:19] BanchoBot: Countdown ends in 1 second
+[19:12:21] BanchoBot: Countdown finished
+[19:12:23] comm899: dt2
+[19:12:33] Unghalor: no in time :tf:
+[19:12:41] laGmaN: :tf:
+[19:12:45] Zefkiel: ref moment
+[19:12:45] BCraftMG: in 3s buffer
+[19:12:48] Zefkiel: :tf:
+[19:12:48] comm899: i saw count down in 1 second
+[19:12:48] comm899: cool
+[19:13:01] BCraftMG: still allowed
+[19:13:03] laGmaN: hr1 for us then
+[19:13:07] BCraftMG: okay
+[19:13:12] BCraftMG: next is roll for pick or ban order
+[19:13:29] laGmaN: !roll
+[19:13:29] BanchoBot: laGmaN rolls 55 point(s)
+[19:13:37] comm899: !roll
+[19:13:37] BanchoBot: comm899 rolls 97 point(s)
+[19:13:47] laGmaN: damn we lost already xddd
+[19:13:50] BCraftMG: no clue, please choose your pick or ban order
+[19:13:59] BCraftMG: !mp timer 120
+[19:13:59] comm899: ban first
+[19:13:59] BanchoBot: Countdown ends in 2 minutes
+[19:14:33] BCraftMG: Nya Army, please choose your pick order
+[19:14:35] BCraftMG: !mp timer 120
+[19:14:37] BanchoBot: Countdown aborted
+[19:14:37] BanchoBot: Countdown ends in 2 minutes
+[19:14:55] laGmaN: pick first
+[19:15:01] BanchoBot: SugiuraAyano joined in slot 10 for team red.
+[19:15:03] BanchoBot: SugiuraAyano moved to slot 11
+[19:15:25] BCraftMG: no clue, your ban?
+[19:15:26] BCraftMG: !mp timer 120
+[19:15:28] BanchoBot: Countdown aborted
+[19:15:28] BanchoBot: Countdown ends in 2 minutes
+[19:16:29] BanchoBot: Countdown ends in 1 minute
+[19:16:31] comm899: fm2 ban
+[19:16:37] oshino-: nooooooo
+[19:16:40] laGmaN: :(
+[19:16:44] Unghalor: banning the good maps, sadge
+[19:16:48] oshino-: rip banger
+[19:16:49] BCraftMG: Nya Army, your ban please
+[19:16:50] BCraftMG: !mp timer 120
+[19:16:53] BanchoBot: Countdown aborted
+[19:16:53] BanchoBot: Countdown ends in 2 minutes
+[19:17:09] laGmaN: nm4
+[19:17:22] laGmaN: nm4 ban
+[19:17:25] comm899: wc brb
+[19:17:30] BCraftMG: got it
+[19:17:33] BCraftMG: !mp aborttimer
+[19:17:33] BanchoBot: Countdown aborted
+[19:17:37] BCraftMG: no clue | 0 - 0 | Nya Army // First Pick: Nya Army
+[19:17:39] BCraftMG: !mp timer 120
+[19:17:41] BanchoBot: Countdown ends in 2 minutes
+[19:18:12] BanchoBot: YuskasUwU left the game.
+[19:18:22] laGmaN: fm1
+[19:18:26] BanchoBot: oshino- left the game.
+[19:18:42] BCraftMG: !mp mods Freemod NF
+[19:18:42] BanchoBot: Disabled all mods, enabled FreeMod
+[19:18:42] BanchoBot: comm899 left the game.
+[19:18:42] BanchoBot: Countdown ends in 1 minute
+[19:18:44] BCraftMG: !mp map 216272 0
+[19:18:44] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/216272 CON - Cruel Clocks
+[19:18:44] BanchoBot: Changed match mode to Osu
+[19:18:46] BCraftMG: !mp timer 120
+[19:18:46] BanchoBot: Countdown aborted
+[19:18:46] BanchoBot: Countdown ends in 2 minutes
+[19:18:48] BanchoBot: SugiuraAyano moved to slot 1
+[19:18:51] BCraftMG: !mp mods Freemod
+[19:18:52] BanchoBot: Disabled all mods, enabled FreeMod
+[19:19:04] BanchoBot: masrte left the game.
+[19:19:08] BanchoBot: Unghalor moved to slot 6
+[19:19:10] BanchoBot: arroz-huevo23 left the game.
+[19:19:12] BanchoBot: Unghalor moved to slot 5
+[19:19:16] SugiuraAyano: HDHR count as 2 mods?
+[19:19:20] BCraftMG: no
+[19:19:28] Unghalor: has to be 1 HD without HR and 1 HR without HD
+[19:19:30] SugiuraAyano: got it
+[19:19:32] laGmaN: you cant play nm i think
+[19:19:42] SugiuraAyano: ah man
+[19:19:42] SugiuraAyano: :<
+[19:19:44] BanchoBot: Countdown ends in 1 minute
+[19:19:44] BanchoBot: Dai_Son moved to slot 3
+[19:19:50] BanchoBot: YuskasUwU joined in slot 6 for team red.
+[19:19:50] BCraftMG: yes if one of your teammates do hdez or hdfl something
+[19:19:52] BanchoBot: YuskasUwU changed to Blue
+[19:19:54] BanchoBot: comm899 joined in slot 7 for team blue.
+[19:20:00] laGmaN: oh true
+[19:20:06] BanchoBot: comm899 left the game.
+[19:20:14] BanchoBot: Countdown ends in 30 seconds
+[19:20:35] BanchoBot: Countdown ends in 10 seconds
+[19:20:39] Unghalor: gl hf!
+[19:20:39] BanchoBot: Countdown ends in 5 seconds
+[19:20:41] BanchoBot: Countdown ends in 4 seconds
+[19:20:41] BanchoBot: Countdown ends in 3 seconds
+[19:20:43] BanchoBot: Countdown ends in 2 seconds
+[19:20:43] BanchoBot: Countdown ends in 1 second
+[19:20:45] SugiuraAyano: hfhf
+[19:20:45] BanchoBot: Countdown finished
+[19:20:45] YuskasUwU: gl hf uwu
+[19:20:47] BCraftMG: !mp settings
+[19:20:47] BanchoBot: Room name: STT3: (no clue) vs (Nya Army), History: https://osu.ppy.sh/mp/101947143
+[19:20:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/216272 CON - Cruel Clocks
+[19:20:47] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:20:47] BanchoBot: Active mods: Freemod
+[19:20:47] BanchoBot: Players: 6
+[19:20:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/2529213 SugiuraAyano    [Team Red  / NoFail, Hidden]
+[19:20:47] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/7989469 Zefkiel         [Team Red  / NoFail, Hidden]
+[19:20:47] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8186536 Dai_Son         [Team Red  / NoFail, HardRock]
+[19:20:47] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12781215 laGmaN          [Team Blue / NoFail, HardRock]
+[19:20:47] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/6957298 Unghalor        [Team Blue / NoFail, Hidden]
+[19:20:47] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10849508 YuskasUwU       [Team Blue / NoFail, Hidden]
+[19:20:49] BanchoBot: All players are ready
+[19:20:51] laGmaN: glhf
+[19:20:51] BCraftMG: !mp settings
+[19:20:53] BanchoBot: Room name: STT3: (no clue) vs (Nya Army), History: https://osu.ppy.sh/mp/101947143
+[19:20:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/216272 CON - Cruel Clocks
+[19:20:53] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:20:53] BanchoBot: Active mods: Freemod
+[19:20:53] BanchoBot: Players: 6
+[19:20:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/2529213 SugiuraAyano    [Team Red  / NoFail, Hidden]
+[19:20:53] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7989469 Zefkiel         [Team Red  / NoFail, Hidden]
+[19:20:53] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8186536 Dai_Son         [Team Red  / NoFail, HardRock]
+[19:20:53] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12781215 laGmaN          [Team Blue / NoFail, HardRock]
+[19:20:53] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/6957298 Unghalor        [Team Blue / NoFail, Hidden]
+[19:20:53] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10849508 YuskasUwU       [Team Blue / NoFail, Hidden]
+[19:20:54] BCraftMG: !mp start 10
+[19:20:55] BanchoBot: Match starts in 10 seconds
+[19:20:55] BanchoBot: Queued the match to start in 10 seconds
+[19:21:01] BanchoBot: Match starts in 5 seconds
+[19:21:03] BanchoBot: Match starts in 4 seconds
+[19:21:03] BanchoBot: Match starts in 3 seconds
+[19:21:03] BanchoBot: Good luck, have fun!
+[19:21:05] BanchoBot: The match has started!
+[19:25:22] BCraftMG: i was informed by Tim that protect roll winner can choose protect order
+[19:25:36] BCraftMG: im sorry no clue
+[19:25:44] BanchoBot: Zefkiel finished playing (Score: 642642, PASSED).
+[19:25:44] BanchoBot: laGmaN finished playing (Score: 533578, PASSED).
+[19:25:44] BanchoBot: Unghalor finished playing (Score: 352509, PASSED).
+[19:25:44] BanchoBot: YuskasUwU finished playing (Score: 565504, PASSED).
+[19:25:44] BanchoBot: Dai_Son finished playing (Score: 506434, PASSED).
+[19:25:48] BanchoBot: SugiuraAyano finished playing (Score: 581760, PASSED).
+[19:25:48] BanchoBot: The match has finished!
+[19:25:52] BCraftMG: no clue : 1 | 0 : Nya Army
+[19:25:54] BCraftMG: Next team to pick: no clue
+[19:25:56] BCraftMG: !mp timer 120
+[19:25:56] BanchoBot: Countdown ends in 2 minutes
+[19:26:47] BanchoBot: comm899 joined in slot 7 for team blue.
+[19:26:55] BanchoBot: Countdown ends in 1 minute
+[19:26:57] comm899: hd1 pick plz
+[19:27:07] BanchoBot: YuskasUwU left the game.
+[19:27:09] BCraftMG: !mp mods HD NF
+[19:27:09] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[19:27:10] BCraftMG: comm im sorry :c
+[19:27:11] BCraftMG: !mp map 3178140 0
+[19:27:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3178140 Chicala Lpis - Blackest Luxury Car
+[19:27:11] BanchoBot: Changed match mode to Osu
+[19:27:13] BCraftMG: !mp timer 120
+[19:27:13] BanchoBot: Countdown aborted
+[19:27:13] BanchoBot: Countdown ends in 2 minutes
+[19:27:17] BanchoBot: Unghalor left the game.
+[19:27:29] Zefkiel: ?
+[19:27:33] Zefkiel: oh
+[19:27:35] Zefkiel: yeah
+[19:27:37] Zefkiel: its fine
+[19:27:41] Zefkiel: read rules next time
+[19:27:49] BanchoBot: Unghalor joined in slot 5 for team blue.
+[19:27:55] laGmaN: :tf:
+[19:28:04] BanchoBot: comm899 left the game.
+[19:28:09] BCraftMG: i should have known the rule by this point :c
+[19:28:12] BanchoBot: Countdown ends in 1 minute
+[19:28:22] Dai_Son: dw
+[19:28:24] Dai_Son: :>\
+[19:28:30] BanchoBot: YuskasUwU joined in slot 6 for team red.
+[19:28:38] Zefkiel: they really should have a rules doc
+[19:28:41] Zefkiel: tbh
+[19:28:43] BanchoBot: YuskasUwU changed to Blue
+[19:28:43] BanchoBot: Countdown ends in 30 seconds
+[19:28:55] BanchoBot: All players are ready
+[19:28:59] BCraftMG: !mp settings
+[19:29:01] Unghalor: gl
+[19:29:01] BanchoBot: Room name: STT3: (no clue) vs (Nya Army), History: https://osu.ppy.sh/mp/101947143
+[19:29:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/3178140 Chicala Lpis - Blackest Luxury Car
+[19:29:01] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:29:01] BanchoBot: Active mods: NoFail, Hidden
+[19:29:01] BanchoBot: Players: 6
+[19:29:01] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/2529213 SugiuraAyano    [Team Red ]
+[19:29:01] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7989469 Zefkiel         [Team Red ]
+[19:29:01] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8186536 Dai_Son         [Team Red ]
+[19:29:01] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12781215 laGmaN          [Team Blue]
+[19:29:01] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/6957298 Unghalor        [Team Blue]
+[19:29:01] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10849508 YuskasUwU       [Team Blue]
+[19:29:03] BanchoBot: Countdown ends in 10 seconds
+[19:29:03] BCraftMG: !mp start 10
+[19:29:05] Zefkiel: glhf
+[19:29:05] BanchoBot: Countdown aborted
+[19:29:05] BanchoBot: Match starts in 10 seconds
+[19:29:05] BanchoBot: Queued the match to start in 10 seconds
+[19:29:07] SugiuraAyano: hfhf
+[19:29:09] YuskasUwU: gl hf uwu
+[19:29:11] laGmaN: glhf
+[19:29:11] BanchoBot: Match starts in 5 seconds
+[19:29:11] BanchoBot: Match starts in 4 seconds
+[19:29:13] BanchoBot: Match starts in 3 seconds
+[19:29:13] BanchoBot: Good luck, have fun!
+[19:29:15] Dai_Son: glgl nya
+[19:29:15] BanchoBot: The match has started!
+[19:29:19] BCraftMG: we have a ref guides but my brain just dum dum ig
+[19:31:40] BanchoBot: Dai_Son finished playing (Score: 512093, PASSED).
+[19:31:40] BanchoBot: SugiuraAyano finished playing (Score: 428256, PASSED).
+[19:31:40] BanchoBot: Unghalor finished playing (Score: 462412, PASSED).
+[19:31:40] BanchoBot: laGmaN finished playing (Score: 432695, PASSED).
+[19:31:40] BanchoBot: Zefkiel finished playing (Score: 506871, PASSED).
+[19:31:40] BanchoBot: YuskasUwU finished playing (Score: 375620, PASSED).
+[19:31:40] BanchoBot: The match has finished!
+[19:31:44] BCraftMG: no clue : 2 | 0 : Nya Army
+[19:31:46] BCraftMG: Next team to pick: Nya Army
+[19:31:48] BCraftMG: !mp timer 120
+[19:31:48] BanchoBot: Countdown ends in 2 minutes
+[19:32:05] laGmaN: hr1
+[19:32:11] BanchoBot: Unghalor left the game.
+[19:32:17] BanchoBot: YuskasUwU left the game.
+[19:32:21] BCraftMG: !mp mods HR NF
+[19:32:21] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[19:32:23] BCraftMG: !mp map 3238727 0
+[19:32:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3238727 S3RL x LIDA - My Girlfriend is a Raver
+[19:32:23] BanchoBot: Changed match mode to Osu
+[19:32:25] BCraftMG: !mp timer 120
+[19:32:25] BanchoBot: Countdown aborted
+[19:32:25] BanchoBot: Countdown ends in 2 minutes
+[19:32:27] BanchoBot: comm899 joined in slot 5 for team blue.
+[19:32:39] BanchoBot: Unghalor joined in slot 6 for team red.
+[19:32:43] BanchoBot: SugiuraAyano moved to slot 9
+[19:32:46] BanchoBot: SugiuraAyano moved to slot 11
+[19:32:48] BanchoBot: Unghalor changed to Blue
+[19:32:48] BanchoBot: comm899 moved to slot 1
+[19:32:50] BanchoBot: comm899 changed to Red
+[19:32:50] BanchoBot: Unghalor moved to slot 5
+[19:32:56] BanchoBot: SugiuraAyano left the game.
+[19:33:24] BanchoBot: Countdown ends in 1 minute
+[19:33:32] BanchoBot: YuskasUwU joined in slot 6 for team red.
+[19:33:43] BanchoBot: YuskasUwU changed to Blue
+[19:33:51] BanchoBot: All players are ready
+[19:33:53] BCraftMG: !mp settings
+[19:33:55] BanchoBot: Countdown ends in 30 seconds
+[19:33:55] BanchoBot: Room name: STT3: (no clue) vs (Nya Army), History: https://osu.ppy.sh/mp/101947143
+[19:33:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/3238727 S3RL x LIDA - My Girlfriend is a Raver
+[19:33:55] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:33:55] BanchoBot: Active mods: NoFail, HardRock
+[19:33:55] BanchoBot: Players: 6
+[19:33:55] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/4800074 comm899         [Team Red ]
+[19:33:55] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7989469 Zefkiel         [Team Red ]
+[19:33:55] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8186536 Dai_Son         [Team Red ]
+[19:33:55] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12781215 laGmaN          [Team Blue]
+[19:33:55] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/6957298 Unghalor        [Team Blue]
+[19:33:55] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10849508 YuskasUwU       [Team Blue]
+[19:33:57] BCraftMG: !mp start 10
+[19:33:59] Zefkiel: glhf
+[19:33:59] BanchoBot: Countdown aborted
+[19:33:59] BanchoBot: Match starts in 10 seconds
+[19:33:59] BanchoBot: Queued the match to start in 10 seconds
+[19:34:03] comm899: glhf!
+[19:34:05] YuskasUwU: gl hf uwu
+[19:34:05] laGmaN: glhf
+[19:34:05] BanchoBot: Match starts in 5 seconds
+[19:34:05] Unghalor: glhf
+[19:34:05] BanchoBot: Match starts in 4 seconds
+[19:34:07] BanchoBot: Match starts in 3 seconds
+[19:34:07] BanchoBot: Good luck, have fun!
+[19:34:09] Dai_Son: glgl nya
+[19:34:09] BanchoBot: The match has started!
+[19:37:30] BanchoBot: Unghalor finished playing (Score: 223504, PASSED).
+[19:37:30] BanchoBot: comm899 finished playing (Score: 421395, PASSED).
+[19:37:32] BanchoBot: Zefkiel finished playing (Score: 494638, PASSED).
+[19:37:32] BanchoBot: YuskasUwU finished playing (Score: 592437, PASSED).
+[19:37:32] BanchoBot: Dai_Son finished playing (Score: 342411, PASSED).
+[19:37:32] BanchoBot: laGmaN finished playing (Score: 469984, PASSED).
+[19:37:32] BanchoBot: The match has finished!
+[19:37:36] BCraftMG: no clue : 2 | 1 : Nya Army
+[19:37:38] BCraftMG: Next team to pick: no clue
+[19:37:40] BCraftMG: !mp timer 120
+[19:37:40] BanchoBot: Countdown ends in 2 minutes
+[19:37:59] laGmaN: close one
+[19:38:05] Unghalor: lesson learned: dont play osu in the mornings
+[19:38:19] Zefkiel: close
+[19:38:40] BanchoBot: Countdown ends in 1 minute
+[19:39:09] BanchoBot: Countdown ends in 30 seconds
+[19:39:15] BanchoBot: SugiuraAyano joined in slot 7 for team blue.
+[19:39:26] comm899: nm3 plz
+[19:39:30] BanchoBot: Countdown ends in 10 seconds
+[19:39:32] BanchoBot: YuskasUwU left the game.
+[19:39:34] BanchoBot: Countdown ends in 5 seconds
+[19:39:34] BanchoBot: Unghalor left the game.
+[19:39:36] BanchoBot: Countdown ends in 4 seconds
+[19:39:36] BanchoBot: Countdown ends in 3 seconds
+[19:39:38] BanchoBot: Countdown ends in 2 seconds
+[19:39:38] BanchoBot: Countdown ends in 1 second
+[19:39:40] BanchoBot: Countdown finished
+[19:39:46] BCraftMG: !mp mods NF
+[19:39:46] BanchoBot: Enabled NoFail, disabled FreeMod
+[19:39:48] BCraftMG: !mp map 2952639 0
+[19:39:48] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2952639 Tokyo Machine - BUBBLES
+[19:39:48] BanchoBot: Changed match mode to Osu
+[19:39:50] BCraftMG: !mp timer 120
+[19:39:50] BanchoBot: Countdown ends in 2 minutes
+[19:39:52] BanchoBot: comm899 left the game.
+[19:39:58] BanchoBot: SugiuraAyano moved to slot 1
+[19:40:01] BanchoBot: SugiuraAyano changed to Red
+[19:40:39] BanchoBot: YuskasUwU joined in slot 5 for team blue.
+[19:40:50] BanchoBot: Countdown ends in 1 minute
+[19:41:16] BanchoBot: arroz-huevo23 joined in slot 6 for team red.
+[19:41:18] BanchoBot: Countdown ends in 30 seconds
+[19:41:35] Dai_Son: arroz-huevo23
+[19:41:37] Dai_Son: team
+[19:41:37] BanchoBot: arroz-huevo23 changed to Blue
+[19:41:39] BanchoBot: Countdown ends in 10 seconds
+[19:41:41] SugiuraAyano: hfhf
+[19:41:43] arroz-huevo23: ye sorryu
+[19:41:43] BCraftMG: !mp settings
+[19:41:45] BanchoBot: Countdown ends in 5 seconds
+[19:41:45] arroz-huevo23: hf
+[19:41:45] BanchoBot: Countdown ends in 4 seconds
+[19:41:45] BanchoBot: Room name: STT3: (no clue) vs (Nya Army), History: https://osu.ppy.sh/mp/101947143
+[19:41:45] BanchoBot: Beatmap: https://osu.ppy.sh/b/2952639 Tokyo Machine - BUBBLES
+[19:41:45] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:41:45] BanchoBot: Active mods: NoFail
+[19:41:45] BanchoBot: Players: 6
+[19:41:45] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/2529213 SugiuraAyano    [Team Red ]
+[19:41:45] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7989469 Zefkiel         [Team Red ]
+[19:41:45] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8186536 Dai_Son         [Team Red ]
+[19:41:45] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12781215 laGmaN          [Team Blue]
+[19:41:45] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/10849508 YuskasUwU       [Team Blue]
+[19:41:45] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/15615619 arroz-huevo23   [Team Blue]
+[19:41:47] BanchoBot: Countdown ends in 3 seconds
+[19:41:47] YuskasUwU: gl hf uwu
+[19:41:47] BanchoBot: Countdown ends in 2 seconds
+[19:41:49] BanchoBot: Countdown ends in 1 second
+[19:41:49] BanchoBot: Countdown finished
+[19:41:53] BanchoBot: All players are ready
+[19:41:55] Zefkiel: glhf
+[19:41:57] BCraftMG: !mp settings
+[19:41:57] laGmaN: glhf
+[19:42:00] BanchoBot: Room name: STT3: (no clue) vs (Nya Army), History: https://osu.ppy.sh/mp/101947143
+[19:42:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/2952639 Tokyo Machine - BUBBLES
+[19:42:00] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:42:00] BanchoBot: Active mods: NoFail
+[19:42:00] BanchoBot: Players: 6
+[19:42:00] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/2529213 SugiuraAyano    [Team Red ]
+[19:42:00] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7989469 Zefkiel         [Team Red ]
+[19:42:00] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8186536 Dai_Son         [Team Red ]
+[19:42:00] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12781215 laGmaN          [Team Blue]
+[19:42:00] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/10849508 YuskasUwU       [Team Blue]
+[19:42:00] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/15615619 arroz-huevo23   [Team Blue]
+[19:42:01] BCraftMG: !mp start 10
+[19:42:01] arroz-huevo23: gl gl
+[19:42:01] BanchoBot: Match starts in 10 seconds
+[19:42:01] BanchoBot: Queued the match to start in 10 seconds
+[19:42:08] BanchoBot: Match starts in 5 seconds
+[19:42:08] BanchoBot: Match starts in 4 seconds
+[19:42:10] BanchoBot: Match starts in 3 seconds
+[19:42:10] BanchoBot: Good luck, have fun!
+[19:42:12] Dai_Son: glgl nya
+[19:42:12] BanchoBot: The match has started!
+[19:44:54] BanchoBot: YuskasUwU finished playing (Score: 522627, PASSED).
+[19:44:57] BanchoBot: Dai_Son finished playing (Score: 832323, PASSED).
+[19:44:57] BanchoBot: Zefkiel finished playing (Score: 469713, PASSED).
+[19:44:57] BanchoBot: laGmaN finished playing (Score: 380107, PASSED).
+[19:44:57] BanchoBot: SugiuraAyano finished playing (Score: 302842, PASSED).
+[19:44:57] BanchoBot: arroz-huevo23 finished playing (Score: 181800, PASSED).
+[19:44:57] BanchoBot: The match has finished!
+[19:45:01] BCraftMG: no clue : 3 | 1 : Nya Army
+[19:45:03] BCraftMG: Next team to pick: Nya Army
+[19:45:05] BCraftMG: !mp timer 120
+[19:45:05] BanchoBot: Countdown ends in 2 minutes
+[19:45:31] BanchoBot: arroz-huevo23 left the game.
+[19:45:46] laGmaN: hr2
+[19:45:46] BanchoBot: Unghalor joined in slot 6 for team red.
+[19:45:50] BanchoBot: Unghalor changed to Blue
+[19:46:03] BanchoBot: SugiuraAyano moved to slot 7
+[19:46:05] BanchoBot: Countdown ends in 1 minute
+[19:46:05] BCraftMG: !mp mods HR NF
+[19:46:05] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[19:46:07] BCraftMG: !mp map 258384 0
+[19:46:07] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/258384 An - Encryption
+[19:46:07] BanchoBot: Changed match mode to Osu
+[19:46:07] BCraftMG: !mp timer 120
+[19:46:07] BanchoBot: Countdown aborted
+[19:46:07] BanchoBot: Countdown ends in 2 minutes
+[19:46:09] BanchoBot: comm899 joined in slot 1 for team blue.
+[19:46:19] BanchoBot: comm899 changed to Red
+[19:46:34] BanchoBot: Zefkiel moved to slot 8
+[19:46:38] BanchoBot: SugiuraAyano moved to slot 2
+[19:46:40] BanchoBot: Zefkiel left the game.
+[19:46:50] BanchoBot: All players are ready
+[19:46:52] Unghalor: glhf
+[19:46:52] BCraftMG: !mp settings
+[19:46:54] BanchoBot: Room name: STT3: (no clue) vs (Nya Army), History: https://osu.ppy.sh/mp/101947143
+[19:46:54] BanchoBot: Beatmap: https://osu.ppy.sh/b/258384 An - Encryption
+[19:46:54] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:46:54] BanchoBot: Active mods: NoFail, HardRock
+[19:46:54] BanchoBot: Players: 6
+[19:46:54] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/4800074 comm899         [Team Red ]
+[19:46:54] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/2529213 SugiuraAyano    [Team Red ]
+[19:46:54] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8186536 Dai_Son         [Team Red ]
+[19:46:54] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12781215 laGmaN          [Team Blue]
+[19:46:54] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/10849508 YuskasUwU       [Team Blue]
+[19:46:54] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/6957298 Unghalor        [Team Blue]
+[19:46:55] BCraftMG: !mp start 10
+[19:46:56] SugiuraAyano: hfhf
+[19:46:56] BanchoBot: Countdown aborted
+[19:46:56] BanchoBot: Match starts in 10 seconds
+[19:46:56] BanchoBot: Queued the match to start in 10 seconds
+[19:46:58] laGmaN: glhf
+[19:47:00] YuskasUwU: gl hf uwu sirs
+[19:47:02] BanchoBot: Match starts in 5 seconds
+[19:47:02] BanchoBot: Match starts in 4 seconds
+[19:47:04] BanchoBot: Match starts in 3 seconds
+[19:47:04] BanchoBot: Good luck, have fun!
+[19:47:07] BanchoBot: The match has started!
+[19:49:15] BanchoBot: Dai_Son finished playing (Score: 954995, PASSED).
+[19:49:15] BanchoBot: Unghalor finished playing (Score: 339369, PASSED).
+[19:49:15] BanchoBot: YuskasUwU finished playing (Score: 469824, PASSED).
+[19:49:15] BanchoBot: comm899 finished playing (Score: 1013117, PASSED).
+[19:49:15] BanchoBot: SugiuraAyano finished playing (Score: 269534, PASSED).
+[19:49:15] BanchoBot: laGmaN finished playing (Score: 264858, PASSED).
+[19:49:15] BanchoBot: The match has finished!
+[19:49:19] BCraftMG: no clue : 4 | 1 : Nya Army
+[19:49:21] BCraftMG: Next team to pick: no clue
+[19:49:23] BCraftMG: !mp timer 120
+[19:49:23] BanchoBot: Countdown ends in 2 minutes
+[19:49:35] laGmaN: nice fcs
+[19:49:43] comm899: thx
+[19:49:46] YuskasUwU: ye nice score holy
+[19:50:00] SugiuraAyano: im sus
+[19:50:02] BanchoBot: masrte joined in slot 7 for team blue.
+[19:50:05] BCraftMG: 2 fcs sheesh
+[19:50:19] BanchoBot: Zefkiel joined in slot 8 for team red.
+[19:50:21] SugiuraAyano: imposter exposed oops
+[19:50:21] comm899: dt2 pick plz
+[19:50:21] BanchoBot: Countdown ends in 1 minute
+[19:50:30] BanchoBot: SugiuraAyano moved to slot 11
+[19:50:32] BanchoBot: comm899 left the game.
+[19:50:32] BanchoBot: Dai_Son moved to slot 2
+[19:50:34] BanchoBot: Dai_Son moved to slot 1
+[19:50:36] BanchoBot: masrte moved to slot 3
+[19:50:36] BanchoBot: Zefkiel moved to slot 2
+[19:50:36] BanchoBot: masrte changed to Red
+[19:50:38] BCraftMG: !mp mods DT NF
+[19:50:38] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[19:50:40] BCraftMG: !mp map 2075562 0
+[19:50:40] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2075562 Wyvern's Spirit - Force Zero
+[19:50:40] BanchoBot: Changed match mode to Osu
+[19:50:40] BanchoBot: SugiuraAyano left the game.
+[19:50:42] BCraftMG: !mp timer 120
+[19:50:42] BanchoBot: Countdown aborted
+[19:50:42] BanchoBot: Countdown ends in 2 minutes
+[19:50:58] BanchoBot: All players are ready
+[19:51:01] BCraftMG: !mp settings
+[19:51:03] BanchoBot: Room name: STT3: (no clue) vs (Nya Army), History: https://osu.ppy.sh/mp/101947143
+[19:51:03] BanchoBot: Beatmap: https://osu.ppy.sh/b/2075562 Wyvern's Spirit - Force Zero
+[19:51:03] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:51:03] BanchoBot: Active mods: NoFail, DoubleTime
+[19:51:03] BanchoBot: Players: 6
+[19:51:03] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8186536 Dai_Son         [Team Red ]
+[19:51:03] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7989469 Zefkiel         [Team Red ]
+[19:51:03] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/4257516 masrte          [Team Red ]
+[19:51:03] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/12781215 laGmaN          [Team Blue]
+[19:51:03] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/10849508 YuskasUwU       [Team Blue]
+[19:51:03] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/6957298 Unghalor        [Team Blue]
+[19:51:03] BCraftMG: !mp start 10
+[19:51:05] laGmaN: glhf
+[19:51:05] BanchoBot: Countdown aborted
+[19:51:05] BanchoBot: Match starts in 10 seconds
+[19:51:05] BanchoBot: Queued the match to start in 10 seconds
+[19:51:09] Zefkiel: glhf
+[19:51:11] BanchoBot: Match starts in 5 seconds
+[19:51:11] YuskasUwU: gl hf uwu
+[19:51:11] BanchoBot: Match starts in 4 seconds
+[19:51:11] Unghalor: gl
+[19:51:13] BanchoBot: Match starts in 3 seconds
+[19:51:13] BanchoBot: Good luck, have fun!
+[19:51:15] BanchoBot: The match has started!
+[19:54:20] BanchoBot: Unghalor finished playing (Score: 260607, PASSED).
+[19:54:20] BanchoBot: laGmaN finished playing (Score: 213505, PASSED).
+[19:54:20] BanchoBot: Dai_Son finished playing (Score: 679542, PASSED).
+[19:54:20] BanchoBot: Zefkiel finished playing (Score: 942092, PASSED).
+[19:54:20] BanchoBot: masrte finished playing (Score: 296760, PASSED).
+[19:54:20] BanchoBot: YuskasUwU finished playing (Score: 453297, PASSED).
+[19:54:20] BanchoBot: The match has finished!
+[19:54:24] BCraftMG: no clue : 5 | 1 : Nya Army
+[19:54:26] BCraftMG: **no clue wins the match**
+[19:54:30] Unghalor: ggs
+[19:54:35] BanchoBot: comm899 joined in slot 7 for team blue.
+[19:54:37] Unghalor: ty for ref
+[19:54:45] Zefkiel: ggs
+[19:54:47] comm899: ggwp!
+[19:54:47] YuskasUwU: ggs gl in next maches uwu
+[19:54:47] Zefkiel: thanks for the ref
+[19:54:47] laGmaN: damn youre insane guys
+[19:54:50] BCraftMG: Thanks for playing <3
+[19:54:50] comm899: ty for ref
+[19:54:50] laGmaN: ggs
+[19:54:57] YuskasUwU: ty for ref bc uwu
+[19:54:59] laGmaN: ty for ref braft
+[19:55:01] BCraftMG: i trolled
+[19:55:06] BCraftMG: sorry again
+[19:55:07] Dai_Son: ty for ref
+[19:55:09] BanchoBot: Dai_Son left the game.
+[19:55:13] BanchoBot: Unghalor left the game.
+[19:55:15] BanchoBot: comm899 left the game.
+[19:55:15] YuskasUwU: it s okey sir np
+[19:55:17] laGmaN: o/
+[19:55:17] BanchoBot: masrte left the game.
+[19:55:17] Zefkiel: all good
+[19:55:17] BanchoBot: comm899 joined in slot 1 for team blue.
+[19:55:20] BanchoBot: laGmaN left the game.
+[19:55:22] Zefkiel: o7
+[19:55:22] YuskasUwU: have a nice day
+[19:55:22] BanchoBot: Zefkiel left the game.
+[19:55:22] comm899: ty for ref
+[19:55:24] comm899: o/
+[19:55:24] BanchoBot: comm899 left the game.
+[19:55:24] BCraftMG: o/
+[19:55:28] BanchoBot: YuskasUwU left the game.
+[19:55:34] BCraftMG: !mp close
+[19:55:36] BanchoBot: Closed the match

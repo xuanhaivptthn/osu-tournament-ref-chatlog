@@ -1,0 +1,370 @@
+[21:46:47] Joined #mp_113413912
+[21:46:47] BCraftMG: !mp settings
+[21:46:48] BanchoBot: Room name: 4WC24VN Tryout: Lobby X2, History: https://osu.ppy.sh/mp/113413912
+[21:46:48] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[21:46:48] BanchoBot: Players: 0
+[21:46:59] BCraftMG: !mp set 0 3 3
+[21:47:01] BanchoBot: Changed match settings to 3 slots, HeadToHead, ScoreV2
+[21:47:02] BCraftMG: !mp invite Thinhhhh
+[21:47:02] BanchoBot: Invited Thinhhhh to the room
+[21:47:10] BCraftMG: !mp map 4179283
+[21:47:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4179283 Mizuki Nana x T.M.Revolution - Kakumei Dualism
+[21:47:11] BCraftMG: !mp mods 1
+[21:47:12] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:47:30] BanchoBot: Thinhhhh joined in slot 1.
+[21:47:43] BCraftMG: :p
+[21:48:16] Thinhhhh: giờ bắt đầu luôn được không anh
+[21:48:26] Thinhhhh: ấy sớm nghỉ sớm
+[21:48:31] BCraftMG: dc a
+[21:48:39] BCraftMG: a cu ready la start
+[21:48:53] Thinhhhh: okay
+[21:48:54] BanchoBot: All players are ready
+[21:48:56] BCraftMG: !mp settings
+[21:48:57] BanchoBot: Room name: 4WC24VN Tryout: Lobby X2, History: https://osu.ppy.sh/mp/113413912
+[21:48:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/4179283 Mizuki Nana x T.M.Revolution - Kakumei Dualism
+[21:48:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:48:57] BanchoBot: Active mods: NoFail
+[21:48:57] BanchoBot: Players: 1
+[21:48:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16748549 Thinhhhh        
+[21:49:12] BCraftMG: !mp start 5 glhf
+[21:49:14] BanchoBot: Match starts in 5 seconds
+[21:49:14] BanchoBot: Queued the match to start in 5 seconds
+[21:49:15] BanchoBot: Match starts in 4 seconds
+[21:49:16] BanchoBot: Match starts in 3 seconds
+[21:49:17] BanchoBot: Good luck, have fun!
+[21:49:19] BanchoBot: The match has started!
+[21:53:22] BanchoBot: Thinhhhh finished playing (Score: 447478, PASSED).
+[21:53:22] BanchoBot: The match has finished!
+[21:53:25] BCraftMG: !mp map 4444744
+[21:53:26] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4444744 xi - Quietus Ray
+[21:53:44] BanchoBot: All players are ready
+[21:53:47] BCraftMG: !mp settings
+[21:53:48] BanchoBot: Room name: 4WC24VN Tryout: Lobby X2, History: https://osu.ppy.sh/mp/113413912
+[21:53:48] BanchoBot: Beatmap: https://osu.ppy.sh/b/4444744 xi - Quietus Ray
+[21:53:48] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:53:48] BanchoBot: Active mods: NoFail
+[21:53:48] BanchoBot: Players: 1
+[21:53:48] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16748549 Thinhhhh        
+[21:53:48] BCraftMG: !mp start 5 glhf
+[21:53:49] BanchoBot: Match starts in 5 seconds
+[21:53:49] BanchoBot: Queued the match to start in 5 seconds
+[21:53:50] BanchoBot: Match starts in 4 seconds
+[21:53:52] BanchoBot: Match starts in 3 seconds
+[21:53:53] BanchoBot: Good luck, have fun!
+[21:53:54] BanchoBot: The match has started!
+[21:56:03] BanchoBot: Thinhhhh finished playing (Score: 271379, PASSED).
+[21:56:03] BanchoBot: The match has finished!
+[21:56:09] BCraftMG: !mp map 4524268
+[21:56:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4524268 ZAQ - Minor Piece
+[21:56:44] BanchoBot: All players are ready
+[21:56:51] BCraftMG: !mp settings
+[21:56:53] BanchoBot: Room name: 4WC24VN Tryout: Lobby X2, History: https://osu.ppy.sh/mp/113413912
+[21:56:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/4524268 ZAQ - Minor Piece
+[21:56:53] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:56:53] BanchoBot: Active mods: NoFail
+[21:56:53] BanchoBot: Players: 1
+[21:56:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16748549 Thinhhhh        
+[21:56:54] BCraftMG: !mp start 5 glhf
+[21:56:54] BanchoBot: Match starts in 5 seconds
+[21:56:54] BanchoBot: Queued the match to start in 5 seconds
+[21:56:55] BanchoBot: Match starts in 4 seconds
+[21:56:56] BanchoBot: Match starts in 3 seconds
+[21:56:58] BanchoBot: Good luck, have fun!
+[21:56:59] BanchoBot: The match has started!
+[22:00:14] BanchoBot: Thinhhhh finished playing (Score: 301063, PASSED).
+[22:00:14] BanchoBot: The match has finished!
+[22:00:19] BCraftMG: !mp map 3871738
+[22:00:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3871738 Juggernaut. - Rebellion
+[22:00:39] BanchoBot: All players are ready
+[22:00:41] BCraftMG: !mp settings
+[22:00:42] BanchoBot: Room name: 4WC24VN Tryout: Lobby X2, History: https://osu.ppy.sh/mp/113413912
+[22:00:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/3871738 Juggernaut. - Rebellion
+[22:00:42] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:00:42] BanchoBot: Active mods: NoFail
+[22:00:42] BanchoBot: Players: 1
+[22:00:42] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16748549 Thinhhhh        
+[22:00:43] BCraftMG: !mp start 5 glhf
+[22:00:43] BanchoBot: Match starts in 5 seconds
+[22:00:43] BanchoBot: Queued the match to start in 5 seconds
+[22:00:45] BanchoBot: Match starts in 4 seconds
+[22:00:46] BanchoBot: Match starts in 3 seconds
+[22:00:47] BanchoBot: Good luck, have fun!
+[22:00:48] BanchoBot: The match has started!
+[22:03:43] BanchoBot: Thinhhhh finished playing (Score: 192692, PASSED).
+[22:03:43] BanchoBot: The match has finished!
+[22:03:59] BCraftMG: !mp map 3198204
+[22:04:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3198204 dandeless - micro.wav
+[22:04:24] BanchoBot: All players are ready
+[22:04:28] BCraftMG: !mp settings
+[22:04:28] BCraftMG: !mp settings
+[22:04:29] BanchoBot: Room name: 4WC24VN Tryout: Lobby X2, History: https://osu.ppy.sh/mp/113413912
+[22:04:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/3198204 dandeless - micro.wav
+[22:04:29] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:04:29] BanchoBot: Active mods: NoFail
+[22:04:29] BanchoBot: Players: 1
+[22:04:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16748549 Thinhhhh        
+[22:04:29] BCraftMG: !mp start 5 glhf
+[22:04:32] BanchoBot: Match starts in 5 seconds
+[22:04:32] BanchoBot: Queued the match to start in 5 seconds
+[22:04:33] BanchoBot: Match starts in 4 seconds
+[22:04:34] BanchoBot: Match starts in 3 seconds
+[22:04:35] BanchoBot: Good luck, have fun!
+[22:04:37] BanchoBot: The match has started!
+[22:06:42] BanchoBot: Thinhhhh finished playing (Score: 66691, PASSED).
+[22:06:42] BanchoBot: The match has finished!
+[22:06:44] BCraftMG: !mp map 4386400
+[22:06:45] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4386400 Hommarju feat. Latte - masterpiece (Cut Ver.)
+[22:06:47] BCraftMG: !mp mods 9
+[22:06:48] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[22:07:42] BanchoBot: All players are ready
+[22:07:45] BCraftMG: !mp settings
+[22:07:46] BanchoBot: Room name: 4WC24VN Tryout: Lobby X2, History: https://osu.ppy.sh/mp/113413912
+[22:07:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/4386400 Hommarju feat. Latte - masterpiece (Cut Ver.)
+[22:07:46] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:07:46] BanchoBot: Active mods: NoFail, Hidden
+[22:07:46] BanchoBot: Players: 1
+[22:07:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16748549 Thinhhhh        
+[22:07:46] BCraftMG: !mp start 5 glhf
+[22:07:47] BanchoBot: Match starts in 5 seconds
+[22:07:47] BanchoBot: Queued the match to start in 5 seconds
+[22:07:48] BanchoBot: Match starts in 4 seconds
+[22:07:49] BanchoBot: Match starts in 3 seconds
+[22:07:51] BanchoBot: Good luck, have fun!
+[22:07:52] BanchoBot: The match has started!
+[22:11:37] BanchoBot: Thinhhhh finished playing (Score: 121050, PASSED).
+[22:11:37] BanchoBot: The match has finished!
+[22:11:41] BCraftMG: !mp map 4344442
+[22:11:42] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4344442 Zekk - Vespera
+[22:12:02] BanchoBot: All players are ready
+[22:12:09] BCraftMG: !mp settings
+[22:12:10] BanchoBot: Room name: 4WC24VN Tryout: Lobby X2, History: https://osu.ppy.sh/mp/113413912
+[22:12:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/4344442 Zekk - Vespera
+[22:12:10] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:12:10] BanchoBot: Active mods: NoFail, Hidden
+[22:12:10] BanchoBot: Players: 1
+[22:12:10] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16748549 Thinhhhh        
+[22:12:10] BCraftMG: !mp start 5 glhf
+[22:12:11] BanchoBot: Match starts in 5 seconds
+[22:12:11] BanchoBot: Queued the match to start in 5 seconds
+[22:12:12] BanchoBot: Match starts in 4 seconds
+[22:12:14] BanchoBot: Match starts in 3 seconds
+[22:12:15] BanchoBot: Good luck, have fun!
+[22:12:16] BanchoBot: The match has started!
+[22:14:55] BanchoBot: Thinhhhh finished playing (Score: 159849, PASSED).
+[22:14:55] BanchoBot: The match has finished!
+[22:15:03] BCraftMG: !mp map 4197953
+[22:15:04] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4197953 yuikonnu & ayaponzu* - Super Nuko World
+[22:15:04] BCraftMG: !mp mods 17
+[22:15:06] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[22:15:14] BCraftMG: welcome home
+[22:15:16] BanchoBot: All players are ready
+[22:15:21] BCraftMG: !mp settings
+[22:15:22] BanchoBot: Room name: 4WC24VN Tryout: Lobby X2, History: https://osu.ppy.sh/mp/113413912
+[22:15:22] BanchoBot: Beatmap: https://osu.ppy.sh/b/4197953 yuikonnu & ayaponzu* - Super Nuko World
+[22:15:22] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:15:22] BanchoBot: Active mods: NoFail, HardRock
+[22:15:22] BanchoBot: Players: 1
+[22:15:22] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16748549 Thinhhhh        
+[22:15:23] BCraftMG: !mp start 5 glhf
+[22:15:23] BanchoBot: Match starts in 5 seconds
+[22:15:23] BanchoBot: Queued the match to start in 5 seconds
+[22:15:25] BanchoBot: Match starts in 4 seconds
+[22:15:26] BanchoBot: Match starts in 3 seconds
+[22:15:27] BanchoBot: Good luck, have fun!
+[22:15:29] Thinhhhh: hihi
+[22:15:29] BanchoBot: The match has started!
+[22:19:11] BanchoBot: Thinhhhh finished playing (Score: 287620, PASSED).
+[22:19:11] BanchoBot: The match has finished!
+[22:19:17] BCraftMG: !mp map 2641007
+[22:19:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2641007 Wisp X - Lumina (feat. Xomu)
+[22:19:22] BanchoBot: All players are ready
+[22:19:26] BCraftMG: !mp start 5 glhf
+[22:19:28] BanchoBot: Match starts in 5 seconds
+[22:19:28] BanchoBot: Queued the match to start in 5 seconds
+[22:19:29] BanchoBot: Match starts in 4 seconds
+[22:19:30] BanchoBot: Match starts in 3 seconds
+[22:19:31] BanchoBot: Good luck, have fun!
+[22:19:33] BanchoBot: The match has started!
+[22:23:17] BanchoBot: Thinhhhh finished playing (Score: 124459, PASSED).
+[22:23:17] BanchoBot: The match has finished!
+[22:23:31] BCraftMG: !mp map 4511442
+[22:23:31] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4511442 Yasuno Kiyono - Uchuu no Housoku
+[22:23:33] BCraftMG: !mp mods 65
+[22:23:34] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[22:23:57] BanchoBot: All players are ready
+[22:24:04] BCraftMG: !mp settings
+[22:24:05] BanchoBot: Room name: 4WC24VN Tryout: Lobby X2, History: https://osu.ppy.sh/mp/113413912
+[22:24:05] BanchoBot: Beatmap: https://osu.ppy.sh/b/4511442 Yasuno Kiyono - Uchuu no Housoku
+[22:24:05] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:24:05] BanchoBot: Active mods: NoFail, DoubleTime
+[22:24:05] BanchoBot: Players: 1
+[22:24:05] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16748549 Thinhhhh        
+[22:24:05] BCraftMG: !mp start 5 glhf
+[22:24:06] BanchoBot: Match starts in 5 seconds
+[22:24:06] BanchoBot: Queued the match to start in 5 seconds
+[22:24:07] BanchoBot: Match starts in 4 seconds
+[22:24:08] BanchoBot: Match starts in 3 seconds
+[22:24:10] BanchoBot: Good luck, have fun!
+[22:24:11] BanchoBot: The match has started!
+[22:27:06] BanchoBot: Thinhhhh finished playing (Score: 346156, PASSED).
+[22:27:06] BanchoBot: The match has finished!
+[22:27:08] BCraftMG: !mp map 4537093
+[22:27:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4537093 THE ORAL CIGARETTES - MACHINEGUN
+[22:27:12] BCraftMG: eys
+[22:27:53] BanchoBot: All players are ready
+[22:27:55] BCraftMG: !mp settings
+[22:27:56] BanchoBot: Room name: 4WC24VN Tryout: Lobby X2, History: https://osu.ppy.sh/mp/113413912
+[22:27:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/4537093 THE ORAL CIGARETTES - MACHINEGUN
+[22:27:56] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:27:56] BanchoBot: Active mods: NoFail, DoubleTime
+[22:27:56] BanchoBot: Players: 1
+[22:27:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16748549 Thinhhhh        
+[22:27:56] BCraftMG: !mp start 5 glhf
+[22:27:57] BanchoBot: Match starts in 5 seconds
+[22:27:57] BanchoBot: Queued the match to start in 5 seconds
+[22:27:58] BanchoBot: Match starts in 4 seconds
+[22:27:59] BanchoBot: Match starts in 3 seconds
+[22:28:01] BanchoBot: Good luck, have fun!
+[22:28:02] BanchoBot: The match has started!
+[22:30:34] BanchoBot: Thinhhhh finished playing (Score: 109309, PASSED).
+[22:30:34] BanchoBot: The match has finished!
+[22:30:40] BCraftMG: !mp map 2848773
+[22:30:40] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2848773 Michiru Kagemori (CV: Morohoshi Sumire) - Ready to (Mokelmbe Bootleg)
+[22:30:56] BCraftMG: be boi ac quy
+[22:31:09] BanchoBot: All players are ready
+[22:31:13] BCraftMG: !mp settings
+[22:31:13] BanchoBot: Room name: 4WC24VN Tryout: Lobby X2, History: https://osu.ppy.sh/mp/113413912
+[22:31:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/2848773 Michiru Kagemori (CV: Morohoshi Sumire) - Ready to (Mokelmbe Bootleg)
+[22:31:13] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:31:13] BanchoBot: Active mods: NoFail, DoubleTime
+[22:31:13] BanchoBot: Players: 1
+[22:31:13] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16748549 Thinhhhh        
+[22:31:14] BCraftMG: !mp start 5 glhf
+[22:31:15] BanchoBot: Match starts in 5 seconds
+[22:31:15] BanchoBot: Queued the match to start in 5 seconds
+[22:31:16] BanchoBot: Match starts in 4 seconds
+[22:31:17] BanchoBot: Match starts in 3 seconds
+[22:31:17] Thinhhhh: be boi chay qua
+[22:31:18] BanchoBot: Good luck, have fun!
+[22:31:20] BanchoBot: The match has started!
+[22:31:24] Thinhhhh: ma moi toi choi khong dduc
+[22:31:26] Thinhhhh: duoc
+[22:34:06] BanchoBot: Thinhhhh finished playing (Score: 239421, PASSED).
+[22:34:06] BanchoBot: The match has finished!
+[22:34:12] BCraftMG: !mp map 3205642
+[22:34:13] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3205642 BUD VIRGIN LOGIC - x Senritsu -Schlehit Melodie-
+[22:34:15] BCraftMG: !mp mods Freemod
+[22:34:16] BanchoBot: Disabled all mods, enabled FreeMod
+[22:34:16] BCraftMG: we cook
+[22:34:31] Thinhhhh: dt3 vui vl
+[22:34:36] Thinhhhh: ma kho qua
+[22:34:37] BanchoBot: All players are ready
+[22:34:40] BCraftMG: !mp settings
+[22:34:41] BanchoBot: Room name: 4WC24VN Tryout: Lobby X2, History: https://osu.ppy.sh/mp/113413912
+[22:34:41] BanchoBot: Beatmap: https://osu.ppy.sh/b/3205642 BUD VIRGIN LOGIC - x Senritsu -Schlehit Melodie-
+[22:34:41] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:34:41] BanchoBot: Active mods: Freemod
+[22:34:41] BanchoBot: Players: 1
+[22:34:41] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16748549 Thinhhhh        
+[22:34:44] BCraftMG: mod dau shop
+[22:34:53] BCraftMG: forcemod ma shop
+[22:34:54] Thinhhhh: a em quen
+[22:34:56] Thinhhhh: hihi
+[22:35:00] BanchoBot: All players are ready
+[22:35:04] BCraftMG: !mp settings
+[22:35:04] BanchoBot: Room name: 4WC24VN Tryout: Lobby X2, History: https://osu.ppy.sh/mp/113413912
+[22:35:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/3205642 BUD VIRGIN LOGIC - x Senritsu -Schlehit Melodie-
+[22:35:04] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:35:04] BanchoBot: Active mods: Freemod
+[22:35:04] BanchoBot: Players: 1
+[22:35:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16748549 Thinhhhh        [NoFail, Hidden]
+[22:35:05] BCraftMG: !mp start 5 glhf
+[22:35:07] BanchoBot: Match starts in 5 seconds
+[22:35:07] BanchoBot: Queued the match to start in 5 seconds
+[22:35:08] BanchoBot: Match starts in 4 seconds
+[22:35:09] BanchoBot: Match starts in 3 seconds
+[22:35:10] BanchoBot: Good luck, have fun!
+[22:35:12] BanchoBot: The match has started!
+[22:38:58] BanchoBot: Thinhhhh finished playing (Score: 142490, PASSED).
+[22:38:58] BanchoBot: The match has finished!
+[22:39:05] BCraftMG: !mp map 2651794
+[22:39:06] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2651794 Polyphia - O.D.
+[22:39:11] Thinhhhh: cursor giut giut tung chao
+[22:39:23] BCraftMG: chao mung den voi polyphia
+[22:39:31] BanchoBot: All players are ready
+[22:39:36] BCraftMG: !mp settings
+[22:39:36] BanchoBot: Room name: 4WC24VN Tryout: Lobby X2, History: https://osu.ppy.sh/mp/113413912
+[22:39:36] BanchoBot: Beatmap: https://osu.ppy.sh/b/2651794 Polyphia - O.D.
+[22:39:36] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:39:36] BanchoBot: Active mods: Freemod
+[22:39:36] BanchoBot: Players: 1
+[22:39:36] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/16748549 Thinhhhh        [NoFail, Hidden]
+[22:39:38] BanchoBot: All players are ready
+[22:39:39] BCraftMG: !mp settings
+[22:39:40] BanchoBot: Room name: 4WC24VN Tryout: Lobby X2, History: https://osu.ppy.sh/mp/113413912
+[22:39:40] BanchoBot: Beatmap: https://osu.ppy.sh/b/2651794 Polyphia - O.D.
+[22:39:40] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:39:40] BanchoBot: Active mods: Freemod
+[22:39:40] BanchoBot: Players: 1
+[22:39:40] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16748549 Thinhhhh        [NoFail, Hidden]
+[22:39:41] BCraftMG: !mp start 5 glhf
+[22:39:42] BanchoBot: Match starts in 5 seconds
+[22:39:42] BanchoBot: Queued the match to start in 5 seconds
+[22:39:43] BanchoBot: Match starts in 4 seconds
+[22:39:43] Thinhhhh: banger toi muc chay nha
+[22:39:44] BanchoBot: Match starts in 3 seconds
+[22:39:45] BanchoBot: Good luck, have fun!
+[22:39:47] BanchoBot: The match has started!
+[22:42:46] BanchoBot: Thinhhhh finished playing (Score: 141591, PASSED).
+[22:42:46] BanchoBot: The match has finished!
+[22:42:55] BCraftMG: !mp map 3622207
+[22:42:56] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3622207 Summoning the Lich - Predatory Reflection
+[22:42:56] BCraftMG: last one
+[22:43:12] BCraftMG: wootang han hanh tai tro chuong trinh nay
+[22:43:16] Thinhhhh: happy tay
+[22:43:26] Thinhhhh: uoc co wooting
+[22:43:29] BCraftMG: same
+[22:43:35] BanchoBot: All players are ready
+[22:43:39] BCraftMG: !mp settings
+[22:43:39] BanchoBot: Room name: 4WC24VN Tryout: Lobby X2, History: https://osu.ppy.sh/mp/113413912
+[22:43:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/3622207 Summoning the Lich - Predatory Reflection
+[22:43:39] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:43:39] BanchoBot: Active mods: Freemod
+[22:43:39] BanchoBot: Players: 1
+[22:43:39] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/16748549 Thinhhhh        [NoFail, Hidden]
+[22:43:50] BCraftMG: !mp settings
+[22:43:50] BanchoBot: Room name: 4WC24VN Tryout: Lobby X2, History: https://osu.ppy.sh/mp/113413912
+[22:43:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/3622207 Summoning the Lich - Predatory Reflection
+[22:43:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:43:50] BanchoBot: Active mods: Freemod
+[22:43:50] BanchoBot: Players: 1
+[22:43:50] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/16748549 Thinhhhh        [NoFail, Hidden]
+[22:44:00] BanchoBot: All players are ready
+[22:44:03] Thinhhhh: okay
+[22:44:05] BCraftMG: !mp settings
+[22:44:06] BanchoBot: Room name: 4WC24VN Tryout: Lobby X2, History: https://osu.ppy.sh/mp/113413912
+[22:44:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/3622207 Summoning the Lich - Predatory Reflection
+[22:44:06] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:44:06] BanchoBot: Active mods: Freemod
+[22:44:06] BanchoBot: Players: 1
+[22:44:06] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16748549 Thinhhhh        [NoFail, Hidden]
+[22:44:06] BCraftMG: !mp start 5 glhf
+[22:44:07] BanchoBot: Match starts in 5 seconds
+[22:44:07] BanchoBot: Queued the match to start in 5 seconds
+[22:44:08] BanchoBot: Match starts in 4 seconds
+[22:44:09] BanchoBot: Match starts in 3 seconds
+[22:44:11] BanchoBot: Good luck, have fun!
+[22:44:12] BanchoBot: The match has started!
+[22:47:34] BanchoBot: Thinhhhh finished playing (Score: 77419, PASSED).
+[22:47:34] BanchoBot: The match has finished!
+[22:47:39] BCraftMG: death
+[22:47:46] Thinhhhh: cai chit
+[22:47:55] BCraftMG: we done
+[22:47:56] BCraftMG: gn
+[22:48:01] Thinhhhh: yeee xong pool roi
+[22:48:04] Thinhhhh: duoc di ngu roi
+[22:48:06] Thinhhhh: bye anh
+[22:48:09] Thinhhhh: gn
+[22:48:11] BanchoBot: Thinhhhh left the game.
+[22:48:36] BCraftMG: !mp close
+[22:48:37] BanchoBot: Closed the match

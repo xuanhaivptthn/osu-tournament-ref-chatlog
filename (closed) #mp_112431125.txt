@@ -1,0 +1,927 @@
+[20:31:04] Joined #mp_112431125
+[20:31:04] BCraftMG: !mp settings
+[20:31:05] BanchoBot: Room name: 5WC24VN: (Week 2) vs (Match W2-EX8), History: https://osu.ppy.sh/mp/112431125
+[20:31:05] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[20:31:05] BanchoBot: Players: 0
+[20:31:24] BCraftMG: !mp map 4027752 0
+[20:31:24] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4027752 nao feat. isui - Ukigumo
+[20:31:24] BanchoBot: Changed match mode to Osu
+[20:31:25] BCraftMG: !mp mods 1
+[20:31:26] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:31:28] BCraftMG: !mp invite #9931217
+[20:31:29] BanchoBot: Invited - Fubukiii to the room
+[20:31:31] BCraftMG: !mp set 0 3 8
+[20:31:32] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[20:31:32] BCraftMG: !mp invite #13826244
+[20:31:33] BanchoBot: Invited aiyern to the room
+[20:31:34] BCraftMG: !mp invite #7662077
+[20:31:35] BanchoBot: Invited KazutoGGO to the room
+[20:31:35] BCraftMG: !mp invite #17292181
+[20:31:36] BanchoBot: Invited minhchau1_20 to the room
+[20:31:36] BCraftMG: !mp invite #9669947
+[20:31:37] BCraftMG: !mp invite #19891457
+[20:31:37] BanchoBot: Invited tomatohung to the room
+[20:31:39] BanchoBot: Invited VNMink to the room
+[20:31:46] BanchoBot: aiyern joined in slot 1.
+[20:31:53] aiyern: hello ref o/
+[20:32:05] BanchoBot: tomatohung joined in slot 2.
+[20:32:11] BanchoBot: VNMink joined in slot 3.
+[20:32:21] BanchoBot: - Fubukiii joined in slot 4.
+[20:32:44] BCraftMG: hola
+[20:32:56] -_Fubukiii: 2 ng kia đang multi
+[20:33:01] -_Fubukiii: đợi tí
+[20:33:03] -_Fubukiii: room đang cháy
+[20:33:07] -_Fubukiii: bcraft muốn vào vc ko
+[20:34:27] tomatohung: cho tui di warmup ti nha
+[20:34:28] BanchoBot: tomatohung left the game.
+[20:34:34] BanchoBot: minhchau1_20 joined in slot 2.
+[20:34:47] BCraftMG: banana
+[20:35:11] BanchoBot: KazutoGGO joined in slot 5.
+[20:35:14] -_Fubukiii: nay sẽ đánh rất trôn
+[20:35:16] -_Fubukiii: mong ae thông cảm
+[20:35:29] minhchau1_20: skibidi bidi
+[20:35:36] -_Fubukiii: bop bop
+[20:36:03] BCraftMG: !mp settings
+[20:36:05] BanchoBot: Room name: 5WC24VN: (Week 2) vs (Match W2-EX8), History: https://osu.ppy.sh/mp/112431125
+[20:36:05] BanchoBot: Beatmap: https://osu.ppy.sh/b/4027752 nao feat. isui - Ukigumo
+[20:36:05] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:36:05] BanchoBot: Active mods: NoFail
+[20:36:05] BanchoBot: Players: 5
+[20:36:05] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/13826244 aiyern          
+[20:36:05] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/17292181 minhchau1_20    
+[20:36:05] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/19891457 VNMink          
+[20:36:05] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/9931217 - Fubukiii      
+[20:36:05] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/7662077 KazutoGGO       
+[20:37:19] BanchoBot: - Fubukiii left the game.
+[20:37:23] BanchoBot: minhchau1_20 left the game.
+[20:37:34] BanchoBot: - Fubukiii joined in slot 2.
+[20:37:58] BanchoBot: tomatohung joined in slot 4.
+[20:37:59] BanchoBot: minhchau1_20 joined in slot 6.
+[20:38:06] BCraftMG: !mp settings
+[20:38:06] BCraftMG: !mp timer 120
+[20:38:08] BanchoBot: Room name: 5WC24VN: (Week 2) vs (Match W2-EX8), History: https://osu.ppy.sh/mp/112431125
+[20:38:08] BanchoBot: Beatmap: https://osu.ppy.sh/b/4027752 nao feat. isui - Ukigumo
+[20:38:08] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:38:08] BanchoBot: Active mods: NoFail
+[20:38:08] BanchoBot: Players: 6
+[20:38:08] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[20:38:08] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/9931217 - Fubukiii      
+[20:38:08] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/19891457 VNMink          
+[20:38:08] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/9669947 tomatohung      
+[20:38:08] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/7662077 KazutoGGO       
+[20:38:08] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/17292181 minhchau1_20    
+[20:38:08] BanchoBot: Countdown ends in 2 minutes
+[20:38:20] KazutoGGO: fubuki bị lag
+[20:38:20] KazutoGGO: pls
+[20:38:21] KazutoGGO: wait
+[20:38:28] BanchoBot: - Fubukiii left the game.
+[20:38:55] BanchoBot: - Fubukiii joined in slot 2.
+[20:39:10] BanchoBot: Countdown ends in 1 minute
+[20:39:19] BanchoBot: All players are ready
+[20:39:20] BCraftMG: !mp settings
+[20:39:20] BanchoBot: Room name: 5WC24VN: (Week 2) vs (Match W2-EX8), History: https://osu.ppy.sh/mp/112431125
+[20:39:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/4027752 nao feat. isui - Ukigumo
+[20:39:20] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:39:20] BanchoBot: Active mods: NoFail
+[20:39:20] BanchoBot: Players: 6
+[20:39:20] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[20:39:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9931217 - Fubukiii      
+[20:39:20] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/19891457 VNMink          
+[20:39:20] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9669947 tomatohung      
+[20:39:20] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       
+[20:39:20] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/17292181 minhchau1_20    
+[20:39:21] BCraftMG: !mp start 5 glhf
+[20:39:21] BanchoBot: Countdown aborted
+[20:39:22] BanchoBot: Match starts in 5 seconds
+[20:39:22] BanchoBot: Queued the match to start in 5 seconds
+[20:39:23] BanchoBot: Match starts in 4 seconds
+[20:39:24] BanchoBot: Match starts in 3 seconds
+[20:39:25] BanchoBot: Good luck, have fun!
+[20:39:27] BanchoBot: The match has started!
+[20:39:28] minhchau1_20: emu otori
+[20:43:53] BanchoBot: VNMink finished playing (Score: 243109, PASSED).
+[20:43:53] BanchoBot: tomatohung finished playing (Score: 746749, PASSED).
+[20:43:55] BanchoBot: KazutoGGO finished playing (Score: 464516, PASSED).
+[20:43:55] BanchoBot: minhchau1_20 finished playing (Score: 597654, PASSED).
+[20:43:57] BanchoBot: - Fubukiii finished playing (Score: 459306, PASSED).
+[20:44:01] BanchoBot: aiyern finished playing (Score: 388254, PASSED).
+[20:44:01] BanchoBot: The match has finished!
+[20:44:03] BCraftMG: !mp map 3046849 0
+[20:44:03] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3046849 Prim - Koisuru*Uchuu Sensou!!
+[20:44:03] BanchoBot: Changed match mode to Osu
+[20:44:06] tomatohung: mapper co thu` voi mouse player ha
+[20:44:08] BCraftMG: !mp timer 120
+[20:44:09] BanchoBot: Countdown ends in 2 minutes
+[20:44:14] KazutoGGO: 1 miss
+[20:44:16] KazutoGGO: alo
+[20:44:18] minhchau1_20: map ncct
+[20:44:18] KazutoGGO: map l
+[20:44:24] -_Fubukiii: cuu
+[20:44:27] -_Fubukiii: tay trai dang lanh
+[20:44:28] -_Fubukiii: ko an dc
+[20:44:40] tomatohung: nhanh gon di ae
+[20:44:40] minhchau1_20: de minh bat lovesmack
+[20:44:46] tomatohung: xong som ngu som
+[20:44:48] tomatohung: <3
+[20:44:56] -_Fubukiii: moi 20:45
+[20:44:58] -_Fubukiii: chill
+[20:45:06] BanchoBot: All players are ready
+[20:45:10] BanchoBot: Countdown ends in 1 minute
+[20:45:12] aiyern: glhf
+[20:45:14] BCraftMG: !mp settings
+[20:45:15] KazutoGGO: map nay toi di ngu
+[20:45:15] BanchoBot: Room name: 5WC24VN: (Week 2) vs (Match W2-EX8), History: https://osu.ppy.sh/mp/112431125
+[20:45:15] BanchoBot: Beatmap: https://osu.ppy.sh/b/3046849 Prim - Koisuru*Uchuu Sensou!!
+[20:45:15] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:45:15] BanchoBot: Active mods: NoFail
+[20:45:15] BanchoBot: Players: 6
+[20:45:15] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[20:45:15] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9931217 - Fubukiii      
+[20:45:15] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/19891457 VNMink          
+[20:45:15] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9669947 tomatohung      
+[20:45:15] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       
+[20:45:15] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/17292181 minhchau1_20    
+[20:45:16] BCraftMG: !mp start 5 glhf
+[20:45:16] minhchau1_20: vao luon di a b
+[20:45:16] BanchoBot: Countdown aborted
+[20:45:16] BanchoBot: Match starts in 5 seconds
+[20:45:16] BanchoBot: Queued the match to start in 5 seconds
+[20:45:18] BanchoBot: Match starts in 4 seconds
+[20:45:19] BanchoBot: Match starts in 3 seconds
+[20:45:20] BanchoBot: Good luck, have fun!
+[20:45:21] BanchoBot: The match has started!
+[20:47:34] BanchoBot: minhchau1_20 finished playing (Score: 357976, PASSED).
+[20:47:34] BanchoBot: VNMink finished playing (Score: 12035, PASSED).
+[20:47:36] BanchoBot: tomatohung finished playing (Score: 146163, PASSED).
+[20:47:36] BanchoBot: - Fubukiii finished playing (Score: 213769, PASSED).
+[20:47:36] BanchoBot: KazutoGGO finished playing (Score: 21503, PASSED).
+[20:47:36] BanchoBot: aiyern finished playing (Score: 39986, PASSED).
+[20:47:36] BanchoBot: The match has finished!
+[20:47:40] BCraftMG: !mp map 3851543 0
+[20:47:41] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3851543 ZAQ - Dance In The Game
+[20:47:41] BanchoBot: Changed match mode to Osu
+[20:47:43] BCraftMG: !mp timer 120
+[20:47:43] BanchoBot: Countdown ends in 2 minutes
+[20:47:47] KazutoGGO: 20k lego
+[20:47:49] minhchau1_20: run me tay
+[20:47:50] -_Fubukiii: tay lanh qua ae
+[20:48:19] BanchoBot: All players are ready
+[20:48:22] BCraftMG: !mp settings
+[20:48:23] BanchoBot: Room name: 5WC24VN: (Week 2) vs (Match W2-EX8), History: https://osu.ppy.sh/mp/112431125
+[20:48:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/3851543 ZAQ - Dance In The Game
+[20:48:23] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:48:23] BanchoBot: Active mods: NoFail
+[20:48:23] BanchoBot: Players: 6
+[20:48:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[20:48:23] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9931217 - Fubukiii      
+[20:48:23] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/19891457 VNMink          
+[20:48:23] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9669947 tomatohung      
+[20:48:23] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       
+[20:48:23] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/17292181 minhchau1_20    
+[20:48:24] BCraftMG: !mp start 5 glhf
+[20:48:26] BanchoBot: Countdown aborted
+[20:48:26] BanchoBot: Match starts in 5 seconds
+[20:48:26] BanchoBot: Queued the match to start in 5 seconds
+[20:48:27] BanchoBot: Match starts in 4 seconds
+[20:48:28] BanchoBot: Match starts in 3 seconds
+[20:48:30] BanchoBot: Good luck, have fun!
+[20:48:31] BanchoBot: The match has started!
+[20:52:03] BanchoBot: - Fubukiii finished playing (Score: 34425, PASSED).
+[20:52:04] BanchoBot: VNMink finished playing (Score: 34008, PASSED).
+[20:52:04] BanchoBot: minhchau1_20 finished playing (Score: 210489, PASSED).
+[20:52:04] BanchoBot: KazutoGGO finished playing (Score: 91495, PASSED).
+[20:52:05] BanchoBot: aiyern finished playing (Score: 83584, PASSED).
+[20:52:05] BanchoBot: tomatohung finished playing (Score: 369363, PASSED).
+[20:52:05] BanchoBot: The match has finished!
+[20:52:12] -_Fubukiii: cach de doc ae
+[20:52:20] tomatohung: tay mat cam giac r
+[20:52:20] tomatohung: !!
+[20:52:24] -_Fubukiii: quen cach doc roi
+[20:52:29] minhchau1_20: nguyen cai pool nm di ngu
+[20:52:35] BCraftMG: !mp map 3603353 0
+[20:52:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3603353 ETIA. - Kissing Lucifer
+[20:52:36] BanchoBot: Changed match mode to Osu
+[20:52:39] BCraftMG: !mp timer 120
+[20:52:40] BanchoBot: Countdown ends in 2 minutes
+[20:53:16] BanchoBot: All players are ready
+[20:53:22] minhchau1_20: lets goo
+[20:53:24] BCraftMG: !mp settings
+[20:53:25] BanchoBot: Room name: 5WC24VN: (Week 2) vs (Match W2-EX8), History: https://osu.ppy.sh/mp/112431125
+[20:53:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/3603353 ETIA. - Kissing Lucifer
+[20:53:25] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:53:25] BanchoBot: Active mods: NoFail
+[20:53:25] BanchoBot: Players: 6
+[20:53:25] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[20:53:25] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9931217 - Fubukiii      
+[20:53:25] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/19891457 VNMink          
+[20:53:25] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9669947 tomatohung      
+[20:53:25] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       
+[20:53:25] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/17292181 minhchau1_20    
+[20:53:26] BCraftMG: !mp start 5 glhf
+[20:53:27] BanchoBot: Countdown aborted
+[20:53:27] BanchoBot: Match starts in 5 seconds
+[20:53:27] BanchoBot: Queued the match to start in 5 seconds
+[20:53:28] BanchoBot: Match starts in 4 seconds
+[20:53:29] BanchoBot: Match starts in 3 seconds
+[20:53:31] BanchoBot: Good luck, have fun!
+[20:53:31] KazutoGGO: dung nghien minecraft nua
+[20:53:32] BanchoBot: The match has started!
+[20:53:32] KazutoGGO: bcraftmg
+[20:56:00] BanchoBot: minhchau1_20 finished playing (Score: 223209, PASSED).
+[20:56:00] BanchoBot: VNMink finished playing (Score: 102034, PASSED).
+[20:56:00] BanchoBot: aiyern finished playing (Score: 141529, PASSED).
+[20:56:02] BanchoBot: - Fubukiii finished playing (Score: 77913, PASSED).
+[20:56:02] BanchoBot: KazutoGGO finished playing (Score: 176038, PASSED).
+[20:56:04] BanchoBot: tomatohung finished playing (Score: 459884, PASSED).
+[20:56:04] BanchoBot: The match has finished!
+[20:56:06] BCraftMG: !mp map 3257370 0
+[20:56:07] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3257370 tsunamix_underground - Period. ~ Seishin no Kousoku to Jiyuu o Tsukamu Jouka (Cut Ver.)
+[20:56:07] BanchoBot: Changed match mode to Osu
+[20:56:12] tomatohung: t thay 3 map vua roi k khac j nhau
+[20:56:46] BanchoBot: All players are ready
+[20:56:48] BCraftMG: !mp settings
+[20:56:49] BanchoBot: Room name: 5WC24VN: (Week 2) vs (Match W2-EX8), History: https://osu.ppy.sh/mp/112431125
+[20:56:49] BanchoBot: Beatmap: https://osu.ppy.sh/b/3257370 tsunamix_underground - Period. ~ Seishin no Kousoku to Jiyuu o Tsukamu Jouka (Cut Ver.)
+[20:56:49] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:56:49] BanchoBot: Active mods: NoFail
+[20:56:49] BanchoBot: Players: 6
+[20:56:49] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[20:56:49] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9931217 - Fubukiii      
+[20:56:49] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/19891457 VNMink          
+[20:56:49] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9669947 tomatohung      
+[20:56:49] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       
+[20:56:49] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/17292181 minhchau1_20    
+[20:56:50] BCraftMG: !mp start 5 glhf
+[20:56:51] BanchoBot: Match starts in 5 seconds
+[20:56:51] BanchoBot: Queued the match to start in 5 seconds
+[20:56:52] BanchoBot: Match starts in 4 seconds
+[20:56:54] BanchoBot: Match starts in 3 seconds
+[20:56:55] BanchoBot: Good luck, have fun!
+[20:56:56] BanchoBot: The match has started!
+[20:58:48] BanchoBot: aiyern finished playing (Score: 254576, PASSED).
+[20:58:48] BanchoBot: - Fubukiii finished playing (Score: 197094, PASSED).
+[20:58:50] BanchoBot: KazutoGGO finished playing (Score: 116774, PASSED).
+[20:58:50] BanchoBot: minhchau1_20 finished playing (Score: 232191, PASSED).
+[20:58:50] BanchoBot: VNMink finished playing (Score: 86260, PASSED).
+[20:58:51] BanchoBot: tomatohung finished playing (Score: 548612, PASSED).
+[20:58:51] BanchoBot: The match has finished!
+[20:58:53] BCraftMG: !mp map 3846574 0
+[20:58:54] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3846574 Aitsuki Nakuru - Rest in Peace my Dear
+[20:58:54] BanchoBot: Changed match mode to Osu
+[20:58:58] BCraftMG: !mp mods 9
+[20:58:59] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[20:59:06] minhchau1_20: hom nay choi game
+[20:59:06] BCraftMG: !mp timer 120
+[20:59:07] BanchoBot: Countdown ends in 2 minutes
+[20:59:11] minhchau1_20: deo read duoc con me gi
+[20:59:12] minhchau1_20: qua buon
+[20:59:20] -_Fubukiii: chuc ae aim vui ve nhe
+[20:59:35] BCraftMG: map nay vui ma
+[20:59:39] BCraftMG: hd3 cung vui
+[20:59:43] BCraftMG: hd2 cung vui
+[20:59:45] -_Fubukiii: dm hd3
+[20:59:47] BanchoBot: All players are ready
+[20:59:47] minhchau1_20: map rat vui
+[20:59:48] BCraftMG: !mp settings
+[20:59:50] -_Fubukiii: hd2 thi hen xui
+[20:59:50] aiyern: dm game
+[20:59:50] BanchoBot: Room name: 5WC24VN: (Week 2) vs (Match W2-EX8), History: https://osu.ppy.sh/mp/112431125
+[20:59:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/3846574 Aitsuki Nakuru - Rest in Peace my Dear
+[20:59:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:59:50] BanchoBot: Active mods: NoFail, Hidden
+[20:59:50] BanchoBot: Players: 6
+[20:59:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[20:59:50] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9931217 - Fubukiii      
+[20:59:50] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/19891457 VNMink          
+[20:59:50] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9669947 tomatohung      
+[20:59:50] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       
+[20:59:50] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/17292181 minhchau1_20    
+[20:59:50] BCraftMG: !mp start 5 glhf
+[20:59:51] BanchoBot: Countdown aborted
+[20:59:51] BanchoBot: Match starts in 5 seconds
+[20:59:51] BanchoBot: Queued the match to start in 5 seconds
+[20:59:52] BanchoBot: Match starts in 4 seconds
+[20:59:53] BanchoBot: Match starts in 3 seconds
+[20:59:55] -_Fubukiii: dung
+[20:59:55] BanchoBot: Good luck, have fun!
+[20:59:55] -_Fubukiii: dm game
+[20:59:56] BanchoBot: The match has started!
+[21:04:23] BanchoBot: KazutoGGO finished playing (Score: 224582, PASSED).
+[21:04:24] BanchoBot: - Fubukiii finished playing (Score: 242422, PASSED).
+[21:04:24] BanchoBot: aiyern finished playing (Score: 179385, PASSED).
+[21:04:24] BanchoBot: VNMink finished playing (Score: 199643, PASSED).
+[21:04:24] BanchoBot: tomatohung finished playing (Score: 346070, PASSED).
+[21:04:24] BanchoBot: minhchau1_20 finished playing (Score: 355942, PASSED).
+[21:04:24] BanchoBot: The match has finished!
+[21:04:28] BCraftMG: !mp map 3994398 0
+[21:04:28] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3994398 Ryu* - Mind Mapping (kors k mix)
+[21:04:28] BanchoBot: Changed match mode to Osu
+[21:04:34] BCraftMG: !mp timer 120
+[21:04:35] BanchoBot: Countdown ends in 2 minutes
+[21:04:44] KazutoGGO: di ngu tohi
+[21:04:50] -_Fubukiii: ngu nao ae
+[21:04:50] -_Fubukiii: zzzzzzz
+[21:05:25] BanchoBot: All players are ready
+[21:05:28] BCraftMG: !mp settings
+[21:05:30] BanchoBot: Room name: 5WC24VN: (Week 2) vs (Match W2-EX8), History: https://osu.ppy.sh/mp/112431125
+[21:05:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/3994398 Ryu* - Mind Mapping (kors k mix)
+[21:05:30] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:05:30] BanchoBot: Active mods: NoFail, Hidden
+[21:05:30] BanchoBot: Players: 6
+[21:05:30] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:05:30] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9931217 - Fubukiii      
+[21:05:30] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/19891457 VNMink          
+[21:05:30] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9669947 tomatohung      
+[21:05:30] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       
+[21:05:30] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/17292181 minhchau1_20    
+[21:05:31] BCraftMG: !mp start 5 glhf
+[21:05:31] BanchoBot: Countdown aborted
+[21:05:31] BanchoBot: Match starts in 5 seconds
+[21:05:31] BanchoBot: Queued the match to start in 5 seconds
+[21:05:32] BanchoBot: Match starts in 4 seconds
+[21:05:33] BanchoBot: Match starts in 3 seconds
+[21:05:35] BanchoBot: Good luck, have fun!
+[21:05:35] aiyern: glhf
+[21:05:36] BanchoBot: The match has started!
+[21:07:25] BanchoBot: tomatohung finished playing (Score: 344235, PASSED).
+[21:07:26] BanchoBot: - Fubukiii finished playing (Score: 715487, PASSED).
+[21:07:26] BanchoBot: KazutoGGO finished playing (Score: 11141, PASSED).
+[21:07:26] BanchoBot: aiyern finished playing (Score: 292466, PASSED).
+[21:07:26] BanchoBot: VNMink finished playing (Score: 55413, PASSED).
+[21:07:26] BanchoBot: minhchau1_20 finished playing (Score: 63695, PASSED).
+[21:07:26] BanchoBot: The match has finished!
+[21:07:28] BCraftMG: !mp map 1959449 0
+[21:07:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1959449 PSYQUI feat.Such - Sentimental heart boy
+[21:07:29] BanchoBot: Changed match mode to Osu
+[21:07:32] BCraftMG: !mp timer 120
+[21:07:33] BanchoBot: Countdown ends in 2 minutes
+[21:07:41] -_Fubukiii: ml]
+[21:07:42] -_Fubukiii: fkasjdhfkawejsfh['
+[21:07:55] BCraftMG: tôi yêu hd3
+[21:08:06] -_Fubukiii: dm hd2
+[21:08:06] minhchau1_20: toi yeu em
+[21:08:14] -_Fubukiii: gei?
+[21:08:16] aiyern: pool nhu be boi
+[21:08:18] -_Fubukiii: :fingerpoint:
+[21:08:21] aiyern: vua choi vua vung vay
+[21:08:21] BanchoBot: All players are ready
+[21:08:22] BanchoBot: All players are ready
+[21:08:30] minhchau1_20: vua choi vua suc
+[21:08:32] minhchau1_20: mieng
+[21:08:33] BanchoBot: Countdown ends in 1 minute
+[21:08:34] BCraftMG: !mp settings
+[21:08:35] BanchoBot: Room name: 5WC24VN: (Week 2) vs (Match W2-EX8), History: https://osu.ppy.sh/mp/112431125
+[21:08:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/1959449 PSYQUI feat.Such - Sentimental heart boy
+[21:08:35] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:08:35] BanchoBot: Active mods: NoFail, Hidden
+[21:08:35] BanchoBot: Players: 6
+[21:08:35] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:08:35] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9931217 - Fubukiii      
+[21:08:35] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/19891457 VNMink          
+[21:08:35] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9669947 tomatohung      
+[21:08:35] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       
+[21:08:35] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/17292181 minhchau1_20    
+[21:08:36] BCraftMG: !mp start 5 glhf
+[21:08:37] BanchoBot: Countdown aborted
+[21:08:37] BanchoBot: Match starts in 5 seconds
+[21:08:37] BanchoBot: Queued the match to start in 5 seconds
+[21:08:38] BanchoBot: Match starts in 4 seconds
+[21:08:40] BanchoBot: Match starts in 3 seconds
+[21:08:40] tomatohung: uoc
+[21:08:40] aiyern: glhf
+[21:08:41] BanchoBot: Good luck, have fun!
+[21:08:42] BanchoBot: The match has started!
+[21:08:42] -_Fubukiii: zzz
+[21:12:16] BanchoBot: aiyern finished playing (Score: 235606, PASSED).
+[21:12:16] BanchoBot: VNMink finished playing (Score: 138899, PASSED).
+[21:12:16] BanchoBot: KazutoGGO finished playing (Score: 207347, PASSED).
+[21:12:17] BanchoBot: minhchau1_20 finished playing (Score: 254729, PASSED).
+[21:12:17] BanchoBot: - Fubukiii finished playing (Score: 235405, PASSED).
+[21:12:19] BanchoBot: tomatohung finished playing (Score: 465655, PASSED).
+[21:12:19] BanchoBot: The match has finished!
+[21:12:22] BCraftMG: !mp map 4055034 0
+[21:12:23] tomatohung: ai da noi hd3 vui
+[21:12:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4055034 Kanon Oguni feat. timao - Tsumugiboshi
+[21:12:23] BanchoBot: Changed match mode to Osu
+[21:12:30] BCraftMG: !mp mods 17
+[21:12:30] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[21:12:31] BCraftMG: !mp timer 120
+[21:12:32] aiyern: the hd3 test gi the
+[21:12:32] BanchoBot: Countdown ends in 2 minutes
+[21:12:33] minhchau1_20: la bi raf
+[21:12:41] minhchau1_20: hd3 test flow
+[21:13:17] aiyern: flow ngu
+[21:13:20] BanchoBot: All players are ready
+[21:13:24] tomatohung: +1
+[21:13:24] BCraftMG: !mp settings
+[21:13:25] BanchoBot: Room name: 5WC24VN: (Week 2) vs (Match W2-EX8), History: https://osu.ppy.sh/mp/112431125
+[21:13:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/4055034 Kanon Oguni feat. timao - Tsumugiboshi
+[21:13:25] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:13:25] BanchoBot: Active mods: NoFail, HardRock
+[21:13:25] BanchoBot: Players: 6
+[21:13:25] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:13:25] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9931217 - Fubukiii      
+[21:13:25] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/19891457 VNMink          
+[21:13:25] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9669947 tomatohung      
+[21:13:25] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       
+[21:13:25] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/17292181 minhchau1_20    
+[21:13:26] BCraftMG: !mp start 5 glhf
+[21:13:28] minhchau1_20: i hate every mods
+[21:13:28] -_Fubukiii: +1
+[21:13:28] BanchoBot: Countdown aborted
+[21:13:28] BanchoBot: Match starts in 5 seconds
+[21:13:28] BanchoBot: Queued the match to start in 5 seconds
+[21:13:29] BanchoBot: Match starts in 4 seconds
+[21:13:30] BanchoBot: Match starts in 3 seconds
+[21:13:31] BanchoBot: Good luck, have fun!
+[21:13:33] BanchoBot: The match has started!
+[21:16:22] BanchoBot: VNMink finished playing (Score: 119435, PASSED).
+[21:16:22] BanchoBot: aiyern finished playing (Score: 235068, PASSED).
+[21:16:23] BanchoBot: tomatohung finished playing (Score: 474825, PASSED).
+[21:16:23] BanchoBot: KazutoGGO finished playing (Score: 405939, PASSED).
+[21:16:26] BanchoBot: minhchau1_20 finished playing (Score: 978669, PASSED).
+[21:16:26] BanchoBot: - Fubukiii finished playing (Score: 364593, PASSED).
+[21:16:26] BanchoBot: The match has finished!
+[21:16:32] BCraftMG: !mp map 2108442 0
+[21:16:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2108442 Chitose Kudou - CHO-DARI-
+[21:16:33] BanchoBot: Changed match mode to Osu
+[21:16:34] BCraftMG: !mp timer 120
+[21:16:35] BanchoBot: Countdown ends in 2 minutes
+[21:16:43] -_Fubukiii: nice fc bro
+[21:16:49] minhchau1_20: 2 miss
+[21:16:51] minhchau1_20: tf
+[21:16:52] minhchau1_20: =))
+[21:17:04] -_Fubukiii: oh i forgor
+[21:17:05] -_Fubukiii: "fc"
+[21:17:27] tomatohung: cho cho cho cho dari
+[21:17:36] BanchoBot: Countdown ends in 1 minute
+[21:17:44] BanchoBot: All players are ready
+[21:17:48] BCraftMG: !mp settings
+[21:17:50] minhchau1_20: i hate hr2
+[21:17:50] BanchoBot: Room name: 5WC24VN: (Week 2) vs (Match W2-EX8), History: https://osu.ppy.sh/mp/112431125
+[21:17:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/2108442 Chitose Kudou - CHO-DARI-
+[21:17:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:17:50] BanchoBot: Active mods: NoFail, HardRock
+[21:17:50] BanchoBot: Players: 6
+[21:17:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:17:50] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9931217 - Fubukiii      
+[21:17:50] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/19891457 VNMink          
+[21:17:50] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9669947 tomatohung      
+[21:17:50] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       
+[21:17:50] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/17292181 minhchau1_20    
+[21:17:50] BCraftMG: !mp start 5 glhf
+[21:17:51] BanchoBot: Countdown aborted
+[21:17:51] BanchoBot: Match starts in 5 seconds
+[21:17:51] BanchoBot: Queued the match to start in 5 seconds
+[21:17:52] BanchoBot: Match starts in 4 seconds
+[21:17:53] BanchoBot: Match starts in 3 seconds
+[21:17:55] BanchoBot: Good luck, have fun!
+[21:17:56] BanchoBot: The match has started!
+[21:20:48] BanchoBot: KazutoGGO finished playing (Score: 225549, PASSED).
+[21:20:48] BanchoBot: aiyern finished playing (Score: 199782, PASSED).
+[21:20:48] BanchoBot: minhchau1_20 finished playing (Score: 470454, PASSED).
+[21:20:49] BanchoBot: - Fubukiii finished playing (Score: 249170, PASSED).
+[21:20:49] BanchoBot: VNMink finished playing (Score: 62460, PASSED).
+[21:20:49] BanchoBot: tomatohung finished playing (Score: 289669, PASSED).
+[21:20:49] BanchoBot: The match has finished!
+[21:20:53] BCraftMG: !mp map 3866198 0
+[21:20:54] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3866198 KARUT - Goal wo Nerae!
+[21:20:54] BanchoBot: Changed match mode to Osu
+[21:20:56] BCraftMG: !mp timer 120
+[21:20:57] BanchoBot: Countdown ends in 2 minutes
+[21:21:20] -_Fubukiii: map nay ngu ae
+[21:21:42] -_Fubukiii: a dau
+[21:21:45] -_Fubukiii: map nay
+[21:21:53] -_Fubukiii: ngam 2 qua dao to bu
+[21:21:53] tomatohung: nay h chua co map nao thong minh het
+[21:21:53] minhchau1_20: map nay ngu that
+[21:21:57] BanchoBot: Countdown ends in 1 minute
+[21:22:03] BanchoBot: All players are ready
+[21:22:04] BCraftMG: !mp settings
+[21:22:04] BanchoBot: All players are ready
+[21:22:06] BanchoBot: Room name: 5WC24VN: (Week 2) vs (Match W2-EX8), History: https://osu.ppy.sh/mp/112431125
+[21:22:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/3866198 KARUT - Goal wo Nerae!
+[21:22:06] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:22:06] BanchoBot: Active mods: NoFail, HardRock
+[21:22:06] BanchoBot: Players: 6
+[21:22:06] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:22:06] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9931217 - Fubukiii      
+[21:22:06] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/19891457 VNMink          
+[21:22:06] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9669947 tomatohung      
+[21:22:06] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       
+[21:22:06] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/17292181 minhchau1_20    
+[21:22:07] minhchau1_20: hay doi den khi a danh dt2
+[21:22:07] BCraftMG: !mp start 5 glhf
+[21:22:08] -_Fubukiii: map này ko phải để chơi
+[21:22:08] minhchau1_20: =))))))
+[21:22:08] BanchoBot: Countdown aborted
+[21:22:08] BanchoBot: Match starts in 5 seconds
+[21:22:08] BanchoBot: Queued the match to start in 5 seconds
+[21:22:09] BanchoBot: Match starts in 4 seconds
+[21:22:11] BanchoBot: Match starts in 3 seconds
+[21:22:11] -_Fubukiii: mà là để ngắm
+[21:22:12] BanchoBot: Good luck, have fun!
+[21:22:13] BanchoBot: The match has started!
+[21:22:15] KazutoGGO: bulul archive
+[21:24:30] BanchoBot: tomatohung finished playing (Score: 231926, PASSED).
+[21:24:32] BanchoBot: minhchau1_20 finished playing (Score: 234884, PASSED).
+[21:24:32] BanchoBot: VNMink finished playing (Score: 26347, PASSED).
+[21:24:34] BanchoBot: - Fubukiii finished playing (Score: 52573, PASSED).
+[21:24:36] BanchoBot: KazutoGGO finished playing (Score: 129721, PASSED).
+[21:24:36] BanchoBot: aiyern finished playing (Score: 120982, PASSED).
+[21:24:36] BanchoBot: The match has finished!
+[21:24:42] tomatohung: toi yeu stream
+[21:24:46] BCraftMG: !mp map 932612 0
+[21:24:46] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/932612 Goose house - Hikaru nara
+[21:24:46] BanchoBot: Changed match mode to Osu
+[21:24:48] BCraftMG: !mp mods 65
+[21:24:49] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:24:50] BCraftMG: !mp timer 120
+[21:24:52] BanchoBot: Countdown ends in 2 minutes
+[21:25:02] aiyern: ar10.3 aaaaaa
+[21:25:05] -_Fubukiii: oke ae aim vui ve
+[21:25:09] -_Fubukiii: ko biet choi dt
+[21:25:17] minhchau1_20: minh ga`dt
+[21:25:25] aiyern: wtf
+[21:25:33] tomatohung: cai chet
+[21:25:44] minhchau1_20: ca lobby di ngu
+[21:25:52] minhchau1_20: !roll 1000
+[21:25:52] BanchoBot: minhchau1_20 rolls 426 point(s)
+[21:25:52] BanchoBot: Countdown ends in 1 minute
+[21:25:59] BanchoBot: All players are ready
+[21:26:04] BCraftMG: !mp settings
+[21:26:06] BanchoBot: Room name: 5WC24VN: (Week 2) vs (Match W2-EX8), History: https://osu.ppy.sh/mp/112431125
+[21:26:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/932612 Goose house - Hikaru nara
+[21:26:06] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:26:06] BanchoBot: Active mods: NoFail, DoubleTime
+[21:26:06] BanchoBot: Players: 6
+[21:26:06] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:26:06] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9931217 - Fubukiii      
+[21:26:06] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/19891457 VNMink          
+[21:26:06] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9669947 tomatohung      
+[21:26:06] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       
+[21:26:06] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/17292181 minhchau1_20    
+[21:26:06] BCraftMG: !mp start 5 glhf
+[21:26:08] aiyern: glhf
+[21:26:08] BanchoBot: Countdown aborted
+[21:26:08] BanchoBot: Match starts in 5 seconds
+[21:26:08] BanchoBot: Queued the match to start in 5 seconds
+[21:26:09] -_Fubukiii: !roll chance to pass
+[21:26:09] BanchoBot: - Fubukiii rolls 33 point(s)
+[21:26:09] BanchoBot: Match starts in 4 seconds
+[21:26:11] BanchoBot: Match starts in 3 seconds
+[21:26:12] BanchoBot: Good luck, have fun!
+[21:26:13] BanchoBot: The match has started!
+[21:29:11] BanchoBot: KazutoGGO finished playing (Score: 341618, PASSED).
+[21:29:13] BanchoBot: aiyern finished playing (Score: 66123, PASSED).
+[21:29:13] BanchoBot: tomatohung finished playing (Score: 282610, PASSED).
+[21:29:13] BanchoBot: VNMink finished playing (Score: 25442, PASSED).
+[21:29:13] BanchoBot: minhchau1_20 finished playing (Score: 1123718, PASSED).
+[21:29:13] BanchoBot: - Fubukiii finished playing (Score: 150384, PASSED).
+[21:29:13] BanchoBot: The match has finished!
+[21:29:20] BCraftMG: !mp map 4092130 0
+[21:29:22] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4092130 James Landino - Arsene's Bazaar
+[21:29:22] BanchoBot: Changed match mode to Osu
+[21:29:22] BCraftMG: !mp timer 120
+[21:29:23] BanchoBot: Countdown ends in 2 minutes
+[21:29:24] -_Fubukiii: uoc biet choi dt
+[21:29:34] minhchau1_20: uoc
+[21:29:51] tomatohung: o map hay ne
+[21:29:52] KazutoGGO: sdsc
+[21:29:57] minhchau1_20: sdsc moment
+[21:30:03] -_Fubukiii: minh ko tap map nay ae
+[21:30:23] BanchoBot: Countdown ends in 1 minute
+[21:30:53] BanchoBot: Countdown ends in 30 seconds
+[21:31:01] BanchoBot: All players are ready
+[21:31:03] BCraftMG: !mp settings
+[21:31:04] BanchoBot: Room name: 5WC24VN: (Week 2) vs (Match W2-EX8), History: https://osu.ppy.sh/mp/112431125
+[21:31:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/4092130 James Landino - Arsene's Bazaar
+[21:31:04] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:31:04] BanchoBot: Active mods: NoFail, DoubleTime
+[21:31:04] BanchoBot: Players: 6
+[21:31:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:31:04] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9931217 - Fubukiii      
+[21:31:04] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/19891457 VNMink          
+[21:31:04] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9669947 tomatohung      
+[21:31:04] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       
+[21:31:04] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/17292181 minhchau1_20    
+[21:31:05] BCraftMG: !mp start 5 glhf
+[21:31:05] BanchoBot: Countdown aborted
+[21:31:05] BanchoBot: Match starts in 5 seconds
+[21:31:05] BanchoBot: Queued the match to start in 5 seconds
+[21:31:07] BanchoBot: Match starts in 4 seconds
+[21:31:08] BanchoBot: Match starts in 3 seconds
+[21:31:09] BanchoBot: Good luck, have fun!
+[21:31:09] aiyern: glhf
+[21:31:11] BanchoBot: The match has started!
+[21:33:01] BanchoBot: - Fubukiii finished playing (Score: 227539, PASSED).
+[21:33:03] BanchoBot: aiyern finished playing (Score: 144405, PASSED).
+[21:33:03] BanchoBot: tomatohung finished playing (Score: 1048098, PASSED).
+[21:33:04] BanchoBot: VNMink finished playing (Score: 36351, PASSED).
+[21:33:04] BanchoBot: minhchau1_20 finished playing (Score: 1053897, PASSED).
+[21:33:04] BanchoBot: KazutoGGO finished playing (Score: 186882, PASSED).
+[21:33:04] BanchoBot: The match has finished!
+[21:33:13] BCraftMG: !mp map 2277128 0
+[21:33:13] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2277128 Kola Kid - timer
+[21:33:13] BanchoBot: Changed match mode to Osu
+[21:33:15] BCraftMG: !mp timer 120
+[21:33:16] BanchoBot: Countdown ends in 2 minutes
+[21:33:31] aiyern: the medal map wow
+[21:33:49] tomatohung: so good
+[21:33:55] -_Fubukiii: uoc biet choi dt
+[21:33:57] -_Fubukiii: buon qua ae
+[21:33:59] minhchau1_20: cant play dt
+[21:34:02] tomatohung: chill ass music
+[21:34:02] minhchau1_20: im suck
+[21:34:03] aiyern: uoc biet choi game
+[21:34:07] BanchoBot: All players are ready
+[21:34:10] BCraftMG: !mp settings
+[21:34:12] BanchoBot: Room name: 5WC24VN: (Week 2) vs (Match W2-EX8), History: https://osu.ppy.sh/mp/112431125
+[21:34:12] BanchoBot: Beatmap: https://osu.ppy.sh/b/2277128 Kola Kid - timer
+[21:34:12] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:34:12] BanchoBot: Active mods: NoFail, DoubleTime
+[21:34:12] BanchoBot: Players: 6
+[21:34:12] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:34:12] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9931217 - Fubukiii      
+[21:34:12] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/19891457 VNMink          
+[21:34:12] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9669947 tomatohung      
+[21:34:12] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       
+[21:34:12] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/17292181 minhchau1_20    
+[21:34:12] BCraftMG: !mp start 5 glhf
+[21:34:13] BanchoBot: Countdown aborted
+[21:34:13] BanchoBot: Match starts in 5 seconds
+[21:34:13] BanchoBot: Queued the match to start in 5 seconds
+[21:34:14] BanchoBot: Match starts in 4 seconds
+[21:34:15] BanchoBot: Match starts in 3 seconds
+[21:34:17] BanchoBot: Good luck, have fun!
+[21:34:17] aiyern: ghlf
+[21:34:18] BanchoBot: The match has started!
+[21:35:56] BanchoBot: KazutoGGO finished playing (Score: 157155, PASSED).
+[21:35:58] BanchoBot: VNMink finished playing (Score: 59375, PASSED).
+[21:35:58] BanchoBot: minhchau1_20 finished playing (Score: 897028, PASSED).
+[21:35:59] BanchoBot: tomatohung finished playing (Score: 372715, PASSED).
+[21:35:59] BanchoBot: - Fubukiii finished playing (Score: 71544, PASSED).
+[21:35:59] BanchoBot: aiyern finished playing (Score: 158022, PASSED).
+[21:35:59] BanchoBot: The match has finished!
+[21:36:06] BCraftMG: !mp map 2680273 0
+[21:36:07] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2680273 Nekomata Master - dahaca
+[21:36:07] BanchoBot: Changed match mode to Osu
+[21:36:10] aiyern: sao pool nay de hon pool w1
+[21:36:15] BCraftMG: !mp timer 120
+[21:36:17] minhchau1_20: idk
+[21:36:17] BanchoBot: Countdown ends in 2 minutes
+[21:36:25] -_Fubukiii: dunno
+[21:36:25] minhchau1_20: hoaq tron =)))
+[21:36:29] aiyern: dm taisao
+[21:36:51] tomatohung: toi yeu pool dt
+[21:36:58] minhchau1_20: i hate this map
+[21:37:18] BanchoBot: Countdown ends in 1 minute
+[21:37:22] minhchau1_20: 200k incoming
+[21:37:40] aiyern: dm toi chua co score nao tren 200k
+[21:37:41] BanchoBot: All players are ready
+[21:37:44] BCraftMG: !mp settings
+[21:37:46] BanchoBot: Room name: 5WC24VN: (Week 2) vs (Match W2-EX8), History: https://osu.ppy.sh/mp/112431125
+[21:37:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/2680273 Nekomata Master - dahaca
+[21:37:46] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:37:46] BanchoBot: Active mods: NoFail, DoubleTime
+[21:37:46] BanchoBot: Players: 6
+[21:37:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:37:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9931217 - Fubukiii      
+[21:37:46] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/19891457 VNMink          
+[21:37:46] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9669947 tomatohung      
+[21:37:46] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       
+[21:37:46] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/17292181 minhchau1_20    
+[21:37:47] BCraftMG: !mp start 5 glhf
+[21:37:48] BanchoBot: Countdown ends in 30 seconds
+[21:37:48] -_Fubukiii: yen tam
+[21:37:48] BanchoBot: Countdown aborted
+[21:37:48] BanchoBot: Match starts in 5 seconds
+[21:37:48] BanchoBot: Queued the match to start in 5 seconds
+[21:37:49] BanchoBot: Match starts in 4 seconds
+[21:37:51] BanchoBot: Match starts in 3 seconds
+[21:37:51] tomatohung: co len
+[21:37:52] BanchoBot: Good luck, have fun!
+[21:37:52] -_Fubukiii: toi chi co vai score tren 200k
+[21:37:53] minhchau1_20: glgl
+[21:37:53] BanchoBot: The match has started!
+[21:37:55] aiyern: ghlf
+[21:41:13] BanchoBot: KazutoGGO finished playing (Score: 112514, PASSED).
+[21:41:13] BanchoBot: - Fubukiii finished playing (Score: 53288, PASSED).
+[21:41:13] BanchoBot: minhchau1_20 finished playing (Score: 381516, PASSED).
+[21:41:14] BanchoBot: tomatohung finished playing (Score: 281004, PASSED).
+[21:41:14] BanchoBot: aiyern finished playing (Score: 71780, PASSED).
+[21:41:14] BanchoBot: VNMink finished playing (Score: 11683, PASSED).
+[21:41:14] BanchoBot: The match has finished!
+[21:41:24] tomatohung: minhchau:
+[21:41:31] minhchau1_20: cant
+[21:41:33] BCraftMG: !mp map 4072248 0
+[21:41:34] minhchau1_20: play
+[21:41:34] minhchau1_20: dt
+[21:41:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4072248 Round Wave Crusher & Lolistyle Gabbers - Tease (Tokyo 2020 Edit)
+[21:41:34] BanchoBot: Changed match mode to Osu
+[21:41:43] BCraftMG: !mp mods Freemod
+[21:41:43] BanchoBot: Disabled all mods, enabled FreeMod
+[21:41:44] BCraftMG: !mp timer 120
+[21:41:46] -_Fubukiii: ai pick map nay day
+[21:41:46] BanchoBot: Countdown ends in 2 minutes
+[21:41:50] -_Fubukiii: ko tap trung dc
+[21:42:16] BanchoBot: All players are ready
+[21:42:27] tomatohung: aids
+[21:42:34] BCraftMG: !mp settings
+[21:42:36] BanchoBot: Room name: 5WC24VN: (Week 2) vs (Match W2-EX8), History: https://osu.ppy.sh/mp/112431125
+[21:42:36] BanchoBot: Beatmap: https://osu.ppy.sh/b/4072248 Round Wave Crusher & Lolistyle Gabbers - Tease (Tokyo 2020 Edit)
+[21:42:36] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:42:36] BanchoBot: Active mods: Freemod
+[21:42:36] BanchoBot: Players: 6
+[21:42:36] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          [NoFail, Hidden]
+[21:42:36] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9931217 - Fubukiii      [NoFail, Hidden]
+[21:42:36] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/19891457 VNMink          [NoFail, Hidden]
+[21:42:36] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9669947 tomatohung      [NoFail, HardRock]
+[21:42:36] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       [NoFail, HardRock]
+[21:42:36] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/17292181 minhchau1_20    [NoFail, HardRock]
+[21:42:37] minhchau1_20: i need morebulets
+[21:42:40] BCraftMG: !mp start 5 glhf
+[21:42:41] BanchoBot: Countdown aborted
+[21:42:41] BanchoBot: Match starts in 5 seconds
+[21:42:41] BanchoBot: Queued the match to start in 5 seconds
+[21:42:42] -_Fubukiii: boolet
+[21:42:42] BanchoBot: Match starts in 4 seconds
+[21:42:44] BanchoBot: Match starts in 3 seconds
+[21:42:45] BanchoBot: Good luck, have fun!
+[21:42:46] -_Fubukiii: boom boom boom
+[21:42:46] BanchoBot: The match has started!
+[21:46:25] BanchoBot: tomatohung finished playing (Score: 331903, PASSED).
+[21:46:25] BanchoBot: VNMink finished playing (Score: 32998, PASSED).
+[21:46:25] BanchoBot: - Fubukiii finished playing (Score: 285749, PASSED).
+[21:46:26] BanchoBot: KazutoGGO finished playing (Score: 140974, PASSED).
+[21:46:26] BanchoBot: minhchau1_20 finished playing (Score: 333463, PASSED).
+[21:46:29] BanchoBot: aiyern finished playing (Score: 86448, PASSED).
+[21:46:29] BanchoBot: The match has finished!
+[21:46:33] BCraftMG: !mp map 3093891 0
+[21:46:34] tomatohung: this goes hard on mute
+[21:46:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3093891 Kurosa-P - Senbonzakura
+[21:46:34] BanchoBot: Changed match mode to Osu
+[21:46:40] BCraftMG: !mp timer 120
+[21:46:41] BanchoBot: Countdown ends in 2 minutes
+[21:46:48] minhchau1_20: me when hr flow
+[21:46:55] minhchau1_20: :dedge::
+[21:46:56] -_Fubukiii: it's time
+[21:46:58] tomatohung: AI DA DAT CAI STACK SLIDER DO
+[21:47:00] tomatohung: XUNG DANG BI TU HINH
+[21:47:02] -_Fubukiii: tới lúc trôn rồi ae
+[21:47:10] aiyern: that looks fun on no mod
+[21:47:27] minhchau1_20: stack rat tron
+[21:47:34] minhchau1_20: the gioi chia lam 3 loai nguoi
+[21:47:36] -_Fubukiii: the gioi chia lam 2 loai nguoi
+[21:47:38] -_Fubukiii: bay h
+[21:47:40] BanchoBot: All players are ready
+[21:47:41] -_Fubukiii: no thanh 4 roi
+[21:47:41] BanchoBot: Countdown ends in 1 minute
+[21:47:52] BCraftMG: !mp settings
+[21:47:54] BanchoBot: Room name: 5WC24VN: (Week 2) vs (Match W2-EX8), History: https://osu.ppy.sh/mp/112431125
+[21:47:54] BanchoBot: Beatmap: https://osu.ppy.sh/b/3093891 Kurosa-P - Senbonzakura
+[21:47:54] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:47:54] BanchoBot: Active mods: Freemod
+[21:47:54] BanchoBot: Players: 6
+[21:47:54] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          [NoFail, Easy]
+[21:47:54] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9931217 - Fubukiii      [NoFail, Easy, Hidden]
+[21:47:54] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/19891457 VNMink          [NoFail, Hidden]
+[21:47:54] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9669947 tomatohung      [NoFail, Hidden]
+[21:47:54] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       [NoFail, HardRock]
+[21:47:54] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/17292181 minhchau1_20    [NoFail, HardRock]
+[21:47:57] BCraftMG: !mp start 5 glhf
+[21:47:58] BanchoBot: Countdown aborted
+[21:47:58] BanchoBot: Match starts in 5 seconds
+[21:47:58] BanchoBot: Queued the match to start in 5 seconds
+[21:47:59] BanchoBot: Match starts in 4 seconds
+[21:48:00] BanchoBot: Match starts in 3 seconds
+[21:48:00] -_Fubukiii: based ez
+[21:48:02] BanchoBot: Good luck, have fun!
+[21:48:02] aiyern: ghlf
+[21:48:03] BanchoBot: The match has started!
+[21:51:10] BanchoBot: KazutoGGO finished playing (Score: 104968, PASSED).
+[21:51:11] BanchoBot: VNMink finished playing (Score: 26164, PASSED).
+[21:51:11] BanchoBot: tomatohung finished playing (Score: 171733, PASSED).
+[21:51:11] BanchoBot: - Fubukiii finished playing (Score: 81878, PASSED).
+[21:51:11] BanchoBot: aiyern finished playing (Score: 80669, PASSED).
+[21:51:13] BanchoBot: minhchau1_20 finished playing (Score: 419021, PASSED).
+[21:51:13] BanchoBot: The match has finished!
+[21:51:17] BCraftMG: !mp map 3117956 0
+[21:51:18] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3117956 katagiri - Naopura2000 -Daybreak-
+[21:51:18] BanchoBot: Changed match mode to Osu
+[21:51:19] BCraftMG: !mp timer 120
+[21:51:20] BanchoBot: Countdown ends in 2 minutes
+[21:51:24] tomatohung: hd dung la sai lam cua tao hoa
+[21:51:25] tomatohung: never again
+[21:51:28] minhchau1_20: golf
+[21:51:36] minhchau1_20: now you know
+[21:51:39] minhchau1_20: =)))
+[21:52:10] BanchoBot: All players are ready
+[21:52:16] BCraftMG: !mp settings
+[21:52:18] BanchoBot: Room name: 5WC24VN: (Week 2) vs (Match W2-EX8), History: https://osu.ppy.sh/mp/112431125
+[21:52:18] BanchoBot: Beatmap: https://osu.ppy.sh/b/3117956 katagiri - Naopura2000 -Daybreak-
+[21:52:18] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:52:18] BanchoBot: Active mods: Freemod
+[21:52:18] BanchoBot: Players: 6
+[21:52:18] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          [NoFail, Hidden]
+[21:52:18] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9931217 - Fubukiii      [NoFail, Hidden]
+[21:52:18] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/19891457 VNMink          [NoFail, Hidden]
+[21:52:18] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9669947 tomatohung      [NoFail, HardRock]
+[21:52:18] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       [NoFail, Hidden]
+[21:52:18] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/17292181 minhchau1_20    [NoFail, HardRock]
+[21:52:19] BCraftMG: !mp start 5 glhf
+[21:52:20] BanchoBot: Countdown ends in 1 minute
+[21:52:20] BanchoBot: Countdown aborted
+[21:52:20] BanchoBot: Match starts in 5 seconds
+[21:52:20] BanchoBot: Queued the match to start in 5 seconds
+[21:52:22] BanchoBot: Match starts in 4 seconds
+[21:52:23] aiyern: glhf
+[21:52:23] BanchoBot: Match starts in 3 seconds
+[21:52:24] BanchoBot: Good luck, have fun!
+[21:52:26] BanchoBot: The match has started!
+[21:54:46] BanchoBot: VNMink finished playing (Score: 41191, PASSED).
+[21:54:47] BanchoBot: KazutoGGO finished playing (Score: 44916, PASSED).
+[21:54:47] BanchoBot: aiyern finished playing (Score: 51684, PASSED).
+[21:54:47] BanchoBot: tomatohung finished playing (Score: 215753, PASSED).
+[21:54:49] BanchoBot: - Fubukiii finished playing (Score: 400682, PASSED).
+[21:54:51] BanchoBot: minhchau1_20 finished playing (Score: 268580, PASSED).
+[21:54:51] BanchoBot: The match has finished!
+[21:54:56] BCraftMG: !mp map 3645642 0
+[21:54:57] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3645642 Camellia feat. Nanahira - Petals
+[21:54:57] BanchoBot: Changed match mode to Osu
+[21:54:59] BCraftMG: !mp mods Freemod
+[21:55:01] BanchoBot: Disabled all mods, enabled FreeMod
+[21:55:01] BCraftMG: !mp timer 120
+[21:55:02] BanchoBot: Countdown ends in 2 minutes
+[21:55:05] tomatohung: map rat to tron
+[21:55:05] minhchau1_20: worst hr map in my life
+[21:56:03] BanchoBot: Countdown ends in 1 minute
+[21:56:32] BanchoBot: Countdown ends in 30 seconds
+[21:56:42] minhchau1_20: a hung`
+[21:56:43] minhchau1_20: day di a oi
+[21:56:45] -_Fubukiii: hen xui nhe ae
+[21:56:49] BanchoBot: All players are ready
+[21:56:53] BanchoBot: Countdown ends in 10 seconds
+[21:56:53] BCraftMG: !mp settings
+[21:56:55] aiyern: glhf
+[21:56:55] BanchoBot: Room name: 5WC24VN: (Week 2) vs (Match W2-EX8), History: https://osu.ppy.sh/mp/112431125
+[21:56:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/3645642 Camellia feat. Nanahira - Petals
+[21:56:55] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:56:55] BanchoBot: Active mods: Freemod
+[21:56:55] BanchoBot: Players: 6
+[21:56:55] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          [NoFail]
+[21:56:55] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9931217 - Fubukiii      [NoFail, Hidden]
+[21:56:55] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/19891457 VNMink          [NoFail]
+[21:56:55] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/9669947 tomatohung      [NoFail]
+[21:56:55] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/7662077 KazutoGGO       [NoFail]
+[21:56:55] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/17292181 minhchau1_20    [NoFail, HardRock]
+[21:56:55] BCraftMG: !mp start 5 glhf
+[21:56:56] tomatohung: sr ae di dai' ti
+[21:56:56] BanchoBot: Countdown aborted
+[21:56:56] BanchoBot: Match starts in 5 seconds
+[21:56:56] BanchoBot: Queued the match to start in 5 seconds
+[21:56:57] BanchoBot: Match starts in 4 seconds
+[21:56:58] -_Fubukiii: nice sleep pepega
+[21:56:58] BanchoBot: Match starts in 3 seconds
+[21:57:00] BanchoBot: Good luck, have fun!
+[21:57:01] BanchoBot: The match has started!
+[22:02:36] BanchoBot: aiyern finished playing (Score: 183797, PASSED).
+[22:02:36] BanchoBot: minhchau1_20 finished playing (Score: 536000, PASSED).
+[22:02:36] BanchoBot: VNMink finished playing (Score: 98033, PASSED).
+[22:02:36] BanchoBot: tomatohung finished playing (Score: 694790, PASSED).
+[22:02:38] BanchoBot: KazutoGGO finished playing (Score: 624826, PASSED).
+[22:02:41] BanchoBot: - Fubukiii finished playing (Score: 389342, PASSED).
+[22:02:41] BanchoBot: The match has finished!
+[22:02:48] BCraftMG: ggwp now mp close
+[22:02:54] tomatohung: casual miss nguyen stream
+[22:03:01] minhchau1_20: RIEL
+[22:03:02] aiyern: camon ref o/
+[22:03:05] minhchau1_20: ME WHEN SHITMISSES
+[22:03:12] aiyern: dm sao w2 de hon w1
+[22:03:13] VNMink: tks for ref o/
+[22:03:16] tomatohung: CAM ON REF
+[22:03:20] -_Fubukiii: buon qua
+[22:03:21] tomatohung: hom nay qua nhanh gon
+[22:03:22] -_Fubukiii: ko fc dc tb
+[22:03:24] tomatohung: dung la 1 phep mau
+[22:03:33] aiyern: biet no de hon da practice r
+[22:03:46] -_Fubukiii: sightread voi lan 2 dc 700k
+[22:03:48] -_Fubukiii: va ko co sau do nua
+[22:03:50] -_Fubukiii: :((
+[22:03:52] KazutoGGO: gg
+[22:04:01] KazutoGGO: dung cam on ref
+[22:04:02] -_Fubukiii: ref nay dang choi mc
+[22:04:05] KazutoGGO: ref nghien minecraft
+[22:04:05] minhchau1_20: ref choi mc
+[22:04:14] tomatohung: rip
+[22:04:15] BCraftMG: !mp ban KazutoGGO
+[22:04:17] BanchoBot: KazutoGGO left the game.
+[22:04:17] BanchoBot: Banned KazutoGGO from the match
+[22:04:18] tomatohung: o/
+[22:04:21] BanchoBot: minhchau1_20 left the game.
+[22:04:24] BanchoBot: tomatohung left the game.
+[22:04:25] BanchoBot: VNMink left the game.
+[22:04:27] BanchoBot: - Fubukiii left the game.
+[22:04:28] BanchoBot: aiyern left the game.
+[22:04:44] BCraftMG: !mp close
+[22:04:45] BanchoBot: Closed the match

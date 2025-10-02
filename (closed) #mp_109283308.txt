@@ -1,0 +1,750 @@
+[23:55:05] Joined #mp_109283308
+[23:55:05] BCraftMG: !mp settings
+[23:55:06] BanchoBot: Room name: PTSP: (love yoshi 456) vs (Inazuma Japan), History: https://osu.ppy.sh/mp/109283308
+[23:55:06] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[23:55:06] BanchoBot: Players: 0
+[23:55:35] BCraftMG: !mp set 2 3 8
+[23:55:36] BanchoBot: Changed match settings to 8 slots, TeamVs, ScoreV2
+[23:55:45] BCraftMG: !mp invite YoshiLover456
+[23:55:45] BanchoBot: Invited YoshiLover456 to the room
+[23:55:47] BCraftMG: !mp invite Summer_Ouo
+[23:55:48] BanchoBot: Invited Summer_Ouo to the room
+[23:58:41] BanchoBot: Summer_Ouo joined in slot 1 for team blue.
+[23:58:57] BCraftMG: o/
+[23:59:03] BanchoBot: Summer_Ouo moved to slot 3
+[23:59:07] BCraftMG: !mp host Summer_Ouo
+[23:59:08] BanchoBot: Summer_Ouo became the host.
+[23:59:08] BanchoBot: Changed match host to Summer_Ouo
+[23:59:10] BanchoBot: Beatmap changed to: Will Stetson - Lagtrain [ponbot's Insane] (https://osu.ppy.sh/b/2980850)
+[23:59:13] Summer_Ouo: o/
+[23:59:54] BCraftMG: you can pick warm up while waiting
+[23:59:57] BanchoBot: YoshiLover456 joined in slot 1 for team blue.
+[00:00:00] BCraftMG: o//
+[00:00:14] BanchoBot: deflateddolphin joined in slot 2 for team red.
+[00:00:19] BanchoBot: Host is changing map...
+[00:00:25] BanchoBot: YoshiLover456 changed to Red
+[00:00:47] BanchoBot: Y u w a n joined in slot 4 for team red.
+[00:00:55] BanchoBot: Y u w a n changed to Blue
+[00:01:19] BanchoBot: Beatmap changed to: x0o0x_ - Big Brother [YOKES' EXTRA Mix] (https://osu.ppy.sh/b/2400783)
+[00:01:35] BanchoBot: Teppi Fangirl joined in slot 5 for team blue.
+[00:01:38] BanchoBot: Teppi Fangirl changed to Red
+[00:01:50] Teppi_Fangirl: sorry guys i cant play HR
+[00:01:52] BanchoBot: All players are ready
+[00:01:54] BanchoBot: The match has started!
+[00:02:40] BanchoBot: Ruyaya joined in slot 6 for team red.
+[00:05:20] BanchoBot: deflateddolphin finished playing (Score: 261268, PASSED).
+[00:05:20] BanchoBot: Y u w a n finished playing (Score: 244078, PASSED).
+[00:05:22] BanchoBot: YoshiLover456 finished playing (Score: 235707, PASSED).
+[00:05:23] BanchoBot: Teppi Fangirl finished playing (Score: 483300, PASSED).
+[00:05:23] BanchoBot: Summer_Ouo finished playing (Score: 318683, PASSED).
+[00:05:23] BanchoBot: The match has finished!
+[00:05:33] Teppi_Fangirl: i really just 4 missed that huh
+[00:05:35] BanchoBot: YoshiLover456 became the host.
+[00:05:37] Teppi_Fangirl: gomode
+[00:05:41] YoshiLover456: we skip
+[00:05:46] Y_u_w_a_n: monkaS
+[00:06:49] Teppi_Fangirl: @ref
+[00:06:53] BCraftMG: can you wait a bit
+[00:06:54] BCraftMG: 30s
+[00:07:00] Teppi_Fangirl: alr
+[00:07:12] BCraftMG: you can start roll
+[00:07:25] YoshiLover456: !roll
+[00:07:25] BanchoBot: YoshiLover456 rolls 74 point(s)
+[00:07:38] Summer_Ouo: !roll
+[00:07:38] BanchoBot: Summer_Ouo rolls 2 point(s)
+[00:07:42] BCraftMG: rip
+[00:07:44] Summer_Ouo: 2
+[00:07:54] BCraftMG: "roll winner picks first pick or first ban roll loser gets first protect"
+[00:08:20] Y_u_w_a_n: 2
+[00:08:29] Ruyaya: 2
+[00:08:54] BanchoBot: Teppi Fangirl left the game.
+[00:08:56] BCraftMG: Yoshi?
+[00:08:56] YoshiLover456: wait
+[00:09:03] YoshiLover456: can you explain the pick/ban/protect order
+[00:09:09] YoshiLover456: i forgot protects exist
+[00:09:26] BCraftMG: just know that roll loser get to protect first
+[00:09:41] BanchoBot: Ruyaya left the game.
+[00:10:00] deflateddolphin: are we supposed to protect someth rn
+[00:10:01] BCraftMG: you can choose between first pick or first ban now
+[00:10:10] YoshiLover456: so we both protect before banning right
+[00:10:13] YoshiLover456: just making sure
+[00:10:13] BanchoBot: deflateddolphin left the game.
+[00:10:21] BanchoBot: Y u w a n left the game.
+[00:10:33] BCraftMG: yes
+[00:10:46] YoshiLover456: alright just wanted to clear that up
+[00:10:59] YoshiLover456: pick first
+[00:11:21] BCraftMG: Blue protect
+[00:11:22] BCraftMG: !mp timer 120
+[00:11:22] BanchoBot: Countdown ends in 2 minutes
+[00:11:33] Summer_Ouo: set6
+[00:11:53] BCraftMG: red protect
+[00:11:55] BCraftMG: !mp timer 120
+[00:11:56] BanchoBot: Countdown aborted
+[00:11:56] BanchoBot: Countdown ends in 2 minutes
+[00:12:03] YoshiLover456: set 2
+[00:12:21] BCraftMG: Blue ban
+[00:12:21] BCraftMG: !mp timer 120
+[00:12:23] BanchoBot: Countdown aborted
+[00:12:23] BanchoBot: Countdown ends in 2 minutes
+[00:13:07] Summer_Ouo: set 11
+[00:13:23] BCraftMG: Red ban
+[00:13:24] BanchoBot: Countdown ends in 1 minute
+[00:13:24] BCraftMG: !mp timer 120
+[00:13:25] BanchoBot: Countdown aborted
+[00:13:25] BanchoBot: Countdown ends in 2 minutes
+[00:14:08] YoshiLover456: set 7
+[00:14:25] BanchoBot: Countdown ends in 1 minute
+[00:14:39] BCraftMG: red 2nd ban
+[00:14:55] BCraftMG: !mp timer 120
+[00:14:55] BanchoBot: Countdown ends in 30 seconds
+[00:14:55] BanchoBot: Countdown aborted
+[00:14:55] BanchoBot: Countdown ends in 2 minutes
+[00:15:16] BanchoBot: Ruyaya joined in slot 2 for team red.
+[00:15:56] BanchoBot: Countdown ends in 1 minute
+[00:16:26] BanchoBot: Countdown ends in 30 seconds
+[00:16:31] Summer_Ouo: yoshilover456
+[00:16:36] Summer_Ouo: still your ban
+[00:16:46] BanchoBot: Countdown ends in 10 seconds
+[00:16:49] YoshiLover456: set 5
+[00:16:51] BanchoBot: Countdown ends in 5 seconds
+[00:16:52] BanchoBot: Countdown ends in 4 seconds
+[00:16:53] BanchoBot: Countdown ends in 3 seconds
+[00:16:54] BanchoBot: Countdown ends in 2 seconds
+[00:16:55] BanchoBot: Countdown ends in 1 second
+[00:16:56] BanchoBot: Countdown finished
+[00:17:00] BCraftMG: Blue ban
+[00:17:01] BCraftMG: !mp timer 120
+[00:17:02] BanchoBot: Countdown ends in 2 minutes
+[00:17:08] Summer_Ouo: set 1
+[00:18:02] BanchoBot: Countdown ends in 1 minute
+[00:18:05] BCraftMG: red pick
+[00:18:07] BCraftMG: !mp timer 120
+[00:18:08] BanchoBot: Countdown aborted
+[00:18:08] BanchoBot: Countdown ends in 2 minutes
+[00:18:48] YoshiLover456: set 2
+[00:19:01] BanchoBot: Teppi Fangirl joined in slot 4 for team red.
+[00:19:09] BanchoBot: Countdown ends in 1 minute
+[00:19:23] BCraftMG: !mp map 3132790 0
+[00:19:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3132790 Zebrahead - HIS WORLD (Zebrahead Version)
+[00:19:23] BanchoBot: Changed match mode to Osu
+[00:19:26] BCraftMG: !mp mods EZ NF
+[00:19:27] BanchoBot: Enabled NoFail, Easy, disabled FreeMod
+[00:19:27] BCraftMG: !mp timer 120
+[00:19:28] BanchoBot: Countdown aborted
+[00:19:28] BanchoBot: Countdown ends in 2 minutes
+[00:19:33] BanchoBot: Teppi Fangirl moved to slot 6
+[00:19:36] BanchoBot: Summer_Ouo left the game.
+[00:19:46] BanchoBot: Ruyaya left the game.
+[00:19:49] BanchoBot: Teppi Fangirl moved to slot 2
+[00:20:28] BanchoBot: Countdown ends in 1 minute
+[00:20:35] BanchoBot: Ruyaya joined in slot 3 for team blue.
+[00:20:36] BanchoBot: Summer_Ouo joined in slot 4 for team red.
+[00:20:47] BanchoBot: Summer_Ouo changed to Blue
+[00:20:56] Summer_Ouo: do !mp clearhost
+[00:20:58] BanchoBot: Countdown ends in 30 seconds
+[00:20:59] BCraftMG: !mp clearhost
+[00:21:00] BanchoBot: Cleared match host
+[00:21:02] YoshiLover456: oh yea true
+[00:21:03] BCraftMG: ty for the reminder
+[00:21:13] BanchoBot: All players are ready
+[00:21:16] Summer_Ouo: glhf
+[00:21:16] YoshiLover456: glhf~
+[00:21:18] BanchoBot: Countdown ends in 10 seconds
+[00:21:18] BCraftMG: !mp settings
+[00:21:19] BanchoBot: Room name: PTSP: (love yoshi 456) vs (Inazuma Japan), History: https://osu.ppy.sh/mp/109283308
+[00:21:19] BanchoBot: Beatmap: https://osu.ppy.sh/b/3132790 Zebrahead - HIS WORLD (Zebrahead Version)
+[00:21:19] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:21:19] BanchoBot: Active mods: NoFail, Easy
+[00:21:19] BanchoBot: Players: 4
+[00:21:19] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6843383 YoshiLover456   [Team Red ]
+[00:21:19] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16522589 Teppi Fangirl   [Team Red ]
+[00:21:19] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16288992 Ruyaya          [Team Blue]
+[00:21:19] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15184992 Summer_Ouo      [Team Blue]
+[00:21:19] BCraftMG: !mp start 5 glhf
+[00:21:20] BanchoBot: Countdown aborted
+[00:21:20] BanchoBot: Match starts in 5 seconds
+[00:21:20] BanchoBot: Queued the match to start in 5 seconds
+[00:21:21] BanchoBot: Match starts in 4 seconds
+[00:21:22] BanchoBot: Match starts in 3 seconds
+[00:21:23] BanchoBot: Good luck, have fun!
+[00:21:25] BanchoBot: The match has started!
+[00:21:57] BanchoBot: Ryshult joined in slot 5 for team blue.
+[00:22:01] Ryshult: omg in in
+[00:22:03] Ryshult: im in*
+[00:22:07] Ryshult: just wanted to say
+[00:22:09] Ryshult: have a fun match both teams
+[00:22:11] Ryshult: good luck
+[00:22:18] BanchoBot: Ryshult left the game.
+[00:22:18] BCraftMG: uhh
+[00:25:02] BanchoBot: YoshiLover456 finished playing (Score: 29841, PASSED).
+[00:25:03] BanchoBot: Teppi Fangirl finished playing (Score: 84230, PASSED).
+[00:25:03] BanchoBot: Summer_Ouo finished playing (Score: 21037, PASSED).
+[00:25:03] BanchoBot: Ruyaya finished playing (Score: 19708, PASSED).
+[00:25:03] BanchoBot: The match has finished!
+[00:25:20] BCraftMG: !mp map 3241847 0
+[00:25:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3241847 KOTOKO - Koi Kou Enishi
+[00:25:20] BanchoBot: Changed match mode to Osu
+[00:25:22] BCraftMG: !mp mods 9
+[00:25:23] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[00:25:24] BanchoBot: Y u w a n joined in slot 5 for team blue.
+[00:25:26] BCraftMG: !mp timer 120
+[00:25:27] BanchoBot: Countdown ends in 2 minutes
+[00:25:38] BanchoBot: Summer_Ouo moved to slot 8
+[00:25:41] BanchoBot: Y u w a n moved to slot 4
+[00:25:45] BanchoBot: Summer_Ouo left the game.
+[00:25:57] BanchoBot: All players are ready
+[00:26:24] BCraftMG: !mp settings
+[00:26:25] BanchoBot: Room name: PTSP: (love yoshi 456) vs (Inazuma Japan), History: https://osu.ppy.sh/mp/109283308
+[00:26:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/3241847 KOTOKO - Koi Kou Enishi
+[00:26:25] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:26:25] BanchoBot: Active mods: NoFail, Hidden
+[00:26:25] BanchoBot: Players: 4
+[00:26:25] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6843383 YoshiLover456   [Team Red ]
+[00:26:25] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16522589 Teppi Fangirl   [Team Red ]
+[00:26:25] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16288992 Ruyaya          [Team Blue]
+[00:26:25] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8192004 Y u w a n       [Team Blue]
+[00:26:27] BCraftMG: !mp start 5 glhf
+[00:26:27] BanchoBot: Countdown ends in 1 minute
+[00:26:27] BanchoBot: Countdown aborted
+[00:26:27] BanchoBot: Match starts in 5 seconds
+[00:26:27] BanchoBot: Queued the match to start in 5 seconds
+[00:26:28] BanchoBot: Match starts in 4 seconds
+[00:26:29] BanchoBot: Match starts in 3 seconds
+[00:26:30] Y_u_w_a_n: glhf!
+[00:26:30] BanchoBot: Good luck, have fun!
+[00:26:33] BanchoBot: The match has started!
+[00:30:30] BanchoBot: YoshiLover456 finished playing (Score: 310963, PASSED).
+[00:30:30] BanchoBot: Ruyaya finished playing (Score: 212941, PASSED).
+[00:30:31] BanchoBot: Y u w a n finished playing (Score: 207581, PASSED).
+[00:30:32] BanchoBot: Teppi Fangirl finished playing (Score: 309264, PASSED).
+[00:30:32] BanchoBot: The match has finished!
+[00:30:43] BCraftMG: love yoshi 456 | 1 : 0 | Inazuma Japan // Next to pick: Blue
+[00:30:46] BCraftMG: !mp timer 120
+[00:30:48] BanchoBot: Countdown ends in 2 minutes
+[00:31:44] Ruyaya: set6
+[00:31:48] BanchoBot: Countdown ends in 1 minute
+[00:31:55] BanchoBot: Y u w a n left the game.
+[00:31:58] BCraftMG: !mp map 338533 0
+[00:31:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/338533 SOUTAISEIRIRON - Shikaku Kakumei
+[00:31:59] BanchoBot: Changed match mode to Osu
+[00:32:00] BCraftMG: !mp mods FL NF
+[00:32:01] BanchoBot: Enabled NoFail, Flashlight, disabled FreeMod
+[00:32:02] BCraftMG: !mp timer 120
+[00:32:03] BanchoBot: Teppi Fangirl left the game.
+[00:32:03] BanchoBot: Countdown aborted
+[00:32:03] BanchoBot: Countdown ends in 2 minutes
+[00:32:06] BanchoBot: deflateddolphin joined in slot 2 for team red.
+[00:32:57] BanchoBot: Summer_Ouo joined in slot 4 for team red.
+[00:33:04] BanchoBot: Countdown ends in 1 minute
+[00:33:07] BanchoBot: Summer_Ouo changed to Blue
+[00:33:11] BanchoBot: All players are ready
+[00:33:13] BCraftMG: !mp settings
+[00:33:14] Summer_Ouo: glhf
+[00:33:14] BanchoBot: Room name: PTSP: (love yoshi 456) vs (Inazuma Japan), History: https://osu.ppy.sh/mp/109283308
+[00:33:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/338533 SOUTAISEIRIRON - Shikaku Kakumei
+[00:33:14] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:33:14] BanchoBot: Active mods: NoFail, Flashlight
+[00:33:14] BanchoBot: Players: 4
+[00:33:14] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6843383 YoshiLover456   [Team Red ]
+[00:33:14] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10184558 deflateddolphin [Team Red ]
+[00:33:14] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16288992 Ruyaya          [Team Blue]
+[00:33:14] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15184992 Summer_Ouo      [Team Blue]
+[00:33:15] deflateddolphin: gk
+[00:33:16] BCraftMG: !mp start 5 glhf
+[00:33:16] BanchoBot: Countdown aborted
+[00:33:16] BanchoBot: Match starts in 5 seconds
+[00:33:16] BanchoBot: Queued the match to start in 5 seconds
+[00:33:18] BanchoBot: Match starts in 4 seconds
+[00:33:19] BanchoBot: Match starts in 3 seconds
+[00:33:20] BanchoBot: Good luck, have fun!
+[00:33:22] BanchoBot: The match has started!
+[00:36:23] BanchoBot: deflateddolphin finished playing (Score: 253080, PASSED).
+[00:36:23] BanchoBot: YoshiLover456 finished playing (Score: 451312, PASSED).
+[00:36:24] BanchoBot: Ruyaya finished playing (Score: 147662, PASSED).
+[00:36:24] BanchoBot: Summer_Ouo finished playing (Score: 236342, PASSED).
+[00:36:24] BanchoBot: The match has finished!
+[00:36:42] BCraftMG: !mp map 3524634 0
+[00:36:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3524634 SOUND HOLIC feat. YURiCa - WITCH HUNT (Long Ver.)
+[00:36:43] BanchoBot: Changed match mode to Osu
+[00:36:44] BCraftMG: !mp mods NF
+[00:36:45] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:36:48] BCraftMG: !mp timer 120
+[00:36:49] BanchoBot: Countdown ends in 2 minutes
+[00:36:50] BanchoBot: Y u w a n joined in slot 5 for team blue.
+[00:36:51] BanchoBot: Summer_Ouo left the game.
+[00:36:57] BanchoBot: Y u w a n moved to slot 4
+[00:37:50] BanchoBot: Countdown ends in 1 minute
+[00:37:53] BanchoBot: All players are ready
+[00:37:58] deflateddolphin: gl
+[00:38:01] Y_u_w_a_n: glhf!
+[00:38:02] YoshiLover456: glhf~
+[00:38:05] Ruyaya: gl!
+[00:38:20] BanchoBot: Countdown ends in 30 seconds
+[00:38:40] BanchoBot: Countdown ends in 10 seconds
+[00:38:45] BanchoBot: Countdown ends in 5 seconds
+[00:38:46] BanchoBot: Countdown ends in 4 seconds
+[00:38:47] BanchoBot: Countdown ends in 3 seconds
+[00:38:48] BanchoBot: Countdown ends in 2 seconds
+[00:38:49] BanchoBot: Countdown ends in 1 second
+[00:38:50] BanchoBot: Countdown finished
+[00:38:58] deflateddolphin: the ref passed away D:
+[00:39:03] BCraftMG: !mp settings
+[00:39:04] BanchoBot: Room name: PTSP: (love yoshi 456) vs (Inazuma Japan), History: https://osu.ppy.sh/mp/109283308
+[00:39:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/3524634 SOUND HOLIC feat. YURiCa - WITCH HUNT (Long Ver.)
+[00:39:04] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:39:04] BanchoBot: Active mods: NoFail
+[00:39:04] BanchoBot: Players: 4
+[00:39:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6843383 YoshiLover456   [Team Red ]
+[00:39:04] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10184558 deflateddolphin [Team Red ]
+[00:39:04] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16288992 Ruyaya          [Team Blue]
+[00:39:04] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/8192004 Y u w a n       [Team Blue]
+[00:39:05] BCraftMG: !mp start 5 glhf
+[00:39:06] Y_u_w_a_n: D;
+[00:39:06] BanchoBot: Match starts in 5 seconds
+[00:39:06] BanchoBot: Queued the match to start in 5 seconds
+[00:39:07] BanchoBot: Match starts in 4 seconds
+[00:39:08] BanchoBot: Match starts in 3 seconds
+[00:39:09] BanchoBot: Good luck, have fun!
+[00:39:10] Y_u_w_a_n: glhf
+[00:39:11] BanchoBot: The match has started!
+[00:43:11] BanchoBot: Ruyaya finished playing (Score: 464477, PASSED).
+[00:43:11] BanchoBot: Y u w a n finished playing (Score: 590987, PASSED).
+[00:43:12] BanchoBot: YoshiLover456 finished playing (Score: 174332, PASSED).
+[00:43:16] BanchoBot: deflateddolphin finished playing (Score: 112274, PASSED).
+[00:43:16] BanchoBot: The match has finished!
+[00:43:36] BCraftMG: love yoshi 456 | 1 : 0 | Inazuma Japan // Next to pick: Red
+[00:43:37] BCraftMG: !mp timer 120
+[00:43:38] BanchoBot: Countdown ends in 2 minutes
+[00:43:45] deflateddolphin: close
+[00:44:19] YoshiLover456: set 10
+[00:44:37] BanchoBot: Y u w a n left the game.
+[00:44:38] BanchoBot: Countdown ends in 1 minute
+[00:44:41] BCraftMG: !mp map 3113862 0
+[00:44:41] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3113862 hitorie - Imperfection
+[00:44:41] BanchoBot: Changed match mode to Osu
+[00:44:42] BanchoBot: Ruyaya left the game.
+[00:44:43] BCraftMG: !mp mods Freemod
+[00:44:45] BanchoBot: Disabled all mods, enabled FreeMod
+[00:44:45] BCraftMG: !mp timer 120
+[00:44:46] BanchoBot: Countdown aborted
+[00:44:46] BanchoBot: Countdown ends in 2 minutes
+[00:45:03] BanchoBot: Ruyaya joined in slot 3 for team blue.
+[00:45:36] BanchoBot: Y u w a n joined in slot 4 for team red.
+[00:45:46] BanchoBot: Countdown ends in 1 minute
+[00:45:55] BanchoBot: Y u w a n left the game.
+[00:45:57] BanchoBot: Summer_Ouo joined in slot 4 for team red.
+[00:46:03] BanchoBot: Summer_Ouo changed to Blue
+[00:46:12] BanchoBot: All players are ready
+[00:46:14] BCraftMG: !mp settings
+[00:46:15] BanchoBot: Room name: PTSP: (love yoshi 456) vs (Inazuma Japan), History: https://osu.ppy.sh/mp/109283308
+[00:46:15] BanchoBot: Beatmap: https://osu.ppy.sh/b/3113862 hitorie - Imperfection
+[00:46:15] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:46:15] BanchoBot: Active mods: Freemod
+[00:46:15] BanchoBot: Players: 4
+[00:46:15] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6843383 YoshiLover456   [Team Red  / NoFail, Hidden]
+[00:46:15] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10184558 deflateddolphin [Team Red  / NoFail, Hidden]
+[00:46:15] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16288992 Ruyaya          [Team Blue / NoFail, Hidden]
+[00:46:15] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15184992 Summer_Ouo      [Team Blue / NoFail, HardRock]
+[00:46:16] BanchoBot: Countdown ends in 30 seconds
+[00:46:18] Summer_Ouo: glhf
+[00:46:18] deflateddolphin: gl
+[00:46:22] YoshiLover456: glhf~
+[00:46:23] BCraftMG: !mp start 5 glhf
+[00:46:24] BanchoBot: Countdown aborted
+[00:46:24] BanchoBot: Match starts in 5 seconds
+[00:46:24] BanchoBot: Queued the match to start in 5 seconds
+[00:46:26] BanchoBot: Match starts in 4 seconds
+[00:46:26] BanchoBot: Match starts in 3 seconds
+[00:46:27] BanchoBot: Good luck, have fun!
+[00:46:29] BanchoBot: The match has started!
+[00:49:45] BanchoBot: deflateddolphin finished playing (Score: 599900, PASSED).
+[00:49:46] BanchoBot: YoshiLover456 finished playing (Score: 503666, PASSED).
+[00:49:46] BanchoBot: Ruyaya finished playing (Score: 346614, PASSED).
+[00:49:46] BanchoBot: Summer_Ouo finished playing (Score: 261001, PASSED).
+[00:49:46] BanchoBot: The match has finished!
+[00:49:59] BanchoBot: Summer_Ouo left the game.
+[00:50:01] BCraftMG: !mp map 3257371 0
+[00:50:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3257371 tsunamix_underground - Period. ~ Seishin no Kousoku to Jiyuu o Tsukamu Jouka (Cut Ver.)
+[00:50:02] BanchoBot: Changed match mode to Osu
+[00:50:03] BCraftMG: !mp timer 120
+[00:50:04] BanchoBot: Countdown ends in 2 minutes
+[00:50:09] BanchoBot: Y u w a n joined in slot 4 for team red.
+[00:50:12] BanchoBot: Y u w a n changed to Blue
+[00:50:19] BanchoBot: Teppi Fangirl joined in slot 5 for team blue.
+[00:50:23] BanchoBot: Ruyaya left the game.
+[00:50:24] BanchoBot: deflateddolphin left the game.
+[00:50:25] BanchoBot: Teppi Fangirl moved to slot 3
+[00:50:25] BanchoBot: Teppi Fangirl moved to slot 2
+[00:50:28] BanchoBot: Teppi Fangirl changed to Red
+[00:51:05] BanchoBot: Countdown ends in 1 minute
+[00:51:17] BanchoBot: Y u w a n moved to slot 3
+[00:51:22] Y_u_w_a_n: UWU
+[00:51:32] Teppi_Fangirl: owo
+[00:51:34] BanchoBot: Ruyaya joined in slot 4 for team red.
+[00:51:34] BanchoBot: Countdown ends in 30 seconds
+[00:51:54] Teppi_Fangirl: ruyaya go ez i dare u
+[00:51:54] BanchoBot: Countdown ends in 10 seconds
+[00:51:56] Teppi_Fangirl: i will match
+[00:51:56] BanchoBot: All players are ready
+[00:51:57] BCraftMG: !mp settings
+[00:51:58] BanchoBot: Room name: PTSP: (love yoshi 456) vs (Inazuma Japan), History: https://osu.ppy.sh/mp/109283308
+[00:51:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/3257371 tsunamix_underground - Period. ~ Seishin no Kousoku to Jiyuu o Tsukamu Jouka (Cut Ver.)
+[00:51:58] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:51:58] BanchoBot: Active mods: Freemod
+[00:51:58] BanchoBot: Players: 4
+[00:51:58] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6843383 YoshiLover456   [Team Red  / NoFail, HardRock]
+[00:51:58] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16522589 Teppi Fangirl   [Team Red  / NoFail, Hidden]
+[00:51:58] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8192004 Y u w a n       [Team Blue / NoFail, HardRock]
+[00:51:58] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16288992 Ruyaya          [Team Red  / NoFail, Hidden]
+[00:51:59] BanchoBot: Countdown ends in 5 seconds
+[00:51:59] BCraftMG: !mp start 5 glhf
+[00:52:00] BanchoBot: Countdown ends in 4 seconds
+[00:52:00] BanchoBot: Countdown aborted
+[00:52:00] BanchoBot: Match starts in 5 seconds
+[00:52:00] BanchoBot: Queued the match to start in 5 seconds
+[00:52:01] BanchoBot: Match starts in 4 seconds
+[00:52:02] BanchoBot: Match starts in 3 seconds
+[00:52:03] BanchoBot: Good luck, have fun!
+[00:52:04] Teppi_Fangirl: switch tem
+[00:52:04] Teppi_Fangirl: ????
+[00:52:05] Teppi_Fangirl: AEWJFNWEF
+[00:52:05] BanchoBot: The match has started!
+[00:52:10] YoshiLover456: abort
+[00:52:10] Ruyaya: ?
+[00:52:12] Teppi_Fangirl: ABVORT
+[00:52:12] BCraftMG: !mp abort
+[00:52:13] BanchoBot: Aborted the match
+[00:52:14] Teppi_Fangirl: ABORT
+[00:52:16] Teppi_Fangirl: yay
+[00:52:20] Y_u_w_a_n: hahahaha
+[00:52:22] BCraftMG: xD
+[00:52:24] YoshiLover456: tryna 3v1
+[00:52:29] BanchoBot: Ruyaya changed to Blue
+[00:52:32] BCraftMG: sounds like a good idea
+[00:52:33] Y_u_w_a_n: NOWAY I can't even 1v1
+[00:52:34] BCraftMG: anyway
+[00:52:39] Teppi_Fangirl: 🇹🇼
+[00:52:41] YoshiLover456: alright glhf for real
+[00:52:43] BanchoBot: All players are ready
+[00:52:43] YoshiLover456: :)
+[00:52:46] Y_u_w_a_n: glhf
+[00:52:47] BCraftMG: !mp settings
+[00:52:48] BanchoBot: Room name: PTSP: (love yoshi 456) vs (Inazuma Japan), History: https://osu.ppy.sh/mp/109283308
+[00:52:48] BanchoBot: Beatmap: https://osu.ppy.sh/b/3257371 tsunamix_underground - Period. ~ Seishin no Kousoku to Jiyuu o Tsukamu Jouka (Cut Ver.)
+[00:52:48] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:52:48] BanchoBot: Active mods: Freemod
+[00:52:48] BanchoBot: Players: 4
+[00:52:48] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6843383 YoshiLover456   [Team Red  / NoFail, HardRock]
+[00:52:48] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16522589 Teppi Fangirl   [Team Red  / NoFail, Hidden]
+[00:52:48] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8192004 Y u w a n       [Team Blue / NoFail, HardRock]
+[00:52:48] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16288992 Ruyaya          [Team Blue / NoFail, Hidden]
+[00:52:50] BCraftMG: !mp start 5 glhf
+[00:52:51] BanchoBot: Match starts in 5 seconds
+[00:52:51] BanchoBot: Queued the match to start in 5 seconds
+[00:52:52] BanchoBot: Match starts in 4 seconds
+[00:52:53] BanchoBot: Match starts in 3 seconds
+[00:52:54] Teppi_Fangirl: gl
+[00:52:54] BanchoBot: Good luck, have fun!
+[00:52:56] BanchoBot: The match has started!
+[00:54:46] BanchoBot: Ruyaya finished playing (Score: 54790, PASSED).
+[00:54:46] BanchoBot: Y u w a n finished playing (Score: 339242, PASSED).
+[00:54:46] BanchoBot: YoshiLover456 finished playing (Score: 413045, PASSED).
+[00:54:46] BanchoBot: Teppi Fangirl finished playing (Score: 339009, PASSED).
+[00:54:46] BanchoBot: The match has finished!
+[00:54:57] BanchoBot: Ruyaya left the game.
+[00:55:06] BCraftMG: love yoshi 456 | 2 : 0 | Inazuma Japan // Next to pick: Blue
+[00:55:08] Teppi_Fangirl: yuwan god
+[00:55:09] BCraftMG: !mp timer 120
+[00:55:09] BanchoBot: Countdown ends in 2 minutes
+[00:55:29] Y_u_w_a_n: You are HD monster
+[00:55:31] Y_u_w_a_n: monkaS
+[00:56:06] Teppi_Fangirl: You are HR monster
+[00:56:08] Teppi_Fangirl: monkaW
+[00:56:10] BanchoBot: Countdown ends in 1 minute
+[00:56:15] Y_u_w_a_n: YoshiLover:
+[00:56:21] Teppi_Fangirl: yoshilover isnt real
+[00:56:24] Teppi_Fangirl: deranker smh smh
+[00:56:32] Y_u_w_a_n: smh
+[00:56:33] BanchoBot: Ruyaya joined in slot 4 for team red.
+[00:56:35] YoshiLover456: ohdear
+[00:56:37] BanchoBot: Ruyaya changed to Blue
+[00:56:38] BanchoBot: Ruyaya changed to Red
+[00:56:39] BanchoBot: Ruyaya changed to Blue
+[00:56:40] BanchoBot: Countdown ends in 30 seconds
+[00:56:41] BanchoBot: Ruyaya changed to Red
+[00:56:43] BanchoBot: Ruyaya changed to Blue
+[00:56:44] BanchoBot: Ruyaya changed to Red
+[00:56:45] BanchoBot: Ruyaya changed to Blue
+[00:56:45] BanchoBot: Ruyaya changed to Red
+[00:56:45] BanchoBot: Ruyaya changed to Blue
+[00:56:46] BanchoBot: Summer_Ouo joined in slot 5 for team blue.
+[00:56:47] Y_u_w_a_n: We pick set9 thank you guys
+[00:56:58] BCraftMG: !mp map 4196915 0
+[00:56:59] BanchoBot: Y u w a n left the game.
+[00:56:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4196915 Linkin Park - One Step Closer
+[00:56:59] BanchoBot: Changed match mode to Osu
+[00:57:00] BanchoBot: Countdown ends in 10 seconds
+[00:57:01] BCraftMG: !mp mods Freemod
+[00:57:01] BanchoBot: Teppi Fangirl left the game.
+[00:57:01] BanchoBot: Summer_Ouo moved to slot 3
+[00:57:02] BanchoBot: Disabled all mods, enabled FreeMod
+[00:57:02] BCraftMG: !mp timer 120
+[00:57:03] BanchoBot: Countdown aborted
+[00:57:03] BanchoBot: Countdown ends in 2 minutes
+[00:57:06] BanchoBot: deflateddolphin joined in slot 2 for team red.
+[00:57:45] BanchoBot: All players are ready
+[00:57:54] Summer_Ouo: glhf
+[00:57:55] BCraftMG: !mp settings
+[00:57:56] YoshiLover456: glhf~
+[00:57:56] BanchoBot: Room name: PTSP: (love yoshi 456) vs (Inazuma Japan), History: https://osu.ppy.sh/mp/109283308
+[00:57:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/4196915 Linkin Park - One Step Closer
+[00:57:56] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:57:56] BanchoBot: Active mods: Freemod
+[00:57:56] BanchoBot: Players: 4
+[00:57:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6843383 YoshiLover456   [Team Red  / NoFail, Hidden]
+[00:57:56] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10184558 deflateddolphin [Team Red  / NoFail, Hidden]
+[00:57:56] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15184992 Summer_Ouo      [Team Blue / NoFail, HardRock]
+[00:57:56] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16288992 Ruyaya          [Team Blue / NoFail, Hidden]
+[00:57:58] BCraftMG: !mp start 5 glhf
+[00:57:58] BanchoBot: Countdown aborted
+[00:57:58] BanchoBot: Match starts in 5 seconds
+[00:57:58] BanchoBot: Queued the match to start in 5 seconds
+[00:57:59] BanchoBot: Match starts in 4 seconds
+[00:58:00] deflateddolphin: gl
+[00:58:00] BanchoBot: Match starts in 3 seconds
+[00:58:01] BanchoBot: Good luck, have fun!
+[00:58:03] BanchoBot: The match has started!
+[01:00:47] BanchoBot: deflateddolphin finished playing (Score: 932344, PASSED).
+[01:00:47] BanchoBot: Ruyaya finished playing (Score: 646479, PASSED).
+[01:00:47] BanchoBot: YoshiLover456 finished playing (Score: 596412, PASSED).
+[01:00:47] BanchoBot: Summer_Ouo finished playing (Score: 502276, PASSED).
+[01:00:47] BanchoBot: The match has finished!
+[01:01:04] BCraftMG: !mp map 3576121 0
+[01:01:05] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3576121 kamome sano - lovesick feat. punipunidenki
+[01:01:05] BanchoBot: Changed match mode to Osu
+[01:01:07] BCraftMG: !mp mods HR NF
+[01:01:07] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[01:01:08] BCraftMG: !mp timer 120
+[01:01:09] BanchoBot: Countdown ends in 2 minutes
+[01:01:58] BanchoBot: All players are ready
+[01:02:02] BanchoBot: All players are ready
+[01:02:04] BCraftMG: !mp settings
+[01:02:05] BanchoBot: Room name: PTSP: (love yoshi 456) vs (Inazuma Japan), History: https://osu.ppy.sh/mp/109283308
+[01:02:05] BanchoBot: Beatmap: https://osu.ppy.sh/b/3576121 kamome sano - lovesick feat. punipunidenki
+[01:02:05] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:02:05] BanchoBot: Active mods: NoFail, HardRock
+[01:02:05] BanchoBot: Players: 4
+[01:02:05] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6843383 YoshiLover456   [Team Red ]
+[01:02:05] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10184558 deflateddolphin [Team Red ]
+[01:02:05] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15184992 Summer_Ouo      [Team Blue]
+[01:02:05] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16288992 Ruyaya          [Team Blue]
+[01:02:06] BCraftMG: !mp start 5 glhf
+[01:02:07] BanchoBot: Countdown aborted
+[01:02:07] BanchoBot: Match starts in 5 seconds
+[01:02:07] BanchoBot: Queued the match to start in 5 seconds
+[01:02:08] BanchoBot: Match starts in 4 seconds
+[01:02:09] BanchoBot: Match starts in 3 seconds
+[01:02:10] BanchoBot: Good luck, have fun!
+[01:02:12] Summer_Ouo: glhf
+[01:02:12] BanchoBot: The match has started!
+[01:05:42] BanchoBot: YoshiLover456 finished playing (Score: 289076, PASSED).
+[01:05:43] BanchoBot: Ruyaya finished playing (Score: 261368, PASSED).
+[01:05:43] BanchoBot: deflateddolphin finished playing (Score: 213090, PASSED).
+[01:05:43] BanchoBot: Summer_Ouo finished playing (Score: 325487, PASSED).
+[01:05:43] BanchoBot: The match has finished!
+[01:06:09] BCraftMG: love yoshi 456 | 2 : 0 | Inazuma Japan // Next to pick: Red
+[01:06:12] BCraftMG: !mp timer 120
+[01:06:13] BanchoBot: Countdown ends in 2 minutes
+[01:06:57] BanchoBot: deflateddolphin left the game.
+[01:07:14] BanchoBot: Countdown ends in 1 minute
+[01:07:44] BanchoBot: Countdown ends in 30 seconds
+[01:07:52] YoshiLover456: set 8
+[01:07:59] BanchoBot: deflateddolphin joined in slot 2 for team red.
+[01:08:03] BanchoBot: Countdown ends in 10 seconds
+[01:08:08] BanchoBot: Countdown ends in 5 seconds
+[01:08:10] BanchoBot: Countdown ends in 4 seconds
+[01:08:11] BanchoBot: Countdown ends in 3 seconds
+[01:08:12] BanchoBot: Countdown ends in 2 seconds
+[01:08:13] BanchoBot: Countdown ends in 1 second
+[01:08:14] BanchoBot: Countdown finished
+[01:08:14] deflateddolphin: set 8
+[01:08:15] BCraftMG: !mp map 3904581 0
+[01:08:16] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3904581 leroy - the joke is on you
+[01:08:16] BanchoBot: Changed match mode to Osu
+[01:08:17] BCraftMG: !mp mods HD NF
+[01:08:18] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[01:08:18] BCraftMG: !mp timer 120
+[01:08:19] BanchoBot: Countdown ends in 2 minutes
+[01:08:45] BanchoBot: All players are ready
+[01:08:46] BCraftMG: !mp settings
+[01:08:47] BanchoBot: Room name: PTSP: (love yoshi 456) vs (Inazuma Japan), History: https://osu.ppy.sh/mp/109283308
+[01:08:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/3904581 leroy - the joke is on you
+[01:08:47] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:08:47] BanchoBot: Active mods: NoFail, Hidden
+[01:08:47] BanchoBot: Players: 4
+[01:08:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6843383 YoshiLover456   [Team Red ]
+[01:08:47] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10184558 deflateddolphin [Team Red ]
+[01:08:47] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15184992 Summer_Ouo      [Team Blue]
+[01:08:47] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16288992 Ruyaya          [Team Blue]
+[01:08:49] BCraftMG: !mp start 5 glhf
+[01:08:49] deflateddolphin: gl
+[01:08:50] BanchoBot: Countdown aborted
+[01:08:50] BanchoBot: Match starts in 5 seconds
+[01:08:50] BanchoBot: Queued the match to start in 5 seconds
+[01:08:51] Summer_Ouo: glhf
+[01:08:51] BanchoBot: Match starts in 4 seconds
+[01:08:52] BanchoBot: Match starts in 3 seconds
+[01:08:54] BanchoBot: Good luck, have fun!
+[01:08:55] BanchoBot: The match has started!
+[01:12:02] BanchoBot: YoshiLover456 finished playing (Score: 431545, PASSED).
+[01:12:02] BanchoBot: deflateddolphin finished playing (Score: 366620, PASSED).
+[01:12:02] BanchoBot: Summer_Ouo finished playing (Score: 240510, PASSED).
+[01:12:03] BanchoBot: Ruyaya finished playing (Score: 300970, PASSED).
+[01:12:03] BanchoBot: The match has finished!
+[01:12:19] BCraftMG: !mp map 3044284 0
+[01:12:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3044284 Masked Wolf - Astronaut In The Ocean
+[01:12:20] BanchoBot: Changed match mode to Osu
+[01:12:22] BCraftMG: !mp mods Freemod SD
+[01:12:24] BanchoBot: Disabled all mods, enabled FreeMod
+[01:12:25] BCraftMG: !mp timer 120
+[01:12:26] BanchoBot: Countdown ends in 2 minutes
+[01:12:28] BanchoBot: Summer_Ouo left the game.
+[01:12:51] deflateddolphin: is this badged?
+[01:13:00] deflateddolphin: is it even allowed LOl
+[01:13:26] BanchoBot: Countdown ends in 1 minute
+[01:13:49] BanchoBot: Summer_Ouo joined in slot 3 for team blue.
+[01:13:51] BCraftMG: xd
+[01:13:56] BanchoBot: Countdown ends in 30 seconds
+[01:13:59] Summer_Ouo: glhf
+[01:14:08] BanchoBot: All players are ready
+[01:14:09] BCraftMG: !mp settings
+[01:14:09] BanchoBot: Room name: PTSP: (love yoshi 456) vs (Inazuma Japan), History: https://osu.ppy.sh/mp/109283308
+[01:14:09] BanchoBot: Beatmap: https://osu.ppy.sh/b/3044284 Masked Wolf - Astronaut In The Ocean
+[01:14:09] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:14:09] BanchoBot: Active mods: Freemod
+[01:14:09] BanchoBot: Players: 4
+[01:14:09] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6843383 YoshiLover456   [Team Red  / SuddenDeath]
+[01:14:09] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10184558 deflateddolphin [Team Red  / SuddenDeath]
+[01:14:09] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15184992 Summer_Ouo      [Team Blue / SuddenDeath]
+[01:14:09] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16288992 Ruyaya          [Team Blue / SuddenDeath]
+[01:14:11] BCraftMG: !mp start 5 glhf
+[01:14:12] BanchoBot: Countdown aborted
+[01:14:12] BanchoBot: Match starts in 5 seconds
+[01:14:12] BanchoBot: Queued the match to start in 5 seconds
+[01:14:13] BanchoBot: Match starts in 4 seconds
+[01:14:14] BanchoBot: Match starts in 3 seconds
+[01:14:15] BanchoBot: Good luck, have fun!
+[01:14:16] YoshiLover456: glhf~
+[01:14:17] BanchoBot: The match has started!
+[01:15:36] BanchoBot: YoshiLover456 finished playing (Score: 335566, FAILED).
+[01:15:36] BanchoBot: deflateddolphin finished playing (Score: 310334, FAILED).
+[01:15:36] BanchoBot: Summer_Ouo finished playing (Score: 238636, FAILED).
+[01:15:36] BanchoBot: Summer_Ouo finished playing (Score: 238636, FAILED).
+[01:15:36] BanchoBot: Summer_Ouo finished playing (Score: 238636, FAILED).
+[01:15:36] BanchoBot: Ruyaya finished playing (Score: 365597, PASSED).
+[01:15:36] BanchoBot: The match has finished!
+[01:15:56] BCraftMG: love yoshi 456 | 2 : 0 | Inazuma Japan // Next to pick: Blue
+[01:15:58] BCraftMG: !mp timer 120
+[01:15:59] BanchoBot: Countdown ends in 2 minutes
+[01:16:59] BanchoBot: Countdown ends in 1 minute
+[01:17:03] BanchoBot: Y u w a n joined in slot 5 for team blue.
+[01:17:05] Summer_Ouo: set3
+[01:17:18] BanchoBot: Summer_Ouo moved to slot 8
+[01:17:21] BanchoBot: Summer_Ouo left the game.
+[01:17:25] BanchoBot: Y u w a n moved to slot 3
+[01:17:30] BCraftMG: !mp map 4061900 0
+[01:17:30] BanchoBot: Countdown ends in 30 seconds
+[01:17:30] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4061900 ZOMBIESHARK! - IDIOT MACHINE
+[01:17:30] BanchoBot: Changed match mode to Osu
+[01:17:32] BCraftMG: !mp mods 1
+[01:17:33] BanchoBot: Enabled NoFail, disabled FreeMod
+[01:17:34] BCraftMG: !mp timer 120
+[01:17:35] BanchoBot: Countdown aborted
+[01:17:35] BanchoBot: Countdown ends in 2 minutes
+[01:18:15] YoshiLover456: glhf~
+[01:18:16] BanchoBot: All players are ready
+[01:18:18] deflateddolphin: gl
+[01:18:19] Y_u_w_a_n: glhf!
+[01:18:21] BCraftMG: !mp settings
+[01:18:22] BanchoBot: Room name: PTSP: (love yoshi 456) vs (Inazuma Japan), History: https://osu.ppy.sh/mp/109283308
+[01:18:22] BanchoBot: Beatmap: https://osu.ppy.sh/b/4061900 ZOMBIESHARK! - IDIOT MACHINE
+[01:18:22] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:18:22] BanchoBot: Active mods: NoFail
+[01:18:22] BanchoBot: Players: 4
+[01:18:22] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6843383 YoshiLover456   [Team Red ]
+[01:18:22] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10184558 deflateddolphin [Team Red ]
+[01:18:22] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8192004 Y u w a n       [Team Blue]
+[01:18:22] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16288992 Ruyaya          [Team Blue]
+[01:18:24] BCraftMG: !mp start 5 glhf
+[01:18:24] BanchoBot: Countdown aborted
+[01:18:24] BanchoBot: Match starts in 5 seconds
+[01:18:24] BanchoBot: Queued the match to start in 5 seconds
+[01:18:25] BanchoBot: Match starts in 4 seconds
+[01:18:26] BanchoBot: Match starts in 3 seconds
+[01:18:27] BanchoBot: Good luck, have fun!
+[01:18:29] BanchoBot: The match has started!
+[01:20:53] BanchoBot: YoshiLover456 finished playing (Score: 192822, PASSED).
+[01:20:54] BanchoBot: deflateddolphin finished playing (Score: 154460, PASSED).
+[01:20:54] BanchoBot: Ruyaya finished playing (Score: 616130, PASSED).
+[01:20:54] BanchoBot: Y u w a n finished playing (Score: 681068, PASSED).
+[01:20:54] BanchoBot: The match has finished!
+[01:21:19] BCraftMG: !mp map 2980850 0
+[01:21:19] BanchoBot: Teppi Fangirl joined in slot 5 for team blue.
+[01:21:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2980850 Will Stetson - Lagtrain
+[01:21:19] BanchoBot: Changed match mode to Osu
+[01:21:22] BCraftMG: !mp mods FL NF
+[01:21:23] BanchoBot: Enabled NoFail, Flashlight, disabled FreeMod
+[01:21:23] BCraftMG: !mp timer 120
+[01:21:24] BanchoBot: Countdown ends in 2 minutes
+[01:21:30] BanchoBot: Y u w a n left the game.
+[01:21:31] BanchoBot: deflateddolphin moved to slot 8
+[01:21:32] BanchoBot: deflateddolphin left the game.
+[01:21:34] BanchoBot: Teppi Fangirl moved to slot 2
+[01:21:34] BanchoBot: Ruyaya left the game.
+[01:21:36] BanchoBot: Teppi Fangirl changed to Red
+[01:21:44] BanchoBot: Ruyaya joined in slot 3 for team blue.
+[01:21:47] BanchoBot: Summer_Ouo joined in slot 4 for team red.
+[01:22:08] BanchoBot: Summer_Ouo changed to Blue
+[01:22:25] BanchoBot: Countdown ends in 1 minute
+[01:22:29] BanchoBot: All players are ready
+[01:22:30] BCraftMG: !mp settings
+[01:22:31] BanchoBot: Room name: PTSP: (love yoshi 456) vs (Inazuma Japan), History: https://osu.ppy.sh/mp/109283308
+[01:22:31] BanchoBot: Beatmap: https://osu.ppy.sh/b/2980850 Will Stetson - Lagtrain
+[01:22:31] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[01:22:31] BanchoBot: Active mods: NoFail, Flashlight
+[01:22:31] BanchoBot: Players: 4
+[01:22:31] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/6843383 YoshiLover456   [Team Red ]
+[01:22:31] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16522589 Teppi Fangirl   [Team Red ]
+[01:22:31] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16288992 Ruyaya          [Team Blue]
+[01:22:31] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15184992 Summer_Ouo      [Team Blue]
+[01:22:32] Teppi_Fangirl: gl
+[01:22:34] BCraftMG: !mp start 5 glhf
+[01:22:35] BanchoBot: Countdown aborted
+[01:22:35] BanchoBot: Match starts in 5 seconds
+[01:22:35] BanchoBot: Queued the match to start in 5 seconds
+[01:22:36] BanchoBot: Match starts in 4 seconds
+[01:22:37] BanchoBot: Match starts in 3 seconds
+[01:22:38] BanchoBot: Good luck, have fun!
+[01:22:40] BanchoBot: The match has started!
+[01:26:54] BanchoBot: YoshiLover456 finished playing (Score: 321829, PASSED).
+[01:26:54] BanchoBot: Teppi Fangirl finished playing (Score: 174905, PASSED).
+[01:26:55] BanchoBot: Summer_Ouo finished playing (Score: 94856, PASSED).
+[01:26:56] BanchoBot: Ruyaya finished playing (Score: 29806, PASSED).
+[01:26:56] BanchoBot: The match has finished!
+[01:27:01] Teppi_Fangirl: gg
+[01:27:07] Ruyaya: ggwp
+[01:27:09] BCraftMG: love yoshi 456 | 2 : 0 | Inazuma Japan
+[01:27:10] Summer_Ouo: ggwp
+[01:27:10] BCraftMG: ggwp
+[01:27:13] YoshiLover456: ggwp~
+[01:27:16] Teppi_Fangirl: thx for match!
+[01:27:16] Ruyaya: thx for ref
+[01:27:26] BanchoBot: Ruyaya left the game.
+[01:27:26] Summer_Ouo: ty for ref and game
+[01:27:28] YoshiLover456: ty for ref~
+[01:27:29] YoshiLover456: o/
+[01:27:30] BanchoBot: Summer_Ouo left the game.
+[01:27:31] BanchoBot: Teppi Fangirl left the game.
+[01:27:31] BanchoBot: YoshiLover456 left the game.
+[01:29:20] BCraftMG: !mp close
+[01:29:20] BanchoBot: Closed the match

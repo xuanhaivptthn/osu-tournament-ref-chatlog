@@ -1,0 +1,523 @@
+[00:17:01] Joined #mp_105997571
+[00:17:01] DaddyStage: !mp settings
+[00:17:03] BanchoBot: Room name: 5WC23VN: (Tryout) vs (-Ryn-), History: https://osu.ppy.sh/mp/105997571
+[00:17:03] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[00:17:03] BanchoBot: Players: 0
+[00:17:07] DaddyStage: !mp set 0 3 2
+[00:17:07] BanchoBot: Changed match settings to 2 slots, HeadToHead, ScoreV2
+[00:17:11] DaddyStage: !mp invite -Ryn-
+[00:17:12] BanchoBot: Invited -Ryn- to the room
+[00:17:19] BanchoBot: -Ryn- joined in slot 1.
+[00:18:36] DaddyStage: !mp settings
+[00:18:36] BanchoBot: Room name: 5WC23VN: (Tryout) vs (-Ryn-), History: https://osu.ppy.sh/mp/105997571
+[00:18:36] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:18:36] BanchoBot: Players: 1
+[00:18:36] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/9367417 -Ryn-           
+[00:18:43] DaddyStage: !mp mods NF
+[00:18:43] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:18:44] DaddyStage: !mp map 3875861 0
+[00:18:44] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3875861 WAGAMAMA RAKIA - GR4VITY G4ME
+[00:18:44] BanchoBot: Changed match mode to Osu
+[00:18:51] DaddyStage: pool hơi dài nha anh
+[00:19:21] DaddyStage: !mp settings
+[00:19:21] BanchoBot: Room name: 5WC23VN: (Tryout) vs (-Ryn-), History: https://osu.ppy.sh/mp/105997571
+[00:19:21] BanchoBot: Beatmap: https://osu.ppy.sh/b/3875861 WAGAMAMA RAKIA - GR4VITY G4ME
+[00:19:21] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:19:21] BanchoBot: Active mods: NoFail
+[00:19:21] BanchoBot: Players: 1
+[00:19:21] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/9367417 -Ryn-           
+[00:19:30] -Ryn-: doi ti nha anh
+[00:22:10] -Ryn-: oke r
+[00:22:17] BanchoBot: All players are ready
+[00:22:21] DaddyStage: !mp settings
+[00:22:22] BanchoBot: Room name: 5WC23VN: (Tryout) vs (-Ryn-), History: https://osu.ppy.sh/mp/105997571
+[00:22:22] BanchoBot: Beatmap: https://osu.ppy.sh/b/3875861 WAGAMAMA RAKIA - GR4VITY G4ME
+[00:22:22] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:22:22] BanchoBot: Active mods: NoFail
+[00:22:22] BanchoBot: Players: 1
+[00:22:22] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9367417 -Ryn-           
+[00:22:23] DaddyStage: !mp start 5 glhf
+[00:22:23] BanchoBot: Match starts in 5 seconds
+[00:22:23] BanchoBot: Queued the match to start in 5 seconds
+[00:22:25] BanchoBot: Match starts in 4 seconds
+[00:22:26] BanchoBot: Match starts in 3 seconds
+[00:22:27] BanchoBot: Good luck, have fun!
+[00:22:29] BanchoBot: The match has started!
+[00:26:31] BanchoBot: -Ryn- finished playing (Score: 535541, PASSED).
+[00:26:31] BanchoBot: The match has finished!
+[00:26:39] DaddyStage: !mp mods NF
+[00:26:39] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:26:40] DaddyStage: !mp map 2636406 0
+[00:26:40] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2636406 Twilight Force - Valley of the Vale
+[00:26:40] BanchoBot: Changed match mode to Osu
+[00:27:33] -Ryn-: doi toi ti nha anh
+[00:28:58] BanchoBot: All players are ready
+[00:29:02] DaddyStage: !mp settings
+[00:29:02] -Ryn-: oke roi anh
+[00:29:04] BanchoBot: Room name: 5WC23VN: (Tryout) vs (-Ryn-), History: https://osu.ppy.sh/mp/105997571
+[00:29:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/2636406 Twilight Force - Valley of the Vale
+[00:29:04] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:29:04] BanchoBot: Active mods: NoFail
+[00:29:04] BanchoBot: Players: 1
+[00:29:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9367417 -Ryn-           
+[00:29:10] DaddyStage: anh cu ready la toi start nha
+[00:29:11] DaddyStage: !mp start 5 glhf
+[00:29:12] BanchoBot: Match starts in 5 seconds
+[00:29:12] BanchoBot: Queued the match to start in 5 seconds
+[00:29:13] BanchoBot: Match starts in 4 seconds
+[00:29:14] BanchoBot: Match starts in 3 seconds
+[00:29:15] BanchoBot: Good luck, have fun!
+[00:29:17] BanchoBot: The match has started!
+[00:33:00] BanchoBot: -Ryn- finished playing (Score: 383333, PASSED).
+[00:33:00] BanchoBot: The match has finished!
+[00:33:12] DaddyStage: !mp mods NF
+[00:33:12] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:33:13] DaddyStage: !mp map 3193021 0
+[00:33:13] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3193021 Wiseman (CV: Harada Sayaka & CV: Kito Akari & CV: Mano Ayumi) - Wiseman no Thema
+[00:33:13] BanchoBot: Changed match mode to Osu
+[00:33:41] BanchoBot: All players are ready
+[00:34:13] -Ryn-: zo anh ơi
+[00:34:56] DaddyStage: !mp settings
+[00:34:57] BanchoBot: Room name: 5WC23VN: (Tryout) vs (-Ryn-), History: https://osu.ppy.sh/mp/105997571
+[00:34:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/3193021 Wiseman (CV: Harada Sayaka & CV: Kito Akari & CV: Mano Ayumi) - Wiseman no Thema
+[00:34:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:34:57] BanchoBot: Active mods: NoFail
+[00:34:57] BanchoBot: Players: 1
+[00:34:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9367417 -Ryn-           
+[00:34:58] DaddyStage: !mp start 5 glhf
+[00:34:58] BanchoBot: Match starts in 5 seconds
+[00:34:58] BanchoBot: Queued the match to start in 5 seconds
+[00:34:59] BanchoBot: Match starts in 4 seconds
+[00:35:00] BanchoBot: Match starts in 3 seconds
+[00:35:01] BanchoBot: Good luck, have fun!
+[00:35:04] BanchoBot: The match has started!
+[00:38:38] BanchoBot: -Ryn- finished playing (Score: 297140, PASSED).
+[00:38:38] BanchoBot: The match has finished!
+[00:38:47] DaddyStage: !mp mods NF
+[00:38:47] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:38:48] DaddyStage: !mp map 3754093 0
+[00:38:48] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3754093 Rukadesu - Houkago OVERDRIVE!!!!!
+[00:38:48] BanchoBot: Changed match mode to Osu
+[00:38:53] BanchoBot: All players are ready
+[00:38:59] DaddyStage: !mp settings
+[00:38:59] BanchoBot: Room name: 5WC23VN: (Tryout) vs (-Ryn-), History: https://osu.ppy.sh/mp/105997571
+[00:38:59] BanchoBot: Beatmap: https://osu.ppy.sh/b/3754093 Rukadesu - Houkago OVERDRIVE!!!!!
+[00:38:59] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:38:59] BanchoBot: Active mods: NoFail
+[00:38:59] BanchoBot: Players: 1
+[00:38:59] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9367417 -Ryn-           
+[00:39:01] DaddyStage: !mp start 5 glhf
+[00:39:02] BanchoBot: Match starts in 5 seconds
+[00:39:02] BanchoBot: Queued the match to start in 5 seconds
+[00:39:03] BanchoBot: Match starts in 4 seconds
+[00:39:04] BanchoBot: Match starts in 3 seconds
+[00:39:05] BanchoBot: Good luck, have fun!
+[00:39:07] BanchoBot: The match has started!
+[00:42:41] BanchoBot: -Ryn- finished playing (Score: 356878, PASSED).
+[00:42:41] BanchoBot: The match has finished!
+[00:42:48] DaddyStage: !mp mods NF
+[00:42:48] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:42:50] DaddyStage: !mp map 3129534 0
+[00:42:50] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3129534 Diceros Bicornis - ReviveR
+[00:42:50] BanchoBot: Changed match mode to Osu
+[00:42:52] BanchoBot: All players are ready
+[00:42:55] DaddyStage: !mp settings
+[00:42:56] BanchoBot: Room name: 5WC23VN: (Tryout) vs (-Ryn-), History: https://osu.ppy.sh/mp/105997571
+[00:42:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/3129534 Diceros Bicornis - ReviveR
+[00:42:56] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:42:56] BanchoBot: Active mods: NoFail
+[00:42:56] BanchoBot: Players: 1
+[00:42:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9367417 -Ryn-           
+[00:42:56] DaddyStage: !mp start 5 glhf
+[00:42:57] BanchoBot: Match starts in 5 seconds
+[00:42:57] BanchoBot: Queued the match to start in 5 seconds
+[00:42:58] BanchoBot: Match starts in 4 seconds
+[00:42:59] BanchoBot: Match starts in 3 seconds
+[00:43:00] BanchoBot: Good luck, have fun!
+[00:43:03] BanchoBot: The match has started!
+[00:45:09] BanchoBot: -Ryn- finished playing (Score: 833220, PASSED).
+[00:45:09] BanchoBot: The match has finished!
+[00:45:18] DaddyStage: !mp mods NF
+[00:45:18] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:45:20] DaddyStage: !mp map 2689460 0
+[00:45:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2689460 OSTER project - piano x forte
+[00:45:20] BanchoBot: Changed match mode to Osu
+[00:45:22] BanchoBot: All players are ready
+[00:45:24] DaddyStage: !mp settings
+[00:45:24] BanchoBot: Room name: 5WC23VN: (Tryout) vs (-Ryn-), History: https://osu.ppy.sh/mp/105997571
+[00:45:24] BanchoBot: Beatmap: https://osu.ppy.sh/b/2689460 OSTER project - piano x forte
+[00:45:24] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:45:24] BanchoBot: Active mods: NoFail
+[00:45:24] BanchoBot: Players: 1
+[00:45:24] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9367417 -Ryn-           
+[00:45:25] DaddyStage: !mp start 5 glhf
+[00:45:26] BanchoBot: Match starts in 5 seconds
+[00:45:26] BanchoBot: Queued the match to start in 5 seconds
+[00:45:27] BanchoBot: Match starts in 4 seconds
+[00:45:28] BanchoBot: Match starts in 3 seconds
+[00:45:29] BanchoBot: Good luck, have fun!
+[00:45:31] BanchoBot: The match has started!
+[00:48:49] BanchoBot: -Ryn- finished playing (Score: 568780, PASSED).
+[00:48:49] BanchoBot: The match has finished!
+[00:48:55] DaddyStage: !mp mods NF HD
+[00:48:55] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[00:48:56] DaddyStage: !mp map 3842253 0
+[00:48:56] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3842253 Denkishiki Karen Ongaku Shuudan - Tenshi no Shitone
+[00:48:56] BanchoBot: Changed match mode to Osu
+[00:49:50] BanchoBot: All players are ready
+[00:49:54] DaddyStage: !mp settings
+[00:49:55] BanchoBot: Room name: 5WC23VN: (Tryout) vs (-Ryn-), History: https://osu.ppy.sh/mp/105997571
+[00:49:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/3842253 Denkishiki Karen Ongaku Shuudan - Tenshi no Shitone
+[00:49:55] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:49:55] BanchoBot: Active mods: NoFail, Hidden
+[00:49:55] BanchoBot: Players: 1
+[00:49:55] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9367417 -Ryn-           
+[00:49:56] DaddyStage: !mp start 5 glhf
+[00:49:56] BanchoBot: Match starts in 5 seconds
+[00:49:56] BanchoBot: Queued the match to start in 5 seconds
+[00:49:58] BanchoBot: Match starts in 4 seconds
+[00:49:59] BanchoBot: Match starts in 3 seconds
+[00:50:00] BanchoBot: Good luck, have fun!
+[00:50:02] BanchoBot: The match has started!
+[00:53:59] BanchoBot: -Ryn- finished playing (Score: 406045, PASSED).
+[00:53:59] BanchoBot: The match has finished!
+[00:54:05] DaddyStage: !mp mods NF HD
+[00:54:05] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[00:54:06] DaddyStage: !mp map 3668781 0
+[00:54:06] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3668781 Mitsukiyo - Unwelcome School
+[00:54:06] BanchoBot: Changed match mode to Osu
+[00:54:29] BanchoBot: All players are ready
+[00:54:37] DaddyStage: !mp settings
+[00:54:38] BanchoBot: Room name: 5WC23VN: (Tryout) vs (-Ryn-), History: https://osu.ppy.sh/mp/105997571
+[00:54:38] BanchoBot: Beatmap: https://osu.ppy.sh/b/3668781 Mitsukiyo - Unwelcome School
+[00:54:38] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:54:38] BanchoBot: Active mods: NoFail, Hidden
+[00:54:38] BanchoBot: Players: 1
+[00:54:38] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9367417 -Ryn-           
+[00:54:39] DaddyStage: !mp start 5 glhf
+[00:54:39] BanchoBot: Match starts in 5 seconds
+[00:54:39] BanchoBot: Queued the match to start in 5 seconds
+[00:54:40] BanchoBot: Match starts in 4 seconds
+[00:54:41] BanchoBot: Match starts in 3 seconds
+[00:54:42] BanchoBot: Good luck, have fun!
+[00:54:45] BanchoBot: The match has started!
+[00:56:52] BanchoBot: -Ryn- finished playing (Score: 135880, PASSED).
+[00:56:52] BanchoBot: The match has finished!
+[00:56:59] DaddyStage: !mp mods NF HD
+[00:56:59] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[00:57:00] DaddyStage: !mp map 2661537 0
+[00:57:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2661537 kanone - Ground Z.E.R.O.
+[00:57:00] BanchoBot: Changed match mode to Osu
+[00:57:02] -Ryn-: sightread gone
+[00:57:08] BanchoBot: All players are ready
+[00:57:12] DaddyStage: !mp settings
+[00:57:13] BanchoBot: Room name: 5WC23VN: (Tryout) vs (-Ryn-), History: https://osu.ppy.sh/mp/105997571
+[00:57:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/2661537 kanone - Ground Z.E.R.O.
+[00:57:13] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:57:13] BanchoBot: Active mods: NoFail, Hidden
+[00:57:13] BanchoBot: Players: 1
+[00:57:13] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9367417 -Ryn-           
+[00:57:15] DaddyStage: !mp start 5 glhf
+[00:57:16] BanchoBot: Match starts in 5 seconds
+[00:57:16] BanchoBot: Queued the match to start in 5 seconds
+[00:57:17] BanchoBot: Match starts in 4 seconds
+[00:57:18] BanchoBot: Match starts in 3 seconds
+[00:57:19] BanchoBot: Good luck, have fun!
+[00:57:21] BanchoBot: The match has started!
+[00:59:48] BanchoBot: -Ryn- finished playing (Score: 156595, PASSED).
+[00:59:48] BanchoBot: The match has finished!
+[00:59:55] DaddyStage: !mp mods NF HD
+[00:59:55] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[00:59:56] DaddyStage: !mp map 3804328 0
+[00:59:56] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3804328 Polyphia - ABC (feat. Sophia Black)
+[00:59:56] BanchoBot: Changed match mode to Osu
+[01:00:01] -Ryn-: ai lam pool HD hủy diet the
+[01:00:12] BanchoBot: All players are ready
+[01:00:14] BanchoBot: All players are ready
+[01:00:15] BanchoBot: All players are ready
+[01:00:17] DaddyStage: !mp settings
+[01:00:17] BanchoBot: Room name: 5WC23VN: (Tryout) vs (-Ryn-), History: https://osu.ppy.sh/mp/105997571
+[01:00:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/3804328 Polyphia - ABC (feat. Sophia Black)
+[01:00:17] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:00:17] BanchoBot: Active mods: NoFail, Hidden
+[01:00:17] BanchoBot: Players: 1
+[01:00:17] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9367417 -Ryn-           
+[01:00:25] DaddyStage: death
+[01:00:26] DaddyStage: !mp start 5
+[01:00:26] BanchoBot: Match starts in 5 seconds
+[01:00:26] BanchoBot: Queued the match to start in 5 seconds
+[01:00:27] BanchoBot: Match starts in 4 seconds
+[01:00:28] BanchoBot: Match starts in 3 seconds
+[01:00:28] BanchoBot: Good luck, have fun!
+[01:00:31] BanchoBot: The match has started!
+[01:03:11] BanchoBot: -Ryn- finished playing (Score: 331281, PASSED).
+[01:03:11] BanchoBot: The match has finished!
+[01:03:18] DaddyStage: !mp mods NF HR
+[01:03:18] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[01:03:19] DaddyStage: !mp map 3749455 0
+[01:03:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3749455 Midnight Grand Orchestra - Rat A Tat
+[01:03:19] BanchoBot: Changed match mode to Osu
+[01:03:22] -Ryn-: j ma vua banger vua kho
+[01:03:23] -Ryn-: heiya
+[01:03:28] -Ryn-: xin 2p nha
+[01:03:29] -Ryn-: doi ti
+[01:06:19] BanchoBot: All players are ready
+[01:06:23] -Ryn-: oke we gud
+[01:06:26] DaddyStage: !mp settings
+[01:06:27] BanchoBot: Room name: 5WC23VN: (Tryout) vs (-Ryn-), History: https://osu.ppy.sh/mp/105997571
+[01:06:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/3749455 Midnight Grand Orchestra - Rat A Tat
+[01:06:27] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:06:27] BanchoBot: Active mods: NoFail, HardRock
+[01:06:27] BanchoBot: Players: 1
+[01:06:27] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9367417 -Ryn-           
+[01:06:28] DaddyStage: !mp start 5 glhf
+[01:06:29] BanchoBot: Match starts in 5 seconds
+[01:06:29] BanchoBot: Queued the match to start in 5 seconds
+[01:06:30] BanchoBot: Match starts in 4 seconds
+[01:06:31] BanchoBot: Match starts in 3 seconds
+[01:06:32] BanchoBot: Good luck, have fun!
+[01:06:34] BanchoBot: The match has started!
+[01:10:18] BanchoBot: -Ryn- finished playing (Score: 476981, PASSED).
+[01:10:18] BanchoBot: The match has finished!
+[01:10:24] DaddyStage: !mp mods NF HR
+[01:10:24] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[01:10:25] DaddyStage: !mp map 3251863 0
+[01:10:25] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3251863 Police Piccadilly feat. KAFU - Furachi na Kassai
+[01:10:25] BanchoBot: Changed match mode to Osu
+[01:10:34] BanchoBot: All players are ready
+[01:10:43] DaddyStage: !mp settings
+[01:10:43] BanchoBot: Room name: 5WC23VN: (Tryout) vs (-Ryn-), History: https://osu.ppy.sh/mp/105997571
+[01:10:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/3251863 Police Piccadilly feat. KAFU - Furachi na Kassai
+[01:10:43] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:10:43] BanchoBot: Active mods: NoFail, HardRock
+[01:10:43] BanchoBot: Players: 1
+[01:10:43] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9367417 -Ryn-           
+[01:10:43] DaddyStage: !mp start 5
+[01:10:43] BanchoBot: Match starts in 5 seconds
+[01:10:43] BanchoBot: Queued the match to start in 5 seconds
+[01:10:45] BanchoBot: Match starts in 4 seconds
+[01:10:45] BanchoBot: Match starts in 3 seconds
+[01:10:46] BanchoBot: Good luck, have fun!
+[01:10:48] BanchoBot: The match has started!
+[01:13:17] BanchoBot: -Ryn- finished playing (Score: 856162, PASSED).
+[01:13:17] BanchoBot: The match has finished!
+[01:13:23] DaddyStage: !mp mods NF HR
+[01:13:23] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[01:13:25] DaddyStage: !mp map 2827368 0
+[01:13:25] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2827368 Mitsukiyo - Rolling Beat
+[01:13:25] BanchoBot: Changed match mode to Osu
+[01:13:27] BanchoBot: All players are ready
+[01:13:35] DaddyStage: !mp settings
+[01:13:35] BanchoBot: Room name: 5WC23VN: (Tryout) vs (-Ryn-), History: https://osu.ppy.sh/mp/105997571
+[01:13:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/2827368 Mitsukiyo - Rolling Beat
+[01:13:35] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:13:35] BanchoBot: Active mods: NoFail, HardRock
+[01:13:35] BanchoBot: Players: 1
+[01:13:35] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9367417 -Ryn-           
+[01:13:36] DaddyStage: !mp start 5
+[01:13:36] BanchoBot: Match starts in 5 seconds
+[01:13:36] BanchoBot: Queued the match to start in 5 seconds
+[01:13:37] BanchoBot: Match starts in 4 seconds
+[01:13:38] BanchoBot: Match starts in 3 seconds
+[01:13:38] BanchoBot: Good luck, have fun!
+[01:13:41] BanchoBot: The match has started!
+[01:16:07] BanchoBot: -Ryn- finished playing (Score: 165385, PASSED).
+[01:16:07] BanchoBot: The match has finished!
+[01:16:13] DaddyStage: !mp mods NF HR
+[01:16:13] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[01:16:14] DaddyStage: !mp map 1637465 0
+[01:16:14] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1637465 Thaehan - Doki-Doki
+[01:16:14] BanchoBot: Changed match mode to Osu
+[01:16:22] DaddyStage: i ned slep
+[01:16:54] BanchoBot: All players are ready
+[01:17:03] DaddyStage: !mp settings
+[01:17:04] BanchoBot: Room name: 5WC23VN: (Tryout) vs (-Ryn-), History: https://osu.ppy.sh/mp/105997571
+[01:17:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/1637465 Thaehan - Doki-Doki
+[01:17:04] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:17:04] BanchoBot: Active mods: NoFail, HardRock
+[01:17:04] BanchoBot: Players: 1
+[01:17:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9367417 -Ryn-           
+[01:17:04] DaddyStage: !mp start 5 glhf
+[01:17:05] BanchoBot: Match starts in 5 seconds
+[01:17:05] BanchoBot: Queued the match to start in 5 seconds
+[01:17:06] BanchoBot: Match starts in 4 seconds
+[01:17:07] BanchoBot: Match starts in 3 seconds
+[01:17:08] BanchoBot: Good luck, have fun!
+[01:17:10] BanchoBot: The match has started!
+[01:18:19] DaddyStage: !mp addref SakuyaMyAngel
+[01:18:20] BanchoBot: Added SakuyaMyAngel to the match referees
+[01:19:05] BanchoBot: -Ryn- finished playing (Score: 680439, PASSED).
+[01:19:05] BanchoBot: The match has finished!
+[01:19:14] SakuyaMyAngel: !mp settings
+[01:19:14] BanchoBot: Room name: 5WC23VN: (Tryout) vs (-Ryn-), History: https://osu.ppy.sh/mp/105997571
+[01:19:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/1637465 Thaehan - Doki-Doki
+[01:19:14] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:19:14] BanchoBot: Active mods: NoFail, HardRock
+[01:19:14] BanchoBot: Players: 1
+[01:19:14] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/9367417 -Ryn-           
+[01:19:16] SakuyaMyAngel: sup
+[01:19:17] SakuyaMyAngel: chơi thôi
+[01:19:18] -Ryn-: sup
+[01:19:21] DaddyStage: !mp mods NF DT
+[01:19:21] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[01:19:23] DaddyStage: !mp map 3693984 0
+[01:19:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3693984 chano & 40mP - Natsukoi Hanabi
+[01:19:23] BanchoBot: Changed match mode to Osu
+[01:19:27] -Ryn-: dung nhin mp
+[01:19:28] -Ryn-: :tron:
+[01:19:29] SakuyaMyAngel: !mp map 3875861 0
+[01:19:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3875861 WAGAMAMA RAKIA - GR4VITY G4ME
+[01:19:29] BanchoBot: Changed match mode to Osu
+[01:19:36] SakuyaMyAngel: !mp map 3693984 0
+[01:19:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3693984 chano & 40mP - Natsukoi Hanabi
+[01:19:36] BanchoBot: Changed match mode to Osu
+[01:19:38] SakuyaMyAngel: nhầm
+[01:19:40] SakuyaMyAngel: :tf:
+[01:19:44] SakuyaMyAngel: ráng lên
+[01:19:44] -Ryn-: tron v
+[01:19:44] -Ryn-: @@
+[01:20:00] BanchoBot: All players are ready
+[01:20:03] SakuyaMyAngel: speedrun là tầm 1:30 xon
+[01:20:07] SakuyaMyAngel: !mp start 5
+[01:20:07] BanchoBot: Match starts in 5 seconds
+[01:20:07] BanchoBot: Queued the match to start in 5 seconds
+[01:20:07] BanchoBot: Match starts in 4 seconds
+[01:20:07] -Ryn-: XD
+[01:20:08] SakuyaMyAngel: glgl
+[01:20:08] BanchoBot: Match starts in 3 seconds
+[01:20:09] BanchoBot: Good luck, have fun!
+[01:20:11] BanchoBot: The match has started!
+[01:23:24] BanchoBot: -Ryn- finished playing (Score: 438626, PASSED).
+[01:23:24] BanchoBot: The match has finished!
+[01:23:40] -Ryn-: moi map tam 400k 500k the nay
+[01:23:45] -Ryn-: tach tryout r
+[01:23:47] -Ryn-: lau qua ko choi game
+[01:24:59] SakuyaMyAngel: sorry đang lmaf bài
+[01:25:04] SakuyaMyAngel: !mp map 1107464 0
+[01:25:04] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1107464 senya - Zouka de Arou to Shita Mono
+[01:25:04] BanchoBot: Changed match mode to Osu
+[01:25:09] SakuyaMyAngel: ok go go
+[01:25:12] -Ryn-: oke
+[01:25:13] BanchoBot: All players are ready
+[01:25:15] SakuyaMyAngel: map này như stream ấy
+[01:25:19] SakuyaMyAngel: lmao
+[01:25:24] SakuyaMyAngel: 400k 500k là top 2 ấy
+[01:25:25] SakuyaMyAngel: !mp start 5
+[01:25:25] BanchoBot: Match starts in 5 seconds
+[01:25:25] BanchoBot: Queued the match to start in 5 seconds
+[01:25:25] BanchoBot: Match starts in 4 seconds
+[01:25:26] SakuyaMyAngel: glgl
+[01:25:26] BanchoBot: Match starts in 3 seconds
+[01:25:27] BanchoBot: Good luck, have fun!
+[01:25:29] BanchoBot: The match has started!
+[01:25:29] -Ryn-: o kia
+[01:25:32] -Ryn-: riu
+[01:27:57] BanchoBot: -Ryn- finished playing (Score: 1131740, PASSED).
+[01:27:57] BanchoBot: The match has finished!
+[01:28:03] SakuyaMyAngel: WTF
+[01:28:09] SakuyaMyAngel: !mp map 3154788 0
+[01:28:09] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3154788 SHIKI - Lapis
+[01:28:09] BanchoBot: Changed match mode to Osu
+[01:28:12] SakuyaMyAngel: bro...
+[01:28:16] -Ryn-: ah
+[01:28:21] -Ryn-: nothing
+[01:28:22] SakuyaMyAngel: à quên
+[01:28:22] BanchoBot: All players are ready
+[01:28:24] SakuyaMyAngel: https://forms.gle/8CKRZM7sncsHyT4p8
+[01:28:27] SakuyaMyAngel: đăng ký cái này cái đi
+[01:28:31] SakuyaMyAngel: hoaq kêu
+[01:28:36] -Ryn-: có rồi mà
+[01:28:41] SakuyaMyAngel: có rồi à
+[01:28:44] SakuyaMyAngel: okay
+[01:28:45] SakuyaMyAngel: !mp start 5
+[01:28:45] BanchoBot: Match starts in 5 seconds
+[01:28:45] BanchoBot: Queued the match to start in 5 seconds
+[01:28:45] BanchoBot: Match starts in 4 seconds
+[01:28:46] SakuyaMyAngel: glgl
+[01:28:46] BanchoBot: Match starts in 3 seconds
+[01:28:47] BanchoBot: Good luck, have fun!
+[01:28:49] BanchoBot: The match has started!
+[01:31:53] BanchoBot: -Ryn- finished playing (Score: 439569, PASSED).
+[01:31:53] BanchoBot: The match has finished!
+[01:31:57] -Ryn-: PHAC
+[01:32:02] -Ryn-: toi ko danh nhu marky dc
+[01:32:07] -Ryn-: chac sui 5wc qua
+[01:32:08] SakuyaMyAngel: !mp map 2522615 0
+[01:32:08] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2522615 Ryokuoushoku Shakai - Mela!
+[01:32:08] BanchoBot: Changed match mode to Osu
+[01:32:11] SakuyaMyAngel: hmmge
+[01:32:20] SakuyaMyAngel: chắc ô seed 1 rồi
+[01:32:29] SakuyaMyAngel: còn 2 map
+[01:32:31] SakuyaMyAngel: ráng lên
+[01:32:31] -Ryn-: ma anh oi
+[01:32:37] -Ryn-: sao toi check sheet
+[01:32:42] -Ryn-: no bao la #0 the
+[01:32:46] -Ryn-: no ko hien gi het
+[01:32:47] SakuyaMyAngel: à
+[01:32:51] SakuyaMyAngel: hoaq chưa update thôi
+[01:32:58] -Ryn-: a
+[01:32:59] BanchoBot: All players are ready
+[01:33:02] SakuyaMyAngel: sheet chạy bằng cơm
+[01:33:04] SakuyaMyAngel: !mp start 5
+[01:33:04] BanchoBot: Match starts in 5 seconds
+[01:33:04] BanchoBot: Queued the match to start in 5 seconds
+[01:33:04] BanchoBot: Match starts in 4 seconds
+[01:33:05] SakuyaMyAngel: glgl
+[01:33:05] BanchoBot: Match starts in 3 seconds
+[01:33:05] -Ryn-: map nay chac 200k
+[01:33:06] BanchoBot: Good luck, have fun!
+[01:33:07] -Ryn-: ko choi dc
+[01:33:09] BanchoBot: The match has started!
+[01:35:58] BanchoBot: -Ryn- finished playing (Score: 691939, PASSED).
+[01:35:58] BanchoBot: The match has finished!
+[01:36:02] -Ryn-: map kho qua
+[01:36:05] -Ryn-: heiya
+[01:36:34] SakuyaMyAngel: !mp map 3312446 0
+[01:36:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3312446 Oreore-Usagi - Drain ReD rain
+[01:36:34] BanchoBot: Changed match mode to Osu
+[01:36:37] SakuyaMyAngel: map cuối
+[01:36:39] SakuyaMyAngel: !mp mods 0 freemod
+[01:36:39] BanchoBot: Disabled all mods, enabled FreeMod
+[01:36:42] SakuyaMyAngel: rồi ngủ
+[01:36:47] SakuyaMyAngel: mod gì cũng được
+[01:37:12] SakuyaMyAngel: miễn có nf
+[01:37:14] SakuyaMyAngel: !mp timer
+[01:37:14] BanchoBot: Countdown ends in 30 seconds
+[01:37:19] BanchoBot: All players are ready
+[01:37:19] BanchoBot: All players are ready
+[01:37:21] SakuyaMyAngel: !mp settings
+[01:37:21] BanchoBot: Room name: 5WC23VN: (Tryout) vs (-Ryn-), History: https://osu.ppy.sh/mp/105997571
+[01:37:21] BanchoBot: Beatmap: https://osu.ppy.sh/b/3312446 Oreore-Usagi - Drain ReD rain
+[01:37:21] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:37:21] BanchoBot: Active mods: Freemod
+[01:37:21] BanchoBot: Players: 1
+[01:37:21] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9367417 -Ryn-           [NoFail, Hidden]
+[01:37:25] SakuyaMyAngel: !mp start 5
+[01:37:25] BanchoBot: Countdown aborted
+[01:37:25] BanchoBot: Match starts in 5 seconds
+[01:37:25] BanchoBot: Queued the match to start in 5 seconds
+[01:37:26] BanchoBot: Match starts in 4 seconds
+[01:37:26] SakuyaMyAngel: glgl
+[01:37:26] BanchoBot: Match starts in 3 seconds
+[01:37:28] BanchoBot: Good luck, have fun!
+[01:37:30] BanchoBot: The match has started!
+[01:42:58] BanchoBot: -Ryn- finished playing (Score: 456116, PASSED).
+[01:42:58] BanchoBot: The match has finished!
+[01:43:03] -Ryn-: man
+[01:43:05] -Ryn-: toi ga qua
+[01:43:07] SakuyaMyAngel: okay
+[01:43:08] SakuyaMyAngel: ggwp
+[01:43:09] SakuyaMyAngel: :3
+[01:43:13] -Ryn-: oke oke
+[01:43:14] SakuyaMyAngel: seed 1 rồi đó
+[01:43:16] -Ryn-: bye bye
+[01:43:18] -Ryn-: @@
+[01:43:19] SakuyaMyAngel: bye
+[01:43:23] SakuyaMyAngel: nhớ làm w2 nha
+[01:43:25] -Ryn-: sao = ong thanh duoc
+[01:43:29] SakuyaMyAngel: w2 sẽ tính điểm cao hơn
+[01:43:40] SakuyaMyAngel: là chơi đc điểm nào cao hơn sẽ lấy
+[01:43:40] -Ryn-: okay
+[01:43:53] SakuyaMyAngel: okay thx for playing
+[01:43:54] SakuyaMyAngel: !mp close
+[01:43:54] BanchoBot: Closed the match

@@ -1,0 +1,508 @@
+[22:20:35] Joined #mp_104753820
+[22:20:35] DaddyStage: !mp settings
+[22:20:36] BanchoBot: Room name: VNOC4: (realshin) vs (iFakeRz), History: https://osu.ppy.sh/mp/104753820
+[22:20:36] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[22:20:36] BanchoBot: Players: 0
+[22:20:52] DaddyStage: !mp set 0 3 3
+[22:20:53] BanchoBot: Changed match settings to 3 slots, HeadToHead, ScoreV2
+[22:21:35] DaddyStage: !mp addref Hoaq
+[22:21:36] BanchoBot: Added Hoaq to the match referees
+[22:22:18] DaddyStage: !mp invite #8006029
+[22:22:19] BanchoBot: Invited realshin to the room
+[22:22:21] DaddyStage: !mp invite #5281485
+[22:22:22] BanchoBot: Invited iFakeRz to the room
+[22:22:37] BanchoBot: iFakeRz joined in slot 1.
+[22:22:41] DaddyStage: helo sir
+[22:22:43] DaddyStage: we meet again
+[22:22:51] DaddyStage: :kekw:
+[22:23:13] DaddyStage: !mp invite #8006029
+[22:23:14] BanchoBot: Invited realshin to the room
+[22:23:25] DaddyStage: !mp host iFakeRz
+[22:23:25] BanchoBot: iFakeRz became the host.
+[22:23:25] BanchoBot: Changed match host to iFakeRz
+[22:23:29] DaddyStage: and please move to slot 2
+[22:23:29] BanchoBot: Beatmap changed to: xi - Beatrice [Lince's Expert] (https://osu.ppy.sh/b/3493597)
+[22:23:34] BanchoBot: iFakeRz moved to slot 2
+[22:23:40] DaddyStage: you can pick warm up while waiting
+[22:23:51] BanchoBot: Host is changing map...
+[22:24:13] Hoaq: !mp settings
+[22:24:13] BanchoBot: Room name: VNOC4: (realshin) vs (iFakeRz), History: https://osu.ppy.sh/mp/104753820
+[22:24:13] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:24:13] BanchoBot: Players: 1
+[22:24:13] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/5281485 iFakeRz         [Host]
+[22:24:26] BanchoBot: Beatmap changed to: Lon x Chroma - Wakaranai [WHAT] (https://osu.ppy.sh/b/1839044)
+[22:25:00] DaddyStage: !mp invite #8006029
+[22:25:01] BanchoBot: Invited realshin to the room
+[22:25:09] BanchoBot: realshin joined in slot 1.
+[22:25:13] iFakeRz: heloo
+[22:25:14] iFakeRz: thanks for waiting
+[22:25:16] realshin: o//
+[22:25:20] iFakeRz: :3
+[22:25:30] iFakeRz: my end has come
+[22:25:32] iFakeRz: :deadge:
+[22:25:41] realshin: you mean my end
+[22:25:53] iFakeRz: nonon
+[22:25:54] BanchoBot: All players are ready
+[22:25:55] DaddyStage: ill end both
+[22:25:56] BanchoBot: The match has started!
+[22:29:02] BanchoBot: realshin finished playing (Score: 201925, PASSED).
+[22:29:05] BanchoBot: iFakeRz finished playing (Score: 349867, PASSED).
+[22:29:05] BanchoBot: The match has finished!
+[22:29:13] iFakeRz: lol
+[22:29:14] iFakeRz: i hit hard part
+[22:29:16] iFakeRz: pogg
+[22:29:19] BanchoBot: realshin became the host.
+[22:29:21] realshin: WHAT
+[22:29:22] BanchoBot: Host is changing map...
+[22:29:32] iFakeRz: hit the whole stream and jump part
+[22:29:41] iFakeRz: im fine with loosing now
+[22:29:44] iFakeRz: :YEP:
+[22:30:00] BanchoBot: Beatmap changed to: inabakumori - Tsukuri Kake no Shinshou [whitegungachungablebusiness collab] (https://osu.ppy.sh/b/3784873)
+[22:30:17] iFakeRz: freemod
+[22:30:19] iFakeRz: =w=
+[22:30:22] realshin: i bet my money on you
+[22:30:24] realshin: dont you dare
+[22:30:29] iFakeRz: i bet my money on you lol
+[22:30:36] iFakeRz: i went all in on you
+[22:30:37] iFakeRz: kekw
+[22:30:45] realshin: :tf:
+[22:30:46] iFakeRz: can u do freemod?
+[22:31:01] BanchoBot: All players are ready
+[22:31:03] BanchoBot: The match has started!
+[22:31:07] iFakeRz: hd playr nooo
+[22:34:36] BanchoBot: realshin finished playing (Score: 354517, PASSED).
+[22:34:37] BanchoBot: iFakeRz finished playing (Score: 271580, PASSED).
+[22:34:37] BanchoBot: The match has finished!
+[22:34:49] realshin: !roll
+[22:34:49] BanchoBot: realshin rolls 63 point(s)
+[22:34:51] iFakeRz: well
+[22:34:53] iFakeRz: this map with hr
+[22:34:54] iFakeRz: oof
+[22:34:59] iFakeRz: !roll
+[22:34:59] BanchoBot: iFakeRz rolls 55 point(s)
+[22:35:06] iFakeRz: ; A;
+[22:35:09] Hoaq: !vcl pool on
+[22:35:13] realshin: 2nd pick
+[22:35:13] DaddyStage: realshin choose pick/ban order
+[22:35:48] iFakeRz: 2 ban
+[22:36:16] Hoaq: !vcl setf --protect red --ban red --pick blue
+[22:36:20] DaddyStage: realshin first protect
+[22:36:23] DaddyStage: !mp timer 90
+[22:36:24] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[22:36:24] DaddyStage: !mp timer 120
+[22:36:25] realshin: hd2
+[22:36:25] BanchoBot: Countdown aborted
+[22:36:25] BanchoBot: Countdown ends in 2 minutes
+[22:36:31] iFakeRz: :deadge:
+[22:36:35] iFakeRz: protect hr2
+[22:36:41] realshin: :deadge:
+[22:36:41] Hoaq: !vcl protect red 3035172
+[22:36:51] DaddyStage: realshin ban
+[22:36:51] Hoaq: !vcl protect 3035172
+[22:36:56] DaddyStage: !mp timer 120
+[22:36:57] BanchoBot: Countdown aborted
+[22:36:57] BanchoBot: Countdown ends in 2 minutes
+[22:37:03] Hoaq: !vcl protect red 3035172 0
+[22:37:09] realshin: hr3 ban
+[22:37:19] DaddyStage: !vcl protect 3035172
+[22:37:19] iFakeRz: ban hd3
+[22:37:21] iFakeRz: XD
+[22:37:22] Hoaq: stream need some catchup 1 moment gyze
+[22:37:29] iFakeRz: hd and hr players in a nutshell
+[22:37:30] realshin: *tryz sad noises*
+[22:37:32] iFakeRz: protect 2 ban 3
+[22:37:34] iFakeRz: XD
+[22:37:42] realshin: kekw
+[22:37:57] BanchoBot: Countdown ends in 1 minute
+[22:38:02] Hoaq: chat will be spammed with commands I';
+[22:38:04] DaddyStage: !mp aborttimer
+[22:38:05] BanchoBot: Countdown aborted
+[22:38:07] Hoaq: I'm not sory btw
+[22:38:15] iFakeRz: :ragey:
+[22:38:20] DaddyStage: realshin | 0 - 0 | iFakeRz // First Pick: iFakeRz
+[22:38:21] realshin: can i use those overlay cmds
+[22:38:22] DaddyStage: i mean
+[22:38:31] Hoaq: !vcl setf --protect red --ban red --pick blue
+[22:38:32] iFakeRz: hr1
+[22:38:43] Hoaq: !vcl protect 3035172
+[22:38:50] Hoaq: !vcl protect 2457802
+[22:38:56] Hoaq: !vcl ban 1740092
+[22:39:00] Hoaq: !vcl ban 3829082
+[22:39:03] DaddyStage: !mp map 1419954 0
+[22:39:04] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1419954 EMILIA (CV: Takahashi Rie) - Stay Alive (Jun Kuroda Bootleg Remix)
+[22:39:04] BanchoBot: Changed match mode to Osu
+[22:39:05] Hoaq: !vcl pick 1419954
+[22:39:06] DaddyStage: !mp mods 17
+[22:39:06] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[22:39:08] DaddyStage: !mp timer 120
+[22:39:09] BanchoBot: Countdown ends in 2 minutes
+[22:39:23] BanchoBot: All players are ready
+[22:39:30] iFakeRz: glhf
+[22:39:33] realshin: golf
+[22:39:35] DaddyStage: !mp settings
+[22:39:36] BanchoBot: Room name: VNOC4: (realshin) vs (iFakeRz), History: https://osu.ppy.sh/mp/104753820
+[22:39:36] BanchoBot: Beatmap: https://osu.ppy.sh/b/1419954 EMILIA (CV: Takahashi Rie) - Stay Alive (Jun Kuroda Bootleg Remix)
+[22:39:36] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:39:36] BanchoBot: Active mods: NoFail, HardRock
+[22:39:36] BanchoBot: Players: 2
+[22:39:36] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8006029 realshin        [Host]
+[22:39:36] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5281485 iFakeRz         
+[22:39:38] iFakeRz: golf
+[22:39:39] DaddyStage: !mp start 5 glhf
+[22:39:40] BanchoBot: Countdown aborted
+[22:39:40] BanchoBot: Match starts in 5 seconds
+[22:39:40] BanchoBot: Queued the match to start in 5 seconds
+[22:39:41] Hoaq: !vcl pool off
+[22:39:41] BanchoBot: Match starts in 4 seconds
+[22:39:42] BanchoBot: Match starts in 3 seconds
+[22:39:43] BanchoBot: Good luck, have fun!
+[22:39:45] BanchoBot: The match has started!
+[22:43:35] BanchoBot: iFakeRz finished playing (Score: 349749, PASSED).
+[22:43:35] BanchoBot: realshin finished playing (Score: 389232, PASSED).
+[22:43:35] BanchoBot: The match has finished!
+[22:43:43] iFakeRz: i had wrong keybinds men
+[22:43:45] iFakeRz: :sadge:
+[22:43:47] DaddyStage: realshin | 1 - 0 | iFakeRz // Next Pick: realshin
+[22:43:50] DaddyStage: !mp timer 120
+[22:43:51] BanchoBot: Countdown ends in 2 minutes
+[22:43:53] realshin: :sadge:
+[22:43:56] realshin: hd1
+[22:44:01] iFakeRz: hoaq
+[22:44:03] iFakeRz: POG
+[22:44:13] realshin: hoaq mapping
+[22:44:14] realshin: 100%
+[22:44:16] DaddyStage: !mp map 3846574 0
+[22:44:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3846574 Aitsuki Nakuru - Rest in Peace my Dear
+[22:44:17] BanchoBot: Changed match mode to Osu
+[22:44:18] DaddyStage: !mp mods 9
+[22:44:18] realshin: no scam
+[22:44:18] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[22:44:20] DaddyStage: !mp timer 120
+[22:44:21] BanchoBot: Countdown aborted
+[22:44:21] BanchoBot: Countdown ends in 2 minutes
+[22:44:29] Hoaq: !vcl pick 3846574
+[22:44:32] realshin: hey i still have host
+[22:44:35] Hoaq: !vcl pick 3846574
+[22:44:37] iFakeRz: xD
+[22:44:42] Hoaq: smh ref
+[22:44:43] DaddyStage: no
+[22:44:45] DaddyStage: !mp clearhost
+[22:44:46] Hoaq: !mp clearhost
+[22:44:46] BanchoBot: Cleared match host
+[22:44:46] BanchoBot: Cleared match host
+[22:44:50] realshin: :tf:
+[22:44:51] BanchoBot: All players are ready
+[22:44:55] realshin: golf
+[22:44:59] iFakeRz: host buff
+[22:44:59] DaddyStage: i dont see host
+[22:45:01] DaddyStage: !mp settings
+[22:45:02] BanchoBot: Room name: VNOC4: (realshin) vs (iFakeRz), History: https://osu.ppy.sh/mp/104753820
+[22:45:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/3846574 Aitsuki Nakuru - Rest in Peace my Dear
+[22:45:02] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:45:02] BanchoBot: Active mods: NoFail, Hidden
+[22:45:02] BanchoBot: Players: 2
+[22:45:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8006029 realshin        
+[22:45:02] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5281485 iFakeRz         
+[22:45:04] DaddyStage: !mp start 5 glhf
+[22:45:05] realshin: real
+[22:45:05] BanchoBot: Countdown aborted
+[22:45:05] BanchoBot: Match starts in 5 seconds
+[22:45:05] BanchoBot: Queued the match to start in 5 seconds
+[22:45:06] BanchoBot: Match starts in 4 seconds
+[22:45:07] BanchoBot: Match starts in 3 seconds
+[22:45:08] BanchoBot: Good luck, have fun!
+[22:45:10] BanchoBot: The match has started!
+[22:49:37] BanchoBot: realshin finished playing (Score: 568914, PASSED).
+[22:49:37] BanchoBot: iFakeRz finished playing (Score: 462732, PASSED).
+[22:49:37] BanchoBot: The match has finished!
+[22:49:40] DaddyStage: realshin | 2 - 0 | iFakeRz // Next Pick: iFakeRz
+[22:49:42] DaddyStage: !mp timer 120
+[22:49:42] BanchoBot: Countdown ends in 2 minutes
+[22:49:43] iFakeRz: ayo
+[22:49:45] iFakeRz: wtf
+[22:49:46] iFakeRz: 0 miss
+[22:49:55] realshin: slider hates me
+[22:50:03] iFakeRz: i hate myself today
+[22:50:06] iFakeRz: underperforming really hard
+[22:50:07] iFakeRz: :I
+[22:50:27] iFakeRz: nm1
+[22:50:38] DaddyStage: !mp map 3056372 0
+[22:50:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3056372 ShinRa-Bansho - Pink Kurage to, Sotto, Kiss o Shita.
+[22:50:39] BanchoBot: Changed match mode to Osu
+[22:50:39] DaddyStage: !Mp mods 1
+[22:50:40] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:50:41] DaddyStage: !mp timer 120
+[22:50:42] BanchoBot: Countdown aborted
+[22:50:42] BanchoBot: Countdown ends in 2 minutes
+[22:50:43] Hoaq: !vcl pick 3056372
+[22:50:50] BanchoBot: All players are ready
+[22:50:51] realshin: golf
+[22:50:55] iFakeRz: golf
+[22:51:14] DaddyStage: !mp settings
+[22:51:15] BanchoBot: Room name: VNOC4: (realshin) vs (iFakeRz), History: https://osu.ppy.sh/mp/104753820
+[22:51:15] BanchoBot: Beatmap: https://osu.ppy.sh/b/3056372 ShinRa-Bansho - Pink Kurage to, Sotto, Kiss o Shita.
+[22:51:15] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:51:15] BanchoBot: Active mods: NoFail
+[22:51:15] BanchoBot: Players: 2
+[22:51:15] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8006029 realshin        
+[22:51:15] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5281485 iFakeRz         
+[22:51:16] DaddyStage: !mp start 5 glhf
+[22:51:17] BanchoBot: Countdown aborted
+[22:51:17] BanchoBot: Match starts in 5 seconds
+[22:51:17] BanchoBot: Queued the match to start in 5 seconds
+[22:51:18] BanchoBot: Match starts in 4 seconds
+[22:51:19] BanchoBot: Match starts in 3 seconds
+[22:51:20] BanchoBot: Good luck, have fun!
+[22:51:22] BanchoBot: The match has started!
+[22:55:20] BanchoBot: iFakeRz finished playing (Score: 497975, PASSED).
+[22:55:20] BanchoBot: realshin finished playing (Score: 581618, PASSED).
+[22:55:20] BanchoBot: The match has finished!
+[22:55:23] DaddyStage: realshin | 3 - 0 | iFakeRz // Next Pick: realshin
+[22:55:25] DaddyStage: !mp timer 120
+[22:55:26] BanchoBot: Countdown ends in 2 minutes
+[22:55:36] iFakeRz: no points today
+[22:55:37] iFakeRz: for me
+[22:55:38] iFakeRz: :(
+[22:55:58] realshin: theres still your protect
+[22:56:20] realshin: nm3
+[22:56:27] BanchoBot: Countdown ends in 1 minute
+[22:56:31] DaddyStage: !mp map 3157178 0
+[22:56:32] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3157178 Tsukuyomi - Dareka no Shinzou ni Nareta nara
+[22:56:32] BanchoBot: Changed match mode to Osu
+[22:56:32] DaddyStage: !mp mods 1
+[22:56:33] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:56:38] Hoaq: !vcl pick 3157178
+[22:56:40] DaddyStage: !mp timer 120
+[22:56:40] BanchoBot: Countdown aborted
+[22:56:40] BanchoBot: Countdown ends in 2 minutes
+[22:56:47] BanchoBot: All players are ready
+[22:56:56] iFakeRz: singletap blessrng
+[22:57:01] DaddyStage: !mp settings
+[22:57:02] BanchoBot: Room name: VNOC4: (realshin) vs (iFakeRz), History: https://osu.ppy.sh/mp/104753820
+[22:57:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/3157178 Tsukuyomi - Dareka no Shinzou ni Nareta nara
+[22:57:02] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:57:02] BanchoBot: Active mods: NoFail
+[22:57:02] BanchoBot: Players: 2
+[22:57:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8006029 realshin        
+[22:57:02] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5281485 iFakeRz         
+[22:57:03] DaddyStage: !mp start 5 glhf
+[22:57:04] BanchoBot: Countdown aborted
+[22:57:04] BanchoBot: Match starts in 5 seconds
+[22:57:04] BanchoBot: Queued the match to start in 5 seconds
+[22:57:05] Hoaq: !vcl pick 3157178
+[22:57:05] BanchoBot: Match starts in 4 seconds
+[22:57:06] BanchoBot: Match starts in 3 seconds
+[22:57:07] BanchoBot: Good luck, have fun!
+[22:57:10] BanchoBot: The match has started!
+[22:57:11] realshin: how can you singletap this :flushed:
+[23:01:06] BanchoBot: iFakeRz finished playing (Score: 374325, PASSED).
+[23:01:07] BanchoBot: realshin finished playing (Score: 394615, PASSED).
+[23:01:07] BanchoBot: The match has finished!
+[23:01:13] DaddyStage: realshin | 4 - 0 | iFakeRz // Next Ban: realshin
+[23:01:15] DaddyStage: !mp timer 120
+[23:01:15] realshin: i hit the ending wtf
+[23:01:15] BanchoBot: Countdown ends in 2 minutes
+[23:01:21] iFakeRz: wow
+[23:01:23] iFakeRz: that was close
+[23:01:30] realshin: yeah
+[23:01:35] Hoaq: !vcl pool on
+[23:01:36] realshin: nm6 ban
+[23:01:53] DaddyStage: iFakeRz ban
+[23:01:55] DaddyStage: !mp timer 120
+[23:01:56] BanchoBot: Countdown aborted
+[23:01:56] BanchoBot: Countdown ends in 2 minutes
+[23:02:01] Hoaq: !vcl ban 3583984
+[23:02:22] iFakeRz: nm2 ban
+[23:02:30] DaddyStage: !mp map 2026805 0
+[23:02:31] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2026805 xi - Ascension to Heaven
+[23:02:31] BanchoBot: Changed match mode to Osu
+[23:02:32] DaddyStage: wait no
+[23:02:33] DaddyStage: f
+[23:02:35] Hoaq: !vcl ban 2026805
+[23:02:36] iFakeRz: ?
+[23:02:39] iFakeRz: :Deadge:
+[23:02:40] DaddyStage: i trolled SORRY
+[23:02:40] Hoaq: ref?
+[23:02:44] realshin: :tf:
+[23:02:47] iFakeRz: xD
+[23:02:47] DaddyStage: next pick iFakeRz
+[23:02:50] DaddyStage: !mp timer 120
+[23:02:51] BanchoBot: Countdown aborted
+[23:02:51] BanchoBot: Countdown ends in 2 minutes
+[23:02:55] iFakeRz: hr2
+[23:03:06] iFakeRz: 1 point :pray:
+[23:03:06] DaddyStage: !mp map 2457802 0
+[23:03:07] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2457802 Laur - Fairy in Strasbourg
+[23:03:07] BanchoBot: Changed match mode to Osu
+[23:03:09] DaddyStage: !mp mods 17
+[23:03:09] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[23:03:10] Hoaq: !vcl pick 2457802
+[23:03:12] DaddyStage: !mp timer 120
+[23:03:12] BanchoBot: Countdown aborted
+[23:03:12] BanchoBot: Countdown ends in 2 minutes
+[23:03:20] realshin: if i get over 300k on this i will be so happy
+[23:03:31] BanchoBot: All players are ready
+[23:03:33] iFakeRz: same
+[23:03:44] DaddyStage: !mp settings
+[23:03:46] BanchoBot: Room name: VNOC4: (realshin) vs (iFakeRz), History: https://osu.ppy.sh/mp/104753820
+[23:03:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/2457802 Laur - Fairy in Strasbourg
+[23:03:46] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:03:46] BanchoBot: Active mods: NoFail, HardRock
+[23:03:46] BanchoBot: Players: 2
+[23:03:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8006029 realshin        
+[23:03:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5281485 iFakeRz         
+[23:03:47] DaddyStage: !mp start 5 glhf
+[23:03:47] BanchoBot: Countdown aborted
+[23:03:47] BanchoBot: Match starts in 5 seconds
+[23:03:47] BanchoBot: Queued the match to start in 5 seconds
+[23:03:49] BanchoBot: Match starts in 4 seconds
+[23:03:49] BanchoBot: Match starts in 3 seconds
+[23:03:51] realshin: golf
+[23:03:51] BanchoBot: Good luck, have fun!
+[23:03:53] BanchoBot: The match has started!
+[23:05:56] BanchoBot: realshin finished playing (Score: 321535, PASSED).
+[23:05:56] BanchoBot: iFakeRz finished playing (Score: 808653, PASSED).
+[23:05:56] BanchoBot: The match has finished!
+[23:05:59] DaddyStage: realshin | 4 - 1 | iFakeRz // Next Pick: realshin
+[23:06:02] DaddyStage: !mp timer 120
+[23:06:02] iFakeRz: ayo
+[23:06:02] BanchoBot: Countdown ends in 2 minutes
+[23:06:05] realshin: goal achieved
+[23:06:10] realshin: nice score
+[23:06:12] DaddyStage: yoooo fc
+[23:06:15] realshin: hd2
+[23:06:27] DaddyStage: !mp map 3035172 0
+[23:06:27] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3035172 ALiCE'S EMOTiON - Lorelei
+[23:06:27] BanchoBot: Changed match mode to Osu
+[23:06:28] DaddyStage: !mp mods 9
+[23:06:29] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[23:06:33] Hoaq: !vcl pick 3035172
+[23:06:36] DaddyStage: !mp timer 120
+[23:06:37] BanchoBot: Countdown aborted
+[23:06:37] BanchoBot: Countdown ends in 2 minutes
+[23:06:49] BanchoBot: All players are ready
+[23:06:51] DaddyStage: !mp settings
+[23:06:52] BanchoBot: Room name: VNOC4: (realshin) vs (iFakeRz), History: https://osu.ppy.sh/mp/104753820
+[23:06:52] BanchoBot: Beatmap: https://osu.ppy.sh/b/3035172 ALiCE'S EMOTiON - Lorelei
+[23:06:52] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:06:52] BanchoBot: Active mods: NoFail, Hidden
+[23:06:52] BanchoBot: Players: 2
+[23:06:52] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8006029 realshin        
+[23:06:52] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5281485 iFakeRz         
+[23:06:53] iFakeRz: 200k
+[23:07:03] DaddyStage: :skull:
+[23:07:03] DaddyStage: !mp start 5 glhf
+[23:07:03] realshin: same
+[23:07:04] BanchoBot: Countdown aborted
+[23:07:04] BanchoBot: Match starts in 5 seconds
+[23:07:04] BanchoBot: Queued the match to start in 5 seconds
+[23:07:05] BanchoBot: Match starts in 4 seconds
+[23:07:07] BanchoBot: Match starts in 3 seconds
+[23:07:08] BanchoBot: Good luck, have fun!
+[23:07:08] realshin: golf
+[23:07:10] BanchoBot: The match has started!
+[23:10:34] BanchoBot: iFakeRz finished playing (Score: 185472, PASSED).
+[23:10:35] BanchoBot: realshin finished playing (Score: 399632, PASSED).
+[23:10:35] BanchoBot: The match has finished!
+[23:10:38] DaddyStage: realshin | 5 - 1 | iFakeRz // Next Pick: iFakeRz
+[23:10:41] DaddyStage: !mp timer 120
+[23:10:42] BanchoBot: Countdown ends in 2 minutes
+[23:10:51] iFakeRz: dt2
+[23:10:59] DaddyStage: !mp map 1761258 0
+[23:11:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1761258 HACHI feat. Hatsune Miku - Suna no Wakusei
+[23:11:00] BanchoBot: Changed match mode to Osu
+[23:11:01] DaddyStage: !mp mods 65
+[23:11:02] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[23:11:03] DaddyStage: !mp timer 120
+[23:11:03] BanchoBot: Countdown aborted
+[23:11:03] BanchoBot: Countdown ends in 2 minutes
+[23:11:05] Hoaq: !vcl pick 1761258
+[23:11:13] realshin: speed battle
+[23:11:24] iFakeRz: wait
+[23:11:26] iFakeRz: its wrong pick
+[23:11:27] iFakeRz: i wanted dt3
+[23:11:27] iFakeRz: xD
+[23:11:30] iFakeRz: whatever
+[23:11:31] BanchoBot: All players are ready
+[23:11:38] realshin: we can change if you want
+[23:11:43] iFakeRz: nah its fine
+[23:11:45] iFakeRz: im fine with both
+[23:11:50] realshin: ok
+[23:11:51] BanchoBot: All players are ready
+[23:11:52] DaddyStage: alrite
+[23:11:53] DaddyStage: !mp settings
+[23:11:54] BanchoBot: Room name: VNOC4: (realshin) vs (iFakeRz), History: https://osu.ppy.sh/mp/104753820
+[23:11:54] BanchoBot: Beatmap: https://osu.ppy.sh/b/1761258 HACHI feat. Hatsune Miku - Suna no Wakusei
+[23:11:54] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:11:54] BanchoBot: Active mods: NoFail, DoubleTime
+[23:11:54] BanchoBot: Players: 2
+[23:11:54] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8006029 realshin        
+[23:11:54] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5281485 iFakeRz         
+[23:11:56] DaddyStage: !mp start 5 glhf
+[23:11:57] BanchoBot: Countdown aborted
+[23:11:57] BanchoBot: Match starts in 5 seconds
+[23:11:57] BanchoBot: Queued the match to start in 5 seconds
+[23:11:58] BanchoBot: Match starts in 4 seconds
+[23:11:59] BanchoBot: Match starts in 3 seconds
+[23:12:00] BanchoBot: Good luck, have fun!
+[23:12:02] BanchoBot: The match has started!
+[23:14:43] BanchoBot: iFakeRz finished playing (Score: 745596, PASSED).
+[23:14:43] BanchoBot: realshin finished playing (Score: 574988, PASSED).
+[23:14:43] BanchoBot: The match has finished!
+[23:14:47] DaddyStage: realshin | 5 - 2 | iFakeRz // Next Pick: realshin
+[23:14:50] DaddyStage: !mp timer 120
+[23:14:50] iFakeRz: 2 points
+[23:14:51] realshin: i hate slider
+[23:14:51] iFakeRz: lego
+[23:14:51] BanchoBot: Countdown ends in 2 minutes
+[23:14:59] realshin: dt1
+[23:15:07] DaddyStage: !mp map 2699138 0
+[23:15:09] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2699138 Murasaki Shion - KING
+[23:15:09] BanchoBot: Changed match mode to Osu
+[23:15:11] Hoaq: !vcl pick 2699138
+[23:15:13] DaddyStage: !mp timer 120
+[23:15:13] BanchoBot: Countdown aborted
+[23:15:13] BanchoBot: Countdown ends in 2 minutes
+[23:15:20] BanchoBot: All players are ready
+[23:15:23] realshin: golf
+[23:15:26] iFakeRz: golf
+[23:15:35] DaddyStage: !mp settings
+[23:15:36] BanchoBot: Room name: VNOC4: (realshin) vs (iFakeRz), History: https://osu.ppy.sh/mp/104753820
+[23:15:36] BanchoBot: Beatmap: https://osu.ppy.sh/b/2699138 Murasaki Shion - KING
+[23:15:36] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:15:36] BanchoBot: Active mods: NoFail, DoubleTime
+[23:15:36] BanchoBot: Players: 2
+[23:15:36] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8006029 realshin        
+[23:15:36] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5281485 iFakeRz         
+[23:15:37] DaddyStage: !mp start 5 glhf
+[23:15:37] BanchoBot: Countdown aborted
+[23:15:37] BanchoBot: Match starts in 5 seconds
+[23:15:37] BanchoBot: Queued the match to start in 5 seconds
+[23:15:39] BanchoBot: Match starts in 4 seconds
+[23:15:40] BanchoBot: Match starts in 3 seconds
+[23:15:40] BanchoBot: Good luck, have fun!
+[23:15:42] BanchoBot: The match has started!
+[23:17:20] BanchoBot: iFakeRz finished playing (Score: 892273, PASSED).
+[23:17:20] BanchoBot: realshin finished playing (Score: 1066954, PASSED).
+[23:17:20] BanchoBot: The match has finished!
+[23:17:26] iFakeRz: nice fc
+[23:17:27] iFakeRz: ggwp
+[23:17:27] DaddyStage: Congrats to realshin for winning this match! GGWP both teams!
+[23:17:30] DaddyStage: WGA
+[23:17:30] realshin: wtf nice acc
+[23:17:32] realshin: ggwp
+[23:17:34] DaddyStage: o7
+[23:17:38] iFakeRz: yeah i just have bad day today
+[23:17:44] DaddyStage: nice acc but unlucky
+[23:17:44] realshin: :(
+[23:17:47] realshin: gl on your mmt match
+[23:17:47] iFakeRz: good luck on further stages
+[23:17:48] iFakeRz: u got this
+[23:17:50] iFakeRz: <3
+[23:17:53] realshin: ty <3
+[23:17:54] iFakeRz: o/
+[23:17:57] BanchoBot: iFakeRz left the game.
+[23:17:57] realshin: o/
+[23:17:59] BanchoBot: realshin left the game.
+[23:18:14] DaddyStage: !mp close
+[23:18:15] BanchoBot: Closed the match

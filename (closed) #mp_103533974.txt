@@ -1,0 +1,562 @@
+[19:54:07] Joined #mp_103533974
+[19:54:07] BCraftMG: !mp settings
+[19:54:08] BanchoBot: Room name: BQT5: (:Chatting:) vs (NYUUUUUU), History: https://osu.ppy.sh/mp/103533974
+[19:54:08] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[19:54:08] BanchoBot: Players: 0
+[19:54:13] BCraftMG: !mp set 2 3 18
+[19:54:14] BanchoBot: Changed match settings to 16 slots, TeamVs, ScoreV2
+[19:54:16] BCraftMG: !mp set 2 3 12
+[19:54:17] BanchoBot: Changed match settings to 12 slots, TeamVs, ScoreV2
+[19:54:19] BCraftMG: !mp listrefs
+[19:54:21] BanchoBot: Match referees:
+[19:54:21] BanchoBot: Zodik16
+[19:54:21] BanchoBot: BCraftMG
+[19:54:42] BCraftMG: !mp invite #15696213
+[19:54:43] BanchoBot: Invited Hatsuku to the room
+[19:54:56] BCraftMG: !mp invite #11855346
+[19:54:56] BanchoBot: Invited SkyprimeLp to the room
+[19:55:31] BCraftMG: !mp invite #11855346
+[19:55:32] BanchoBot: Invited SkyprimeLp to the room
+[19:55:34] BCraftMG: !mp invite #15696213
+[19:55:35] BanchoBot: Invited Hatsuku to the room
+[19:55:42] BanchoBot: SkyprimeLp joined in slot 1 for team blue.
+[19:55:45] BCraftMG: o/
+[19:55:58] BanchoBot: Kloster joined in slot 2 for team red.
+[19:55:58] BanchoBot: Okkens joined in slot 3 for team blue.
+[19:56:04] BanchoBot: Okkens changed to Red
+[19:56:07] BanchoBot: Kloster changed to Blue
+[19:56:13] BanchoBot: Okkens changed to Blue
+[19:56:15] Okkens: o/
+[19:56:33] BCraftMG: You wanna pick warm ups while waiting?
+[19:56:38] BCraftMG: !mp host SkyprimeLp
+[19:56:39] BanchoBot: SkyprimeLp became the host.
+[19:56:39] BanchoBot: Changed match host to SkyprimeLp
+[19:56:40] BanchoBot: Beatmap changed to: My Chemical Romance - Welcome To The Black Parade [FLOPH'S INSANE] (https://osu.ppy.sh/b/2922961)
+[19:56:57] SkyprimeLp: okay
+[19:57:01] BanchoBot: Host is changing map...
+[19:57:03] BanchoBot: Beatmap changed to: My Chemical Romance - Welcome To The Black Parade [FLOPH'S INSANE] (https://osu.ppy.sh/b/2922961)
+[19:57:16] BanchoBot: Host is changing map...
+[19:57:36] BanchoBot: Beatmap changed to: Apache 207 - Roller [jamesjan's Brrm] (https://osu.ppy.sh/b/3503265)
+[19:57:40] BanchoBot: Hatsuku joined in slot 4 for team red.
+[19:57:44] BanchoBot: Host is changing map...
+[19:57:50] Kloster: hello
+[19:57:52] Hatsuku: o/
+[19:57:57] Hatsuku: hey guys wassup guys
+[19:57:57] BanchoBot: Beatmap changed to: WSTR - Eastbound & Down [Irre <3 HanzeR] (https://osu.ppy.sh/b/1271476)
+[19:58:08] SkyprimeLp: o/
+[19:58:12] BanchoBot: realRiceboi joined in slot 5 for team blue.
+[19:58:23] BanchoBot: realRiceboi changed to Red
+[19:58:24] BCraftMG: :Chatting: on red
+[19:58:28] BCraftMG: ty
+[19:58:30] realRiceboi: hello gamers
+[19:58:31] realRiceboi: o7
+[19:58:32] Hatsuku: yes
+[19:58:41] BCraftMG: you can start when ready
+[19:58:41] realRiceboi: do we get slot 1-2 as well?
+[19:58:44] realRiceboi: or does it not matter
+[19:58:47] BCraftMG: oh yea
+[19:58:47] BCraftMG: i
+[19:58:48] BCraftMG: forgot
+[19:58:52] BanchoBot: Hatsuku moved to slot 7
+[19:58:53] BanchoBot: Hatsuku moved to slot 8
+[19:58:54] BanchoBot: SkyprimeLp moved to slot 6
+[19:58:57] BanchoBot: Hatsuku moved to slot 1
+[19:58:58] BCraftMG: ty for remind
+[19:58:58] BanchoBot: realRiceboi moved to slot 7
+[19:59:03] Hatsuku: npnp <3
+[19:59:04] realRiceboi: :D
+[19:59:04] BanchoBot: Kloster moved to slot 4
+[19:59:06] BanchoBot: realRiceboi moved to slot 2
+[19:59:13] BanchoBot: SkyprimeLp moved to slot 5
+[19:59:39] BCraftMG: !mp settings
+[19:59:40] BanchoBot: Room name: BQT5: (:Chatting:) vs (NYUUUUUU), History: https://osu.ppy.sh/mp/103533974
+[19:59:40] BanchoBot: Beatmap: https://osu.ppy.sh/b/1271476 WSTR - Eastbound & Down [Irre <3 HanzeR]
+[19:59:40] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:59:40] BanchoBot: Active mods: Freemod
+[19:59:40] BanchoBot: Players: 5
+[19:59:40] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15696213 Hatsuku         [Team Red ]
+[19:59:40] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11263999 realRiceboi     [Team Red  / NoFail]
+[19:59:40] BanchoBot: Slot 3  No Map    https://osu.ppy.sh/u/15262298 Okkens          [Team Blue]
+[19:59:40] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/15766964 Kloster         [Team Blue]
+[19:59:40] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11855346 SkyprimeLp      [Host / Team Blue / NoFail]
+[20:00:20] BanchoBot: All players are ready
+[20:00:23] BanchoBot: The match has started!
+[20:04:20] BanchoBot: Okkens finished playing (Score: 32437, FAILED).
+[20:04:21] BanchoBot: realRiceboi finished playing (Score: 18617, PASSED).
+[20:04:23] BanchoBot: SkyprimeLp finished playing (Score: 25022, PASSED).
+[20:04:28] BanchoBot: Kloster finished playing (Score: 18921, FAILED).
+[20:04:29] BanchoBot: Hatsuku finished playing (Score: 86645, FAILED).
+[20:04:29] BanchoBot: The match has finished!
+[20:04:40] BanchoBot: Hatsuku became the host.
+[20:04:45] BanchoBot: Host is changing map...
+[20:05:06] BanchoBot: Beatmap changed to: Sound Souler - Bubble Flower [_Epreus' Extra] (https://osu.ppy.sh/b/2438031)
+[20:05:56] BanchoBot: All players are ready
+[20:05:58] BanchoBot: The match has started!
+[20:05:58] BanchoBot: zirCrizz joined in slot 6 for team red.
+[20:06:26] BanchoBot: zirCrizz left the game.
+[20:08:32] BanchoBot: Kloster finished playing (Score: 110357, PASSED).
+[20:08:32] BanchoBot: realRiceboi finished playing (Score: 68400, PASSED).
+[20:08:32] BanchoBot: Hatsuku finished playing (Score: 270901, PASSED).
+[20:08:32] BanchoBot: Okkens finished playing (Score: 131030, PASSED).
+[20:08:34] BanchoBot: SkyprimeLp finished playing (Score: 75733, PASSED).
+[20:08:34] BanchoBot: The match has finished!
+[20:08:41] BCraftMG: !mp clearhost
+[20:08:41] BanchoBot: Cleared match host
+[20:08:47] BCraftMG: :D lets start with rolls
+[20:09:13] BanchoBot: zirCrizz joined in slot 6 for team red.
+[20:09:18] Hatsuku: !roll
+[20:09:18] BanchoBot: Hatsuku rolls 5 point(s)
+[20:09:24] SkyprimeLp: !roll
+[20:09:24] BanchoBot: SkyprimeLp rolls 37 point(s)
+[20:09:24] Hatsuku: jinxed me rice
+[20:09:26] Hatsuku: smh
+[20:09:30] BCraftMG: lovely
+[20:09:40] BCraftMG: Winner chooses pick or ban order, loser choose remaining order
+[20:10:07] SkyprimeLp: 2nd ban
+[20:10:16] BCraftMG: :chatting: choose pick order
+[20:10:24] Hatsuku: 1st pick
+[20:10:38] BCraftMG: okay :Chatting: ban
+[20:10:40] BCraftMG: !mp timer 120
+[20:10:41] BanchoBot: Countdown ends in 2 minutes
+[20:10:48] Hatsuku: DT1
+[20:11:01] BCraftMG: over to Nyuuu ban
+[20:11:03] BCraftMG: !mp timer 120
+[20:11:04] BanchoBot: Countdown aborted
+[20:11:04] BanchoBot: Countdown ends in 2 minutes
+[20:11:32] SkyprimeLp: hr 1
+[20:11:45] BCraftMG: :Chatting: | 0 - 0 | NYUUUUUU // First Pick: :Chatting:
+[20:11:47] BCraftMG: !mp timer 120
+[20:11:48] BanchoBot: Countdown aborted
+[20:11:48] BanchoBot: Countdown ends in 2 minutes
+[20:12:48] BanchoBot: Countdown ends in 1 minute
+[20:12:53] Hatsuku: NM2
+[20:13:00] BanchoBot: SkyprimeLp left the game.
+[20:13:02] BanchoBot: zirCrizz left the game.
+[20:13:03] BCraftMG: !mp map 2072245 0
+[20:13:04] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2072245 Fractal Dreamers - Gardens Under A Spring Sky
+[20:13:04] BanchoBot: Changed match mode to Osu
+[20:13:04] BCraftMG: !mp mods 1
+[20:13:05] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:13:06] BCraftMG: !mp timer 120
+[20:13:06] BanchoBot: Countdown aborted
+[20:13:06] BanchoBot: Countdown ends in 2 minutes
+[20:13:23] BanchoBot: All players are ready
+[20:13:28] realRiceboi: ready for carry
+[20:13:29] realRiceboi: :)
+[20:13:30] BCraftMG: !mp settings
+[20:13:32] BanchoBot: Room name: BQT5: (:Chatting:) vs (NYUUUUUU), History: https://osu.ppy.sh/mp/103533974
+[20:13:32] BanchoBot: Beatmap: https://osu.ppy.sh/b/2072245 Fractal Dreamers - Gardens Under A Spring Sky
+[20:13:32] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:13:32] BanchoBot: Active mods: NoFail
+[20:13:32] BanchoBot: Players: 4
+[20:13:32] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15696213 Hatsuku         [Team Red ]
+[20:13:32] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11263999 realRiceboi     [Team Red ]
+[20:13:32] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15262298 Okkens          [Team Blue]
+[20:13:32] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15766964 Kloster         [Team Blue]
+[20:13:34] Okkens: D:
+[20:13:35] BCraftMG: !mp start 10
+[20:13:36] realRiceboi: glhf !!
+[20:13:36] BanchoBot: Countdown aborted
+[20:13:36] BanchoBot: Match starts in 10 seconds
+[20:13:36] BanchoBot: Queued the match to start in 10 seconds
+[20:13:40] Okkens: pls dont carry to much
+[20:13:40] Hatsuku: glgl
+[20:13:41] BanchoBot: Match starts in 5 seconds
+[20:13:42] BanchoBot: Match starts in 4 seconds
+[20:13:42] Okkens: golf
+[20:13:44] BanchoBot: Match starts in 3 seconds
+[20:13:46] BanchoBot: Good luck, have fun!
+[20:13:46] realRiceboi: LOL
+[20:13:48] BanchoBot: The match has started!
+[20:13:48] realRiceboi: golf
+[20:16:13] BanchoBot: Hatsuku finished playing (Score: 472896, PASSED).
+[20:16:13] BanchoBot: realRiceboi finished playing (Score: 425106, PASSED).
+[20:16:13] BanchoBot: Kloster finished playing (Score: 479868, PASSED).
+[20:16:13] BanchoBot: Okkens finished playing (Score: 392789, PASSED).
+[20:16:13] BanchoBot: The match has finished!
+[20:16:27] BCraftMG: :Chatting: | 1 - 0 | NYUUUUUU // Next Pick: NYUUUUUU
+[20:16:29] BCraftMG: !mp timer 120
+[20:16:29] BanchoBot: Countdown ends in 2 minutes
+[20:16:30] BCraftMG: close one
+[20:16:37] realRiceboi: CLOSE
+[20:16:47] realRiceboi: i am pissing myself
+[20:16:58] Kloster: nm1
+[20:17:11] BCraftMG: !mp map 676262 0
+[20:17:12] realRiceboi: NM1
+[20:17:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/676262 Nanjo Yoshino - Anata no Aishita Sekai
+[20:17:12] BanchoBot: Changed match mode to Osu
+[20:17:14] BCraftMG: !mp timer 120
+[20:17:14] BanchoBot: Countdown aborted
+[20:17:14] BanchoBot: Countdown ends in 2 minutes
+[20:17:20] BanchoBot: Hatsuku left the game.
+[20:17:32] BanchoBot: zirCrizz joined in slot 1 for team blue.
+[20:17:38] BanchoBot: zirCrizz changed to Red
+[20:18:04] BanchoBot: All players are ready
+[20:18:06] BCraftMG: !mp settings
+[20:18:07] BanchoBot: Room name: BQT5: (:Chatting:) vs (NYUUUUUU), History: https://osu.ppy.sh/mp/103533974
+[20:18:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/676262 Nanjo Yoshino - Anata no Aishita Sekai
+[20:18:07] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:18:07] BanchoBot: Active mods: NoFail
+[20:18:07] BanchoBot: Players: 4
+[20:18:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12863676 zirCrizz        [Team Red ]
+[20:18:07] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11263999 realRiceboi     [Team Red ]
+[20:18:07] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15262298 Okkens          [Team Blue]
+[20:18:07] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15766964 Kloster         [Team Blue]
+[20:18:10] BCraftMG: !mp start 10
+[20:18:10] BanchoBot: Countdown aborted
+[20:18:10] BanchoBot: Match starts in 10 seconds
+[20:18:10] BanchoBot: Queued the match to start in 10 seconds
+[20:18:16] BanchoBot: Match starts in 5 seconds
+[20:18:17] BanchoBot: Match starts in 4 seconds
+[20:18:17] BanchoBot: Match starts in 3 seconds
+[20:18:17] realRiceboi: golf!
+[20:18:19] BanchoBot: Good luck, have fun!
+[20:18:21] BanchoBot: The match has started!
+[20:22:08] BanchoBot: Kloster finished playing (Score: 674098, PASSED).
+[20:22:08] BanchoBot: realRiceboi finished playing (Score: 339390, PASSED).
+[20:22:09] BanchoBot: Okkens finished playing (Score: 394196, PASSED).
+[20:22:09] BanchoBot: zirCrizz finished playing (Score: 433186, PASSED).
+[20:22:09] BanchoBot: The match has finished!
+[20:22:13] BCraftMG: :Chatting: | 1 - 1 | NYUUUUUU // Next Pick: :Chatting:
+[20:22:15] BCraftMG: !mp timer 120
+[20:22:16] BanchoBot: Countdown ends in 2 minutes
+[20:22:21] BCraftMG: no breakpoints
+[20:22:21] BCraftMG: yet
+[20:22:39] BanchoBot: Hatsuku joined in slot 5 for team blue.
+[20:23:09] BanchoBot: Hatsuku changed to Red
+[20:23:16] Hatsuku: NM4
+[20:23:17] BanchoBot: Countdown ends in 1 minute
+[20:23:24] BanchoBot: realRiceboi left the game.
+[20:23:27] BanchoBot: Hatsuku moved to slot 2
+[20:23:27] BCraftMG: !mp map 3291796 0
+[20:23:28] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3291796 VeetaCrush - Mole
+[20:23:28] BanchoBot: Changed match mode to Osu
+[20:23:29] BCraftMG: !mp timer 120
+[20:23:30] BanchoBot: Countdown aborted
+[20:23:30] BanchoBot: Countdown ends in 2 minutes
+[20:23:34] Hatsuku: tech so pog
+[20:23:44] BCraftMG: gud songs
+[20:23:56] BanchoBot: Okkens left the game.
+[20:24:09] BanchoBot: SkyprimeLp joined in slot 3 for team blue.
+[20:24:23] Kloster: omw to listen to space noise
+[20:24:31] BanchoBot: Countdown ends in 1 minute
+[20:25:01] BanchoBot: Countdown ends in 30 seconds
+[20:25:04] BanchoBot: All players are ready
+[20:25:12] BCraftMG: !mp settings
+[20:25:13] BanchoBot: Room name: BQT5: (:Chatting:) vs (NYUUUUUU), History: https://osu.ppy.sh/mp/103533974
+[20:25:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/3291796 VeetaCrush - Mole
+[20:25:13] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:25:13] BanchoBot: Active mods: NoFail
+[20:25:13] BanchoBot: Players: 4
+[20:25:13] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12863676 zirCrizz        [Team Red ]
+[20:25:13] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15696213 Hatsuku         [Team Red ]
+[20:25:13] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11855346 SkyprimeLp      [Team Blue]
+[20:25:13] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15766964 Kloster         [Team Blue]
+[20:25:16] BCraftMG: !mp start 10
+[20:25:18] SkyprimeLp: glhf!
+[20:25:20] BanchoBot: Countdown aborted
+[20:25:20] BanchoBot: Match starts in 10 seconds
+[20:25:20] BanchoBot: Queued the match to start in 10 seconds
+[20:25:24] BanchoBot: Match starts in 5 seconds
+[20:25:25] BanchoBot: Match starts in 4 seconds
+[20:25:25] zirCrizz: glhf!!
+[20:25:26] BanchoBot: Match starts in 3 seconds
+[20:25:27] BanchoBot: Good luck, have fun!
+[20:25:30] BanchoBot: The match has started!
+[20:28:13] BanchoBot: Hatsuku finished playing (Score: 616585, PASSED).
+[20:28:14] BanchoBot: SkyprimeLp finished playing (Score: 156041, PASSED).
+[20:28:14] BanchoBot: zirCrizz finished playing (Score: 383131, PASSED).
+[20:28:14] BanchoBot: Kloster finished playing (Score: 276782, PASSED).
+[20:28:14] BanchoBot: The match has finished!
+[20:28:18] BCraftMG: :Chatting: | 2 - 1 | NYUUUUUU // Next Pick: NYUUUUUU
+[20:28:21] BCraftMG: !mp timer 120
+[20:28:21] BanchoBot: Countdown ends in 2 minutes
+[20:28:35] BanchoBot: Okkens joined in slot 5 for team blue.
+[20:29:02] BanchoBot: SkyprimeLp left the game.
+[20:29:18] Kloster: dt3
+[20:29:19] BanchoBot: realRiceboi joined in slot 3 for team blue.
+[20:29:21] BanchoBot: Countdown ends in 1 minute
+[20:29:31] BCraftMG: !mp map 2225243 0
+[20:29:32] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2225243 Ceui - Finest Sky
+[20:29:32] BanchoBot: Changed match mode to Osu
+[20:29:33] BCraftMG: !mp mods 65
+[20:29:33] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[20:29:34] BCraftMG: !mp timer 120
+[20:29:35] BanchoBot: Countdown aborted
+[20:29:35] BanchoBot: Countdown ends in 2 minutes
+[20:29:36] BanchoBot: zirCrizz left the game.
+[20:29:41] BanchoBot: realRiceboi moved to slot 1
+[20:29:43] BanchoBot: realRiceboi changed to Red
+[20:29:48] realRiceboi: fast as firetruck boi
+[20:29:50] BanchoBot: Kloster moved to slot 3
+[20:29:53] BanchoBot: Okkens moved to slot 4
+[20:30:05] Okkens: faster faster and faster
+[20:30:09] Hatsuku: shizuku i lost
+[20:30:15] BanchoBot: All players are ready
+[20:30:17] Okkens: ?
+[20:30:19] Okkens: xD
+[20:30:20] BanchoBot: All players are ready
+[20:30:22] realRiceboi: O?
+[20:30:33] realRiceboi: golf!
+[20:30:35] BCraftMG: !mp settings
+[20:30:36] BanchoBot: Countdown ends in 1 minute
+[20:30:36] BanchoBot: Room name: BQT5: (:Chatting:) vs (NYUUUUUU), History: https://osu.ppy.sh/mp/103533974
+[20:30:36] BanchoBot: Beatmap: https://osu.ppy.sh/b/2225243 Ceui - Finest Sky
+[20:30:36] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:30:36] BanchoBot: Active mods: NoFail, DoubleTime
+[20:30:36] BanchoBot: Players: 4
+[20:30:36] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11263999 realRiceboi     [Team Red ]
+[20:30:36] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15696213 Hatsuku         [Team Red ]
+[20:30:36] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15766964 Kloster         [Team Blue]
+[20:30:36] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15262298 Okkens          [Team Blue]
+[20:30:37] BCraftMG: !mp start 10
+[20:30:38] BanchoBot: Countdown aborted
+[20:30:38] BanchoBot: Match starts in 10 seconds
+[20:30:38] BanchoBot: Queued the match to start in 10 seconds
+[20:30:39] Okkens: golf
+[20:30:40] Hatsuku: glock glock
+[20:30:44] BanchoBot: Match starts in 5 seconds
+[20:30:45] BanchoBot: Match starts in 4 seconds
+[20:30:46] BanchoBot: Match starts in 3 seconds
+[20:30:47] BanchoBot: Good luck, have fun!
+[20:30:49] BanchoBot: The match has started!
+[20:33:25] BanchoBot: realRiceboi finished playing (Score: 211236, PASSED).
+[20:33:26] BanchoBot: Hatsuku finished playing (Score: 657846, PASSED).
+[20:33:26] BanchoBot: Okkens finished playing (Score: 275159, PASSED).
+[20:33:26] BanchoBot: Kloster finished playing (Score: 669324, PASSED).
+[20:33:26] BanchoBot: The match has finished!
+[20:33:38] BCraftMG: :Chatting: | 2 - 2 | NYUUUUUU // Next Pick: :Chatting:
+[20:33:40] BCraftMG: !mp timer 120
+[20:33:41] BanchoBot: Countdown ends in 2 minutes
+[20:33:42] BCraftMG: UM
+[20:33:52] BanchoBot: zirCrizz joined in slot 5 for team blue.
+[20:34:04] Okkens: i forgot slider counter me
+[20:34:09] Okkens: :skull:
+[20:34:42] BanchoBot: Countdown ends in 1 minute
+[20:35:11] BanchoBot: Countdown ends in 30 seconds
+[20:35:20] BanchoBot: zirCrizz left the game.
+[20:35:21] Hatsuku: DT2
+[20:35:32] BanchoBot: Countdown ends in 10 seconds
+[20:35:33] BCraftMG: !mp map 3446883 0
+[20:35:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3446883 Yumeno Yuki - First Time
+[20:35:34] BanchoBot: Changed match mode to Osu
+[20:35:36] BCraftMG: !mp timer 120
+[20:35:36] BanchoBot: Countdown ends in 5 seconds
+[20:35:36] BanchoBot: Countdown aborted
+[20:35:36] BanchoBot: Countdown ends in 2 minutes
+[20:36:20] BanchoBot: All players are ready
+[20:36:26] BCraftMG: !mp settings
+[20:36:27] BanchoBot: Room name: BQT5: (:Chatting:) vs (NYUUUUUU), History: https://osu.ppy.sh/mp/103533974
+[20:36:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/3446883 Yumeno Yuki - First Time
+[20:36:27] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:36:27] BanchoBot: Active mods: NoFail, DoubleTime
+[20:36:27] BanchoBot: Players: 4
+[20:36:27] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11263999 realRiceboi     [Team Red ]
+[20:36:27] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15696213 Hatsuku         [Team Red ]
+[20:36:27] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15766964 Kloster         [Team Blue]
+[20:36:27] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15262298 Okkens          [Team Blue]
+[20:36:28] BCraftMG: !mp start 10
+[20:36:29] BanchoBot: Countdown aborted
+[20:36:29] BanchoBot: Match starts in 10 seconds
+[20:36:29] BanchoBot: Queued the match to start in 10 seconds
+[20:36:33] realRiceboi: golf !
+[20:36:35] BanchoBot: Match starts in 5 seconds
+[20:36:36] BanchoBot: Match starts in 4 seconds
+[20:36:36] BCraftMG: glhf
+[20:36:37] BanchoBot: Match starts in 3 seconds
+[20:36:37] Okkens: golf
+[20:36:38] BanchoBot: Good luck, have fun!
+[20:36:40] BanchoBot: The match has started!
+[20:37:19] BCraftMG: !mp settings
+[20:37:21] BanchoBot: Room name: BQT5: (:Chatting:) vs (NYUUUUUU), History: https://osu.ppy.sh/mp/103533974
+[20:37:21] BanchoBot: Beatmap: https://osu.ppy.sh/b/3446883 Yumeno Yuki - First Time
+[20:37:21] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:37:21] BanchoBot: Active mods: NoFail, DoubleTime
+[20:37:21] BanchoBot: Players: 4
+[20:37:21] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/11263999 realRiceboi     [Team Red ]
+[20:37:21] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/15696213 Hatsuku         [Team Red ]
+[20:37:21] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/15766964 Kloster         [Team Blue]
+[20:37:21] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/15262298 Okkens          [Team Blue]
+[20:37:33] BCraftMG: zodiks if you can see this mind refresh client
+[20:38:23] BCraftMG: hello bancho?
+[20:39:32] BanchoBot: Kloster finished playing (Score: 861716, PASSED).
+[20:39:32] BanchoBot: Hatsuku finished playing (Score: 560028, PASSED).
+[20:39:32] BanchoBot: Okkens finished playing (Score: 373743, PASSED).
+[20:39:32] BanchoBot: realRiceboi finished playing (Score: 310881, PASSED).
+[20:39:32] BanchoBot: The match has finished!
+[20:39:52] BCraftMG: :Chatting: | 2 - 3 | NYUUUUUU // Next Pick: NYUUUUUU
+[20:39:56] BCraftMG: !mp timer 120
+[20:39:56] BanchoBot: Countdown ends in 2 minutes
+[20:40:31] BCraftMG: a
+[20:40:34] BanchoBot: zirCrizz joined in slot 5 for team blue.
+[20:40:44] Hatsuku: a
+[20:40:48] realRiceboi: a
+[20:40:52] zirCrizz: a
+[20:40:57] Kloster: hd1
+[20:40:57] BanchoBot: Countdown ends in 1 minute
+[20:41:10] BCraftMG: !mp map 3454071 0
+[20:41:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3454071 TUYU - Shuuten no Saki ga Aru to Suru naraba.
+[20:41:11] BanchoBot: Changed match mode to Osu
+[20:41:12] BCraftMG: !mp mods 9
+[20:41:13] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[20:41:14] BCraftMG: !mp timer 120
+[20:41:15] BanchoBot: Countdown aborted
+[20:41:15] BanchoBot: Countdown ends in 2 minutes
+[20:41:21] BanchoBot: realRiceboi left the game.
+[20:41:22] BanchoBot: zirCrizz changed to Red
+[20:41:23] BanchoBot: zirCrizz moved to slot 1
+[20:41:57] Hatsuku: i love tuyu
+[20:42:11] BanchoBot: All players are ready
+[20:42:16] BanchoBot: Countdown ends in 1 minute
+[20:42:20] BCraftMG: !mp settings
+[20:42:22] BanchoBot: Room name: BQT5: (:Chatting:) vs (NYUUUUUU), History: https://osu.ppy.sh/mp/103533974
+[20:42:22] BanchoBot: Beatmap: https://osu.ppy.sh/b/3454071 TUYU - Shuuten no Saki ga Aru to Suru naraba.
+[20:42:22] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:42:22] BanchoBot: Active mods: NoFail, Hidden
+[20:42:22] BanchoBot: Players: 4
+[20:42:22] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12863676 zirCrizz        [Team Red ]
+[20:42:22] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15696213 Hatsuku         [Team Red ]
+[20:42:22] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15766964 Kloster         [Team Blue]
+[20:42:22] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15262298 Okkens          [Team Blue]
+[20:42:28] BCraftMG: glhf
+[20:42:28] BCraftMG: !mp start 10
+[20:42:29] BanchoBot: Countdown aborted
+[20:42:29] BanchoBot: Match starts in 10 seconds
+[20:42:29] BanchoBot: Queued the match to start in 10 seconds
+[20:42:35] zirCrizz: glhf!!
+[20:42:35] BanchoBot: Match starts in 5 seconds
+[20:42:36] BanchoBot: Match starts in 4 seconds
+[20:42:37] BanchoBot: Match starts in 3 seconds
+[20:42:38] BanchoBot: Good luck, have fun!
+[20:42:40] BanchoBot: The match has started!
+[20:43:41] BanchoBot: Kloster left the game.
+[20:44:41] Okkens: abort?
+[20:45:40] BanchoBot: Kloster joined in slot 3 for team blue.
+[20:45:40] BanchoBot: Hatsuku finished playing (Score: 196870, PASSED).
+[20:45:41] BanchoBot: zirCrizz finished playing (Score: 168592, PASSED).
+[20:45:41] BanchoBot: Okkens finished playing (Score: 146280, PASSED).
+[20:45:41] BanchoBot: The match has finished!
+[20:45:53] Okkens: kloster dc
+[20:45:55] BCraftMG: A map will be aborted if a player disconnects within the first 30 seconds of the map
+[20:46:11] BCraftMG: what happened to Kloster tho
+[20:46:17] BCraftMG: game crashed or something?
+[20:46:28] Kloster: yeah sorry
+[20:47:09] BCraftMG: on mp link map start at 20:42:40 my time and you left at 20:43:41
+[20:47:11] BanchoBot: SkyprimeLp joined in slot 5 for team blue.
+[20:47:30] BanchoBot: SkyprimeLp left the game.
+[20:48:02] Okkens: unlucky
+[20:48:07] BCraftMG: was it a crash?
+[20:48:28] Kloster: yeah my game freezed
+[20:48:35] Kloster: its ok tho we can just go on
+[20:48:50] BCraftMG: :Chatting: | 3 - 3 | NYUUUUUU // Next Pick: :Chatting:
+[20:48:52] BCraftMG: !mp timer 120
+[20:48:53] BanchoBot: Countdown ends in 2 minutes
+[20:48:55] BCraftMG: unlucky
+[20:48:57] BCraftMG: :(
+[20:49:05] BCraftMG: but rules are rules
+[20:49:22] Okkens: all gud all gud
+[20:49:54] BanchoBot: Countdown ends in 1 minute
+[20:50:19] Hatsuku: HR2
+[20:50:23] BanchoBot: Countdown ends in 30 seconds
+[20:50:32] BCraftMG: !mp map 3616922 0
+[20:50:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3616922 Ceres Fauna - Let Me Stay Here
+[20:50:33] BanchoBot: Changed match mode to Osu
+[20:50:34] BCraftMG: !mp mods 17
+[20:50:35] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[20:50:35] BCraftMG: !mp timer 120
+[20:50:36] BanchoBot: Kloster left the game.
+[20:50:36] BanchoBot: Countdown aborted
+[20:50:36] BanchoBot: Countdown ends in 2 minutes
+[20:50:38] BanchoBot: SkyprimeLp joined in slot 3 for team blue.
+[20:51:20] BanchoBot: All players are ready
+[20:51:24] SkyprimeLp: glgl
+[20:51:27] BCraftMG: !mp settings
+[20:51:29] BanchoBot: Room name: BQT5: (:Chatting:) vs (NYUUUUUU), History: https://osu.ppy.sh/mp/103533974
+[20:51:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/3616922 Ceres Fauna - Let Me Stay Here
+[20:51:29] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:51:29] BanchoBot: Active mods: NoFail, HardRock
+[20:51:29] BanchoBot: Players: 4
+[20:51:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12863676 zirCrizz        [Team Red ]
+[20:51:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15696213 Hatsuku         [Team Red ]
+[20:51:29] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11855346 SkyprimeLp      [Team Blue]
+[20:51:29] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15262298 Okkens          [Team Blue]
+[20:51:32] BCraftMG: !mp start 10
+[20:51:33] BanchoBot: Countdown aborted
+[20:51:33] BanchoBot: Match starts in 10 seconds
+[20:51:33] BanchoBot: Queued the match to start in 10 seconds
+[20:51:39] BanchoBot: Match starts in 5 seconds
+[20:51:40] BanchoBot: Match starts in 4 seconds
+[20:51:41] BanchoBot: Match starts in 3 seconds
+[20:51:41] BanchoBot: Good luck, have fun!
+[20:51:43] BanchoBot: The match has started!
+[20:55:03] BanchoBot: Hatsuku finished playing (Score: 287763, PASSED).
+[20:55:03] BanchoBot: zirCrizz finished playing (Score: 529773, PASSED).
+[20:55:03] BanchoBot: SkyprimeLp finished playing (Score: 53486, PASSED).
+[20:55:03] BanchoBot: Okkens finished playing (Score: 112348, PASSED).
+[20:55:03] BanchoBot: The match has finished!
+[20:55:18] BCraftMG: :Chatting: | 4 - 3 | NYUUUUUU // Next Pick: NYUUUUUU
+[20:55:20] BCraftMG: !mp timer 120
+[20:55:20] BanchoBot: Countdown ends in 2 minutes
+[20:55:24] BanchoBot: Kloster joined in slot 5 for team blue.
+[20:55:52] BanchoBot: SkyprimeLp left the game.
+[20:56:21] BanchoBot: Countdown ends in 1 minute
+[20:56:44] Kloster: fm1
+[20:56:50] BanchoBot: Countdown ends in 30 seconds
+[20:56:52] BCraftMG: !mp map 3527927 0
+[20:56:54] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3527927 Liz Triangle - Modernism
+[20:56:54] BanchoBot: Changed match mode to Osu
+[20:56:55] BCraftMG: !mp mods Freemod
+[20:56:56] BanchoBot: Disabled all mods, enabled FreeMod
+[20:56:56] BCraftMG: !mp timer 120
+[20:56:57] BanchoBot: Countdown aborted
+[20:56:57] BanchoBot: Countdown ends in 2 minutes
+[20:57:07] BCraftMG: P1: EZ/HD/EZHD, P2: HR/HDHR, EZ=1.8x
+[20:57:11] BCraftMG: remember to take nf
+[20:57:14] BanchoBot: Kloster moved to slot 3
+[20:57:57] BanchoBot: Countdown ends in 1 minute
+[20:58:07] BanchoBot: All players are ready
+[20:58:13] BCraftMG: !mp settings
+[20:58:14] BanchoBot: Room name: BQT5: (:Chatting:) vs (NYUUUUUU), History: https://osu.ppy.sh/mp/103533974
+[20:58:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/3527927 Liz Triangle - Modernism
+[20:58:14] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[20:58:14] BanchoBot: Active mods: Freemod
+[20:58:14] BanchoBot: Players: 4
+[20:58:14] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12863676 zirCrizz        [Team Red  / NoFail, HardRock]
+[20:58:14] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/15696213 Hatsuku         [Team Red  / NoFail, Hidden]
+[20:58:14] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/15766964 Kloster         [Team Blue / NoFail, Hidden]
+[20:58:14] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15262298 Okkens          [Team Blue / NoFail, Hidden, HardRock]
+[20:58:18] BCraftMG: !mp start 10
+[20:58:18] BanchoBot: Countdown aborted
+[20:58:18] BanchoBot: Match starts in 10 seconds
+[20:58:18] BanchoBot: Queued the match to start in 10 seconds
+[20:58:24] BanchoBot: Match starts in 5 seconds
+[20:58:25] BanchoBot: Match starts in 4 seconds
+[20:58:26] BanchoBot: Match starts in 3 seconds
+[20:58:28] BanchoBot: Good luck, have fun!
+[20:58:29] BanchoBot: The match has started!
+[21:02:17] BanchoBot: Hatsuku finished playing (Score: 370802, PASSED).
+[21:02:17] BanchoBot: zirCrizz finished playing (Score: 295778, PASSED).
+[21:02:17] BanchoBot: Kloster finished playing (Score: 563578, PASSED).
+[21:02:18] BanchoBot: Okkens finished playing (Score: 85719, PASSED).
+[21:02:18] BanchoBot: The match has finished!
+[21:02:29] BCraftMG: Congrats to :Chatting: for winning this match! GGWP both teams!
+[21:02:48] zirCrizz: GGWP!!!
+[21:02:52] BanchoBot: realRiceboi joined in slot 5 for team blue.
+[21:02:52] Kloster: gg guys
+[21:02:53] Okkens: ggwp
+[21:02:57] zirCrizz: thank you for reffing!!
+[21:02:59] Hatsuku: ggs
+[21:03:02] realRiceboi: GGWP guys
+[21:03:07] Hatsuku: ty for ref BCraft <3
+[21:03:19] BCraftMG: ty for playing <3
+[21:03:23] zirCrizz: ty for ref BCraft <3 :D
+[21:03:27] realRiceboi: and ty for ref
+[21:03:29] Okkens: ty for match :D
+[21:03:29] realRiceboi: <3
+[21:03:30] BanchoBot: Okkens left the game.
+[21:03:38] BanchoBot: Kloster left the game.
+[21:03:41] BanchoBot: realRiceboi left the game.
+[21:03:42] BanchoBot: zirCrizz left the game.
+[21:03:44] BanchoBot: Hatsuku left the game.
+[21:04:19] BCraftMG: !mp close
+[21:04:19] BanchoBot: Closed the match

@@ -1,0 +1,812 @@
+[23:53:27] Joined #mp_115419517
+[23:53:27] BCraftMG: !mp settings
+[23:53:28] BanchoBot: Room name: CC5: (Qualifiers) vs (Match B4), History: https://osu.ppy.sh/mp/115419517
+[23:53:28] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[23:53:28] BanchoBot: Players: 0
+[23:53:39] BCraftMG: !mp set 0 3 16
+[23:53:40] BanchoBot: Changed match settings to 16 slots, HeadToHead, ScoreV2
+[23:53:45] BCraftMG: !mp map 2995484 0
+[23:53:46] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2995484 Fuki Commune - Kurui Zake Setsugekka
+[23:53:46] BanchoBot: Changed match mode to Osu
+[23:53:46] BCraftMG: !mp mods 1
+[23:53:47] BanchoBot: Enabled NoFail, disabled FreeMod
+[23:53:50] BCraftMG: !mp invite #5981005
+[23:53:50] BanchoBot: Invited gamer228666 to the room
+[23:53:51] BCraftMG: !mp invite #11562243
+[23:53:51] BanchoBot: Invited Leonard H to the room
+[23:57:22] BanchoBot: gamer228666 joined in slot 1.
+[23:57:40] BanchoBot: PikaPwn joined in slot 2.
+[23:58:29] BanchoBot: fieryrage joined in slot 3.
+[23:59:06] BanchoBot: Pezz joined in slot 4.
+[23:59:29] BCraftMG: the other team is still mia
+[23:59:30] BanchoBot: Pezz moved to slot 13
+[23:59:32] BanchoBot: gamer228666 left the game.
+[23:59:45] BanchoBot: skiatzo joined in slot 1.
+[23:59:57] BanchoBot: Pezz left the game.
+[23:59:57] BCraftMG: !mp invite #11562243
+[23:59:58] BanchoBot: Invited Leonard H to the room
+[00:00:02] BanchoBot: Leonard H joined in slot 4.
+[00:00:04] BanchoBot: PikaPwn left the game.
+[00:00:05] BanchoBot: Pezz joined in slot 2.
+[00:00:08] BanchoBot: gamer228666 joined in slot 5.
+[00:00:11] BanchoBot: gamer228666 left the game.
+[00:00:14] Pezz: !roll
+[00:00:14] BanchoBot: Pezz rolls 23 point(s)
+[00:00:14] BanchoBot: Leonard H moved to slot 6
+[00:00:16] BanchoBot: Leonard H moved to slot 5
+[00:00:16] BanchoBot: WindowLife joined in slot 4.
+[00:00:17] skiatzo: !roll
+[00:00:17] BanchoBot: skiatzo rolls 54 point(s)
+[00:00:23] BanchoBot: skiatzo left the game.
+[00:00:32] BanchoBot: gamer228666 joined in slot 1.
+[00:00:35] BanchoBot: gamer228666 left the game.
+[00:00:36] BanchoBot: WindowLife moved to slot 6
+[00:00:36] BanchoBot: Utami joined in slot 1.
+[00:00:42] BanchoBot: skiatzo joined in slot 4.
+[00:00:48] BanchoBot: skiatzo left the game.
+[00:01:02] BCraftMG: !mp settings
+[00:01:04] BanchoBot: Room name: CC5: (Qualifiers) vs (Match B4), History: https://osu.ppy.sh/mp/115419517
+[00:01:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/2995484 Fuki Commune - Kurui Zake Setsugekka
+[00:01:04] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:01:04] BanchoBot: Active mods: NoFail
+[00:01:04] BanchoBot: Players: 5
+[00:01:04] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/7512553 Utami           
+[00:01:04] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/10651106 Pezz            
+[00:01:04] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/3533958 fieryrage       
+[00:01:04] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/11562243 Leonard H       
+[00:01:04] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/4108547 WindowLife      
+[00:01:05] BanchoBot: PikaPwn joined in slot 4.
+[00:01:11] fieryrage: WindowLife
+[00:01:14] fieryrage: Great morning
+[00:01:17] WindowLife: hi
+[00:01:19] BanchoBot: HP DeskJet 3835 joined in slot 7.
+[00:01:23] fieryrage: Wonderful morning
+[00:01:32] WindowLife: im not awake rn
+[00:01:42] fieryrage: i had to drink caffeine
+[00:01:45] fieryrage: so i will now get 300k
+[00:02:00] BCraftMG: need another player for tbbt
+[00:02:13] Leonard_H: yeah boshy is dumb and restarted his client
+[00:02:17] Leonard_H: bear with me here
+[00:02:21] BanchoBot: BoshyMan741 joined in slot 8.
+[00:02:24] PikaPwn: Booshy
+[00:02:36] BoshyMan741: peeka
+[00:02:49] BanchoBot: All players are ready
+[00:02:52] fieryrage: This map is like if Patrick Mahomes tore his ACL
+[00:02:56] BCraftMG: !mp settings
+[00:02:57] Leonard_H: locked tf out rn
+[00:02:57] BanchoBot: Room name: CC5: (Qualifiers) vs (Match B4), History: https://osu.ppy.sh/mp/115419517
+[00:02:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/2995484 Fuki Commune - Kurui Zake Setsugekka
+[00:02:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:02:57] BanchoBot: Active mods: NoFail
+[00:02:57] BanchoBot: Players: 8
+[00:02:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7512553 Utami           
+[00:02:57] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10651106 Pezz            
+[00:02:57] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/3533958 fieryrage       
+[00:02:57] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/2012453 PikaPwn         
+[00:02:57] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11562243 Leonard H       
+[00:02:57] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/4108547 WindowLife      
+[00:02:57] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/16139008 HP DeskJet 3835 
+[00:02:57] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/4830687 BoshyMan741     
+[00:03:01] BCraftMG: !mp start 5 glhf
+[00:03:01] BoshyMan741: GOOF LUCK
+[00:03:01] PikaPwn: GOOOOOOOOOO
+[00:03:01] BanchoBot: Match starts in 5 seconds
+[00:03:01] BanchoBot: Queued the match to start in 5 seconds
+[00:03:03] BanchoBot: Match starts in 4 seconds
+[00:03:03] PikaPwn: GLHF
+[00:03:04] BanchoBot: Match starts in 3 seconds
+[00:03:05] BanchoBot: Good luck, have fun!
+[00:03:07] BanchoBot: The match has started!
+[00:07:21] BanchoBot: Utami finished playing (Score: 498588, PASSED).
+[00:07:23] BanchoBot: WindowLife finished playing (Score: 497594, PASSED).
+[00:07:23] BanchoBot: fieryrage finished playing (Score: 546078, PASSED).
+[00:07:24] BanchoBot: PikaPwn finished playing (Score: 595677, PASSED).
+[00:07:24] BanchoBot: Pezz finished playing (Score: 454358, PASSED).
+[00:07:24] BanchoBot: HP DeskJet 3835 finished playing (Score: 536017, PASSED).
+[00:07:24] BanchoBot: Leonard H finished playing (Score: 422024, PASSED).
+[00:07:24] BanchoBot: BoshyMan741 finished playing (Score: 418597, PASSED).
+[00:07:24] BanchoBot: The match has finished!
+[00:07:28] BCraftMG: !mp map 4384663 0
+[00:07:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4384663 orangentle / Yu_Asahina - OEFHEBEN
+[00:07:29] BanchoBot: Changed match mode to Osu
+[00:07:32] BCraftMG: !mp timer 120
+[00:07:33] BanchoBot: Countdown ends in 2 minutes
+[00:07:42] BanchoBot: PikaPwn left the game.
+[00:07:42] BanchoBot: fieryrage left the game.
+[00:07:55] BanchoBot: Pezz moved to slot 13
+[00:07:55] BanchoBot: WindowLife left the game.
+[00:08:00] BanchoBot: Pezz moved to slot 2
+[00:08:02] BanchoBot: Ohio joined in slot 3.
+[00:08:04] BanchoBot: Pezz left the game.
+[00:08:19] BanchoBot: Ohio moved to slot 2
+[00:08:35] BanchoBot: Countdown ends in 1 minute
+[00:08:35] BanchoBot: gamer228666 joined in slot 3.
+[00:08:43] BanchoBot: WindowLife joined in slot 4.
+[00:08:43] BanchoBot: Pezz joined in slot 6.
+[00:08:54] Pezz: !roll
+[00:08:54] BanchoBot: Pezz rolls 93 point(s)
+[00:08:58] BanchoBot: skiatzo joined in slot 9.
+[00:09:04] skiatzo: !roll
+[00:09:04] BanchoBot: skiatzo rolls 7 point(s)
+[00:09:04] BanchoBot: Countdown ends in 30 seconds
+[00:09:07] Leonard_H: !roll score * 100000
+[00:09:07] BanchoBot: Leonard H rolls 4 point(s)
+[00:09:11] Leonard_H: gg
+[00:09:24] BanchoBot: Countdown ends in 10 seconds
+[00:09:26] BanchoBot: skiatzo left the game.
+[00:09:26] BCraftMG: theres 5 on Pinball?
+[00:09:29] BanchoBot: Countdown ends in 5 seconds
+[00:09:30] BanchoBot: Countdown ends in 4 seconds
+[00:09:30] BanchoBot: Countdown ends in 3 seconds
+[00:09:32] BanchoBot: All players are ready
+[00:09:32] BanchoBot: Countdown ends in 2 seconds
+[00:09:32] BCraftMG: !mp settings
+[00:09:33] BanchoBot: Countdown ends in 1 second
+[00:09:33] BanchoBot: Room name: CC5: (Qualifiers) vs (Match B4), History: https://osu.ppy.sh/mp/115419517
+[00:09:33] BanchoBot: Beatmap: https://osu.ppy.sh/b/4384663 orangentle / Yu_Asahina - OEFHEBEN
+[00:09:33] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:09:33] BanchoBot: Active mods: NoFail
+[00:09:33] BanchoBot: Players: 8
+[00:09:33] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7512553 Utami           
+[00:09:33] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14919428 Ohio            
+[00:09:33] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/5981005 gamer228666     
+[00:09:33] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/4108547 WindowLife      
+[00:09:33] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11562243 Leonard H       
+[00:09:33] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10651106 Pezz            
+[00:09:33] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/16139008 HP DeskJet 3835 
+[00:09:33] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/4830687 BoshyMan741     
+[00:09:35] BanchoBot: Countdown finished
+[00:09:35] BCraftMG: !mp start 5 glhf
+[00:09:36] Ohio: glhf
+[00:09:36] BanchoBot: Match starts in 5 seconds
+[00:09:36] BanchoBot: Queued the match to start in 5 seconds
+[00:09:38] BanchoBot: Match starts in 4 seconds
+[00:09:39] BanchoBot: Match starts in 3 seconds
+[00:09:40] BanchoBot: Good luck, have fun!
+[00:09:42] BanchoBot: The match has started!
+[00:12:38] BanchoBot: BoshyMan741 finished playing (Score: 375679, PASSED).
+[00:12:38] BanchoBot: WindowLife finished playing (Score: 383606, PASSED).
+[00:12:40] BanchoBot: gamer228666 finished playing (Score: 424809, PASSED).
+[00:12:40] BanchoBot: Utami finished playing (Score: 493887, PASSED).
+[00:12:40] BanchoBot: Leonard H finished playing (Score: 475089, PASSED).
+[00:12:40] BanchoBot: Pezz finished playing (Score: 482680, PASSED).
+[00:12:41] BanchoBot: Ohio finished playing (Score: 405214, PASSED).
+[00:12:41] BanchoBot: HP DeskJet 3835 finished playing (Score: 320892, PASSED).
+[00:12:41] BanchoBot: The match has finished!
+[00:12:44] BCraftMG: !mp map 4618345 0
+[00:12:44] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4618345 I love you Orchestra - Squall
+[00:12:44] BanchoBot: Changed match mode to Osu
+[00:12:45] BCraftMG: !mp timer 120
+[00:12:46] BanchoBot: Countdown ends in 2 minutes
+[00:12:47] BanchoBot: fieryrage joined in slot 9.
+[00:12:53] BanchoBot: Markrum joined in slot 10.
+[00:13:00] BanchoBot: WindowLife left the game.
+[00:13:03] BanchoBot: gamer228666 left the game.
+[00:13:03] BanchoBot: Pezz moved to slot 11
+[00:13:05] BanchoBot: Markrum left the game.
+[00:13:06] BanchoBot: fieryrage moved to slot 3
+[00:13:12] BanchoBot: HAUNTE joined in slot 4.
+[00:13:21] BanchoBot: Utami left the game.
+[00:13:40] BanchoBot: Ohio left the game.
+[00:13:44] BanchoBot: Pezz moved to slot 2
+[00:13:46] BanchoBot: Countdown ends in 1 minute
+[00:13:50] BanchoBot: Carlosflow joined in slot 1.
+[00:13:59] BanchoBot: Carlosflow moved to slot 6
+[00:13:59] fieryrage: 300k or 700k
+[00:13:59] BanchoBot: Utami joined in slot 1.
+[00:14:00] fieryrage: no in between
+[00:14:05] Carlosflow: Holaaaaaaa
+[00:14:12] HAUNTE: gm
+[00:14:16] BanchoBot: Countdown ends in 30 seconds
+[00:14:31] BanchoBot: All players are ready
+[00:14:34] BCraftMG: !mp settings
+[00:14:35] BanchoBot: Room name: CC5: (Qualifiers) vs (Match B4), History: https://osu.ppy.sh/mp/115419517
+[00:14:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/4618345 I love you Orchestra - Squall
+[00:14:35] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:14:35] BanchoBot: Active mods: NoFail
+[00:14:35] BanchoBot: Players: 8
+[00:14:35] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7512553 Utami           
+[00:14:35] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10651106 Pezz            
+[00:14:35] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/3533958 fieryrage       
+[00:14:35] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7333471 HAUNTE          
+[00:14:35] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11562243 Leonard H       
+[00:14:36] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11940767 Carlosflow      
+[00:14:36] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/16139008 HP DeskJet 3835 
+[00:14:36] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/4830687 BoshyMan741     
+[00:14:37] BanchoBot: Countdown ends in 10 seconds
+[00:14:38] BCraftMG: !mp start 5 glhf
+[00:14:40] BanchoBot: Countdown aborted
+[00:14:40] BanchoBot: Match starts in 5 seconds
+[00:14:40] BanchoBot: Queued the match to start in 5 seconds
+[00:14:41] BanchoBot: Match starts in 4 seconds
+[00:14:42] BanchoBot: Match starts in 3 seconds
+[00:14:44] BanchoBot: Good luck, have fun!
+[00:14:45] BanchoBot: The match has started!
+[00:18:19] BanchoBot: Carlosflow finished playing (Score: 559858, PASSED).
+[00:18:19] BanchoBot: HAUNTE finished playing (Score: 419596, PASSED).
+[00:18:19] BanchoBot: BoshyMan741 finished playing (Score: 452513, PASSED).
+[00:18:21] BanchoBot: Pezz finished playing (Score: 585213, PASSED).
+[00:18:21] BanchoBot: fieryrage finished playing (Score: 388563, PASSED).
+[00:18:21] BanchoBot: Utami finished playing (Score: 546877, PASSED).
+[00:18:21] BanchoBot: HP DeskJet 3835 finished playing (Score: 495585, PASSED).
+[00:18:21] BanchoBot: Leonard H finished playing (Score: 501442, PASSED).
+[00:18:21] BanchoBot: The match has finished!
+[00:18:24] BCraftMG: !mp map 4216586 0
+[00:18:25] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4216586 katagiri - Uso and Braindead Beserker
+[00:18:25] BanchoBot: Changed match mode to Osu
+[00:18:26] BCraftMG: !mp timer 120
+[00:18:27] BanchoBot: Countdown ends in 2 minutes
+[00:18:46] BanchoBot: Pezz left the game.
+[00:18:49] BanchoBot: BoshyMan741 left the game.
+[00:18:49] BanchoBot: skiatzo joined in slot 2.
+[00:18:51] BanchoBot: fieryrage left the game.
+[00:18:51] BanchoBot: HAUNTE moved to slot 8
+[00:18:51] BanchoBot: HAUNTE left the game.
+[00:18:57] BanchoBot: Pezz joined in slot 3.
+[00:19:10] BanchoBot: Ohio joined in slot 4.
+[00:19:22] Leonard_H: time to play the worst map in the game
+[00:19:28] BanchoBot: Countdown ends in 1 minute
+[00:19:31] skiatzo: yeah im in for speed
+[00:19:32] skiatzo: help
+[00:19:52] Carlosflow: i can say the same thing
+[00:19:57] BanchoBot: Countdown ends in 30 seconds
+[00:20:13] Leonard_H: carlos you are literally a speed player....
+[00:20:13] BanchoBot: WindowLife joined in slot 8.
+[00:20:17] BanchoBot: Countdown ends in 10 seconds
+[00:20:19] Carlosflow: err
+[00:20:19] skiatzo: HELP
+[00:20:20] skiatzo: HELPPPPPPPPPP
+[00:20:23] BanchoBot: Countdown ends in 5 seconds
+[00:20:23] BanchoBot: Countdown ends in 4 seconds
+[00:20:25] BanchoBot: Countdown ends in 3 seconds
+[00:20:26] BanchoBot: Countdown ends in 2 seconds
+[00:20:26] BanchoBot: All players are ready
+[00:20:26] BanchoBot: Countdown ends in 1 second
+[00:20:27] BanchoBot: Countdown finished
+[00:20:30] Ohio: glhf
+[00:20:31] BCraftMG: !mp settings
+[00:20:32] BanchoBot: Room name: CC5: (Qualifiers) vs (Match B4), History: https://osu.ppy.sh/mp/115419517
+[00:20:32] BanchoBot: Beatmap: https://osu.ppy.sh/b/4216586 katagiri - Uso and Braindead Beserker
+[00:20:32] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:20:32] BanchoBot: Active mods: NoFail
+[00:20:32] BanchoBot: Players: 8
+[00:20:32] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7512553 Utami           
+[00:20:32] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16774872 skiatzo         
+[00:20:32] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10651106 Pezz            
+[00:20:32] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14919428 Ohio            
+[00:20:32] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11562243 Leonard H       
+[00:20:32] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11940767 Carlosflow      
+[00:20:32] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/16139008 HP DeskJet 3835 
+[00:20:32] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/4108547 WindowLife      
+[00:20:34] BCraftMG: !mp start 5 glhf
+[00:20:35] Leonard_H: gl
+[00:20:35] BanchoBot: Match starts in 5 seconds
+[00:20:35] BanchoBot: Queued the match to start in 5 seconds
+[00:20:36] BanchoBot: Match starts in 4 seconds
+[00:20:38] BanchoBot: Match starts in 3 seconds
+[00:20:39] BanchoBot: Good luck, have fun!
+[00:20:41] BanchoBot: The match has started!
+[00:22:52] BanchoBot: Utami finished playing (Score: 363483, PASSED).
+[00:22:52] BanchoBot: skiatzo finished playing (Score: 320713, PASSED).
+[00:22:52] BanchoBot: Pezz finished playing (Score: 374534, PASSED).
+[00:22:52] BanchoBot: WindowLife finished playing (Score: 676718, PASSED).
+[00:22:52] BanchoBot: Ohio finished playing (Score: 624069, PASSED).
+[00:22:52] BanchoBot: HP DeskJet 3835 finished playing (Score: 347860, PASSED).
+[00:22:52] BanchoBot: Carlosflow finished playing (Score: 318190, PASSED).
+[00:22:52] BanchoBot: Leonard H finished playing (Score: 378983, PASSED).
+[00:22:52] BanchoBot: The match has finished!
+[00:23:03] BCraftMG: !mp map 4329484 0
+[00:23:04] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4329484 Kaarija - Cha Cha Cha (Camellia Remix)
+[00:23:04] BanchoBot: Changed match mode to Osu
+[00:23:05] BanchoBot: Utami left the game.
+[00:23:06] BCraftMG: !mp mods 9
+[00:23:06] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[00:23:08] BCraftMG: !mp timer 120
+[00:23:08] BanchoBot: Countdown ends in 2 minutes
+[00:23:11] Carlosflow: damn
+[00:23:14] BanchoBot: Ohio left the game.
+[00:23:15] BanchoBot: BoshyMan741 joined in slot 1.
+[00:23:20] BanchoBot: Pezz left the game.
+[00:23:21] BanchoBot: BoshyMan741 moved to slot 4
+[00:23:22] BanchoBot: BoshyMan741 moved to slot 9
+[00:23:25] BanchoBot: WindowLife left the game.
+[00:23:34] BanchoBot: BoshyMan741 moved to slot 8
+[00:23:43] BanchoBot: Carlosflow left the game.
+[00:23:43] skiatzo: help
+[00:23:52] BanchoBot: skiatzo moved to slot 1
+[00:23:56] BanchoBot: skiatzo left the game.
+[00:23:57] BanchoBot: Utami joined in slot 1.
+[00:24:09] BanchoBot: Countdown ends in 1 minute
+[00:24:10] BanchoBot: HAUNTE joined in slot 2.
+[00:24:15] BanchoBot: fieryrage joined in slot 3.
+[00:24:32] BanchoBot: WindowLife joined in slot 4.
+[00:24:34] BanchoBot: WindowLife moved to slot 6
+[00:24:39] BanchoBot: Countdown ends in 30 seconds
+[00:24:39] BanchoBot: skiatzo joined in slot 4.
+[00:24:44] BoshyMan741: GOOF LUCK
+[00:24:48] skiatzo: GL GANG
+[00:24:50] skiatzo: !!
+[00:24:55] WindowLife: glglgll
+[00:24:55] BanchoBot: All players are ready
+[00:24:57] BCraftMG: !mp settings
+[00:24:59] Leonard_H: gl
+[00:24:59] BanchoBot: Countdown ends in 10 seconds
+[00:24:59] BanchoBot: Room name: CC5: (Qualifiers) vs (Match B4), History: https://osu.ppy.sh/mp/115419517
+[00:24:59] BanchoBot: Beatmap: https://osu.ppy.sh/b/4329484 Kaarija - Cha Cha Cha (Camellia Remix)
+[00:24:59] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:24:59] BanchoBot: Active mods: NoFail, Hidden
+[00:24:59] BanchoBot: Players: 8
+[00:24:59] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7512553 Utami           
+[00:24:59] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7333471 HAUNTE          
+[00:24:59] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/3533958 fieryrage       
+[00:24:59] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16774872 skiatzo         
+[00:24:59] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11562243 Leonard H       
+[00:24:59] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/4108547 WindowLife      
+[00:24:59] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/16139008 HP DeskJet 3835 
+[00:24:59] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/4830687 BoshyMan741     
+[00:25:01] BCraftMG: !mp start 5 glhf
+[00:25:01] BanchoBot: Countdown aborted
+[00:25:01] BanchoBot: Match starts in 5 seconds
+[00:25:01] BanchoBot: Queued the match to start in 5 seconds
+[00:25:03] HAUNTE: golglglg
+[00:25:03] BanchoBot: Match starts in 4 seconds
+[00:25:04] BanchoBot: Match starts in 3 seconds
+[00:25:06] BanchoBot: Good luck, have fun!
+[00:25:07] BanchoBot: The match has started!
+[00:28:46] BanchoBot: Leonard H finished playing (Score: 457308, PASSED).
+[00:28:47] BanchoBot: HP DeskJet 3835 finished playing (Score: 523008, PASSED).
+[00:28:47] BanchoBot: HAUNTE finished playing (Score: 605800, PASSED).
+[00:28:47] BanchoBot: BoshyMan741 finished playing (Score: 446309, PASSED).
+[00:28:47] BanchoBot: WindowLife finished playing (Score: 423106, PASSED).
+[00:28:47] BanchoBot: fieryrage finished playing (Score: 538919, PASSED).
+[00:28:49] BanchoBot: skiatzo finished playing (Score: 483592, PASSED).
+[00:28:59] BanchoBot: -Schwarts joined in slot 9.
+[00:29:11] Leonard_H: who are we waiting for.
+[00:29:14] BCraftMG: utami
+[00:29:15] BoshyMan741: tabbed out ?
+[00:29:16] HAUNTE: not me
+[00:29:25] skiatzo: ALO
+[00:29:31] Leonard_H: Guys lets play it again
+[00:29:31] Leonard_H: Please.
+[00:29:41] Leonard_H: Abort and Redo
+[00:29:43] Leonard_H: :D
+[00:29:47] skiatzo: :x:
+[00:29:50] HAUNTE: surely
+[00:29:56] BanchoBot: fieryrage left the game.
+[00:30:00] BanchoBot: fieryrage joined in slot 3.
+[00:30:14] BCraftMG: can someone check on Utami
+[00:30:21] HAUNTE: his internet died
+[00:30:21] BCraftMG: hes the only one missing atm
+[00:30:24] HAUNTE: i think
+[00:30:28] fieryrage: hes here
+[00:30:29] Leonard_H: abort guys.
+[00:30:29] BanchoBot: Pezz joined in slot 10.
+[00:30:31] fieryrage: his internet died and its not going to submit
+[00:30:34] BanchoBot: Pezz left the game.
+[00:30:38] Leonard_H: we play again
+[00:30:38] HAUNTE: he has proof of score i think
+[00:30:40] fieryrage: he got like 900k
+[00:30:44] BCraftMG: i would love to not have to abort
+[00:30:49] BCraftMG: !mp kick Utami
+[00:30:50] BanchoBot: The match has finished!
+[00:30:50] BanchoBot: Utami left the game.
+[00:30:50] BanchoBot: Kicked Utami from the match
+[00:31:03] BCraftMG: :p shift f12 if possible
+[00:31:10] BCraftMG: not just DM me the image
+[00:31:12] BCraftMG: @bcraftmg
+[00:31:22] BanchoBot: Markrum joined in slot 1.
+[00:31:24] skiatzo: WHERE DID MY TEAM GO
+[00:31:28] BanchoBot: WindowLife left the game.
+[00:31:31] BanchoBot: Leonard H moved to slot 11
+[00:31:31] fieryrage: https://cdn.discordapp.com/attachments/1279546138839486485/1282392828470886481/screenshot1128.jpg?ex=66df30e4&is=66dddf64&hm=753201106c8a6a7a02b6a8b583e11c1dd780f5f2cc1702718929030fd9b8ba82&
+[00:31:34] BanchoBot: HP DeskJet 3835 left the game.
+[00:31:42] BCraftMG: @fieryrage ill need your SS too since you left before i kick Utami
+[00:31:47] BCraftMG: your score is not on MP
+[00:31:47] fieryrage: im at the bottom cuz i had to refresh
+[00:31:56] BanchoBot: Leonard H left the game.
+[00:31:58] fieryrage: its on the ss
+[00:32:16] BCraftMG: alright
+[00:32:20] BanchoBot: PikaPwn joined in slot 5.
+[00:32:20] BCraftMG: give me a moment
+[00:32:26] BCraftMG: !mp map 3933105 0
+[00:32:27] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3933105 PUP - Old Wounds
+[00:32:27] BanchoBot: Changed match mode to Osu
+[00:32:30] BanchoBot: Markrum moved to slot 6
+[00:32:31] BanchoBot: Markrum moved to slot 1
+[00:32:43] BanchoBot: Utami joined in slot 6.
+[00:32:43] BanchoBot: -Schwarts moved to slot 7
+[00:32:45] BanchoBot: HP DeskJet 3835 joined in slot 9.
+[00:32:48] BanchoBot: Utami moved to slot 11
+[00:33:02] BanchoBot: skiatzo left the game.
+[00:33:05] BanchoBot: PikaPwn moved to slot 4
+[00:33:08] fieryrage: if anyone gets above 500k we are banning them immediately
+[00:33:11] BanchoBot: HP DeskJet 3835 moved to slot 6
+[00:33:18] PikaPwn: Wait don't ban me plz
+[00:33:21] BanchoBot: Utami moved to slot 5
+[00:33:26] BanchoBot: All players are ready
+[00:33:27] Markrum: ok i dont want to get banned
+[00:33:30] Markrum: going to int on purpose
+[00:33:44] BCraftMG: !mp settings
+[00:33:45] BanchoBot: Room name: CC5: (Qualifiers) vs (Match B4), History: https://osu.ppy.sh/mp/115419517
+[00:33:45] BanchoBot: Beatmap: https://osu.ppy.sh/b/3933105 PUP - Old Wounds
+[00:33:45] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:33:45] BanchoBot: Active mods: NoFail, Hidden
+[00:33:45] BanchoBot: Players: 8
+[00:33:45] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11854446 Markrum         
+[00:33:45] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7333471 HAUNTE          
+[00:33:45] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/3533958 fieryrage       
+[00:33:45] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/2012453 PikaPwn         
+[00:33:45] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/7512553 Utami           
+[00:33:45] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/16139008 HP DeskJet 3835 
+[00:33:45] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/4673649 -Schwarts       
+[00:33:45] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/4830687 BoshyMan741     
+[00:33:54] BoshyMan741: GOOF LUCK
+[00:33:56] Markrum: gl hf
+[00:33:58] PikaPwn: glhf
+[00:33:59] HAUNTE: glgllglglglg
+[00:34:01] BCraftMG: !mp start 5 glhf
+[00:34:02] BanchoBot: Match starts in 5 seconds
+[00:34:02] BanchoBot: Queued the match to start in 5 seconds
+[00:34:04] BanchoBot: Match starts in 4 seconds
+[00:34:05] BanchoBot: Match starts in 3 seconds
+[00:34:07] BanchoBot: Good luck, have fun!
+[00:34:08] BanchoBot: The match has started!
+[00:36:34] BanchoBot: fieryrage finished playing (Score: 294448, PASSED).
+[00:36:34] BanchoBot: Utami finished playing (Score: 835491, PASSED).
+[00:36:34] BanchoBot: BoshyMan741 finished playing (Score: 788553, PASSED).
+[00:36:34] BanchoBot: HP DeskJet 3835 finished playing (Score: 654736, PASSED).
+[00:36:34] BanchoBot: HAUNTE finished playing (Score: 502008, PASSED).
+[00:36:36] BanchoBot: -Schwarts finished playing (Score: 341736, PASSED).
+[00:36:36] BanchoBot: Markrum finished playing (Score: 415193, PASSED).
+[00:36:36] BanchoBot: PikaPwn finished playing (Score: 421946, PASSED).
+[00:36:36] BanchoBot: The match has finished!
+[00:36:40] BanchoBot: -Schwarts left the game.
+[00:36:42] Markrum: phew
+[00:36:42] BanchoBot: HAUNTE left the game.
+[00:36:45] fieryrage: xd?
+[00:36:46] BanchoBot: HAUNTE joined in slot 2.
+[00:36:50] BCraftMG: !mp map 2651794 0
+[00:36:51] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2651794 Polyphia - O.D.
+[00:36:51] BanchoBot: Changed match mode to Osu
+[00:36:51] BCraftMG: !mp mods 17
+[00:36:52] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[00:36:52] BCraftMG: !mp timer 120
+[00:36:53] fieryrage: boshy: i will get 350k on this
+[00:36:53] BanchoBot: Countdown ends in 2 minutes
+[00:37:05] BanchoBot: Leonard H joined in slot 7.
+[00:37:09] Utami: joe man
+[00:37:11] BanchoBot: Markrum left the game.
+[00:37:11] Utami: boshy joe
+[00:37:14] BoshyMan741: i will get 350k on HR1
+[00:37:15] BanchoBot: PikaPwn left the game.
+[00:37:15] BanchoBot: fieryrage moved to slot 1
+[00:37:20] fieryrage: yea bro im sure
+[00:37:21] BanchoBot: HP DeskJet 3835 left the game.
+[00:37:23] Utami: r176 joeshywoman666
+[00:37:31] BanchoBot: Utami left the game.
+[00:37:39] BanchoBot: HAUNTE left the game.
+[00:37:42] BanchoBot: Pezz joined in slot 2.
+[00:37:47] BanchoBot: skiatzo joined in slot 3.
+[00:37:53] BanchoBot: Countdown ends in 1 minute
+[00:37:55] BanchoBot: Utami joined in slot 4.
+[00:38:24] BanchoBot: Countdown ends in 30 seconds
+[00:38:26] BanchoBot: Carlosflow joined in slot 5.
+[00:38:26] BanchoBot: WindowLife joined in slot 6.
+[00:38:45] BanchoBot: Countdown ends in 10 seconds
+[00:38:47] BanchoBot: All players are ready
+[00:38:47] BanchoBot: All players are ready
+[00:38:47] BanchoBot: Carlosflow moved to slot 9
+[00:38:47] BanchoBot: All players are ready
+[00:38:47] BanchoBot: All players are ready
+[00:38:47] BanchoBot: All players are ready
+[00:38:47] BanchoBot: All players are ready
+[00:38:48] BCraftMG: !mp settings
+[00:38:50] BanchoBot: Countdown ends in 5 seconds
+[00:38:50] BanchoBot: Countdown ends in 4 seconds
+[00:38:50] BanchoBot: Room name: CC5: (Qualifiers) vs (Match B4), History: https://osu.ppy.sh/mp/115419517
+[00:38:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/2651794 Polyphia - O.D.
+[00:38:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:38:50] BanchoBot: Active mods: NoFail, HardRock
+[00:38:50] BanchoBot: Players: 8
+[00:38:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3533958 fieryrage       
+[00:38:50] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10651106 Pezz            
+[00:38:50] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/16774872 skiatzo         
+[00:38:50] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7512553 Utami           
+[00:38:50] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/4108547 WindowLife      
+[00:38:50] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11562243 Leonard H       
+[00:38:50] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/4830687 BoshyMan741     
+[00:38:50] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11940767 Carlosflow      
+[00:38:51] BanchoBot: Countdown ends in 3 seconds
+[00:38:52] BanchoBot: Countdown ends in 2 seconds
+[00:38:52] BCraftMG: !mp start 5 glhf
+[00:38:54] BanchoBot: Countdown ends in 1 second
+[00:38:54] BanchoBot: Countdown finished
+[00:38:54] BanchoBot: Match starts in 5 seconds
+[00:38:54] BanchoBot: Queued the match to start in 5 seconds
+[00:38:55] BanchoBot: Match starts in 4 seconds
+[00:38:57] BanchoBot: Match starts in 3 seconds
+[00:38:58] BanchoBot: Good luck, have fun!
+[00:39:00] BanchoBot: The match has started!
+[00:41:58] BanchoBot: BoshyMan741 finished playing (Score: 375433, PASSED).
+[00:41:58] BanchoBot: Pezz finished playing (Score: 926085, PASSED).
+[00:41:59] BanchoBot: Leonard H finished playing (Score: 816732, PASSED).
+[00:41:59] BanchoBot: skiatzo finished playing (Score: 564673, PASSED).
+[00:41:59] BanchoBot: Carlosflow finished playing (Score: 510422, PASSED).
+[00:41:59] BanchoBot: fieryrage finished playing (Score: 494116, PASSED).
+[00:42:01] BanchoBot: WindowLife finished playing (Score: 459470, PASSED).
+[00:42:01] BanchoBot: Utami finished playing (Score: 471161, PASSED).
+[00:42:01] BanchoBot: The match has finished!
+[00:42:08] Leonard_H: firetruck you pezz
+[00:42:08] BCraftMG: !mp map 4448661 0
+[00:42:09] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4448661 onoken ft. Misaki - Gokuaku no Hana
+[00:42:09] BanchoBot: Changed match mode to Osu
+[00:42:15] BCraftMG: !mp timer 120
+[00:42:15] BanchoBot: Countdown ends in 2 minutes
+[00:42:20] BoshyMan741: +25k
+[00:42:22] BanchoBot: WindowLife left the game.
+[00:42:26] BanchoBot: HAUNTE joined in slot 5.
+[00:42:39] Pezz: oops
+[00:42:59] BanchoBot: HAUNTE left the game.
+[00:43:07] BanchoBot: HAUNTE joined in slot 5.
+[00:43:15] BanchoBot: Countdown ends in 1 minute
+[00:43:20] BanchoBot: Ohio joined in slot 6.
+[00:43:21] BanchoBot: skiatzo left the game.
+[00:43:23] BanchoBot: HAUNTE left the game.
+[00:43:27] BanchoBot: Ohio moved to slot 5
+[00:43:31] BanchoBot: fieryrage moved to slot 3
+[00:43:31] BanchoBot: WindowLife joined in slot 1.
+[00:43:33] BanchoBot: WindowLife moved to slot 6
+[00:43:42] BanchoBot: Pezz moved to slot 1
+[00:43:46] BanchoBot: Countdown ends in 30 seconds
+[00:43:49] BanchoBot: Ohio moved to slot 2
+[00:44:06] BanchoBot: Countdown ends in 10 seconds
+[00:44:11] BanchoBot: Countdown ends in 5 seconds
+[00:44:12] BanchoBot: Countdown ends in 4 seconds
+[00:44:12] BanchoBot: Countdown ends in 3 seconds
+[00:44:14] BanchoBot: Countdown ends in 2 seconds
+[00:44:15] BanchoBot: Countdown ends in 1 second
+[00:44:17] BanchoBot: Countdown finished
+[00:44:18] BanchoBot: All players are ready
+[00:44:21] BCraftMG: !mp settings
+[00:44:21] BanchoBot: Leonard H moved to slot 5
+[00:44:23] BoshyMan741: goerge
+[00:44:23] BanchoBot: Room name: CC5: (Qualifiers) vs (Match B4), History: https://osu.ppy.sh/mp/115419517
+[00:44:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/4448661 onoken ft. Misaki - Gokuaku no Hana
+[00:44:23] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:44:23] BanchoBot: Active mods: NoFail, HardRock
+[00:44:23] BanchoBot: Players: 8
+[00:44:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10651106 Pezz            
+[00:44:23] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14919428 Ohio            
+[00:44:23] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/3533958 fieryrage       
+[00:44:23] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/7512553 Utami           
+[00:44:23] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11562243 Leonard H       
+[00:44:23] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/4108547 WindowLife      
+[00:44:23] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/4830687 BoshyMan741     
+[00:44:23] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/11940767 Carlosflow      
+[00:44:24] BanchoBot: WindowLife moved to slot 7
+[00:44:24] BanchoBot: WindowLife moved to slot 6
+[00:44:25] BCraftMG: !mp start 5 glhf
+[00:44:27] BanchoBot: Match starts in 5 seconds
+[00:44:27] BanchoBot: Queued the match to start in 5 seconds
+[00:44:28] BanchoBot: Match starts in 4 seconds
+[00:44:28] Ohio: glhf
+[00:44:30] BanchoBot: Match starts in 3 seconds
+[00:44:31] BanchoBot: Good luck, have fun!
+[00:44:33] BanchoBot: The match has started!
+[00:46:41] BanchoBot: WindowLife finished playing (Score: 520052, PASSED).
+[00:46:41] BanchoBot: fieryrage finished playing (Score: 531526, PASSED).
+[00:46:41] BanchoBot: BoshyMan741 finished playing (Score: 773362, PASSED).
+[00:46:41] BanchoBot: Utami finished playing (Score: 618425, PASSED).
+[00:46:41] BanchoBot: Leonard H finished playing (Score: 524633, PASSED).
+[00:46:41] BanchoBot: Ohio finished playing (Score: 545908, PASSED).
+[00:46:41] BanchoBot: Carlosflow finished playing (Score: 542453, PASSED).
+[00:46:42] BanchoBot: Pezz finished playing (Score: 1023825, PASSED).
+[00:46:42] BanchoBot: The match has finished!
+[00:46:47] BCraftMG: !mp map 1151454 0
+[00:46:48] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1151454 SHISHAMO - Kimi to Gelaende
+[00:46:48] BanchoBot: Changed match mode to Osu
+[00:46:50] BCraftMG: !mp mods 65
+[00:46:51] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[00:46:53] BCraftMG: !mp timer 120
+[00:46:54] BanchoBot: Countdown ends in 2 minutes
+[00:46:56] BanchoBot: BoshyMan741 left the game.
+[00:46:58] BanchoBot: Utami left the game.
+[00:46:59] BanchoBot: fieryrage left the game.
+[00:47:01] BanchoBot: HP DeskJet 3835 joined in slot 3.
+[00:47:05] BanchoBot: HP DeskJet 3835 moved to slot 7
+[00:47:16] BanchoBot: WindowLife left the game.
+[00:47:52] BanchoBot: Utami joined in slot 3.
+[00:47:54] BanchoBot: Countdown ends in 1 minute
+[00:48:04] BanchoBot: WindowLife joined in slot 4.
+[00:48:08] BanchoBot: WindowLife moved to slot 6
+[00:48:16] BanchoBot: Carlosflow moved to slot 8
+[00:48:20] BanchoBot: Carlosflow moved to slot 9
+[00:48:23] BanchoBot: skiatzo joined in slot 4.
+[00:48:23] BanchoBot: Carlosflow moved to slot 8
+[00:48:24] BanchoBot: Countdown ends in 30 seconds
+[00:48:43] BCraftMG: !mp settings
+[00:48:44] BanchoBot: Room name: CC5: (Qualifiers) vs (Match B4), History: https://osu.ppy.sh/mp/115419517
+[00:48:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/1151454 SHISHAMO - Kimi to Gelaende
+[00:48:44] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:48:44] BanchoBot: Active mods: NoFail, DoubleTime
+[00:48:44] BanchoBot: Players: 8
+[00:48:44] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10651106 Pezz            
+[00:48:44] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14919428 Ohio            
+[00:48:44] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7512553 Utami           
+[00:48:44] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16774872 skiatzo         
+[00:48:44] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/11562243 Leonard H       
+[00:48:44] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/4108547 WindowLife      
+[00:48:44] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/16139008 HP DeskJet 3835 
+[00:48:44] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/11940767 Carlosflow      
+[00:48:45] BanchoBot: Countdown ends in 10 seconds
+[00:48:49] BanchoBot: All players are ready
+[00:48:49] BanchoBot: Countdown ends in 5 seconds
+[00:48:50] BCraftMG: !mp settings
+[00:48:51] BanchoBot: Countdown ends in 4 seconds
+[00:48:51] BanchoBot: Countdown ends in 3 seconds
+[00:48:51] BanchoBot: Room name: CC5: (Qualifiers) vs (Match B4), History: https://osu.ppy.sh/mp/115419517
+[00:48:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/1151454 SHISHAMO - Kimi to Gelaende
+[00:48:51] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:48:51] BanchoBot: Active mods: NoFail, DoubleTime
+[00:48:51] BanchoBot: Players: 8
+[00:48:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10651106 Pezz            
+[00:48:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14919428 Ohio            
+[00:48:51] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7512553 Utami           
+[00:48:51] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16774872 skiatzo         
+[00:48:51] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11562243 Leonard H       
+[00:48:51] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/4108547 WindowLife      
+[00:48:51] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/16139008 HP DeskJet 3835 
+[00:48:51] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/11940767 Carlosflow      
+[00:48:52] BanchoBot: Countdown ends in 2 seconds
+[00:48:53] BCraftMG: !mp start 5 glhf
+[00:48:54] BanchoBot: Countdown ends in 1 second
+[00:48:54] BanchoBot: Countdown finished
+[00:48:54] BanchoBot: Match starts in 5 seconds
+[00:48:54] BanchoBot: Queued the match to start in 5 seconds
+[00:48:55] BanchoBot: Match starts in 4 seconds
+[00:48:57] Leonard_H: i cant see the circles here
+[00:48:57] BanchoBot: Match starts in 3 seconds
+[00:48:57] Leonard_H: glhf
+[00:48:57] Ohio: glhf
+[00:48:58] BanchoBot: Good luck, have fun!
+[00:49:00] BanchoBot: The match has started!
+[00:51:56] BanchoBot: WindowLife finished playing (Score: 633559, PASSED).
+[00:51:56] BanchoBot: Ohio finished playing (Score: 1116762, PASSED).
+[00:51:56] BanchoBot: HP DeskJet 3835 finished playing (Score: 695830, PASSED).
+[00:51:56] BanchoBot: Carlosflow finished playing (Score: 566975, PASSED).
+[00:51:58] BanchoBot: Pezz finished playing (Score: 989443, PASSED).
+[00:51:58] BanchoBot: Leonard H finished playing (Score: 467501, PASSED).
+[00:51:58] BanchoBot: Utami finished playing (Score: 625223, PASSED).
+[00:51:58] BanchoBot: skiatzo finished playing (Score: 887088, PASSED).
+[00:51:58] BanchoBot: The match has finished!
+[00:52:06] BCraftMG: !mp map 1418502 0
+[00:52:06] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1418502 tofubeats - CANDYYYLAND feat. LIZ (Pa's Lam System Remix)
+[00:52:06] BanchoBot: Changed match mode to Osu
+[00:52:08] BCraftMG: !mp timer 120
+[00:52:08] BanchoBot: Countdown ends in 2 minutes
+[00:53:08] BanchoBot: Countdown ends in 1 minute
+[00:53:12] BanchoBot: All players are ready
+[00:53:21] BCraftMG: !mp settings
+[00:53:22] BanchoBot: Room name: CC5: (Qualifiers) vs (Match B4), History: https://osu.ppy.sh/mp/115419517
+[00:53:22] BanchoBot: Beatmap: https://osu.ppy.sh/b/1418502 tofubeats - CANDYYYLAND feat. LIZ (Pa's Lam System Remix)
+[00:53:22] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:53:22] BanchoBot: Active mods: NoFail, DoubleTime
+[00:53:22] BanchoBot: Players: 8
+[00:53:22] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10651106 Pezz            
+[00:53:22] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14919428 Ohio            
+[00:53:22] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/7512553 Utami           
+[00:53:22] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16774872 skiatzo         
+[00:53:22] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11562243 Leonard H       
+[00:53:22] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/4108547 WindowLife      
+[00:53:22] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/16139008 HP DeskJet 3835 
+[00:53:22] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/11940767 Carlosflow      
+[00:53:23] BCraftMG: !mp start 5 glhf
+[00:53:24] skiatzo: HLEP
+[00:53:24] skiatzo: HELP
+[00:53:24] BanchoBot: Countdown aborted
+[00:53:24] BanchoBot: Match starts in 5 seconds
+[00:53:24] BanchoBot: Queued the match to start in 5 seconds
+[00:53:26] skiatzo: [
+[00:53:26] skiatzo: HLPEH
+[00:53:26] BanchoBot: Match starts in 4 seconds
+[00:53:27] BanchoBot: Match starts in 3 seconds
+[00:53:28] BanchoBot: Good luck, have fun!
+[00:53:28] Ohio: glhf
+[00:53:30] BanchoBot: The match has started!
+[00:56:05] BanchoBot: WindowLife finished playing (Score: 696979, PASSED).
+[00:56:07] BanchoBot: Pezz finished playing (Score: 672898, PASSED).
+[00:56:07] BanchoBot: Carlosflow finished playing (Score: 726598, PASSED).
+[00:56:07] BanchoBot: Ohio finished playing (Score: 1032688, PASSED).
+[00:56:07] BanchoBot: Leonard H finished playing (Score: 616626, PASSED).
+[00:56:07] BanchoBot: skiatzo finished playing (Score: 462580, PASSED).
+[00:56:07] BanchoBot: HP DeskJet 3835 finished playing (Score: 491450, PASSED).
+[00:56:08] BanchoBot: Utami finished playing (Score: 719142, PASSED).
+[00:56:08] BanchoBot: The match has finished!
+[00:56:14] WindowLife: gg
+[00:56:16] BCraftMG: !mp map 2754917 0
+[00:56:16] BanchoBot: Utami left the game.
+[00:56:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2754917 ARM (IOSYS) + Brasscapsule - Jazz is Rad
+[00:56:17] BanchoBot: Changed match mode to Osu
+[00:56:19] BanchoBot: WindowLife left the game.
+[00:56:23] BanchoBot: BoshyMan741 joined in slot 3.
+[00:56:23] BanchoBot: Leonard H moved to slot 10
+[00:56:24] BCraftMG: !mp mods 3
+[00:56:25] BanchoBot: BoshyMan741 moved to slot 6
+[00:56:25] BanchoBot: Enabled NoFail, Easy, disabled FreeMod
+[00:56:26] BanchoBot: Pezz left the game.
+[00:56:28] BanchoBot: Ohio left the game.
+[00:56:29] BanchoBot: skiatzo left the game.
+[00:56:33] BanchoBot: HP DeskJet 3835 left the game.
+[00:56:36] BanchoBot: HAUNTE joined in slot 1.
+[00:56:41] BanchoBot: Leonard H moved to slot 14
+[00:56:45] BanchoBot: gamer228666 joined in slot 2.
+[00:56:49] BanchoBot: Markrum joined in slot 3.
+[00:56:51] BanchoBot: Carlosflow left the game.
+[00:57:03] BanchoBot: -Schwarts joined in slot 4.
+[00:57:04] BanchoBot: -Schwarts moved to slot 8
+[00:57:14] BanchoBot: fieryrage joined in slot 4.
+[00:57:19] BanchoBot: Utami joined in slot 5.
+[00:57:22] BanchoBot: Utami moved to slot 11
+[00:57:44] BanchoBot: HP DeskJet 3835 joined in slot 5.
+[00:57:47] Markrum: gamer228666
+[00:57:51] gamer228666: :Р
+[00:57:55] BanchoBot: Leonard H left the game.
+[00:57:57] HP_DeskJet_3835: im getting 20k
+[00:58:00] BanchoBot: Utami moved to slot 7
+[00:58:00] BanchoBot: All players are ready
+[00:58:03] BCraftMG: !mp settings
+[00:58:04] gamer228666: ща в 200к насру максимум
+[00:58:04] BanchoBot: Room name: CC5: (Qualifiers) vs (Match B4), History: https://osu.ppy.sh/mp/115419517
+[00:58:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/2754917 ARM (IOSYS) + Brasscapsule - Jazz is Rad
+[00:58:04] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:58:04] BanchoBot: Active mods: NoFail, Easy
+[00:58:04] BanchoBot: Players: 8
+[00:58:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7333471 HAUNTE          
+[00:58:04] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/5981005 gamer228666     
+[00:58:04] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11854446 Markrum         
+[00:58:04] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/3533958 fieryrage       
+[00:58:04] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/16139008 HP DeskJet 3835 
+[00:58:04] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/4830687 BoshyMan741     
+[00:58:04] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/7512553 Utami           
+[00:58:04] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/4673649 -Schwarts       
+[00:58:06] fieryrage: same
+[00:58:11] BoshyMan741: !where toybot
+[00:58:11] BanchoBot: The user is currently not online.
+[00:58:15] BCraftMG: !mp start 5 glhf
+[00:58:16] BanchoBot: Match starts in 5 seconds
+[00:58:16] BanchoBot: Queued the match to start in 5 seconds
+[00:58:17] BanchoBot: Match starts in 4 seconds
+[00:58:19] BanchoBot: Match starts in 3 seconds
+[00:58:20] BanchoBot: Good luck, have fun!
+[00:58:20] Markrum: gl hf
+[00:58:20] HP_DeskJet_3835: griefing
+[00:58:22] BanchoBot: The match has started!
+[00:58:22] HAUNTE: glgllgldfg
+[01:00:25] BanchoBot: fieryrage finished playing (Score: 347150, PASSED).
+[01:00:25] BanchoBot: gamer228666 finished playing (Score: 116253, PASSED).
+[01:00:26] BanchoBot: Markrum finished playing (Score: 490735, PASSED).
+[01:00:26] BanchoBot: -Schwarts finished playing (Score: 398891, PASSED).
+[01:00:26] BanchoBot: BoshyMan741 finished playing (Score: 478154, PASSED).
+[01:00:26] BanchoBot: Utami finished playing (Score: 270953, PASSED).
+[01:00:28] BanchoBot: HAUNTE finished playing (Score: 211637, PASSED).
+[01:00:28] BanchoBot: HP DeskJet 3835 finished playing (Score: 47664, PASSED).
+[01:00:28] BanchoBot: The match has finished!
+[01:00:31] Utami: ty for ref
+[01:00:32] BanchoBot: Utami left the game.
+[01:00:34] BanchoBot: HP DeskJet 3835 left the game.
+[01:00:34] Markrum: ./,agsl;k'zxcjbm'
+[01:00:38] BanchoBot: fieryrage left the game.
+[01:00:43] Markrum: thanks for ref
+[01:00:44] BCraftMG: :p
+[01:00:46] BCraftMG: ggưp
+[01:00:49] BanchoBot: Markrum left the game.
+[01:00:50] gamer228666: YBbI
+[01:01:16] BanchoBot: Carlosflow joined in slot 3.
+[01:01:19] BoshyMan741: TY for ref
+[01:01:25] Carlosflow: thx for ref
+[01:01:27] BanchoBot: BoshyMan741 left the game.
+[01:01:30] BanchoBot: HAUNTE left the game.
+[01:01:31] BanchoBot: Carlosflow left the game.
+[01:01:32] BanchoBot: -Schwarts left the game.
+[01:02:06] BCraftMG: !mp close
+[01:02:08] BanchoBot: Closed the match

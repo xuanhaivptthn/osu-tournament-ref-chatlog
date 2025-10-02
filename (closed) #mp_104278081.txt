@@ -1,0 +1,228 @@
+[22:53:58] Joined #mp_104278081
+[22:53:58] BCraftMG: !mp settings
+[22:54:00] BanchoBot: Room name: SMB: (Qualifiers) vs (X7), History: https://osu.ppy.sh/mp/104278081
+[22:54:00] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[22:54:00] BanchoBot: Players: 0
+[22:54:20] BCraftMG: !mp set 0 3 8
+[22:54:21] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[22:54:27] BCraftMG: !mp set 0 3 4
+[22:54:29] BanchoBot: Changed match settings to 4 slots, HeadToHead, ScoreV2
+[22:54:32] BCraftMG: !mp invite #11718072
+[22:54:33] BanchoBot: Invited TobseN to the room
+[22:54:45] BanchoBot: TobseN joined in slot 1.
+[22:55:06] TobseN: o/
+[22:55:12] BCraftMG: o/
+[22:55:21] BCraftMG: !mp map 2103821 0
+[22:55:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2103821 Suzuki Konomi - My Days
+[22:55:23] BanchoBot: Changed match mode to Osu
+[22:55:23] BCraftMG: !mp mods 1
+[22:55:25] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:57:00] TobseN: !roll 1000
+[22:57:00] BanchoBot: TobseN rolls 850 point(s)
+[22:57:21] BCraftMG: hows your day
+[22:57:34] TobseN: doing fine
+[22:57:34] BanchoBot: Lukiii joined in slot 2.
+[22:57:43] TobseN: choking a lot of plays xd
+[22:58:05] BanchoBot: All players are ready
+[22:58:07] BCraftMG: !mp settings
+[22:58:09] BanchoBot: Room name: SMB: (Qualifiers) vs (X7), History: https://osu.ppy.sh/mp/104278081
+[22:58:09] BanchoBot: Beatmap: https://osu.ppy.sh/b/2103821 Suzuki Konomi - My Days
+[22:58:09] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:58:09] BanchoBot: Active mods: NoFail
+[22:58:09] BanchoBot: Players: 2
+[22:58:09] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11718072 TobseN          
+[22:58:09] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12805967 Lukiii          
+[22:58:11] BCraftMG: !mp start 5 glhf
+[22:58:11] BanchoBot: Match starts in 5 seconds
+[22:58:11] BanchoBot: Queued the match to start in 5 seconds
+[22:58:14] BanchoBot: Match starts in 4 seconds
+[22:58:14] BanchoBot: Match starts in 3 seconds
+[22:58:16] Lukiii: ty
+[22:58:16] BanchoBot: Good luck, have fun!
+[22:58:18] BanchoBot: The match has started!
+[23:02:53] BanchoBot: TobseN finished playing (Score: 658754, PASSED).
+[23:02:55] BanchoBot: Lukiii finished playing (Score: 494740, PASSED).
+[23:02:55] BanchoBot: The match has finished!
+[23:03:03] BCraftMG: !mp map 2970030 0
+[23:03:05] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2970030 Camellia feat. Aitsuki Nakuru - Oborozuki Oou Kumo wo mo Sakinu
+[23:03:05] BanchoBot: Changed match mode to Osu
+[23:03:46] BCraftMG: !mp settings
+[23:03:48] BanchoBot: Room name: SMB: (Qualifiers) vs (X7), History: https://osu.ppy.sh/mp/104278081
+[23:03:48] BanchoBot: Beatmap: https://osu.ppy.sh/b/2970030 Camellia feat. Aitsuki Nakuru - Oborozuki Oou Kumo wo mo Sakinu
+[23:03:48] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:03:48] BanchoBot: Active mods: NoFail
+[23:03:48] BanchoBot: Players: 2
+[23:03:48] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/11718072 TobseN          
+[23:03:48] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12805967 Lukiii          
+[23:03:52] BanchoBot: All players are ready
+[23:04:07] BCraftMG: !mp settings
+[23:04:09] BanchoBot: Room name: SMB: (Qualifiers) vs (X7), History: https://osu.ppy.sh/mp/104278081
+[23:04:09] BanchoBot: Beatmap: https://osu.ppy.sh/b/2970030 Camellia feat. Aitsuki Nakuru - Oborozuki Oou Kumo wo mo Sakinu
+[23:04:09] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:04:09] BanchoBot: Active mods: NoFail
+[23:04:09] BanchoBot: Players: 2
+[23:04:09] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11718072 TobseN          
+[23:04:09] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12805967 Lukiii          
+[23:04:09] BCraftMG: !mp start 5 glhf
+[23:04:10] BanchoBot: Match starts in 5 seconds
+[23:04:10] BanchoBot: Queued the match to start in 5 seconds
+[23:04:13] BanchoBot: Match starts in 4 seconds
+[23:04:13] BanchoBot: Match starts in 3 seconds
+[23:04:15] BanchoBot: Good luck, have fun!
+[23:04:17] BanchoBot: The match has started!
+[23:06:24] BanchoBot: TobseN finished playing (Score: 355558, PASSED).
+[23:06:24] BanchoBot: Lukiii finished playing (Score: 657592, PASSED).
+[23:06:24] BanchoBot: The match has finished!
+[23:06:31] BCraftMG: !mp map 2623955 0
+[23:06:32] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2623955 PSYQUI - Multicoloured
+[23:06:32] BanchoBot: Changed match mode to Osu
+[23:07:16] BanchoBot: All players are ready
+[23:07:43] Lukiii: we're not switching any players today btw so can go fast ;D
+[23:07:46] BCraftMG: !mp settings
+[23:07:47] BanchoBot: Room name: SMB: (Qualifiers) vs (X7), History: https://osu.ppy.sh/mp/104278081
+[23:07:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/2623955 PSYQUI - Multicoloured
+[23:07:47] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:07:48] BanchoBot: Active mods: NoFail
+[23:07:48] BanchoBot: Players: 2
+[23:07:48] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11718072 TobseN          
+[23:07:48] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12805967 Lukiii          
+[23:07:49] BCraftMG: !mp start
+[23:07:50] BanchoBot: The match has started!
+[23:07:50] BanchoBot: Started the match
+[23:07:51] Lukiii: 3rd player is on holiday
+[23:11:27] BanchoBot: Lukiii finished playing (Score: 376456, PASSED).
+[23:11:27] BanchoBot: TobseN finished playing (Score: 268647, PASSED).
+[23:11:27] BanchoBot: The match has finished!
+[23:11:37] BCraftMG: !mp map 2708979 0
+[23:11:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2708979 Camellia - #1f1e33
+[23:11:39] BanchoBot: Changed match mode to Osu
+[23:12:31] BanchoBot: All players are ready
+[23:12:39] BCraftMG: !mp start
+[23:12:41] Lukiii: gl
+[23:12:41] BanchoBot: The match has started!
+[23:12:41] BanchoBot: Started the match
+[23:15:28] BanchoBot: Lukiii finished playing (Score: 310769, PASSED).
+[23:15:28] BanchoBot: TobseN finished playing (Score: 208388, PASSED).
+[23:15:28] BanchoBot: The match has finished!
+[23:15:39] BCraftMG: !mp map 3267248 0
+[23:15:40] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3267248 BEMANI Sound Team "Yvya" - Vitrum
+[23:15:40] BanchoBot: Changed match mode to Osu
+[23:15:41] BCraftMG: !mp mods 9
+[23:15:42] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[23:16:13] BanchoBot: All players are ready
+[23:16:15] Lukiii: gl
+[23:16:16] BCraftMG: !mp start
+[23:16:17] BanchoBot: The match has started!
+[23:16:17] BanchoBot: Started the match
+[23:18:26] BanchoBot: TobseN finished playing (Score: 82302, PASSED).
+[23:18:26] BanchoBot: Lukiii finished playing (Score: 282444, PASSED).
+[23:18:26] BanchoBot: The match has finished!
+[23:18:36] BCraftMG: !mp map 3132790 0
+[23:18:38] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3132790 Zebrahead - HIS WORLD (Zebrahead Version)
+[23:18:38] BanchoBot: Changed match mode to Osu
+[23:19:21] BanchoBot: All players are ready
+[23:19:23] BCraftMG: !mp settings
+[23:19:25] BanchoBot: Room name: SMB: (Qualifiers) vs (X7), History: https://osu.ppy.sh/mp/104278081
+[23:19:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/3132790 Zebrahead - HIS WORLD (Zebrahead Version)
+[23:19:25] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:19:25] BanchoBot: Active mods: NoFail, Hidden
+[23:19:25] BanchoBot: Players: 2
+[23:19:25] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11718072 TobseN          
+[23:19:25] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12805967 Lukiii          
+[23:19:26] BCraftMG: !mp start
+[23:19:27] Lukiii: gl
+[23:19:27] BanchoBot: The match has started!
+[23:19:27] BanchoBot: Started the match
+[23:23:06] BanchoBot: TobseN finished playing (Score: 79664, PASSED).
+[23:23:06] BanchoBot: Lukiii finished playing (Score: 263774, PASSED).
+[23:23:06] BanchoBot: The match has finished!
+[23:23:20] BCraftMG: !mp map 2689459 0
+[23:23:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2689459 Thousand Leaves - Temptation
+[23:23:20] BanchoBot: Changed match mode to Osu
+[23:23:23] BCraftMG: !mp mods 17
+[23:23:24] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[23:24:24] BanchoBot: All players are ready
+[23:24:29] BCraftMG: !mp start 5 glhf
+[23:24:30] BanchoBot: Match starts in 5 seconds
+[23:24:30] BanchoBot: Queued the match to start in 5 seconds
+[23:24:33] BanchoBot: Match starts in 4 seconds
+[23:24:33] BanchoBot: Match starts in 3 seconds
+[23:24:35] BanchoBot: Good luck, have fun!
+[23:24:37] BanchoBot: The match has started!
+[23:27:43] BanchoBot: TobseN finished playing (Score: 502198, PASSED).
+[23:27:43] BanchoBot: Lukiii finished playing (Score: 655147, PASSED).
+[23:27:43] BanchoBot: The match has finished!
+[23:27:55] BCraftMG: !mp map 1658362 0
+[23:27:57] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1658362 slythe - cyber imagination
+[23:27:57] BanchoBot: Changed match mode to Osu
+[23:29:30] BanchoBot: All players are ready
+[23:29:36] BCraftMG: !mp settings
+[23:29:37] BanchoBot: Room name: SMB: (Qualifiers) vs (X7), History: https://osu.ppy.sh/mp/104278081
+[23:29:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/1658362 slythe - cyber imagination
+[23:29:37] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:29:37] BanchoBot: Active mods: NoFail, HardRock
+[23:29:37] BanchoBot: Players: 2
+[23:29:37] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11718072 TobseN          
+[23:29:37] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12805967 Lukiii          
+[23:29:37] BCraftMG: !mp start 5 glhf
+[23:29:38] BanchoBot: Match starts in 5 seconds
+[23:29:38] BanchoBot: Queued the match to start in 5 seconds
+[23:29:41] BanchoBot: Match starts in 4 seconds
+[23:29:41] BanchoBot: Match starts in 3 seconds
+[23:29:43] BanchoBot: Good luck, have fun!
+[23:29:45] BanchoBot: The match has started!
+[23:32:07] BanchoBot: TobseN finished playing (Score: 536726, PASSED).
+[23:32:07] BanchoBot: Lukiii finished playing (Score: 369440, PASSED).
+[23:32:07] BanchoBot: The match has finished!
+[23:32:21] BCraftMG: !mp map 1290503 0
+[23:32:22] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1290503 Ito Kanako - Find the blue
+[23:32:22] BanchoBot: Changed match mode to Osu
+[23:32:25] BCraftMG: !mp mods 65
+[23:32:26] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[23:33:20] BanchoBot: All players are ready
+[23:33:20] Lukiii: gl
+[23:33:22] BCraftMG: !mp start 5 glhf
+[23:33:24] BanchoBot: Match starts in 5 seconds
+[23:33:24] BanchoBot: Queued the match to start in 5 seconds
+[23:33:26] BanchoBot: Match starts in 4 seconds
+[23:33:26] BanchoBot: Match starts in 3 seconds
+[23:33:28] BanchoBot: Good luck, have fun!
+[23:33:30] BanchoBot: The match has started!
+[23:37:02] BanchoBot: Lukiii finished playing (Score: 458672, PASSED).
+[23:37:02] BanchoBot: TobseN finished playing (Score: 328732, PASSED).
+[23:37:02] BanchoBot: The match has finished!
+[23:37:04] BCraftMG: !mp map 2684766 0
+[23:37:06] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2684766 Kabuki, MYLK - Talk 2 Me
+[23:37:06] BanchoBot: Changed match mode to Osu
+[23:37:10] BCraftMG: last one c:
+[23:37:45] BanchoBot: All players are ready
+[23:37:47] BCraftMG: !mp settings
+[23:37:49] BanchoBot: Room name: SMB: (Qualifiers) vs (X7), History: https://osu.ppy.sh/mp/104278081
+[23:37:49] BanchoBot: Beatmap: https://osu.ppy.sh/b/2684766 Kabuki, MYLK - Talk 2 Me
+[23:37:49] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:37:49] BanchoBot: Active mods: NoFail, DoubleTime
+[23:37:49] BanchoBot: Players: 2
+[23:37:49] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11718072 TobseN          
+[23:37:49] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12805967 Lukiii          
+[23:37:50] BCraftMG: !mp start 5 glhf
+[23:37:51] BanchoBot: Match starts in 5 seconds
+[23:37:51] BanchoBot: Queued the match to start in 5 seconds
+[23:37:53] BanchoBot: Match starts in 4 seconds
+[23:37:53] TobseN: glgl
+[23:37:56] BanchoBot: Match starts in 3 seconds
+[23:37:56] BanchoBot: Good luck, have fun!
+[23:37:57] BanchoBot: The match has started!
+[23:41:03] BanchoBot: TobseN finished playing (Score: 252993, PASSED).
+[23:41:05] BanchoBot: Lukiii finished playing (Score: 298157, PASSED).
+[23:41:05] BanchoBot: The match has finished!
+[23:41:14] BCraftMG: and its done :D
+[23:41:21] BCraftMG: sheesh we speedrunning
+[23:41:25] BCraftMG: 40mins
+[23:41:34] TobseN: fast as firetruck boy
+[23:41:34] Lukiii: ty for ref :D
+[23:41:40] TobseN: ty for ref :3
+[23:41:42] BanchoBot: TobseN left the game.
+[23:41:44] BanchoBot: Lukiii left the game.
+[23:41:44] BCraftMG: ty for playin
+[23:41:47] BCraftMG: !mp close
+[23:41:48] BanchoBot: Closed the match

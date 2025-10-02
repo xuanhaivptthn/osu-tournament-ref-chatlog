@@ -1,0 +1,272 @@
+[02:07:44] Joined #mp_106277074
+[02:07:44] DaddyStage: !mp settings
+[02:07:45] BanchoBot: Countdown ends in 10 seconds
+[02:07:47] BanchoBot: Room name: PTFM: (Devrimon) vs (m t g), History: https://osu.ppy.sh/mp/106277074
+[02:07:47] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:07:47] BanchoBot: Players: 2
+[02:07:47] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/9425864 Devrimon        [Team Red ]
+[02:07:47] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/2850104 m t g           [Team Blue]
+[02:07:50] BanchoBot: Countdown ends in 5 seconds
+[02:07:51] BanchoBot: Countdown ends in 4 seconds
+[02:07:51] BanchoBot: Countdown ends in 3 seconds
+[02:07:53] BanchoBot: Countdown ends in 2 seconds
+[02:07:54] BanchoBot: Countdown ends in 1 second
+[02:07:55] BanchoBot: Countdown finished
+[02:08:18] Devrimon: ?
+[02:08:24] m_t_g: welp ref keyboard alt f4 everything
+[02:08:28] m_t_g: we gotta wait :(
+[02:08:31] DaddyStage: !mp map 3904331 0
+[02:08:32] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3904331 Plum - Halloween Candystore
+[02:08:32] BanchoBot: Changed match mode to Osu
+[02:08:33] DaddyStage: !mp mods 1
+[02:08:33] BanchoBot: Enabled NoFail, disabled FreeMod
+[02:08:37] m_t_g: there he is
+[02:08:38] DaddyStage: here
+[02:08:39] Devrimon: lol
+[02:08:42] DaddyStage: :skull:
+[02:08:43] BanchoBot: All players are ready
+[02:08:45] DaddyStage: !mp settings
+[02:08:46] BanchoBot: Room name: PTFM: (Devrimon) vs (m t g), History: https://osu.ppy.sh/mp/106277074
+[02:08:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/3904331 Plum - Halloween Candystore
+[02:08:46] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:08:46] BanchoBot: Active mods: NoFail
+[02:08:46] BanchoBot: Players: 2
+[02:08:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9425864 Devrimon        [Team Red ]
+[02:08:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/2850104 m t g           [Team Blue]
+[02:08:46] DaddyStage: !mp start 5 glhf
+[02:08:47] BanchoBot: Match starts in 5 seconds
+[02:08:47] BanchoBot: Queued the match to start in 5 seconds
+[02:08:48] BanchoBot: Match starts in 4 seconds
+[02:08:49] BanchoBot: Match starts in 3 seconds
+[02:08:50] BanchoBot: Good luck, have fun!
+[02:08:50] m_t_g: glhf
+[02:08:52] Devrimon: hgelp
+[02:08:53] BanchoBot: The match has started!
+[02:09:00] DaddyStage: ?
+[02:11:27] BanchoBot: Devrimon finished playing (Score: 418956, PASSED).
+[02:11:30] BanchoBot: m t g finished playing (Score: 372190, PASSED).
+[02:11:30] BanchoBot: The match has finished!
+[02:11:39] m_t_g: oof
+[02:11:41] DaddyStage: Devrimon | 1 : 0 | m t g // Next to pick: Devrimon
+[02:11:43] DaddyStage: !mp timer 120
+[02:11:44] BanchoBot: Countdown ends in 2 minutes
+[02:12:06] Devrimon: holy my nerves are wild
+[02:12:13] m_t_g: same
+[02:12:31] Devrimon: did you see3 were basically the same elitebot rank
+[02:12:35] Devrimon: like 5 ranks apart
+[02:12:42] m_t_g: yeah ^^
+[02:12:45] BanchoBot: Countdown ends in 1 minute
+[02:12:51] Devrimon: fm2
+[02:13:02] DaddyStage: !mp map 3807918 0
+[02:13:03] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3807918 Son Tung M-TP - Lac Troi
+[02:13:03] BanchoBot: Changed match mode to Osu
+[02:13:04] DaddyStage: !mp mods Freemod
+[02:13:04] BanchoBot: Disabled all mods, enabled FreeMod
+[02:13:09] DaddyStage: !mp timer 90
+[02:13:10] BanchoBot: Countdown aborted
+[02:13:10] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[02:13:20] BanchoBot: All players are ready
+[02:13:27] Devrimon: you can only pick each mod once right?
+[02:13:36] Devrimon: including nomod
+[02:13:39] DaddyStage: yea
+[02:13:41] BanchoBot: Countdown ends in 1 minute
+[02:13:43] Devrimon: aight
+[02:13:45] DaddyStage: !mp settings
+[02:13:46] BanchoBot: Room name: PTFM: (Devrimon) vs (m t g), History: https://osu.ppy.sh/mp/106277074
+[02:13:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/3807918 Son Tung M-TP - Lac Troi
+[02:13:46] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:13:46] BanchoBot: Active mods: Freemod
+[02:13:46] BanchoBot: Players: 2
+[02:13:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9425864 Devrimon        [Team Red  / NoFail]
+[02:13:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/2850104 m t g           [Team Blue / NoFail, HardRock]
+[02:13:48] DaddyStage: !mp start 5 glhf
+[02:13:49] BanchoBot: Countdown aborted
+[02:13:49] BanchoBot: Match starts in 5 seconds
+[02:13:49] BanchoBot: Queued the match to start in 5 seconds
+[02:13:50] BanchoBot: Match starts in 4 seconds
+[02:13:52] BanchoBot: Match starts in 3 seconds
+[02:13:53] BanchoBot: Good luck, have fun!
+[02:13:54] Devrimon: glglgl
+[02:13:55] BanchoBot: The match has started!
+[02:17:52] BanchoBot: Devrimon finished playing (Score: 655039, PASSED).
+[02:17:52] BanchoBot: m t g finished playing (Score: 238255, PASSED).
+[02:17:52] BanchoBot: The match has finished!
+[02:18:06] DaddyStage: Devrimon | 2 : 0 | m t g // Next to pick: m t g
+[02:18:08] DaddyStage: !mp timer 120
+[02:18:09] BanchoBot: Countdown ends in 2 minutes
+[02:18:24] m_t_g: FM3
+[02:18:36] DaddyStage: !mp map 3072704 0
+[02:18:37] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3072704 Blind Channel - Dark Side
+[02:18:37] BanchoBot: Changed match mode to Osu
+[02:18:40] DaddyStage: !mp timer 90
+[02:18:40] BanchoBot: Countdown aborted
+[02:18:40] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[02:18:45] BanchoBot: All players are ready
+[02:19:03] DaddyStage: !mp settings
+[02:19:05] BanchoBot: Room name: PTFM: (Devrimon) vs (m t g), History: https://osu.ppy.sh/mp/106277074
+[02:19:05] BanchoBot: Beatmap: https://osu.ppy.sh/b/3072704 Blind Channel - Dark Side
+[02:19:05] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:19:05] BanchoBot: Active mods: Freemod
+[02:19:05] BanchoBot: Players: 2
+[02:19:05] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9425864 Devrimon        [Team Red  / NoFail, Hidden]
+[02:19:05] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/2850104 m t g           [Team Blue / NoFail, Hidden]
+[02:19:09] Devrimon: glglgl
+[02:19:10] DaddyStage: !mp start 5 glhf
+[02:19:11] BanchoBot: Countdown ends in 1 minute
+[02:19:11] BanchoBot: Countdown aborted
+[02:19:11] BanchoBot: Match starts in 5 seconds
+[02:19:11] BanchoBot: Queued the match to start in 5 seconds
+[02:19:12] BanchoBot: Match starts in 4 seconds
+[02:19:13] m_t_g: glhf
+[02:19:13] BanchoBot: Match starts in 3 seconds
+[02:19:14] BanchoBot: Good luck, have fun!
+[02:19:16] BanchoBot: The match has started!
+[02:22:18] BanchoBot: m t g finished playing (Score: 357502, PASSED).
+[02:22:18] BanchoBot: Devrimon finished playing (Score: 495524, PASSED).
+[02:22:18] BanchoBot: The match has finished!
+[02:22:29] m_t_g: ah man these sliders firetrucked me up
+[02:22:33] DaddyStage: Devrimon | 3 : 0 | m t g // Next to pick: Devrimon
+[02:22:35] DaddyStage: !mp timer 120
+[02:22:35] Devrimon: what a map
+[02:22:35] BanchoBot: Countdown ends in 2 minutes
+[02:22:39] Devrimon: that ending is nuts
+[02:22:45] Devrimon: nm3
+[02:22:58] DaddyStage: !mp map 3153693 0
+[02:22:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3153693 Hatsuki Yura - Halloween of the Dead 2
+[02:22:59] BanchoBot: Changed match mode to Osu
+[02:23:00] DaddyStage: !mp mods 1
+[02:23:02] BanchoBot: Enabled NoFail, disabled FreeMod
+[02:23:04] DaddyStage: !mp timer 90
+[02:23:05] BanchoBot: Countdown aborted
+[02:23:05] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[02:23:16] BanchoBot: All players are ready
+[02:23:20] Devrimon: flwo gaming
+[02:23:29] m_t_g: fun map
+[02:23:35] BanchoBot: Countdown ends in 1 minute
+[02:24:05] BanchoBot: Countdown ends in 30 seconds
+[02:24:15] DaddyStage: !mp settings
+[02:24:16] BanchoBot: Room name: PTFM: (Devrimon) vs (m t g), History: https://osu.ppy.sh/mp/106277074
+[02:24:16] BanchoBot: Beatmap: https://osu.ppy.sh/b/3153693 Hatsuki Yura - Halloween of the Dead 2
+[02:24:16] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:24:16] BanchoBot: Active mods: NoFail
+[02:24:16] BanchoBot: Players: 2
+[02:24:16] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9425864 Devrimon        [Team Red ]
+[02:24:16] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/2850104 m t g           [Team Blue]
+[02:24:17] DaddyStage: !mp start 5 glhf
+[02:24:19] BanchoBot: Countdown aborted
+[02:24:19] BanchoBot: Match starts in 5 seconds
+[02:24:19] BanchoBot: Queued the match to start in 5 seconds
+[02:24:20] Devrimon: glglgl
+[02:24:20] BanchoBot: Match starts in 4 seconds
+[02:24:21] BanchoBot: Match starts in 3 seconds
+[02:24:22] BanchoBot: Good luck, have fun!
+[02:24:23] m_t_g: gl
+[02:24:25] BanchoBot: The match has started!
+[02:28:23] BanchoBot: m t g finished playing (Score: 205920, PASSED).
+[02:28:23] BanchoBot: Devrimon finished playing (Score: 486972, PASSED).
+[02:28:23] BanchoBot: The match has finished!
+[02:28:32] m_t_g: i hate alt :(
+[02:28:35] DaddyStage: Devrimon | 4 : 0 | m t g // Next to pick: m t g
+[02:28:41] DaddyStage: !mp timer 120
+[02:28:42] BanchoBot: Countdown ends in 2 minutes
+[02:28:44] m_t_g: DT2
+[02:28:44] Devrimon: alt is kinda nice tho :(
+[02:28:55] m_t_g: it is, im just bad
+[02:29:01] Devrimon: T.T
+[02:29:29] Devrimon: just wait untill you see me oin whater this map is :pepelaf:
+[02:29:40] m_t_g: ah dont expect much
+[02:29:42] BanchoBot: Countdown ends in 1 minute
+[02:29:48] m_t_g: i didnt have time to play the pool
+[02:29:52] DaddyStage: !mp map 1814067 0
+[02:29:53] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1814067 ak+q & Redeilia - Enigma Helix
+[02:29:53] BanchoBot: Changed match mode to Osu
+[02:29:54] DaddyStage: !Mp mods 65
+[02:29:55] Devrimon: speed is unplayable
+[02:29:55] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[02:29:58] DaddyStage: !mp timer 90
+[02:29:58] BanchoBot: Countdown aborted
+[02:29:58] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[02:30:01] BanchoBot: All players are ready
+[02:30:06] m_t_g: glhf
+[02:30:10] DaddyStage: !mp settings
+[02:30:11] BanchoBot: Room name: PTFM: (Devrimon) vs (m t g), History: https://osu.ppy.sh/mp/106277074
+[02:30:11] BanchoBot: Beatmap: https://osu.ppy.sh/b/1814067 ak+q & Redeilia - Enigma Helix
+[02:30:11] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:30:11] BanchoBot: Active mods: NoFail, DoubleTime
+[02:30:11] BanchoBot: Players: 2
+[02:30:11] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9425864 Devrimon        [Team Red ]
+[02:30:11] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/2850104 m t g           [Team Blue]
+[02:30:12] DaddyStage: !mp start 10
+[02:30:12] Devrimon: glglglgl
+[02:30:12] BanchoBot: Countdown aborted
+[02:30:12] BanchoBot: Match starts in 10 seconds
+[02:30:12] BanchoBot: Queued the match to start in 10 seconds
+[02:30:18] BanchoBot: Match starts in 5 seconds
+[02:30:19] BanchoBot: Match starts in 4 seconds
+[02:30:19] BanchoBot: Match starts in 3 seconds
+[02:30:21] BanchoBot: Good luck, have fun!
+[02:30:23] BanchoBot: The match has started!
+[02:32:28] BanchoBot: m t g finished playing (Score: 201225, PASSED).
+[02:32:29] BanchoBot: Devrimon finished playing (Score: 192115, PASSED).
+[02:32:29] BanchoBot: The match has finished!
+[02:32:35] m_t_g: told ya
+[02:32:42] DaddyStage: Devrimon | 4 : 1 | m t g // Next to pick: Devrimon
+[02:32:45] DaddyStage: !mp timer 120
+[02:32:46] BanchoBot: Countdown ends in 2 minutes
+[02:32:50] Devrimon: thats a map
+[02:32:52] Devrimon: in the game
+[02:32:53] Devrimon: nm4
+[02:32:53] m_t_g: close af damn :)
+[02:33:10] DaddyStage: !mp map 3672524 0
+[02:33:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3672524 Kenshi Yonezu - LOSER
+[02:33:11] BanchoBot: Changed match mode to Osu
+[02:33:12] DaddyStage: !mp mods 1
+[02:33:12] BanchoBot: Enabled NoFail, disabled FreeMod
+[02:33:15] DaddyStage: !mp timer 90
+[02:33:16] BanchoBot: Countdown aborted
+[02:33:16] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[02:33:21] m_t_g: banger
+[02:33:23] DaddyStage: 9k sheesh
+[02:33:26] BanchoBot: All players are ready
+[02:33:35] DaddyStage: !mp settings
+[02:33:37] BanchoBot: Room name: PTFM: (Devrimon) vs (m t g), History: https://osu.ppy.sh/mp/106277074
+[02:33:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/3672524 Kenshi Yonezu - LOSER
+[02:33:37] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[02:33:37] BanchoBot: Active mods: NoFail
+[02:33:37] BanchoBot: Players: 2
+[02:33:37] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9425864 Devrimon        [Team Red ]
+[02:33:37] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/2850104 m t g           [Team Blue]
+[02:33:37] DaddyStage: !mp start 5 glhf
+[02:33:38] BanchoBot: Countdown aborted
+[02:33:38] BanchoBot: Match starts in 5 seconds
+[02:33:38] BanchoBot: Queued the match to start in 5 seconds
+[02:33:39] BanchoBot: Match starts in 4 seconds
+[02:33:40] Devrimon: dt rating down the drain xD
+[02:33:40] BanchoBot: Match starts in 3 seconds
+[02:33:41] BanchoBot: Good luck, have fun!
+[02:33:43] m_t_g: glhf
+[02:33:44] BanchoBot: The match has started!
+[02:33:44] Devrimon: glgl
+[02:37:47] BanchoBot: Devrimon finished playing (Score: 564420, PASSED).
+[02:37:47] BanchoBot: m t g finished playing (Score: 502631, PASSED).
+[02:37:47] BanchoBot: The match has finished!
+[02:37:52] m_t_g: gg
+[02:38:01] Devrimon: JEZUS
+[02:38:03] DaddyStage: close one too
+[02:38:04] Devrimon: u scared me there
+[02:38:06] DaddyStage: but ggwp
+[02:38:08] Devrimon: alt player?
+[02:38:09] m_t_g: fun match even doe almost sweeep
+[02:38:10] Devrimon: ggs
+[02:38:13] m_t_g: nope
+[02:38:25] Devrimon: tyty ref
+[02:38:28] m_t_g: thanks for ref
+[02:38:28] Devrimon: gl next matches
+[02:38:28] Devrimon: o/
+[02:38:31] m_t_g: kiss to both
+[02:38:32] m_t_g: gl
+[02:38:34] BanchoBot: m t g left the game.
+[02:38:37] DaddyStage: o/
+[02:38:37] BanchoBot: Devrimon left the game.
+[02:38:39] DaddyStage: !mp close
+[02:38:40] BanchoBot: Closed the match

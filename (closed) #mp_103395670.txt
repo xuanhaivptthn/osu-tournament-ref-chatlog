@@ -1,0 +1,507 @@
+[18:51:31] Joined #mp_103395670
+[18:51:31] BCraftMG: !mp settings
+[18:51:33] BanchoBot: Room name: BQT5: (the epicest) vs (Nya~ (=^-ω-^=)), History: https://osu.ppy.sh/mp/103395670
+[18:51:33] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[18:51:33] BanchoBot: Players: 0
+[18:51:43] BCraftMG: !mp set 2 3 8
+[18:51:44] BanchoBot: Changed match settings to 8 slots, TeamVs, ScoreV2
+[18:51:46] BCraftMG: !mp addref zodik16
+[18:51:48] BanchoBot: Added zodik16 to the match referees
+[18:54:34] BCraftMG: !mp invite #18997680
+[18:54:37] BanchoBot: User not found
+[18:54:40] BCraftMG: !mp invite #21462719
+[18:54:41] BanchoBot: Invited Gauntor to the room
+[18:54:42] BCraftMG: !mp invite #16298587
+[18:54:43] BanchoBot: Invited I hate this map to the room
+[18:54:44] BCraftMG: !mp invite #13602761
+[18:54:45] BanchoBot: Invited - HatsuneMiku - to the room
+[18:54:46] BCraftMG: !mp invite #20488333
+[18:54:47] BanchoBot: Invited Noame to the room
+[18:54:48] BCraftMG: !mp invite #9945849
+[18:54:49] BanchoBot: Invited Sein to the room
+[18:54:50] BCraftMG: !mp invite #18086030
+[18:54:51] BanchoBot: User not found
+[18:54:53] BCraftMG: !mp invite #16102904
+[18:54:55] BanchoBot: - HatsuneMiku - joined in slot 1 for team blue.
+[18:54:55] BanchoBot: Invited _KNPM_ to the room
+[18:54:59] BCraftMG: !mp addref zodik16
+[18:55:00] BanchoBot: Added zodik16 to the match referees
+[18:55:03] BCraftMG: !mp listrefs
+[18:55:04] BanchoBot: Match referees:
+[18:55:04] BanchoBot: Zodik16
+[18:55:04] BanchoBot: BCraftMG
+[18:55:19] -_HatsuneMiku_-: о/
+[18:55:30] BCraftMG: o/
+[18:56:07] BCraftMG: where are everyone
+[18:56:08] BanchoBot: _KNPM_ joined in slot 2 for team red.
+[18:56:08] BanchoBot: Noame joined in slot 3 for team blue.
+[18:56:12] BanchoBot: Sein joined in slot 4 for team red.
+[18:56:16] -_HatsuneMiku_-: здрасте комрады
+[18:56:22] BanchoBot: Noame changed to Red
+[18:56:26] BCraftMG: the epicest is red 1-2
+[18:56:26] Sein: ку
+[18:56:29] BCraftMG: nya is blue 3-4
+[18:56:33] BanchoBot: - HatsuneMiku - changed to Red
+[18:56:33] BanchoBot: Sein moved to slot 7
+[18:56:33] _KNPM_: И тебе приветик, солншко
+[18:56:37] BanchoBot: _KNPM_ moved to slot 4
+[18:56:37] BanchoBot: Noame changed to Blue
+[18:56:41] BanchoBot: _KNPM_ changed to Blue
+[18:56:41] BCraftMG: slots DO matter so please stay in the correct slots
+[18:56:43] BanchoBot: Sein changed to Blue
+[18:56:48] BanchoBot: Sein moved to slot 5
+[18:56:54] BanchoBot: Noame moved to slot 6
+[18:56:58] BanchoBot: Sein moved to slot 3
+[18:57:02] BanchoBot: Noame moved to slot 5
+[18:57:42] BCraftMG: and uh anyone want warm up?
+[18:58:17] _KNPM_: ye
+[18:58:24] BCraftMG: !mp host _KNPM_
+[18:58:26] BanchoBot: _KNPM_ became the host.
+[18:58:26] BanchoBot: Changed match host to _KNPM_
+[18:58:30] BanchoBot: Beatmap changed to: Balloon - Mabel [Flask's Insane] (https://osu.ppy.sh/b/2209963)
+[18:58:33] BanchoBot: Host is changing map...
+[18:58:43] BanchoBot: Beatmap changed to: AleXDarkstalker98 - Moya zhopa supergeroy [Birth of a True Hero] (https://osu.ppy.sh/b/2382694)
+[18:58:55] Sein: Ахах
+[18:58:57] _KNPM_: Всё по заказу)
+[18:58:57] -_HatsuneMiku_-: ,kz
+[18:58:59] -_HatsuneMiku_-: бля
+[18:59:01] -_HatsuneMiku_-: спасибо
+[18:59:04] BanchoBot: Noame left the game.
+[18:59:24] BanchoBot: Gauntor joined in slot 2 for team red.
+[18:59:41] Gauntor: Hey
+[18:59:46] -_HatsuneMiku_-: hi
+[18:59:46] _KNPM_: o/
+[19:00:19] BanchoBot: I hate this map joined in slot 5 for team blue.
+[19:01:47] BanchoBot: I hate this map changed to Red
+[19:01:53] BCraftMG: !mp settings
+[19:01:56] BanchoBot: Room name: BQT5: (the epicest) vs (Nya~ (=^-ω-^=)), History: https://osu.ppy.sh/mp/103395670
+[19:01:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/2382694 AleXDarkstalker98 - Moya zhopa supergeroy [Birth of a True Hero]
+[19:01:56] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:01:56] BanchoBot: Active mods: Freemod
+[19:01:56] BanchoBot: Players: 5
+[19:01:56] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/13602761 - HatsuneMiku - [Team Red  / NoFail]
+[19:01:56] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21462719 Gauntor         [Team Red  / NoFail]
+[19:01:56] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9945849 Sein            [Team Blue / NoFail]
+[19:01:56] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/16102904 _KNPM_          [Host / Team Blue / NoFail]
+[19:01:56] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/16298587 I hate this map [Team Red ]
+[19:02:08] BanchoBot: All players are ready
+[19:02:10] BanchoBot: The match has started!
+[19:03:48] BanchoBot: Noame joined in slot 6 for team red.
+[19:03:54] BanchoBot: Noame left the game.
+[19:04:15] BCraftMG: songs
+[19:05:11] BanchoBot: - HatsuneMiku - finished playing (Score: 258139, PASSED).
+[19:05:11] BanchoBot: Gauntor finished playing (Score: 435010, PASSED).
+[19:05:11] BanchoBot: Sein finished playing (Score: 265975, PASSED).
+[19:05:11] BanchoBot: _KNPM_ finished playing (Score: 266956, PASSED).
+[19:05:13] BanchoBot: I hate this map finished playing (Score: 509788, PASSED).
+[19:05:13] BanchoBot: The match has finished!
+[19:05:34] -_HatsuneMiku_-: душевно
+[19:05:34] -_HatsuneMiku_-: я заплакал
+[19:05:41] BCraftMG: :clueless:
+[19:06:06] BCraftMG: the epicest you wanna do warm up?
+[19:06:12] _KNPM_: Я старался
+[19:06:20] -_HatsuneMiku_-: хорошо постарался
+[19:06:24] -_HatsuneMiku_-: yes
+[19:06:41] BCraftMG: !mp host "- HatsuneMiku -"
+[19:06:42] BanchoBot: User not found
+[19:06:46] BCraftMG: !mp host - HatsuneMiku -
+[19:06:47] BanchoBot: - HatsuneMiku - became the host.
+[19:06:47] BanchoBot: Changed match host to - HatsuneMiku -
+[19:06:51] BanchoBot: Host is changing map...
+[19:07:05] BCraftMG: <4mins
+[19:07:17] BanchoBot: Beatmap changed to: Arthur Pirozhkov - Chika [Namki's Insane] (https://osu.ppy.sh/b/1710792)
+[19:07:28] -_HatsuneMiku_-: да
+[19:07:30] -_HatsuneMiku_-: )
+[19:07:42] _KNPM_: ПХПХПХ
+[19:07:47] _KNPM_: Классика
+[19:07:51] -_HatsuneMiku_-: дт класика)
+[19:08:18] -_HatsuneMiku_-: на стриме будет пиздатая музыка
+[19:08:32] BanchoBot: All players are ready
+[19:08:41] BanchoBot: The match has started!
+[19:09:07] BanchoBot: Noame joined in slot 6 for team red.
+[19:09:11] BanchoBot: Noame left the game.
+[19:10:48] BanchoBot: Sein finished playing (Score: 94011, PASSED).
+[19:10:48] BanchoBot: I hate this map finished playing (Score: 201585, PASSED).
+[19:10:51] BanchoBot: Gauntor finished playing (Score: 399855, PASSED).
+[19:10:51] BanchoBot: _KNPM_ finished playing (Score: 83835, PASSED).
+[19:10:51] BanchoBot: - HatsuneMiku - finished playing (Score: 271885, PASSED).
+[19:10:51] BanchoBot: The match has finished!
+[19:11:09] BCraftMG: !mp clearhost
+[19:11:11] -_HatsuneMiku_-: i love this map
+[19:11:11] _KNPM_: !roll
+[19:11:11] BanchoBot: _KNPM_ rolls 73 point(s)
+[19:11:11] BanchoBot: Cleared match host
+[19:11:18] BCraftMG: is majora coming
+[19:11:27] I_hate_this_map: idk
+[19:11:29] Gauntor: i don't think so
+[19:11:32] I_hate_this_map: probably not
+[19:11:52] BCraftMG: one of you gonna replace them for this match
+[19:12:09] Gauntor: ok I can replace
+[19:12:18] BCraftMG: sure go ahead and roll
+[19:12:36] Gauntor: !roll
+[19:12:36] BanchoBot: Gauntor rolls 3 point(s)
+[19:12:40] Gauntor: nice
+[19:12:43] BCraftMG: :skull:
+[19:12:46] -_HatsuneMiku_-: XD
+[19:12:51] BCraftMG: Nya; please choose the pick or ban order
+[19:12:59] _KNPM_: first pick
+[19:13:10] BCraftMG: epicest choose the ban order
+[19:13:13] BanchoBot: Noame joined in slot 6 for team red.
+[19:13:17] Gauntor: 2nd ban
+[19:13:21] BanchoBot: Sein left the game.
+[19:13:28] BCraftMG: Nya first ban then
+[19:13:30] BCraftMG: !mp timer 120
+[19:13:31] BanchoBot: Countdown ends in 2 minutes
+[19:13:33] BanchoBot: Noame changed to Blue
+[19:13:35] BanchoBot: Noame moved to slot 3
+[19:13:39] _KNPM_: hmm
+[19:13:56] _KNPM_: we can ban tb :C
+[19:14:03] BCraftMG: :c
+[19:14:20] _KNPM_: ban hr2
+[19:14:32] BanchoBot: Countdown ends in 1 minute
+[19:14:34] -_HatsuneMiku_-: бля такой сонг забанил
+[19:14:36] -_HatsuneMiku_-: за что
+[19:14:45] BCraftMG: epicest bans
+[19:14:49] BCraftMG: !mp timer 120
+[19:14:50] BanchoBot: Countdown aborted
+[19:14:50] BanchoBot: Countdown ends in 2 minutes
+[19:14:54] _KNPM_: нм3 збс сонг
+[19:15:19] Gauntor: nm1
+[19:15:33] BCraftMG: okay
+[19:15:35] BCraftMG: the epicest | 0 - 0 | Nya~ (=^-ω-^=) // First Pick: Nya~ (=^-ω-^=)
+[19:15:38] BCraftMG: !mp timer 120
+[19:15:39] _KNPM_: nm3 pick
+[19:15:39] BanchoBot: Countdown aborted
+[19:15:39] BanchoBot: Countdown ends in 2 minutes
+[19:15:47] _KNPM_: onli fan
+[19:15:57] BCraftMG: !mp map 3554307 0
+[19:15:58] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3554307 Fall Out Boy - XO
+[19:15:58] BanchoBot: Changed match mode to Osu
+[19:16:01] BCraftMG: !mp mods 1
+[19:16:02] BanchoBot: Enabled NoFail, disabled FreeMod
+[19:16:03] BCraftMG: !mp timer 120
+[19:16:04] BanchoBot: Countdown aborted
+[19:16:04] BanchoBot: Countdown ends in 2 minutes
+[19:16:06] BCraftMG: banger
+[19:16:12] _KNPM_: but it's banger
+[19:16:20] BanchoBot: I hate this map left the game.
+[19:16:30] BanchoBot: I hate this map joined in slot 5 for team blue.
+[19:16:32] BanchoBot: Gauntor left the game.
+[19:16:52] BanchoBot: I hate this map moved to slot 2
+[19:16:57] -_HatsuneMiku_-: XO by KRma;
+[19:17:04] BCraftMG: once again epicest 1-2 red; nya 3-4 blue
+[19:17:04] BanchoBot: All players are ready
+[19:17:05] BanchoBot: I hate this map changed to Red
+[19:17:10] BanchoBot: Countdown ends in 1 minute
+[19:17:10] BCraftMG: !mp settings
+[19:17:12] BanchoBot: Room name: BQT5: (the epicest) vs (Nya~ (=^-ω-^=)), History: https://osu.ppy.sh/mp/103395670
+[19:17:12] BanchoBot: Beatmap: https://osu.ppy.sh/b/3554307 Fall Out Boy - XO
+[19:17:12] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:17:12] BanchoBot: Active mods: NoFail
+[19:17:12] BanchoBot: Players: 4
+[19:17:12] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/13602761 - HatsuneMiku - [Team Red ]
+[19:17:12] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16298587 I hate this map [Team Red ]
+[19:17:12] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/20488333 Noame           [Team Blue]
+[19:17:12] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/16102904 _KNPM_          [Team Blue]
+[19:17:18] _KNPM_: hf!
+[19:17:22] -_HatsuneMiku_-: glhf
+[19:17:23] I_hate_this_map: gl
+[19:17:35] BanchoBot: Countdown ends in 30 seconds
+[19:17:37] BCraftMG: !mp settings
+[19:17:40] BanchoBot: Room name: BQT5: (the epicest) vs (Nya~ (=^-ω-^=)), History: https://osu.ppy.sh/mp/103395670
+[19:17:40] BanchoBot: Beatmap: https://osu.ppy.sh/b/3554307 Fall Out Boy - XO
+[19:17:40] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:17:40] BanchoBot: Active mods: NoFail
+[19:17:40] BanchoBot: Players: 4
+[19:17:40] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13602761 - HatsuneMiku - [Team Red ]
+[19:17:40] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16298587 I hate this map [Team Red ]
+[19:17:40] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/20488333 Noame           [Team Blue]
+[19:17:40] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/16102904 _KNPM_          [Team Blue]
+[19:17:46] BCraftMG: _KNPM_ ready?
+[19:17:51] BanchoBot: All players are ready
+[19:17:55] BanchoBot: Countdown ends in 10 seconds
+[19:17:55] _KNPM_: ups
+[19:17:55] BCraftMG: !mp settings
+[19:17:57] BanchoBot: Room name: BQT5: (the epicest) vs (Nya~ (=^-ω-^=)), History: https://osu.ppy.sh/mp/103395670
+[19:17:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/3554307 Fall Out Boy - XO
+[19:17:57] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:17:57] BanchoBot: Active mods: NoFail
+[19:17:57] BanchoBot: Players: 4
+[19:17:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13602761 - HatsuneMiku - [Team Red ]
+[19:17:57] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16298587 I hate this map [Team Red ]
+[19:17:57] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/20488333 Noame           [Team Blue]
+[19:17:57] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16102904 _KNPM_          [Team Blue]
+[19:18:01] BanchoBot: Countdown ends in 5 seconds
+[19:18:01] BanchoBot: Countdown ends in 4 seconds
+[19:18:03] BanchoBot: Countdown ends in 3 seconds
+[19:18:03] BanchoBot: Countdown ends in 2 seconds
+[19:18:04] BCraftMG: !mp start 10 glgl
+[19:18:06] BanchoBot: Countdown ends in 1 second
+[19:18:06] BanchoBot: Countdown finished
+[19:18:06] BanchoBot: Match starts in 10 seconds
+[19:18:06] BanchoBot: Queued the match to start in 10 seconds
+[19:18:11] BanchoBot: Match starts in 5 seconds
+[19:18:13] BanchoBot: Match starts in 4 seconds
+[19:18:13] BanchoBot: Match starts in 3 seconds
+[19:18:17] BanchoBot: Good luck, have fun!
+[19:18:20] BanchoBot: The match has started!
+[19:20:41] BanchoBot: Sein joined in slot 5 for team blue.
+[19:20:56] BanchoBot: Sein left the game.
+[19:22:00] BanchoBot: - HatsuneMiku - finished playing (Score: 435919, PASSED).
+[19:22:00] BanchoBot: Noame finished playing (Score: 173443, PASSED).
+[19:22:00] BanchoBot: I hate this map finished playing (Score: 516720, PASSED).
+[19:22:00] BanchoBot: _KNPM_ finished playing (Score: 325993, PASSED).
+[19:22:00] BanchoBot: The match has finished!
+[19:22:07] BCraftMG: the epicest | 1 - 0 | Nya~ (=^-ω-^=) // Next Pick: the epicest
+[19:22:13] BCraftMG: !mp timer 120
+[19:22:14] BanchoBot: Sein joined in slot 5 for team blue.
+[19:22:14] BanchoBot: Countdown ends in 2 minutes
+[19:22:18] BanchoBot: Noame left the game.
+[19:22:24] BanchoBot: Gauntor joined in slot 3 for team blue.
+[19:22:28] -_HatsuneMiku_-: stupid misses
+[19:22:30] -_HatsuneMiku_-: (
+[19:23:15] BanchoBot: Countdown ends in 1 minute
+[19:23:45] BanchoBot: Countdown ends in 30 seconds
+[19:24:04] Gauntor: dt3
+[19:24:05] BanchoBot: I hate this map left the game.
+[19:24:05] BanchoBot: Countdown ends in 10 seconds
+[19:24:09] BanchoBot: Countdown ends in 5 seconds
+[19:24:11] BanchoBot: Countdown ends in 4 seconds
+[19:24:11] BanchoBot: Countdown ends in 3 seconds
+[19:24:13] BanchoBot: Countdown ends in 2 seconds
+[19:24:13] BanchoBot: Gauntor moved to slot 2
+[19:24:13] BanchoBot: Countdown ends in 1 second
+[19:24:15] BanchoBot: Countdown finished
+[19:24:15] BanchoBot: Gauntor changed to Red
+[19:24:18] BCraftMG: !mp map 3369545 0
+[19:24:19] BCraftMG: !mp mods 65
+[19:24:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3369545 inabakumori - Hello Marina
+[19:24:21] BanchoBot: Changed match mode to Osu
+[19:24:21] BCraftMG: !mp timer 120
+[19:24:21] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[19:24:23] BanchoBot: Countdown ends in 2 minutes
+[19:24:25] BanchoBot: Sein moved to slot 3
+[19:24:55] BanchoBot: Noame joined in slot 5 for team blue.
+[19:25:05] BanchoBot: _KNPM_ left the game.
+[19:25:07] BanchoBot: Noame moved to slot 4
+[19:25:25] BanchoBot: Countdown ends in 1 minute
+[19:25:39] BanchoBot: All players are ready
+[19:25:41] BCraftMG: !mp settings
+[19:25:43] BanchoBot: Room name: BQT5: (the epicest) vs (Nya~ (=^-ω-^=)), History: https://osu.ppy.sh/mp/103395670
+[19:25:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/3369545 inabakumori - Hello Marina
+[19:25:43] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:25:43] BanchoBot: Active mods: NoFail, DoubleTime
+[19:25:43] BanchoBot: Players: 4
+[19:25:43] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13602761 - HatsuneMiku - [Team Red ]
+[19:25:43] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21462719 Gauntor         [Team Red ]
+[19:25:43] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9945849 Sein            [Team Blue]
+[19:25:43] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/20488333 Noame           [Team Blue]
+[19:25:45] -_HatsuneMiku_-: glhf
+[19:25:47] BCraftMG: !mp start 10
+[19:25:47] BanchoBot: Countdown aborted
+[19:25:47] BanchoBot: Match starts in 10 seconds
+[19:25:47] BanchoBot: Queued the match to start in 10 seconds
+[19:25:49] Gauntor: gl hf
+[19:25:53] BanchoBot: Match starts in 5 seconds
+[19:25:55] BanchoBot: Match starts in 4 seconds
+[19:25:55] BanchoBot: Match starts in 3 seconds
+[19:25:57] BanchoBot: Good luck, have fun!
+[19:25:59] BanchoBot: The match has started!
+[19:26:23] BanchoBot: _KNPM_ joined in slot 5 for team blue.
+[19:28:17] BanchoBot: Noame finished playing (Score: 486116, PASSED).
+[19:28:17] BanchoBot: Gauntor finished playing (Score: 617987, PASSED).
+[19:28:17] BanchoBot: - HatsuneMiku - finished playing (Score: 1043372, PASSED).
+[19:28:17] BanchoBot: Sein finished playing (Score: 392169, PASSED).
+[19:28:17] BanchoBot: The match has finished!
+[19:28:22] BCraftMG: the epicest | 2 - 0 | Nya~ (=^-ω-^=) // Next Pick: Nya~ (=^-ω-^=)
+[19:28:26] BCraftMG: !mp timer 120
+[19:28:27] BanchoBot: Countdown ends in 2 minutes
+[19:28:41] _KNPM_: dt2 pick
+[19:28:50] BanchoBot: majora1 joined in slot 6 for team red.
+[19:28:53] BCraftMG: !mp map 3765604 0
+[19:28:54] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3765604 Osanzi feat. Hatsune Miku - LiFE
+[19:28:54] BanchoBot: Changed match mode to Osu
+[19:29:00] BanchoBot: Noame left the game.
+[19:29:02] BanchoBot: _KNPM_ moved to slot 4
+[19:29:02] BCraftMG: !mp mods 65
+[19:29:04] -_HatsuneMiku_-: hatsunemiku pog
+[19:29:04] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[19:29:28] BanchoBot: Countdown ends in 1 minute
+[19:29:43] BCraftMG: !mp timer 120
+[19:29:46] BanchoBot: Countdown aborted
+[19:29:46] BanchoBot: Countdown ends in 2 minutes
+[19:29:49] BanchoBot: majora1 left the game.
+[19:30:05] -_HatsuneMiku_-: miku buff)
+[19:30:15] BanchoBot: All players are ready
+[19:30:19] -_HatsuneMiku_-: glhf
+[19:30:19] _KNPM_: so banger
+[19:30:22] _KNPM_: golf
+[19:30:22] Gauntor: gl hf
+[19:30:22] BCraftMG: !mp settings
+[19:30:24] BanchoBot: Room name: BQT5: (the epicest) vs (Nya~ (=^-ω-^=)), History: https://osu.ppy.sh/mp/103395670
+[19:30:24] BanchoBot: Beatmap: https://osu.ppy.sh/b/3765604 Osanzi feat. Hatsune Miku - LiFE
+[19:30:24] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:30:24] BanchoBot: Active mods: NoFail, DoubleTime
+[19:30:24] BanchoBot: Players: 4
+[19:30:24] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13602761 - HatsuneMiku - [Team Red ]
+[19:30:24] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21462719 Gauntor         [Team Red ]
+[19:30:24] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9945849 Sein            [Team Blue]
+[19:30:24] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16102904 _KNPM_          [Team Blue]
+[19:30:26] BCraftMG: !mp start 10
+[19:30:28] BanchoBot: Countdown aborted
+[19:30:28] BanchoBot: Match starts in 10 seconds
+[19:30:28] BanchoBot: Queued the match to start in 10 seconds
+[19:30:33] BanchoBot: Match starts in 5 seconds
+[19:30:33] BanchoBot: Match starts in 4 seconds
+[19:30:35] BanchoBot: Match starts in 3 seconds
+[19:30:37] BanchoBot: Good luck, have fun!
+[19:30:39] BanchoBot: The match has started!
+[19:33:01] BanchoBot: _KNPM_ finished playing (Score: 512424, PASSED).
+[19:33:01] BanchoBot: - HatsuneMiku - finished playing (Score: 977545, PASSED).
+[19:33:01] BanchoBot: Gauntor finished playing (Score: 743518, PASSED).
+[19:33:01] BanchoBot: Sein finished playing (Score: 655520, PASSED).
+[19:33:01] BanchoBot: The match has finished!
+[19:33:08] BCraftMG: the epicest | 3 - 0 | Nya~ (=^-ω-^=) // Next Pick: the epicest
+[19:33:12] BCraftMG: !mp timer 120
+[19:33:13] BanchoBot: Countdown ends in 2 minutes
+[19:33:25] BanchoBot: majora1 joined in slot 5 for team blue.
+[19:33:25] -_HatsuneMiku_-: пикнули под меня
+[19:33:27] -_HatsuneMiku_-: :/
+[19:33:33] BanchoBot: Noame joined in slot 6 for team red.
+[19:33:43] BanchoBot: Noame changed to Blue
+[19:33:59] _KNPM_: Я просто сердечки рисую
+[19:34:11] _KNPM_: А тут начало через скип\
+[19:34:13] BanchoBot: Countdown ends in 1 minute
+[19:34:19] majora1: hd2
+[19:34:19] Gauntor: HD2
+[19:34:21] BanchoBot: Gauntor left the game.
+[19:34:23] -_HatsuneMiku_-: м
+[19:34:27] BanchoBot: majora1 changed to Red
+[19:34:27] BanchoBot: - HatsuneMiku - moved to slot 7
+[19:34:27] BanchoBot: I hate this map joined in slot 1 for team blue.
+[19:34:29] BanchoBot: majora1 moved to slot 2
+[19:34:29] BanchoBot: - HatsuneMiku - left the game.
+[19:34:31] BanchoBot: Noame left the game.
+[19:34:39] BCraftMG: !mp map 100784 0
+[19:34:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/100784 Max Coveri - Golden Age
+[19:34:39] BanchoBot: Changed match mode to Osu
+[19:34:41] BCraftMG: !mp mods 9
+[19:34:43] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[19:34:44] BCraftMG: !mp timer 120
+[19:34:45] BanchoBot: Countdown ends in 30 seconds
+[19:34:45] BanchoBot: I hate this map changed to Red
+[19:34:45] BanchoBot: Countdown aborted
+[19:34:45] BanchoBot: Countdown ends in 2 minutes
+[19:34:55] _KNPM_: :skull:
+[19:35:11] I_hate_this_map: LOL
+[19:35:13] I_hate_this_map: gl
+[19:35:19] I_hate_this_map: rdy
+[19:35:23] _KNPM_: glhf
+[19:35:29] BanchoBot: All players are ready
+[19:35:31] majora1: glhf
+[19:35:32] BCraftMG: !mp settings
+[19:35:33] BanchoBot: Room name: BQT5: (the epicest) vs (Nya~ (=^-ω-^=)), History: https://osu.ppy.sh/mp/103395670
+[19:35:33] BanchoBot: Beatmap: https://osu.ppy.sh/b/100784 Max Coveri - Golden Age
+[19:35:33] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:35:33] BanchoBot: Active mods: NoFail, Hidden
+[19:35:33] BanchoBot: Players: 4
+[19:35:33] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16298587 I hate this map [Team Red ]
+[19:35:33] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18997680 majora1         [Team Red ]
+[19:35:33] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9945849 Sein            [Team Blue]
+[19:35:33] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16102904 _KNPM_          [Team Blue]
+[19:35:35] BCraftMG: !mp start 10
+[19:35:37] BanchoBot: Countdown aborted
+[19:35:37] BanchoBot: Match starts in 10 seconds
+[19:35:37] BanchoBot: Queued the match to start in 10 seconds
+[19:35:43] BanchoBot: Match starts in 5 seconds
+[19:35:43] BanchoBot: Match starts in 4 seconds
+[19:35:45] BanchoBot: Match starts in 3 seconds
+[19:35:45] BanchoBot: Good luck, have fun!
+[19:35:47] BanchoBot: The match has started!
+[19:38:38] BanchoBot: Sein finished playing (Score: 206780, PASSED).
+[19:38:38] BanchoBot: _KNPM_ finished playing (Score: 225903, PASSED).
+[19:38:38] BanchoBot: I hate this map finished playing (Score: 667248, PASSED).
+[19:38:38] BanchoBot: majora1 finished playing (Score: 624894, PASSED).
+[19:38:38] BanchoBot: The match has finished!
+[19:38:44] BCraftMG: the epicest | 4 - 0 | Nya~ (=^-ω-^=) // Next Pick: Nya~ (=^-ω-^=)
+[19:38:50] BCraftMG: !mp timer 120
+[19:38:51] BanchoBot: Countdown ends in 2 minutes
+[19:39:12] _KNPM_: hm
+[19:39:19] _KNPM_: last map
+[19:39:34] _KNPM_: Sein what you think?
+[19:39:52] BanchoBot: Countdown ends in 1 minute
+[19:39:56] BanchoBot: - HatsuneMiku - joined in slot 5 for team blue.
+[19:39:56] Sein: Я хз, смотри сам
+[19:40:08] _KNPM_: :c
+[19:40:10] -_HatsuneMiku_-: капитан поставь карту Буерак - Корень имбиря
+[19:40:12] _KNPM_: hd1
+[19:40:22] _KNPM_: so last banger
+[19:40:22] BanchoBot: Countdown ends in 30 seconds
+[19:40:27] BCraftMG: !mp map 2353801 0
+[19:40:30] BCraftMG: !mp mods 9
+[19:40:30] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2353801 Reol - Think Alone
+[19:40:30] BanchoBot: Changed match mode to Osu
+[19:40:32] -_HatsuneMiku_-: бля, я ухожу
+[19:40:32] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[19:40:33] BCraftMG: !mp timer 120
+[19:40:34] BanchoBot: Countdown aborted
+[19:40:34] BanchoBot: Countdown ends in 2 minutes
+[19:40:46] -_HatsuneMiku_-: Ебал х*дден
+[19:40:50] -_HatsuneMiku_-: гл
+[19:40:52] BanchoBot: - HatsuneMiku - left the game.
+[19:41:24] _KNPM_: gl епта
+[19:41:28] BanchoBot: majora1 left the game.
+[19:41:31] BanchoBot: Gauntor joined in slot 2 for team red.
+[19:41:34] BanchoBot: Countdown ends in 1 minute
+[19:42:04] BanchoBot: Countdown ends in 30 seconds
+[19:42:08] BanchoBot: All players are ready
+[19:42:17] BCraftMG: !mp settings
+[19:42:19] I_hate_this_map: gl
+[19:42:19] BanchoBot: Room name: BQT5: (the epicest) vs (Nya~ (=^-ω-^=)), History: https://osu.ppy.sh/mp/103395670
+[19:42:19] BanchoBot: Beatmap: https://osu.ppy.sh/b/2353801 Reol - Think Alone
+[19:42:19] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[19:42:19] BanchoBot: Active mods: NoFail, Hidden
+[19:42:19] BanchoBot: Players: 4
+[19:42:19] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/16298587 I hate this map [Team Red ]
+[19:42:19] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21462719 Gauntor         [Team Red ]
+[19:42:19] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9945849 Sein            [Team Blue]
+[19:42:19] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16102904 _KNPM_          [Team Blue]
+[19:42:20] BCraftMG: !mp start 10
+[19:42:23] Gauntor: gl hf
+[19:42:23] _KNPM_: пд
+[19:42:23] BanchoBot: Countdown aborted
+[19:42:23] BanchoBot: Match starts in 10 seconds
+[19:42:23] BanchoBot: Queued the match to start in 10 seconds
+[19:42:27] _KNPM_: gl
+[19:42:29] BanchoBot: Match starts in 5 seconds
+[19:42:31] BanchoBot: Match starts in 4 seconds
+[19:42:31] BanchoBot: Match starts in 3 seconds
+[19:42:33] BanchoBot: Good luck, have fun!
+[19:42:35] BanchoBot: The match has started!
+[19:46:26] BanchoBot: Sein finished playing (Score: 680449, PASSED).
+[19:46:26] BanchoBot: I hate this map finished playing (Score: 1004845, PASSED).
+[19:46:26] BanchoBot: Gauntor finished playing (Score: 535638, PASSED).
+[19:46:26] BanchoBot: _KNPM_ finished playing (Score: 331274, PASSED).
+[19:46:26] BanchoBot: The match has finished!
+[19:46:28] BCraftMG: Congrats to the epicest for winning this match! GGWP both teams!
+[19:46:39] BanchoBot: - HatsuneMiku - joined in slot 5 for team blue.
+[19:46:39] _KNPM_: ggs
+[19:46:39] Gauntor: gg wp
+[19:46:41] -_HatsuneMiku_-: гг
+[19:46:43] BanchoBot: Sein left the game.
+[19:46:45] _KNPM_: thx for ref
+[19:46:47] BanchoBot: majora1 joined in slot 3 for team blue.
+[19:46:49] -_HatsuneMiku_-: удачи вам в нижней сетке
+[19:46:51] BanchoBot: _KNPM_ left the game.
+[19:46:53] I_hate_this_map: gg
+[19:46:57] -_HatsuneMiku_-: thx for ref
+[19:46:59] BCraftMG: o.//
+[19:46:59] majora1: ggwp
+[19:46:59] BanchoBot: - HatsuneMiku - left the game.
+[19:47:03] Gauntor: thanks for your time ref
+[19:47:05] BanchoBot: Gauntor left the game.
+[19:47:05] BanchoBot: I hate this map left the game.
+[19:47:05] majora1: thx for ref
+[19:47:07] BanchoBot: majora1 left the game.
+[19:47:26] BCraftMG: !mp close
+[19:47:27] BanchoBot: Closed the match

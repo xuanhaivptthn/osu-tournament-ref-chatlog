@@ -1,0 +1,757 @@
+[20:53:30] Joined #mp_111167877
+[20:53:30] BCraftMG: !mp settings
+[20:53:31] BanchoBot: Room name: KQT: (Qualifiers) vs (Match A7), History: https://osu.ppy.sh/mp/111167877
+[20:53:31] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:53:31] BanchoBot: Players: 0
+[20:53:56] KiuL: !mp invite #8461097
+[20:53:56] BanchoBot: Invited [Boy]HaiPhong to the room
+[20:54:01] KiuL: !mp invite #10526615
+[20:54:01] BanchoBot: Invited AlanOuO to the room
+[20:54:05] KiuL: !mp invite #18349586
+[20:54:05] BanchoBot: Invited AuroraDieu to the room
+[20:54:15] KiuL: !mp invite #11918602
+[20:54:15] BanchoBot: Invited Blethz to the room
+[20:54:20] KiuL: !mp invite #22666605
+[20:54:20] BanchoBot: Invited G8pple to the room
+[20:54:25] KiuL: !mp invite #9482299
+[20:54:25] BanchoBot: Invited Hikaze to the room
+[20:54:30] KiuL: !mp invite #17446226
+[20:54:30] BanchoBot: Invited TheycallmeAn to the room
+[20:54:35] KiuL: !mp invite #21771922
+[20:54:35] BanchoBot: Invited X-ill to the room
+[20:54:45] KiuL: !mp invite #19249761
+[20:54:45] BanchoBot: Invited zelko123 to the room
+[20:54:54] KiuL: !mp invite #15333513
+[20:54:54] BanchoBot: Invited Zybit to the room
+[20:55:13] BanchoBot: [Boy]HaiPhong joined in slot 1.
+[20:55:28] BanchoBot: Blethz joined in slot 2.
+[20:55:33] BanchoBot: Hikaze joined in slot 3.
+[20:55:45] Blethz: o/
+[20:55:47] Hikaze: o/
+[20:55:52] [Boy]HaiPhong: \o
+[20:56:19] Hikaze: wait
+[20:56:22] Hikaze: arent you
+[20:56:36] Hikaze: from 5wc 2022
+[20:56:36] Hikaze: team B?
+[20:56:53] Blethz: yeah
+[20:56:56] KiuL: damn 5wc
+[20:56:56] BanchoBot: AuroraDieu joined in slot 4.
+[20:56:59] KiuL: i wish
+[20:57:01] BCraftMG: wish 5wc ngl
+[20:57:10] BanchoBot: AuroraDieu left the game.
+[20:57:14] BanchoBot: Zybit joined in slot 4.
+[20:57:20] KiuL: !mp set 0 3 16
+[20:57:20] BanchoBot: Changed match settings to 16 slots, HeadToHead, ScoreV2
+[20:57:27] KiuL: !mp map 2797260 0
+[20:57:27] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2797260 AKINO with bless4 - Yuki no Youni
+[20:57:27] BanchoBot: Changed match mode to Osu
+[20:57:31] KiuL: !mp mods 1
+[20:57:31] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:57:37] KiuL: !mp settings
+[20:57:37] BanchoBot: Room name: KQT: (Qualifiers) vs (Match A7), History: https://osu.ppy.sh/mp/111167877
+[20:57:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/2797260 AKINO with bless4 - Yuki no Youni
+[20:57:37] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:57:37] BanchoBot: Active mods: NoFail
+[20:57:37] BanchoBot: Players: 4
+[20:57:37] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/8461097 [Boy]HaiPhong   
+[20:57:37] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/11918602 Blethz          
+[20:57:37] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/9482299 Hikaze          
+[20:57:37] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/15333513 Zybit           
+[20:57:42] KiuL: 4 more
+[20:57:52] BanchoBot: G8pple joined in slot 5.
+[20:58:00] G8pple: o/
+[20:58:05] Blethz: o/
+[20:58:09] BanchoBot: X-ill joined in slot 6.
+[20:58:12] BanchoBot: zelko123 joined in slot 7.
+[20:58:18] KiuL: 0/
+[20:58:24] zelko123: o/
+[20:58:25] Zybit: o/
+[20:58:41] Crystal0407: !mp settings
+[20:58:41] BanchoBot: Room name: KQT: (Qualifiers) vs (Match A7), History: https://osu.ppy.sh/mp/111167877
+[20:58:41] BanchoBot: Beatmap: https://osu.ppy.sh/b/2797260 AKINO with bless4 - Yuki no Youni
+[20:58:41] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:58:41] BanchoBot: Active mods: NoFail
+[20:58:41] BanchoBot: Players: 7
+[20:58:41] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8461097 [Boy]HaiPhong   
+[20:58:41] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/11918602 Blethz          
+[20:58:41] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/9482299 Hikaze          
+[20:58:41] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/15333513 Zybit           
+[20:58:41] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/22666605 G8pple          
+[20:58:41] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/21771922 X-ill           
+[20:58:41] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/19249761 zelko123        
+[20:58:43] Zybit: brb
+[20:59:13] BanchoBot: AlanOuO joined in slot 8.
+[20:59:31] BanchoBot: AuroraDieu joined in slot 9.
+[20:59:32] Zybit: back
+[21:00:01] G8pple: wb
+[21:00:04] AuroraDieu: omg it's zelko
+[21:00:11] KiuL: missing theycallmean
+[21:00:33] BanchoBot: All players are ready
+[21:00:33] KiuL: !mp settings
+[21:00:33] BanchoBot: Room name: KQT: (Qualifiers) vs (Match A7), History: https://osu.ppy.sh/mp/111167877
+[21:00:33] BanchoBot: Beatmap: https://osu.ppy.sh/b/2797260 AKINO with bless4 - Yuki no Youni
+[21:00:34] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:00:34] BanchoBot: Active mods: NoFail
+[21:00:34] BanchoBot: Players: 9
+[21:00:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8461097 [Boy]HaiPhong   
+[21:00:34] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11918602 Blethz          
+[21:00:34] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9482299 Hikaze          
+[21:00:34] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15333513 Zybit           
+[21:00:34] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/22666605 G8pple          
+[21:00:34] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/21771922 X-ill           
+[21:00:34] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/19249761 zelko123        
+[21:00:34] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10526615 AlanOuO         
+[21:00:34] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/18349586 AuroraDieu      
+[21:00:55] KiuL: !mp invite #17446226
+[21:00:55] BanchoBot: Invited TheycallmeAn to the room
+[21:01:21] BanchoBot: TheycallmeAn joined in slot 10.
+[21:01:39] zelko123: omg it's auroradieu
+[21:01:39] KiuL: aight
+[21:01:58] BanchoBot: All players are ready
+[21:02:11] KiuL: !mp start 10
+[21:02:11] BanchoBot: Match starts in 10 seconds
+[21:02:11] BanchoBot: Queued the match to start in 10 seconds
+[21:02:13] KiuL: glhf!
+[21:02:14] G8pple: glhf
+[21:02:15] zelko123: glgl
+[21:02:16] BanchoBot: Match starts in 5 seconds
+[21:02:16] Zybit: glgl
+[21:02:17] BanchoBot: Match starts in 4 seconds
+[21:02:17] [Boy]HaiPhong: hfhf
+[21:02:17] Blethz: glhf
+[21:02:18] BanchoBot: Match starts in 3 seconds
+[21:02:19] AlanOuO: hf
+[21:02:19] BanchoBot: Good luck, have fun!
+[21:02:21] BanchoBot: The match has started!
+[21:06:51] BanchoBot: AlanOuO finished playing (Score: 399022, PASSED).
+[21:06:51] BanchoBot: Hikaze finished playing (Score: 631734, PASSED).
+[21:06:51] BanchoBot: Zybit finished playing (Score: 469229, PASSED).
+[21:06:51] BanchoBot: X-ill finished playing (Score: 308330, PASSED).
+[21:06:51] BanchoBot: TheycallmeAn finished playing (Score: 279592, PASSED).
+[21:06:52] BanchoBot: G8pple finished playing (Score: 365474, PASSED).
+[21:06:52] BanchoBot: [Boy]HaiPhong finished playing (Score: 454975, PASSED).
+[21:06:53] BanchoBot: Blethz finished playing (Score: 543311, PASSED).
+[21:06:53] BanchoBot: zelko123 finished playing (Score: 476092, PASSED).
+[21:06:53] BanchoBot: AuroraDieu finished playing (Score: 471950, PASSED).
+[21:06:53] BanchoBot: The match has finished!
+[21:07:15] Blethz: horizontal aim
+[21:07:15] Blethz: :(
+[21:07:16] KiuL: !mp map 2810175 0
+[21:07:16] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2810175 Maxo - Forsaken City (Sever the Skyline Mix)
+[21:07:16] BanchoBot: Changed match mode to Osu
+[21:07:57] KiuL: !mp settings
+[21:07:57] BanchoBot: Room name: KQT: (Qualifiers) vs (Match A7), History: https://osu.ppy.sh/mp/111167877
+[21:07:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/2810175 Maxo - Forsaken City (Sever the Skyline Mix)
+[21:07:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:07:57] BanchoBot: Active mods: NoFail
+[21:07:57] BanchoBot: Players: 10
+[21:07:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8461097 [Boy]HaiPhong   
+[21:07:57] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11918602 Blethz          
+[21:07:57] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9482299 Hikaze          
+[21:07:57] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/15333513 Zybit           
+[21:07:57] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/22666605 G8pple          
+[21:07:57] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/21771922 X-ill           
+[21:07:57] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/19249761 zelko123        
+[21:07:57] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10526615 AlanOuO         
+[21:07:57] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/18349586 AuroraDieu      
+[21:07:57] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/17446226 TheycallmeAn    
+[21:08:22] BanchoBot: All players are ready
+[21:08:35] Blethz: glhf
+[21:08:39] KiuL: !mp start 10
+[21:08:39] BanchoBot: Match starts in 10 seconds
+[21:08:39] BanchoBot: Queued the match to start in 10 seconds
+[21:08:40] zelko123: glgl
+[21:08:41] Zybit: glgl
+[21:08:41] KiuL: glhf !
+[21:08:43] AlanOuO: hf
+[21:08:44] BanchoBot: Match starts in 5 seconds
+[21:08:44] G8pple: hfhf
+[21:08:46] BanchoBot: Match starts in 4 seconds
+[21:08:47] [Boy]HaiPhong: hf
+[21:08:48] BanchoBot: Match starts in 3 seconds
+[21:08:48] BanchoBot: Good luck, have fun!
+[21:08:48] Hikaze: lhfg
+[21:08:49] BanchoBot: The match has started!
+[21:11:26] BanchoBot: [Boy]HaiPhong finished playing (Score: 612471, PASSED).
+[21:11:26] BanchoBot: AuroraDieu finished playing (Score: 249356, PASSED).
+[21:11:26] BanchoBot: Blethz finished playing (Score: 988594, PASSED).
+[21:11:27] BanchoBot: Hikaze finished playing (Score: 413275, PASSED).
+[21:11:27] BanchoBot: zelko123 finished playing (Score: 154112, PASSED).
+[21:11:27] BanchoBot: TheycallmeAn finished playing (Score: 221182, PASSED).
+[21:11:27] BanchoBot: Zybit finished playing (Score: 964943, PASSED).
+[21:11:27] BanchoBot: X-ill finished playing (Score: 208951, PASSED).
+[21:11:28] BanchoBot: AlanOuO finished playing (Score: 256797, PASSED).
+[21:11:29] BanchoBot: G8pple finished playing (Score: 440626, PASSED).
+[21:11:29] BanchoBot: The match has finished!
+[21:11:33] BCraftMG: !mp map 4160128 0
+[21:11:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4160128 frederic - YONA YONA DANCE - Frederhythm Ver.
+[21:11:34] BanchoBot: Changed match mode to Osu
+[21:11:35] BCraftMG: !mp timer 120
+[21:11:35] BanchoBot: Countdown ends in 2 minutes
+[21:11:49] Hikaze: who thought nm2 5wc was a good idea
+[21:11:56] Zybit: blethz  wow
+[21:11:59] Zybit: that acc
+[21:12:07] Blethz: you also
+[21:12:36] BanchoBot: Countdown ends in 1 minute
+[21:12:41] KiuL: this nm2 is good to check how well you are in flow aim and stamina
+[21:12:45] BanchoBot: All players are ready
+[21:12:50] Hikaze: theres no stamina
+[21:12:53] BCraftMG: !mp settings
+[21:12:53] BanchoBot: Room name: KQT: (Qualifiers) vs (Match A7), History: https://osu.ppy.sh/mp/111167877
+[21:12:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/4160128 frederic - YONA YONA DANCE - Frederhythm Ver.
+[21:12:53] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:12:53] BanchoBot: Active mods: NoFail
+[21:12:53] BanchoBot: Players: 10
+[21:12:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8461097 [Boy]HaiPhong   
+[21:12:53] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11918602 Blethz          
+[21:12:53] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9482299 Hikaze          
+[21:12:53] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15333513 Zybit           
+[21:12:53] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/22666605 G8pple          
+[21:12:53] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/21771922 X-ill           
+[21:12:53] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/19249761 zelko123        
+[21:12:53] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10526615 AlanOuO         
+[21:12:53] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/18349586 AuroraDieu      
+[21:12:53] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/17446226 TheycallmeAn    
+[21:12:55] Hikaze: required for this
+[21:12:58] Blethz: glhf
+[21:12:59] BCraftMG: !mp start 5 glhf
+[21:13:01] KiuL: lol
+[21:13:01] BanchoBot: Countdown aborted
+[21:13:01] BanchoBot: Match starts in 5 seconds
+[21:13:01] BanchoBot: Queued the match to start in 5 seconds
+[21:13:02] Zybit: glgl
+[21:13:02] BanchoBot: Match starts in 4 seconds
+[21:13:03] BanchoBot: Match starts in 3 seconds
+[21:13:04] BanchoBot: Good luck, have fun!
+[21:13:05] Hikaze: the hitsound are just blasting through my ears
+[21:13:06] G8pple: hfhf
+[21:13:06] AlanOuO: hf
+[21:13:06] BanchoBot: The match has started!
+[21:16:52] BanchoBot: Hikaze finished playing (Score: 289903, PASSED).
+[21:16:52] BanchoBot: TheycallmeAn finished playing (Score: 115868, PASSED).
+[21:16:53] BanchoBot: Blethz finished playing (Score: 515122, PASSED).
+[21:16:53] BanchoBot: [Boy]HaiPhong finished playing (Score: 679745, PASSED).
+[21:16:53] BanchoBot: X-ill finished playing (Score: 131858, PASSED).
+[21:16:53] BanchoBot: AlanOuO finished playing (Score: 200937, PASSED).
+[21:16:53] BanchoBot: Zybit finished playing (Score: 352025, PASSED).
+[21:16:54] BanchoBot: AuroraDieu finished playing (Score: 331995, PASSED).
+[21:16:54] BanchoBot: zelko123 finished playing (Score: 197809, PASSED).
+[21:16:54] BanchoBot: G8pple finished playing (Score: 265970, PASSED).
+[21:16:54] BanchoBot: The match has finished!
+[21:17:03] [Boy]HaiPhong: i got jumpscared
+[21:17:26] Hikaze: -respect for pooler
+[21:17:59] Crystal0407: !mp map 4155780 0
+[21:17:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4155780 Shadren - Froskya
+[21:17:59] BanchoBot: Changed match mode to Osu
+[21:18:00] Crystal0407: !mp timer 120
+[21:18:00] BanchoBot: Countdown ends in 2 minutes
+[21:18:40] BanchoBot: All players are ready
+[21:18:48] Crystal0407: !mp settings
+[21:18:48] BanchoBot: Room name: KQT: (Qualifiers) vs (Match A7), History: https://osu.ppy.sh/mp/111167877
+[21:18:48] BanchoBot: Beatmap: https://osu.ppy.sh/b/4155780 Shadren - Froskya
+[21:18:48] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:18:48] BanchoBot: Active mods: NoFail
+[21:18:48] BanchoBot: Players: 10
+[21:18:48] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8461097 [Boy]HaiPhong   
+[21:18:48] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11918602 Blethz          
+[21:18:48] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9482299 Hikaze          
+[21:18:48] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15333513 Zybit           
+[21:18:48] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/22666605 G8pple          
+[21:18:48] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/21771922 X-ill           
+[21:18:48] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/19249761 zelko123        
+[21:18:48] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10526615 AlanOuO         
+[21:18:48] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/18349586 AuroraDieu      
+[21:18:48] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/17446226 TheycallmeAn    
+[21:18:49] Crystal0407: !mp start 5 glhf
+[21:18:49] BanchoBot: Countdown aborted
+[21:18:49] BanchoBot: Match starts in 5 seconds
+[21:18:49] BanchoBot: Queued the match to start in 5 seconds
+[21:18:50] BanchoBot: Match starts in 4 seconds
+[21:18:51] BanchoBot: Match starts in 3 seconds
+[21:18:51] G8pple: hfhf
+[21:18:53] BanchoBot: Good luck, have fun!
+[21:18:54] Zybit: glgl
+[21:18:54] BanchoBot: The match has started!
+[21:22:06] BanchoBot: [Boy]HaiPhong finished playing (Score: 596159, PASSED).
+[21:22:06] BanchoBot: AlanOuO finished playing (Score: 166161, PASSED).
+[21:22:06] BanchoBot: Blethz finished playing (Score: 544770, PASSED).
+[21:22:06] BanchoBot: TheycallmeAn finished playing (Score: 135069, PASSED).
+[21:22:08] BanchoBot: AuroraDieu finished playing (Score: 358736, PASSED).
+[21:22:08] BanchoBot: X-ill finished playing (Score: 224630, PASSED).
+[21:22:08] BanchoBot: Hikaze finished playing (Score: 268722, PASSED).
+[21:22:08] BanchoBot: zelko123 finished playing (Score: 213155, PASSED).
+[21:22:08] BanchoBot: Zybit finished playing (Score: 581214, PASSED).
+[21:22:08] BanchoBot: G8pple finished playing (Score: 274575, PASSED).
+[21:22:08] BanchoBot: The match has finished!
+[21:22:16] Crystal0407: !mp map 4136909 0
+[21:22:16] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4136909 Rita - Laugh it up, Roll with it!
+[21:22:16] BanchoBot: Changed match mode to Osu
+[21:22:17] Blethz: i hate this map
+[21:22:19] Crystal0407: !mp mods 9
+[21:22:19] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:22:20] Crystal0407: !mp timer 120
+[21:22:20] BanchoBot: Countdown ends in 2 minutes
+[21:23:20] BanchoBot: Countdown ends in 1 minute
+[21:23:42] BanchoBot: All players are ready
+[21:23:47] Crystal0407: !mp settings
+[21:23:47] BanchoBot: Room name: KQT: (Qualifiers) vs (Match A7), History: https://osu.ppy.sh/mp/111167877
+[21:23:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/4136909 Rita - Laugh it up, Roll with it!
+[21:23:47] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:23:47] BanchoBot: Active mods: NoFail, Hidden
+[21:23:47] BanchoBot: Players: 10
+[21:23:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8461097 [Boy]HaiPhong   
+[21:23:47] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11918602 Blethz          
+[21:23:47] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9482299 Hikaze          
+[21:23:47] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15333513 Zybit           
+[21:23:47] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/22666605 G8pple          
+[21:23:47] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/21771922 X-ill           
+[21:23:47] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/19249761 zelko123        
+[21:23:47] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10526615 AlanOuO         
+[21:23:47] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/18349586 AuroraDieu      
+[21:23:47] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/17446226 TheycallmeAn    
+[21:23:48] G8pple: hfhf
+[21:23:50] Crystal0407: !mp start 5 glhf
+[21:23:50] BanchoBot: Countdown aborted
+[21:23:50] BanchoBot: Match starts in 5 seconds
+[21:23:50] BanchoBot: Queued the match to start in 5 seconds
+[21:23:51] BanchoBot: Match starts in 4 seconds
+[21:23:52] BanchoBot: Match starts in 3 seconds
+[21:23:52] BanchoBot: Good luck, have fun!
+[21:23:54] Blethz: glhf
+[21:23:54] BanchoBot: The match has started!
+[21:24:17] BCraftMG: a crystal co ban k de e ref cho
+[21:25:45] Crystal0407: dang ban viet bai ref toi hr la dc
+[21:26:02] BCraftMG: oki
+[21:27:31] BanchoBot: AlanOuO finished playing (Score: 693448, PASSED).
+[21:27:33] BanchoBot: zelko123 finished playing (Score: 324861, PASSED).
+[21:27:33] BanchoBot: Zybit finished playing (Score: 342356, PASSED).
+[21:27:33] BanchoBot: AuroraDieu finished playing (Score: 479191, PASSED).
+[21:27:33] BanchoBot: G8pple finished playing (Score: 368784, PASSED).
+[21:27:33] BanchoBot: Blethz finished playing (Score: 463854, PASSED).
+[21:27:33] BanchoBot: [Boy]HaiPhong finished playing (Score: 472736, PASSED).
+[21:27:33] BanchoBot: Hikaze finished playing (Score: 662207, PASSED).
+[21:27:33] BanchoBot: X-ill finished playing (Score: 218178, PASSED).
+[21:27:33] BanchoBot: TheycallmeAn finished playing (Score: 112686, PASSED).
+[21:27:33] BanchoBot: The match has finished!
+[21:27:35] BCraftMG: !mp map 4168792 0
+[21:27:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4168792 Sophie Straat - Tweede Kamer (The Outsiders Remix)
+[21:27:36] BanchoBot: Changed match mode to Osu
+[21:27:37] BCraftMG: !mp mods 17
+[21:27:38] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[21:27:38] BCraftMG: !mp timer 120
+[21:27:40] BanchoBot: Countdown ends in 2 minutes
+[21:27:43] Blethz: hd2?
+[21:27:48] Zybit: hd2??
+[21:27:51] BCraftMG: !mp map 3971467 0
+[21:27:52] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3971467 25-ji, Nightcord de. x Kagamine Len - Bug
+[21:27:52] BanchoBot: Changed match mode to Osu
+[21:27:53] BCraftMG: !mp mods 9
+[21:27:54] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:28:00] BCraftMG: i was trolled
+[21:28:40] BanchoBot: Countdown ends in 1 minute
+[21:28:50] Blethz: damn i need to stop choking
+[21:29:00] [Boy]HaiPhong: wait
+[21:29:11] BanchoBot: Countdown ends in 30 seconds
+[21:29:30] BanchoBot: Countdown ends in 10 seconds
+[21:29:31] BanchoBot: All players are ready
+[21:29:36] BanchoBot: Countdown ends in 5 seconds
+[21:29:37] Blethz: glhf
+[21:29:37] BanchoBot: Countdown ends in 4 seconds
+[21:29:38] BanchoBot: Countdown ends in 3 seconds
+[21:29:39] BanchoBot: Countdown ends in 2 seconds
+[21:29:40] BanchoBot: Countdown ends in 1 second
+[21:29:41] BanchoBot: Countdown finished
+[21:29:41] AlanOuO: hf
+[21:29:45] Zybit: glgl
+[21:29:48] zelko123: glgl
+[21:29:51] G8pple: hfgl
+[21:30:04] AlanOuO: ?
+[21:30:11] Blethz: ref?
+[21:30:19] Hikaze: BCraftMG
+[21:30:19] X-ill: uh
+[21:30:23] Blethz: BCraftMG
+[21:30:27] BCraftMG: !mp settings
+[21:30:28] BanchoBot: Room name: KQT: (Qualifiers) vs (Match A7), History: https://osu.ppy.sh/mp/111167877
+[21:30:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/3971467 25-ji, Nightcord de. x Kagamine Len - Bug
+[21:30:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:30:28] BanchoBot: Active mods: NoFail, Hidden
+[21:30:28] BanchoBot: Players: 10
+[21:30:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8461097 [Boy]HaiPhong   
+[21:30:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11918602 Blethz          
+[21:30:28] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9482299 Hikaze          
+[21:30:28] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15333513 Zybit           
+[21:30:28] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/22666605 G8pple          
+[21:30:28] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/21771922 X-ill           
+[21:30:28] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/19249761 zelko123        
+[21:30:28] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10526615 AlanOuO         
+[21:30:28] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/18349586 AuroraDieu      
+[21:30:28] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/17446226 TheycallmeAn    
+[21:30:29] BCraftMG: !mp start 5 glhf
+[21:30:30] BanchoBot: Match starts in 5 seconds
+[21:30:30] BanchoBot: Queued the match to start in 5 seconds
+[21:30:32] BanchoBot: Match starts in 4 seconds
+[21:30:32] BanchoBot: Match starts in 3 seconds
+[21:30:33] BanchoBot: Good luck, have fun!
+[21:30:35] G8pple: hfhfhfh
+[21:30:35] BanchoBot: The match has started!
+[21:30:36] AlanOuO: hf
+[21:32:48] BanchoBot: G8pple finished playing (Score: 364549, PASSED).
+[21:32:48] BanchoBot: AuroraDieu finished playing (Score: 690815, PASSED).
+[21:32:48] BanchoBot: Blethz finished playing (Score: 985653, PASSED).
+[21:32:49] BanchoBot: zelko123 finished playing (Score: 116237, PASSED).
+[21:32:49] BanchoBot: [Boy]HaiPhong finished playing (Score: 975869, PASSED).
+[21:32:50] BanchoBot: AlanOuO finished playing (Score: 110263, PASSED).
+[21:32:50] BanchoBot: TheycallmeAn finished playing (Score: 23406, PASSED).
+[21:32:50] BanchoBot: Zybit finished playing (Score: 454303, PASSED).
+[21:32:50] BanchoBot: X-ill finished playing (Score: 105056, PASSED).
+[21:32:53] BCraftMG: !mp map 4168792 0
+[21:32:54] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4168792 Sophie Straat - Tweede Kamer (The Outsiders Remix)
+[21:32:54] BanchoBot: Changed match mode to Osu
+[21:32:54] BCraftMG: !mp mods 17
+[21:32:55] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[21:32:56] BCraftMG: !mp timer 120
+[21:32:56] BanchoBot: Countdown ends in 2 minutes
+[21:32:57] BanchoBot: Hikaze finished playing (Score: 650928, PASSED).
+[21:32:57] BanchoBot: The match has finished!
+[21:33:01] BCraftMG: oh
+[21:33:06] BCraftMG: !mp map 4168792 0
+[21:33:07] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4168792 Sophie Straat - Tweede Kamer (The Outsiders Remix)
+[21:33:07] BanchoBot: Changed match mode to Osu
+[21:33:07] BCraftMG: !mp settings
+[21:33:08] BanchoBot: Room name: KQT: (Qualifiers) vs (Match A7), History: https://osu.ppy.sh/mp/111167877
+[21:33:08] BanchoBot: Beatmap: https://osu.ppy.sh/b/4168792 Sophie Straat - Tweede Kamer (The Outsiders Remix)
+[21:33:08] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:33:08] BanchoBot: Active mods: NoFail, Hidden
+[21:33:08] BanchoBot: Players: 10
+[21:33:08] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/8461097 [Boy]HaiPhong   
+[21:33:08] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/11918602 Blethz          
+[21:33:08] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/9482299 Hikaze          
+[21:33:08] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/15333513 Zybit           
+[21:33:08] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/22666605 G8pple          
+[21:33:08] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/21771922 X-ill           
+[21:33:08] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/19249761 zelko123        
+[21:33:08] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/10526615 AlanOuO         
+[21:33:08] BanchoBot: Slot 9  Not Ready https://osu.ppy.sh/u/18349586 AuroraDieu      
+[21:33:08] BanchoBot: Slot 10 Not Ready https://osu.ppy.sh/u/17446226 TheycallmeAn    
+[21:33:12] BCraftMG: ok good
+[21:33:57] BanchoBot: Countdown ends in 1 minute
+[21:34:10] Blethz: hr mod?
+[21:34:12] G8pple: hr?
+[21:34:15] BCraftMG: !mp mods 17
+[21:34:16] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[21:34:17] BCraftMG: grrrrrrrrrrrrrrrrrrr
+[21:34:18] BCraftMG: i failed
+[21:34:26] BanchoBot: Countdown ends in 30 seconds
+[21:34:47] BanchoBot: Countdown ends in 10 seconds
+[21:34:53] BanchoBot: Countdown ends in 5 seconds
+[21:34:53] BanchoBot: Countdown ends in 4 seconds
+[21:34:53] BanchoBot: Countdown ends in 3 seconds
+[21:34:54] BanchoBot: Countdown ends in 2 seconds
+[21:34:55] BanchoBot: All players are ready
+[21:34:55] BanchoBot: Countdown ends in 1 second
+[21:34:56] BanchoBot: Countdown finished
+[21:34:57] BCraftMG: !mp settings
+[21:34:58] BanchoBot: Room name: KQT: (Qualifiers) vs (Match A7), History: https://osu.ppy.sh/mp/111167877
+[21:34:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/4168792 Sophie Straat - Tweede Kamer (The Outsiders Remix)
+[21:34:58] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:34:58] BanchoBot: Active mods: NoFail, HardRock
+[21:34:58] BanchoBot: Players: 10
+[21:34:58] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8461097 [Boy]HaiPhong   
+[21:34:58] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11918602 Blethz          
+[21:34:58] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9482299 Hikaze          
+[21:34:58] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15333513 Zybit           
+[21:34:58] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/22666605 G8pple          
+[21:34:58] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/21771922 X-ill           
+[21:34:58] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/19249761 zelko123        
+[21:34:58] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10526615 AlanOuO         
+[21:34:58] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/18349586 AuroraDieu      
+[21:34:58] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/17446226 TheycallmeAn    
+[21:35:00] BCraftMG: !mp start 5 glhf
+[21:35:02] BanchoBot: Match starts in 5 seconds
+[21:35:02] BanchoBot: Queued the match to start in 5 seconds
+[21:35:03] BanchoBot: Match starts in 4 seconds
+[21:35:04] BanchoBot: Match starts in 3 seconds
+[21:35:05] G8pple: hf
+[21:35:05] BanchoBot: Good luck, have fun!
+[21:35:06] zelko123: glgl
+[21:35:06] Zybit: glgl
+[21:35:07] BanchoBot: The match has started!
+[21:38:16] BanchoBot: Zybit finished playing (Score: 219614, PASSED).
+[21:38:16] BanchoBot: TheycallmeAn finished playing (Score: 226416, PASSED).
+[21:38:16] BanchoBot: G8pple finished playing (Score: 211935, PASSED).
+[21:38:17] BanchoBot: [Boy]HaiPhong finished playing (Score: 362461, PASSED).
+[21:38:17] BanchoBot: AlanOuO finished playing (Score: 132513, PASSED).
+[21:38:17] BanchoBot: Hikaze finished playing (Score: 234232, PASSED).
+[21:38:18] BanchoBot: AuroraDieu finished playing (Score: 376908, PASSED).
+[21:38:18] BanchoBot: zelko123 finished playing (Score: 261586, PASSED).
+[21:38:18] BanchoBot: X-ill finished playing (Score: 143013, PASSED).
+[21:38:18] BanchoBot: Blethz finished playing (Score: 525860, PASSED).
+[21:38:18] BanchoBot: The match has finished!
+[21:38:21] BCraftMG: !mp map 3279345 0
+[21:38:22] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3279345 NICODE & M2U - Predawn
+[21:38:22] BanchoBot: Changed match mode to Osu
+[21:38:25] BCraftMG: !mp timer 120
+[21:38:27] BanchoBot: Countdown ends in 2 minutes
+[21:38:32] Zybit: aight hr1 is over
+[21:38:33] G8pple: such a bad map and song
+[21:38:37] Zybit: i can delete it again
+[21:38:42] G8pple: ye
+[21:38:44] G8pple: true
+[21:39:27] BanchoBot: Countdown ends in 1 minute
+[21:39:42] BanchoBot: All players are ready
+[21:39:45] BCraftMG: !mp settings
+[21:39:46] BanchoBot: Room name: KQT: (Qualifiers) vs (Match A7), History: https://osu.ppy.sh/mp/111167877
+[21:39:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/3279345 NICODE & M2U - Predawn
+[21:39:46] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:39:46] BanchoBot: Active mods: NoFail, HardRock
+[21:39:46] BanchoBot: Players: 10
+[21:39:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8461097 [Boy]HaiPhong   
+[21:39:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11918602 Blethz          
+[21:39:46] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9482299 Hikaze          
+[21:39:46] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15333513 Zybit           
+[21:39:46] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/22666605 G8pple          
+[21:39:46] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/21771922 X-ill           
+[21:39:46] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/19249761 zelko123        
+[21:39:46] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10526615 AlanOuO         
+[21:39:46] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/18349586 AuroraDieu      
+[21:39:46] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/17446226 TheycallmeAn    
+[21:39:50] BCraftMG: !mp start 5 glhf
+[21:39:50] Blethz: glhf
+[21:39:51] BanchoBot: Countdown aborted
+[21:39:51] BanchoBot: Match starts in 5 seconds
+[21:39:51] BanchoBot: Queued the match to start in 5 seconds
+[21:39:52] BanchoBot: Match starts in 4 seconds
+[21:39:53] BanchoBot: Match starts in 3 seconds
+[21:39:54] G8pple: hfhfhfhfhfhf
+[21:39:54] BanchoBot: Good luck, have fun!
+[21:39:55] Zybit: glgl
+[21:39:56] BanchoBot: The match has started!
+[21:42:16] BanchoBot: Hikaze finished playing (Score: 488656, PASSED).
+[21:42:16] BanchoBot: [Boy]HaiPhong finished playing (Score: 658663, PASSED).
+[21:42:17] BanchoBot: G8pple finished playing (Score: 117983, PASSED).
+[21:42:17] BanchoBot: AuroraDieu finished playing (Score: 644935, PASSED).
+[21:42:17] BanchoBot: TheycallmeAn finished playing (Score: 269859, PASSED).
+[21:42:17] BanchoBot: zelko123 finished playing (Score: 198605, PASSED).
+[21:42:17] BanchoBot: AlanOuO finished playing (Score: 169596, PASSED).
+[21:42:18] BanchoBot: Zybit finished playing (Score: 179873, PASSED).
+[21:42:18] BanchoBot: X-ill finished playing (Score: 121436, PASSED).
+[21:42:18] BanchoBot: Blethz finished playing (Score: 339079, PASSED).
+[21:42:18] BanchoBot: The match has finished!
+[21:42:24] Zybit: i need to stop trolling
+[21:42:24] BCraftMG: !mp map 3688573 0
+[21:42:25] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3688573 Hayami Saori - Yasashii Kibou
+[21:42:25] BanchoBot: Changed match mode to Osu
+[21:42:27] BCraftMG: !mp mods 65
+[21:42:27] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:42:31] BCraftMG: !mp timer 120
+[21:42:32] BanchoBot: Countdown ends in 2 minutes
+[21:42:40] AlanOuO: I practiced the wrong diff
+[21:42:41] AlanOuO: wtf
+[21:42:45] BCraftMG: f
+[21:42:50] Zybit: f
+[21:43:08] BanchoBot: AuroraDieu left the game.
+[21:43:24] BanchoBot: AuroraDieu joined in slot 9.
+[21:43:33] BanchoBot: Countdown ends in 1 minute
+[21:43:44] BanchoBot: All players are ready
+[21:43:46] BCraftMG: !mp settings
+[21:43:48] BanchoBot: Room name: KQT: (Qualifiers) vs (Match A7), History: https://osu.ppy.sh/mp/111167877
+[21:43:48] BanchoBot: Beatmap: https://osu.ppy.sh/b/3688573 Hayami Saori - Yasashii Kibou
+[21:43:48] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:43:48] BanchoBot: Active mods: NoFail, DoubleTime
+[21:43:48] BanchoBot: Players: 10
+[21:43:48] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8461097 [Boy]HaiPhong   
+[21:43:48] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11918602 Blethz          
+[21:43:48] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9482299 Hikaze          
+[21:43:48] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15333513 Zybit           
+[21:43:48] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/22666605 G8pple          
+[21:43:48] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/21771922 X-ill           
+[21:43:48] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/19249761 zelko123        
+[21:43:48] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10526615 AlanOuO         
+[21:43:48] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/18349586 AuroraDieu      
+[21:43:48] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/17446226 TheycallmeAn    
+[21:43:50] BCraftMG: !mp start 5 glhf
+[21:43:51] BanchoBot: Countdown aborted
+[21:43:51] BanchoBot: Match starts in 5 seconds
+[21:43:51] BanchoBot: Queued the match to start in 5 seconds
+[21:43:53] BanchoBot: Match starts in 4 seconds
+[21:43:53] BanchoBot: Match starts in 3 seconds
+[21:43:54] Zybit: glgl
+[21:43:54] BanchoBot: Good luck, have fun!
+[21:43:56] BanchoBot: The match has started!
+[21:43:58] G8pple: hfhf
+[21:46:13] Crystal0407: BCraftMG xong r nhe de lam not dt2 dt3 cho
+[21:46:21] BCraftMG: ok a
+[21:46:30] BanchoBot: Zybit finished playing (Score: 399045, PASSED).
+[21:46:30] BanchoBot: TheycallmeAn finished playing (Score: 201403, PASSED).
+[21:46:32] BanchoBot: AlanOuO finished playing (Score: 474387, PASSED).
+[21:46:32] BanchoBot: AuroraDieu finished playing (Score: 728789, PASSED).
+[21:46:32] BanchoBot: [Boy]HaiPhong finished playing (Score: 544242, PASSED).
+[21:46:32] BanchoBot: X-ill finished playing (Score: 247660, PASSED).
+[21:46:32] BanchoBot: Blethz finished playing (Score: 896907, PASSED).
+[21:46:32] BanchoBot: G8pple finished playing (Score: 943015, PASSED).
+[21:46:33] BanchoBot: zelko123 finished playing (Score: 893338, PASSED).
+[21:46:39] BanchoBot: Hikaze finished playing (Score: 1025309, PASSED).
+[21:46:39] BanchoBot: The match has finished!
+[21:46:43] Crystal0407: !mp map 4095751 0
+[21:46:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4095751 AAAA - carnation
+[21:46:43] BanchoBot: Changed match mode to Osu
+[21:46:45] Crystal0407: !mp mods 65
+[21:46:45] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:46:47] Crystal0407: !mp timer 120
+[21:46:47] BanchoBot: Countdown ends in 2 minutes
+[21:46:50] G8pple: wew
+[21:47:15] G8pple: had 3 misses cuz i didnt see the map started
+[21:47:37] zelko123: same here
+[21:47:47] BanchoBot: Countdown ends in 1 minute
+[21:48:05] zelko123: im gonna sb on nothing
+[21:48:14] G8pple: same
+[21:48:16] AlanOuO: hf
+[21:48:17] BanchoBot: Countdown ends in 30 seconds
+[21:48:20] BanchoBot: All players are ready
+[21:48:24] Crystal0407: !mp settings
+[21:48:24] BanchoBot: Room name: KQT: (Qualifiers) vs (Match A7), History: https://osu.ppy.sh/mp/111167877
+[21:48:24] BanchoBot: Beatmap: https://osu.ppy.sh/b/4095751 AAAA - carnation
+[21:48:24] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:48:24] BanchoBot: Active mods: NoFail, DoubleTime
+[21:48:24] BanchoBot: Players: 10
+[21:48:24] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8461097 [Boy]HaiPhong   
+[21:48:24] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11918602 Blethz          
+[21:48:24] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9482299 Hikaze          
+[21:48:24] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15333513 Zybit           
+[21:48:24] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/22666605 G8pple          
+[21:48:24] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/21771922 X-ill           
+[21:48:24] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/19249761 zelko123        
+[21:48:24] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10526615 AlanOuO         
+[21:48:24] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/18349586 AuroraDieu      
+[21:48:24] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/17446226 TheycallmeAn    
+[21:48:25] Zybit: glgl
+[21:48:26] Crystal0407: !mp start 5 glhf
+[21:48:26] BanchoBot: Countdown aborted
+[21:48:26] BanchoBot: Match starts in 5 seconds
+[21:48:26] BanchoBot: Queued the match to start in 5 seconds
+[21:48:26] BanchoBot: Match starts in 4 seconds
+[21:48:27] BanchoBot: Match starts in 3 seconds
+[21:48:28] BanchoBot: Good luck, have fun!
+[21:48:29] Blethz: glhf
+[21:48:30] BanchoBot: The match has started!
+[21:48:30] G8pple: hfhf
+[21:48:36] KiuL: !mp settings
+[21:48:36] BanchoBot: Room name: KQT: (Qualifiers) vs (Match A7), History: https://osu.ppy.sh/mp/111167877
+[21:48:36] BanchoBot: Beatmap: https://osu.ppy.sh/b/4095751 AAAA - carnation
+[21:48:36] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:48:36] BanchoBot: Active mods: NoFail, DoubleTime
+[21:48:36] BanchoBot: Players: 10
+[21:48:36] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/8461097 [Boy]HaiPhong   
+[21:48:36] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/11918602 Blethz          
+[21:48:36] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/9482299 Hikaze          
+[21:48:36] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/15333513 Zybit           
+[21:48:36] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/22666605 G8pple          
+[21:48:36] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/21771922 X-ill           
+[21:48:36] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/19249761 zelko123        
+[21:48:36] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/10526615 AlanOuO         
+[21:48:36] BanchoBot: Slot 9  Not Ready https://osu.ppy.sh/u/18349586 AuroraDieu      
+[21:48:36] BanchoBot: Slot 10 Not Ready https://osu.ppy.sh/u/17446226 TheycallmeAn    
+[21:48:54] KiuL: aight im back
+[21:49:07] BCraftMG: dung la sv bach khoa
+[21:49:14] BCraftMG: ca 2 nguoi di viet bai
+[21:49:57] KiuL: dang soan bai má kêu giao đồ phụ má
+[21:49:59] KiuL: quá hay
+[21:50:20] KiuL: giờ soạn bài tiếp
+[21:50:23] BanchoBot: TheycallmeAn finished playing (Score: 353184, PASSED).
+[21:50:23] BanchoBot: Zybit finished playing (Score: 573114, PASSED).
+[21:50:24] BanchoBot: G8pple finished playing (Score: 535346, PASSED).
+[21:50:24] BanchoBot: Blethz finished playing (Score: 1057066, PASSED).
+[21:50:24] BanchoBot: [Boy]HaiPhong finished playing (Score: 717642, PASSED).
+[21:50:24] BanchoBot: AlanOuO finished playing (Score: 587360, PASSED).
+[21:50:26] BanchoBot: AuroraDieu finished playing (Score: 1100131, PASSED).
+[21:50:26] BanchoBot: X-ill finished playing (Score: 415996, PASSED).
+[21:50:26] BanchoBot: zelko123 finished playing (Score: 1039215, PASSED).
+[21:50:27] BanchoBot: Hikaze finished playing (Score: 442535, PASSED).
+[21:50:27] BanchoBot: The match has finished!
+[21:50:30] Crystal0407: !mp map 3542940 0
+[21:50:30] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3542940 Neru - How-to World Domination
+[21:50:30] BanchoBot: Changed match mode to Osu
+[21:50:31] Crystal0407: !mp timer 120
+[21:50:31] BanchoBot: Countdown ends in 2 minutes
+[21:50:39] Blethz: reverse choked again
+[21:50:40] Blethz: i gotta stop
+[21:50:40] G8pple: i hate myself
+[21:50:46] G8pple: the worse i ever did on the map
+[21:50:55] KiuL: caim
+[21:50:59] KiuL: calm
+[21:51:25] KiuL: guys u did ur best just hf then u will get good scores
+[21:51:27] KiuL: :)
+[21:51:31] BanchoBot: Countdown ends in 1 minute
+[21:51:39] G8pple: no
+[21:51:41] G8pple: i hate dt3
+[21:51:50] G8pple: not fun
+[21:51:54] KiuL: :(
+[21:51:54] BanchoBot: All players are ready
+[21:51:58] Crystal0407: !mp settings
+[21:51:58] BanchoBot: Room name: KQT: (Qualifiers) vs (Match A7), History: https://osu.ppy.sh/mp/111167877
+[21:51:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/3542940 Neru - How-to World Domination
+[21:51:58] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:51:58] BanchoBot: Active mods: NoFail, DoubleTime
+[21:51:58] BanchoBot: Players: 10
+[21:51:58] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8461097 [Boy]HaiPhong   
+[21:51:58] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11918602 Blethz          
+[21:51:58] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9482299 Hikaze          
+[21:51:58] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/15333513 Zybit           
+[21:51:58] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/22666605 G8pple          
+[21:51:58] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/21771922 X-ill           
+[21:51:58] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/19249761 zelko123        
+[21:51:58] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10526615 AlanOuO         
+[21:51:58] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/18349586 AuroraDieu      
+[21:51:58] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/17446226 TheycallmeAn    
+[21:51:59] G8pple: hd2 was a banger
+[21:52:00] Crystal0407: !mp start 5 glhf
+[21:52:00] BanchoBot: Countdown aborted
+[21:52:00] BanchoBot: Match starts in 5 seconds
+[21:52:00] BanchoBot: Queued the match to start in 5 seconds
+[21:52:01] BanchoBot: Match starts in 4 seconds
+[21:52:02] BanchoBot: Match starts in 3 seconds
+[21:52:02] BanchoBot: Good luck, have fun!
+[21:52:04] G8pple: hfhf
+[21:52:04] BanchoBot: The match has started!
+[21:52:05] Blethz: GLHF
+[21:52:24] Zybit: glgl
+[21:54:35] BanchoBot: TheycallmeAn finished playing (Score: 169024, PASSED).
+[21:54:36] BanchoBot: Zybit finished playing (Score: 532945, PASSED).
+[21:54:38] BanchoBot: AlanOuO finished playing (Score: 183813, PASSED).
+[21:54:38] BanchoBot: [Boy]HaiPhong finished playing (Score: 567597, PASSED).
+[21:54:39] BanchoBot: G8pple finished playing (Score: 446395, PASSED).
+[21:54:39] BanchoBot: Blethz finished playing (Score: 608677, PASSED).
+[21:54:39] BanchoBot: AuroraDieu finished playing (Score: 872222, PASSED).
+[21:54:39] BanchoBot: Hikaze finished playing (Score: 381166, PASSED).
+[21:54:39] BanchoBot: X-ill finished playing (Score: 182142, PASSED).
+[21:54:39] BanchoBot: zelko123 finished playing (Score: 463028, PASSED).
+[21:54:39] BanchoBot: The match has finished!
+[21:54:50] G8pple: ggwp
+[21:54:53] Blethz: ggwp
+[21:54:53] Hikaze: ggwp
+[21:54:55] AlanOuO: ggwp
+[21:54:59] Blethz: thanks for ref
+[21:55:01] BanchoBot: Blethz left the game.
+[21:55:02] Zybit: ggwp
+[21:55:03] G8pple: bye guys
+[21:55:04] G8pple: ty for ref
+[21:55:05] [Boy]HaiPhong: thanks for ref
+[21:55:06] BanchoBot: G8pple left the game.
+[21:55:06] Crystal0407: o7
+[21:55:06] BanchoBot: TheycallmeAn left the game.
+[21:55:06] Hikaze: thanks for 3 ref
+[21:55:08] Zybit: thanks for ref
+[21:55:10] [Boy]HaiPhong: o\
+[21:55:12] BanchoBot: zelko123 left the game.
+[21:55:12] BanchoBot: Zybit left the game.
+[21:55:18] AuroraDieu: for an arm injury that was pretty good-
+[21:55:36] X-ill: ty for ref
+[21:55:37] X-ill: o//
+[21:55:40] BanchoBot: X-ill left the game.
+[21:55:43] AlanOuO: o//
+[21:55:44] BanchoBot: [Boy]HaiPhong left the game.
+[21:55:45] BanchoBot: AlanOuO left the game.
+[21:55:57] BanchoBot: AuroraDieu left the game.
+[21:56:05] BanchoBot: Hikaze left the game.
+[21:56:15] Crystal0407: !mp close
+[21:56:15] BanchoBot: Closed the match

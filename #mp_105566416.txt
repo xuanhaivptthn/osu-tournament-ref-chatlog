@@ -1,0 +1,211 @@
+[02:51:17] Joined #mp_105566416
+[02:51:17] DaddyStage: !mp settings
+[02:51:18] BanchoBot: Room name: PTFM: (Qualifiers) vs (B6), History: https://osu.ppy.sh/mp/105566416
+[02:51:18] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[02:51:18] BanchoBot: Players: 0
+[02:51:44] DaddyStage: !mp set 0 3 8
+[02:51:45] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[02:53:49] DaddyStage: !mp invite HaonJ
+[02:53:49] BanchoBot: Invited HaonJ to the room
+[02:53:53] DaddyStage: !mp invite Ramel
+[02:53:53] BanchoBot: User not found
+[02:53:55] DaddyStage: !mp invite _l_
+[02:53:56] BanchoBot: Invited _l_ to the room
+[02:53:56] DaddyStage: !mp invite MentallyMyMommy
+[02:53:57] BanchoBot: Invited MentallyMyMommy to the room
+[02:53:59] DaddyStage: !mp invite rikka
+[02:54:00] BanchoBot: Invited rikka to the room
+[02:54:01] DaddyStage: !mp invite Lunage
+[02:54:02] BanchoBot: Invited Lunage to the room
+[02:54:18] BanchoBot: _l_ joined in slot 1.
+[02:54:26] DaddyStage: o/
+[02:54:27] BanchoBot: rikka joined in slot 2.
+[02:54:27] _l_: o/
+[02:54:34] DaddyStage: !mp map 1880006 0
+[02:54:35] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1880006 Hachioji P x Marty Friedman x Kano - Marine Bloomin'
+[02:54:35] BanchoBot: Changed match mode to Osu
+[02:54:35] DaddyStage: !mp mods 1
+[02:54:36] BanchoBot: Enabled NoFail, disabled FreeMod
+[02:55:09] BanchoBot: Lunage joined in slot 3.
+[02:57:13] DaddyStage: !mp settings
+[02:57:15] BanchoBot: Room name: PTFM: (Qualifiers) vs (B6), History: https://osu.ppy.sh/mp/105566416
+[02:57:15] BanchoBot: Beatmap: https://osu.ppy.sh/b/1880006 Hachioji P x Marty Friedman x Kano - Marine Bloomin'
+[02:57:15] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[02:57:15] BanchoBot: Active mods: NoFail
+[02:57:15] BanchoBot: Players: 3
+[02:57:15] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/17521553 _l_             
+[02:57:15] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/17130840 rikka           
+[02:57:15] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/3061206 Lunage          
+[02:57:21] DaddyStage: !mp invite HaonJ
+[02:57:21] BanchoBot: Invited HaonJ to the room
+[02:57:25] DaddyStage: !mp invite Ramel
+[02:57:25] BanchoBot: User not found
+[02:57:29] DaddyStage: !mp invite MentallyMyMommy
+[02:57:29] BanchoBot: Invited MentallyMyMommy to the room
+[02:57:39] BanchoBot: HaonJ joined in slot 4.
+[02:57:41] BanchoBot: MentallyMyMommy joined in slot 5.
+[02:58:55] DaddyStage: !mp settings
+[02:58:56] BanchoBot: Room name: PTFM: (Qualifiers) vs (B6), History: https://osu.ppy.sh/mp/105566416
+[02:58:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/1880006 Hachioji P x Marty Friedman x Kano - Marine Bloomin'
+[02:58:56] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[02:58:56] BanchoBot: Active mods: NoFail
+[02:58:56] BanchoBot: Players: 5
+[02:58:56] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/17521553 _l_             
+[02:58:56] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/17130840 rikka           
+[02:58:56] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/3061206 Lunage          
+[02:58:56] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/14469242 HaonJ           
+[02:58:56] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/19997289 MentallyMyMommy 
+[02:59:12] DaddyStage: Ramel is not responding atm so ready up please
+[02:59:38] BanchoBot: All players are ready
+[03:00:01] DaddyStage: !mp settings
+[03:00:02] BanchoBot: Room name: PTFM: (Qualifiers) vs (B6), History: https://osu.ppy.sh/mp/105566416
+[03:00:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/1880006 Hachioji P x Marty Friedman x Kano - Marine Bloomin'
+[03:00:02] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[03:00:02] BanchoBot: Active mods: NoFail
+[03:00:02] BanchoBot: Players: 5
+[03:00:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17521553 _l_             
+[03:00:02] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17130840 rikka           
+[03:00:02] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/3061206 Lunage          
+[03:00:02] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14469242 HaonJ           
+[03:00:02] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/19997289 MentallyMyMommy 
+[03:00:03] DaddyStage: !mp start 5 glhf
+[03:00:05] BanchoBot: Match starts in 5 seconds
+[03:00:05] BanchoBot: Queued the match to start in 5 seconds
+[03:00:06] BanchoBot: Match starts in 4 seconds
+[03:00:07] BanchoBot: Match starts in 3 seconds
+[03:00:07] _l_: glhf
+[03:00:08] BanchoBot: Good luck, have fun!
+[03:00:08] MentallyMyMommy: gl
+[03:00:10] BanchoBot: The match has started!
+[03:00:11] rikka: glhf
+[03:03:49] BanchoBot: MentallyMyMommy finished playing (Score: 655155, PASSED).
+[03:03:49] BanchoBot: rikka finished playing (Score: 966224, PASSED).
+[03:03:49] BanchoBot: HaonJ finished playing (Score: 304890, PASSED).
+[03:03:50] BanchoBot: _l_ finished playing (Score: 280351, PASSED).
+[03:03:50] BanchoBot: Lunage finished playing (Score: 466730, PASSED).
+[03:03:50] BanchoBot: The match has finished!
+[03:03:52] DaddyStage: !mp map 2866773
+[03:03:53] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2866773 Nanahira - Monosugoi Ikioi de Keine ga Monosugoi Uta
+[03:03:54] DaddyStage: !mp timer 120
+[03:03:55] BanchoBot: Countdown ends in 2 minutes
+[03:04:15] HaonJ: firetruck
+[03:04:19] HaonJ: gotta delete and reinstall
+[03:04:24] BanchoBot: HaonJ left the game.
+[03:04:37] BanchoBot: HaonJ joined in slot 4.
+[03:04:42] MentallyMyMommy is listening to [https://osu.ppy.sh/beatmapsets/1388107#/2866773 Nanahira - Monosugoi Ikioi de Keine ga Monosugoi Uta]
+[03:04:56] BanchoBot: Countdown ends in 1 minute
+[03:05:01] BanchoBot: All players are ready
+[03:05:05] DaddyStage: !mp settings
+[03:05:05] BanchoBot: Room name: PTFM: (Qualifiers) vs (B6), History: https://osu.ppy.sh/mp/105566416
+[03:05:05] BanchoBot: Beatmap: https://osu.ppy.sh/b/2866773 Nanahira - Monosugoi Ikioi de Keine ga Monosugoi Uta
+[03:05:05] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[03:05:05] BanchoBot: Active mods: NoFail
+[03:05:05] BanchoBot: Players: 5
+[03:05:05] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17521553 _l_             
+[03:05:05] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17130840 rikka           
+[03:05:05] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/3061206 Lunage          
+[03:05:05] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14469242 HaonJ           
+[03:05:05] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/19997289 MentallyMyMommy 
+[03:05:07] DaddyStage: !mp start 5 glhf
+[03:05:08] BanchoBot: Countdown aborted
+[03:05:08] BanchoBot: Match starts in 5 seconds
+[03:05:08] BanchoBot: Queued the match to start in 5 seconds
+[03:05:09] BanchoBot: Match starts in 4 seconds
+[03:05:10] MentallyMyMommy: gl
+[03:05:10] BanchoBot: Match starts in 3 seconds
+[03:05:11] _l_: glhf
+[03:05:12] BanchoBot: Good luck, have fun!
+[03:05:14] BanchoBot: The match has started!
+[03:09:20] BanchoBot: MentallyMyMommy finished playing (Score: 471936, PASSED).
+[03:09:21] BanchoBot: HaonJ finished playing (Score: 129428, PASSED).
+[03:09:21] BanchoBot: rikka finished playing (Score: 362032, PASSED).
+[03:09:21] BanchoBot: Lunage finished playing (Score: 275472, PASSED).
+[03:09:23] BanchoBot: _l_ finished playing (Score: 237140, PASSED).
+[03:09:23] BanchoBot: The match has finished!
+[03:09:28] DaddyStage: !mp map 3519812
+[03:09:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3519812 Jimmy Weckl - Get Happy
+[03:10:00] BanchoBot: All players are ready
+[03:10:08] DaddyStage: !mp settings
+[03:10:10] BanchoBot: Room name: PTFM: (Qualifiers) vs (B6), History: https://osu.ppy.sh/mp/105566416
+[03:10:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/3519812 Jimmy Weckl - Get Happy
+[03:10:10] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[03:10:10] BanchoBot: Active mods: NoFail
+[03:10:10] BanchoBot: Players: 5
+[03:10:10] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17521553 _l_             
+[03:10:10] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17130840 rikka           
+[03:10:10] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/3061206 Lunage          
+[03:10:10] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14469242 HaonJ           
+[03:10:10] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/19997289 MentallyMyMommy 
+[03:10:11] DaddyStage: !mp start 5 glhf
+[03:10:11] BanchoBot: Match starts in 5 seconds
+[03:10:11] BanchoBot: Queued the match to start in 5 seconds
+[03:10:12] BanchoBot: Match starts in 4 seconds
+[03:10:14] BanchoBot: Match starts in 3 seconds
+[03:10:15] MentallyMyMommy: gl
+[03:10:15] BanchoBot: Good luck, have fun!
+[03:10:16] BanchoBot: The match has started!
+[03:10:18] _l_: gl
+[03:12:27] BanchoBot: rikka finished playing (Score: 433328, PASSED).
+[03:12:27] BanchoBot: _l_ finished playing (Score: 180574, PASSED).
+[03:12:27] BanchoBot: MentallyMyMommy finished playing (Score: 247301, PASSED).
+[03:12:27] BanchoBot: Lunage finished playing (Score: 286262, PASSED).
+[03:12:28] BanchoBot: HaonJ finished playing (Score: 161007, PASSED).
+[03:12:28] BanchoBot: The match has finished!
+[03:12:33] DaddyStage: !mp map 3783209
+[03:12:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3783209 cYsmix - triangles
+[03:12:59] BanchoBot: All players are ready
+[03:13:36] DaddyStage: !mp settings
+[03:13:37] BanchoBot: Room name: PTFM: (Qualifiers) vs (B6), History: https://osu.ppy.sh/mp/105566416
+[03:13:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/3783209 cYsmix - triangles
+[03:13:37] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[03:13:37] BanchoBot: Active mods: NoFail
+[03:13:37] BanchoBot: Players: 5
+[03:13:37] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17521553 _l_             
+[03:13:37] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17130840 rikka           
+[03:13:37] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/3061206 Lunage          
+[03:13:37] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14469242 HaonJ           
+[03:13:37] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/19997289 MentallyMyMommy 
+[03:13:37] DaddyStage: !mp start 5 glhf
+[03:13:38] BanchoBot: Match starts in 5 seconds
+[03:13:38] BanchoBot: Queued the match to start in 5 seconds
+[03:13:39] BanchoBot: Match starts in 4 seconds
+[03:13:40] MentallyMyMommy: gl
+[03:13:40] BanchoBot: Match starts in 3 seconds
+[03:13:42] BanchoBot: Good luck, have fun!
+[03:13:42] _l_: glhf
+[03:13:43] BanchoBot: The match has started!
+[03:15:54] BanchoBot: Lunage finished playing (Score: 473908, PASSED).
+[03:15:54] BanchoBot: _l_ finished playing (Score: 223437, PASSED).
+[03:15:54] BanchoBot: HaonJ finished playing (Score: 252423, PASSED).
+[03:15:54] BanchoBot: rikka finished playing (Score: 351132, PASSED).
+[03:15:55] BanchoBot: MentallyMyMommy finished playing (Score: 241917, PASSED).
+[03:15:55] BanchoBot: The match has finished!
+[03:15:56] DaddyStage: !mp map 3301096
+[03:15:58] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3301096 EiK feat. Raimu - a wonderful days -rebirth-
+[03:16:01] DaddyStage: !mp mods 9
+[03:16:01] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[03:16:03] DaddyStage: !mp timer 120
+[03:16:04] BanchoBot: Countdown ends in 2 minutes
+[03:16:32] BanchoBot: All players are ready
+[03:16:34] DaddyStage: !mp settings
+[03:16:35] BanchoBot: Room name: PTFM: (Qualifiers) vs (B6), History: https://osu.ppy.sh/mp/105566416
+[03:16:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/3301096 EiK feat. Raimu - a wonderful days -rebirth-
+[03:16:35] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[03:16:35] BanchoBot: Active mods: NoFail, Hidden
+[03:16:35] BanchoBot: Players: 5
+[03:16:35] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17521553 _l_             
+[03:16:35] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/17130840 rikka           
+[03:16:35] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/3061206 Lunage          
+[03:16:35] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14469242 HaonJ           
+[03:16:35] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/19997289 MentallyMyMommy 
+[03:16:35] DaddyStage: !mp start 5 glhf
+[03:16:36] BanchoBot: Countdown aborted
+[03:16:36] BanchoBot: Match starts in 5 seconds
+[03:16:36] BanchoBot: Queued the match to start in 5 seconds
+[03:16:37] BanchoBot: Match starts in 4 seconds
+[03:16:38] BanchoBot: Match starts in 3 seconds
+[03:16:40] BanchoBot: Good luck, have fun!
+[03:16:41] _l_: glhf
+[03:16:41] BanchoBot: The match has started!
+[03:17:42] DaddyStage: !mp settings
+[03:17:48] DaddyStage: !mp settings

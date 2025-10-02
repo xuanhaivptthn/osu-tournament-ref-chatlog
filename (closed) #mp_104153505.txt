@@ -1,0 +1,698 @@
+[22:52:37] Joined #mp_104153505
+[22:52:37] BCraftMG: !mp settings
+[22:52:39] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SAT-6), History: https://osu.ppy.sh/mp/104153505
+[22:52:39] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[22:52:39] BanchoBot: Players: 0
+[22:53:06] BCraftMG: !mp set 0 3 8
+[22:53:08] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[22:53:37] BCraftMG: !mp invite #6790404
+[22:53:38] BanchoBot: Invited MyAimGenoKiller to the room
+[22:53:40] BCraftMG: !mp invite #11028972
+[22:53:43] BanchoBot: Invited -Miizu- to the room
+[22:53:44] BCraftMG: !mp invite #12579786
+[22:53:45] BanchoBot: Invited bappoes to the room
+[22:53:47] BCraftMG: !mp invite #8556929
+[22:53:47] BanchoBot: User not found
+[22:53:50] BCraftMG: !mp invite #18129836
+[22:53:52] BanchoBot: Invited Hybro1903 to the room
+[22:53:53] BCraftMG: !mp invite #19655898
+[22:53:55] BanchoBot: Invited Odracir_ to the room
+[22:54:00] BanchoBot: Hybro1903 joined in slot 1.
+[22:54:09] BanchoBot: -Miizu- joined in slot 2.
+[22:54:14] Hybro1903: hi chat
+[22:54:17] -Miizu-: vai
+[22:54:19] BCraftMG: hi
+[22:54:22] Hybro1903: :skull:
+[22:54:27] -Miizu-: thoi de lone line ss them vai phat
+[22:54:27] BanchoBot: -Miizu- left the game.
+[22:54:35] Hybro1903: :skull:
+[22:54:47] Hybro1903: ciu e dai ca
+[22:54:47] BanchoBot: Odracir_ joined in slot 2.
+[22:55:30] BCraftMG: !mp map 2430049 0
+[22:55:30] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2430049 ZAQ - Seven Doors
+[22:55:30] BanchoBot: Changed match mode to Osu
+[22:55:31] BCraftMG: !mp mods 1
+[22:55:33] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:56:04] BanchoBot: MyAimGenoKiller joined in slot 3.
+[22:56:34] Hybro1903: dai ca luminous224 k chs dc
+[22:56:43] BCraftMG: ?
+[22:56:48] Hybro1903: do ki thuat
+[22:57:03] BanchoBot: -Miizu- joined in slot 4.
+[22:57:04] BCraftMG: hmm ok
+[22:57:25] BCraftMG: !mp settings
+[22:57:27] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SAT-6), History: https://osu.ppy.sh/mp/104153505
+[22:57:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/2430049 ZAQ - Seven Doors
+[22:57:27] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:57:27] BanchoBot: Active mods: NoFail
+[22:57:27] BanchoBot: Players: 4
+[22:57:27] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/18129836 Hybro1903       
+[22:57:27] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/19655898 Odracir_        
+[22:57:27] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/6790404 MyAimGenoKiller 
+[22:57:27] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/11028972 -Miizu-         
+[22:58:55] BCraftMG: !mp invite #12579786
+[22:58:55] BanchoBot: Invited bappoes to the room
+[22:59:20] BanchoBot: bappoes joined in slot 5.
+[22:59:32] MyAimGenoKiller: hello cac pri
+[22:59:39] Hybro1903: hi :(
+[22:59:42] BCraftMG: hi
+[22:59:49] BCraftMG: uoc dc choi game
+[22:59:50] Odracir_: hi gyze
+[22:59:50] -Miizu-: di choi maimai
+[22:59:51] BCraftMG: !mp settings
+[22:59:54] bappoes: hi
+[22:59:54] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SAT-6), History: https://osu.ppy.sh/mp/104153505
+[22:59:54] BanchoBot: Beatmap: https://osu.ppy.sh/b/2430049 ZAQ - Seven Doors
+[22:59:54] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:59:54] BanchoBot: Active mods: NoFail
+[22:59:54] BanchoBot: Players: 5
+[22:59:54] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/18129836 Hybro1903       
+[22:59:54] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/19655898 Odracir_        
+[22:59:54] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/6790404 MyAimGenoKiller 
+[22:59:54] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/11028972 -Miizu-         
+[22:59:54] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/12579786 bappoes         
+[23:00:09] Hybro1903: uoc dc warm up ;-;
+[23:00:39] BCraftMG: !mp timer 120
+[23:00:40] BanchoBot: Countdown ends in 2 minutes
+[23:01:14] Hybro1903: co ai o day choi chuot nhu e k
+[23:01:19] BanchoBot: All players are ready
+[23:01:19] BCraftMG: có
+[23:01:21] BCraftMG: !mp settings
+[23:01:24] MyAimGenoKiller: golf
+[23:01:24] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SAT-6), History: https://osu.ppy.sh/mp/104153505
+[23:01:24] BanchoBot: Beatmap: https://osu.ppy.sh/b/2430049 ZAQ - Seven Doors
+[23:01:24] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:01:24] BanchoBot: Active mods: NoFail
+[23:01:24] BanchoBot: Players: 5
+[23:01:24] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18129836 Hybro1903       
+[23:01:24] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19655898 Odracir_        
+[23:01:24] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6790404 MyAimGenoKiller 
+[23:01:24] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11028972 -Miizu-         
+[23:01:24] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12579786 bappoes         
+[23:01:26] BCraftMG: !mp start 5 glhf
+[23:01:29] BanchoBot: Countdown aborted
+[23:01:29] BanchoBot: Match starts in 5 seconds
+[23:01:29] BanchoBot: Queued the match to start in 5 seconds
+[23:01:31] Hybro1903: vai
+[23:01:31] BanchoBot: Match starts in 4 seconds
+[23:01:31] BanchoBot: Match starts in 3 seconds
+[23:01:34] BanchoBot: Good luck, have fun!
+[23:01:36] bappoes: glgl
+[23:01:36] BanchoBot: The match has started!
+[23:01:36] Hybro1903: glhf
+[23:05:38] BanchoBot: MyAimGenoKiller finished playing (Score: 449621, PASSED).
+[23:05:38] BanchoBot: Odracir_ finished playing (Score: 90928, PASSED).
+[23:05:38] BanchoBot: -Miizu- finished playing (Score: 346852, PASSED).
+[23:05:40] BanchoBot: Hybro1903 finished playing (Score: 101595, PASSED).
+[23:05:40] BanchoBot: bappoes finished playing (Score: 428866, PASSED).
+[23:05:40] BanchoBot: The match has finished!
+[23:05:43] BCraftMG: !mp map 2772466 0
+[23:05:45] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2772466 m108 - * Crow Solace *
+[23:05:45] BanchoBot: Changed match mode to Osu
+[23:05:47] BCraftMG: !mp timer 120
+[23:05:49] BanchoBot: Countdown ends in 2 minutes
+[23:05:54] MyAimGenoKiller: quen mat map nay co stream =))
+[23:05:56] Odracir_: wp
+[23:05:59] Hybro1903: ;-;
+[23:06:04] Hybro1903: bố đg ở ngay sau
+[23:06:11] Hybro1903: chờ thg con tắt máy đi ngủ
+[23:06:11] Hybro1903: :(
+[23:06:13] -Miizu-: map kho qua
+[23:06:21] MyAimGenoKiller: gap stream tu nhien buff score len hang
+[23:06:23] -Miizu-: nghi game choi mimi
+[23:06:28] Hybro1903: :(
+[23:06:33] MyAimGenoKiller: same
+[23:06:40] MyAimGenoKiller: nghien moimoi qua ko con tg choi osu
+[23:06:45] BanchoBot: All players are ready
+[23:06:47] BCraftMG: !mp settings
+[23:06:47] MyAimGenoKiller: huhu
+[23:06:50] BanchoBot: Countdown ends in 1 minute
+[23:06:50] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SAT-6), History: https://osu.ppy.sh/mp/104153505
+[23:06:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/2772466 m108 - * Crow Solace *
+[23:06:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:06:50] BanchoBot: Active mods: NoFail
+[23:06:50] BanchoBot: Players: 5
+[23:06:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18129836 Hybro1903       
+[23:06:50] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19655898 Odracir_        
+[23:06:50] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6790404 MyAimGenoKiller 
+[23:06:50] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11028972 -Miizu-         
+[23:06:50] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12579786 bappoes         
+[23:06:52] BCraftMG: !mp start 5 glhf
+[23:06:54] MyAimGenoKiller: golf
+[23:06:54] BanchoBot: Countdown aborted
+[23:06:54] BanchoBot: Match starts in 5 seconds
+[23:06:54] BanchoBot: Queued the match to start in 5 seconds
+[23:06:57] BanchoBot: Match starts in 4 seconds
+[23:06:57] BanchoBot: Match starts in 3 seconds
+[23:06:59] BanchoBot: Good luck, have fun!
+[23:07:02] BanchoBot: The match has started!
+[23:09:20] BanchoBot: Hybro1903 finished playing (Score: 90404, PASSED).
+[23:09:22] BanchoBot: MyAimGenoKiller finished playing (Score: 874300, PASSED).
+[23:09:22] BanchoBot: -Miizu- finished playing (Score: 159826, PASSED).
+[23:09:25] BanchoBot: Odracir_ finished playing (Score: 101362, PASSED).
+[23:09:25] BanchoBot: bappoes finished playing (Score: 613596, PASSED).
+[23:09:25] BanchoBot: The match has finished!
+[23:09:32] MyAimGenoKiller: FFFFFFFFFFFF
+[23:09:34] -Miizu-: notelock <3
+[23:09:39] Hybro1903: :(
+[23:09:40] BCraftMG: !mp map 2593243 0
+[23:09:42] -Miizu-: notelock full map cmnr
+[23:09:44] MyAimGenoKiller: ;-;-;
+[23:09:44] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2593243 DUSTCELL - Anemone
+[23:09:44] BanchoBot: Changed match mode to Osu
+[23:09:45] BCraftMG: !mp timer 120
+[23:09:46] BanchoBot: Countdown ends in 2 minutes
+[23:09:54] -Miizu-: hnay ko phai la ngay choi oxi
+[23:09:56] MyAimGenoKiller: choke ending + rip acc
+[23:09:57] BCraftMG: welcome to no modification three
+[23:09:59] Hybro1903: dung dung
+[23:10:06] MyAimGenoKiller: hnay la ngay choi mimidc
+[23:10:08] MyAimGenoKiller: dx
+[23:10:11] MyAimGenoKiller: ;-;-;-;
+[23:10:18] MyAimGenoKiller: t vua clear dan 10 hom nay
+[23:10:20] -Miizu-: fr
+[23:10:25] MyAimGenoKiller: het suc choi quals r huhu
+[23:10:35] Hybro1903: vai
+[23:10:40] BanchoBot: All players are ready
+[23:10:40] Hybro1903: dai ca sao a
+[23:10:41] BCraftMG: !mp settings
+[23:10:42] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SAT-6), History: https://osu.ppy.sh/mp/104153505
+[23:10:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/2593243 DUSTCELL - Anemone
+[23:10:42] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:10:42] BanchoBot: Active mods: NoFail
+[23:10:42] BanchoBot: Players: 5
+[23:10:42] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18129836 Hybro1903       
+[23:10:42] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19655898 Odracir_        
+[23:10:42] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6790404 MyAimGenoKiller 
+[23:10:42] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11028972 -Miizu-         
+[23:10:42] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12579786 bappoes         
+[23:10:45] BCraftMG: !mp start 5 glhf
+[23:10:47] MyAimGenoKiller: golf
+[23:10:47] BanchoBot: Countdown ends in 1 minute
+[23:10:47] BanchoBot: Countdown aborted
+[23:10:47] BanchoBot: Match starts in 5 seconds
+[23:10:47] BanchoBot: Queued the match to start in 5 seconds
+[23:10:50] BanchoBot: Match starts in 4 seconds
+[23:10:50] BanchoBot: Match starts in 3 seconds
+[23:10:50] BanchoBot: Good luck, have fun!
+[23:10:53] BanchoBot: The match has started!
+[23:10:53] Hybro1903: gl
+[23:14:15] BanchoBot: -Miizu- finished playing (Score: 251031, PASSED).
+[23:14:15] BanchoBot: Hybro1903 finished playing (Score: 82505, PASSED).
+[23:14:15] BanchoBot: Odracir_ finished playing (Score: 41383, PASSED).
+[23:14:15] BanchoBot: bappoes finished playing (Score: 294874, PASSED).
+[23:14:15] BanchoBot: MyAimGenoKiller finished playing (Score: 449174, PASSED).
+[23:14:15] BanchoBot: The match has finished!
+[23:14:18] BCraftMG: !mp map 2975107 0
+[23:14:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2975107 PSYQUI - OYASUMI in my dream
+[23:14:20] BanchoBot: Changed match mode to Osu
+[23:14:25] MyAimGenoKiller: i popped off wtf
+[23:14:29] MyAimGenoKiller: let's fk gooo
+[23:14:43] BCraftMG: !mp timer 120
+[23:14:44] BanchoBot: Countdown ends in 2 minutes
+[23:15:13] BanchoBot: All players are ready
+[23:15:15] BCraftMG: !mp settings
+[23:15:18] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SAT-6), History: https://osu.ppy.sh/mp/104153505
+[23:15:18] BanchoBot: Beatmap: https://osu.ppy.sh/b/2975107 PSYQUI - OYASUMI in my dream
+[23:15:18] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:15:18] BanchoBot: Active mods: NoFail
+[23:15:18] BanchoBot: Players: 5
+[23:15:18] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18129836 Hybro1903       
+[23:15:18] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19655898 Odracir_        
+[23:15:18] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6790404 MyAimGenoKiller 
+[23:15:18] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11028972 -Miizu-         
+[23:15:18] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12579786 bappoes         
+[23:15:18] BCraftMG: !mp start 5 glhf
+[23:15:20] MyAimGenoKiller: golf
+[23:15:20] BanchoBot: Countdown aborted
+[23:15:20] BanchoBot: Match starts in 5 seconds
+[23:15:20] BanchoBot: Queued the match to start in 5 seconds
+[23:15:23] BanchoBot: Match starts in 4 seconds
+[23:15:23] BanchoBot: Match starts in 3 seconds
+[23:15:25] BanchoBot: Good luck, have fun!
+[23:15:27] BanchoBot: The match has started!
+[23:19:51] BanchoBot: -Miizu- finished playing (Score: 149652, PASSED).
+[23:19:51] BanchoBot: Hybro1903 finished playing (Score: 57278, PASSED).
+[23:19:51] BanchoBot: MyAimGenoKiller finished playing (Score: 212646, PASSED).
+[23:19:51] BanchoBot: Odracir_ finished playing (Score: 48152, PASSED).
+[23:19:54] BanchoBot: bappoes finished playing (Score: 208312, PASSED).
+[23:19:54] BanchoBot: The match has finished!
+[23:19:56] BCraftMG: !mp map 3682178 0
+[23:19:58] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3682178 CIEL - Mado o Akete
+[23:19:58] BanchoBot: Changed match mode to Osu
+[23:19:59] BCraftMG: !mp mods 9
+[23:20:01] Hybro1903: MAN
+[23:20:01] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[23:20:15] BCraftMG: !mp timer 120
+[23:20:15] Odracir_: NM5?
+[23:20:18] BanchoBot: Countdown ends in 2 minutes
+[23:20:22] BCraftMG: ua
+[23:20:25] Hybro1903: nm5...
+[23:20:26] BCraftMG: ua!mp map 3292033 0
+[23:20:27] BCraftMG: !mp map 3292033 0
+[23:20:28] Odracir_: wait
+[23:20:28] BCraftMG: !mp mods 1
+[23:20:30] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3292033 cosMo@BousouP feat. Hatsune Miku - Machinegun Poem Doll
+[23:20:30] BanchoBot: Changed match mode to Osu
+[23:20:30] BCraftMG: :tf:
+[23:20:32] BanchoBot: Enabled NoFail, disabled FreeMod
+[23:20:37] -Miizu-: hoi tron nha
+[23:20:40] -Miizu-: moi bat gamma luon
+[23:20:47] BCraftMG: !mp timer 120
+[23:20:49] Hybro1903: v
+[23:20:49] BanchoBot: Countdown aborted
+[23:20:49] BanchoBot: Countdown ends in 2 minutes
+[23:21:08] BanchoBot: All players are ready
+[23:21:14] BCraftMG: !mp settings
+[23:21:16] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SAT-6), History: https://osu.ppy.sh/mp/104153505
+[23:21:16] BanchoBot: Beatmap: https://osu.ppy.sh/b/3292033 cosMo@BousouP feat. Hatsune Miku - Machinegun Poem Doll
+[23:21:16] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:21:16] BanchoBot: Active mods: NoFail
+[23:21:16] BanchoBot: Players: 5
+[23:21:16] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18129836 Hybro1903       
+[23:21:16] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19655898 Odracir_        
+[23:21:16] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6790404 MyAimGenoKiller 
+[23:21:16] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11028972 -Miizu-         
+[23:21:16] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12579786 bappoes         
+[23:21:17] BCraftMG: !mp start 5 glhf
+[23:21:18] BanchoBot: Countdown aborted
+[23:21:18] BanchoBot: Match starts in 5 seconds
+[23:21:18] BanchoBot: Queued the match to start in 5 seconds
+[23:21:20] BanchoBot: Match starts in 4 seconds
+[23:21:20] BanchoBot: Match starts in 3 seconds
+[23:21:23] BanchoBot: Good luck, have fun!
+[23:21:23] MyAimGenoKiller: `golf
+[23:21:25] BanchoBot: The match has started!
+[23:23:48] BanchoBot: Hybro1903 finished playing (Score: 71328, PASSED).
+[23:23:50] BanchoBot: MyAimGenoKiller finished playing (Score: 313548, PASSED).
+[23:23:50] BanchoBot: -Miizu- finished playing (Score: 256759, PASSED).
+[23:23:50] BanchoBot: bappoes finished playing (Score: 285449, PASSED).
+[23:23:50] BanchoBot: Odracir_ finished playing (Score: 13013, PASSED).
+[23:23:50] BanchoBot: The match has finished!
+[23:23:55] BCraftMG: !mp map 3682178 0
+[23:23:57] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3682178 CIEL - Mado o Akete
+[23:23:57] BanchoBot: Changed match mode to Osu
+[23:23:58] BCraftMG: !mp mods 9
+[23:23:59] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[23:24:01] BCraftMG: !mp timer 120
+[23:24:02] BanchoBot: Countdown ends in 2 minutes
+[23:24:03] BCraftMG: hd riu
+[23:24:21] Hybro1903: hddd
+[23:24:21] Hybro1903: :(
+[23:24:26] MyAimGenoKiller: :skull: hd
+[23:24:35] -Miizu-: gamma time
+[23:24:38] Hybro1903: :skull:
+[23:24:49] BanchoBot: All players are ready
+[23:24:52] BCraftMG: !mp settings
+[23:24:54] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SAT-6), History: https://osu.ppy.sh/mp/104153505
+[23:24:54] BanchoBot: Beatmap: https://osu.ppy.sh/b/3682178 CIEL - Mado o Akete
+[23:24:55] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:24:55] BanchoBot: Active mods: NoFail, Hidden
+[23:24:55] BanchoBot: Players: 5
+[23:24:55] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18129836 Hybro1903       
+[23:24:55] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19655898 Odracir_        
+[23:24:55] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6790404 MyAimGenoKiller 
+[23:24:55] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11028972 -Miizu-         
+[23:24:55] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12579786 bappoes         
+[23:24:56] BCraftMG: !mp start 5 glhf
+[23:24:57] BanchoBot: Countdown aborted
+[23:24:57] BanchoBot: Match starts in 5 seconds
+[23:24:57] BanchoBot: Queued the match to start in 5 seconds
+[23:24:59] Hybro1903: zx
+[23:24:59] BanchoBot: Match starts in 4 seconds
+[23:24:59] MyAimGenoKiller: golf
+[23:24:59] BanchoBot: Match starts in 3 seconds
+[23:25:02] BanchoBot: Good luck, have fun!
+[23:25:04] BanchoBot: The match has started!
+[23:28:45] BanchoBot: MyAimGenoKiller finished playing (Score: 395016, PASSED).
+[23:28:45] BanchoBot: Odracir_ finished playing (Score: 82203, PASSED).
+[23:28:47] BanchoBot: Hybro1903 finished playing (Score: 128213, PASSED).
+[23:28:47] BanchoBot: -Miizu- finished playing (Score: 323321, PASSED).
+[23:28:47] BanchoBot: bappoes finished playing (Score: 372733, PASSED).
+[23:28:47] BanchoBot: The match has finished!
+[23:28:53] BCraftMG: !mp map 2674872 0
+[23:28:54] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2674872 Euchaeta - Yumemiru Yakusoku (Cut Ver.)
+[23:28:54] BanchoBot: Changed match mode to Osu
+[23:28:56] BCraftMG: !mp timer 120
+[23:28:59] BanchoBot: Countdown ends in 2 minutes
+[23:29:01] Hybro1903: bappoes wysi moment
+[23:29:04] MyAimGenoKiller: sightread gap phan nhip la + stream ia luon @@
+[23:29:09] MyAimGenoKiller: WYSI
+[23:29:21] Hybro1903: map nay chet luon
+[23:29:23] Hybro1903: :skull:
+[23:29:25] -Miizu-: ân bất lượng
+[23:29:31] MyAimGenoKiller: hd2
+[23:29:33] -Miizu-: he was forced to play hd
+[23:29:33] MyAimGenoKiller: :skull:
+[23:29:38] MyAimGenoKiller: kekw
+[23:29:49] BanchoBot: All players are ready
+[23:29:54] Hybro1903: can't read and tap either
+[23:29:54] MyAimGenoKiller: golf
+[23:29:56] BCraftMG: map nay 150k
+[23:29:57] Hybro1903: :skull:
+[23:29:58] BCraftMG: !mp settings
+[23:29:59] BanchoBot: Countdown ends in 1 minute
+[23:29:59] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SAT-6), History: https://osu.ppy.sh/mp/104153505
+[23:29:59] BanchoBot: Beatmap: https://osu.ppy.sh/b/2674872 Euchaeta - Yumemiru Yakusoku (Cut Ver.)
+[23:29:59] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:29:59] BanchoBot: Active mods: NoFail, Hidden
+[23:29:59] BanchoBot: Players: 5
+[23:29:59] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18129836 Hybro1903       
+[23:29:59] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19655898 Odracir_        
+[23:29:59] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6790404 MyAimGenoKiller 
+[23:29:59] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11028972 -Miizu-         
+[23:29:59] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12579786 bappoes         
+[23:30:00] BCraftMG: !mp start 5 glhf
+[23:30:01] BanchoBot: Countdown aborted
+[23:30:01] BanchoBot: Match starts in 5 seconds
+[23:30:01] BanchoBot: Queued the match to start in 5 seconds
+[23:30:04] BanchoBot: Match starts in 4 seconds
+[23:30:04] BanchoBot: Match starts in 3 seconds
+[23:30:06] BanchoBot: Good luck, have fun!
+[23:30:08] BanchoBot: The match has started!
+[23:32:22] BanchoBot: Hybro1903 finished playing (Score: 35553, PASSED).
+[23:32:22] BanchoBot: MyAimGenoKiller finished playing (Score: 262499, PASSED).
+[23:32:22] BanchoBot: -Miizu- finished playing (Score: 42804, PASSED).
+[23:32:22] BanchoBot: Odracir_ finished playing (Score: 31073, PASSED).
+[23:32:22] BanchoBot: bappoes finished playing (Score: 98902, PASSED).
+[23:32:22] BanchoBot: The match has finished!
+[23:32:27] MyAimGenoKiller: kekw
+[23:32:29] BCraftMG: !mp map 2572093 0
+[23:32:32] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2572093 NICO Touches the Walls - Niwaka Ame ni mo Makezu
+[23:32:32] BanchoBot: Changed match mode to Osu
+[23:32:33] BCraftMG: !mp mods 17
+[23:32:34] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[23:32:39] Hybro1903: :skull:
+[23:32:40] BCraftMG: !mp timer 120
+[23:32:41] -Miizu-: oac do phac
+[23:32:41] BanchoBot: Countdown ends in 2 minutes
+[23:32:44] Hybro1903: bad HR
+[23:32:47] -Miizu-: gai cam o hat karaoke 2 a
+[23:32:47] MyAimGenoKiller: welp time to die
+[23:32:49] Hybro1903: :<
+[23:32:54] MyAimGenoKiller: geno was forced to play hr
+[23:32:56] MyAimGenoKiller: :skull:
+[23:33:01] Hybro1903: time to die
+[23:33:03] Hybro1903: :<
+[23:33:12] BanchoBot: All players are ready
+[23:33:24] BCraftMG: !mp settings
+[23:33:27] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SAT-6), History: https://osu.ppy.sh/mp/104153505
+[23:33:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/2572093 NICO Touches the Walls - Niwaka Ame ni mo Makezu
+[23:33:27] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:33:27] BanchoBot: Active mods: NoFail, HardRock
+[23:33:27] BanchoBot: Players: 5
+[23:33:27] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18129836 Hybro1903       
+[23:33:27] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19655898 Odracir_        
+[23:33:27] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6790404 MyAimGenoKiller 
+[23:33:27] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11028972 -Miizu-         
+[23:33:27] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12579786 bappoes         
+[23:33:27] BCraftMG: !mp start 5 glhf
+[23:33:29] BanchoBot: Countdown aborted
+[23:33:29] BanchoBot: Match starts in 5 seconds
+[23:33:29] BanchoBot: Queued the match to start in 5 seconds
+[23:33:32] BanchoBot: Match starts in 4 seconds
+[23:33:32] BanchoBot: Match starts in 3 seconds
+[23:33:34] BanchoBot: Good luck, have fun!
+[23:33:34] MyAimGenoKiller: golf
+[23:33:36] BanchoBot: The match has started!
+[23:38:00] BanchoBot: bappoes finished playing (Score: 330616, PASSED).
+[23:38:00] BanchoBot: Odracir_ finished playing (Score: 20779, PASSED).
+[23:38:02] BanchoBot: MyAimGenoKiller finished playing (Score: 258175, PASSED).
+[23:38:02] BanchoBot: -Miizu- finished playing (Score: 200357, PASSED).
+[23:38:02] BanchoBot: Hybro1903 finished playing (Score: 64726, PASSED).
+[23:38:02] BanchoBot: The match has finished!
+[23:38:13] BCraftMG: !mp map 3807343 0
+[23:38:14] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3807343 Rabpit - Saika
+[23:38:14] BanchoBot: Changed match mode to Osu
+[23:38:16] Hybro1903: suyt thi co wysi moment
+[23:38:16] MyAimGenoKiller: wp
+[23:38:19] MyAimGenoKiller: :skull:
+[23:38:26] Hybro1903: :skull:
+[23:38:29] Hybro1903: e xin top 5
+[23:38:36] Odracir_: nah
+[23:38:36] -Miizu-: dm phong nong qua
+[23:38:38] Odracir_: top 5 cua toi
+[23:38:43] -Miizu-: de chinh may lanh cho no matme ti
+[23:38:46] Hybro1903: top 5 cua toiii
+[23:38:48] MyAimGenoKiller: hr momentos
+[23:38:48] BCraftMG: !mp timer 120
+[23:38:51] BanchoBot: Countdown ends in 2 minutes
+[23:38:51] BCraftMG: !mp settings
+[23:38:53] Odracir_: skill issue r
+[23:38:53] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SAT-6), History: https://osu.ppy.sh/mp/104153505
+[23:38:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/3807343 Rabpit - Saika
+[23:38:53] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:38:53] BanchoBot: Active mods: NoFail, HardRock
+[23:38:53] BanchoBot: Players: 5
+[23:38:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18129836 Hybro1903       
+[23:38:53] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19655898 Odracir_        
+[23:38:53] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/6790404 MyAimGenoKiller 
+[23:38:53] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/11028972 -Miizu-         
+[23:38:53] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/12579786 bappoes         
+[23:38:55] Hybro1903: tranh nhau top 5
+[23:38:55] Odracir_: cant aim
+[23:39:00] Hybro1903: toi k bam dc
+[23:39:02] Hybro1903: ko aim dc
+[23:39:07] Hybro1903: map nay qua kho
+[23:39:09] Hybro1903: :skull:
+[23:39:12] MyAimGenoKiller: uoc nha pri
+[23:39:14] BanchoBot: All players are ready
+[23:39:17] BCraftMG: !mp settings
+[23:39:19] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SAT-6), History: https://osu.ppy.sh/mp/104153505
+[23:39:19] BanchoBot: Beatmap: https://osu.ppy.sh/b/3807343 Rabpit - Saika
+[23:39:19] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:39:19] BanchoBot: Active mods: NoFail, HardRock
+[23:39:19] BanchoBot: Players: 5
+[23:39:19] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18129836 Hybro1903       
+[23:39:19] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19655898 Odracir_        
+[23:39:19] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6790404 MyAimGenoKiller 
+[23:39:19] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11028972 -Miizu-         
+[23:39:19] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12579786 bappoes         
+[23:39:20] BCraftMG: !mp start 5 glhf
+[23:39:22] BanchoBot: Countdown aborted
+[23:39:22] BanchoBot: Match starts in 5 seconds
+[23:39:22] BanchoBot: Queued the match to start in 5 seconds
+[23:39:24] MyAimGenoKiller: golf
+[23:39:24] BanchoBot: Match starts in 4 seconds
+[23:39:24] Hybro1903: chi biet uoc
+[23:39:24] BanchoBot: Match starts in 3 seconds
+[23:39:26] BanchoBot: Good luck, have fun!
+[23:39:29] BanchoBot: The match has started!
+[23:41:31] BanchoBot: MyAimGenoKiller finished playing (Score: 213409, PASSED).
+[23:41:31] BanchoBot: bappoes finished playing (Score: 152879, PASSED).
+[23:41:33] BanchoBot: -Miizu- finished playing (Score: 183302, PASSED).
+[23:41:33] BanchoBot: Hybro1903 finished playing (Score: 87557, PASSED).
+[23:41:33] BanchoBot: Odracir_ finished playing (Score: 33664, PASSED).
+[23:41:33] BanchoBot: The match has finished!
+[23:41:33] MyAimGenoKiller: dm catto
+[23:41:36] BCraftMG: !mp map 563370 0
+[23:41:38] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/563370 yanaginagi - landscape
+[23:41:38] BanchoBot: Changed match mode to Osu
+[23:41:39] BCraftMG: !mp mods 65
+[23:41:40] Hybro1903: vai
+[23:41:40] MyAimGenoKiller: nhay len ban t @@@
+[23:41:40] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[23:41:43] BCraftMG: MEOW
+[23:41:50] Hybro1903: luc train map nay thi toan 16k
+[23:41:57] Hybro1903: vai nha dai ca geno co meo
+[23:41:57] Hybro1903: uoc
+[23:42:10] MyAimGenoKiller: 3 con @@@
+[23:42:21] Hybro1903: cho e 1 con di dai ca
+[23:42:29] Hybro1903: e nhan dia chi nha qua discord nhe
+[23:42:37] BCraftMG: !mp timer 120
+[23:42:38] BanchoBot: Countdown ends in 2 minutes
+[23:42:41] MyAimGenoKiller: gvs
+[23:42:50] MyAimGenoKiller: ting ting momo trc da nhe
+[23:42:55] Hybro1903: vai
+[23:43:02] Hybro1903: k co momo :<
+[23:43:02] MyAimGenoKiller: =))
+[23:43:16] Hybro1903: e co 5 nghin dong nay
+[23:43:26] Hybro1903: nhieu lam r day dai ca
+[23:43:26] Hybro1903: ban di
+[23:43:41] BanchoBot: Countdown ends in 1 minute
+[23:43:45] MyAimGenoKiller: tang free con vua nhay len ban t ;-;
+[23:43:50] -Miizu-: 5k moi 1 xu dg che nha
+[23:43:52] Hybro1903: oke dai ca
+[23:44:07] Hybro1903: tang e con day cx dc
+[23:44:09] BanchoBot: Countdown ends in 30 seconds
+[23:44:12] Hybro1903: e cho no het treo luon
+[23:44:19] Hybro1903: chac chan la k chat chan dau dai ca
+[23:44:21] MyAimGenoKiller: ma h long meo vao mat tao @@
+[23:44:28] MyAimGenoKiller: nuoi meo kho vai
+[23:44:28] BanchoBot: Countdown ends in 10 seconds
+[23:44:31] BCraftMG: !mp settings
+[23:44:33] Hybro1903: OwO
+[23:44:33] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SAT-6), History: https://osu.ppy.sh/mp/104153505
+[23:44:33] BanchoBot: Beatmap: https://osu.ppy.sh/b/563370 yanaginagi - landscape
+[23:44:33] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:44:33] BanchoBot: Active mods: NoFail, DoubleTime
+[23:44:33] BanchoBot: Players: 5
+[23:44:33] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18129836 Hybro1903       
+[23:44:33] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/19655898 Odracir_        
+[23:44:33] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6790404 MyAimGenoKiller 
+[23:44:33] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11028972 -Miizu-         
+[23:44:33] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12579786 bappoes         
+[23:44:36] BanchoBot: Countdown ends in 5 seconds
+[23:44:36] BanchoBot: Countdown ends in 4 seconds
+[23:44:36] BanchoBot: Countdown ends in 3 seconds
+[23:44:36] Hybro1903: de e nuoi cho dai ca
+[23:44:38] BanchoBot: Countdown ends in 2 seconds
+[23:44:38] BanchoBot: Countdown ends in 1 second
+[23:44:40] BanchoBot: Countdown finished
+[23:44:42] BCraftMG: hello Odracir_
+[23:44:52] Odracir_: ok
+[23:45:00] BanchoBot: All players are ready
+[23:45:03] BCraftMG: !mp settings
+[23:45:04] MyAimGenoKiller: golf
+[23:45:04] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SAT-6), History: https://osu.ppy.sh/mp/104153505
+[23:45:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/563370 yanaginagi - landscape
+[23:45:04] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:45:04] BanchoBot: Active mods: NoFail, DoubleTime
+[23:45:04] BanchoBot: Players: 5
+[23:45:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18129836 Hybro1903       
+[23:45:04] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19655898 Odracir_        
+[23:45:04] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6790404 MyAimGenoKiller 
+[23:45:04] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11028972 -Miizu-         
+[23:45:04] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12579786 bappoes         
+[23:45:06] BCraftMG: !mp start 5 glhf
+[23:45:07] Hybro1903: uhhh
+[23:45:07] Odracir_: forgor
+[23:45:07] BanchoBot: Match starts in 5 seconds
+[23:45:07] BanchoBot: Queued the match to start in 5 seconds
+[23:45:09] BanchoBot: Match starts in 4 seconds
+[23:45:09] Hybro1903: gl
+[23:45:09] BanchoBot: Match starts in 3 seconds
+[23:45:12] BanchoBot: Good luck, have fun!
+[23:45:14] BanchoBot: The match has started!
+[23:48:00] BanchoBot: MyAimGenoKiller finished playing (Score: 621907, PASSED).
+[23:48:00] BanchoBot: Hybro1903 finished playing (Score: 115383, PASSED).
+[23:48:03] BanchoBot: bappoes finished playing (Score: 326098, PASSED).
+[23:48:03] BanchoBot: -Miizu- finished playing (Score: 585137, PASSED).
+[23:48:03] BanchoBot: Odracir_ finished playing (Score: 20664, PASSED).
+[23:48:03] BanchoBot: The match has finished!
+[23:48:12] MyAimGenoKiller: ouch my hand
+[23:48:13] BCraftMG: !mp map 2613166 0
+[23:48:15] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2613166 Lime - Noblesse Gloria
+[23:48:15] BanchoBot: Changed match mode to Osu
+[23:48:16] BCraftMG: !mp timer 120
+[23:48:17] -Miizu-: vai cal sightread
+[23:48:17] BanchoBot: Countdown ends in 2 minutes
+[23:48:22] -Miizu-: he was forced to play dt
+[23:48:25] MyAimGenoKiller: forearm broken
+[23:48:25] Hybro1903: vai
+[23:48:25] MyAimGenoKiller: huhu
+[23:48:32] -Miizu-: doi ti choi heardle
+[23:48:32] MyAimGenoKiller: neu tap dt1 thi fc dc r huhu
+[23:48:39] MyAimGenoKiller: ban choi mimi bilu
+[23:48:41] MyAimGenoKiller: bili
+[23:48:44] Hybro1903: vai
+[23:48:51] Hybro1903: dai ca chi e voi :skull:
+[23:48:57] Hybro1903: cho e con meo luon dai ca
+[23:49:10] MyAimGenoKiller: choi mimi nhiu` len trinh oxi luon riel no face
+[23:49:19] BanchoBot: Countdown ends in 1 minute
+[23:49:22] Hybro1903: vai
+[23:49:37] -Miizu-: troi oi 2p nhanh v
+[23:49:39] Hybro1903: len 5 so luon
+[23:49:44] MyAimGenoKiller: tang periphiral vision +100
+[23:49:49] BanchoBot: Countdown ends in 30 seconds
+[23:50:06] MyAimGenoKiller: pattern reading +50
+[23:50:06] Hybro1903: ay ;-;
+[23:50:08] BanchoBot: Countdown ends in 10 seconds
+[23:50:08] Hybro1903: vua be tay
+[23:50:11] Hybro1903: happy luon r
+[23:50:11] BCraftMG: !mp settings
+[23:50:13] BanchoBot: Countdown ends in 5 seconds
+[23:50:13] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SAT-6), History: https://osu.ppy.sh/mp/104153505
+[23:50:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/2613166 Lime - Noblesse Gloria
+[23:50:13] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:50:13] BanchoBot: Active mods: NoFail, DoubleTime
+[23:50:13] BanchoBot: Players: 5
+[23:50:13] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18129836 Hybro1903       
+[23:50:13] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19655898 Odracir_        
+[23:50:13] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6790404 MyAimGenoKiller 
+[23:50:13] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/11028972 -Miizu-         
+[23:50:13] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12579786 bappoes         
+[23:50:15] BanchoBot: Countdown ends in 4 seconds
+[23:50:15] Hybro1903: bay ngon cam chuot rrrrr
+[23:50:15] Hybro1903: ;-;
+[23:50:15] BanchoBot: Countdown ends in 3 seconds
+[23:50:15] BanchoBot: Countdown ends in 2 seconds
+[23:50:17] BanchoBot: Countdown ends in 1 second
+[23:50:17] BanchoBot: Countdown finished
+[23:50:30] Hybro1903: nuoc
+[23:50:30] BanchoBot: All players are ready
+[23:50:31] BCraftMG: :3c
+[23:50:34] BCraftMG: !mp settings
+[23:50:35] -Miizu-: ok get go
+[23:50:37] MyAimGenoKiller: golf last map
+[23:50:37] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SAT-6), History: https://osu.ppy.sh/mp/104153505
+[23:50:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/2613166 Lime - Noblesse Gloria
+[23:50:37] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:50:37] BanchoBot: Active mods: NoFail, DoubleTime
+[23:50:37] BanchoBot: Players: 5
+[23:50:37] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18129836 Hybro1903       
+[23:50:37] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19655898 Odracir_        
+[23:50:37] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/6790404 MyAimGenoKiller 
+[23:50:37] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11028972 -Miizu-         
+[23:50:37] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/12579786 bappoes         
+[23:50:42] -Miizu-: globle hnay ncct
+[23:50:44] MyAimGenoKiller: kekw
+[23:50:46] BCraftMG: !mp start 5 glhf
+[23:50:49] Hybro1903: last map
+[23:50:50] BanchoBot: Match starts in 5 seconds
+[23:50:50] BanchoBot: Queued the match to start in 5 seconds
+[23:50:52] BanchoBot: Match starts in 4 seconds
+[23:50:52] BanchoBot: Match starts in 3 seconds
+[23:50:52] Hybro1903: xong dai ca cho e con meo nhe
+[23:50:54] BanchoBot: Good luck, have fun!
+[23:50:56] BanchoBot: The match has started!
+[23:51:02] Odracir_: slip zzz
+[23:53:40] BanchoBot: -Miizu- finished playing (Score: 253045, PASSED).
+[23:53:40] BanchoBot: MyAimGenoKiller finished playing (Score: 413379, PASSED).
+[23:53:40] BanchoBot: Odracir_ finished playing (Score: 8836, PASSED).
+[23:53:42] BanchoBot: bappoes finished playing (Score: 137233, PASSED).
+[23:53:42] BanchoBot: Hybro1903 finished playing (Score: 43408, PASSED).
+[23:53:42] BanchoBot: The match has finished!
+[23:53:47] Hybro1903: vai
+[23:53:52] MyAimGenoKiller: happy cmn tay luon
+[23:53:56] Odracir_: ggwp gudnight gyze
+[23:54:01] -Miizu-: dt2 <3
+[23:54:04] MyAimGenoKiller: map hut het stam
+[23:54:05] BCraftMG: goodnight
+[23:54:06] Hybro1903: bye ong
+[23:54:08] -Miizu-: quit game choi moimoi
+[23:54:08] MyAimGenoKiller: tks for ref
+[23:54:08] BanchoBot: -Miizu- left the game.
+[23:54:11] MyAimGenoKiller: <3
+[23:54:11] MyAimGenoKiller: gn
+[23:54:13] BanchoBot: Odracir_ left the game.
+[23:54:13] Hybro1903: DAI CA
+[23:54:13] MyAimGenoKiller: <3
+[23:54:16] bappoes: gn
+[23:54:16] bappoes: o/
+[23:54:16] Hybro1903: CHO E CON MEO
+[23:54:18] BanchoBot: bappoes left the game.
+[23:54:28] BanchoBot: Hybro1903 moved to slot 2
+[23:54:30] MyAimGenoKiller: u can hab my push shi
+[23:54:34] MyAimGenoKiller: ;)
+[23:54:35] BCraftMG: watafak
+[23:54:39] BCraftMG: !mp settings
+[23:54:39] Hybro1903: huh
+[23:54:39] MyAimGenoKiller: i go slep
+[23:54:39] BanchoBot: MyAimGenoKiller left the game.
+[23:54:39] BanchoBot: Room name: VNOC4: (Qualifiers) vs (SAT-6), History: https://osu.ppy.sh/mp/104153505
+[23:54:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/2613166 Lime - Noblesse Gloria
+[23:54:39] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:54:39] BanchoBot: Active mods: NoFail, DoubleTime
+[23:54:39] BanchoBot: Players: 1
+[23:54:39] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/18129836 Hybro1903       
+[23:54:51] Hybro1903: bye cac dai ca
+[23:55:01] BCraftMG: o/
+[23:55:07] Hybro1903: e xin cai match history dc k daica
+[23:55:12] Hybro1903: co ng e can gui cho
+[23:55:26] BanchoBot: Hybro1903 moved to slot 1
+[23:55:28] BCraftMG: https://osu.ppy.sh/community/matches/104153505
+[23:55:41] Hybro1903: cam on dai ca
+[23:55:51] Hybro1903: chuc dai ca ngu ngon
+[23:55:53] BanchoBot: Hybro1903 left the game.
+[23:55:55] BCraftMG: !mp close
+[23:55:57] BanchoBot: Closed the match

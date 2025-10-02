@@ -1,0 +1,834 @@
+[00:53:09] Joined #mp_109493329
+[00:53:09] BCraftMG: !mp settings
+[00:53:10] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q10), History: https://osu.ppy.sh/mp/109493329
+[00:53:10] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[00:53:10] BanchoBot: Players: 0
+[00:53:28] BCraftMG: !mp set 0 3 16
+[00:53:29] BanchoBot: Changed match settings to 16 slots, HeadToHead, ScoreV2
+[00:54:29] BCraftMG: !mp invite #15898993
+[00:54:30] BanchoBot: Invited AmineWallah to the room
+[00:54:32] BCraftMG: !mp invite #8552735
+[00:54:33] BanchoBot: Invited Aqua Minato to the room
+[00:54:34] BCraftMG: !mp invite #13560194
+[00:54:34] BanchoBot: Invited CharlioM9 to the room
+[00:54:36] BCraftMG: !mp invite #13963691
+[00:54:36] BanchoBot: Invited Drakkles to the room
+[00:54:38] BCraftMG: !mp invite #18173899
+[00:54:38] BanchoBot: AmineWallah joined in slot 1.
+[00:54:38] BanchoBot: Invited FatChicken420 to the room
+[00:54:42] BCraftMG: !mp invite #12675978
+[00:54:42] BanchoBot: Invited Fernando Alonso to the room
+[00:54:43] BanchoBot: FatChicken420 joined in slot 2.
+[00:54:45] BCraftMG: !mp invite #2282145
+[00:54:45] BanchoBot: Invited Jiuchu to the room
+[00:54:47] BCraftMG: !mp invite #14951633
+[00:54:47] BanchoBot: Invited LouisD to the room
+[00:54:49] BCraftMG: !mp invite #17467899
+[00:54:50] BanchoBot: Invited Qumania to the room
+[00:54:54] BCraftMG: !mp invite #11189164
+[00:54:55] BanchoBot: Invited Ryshult to the room
+[00:54:58] AmineWallah: tnaket
+[00:55:09] FatChicken420: ya rbk tnaaaaket
+[00:55:23] BanchoBot: LouisD joined in slot 3.
+[00:55:24] BanchoBot: Ryshult joined in slot 4.
+[00:55:25] BanchoBot: Qumania joined in slot 5.
+[00:55:26] BanchoBot: Drakkles joined in slot 6.
+[00:55:31] LouisD: salut la team
+[00:55:35] AmineWallah: Yo
+[00:55:43] Qumania: Salut
+[00:55:53] BCraftMG: !mp map 4142536 0
+[00:55:54] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4142536 Hoshimachi Suisei - Newton
+[00:55:54] BanchoBot: Changed match mode to Osu
+[00:55:54] BCraftMG: !mp mods 1
+[00:55:55] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:56:16] BanchoBot: Drakkles left the game.
+[00:56:21] BanchoBot: CharlioM9 joined in slot 6.
+[00:56:25] CharlioM9: o/
+[00:56:39] BanchoBot: Drakkles joined in slot 7.
+[00:56:52] BanchoBot: Fernando Alonso joined in slot 8.
+[00:57:00] Fernando_Alonso: hello
+[00:57:04] FatChicken420: wlad l7ouma
+[00:57:20] CharlioM9: ª
+[00:57:22] AmineWallah: mo7 wld carti
+[00:57:27] BCraftMG: !mp settings
+[00:57:29] Fernando_Alonso: !where Fernando Alonso
+[00:57:29] BanchoBot: Fernando Alonso is in Toledo, Spain
+[00:57:29] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q10), History: https://osu.ppy.sh/mp/109493329
+[00:57:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/4142536 Hoshimachi Suisei - Newton
+[00:57:29] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:57:29] BanchoBot: Active mods: NoFail
+[00:57:29] BanchoBot: Players: 8
+[00:57:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15898993 AmineWallah     
+[00:57:29] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/18173899 FatChicken420   
+[00:57:29] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/14951633 LouisD          
+[00:57:29] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/11189164 Ryshult         
+[00:57:29] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/17467899 Qumania         
+[00:57:29] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/13560194 CharlioM9       
+[00:57:29] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/13963691 Drakkles        
+[00:57:29] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/12675978 Fernando Alonso 
+[00:57:38] CharlioM9: lol
+[00:57:55] AmineWallah: !where AmineWallah
+[00:57:55] BanchoBot: AmineWallah is in Algeria
+[00:57:55] Fernando_Alonso: Toledo xD
+[00:57:55] AmineWallah: wtf doxxed
+[00:57:55] Fernando_Alonso: nah
+[00:57:55] FatChicken420: joever
+[00:58:15] Ryshult: !where algeria
+[00:58:15] BanchoBot: The user is currently not online.
+[00:58:15] BanchoBot: Jiuchu joined in slot 9.
+[00:58:15] FatChicken420: !where mo7 lmacon
+[00:58:15] BanchoBot: The user is currently not online.
+[00:58:15] AmineWallah: bidover
+[00:58:27] Jiuchu: gm
+[00:58:27] AmineWallah: in my pants
+[00:58:34] AmineWallah: gm
+[00:58:44] BCraftMG: !mp settings
+[00:58:45] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q10), History: https://osu.ppy.sh/mp/109493329
+[00:58:45] BanchoBot: Beatmap: https://osu.ppy.sh/b/4142536 Hoshimachi Suisei - Newton
+[00:58:45] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:58:45] BanchoBot: Active mods: NoFail
+[00:58:45] BanchoBot: Players: 9
+[00:58:45] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15898993 AmineWallah     
+[00:58:45] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18173899 FatChicken420   
+[00:58:45] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14951633 LouisD          
+[00:58:45] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11189164 Ryshult         
+[00:58:45] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/17467899 Qumania         
+[00:58:45] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/13560194 CharlioM9       
+[00:58:45] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/13963691 Drakkles        
+[00:58:45] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/12675978 Fernando Alonso 
+[00:58:45] BanchoBot: Slot 9  Not Ready https://osu.ppy.sh/u/2282145 Jiuchu          
+[00:58:51] BCraftMG: we are missing 1 player
+[00:59:01] AmineWallah: dam
+[00:59:10] Fernando_Alonso: D:
+[00:59:34] FatChicken420: rebi m3ana
+[00:59:38] BanchoBot: All players are ready
+[00:59:39] AmineWallah: real
+[00:59:53] Fernando_Alonso: so true
+[00:59:53] Drakkles: gl!
+[00:59:53] AmineWallah: glhf
+[01:00:09] LouisD: golfito
+[01:00:09] AmineWallah: same
+[01:00:09] FatChicken420: balls
+[01:00:09] BanchoBot: Aqua Minato joined in slot 10.
+[01:00:09] Fernando_Alonso: Insha'Allah
+[01:00:14] AmineWallah: mashallah
+[01:00:15] BanchoBot: All players are ready
+[01:00:16] BCraftMG: hey
+[01:00:20] BCraftMG: !mp settings
+[01:00:22] FatChicken420: bismillah
+[01:00:22] AmineWallah: ye
+[01:00:30] Aqua_Minato: hello
+[01:00:32] BCraftMG: !mp settings
+[01:00:32] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q10), History: https://osu.ppy.sh/mp/109493329
+[01:00:32] BanchoBot: Beatmap: https://osu.ppy.sh/b/4142536 Hoshimachi Suisei - Newton
+[01:00:32] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:00:32] BanchoBot: Active mods: NoFail
+[01:00:32] BanchoBot: Players: 10
+[01:00:32] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15898993 AmineWallah     
+[01:00:32] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18173899 FatChicken420   
+[01:00:32] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14951633 LouisD          
+[01:00:32] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11189164 Ryshult         
+[01:00:32] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/17467899 Qumania         
+[01:00:32] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/13560194 CharlioM9       
+[01:00:32] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/13963691 Drakkles        
+[01:00:32] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/12675978 Fernando Alonso 
+[01:00:32] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/2282145 Jiuchu          
+[01:00:32] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/8552735 Aqua Minato     
+[01:00:36] BCraftMG: !mp start 5 glhf
+[01:00:37] LouisD: bismillah au nom d'allah
+[01:00:37] BanchoBot: Match starts in 5 seconds
+[01:00:37] BanchoBot: Queued the match to start in 5 seconds
+[01:00:38] BanchoBot: Match starts in 4 seconds
+[01:00:39] Fernando_Alonso: vtubers nm1
+[01:00:39] BanchoBot: Match starts in 3 seconds
+[01:00:40] BanchoBot: Good luck, have fun!
+[01:00:43] BanchoBot: The match has started!
+[01:04:26] BanchoBot: Ryshult finished playing (Score: 565296, PASSED).
+[01:04:26] BanchoBot: Qumania finished playing (Score: 572278, PASSED).
+[01:04:27] BanchoBot: AmineWallah finished playing (Score: 319508, PASSED).
+[01:04:27] BanchoBot: Jiuchu finished playing (Score: 121640, PASSED).
+[01:04:27] BanchoBot: CharlioM9 finished playing (Score: 760628, PASSED).
+[01:04:28] BanchoBot: Aqua Minato finished playing (Score: 328513, PASSED).
+[01:04:28] BanchoBot: FatChicken420 finished playing (Score: 344419, PASSED).
+[01:04:29] BanchoBot: Drakkles finished playing (Score: 648763, PASSED).
+[01:04:30] BanchoBot: Fernando Alonso finished playing (Score: 467973, PASSED).
+[01:04:30] BanchoBot: LouisD finished playing (Score: 380288, PASSED).
+[01:04:30] BanchoBot: The match has finished!
+[01:04:33] BCraftMG: !mp map 4187144 0
+[01:04:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4187144 Raimukun - Nyarlathotep's Dreamland
+[01:04:33] BanchoBot: Changed match mode to Osu
+[01:04:34] BCraftMG: !mp timer 120
+[01:04:35] BanchoBot: Countdown ends in 2 minutes
+[01:04:38] BCraftMG: !mp lock
+[01:04:39] BanchoBot: Locked the match
+[01:04:42] CharlioM9: ª
+[01:04:55] FatChicken420: AYAYA
+[01:05:35] BanchoBot: Countdown ends in 1 minute
+[01:06:05] BanchoBot: Countdown ends in 30 seconds
+[01:06:17] AmineWallah: tnaket
+[01:06:19] AmineWallah: ya zebi
+[01:06:21] LouisD: c quan konjou
+[01:06:21] Jiuchu: Aqua_Minato:
+[01:06:26] BanchoBot: Countdown ends in 10 seconds
+[01:06:26] BanchoBot: All players are ready
+[01:06:29] Drakkles: gl
+[01:06:30] FatChicken420: khawti bla39el
+[01:06:30] BanchoBot: Countdown ends in 5 seconds
+[01:06:31] BCraftMG: !mp settings
+[01:06:31] BanchoBot: Countdown ends in 4 seconds
+[01:06:31] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q10), History: https://osu.ppy.sh/mp/109493329
+[01:06:31] BanchoBot: Beatmap: https://osu.ppy.sh/b/4187144 Raimukun - Nyarlathotep's Dreamland
+[01:06:31] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:06:31] BanchoBot: Active mods: NoFail
+[01:06:31] BanchoBot: Players: 10
+[01:06:31] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15898993 AmineWallah     
+[01:06:31] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18173899 FatChicken420   
+[01:06:31] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14951633 LouisD          
+[01:06:31] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11189164 Ryshult         
+[01:06:31] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/17467899 Qumania         
+[01:06:31] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/13560194 CharlioM9       
+[01:06:31] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/13963691 Drakkles        
+[01:06:31] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/12675978 Fernando Alonso 
+[01:06:31] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/2282145 Jiuchu          
+[01:06:31] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/8552735 Aqua Minato     
+[01:06:32] BanchoBot: Countdown ends in 3 seconds
+[01:06:33] BCraftMG: !mp start 5 glhf
+[01:06:33] BanchoBot: Countdown ends in 2 seconds
+[01:06:33] BanchoBot: Countdown aborted
+[01:06:33] BanchoBot: Match starts in 5 seconds
+[01:06:33] BanchoBot: Queued the match to start in 5 seconds
+[01:06:35] BanchoBot: Match starts in 4 seconds
+[01:06:35] BanchoBot: Match starts in 3 seconds
+[01:06:36] CharlioM9: glhd
+[01:06:36] BanchoBot: Good luck, have fun!
+[01:06:38] Aqua_Minato: glhf
+[01:06:38] BanchoBot: The match has started!
+[01:06:43] CharlioM9: ª
+[01:09:12] BanchoBot: LouisD finished playing (Score: 31100, PASSED).
+[01:09:13] BanchoBot: FatChicken420 finished playing (Score: 295539, PASSED).
+[01:09:13] BanchoBot: Aqua Minato finished playing (Score: 430934, PASSED).
+[01:09:13] BanchoBot: Jiuchu finished playing (Score: 40902, PASSED).
+[01:09:13] BanchoBot: Drakkles finished playing (Score: 248067, PASSED).
+[01:09:13] BanchoBot: CharlioM9 finished playing (Score: 459057, PASSED).
+[01:09:13] BanchoBot: Qumania finished playing (Score: 621583, PASSED).
+[01:09:13] BanchoBot: Ryshult finished playing (Score: 236031, PASSED).
+[01:09:13] BanchoBot: Fernando Alonso finished playing (Score: 517263, PASSED).
+[01:09:13] BanchoBot: AmineWallah finished playing (Score: 204997, PASSED).
+[01:09:13] BanchoBot: The match has finished!
+[01:09:16] BCraftMG: !mp map 4068544 0
+[01:09:16] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4068544 hitorie - NONSENSE
+[01:09:16] BanchoBot: Changed match mode to Osu
+[01:09:17] BCraftMG: !mp timer 120
+[01:09:18] BanchoBot: Countdown ends in 2 minutes
+[01:09:28] FatChicken420: joever
+[01:09:43] AmineWallah: joever
+[01:10:19] BanchoBot: Countdown ends in 1 minute
+[01:10:19] BanchoBot: All players are ready
+[01:10:22] BCraftMG: !mp settings
+[01:10:23] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q10), History: https://osu.ppy.sh/mp/109493329
+[01:10:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/4068544 hitorie - NONSENSE
+[01:10:23] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:10:23] BanchoBot: Active mods: NoFail
+[01:10:23] BanchoBot: Players: 10
+[01:10:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15898993 AmineWallah     
+[01:10:23] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18173899 FatChicken420   
+[01:10:23] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14951633 LouisD          
+[01:10:23] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11189164 Ryshult         
+[01:10:23] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/17467899 Qumania         
+[01:10:23] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/13560194 CharlioM9       
+[01:10:23] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/13963691 Drakkles        
+[01:10:23] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/12675978 Fernando Alonso 
+[01:10:23] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/2282145 Jiuchu          
+[01:10:23] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/8552735 Aqua Minato     
+[01:10:24] BCraftMG: !mp start 5 glhf
+[01:10:25] BanchoBot: Countdown aborted
+[01:10:25] BanchoBot: Match starts in 5 seconds
+[01:10:25] BanchoBot: Queued the match to start in 5 seconds
+[01:10:26] BanchoBot: Match starts in 4 seconds
+[01:10:28] BanchoBot: Match starts in 3 seconds
+[01:10:28] BanchoBot: Good luck, have fun!
+[01:10:30] BanchoBot: The match has started!
+[01:10:32] FatChicken420: zeze
+[01:14:43] BanchoBot: CharlioM9 finished playing (Score: 303298, PASSED).
+[01:14:43] BanchoBot: Aqua Minato finished playing (Score: 109734, PASSED).
+[01:14:43] BanchoBot: Qumania finished playing (Score: 748723, PASSED).
+[01:14:43] BanchoBot: Jiuchu finished playing (Score: 44971, PASSED).
+[01:14:43] BanchoBot: Drakkles finished playing (Score: 426694, PASSED).
+[01:14:43] BanchoBot: LouisD finished playing (Score: 166146, PASSED).
+[01:14:43] BanchoBot: FatChicken420 finished playing (Score: 171348, PASSED).
+[01:14:46] BanchoBot: Ryshult finished playing (Score: 637282, PASSED).
+[01:14:47] BanchoBot: Fernando Alonso finished playing (Score: 247322, PASSED).
+[01:14:47] BanchoBot: AmineWallah finished playing (Score: 174923, PASSED).
+[01:14:47] BanchoBot: The match has finished!
+[01:14:53] BCraftMG: !mp map 3535254 0
+[01:14:53] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3535254 kors k vs Yooh - 2 Beasts Unchained
+[01:14:53] BanchoBot: Changed match mode to Osu
+[01:15:07] BCraftMG: !mp timer 120
+[01:15:07] BanchoBot: Countdown ends in 2 minutes
+[01:16:08] BanchoBot: Countdown ends in 1 minute
+[01:16:31] Jiuchu: AmineWallah:
+[01:16:37] AmineWallah: yes
+[01:16:37] BanchoBot: Countdown ends in 30 seconds
+[01:16:47] Jiuchu: frérot pitié
+[01:16:48] BanchoBot: All players are ready
+[01:16:48] LouisD: ready
+[01:16:51] BCraftMG: !mp settings
+[01:16:52] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q10), History: https://osu.ppy.sh/mp/109493329
+[01:16:52] BanchoBot: Beatmap: https://osu.ppy.sh/b/3535254 kors k vs Yooh - 2 Beasts Unchained
+[01:16:52] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:16:52] BanchoBot: Active mods: NoFail
+[01:16:52] BanchoBot: Players: 10
+[01:16:52] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15898993 AmineWallah     
+[01:16:52] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18173899 FatChicken420   
+[01:16:52] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14951633 LouisD          
+[01:16:52] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11189164 Ryshult         
+[01:16:52] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/17467899 Qumania         
+[01:16:52] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/13560194 CharlioM9       
+[01:16:52] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/13963691 Drakkles        
+[01:16:52] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/12675978 Fernando Alonso 
+[01:16:52] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/2282145 Jiuchu          
+[01:16:52] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/8552735 Aqua Minato     
+[01:16:52] AmineWallah: ptn g oublié
+[01:16:54] BCraftMG: !mp start 5 glhf
+[01:16:54] BanchoBot: Countdown aborted
+[01:16:54] BanchoBot: Match starts in 5 seconds
+[01:16:54] BanchoBot: Queued the match to start in 5 seconds
+[01:16:55] BanchoBot: Match starts in 4 seconds
+[01:16:56] BanchoBot: Match starts in 3 seconds
+[01:16:57] FatChicken420: he forgor
+[01:16:57] Aqua_Minato: glhf
+[01:16:57] BanchoBot: Good luck, have fun!
+[01:17:00] BanchoBot: The match has started!
+[01:19:03] BanchoBot: Ryshult finished playing (Score: 147948, PASSED).
+[01:19:03] BanchoBot: Drakkles finished playing (Score: 669180, PASSED).
+[01:19:03] BanchoBot: LouisD finished playing (Score: 79109, PASSED).
+[01:19:04] BanchoBot: AmineWallah finished playing (Score: 170801, PASSED).
+[01:19:04] BanchoBot: Aqua Minato finished playing (Score: 257362, PASSED).
+[01:19:04] BanchoBot: Fernando Alonso finished playing (Score: 214305, PASSED).
+[01:19:04] BanchoBot: CharlioM9 finished playing (Score: 254924, PASSED).
+[01:19:04] BanchoBot: Jiuchu finished playing (Score: 37380, PASSED).
+[01:19:04] BanchoBot: Qumania finished playing (Score: 529636, PASSED).
+[01:19:04] BanchoBot: FatChicken420 finished playing (Score: 165186, PASSED).
+[01:19:04] BanchoBot: The match has finished!
+[01:19:10] BCraftMG: !mp map 3183305 0
+[01:19:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3183305 tarolabo - eth ken
+[01:19:12] BanchoBot: Changed match mode to Osu
+[01:19:14] BCraftMG: !mp timer 120
+[01:19:15] BanchoBot: Countdown ends in 2 minutes
+[01:19:24] FatChicken420: NEKTHA
+[01:20:14] BanchoBot: All players are ready
+[01:20:16] BanchoBot: Countdown ends in 1 minute
+[01:20:19] BCraftMG: !mp settings
+[01:20:19] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q10), History: https://osu.ppy.sh/mp/109493329
+[01:20:19] BanchoBot: Beatmap: https://osu.ppy.sh/b/3183305 tarolabo - eth ken
+[01:20:19] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:20:19] BanchoBot: Active mods: NoFail
+[01:20:19] BanchoBot: Players: 10
+[01:20:19] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15898993 AmineWallah     
+[01:20:19] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18173899 FatChicken420   
+[01:20:19] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14951633 LouisD          
+[01:20:19] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11189164 Ryshult         
+[01:20:19] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/17467899 Qumania         
+[01:20:19] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/13560194 CharlioM9       
+[01:20:19] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/13963691 Drakkles        
+[01:20:19] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/12675978 Fernando Alonso 
+[01:20:19] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/2282145 Jiuchu          
+[01:20:19] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/8552735 Aqua Minato     
+[01:20:20] Aqua_Minato: glhf
+[01:20:22] BCraftMG: !mp start 5 glhf
+[01:20:22] AmineWallah: NIK
+[01:20:23] BanchoBot: Countdown aborted
+[01:20:23] BanchoBot: Match starts in 5 seconds
+[01:20:23] BanchoBot: Queued the match to start in 5 seconds
+[01:20:25] BanchoBot: Match starts in 4 seconds
+[01:20:26] BanchoBot: Match starts in 3 seconds
+[01:20:28] BanchoBot: Good luck, have fun!
+[01:20:29] BanchoBot: The match has started!
+[01:22:57] BanchoBot: Fernando Alonso finished playing (Score: 81623, PASSED).
+[01:22:57] BanchoBot: CharlioM9 finished playing (Score: 142561, PASSED).
+[01:22:57] BanchoBot: FatChicken420 finished playing (Score: 141117, PASSED).
+[01:22:57] BanchoBot: Drakkles finished playing (Score: 365851, PASSED).
+[01:22:57] BanchoBot: Jiuchu finished playing (Score: 60899, PASSED).
+[01:22:58] BanchoBot: LouisD finished playing (Score: 55342, PASSED).
+[01:22:58] BanchoBot: Qumania finished playing (Score: 578170, PASSED).
+[01:22:58] BanchoBot: Ryshult finished playing (Score: 762840, PASSED).
+[01:22:58] BanchoBot: Aqua Minato finished playing (Score: 41250, PASSED).
+[01:22:58] BanchoBot: AmineWallah finished playing (Score: 89191, PASSED).
+[01:22:58] BanchoBot: The match has finished!
+[01:23:02] BCraftMG: !mp map 4019527 0
+[01:23:03] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4019527 Lon - Yuru Fuwa Jukai Girl
+[01:23:03] BanchoBot: Changed match mode to Osu
+[01:23:03] BCraftMG: !mp mods 9
+[01:23:04] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[01:23:05] BCraftMG: !mp timer 120
+[01:23:06] BanchoBot: Countdown ends in 2 minutes
+[01:24:00] BanchoBot: All players are ready
+[01:24:04] BCraftMG: !mp settings
+[01:24:06] BanchoBot: Countdown ends in 1 minute
+[01:24:06] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q10), History: https://osu.ppy.sh/mp/109493329
+[01:24:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/4019527 Lon - Yuru Fuwa Jukai Girl
+[01:24:06] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:24:06] BanchoBot: Active mods: NoFail, Hidden
+[01:24:06] BanchoBot: Players: 10
+[01:24:06] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15898993 AmineWallah     
+[01:24:06] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18173899 FatChicken420   
+[01:24:06] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14951633 LouisD          
+[01:24:06] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11189164 Ryshult         
+[01:24:06] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/17467899 Qumania         
+[01:24:06] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/13560194 CharlioM9       
+[01:24:06] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/13963691 Drakkles        
+[01:24:06] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/12675978 Fernando Alonso 
+[01:24:06] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/2282145 Jiuchu          
+[01:24:06] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/8552735 Aqua Minato     
+[01:24:07] BCraftMG: !mp start 5 glhf
+[01:24:07] BanchoBot: Countdown aborted
+[01:24:07] BanchoBot: Match starts in 5 seconds
+[01:24:07] BanchoBot: Queued the match to start in 5 seconds
+[01:24:09] BanchoBot: Match starts in 4 seconds
+[01:24:10] BanchoBot: Match starts in 3 seconds
+[01:24:10] BanchoBot: Good luck, have fun!
+[01:24:13] BanchoBot: The match has started!
+[01:24:13] Aqua_Minato: gl
+[01:27:29] BanchoBot: Jiuchu finished playing (Score: 49107, PASSED).
+[01:27:29] BanchoBot: CharlioM9 finished playing (Score: 413547, PASSED).
+[01:27:29] BanchoBot: Ryshult finished playing (Score: 496175, PASSED).
+[01:27:29] BanchoBot: Fernando Alonso finished playing (Score: 473772, PASSED).
+[01:27:31] BanchoBot: AmineWallah finished playing (Score: 60709, PASSED).
+[01:27:32] BanchoBot: Qumania finished playing (Score: 813401, PASSED).
+[01:27:32] BanchoBot: LouisD finished playing (Score: 485890, PASSED).
+[01:27:32] BanchoBot: Drakkles finished playing (Score: 430038, PASSED).
+[01:27:32] BanchoBot: Aqua Minato finished playing (Score: 123869, PASSED).
+[01:27:34] BanchoBot: FatChicken420 finished playing (Score: 272133, PASSED).
+[01:27:34] BanchoBot: The match has finished!
+[01:27:36] BCraftMG: !mp map 3535284 0
+[01:27:37] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3535284 Sheena Ringo - Open Secret
+[01:27:37] BanchoBot: Changed match mode to Osu
+[01:27:56] AmineWallah: i hate hd
+[01:27:57] AmineWallah: :fire:
+[01:28:05] Drakkles: same
+[01:28:15] FatChicken420: oh no hd 2
+[01:28:18] FatChicken420: it's oever
+[01:28:24] BCraftMG: !mp timer 120
+[01:28:24] AmineWallah: joever
+[01:28:24] BanchoBot: Countdown ends in 2 minutes
+[01:28:26] AmineWallah: tnaket
+[01:28:29] Jiuchu: finally a readable ar
+[01:28:30] LouisD: can i left after the hds ?
+[01:28:38] Drakkles: HD2 salam o7
+[01:28:39] BCraftMG: why?
+[01:28:39] FatChicken420: this map is painnnnnnnnnn
+[01:28:41] LouisD: i don't want to suffer please
+[01:28:44] Fernando_Alonso: :tf:
+[01:28:48] BCraftMG: no then
+[01:28:56] LouisD: cuz i'll not do better than 50k
+[01:28:59] LouisD: :pensive:
+[01:29:00] BanchoBot: All players are ready
+[01:29:01] BCraftMG: !mp settings
+[01:29:02] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q10), History: https://osu.ppy.sh/mp/109493329
+[01:29:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/3535284 Sheena Ringo - Open Secret
+[01:29:02] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:29:02] BanchoBot: Active mods: NoFail, Hidden
+[01:29:02] BanchoBot: Players: 10
+[01:29:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15898993 AmineWallah     
+[01:29:02] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18173899 FatChicken420   
+[01:29:02] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14951633 LouisD          
+[01:29:02] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11189164 Ryshult         
+[01:29:02] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/17467899 Qumania         
+[01:29:02] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/13560194 CharlioM9       
+[01:29:02] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/13963691 Drakkles        
+[01:29:02] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/12675978 Fernando Alonso 
+[01:29:02] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/2282145 Jiuchu          
+[01:29:02] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/8552735 Aqua Minato     
+[01:29:04] BCraftMG: !mp start 5 glhf
+[01:29:04] BanchoBot: Countdown aborted
+[01:29:04] BanchoBot: Match starts in 5 seconds
+[01:29:04] BanchoBot: Queued the match to start in 5 seconds
+[01:29:06] BanchoBot: Match starts in 4 seconds
+[01:29:06] FatChicken420: khawti
+[01:29:07] BanchoBot: Match starts in 3 seconds
+[01:29:07] BanchoBot: Good luck, have fun!
+[01:29:10] FatChicken420: i'll get 5000 score
+[01:29:10] BanchoBot: The match has started!
+[01:29:13] FatChicken420: gg
+[01:29:14] AmineWallah: i wont do better than 5k
+[01:32:18] BanchoBot: CharlioM9 finished playing (Score: 77949, PASSED).
+[01:32:18] BanchoBot: Jiuchu finished playing (Score: 35035, PASSED).
+[01:32:19] BanchoBot: Drakkles finished playing (Score: 215858, PASSED).
+[01:32:19] BanchoBot: FatChicken420 finished playing (Score: 55357, PASSED).
+[01:32:19] BanchoBot: Aqua Minato finished playing (Score: 72229, PASSED).
+[01:32:19] BanchoBot: Ryshult finished playing (Score: 524720, PASSED).
+[01:32:19] BanchoBot: Fernando Alonso finished playing (Score: 178762, PASSED).
+[01:32:21] BanchoBot: LouisD finished playing (Score: 314802, PASSED).
+[01:32:21] BanchoBot: Qumania finished playing (Score: 607770, PASSED).
+[01:32:21] BanchoBot: AmineWallah finished playing (Score: 36312, PASSED).
+[01:32:21] BanchoBot: The match has finished!
+[01:32:27] BCraftMG: !mp map 3853099 0
+[01:32:28] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3853099 wowaka - Ura-Omote Lovers feat. Hatsune Miku
+[01:32:28] BanchoBot: Changed match mode to Osu
+[01:32:30] BCraftMG: !mp timer 120
+[01:32:31] BanchoBot: Countdown ends in 2 minutes
+[01:32:47] AmineWallah: tnaket
+[01:33:26] Jiuchu: Aqua_Minato:
+[01:33:32] BanchoBot: Countdown ends in 1 minute
+[01:33:41] BanchoBot: All players are ready
+[01:33:43] BCraftMG: !mp settings
+[01:33:44] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q10), History: https://osu.ppy.sh/mp/109493329
+[01:33:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/3853099 wowaka - Ura-Omote Lovers feat. Hatsune Miku
+[01:33:44] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:33:44] BanchoBot: Active mods: NoFail, Hidden
+[01:33:44] BanchoBot: Players: 10
+[01:33:44] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15898993 AmineWallah     
+[01:33:44] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18173899 FatChicken420   
+[01:33:44] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14951633 LouisD          
+[01:33:44] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11189164 Ryshult         
+[01:33:44] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/17467899 Qumania         
+[01:33:44] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/13560194 CharlioM9       
+[01:33:44] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/13963691 Drakkles        
+[01:33:44] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/12675978 Fernando Alonso 
+[01:33:44] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/2282145 Jiuchu          
+[01:33:44] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/8552735 Aqua Minato     
+[01:33:45] BCraftMG: !mp start 5 glhf
+[01:33:47] BanchoBot: Countdown aborted
+[01:33:47] BanchoBot: Match starts in 5 seconds
+[01:33:47] BanchoBot: Queued the match to start in 5 seconds
+[01:33:48] BanchoBot: Match starts in 4 seconds
+[01:33:50] BanchoBot: Match starts in 3 seconds
+[01:33:51] BanchoBot: Good luck, have fun!
+[01:33:53] AmineWallah: glhf
+[01:33:53] BanchoBot: The match has started!
+[01:37:05] BanchoBot: FatChicken420 finished playing (Score: 123936, PASSED).
+[01:37:05] BanchoBot: Ryshult finished playing (Score: 224139, PASSED).
+[01:37:05] BanchoBot: Jiuchu finished playing (Score: 19777, PASSED).
+[01:37:05] BanchoBot: Qumania finished playing (Score: 264488, PASSED).
+[01:37:05] BanchoBot: LouisD finished playing (Score: 198070, PASSED).
+[01:37:07] BanchoBot: Drakkles finished playing (Score: 199499, PASSED).
+[01:37:07] BanchoBot: Aqua Minato finished playing (Score: 45893, PASSED).
+[01:37:07] BanchoBot: Fernando Alonso finished playing (Score: 184202, PASSED).
+[01:37:07] BanchoBot: AmineWallah finished playing (Score: 26609, PASSED).
+[01:37:07] BanchoBot: CharlioM9 finished playing (Score: 199820, PASSED).
+[01:37:07] BanchoBot: The match has finished!
+[01:37:12] BCraftMG: !mp map 3742259 0
+[01:37:13] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3742259 UROBOROS - ZODIAC
+[01:37:13] BanchoBot: Changed match mode to Osu
+[01:37:14] BCraftMG: !mp mods 17
+[01:37:16] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[01:37:18] BCraftMG: !mp timer 120
+[01:37:19] BanchoBot: Countdown ends in 2 minutes
+[01:37:20] AmineWallah: i fced
+[01:37:22] AmineWallah: (real)
+[01:37:32] FatChicken420: fr
+[01:37:45] LouisD: you did better than jiuchu gg
+[01:38:09] Jiuchu: pool too ahrd..
+[01:38:14] AmineWallah: gg
+[01:38:20] BanchoBot: Countdown ends in 1 minute
+[01:38:34] FatChicken420: i suck balls
+[01:38:48] BanchoBot: All players are ready
+[01:38:49] BanchoBot: Countdown ends in 30 seconds
+[01:38:52] BCraftMG: !mp settings
+[01:38:53] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q10), History: https://osu.ppy.sh/mp/109493329
+[01:38:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/3742259 UROBOROS - ZODIAC
+[01:38:53] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:38:53] BanchoBot: Active mods: NoFail, HardRock
+[01:38:53] BanchoBot: Players: 10
+[01:38:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15898993 AmineWallah     
+[01:38:53] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18173899 FatChicken420   
+[01:38:53] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14951633 LouisD          
+[01:38:53] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11189164 Ryshult         
+[01:38:53] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/17467899 Qumania         
+[01:38:53] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/13560194 CharlioM9       
+[01:38:53] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/13963691 Drakkles        
+[01:38:53] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/12675978 Fernando Alonso 
+[01:38:53] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/2282145 Jiuchu          
+[01:38:53] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/8552735 Aqua Minato     
+[01:38:53] BCraftMG: !mp start 5 glhf
+[01:38:54] BanchoBot: Countdown aborted
+[01:38:54] BanchoBot: Match starts in 5 seconds
+[01:38:54] BanchoBot: Queued the match to start in 5 seconds
+[01:38:55] BanchoBot: Match starts in 4 seconds
+[01:38:57] BanchoBot: Match starts in 3 seconds
+[01:38:58] BanchoBot: Good luck, have fun!
+[01:39:00] BanchoBot: The match has started!
+[01:39:00] LouisD: Xd
+[01:42:53] BanchoBot: Qumania finished playing (Score: 721166, PASSED).
+[01:42:55] BanchoBot: Fernando Alonso finished playing (Score: 514647, PASSED).
+[01:42:55] BanchoBot: CharlioM9 finished playing (Score: 409289, PASSED).
+[01:42:55] BanchoBot: LouisD finished playing (Score: 14907, PASSED).
+[01:42:55] BanchoBot: Drakkles finished playing (Score: 315072, PASSED).
+[01:42:55] BanchoBot: Aqua Minato finished playing (Score: 224081, PASSED).
+[01:42:56] BanchoBot: FatChicken420 finished playing (Score: 155126, PASSED).
+[01:42:56] BanchoBot: AmineWallah finished playing (Score: 162493, PASSED).
+[01:42:56] BanchoBot: Ryshult finished playing (Score: 74362, PASSED).
+[01:42:56] BanchoBot: Jiuchu finished playing (Score: 17640, PASSED).
+[01:42:56] BanchoBot: The match has finished!
+[01:43:01] BCraftMG: !mp map 4016778 0
+[01:43:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4016778 onoken feat. Misaki - Gokuaku no Hana
+[01:43:02] BanchoBot: Changed match mode to Osu
+[01:43:08] BCraftMG: !mp timer 120
+[01:43:10] BanchoBot: Countdown ends in 2 minutes
+[01:43:47] BanchoBot: All players are ready
+[01:43:50] BCraftMG: !mp settings
+[01:43:50] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q10), History: https://osu.ppy.sh/mp/109493329
+[01:43:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/4016778 onoken feat. Misaki - Gokuaku no Hana
+[01:43:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:43:50] BanchoBot: Active mods: NoFail, HardRock
+[01:43:50] BanchoBot: Players: 10
+[01:43:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15898993 AmineWallah     
+[01:43:50] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18173899 FatChicken420   
+[01:43:50] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14951633 LouisD          
+[01:43:51] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11189164 Ryshult         
+[01:43:51] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/17467899 Qumania         
+[01:43:51] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/13560194 CharlioM9       
+[01:43:51] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/13963691 Drakkles        
+[01:43:51] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/12675978 Fernando Alonso 
+[01:43:51] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/2282145 Jiuchu          
+[01:43:51] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/8552735 Aqua Minato     
+[01:43:51] BCraftMG: !mp start 5 glhf
+[01:43:52] BanchoBot: Countdown aborted
+[01:43:52] BanchoBot: Match starts in 5 seconds
+[01:43:52] BanchoBot: Queued the match to start in 5 seconds
+[01:43:53] BanchoBot: Match starts in 4 seconds
+[01:43:55] BanchoBot: Match starts in 3 seconds
+[01:43:55] BanchoBot: Good luck, have fun!
+[01:43:56] Aqua_Minato: glhf
+[01:43:58] BanchoBot: The match has started!
+[01:46:08] BanchoBot: Jiuchu finished playing (Score: 37241, PASSED).
+[01:46:08] BanchoBot: Fernando Alonso finished playing (Score: 719719, PASSED).
+[01:46:08] BanchoBot: FatChicken420 finished playing (Score: 139540, PASSED).
+[01:46:08] BanchoBot: Ryshult finished playing (Score: 98566, PASSED).
+[01:46:08] BanchoBot: Qumania finished playing (Score: 999615, PASSED).
+[01:46:08] BanchoBot: AmineWallah finished playing (Score: 198475, PASSED).
+[01:46:08] BanchoBot: Drakkles finished playing (Score: 1009723, PASSED).
+[01:46:08] BanchoBot: Aqua Minato finished playing (Score: 255092, PASSED).
+[01:46:10] BanchoBot: LouisD finished playing (Score: 151631, PASSED).
+[01:46:10] BanchoBot: CharlioM9 finished playing (Score: 429414, PASSED).
+[01:46:10] BanchoBot: The match has finished!
+[01:46:12] BCraftMG: !mp map 2590758 0
+[01:46:13] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2590758 K/DA - THE BADDEST feat. (G)I-DLE, Bea Miller, Wolftyla
+[01:46:13] BanchoBot: Changed match mode to Osu
+[01:46:14] BCraftMG: !mp timer 120
+[01:46:16] BanchoBot: Countdown ends in 2 minutes
+[01:47:16] BanchoBot: Countdown ends in 1 minute
+[01:47:21] BanchoBot: All players are ready
+[01:47:24] BCraftMG: !mp settings
+[01:47:26] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q10), History: https://osu.ppy.sh/mp/109493329
+[01:47:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/2590758 K/DA - THE BADDEST feat. (G)I-DLE, Bea Miller, Wolftyla
+[01:47:26] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:47:26] BanchoBot: Active mods: NoFail, HardRock
+[01:47:26] BanchoBot: Players: 10
+[01:47:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15898993 AmineWallah     
+[01:47:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18173899 FatChicken420   
+[01:47:26] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14951633 LouisD          
+[01:47:26] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11189164 Ryshult         
+[01:47:26] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/17467899 Qumania         
+[01:47:26] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/13560194 CharlioM9       
+[01:47:26] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/13963691 Drakkles        
+[01:47:26] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/12675978 Fernando Alonso 
+[01:47:26] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/2282145 Jiuchu          
+[01:47:26] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/8552735 Aqua Minato     
+[01:47:26] BCraftMG: !mp start 5 glhf
+[01:47:27] BanchoBot: Countdown aborted
+[01:47:27] BanchoBot: Match starts in 5 seconds
+[01:47:27] BanchoBot: Queued the match to start in 5 seconds
+[01:47:28] BanchoBot: Match starts in 4 seconds
+[01:47:30] BanchoBot: Match starts in 3 seconds
+[01:47:31] BanchoBot: Good luck, have fun!
+[01:47:33] BanchoBot: The match has started!
+[01:50:17] BanchoBot: Drakkles finished playing (Score: 506905, PASSED).
+[01:50:17] BanchoBot: LouisD finished playing (Score: 42578, PASSED).
+[01:50:17] BanchoBot: Jiuchu finished playing (Score: 53357, PASSED).
+[01:50:17] BanchoBot: Ryshult finished playing (Score: 46264, PASSED).
+[01:50:17] BanchoBot: Aqua Minato finished playing (Score: 113235, PASSED).
+[01:50:18] BanchoBot: Fernando Alonso finished playing (Score: 350208, PASSED).
+[01:50:18] BanchoBot: CharlioM9 finished playing (Score: 120522, PASSED).
+[01:50:18] BanchoBot: Qumania finished playing (Score: 523074, PASSED).
+[01:50:19] BanchoBot: FatChicken420 finished playing (Score: 168661, PASSED).
+[01:50:19] BanchoBot: AmineWallah finished playing (Score: 141839, PASSED).
+[01:50:19] BanchoBot: The match has finished!
+[01:50:22] BCraftMG: !mp mods 65
+[01:50:23] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[01:50:24] BCraftMG: !mp map 3424169 0
+[01:50:25] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3424169 Vaundy - Hadaka no Yuusha
+[01:50:25] BanchoBot: Changed match mode to Osu
+[01:50:26] BCraftMG: !mp timer 120
+[01:50:26] BanchoBot: Countdown ends in 2 minutes
+[01:50:28] AmineWallah: damn
+[01:50:37] FatChicken420: damn
+[01:50:47] CharlioM9: damn
+[01:51:27] BanchoBot: Countdown ends in 1 minute
+[01:51:29] AmineWallah: tnaket
+[01:51:33] FatChicken420: ong
+[01:51:41] Jiuchu: Aqua_Minato:
+[01:51:45] BanchoBot: All players are ready
+[01:51:47] BCraftMG: !mp settings
+[01:51:48] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q10), History: https://osu.ppy.sh/mp/109493329
+[01:51:48] BanchoBot: Beatmap: https://osu.ppy.sh/b/3424169 Vaundy - Hadaka no Yuusha
+[01:51:48] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:51:48] BanchoBot: Active mods: NoFail, DoubleTime
+[01:51:48] BanchoBot: Players: 10
+[01:51:48] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15898993 AmineWallah     
+[01:51:48] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18173899 FatChicken420   
+[01:51:48] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14951633 LouisD          
+[01:51:48] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11189164 Ryshult         
+[01:51:48] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/17467899 Qumania         
+[01:51:48] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/13560194 CharlioM9       
+[01:51:48] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/13963691 Drakkles        
+[01:51:48] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/12675978 Fernando Alonso 
+[01:51:48] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/2282145 Jiuchu          
+[01:51:48] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/8552735 Aqua Minato     
+[01:51:49] BCraftMG: !mp start 5 glhf
+[01:51:50] Aqua_Minato: shut
+[01:51:50] FatChicken420: sqsqs
+[01:51:51] Aqua_Minato: glhf
+[01:51:51] BanchoBot: Countdown aborted
+[01:51:51] BanchoBot: Match starts in 5 seconds
+[01:51:51] BanchoBot: Queued the match to start in 5 seconds
+[01:51:53] BanchoBot: Match starts in 4 seconds
+[01:51:54] BanchoBot: Match starts in 3 seconds
+[01:51:54] Jiuchu: ??
+[01:51:54] BanchoBot: Good luck, have fun!
+[01:51:55] AmineWallah: glhf
+[01:51:57] BanchoBot: The match has started!
+[01:54:15] BanchoBot: LouisD finished playing (Score: 43369, PASSED).
+[01:54:15] BanchoBot: CharlioM9 finished playing (Score: 457792, PASSED).
+[01:54:15] BanchoBot: FatChicken420 finished playing (Score: 304775, PASSED).
+[01:54:15] BanchoBot: Jiuchu finished playing (Score: 38959, PASSED).
+[01:54:17] BanchoBot: Ryshult finished playing (Score: 75887, PASSED).
+[01:54:17] BanchoBot: AmineWallah finished playing (Score: 265179, PASSED).
+[01:54:17] BanchoBot: Aqua Minato finished playing (Score: 132538, PASSED).
+[01:54:17] BanchoBot: Fernando Alonso finished playing (Score: 489553, PASSED).
+[01:54:17] BanchoBot: Qumania finished playing (Score: 623914, PASSED).
+[01:54:17] BanchoBot: Drakkles finished playing (Score: 413460, PASSED).
+[01:54:17] BanchoBot: The match has finished!
+[01:54:19] BCraftMG: !mp map 3228276 0
+[01:54:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3228276 senya - Kimiiro Subliminal
+[01:54:21] BanchoBot: Changed match mode to Osu
+[01:54:23] BCraftMG: !mp timer 120
+[01:54:24] BanchoBot: Countdown ends in 2 minutes
+[01:54:27] AmineWallah: W
+[01:55:07] AmineWallah: tnaket
+[01:55:13] FatChicken420: zebi trtg b dem
+[01:55:23] BanchoBot: All players are ready
+[01:55:24] BanchoBot: Countdown ends in 1 minute
+[01:55:25] BCraftMG: !mp settings
+[01:55:26] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q10), History: https://osu.ppy.sh/mp/109493329
+[01:55:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/3228276 senya - Kimiiro Subliminal
+[01:55:26] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:55:26] BanchoBot: Active mods: NoFail, DoubleTime
+[01:55:26] BanchoBot: Players: 10
+[01:55:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15898993 AmineWallah     
+[01:55:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18173899 FatChicken420   
+[01:55:26] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14951633 LouisD          
+[01:55:26] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11189164 Ryshult         
+[01:55:26] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/17467899 Qumania         
+[01:55:26] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/13560194 CharlioM9       
+[01:55:26] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/13963691 Drakkles        
+[01:55:26] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/12675978 Fernando Alonso 
+[01:55:26] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/2282145 Jiuchu          
+[01:55:26] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/8552735 Aqua Minato     
+[01:55:28] BCraftMG: !mp start 5 glhf
+[01:55:29] BanchoBot: Countdown aborted
+[01:55:29] BanchoBot: Match starts in 5 seconds
+[01:55:29] BanchoBot: Queued the match to start in 5 seconds
+[01:55:30] BanchoBot: Match starts in 4 seconds
+[01:55:32] BanchoBot: Match starts in 3 seconds
+[01:55:33] BanchoBot: Good luck, have fun!
+[01:55:35] BanchoBot: The match has started!
+[01:58:20] BanchoBot: Jiuchu finished playing (Score: 53044, PASSED).
+[01:58:20] BanchoBot: CharlioM9 finished playing (Score: 527273, PASSED).
+[01:58:20] BanchoBot: AmineWallah finished playing (Score: 172672, PASSED).
+[01:58:21] BanchoBot: Drakkles finished playing (Score: 281478, PASSED).
+[01:58:21] BanchoBot: LouisD finished playing (Score: 35916, PASSED).
+[01:58:22] BanchoBot: Aqua Minato finished playing (Score: 147871, PASSED).
+[01:58:22] BanchoBot: Qumania finished playing (Score: 786356, PASSED).
+[01:58:22] BanchoBot: FatChicken420 finished playing (Score: 354140, PASSED).
+[01:58:22] BanchoBot: Ryshult finished playing (Score: 31776, PASSED).
+[01:58:22] BanchoBot: Fernando Alonso finished playing (Score: 505197, PASSED).
+[01:58:22] BanchoBot: The match has finished!
+[01:58:25] BCraftMG: !mp map 2149694 0
+[01:58:25] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2149694 Enter Shikari - Wall
+[01:58:25] BanchoBot: Changed match mode to Osu
+[01:58:27] BCraftMG: !mp timer 120
+[01:58:28] BanchoBot: Countdown ends in 2 minutes
+[01:58:34] AmineWallah: tnaket
+[01:58:52] FatChicken420: ok this map
+[01:58:53] FatChicken420: i suck at it
+[01:58:55] FatChicken420: gg
+[01:59:04] Aqua_Minato: I can't burst this at all
+[01:59:11] AmineWallah: damn
+[01:59:13] FatChicken420: map got 3 dt fcs lo
+[01:59:13] BanchoBot: All players are ready
+[01:59:15] BCraftMG: !mp settings
+[01:59:16] BanchoBot: Room name: MCD: (Qualifiers) vs (Match Q10), History: https://osu.ppy.sh/mp/109493329
+[01:59:16] BanchoBot: Beatmap: https://osu.ppy.sh/b/2149694 Enter Shikari - Wall
+[01:59:16] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:59:16] BanchoBot: Active mods: NoFail, DoubleTime
+[01:59:16] BanchoBot: Players: 10
+[01:59:16] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/15898993 AmineWallah     
+[01:59:16] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18173899 FatChicken420   
+[01:59:16] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14951633 LouisD          
+[01:59:16] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11189164 Ryshult         
+[01:59:16] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/17467899 Qumania         
+[01:59:16] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/13560194 CharlioM9       
+[01:59:16] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/13963691 Drakkles        
+[01:59:16] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/12675978 Fernando Alonso 
+[01:59:16] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/2282145 Jiuchu          
+[01:59:16] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/8552735 Aqua Minato     
+[01:59:19] Jiuchu: impssible
+[01:59:19] BCraftMG: !mp start 5 glhf
+[01:59:20] BanchoBot: Countdown aborted
+[01:59:20] BanchoBot: Match starts in 5 seconds
+[01:59:20] BanchoBot: Queued the match to start in 5 seconds
+[01:59:21] BanchoBot: Match starts in 4 seconds
+[01:59:23] FatChicken420: i can't play this
+[01:59:23] Jiuchu: pool is too hard......
+[01:59:23] BanchoBot: Match starts in 3 seconds
+[01:59:24] BanchoBot: Good luck, have fun!
+[01:59:26] BanchoBot: The match has started!
+[01:59:26] FatChicken420: it's joever guys
+[02:02:33] BanchoBot: CharlioM9 finished playing (Score: 260140, PASSED).
+[02:02:33] BanchoBot: Ryshult finished playing (Score: 31082, PASSED).
+[02:02:33] BanchoBot: AmineWallah finished playing (Score: 203122, PASSED).
+[02:02:33] BanchoBot: Fernando Alonso finished playing (Score: 231087, PASSED).
+[02:02:33] BanchoBot: Jiuchu finished playing (Score: 28002, PASSED).
+[02:02:33] BanchoBot: LouisD finished playing (Score: 28993, PASSED).
+[02:02:34] BanchoBot: Qumania finished playing (Score: 344131, PASSED).
+[02:02:34] BanchoBot: Drakkles finished playing (Score: 390288, PASSED).
+[02:02:34] BanchoBot: FatChicken420 finished playing (Score: 111159, PASSED).
+[02:02:34] BanchoBot: Aqua Minato finished playing (Score: 70575, PASSED).
+[02:02:34] BanchoBot: The match has finished!
+[02:02:46] AmineWallah: its joever
+[02:02:50] Jiuchu: ggs
+[02:02:53] Aqua_Minato: it's joever
+[02:02:55] Fernando_Alonso: welp
+[02:02:55] Qumania: gg
+[02:02:55] Jiuchu: thanks for reffing
+[02:02:56] FatChicken420: zamn
+[02:02:56] Drakkles: ggwp
+[02:02:58] CharlioM9: ggs
+[02:02:59] BanchoBot: Jiuchu left the game.
+[02:02:59] Fernando_Alonso: ty for ref
+[02:02:59] FatChicken420: my hands
+[02:02:59] Fernando_Alonso: cya
+[02:03:01] AmineWallah: gg
+[02:03:02] Drakkles: ty for ref c:
+[02:03:02] LouisD: ggwp
+[02:03:02] BanchoBot: Fernando Alonso left the game.
+[02:03:04] FatChicken420: gg bous
+[02:03:04] Ryshult: ggwp
+[02:03:05] Aqua_Minato: ty for ref
+[02:03:07] BanchoBot: Aqua Minato left the game.
+[02:03:07] BCraftMG: o/
+[02:03:08] AmineWallah: mwah bye
+[02:03:11] CharlioM9: ty for ref
+[02:03:13] BanchoBot: CharlioM9 left the game.
+[02:03:14] AmineWallah: ty for ref
+[02:03:16] BanchoBot: AmineWallah left the game.
+[02:03:16] Qumania: ty for ref
+[02:03:17] BanchoBot: Qumania left the game.
+[02:03:20] FatChicken420: ty mo7
+[02:03:23] BanchoBot: FatChicken420 left the game.
+[02:03:25] BanchoBot: Drakkles left the game.
+[02:03:28] Ryshult: ty4ref
+[02:03:29] BanchoBot: Ryshult left the game.
+[02:04:26] BCraftMG: !mp close
+[02:04:28] BanchoBot: Closed the match

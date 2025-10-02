@@ -1,0 +1,310 @@
+[00:04:22] Joined #mp_105718324
+[00:04:22] DaddyStage: !mp settings
+[00:04:23] BanchoBot: Room name: PTFM: (Qualifiers) vs (EX4), History: https://osu.ppy.sh/mp/105718324
+[00:04:23] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[00:04:23] BanchoBot: Players: 0
+[00:04:43] DaddyStage: !mp invite Raptide
+[00:04:44] BanchoBot: Invited Raptide to the room
+[00:04:49] DaddyStage: !mp invite Koteykaaa
+[00:04:50] BanchoBot: Invited Koteykaaa to the room
+[00:04:52] DaddyStage: !mp invite Musubi
+[00:04:54] BanchoBot: User not found
+[00:04:57] BanchoBot: Koteykaaa joined in slot 1.
+[00:05:10] DaddyStage: !mp set 0 3 4
+[00:05:11] BanchoBot: Changed match settings to 4 slots, HeadToHead, ScoreV2
+[00:05:19] DaddyStage: !mp invite Raptide
+[00:05:20] BanchoBot: Invited Raptide to the room
+[00:05:23] BanchoBot: Raptide joined in slot 2.
+[00:05:26] Raptide: o//
+[00:05:31] Koteykaaa: o/
+[00:05:42] DaddyStage: !mp map 1880006
+[00:05:42] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1880006 Hachioji P x Marty Friedman x Kano - Marine Bloomin'
+[00:05:43] DaddyStage: !mp mods 1
+[00:05:45] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:05:48] DaddyStage: host trolley
+[00:06:14] BanchoBot: All players are ready
+[00:06:15] Raptide: glhf!!
+[00:06:16] DaddyStage: !mp settings
+[00:06:17] BanchoBot: Room name: PTFM: (Qualifiers) vs (EX4), History: https://osu.ppy.sh/mp/105718324
+[00:06:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/1880006 Hachioji P x Marty Friedman x Kano - Marine Bloomin'
+[00:06:17] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:06:17] BanchoBot: Active mods: NoFail
+[00:06:17] BanchoBot: Players: 2
+[00:06:17] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7804244 Koteykaaa       
+[00:06:17] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8268978 Raptide         
+[00:06:18] DaddyStage: !mp start 5 glhf
+[00:06:19] Koteykaaa: glhf!
+[00:06:19] BanchoBot: Match starts in 5 seconds
+[00:06:19] BanchoBot: Queued the match to start in 5 seconds
+[00:06:21] BanchoBot: Match starts in 4 seconds
+[00:06:22] BanchoBot: Match starts in 3 seconds
+[00:06:23] BanchoBot: Good luck, have fun!
+[00:06:25] BanchoBot: The match has started!
+[00:10:03] BanchoBot: Raptide finished playing (Score: 595313, PASSED).
+[00:10:05] BanchoBot: Koteykaaa finished playing (Score: 682125, PASSED).
+[00:10:05] BanchoBot: The match has finished!
+[00:10:06] Raptide: so slowwwww
+[00:10:07] DaddyStage: !mp map 2866773
+[00:10:08] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2866773 Nanahira - Monosugoi Ikioi de Keine ga Monosugoi Uta
+[00:10:13] Koteykaaa: bruh
+[00:10:25] BanchoBot: All players are ready
+[00:10:27] Raptide: glhf!
+[00:10:28] DaddyStage: !mp settings
+[00:10:30] BanchoBot: Room name: PTFM: (Qualifiers) vs (EX4), History: https://osu.ppy.sh/mp/105718324
+[00:10:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/2866773 Nanahira - Monosugoi Ikioi de Keine ga Monosugoi Uta
+[00:10:30] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:10:30] BanchoBot: Active mods: NoFail
+[00:10:30] BanchoBot: Players: 2
+[00:10:30] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7804244 Koteykaaa       
+[00:10:30] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8268978 Raptide         
+[00:10:30] DaddyStage: !mp start 5 glhf
+[00:10:31] Koteykaaa: glhf!!!
+[00:10:31] BanchoBot: Match starts in 5 seconds
+[00:10:31] BanchoBot: Queued the match to start in 5 seconds
+[00:10:32] BanchoBot: Match starts in 4 seconds
+[00:10:33] BanchoBot: Match starts in 3 seconds
+[00:10:34] BanchoBot: Good luck, have fun!
+[00:10:37] BanchoBot: The match has started!
+[00:14:40] BanchoBot: Raptide finished playing (Score: 453817, PASSED).
+[00:14:42] BanchoBot: Koteykaaa finished playing (Score: 433885, PASSED).
+[00:14:42] BanchoBot: The match has finished!
+[00:14:44] DaddyStage: !mp map 3519812
+[00:14:45] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3519812 Jimmy Weckl - Get Happy
+[00:14:52] Koteykaaa: this sliders so fussy
+[00:14:53] Raptide: can we wait 1 sec
+[00:15:01] DaddyStage: 1 sec
+[00:15:08] DaddyStage: 1 sec over
+[00:15:12] Koteykaaa: !mp timer 1
+[00:15:29] DaddyStage: !mp timer 1
+[00:15:29] BanchoBot: Countdown ends in 1 second
+[00:15:30] BanchoBot: Countdown finished
+[00:16:17] DaddyStage: !mp timer 120
+[00:16:18] Raptide: ok back
+[00:16:18] BanchoBot: Countdown ends in 2 minutes
+[00:16:20] Raptide: glhf
+[00:16:23] BanchoBot: All players are ready
+[00:16:24] Koteykaaa: glhf!
+[00:16:24] Raptide: sorry
+[00:16:24] DaddyStage: !mp settings
+[00:16:25] BanchoBot: Room name: PTFM: (Qualifiers) vs (EX4), History: https://osu.ppy.sh/mp/105718324
+[00:16:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/3519812 Jimmy Weckl - Get Happy
+[00:16:25] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:16:25] BanchoBot: Active mods: NoFail
+[00:16:25] BanchoBot: Players: 2
+[00:16:25] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7804244 Koteykaaa       
+[00:16:25] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8268978 Raptide         
+[00:16:28] DaddyStage: !mp start 5 glhf
+[00:16:29] BanchoBot: Countdown aborted
+[00:16:30] BanchoBot: Match starts in 5 seconds
+[00:16:30] BanchoBot: Queued the match to start in 5 seconds
+[00:16:31] BanchoBot: Match starts in 4 seconds
+[00:16:32] BanchoBot: Match starts in 3 seconds
+[00:16:33] BanchoBot: Good luck, have fun!
+[00:16:35] BanchoBot: The match has started!
+[00:18:44] BanchoBot: Koteykaaa finished playing (Score: 873377, PASSED).
+[00:18:44] BanchoBot: Raptide finished playing (Score: 316842, PASSED).
+[00:18:44] BanchoBot: The match has finished!
+[00:18:46] DaddyStage: !mp map 3783209
+[00:18:47] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3783209 cYsmix - triangles
+[00:18:55] Raptide: i love nm3!
+[00:18:59] Koteykaaa: i missed in the begining
+[00:19:00] Raptide: good score
+[00:19:05] Koteykaaa: thx!
+[00:19:07] BanchoBot: All players are ready
+[00:19:08] Koteykaaa: glhf!
+[00:19:09] Raptide: glhf
+[00:19:14] DaddyStage: !mp settings
+[00:19:15] BanchoBot: Room name: PTFM: (Qualifiers) vs (EX4), History: https://osu.ppy.sh/mp/105718324
+[00:19:15] BanchoBot: Beatmap: https://osu.ppy.sh/b/3783209 cYsmix - triangles
+[00:19:15] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:19:15] BanchoBot: Active mods: NoFail
+[00:19:15] BanchoBot: Players: 2
+[00:19:15] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7804244 Koteykaaa       
+[00:19:15] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8268978 Raptide         
+[00:19:16] DaddyStage: !mp start 5 glhf
+[00:19:17] BanchoBot: Match starts in 5 seconds
+[00:19:17] BanchoBot: Queued the match to start in 5 seconds
+[00:19:18] BanchoBot: Match starts in 4 seconds
+[00:19:19] BanchoBot: Match starts in 3 seconds
+[00:19:20] BanchoBot: Good luck, have fun!
+[00:19:22] BanchoBot: The match has started!
+[00:21:33] BanchoBot: Raptide finished playing (Score: 330655, PASSED).
+[00:21:33] BanchoBot: Koteykaaa finished playing (Score: 469389, PASSED).
+[00:21:33] BanchoBot: The match has finished!
+[00:21:36] DaddyStage: !mp mods 9
+[00:21:36] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[00:21:38] DaddyStage: !mp map 3301096
+[00:21:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3301096 EiK feat. Raimu - a wonderful days -rebirth-
+[00:21:48] BanchoBot: All players are ready
+[00:21:49] Raptide: glhf
+[00:21:50] DaddyStage: !mp settings
+[00:21:51] BanchoBot: Room name: PTFM: (Qualifiers) vs (EX4), History: https://osu.ppy.sh/mp/105718324
+[00:21:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/3301096 EiK feat. Raimu - a wonderful days -rebirth-
+[00:21:51] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:21:51] BanchoBot: Active mods: NoFail, Hidden
+[00:21:51] BanchoBot: Players: 2
+[00:21:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7804244 Koteykaaa       
+[00:21:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8268978 Raptide         
+[00:21:52] DaddyStage: !mp start 5 glhf
+[00:21:52] BanchoBot: Match starts in 5 seconds
+[00:21:52] BanchoBot: Queued the match to start in 5 seconds
+[00:21:53] Koteykaaa: glhf!
+[00:21:53] BanchoBot: Match starts in 4 seconds
+[00:21:55] BanchoBot: Match starts in 3 seconds
+[00:21:56] BanchoBot: Good luck, have fun!
+[00:21:58] BanchoBot: The match has started!
+[00:25:14] BanchoBot: Raptide finished playing (Score: 433316, PASSED).
+[00:25:14] BanchoBot: Koteykaaa finished playing (Score: 586245, PASSED).
+[00:25:14] BanchoBot: The match has finished!
+[00:25:19] DaddyStage: !mp mods 17
+[00:25:19] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[00:25:21] DaddyStage: !mp map 1738984
+[00:25:22] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1738984 ALiCE'S EMOTiON - Lorelei
+[00:25:38] Koteykaaa: its time to SUCK
+[00:25:39] BanchoBot: All players are ready
+[00:25:40] Koteykaaa: glhf!
+[00:25:43] Raptide: glhf
+[00:25:45] DaddyStage: !mp settings
+[00:25:46] BanchoBot: Room name: PTFM: (Qualifiers) vs (EX4), History: https://osu.ppy.sh/mp/105718324
+[00:25:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/1738984 ALiCE'S EMOTiON - Lorelei
+[00:25:46] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:25:46] BanchoBot: Active mods: NoFail, HardRock
+[00:25:46] BanchoBot: Players: 2
+[00:25:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7804244 Koteykaaa       
+[00:25:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8268978 Raptide         
+[00:25:46] DaddyStage: !mp start 5 glhf
+[00:25:47] BanchoBot: Match starts in 5 seconds
+[00:25:47] BanchoBot: Queued the match to start in 5 seconds
+[00:25:48] BanchoBot: Match starts in 4 seconds
+[00:25:49] BanchoBot: Match starts in 3 seconds
+[00:25:50] BanchoBot: Good luck, have fun!
+[00:25:52] BanchoBot: The match has started!
+[00:29:06] BanchoBot: Raptide finished playing (Score: 568932, PASSED).
+[00:29:06] BanchoBot: Koteykaaa finished playing (Score: 448709, PASSED).
+[00:29:06] BanchoBot: The match has finished!
+[00:29:14] DaddyStage: !mp mods 65
+[00:29:15] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[00:29:16] DaddyStage: !mp map 1686207
+[00:29:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1686207 Ichigaya Arisa (CV: Itou Ayasa) - Su-Suki Nanka Janai!
+[00:29:19] Raptide: i get the best score on a map i didnt even practice
+[00:29:19] Raptide: lmao
+[00:29:26] Raptide: rigged
+[00:29:36] Koteykaaa: me too lol
+[00:29:44] Raptide: we are hr players yes
+[00:29:52] BanchoBot: All players are ready
+[00:29:54] Raptide: glhf!!
+[00:29:55] Koteykaaa: real
+[00:29:56] Koteykaaa: glhf!
+[00:29:58] DaddyStage: !mp settings
+[00:29:59] BanchoBot: Room name: PTFM: (Qualifiers) vs (EX4), History: https://osu.ppy.sh/mp/105718324
+[00:29:59] BanchoBot: Beatmap: https://osu.ppy.sh/b/1686207 Ichigaya Arisa (CV: Itou Ayasa) - Su-Suki Nanka Janai!
+[00:29:59] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:29:59] BanchoBot: Active mods: NoFail, DoubleTime
+[00:29:59] BanchoBot: Players: 2
+[00:29:59] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7804244 Koteykaaa       
+[00:29:59] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8268978 Raptide         
+[00:30:03] DaddyStage: !mp start 5 glhf
+[00:30:03] BanchoBot: Match starts in 5 seconds
+[00:30:03] BanchoBot: Queued the match to start in 5 seconds
+[00:30:04] BanchoBot: Match starts in 4 seconds
+[00:30:05] BanchoBot: Match starts in 3 seconds
+[00:30:07] BanchoBot: Good luck, have fun!
+[00:30:09] BanchoBot: The match has started!
+[00:32:51] BanchoBot: Raptide finished playing (Score: 916666, PASSED).
+[00:32:51] BanchoBot: Koteykaaa finished playing (Score: 549524, PASSED).
+[00:32:51] BanchoBot: The match has finished!
+[00:32:54] DaddyStage: !mp map 2867789
+[00:32:55] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2867789 Kuba Oms - My Love (DestoppeD Remix)
+[00:32:59] Koteykaaa: wtf
+[00:33:02] Raptide: wtf
+[00:33:05] Koteykaaa: im dt player now
+[00:33:13] Raptide: neeeeeeeeee
+[00:33:13] BanchoBot: All players are ready
+[00:33:15] DaddyStage: !mp settings
+[00:33:16] Koteykaaa: neeeeeeee
+[00:33:16] Raptide: glhf!!
+[00:33:16] BanchoBot: Room name: PTFM: (Qualifiers) vs (EX4), History: https://osu.ppy.sh/mp/105718324
+[00:33:16] BanchoBot: Beatmap: https://osu.ppy.sh/b/2867789 Kuba Oms - My Love (DestoppeD Remix)
+[00:33:16] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:33:16] BanchoBot: Active mods: NoFail, DoubleTime
+[00:33:16] BanchoBot: Players: 2
+[00:33:16] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7804244 Koteykaaa       
+[00:33:16] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8268978 Raptide         
+[00:33:17] DaddyStage: !mp start 5 glhf
+[00:33:17] Koteykaaa: glhf!
+[00:33:17] BanchoBot: Match starts in 5 seconds
+[00:33:17] BanchoBot: Queued the match to start in 5 seconds
+[00:33:18] BanchoBot: Match starts in 4 seconds
+[00:33:19] BanchoBot: Match starts in 3 seconds
+[00:33:20] BanchoBot: Good luck, have fun!
+[00:33:23] BanchoBot: The match has started!
+[00:36:02] BanchoBot: Raptide finished playing (Score: 314607, PASSED).
+[00:36:03] BanchoBot: Koteykaaa finished playing (Score: 154434, PASSED).
+[00:36:03] BanchoBot: The match has finished!
+[00:36:09] DaddyStage: !mp mods NF Freemod
+[00:36:10] Raptide: worst dt2 ever
+[00:36:10] BanchoBot: Disabled all mods, enabled FreeMod
+[00:36:11] DaddyStage: !mp map 1109818
+[00:36:12] Koteykaaa: ok im not dt player
+[00:36:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1109818 An - Saigo
+[00:36:17] Koteykaaa: thats true
+[00:36:22] BanchoBot: All players are ready
+[00:36:24] DaddyStage: !mp settings
+[00:36:24] Raptide: glhf
+[00:36:24] BanchoBot: Room name: PTFM: (Qualifiers) vs (EX4), History: https://osu.ppy.sh/mp/105718324
+[00:36:24] BanchoBot: Beatmap: https://osu.ppy.sh/b/1109818 An - Saigo
+[00:36:24] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:36:24] BanchoBot: Active mods: Freemod
+[00:36:24] BanchoBot: Players: 2
+[00:36:24] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7804244 Koteykaaa       [NoFail, Hidden]
+[00:36:24] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8268978 Raptide         [NoFail, Hidden]
+[00:36:25] DaddyStage: !mp start 5 glhf
+[00:36:25] Koteykaaa: glhf
+[00:36:25] BanchoBot: Match starts in 5 seconds
+[00:36:25] BanchoBot: Queued the match to start in 5 seconds
+[00:36:26] BanchoBot: Match starts in 4 seconds
+[00:36:27] BanchoBot: Match starts in 3 seconds
+[00:36:28] BanchoBot: Good luck, have fun!
+[00:36:31] BanchoBot: The match has started!
+[00:40:25] BanchoBot: Koteykaaa finished playing (Score: 1060168, PASSED).
+[00:40:25] BanchoBot: Raptide finished playing (Score: 685198, PASSED).
+[00:40:25] BanchoBot: The match has finished!
+[00:40:27] Raptide: nice score
+[00:40:29] DaddyStage: !mp map 2797214
+[00:40:30] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2797214 xi - .357 Magnum
+[00:40:33] Koteykaaa: nice
+[00:40:33] Koteykaaa: thx
+[00:40:46] Raptide: this map is like 40% free, 10% diff spike, 50% free
+[00:40:47] Raptide: very good pool
+[00:40:48] BanchoBot: All players are ready
+[00:40:49] Raptide: glhf
+[00:40:55] Koteykaaa: glhf!
+[00:41:06] DaddyStage: !mp settings
+[00:41:07] BanchoBot: Room name: PTFM: (Qualifiers) vs (EX4), History: https://osu.ppy.sh/mp/105718324
+[00:41:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/2797214 xi - .357 Magnum
+[00:41:07] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:41:07] BanchoBot: Active mods: Freemod
+[00:41:07] BanchoBot: Players: 2
+[00:41:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/7804244 Koteykaaa       [NoFail, Hidden]
+[00:41:07] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8268978 Raptide         [NoFail, Hidden]
+[00:41:07] DaddyStage: !mp start 5 glhf
+[00:41:08] BanchoBot: Match starts in 5 seconds
+[00:41:08] BanchoBot: Queued the match to start in 5 seconds
+[00:41:09] BanchoBot: Match starts in 4 seconds
+[00:41:10] BanchoBot: Match starts in 3 seconds
+[00:41:11] BanchoBot: Good luck, have fun!
+[00:41:13] BanchoBot: The match has started!
+[00:43:29] BanchoBot: Raptide finished playing (Score: 942434, PASSED).
+[00:43:30] BanchoBot: Koteykaaa finished playing (Score: 655664, PASSED).
+[00:43:30] BanchoBot: The match has finished!
+[00:43:36] Koteykaaa: nice fc
+[00:43:38] Raptide: ty ref!!!
+[00:43:40] Raptide: ty <3
+[00:43:43] Raptide: byebye
+[00:43:44] BanchoBot: Raptide left the game.
+[00:43:44] Koteykaaa: i just notelocked
+[00:43:48] Koteykaaa: ty for ref
+[00:43:48] Koteykaaa: o/
+[00:43:49] BanchoBot: Koteykaaa left the game.
+[00:43:57] DaddyStage: !mp close
+[00:43:57] BanchoBot: Closed the match

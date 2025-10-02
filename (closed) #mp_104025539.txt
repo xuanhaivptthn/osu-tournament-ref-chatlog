@@ -1,0 +1,827 @@
+[20:56:08] Joined #mp_104025539
+[20:56:08] BCraftMG: !mp settings
+[20:56:09] BanchoBot: Room name: OWC22VN: (Qualifiers) vs (Q13), History: https://osu.ppy.sh/mp/104025539
+[20:56:09] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[20:56:09] BanchoBot: Players: 0
+[20:56:20] BCraftMG: !mp set 0 3 8
+[20:56:21] BCraftMG: !mp invite #3389195
+[20:56:22] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[20:56:23] BanchoBot: Invited Leiv to the room
+[20:56:23] BCraftMG: !mp invite #11976076
+[20:56:24] BanchoBot: Invited aquasimp to the room
+[20:56:25] BCraftMG: !mp invite #4039647
+[20:56:26] BanchoBot: Invited SkyArrow to the room
+[20:56:27] BCraftMG: !mp invite #14977562
+[20:56:27] BanchoBot: Invited mizumi_a to the room
+[20:56:30] BanchoBot: Leiv joined in slot 1.
+[20:56:39] BanchoBot: SkyArrow joined in slot 2.
+[20:56:45] SkyArrow: o/
+[20:56:47] Leiv: xin chao anh
+[20:56:48] BCraftMG: o/
+[20:56:50] Leiv: toi se xe lan
+[20:56:56] Leiv: hen gap ae owc nam sau
+[20:56:57] BCraftMG: !mp map 3744413 0
+[20:56:58] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3744413 SALTY DOG - CHRONUS ANCHOR
+[20:56:58] BanchoBot: Changed match mode to Osu
+[20:56:59] BCraftMG: !mp mods 1
+[20:56:59] SkyArrow: toi chua down pool ae
+[20:56:59] Leiv: :(
+[20:56:59] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:57:00] BanchoBot: aquasimp joined in slot 3.
+[20:57:07] SkyArrow: choi den dau down den do
+[20:57:19] Leiv: vao tau hai thoi
+[20:57:27] Leiv: DT toi <250k nha
+[20:57:59] aquasimp: xin 1 slot tau hai voi
+[20:58:07] SkyArrow: da
+[20:58:11] Leiv: +n xe lan tau hai owc tryout
+[20:58:17] BCraftMG: !mp invite #14977562
+[20:58:18] BanchoBot: Invited mizumi_a to the room
+[20:58:19] Leiv: mizumi where
+[20:58:56] BanchoBot: SkyArrow moved to slot 6
+[20:58:57] BanchoBot: SkyArrow moved to slot 2
+[20:58:58] BanchoBot: SkyArrow moved to slot 6
+[20:58:58] BanchoBot: SkyArrow moved to slot 2
+[20:58:59] BanchoBot: SkyArrow moved to slot 6
+[20:59:00] BanchoBot: SkyArrow moved to slot 2
+[20:59:00] BanchoBot: SkyArrow moved to slot 6
+[20:59:01] BCraftMG: 🚋🚋🚋
+[20:59:01] BanchoBot: SkyArrow moved to slot 2
+[20:59:02] BanchoBot: SkyArrow moved to slot 6
+[20:59:03] BanchoBot: SkyArrow moved to slot 2
+[20:59:50] BCraftMG: chua thay anh mizumi rep
+[21:00:09] Leiv: mizumi co onl k
+[21:00:17] aquasimp: có mà
+[21:00:19] SkyArrow: !where mizumi_a
+[21:00:19] BanchoBot: mizumi_a is in Vietnam
+[21:00:21] BCraftMG: !mp invite #14977562
+[21:00:21] BanchoBot: Invited mizumi_a to the room
+[21:00:24] BCraftMG: bancho momento
+[21:00:35] aquasimp: prob sleepin
+[21:00:46] BCraftMG: anh nao spam invite ingame di
+[21:00:48] BanchoBot: mizumi_a joined in slot 4.
+[21:00:53] BCraftMG: a day r
+[21:00:53] Leiv: day roi
+[21:00:55] mizumi_a: helo
+[21:00:59] aquasimp: ayo
+[21:01:02] BCraftMG: ola
+[21:01:06] Leiv: xin via DT
+[21:01:08] mizumi_a: oh the misery
+[21:01:12] Leiv: tren 300k it nhat 1 map toi mung roi
+[21:01:24] aquasimp: tren 100k 1 map con mung hon
+[21:01:35] Leiv: DT1 250k
+[21:01:35] SkyArrow: dzo ae
+[21:01:37] mizumi_a: anh leiv map nao cung 300k lun
+[21:01:37] SkyArrow: golf
+[21:01:40] BanchoBot: All players are ready
+[21:01:42] aquasimp: golfers
+[21:01:43] Leiv: thua
+[21:01:45] BCraftMG: !mp settings
+[21:01:46] mizumi_a: danh golf nh ae
+[21:01:46] BanchoBot: Room name: OWC22VN: (Qualifiers) vs (Q13), History: https://osu.ppy.sh/mp/104025539
+[21:01:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/3744413 SALTY DOG - CHRONUS ANCHOR
+[21:01:46] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:01:46] BanchoBot: Active mods: NoFail
+[21:01:46] BanchoBot: Players: 4
+[21:01:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3389195 Leiv            
+[21:01:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        
+[21:01:46] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11976076 aquasimp        
+[21:01:46] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14977562 mizumi_a        
+[21:01:47] BCraftMG: !mp start 5 glhf
+[21:01:48] BanchoBot: Match starts in 5 seconds
+[21:01:48] BanchoBot: Queued the match to start in 5 seconds
+[21:01:50] Leiv: golf
+[21:01:50] BanchoBot: Match starts in 4 seconds
+[21:01:51] BanchoBot: Match starts in 3 seconds
+[21:01:52] BanchoBot: Good luck, have fun!
+[21:01:54] BanchoBot: The match has started!
+[21:06:03] BanchoBot: Leiv finished playing (Score: 476886, PASSED).
+[21:06:03] BanchoBot: mizumi_a finished playing (Score: 747695, PASSED).
+[21:06:03] BanchoBot: SkyArrow finished playing (Score: 406384, PASSED).
+[21:06:04] BanchoBot: aquasimp finished playing (Score: 553185, PASSED).
+[21:06:04] BanchoBot: The match has finished!
+[21:06:17] BCraftMG: !mp map 3438674 0
+[21:06:18] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3438674 UI-70 - Mou Uta Shika Kikoenai
+[21:06:18] BanchoBot: Changed match mode to Osu
+[21:06:19] aquasimp: jump to vl
+[21:06:23] mizumi_a: yes
+[21:06:29] mizumi_a: forgor about slow slider
+[21:06:37] aquasimp: slow slider :skull:
+[21:06:58] BanchoBot: All players are ready
+[21:07:01] Leiv: nm1 die
+[21:07:03] Leiv: nm2 die tiep
+[21:07:09] aquasimp: di danh golf tiep ae
+[21:07:10] BCraftMG: !mp settings
+[21:07:11] BanchoBot: Room name: OWC22VN: (Qualifiers) vs (Q13), History: https://osu.ppy.sh/mp/104025539
+[21:07:11] BanchoBot: Beatmap: https://osu.ppy.sh/b/3438674 UI-70 - Mou Uta Shika Kikoenai
+[21:07:11] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:07:11] BanchoBot: Active mods: NoFail
+[21:07:11] BanchoBot: Players: 4
+[21:07:11] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3389195 Leiv            
+[21:07:11] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        
+[21:07:11] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11976076 aquasimp        
+[21:07:11] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14977562 mizumi_a        
+[21:07:13] BCraftMG: !mp start 3
+[21:07:14] BanchoBot: Match starts in 3 seconds
+[21:07:14] BanchoBot: Queued the match to start in 3 seconds
+[21:07:16] BanchoBot: Good luck, have fun!
+[21:07:17] BanchoBot: The match has started!
+[21:07:20] mizumi_a: hole in one nhe ae
+[21:09:41] BanchoBot: Leiv finished playing (Score: 545196, PASSED).
+[21:09:43] BanchoBot: mizumi_a finished playing (Score: 363393, PASSED).
+[21:09:44] BanchoBot: aquasimp finished playing (Score: 194214, PASSED).
+[21:09:44] BanchoBot: SkyArrow finished playing (Score: 423754, PASSED).
+[21:09:44] BanchoBot: The match has finished!
+[21:09:44] Leiv: :skull:
+[21:09:53] BCraftMG: !mp map 3338638 0
+[21:09:54] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3338638 POP ART TOWN - i
+[21:09:54] BanchoBot: Changed match mode to Osu
+[21:09:55] aquasimp: bot frag
+[21:09:57] aquasimp: KEKW
+[21:10:05] mizumi_a: damn cat stepped on my f9
+[21:10:07] mizumi_a: one sec
+[21:10:15] Leiv: water break
+[21:10:21] BCraftMG: meow
+[21:10:28] aquasimp: segg break
+[21:10:50] mizumi_a: ok letsg o
+[21:11:14] BanchoBot: All players are ready
+[21:11:18] BCraftMG: !mp settings
+[21:11:19] aquasimp: gomen
+[21:11:20] BanchoBot: Room name: OWC22VN: (Qualifiers) vs (Q13), History: https://osu.ppy.sh/mp/104025539
+[21:11:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/3338638 POP ART TOWN - i
+[21:11:20] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:11:20] BanchoBot: Active mods: NoFail
+[21:11:20] BanchoBot: Players: 4
+[21:11:20] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3389195 Leiv            
+[21:11:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        
+[21:11:20] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11976076 aquasimp        
+[21:11:20] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14977562 mizumi_a        
+[21:11:21] aquasimp: gotcha waiting
+[21:11:24] BCraftMG: !mp start 5
+[21:11:25] BanchoBot: Match starts in 5 seconds
+[21:11:25] BanchoBot: Queued the match to start in 5 seconds
+[21:11:26] BanchoBot: Match starts in 4 seconds
+[21:11:27] BanchoBot: Match starts in 3 seconds
+[21:11:28] BanchoBot: Good luck, have fun!
+[21:11:31] BanchoBot: The match has started!
+[21:16:06] BanchoBot: SkyArrow finished playing (Score: 303851, PASSED).
+[21:16:06] BanchoBot: mizumi_a finished playing (Score: 653382, PASSED).
+[21:16:06] BanchoBot: Leiv finished playing (Score: 141071, PASSED).
+[21:16:08] BanchoBot: aquasimp finished playing (Score: 212743, PASSED).
+[21:16:08] BanchoBot: The match has finished!
+[21:16:15] BCraftMG: !mp map 3163386 0
+[21:16:16] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3163386 ginkiha x Hommarju x t+pazolite - CROSSING DELTA
+[21:16:16] BanchoBot: Changed match mode to Osu
+[21:16:26] Leiv: xe lan
+[21:16:40] aquasimp: :skull:
+[21:16:48] mizumi_a: this not even tech
+[21:16:51] mizumi_a: budget nm2
+[21:16:55] mizumi_a: :skull
+[21:16:58] SkyArrow: pog
+[21:17:07] Leiv: nm4 banger song
+[21:17:11] BanchoBot: All players are ready
+[21:17:12] Leiv: map :skull:
+[21:17:17] BCraftMG: !mp settings
+[21:17:19] BanchoBot: Room name: OWC22VN: (Qualifiers) vs (Q13), History: https://osu.ppy.sh/mp/104025539
+[21:17:19] BanchoBot: Beatmap: https://osu.ppy.sh/b/3163386 ginkiha x Hommarju x t+pazolite - CROSSING DELTA
+[21:17:19] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:17:19] BanchoBot: Active mods: NoFail
+[21:17:19] BanchoBot: Players: 4
+[21:17:19] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3389195 Leiv            
+[21:17:19] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        
+[21:17:19] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11976076 aquasimp        
+[21:17:19] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14977562 mizumi_a        
+[21:17:24] BCraftMG: !mp start 4
+[21:17:25] BanchoBot: Match starts in 4 seconds
+[21:17:25] BanchoBot: Queued the match to start in 4 seconds
+[21:17:26] BanchoBot: Match starts in 3 seconds
+[21:17:27] BanchoBot: Good luck, have fun!
+[21:17:29] BanchoBot: The match has started!
+[21:19:53] SkyArrow: toi tu choi choi map nay ae a
+[21:21:12] BanchoBot: SkyArrow finished playing (Score: 42161, PASSED).
+[21:21:12] BanchoBot: aquasimp finished playing (Score: 138467, PASSED).
+[21:21:12] BanchoBot: mizumi_a finished playing (Score: 317208, PASSED).
+[21:21:13] BanchoBot: Leiv finished playing (Score: 194816, PASSED).
+[21:21:13] BanchoBot: The match has finished!
+[21:21:20] BCraftMG: :skull:
+[21:21:20] BCraftMG: !mp map 3169031 0
+[21:21:21] Leiv: uoc 300k
+[21:21:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3169031 goreshit - Satori De Pon!
+[21:21:21] BanchoBot: Changed match mode to Osu
+[21:21:26] Leiv: augh
+[21:21:32] aquasimp: cái ớ overlap riel :skull:
+[21:21:34] Leiv: NM4 con flow hon NM2
+[21:21:40] Leiv: pool nay notelock hell
+[21:21:44] Leiv: 4riu
+[21:21:51] mizumi_a: tru tru
+[21:22:07] BCraftMG: 💀
+[21:22:18] mizumi_a: skul emoji times 6
+[21:22:23] BCraftMG: ☠
+[21:22:53] BanchoBot: All players are ready
+[21:22:56] BCraftMG: !mp settings
+[21:22:57] BanchoBot: Room name: OWC22VN: (Qualifiers) vs (Q13), History: https://osu.ppy.sh/mp/104025539
+[21:22:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/3169031 goreshit - Satori De Pon!
+[21:22:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:22:57] BanchoBot: Active mods: NoFail
+[21:22:57] BanchoBot: Players: 4
+[21:22:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3389195 Leiv            
+[21:22:57] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        
+[21:22:57] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11976076 aquasimp        
+[21:22:57] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14977562 mizumi_a        
+[21:23:04] BCraftMG: !mp start 7
+[21:23:05] BanchoBot: Match starts in 7 seconds
+[21:23:05] BanchoBot: Queued the match to start in 7 seconds
+[21:23:07] BanchoBot: Match starts in 5 seconds
+[21:23:08] BanchoBot: Match starts in 4 seconds
+[21:23:10] BanchoBot: Match starts in 3 seconds
+[21:23:11] BanchoBot: Good luck, have fun!
+[21:23:13] BanchoBot: The match has started!
+[21:25:39] BanchoBot: Leiv finished playing (Score: 298117, PASSED).
+[21:25:42] BanchoBot: aquasimp finished playing (Score: 163523, PASSED).
+[21:25:42] BanchoBot: SkyArrow finished playing (Score: 423264, PASSED).
+[21:25:43] BanchoBot: mizumi_a finished playing (Score: 614509, PASSED).
+[21:25:43] BanchoBot: The match has finished!
+[21:25:49] BCraftMG: !mp map 3406394 0
+[21:25:50] Leiv: stamina issue
+[21:25:50] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3406394 *wakadori - NightTheater
+[21:25:50] BanchoBot: Changed match mode to Osu
+[21:25:56] aquasimp: actually double-tapped
+[21:25:58] aquasimp: :skull:
+[21:26:17] Leiv: gimmick map
+[21:26:21] Leiv: augh
+[21:26:32] mizumi_a: "its not sputnik"
+[21:26:41] BanchoBot: All players are ready
+[21:26:50] aquasimp: maybe it is
+[21:26:50] BCraftMG: play something else
+[21:26:52] BCraftMG: !mp settings
+[21:26:52] BanchoBot: Room name: OWC22VN: (Qualifiers) vs (Q13), History: https://osu.ppy.sh/mp/104025539
+[21:26:52] BanchoBot: Beatmap: https://osu.ppy.sh/b/3406394 *wakadori - NightTheater
+[21:26:52] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:26:52] BanchoBot: Active mods: NoFail
+[21:26:52] BanchoBot: Players: 4
+[21:26:52] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3389195 Leiv            
+[21:26:52] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        
+[21:26:52] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11976076 aquasimp        
+[21:26:52] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14977562 mizumi_a        
+[21:26:55] BCraftMG: !mp start 5
+[21:26:55] BanchoBot: Match starts in 5 seconds
+[21:26:55] BanchoBot: Queued the match to start in 5 seconds
+[21:26:56] BanchoBot: Match starts in 4 seconds
+[21:26:57] BanchoBot: Match starts in 3 seconds
+[21:26:58] BanchoBot: Good luck, have fun!
+[21:27:01] BanchoBot: The match has started!
+[21:29:09] BanchoBot: Leiv finished playing (Score: 161881, PASSED).
+[21:29:09] BanchoBot: mizumi_a finished playing (Score: 168931, PASSED).
+[21:29:09] BanchoBot: SkyArrow finished playing (Score: 167771, PASSED).
+[21:29:10] BanchoBot: aquasimp finished playing (Score: 57670, PASSED).
+[21:29:10] BanchoBot: The match has finished!
+[21:29:18] BCraftMG: !mp map 2494513 0
+[21:29:18] Leiv: gone
+[21:29:18] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2494513 Toromaru - Shounen wa Sora o Tadoru Prog Piano Remix
+[21:29:18] BanchoBot: Changed match mode to Osu
+[21:29:52] BanchoBot: All players are ready
+[21:30:00] BCraftMG: !mp settings
+[21:30:01] BanchoBot: Room name: OWC22VN: (Qualifiers) vs (Q13), History: https://osu.ppy.sh/mp/104025539
+[21:30:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/2494513 Toromaru - Shounen wa Sora o Tadoru Prog Piano Remix
+[21:30:01] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:30:01] BanchoBot: Active mods: NoFail
+[21:30:01] BanchoBot: Players: 4
+[21:30:01] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3389195 Leiv            
+[21:30:01] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        
+[21:30:01] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11976076 aquasimp        
+[21:30:01] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14977562 mizumi_a        
+[21:30:08] BCraftMG: !mp start 2
+[21:30:09] BanchoBot: Match starts in 2 seconds
+[21:30:09] BanchoBot: Queued the match to start in 2 seconds
+[21:30:11] BanchoBot: The match has started!
+[21:32:16] BanchoBot: aquasimp finished playing (Score: 117806, PASSED).
+[21:32:17] BanchoBot: SkyArrow finished playing (Score: 415290, PASSED).
+[21:32:17] BanchoBot: Leiv finished playing (Score: 124579, PASSED).
+[21:32:17] BanchoBot: mizumi_a finished playing (Score: 396563, PASSED).
+[21:32:17] BanchoBot: The match has finished!
+[21:32:21] BCraftMG: !mp map 2559639 0
+[21:32:22] SkyArrow: tai sao
+[21:32:22] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2559639 raito - Blood Drain -Again-
+[21:32:22] BanchoBot: Changed match mode to Osu
+[21:32:22] BCraftMG: !mp mods 9
+[21:32:23] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:32:26] SkyArrow: cai nay trong pool
+[21:32:30] SkyArrow: the easier nm3
+[21:32:47] aquasimp: time to riu xe lan
+[21:32:52] Leiv: oke
+[21:32:55] Leiv: sliderspam
+[21:33:13] Leiv: toi bi cap 400k HD1 :skull:
+[21:33:19] BanchoBot: All players are ready
+[21:33:21] mizumi_a: i chet
+[21:33:24] BCraftMG: !mp settings
+[21:33:25] BanchoBot: Room name: OWC22VN: (Qualifiers) vs (Q13), History: https://osu.ppy.sh/mp/104025539
+[21:33:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/2559639 raito - Blood Drain -Again-
+[21:33:25] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:33:25] BanchoBot: Active mods: NoFail, Hidden
+[21:33:25] BanchoBot: Players: 4
+[21:33:25] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3389195 Leiv            
+[21:33:25] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        
+[21:33:25] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11976076 aquasimp        
+[21:33:25] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14977562 mizumi_a        
+[21:33:32] BCraftMG: !mp start 7
+[21:33:33] BanchoBot: Match starts in 7 seconds
+[21:33:33] BanchoBot: Queued the match to start in 7 seconds
+[21:33:35] BanchoBot: Match starts in 5 seconds
+[21:33:36] BanchoBot: Match starts in 4 seconds
+[21:33:37] BanchoBot: Match starts in 3 seconds
+[21:33:38] BanchoBot: Good luck, have fun!
+[21:33:40] BanchoBot: The match has started!
+[21:37:26] BanchoBot: mizumi_a finished playing (Score: 196084, PASSED).
+[21:37:27] BanchoBot: aquasimp finished playing (Score: 173009, PASSED).
+[21:37:27] BanchoBot: Leiv finished playing (Score: 404311, PASSED).
+[21:37:27] BanchoBot: SkyArrow finished playing (Score: 252000, PASSED).
+[21:37:27] BanchoBot: The match has finished!
+[21:37:29] Leiv: thua
+[21:37:30] BCraftMG: !mp map 3458266 0
+[21:37:31] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3458266 Misumi - Alter Ego feat. Hatsune Miku
+[21:37:31] BanchoBot: Changed match mode to Osu
+[21:37:32] Leiv: ko len 500k dc
+[21:37:40] BCraftMG: nha em co ban xe lan
+[21:37:43] mizumi_a: wow
+[21:37:45] BCraftMG: anh nao mua ib nhe
+[21:37:54] mizumi_a: minh mua luon nhe
+[21:37:59] mizumi_a: vi map nay xxxxxx
+[21:38:02] aquasimp: xin mua 1 chiec lan gia 25pi netswork
+[21:38:20] BCraftMG: thoi lay re
+[21:38:25] BCraftMG: 20pi + 30 trieu usd
+[21:38:30] Leiv: shipping nhieu anh
+[21:38:42] BanchoBot: All players are ready
+[21:38:42] BCraftMG: free ship nhe anh
+[21:38:48] BCraftMG: tai tien ship tinh vao tien hang r
+[21:38:49] BCraftMG: !mp settings
+[21:38:50] BanchoBot: Room name: OWC22VN: (Qualifiers) vs (Q13), History: https://osu.ppy.sh/mp/104025539
+[21:38:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/3458266 Misumi - Alter Ego feat. Hatsune Miku
+[21:38:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:38:50] BanchoBot: Active mods: NoFail, Hidden
+[21:38:50] BanchoBot: Players: 4
+[21:38:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3389195 Leiv            
+[21:38:50] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        
+[21:38:50] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11976076 aquasimp        
+[21:38:50] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14977562 mizumi_a        
+[21:38:53] BCraftMG: !mp start 6
+[21:38:54] BanchoBot: Match starts in 6 seconds
+[21:38:54] BanchoBot: Queued the match to start in 6 seconds
+[21:38:55] BanchoBot: Match starts in 5 seconds
+[21:38:56] BanchoBot: Match starts in 4 seconds
+[21:38:57] BanchoBot: Match starts in 3 seconds
+[21:38:58] BanchoBot: Good luck, have fun!
+[21:39:00] Leiv: cx ge
+[21:39:00] BanchoBot: The match has started!
+[21:42:48] BanchoBot: Leiv finished playing (Score: 256343, PASSED).
+[21:42:48] BanchoBot: SkyArrow finished playing (Score: 50469, PASSED).
+[21:42:48] BanchoBot: mizumi_a finished playing (Score: 84840, PASSED).
+[21:42:49] BanchoBot: aquasimp finished playing (Score: 43757, PASSED).
+[21:42:49] BanchoBot: The match has finished!
+[21:42:53] BCraftMG: !mp map 2926928 0
+[21:42:54] Leiv: dm stream ar8
+[21:42:54] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2926928 Yunosuke feat. Sennzai - Komplexe
+[21:42:54] BanchoBot: Changed match mode to Osu
+[21:43:08] mizumi_a: uoc 100k
+[21:43:21] aquasimp: uoc biet choi
+[21:43:27] BanchoBot: All players are ready
+[21:43:28] mizumi_a: same
+[21:43:28] BanchoBot: SkyArrow moved to slot 6
+[21:43:31] BanchoBot: mizumi_a moved to slot 5
+[21:43:33] BanchoBot: SkyArrow moved to slot 2
+[21:43:34] BanchoBot: mizumi_a moved to slot 4
+[21:43:35] BCraftMG: !mp settings
+[21:43:36] BanchoBot: SkyArrow moved to slot 8
+[21:43:36] BanchoBot: Room name: OWC22VN: (Qualifiers) vs (Q13), History: https://osu.ppy.sh/mp/104025539
+[21:43:36] BanchoBot: Beatmap: https://osu.ppy.sh/b/2926928 Yunosuke feat. Sennzai - Komplexe
+[21:43:36] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:43:36] BanchoBot: Active mods: NoFail, Hidden
+[21:43:36] BanchoBot: Players: 4
+[21:43:36] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3389195 Leiv            
+[21:43:36] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11976076 aquasimp        
+[21:43:36] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14977562 mizumi_a        
+[21:43:36] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        
+[21:43:37] Leiv: HD3 hell
+[21:43:39] BCraftMG: !mp start 5
+[21:43:40] Leiv: flow hell
+[21:43:40] BanchoBot: aquasimp moved to slot 6
+[21:43:40] BanchoBot: Match starts in 5 seconds
+[21:43:40] BanchoBot: Queued the match to start in 5 seconds
+[21:43:41] BanchoBot: Match starts in 4 seconds
+[21:43:42] BanchoBot: Match starts in 3 seconds
+[21:43:43] BanchoBot: Good luck, have fun!
+[21:43:45] BanchoBot: The match has started!
+[21:46:05] BanchoBot: aquasimp finished playing (Score: 57775, PASSED).
+[21:46:05] BanchoBot: SkyArrow finished playing (Score: 203642, PASSED).
+[21:46:06] BanchoBot: mizumi_a finished playing (Score: 150192, PASSED).
+[21:46:06] BanchoBot: Leiv finished playing (Score: 354749, PASSED).
+[21:46:06] BanchoBot: The match has finished!
+[21:46:12] Leiv: uay
+[21:46:17] Leiv: top 1 HD3
+[21:46:19] aquasimp: riu bot frag
+[21:46:27] BCraftMG: !mp map 2459171 0
+[21:46:28] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2459171 THE BINARY - Hana ni Ame o, Kimi ni Uta o
+[21:46:28] BanchoBot: Changed match mode to Osu
+[21:46:34] Leiv: PRAY FOR FC
+[21:46:42] Leiv: 1x hell
+[21:47:26] aquasimp: 1 sec
+[21:47:31] BCraftMG: !mp timer 1
+[21:47:31] BanchoBot: Countdown ends in 1 second
+[21:47:32] BanchoBot: Countdown finished
+[21:47:37] BanchoBot: All players are ready
+[21:47:40] Leiv: tron
+[21:47:43] BCraftMG: !mp settings
+[21:47:43] BanchoBot: Room name: OWC22VN: (Qualifiers) vs (Q13), History: https://osu.ppy.sh/mp/104025539
+[21:47:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/2459171 THE BINARY - Hana ni Ame o, Kimi ni Uta o
+[21:47:43] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:47:43] BanchoBot: Active mods: NoFail, Hidden
+[21:47:43] BanchoBot: Players: 4
+[21:47:43] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3389195 Leiv            
+[21:47:43] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14977562 mizumi_a        
+[21:47:43] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11976076 aquasimp        
+[21:47:43] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        
+[21:47:46] aquasimp: riu 1 sec
+[21:47:50] BCraftMG: !mp start 3 riu
+[21:47:51] BanchoBot: Match starts in 3 seconds
+[21:47:51] BanchoBot: Queued the match to start in 3 seconds
+[21:47:52] BanchoBot: Good luck, have fun!
+[21:47:54] BanchoBot: The match has started!
+[21:52:13] BanchoBot: Leiv finished playing (Score: 448330, PASSED).
+[21:52:13] BanchoBot: mizumi_a finished playing (Score: 437558, PASSED).
+[21:52:15] BanchoBot: SkyArrow finished playing (Score: 385702, PASSED).
+[21:52:15] BanchoBot: aquasimp finished playing (Score: 257132, PASSED).
+[21:52:15] BanchoBot: The match has finished!
+[21:52:16] BCraftMG: !mp map 3056371 0
+[21:52:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3056371 ShinRa-Bansho - Pink Kurage to, Sotto, Kiss o Shita.
+[21:52:17] BanchoBot: Changed match mode to Osu
+[21:52:19] Leiv: dit me con kien
+[21:52:19] BCraftMG: !mp mods 17
+[21:52:20] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[21:52:24] Leiv: no bo len happy t
+[21:52:31] mizumi_a: a leiv pzo wa
+[21:52:51] Leiv: bay h den chuyen muc toi xe lan tiep
+[21:52:55] Leiv: HR DT <200k nha
+[21:53:04] mizumi_a: noi j ki
+[21:53:15] aquasimp: xao quan qua pa
+[21:53:17] Leiv: DT1 211k
+[21:53:19] Leiv: riu
+[21:53:24] BanchoBot: All players are ready
+[21:53:37] BCraftMG: !mp settings
+[21:53:39] BanchoBot: Room name: OWC22VN: (Qualifiers) vs (Q13), History: https://osu.ppy.sh/mp/104025539
+[21:53:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/3056371 ShinRa-Bansho - Pink Kurage to, Sotto, Kiss o Shita.
+[21:53:39] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:53:39] BanchoBot: Active mods: NoFail, HardRock
+[21:53:39] BanchoBot: Players: 4
+[21:53:39] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3389195 Leiv            
+[21:53:39] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14977562 mizumi_a        
+[21:53:39] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11976076 aquasimp        
+[21:53:39] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        
+[21:53:43] BCraftMG: !mp start 03
+[21:53:44] BanchoBot: Match starts in 3 seconds
+[21:53:44] BanchoBot: Queued the match to start in 3 seconds
+[21:53:45] BanchoBot: Good luck, have fun!
+[21:53:47] BanchoBot: The match has started!
+[21:57:45] BanchoBot: SkyArrow finished playing (Score: 454519, PASSED).
+[21:57:45] BanchoBot: mizumi_a finished playing (Score: 490671, PASSED).
+[21:57:45] BanchoBot: aquasimp finished playing (Score: 227604, PASSED).
+[21:57:47] BanchoBot: Leiv finished playing (Score: 327274, PASSED).
+[21:57:47] BanchoBot: The match has finished!
+[21:58:00] BCraftMG: !mp map 3442242 0
+[21:58:01] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3442242 VIVINOS - Ochiru Mangetsu ~Chi no squi~
+[21:58:01] BanchoBot: Changed match mode to Osu
+[21:58:06] Leiv: can we skip this
+[21:58:10] Leiv: :(
+[21:58:12] aquasimp: thoi roi
+[21:58:17] aquasimp: welcome to 36 riu
+[21:58:59] BanchoBot: All players are ready
+[21:59:26] BCraftMG: !mp settings
+[21:59:28] BanchoBot: Room name: OWC22VN: (Qualifiers) vs (Q13), History: https://osu.ppy.sh/mp/104025539
+[21:59:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/3442242 VIVINOS - Ochiru Mangetsu ~Chi no squi~
+[21:59:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:59:28] BanchoBot: Active mods: NoFail, HardRock
+[21:59:28] BanchoBot: Players: 4
+[21:59:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3389195 Leiv            
+[21:59:28] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14977562 mizumi_a        
+[21:59:28] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11976076 aquasimp        
+[21:59:28] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        
+[21:59:32] BCraftMG: !mp start 5
+[21:59:32] BanchoBot: Match starts in 5 seconds
+[21:59:32] BanchoBot: Queued the match to start in 5 seconds
+[21:59:34] BanchoBot: Match starts in 4 seconds
+[21:59:35] BanchoBot: Match starts in 3 seconds
+[21:59:36] BanchoBot: Good luck, have fun!
+[21:59:38] BanchoBot: The match has started!
+[22:01:43] BanchoBot: mizumi_a finished playing (Score: 370393, PASSED).
+[22:01:44] BanchoBot: SkyArrow finished playing (Score: 516192, PASSED).
+[22:01:44] BanchoBot: aquasimp finished playing (Score: 141521, PASSED).
+[22:01:44] BanchoBot: Leiv finished playing (Score: 73146, PASSED).
+[22:01:44] BanchoBot: The match has finished!
+[22:01:52] Leiv: wtf
+[22:01:54] SkyArrow: o kia
+[22:01:56] Leiv: UOC 500K
+[22:01:58] Leiv: UOC
+[22:01:58] SkyArrow: toi ko muon di owc dau
+[22:02:00] mizumi_a: UOC
+[22:02:00] SkyArrow: dung bat coc
+[22:02:07] BCraftMG: !mp map 2640443 0
+[22:02:08] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2640443 AZKi - Intersection
+[22:02:08] BanchoBot: Changed match mode to Osu
+[22:02:20] aquasimp: deadass serious
+[22:02:25] Leiv: haha
+[22:02:28] Leiv: good joke skyarrow
+[22:02:30] Leiv: you go owc thanks
+[22:02:34] Leiv: i see yall next year
+[22:02:40] BanchoBot: All players are ready
+[22:02:42] BCraftMG: !mp settings
+[22:02:43] BanchoBot: Room name: OWC22VN: (Qualifiers) vs (Q13), History: https://osu.ppy.sh/mp/104025539
+[22:02:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/2640443 AZKi - Intersection
+[22:02:43] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:02:43] BanchoBot: Active mods: NoFail, HardRock
+[22:02:43] BanchoBot: Players: 4
+[22:02:43] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3389195 Leiv            
+[22:02:43] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14977562 mizumi_a        
+[22:02:43] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11976076 aquasimp        
+[22:02:43] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        
+[22:02:52] BCraftMG: !mp start 5 toi se bat coc cac anh
+[22:02:53] BanchoBot: Match starts in 5 seconds
+[22:02:53] BanchoBot: Queued the match to start in 5 seconds
+[22:02:54] BanchoBot: Match starts in 4 seconds
+[22:02:55] BanchoBot: Match starts in 3 seconds
+[22:02:56] BanchoBot: Good luck, have fun!
+[22:02:58] BanchoBot: The match has started!
+[22:06:37] BanchoBot: Leiv finished playing (Score: 110893, PASSED).
+[22:06:37] BanchoBot: aquasimp finished playing (Score: 128300, PASSED).
+[22:06:38] BanchoBot: mizumi_a finished playing (Score: 739627, PASSED).
+[22:06:40] BanchoBot: SkyArrow finished playing (Score: 617306, PASSED).
+[22:06:40] BanchoBot: The match has finished!
+[22:06:42] BCraftMG: !mp map 3731599 0
+[22:06:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3731599 katagiri - #2wise4u
+[22:06:43] BanchoBot: Changed match mode to Osu
+[22:06:53] mizumi_a: wow
+[22:06:55] mizumi_a: sightread
+[22:06:57] Leiv: mizumi
+[22:06:59] Leiv: what the firetruck
+[22:07:00] mizumi_a: anh khanh sky dung lo
+[22:07:04] mizumi_a: em vao cho
+[22:07:06] mizumi_a: :trol:
+[22:07:27] SkyArrow: da nhuong mn het
+[22:07:31] Leiv: kiểu này tôi 3 năm nữa mới đi owc
+[22:07:33] Leiv: :)))))))
+[22:07:36] SkyArrow: toi o day chi de warmup ti danh giai thui
+[22:07:46] BanchoBot: All players are ready
+[22:07:50] BCraftMG: !mp settings
+[22:07:51] BanchoBot: Room name: OWC22VN: (Qualifiers) vs (Q13), History: https://osu.ppy.sh/mp/104025539
+[22:07:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/3731599 katagiri - #2wise4u
+[22:07:51] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:07:51] BanchoBot: Active mods: NoFail, HardRock
+[22:07:51] BanchoBot: Players: 4
+[22:07:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3389195 Leiv            
+[22:07:51] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14977562 mizumi_a        
+[22:07:51] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11976076 aquasimp        
+[22:07:51] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        
+[22:07:53] BCraftMG: !mp start 4
+[22:07:54] BanchoBot: Match starts in 4 seconds
+[22:07:54] BanchoBot: Queued the match to start in 4 seconds
+[22:07:55] BanchoBot: Match starts in 3 seconds
+[22:07:56] BanchoBot: Good luck, have fun!
+[22:07:56] aquasimp: o kia
+[22:07:58] BanchoBot: The match has started!
+[22:10:51] BanchoBot: mizumi_a finished playing (Score: 661123, PASSED).
+[22:10:53] BanchoBot: Leiv finished playing (Score: 314405, PASSED).
+[22:10:53] BanchoBot: aquasimp finished playing (Score: 210609, PASSED).
+[22:10:53] BanchoBot: SkyArrow finished playing (Score: 381330, PASSED).
+[22:10:53] BanchoBot: The match has finished!
+[22:11:00] Leiv: dead
+[22:11:09] BCraftMG: !mp map 459939 0
+[22:11:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/459939 Mizukara o Enshutsu Suru Otome no Kai - Girlish Lover
+[22:11:10] BanchoBot: Changed match mode to Osu
+[22:11:13] BCraftMG: !mp mods 65
+[22:11:14] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[22:11:16] BCraftMG: !mp settings
+[22:11:17] BanchoBot: Room name: OWC22VN: (Qualifiers) vs (Q13), History: https://osu.ppy.sh/mp/104025539
+[22:11:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/459939 Mizukara o Enshutsu Suru Otome no Kai - Girlish Lover
+[22:11:17] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:11:17] BanchoBot: Active mods: NoFail, DoubleTime
+[22:11:17] BanchoBot: Players: 4
+[22:11:17] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/3389195 Leiv            
+[22:11:17] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/14977562 mizumi_a        
+[22:11:17] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/11976076 aquasimp        
+[22:11:17] BanchoBot: Slot 8  No Map    https://osu.ppy.sh/u/4039647 SkyArrow        
+[22:11:25] Leiv: 2p
+[22:11:31] Leiv: water break augh
+[22:12:06] mizumi_a: stay hydrated bois
+[22:12:14] BCraftMG: stay wet
+[22:12:26] mizumi_a: cover yourself in oil
+[22:12:28] SkyArrow: im wet
+[22:12:38] aquasimp: u w0t
+[22:12:40] aquasimp: monkaW
+[22:13:00] Leiv: we're all wet
+[22:13:08] BCraftMG: but why
+[22:13:25] Leiv: cause of sweat
+[22:13:27] Leiv: right?
+[22:13:37] mizumi_a: yall sweaty
+[22:13:38] BanchoBot: All players are ready
+[22:13:40] mizumi_a: where the fan
+[22:13:40] BCraftMG: !mp settings
+[22:13:42] BanchoBot: Room name: OWC22VN: (Qualifiers) vs (Q13), History: https://osu.ppy.sh/mp/104025539
+[22:13:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/459939 Mizukara o Enshutsu Suru Otome no Kai - Girlish Lover
+[22:13:42] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:13:42] BanchoBot: Active mods: NoFail, DoubleTime
+[22:13:42] BanchoBot: Players: 4
+[22:13:42] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3389195 Leiv            
+[22:13:42] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14977562 mizumi_a        
+[22:13:42] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11976076 aquasimp        
+[22:13:42] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        
+[22:13:47] Leiv: i got an AC above me
+[22:13:47] BCraftMG: @mp start 3
+[22:13:48] SkyArrow: im hard
+[22:13:49] Leiv: still sweatin
+[22:13:51] SkyArrow: im wet
+[22:13:51] Leiv: hard af
+[22:13:55] BCraftMG: !mp start 3
+[22:13:56] BanchoBot: Match starts in 3 seconds
+[22:13:56] BanchoBot: Queued the match to start in 3 seconds
+[22:13:57] aquasimp: we're sweaty cuz we're in HELL
+[22:13:57] BanchoBot: Good luck, have fun!
+[22:13:59] BanchoBot: The match has started!
+[22:14:03] SkyArrow: throbing
+[22:16:39] BanchoBot: mizumi_a finished playing (Score: 1157573, PASSED).
+[22:16:39] BanchoBot: SkyArrow finished playing (Score: 641821, PASSED).
+[22:16:39] BanchoBot: Leiv finished playing (Score: 330847, PASSED).
+[22:16:41] BanchoBot: aquasimp finished playing (Score: 164331, PASSED).
+[22:16:41] BanchoBot: The match has finished!
+[22:16:48] BCraftMG: !mp map 3612366 0
+[22:16:49] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3612366 DJ'TEKINA//SOMETHING - Internet bitch P*Light Remix
+[22:16:49] BanchoBot: Changed match mode to Osu
+[22:16:52] Leiv: oke
+[22:16:55] mizumi_a: cczczcczxczxczxczxczxc zx czczx czxcczczczxczxc zxczxczxczczczczc
+[22:16:55] Leiv: mizumi auto vao OWC
+[22:17:17] Leiv: xin tip read DT
+[22:17:20] Leiv: khi ko co HD
+[22:17:23] mizumi_a: rafis skin
+[22:17:30] mizumi_a: and then
+[22:17:32] mizumi_a: gamma
+[22:17:33] mizumi_a: and then
+[22:17:35] mizumi_a: cxzcxzczxczxczxczxczxc
+[22:17:42] Leiv: toi ko xai gamma
+[22:17:45] Leiv: toi cung ko co rafis skin
+[22:17:47] Leiv: hvick thoi
+[22:17:50] Leiv: :happyfuntime:
+[22:18:04] mizumi_a: vay den luc de thay doi roi
+[22:18:06] mizumi_a: :trol
+[22:18:10] BanchoBot: All players are ready
+[22:18:13] Leiv: toi xai 1 skin cho tat ca mod
+[22:18:18] BCraftMG: !mp settings
+[22:18:19] BanchoBot: Room name: OWC22VN: (Qualifiers) vs (Q13), History: https://osu.ppy.sh/mp/104025539
+[22:18:19] BanchoBot: Beatmap: https://osu.ppy.sh/b/3612366 DJ'TEKINA//SOMETHING - Internet bitch P*Light Remix
+[22:18:19] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:18:19] BanchoBot: Active mods: NoFail, DoubleTime
+[22:18:19] BanchoBot: Players: 4
+[22:18:19] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3389195 Leiv            
+[22:18:19] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14977562 mizumi_a        
+[22:18:19] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11976076 aquasimp        
+[22:18:19] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        
+[22:18:21] BCraftMG: !mp start 3
+[22:18:22] BanchoBot: Match starts in 3 seconds
+[22:18:22] BanchoBot: Queued the match to start in 3 seconds
+[22:18:23] BanchoBot: Good luck, have fun!
+[22:18:25] BanchoBot: The match has started!
+[22:21:00] BanchoBot: Leiv finished playing (Score: 100062, PASSED).
+[22:21:00] BanchoBot: SkyArrow finished playing (Score: 572662, PASSED).
+[22:21:00] BanchoBot: aquasimp finished playing (Score: 107230, PASSED).
+[22:21:00] BanchoBot: mizumi_a finished playing (Score: 833804, PASSED).
+[22:21:00] BanchoBot: The match has finished!
+[22:21:04] BCraftMG: !mp map 3575906 0
+[22:21:04] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3575906 HHHxMMxST - Oboro
+[22:21:04] BanchoBot: Changed match mode to Osu
+[22:21:27] Leiv: instructions unclear
+[22:21:30] Leiv: toi da 100k DT2
+[22:21:34] Leiv: time to die
+[22:22:05] BanchoBot: All players are ready
+[22:22:10] BCraftMG: !mp settings
+[22:22:11] BanchoBot: Room name: OWC22VN: (Qualifiers) vs (Q13), History: https://osu.ppy.sh/mp/104025539
+[22:22:11] BanchoBot: Beatmap: https://osu.ppy.sh/b/3575906 HHHxMMxST - Oboro
+[22:22:11] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:22:11] BanchoBot: Active mods: NoFail, DoubleTime
+[22:22:11] BanchoBot: Players: 4
+[22:22:11] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3389195 Leiv            
+[22:22:11] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14977562 mizumi_a        
+[22:22:11] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11976076 aquasimp        
+[22:22:11] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        
+[22:22:12] BCraftMG: !mp start 5
+[22:22:13] BanchoBot: Match starts in 5 seconds
+[22:22:13] BanchoBot: Queued the match to start in 5 seconds
+[22:22:14] BanchoBot: Match starts in 4 seconds
+[22:22:15] BanchoBot: Match starts in 3 seconds
+[22:22:16] BanchoBot: Good luck, have fun!
+[22:22:18] BanchoBot: The match has started!
+[22:23:44] BanchoBot: mizumi_a finished playing (Score: 423719, PASSED).
+[22:23:44] BanchoBot: aquasimp finished playing (Score: 207332, PASSED).
+[22:23:45] BanchoBot: SkyArrow finished playing (Score: 392613, PASSED).
+[22:23:45] BanchoBot: Leiv finished playing (Score: 146588, PASSED).
+[22:23:45] BanchoBot: The match has finished!
+[22:23:49] BCraftMG: !mp map 3195063 0
+[22:23:49] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3195063 Burak Yeter - Tuesday feat. Danelle Sandoval
+[22:23:49] BanchoBot: Changed match mode to Osu
+[22:25:11] Leiv: y'all good?
+[22:25:32] SkyArrow: no i want kermit
+[22:25:53] BanchoBot: All players are ready
+[22:25:53] Leiv: hmm
+[22:25:54] aquasimp: choke on rice
+[22:25:59] BCraftMG: !mp settings
+[22:26:00] BanchoBot: Room name: OWC22VN: (Qualifiers) vs (Q13), History: https://osu.ppy.sh/mp/104025539
+[22:26:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/3195063 Burak Yeter - Tuesday feat. Danelle Sandoval
+[22:26:00] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:26:00] BanchoBot: Active mods: NoFail, DoubleTime
+[22:26:00] BanchoBot: Players: 4
+[22:26:00] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3389195 Leiv            
+[22:26:00] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14977562 mizumi_a        
+[22:26:00] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11976076 aquasimp        
+[22:26:00] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        
+[22:26:03] SkyArrow: CHOKE ON THIS D
+[22:26:06] BCraftMG: !mp start 4
+[22:26:06] SkyArrow: HAHAHA
+[22:26:06] BanchoBot: Match starts in 4 seconds
+[22:26:06] BanchoBot: Queued the match to start in 4 seconds
+[22:26:07] SkyArrow: FUNLY
+[22:26:08] BanchoBot: Match starts in 3 seconds
+[22:26:08] BanchoBot: Good luck, have fun!
+[22:26:11] BanchoBot: The match has started!
+[22:26:15] Leiv: thua
+[22:26:17] aquasimp: :)
+[22:28:55] BanchoBot: Leiv finished playing (Score: 159588, PASSED).
+[22:28:56] BanchoBot: SkyArrow finished playing (Score: 126397, PASSED).
+[22:28:57] BanchoBot: mizumi_a finished playing (Score: 238555, PASSED).
+[22:28:58] BanchoBot: aquasimp finished playing (Score: 80495, PASSED).
+[22:28:58] BanchoBot: The match has finished!
+[22:29:06] aquasimp: ap WeirdChamp
+[22:29:09] BCraftMG: !mp map 3358506 0
+[22:29:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3358506 Eisyo-kobu - Oriental Blossom -Eika Shuuei-
+[22:29:10] BanchoBot: Changed match mode to Osu
+[22:29:15] BCraftMG: !mp mods Freemod
+[22:29:15] BanchoBot: Disabled all mods, enabled FreeMod
+[22:29:17] Leiv: FM
+[22:29:18] Leiv: FM TB
+[22:29:23] Leiv: HD CUA TOI
+[22:29:29] BCraftMG: ko anh oi toi se
+[22:29:32] BCraftMG: !mp mods 65
+[22:29:33] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[22:29:40] aquasimp: E
+[22:29:47] BCraftMG: !mp mods Freemod
+[22:29:48] BanchoBot: Disabled all mods, enabled FreeMod
+[22:29:49] Leiv: @BCraftMG
+[22:29:50] aquasimp: BO RA
+[22:29:50] Leiv: what doing
+[22:29:51] aquasimp: E
+[22:30:12] mizumi_a: hey can i just play nm
+[22:30:14] BCraftMG: !mp settings
+[22:30:15] BanchoBot: Room name: OWC22VN: (Qualifiers) vs (Q13), History: https://osu.ppy.sh/mp/104025539
+[22:30:15] BanchoBot: Beatmap: https://osu.ppy.sh/b/3358506 Eisyo-kobu - Oriental Blossom -Eika Shuuei-
+[22:30:15] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:30:15] BanchoBot: Active mods: Freemod
+[22:30:15] BanchoBot: Players: 4
+[22:30:15] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3389195 Leiv            [NoFail, Hidden]
+[22:30:15] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/14977562 mizumi_a        [NoFail]
+[22:30:15] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11976076 aquasimp        [NoFail]
+[22:30:15] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        [NoFail, Hidden, HardRock, SpunOut]
+[22:30:17] Leiv: ye
+[22:30:21] Leiv: FM
+[22:30:24] mizumi_a: oge
+[22:30:25] BanchoBot: All players are ready
+[22:30:31] BCraftMG: !mp settings
+[22:30:32] BanchoBot: Room name: OWC22VN: (Qualifiers) vs (Q13), History: https://osu.ppy.sh/mp/104025539
+[22:30:32] BanchoBot: Beatmap: https://osu.ppy.sh/b/3358506 Eisyo-kobu - Oriental Blossom -Eika Shuuei-
+[22:30:32] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:30:32] BanchoBot: Active mods: Freemod
+[22:30:32] BanchoBot: Players: 4
+[22:30:32] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3389195 Leiv            [NoFail, Hidden]
+[22:30:32] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14977562 mizumi_a        [NoFail]
+[22:30:32] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11976076 aquasimp        [NoFail]
+[22:30:32] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/4039647 SkyArrow        [NoFail, HardRock, SpunOut]
+[22:30:32] BCraftMG: !mp start 5 glhf
+[22:30:34] BanchoBot: Match starts in 5 seconds
+[22:30:34] BanchoBot: Queued the match to start in 5 seconds
+[22:30:35] BanchoBot: Match starts in 4 seconds
+[22:30:36] BanchoBot: Match starts in 3 seconds
+[22:30:37] BanchoBot: Good luck, have fun!
+[22:30:39] BanchoBot: The match has started!
+[22:30:40] aquasimp: it;s only optional until the tour says no
+[22:31:02] BCraftMG: in what universe tb is not freemod
+[22:36:46] BanchoBot: Leiv finished playing (Score: 412183, PASSED).
+[22:36:47] BanchoBot: SkyArrow finished playing (Score: 391632, PASSED).
+[22:36:47] BanchoBot: mizumi_a finished playing (Score: 346551, PASSED).
+[22:36:47] BanchoBot: aquasimp finished playing (Score: 186154, PASSED).
+[22:36:47] BanchoBot: The match has finished!
+[22:36:55] Leiv: gone
+[22:36:58] aquasimp: gg ae
+[22:37:00] aquasimp: thanks for ref
+[22:37:06] Leiv: gg
+[22:37:10] mizumi_a: ggs
+[22:37:19] SkyArrow: bye ae
+[22:37:20] BanchoBot: SkyArrow left the game.
+[22:37:20] Leiv: thx 4 ref bud
+[22:37:28] Leiv: see yall next year
+[22:37:29] BanchoBot: Leiv left the game.
+[22:37:30] BCraftMG: :3
+[22:37:35] BanchoBot: aquasimp left the game.
+[22:37:39] BanchoBot: mizumi_a left the game.
+[22:37:46] BCraftMG: !mp close
+[22:37:46] BanchoBot: Closed the match

@@ -1,0 +1,574 @@
+[23:23:04] Joined #mp_100642793
+[23:23:04] BCraftMG: !mp settings
+[23:23:05] BanchoBot: Room name: THH: (Cheeze) vs (Wii U Esports), History: https://osu.ppy.sh/mp/100642793
+[23:23:05] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[23:23:05] BanchoBot: Players: 0
+[23:23:13] BCraftMG: !mp set 2 3 11
+[23:23:13] BanchoBot: Changed match settings to 11 slots, TeamVs, ScoreV2
+[23:25:33] BCraftMG: !mp invite WhirI
+[23:25:33] BanchoBot: Invited WhirI to the room
+[23:25:39] BCraftMG: !mp invite Frodo55
+[23:25:40] BanchoBot: Invited Frodo55 to the room
+[23:26:01] BanchoBot: WhirI joined in slot 1 for team blue.
+[23:26:30] BCraftMG: o/
+[23:26:50] BCraftMG: !mp invite Frodo55
+[23:26:51] BanchoBot: Invited Frodo55 to the room
+[23:26:56] BanchoBot: Frodo55 joined in slot 2 for team red.
+[23:26:58] BanchoBot: Frodo55 moved to slot 4
+[23:26:58] BanchoBot: Frodo55 moved to slot 5
+[23:27:20] BanchoBot: Claushmaga joined in slot 2 for team red.
+[23:27:23] BanchoBot: Claushmaga moved to slot 6
+[23:27:29] BanchoBot: ZephyrCo joined in slot 2 for team red.
+[23:27:37] BanchoBot: Frodo55 changed to Blue
+[23:27:39] BanchoBot: crabbeh joined in slot 3 for team blue.
+[23:27:44] BCraftMG: cheeze will be red and wii will be blue please
+[23:27:47] BanchoBot: TobseN joined in slot 4 for team red.
+[23:27:57] BanchoBot: Frodo55 moved to slot 11
+[23:28:04] BanchoBot: crabbeh left the game.
+[23:28:14] WhirI: o/
+[23:28:16] BanchoBot: Claushmaga changed to Blue
+[23:28:17] BanchoBot: crabbeh joined in slot 3 for team blue.
+[23:28:22] BanchoBot: crabbeh changed to Red
+[23:28:22] BanchoBot: Agostino joined in slot 5 for team blue.
+[23:28:25] BanchoBot: crabbeh moved to slot 10
+[23:28:26] BanchoBot: Claushmaga moved to slot 7
+[23:28:29] BanchoBot: Claushmaga moved to slot 6
+[23:28:30] BanchoBot: crabbeh changed to Blue
+[23:28:31] BanchoBot: TobseN changed to Blue
+[23:28:32] BanchoBot: crabbeh changed to Red
+[23:28:47] Frodo55: o/
+[23:29:05] BanchoBot: Claushmaga moved to slot 9
+[23:29:06] BanchoBot: Claushmaga moved to slot 8
+[23:29:07] BanchoBot: Claushmaga moved to slot 6
+[23:29:36] BanchoBot: SkadiMyMommy joined in slot 3 for team blue.
+[23:29:56] Frodo55: so warmups or what
+[23:29:59] BCraftMG: anyone wanna pick warm up while waiting?
+[23:30:02] BCraftMG: ah
+[23:30:07] BCraftMG: Frodo you wanna pick first?
+[23:30:12] Frodo55: sure
+[23:30:15] BanchoBot: Lilian joined in slot 7 for team blue.
+[23:30:17] BCraftMG: !mp host Frodo55
+[23:30:17] BanchoBot: Frodo55 became the host.
+[23:30:17] BanchoBot: Changed match host to Frodo55
+[23:30:19] BanchoBot: Beatmap changed to: Wang Rui - Tao Hua Xiao [Insane] (https://osu.ppy.sh/b/2274675)
+[23:30:21] BanchoBot: Host is changing map...
+[23:30:31] BanchoBot: Claushmaga moved to slot 9
+[23:30:35] BanchoBot: Lilian left the game.
+[23:31:01] BanchoBot: SkadiMyMommy left the game.
+[23:31:07] BanchoBot: Beatmap changed to: Utah Saints - Something Good '08 (Radio Edit) [Running Child] (https://osu.ppy.sh/b/2194972)
+[23:31:54] BCraftMG: !mp settings
+[23:31:55] BanchoBot: Room name: THH: (Cheeze) vs (Wii U Esports), History: https://osu.ppy.sh/mp/100642793
+[23:31:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/2194972 Utah Saints - Something Good '08 (Radio Edit) [Running Child]
+[23:31:55] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:31:55] BanchoBot: Active mods: Freemod
+[23:31:55] BanchoBot: Players: 7
+[23:31:55] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/13593866 WhirI           [Team Blue]
+[23:31:55] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7516954 ZephyrCo        [Team Red  / NoFail]
+[23:31:55] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/11718072 TobseN          [Team Blue]
+[23:31:55] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/3897665 Agostino        [Team Blue]
+[23:31:55] BanchoBot: Slot 9  Ready     https://osu.ppy.sh/u/9378646 Claushmaga      [Team Blue / NoFail]
+[23:31:55] BanchoBot: Slot 10 Ready     https://osu.ppy.sh/u/6583413 crabbeh         [Team Red  / NoFail]
+[23:31:55] BanchoBot: Slot 11 Ready     https://osu.ppy.sh/u/14398471 Frodo55         [Host / Team Blue / NoFail]
+[23:32:11] BanchoBot: Black Astro joined in slot 3 for team blue.
+[23:32:11] BanchoBot: SkadiMyMommy joined in slot 6 for team red.
+[23:32:14] BanchoBot: Lilian joined in slot 7 for team blue.
+[23:32:17] BanchoBot: Lilian changed to Red
+[23:32:17] BanchoBot: chikato joined in slot 8 for team red.
+[23:32:34] BanchoBot: WhirI changed to Red
+[23:32:36] BCraftMG: once again Cheeze can you be red and Wii U be blue please
+[23:32:38] chikato: heyo
+[23:32:42] Frodo55: heyhey
+[23:32:48] BanchoBot: crabbeh changed to Blue
+[23:32:58] BanchoBot: Black Astro changed to Red
+[23:33:19] BanchoBot: All players are ready
+[23:33:21] BanchoBot: The match has started!
+[23:36:10] BanchoBot: WhirI finished playing (Score: 92802, PASSED).
+[23:36:10] BanchoBot: ZephyrCo finished playing (Score: 39597, PASSED).
+[23:36:10] BanchoBot: Frodo55 finished playing (Score: 212777, PASSED).
+[23:36:10] BanchoBot: SkadiMyMommy finished playing (Score: 113358, PASSED).
+[23:36:10] BanchoBot: chikato finished playing (Score: 224337, PASSED).
+[23:36:10] BanchoBot: Claushmaga finished playing (Score: 85524, PASSED).
+[23:36:12] BanchoBot: crabbeh finished playing (Score: 86055, PASSED).
+[23:36:12] BanchoBot: Black Astro finished playing (Score: 114499, PASSED).
+[23:36:12] BanchoBot: Lilian finished playing (Score: 154733, PASSED).
+[23:36:12] BanchoBot: TobseN finished playing (Score: 95570, PASSED).
+[23:36:12] BanchoBot: Agostino finished playing (Score: 222480, PASSED).
+[23:36:12] BanchoBot: The match has finished!
+[23:36:23] BanchoBot: WhirI became the host.
+[23:36:34] BanchoBot: Host is changing map...
+[23:36:41] Frodo55: nice misscount chikato
+[23:36:49] chikato: tyty
+[23:36:52] chikato: im going for now tho
+[23:36:55] chikato: see you
+[23:36:56] BanchoBot: chikato left the game.
+[23:37:01] BanchoBot: Beatmap changed to: Mitsukiyo - Rolling Beat [Insane] (https://osu.ppy.sh/b/2846585)
+[23:37:46] BanchoBot: -LF- joined in slot 8 for team red.
+[23:38:27] BanchoBot: The match has started!
+[23:39:02] BanchoBot: Agostino left the game.
+[23:39:36] BCraftMG: !mp settings
+[23:39:37] BanchoBot: Room name: THH: (Cheeze) vs (Wii U Esports), History: https://osu.ppy.sh/mp/100642793
+[23:39:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/2846585 Mitsukiyo - Rolling Beat [Insane]
+[23:39:37] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:39:37] BanchoBot: Active mods: DoubleTime, Freemod
+[23:39:37] BanchoBot: Players: 10
+[23:39:37] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/13593866 WhirI           [Host / Team Red  / NoFail]
+[23:39:37] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/7516954 ZephyrCo        [Team Red  / NoFail]
+[23:39:37] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/10510143 Black Astro     [Team Red  / NoFail]
+[23:39:37] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/11718072 TobseN          [Team Blue / NoFail]
+[23:39:37] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/14102544 SkadiMyMommy    [Team Red  / NoFail]
+[23:39:37] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/8589120 Lilian          [Team Red  / NoFail]
+[23:39:37] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/11461810 -LF-            [Team Red ]
+[23:39:37] BanchoBot: Slot 9  Not Ready https://osu.ppy.sh/u/9378646 Claushmaga      [Team Blue / NoFail]
+[23:39:37] BanchoBot: Slot 10 Not Ready https://osu.ppy.sh/u/6583413 crabbeh         [Team Blue / NoFail]
+[23:39:37] BanchoBot: Slot 11 Not Ready https://osu.ppy.sh/u/14398471 Frodo55         [Team Blue / NoFail]
+[23:40:09] BanchoBot: ZephyrCo finished playing (Score: 6196, PASSED).
+[23:40:09] BanchoBot: Black Astro finished playing (Score: 20144, PASSED).
+[23:40:09] BanchoBot: crabbeh finished playing (Score: 17071, PASSED).
+[23:40:09] BanchoBot: TobseN finished playing (Score: 53897, PASSED).
+[23:40:10] BanchoBot: SkadiMyMommy finished playing (Score: 14489, PASSED).
+[23:40:10] BanchoBot: -LF- finished playing (Score: 41967, PASSED).
+[23:40:10] BanchoBot: Claushmaga finished playing (Score: 33298, PASSED).
+[23:40:11] BanchoBot: Lilian finished playing (Score: 33646, PASSED).
+[23:40:12] BanchoBot: WhirI finished playing (Score: 65724, PASSED).
+[23:40:13] BanchoBot: Frodo55 finished playing (Score: 39243, PASSED).
+[23:40:13] BanchoBot: The match has finished!
+[23:40:14] -LF-: bruh
+[23:40:16] Frodo55: wow
+[23:40:20] Lilian: Beautiful
+[23:40:31] BanchoBot: Agostino joined in slot 5 for team blue.
+[23:40:34] WhirI: srry that was harder than i remember
+[23:40:40] BCraftMG: !mp clearhost
+[23:40:41] BanchoBot: Cleared match host
+[23:40:57] BCraftMG: aight 2 captains please roll
+[23:41:17] Frodo55: !roll
+[23:41:17] BanchoBot: Frodo55 rolls 40 point(s)
+[23:41:18] WhirI: !roll
+[23:41:18] BanchoBot: WhirI rolls 72 point(s)
+[23:41:39] BanchoBot: Lilian left the game.
+[23:42:06] BCraftMG: Cheeze first pick or ban?
+[23:42:35] WhirI: second ban
+[23:42:48] Frodo55: 1st ban hd2
+[23:43:16] BCraftMG: ok Cheeze your ban please
+[23:43:27] WhirI: hr2
+[23:43:42] BanchoBot: SkadiMyMommy left the game.
+[23:43:48] BanchoBot: crabbeh left the game.
+[23:43:49] BanchoBot: TobseN moved to slot 7
+[23:43:50] BanchoBot: TobseN moved to slot 6
+[23:43:55] BCraftMG: Cheeze | 0 - 0 | Wii U Esports // First Pick: Cheeze
+[23:44:01] BCraftMG: !mp timer 120
+[23:44:02] BanchoBot: Countdown ends in 2 minutes
+[23:44:10] Frodo55: i will get water brb
+[23:44:24] BanchoBot: SkadiMyMommy joined in slot 4 for team red.
+[23:44:29] WhirI: fm2
+[23:44:35] BanchoBot: Agostino left the game.
+[23:44:41] BCraftMG: !mp mods 1 freemod
+[23:44:41] BanchoBot: Disabled all mods, enabled FreeMod
+[23:44:44] BCraftMG: !mp map 2946441 0
+[23:44:45] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2946441 ALiCE'S EMOTiON - Dark Flight Dreamer
+[23:44:45] BanchoBot: Changed match mode to Osu
+[23:44:48] BanchoBot: WhirI left the game.
+[23:45:02] BanchoBot: TobseN moved to slot 5
+[23:45:02] BanchoBot: Countdown ends in 1 minute
+[23:45:08] BanchoBot: -LF- left the game.
+[23:45:10] BanchoBot: crabbeh joined in slot 1 for team blue.
+[23:45:12] BanchoBot: Frodo55 moved to slot 6
+[23:45:18] BanchoBot: crabbeh moved to slot 7
+[23:45:26] BanchoBot: -LF- joined in slot 1 for team blue.
+[23:45:30] BanchoBot: -LF- changed to Red
+[23:45:32] BanchoBot: Countdown ends in 30 seconds
+[23:45:33] BanchoBot: Claushmaga moved to slot 8
+[23:45:52] BanchoBot: Countdown ends in 10 seconds
+[23:45:52] BanchoBot: All players are ready
+[23:45:54] Frodo55: glgglglgl
+[23:45:55] ZephyrCo: glhf
+[23:45:57] Black_Astro: glhf
+[23:45:57] BanchoBot: Countdown ends in 5 seconds
+[23:45:58] SkadiMyMommy: golf
+[23:45:58] BanchoBot: Countdown ends in 4 seconds
+[23:45:59] BanchoBot: Countdown ends in 3 seconds
+[23:45:59] -LF-: gl
+[23:46:00] TobseN: glhf
+[23:46:00] BanchoBot: Countdown ends in 2 seconds
+[23:46:01] BanchoBot: Countdown ends in 1 second
+[23:46:01] BanchoBot: Countdown finished
+[23:46:05] BCraftMG: !mp start 10
+[23:46:05] BanchoBot: Match starts in 10 seconds
+[23:46:05] BanchoBot: Queued the match to start in 10 seconds
+[23:46:11] BanchoBot: Match starts in 5 seconds
+[23:46:11] BanchoBot: Match starts in 4 seconds
+[23:46:13] BanchoBot: Match starts in 3 seconds
+[23:46:14] BanchoBot: Good luck, have fun!
+[23:46:17] BanchoBot: The match has started!
+[23:49:32] BanchoBot: SkadiMyMommy finished playing (Score: 969461, PASSED).
+[23:49:33] BanchoBot: Claushmaga finished playing (Score: 359225, PASSED).
+[23:49:33] BanchoBot: -LF- finished playing (Score: 961523, PASSED).
+[23:49:33] BanchoBot: crabbeh finished playing (Score: 521655, PASSED).
+[23:49:33] BanchoBot: Black Astro finished playing (Score: 374702, PASSED).
+[23:49:33] BanchoBot: TobseN finished playing (Score: 1050424, PASSED).
+[23:49:35] BanchoBot: ZephyrCo finished playing (Score: 1084545, PASSED).
+[23:49:35] BanchoBot: Frodo55 finished playing (Score: 623866, PASSED).
+[23:49:35] BanchoBot: The match has finished!
+[23:50:02] BCraftMG: Cheeze | 1 - 0 | Wii U Esports // Next Pick: Wii U Esports
+[23:50:14] BanchoBot: Agostino joined in slot 9 for team blue.
+[23:50:16] BCraftMG: !mp timer 120
+[23:50:17] BanchoBot: Countdown ends in 2 minutes
+[23:50:24] Frodo55: oops
+[23:50:57] Frodo55: DT1
+[23:51:02] BanchoBot: -LF- left the game.
+[23:51:04] BanchoBot: Agostino left the game.
+[23:51:05] BanchoBot: SkadiMyMommy left the game.
+[23:51:06] BanchoBot: WhirI joined in slot 1 for team blue.
+[23:51:06] BCraftMG: !mp map 2274675 0
+[23:51:07] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2274675 Wang Rui - Tao Hua Xiao
+[23:51:07] BanchoBot: Changed match mode to Osu
+[23:51:09] BanchoBot: WhirI changed to Red
+[23:51:11] BCraftMG: !mp mods 65
+[23:51:11] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[23:51:17] BanchoBot: Countdown ends in 1 minute
+[23:51:35] BCraftMG: !mp timer 120
+[23:51:36] BanchoBot: Countdown aborted
+[23:51:36] BanchoBot: Countdown ends in 2 minutes
+[23:51:41] BanchoBot: Black Astro left the game.
+[23:51:55] BanchoBot: Lilian joined in slot 3 for team blue.
+[23:51:58] BanchoBot: Lilian changed to Red
+[23:52:20] BanchoBot: RyzenPP joined in slot 4 for team red.
+[23:52:29] TobseN: glhf!
+[23:52:30] Lilian: glhf!
+[23:52:33] BanchoBot: All players are ready
+[23:52:35] Frodo55: glgllglglglglglglgllglg
+[23:52:36] ZephyrCo: glhf
+[23:52:36] BanchoBot: Countdown ends in 1 minute
+[23:52:36] BCraftMG: !mp settings
+[23:52:37] BanchoBot: Room name: THH: (Cheeze) vs (Wii U Esports), History: https://osu.ppy.sh/mp/100642793
+[23:52:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/2274675 Wang Rui - Tao Hua Xiao
+[23:52:37] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:52:37] BanchoBot: Active mods: NoFail, DoubleTime
+[23:52:37] BanchoBot: Players: 8
+[23:52:37] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13593866 WhirI           [Team Red ]
+[23:52:37] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/7516954 ZephyrCo        [Team Red ]
+[23:52:37] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8589120 Lilian          [Team Red ]
+[23:52:37] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16391241 RyzenPP         [Team Red ]
+[23:52:37] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11718072 TobseN          [Team Blue]
+[23:52:37] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/14398471 Frodo55         [Team Blue]
+[23:52:37] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/6583413 crabbeh         [Team Blue]
+[23:52:37] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/9378646 Claushmaga      [Team Blue]
+[23:52:39] WhirI: hlhf
+[23:52:39] RyzenPP: glgl
+[23:52:42] WhirI: glhf*
+[23:52:46] BCraftMG: !mp start 5
+[23:52:47] BanchoBot: Countdown aborted
+[23:52:47] BanchoBot: Match starts in 5 seconds
+[23:52:47] BanchoBot: Queued the match to start in 5 seconds
+[23:52:49] BanchoBot: Match starts in 4 seconds
+[23:52:50] BanchoBot: Match starts in 3 seconds
+[23:52:51] BanchoBot: Good luck, have fun!
+[23:52:54] BanchoBot: The match has started!
+[23:55:08] BanchoBot: Frodo55 finished playing (Score: 718414, PASSED).
+[23:55:08] BanchoBot: RyzenPP finished playing (Score: 464850, PASSED).
+[23:55:09] BanchoBot: TobseN finished playing (Score: 1183356, PASSED).
+[23:55:09] BanchoBot: Claushmaga finished playing (Score: 1158709, PASSED).
+[23:55:09] BanchoBot: Lilian finished playing (Score: 786481, PASSED).
+[23:55:09] BanchoBot: WhirI finished playing (Score: 504237, PASSED).
+[23:55:09] BanchoBot: ZephyrCo finished playing (Score: 826059, PASSED).
+[23:55:10] BanchoBot: crabbeh finished playing (Score: 663390, PASSED).
+[23:55:10] BanchoBot: The match has finished!
+[23:55:26] BCraftMG: Cheeze | 1 - 1 | Wii U Esports // Next Pick: Cheeze
+[23:55:55] BCraftMG: !mp timer 120
+[23:55:56] BanchoBot: Countdown ends in 2 minutes
+[23:56:00] BCraftMG: i keep forgeting
+[23:56:02] BCraftMG: t
+[23:56:42] ZephyrCo: nm5
+[23:56:43] WhirI: nm5
+[23:56:44] BanchoBot: ZephyrCo left the game.
+[23:56:47] BanchoBot: chikato joined in slot 2 for team red.
+[23:56:49] BanchoBot: chikato moved to slot 9
+[23:56:51] BanchoBot: chikato moved to slot 10
+[23:56:53] BanchoBot: chikato moved to slot 2
+[23:56:57] BanchoBot: Countdown ends in 1 minute
+[23:57:04] BCraftMG: !mp map 3111801 0
+[23:57:05] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3111801 xi - Titania
+[23:57:05] BanchoBot: Changed match mode to Osu
+[23:57:08] BCraftMG: !mp mods 1
+[23:57:09] BanchoBot: Enabled NoFail, disabled FreeMod
+[23:57:13] BCraftMG: !mp timer 120
+[23:57:14] BanchoBot: Countdown aborted
+[23:57:14] BanchoBot: Countdown ends in 2 minutes
+[23:57:40] TobseN: glgl
+[23:57:40] BanchoBot: All players are ready
+[23:57:42] Frodo55: gl
+[23:57:42] WhirI: glhf
+[23:57:45] chikato: glhf
+[23:57:45] BCraftMG: !mp settings
+[23:57:46] BanchoBot: Room name: THH: (Cheeze) vs (Wii U Esports), History: https://osu.ppy.sh/mp/100642793
+[23:57:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/3111801 xi - Titania
+[23:57:46] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[23:57:46] BanchoBot: Active mods: NoFail
+[23:57:46] BanchoBot: Players: 8
+[23:57:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13593866 WhirI           [Team Red ]
+[23:57:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8828875 chikato         [Team Red ]
+[23:57:46] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8589120 Lilian          [Team Red ]
+[23:57:46] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16391241 RyzenPP         [Team Red ]
+[23:57:46] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11718072 TobseN          [Team Blue]
+[23:57:46] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/14398471 Frodo55         [Team Blue]
+[23:57:46] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/6583413 crabbeh         [Team Blue]
+[23:57:46] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/9378646 Claushmaga      [Team Blue]
+[23:57:54] BCraftMG: !mp start 5
+[23:57:54] BanchoBot: Countdown aborted
+[23:57:54] BanchoBot: Match starts in 5 seconds
+[23:57:55] BanchoBot: Queued the match to start in 5 seconds
+[23:57:56] BanchoBot: Match starts in 4 seconds
+[23:57:57] BanchoBot: Match starts in 3 seconds
+[23:57:58] BanchoBot: Good luck, have fun!
+[23:58:00] BanchoBot: The match has started!
+[00:00:16] BanchoBot: Lilian finished playing (Score: 965441, PASSED).
+[00:00:16] BanchoBot: WhirI finished playing (Score: 463849, PASSED).
+[00:00:16] BanchoBot: crabbeh finished playing (Score: 971038, PASSED).
+[00:00:16] BanchoBot: TobseN finished playing (Score: 955130, PASSED).
+[00:00:16] BanchoBot: chikato finished playing (Score: 561890, PASSED).
+[00:00:17] BanchoBot: RyzenPP finished playing (Score: 714323, PASSED).
+[00:00:17] BanchoBot: Claushmaga finished playing (Score: 935605, PASSED).
+[00:00:18] BanchoBot: Frodo55 finished playing (Score: 981651, PASSED).
+[00:00:18] BanchoBot: The match has finished!
+[00:00:44] BCraftMG: Cheeze | 1 - 2 | Wii U Esports // Next Pick: Wii U Esports
+[00:00:50] Frodo55: can u doublep9ick
+[00:00:52] BCraftMG: !mp timer 120
+[00:00:52] BanchoBot: Countdown ends in 2 minutes
+[00:00:54] BCraftMG: no
+[00:01:03] BCraftMG: no double pick
+[00:01:12] BanchoBot: chikato left the game.
+[00:01:12] Frodo55: Oh ok
+[00:01:52] BanchoBot: Countdown ends in 1 minute
+[00:01:57] Frodo55: nm2
+[00:02:02] BanchoBot: WhirI left the game.
+[00:02:07] BanchoBot: chikato joined in slot 1 for team blue.
+[00:02:08] BanchoBot: chikato moved to slot 2
+[00:02:09] BanchoBot: chikato changed to Red
+[00:02:11] BCraftMG: !mp map 2906887 0
+[00:02:13] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2906887 a_hisa - Logical Stimulus
+[00:02:13] BanchoBot: Changed match mode to Osu
+[00:02:14] BanchoBot: -LF- joined in slot 1 for team blue.
+[00:02:16] BCraftMG: !mp mods 1
+[00:02:16] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:02:18] BanchoBot: -LF- changed to Red
+[00:02:23] BanchoBot: Countdown ends in 30 seconds
+[00:02:40] BanchoBot: Lilian left the game.
+[00:02:42] BanchoBot: Countdown ends in 10 seconds
+[00:02:43] BanchoBot: Black Astro joined in slot 3 for team blue.
+[00:02:47] BanchoBot: Countdown ends in 5 seconds
+[00:02:49] BanchoBot: Countdown ends in 4 seconds
+[00:02:50] BanchoBot: Countdown ends in 3 seconds
+[00:02:51] BanchoBot: Countdown ends in 2 seconds
+[00:02:52] BanchoBot: Countdown ends in 1 second
+[00:02:52] BanchoBot: Countdown finished
+[00:02:53] BanchoBot: Black Astro changed to Red
+[00:02:56] TobseN: glhf
+[00:03:02] chikato: glhf
+[00:03:03] Black_Astro: glhf
+[00:03:06] -LF-: gl
+[00:03:07] RyzenPP: glgl
+[00:03:08] Claushmaga: gl
+[00:03:08] BanchoBot: All players are ready
+[00:03:09] Frodo55: gl
+[00:03:12] BCraftMG: !mp settings
+[00:03:13] BanchoBot: Room name: THH: (Cheeze) vs (Wii U Esports), History: https://osu.ppy.sh/mp/100642793
+[00:03:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/2906887 a_hisa - Logical Stimulus
+[00:03:13] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:03:13] BanchoBot: Active mods: NoFail
+[00:03:13] BanchoBot: Players: 8
+[00:03:13] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11461810 -LF-            [Team Red ]
+[00:03:13] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8828875 chikato         [Team Red ]
+[00:03:13] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10510143 Black Astro     [Team Red ]
+[00:03:13] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16391241 RyzenPP         [Team Red ]
+[00:03:13] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11718072 TobseN          [Team Blue]
+[00:03:13] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/14398471 Frodo55         [Team Blue]
+[00:03:13] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/6583413 crabbeh         [Team Blue]
+[00:03:13] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/9378646 Claushmaga      [Team Blue]
+[00:03:22] BCraftMG: !mp start 5
+[00:03:23] BanchoBot: Match starts in 5 seconds
+[00:03:23] BanchoBot: Queued the match to start in 5 seconds
+[00:03:24] BanchoBot: Match starts in 4 seconds
+[00:03:26] BanchoBot: Match starts in 3 seconds
+[00:03:27] BanchoBot: Good luck, have fun!
+[00:03:28] BanchoBot: The match has started!
+[00:08:03] BanchoBot: TobseN finished playing (Score: 468439, PASSED).
+[00:08:03] BanchoBot: chikato finished playing (Score: 682703, PASSED).
+[00:08:03] BanchoBot: crabbeh finished playing (Score: 650714, PASSED).
+[00:08:03] BanchoBot: Black Astro finished playing (Score: 427800, PASSED).
+[00:08:03] BanchoBot: Frodo55 finished playing (Score: 648089, PASSED).
+[00:08:03] BanchoBot: -LF- finished playing (Score: 786231, PASSED).
+[00:08:03] BanchoBot: RyzenPP finished playing (Score: 558438, PASSED).
+[00:08:04] BanchoBot: Claushmaga finished playing (Score: 981607, PASSED).
+[00:08:04] BanchoBot: The match has finished!
+[00:08:21] BanchoBot: Frodo55 left the game.
+[00:08:28] BanchoBot: Frodo55 joined in slot 6 for team red.
+[00:08:51] BCraftMG: Cheeze | 1 - 3 | Wii U Esports // Next Pick: Cheeze
+[00:08:52] BanchoBot: WhirI joined in slot 9 for team blue.
+[00:08:55] BanchoBot: RyzenPP left the game.
+[00:09:00] BanchoBot: WhirI changed to Red
+[00:09:15] BanchoBot: chikato left the game.
+[00:09:23] BCraftMG: !mp timer 120
+[00:09:25] BanchoBot: Countdown ends in 2 minutes
+[00:09:29] WhirI: nm4
+[00:09:35] BanchoBot: SkadiMyMommy joined in slot 2 for team red.
+[00:09:37] BanchoBot: WhirI left the game.
+[00:09:38] BanchoBot: ZephyrCo joined in slot 4 for team red.
+[00:09:42] BCraftMG: !mp map 3319991 0
+[00:09:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3319991 Monster Siren Records - Operation Spectrum Battle Theme
+[00:09:43] BanchoBot: Changed match mode to Osu
+[00:09:46] BCraftMG: !mp mods 1
+[00:09:47] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:09:48] BanchoBot: TobseN left the game.
+[00:09:56] BanchoBot: Frodo55 changed to Blue
+[00:09:59] BCraftMG: !mp settings
+[00:10:00] BanchoBot: Room name: THH: (Cheeze) vs (Wii U Esports), History: https://osu.ppy.sh/mp/100642793
+[00:10:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/3319991 Monster Siren Records - Operation Spectrum Battle Theme
+[00:10:00] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:10:00] BanchoBot: Active mods: NoFail
+[00:10:00] BanchoBot: Players: 7
+[00:10:00] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/11461810 -LF-            [Team Red ]
+[00:10:00] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/14102544 SkadiMyMommy    [Team Red ]
+[00:10:00] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/10510143 Black Astro     [Team Red ]
+[00:10:00] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/7516954 ZephyrCo        [Team Red ]
+[00:10:00] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/14398471 Frodo55         [Team Blue]
+[00:10:00] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/6583413 crabbeh         [Team Blue]
+[00:10:00] BanchoBot: Slot 8  Not Ready https://osu.ppy.sh/u/9378646 Claushmaga      [Team Blue]
+[00:10:01] BanchoBot: Agostino joined in slot 5 for team blue.
+[00:10:15] SkadiMyMommy: golf
+[00:10:16] BanchoBot: All players are ready
+[00:10:20] -LF-: gl
+[00:10:21] Frodo55: glglglglglglglglglglglglglglglglglglgl
+[00:10:21] ZephyrCo: glhf
+[00:10:25] Claushmaga: gl
+[00:10:26] BanchoBot: Countdown ends in 1 minute
+[00:10:28] Black_Astro: glhf
+[00:10:28] BCraftMG: !mp start 10
+[00:10:30] BanchoBot: Countdown aborted
+[00:10:30] BanchoBot: Match starts in 10 seconds
+[00:10:30] BanchoBot: Queued the match to start in 10 seconds
+[00:10:36] BanchoBot: Match starts in 5 seconds
+[00:10:36] BanchoBot: Match starts in 4 seconds
+[00:10:37] BanchoBot: Match starts in 3 seconds
+[00:10:38] BanchoBot: Good luck, have fun!
+[00:10:41] BanchoBot: The match has started!
+[00:14:47] BanchoBot: Agostino finished playing (Score: 978239, PASSED).
+[00:14:47] BanchoBot: crabbeh finished playing (Score: 665521, PASSED).
+[00:14:48] BanchoBot: Frodo55 finished playing (Score: 961183, PASSED).
+[00:14:48] BanchoBot: Black Astro finished playing (Score: 475904, PASSED).
+[00:14:48] BanchoBot: SkadiMyMommy finished playing (Score: 636470, PASSED).
+[00:14:48] BanchoBot: -LF- finished playing (Score: 555859, PASSED).
+[00:14:49] BanchoBot: Claushmaga finished playing (Score: 408993, PASSED).
+[00:14:50] BanchoBot: ZephyrCo finished playing (Score: 764623, PASSED).
+[00:14:50] BanchoBot: The match has finished!
+[00:15:17] BCraftMG: Cheeze | 1 - 4 | Wii U Esports // Next Pick: Wii U Esports
+[00:15:48] BCraftMG: !mp timer 120
+[00:15:49] BanchoBot: Countdown ends in 2 minutes
+[00:16:28] Frodo55: dt2
+[00:16:37] BanchoBot: chikato joined in slot 9 for team blue.
+[00:16:43] BanchoBot: SkadiMyMommy left the game.
+[00:16:44] BanchoBot: ZephyrCo left the game.
+[00:16:45] BanchoBot: Agostino left the game.
+[00:16:45] BanchoBot: chikato moved to slot 2
+[00:16:47] BanchoBot: TobseN joined in slot 4 for team red.
+[00:16:47] BanchoBot: chikato changed to Red
+[00:16:50] BanchoBot: Countdown ends in 1 minute
+[00:16:52] BanchoBot: WhirI joined in slot 5 for team blue.
+[00:16:54] BanchoBot: WhirI changed to Red
+[00:16:55] BanchoBot: -LF- left the game.
+[00:16:55] BanchoBot: TobseN changed to Blue
+[00:16:55] BanchoBot: Black Astro left the game.
+[00:16:56] BCraftMG: !mp map 2813113 0
+[00:16:56] BanchoBot: TobseN moved to slot 10
+[00:16:58] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2813113 Kasokaso (Prismagic) feat. Sennzai - Watashi wa Yume to Kimi no Tame ni
+[00:16:58] BanchoBot: Changed match mode to Osu
+[00:16:59] BanchoBot: WhirI moved to slot 1
+[00:17:00] BanchoBot: TobseN moved to slot 5
+[00:17:00] BCraftMG: !mp mods 65
+[00:17:01] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[00:17:03] BanchoBot: Lilian joined in slot 3 for team blue.
+[00:17:05] BanchoBot: Lilian changed to Red
+[00:17:19] BanchoBot: Countdown ends in 30 seconds
+[00:17:26] BanchoBot: ZephyrCo joined in slot 4 for team red.
+[00:17:29] BanchoBot: ZephyrCo moved to slot 11
+[00:17:30] BanchoBot: RyzenPP joined in slot 4 for team red.
+[00:17:33] BanchoBot: ZephyrCo left the game.
+[00:17:40] BanchoBot: Countdown ends in 10 seconds
+[00:17:45] BanchoBot: Countdown ends in 5 seconds
+[00:17:46] BanchoBot: Countdown ends in 4 seconds
+[00:17:46] BanchoBot: Countdown ends in 3 seconds
+[00:17:47] BanchoBot: Countdown ends in 2 seconds
+[00:17:49] BanchoBot: Countdown ends in 1 second
+[00:17:50] BanchoBot: Countdown finished
+[00:17:57] Frodo55: glglglglglglglglglglglglglglglgl
+[00:17:58] BanchoBot: All players are ready
+[00:17:59] BCraftMG: !mp settings
+[00:18:00] BanchoBot: Room name: THH: (Cheeze) vs (Wii U Esports), History: https://osu.ppy.sh/mp/100642793
+[00:18:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/2813113 Kasokaso (Prismagic) feat. Sennzai - Watashi wa Yume to Kimi no Tame ni
+[00:18:00] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:18:00] BanchoBot: Active mods: NoFail, DoubleTime
+[00:18:00] BanchoBot: Players: 8
+[00:18:00] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13593866 WhirI           [Team Red ]
+[00:18:00] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/8828875 chikato         [Team Red ]
+[00:18:00] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/8589120 Lilian          [Team Red ]
+[00:18:00] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16391241 RyzenPP         [Team Red ]
+[00:18:00] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11718072 TobseN          [Team Blue]
+[00:18:00] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/14398471 Frodo55         [Team Blue]
+[00:18:00] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/6583413 crabbeh         [Team Blue]
+[00:18:00] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/9378646 Claushmaga      [Team Blue]
+[00:18:01] TobseN: glhf
+[00:18:02] chikato: glhf
+[00:18:05] Lilian: glhf!
+[00:18:05] Claushmaga: gl
+[00:18:17] BCraftMG: !mp start 5
+[00:18:19] WhirI: glhf
+[00:18:19] BanchoBot: Match starts in 5 seconds
+[00:18:19] BanchoBot: Queued the match to start in 5 seconds
+[00:18:20] BanchoBot: Match starts in 4 seconds
+[00:18:21] BanchoBot: Match starts in 3 seconds
+[00:18:22] BanchoBot: Good luck, have fun!
+[00:18:23] RyzenPP: glgl
+[00:18:25] BanchoBot: The match has started!
+[00:21:15] BanchoBot: RyzenPP finished playing (Score: 348778, PASSED).
+[00:21:15] BanchoBot: Claushmaga finished playing (Score: 1096571, PASSED).
+[00:21:15] BanchoBot: chikato finished playing (Score: 688247, PASSED).
+[00:21:15] BanchoBot: crabbeh finished playing (Score: 1068449, PASSED).
+[00:21:15] BanchoBot: WhirI finished playing (Score: 648333, PASSED).
+[00:21:17] BanchoBot: Lilian finished playing (Score: 896738, PASSED).
+[00:21:17] BanchoBot: Frodo55 finished playing (Score: 747388, PASSED).
+[00:21:17] BanchoBot: TobseN finished playing (Score: 456988, PASSED).
+[00:21:17] BanchoBot: The match has finished!
+[00:21:39] Frodo55: ggwp
+[00:21:40] WhirI: ggs
+[00:21:41] RyzenPP: ggs
+[00:21:43] TobseN: ggs
+[00:21:43] TobseN: wp
+[00:21:44] BanchoBot: RyzenPP left the game.
+[00:21:45] Claushmaga: gg
+[00:21:47] chikato: well played guys totally outclassed!
+[00:21:47] crabbeh: gg
+[00:21:48] Lilian: ggwp!
+[00:21:51] chikato: hope you guys have a great evening
+[00:21:52] Lilian: ty for ref and match
+[00:21:54] Frodo55: you too chikato
+[00:21:54] chikato: or whatever it is
+[00:21:56] Lilian: o/
+[00:21:57] WhirI: ! tyty
+[00:21:58] Frodo55: thanks for reffing
+[00:22:00] WhirI: o/
+[00:22:01] BanchoBot: Lilian left the game.
+[00:22:01] BanchoBot: WhirI left the game.
+[00:22:01] chikato: nah I didnt show anything
+[00:22:01] BCraftMG: Congrats to Wii U Esports for winning this match! GGWP both teams!
+[00:22:03] BCraftMG: god
+[00:22:04] chikato: but next time for sure
+[00:22:04] BCraftMG: im slow
+[00:22:05] Frodo55: gl in lower bracket
+[00:22:07] Claushmaga: sayonaro
+[00:22:09] chikato: byebyes
+[00:22:11] BanchoBot: Claushmaga left the game.
+[00:22:13] BanchoBot: Frodo55 left the game.
+[00:22:13] BanchoBot: chikato left the game.
+[00:22:13] TobseN: o/
+[00:22:13] BanchoBot: TobseN left the game.
+[00:22:16] BanchoBot: crabbeh left the game.
+[00:22:18] BCraftMG: !mp close
+[00:22:19] BanchoBot: Closed the match

@@ -1,0 +1,408 @@
+[21:54:16] Joined #mp_115490294
+[21:54:16] BCraftMG: !mp settings
+[21:54:17] BanchoBot: Room name: CC5: (Qualifiers) vs (Match F2), History: https://osu.ppy.sh/mp/115490294
+[21:54:17] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[21:54:17] BanchoBot: Players: 0
+[21:54:28] BCraftMG: !mp invite #18131614
+[21:54:29] BanchoBot: Invited polski1 to the room
+[21:54:37] BCraftMG: !mp set 0 3 8
+[21:54:37] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[21:54:39] BCraftMG: !mp map 970078 0
+[21:54:40] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/970078 Remo Prototype [CV.Hanamori Yumiri] - Sendan Life
+[21:54:40] BanchoBot: Changed match mode to Osu
+[21:54:41] BCraftMG: !mp mods 1
+[21:54:41] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:55:02] BanchoBot: polski1 joined in slot 1.
+[21:55:17] BCraftMG: :p
+[21:56:49] BanchoBot: eddy joined in slot 2.
+[21:57:20] BanchoBot: eddy moved to slot 4
+[21:57:21] BanchoBot: eddy moved to slot 3
+[21:57:22] BanchoBot: eddy moved to slot 4
+[21:57:33] BCraftMG: get ready :p
+[21:58:08] BanchoBot: def joined in slot 2.
+[21:58:11] BanchoBot: costco hotdog joined in slot 3.
+[21:58:12] BanchoBot: costco hotdog moved to slot 5
+[21:58:19] BCraftMG: @def danh dam cho can than
+[21:58:20] BanchoBot: costco hotdog left the game.
+[21:58:24] BanchoBot: eddy moved to slot 6
+[21:58:32] BanchoBot: CallMeRed joined in slot 3.
+[21:58:33] def: @bcraftmg Ok
+[21:58:38] BanchoBot: eddy moved to slot 4
+[21:59:21] BanchoBot: All players are ready
+[21:59:40] BCraftMG: !mp settings
+[21:59:41] BanchoBot: Room name: CC5: (Qualifiers) vs (Match F2), History: https://osu.ppy.sh/mp/115490294
+[21:59:41] BanchoBot: Beatmap: https://osu.ppy.sh/b/970078 Remo Prototype [CV.Hanamori Yumiri] - Sendan Life
+[21:59:41] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:59:41] BanchoBot: Active mods: NoFail
+[21:59:41] BanchoBot: Players: 4
+[21:59:41] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18131614 polski1         
+[21:59:41] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21619075 def             
+[21:59:41] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11959709 CallMeRed       
+[21:59:41] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/17917574 eddy            
+[21:59:43] BCraftMG: !mp start 5 glhf
+[21:59:43] BanchoBot: Match starts in 5 seconds
+[21:59:43] BanchoBot: Queued the match to start in 5 seconds
+[21:59:44] BanchoBot: Match starts in 4 seconds
+[21:59:45] BanchoBot: Match starts in 3 seconds
+[21:59:46] BanchoBot: Good luck, have fun!
+[21:59:48] BanchoBot: The match has started!
+[22:03:49] BanchoBot: def finished playing (Score: 706404, PASSED).
+[22:03:49] BanchoBot: polski1 finished playing (Score: 657829, PASSED).
+[22:03:50] BanchoBot: CallMeRed finished playing (Score: 416962, PASSED).
+[22:03:50] BanchoBot: eddy finished playing (Score: 970368, PASSED).
+[22:03:50] BanchoBot: The match has finished!
+[22:03:54] BCraftMG: !mp map 3315751 0
+[22:03:55] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3315751 DUAL ALTER WORLD - Dimension Expander
+[22:03:55] BanchoBot: Changed match mode to Osu
+[22:04:14] BanchoBot: CallMeRed left the game.
+[22:04:57] BanchoBot: trumpatino69 joined in slot 3.
+[22:04:59] BanchoBot: trumpatino69 moved to slot 5
+[22:05:00] BanchoBot: trumpatino69 moved to slot 3
+[22:05:18] BanchoBot: All players are ready
+[22:05:20] BCraftMG: !mp settings
+[22:05:22] BanchoBot: Room name: CC5: (Qualifiers) vs (Match F2), History: https://osu.ppy.sh/mp/115490294
+[22:05:22] BanchoBot: Beatmap: https://osu.ppy.sh/b/3315751 DUAL ALTER WORLD - Dimension Expander
+[22:05:22] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:05:22] BanchoBot: Active mods: NoFail
+[22:05:22] BanchoBot: Players: 4
+[22:05:22] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18131614 polski1         
+[22:05:22] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21619075 def             
+[22:05:22] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10903510 trumpatino69    
+[22:05:22] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/17917574 eddy            
+[22:05:22] BCraftMG: !mp start 5 glhf
+[22:05:23] BanchoBot: Match starts in 5 seconds
+[22:05:23] BanchoBot: Queued the match to start in 5 seconds
+[22:05:24] BanchoBot: Match starts in 4 seconds
+[22:05:25] BanchoBot: Match starts in 3 seconds
+[22:05:26] BanchoBot: Good luck, have fun!
+[22:05:28] BanchoBot: The match has started!
+[22:09:25] BanchoBot: trumpatino69 finished playing (Score: 457790, PASSED).
+[22:09:25] BanchoBot: def finished playing (Score: 521732, PASSED).
+[22:09:26] BanchoBot: eddy finished playing (Score: 480581, PASSED).
+[22:09:27] BanchoBot: polski1 finished playing (Score: 466146, PASSED).
+[22:09:27] BanchoBot: The match has finished!
+[22:09:30] BCraftMG: !mp map 4440556 0
+[22:09:30] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4440556 HIMEHINA - Heart Pie Dancehall
+[22:09:30] BanchoBot: Changed match mode to Osu
+[22:09:34] BanchoBot: Crestive joined in slot 5.
+[22:09:48] BanchoBot: trumpatino69 left the game.
+[22:10:02] BanchoBot: eddy moved to slot 3
+[22:10:03] BanchoBot: eddy moved to slot 4
+[22:10:06] BanchoBot: Crestive moved to slot 6
+[22:10:08] BanchoBot: Crestive moved to slot 3
+[22:10:30] BanchoBot: CallMeRed joined in slot 5.
+[22:10:38] BanchoBot: Crestive moved to slot 6
+[22:10:40] BanchoBot: eddy moved to slot 3
+[22:10:41] BanchoBot: eddy moved to slot 4
+[22:10:45] BanchoBot: CallMeRed moved to slot 3
+[22:10:48] BanchoBot: Crestive left the game.
+[22:11:32] def: back
+[22:11:34] BanchoBot: All players are ready
+[22:11:37] BCraftMG: !mp settings
+[22:11:39] CallMeRed: wb
+[22:11:39] BanchoBot: Room name: CC5: (Qualifiers) vs (Match F2), History: https://osu.ppy.sh/mp/115490294
+[22:11:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/4440556 HIMEHINA - Heart Pie Dancehall
+[22:11:39] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:11:39] BanchoBot: Active mods: NoFail
+[22:11:39] BanchoBot: Players: 4
+[22:11:39] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18131614 polski1         
+[22:11:39] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21619075 def             
+[22:11:39] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11959709 CallMeRed       
+[22:11:39] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/17917574 eddy            
+[22:11:39] BCraftMG: !mp start 5 glhf
+[22:11:40] BanchoBot: Match starts in 5 seconds
+[22:11:40] BanchoBot: Queued the match to start in 5 seconds
+[22:11:41] BanchoBot: Match starts in 4 seconds
+[22:11:42] BanchoBot: Match starts in 3 seconds
+[22:11:43] BanchoBot: Good luck, have fun!
+[22:11:45] BanchoBot: The match has started!
+[22:15:31] BanchoBot: polski1 finished playing (Score: 459031, PASSED).
+[22:15:32] BanchoBot: eddy finished playing (Score: 487858, PASSED).
+[22:15:32] BanchoBot: CallMeRed finished playing (Score: 443033, PASSED).
+[22:15:33] BanchoBot: def finished playing (Score: 604122, PASSED).
+[22:15:33] BanchoBot: The match has finished!
+[22:15:36] BCraftMG: !mp map 3481645 0
+[22:15:37] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3481645 livetune - glare (feat. Hatsune Miku)
+[22:15:37] BanchoBot: Changed match mode to Osu
+[22:15:42] BanchoBot: polski1 left the game.
+[22:16:01] BanchoBot: Crestive joined in slot 1.
+[22:16:05] BanchoBot: Crestive moved to slot 8
+[22:16:09] BanchoBot: eddy left the game.
+[22:16:15] BanchoBot: eddy joined in slot 1.
+[22:16:23] BanchoBot: Crestive moved to slot 4
+[22:16:55] Crestive: 👼
+[22:17:03] BanchoBot: All players are ready
+[22:17:06] BCraftMG: !mp settings
+[22:17:06] BanchoBot: Room name: CC5: (Qualifiers) vs (Match F2), History: https://osu.ppy.sh/mp/115490294
+[22:17:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/3481645 livetune - glare (feat. Hatsune Miku)
+[22:17:06] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:17:06] BanchoBot: Active mods: NoFail
+[22:17:06] BanchoBot: Players: 4
+[22:17:06] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17917574 eddy            
+[22:17:06] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21619075 def             
+[22:17:06] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11959709 CallMeRed       
+[22:17:06] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10909049 Crestive        
+[22:17:07] BCraftMG: !mp start 5 glhf
+[22:17:08] BanchoBot: Match starts in 5 seconds
+[22:17:08] BanchoBot: Queued the match to start in 5 seconds
+[22:17:09] BanchoBot: Match starts in 4 seconds
+[22:17:10] BanchoBot: Match starts in 3 seconds
+[22:17:11] BanchoBot: Good luck, have fun!
+[22:17:14] BanchoBot: The match has started!
+[22:21:32] BanchoBot: CallMeRed finished playing (Score: 395228, PASSED).
+[22:21:32] BanchoBot: eddy finished playing (Score: 426078, PASSED).
+[22:21:33] BanchoBot: Crestive finished playing (Score: 386039, PASSED).
+[22:21:33] BanchoBot: def finished playing (Score: 447783, PASSED).
+[22:21:33] BanchoBot: The match has finished!
+[22:21:37] BCraftMG: !mp map 4275147 0
+[22:21:38] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4275147 USAO - XTREME (Extended Mix)
+[22:21:38] BanchoBot: Changed match mode to Osu
+[22:21:40] BCraftMG: !mp mods 9
+[22:21:41] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[22:21:53] BanchoBot: Crestive moved to slot 8
+[22:22:17] BanchoBot: CallMeRed left the game.
+[22:22:53] BanchoBot: Crestive moved to slot 4
+[22:23:17] BanchoBot: costco hotdog joined in slot 3.
+[22:23:28] BanchoBot: All players are ready
+[22:23:33] BCraftMG: !mp settings
+[22:23:34] BanchoBot: Room name: CC5: (Qualifiers) vs (Match F2), History: https://osu.ppy.sh/mp/115490294
+[22:23:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/4275147 USAO - XTREME (Extended Mix)
+[22:23:34] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:23:34] BanchoBot: Active mods: NoFail, Hidden
+[22:23:34] BanchoBot: Players: 4
+[22:23:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17917574 eddy            
+[22:23:34] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21619075 def             
+[22:23:34] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9507565 costco hotdog   
+[22:23:34] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10909049 Crestive        
+[22:23:35] BCraftMG: !mp start 5 glhf
+[22:23:36] BanchoBot: Match starts in 5 seconds
+[22:23:36] BanchoBot: Queued the match to start in 5 seconds
+[22:23:37] costco_hotdog: LHGKHF
+[22:23:37] BanchoBot: Match starts in 4 seconds
+[22:23:38] BanchoBot: Match starts in 3 seconds
+[22:23:39] BanchoBot: Good luck, have fun!
+[22:23:41] BanchoBot: The match has started!
+[22:23:42] Crestive: 👼
+[22:27:02] BanchoBot: eddy finished playing (Score: 601383, PASSED).
+[22:27:02] BanchoBot: Crestive finished playing (Score: 350442, PASSED).
+[22:27:03] BanchoBot: costco hotdog finished playing (Score: 451024, PASSED).
+[22:27:03] BanchoBot: def finished playing (Score: 857919, PASSED).
+[22:27:03] BanchoBot: The match has finished!
+[22:27:11] BCraftMG: !mp map 4523132 0
+[22:27:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4523132 A.SAKA - Nanatsu Koyoto
+[22:27:12] BanchoBot: Changed match mode to Osu
+[22:27:29] BanchoBot: Crestive moved to slot 8
+[22:27:30] BanchoBot: Mathyu joined in slot 4.
+[22:27:32] BanchoBot: costco hotdog left the game.
+[22:27:32] BanchoBot: eddy left the game.
+[22:27:48] BanchoBot: eddy joined in slot 1.
+[22:27:49] BanchoBot: eddy moved to slot 6
+[22:27:59] BanchoBot: CallMeRed joined in slot 1.
+[22:28:04] BanchoBot: polski1 joined in slot 3.
+[22:28:08] BanchoBot: eddy left the game.
+[22:28:09] BanchoBot: CallMeRed moved to slot 5
+[22:28:10] BanchoBot: CallMeRed moved to slot 1
+[22:28:18] BanchoBot: Crestive left the game.
+[22:28:32] BanchoBot: All players are ready
+[22:28:43] BCraftMG: !mp settings
+[22:28:44] BanchoBot: Room name: CC5: (Qualifiers) vs (Match F2), History: https://osu.ppy.sh/mp/115490294
+[22:28:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/4523132 A.SAKA - Nanatsu Koyoto
+[22:28:44] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:28:44] BanchoBot: Active mods: NoFail, Hidden
+[22:28:44] BanchoBot: Players: 4
+[22:28:44] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11959709 CallMeRed       
+[22:28:44] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21619075 def             
+[22:28:44] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/18131614 polski1         
+[22:28:44] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6303313 Mathyu          
+[22:28:45] BCraftMG: !mp start 5 glhf
+[22:28:45] BanchoBot: Match starts in 5 seconds
+[22:28:45] BanchoBot: Queued the match to start in 5 seconds
+[22:28:46] BanchoBot: Match starts in 4 seconds
+[22:28:47] Mathyu: !roll 1000
+[22:28:47] BanchoBot: Mathyu rolls 616 point(s)
+[22:28:47] BanchoBot: Match starts in 3 seconds
+[22:28:48] BanchoBot: Good luck, have fun!
+[22:28:50] BanchoBot: The match has started!
+[22:31:18] BanchoBot: Mathyu finished playing (Score: 471689, PASSED).
+[22:31:19] BanchoBot: CallMeRed finished playing (Score: 399806, PASSED).
+[22:31:19] BanchoBot: polski1 finished playing (Score: 509322, PASSED).
+[22:31:21] BanchoBot: def finished playing (Score: 288177, PASSED).
+[22:31:21] BanchoBot: The match has finished!
+[22:31:29] BanchoBot: Mathyu left the game.
+[22:31:31] BCraftMG: !mp map 4037656 0
+[22:31:32] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4037656 Demetori - Natsukashiki Touhou no Chi ~ Sic World
+[22:31:32] BanchoBot: Changed match mode to Osu
+[22:31:34] BanchoBot: eddy joined in slot 4.
+[22:31:34] BCraftMG: !mp mods 17
+[22:31:35] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[22:31:55] BanchoBot: CallMeRed left the game.
+[22:32:13] BanchoBot: costco hotdog joined in slot 1.
+[22:32:23] BanchoBot: costco hotdog left the game.
+[22:32:42] BanchoBot: costco hotdog joined in slot 1.
+[22:33:07] BanchoBot: All players are ready
+[22:33:12] costco_hotdog: GLHF
+[22:33:22] BCraftMG: !mp settings
+[22:33:23] BanchoBot: Room name: CC5: (Qualifiers) vs (Match F2), History: https://osu.ppy.sh/mp/115490294
+[22:33:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/4037656 Demetori - Natsukashiki Touhou no Chi ~ Sic World
+[22:33:23] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:33:23] BanchoBot: Active mods: NoFail, HardRock
+[22:33:23] BanchoBot: Players: 4
+[22:33:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9507565 costco hotdog   
+[22:33:23] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21619075 def             
+[22:33:23] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/18131614 polski1         
+[22:33:23] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/17917574 eddy            
+[22:33:24] BCraftMG: !mp start 5 glhf
+[22:33:24] BanchoBot: Match starts in 5 seconds
+[22:33:24] BanchoBot: Queued the match to start in 5 seconds
+[22:33:26] BanchoBot: Match starts in 4 seconds
+[22:33:26] BanchoBot: Match starts in 3 seconds
+[22:33:27] BanchoBot: Good luck, have fun!
+[22:33:29] BanchoBot: The match has started!
+[22:37:44] BanchoBot: polski1 finished playing (Score: 1038429, PASSED).
+[22:37:44] BanchoBot: def finished playing (Score: 946363, PASSED).
+[22:37:45] BanchoBot: costco hotdog finished playing (Score: 550457, PASSED).
+[22:37:45] BanchoBot: eddy finished playing (Score: 623824, PASSED).
+[22:37:45] BanchoBot: The match has finished!
+[22:37:53] BCraftMG: !mp map 3123451 0
+[22:37:53] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3123451 SHIKI - KLEINE
+[22:37:53] BanchoBot: Changed match mode to Osu
+[22:38:04] BanchoBot: polski1 left the game.
+[22:38:06] BanchoBot: polski1 joined in slot 3.
+[22:38:15] BanchoBot: polski1 left the game.
+[22:38:17] BanchoBot: polski1 joined in slot 3.
+[22:38:18] BanchoBot: polski1 left the game.
+[22:38:22] BanchoBot: costco hotdog moved to slot 6
+[22:38:44] BanchoBot: trumpatino69 joined in slot 1.
+[22:38:45] BanchoBot: trumpatino69 moved to slot 3
+[22:38:52] BanchoBot: Crestive joined in slot 1.
+[22:38:54] BanchoBot: costco hotdog left the game.
+[22:38:54] BanchoBot: Crestive moved to slot 8
+[22:39:02] BanchoBot: Crestive left the game.
+[22:39:33] BanchoBot: costco hotdog joined in slot 1.
+[22:40:07] BanchoBot: def left the game.
+[22:40:08] BanchoBot: def joined in slot 2.
+[22:40:30] BanchoBot: All players are ready
+[22:40:31] BCraftMG: !mp settings
+[22:40:32] BanchoBot: Room name: CC5: (Qualifiers) vs (Match F2), History: https://osu.ppy.sh/mp/115490294
+[22:40:32] BanchoBot: Beatmap: https://osu.ppy.sh/b/3123451 SHIKI - KLEINE
+[22:40:32] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:40:32] BanchoBot: Active mods: NoFail, HardRock
+[22:40:32] BanchoBot: Players: 4
+[22:40:32] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9507565 costco hotdog   
+[22:40:32] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21619075 def             
+[22:40:32] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10903510 trumpatino69    
+[22:40:32] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/17917574 eddy            
+[22:40:34] BCraftMG: !mp start 5 glhf
+[22:40:34] BanchoBot: Match starts in 5 seconds
+[22:40:34] BanchoBot: Queued the match to start in 5 seconds
+[22:40:35] BanchoBot: Match starts in 4 seconds
+[22:40:36] costco_hotdog: GKLHF
+[22:40:36] BanchoBot: Match starts in 3 seconds
+[22:40:37] BanchoBot: Good luck, have fun!
+[22:40:39] BanchoBot: The match has started!
+[22:42:53] BanchoBot: costco hotdog finished playing (Score: 343482, PASSED).
+[22:42:53] BanchoBot: def finished playing (Score: 478163, PASSED).
+[22:42:55] BanchoBot: eddy finished playing (Score: 902617, PASSED).
+[22:42:56] BanchoBot: trumpatino69 finished playing (Score: 609566, PASSED).
+[22:42:56] BanchoBot: The match has finished!
+[22:42:58] BCraftMG: !mp map 470716 0
+[22:42:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/470716 Sigma - Nobody To Love
+[22:42:59] BanchoBot: Changed match mode to Osu
+[22:43:00] BCraftMG: !mp mods 65
+[22:43:01] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[22:43:05] BanchoBot: costco hotdog moved to slot 5
+[22:43:33] BanchoBot: costco hotdog left the game.
+[22:44:12] BanchoBot: polski1 joined in slot 1.
+[22:44:33] BanchoBot: All players are ready
+[22:44:37] BCraftMG: !mp settings
+[22:44:37] BanchoBot: Room name: CC5: (Qualifiers) vs (Match F2), History: https://osu.ppy.sh/mp/115490294
+[22:44:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/470716 Sigma - Nobody To Love
+[22:44:37] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:44:37] BanchoBot: Active mods: NoFail, DoubleTime
+[22:44:37] BanchoBot: Players: 4
+[22:44:37] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18131614 polski1         
+[22:44:37] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21619075 def             
+[22:44:37] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10903510 trumpatino69    
+[22:44:37] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/17917574 eddy            
+[22:44:38] BCraftMG: !mp start 5 glhf
+[22:44:39] BanchoBot: Match starts in 5 seconds
+[22:44:39] BanchoBot: Queued the match to start in 5 seconds
+[22:44:40] BanchoBot: Match starts in 4 seconds
+[22:44:41] BanchoBot: Match starts in 3 seconds
+[22:44:42] BanchoBot: Good luck, have fun!
+[22:44:44] BanchoBot: The match has started!
+[22:46:59] BanchoBot: eddy finished playing (Score: 1148579, PASSED).
+[22:46:59] BanchoBot: trumpatino69 finished playing (Score: 733282, PASSED).
+[22:46:59] BanchoBot: polski1 finished playing (Score: 868487, PASSED).
+[22:46:59] BanchoBot: def finished playing (Score: 1067727, PASSED).
+[22:46:59] BanchoBot: The match has finished!
+[22:47:02] BCraftMG: !mp map 1582900 0
+[22:47:03] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1582900 Cranky - Rave 2 Rave
+[22:47:03] BanchoBot: Changed match mode to Osu
+[22:47:38] BanchoBot: All players are ready
+[22:47:41] BCraftMG: !mp settings
+[22:47:42] BanchoBot: Room name: CC5: (Qualifiers) vs (Match F2), History: https://osu.ppy.sh/mp/115490294
+[22:47:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/1582900 Cranky - Rave 2 Rave
+[22:47:42] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:47:42] BanchoBot: Active mods: NoFail, DoubleTime
+[22:47:42] BanchoBot: Players: 4
+[22:47:42] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18131614 polski1         
+[22:47:42] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21619075 def             
+[22:47:42] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10903510 trumpatino69    
+[22:47:42] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/17917574 eddy            
+[22:47:43] BCraftMG: !mp start 5 glhf
+[22:47:44] BanchoBot: Match starts in 5 seconds
+[22:47:44] BanchoBot: Queued the match to start in 5 seconds
+[22:47:45] BanchoBot: Match starts in 4 seconds
+[22:47:46] BanchoBot: Match starts in 3 seconds
+[22:47:47] BanchoBot: Good luck, have fun!
+[22:47:49] BanchoBot: The match has started!
+[22:50:20] BanchoBot: eddy finished playing (Score: 368962, PASSED).
+[22:50:20] BanchoBot: def finished playing (Score: 487522, PASSED).
+[22:50:21] BanchoBot: polski1 finished playing (Score: 719605, PASSED).
+[22:50:22] BanchoBot: trumpatino69 finished playing (Score: 564691, PASSED).
+[22:50:22] BanchoBot: The match has finished!
+[22:50:25] BCraftMG: !mp map 2960558 0
+[22:50:25] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2960558 Reku Mochizuki - Yorixiro
+[22:50:25] BanchoBot: Changed match mode to Osu
+[22:50:27] BCraftMG: !mp mods 3
+[22:50:27] BanchoBot: Enabled NoFail, Easy, disabled FreeMod
+[22:50:35] polski1: THANKS FOR CARRY TEAM
+[22:50:36] BanchoBot: eddy left the game.
+[22:50:37] BanchoBot: Mathyu joined in slot 4.
+[22:50:37] polski1: BEYEBYE
+[22:50:37] BanchoBot: polski1 left the game.
+[22:51:21] BanchoBot: CallMeRed joined in slot 1.
+[22:51:30] BanchoBot: All players are ready
+[22:51:39] BCraftMG: !mp settings
+[22:51:40] BanchoBot: Room name: CC5: (Qualifiers) vs (Match F2), History: https://osu.ppy.sh/mp/115490294
+[22:51:40] BanchoBot: Beatmap: https://osu.ppy.sh/b/2960558 Reku Mochizuki - Yorixiro
+[22:51:40] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:51:40] BanchoBot: Active mods: NoFail, Easy
+[22:51:40] BanchoBot: Players: 4
+[22:51:40] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11959709 CallMeRed       
+[22:51:40] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21619075 def             
+[22:51:40] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/10903510 trumpatino69    
+[22:51:40] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/6303313 Mathyu          
+[22:51:41] BCraftMG: !mp start 5 glhf
+[22:51:41] BanchoBot: Match starts in 5 seconds
+[22:51:41] BanchoBot: Queued the match to start in 5 seconds
+[22:51:42] BanchoBot: Match starts in 4 seconds
+[22:51:43] BanchoBot: Match starts in 3 seconds
+[22:51:44] BanchoBot: Good luck, have fun!
+[22:51:46] BanchoBot: The match has started!
+[22:53:50] BanchoBot: def finished playing (Score: 288957, PASSED).
+[22:53:50] BanchoBot: trumpatino69 finished playing (Score: 197292, PASSED).
+[22:53:50] BanchoBot: Mathyu finished playing (Score: 266381, PASSED).
+[22:53:51] BanchoBot: CallMeRed finished playing (Score: 500000, PASSED).
+[22:53:51] BanchoBot: The match has finished!
+[22:54:03] BCraftMG: what the fuck 500k flat
+[22:54:11] BanchoBot: Mathyu left the game.
+[22:54:26] BCraftMG: anyway ggwp
+[22:54:40] CallMeRed: ggwp
+[22:54:44] CallMeRed: thx for ref
+[22:54:46] BanchoBot: CallMeRed left the game.
+[22:54:58] BanchoBot: trumpatino69 left the game.
+[22:55:09] BanchoBot: def left the game.
+[22:55:11] BCraftMG: !mp close
+[22:55:12] BanchoBot: Closed the match

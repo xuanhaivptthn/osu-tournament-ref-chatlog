@@ -1,0 +1,307 @@
+[20:55:50] Joined #mp_113308465
+[20:55:50] BCraftMG: !mp settings
+[20:55:51] BanchoBot: Room name: BC2: (overflow enjoyers) vs (filobaby's caretakers), History: https://osu.ppy.sh/mp/113308465
+[20:55:51] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[20:55:51] BanchoBot: Players: 0
+[20:56:44] BCraftMG: !mp set 2 3 3
+[20:56:45] BanchoBot: Changed match settings to 3 slots, TeamVs, ScoreV2
+[20:56:50] BCraftMG: !mp invite #20544707
+[20:56:51] BanchoBot: Invited Garvil to the room
+[20:56:52] BCraftMG: !mp invite #20401638
+[20:56:53] BanchoBot: Invited _LSC to the room
+[20:57:15] BanchoBot: Garvil joined in slot 1 for team blue.
+[20:57:22] Garvil: hi
+[20:57:24] Garvil: o/
+[20:57:28] BCraftMG: heya
+[20:57:40] BCraftMG: !mp map 58239 0
+[20:57:41] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/58239 supercell feat. Gazelle - Melt 3M MIX
+[20:57:41] BanchoBot: Changed match mode to Osu
+[20:57:43] BCraftMG: !mp mods 1
+[20:57:45] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:57:54] Garvil: inviting LSC rn
+[20:57:57] Garvil: hold on
+[20:58:15] BanchoBot: _LSC joined in slot 2 for team red.
+[20:58:20] Garvil: I love when nm1 is AR8
+[20:58:28] _LSC: ikr
+[20:58:44] _LSC: !roll
+[20:58:44] BanchoBot: _LSC rolls 16 point(s)
+[20:58:46] _LSC: !roll 1000
+[20:58:46] BanchoBot: _LSC rolls 840 point(s)
+[20:59:06] BCraftMG: xd
+[20:59:15] BCraftMG: !mp team _LSC blue
+[20:59:16] BanchoBot: _LSC changed to Blue
+[20:59:16] BanchoBot: Moved _LSC to team Blue
+[20:59:19] BCraftMG: ready when you are
+[20:59:40] _LSC: gimme sec
+[21:00:18] _LSC: !roll
+[21:00:18] BanchoBot: _LSC rolls 40 point(s)
+[21:00:30] _LSC: !roll 10o0
+[21:00:30] BanchoBot: _LSC rolls 18 point(s)
+[21:00:36] _LSC: gg
+[21:00:41] _LSC: !roll 1000000
+[21:00:41] BanchoBot: _LSC rolls 678411 point(s)
+[21:00:47] BanchoBot: All players are ready
+[21:00:54] BCraftMG: !mp settings
+[21:00:54] Garvil: quack
+[21:00:54] BanchoBot: Room name: BC2: (overflow enjoyers) vs (filobaby's caretakers), History: https://osu.ppy.sh/mp/113308465
+[21:00:54] BanchoBot: Beatmap: https://osu.ppy.sh/b/58239 supercell feat. Gazelle - Melt 3M MIX
+[21:00:54] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:00:54] BanchoBot: Active mods: NoFail
+[21:00:54] BanchoBot: Players: 2
+[21:00:54] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/20544707 Garvil          [Team Blue]
+[21:00:54] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20401638 _LSC            [Team Blue]
+[21:00:56] BCraftMG: !mp start 5 glhf
+[21:00:56] BanchoBot: Match starts in 5 seconds
+[21:00:56] BanchoBot: Queued the match to start in 5 seconds
+[21:00:58] BanchoBot: Match starts in 4 seconds
+[21:00:59] BanchoBot: Match starts in 3 seconds
+[21:00:59] _LSC: hfhf
+[21:01:00] BanchoBot: Good luck, have fun!
+[21:01:02] BanchoBot: The match has started!
+[21:05:18] BanchoBot: _LSC finished playing (Score: 535572, PASSED).
+[21:05:21] BanchoBot: Garvil finished playing (Score: 564213, PASSED).
+[21:05:21] BanchoBot: The match has finished!
+[21:05:28] _LSC: uhm
+[21:05:30] _LSC: geegee
+[21:05:38] _LSC: we exploded
+[21:05:39] BCraftMG: !mp map 163939 0
+[21:05:40] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/163939 Shimatani Hitomi - Angelus (TV Size)
+[21:05:40] BanchoBot: Changed match mode to Osu
+[21:06:04] BanchoBot: All players are ready
+[21:06:06] BCraftMG: !mp settings
+[21:06:08] BanchoBot: Room name: BC2: (overflow enjoyers) vs (filobaby's caretakers), History: https://osu.ppy.sh/mp/113308465
+[21:06:08] BanchoBot: Beatmap: https://osu.ppy.sh/b/163939 Shimatani Hitomi - Angelus (TV Size)
+[21:06:08] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:06:08] BanchoBot: Active mods: NoFail
+[21:06:08] BanchoBot: Players: 2
+[21:06:08] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/20544707 Garvil          [Team Blue]
+[21:06:08] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20401638 _LSC            [Team Blue]
+[21:06:08] BCraftMG: !mp start 5 glhf
+[21:06:09] BanchoBot: Match starts in 5 seconds
+[21:06:09] BanchoBot: Queued the match to start in 5 seconds
+[21:06:10] BanchoBot: Match starts in 4 seconds
+[21:06:11] BanchoBot: Match starts in 3 seconds
+[21:06:12] BanchoBot: Good luck, have fun!
+[21:06:13] _LSC: hf
+[21:06:15] BanchoBot: The match has started!
+[21:06:19] Garvil: qua-
+[21:08:27] BanchoBot: _LSC finished playing (Score: 524842, PASSED).
+[21:08:27] BanchoBot: Garvil finished playing (Score: 887127, PASSED).
+[21:08:27] BanchoBot: The match has finished!
+[21:08:36] BCraftMG: !mp map 142765 0
+[21:08:37] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/142765 Hatsune Miku - Kagerou Days (Short Ver.)
+[21:08:37] BanchoBot: Changed match mode to Osu
+[21:08:38] _LSC: ewrm
+[21:08:39] BCraftMG: !mp mods 9
+[21:08:40] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:08:44] _LSC: am throwing
+[21:08:57] BanchoBot: All players are ready
+[21:09:00] BCraftMG: !mp settings
+[21:09:01] BanchoBot: All players are ready
+[21:09:01] BanchoBot: Room name: BC2: (overflow enjoyers) vs (filobaby's caretakers), History: https://osu.ppy.sh/mp/113308465
+[21:09:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/142765 Hatsune Miku - Kagerou Days (Short Ver.)
+[21:09:01] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:09:01] BanchoBot: Active mods: NoFail, Hidden
+[21:09:01] BanchoBot: Players: 2
+[21:09:01] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/20544707 Garvil          [Team Blue]
+[21:09:01] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20401638 _LSC            [Team Blue]
+[21:09:02] BCraftMG: !mp start 5 glhf
+[21:09:03] BanchoBot: Match starts in 5 seconds
+[21:09:03] BanchoBot: Queued the match to start in 5 seconds
+[21:09:04] BanchoBot: Match starts in 4 seconds
+[21:09:06] BanchoBot: Match starts in 3 seconds
+[21:09:07] BanchoBot: Good luck, have fun!
+[21:09:09] BanchoBot: The match has started!
+[21:09:09] Garvil: quakc
+[21:11:42] BanchoBot: _LSC finished playing (Score: 659404, PASSED).
+[21:11:43] BanchoBot: Garvil finished playing (Score: 701568, PASSED).
+[21:11:43] BanchoBot: The match has finished!
+[21:11:58] _LSC: that did not go as plan
+[21:12:14] BCraftMG: !mp map 164250 0
+[21:12:14] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/164250 Rita - Haru Hana no Iro -Reboot Ver.-
+[21:12:14] BanchoBot: Changed match mode to Osu
+[21:12:17] BCraftMG: !mp mods Freemod
+[21:12:17] BanchoBot: Disabled all mods, enabled FreeMod
+[21:12:32] BanchoBot: All players are ready
+[21:12:42] BCraftMG: !mp settings
+[21:12:43] BanchoBot: Room name: BC2: (overflow enjoyers) vs (filobaby's caretakers), History: https://osu.ppy.sh/mp/113308465
+[21:12:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/164250 Rita - Haru Hana no Iro -Reboot Ver.-
+[21:12:43] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:12:43] BanchoBot: Active mods: Freemod
+[21:12:43] BanchoBot: Players: 2
+[21:12:43] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/20544707 Garvil          [Team Blue / NoFail, HardRock]
+[21:12:43] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20401638 _LSC            [Team Blue / NoFail, Hidden]
+[21:12:45] BCraftMG: !mp start 5 glhf
+[21:12:45] BanchoBot: Match starts in 5 seconds
+[21:12:45] BanchoBot: Queued the match to start in 5 seconds
+[21:12:46] BanchoBot: Match starts in 4 seconds
+[21:12:48] BanchoBot: Match starts in 3 seconds
+[21:12:49] BanchoBot: Good luck, have fun!
+[21:12:51] BanchoBot: The match has started!
+[21:16:45] BanchoBot: Garvil finished playing (Score: 1084435, PASSED).
+[21:16:45] BanchoBot: _LSC finished playing (Score: 612107, PASSED).
+[21:16:45] BanchoBot: The match has finished!
+[21:16:56] BCraftMG: !mp map 52333 0
+[21:16:57] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/52333 Justin Bieber ft. Ludacris - Baby
+[21:16:57] BanchoBot: Changed match mode to Osu
+[21:16:58] Garvil: dropped 99
+[21:16:58] BCraftMG: !mp mods 65
+[21:16:59] Garvil: bruh
+[21:16:59] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:17:03] Garvil: i am cringe
+[21:17:26] _LSC: ok man
+[21:17:48] BanchoBot: All players are ready
+[21:18:00] BCraftMG: !mp settings
+[21:18:01] BanchoBot: Room name: BC2: (overflow enjoyers) vs (filobaby's caretakers), History: https://osu.ppy.sh/mp/113308465
+[21:18:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/52333 Justin Bieber ft. Ludacris - Baby
+[21:18:01] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:18:01] BanchoBot: Active mods: NoFail, DoubleTime
+[21:18:01] BanchoBot: Players: 2
+[21:18:01] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/20544707 Garvil          [Team Blue]
+[21:18:01] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20401638 _LSC            [Team Blue]
+[21:18:02] BCraftMG: !mp start 5 glhf
+[21:18:02] BanchoBot: Match starts in 5 seconds
+[21:18:02] BanchoBot: Queued the match to start in 5 seconds
+[21:18:04] BanchoBot: Match starts in 4 seconds
+[21:18:05] BanchoBot: Match starts in 3 seconds
+[21:18:06] BanchoBot: Good luck, have fun!
+[21:18:07] Garvil: quack
+[21:18:08] BanchoBot: The match has started!
+[21:20:19] BanchoBot: _LSC finished playing (Score: 706263, PASSED).
+[21:20:22] BanchoBot: Garvil finished playing (Score: 973745, PASSED).
+[21:20:22] BanchoBot: The match has finished!
+[21:20:40] Garvil: rip acc
+[21:20:52] BCraftMG: !mp map 4356545
+[21:20:52] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4356545 Project-G - Mercury
+[21:20:55] _LSC: am trolling
+[21:20:59] BCraftMG: !mp map 99816 0
+[21:20:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/99816 Hatsune Miku - Game of Life
+[21:20:59] BanchoBot: Changed match mode to Osu
+[21:21:01] BCraftMG: !mp mods 17
+[21:21:02] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[21:21:03] BCraftMG: wrong map
+[21:21:25] BanchoBot: All players are ready
+[21:21:38] BCraftMG: !mp settings
+[21:21:39] BanchoBot: Room name: BC2: (overflow enjoyers) vs (filobaby's caretakers), History: https://osu.ppy.sh/mp/113308465
+[21:21:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/99816 Hatsune Miku - Game of Life
+[21:21:39] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:21:39] BanchoBot: Active mods: NoFail, HardRock
+[21:21:39] BanchoBot: Players: 2
+[21:21:39] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/20544707 Garvil          [Team Blue]
+[21:21:39] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20401638 _LSC            [Team Blue]
+[21:21:40] BCraftMG: !mp start 5 glhf
+[21:21:41] BanchoBot: Match starts in 5 seconds
+[21:21:41] BanchoBot: Queued the match to start in 5 seconds
+[21:21:42] BanchoBot: Match starts in 4 seconds
+[21:21:43] BanchoBot: Match starts in 3 seconds
+[21:21:44] BanchoBot: Good luck, have fun!
+[21:21:44] _LSC: hfhf
+[21:21:46] Garvil: quack
+[21:21:47] BanchoBot: The match has started!
+[21:25:36] BanchoBot: _LSC finished playing (Score: 380469, PASSED).
+[21:25:36] BanchoBot: Garvil finished playing (Score: 771697, PASSED).
+[21:25:36] BanchoBot: The match has finished!
+[21:25:54] BCraftMG: !mp map 100784 0
+[21:25:55] BCraftMG: !mp mods 1
+[21:25:55] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/100784 Max Coveri - Golden Age
+[21:25:55] BanchoBot: Changed match mode to Osu
+[21:25:56] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:26:21] _LSC: quack
+[21:27:15] BanchoBot: All players are ready
+[21:27:18] BCraftMG: !mp settings
+[21:27:19] BanchoBot: Room name: BC2: (overflow enjoyers) vs (filobaby's caretakers), History: https://osu.ppy.sh/mp/113308465
+[21:27:19] BanchoBot: Beatmap: https://osu.ppy.sh/b/100784 Max Coveri - Golden Age
+[21:27:19] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:27:19] BanchoBot: Active mods: NoFail
+[21:27:19] BanchoBot: Players: 2
+[21:27:19] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/20544707 Garvil          [Team Blue]
+[21:27:19] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20401638 _LSC            [Team Blue]
+[21:27:19] BCraftMG: !mp start 5 glhf
+[21:27:20] BanchoBot: Match starts in 5 seconds
+[21:27:20] BanchoBot: Queued the match to start in 5 seconds
+[21:27:21] BanchoBot: Match starts in 4 seconds
+[21:27:23] BanchoBot: Match starts in 3 seconds
+[21:27:24] BanchoBot: Good luck, have fun!
+[21:27:26] BanchoBot: The match has started!
+[21:27:26] _LSC: hf
+[21:30:09] BanchoBot: _LSC finished playing (Score: 989323, PASSED).
+[21:30:09] BanchoBot: Garvil finished playing (Score: 940139, PASSED).
+[21:30:09] BanchoBot: The match has finished!
+[21:30:20] BCraftMG: !mp map 31562 0
+[21:30:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/31562 Aqua - Candyman (Speedy Mix)
+[21:30:21] BanchoBot: Changed match mode to Osu
+[21:30:22] BCraftMG: !mp mods freemod
+[21:30:22] BanchoBot: Disabled all mods, enabled FreeMod
+[21:32:05] _LSC: am bad
+[21:32:13] BanchoBot: All players are ready
+[21:32:17] BCraftMG: !mp settings
+[21:32:18] BanchoBot: Room name: BC2: (overflow enjoyers) vs (filobaby's caretakers), History: https://osu.ppy.sh/mp/113308465
+[21:32:18] BanchoBot: Beatmap: https://osu.ppy.sh/b/31562 Aqua - Candyman (Speedy Mix)
+[21:32:18] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:32:18] BanchoBot: Active mods: Freemod
+[21:32:18] BanchoBot: Players: 2
+[21:32:18] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/20544707 Garvil          [Team Blue / NoFail, HardRock]
+[21:32:18] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20401638 _LSC            [Team Blue / NoFail, Hidden]
+[21:32:19] BCraftMG: !mp start 5 glhf
+[21:32:19] BanchoBot: Match starts in 5 seconds
+[21:32:19] BanchoBot: Queued the match to start in 5 seconds
+[21:32:20] BanchoBot: Match starts in 4 seconds
+[21:32:21] BanchoBot: Match starts in 3 seconds
+[21:32:23] BanchoBot: Good luck, have fun!
+[21:32:25] BanchoBot: The match has started!
+[21:35:07] BanchoBot: Garvil finished playing (Score: 775341, PASSED).
+[21:35:09] BanchoBot: _LSC finished playing (Score: 678431, PASSED).
+[21:35:09] BanchoBot: The match has finished!
+[21:35:24] BCraftMG: !mp map 36523 0
+[21:35:24] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/36523 Nico Nico Douga - Ryuusei Musume
+[21:35:24] BanchoBot: Changed match mode to Osu
+[21:35:26] BCraftMG: !mp mods Freemod
+[21:35:27] BanchoBot: Disabled all mods, enabled FreeMod
+[21:35:46] Garvil: surely it doesn't actually come down to this
+[21:35:49] _LSC: garvil my hr goat
+[21:35:56] Garvil: COpe bro
+[21:35:58] BCraftMG: life
+[21:36:32] BanchoBot: All players are ready
+[21:36:45] BCraftMG: !mp settings
+[21:36:46] BanchoBot: Room name: BC2: (overflow enjoyers) vs (filobaby's caretakers), History: https://osu.ppy.sh/mp/113308465
+[21:36:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/36523 Nico Nico Douga - Ryuusei Musume
+[21:36:46] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:36:46] BanchoBot: Active mods: Freemod
+[21:36:46] BanchoBot: Players: 2
+[21:36:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/20544707 Garvil          [Team Blue / NoFail, HardRock]
+[21:36:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20401638 _LSC            [Team Blue / NoFail]
+[21:36:49] BCraftMG: !mp start 5 glhf
+[21:36:49] BanchoBot: Match starts in 5 seconds
+[21:36:49] BanchoBot: Queued the match to start in 5 seconds
+[21:36:50] BanchoBot: Match starts in 4 seconds
+[21:36:51] BanchoBot: Match starts in 3 seconds
+[21:36:52] BanchoBot: Good luck, have fun!
+[21:36:55] BanchoBot: The match has started!
+[21:36:58] Garvil: quavk
+[21:42:00] BanchoBot: Garvil finished playing (Score: 678754, PASSED).
+[21:42:00] BanchoBot: _LSC finished playing (Score: 419808, PASSED).
+[21:42:00] BanchoBot: The match has finished!
+[21:42:10] Garvil: erm
+[21:42:12] _LSC: LOL
+[21:42:15] _LSC: that was funni
+[21:42:17] BCraftMG: wp
+[21:42:19] Garvil: happy april fools?
+[21:42:19] BCraftMG: but hr
+[21:42:20] Garvil: LOL
+[21:42:22] BCraftMG: :peepostare:
+[21:42:30] _LSC: fr
+[21:42:41] Garvil: an fc is an fc
+[21:42:44] BCraftMG: okay, you two can leave now :3c
+[21:42:44] _LSC: erm thx fro da ref sorry for all the inconveniece
+[21:42:49] _LSC: ;-;
+[21:42:58] Garvil: ok thx for reffing :D
+[21:42:58] BCraftMG: its alrite
+[21:43:05] Garvil: sry for the inconvenience
+[21:43:08] Garvil: as well
+[21:43:21] _LSC: alright have a good day :D
+[21:43:26] Garvil: anways cyar o/
+[21:43:27] BanchoBot: Garvil left the game.
+[21:43:32] _LSC: 0/
+[21:43:35] BanchoBot: _LSC left the game.
+[21:43:43] BCraftMG: !mp close
+[21:43:44] BanchoBot: Closed the match

@@ -1,0 +1,769 @@
+[21:00:09] Joined #mp_113400383
+[21:00:09] BCraftMG: !mp settings
+[21:00:11] BanchoBot: Room name: 5WCML: (Australia C) vs (Brazil B), History: https://osu.ppy.sh/mp/113400383
+[21:00:11] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[21:00:11] BanchoBot: Players: 0
+[21:00:48] BCraftMG: !mp set 2 3 12
+[21:00:48] BanchoBot: Changed match settings to 12 slots, TeamVs, ScoreV2
+[21:00:49] BCraftMG: !mp map 4152199
+[21:00:50] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4152199 HOYO-MiX - Space Walk
+[21:00:51] BCraftMG: !mp invite #9285180
+[21:00:53] BanchoBot: Invited YelloJello to the room
+[21:00:53] BCraftMG: !mp invite #2129975
+[21:00:54] BanchoBot: Invited AriMaki to the room
+[21:01:14] BanchoBot: AriMaki joined in slot 1 for team blue.
+[21:01:19] BanchoBot: YelloJello joined in slot 2 for team red.
+[21:01:20] BCraftMG: heya
+[21:01:20] BanchoBot: YelloJello moved to slot 4
+[21:01:21] BanchoBot: YelloJello moved to slot 5
+[21:01:24] BCraftMG: sorry for slow lobby
+[21:01:24] BanchoBot: YelloJello changed to Blue
+[21:01:26] YelloJello: ola
+[21:01:30] BCraftMG: Australia C on red 1-4
+[21:01:32] AriMaki: o/
+[21:01:34] BCraftMG: Brazil B on blue 5-8
+[21:01:36] BanchoBot: AriMaki moved to slot 6
+[21:01:46] BanchoBot: yogurt hose joined in slot 1 for team blue.
+[21:01:55] BanchoBot: XimperiaL joined in slot 2 for team red.
+[21:02:00] BanchoBot: 4nge1 joined in slot 3 for team blue.
+[21:02:05] BCraftMG: we can start with rolls
+[21:02:06] BanchoBot: YelloJello moved to slot 4
+[21:02:08] BanchoBot: YelloJello changed to Red
+[21:02:12] YelloJello: !roll
+[21:02:12] BanchoBot: YelloJello rolls 86 point(s)
+[21:02:15] BanchoBot: ramuu joined in slot 5 for team blue.
+[21:02:17] AriMaki: !roll
+[21:02:17] BanchoBot: AriMaki rolls 83 point(s)
+[21:02:19] YelloJello: my magecraft holds strong.
+[21:02:36] BCraftMG: The winner of the roll will protect second, ban first, and pick first.		First Protect: Brazil B
+[21:02:40] BCraftMG: !mp timer 120
+[21:02:41] BanchoBot: Countdown ends in 2 minutes
+[21:02:50] BanchoBot: TheBrodiealex joined in slot 7 for team blue.
+[21:02:54] BanchoBot: yogurt hose left the game.
+[21:03:01] AriMaki: Protect HR3
+[21:03:13] BanchoBot: yogurt hose joined in slot 1 for team blue.
+[21:03:23] BCraftMG: Next Protect: Australia C
+[21:03:24] BCraftMG: !mp timer 120
+[21:03:26] BanchoBot: Countdown aborted
+[21:03:26] BanchoBot: Countdown ends in 2 minutes
+[21:03:29] YelloJello: protect NM6
+[21:03:54] BCraftMG: First Ban: Australia C
+[21:03:55] BCraftMG: !mp timer 120
+[21:03:56] BanchoBot: Countdown aborted
+[21:03:56] BanchoBot: Countdown ends in 2 minutes
+[21:04:22] YelloJello: Ban fm1
+[21:04:30] BCraftMG: Next Ban: Brazil B
+[21:04:32] BCraftMG: !mp timer 120
+[21:04:32] BanchoBot: Countdown aborted
+[21:04:32] BanchoBot: Countdown ends in 2 minutes
+[21:05:34] BanchoBot: Countdown ends in 1 minute
+[21:05:42] BanchoBot: waswaswaswas joined in slot 8 for team red.
+[21:05:57] AriMaki: Ban NM3
+[21:06:00] BanchoBot: waswaswaswas changed to Blue
+[21:06:03] BanchoBot: Countdown ends in 30 seconds
+[21:06:16] BCraftMG: 2 ban btw
+[21:06:23] BanchoBot: Countdown ends in 10 seconds
+[21:06:23] BCraftMG: !mp timer 120
+[21:06:24] BanchoBot: Countdown aborted
+[21:06:24] BanchoBot: Countdown ends in 2 minutes
+[21:06:31] AriMaki: Ban HD2
+[21:06:31] BanchoBot: -k4t- joined in slot 9 for team blue.
+[21:06:44] BCraftMG: Next Ban: Australia C
+[21:06:44] BCraftMG: !mp timer 120
+[21:06:47] BanchoBot: Countdown aborted
+[21:06:47] BanchoBot: Countdown ends in 2 minutes
+[21:07:05] YelloJello: nm2
+[21:07:15] BCraftMG: Australia C | 0 - 0 | Brazil B // Bo11 - First Pick: Australia C
+[21:07:16] BCraftMG: !mp timer 120
+[21:07:18] BanchoBot: Countdown aborted
+[21:07:18] BanchoBot: Countdown ends in 2 minutes
+[21:07:24] BanchoBot: yogurt hose left the game.
+[21:07:26] YelloJello: nm6
+[21:07:29] BanchoBot: YelloJello moved to slot 1
+[21:07:32] BanchoBot: TheBrodiealex left the game.
+[21:07:33] BCraftMG: !mp map 2476968 0
+[21:07:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2476968 Mameyudoufu - Midnight Glow feat. mami (Extended a bit)
+[21:07:34] BanchoBot: Changed match mode to Osu
+[21:07:34] BCraftMG: !mp mods 1
+[21:07:35] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:07:38] BanchoBot: waswaswaswas moved to slot 7
+[21:07:39] BanchoBot: YelloJello left the game.
+[21:07:42] BanchoBot: Last Light joined in slot 1 for team blue.
+[21:07:44] BanchoBot: 4nge1 left the game.
+[21:07:51] BanchoBot: Last Light moved to slot 4
+[21:07:53] BanchoBot: Last Light moved to slot 8
+[21:07:57] BanchoBot: ramuu moved to slot 3
+[21:07:58] BanchoBot: ramuu changed to Red
+[21:08:10] BanchoBot: ramuu moved to slot 1
+[21:08:10] BanchoBot: AriMaki moved to slot 10
+[21:08:10] BanchoBot: Mestre joined in slot 3 for team blue.
+[21:08:11] BanchoBot: yogurt hose joined in slot 4 for team red.
+[21:08:11] BanchoBot: Last Light left the game.
+[21:08:13] XimperiaL: for stream aus red 1-4 btw
+[21:08:14] BanchoBot: Mestre left the game.
+[21:08:16] BanchoBot: yogurt hose moved to slot 5
+[21:08:16] BanchoBot: yogurt hose moved to slot 3
+[21:08:17] BanchoBot: waswaswaswas left the game.
+[21:08:18] BanchoBot: Countdown ends in 1 minute
+[21:08:23] BCraftMG: i dont think there is a stream sadly
+[21:08:30] XimperiaL: there is
+[21:08:33] BanchoBot: TheBrodiealex joined in slot 4 for team red.
+[21:08:34] XimperiaL: its very scuffed
+[21:08:42] BanchoBot: Last Light joined in slot 5 for team blue.
+[21:08:44] BCraftMG: uhh
+[21:08:49] BanchoBot: Countdown ends in 30 seconds
+[21:08:49] BCraftMG: whos the streamer i can addref them?
+[21:08:53] BanchoBot: Mestre joined in slot 6 for team red.
+[21:08:55] BanchoBot: Ketsui joined in slot 7 for team blue.
+[21:08:55] BanchoBot: waswaswaswas joined in slot 8 for team red.
+[21:08:58] XimperiaL: xykedelic
+[21:08:58] BanchoBot: waswaswaswas changed to Blue
+[21:08:59] BanchoBot: AriMaki left the game.
+[21:09:02] BanchoBot: XimperiaL left the game.
+[21:09:08] BanchoBot: Countdown ends in 10 seconds
+[21:09:11] BanchoBot: Mestre changed to Blue
+[21:09:14] BanchoBot: Countdown ends in 5 seconds
+[21:09:15] BanchoBot: Countdown ends in 4 seconds
+[21:09:16] BanchoBot: Countdown ends in 3 seconds
+[21:09:17] BanchoBot: Countdown ends in 2 seconds
+[21:09:18] BanchoBot: Countdown ends in 1 second
+[21:09:19] BanchoBot: Countdown finished
+[21:09:19] BanchoBot: YelloJello joined in slot 2 for team red.
+[21:09:20] BCraftMG: !mp settings
+[21:09:21] BanchoBot: Room name: 5WCML: (Australia C) vs (Brazil B), History: https://osu.ppy.sh/mp/113400383
+[21:09:21] BanchoBot: Beatmap: https://osu.ppy.sh/b/2476968 Mameyudoufu - Midnight Glow feat. mami (Extended a bit)
+[21:09:21] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:09:21] BanchoBot: Active mods: NoFail
+[21:09:21] BanchoBot: Players: 9
+[21:09:21] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/9447753 ramuu           [Team Red ]
+[21:09:21] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/9285180 YelloJello      [Team Red ]
+[21:09:21] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/14754208 yogurt hose     [Team Red ]
+[21:09:21] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/14534410 TheBrodiealex   [Team Red ]
+[21:09:21] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/13889836 Last Light      [Team Blue]
+[21:09:21] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/11227346 Mestre          [Team Blue]
+[21:09:21] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/10935960 Ketsui          [Team Blue]
+[21:09:21] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/22910322 waswaswaswas    [Team Blue]
+[21:09:21] BanchoBot: Slot 9  Not Ready https://osu.ppy.sh/u/13134250 -k4t-           [Team Blue]
+[21:09:25] YelloJello: yeah sub ben
+[21:09:28] BanchoBot: -k4t- changed to Red
+[21:09:29] BanchoBot: yogurt hose left the game.
+[21:09:31] BanchoBot: -k4t- moved to slot 3
+[21:09:32] YelloJello: lets go
+[21:09:33] BCraftMG: hello
+[21:09:34] BCraftMG: timer eneded
+[21:09:38] BCraftMG: ready up
+[21:09:42] BanchoBot: All players are ready
+[21:09:47] Ketsui: glhf
+[21:09:49] BCraftMG: !mp settings
+[21:09:50] YelloJello: glge
+[21:09:50] Last_Light: glhf
+[21:09:50] BanchoBot: Room name: 5WCML: (Australia C) vs (Brazil B), History: https://osu.ppy.sh/mp/113400383
+[21:09:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/2476968 Mameyudoufu - Midnight Glow feat. mami (Extended a bit)
+[21:09:50] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:09:50] BanchoBot: Active mods: NoFail
+[21:09:50] BanchoBot: Players: 8
+[21:09:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9447753 ramuu           [Team Red ]
+[21:09:50] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9285180 YelloJello      [Team Red ]
+[21:09:50] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13134250 -k4t-           [Team Red ]
+[21:09:50] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14534410 TheBrodiealex   [Team Red ]
+[21:09:50] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13889836 Last Light      [Team Blue]
+[21:09:50] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/11227346 Mestre          [Team Blue]
+[21:09:50] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/10935960 Ketsui          [Team Blue]
+[21:09:50] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/22910322 waswaswaswas    [Team Blue]
+[21:09:50] BCraftMG: !mp start 5 glhf
+[21:09:51] waswaswaswas: glhf
+[21:09:51] BanchoBot: Match starts in 5 seconds
+[21:09:51] BanchoBot: Queued the match to start in 5 seconds
+[21:09:52] -k4t-: glfh!
+[21:09:52] BanchoBot: Match starts in 4 seconds
+[21:09:54] BanchoBot: Match starts in 3 seconds
+[21:09:55] BanchoBot: Good luck, have fun!
+[21:09:57] BanchoBot: The match has started!
+[21:09:57] ramuu: golf
+[21:13:44] BanchoBot: YelloJello finished playing (Score: 612167, PASSED).
+[21:13:44] BanchoBot: ramuu finished playing (Score: 421728, PASSED).
+[21:13:46] BanchoBot: waswaswaswas finished playing (Score: 639122, PASSED).
+[21:13:46] BanchoBot: TheBrodiealex finished playing (Score: 663903, PASSED).
+[21:13:46] BanchoBot: Ketsui finished playing (Score: 526417, PASSED).
+[21:13:46] BanchoBot: -k4t- finished playing (Score: 748994, PASSED).
+[21:13:47] BanchoBot: Mestre finished playing (Score: 466323, PASSED).
+[21:13:47] BanchoBot: Last Light finished playing (Score: 388348, PASSED).
+[21:13:47] BanchoBot: The match has finished!
+[21:13:56] BanchoBot: yogurt hose joined in slot 9 for team blue.
+[21:14:00] BCraftMG: Australia C | 1 - 0 | Brazil B // Bo11 - Next Pick: Brazil B
+[21:14:01] BCraftMG: !mp timer 120
+[21:14:02] BanchoBot: Countdown ends in 2 minutes
+[21:14:03] BanchoBot: AriMaki joined in slot 10 for team red.
+[21:14:21] BanchoBot: yogurt hose left the game.
+[21:14:31] BanchoBot: yogurt hose joined in slot 9 for team blue.
+[21:14:43] BanchoBot: Ketsui left the game.
+[21:14:54] BanchoBot: Mestre left the game.
+[21:14:57] BanchoBot: Last Light left the game.
+[21:15:03] BanchoBot: Countdown ends in 1 minute
+[21:15:04] AriMaki: Pick NM4
+[21:15:11] BCraftMG: !mp map 3660035 0
+[21:15:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3660035 Mitsukiyo - Bunny Bunny Carrot Carrot
+[21:15:12] BanchoBot: Changed match mode to Osu
+[21:15:14] BCraftMG: !mp mods 1
+[21:15:15] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:15:15] BCraftMG: !mp timer 120
+[21:15:16] BanchoBot: Countdown aborted
+[21:15:16] BanchoBot: Countdown ends in 2 minutes
+[21:15:23] BanchoBot: yogurt hose left the game.
+[21:15:31] BanchoBot: waswaswaswas left the game.
+[21:15:34] BanchoBot: AriMaki moved to slot 8
+[21:15:35] BanchoBot: AriMaki changed to Blue
+[21:15:51] BanchoBot: YelloJello left the game.
+[21:16:18] BanchoBot: Countdown ends in 1 minute
+[21:16:25] BanchoBot: YelloJello joined in slot 2 for team red.
+[21:16:36] YelloJello: why do I have a hr B rank on this
+[21:16:42] YelloJello: which tourney didnt like me and pooled this hr
+[21:16:46] BanchoBot: Countdown ends in 30 seconds
+[21:16:57] BanchoBot: Mestre joined in slot 5 for team blue.
+[21:17:07] BanchoBot: Countdown ends in 10 seconds
+[21:17:07] BanchoBot: Ketsui joined in slot 6 for team red.
+[21:17:08] BanchoBot: waswaswaswas joined in slot 7 for team blue.
+[21:17:08] BanchoBot: Ketsui changed to Blue
+[21:17:11] BanchoBot: Countdown ends in 5 seconds
+[21:17:13] BCraftMG: yeet
+[21:17:13] BanchoBot: Countdown ends in 4 seconds
+[21:17:14] BCraftMG: timer
+[21:17:14] BanchoBot: Countdown ends in 3 seconds
+[21:17:14] BanchoBot: Countdown ends in 2 seconds
+[21:17:15] BCraftMG: !mp settings
+[21:17:16] BanchoBot: Countdown ends in 1 second
+[21:17:16] ramuu: GOLF
+[21:17:17] BanchoBot: Countdown finished
+[21:17:17] BanchoBot: Room name: 5WCML: (Australia C) vs (Brazil B), History: https://osu.ppy.sh/mp/113400383
+[21:17:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/3660035 Mitsukiyo - Bunny Bunny Carrot Carrot
+[21:17:17] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:17:17] BanchoBot: Active mods: NoFail
+[21:17:17] BanchoBot: Players: 8
+[21:17:17] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9447753 ramuu           [Team Red ]
+[21:17:17] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9285180 YelloJello      [Team Red ]
+[21:17:17] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/13134250 -k4t-           [Team Red ]
+[21:17:17] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14534410 TheBrodiealex   [Team Red ]
+[21:17:17] BanchoBot: Slot 5  Not Ready https://osu.ppy.sh/u/11227346 Mestre          [Team Blue]
+[21:17:17] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10935960 Ketsui          [Team Blue]
+[21:17:17] BanchoBot: Slot 7  Not Ready https://osu.ppy.sh/u/22910322 waswaswaswas    [Team Blue]
+[21:17:17] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/2129975 AriMaki         [Team Blue]
+[21:17:17] BCraftMG: ready up
+[21:17:21] waswaswaswas: glhf
+[21:17:21] TheBrodiealex: glhf
+[21:17:21] YelloJello: Glge
+[21:17:27] AriMaki: glhf
+[21:17:33] YelloJello: kat mate
+[21:17:36] YelloJello: ready up
+[21:17:40] BanchoBot: All players are ready
+[21:17:40] BCraftMG: !mp settings
+[21:17:42] BanchoBot: Room name: 5WCML: (Australia C) vs (Brazil B), History: https://osu.ppy.sh/mp/113400383
+[21:17:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/3660035 Mitsukiyo - Bunny Bunny Carrot Carrot
+[21:17:42] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:17:42] BanchoBot: Active mods: NoFail
+[21:17:42] BanchoBot: Players: 8
+[21:17:42] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9447753 ramuu           [Team Red ]
+[21:17:42] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9285180 YelloJello      [Team Red ]
+[21:17:42] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13134250 -k4t-           [Team Red ]
+[21:17:42] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14534410 TheBrodiealex   [Team Red ]
+[21:17:42] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/11227346 Mestre          [Team Blue]
+[21:17:42] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10935960 Ketsui          [Team Blue]
+[21:17:42] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/22910322 waswaswaswas    [Team Blue]
+[21:17:42] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/2129975 AriMaki         [Team Blue]
+[21:17:43] Ketsui: glhf
+[21:17:43] YelloJello: glgl
+[21:17:44] BCraftMG: !mp start 5 glhf
+[21:17:45] BanchoBot: Match starts in 5 seconds
+[21:17:45] BanchoBot: Queued the match to start in 5 seconds
+[21:17:46] BanchoBot: Match starts in 4 seconds
+[21:17:48] BanchoBot: Match starts in 3 seconds
+[21:17:49] BanchoBot: Good luck, have fun!
+[21:17:51] BanchoBot: The match has started!
+[21:19:54] BanchoBot: TheBrodiealex finished playing (Score: 403945, PASSED).
+[21:19:55] BanchoBot: Ketsui finished playing (Score: 938504, PASSED).
+[21:19:55] BanchoBot: YelloJello finished playing (Score: 673691, PASSED).
+[21:19:55] BanchoBot: ramuu finished playing (Score: 535750, PASSED).
+[21:19:55] BanchoBot: Mestre finished playing (Score: 634799, PASSED).
+[21:19:55] BanchoBot: waswaswaswas finished playing (Score: 921955, PASSED).
+[21:19:55] BanchoBot: -k4t- finished playing (Score: 717449, PASSED).
+[21:19:57] BanchoBot: AriMaki finished playing (Score: 292327, PASSED).
+[21:19:57] BanchoBot: The match has finished!
+[21:20:14] BCraftMG: Australia C | 1 - 1 | Brazil B // Bo11 - Next Pick: Australia C
+[21:20:16] BCraftMG: !mp timer 120
+[21:20:17] BanchoBot: Countdown ends in 2 minutes
+[21:20:33] BanchoBot: Mestre left the game.
+[21:20:39] BanchoBot: waswaswaswas left the game.
+[21:20:52] BanchoBot: ramuu left the game.
+[21:21:02] BanchoBot: Ketsui left the game.
+[21:21:18] BanchoBot: Countdown ends in 1 minute
+[21:21:18] YelloJello: hr2
+[21:21:27] BanchoBot: TheBrodiealex left the game.
+[21:21:28] BCraftMG: !mp map 4446792 0
+[21:21:28] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4446792 loos - Koi Yomi Zakura
+[21:21:28] BanchoBot: Changed match mode to Osu
+[21:21:30] BCraftMG: !mp mods 17
+[21:21:31] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[21:21:32] BCraftMG: !mp timer 120
+[21:21:33] BanchoBot: 4nge1 joined in slot 1 for team blue.
+[21:21:33] BanchoBot: Countdown aborted
+[21:21:33] BanchoBot: Countdown ends in 2 minutes
+[21:21:40] BanchoBot: Last Light joined in slot 4 for team red.
+[21:21:52] BanchoBot: Last Light changed to Blue
+[21:21:53] BanchoBot: Last Light moved to slot 7
+[21:22:00] BanchoBot: 4nge1 changed to Red
+[21:22:25] BanchoBot: TheBrodiealex joined in slot 4 for team red.
+[21:22:34] BanchoBot: Countdown ends in 1 minute
+[21:22:51] YelloJello: glge
+[21:22:58] BanchoBot: Ragningo joined in slot 5 for team blue.
+[21:23:03] BanchoBot: Countdown ends in 30 seconds
+[21:23:06] BanchoBot: Ketsui joined in slot 6 for team red.
+[21:23:09] BanchoBot: Ketsui changed to Blue
+[21:23:15] BanchoBot: All players are ready
+[21:23:21] BCraftMG: !mp settings
+[21:23:22] BanchoBot: Room name: 5WCML: (Australia C) vs (Brazil B), History: https://osu.ppy.sh/mp/113400383
+[21:23:22] BanchoBot: Beatmap: https://osu.ppy.sh/b/4446792 loos - Koi Yomi Zakura
+[21:23:22] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:23:22] BanchoBot: Active mods: NoFail, HardRock
+[21:23:22] BanchoBot: Players: 8
+[21:23:22] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/24170797 4nge1           [Team Red ]
+[21:23:22] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9285180 YelloJello      [Team Red ]
+[21:23:22] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13134250 -k4t-           [Team Red ]
+[21:23:22] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14534410 TheBrodiealex   [Team Red ]
+[21:23:22] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/9476971 Ragningo        [Team Blue]
+[21:23:22] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10935960 Ketsui          [Team Blue]
+[21:23:22] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/13889836 Last Light      [Team Blue]
+[21:23:22] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/2129975 AriMaki         [Team Blue]
+[21:23:22] Ketsui: glhf
+[21:23:23] BCraftMG: !mp start 5 glhf
+[21:23:24] BanchoBot: Countdown ends in 10 seconds
+[21:23:24] Last_Light: glhf
+[21:23:24] BanchoBot: Countdown aborted
+[21:23:24] BanchoBot: Match starts in 5 seconds
+[21:23:24] BanchoBot: Queued the match to start in 5 seconds
+[21:23:25] BanchoBot: Match starts in 4 seconds
+[21:23:26] BanchoBot: Match starts in 3 seconds
+[21:23:28] BanchoBot: Good luck, have fun!
+[21:23:29] YelloJello: gggfg;llllll
+[21:23:29] BanchoBot: The match has started!
+[21:27:27] BanchoBot: -k4t- finished playing (Score: 684944, PASSED).
+[21:27:27] BanchoBot: 4nge1 finished playing (Score: 590132, PASSED).
+[21:27:27] BanchoBot: YelloJello finished playing (Score: 445875, PASSED).
+[21:27:27] BanchoBot: AriMaki finished playing (Score: 495936, PASSED).
+[21:27:27] BanchoBot: Ragningo finished playing (Score: 431508, PASSED).
+[21:27:27] BanchoBot: TheBrodiealex finished playing (Score: 355330, PASSED).
+[21:27:27] BanchoBot: Ketsui finished playing (Score: 475103, PASSED).
+[21:27:28] BanchoBot: Last Light finished playing (Score: 591141, PASSED).
+[21:27:28] BanchoBot: The match has finished!
+[21:27:39] YelloJello: fkn nailbiter
+[21:27:40] BCraftMG: Australia C | 2 - 1 | Brazil B // Bo11 - Next Pick: Brazil B
+[21:27:41] BCraftMG: !mp timer 120
+[21:27:42] BanchoBot: Countdown ends in 2 minutes
+[21:28:43] BanchoBot: Countdown ends in 1 minute
+[21:28:46] AriMaki: Pick Hr3
+[21:28:59] BanchoBot: TheBrodiealex left the game.
+[21:29:08] BCraftMG: !mp map 3013254 0
+[21:29:08] BCraftMG: !mp timer 120
+[21:29:09] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3013254 IAHN - Transform (Original Mix)
+[21:29:09] BanchoBot: Changed match mode to Osu
+[21:29:11] BanchoBot: Countdown aborted
+[21:29:11] BanchoBot: Countdown ends in 2 minutes
+[21:29:27] BanchoBot: 4nge1 moved to slot 4
+[21:29:30] BanchoBot: YelloJello moved to slot 1
+[21:29:37] BanchoBot: 4nge1 moved to slot 2
+[21:29:43] BanchoBot: TheBrodiealex joined in slot 4 for team red.
+[21:29:51] YelloJello: gl lads
+[21:29:58] BanchoBot: All players are ready
+[21:30:01] Ketsui: glhf
+[21:30:02] BCraftMG: !mp settings
+[21:30:03] BanchoBot: Room name: 5WCML: (Australia C) vs (Brazil B), History: https://osu.ppy.sh/mp/113400383
+[21:30:03] BanchoBot: Beatmap: https://osu.ppy.sh/b/3013254 IAHN - Transform (Original Mix)
+[21:30:03] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:30:03] BanchoBot: Active mods: NoFail, HardRock
+[21:30:03] BanchoBot: Players: 8
+[21:30:03] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9285180 YelloJello      [Team Red ]
+[21:30:03] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/24170797 4nge1           [Team Red ]
+[21:30:03] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13134250 -k4t-           [Team Red ]
+[21:30:03] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14534410 TheBrodiealex   [Team Red ]
+[21:30:03] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/9476971 Ragningo        [Team Blue]
+[21:30:03] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/10935960 Ketsui          [Team Blue]
+[21:30:03] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/13889836 Last Light      [Team Blue]
+[21:30:03] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/2129975 AriMaki         [Team Blue]
+[21:30:04] BCraftMG: !mp start 5 glhf
+[21:30:04] Last_Light: glhf
+[21:30:04] BanchoBot: Countdown aborted
+[21:30:04] BanchoBot: Match starts in 5 seconds
+[21:30:04] BanchoBot: Queued the match to start in 5 seconds
+[21:30:06] BanchoBot: Match starts in 4 seconds
+[21:30:07] BanchoBot: Match starts in 3 seconds
+[21:30:07] BanchoBot: Good luck, have fun!
+[21:30:10] BanchoBot: The match has started!
+[21:32:22] BanchoBot: Ketsui finished playing (Score: 537069, PASSED).
+[21:32:22] BanchoBot: -k4t- finished playing (Score: 953542, PASSED).
+[21:32:24] BanchoBot: Last Light finished playing (Score: 447579, PASSED).
+[21:32:24] BanchoBot: YelloJello finished playing (Score: 752075, PASSED).
+[21:32:24] BanchoBot: TheBrodiealex finished playing (Score: 517228, PASSED).
+[21:32:24] BanchoBot: Ragningo finished playing (Score: 486252, PASSED).
+[21:32:26] BanchoBot: 4nge1 finished playing (Score: 491618, PASSED).
+[21:32:26] BanchoBot: AriMaki finished playing (Score: 433067, PASSED).
+[21:32:26] BanchoBot: The match has finished!
+[21:32:41] BCraftMG: Australia C | 3 - 1 | Brazil B // Bo11 - Next Pick: Australia C
+[21:32:42] BCraftMG: !mp timer 120
+[21:32:43] BanchoBot: Countdown ends in 2 minutes
+[21:32:58] YelloJello: hr1
+[21:33:05] BanchoBot: Ketsui left the game.
+[21:33:11] BCraftMG: Australia C | 3 - 1 | Brazil B // Bo11 - Next Pick: Brazil B
+[21:33:13] BCraftMG: wtf hd abuse
+[21:33:14] BCraftMG: hr
+[21:33:19] BCraftMG: !mp map 904043 0
+[21:33:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/904043 Wagakki Band - Ikusa
+[21:33:19] BanchoBot: Changed match mode to Osu
+[21:33:21] BCraftMG: !mp timer 120
+[21:33:22] BanchoBot: Countdown aborted
+[21:33:22] BanchoBot: Countdown ends in 2 minutes
+[21:33:24] YelloJello: they protected it cant be abuse.
+[21:33:38] YelloJello: *tilts glasses*
+[21:33:42] BanchoBot: AriMaki left the game.
+[21:34:23] BanchoBot: waswaswaswas joined in slot 6 for team red.
+[21:34:23] BanchoBot: Countdown ends in 1 minute
+[21:34:30] BanchoBot: waswaswaswas changed to Blue
+[21:34:30] BanchoBot: AriMaki joined in slot 8 for team red.
+[21:34:35] BanchoBot: AriMaki moved to slot 10
+[21:34:38] BanchoBot: Ketsui joined in slot 8 for team red.
+[21:34:39] BanchoBot: AriMaki left the game.
+[21:34:39] BanchoBot: Ketsui changed to Blue
+[21:34:46] BanchoBot: All players are ready
+[21:34:50] BCraftMG: !mp settings
+[21:34:51] BanchoBot: Room name: 5WCML: (Australia C) vs (Brazil B), History: https://osu.ppy.sh/mp/113400383
+[21:34:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/904043 Wagakki Band - Ikusa
+[21:34:51] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:34:51] BanchoBot: Active mods: NoFail, HardRock
+[21:34:51] BanchoBot: Players: 8
+[21:34:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9285180 YelloJello      [Team Red ]
+[21:34:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/24170797 4nge1           [Team Red ]
+[21:34:51] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13134250 -k4t-           [Team Red ]
+[21:34:51] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14534410 TheBrodiealex   [Team Red ]
+[21:34:51] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/9476971 Ragningo        [Team Blue]
+[21:34:51] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/22910322 waswaswaswas    [Team Blue]
+[21:34:51] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/13889836 Last Light      [Team Blue]
+[21:34:51] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10935960 Ketsui          [Team Blue]
+[21:34:52] BanchoBot: Countdown ends in 30 seconds
+[21:34:53] BCraftMG: !mp start 5 glhf
+[21:34:53] Ketsui: glhf
+[21:34:53] BanchoBot: Countdown aborted
+[21:34:53] BanchoBot: Match starts in 5 seconds
+[21:34:53] BanchoBot: Queued the match to start in 5 seconds
+[21:34:55] BanchoBot: Match starts in 4 seconds
+[21:34:56] BanchoBot: Match starts in 3 seconds
+[21:34:58] Last_Light: glhf
+[21:34:58] BanchoBot: Good luck, have fun!
+[21:34:58] waswaswaswas: glhf
+[21:34:59] BanchoBot: The match has started!
+[21:35:05] BanchoBot: ramuu joined in slot 9 for team blue.
+[21:35:14] BanchoBot: ramuu left the game.
+[21:38:49] BanchoBot: 4nge1 finished playing (Score: 442327, PASSED).
+[21:38:49] BanchoBot: -k4t- finished playing (Score: 687519, PASSED).
+[21:38:49] BanchoBot: Last Light finished playing (Score: 407445, PASSED).
+[21:38:49] BanchoBot: Ketsui finished playing (Score: 736663, PASSED).
+[21:38:49] BanchoBot: YelloJello finished playing (Score: 514650, PASSED).
+[21:38:50] BanchoBot: waswaswaswas finished playing (Score: 408842, PASSED).
+[21:38:50] BanchoBot: Ragningo finished playing (Score: 398890, PASSED).
+[21:38:50] BanchoBot: TheBrodiealex finished playing (Score: 367464, PASSED).
+[21:38:50] BanchoBot: The match has finished!
+[21:39:09] BCraftMG: Australia C | 4 - 1 | Brazil B // Bo11 - Next Pick: Brazil B
+[21:39:09] YelloJello: wait we're like the joe biden of hr
+[21:39:10] BCraftMG: !mp timer 120
+[21:39:12] BanchoBot: Countdown ends in 2 minutes
+[21:39:13] BanchoBot: AriMaki joined in slot 9 for team blue.
+[21:39:29] BanchoBot: Leithanien joined in slot 10 for team red.
+[21:39:57] BanchoBot: 4nge1 left the game.
+[21:40:13] BanchoBot: Countdown ends in 1 minute
+[21:40:42] BanchoBot: Countdown ends in 30 seconds
+[21:40:49] BanchoBot: Ketsui left the game.
+[21:40:49] BanchoBot: Last Light left the game.
+[21:40:51] AriMaki: Pick HD1
+[21:40:56] BanchoBot: Ragningo left the game.
+[21:40:58] BanchoBot: TheBrodiealex left the game.
+[21:41:02] BanchoBot: Countdown ends in 10 seconds
+[21:41:08] BanchoBot: Countdown ends in 5 seconds
+[21:41:08] BanchoBot: Countdown ends in 4 seconds
+[21:41:10] BanchoBot: Countdown ends in 3 seconds
+[21:41:11] BanchoBot: Countdown ends in 2 seconds
+[21:41:11] BanchoBot: Countdown ends in 1 second
+[21:41:13] BanchoBot: Countdown finished
+[21:41:17] BCraftMG: !mp map 2139172 0
+[21:41:18] BCraftMG: !mp mods 9
+[21:41:19] BanchoBot: Leithanien moved to slot 5
+[21:41:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2139172 toby fox - Bergentrueckung/ASGORE
+[21:41:19] BanchoBot: Changed match mode to Osu
+[21:41:20] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:41:21] BCraftMG: !mp timer 120
+[21:41:22] BanchoBot: Leithanien changed to Blue
+[21:41:22] BanchoBot: Countdown ends in 2 minutes
+[21:41:34] BanchoBot: Mestre joined in slot 2 for team red.
+[21:41:37] BanchoBot: AriMaki moved to slot 10
+[21:41:37] BanchoBot: Mestre moved to slot 7
+[21:41:39] BanchoBot: ramuu joined in slot 2 for team red.
+[21:41:40] BanchoBot: Mestre changed to Blue
+[21:41:42] YelloJello: fingers in his aaaassssss
+[21:42:02] YelloJello: I sincerely hope brazil gets the reference
+[21:42:11] YelloJello: otherwise this will come off somewhat strange.
+[21:42:12] BanchoBot: yogurt hose joined in slot 4 for team red.
+[21:42:18] -k4t-: :3
+[21:42:19] waswaswaswas: ...
+[21:42:22] BanchoBot: Countdown ends in 1 minute
+[21:42:29] YelloJello: kayne west.
+[21:42:41] YelloJello: think of kanye team
+[21:42:44] YelloJello: and we cannot lose.
+[21:42:44] ramuu: fingers in his ass...
+[21:42:44] BanchoBot: Ketsui joined in slot 8 for team red.
+[21:42:47] BanchoBot: Ketsui changed to Blue
+[21:42:50] waswaswaswas: glhf
+[21:42:51] BanchoBot: AriMaki left the game.
+[21:42:53] BanchoBot: Countdown ends in 30 seconds
+[21:42:53] YelloJello: GL.
+[21:43:00] -k4t-: GL.
+[21:43:00] yogurt_hose: glgl
+[21:43:01] BanchoBot: All players are ready
+[21:43:03] Ketsui: glhf
+[21:43:04] Leithanien: glgl
+[21:43:07] BanchoBot: yogurt hose left the game.
+[21:43:10] BanchoBot: yogurt hose joined in slot 4 for team red.
+[21:43:10] BCraftMG: !mp settings
+[21:43:12] BanchoBot: Countdown ends in 10 seconds
+[21:43:12] BanchoBot: Room name: 5WCML: (Australia C) vs (Brazil B), History: https://osu.ppy.sh/mp/113400383
+[21:43:12] BanchoBot: Beatmap: https://osu.ppy.sh/b/2139172 toby fox - Bergentrueckung/ASGORE
+[21:43:12] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:43:12] BanchoBot: Active mods: NoFail, Hidden
+[21:43:12] BanchoBot: Players: 8
+[21:43:12] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9285180 YelloJello      [Team Red ]
+[21:43:12] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9447753 ramuu           [Team Red ]
+[21:43:12] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13134250 -k4t-           [Team Red ]
+[21:43:12] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/14754208 yogurt hose     [Team Red ]
+[21:43:12] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4533507 Leithanien      [Team Blue]
+[21:43:12] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/22910322 waswaswaswas    [Team Blue]
+[21:43:12] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11227346 Mestre          [Team Blue]
+[21:43:12] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10935960 Ketsui          [Team Blue]
+[21:43:13] BanchoBot: All players are ready
+[21:43:13] BanchoBot: All players are ready
+[21:43:17] BanchoBot: Countdown ends in 5 seconds
+[21:43:17] BanchoBot: Countdown ends in 4 seconds
+[21:43:19] YelloJello: lock in.
+[21:43:19] BanchoBot: Countdown ends in 3 seconds
+[21:43:20] BanchoBot: Countdown ends in 2 seconds
+[21:43:22] BanchoBot: Countdown ends in 1 second
+[21:43:22] BanchoBot: Countdown finished
+[21:43:32] BCraftMG: !mp settings
+[21:43:33] BanchoBot: Room name: 5WCML: (Australia C) vs (Brazil B), History: https://osu.ppy.sh/mp/113400383
+[21:43:33] BanchoBot: Beatmap: https://osu.ppy.sh/b/2139172 toby fox - Bergentrueckung/ASGORE
+[21:43:33] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:43:33] BanchoBot: Active mods: NoFail, Hidden
+[21:43:33] BanchoBot: Players: 8
+[21:43:33] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9285180 YelloJello      [Team Red ]
+[21:43:33] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9447753 ramuu           [Team Red ]
+[21:43:33] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/13134250 -k4t-           [Team Red ]
+[21:43:33] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14754208 yogurt hose     [Team Red ]
+[21:43:33] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4533507 Leithanien      [Team Blue]
+[21:43:33] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/22910322 waswaswaswas    [Team Blue]
+[21:43:33] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/11227346 Mestre          [Team Blue]
+[21:43:33] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10935960 Ketsui          [Team Blue]
+[21:43:34] BCraftMG: !mp start 5 glhf
+[21:43:35] BanchoBot: Match starts in 5 seconds
+[21:43:35] BanchoBot: Queued the match to start in 5 seconds
+[21:43:36] BanchoBot: Match starts in 4 seconds
+[21:43:38] BanchoBot: Match starts in 3 seconds
+[21:43:39] BanchoBot: Good luck, have fun!
+[21:43:41] BanchoBot: The match has started!
+[21:46:45] BanchoBot: YelloJello finished playing (Score: 473029, PASSED).
+[21:46:45] BanchoBot: -k4t- finished playing (Score: 514452, PASSED).
+[21:46:45] BanchoBot: Leithanien finished playing (Score: 437884, PASSED).
+[21:46:45] BanchoBot: Mestre finished playing (Score: 632457, PASSED).
+[21:46:45] BanchoBot: ramuu finished playing (Score: 371517, PASSED).
+[21:46:45] BanchoBot: yogurt hose finished playing (Score: 438761, PASSED).
+[21:46:46] BanchoBot: waswaswaswas finished playing (Score: 416165, PASSED).
+[21:46:46] BanchoBot: Ketsui finished playing (Score: 421716, PASSED).
+[21:46:46] BanchoBot: The match has finished!
+[21:46:58] BanchoBot: AriMaki joined in slot 9 for team blue.
+[21:47:04] BCraftMG: Australia C | 4 - 2 | Brazil B // Bo11 - Next Pick: Australia C
+[21:47:05] YelloJello: kayne...
+[21:47:05] BCraftMG: !mp timer 120
+[21:47:07] BanchoBot: Countdown ends in 2 minutes
+[21:47:27] YelloJello: nm5
+[21:47:28] BanchoBot: -k4t- left the game.
+[21:47:36] BanchoBot: Ketsui left the game.
+[21:47:36] BanchoBot: Mestre left the game.
+[21:47:36] BanchoBot: XimperiaL joined in slot 3 for team blue.
+[21:47:39] BanchoBot: AriMaki moved to slot 7
+[21:47:39] BanchoBot: XimperiaL changed to Red
+[21:47:49] BanchoBot: waswaswaswas left the game.
+[21:47:52] BanchoBot: YelloJello left the game.
+[21:48:02] BCraftMG: !mp map 4117331 0
+[21:48:03] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4117331 Frog96 - Letter to the Black World
+[21:48:03] BanchoBot: Changed match mode to Osu
+[21:48:03] BCraftMG: !mp mods 1
+[21:48:05] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:48:06] BCraftMG: !mp timer 120
+[21:48:06] BanchoBot: Countdown aborted
+[21:48:06] BanchoBot: Countdown ends in 2 minutes
+[21:48:19] BanchoBot: ramuu left the game.
+[21:49:07] BanchoBot: Countdown ends in 1 minute
+[21:49:13] BanchoBot: ramuu joined in slot 1 for team blue.
+[21:49:21] BanchoBot: YelloJello joined in slot 2 for team red.
+[21:49:25] BanchoBot: ramuu changed to Red
+[21:49:37] BanchoBot: Countdown ends in 30 seconds
+[21:49:45] BanchoBot: waswaswaswas joined in slot 6 for team red.
+[21:49:50] BanchoBot: Mestre joined in slot 8 for team red.
+[21:49:56] BanchoBot: waswaswaswas changed to Blue
+[21:49:57] BanchoBot: Countdown ends in 10 seconds
+[21:50:01] BanchoBot: Countdown ends in 5 seconds
+[21:50:03] BanchoBot: Countdown ends in 4 seconds
+[21:50:04] BanchoBot: Countdown ends in 3 seconds
+[21:50:04] waswaswaswas: glhf
+[21:50:04] BanchoBot: Countdown ends in 2 seconds
+[21:50:06] BanchoBot: Countdown ends in 1 second
+[21:50:07] BanchoBot: Countdown finished
+[21:50:07] BanchoBot: Mestre changed to Blue
+[21:50:09] BanchoBot: All players are ready
+[21:50:12] Leithanien: glgl
+[21:50:13] yogurt_hose: GLGL
+[21:50:16] AriMaki: glhf
+[21:50:18] ramuu: GOLF
+[21:50:18] BCraftMG: !mp settings
+[21:50:20] BanchoBot: Room name: 5WCML: (Australia C) vs (Brazil B), History: https://osu.ppy.sh/mp/113400383
+[21:50:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/4117331 Frog96 - Letter to the Black World
+[21:50:20] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:50:20] BanchoBot: Active mods: NoFail
+[21:50:20] BanchoBot: Players: 8
+[21:50:20] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9447753 ramuu           [Team Red ]
+[21:50:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9285180 YelloJello      [Team Red ]
+[21:50:20] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11883100 XimperiaL       [Team Red ]
+[21:50:20] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14754208 yogurt hose     [Team Red ]
+[21:50:20] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/4533507 Leithanien      [Team Blue]
+[21:50:20] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/22910322 waswaswaswas    [Team Blue]
+[21:50:20] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/2129975 AriMaki         [Team Blue]
+[21:50:20] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/11227346 Mestre          [Team Blue]
+[21:50:21] BCraftMG: !mp start 5 glhf
+[21:50:22] YelloJello: glge
+[21:50:22] BanchoBot: Match starts in 5 seconds
+[21:50:22] BanchoBot: Queued the match to start in 5 seconds
+[21:50:23] BanchoBot: Match starts in 4 seconds
+[21:50:25] BanchoBot: Match starts in 3 seconds
+[21:50:26] BanchoBot: Good luck, have fun!
+[21:50:26] XimperiaL: glgl
+[21:50:28] BanchoBot: The match has started!
+[21:52:36] BanchoBot: AriMaki finished playing (Score: 330825, PASSED).
+[21:52:36] BanchoBot: ramuu finished playing (Score: 849116, PASSED).
+[21:52:36] BanchoBot: XimperiaL finished playing (Score: 403016, PASSED).
+[21:52:36] BanchoBot: Leithanien finished playing (Score: 567184, PASSED).
+[21:52:36] BanchoBot: yogurt hose finished playing (Score: 509515, PASSED).
+[21:52:36] BanchoBot: waswaswaswas finished playing (Score: 412636, PASSED).
+[21:52:37] BanchoBot: Mestre finished playing (Score: 716111, PASSED).
+[21:52:37] BanchoBot: YelloJello finished playing (Score: 636152, PASSED).
+[21:52:37] BanchoBot: The match has finished!
+[21:53:00] BCraftMG: Australia C | 5 - 2 | Brazil B // Bo11 - Next Pick: Brazil B
+[21:53:07] BCraftMG: !mp timer 120
+[21:53:09] BanchoBot: Countdown ends in 2 minutes
+[21:53:32] BanchoBot: Leithanien left the game.
+[21:53:34] BanchoBot: waswaswaswas left the game.
+[21:53:53] BanchoBot: -k4t- joined in slot 5 for team blue.
+[21:54:02] BanchoBot: ramuu left the game.
+[21:54:08] BanchoBot: Mestre left the game.
+[21:54:09] BanchoBot: Countdown ends in 1 minute
+[21:54:40] BanchoBot: Countdown ends in 30 seconds
+[21:54:50] BanchoBot: Ragningo joined in slot 1 for team blue.
+[21:54:52] AriMaki: Pick Dt1
+[21:54:56] BanchoBot: Last Light joined in slot 6 for team red.
+[21:54:57] BanchoBot: yogurt hose left the game.
+[21:54:59] BanchoBot: Ragningo moved to slot 8
+[21:54:59] BCraftMG: !mp map 3140225 0
+[21:55:00] BanchoBot: Countdown ends in 10 seconds
+[21:55:00] BanchoBot: Last Light changed to Blue
+[21:55:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3140225 Chata - Present
+[21:55:00] BanchoBot: Changed match mode to Osu
+[21:55:00] BCraftMG: !mp mods 65
+[21:55:02] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:55:02] BCraftMG: !mp timer 120
+[21:55:03] BanchoBot: AriMaki moved to slot 12
+[21:55:03] BanchoBot: Countdown aborted
+[21:55:03] BanchoBot: Countdown ends in 2 minutes
+[21:55:05] BanchoBot: YelloJello left the game.
+[21:55:07] BanchoBot: Ragningo moved to slot 7
+[21:55:17] BanchoBot: 4nge1 joined in slot 1 for team blue.
+[21:55:21] BanchoBot: 4nge1 moved to slot 2
+[21:55:22] BanchoBot: 4nge1 changed to Red
+[21:55:27] BanchoBot: Last Light left the game.
+[21:55:43] BanchoBot: -k4t- moved to slot 1
+[21:55:43] BanchoBot: -k4t- changed to Red
+[21:56:03] BanchoBot: Countdown ends in 1 minute
+[21:56:09] BanchoBot: TheBrodiealex joined in slot 4 for team red.
+[21:56:14] BanchoBot: Last Light joined in slot 5 for team blue.
+[21:56:19] BanchoBot: waswaswaswas joined in slot 6 for team red.
+[21:56:28] BanchoBot: Ketsui joined in slot 8 for team red.
+[21:56:30] BanchoBot: Ketsui changed to Blue
+[21:56:30] BanchoBot: waswaswaswas changed to Blue
+[21:56:32] BanchoBot: AriMaki left the game.
+[21:56:34] BanchoBot: Countdown ends in 30 seconds
+[21:56:41] XimperiaL: glgl
+[21:56:49] waswaswaswas: glhf
+[21:56:49] BanchoBot: All players are ready
+[21:56:50] BCraftMG: !mp settings
+[21:56:50] Last_Light: glhf
+[21:56:50] BanchoBot: Room name: 5WCML: (Australia C) vs (Brazil B), History: https://osu.ppy.sh/mp/113400383
+[21:56:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/3140225 Chata - Present
+[21:56:50] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[21:56:50] BanchoBot: Active mods: NoFail, DoubleTime
+[21:56:50] BanchoBot: Players: 8
+[21:56:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13134250 -k4t-           [Team Red ]
+[21:56:50] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/24170797 4nge1           [Team Red ]
+[21:56:50] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11883100 XimperiaL       [Team Red ]
+[21:56:50] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14534410 TheBrodiealex   [Team Red ]
+[21:56:50] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/13889836 Last Light      [Team Blue]
+[21:56:50] BanchoBot: Slot 6  Ready     https://osu.ppy.sh/u/22910322 waswaswaswas    [Team Blue]
+[21:56:50] BanchoBot: Slot 7  Ready     https://osu.ppy.sh/u/9476971 Ragningo        [Team Blue]
+[21:56:50] BanchoBot: Slot 8  Ready     https://osu.ppy.sh/u/10935960 Ketsui          [Team Blue]
+[21:56:51] BCraftMG: !mp start 5 glhf
+[21:56:52] Ketsui: glhf
+[21:56:52] BanchoBot: Countdown aborted
+[21:56:52] BanchoBot: Match starts in 5 seconds
+[21:56:52] BanchoBot: Queued the match to start in 5 seconds
+[21:56:53] BanchoBot: Match starts in 4 seconds
+[21:56:54] BanchoBot: Match starts in 3 seconds
+[21:56:56] BanchoBot: Good luck, have fun!
+[21:56:58] BanchoBot: The match has started!
+[21:59:20] BanchoBot: Last Light finished playing (Score: 494041, PASSED).
+[21:59:20] BanchoBot: waswaswaswas finished playing (Score: 666830, PASSED).
+[21:59:20] BanchoBot: XimperiaL finished playing (Score: 715320, PASSED).
+[21:59:20] BanchoBot: TheBrodiealex finished playing (Score: 827123, PASSED).
+[21:59:20] BanchoBot: 4nge1 finished playing (Score: 769168, PASSED).
+[21:59:20] BanchoBot: Ketsui finished playing (Score: 500357, PASSED).
+[21:59:21] BanchoBot: Ragningo finished playing (Score: 746784, PASSED).
+[21:59:21] BanchoBot: -k4t- finished playing (Score: 1099752, PASSED).
+[21:59:21] BanchoBot: The match has finished!
+[21:59:27] Last_Light: ggwp
+[21:59:27] BanchoBot: AriMaki joined in slot 9 for team blue.
+[21:59:31] Ragningo: ggs
+[21:59:36] AriMaki: ggwp
+[21:59:37] waswaswaswas: ggwp
+[21:59:39] BanchoBot: YelloJello joined in slot 10 for team red.
+[21:59:40] -k4t-: gg!!
+[21:59:41] BCraftMG: Australia C | 6 - 2 | Brazil B // Australia C wins! GGWP
+[21:59:42] AriMaki: Thanks for ref
+[21:59:42] Ketsui: ggwp
+[21:59:47] AriMaki: And gl in the next matches
+[21:59:50] TheBrodiealex: ggwp
+[21:59:52] AriMaki: o/
+[21:59:55] YelloJello: gg's!
+[21:59:59] YelloJello: hr's were scary as
+[22:00:04] BanchoBot: AriMaki left the game.
+[22:00:05] Last_Light: ty for ref
+[22:00:06] YelloJello: awesome match
+[22:00:11] YelloJello: cheers brazil!
+[22:01:06] Last_Light: gl in the next matches australia, well played o/
+[22:01:08] BanchoBot: Last Light left the game.
+[22:01:19] -k4t-: <3
+[22:01:24] BanchoBot: Ketsui left the game.
+[22:01:24] BanchoBot: Ragningo left the game.
+[22:01:25] BanchoBot: 4nge1 left the game.
+[22:01:26] BanchoBot: waswaswaswas left the game.
+[22:01:29] TheBrodiealex: wp gg o/
+[22:01:32] BanchoBot: TheBrodiealex left the game.
+[22:01:58] BCraftMG: !mp close
+[22:01:59] BanchoBot: Closed the match

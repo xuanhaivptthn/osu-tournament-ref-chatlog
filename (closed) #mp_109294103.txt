@@ -1,0 +1,336 @@
+[15:53:07] Joined #mp_109294103
+[15:53:07] BCraftMG: !mp settings
+[15:53:09] BanchoBot: Room name: VNMC Qualifier Lobby: B4, History: https://osu.ppy.sh/mp/109294103
+[15:53:09] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[15:53:09] BanchoBot: Players: 0
+[15:53:29] BCraftMG: !mp set 0 3 8
+[15:53:30] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[15:53:31] BCraftMG: !mp invite mShira
+[15:53:32] BanchoBot: User not found
+[15:53:35] BCraftMG: !mp invite Dang_EG
+[15:53:36] BanchoBot: Invited Dang_EG to the room
+[15:53:39] BCraftMG: !mp invite TheBIGmouse_919
+[15:53:40] BanchoBot: User not found
+[15:53:42] BanchoBot: Dang_EG joined in slot 1.
+[15:53:58] BCraftMG: o/
+[15:54:20] BCraftMG: !mp map 4193154 3
+[15:54:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4193154 linear ring - dande,lion
+[15:54:21] BanchoBot: Changed match mode to OsuMania
+[15:54:25] BCraftMG: !mp mods Freemod
+[15:54:27] BanchoBot: Disabled all mods, enabled FreeMod
+[15:54:58] BCraftMG: đợi 2 ng kia nha ông
+[15:55:01] BCraftMG: tại chưa đến h ấy
+[15:55:02] Dang_EG: ok
+[15:55:06] Dang_EG: xd
+[15:55:15] BCraftMG: lát ông vào lại cũng đc
+[15:56:25] BCraftMG: !mp invite mShira
+[15:56:26] BanchoBot: User not found
+[15:56:29] BCraftMG: !mp invite TheBIGmouse_919
+[15:56:30] BanchoBot: User not found
+[15:59:11] BCraftMG: !mp invite TheBIGmouse_919
+[15:59:12] BanchoBot: Invited TheBIGmouse_919 to the room
+[15:59:16] BCraftMG: !mp invite mShira
+[15:59:17] BanchoBot: User not found
+[16:01:09] BCraftMG: !mp invite TheBIGmouse_919
+[16:01:09] BanchoBot: Invited TheBIGmouse_919 to the room
+[16:01:13] BanchoBot: TheBIGmouse_919 joined in slot 2.
+[16:01:23] Dang_EG: funny
+[16:01:25] BCraftMG: !mp invite mShira
+[16:01:26] BanchoBot: User not found
+[16:01:27] Dang_EG: xd
+[16:01:53] BCraftMG: chắc là ready r chơ luôn thôi
+[16:01:58] BCraftMG: 2ng kia k thấy trả lời
+[16:02:23] BanchoBot: All players are ready
+[16:02:25] BCraftMG: !mp settings
+[16:02:26] BanchoBot: Room name: VNMC Qualifier Lobby: B4, History: https://osu.ppy.sh/mp/109294103
+[16:02:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/4193154 linear ring - dande,lion
+[16:02:26] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:02:26] BanchoBot: Active mods: Freemod
+[16:02:26] BanchoBot: Players: 2
+[16:02:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17450685 Dang_EG         
+[16:02:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/27750968 TheBIGmouse_919 
+[16:02:26] BCraftMG: !mp start 5 glhf
+[16:02:27] BanchoBot: Match starts in 5 seconds
+[16:02:27] BanchoBot: Queued the match to start in 5 seconds
+[16:02:28] BanchoBot: Match starts in 4 seconds
+[16:02:29] BanchoBot: Match starts in 3 seconds
+[16:02:31] BanchoBot: Good luck, have fun!
+[16:02:33] BanchoBot: The match has started!
+[16:04:58] BanchoBot: TheBIGmouse_919 finished playing (Score: 753281, PASSED).
+[16:04:58] BanchoBot: Dang_EG finished playing (Score: 734964, PASSED).
+[16:04:58] BanchoBot: The match has finished!
+[16:05:02] BCraftMG: !mp map 4193138 3
+[16:05:03] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4193138 Persona - Green Eyes
+[16:05:03] BanchoBot: Changed match mode to OsuMania
+[16:05:08] Dang_EG: nice
+[16:05:15] TheBIGmouse_919: :D
+[16:05:18] Dang_EG: choke
+[16:05:20] Dang_EG: aaaa
+[16:05:24] TheBIGmouse_919: :sad:
+[16:05:25] BanchoBot: All players are ready
+[16:05:27] BCraftMG: !mp settings
+[16:05:28] BanchoBot: All players are ready
+[16:05:28] BanchoBot: Room name: VNMC Qualifier Lobby: B4, History: https://osu.ppy.sh/mp/109294103
+[16:05:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/4193138 Persona - Green Eyes
+[16:05:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:05:28] BanchoBot: Active mods: Freemod
+[16:05:28] BanchoBot: Players: 2
+[16:05:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17450685 Dang_EG         
+[16:05:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/27750968 TheBIGmouse_919 
+[16:05:30] BCraftMG: !mp start 5 glhf
+[16:05:31] BanchoBot: Match starts in 5 seconds
+[16:05:31] BanchoBot: Queued the match to start in 5 seconds
+[16:05:32] BanchoBot: Match starts in 4 seconds
+[16:05:33] BanchoBot: Match starts in 3 seconds
+[16:05:34] BanchoBot: Good luck, have fun!
+[16:05:37] BanchoBot: The match has started!
+[16:07:40] BanchoBot: Dang_EG finished playing (Score: 859173, PASSED).
+[16:07:42] BanchoBot: TheBIGmouse_919 finished playing (Score: 864563, PASSED).
+[16:07:42] BanchoBot: The match has finished!
+[16:07:45] BCraftMG: !mp map 4193148 3
+[16:07:46] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4193148 Inferi - Eldritch Evolution
+[16:07:46] BanchoBot: Changed match mode to OsuMania
+[16:07:48] Dang_EG: oat
+[16:07:52] Dang_EG: dead
+[16:07:54] Dang_EG: stage3
+[16:08:03] Dang_EG: ko bt stam
+[16:08:10] TheBIGmouse_919: ko bt speed
+[16:08:12] TheBIGmouse_919: :die:
+[16:08:19] Dang_EG: ko bt handstream
+[16:08:21] TheBIGmouse_919: nen nghi khoang 1phut ko?
+[16:08:24] Dang_EG: ok
+[16:08:27] Dang_EG: cung dc
+[16:09:04] TheBIGmouse_919: uong nuoc skillboost:troll:
+[16:09:06] BanchoBot: All players are ready
+[16:09:09] BCraftMG: !mp settings
+[16:09:10] BanchoBot: Room name: VNMC Qualifier Lobby: B4, History: https://osu.ppy.sh/mp/109294103
+[16:09:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/4193148 Inferi - Eldritch Evolution
+[16:09:10] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:09:10] BanchoBot: Active mods: Freemod
+[16:09:10] BanchoBot: Players: 2
+[16:09:10] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17450685 Dang_EG         
+[16:09:10] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/27750968 TheBIGmouse_919 
+[16:09:11] BCraftMG: !mp start 5 glhf
+[16:09:12] BanchoBot: Match starts in 5 seconds
+[16:09:12] BanchoBot: Queued the match to start in 5 seconds
+[16:09:13] BanchoBot: Match starts in 4 seconds
+[16:09:14] BanchoBot: Match starts in 3 seconds
+[16:09:15] BanchoBot: Good luck, have fun!
+[16:09:18] BanchoBot: The match has started!
+[16:12:36] BanchoBot: Dang_EG finished playing (Score: 479874, PASSED).
+[16:12:36] BanchoBot: TheBIGmouse_919 finished playing (Score: 731593, PASSED).
+[16:12:36] BanchoBot: The match has finished!
+[16:12:39] BCraftMG: !mp map 4193150 3
+[16:12:40] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4193150 MisoilePunch - Mesheer
+[16:12:40] BanchoBot: Changed match mode to OsuMania
+[16:12:44] Dang_EG: funny moment
+[16:12:52] Dang_EG: :d
+[16:13:01] TheBIGmouse_919: choke nang luon:(
+[16:13:03] Dang_EG: r u ok?
+[16:13:10] TheBIGmouse_919: yeye
+[16:13:11] Dang_EG: nghi  ti
+[16:13:12] Dang_EG: 30
+[16:13:13] Dang_EG: s
+[16:13:18] Dang_EG: uongnuoc
+[16:13:22] TheBIGmouse_919: :D
+[16:13:41] Dang_EG: ok
+[16:13:50] BanchoBot: All players are ready
+[16:13:51] Dang_EG: yo
+[16:13:52] BCraftMG: !mp settings
+[16:13:53] BanchoBot: Room name: VNMC Qualifier Lobby: B4, History: https://osu.ppy.sh/mp/109294103
+[16:13:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/4193150 MisoilePunch - Mesheer
+[16:13:53] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:13:53] BanchoBot: Active mods: Freemod
+[16:13:53] BanchoBot: Players: 2
+[16:13:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17450685 Dang_EG         
+[16:13:53] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/27750968 TheBIGmouse_919 
+[16:13:54] BCraftMG: !mp start 5 glhf
+[16:13:54] BanchoBot: Match starts in 5 seconds
+[16:13:54] BanchoBot: Queued the match to start in 5 seconds
+[16:13:56] BanchoBot: Match starts in 4 seconds
+[16:13:57] BanchoBot: Match starts in 3 seconds
+[16:13:58] BanchoBot: Good luck, have fun!
+[16:14:00] BanchoBot: The match has started!
+[16:16:17] BanchoBot: TheBIGmouse_919 finished playing (Score: 829987, PASSED).
+[16:16:17] BanchoBot: Dang_EG finished playing (Score: 728737, PASSED).
+[16:16:17] BanchoBot: The match has finished!
+[16:16:22] BCraftMG: !mp map 4193158 3
+[16:16:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4193158 Laur - Metamorphose
+[16:16:23] BanchoBot: Changed match mode to OsuMania
+[16:16:27] Dang_EG: bad at ln
+[16:16:35] Dang_EG: tham gia cho vui thoi
+[16:16:37] Dang_EG: xd
+[16:17:03] BanchoBot: TheBIGmouse_919 left the game.
+[16:17:04] BanchoBot: All players are ready
+[16:17:10] Dang_EG: urr
+[16:17:13] BCraftMG: lat ong Dang co  choi lai stage3 k
+[16:17:27] BCraftMG: !mp invite TheBIGmouse_919
+[16:17:28] BanchoBot: User not found
+[16:17:34] BCraftMG: crash game :v
+[16:17:44] Dang_EG: chac  co
+[16:18:01] Dang_EG: ti  choi  lai  stage 3
+[16:18:12] BCraftMG: !mp invite TheBIGmouse_919
+[16:18:13] BanchoBot: Invited TheBIGmouse_919 to the room
+[16:18:21] BanchoBot: TheBIGmouse_919 joined in slot 2.
+[16:18:36] TheBIGmouse_919: sorry:(
+[16:18:41] BCraftMG: !mp settings
+[16:18:43] BanchoBot: Room name: VNMC Qualifier Lobby: B4, History: https://osu.ppy.sh/mp/109294103
+[16:18:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/4193158 Laur - Metamorphose
+[16:18:43] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:18:43] BanchoBot: Active mods: Freemod
+[16:18:43] BanchoBot: Players: 2
+[16:18:43] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/17450685 Dang_EG         
+[16:18:43] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/27750968 TheBIGmouse_919 
+[16:18:44] BanchoBot: All players are ready
+[16:18:45] BCraftMG: !mp settings
+[16:18:48] Dang_EG: dead
+[16:18:49] BCraftMG: !mp settings
+[16:18:51] BanchoBot: Room name: VNMC Qualifier Lobby: B4, History: https://osu.ppy.sh/mp/109294103
+[16:18:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/4193158 Laur - Metamorphose
+[16:18:51] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:18:51] BanchoBot: Active mods: Freemod
+[16:18:51] BanchoBot: Players: 2
+[16:18:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17450685 Dang_EG         
+[16:18:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/27750968 TheBIGmouse_919 
+[16:18:51] BCraftMG: !mp start 5 glhf
+[16:18:52] Dang_EG: my   fav map
+[16:18:52] BanchoBot: Match starts in 5 seconds
+[16:18:52] BanchoBot: Queued the match to start in 5 seconds
+[16:18:53] BanchoBot: Match starts in 4 seconds
+[16:18:54] BanchoBot: Match starts in 3 seconds
+[16:18:55] BanchoBot: Good luck, have fun!
+[16:18:57] BanchoBot: The match has started!
+[16:21:28] BanchoBot: Dang_EG finished playing (Score: 811434, PASSED).
+[16:21:28] BanchoBot: TheBIGmouse_919 finished playing (Score: 866702, PASSED).
+[16:21:28] BanchoBot: The match has finished!
+[16:21:33] BCraftMG: !mp map 4193148 3
+[16:21:34] Dang_EG: gg
+[16:21:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4193148 Inferi - Eldritch Evolution
+[16:21:34] BanchoBot: Changed match mode to OsuMania
+[16:21:47] BCraftMG: ngoai stage 3 ra 2 ng co ai muon choi lai stage nao nua k
+[16:21:53] TheBIGmouse_919: h thi sao?
+[16:21:59] Dang_EG: ko
+[16:22:19] BCraftMG: neu ong k muon choi lai nua thi co the roi lobby
+[16:22:31] BanchoBot: All players are ready
+[16:22:37] Dang_EG: chuc og lot vao top 32
+[16:22:45] Dang_EG: xd
+[16:22:49] BCraftMG: !mp settings
+[16:22:50] BanchoBot: Room name: VNMC Qualifier Lobby: B4, History: https://osu.ppy.sh/mp/109294103
+[16:22:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/4193148 Inferi - Eldritch Evolution
+[16:22:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:22:50] BanchoBot: Active mods: Freemod
+[16:22:50] BanchoBot: Players: 2
+[16:22:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17450685 Dang_EG         
+[16:22:50] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/27750968 TheBIGmouse_919 
+[16:22:52] TheBIGmouse_919: thx
+[16:22:52] BCraftMG: !mp start 5 glhf
+[16:22:53] BanchoBot: Match starts in 5 seconds
+[16:22:53] BanchoBot: Queued the match to start in 5 seconds
+[16:22:54] BanchoBot: Match starts in 4 seconds
+[16:22:55] BanchoBot: Match starts in 3 seconds
+[16:22:57] BanchoBot: Good luck, have fun!
+[16:22:59] BanchoBot: The match has started!
+[16:26:15] BanchoBot: TheBIGmouse_919 finished playing (Score: 749016, PASSED).
+[16:26:15] BanchoBot: Dang_EG finished playing (Score: 506893, PASSED).
+[16:26:15] BanchoBot: The match has finished!
+[16:26:31] Dang_EG: chuc ong may man
+[16:26:42] BCraftMG: :3c
+[16:26:43] TheBIGmouse_919: my god bai nay de choke qua
+[16:26:51] BCraftMG: k sao
+[16:26:54] Dang_EG: yeah
+[16:26:56] BCraftMG: lấy điểm cao hơn mà
+[16:27:07] Dang_EG: bye
+[16:27:11] BCraftMG: 2 oong k muốn choi lại thì có thể out r
+[16:27:22] BanchoBot: Dang_EG left the game.
+[16:27:31] TheBIGmouse_919: chac la choi lai toan bo luon
+[16:27:45] TheBIGmouse_919: the co on ko?
+[16:27:51] BCraftMG: well vừa r ông chơi stage 3 r
+[16:28:03] BCraftMG: nên là 1245 thôi nhé
+[16:28:08] TheBIGmouse_919: thi cac stage jkhac
+[16:28:11] BCraftMG: !mp map 4193154 3
+[16:28:12] TheBIGmouse_919: ye ye
+[16:28:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4193154 linear ring - dande,lion
+[16:28:12] BanchoBot: Changed match mode to OsuMania
+[16:28:18] BanchoBot: All players are ready
+[16:28:18] BCraftMG: !mp settings
+[16:28:20] BanchoBot: Room name: VNMC Qualifier Lobby: B4, History: https://osu.ppy.sh/mp/109294103
+[16:28:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/4193154 linear ring - dande,lion
+[16:28:20] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:28:20] BanchoBot: Active mods: Freemod
+[16:28:20] BanchoBot: Players: 1
+[16:28:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/27750968 TheBIGmouse_919 
+[16:28:21] BCraftMG: !mp start 5 glhf
+[16:28:21] BanchoBot: Match starts in 5 seconds
+[16:28:21] BanchoBot: Queued the match to start in 5 seconds
+[16:28:22] BanchoBot: Match starts in 4 seconds
+[16:28:23] BanchoBot: Match starts in 3 seconds
+[16:28:24] BanchoBot: Good luck, have fun!
+[16:28:27] BanchoBot: The match has started!
+[16:30:51] BanchoBot: TheBIGmouse_919 finished playing (Score: 759529, PASSED).
+[16:30:51] BanchoBot: The match has finished!
+[16:30:58] BCraftMG: !mp map 4193138 3
+[16:30:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4193138 Persona - Green Eyes
+[16:30:59] BanchoBot: Changed match mode to OsuMania
+[16:31:05] BanchoBot: All players are ready
+[16:31:07] BCraftMG: !mp settings
+[16:31:08] BanchoBot: Room name: VNMC Qualifier Lobby: B4, History: https://osu.ppy.sh/mp/109294103
+[16:31:08] BanchoBot: Beatmap: https://osu.ppy.sh/b/4193138 Persona - Green Eyes
+[16:31:08] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:31:08] BanchoBot: Active mods: Freemod
+[16:31:08] BanchoBot: Players: 1
+[16:31:08] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/27750968 TheBIGmouse_919 
+[16:31:09] BCraftMG: !mp start 5 glhf
+[16:31:09] BanchoBot: Match starts in 5 seconds
+[16:31:09] BanchoBot: Queued the match to start in 5 seconds
+[16:31:10] BanchoBot: Match starts in 4 seconds
+[16:31:11] BanchoBot: Match starts in 3 seconds
+[16:31:13] BanchoBot: Good luck, have fun!
+[16:31:15] BanchoBot: The match has started!
+[16:33:17] BanchoBot: TheBIGmouse_919 finished playing (Score: 835487, PASSED).
+[16:33:17] BanchoBot: The match has finished!
+[16:33:20] BCraftMG: !mp map 4193150 3
+[16:33:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4193150 MisoilePunch - Mesheer
+[16:33:21] BanchoBot: Changed match mode to OsuMania
+[16:33:28] BanchoBot: All players are ready
+[16:33:34] BCraftMG: !mp settings
+[16:33:35] BanchoBot: Room name: VNMC Qualifier Lobby: B4, History: https://osu.ppy.sh/mp/109294103
+[16:33:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/4193150 MisoilePunch - Mesheer
+[16:33:35] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:33:35] BanchoBot: Active mods: Freemod
+[16:33:35] BanchoBot: Players: 1
+[16:33:35] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/27750968 TheBIGmouse_919 
+[16:33:35] BCraftMG: !mp start 5 glhf
+[16:33:36] BanchoBot: Match starts in 5 seconds
+[16:33:36] BanchoBot: Queued the match to start in 5 seconds
+[16:33:38] BanchoBot: Match starts in 4 seconds
+[16:33:39] BanchoBot: Match starts in 3 seconds
+[16:33:40] BanchoBot: Good luck, have fun!
+[16:33:42] BanchoBot: The match has started!
+[16:35:58] BanchoBot: TheBIGmouse_919 finished playing (Score: 824371, PASSED).
+[16:35:58] BanchoBot: The match has finished!
+[16:36:00] BCraftMG: !mp map 4193158 3
+[16:36:01] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4193158 Laur - Metamorphose
+[16:36:01] BanchoBot: Changed match mode to OsuMania
+[16:36:13] BanchoBot: All players are ready
+[16:36:18] BCraftMG: !mp settings
+[16:36:19] BanchoBot: Room name: VNMC Qualifier Lobby: B4, History: https://osu.ppy.sh/mp/109294103
+[16:36:19] BanchoBot: Beatmap: https://osu.ppy.sh/b/4193158 Laur - Metamorphose
+[16:36:19] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:36:19] BanchoBot: Active mods: Freemod
+[16:36:19] BanchoBot: Players: 1
+[16:36:19] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/27750968 TheBIGmouse_919 
+[16:36:19] BCraftMG: !mp start 5 glhf
+[16:36:20] BanchoBot: Match starts in 5 seconds
+[16:36:20] BanchoBot: Queued the match to start in 5 seconds
+[16:36:21] BanchoBot: Match starts in 4 seconds
+[16:36:22] BanchoBot: Match starts in 3 seconds
+[16:36:23] BanchoBot: Good luck, have fun!
+[16:36:26] BanchoBot: The match has started!
+[16:38:55] BanchoBot: TheBIGmouse_919 finished playing (Score: 878562, PASSED).
+[16:38:55] BanchoBot: The match has finished!
+[16:39:06] BCraftMG: :3c
+[16:39:09] BCraftMG: ông có thể out r
+[16:39:14] TheBIGmouse_919: bye
+[16:39:16] BanchoBot: TheBIGmouse_919 left the game.
+[16:39:20] BCraftMG: !mp close
+[16:39:20] BanchoBot: Closed the match

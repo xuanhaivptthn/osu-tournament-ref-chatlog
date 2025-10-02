@@ -1,0 +1,355 @@
+[01:02:57] Joined #mp_111565254
+[01:02:57] BCraftMG: !mp settings
+[01:02:59] BanchoBot: Room name: cRSC: (shadevr) vs (JeIIium), History: https://osu.ppy.sh/mp/111565254
+[01:02:59] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[01:02:59] BanchoBot: Players: 0
+[01:03:06] BCraftMG: !mp invite #8165685
+[01:03:06] BanchoBot: Invited shadevr to the room
+[01:03:08] BCraftMG: !mp invite #20630250
+[01:03:09] BanchoBot: Invited JeIIium to the room
+[01:03:11] BCraftMG: !mp set 0 3 3
+[01:03:12] BanchoBot: Changed match settings to 3 slots, HeadToHead, ScoreV2
+[01:03:39] BanchoBot: shadevr joined in slot 1.
+[01:03:46] shadevr: o/
+[01:03:49] BCraftMG: hi again
+[01:04:24] BanchoBot: JeIIium joined in slot 2.
+[01:04:29] JeIIium: o/
+[01:04:45] shadevr: o/
+[01:04:46] BCraftMG: wooooo
+[01:04:48] BCraftMG: warm up?
+[01:04:48] JeIIium: !roll future gf age
+[01:04:48] BanchoBot: JeIIium rolls 12 point(s)
+[01:04:52] JeIIium: uh oh
+[01:04:54] JeIIium: no
+[01:05:02] shadevr: yes
+[01:05:15] BCraftMG: !mp host shadevr
+[01:05:16] BanchoBot: shadevr became the host.
+[01:05:16] BanchoBot: Changed match host to shadevr
+[01:05:19] BanchoBot: Beatmap changed to: Pa's Lam System - I'm Coming (Mtell Future core Bootleg) [o///o] (https://osu.ppy.sh/b/3845085)
+[01:05:20] BCraftMG: damn
+[01:05:21] BCraftMG: reported
+[01:05:28] BanchoBot: All players are ready
+[01:05:31] shadevr: :)
+[01:05:33] BanchoBot: The match has started!
+[01:05:35] JeIIium: ;(
+[01:08:10] BanchoBot: JeIIium finished playing (Score: 401437, PASSED).
+[01:08:11] BanchoBot: shadevr finished playing (Score: 243903, PASSED).
+[01:08:11] BanchoBot: The match has finished!
+[01:08:44] JeIIium: do we roll now
+[01:09:21] BCraftMG: ah
+[01:09:24] BCraftMG: u dont want to pick
+[01:09:26] BCraftMG: !mp clearhost
+[01:09:27] BanchoBot: Cleared match host
+[01:09:28] BCraftMG: roll then
+[01:09:34] JeIIium: no
+[01:09:37] JeIIium: !roll
+[01:09:37] BanchoBot: JeIIium rolls 54 point(s)
+[01:09:42] shadevr: !roll
+[01:09:42] BanchoBot: shadevr rolls 7 point(s)
+[01:09:46] shadevr: uhh
+[01:09:49] BCraftMG: Winner chooses ban order, loser chooses pick order
+[01:09:52] JeIIium: I thikn I win
+[01:09:56] JeIIium: oh
+[01:09:59] JeIIium: nvm
+[01:10:01] JeIIium: I lose
+[01:10:04] JeIIium: I ban 2nd!
+[01:10:20] shadevr: second
+[01:10:23] shadevr: pick
+[01:10:32] BCraftMG: First Ban: shadevr
+[01:10:37] BCraftMG: !mp timer 120
+[01:10:38] BanchoBot: Countdown ends in 2 minutes
+[01:10:41] shadevr: dt1
+[01:10:53] BCraftMG: Next Ban: JeIIium
+[01:10:53] BCraftMG: !mp timer 120
+[01:10:54] JeIIium: hd2 ban
+[01:10:56] BanchoBot: Countdown aborted
+[01:10:56] BanchoBot: Countdown ends in 2 minutes
+[01:11:15] JeIIium: hd2
+[01:11:16] BCraftMG: shadevr | 0 - 0 | JeIIium // Bo9 - First Pick: JeIIium
+[01:11:20] BCraftMG: !mp timer 120
+[01:11:21] BanchoBot: Countdown aborted
+[01:11:21] BanchoBot: Countdown ends in 2 minutes
+[01:11:24] JeIIium: dt2
+[01:11:30] BCraftMG: !mp map 3156884 0
+[01:11:31] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3156884 Zekk - Freefall
+[01:11:31] BanchoBot: Changed match mode to Osu
+[01:11:34] BCraftMG: !mp mods 65
+[01:11:35] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[01:11:36] BCraftMG: !mp timer 120
+[01:11:37] BanchoBot: Countdown aborted
+[01:11:37] BanchoBot: Countdown ends in 2 minutes
+[01:11:45] BanchoBot: All players are ready
+[01:11:58] shadevr: glhf
+[01:12:01] BCraftMG: !mp settings
+[01:12:03] BanchoBot: Room name: cRSC: (shadevr) vs (JeIIium), History: https://osu.ppy.sh/mp/111565254
+[01:12:03] BanchoBot: Beatmap: https://osu.ppy.sh/b/3156884 Zekk - Freefall
+[01:12:03] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:12:03] BanchoBot: Active mods: NoFail, DoubleTime
+[01:12:03] BanchoBot: Players: 2
+[01:12:03] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8165685 shadevr         
+[01:12:03] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20630250 JeIIium         
+[01:12:03] BCraftMG: !mp start 5 glhf
+[01:12:04] BanchoBot: Countdown aborted
+[01:12:04] BanchoBot: Match starts in 5 seconds
+[01:12:04] BanchoBot: Queued the match to start in 5 seconds
+[01:12:05] BanchoBot: Match starts in 4 seconds
+[01:12:07] BanchoBot: Match starts in 3 seconds
+[01:12:07] BanchoBot: Good luck, have fun!
+[01:12:08] JeIIium: hfhf
+[01:12:10] BanchoBot: The match has started!
+[01:13:44] BanchoBot: JeIIium finished playing (Score: 605020, PASSED).
+[01:13:44] BanchoBot: shadevr finished playing (Score: 511621, PASSED).
+[01:13:44] BanchoBot: The match has finished!
+[01:14:14] BCraftMG: shadevr | 0 - 1 | JeIIium // Bo9 - Next Pick: shadevr
+[01:14:17] shadevr: how to not to fingerlock
+[01:14:19] BCraftMG: !mp timer 120
+[01:14:20] shadevr: hd1`
+[01:14:20] JeIIium: true
+[01:14:20] BanchoBot: Countdown ends in 2 minutes
+[01:14:32] BCraftMG: !mp map 3557419 0
+[01:14:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3557419 NIWASHI - Astronote.
+[01:14:33] BanchoBot: Changed match mode to Osu
+[01:14:37] BCraftMG: !mp mods 9
+[01:14:37] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[01:14:38] BCraftMG: !mp timer 120
+[01:14:39] BanchoBot: Countdown aborted
+[01:14:39] BanchoBot: Countdown ends in 2 minutes
+[01:14:46] BanchoBot: All players are ready
+[01:14:54] BCraftMG: !mp settings
+[01:14:55] BanchoBot: Room name: cRSC: (shadevr) vs (JeIIium), History: https://osu.ppy.sh/mp/111565254
+[01:14:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/3557419 NIWASHI - Astronote.
+[01:14:55] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:14:55] BanchoBot: Active mods: NoFail, Hidden
+[01:14:55] BanchoBot: Players: 2
+[01:14:55] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8165685 shadevr         
+[01:14:55] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20630250 JeIIium         
+[01:14:56] BCraftMG: !mp start 5 glhf
+[01:14:56] BanchoBot: Countdown aborted
+[01:14:56] BanchoBot: Match starts in 5 seconds
+[01:14:56] BanchoBot: Queued the match to start in 5 seconds
+[01:14:58] BanchoBot: Match starts in 4 seconds
+[01:14:59] BanchoBot: Match starts in 3 seconds
+[01:14:59] shadevr: glhf
+[01:14:59] BanchoBot: Good luck, have fun!
+[01:15:02] BanchoBot: The match has started!
+[01:15:05] JeIIium: hff
+[01:17:09] BanchoBot: JeIIium finished playing (Score: 492800, PASSED).
+[01:17:11] BanchoBot: shadevr finished playing (Score: 858827, PASSED).
+[01:17:11] BanchoBot: The match has finished!
+[01:17:18] BCraftMG: shadevr | 1 - 1 | JeIIium // Bo9 - Next Pick: JeIIium
+[01:17:19] BCraftMG: !mp timer 120
+[01:17:20] shadevr: speed map
+[01:17:20] JeIIium: fm1
+[01:17:20] BanchoBot: Countdown ends in 2 minutes
+[01:17:21] JeIIium: true
+[01:17:37] shadevr: another speed map :sob:
+[01:17:42] JeIIium: sorry
+[01:18:00] BCraftMG: !mp map 3528812 0
+[01:18:01] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3528812 Ponchi feat. haxchi - Mousou <3 Chuu!!
+[01:18:01] BanchoBot: Changed match mode to Osu
+[01:18:03] BCraftMG: !mp mods Freemo
+[01:18:04] BanchoBot: Disabled all mods, disabled FreeMod
+[01:18:04] BCraftMG: !mp mods Freemod
+[01:18:05] BanchoBot: Disabled all mods, enabled FreeMod
+[01:18:13] BanchoBot: All players are ready
+[01:18:14] BCraftMG: !mp settings
+[01:18:16] BanchoBot: Room name: cRSC: (shadevr) vs (JeIIium), History: https://osu.ppy.sh/mp/111565254
+[01:18:16] BanchoBot: Beatmap: https://osu.ppy.sh/b/3528812 Ponchi feat. haxchi - Mousou <3 Chuu!!
+[01:18:16] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:18:16] BanchoBot: Active mods: Freemod
+[01:18:16] BanchoBot: Players: 2
+[01:18:16] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8165685 shadevr         [NoFail, Hidden, HardRock]
+[01:18:16] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20630250 JeIIium         [NoFail, HardRock]
+[01:18:16] BCraftMG: !mp start 5 glhf
+[01:18:17] shadevr: glhfd
+[01:18:17] BanchoBot: Countdown aborted
+[01:18:17] BanchoBot: Match starts in 5 seconds
+[01:18:17] BanchoBot: Queued the match to start in 5 seconds
+[01:18:19] BanchoBot: Match starts in 4 seconds
+[01:18:20] JeIIium: hfhf
+[01:18:20] BanchoBot: Match starts in 3 seconds
+[01:18:22] BanchoBot: Good luck, have fun!
+[01:18:23] BanchoBot: The match has started!
+[01:20:18] BanchoBot: JeIIium finished playing (Score: 947690, PASSED).
+[01:20:18] BanchoBot: shadevr finished playing (Score: 499266, PASSED).
+[01:20:18] BanchoBot: The match has finished!
+[01:21:41] shadevr: nm1
+[01:23:31] shadevr: BCraftMG:
+[01:23:56] JeIIium: @BCraftMG
+[01:25:04] JeIIium: uhhh
+[01:25:17] BCraftMG: oh god
+[01:25:22] BCraftMG: !mp map 3042164 0
+[01:25:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3042164 Hoshimachi Suisei - Ranbu no Melody (Cut Ver.)
+[01:25:23] BanchoBot: Changed match mode to Osu
+[01:25:23] BCraftMG: !mp mods 1
+[01:25:24] BanchoBot: Enabled NoFail, disabled FreeMod
+[01:25:33] shadevr: Lets go!
+[01:25:35] BCraftMG: im really sorry
+[01:25:44] BanchoBot: All players are ready
+[01:25:44] BCraftMG: !mp settings
+[01:25:46] BanchoBot: Room name: cRSC: (shadevr) vs (JeIIium), History: https://osu.ppy.sh/mp/111565254
+[01:25:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/3042164 Hoshimachi Suisei - Ranbu no Melody (Cut Ver.)
+[01:25:46] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:25:46] BanchoBot: Active mods: NoFail
+[01:25:46] BanchoBot: Players: 2
+[01:25:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8165685 shadevr         
+[01:25:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20630250 JeIIium         
+[01:25:46] BCraftMG: !mp start 5 glhf
+[01:25:47] JeIIium: hfhf
+[01:25:47] BanchoBot: Match starts in 5 seconds
+[01:25:47] BanchoBot: Queued the match to start in 5 seconds
+[01:25:48] BanchoBot: Match starts in 4 seconds
+[01:25:50] BanchoBot: Match starts in 3 seconds
+[01:25:51] BanchoBot: Good luck, have fun!
+[01:25:51] shadevr: glhf
+[01:25:53] BanchoBot: The match has started!
+[01:27:48] BanchoBot: shadevr finished playing (Score: 983440, PASSED).
+[01:27:48] BanchoBot: JeIIium finished playing (Score: 901922, PASSED).
+[01:27:48] BanchoBot: The match has finished!
+[01:27:59] BCraftMG: shadevr | 2 - 2 | JeIIium // Bo9 - Next Pick: JeIIium
+[01:28:00] BCraftMG: !mp timer 120
+[01:28:02] BanchoBot: Countdown ends in 2 minutes
+[01:28:04] JeIIium: nm2
+[01:28:24] BCraftMG: !mp map 3356836 0
+[01:28:25] BCraftMG: !mp mods 1
+[01:28:26] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3356836 DM Ashura - Classical Insanity
+[01:28:26] BanchoBot: Changed match mode to Osu
+[01:28:27] BanchoBot: Enabled NoFail, disabled FreeMod
+[01:28:36] BanchoBot: All players are ready
+[01:28:44] shadevr: glhf
+[01:28:47] BCraftMG: !mp settings
+[01:28:47] BanchoBot: Room name: cRSC: (shadevr) vs (JeIIium), History: https://osu.ppy.sh/mp/111565254
+[01:28:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/3356836 DM Ashura - Classical Insanity
+[01:28:47] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:28:47] BanchoBot: Active mods: NoFail
+[01:28:47] BanchoBot: Players: 2
+[01:28:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8165685 shadevr         
+[01:28:47] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20630250 JeIIium         
+[01:28:48] BCraftMG: !mp start 5 glhf
+[01:28:50] BanchoBot: Countdown aborted
+[01:28:50] BanchoBot: Match starts in 5 seconds
+[01:28:50] BanchoBot: Queued the match to start in 5 seconds
+[01:28:51] BanchoBot: Match starts in 4 seconds
+[01:28:53] BanchoBot: Match starts in 3 seconds
+[01:28:54] BanchoBot: Good luck, have fun!
+[01:28:56] BanchoBot: The match has started!
+[01:31:11] BanchoBot: shadevr finished playing (Score: 578384, PASSED).
+[01:31:12] BanchoBot: JeIIium finished playing (Score: 640312, PASSED).
+[01:31:12] BanchoBot: The match has finished!
+[01:31:20] BCraftMG: shadevr | 2 - 3 | JeIIium // Bo9 - Next Pick: shadevr
+[01:31:22] BCraftMG: !mp timer 120
+[01:31:24] BanchoBot: Countdown ends in 2 minutes
+[01:31:28] shadevr: hr1
+[01:32:07] BCraftMG: !mp map 3489531 0
+[01:32:08] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3489531 Subplaid - If you went out with friends in a way
+[01:32:08] BanchoBot: Changed match mode to Osu
+[01:32:08] BCraftMG: !mp mods 17
+[01:32:09] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[01:32:20] BanchoBot: All players are ready
+[01:32:21] BCraftMG: !mp settings
+[01:32:23] BanchoBot: Room name: cRSC: (shadevr) vs (JeIIium), History: https://osu.ppy.sh/mp/111565254
+[01:32:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/3489531 Subplaid - If you went out with friends in a way
+[01:32:23] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:32:23] BanchoBot: Active mods: NoFail, HardRock
+[01:32:23] BanchoBot: Players: 2
+[01:32:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8165685 shadevr         
+[01:32:23] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20630250 JeIIium         
+[01:32:24] BanchoBot: Countdown ends in 1 minute
+[01:32:25] BCraftMG: !mp start 5 glhf
+[01:32:26] shadevr: glhf
+[01:32:26] BanchoBot: Countdown aborted
+[01:32:26] BanchoBot: Match starts in 5 seconds
+[01:32:26] BanchoBot: Queued the match to start in 5 seconds
+[01:32:27] BanchoBot: Match starts in 4 seconds
+[01:32:28] BanchoBot: Match starts in 3 seconds
+[01:32:30] BanchoBot: Good luck, have fun!
+[01:32:31] BanchoBot: The match has started!
+[01:33:26] BanchoBot: JeIIium finished playing (Score: 912173, PASSED).
+[01:33:27] BanchoBot: shadevr finished playing (Score: 926631, PASSED).
+[01:33:27] BanchoBot: The match has finished!
+[01:33:35] JeIIium: hlw to acc
+[01:33:40] BCraftMG: shadevr | 3 - 3 | JeIIium // Bo9 - Next Pick: JeIIium
+[01:33:41] shadevr: Idk
+[01:33:47] BCraftMG: u two really wanna play the tb huh
+[01:33:50] JeIIium: nm3
+[01:33:55] shadevr: NOOO
+[01:33:55] JeIIium: ill lose
+[01:33:58] BCraftMG: !mp map 3661068 0
+[01:33:58] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3661068 Toyama Nao - de messiah (TV Size)
+[01:33:58] BanchoBot: Changed match mode to Osu
+[01:34:00] BCraftMG: !mp mods 1
+[01:34:01] BanchoBot: Enabled NoFail, disabled FreeMod
+[01:34:06] shadevr: worst map in the pool
+[01:34:14] JeIIium: this is the best map in the pool
+[01:34:20] BanchoBot: All players are ready
+[01:34:28] shadevr: glhf
+[01:34:30] BCraftMG: !mp settings
+[01:34:31] BanchoBot: Room name: cRSC: (shadevr) vs (JeIIium), History: https://osu.ppy.sh/mp/111565254
+[01:34:31] BanchoBot: Beatmap: https://osu.ppy.sh/b/3661068 Toyama Nao - de messiah (TV Size)
+[01:34:31] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:34:31] BanchoBot: Active mods: NoFail
+[01:34:31] BanchoBot: Players: 2
+[01:34:31] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8165685 shadevr         
+[01:34:31] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20630250 JeIIium         
+[01:34:31] BCraftMG: !mp start 5 glhf
+[01:34:32] BanchoBot: Match starts in 5 seconds
+[01:34:32] BanchoBot: Queued the match to start in 5 seconds
+[01:34:34] BanchoBot: Match starts in 4 seconds
+[01:34:35] BanchoBot: Match starts in 3 seconds
+[01:34:37] BanchoBot: Good luck, have fun!
+[01:34:37] JeIIium: hfhf\
+[01:34:38] BanchoBot: The match has started!
+[01:36:15] BanchoBot: shadevr finished playing (Score: 474664, PASSED).
+[01:36:15] BanchoBot: JeIIium finished playing (Score: 655419, PASSED).
+[01:36:15] BanchoBot: The match has finished!
+[01:36:27] shadevr: wtf
+[01:36:28] BCraftMG: shadevr | 3 - 4 | JeIIium // Bo9 - Next Pick: shadevr
+[01:36:33] BCraftMG: !mp timer 120
+[01:36:35] BanchoBot: Countdown ends in 2 minutes
+[01:36:52] JeIIium: I am de messiah
+[01:37:27] shadevr: nm4
+[01:37:35] BanchoBot: Countdown ends in 1 minute
+[01:37:45] BCraftMG: !mp map 2973666 0
+[01:37:46] BCraftMG: !mp mods 1
+[01:37:46] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2973666 BEMANI Sound Team "Expander" - STOIC HYPOTHESIS
+[01:37:46] BanchoBot: Changed match mode to Osu
+[01:37:48] BanchoBot: Enabled NoFail, disabled FreeMod
+[01:37:50] BCraftMG: !mp timer 120
+[01:37:51] BanchoBot: Countdown aborted
+[01:37:51] BanchoBot: Countdown ends in 2 minutes
+[01:37:55] BanchoBot: All players are ready
+[01:37:56] shadevr: glhf
+[01:37:57] BCraftMG: !mp settings
+[01:37:58] BanchoBot: Room name: cRSC: (shadevr) vs (JeIIium), History: https://osu.ppy.sh/mp/111565254
+[01:37:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/2973666 BEMANI Sound Team "Expander" - STOIC HYPOTHESIS
+[01:37:58] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:37:58] BanchoBot: Active mods: NoFail
+[01:37:58] BanchoBot: Players: 2
+[01:37:58] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/8165685 shadevr         
+[01:37:58] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/20630250 JeIIium         
+[01:37:59] BCraftMG: !mp start 5 glhf
+[01:37:59] BanchoBot: Countdown aborted
+[01:37:59] BanchoBot: Match starts in 5 seconds
+[01:37:59] BanchoBot: Queued the match to start in 5 seconds
+[01:38:01] JeIIium: hfhf
+[01:38:01] BanchoBot: Match starts in 4 seconds
+[01:38:02] BanchoBot: Match starts in 3 seconds
+[01:38:04] BanchoBot: Good luck, have fun!
+[01:38:05] BanchoBot: The match has started!
+[01:40:13] BanchoBot: JeIIium finished playing (Score: 526290, PASSED).
+[01:40:13] BanchoBot: shadevr finished playing (Score: 481825, PASSED).
+[01:40:13] BanchoBot: The match has finished!
+[01:40:19] JeIIium: ggwp
+[01:40:22] JeIIium: thx for ref
+[01:40:23] BCraftMG: shadevr | 3 - 5 | JeIIium // JeIIium wins! GGWP
+[01:40:26] shadevr: I HATE SLOWSLIDER
+[01:40:31] shadevr: ggwp
+[01:40:31] JeIIium: forum skin never fail
+[01:40:33] JeIIium: LOL
+[01:40:35] shadevr: ty for ref and match
+[01:40:51] BCraftMG: sliders
+[01:40:52] BanchoBot: JeIIium left the game.
+[01:41:06] shadevr: bye o/
+[01:41:09] BanchoBot: shadevr left the game.
+[01:41:17] BCraftMG: !mp close
+[01:41:19] BanchoBot: Closed the match

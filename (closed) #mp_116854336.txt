@@ -1,0 +1,518 @@
+[15:25:07] Joined #mp_116854336
+[15:25:07] BCraftMG: !mp settings
+[15:25:08] BanchoBot: Room name: ZAT: (Qualifiers) vs (Match X9), History: https://osu.ppy.sh/mp/116854336
+[15:25:08] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[15:25:08] BanchoBot: Players: 0
+[15:25:37] BCraftMG: !mp invite #35404573
+[15:25:37] BanchoBot: User not found
+[15:26:01] BCraftMG: !mp invite #19544798
+[15:26:01] BanchoBot: Invited Emiko Nin to the room
+[15:26:27] BCraftMG: !mp set 0 3 6
+[15:26:27] BanchoBot: Changed match settings to 6 slots, HeadToHead, ScoreV2
+[15:26:32] BCraftMG: !mp map 3895683
+[15:26:33] BanchoBot: Emiko Nin joined in slot 1.
+[15:26:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3895683 rN - Harumachi Elevator
+[15:26:37] BCraftMG: m chet voi t
+[15:27:00] Emiko_Nin: :sob:
+[15:27:02] Emiko_Nin: oat phac
+[15:27:04] Emiko_Nin: awugauwuagwuawugauw
+[15:27:40] BCraftMG: !mp map 2082168 0
+[15:27:40] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2082168 Kizuna AI - future base (Assertive Hardcore Bootleg)
+[15:27:40] BanchoBot: Changed match mode to Osu
+[15:27:42] BCraftMG: !mp mods 1
+[15:27:42] BanchoBot: Enabled NoFail, disabled FreeMod
+[15:27:46] BanchoBot: AlienKi joined in slot 2.
+[15:29:15] BCraftMG: !mp settings
+[15:29:17] BanchoBot: Room name: ZAT: (Qualifiers) vs (Match X9), History: https://osu.ppy.sh/mp/116854336
+[15:29:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/2082168 Kizuna AI - future base (Assertive Hardcore Bootleg)
+[15:29:17] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[15:29:17] BanchoBot: Active mods: NoFail
+[15:29:17] BanchoBot: Players: 2
+[15:29:17] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19544798 Emiko Nin       
+[15:29:17] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/36240901 AlienKi         
+[15:30:38] BanchoBot: All players are ready
+[15:30:42] BCraftMG: !mp settings
+[15:30:43] BanchoBot: Room name: ZAT: (Qualifiers) vs (Match X9), History: https://osu.ppy.sh/mp/116854336
+[15:30:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/2082168 Kizuna AI - future base (Assertive Hardcore Bootleg)
+[15:30:43] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[15:30:43] BanchoBot: Active mods: NoFail
+[15:30:43] BanchoBot: Players: 2
+[15:30:43] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19544798 Emiko Nin       
+[15:30:43] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/36240901 AlienKi         
+[15:30:43] BCraftMG: !mp start 5 glhf!
+[15:30:44] BanchoBot: Match starts in 5 seconds
+[15:30:44] BanchoBot: Queued the match to start in 5 seconds
+[15:30:46] BanchoBot: Match starts in 4 seconds
+[15:30:46] BanchoBot: Match starts in 3 seconds
+[15:30:47] BanchoBot: Good luck, have fun!
+[15:30:50] BanchoBot: The match has started!
+[15:34:42] BanchoBot: Emiko Nin finished playing (Score: 466353, PASSED).
+[15:34:43] BanchoBot: AlienKi finished playing (Score: 317132, PASSED).
+[15:34:43] BanchoBot: The match has finished!
+[15:34:50] Emiko_Nin: i hate gambling
+[15:34:53] BCraftMG: !mp map 3964756 0
+[15:34:54] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3964756 Seven Spires - Succumb
+[15:34:54] BanchoBot: Changed match mode to Osu
+[15:34:56] BCraftMG: !mp timer 120
+[15:34:57] BanchoBot: Countdown ends in 2 minutes
+[15:35:01] AlienKi: AAA
+[15:35:57] BanchoBot: Countdown ends in 1 minute
+[15:36:06] BanchoBot: All players are ready
+[15:36:10] BCraftMG: !mp settings
+[15:36:11] BanchoBot: Room name: ZAT: (Qualifiers) vs (Match X9), History: https://osu.ppy.sh/mp/116854336
+[15:36:11] BanchoBot: Beatmap: https://osu.ppy.sh/b/3964756 Seven Spires - Succumb
+[15:36:11] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[15:36:11] BanchoBot: Active mods: NoFail
+[15:36:11] BanchoBot: Players: 2
+[15:36:11] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19544798 Emiko Nin       
+[15:36:11] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/36240901 AlienKi         
+[15:36:11] BCraftMG: !mp start 5 glhf!
+[15:36:12] BanchoBot: Countdown aborted
+[15:36:12] BanchoBot: Match starts in 5 seconds
+[15:36:12] BanchoBot: Queued the match to start in 5 seconds
+[15:36:13] BanchoBot: Match starts in 4 seconds
+[15:36:14] BanchoBot: Match starts in 3 seconds
+[15:36:15] BanchoBot: Good luck, have fun!
+[15:36:17] BanchoBot: The match has started!
+[15:40:12] BanchoBot: AlienKi finished playing (Score: 294636, PASSED).
+[15:40:13] BanchoBot: Emiko Nin finished playing (Score: 419106, PASSED).
+[15:40:13] BanchoBot: The match has finished!
+[15:40:15] BCraftMG: !mp map 2827712 0
+[15:40:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2827712 Sangatsu no Phantasia - Koi wa Kirai da
+[15:40:17] BanchoBot: Changed match mode to Osu
+[15:40:22] Emiko_Nin: omg
+[15:40:23] Emiko_Nin: a fukin sb
+[15:40:26] Emiko_Nin: awaguawguawguawgugauw
+[15:40:33] AlienKi: rip
+[15:40:45] BCraftMG: !mp invite eiqmy
+[15:40:45] BanchoBot: Invited eiqmy to the room
+[15:41:51] BCraftMG: !mp timer 120
+[15:41:52] BanchoBot: eiqmy joined in slot 3.
+[15:41:52] BanchoBot: Countdown ends in 2 minutes
+[15:41:56] BanchoBot: Emiko Nin left the game.
+[15:42:02] eiqmy: WTF
+[15:42:23] BanchoBot: eiqmy moved to slot 1
+[15:42:27] eiqmy: I did not consent to being here
+[15:42:33] eiqmy: I literally just got online lmao
+[15:42:52] BanchoBot: Countdown ends in 1 minute
+[15:43:06] AlienKi: welp
+[15:43:16] eiqmy: we are NOT cooking with these scores
+[15:43:22] BanchoBot: Countdown ends in 30 seconds
+[15:43:38] BanchoBot: All players are ready
+[15:43:39] BCraftMG: :clue:
+[15:43:40] BCraftMG: !mp settings
+[15:43:40] BanchoBot: Room name: ZAT: (Qualifiers) vs (Match X9), History: https://osu.ppy.sh/mp/116854336
+[15:43:40] BanchoBot: Beatmap: https://osu.ppy.sh/b/2827712 Sangatsu no Phantasia - Koi wa Kirai da
+[15:43:40] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[15:43:40] BanchoBot: Active mods: NoFail
+[15:43:40] BanchoBot: Players: 2
+[15:43:40] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/35404573 eiqmy           
+[15:43:40] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/36240901 AlienKi         
+[15:43:41] BCraftMG: !mp start 5 glhf!
+[15:43:42] BanchoBot: Countdown ends in 10 seconds
+[15:43:42] BanchoBot: Countdown aborted
+[15:43:42] BanchoBot: Match starts in 5 seconds
+[15:43:42] BanchoBot: Queued the match to start in 5 seconds
+[15:43:43] BanchoBot: Match starts in 4 seconds
+[15:43:44] BanchoBot: Match starts in 3 seconds
+[15:43:45] BanchoBot: Good luck, have fun!
+[15:43:48] BanchoBot: The match has started!
+[15:47:28] BanchoBot: AlienKi finished playing (Score: 341439, PASSED).
+[15:47:29] BanchoBot: eiqmy finished playing (Score: 291683, PASSED).
+[15:47:29] BanchoBot: The match has finished!
+[15:47:32] BCraftMG: !mp map 4821034 0
+[15:47:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4821034 Shadren - Neuro Cute Thing
+[15:47:33] BanchoBot: Changed match mode to Osu
+[15:47:47] eiqmy: hit all the alt patterns and missed on simple jumps
+[15:47:53] eiqmy: consequences of not warming up
+[15:47:54] eiqmy: gg
+[15:47:56] BanchoBot: eiqmy moved to slot 5
+[15:48:46] BanchoBot: Emiko Nin joined in slot 1.
+[15:48:51] BanchoBot: AlienKi left the game.
+[15:49:01] BanchoBot: eiqmy moved to slot 2
+[15:49:34] BanchoBot: All players are ready
+[15:49:39] BCraftMG: !mp settings
+[15:49:40] BanchoBot: Room name: ZAT: (Qualifiers) vs (Match X9), History: https://osu.ppy.sh/mp/116854336
+[15:49:40] BanchoBot: Beatmap: https://osu.ppy.sh/b/4821034 Shadren - Neuro Cute Thing
+[15:49:40] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[15:49:40] BanchoBot: Active mods: NoFail
+[15:49:40] BanchoBot: Players: 2
+[15:49:40] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19544798 Emiko Nin       
+[15:49:40] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/35404573 eiqmy           
+[15:49:40] BCraftMG: !mp start 5 glhf!
+[15:49:41] BanchoBot: Match starts in 5 seconds
+[15:49:41] BanchoBot: Queued the match to start in 5 seconds
+[15:49:43] BanchoBot: Match starts in 4 seconds
+[15:49:44] BanchoBot: Match starts in 3 seconds
+[15:49:45] BanchoBot: Good luck, have fun!
+[15:49:47] BanchoBot: The match has started!
+[15:52:05] BanchoBot: eiqmy finished playing (Score: 244923, PASSED).
+[15:52:06] BanchoBot: Emiko Nin finished playing (Score: 373991, PASSED).
+[15:52:06] BanchoBot: The match has finished!
+[15:52:12] BCraftMG: !mp map 3311067 0
+[15:52:13] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3311067 tsunamix_underground - Period. ~ Seishin no Kousoku to Jiyuu o Tsukamu Jouka (Cut Ver.)
+[15:52:13] BanchoBot: Changed match mode to Osu
+[15:52:17] eiqmy: why am I snap aiming on nm4
+[15:52:40] Emiko_Nin: idk
+[15:53:07] eiqmy: we deseeding HARD with this one
+[15:53:08] BanchoBot: All players are ready
+[15:53:08] eiqmy: :tf:
+[15:53:17] BCraftMG: !mp settings
+[15:53:18] Emiko_Nin: idk if we could qualify
+[15:53:18] BanchoBot: Room name: ZAT: (Qualifiers) vs (Match X9), History: https://osu.ppy.sh/mp/116854336
+[15:53:18] BanchoBot: Beatmap: https://osu.ppy.sh/b/3311067 tsunamix_underground - Period. ~ Seishin no Kousoku to Jiyuu o Tsukamu Jouka (Cut Ver.)
+[15:53:18] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[15:53:18] BanchoBot: Active mods: NoFail
+[15:53:18] BanchoBot: Players: 2
+[15:53:18] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19544798 Emiko Nin       
+[15:53:18] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/35404573 eiqmy           
+[15:53:19] BCraftMG: !mp start 5 glhf!
+[15:53:19] BanchoBot: Match starts in 5 seconds
+[15:53:19] BanchoBot: Queued the match to start in 5 seconds
+[15:53:21] BanchoBot: Match starts in 4 seconds
+[15:53:22] BanchoBot: Match starts in 3 seconds
+[15:53:23] BanchoBot: Good luck, have fun!
+[15:53:24] eiqmy: we prayge
+[15:53:24] BanchoBot: The match has started!
+[15:55:20] BanchoBot: eiqmy finished playing (Score: 668465, PASSED).
+[15:55:20] BanchoBot: Emiko Nin finished playing (Score: 421542, PASSED).
+[15:55:20] BanchoBot: The match has finished!
+[15:55:27] Emiko_Nin: EIQMY
+[15:55:29] Emiko_Nin: MY GOAT
+[15:55:31] Emiko_Nin: :sob:
+[15:55:31] eiqmy: notelocked at the start
+[15:55:42] BanchoBot: eiqmy moved to slot 4
+[15:55:43] BCraftMG: !mp map 4595117 0
+[15:55:44] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4595117 Frog96 - Letter to the Black World
+[15:55:44] BanchoBot: Changed match mode to Osu
+[15:55:45] BCraftMG: !mp mods 9
+[15:55:45] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[15:55:58] BanchoBot: femboy nixiiowo joined in slot 2.
+[15:56:10] eiqmy: gl guys
+[15:56:12] eiqmy: this is a hard map
+[15:56:14] BanchoBot: eiqmy left the game.
+[15:56:17] Emiko_Nin: yea
+[15:56:21] femboy_nixiiowo: oiuvhsdu8ivgsdiyuvs'
+[15:56:26] BanchoBot: All players are ready
+[15:56:30] femboy_nixiiowo: i am not hd player ;-;
+[15:56:36] BCraftMG: !mp settings
+[15:56:37] BanchoBot: Room name: ZAT: (Qualifiers) vs (Match X9), History: https://osu.ppy.sh/mp/116854336
+[15:56:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/4595117 Frog96 - Letter to the Black World
+[15:56:37] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[15:56:37] BanchoBot: Active mods: NoFail, Hidden
+[15:56:37] BanchoBot: Players: 2
+[15:56:37] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19544798 Emiko Nin       
+[15:56:37] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/24834393 femboy nixiiowo 
+[15:56:39] Emiko_Nin: real?
+[15:56:39] BCraftMG: !mp start 5 glhf!
+[15:56:40] BanchoBot: Match starts in 5 seconds
+[15:56:40] BanchoBot: Queued the match to start in 5 seconds
+[15:56:41] BanchoBot: Match starts in 4 seconds
+[15:56:42] BanchoBot: Match starts in 3 seconds
+[15:56:42] femboy_nixiiowo: GLHF !!!
+[15:56:43] BanchoBot: Good luck, have fun!
+[15:56:45] BanchoBot: The match has started!
+[15:58:53] BanchoBot: femboy nixiiowo finished playing (Score: 233844, PASSED).
+[15:58:53] BanchoBot: Emiko Nin finished playing (Score: 301766, PASSED).
+[15:58:53] BanchoBot: The match has finished!
+[15:59:02] BCraftMG: !mp map 3218125 0
+[15:59:03] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3218125 Cranky - Cat's Circus
+[15:59:03] BanchoBot: Changed match mode to Osu
+[15:59:19] Emiko_Nin: why hd2 burst spamming
+[15:59:20] Emiko_Nin: :sob:
+[15:59:38] femboy_nixiiowo: could I quickly leave and rejoin
+[15:59:46] Emiko_Nin: uh yes
+[15:59:48] BanchoBot: femboy nixiiowo left the game.
+[16:00:04] BanchoBot: femboy nixiiowo joined in slot 2.
+[16:00:13] femboy_nixiiowo: alright im alright
+[16:00:14] femboy_nixiiowo: sdpoivhsdiuyvsdhiubvdsbiujhvds
+[16:00:16] BanchoBot: All players are ready
+[16:00:21] Emiko_Nin: awguaguawguawagwawguaaa
+[16:00:23] femboy_nixiiowo: i wanna sleep zzzzz
+[16:00:31] Emiko_Nin: dw
+[16:00:33] BCraftMG: !mp settings
+[16:00:34] BanchoBot: Room name: ZAT: (Qualifiers) vs (Match X9), History: https://osu.ppy.sh/mp/116854336
+[16:00:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/3218125 Cranky - Cat's Circus
+[16:00:34] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:00:34] BanchoBot: Active mods: NoFail, Hidden
+[16:00:34] BanchoBot: Players: 2
+[16:00:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19544798 Emiko Nin       
+[16:00:34] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/24834393 femboy nixiiowo 
+[16:00:35] BCraftMG: !mp start 5 glhf!
+[16:00:36] BanchoBot: Match starts in 5 seconds
+[16:00:36] BanchoBot: Queued the match to start in 5 seconds
+[16:00:38] BanchoBot: Match starts in 4 seconds
+[16:00:38] Emiko_Nin: u can sleep after this map until SP1
+[16:00:39] BanchoBot: Match starts in 3 seconds
+[16:00:39] femboy_nixiiowo: GLHF !!
+[16:00:40] BanchoBot: Good luck, have fun!
+[16:00:41] Emiko_Nin: glgl
+[16:00:41] BanchoBot: The match has started!
+[16:03:02] BanchoBot: Emiko Nin finished playing (Score: 111854, PASSED).
+[16:03:02] BanchoBot: femboy nixiiowo finished playing (Score: 377308, PASSED).
+[16:03:02] BanchoBot: The match has finished!
+[16:03:11] Emiko_Nin: this map suposed to be dt2
+[16:03:14] Emiko_Nin: not hd2
+[16:03:19] BCraftMG: !mp map 2514383 0
+[16:03:19] BanchoBot: eiqmy joined in slot 3.
+[16:03:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2514383 Feryquitous - Qavsell
+[16:03:20] BanchoBot: Changed match mode to Osu
+[16:03:21] BCraftMG: !mp mods 17
+[16:03:22] BanchoBot: femboy nixiiowo left the game.
+[16:03:22] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[16:03:23] BCraftMG: !mp timer 120
+[16:03:23] BanchoBot: Countdown ends in 2 minutes
+[16:03:29] eiqmy: wtf
+[16:03:31] eiqmy: who's playing this
+[16:03:47] Emiko_Nin: idk
+[16:03:54] Emiko_Nin: will including me of course
+[16:04:14] BanchoBot: eiqmy left the game.
+[16:04:24] BanchoBot: Countdown ends in 1 minute
+[16:04:44] BanchoBot: AlienKi joined in slot 2.
+[16:04:54] BanchoBot: Countdown ends in 30 seconds
+[16:05:11] BanchoBot: All players are ready
+[16:05:13] BCraftMG: !mp settings
+[16:05:13] BanchoBot: Room name: ZAT: (Qualifiers) vs (Match X9), History: https://osu.ppy.sh/mp/116854336
+[16:05:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/2514383 Feryquitous - Qavsell
+[16:05:13] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:05:13] BanchoBot: Active mods: NoFail, HardRock
+[16:05:13] BanchoBot: Players: 2
+[16:05:13] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19544798 Emiko Nin       
+[16:05:13] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/36240901 AlienKi         
+[16:05:14] BCraftMG: !mp start 5 glhf!
+[16:05:14] BanchoBot: Countdown ends in 10 seconds
+[16:05:15] BanchoBot: Countdown aborted
+[16:05:15] BanchoBot: Match starts in 5 seconds
+[16:05:15] BanchoBot: Queued the match to start in 5 seconds
+[16:05:17] BanchoBot: Match starts in 4 seconds
+[16:05:18] BanchoBot: Match starts in 3 seconds
+[16:05:19] BanchoBot: Good luck, have fun!
+[16:05:20] BanchoBot: The match has started!
+[16:08:52] BanchoBot: Emiko Nin finished playing (Score: 250421, PASSED).
+[16:08:52] BanchoBot: AlienKi finished playing (Score: 69164, PASSED).
+[16:08:52] BanchoBot: The match has finished!
+[16:08:59] BCraftMG: !mp map 35034 0
+[16:09:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/35034 Hisaka Yoko - Heart Goes Boom!!
+[16:09:00] BanchoBot: Changed match mode to Osu
+[16:09:46] BanchoBot: eiqmy joined in slot 3.
+[16:09:51] BanchoBot: eiqmy left the game.
+[16:10:13] BanchoBot: eiqmy joined in slot 3.
+[16:10:20] eiqmy: yo alien what's your estimate for this map
+[16:10:31] eiqmy: like score estimate
+[16:10:41] AlienKi: hol on i forgor
+[16:10:43] BanchoBot: AlienKi left the game.
+[16:10:51] eiqmy: oop
+[16:10:51] BanchoBot: AlienKi joined in slot 2.
+[16:10:53] Emiko_Nin: me perma lobby lmao
+[16:10:56] AlienKi: 41k
+[16:11:05] Emiko_Nin: :skull:
+[16:11:05] eiqmy: do you need me to sub in?
+[16:11:11] eiqmy: I'd be sightreading but
+[16:11:11] AlienKi: yes
+[16:11:14] AlienKi: HUH
+[16:11:14] eiqmy: this is 4.91
+[16:11:18] Emiko_Nin: just linear aim map
+[16:11:19] Emiko_Nin: dw
+[16:11:22] eiqmy: I could potentially score higher
+[16:11:37] AlienKi: aight you got it
+[16:11:40] BanchoBot: AlienKi left the game.
+[16:11:44] eiqmy: I mean 41k isn't high enough to matter if I also do bad lmao
+[16:11:46] BanchoBot: eiqmy moved to slot 2
+[16:11:47] BanchoBot: All players are ready
+[16:11:57] eiqmy: if he has 41k and I get 30k that's still no difference
+[16:12:00] eiqmy: :Tf:
+[16:12:08] Emiko_Nin: lol
+[16:12:14] Emiko_Nin: even worse
+[16:12:17] Emiko_Nin: but welp
+[16:12:18] Emiko_Nin: dw
+[16:12:26] Emiko_Nin: idk if i could fc this map or not
+[16:12:32] Emiko_Nin: always choke at the middle
+[16:12:37] Emiko_Nin: also
+[16:12:38] Emiko_Nin: ref
+[16:12:45] Emiko_Nin: BCraftMG
+[16:12:49] BCraftMG: !mp settings
+[16:12:50] Emiko_Nin: :sob:
+[16:12:50] BanchoBot: Room name: ZAT: (Qualifiers) vs (Match X9), History: https://osu.ppy.sh/mp/116854336
+[16:12:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/35034 Hisaka Yoko - Heart Goes Boom!!
+[16:12:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:12:50] BanchoBot: Active mods: NoFail, HardRock
+[16:12:50] BanchoBot: Players: 2
+[16:12:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19544798 Emiko Nin       
+[16:12:50] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/35404573 eiqmy           
+[16:12:51] BCraftMG: !mp start 5 glhf!
+[16:12:51] BanchoBot: Match starts in 5 seconds
+[16:12:51] BanchoBot: Queued the match to start in 5 seconds
+[16:12:53] BanchoBot: Match starts in 4 seconds
+[16:12:54] BanchoBot: Match starts in 3 seconds
+[16:12:55] BanchoBot: Good luck, have fun!
+[16:12:57] BanchoBot: The match has started!
+[16:13:01] eiqmy: bro forgor
+[16:15:23] BanchoBot: eiqmy finished playing (Score: 141779, PASSED).
+[16:15:24] BanchoBot: Emiko Nin finished playing (Score: 238296, PASSED).
+[16:15:24] BanchoBot: The match has finished!
+[16:15:36] eiqmy: qwq
+[16:15:38] BCraftMG: !mp map 1831281 0
+[16:15:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1831281 Culprate, Keota & Sophie Meiers - Mechanic Heartbeat
+[16:15:39] BanchoBot: Changed match mode to Osu
+[16:15:41] BCraftMG: !mp mods 65
+[16:15:41] Emiko_Nin: rip
+[16:15:41] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[16:15:47] BCraftMG: im trying to read dramas
+[16:15:50] Emiko_Nin: wanna dt1 ei?
+[16:15:54] eiqmy: lmao?
+[16:15:55] eiqmy: nah I can't
+[16:15:56] BanchoBot: eiqmy moved to slot 4
+[16:16:01] eiqmy: I can dt2 but not this
+[16:16:05] eiqmy: ar too high
+[16:16:08] Emiko_Nin: uhhhh
+[16:16:30] BanchoBot: AlienKi joined in slot 2.
+[16:17:06] eiqmy: glhf!
+[16:17:08] eiqmy: i pray
+[16:17:09] BanchoBot: eiqmy left the game.
+[16:17:10] BanchoBot: All players are ready
+[16:17:11] BCraftMG: !mp settings
+[16:17:12] BanchoBot: All players are ready
+[16:17:12] BanchoBot: Room name: ZAT: (Qualifiers) vs (Match X9), History: https://osu.ppy.sh/mp/116854336
+[16:17:12] BanchoBot: Beatmap: https://osu.ppy.sh/b/1831281 Culprate, Keota & Sophie Meiers - Mechanic Heartbeat
+[16:17:12] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:17:12] BanchoBot: Active mods: NoFail, DoubleTime
+[16:17:12] BanchoBot: Players: 2
+[16:17:12] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19544798 Emiko Nin       
+[16:17:12] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/36240901 AlienKi         
+[16:17:12] BCraftMG: !mp start 5 glhf!
+[16:17:13] BanchoBot: Match starts in 5 seconds
+[16:17:13] BanchoBot: Queued the match to start in 5 seconds
+[16:17:15] BanchoBot: Match starts in 4 seconds
+[16:17:16] BanchoBot: Match starts in 3 seconds
+[16:17:17] BanchoBot: Good luck, have fun!
+[16:17:19] BanchoBot: The match has started!
+[16:19:33] BanchoBot: AlienKi finished playing (Score: 244758, PASSED).
+[16:19:34] BanchoBot: Emiko Nin finished playing (Score: 529162, PASSED).
+[16:19:34] BanchoBot: The match has finished!
+[16:19:39] BCraftMG: !mp map 2948342 0
+[16:19:40] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2948342 Katakiri Rekka - Tamayura - Open the "AKABEi JAZZ CONCERT"
+[16:19:40] BanchoBot: Changed match mode to Osu
+[16:19:51] BanchoBot: Emiko Nin left the game.
+[16:20:22] BanchoBot: eiqmy joined in slot 1.
+[16:20:31] eiqmy: hold on timeout I gotta do smth irl
+[16:21:37] eiqmy: buying dinner
+[16:22:47] BCraftMG: what the fuck
+[16:23:01] AlienKi: LMAO
+[16:23:15] eiqmy: lmao
+[16:23:35] eiqmy: you can go back to reading for a sec
+[16:23:40] eiqmy: also why is half the bg of this song thighs
+[16:24:11] AlienKi: why is there not more is the question
+[16:24:51] eiqmy: watefak
+[16:25:56] BCraftMG: imma go pee
+[16:25:56] BCraftMG: !mp settings
+[16:25:57] BanchoBot: Room name: ZAT: (Qualifiers) vs (Match X9), History: https://osu.ppy.sh/mp/116854336
+[16:25:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/2948342 Katakiri Rekka - Tamayura - Open the "AKABEi JAZZ CONCERT"
+[16:25:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:25:57] BanchoBot: Active mods: NoFail, DoubleTime
+[16:25:57] BanchoBot: Players: 2
+[16:25:57] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/35404573 eiqmy           
+[16:25:57] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/36240901 AlienKi         
+[16:26:06] AlienKi: same ngl
+[16:27:01] eiqmy: gg
+[16:27:54] BCraftMG: bro you are ordering dinner
+[16:28:24] eiqmy: im back
+[16:28:30] AlienKi: back
+[16:28:52] eiqmy: AlienKi pls do not get distracted by the thighs and try to play with one hand
+[16:28:52] eiqmy: if you know what I mean
+[16:28:55] eiqmy: glhf
+[16:29:05] AlienKi: -_-
+[16:29:09] AlienKi: or?
+[16:29:10] BanchoBot: All players are ready
+[16:29:10] BCraftMG: i did not need to know that
+[16:29:12] BCraftMG: !mp settings
+[16:29:13] BanchoBot: Room name: ZAT: (Qualifiers) vs (Match X9), History: https://osu.ppy.sh/mp/116854336
+[16:29:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/2948342 Katakiri Rekka - Tamayura - Open the "AKABEi JAZZ CONCERT"
+[16:29:13] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:29:13] BanchoBot: Active mods: NoFail, DoubleTime
+[16:29:13] BanchoBot: Players: 2
+[16:29:13] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/35404573 eiqmy           
+[16:29:13] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/36240901 AlienKi         
+[16:29:13] BCraftMG: !mp start 5 glhf!
+[16:29:14] BanchoBot: Match starts in 5 seconds
+[16:29:14] BanchoBot: Queued the match to start in 5 seconds
+[16:29:15] BanchoBot: Match starts in 4 seconds
+[16:29:16] BanchoBot: Match starts in 3 seconds
+[16:29:17] BanchoBot: Good luck, have fun!
+[16:29:17] eiqmy: LMAO
+[16:29:19] BanchoBot: The match has started!
+[16:32:23] BanchoBot: eiqmy finished playing (Score: 843078, PASSED).
+[16:32:24] BanchoBot: AlienKi finished playing (Score: 155377, PASSED).
+[16:32:24] BanchoBot: The match has finished!
+[16:32:28] BCraftMG: !mp map 246410 0
+[16:32:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/246410 IOSYS - Endless Tewi-ma Park
+[16:32:29] BanchoBot: Changed match mode to Osu
+[16:32:31] BCraftMG: !mp mods 1 freemod
+[16:32:32] eiqmy: LOCK IN
+[16:32:33] BanchoBot: Disabled all mods, enabled FreeMod
+[16:32:33] AlienKi: you are the goat
+[16:32:36] BCraftMG: nf forced
+[16:33:01] BCraftMG: actually let me read the rules
+[16:33:11] eiqmy: can we dt?
+[16:33:25] eiqmy: there are no rules on modding sp1
+[16:34:00] BCraftMG: "Most of these will be freemod, however they can have enforced mods if listed on main sheet."
+[16:34:18] eiqmy: hmm
+[16:34:22] eiqmy: so can we get dt
+[16:34:23] BCraftMG: so uh freemod for this
+[16:34:25] BCraftMG: and no dt
+[16:34:32] eiqmy: NOOOOO
+[16:34:37] AlienKi: rip
+[16:34:41] eiqmy: nvm no fl
+[16:34:49] BanchoBot: All players are ready
+[16:34:55] BCraftMG: !mp settings
+[16:34:56] BanchoBot: Room name: ZAT: (Qualifiers) vs (Match X9), History: https://osu.ppy.sh/mp/116854336
+[16:34:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/246410 IOSYS - Endless Tewi-ma Park
+[16:34:56] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:34:56] BanchoBot: Active mods: Freemod
+[16:34:56] BanchoBot: Players: 2
+[16:34:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/35404573 eiqmy           
+[16:34:56] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/36240901 AlienKi         
+[16:34:59] BCraftMG: nf pleas
+[16:35:09] AlienKi: oops
+[16:35:13] BanchoBot: All players are ready
+[16:35:14] BCraftMG: !mp settings
+[16:35:14] BanchoBot: Room name: ZAT: (Qualifiers) vs (Match X9), History: https://osu.ppy.sh/mp/116854336
+[16:35:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/246410 IOSYS - Endless Tewi-ma Park
+[16:35:14] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[16:35:14] BanchoBot: Active mods: Freemod
+[16:35:14] BanchoBot: Players: 2
+[16:35:14] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/35404573 eiqmy           [NoFail]
+[16:35:14] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/36240901 AlienKi         [NoFail]
+[16:35:15] BCraftMG: !mp start 5 glhf!
+[16:35:15] BanchoBot: Match starts in 5 seconds
+[16:35:15] BanchoBot: Queued the match to start in 5 seconds
+[16:35:16] BanchoBot: Match starts in 4 seconds
+[16:35:18] BanchoBot: Match starts in 3 seconds
+[16:35:19] BanchoBot: Good luck, have fun!
+[16:35:21] BanchoBot: The match has started!
+[16:37:46] BanchoBot: AlienKi finished playing (Score: 301430, PASSED).
+[16:37:47] BanchoBot: eiqmy finished playing (Score: 503050, PASSED).
+[16:37:47] BanchoBot: The match has finished!
+[16:37:54] eiqmy: ITS SO JOEVEE
+[16:37:56] eiqmy: I MISSED ON AIR
+[16:37:58] eiqmy: NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[16:38:02] AlienKi: LMAO
+[16:38:23] eiqmy: it was like
+[16:38:25] eiqmy: that
+[16:38:25] AlienKi: welp
+[16:38:27] eiqmy: 12 1223 123 pattern
+[16:38:40] eiqmy: my mouse decided not to hit the second part
+[16:38:47] eiqmy: gg...
+[16:38:52] AlienKi: rip
+[16:39:15] AlienKi: uhh
+[16:39:26] AlienKi: so do we get cookies or something?
+[16:39:27] eiqmy: welp ty for ref BCraftMG
+[16:39:34] eiqmy: you get uh
+[16:39:37] eiqmy: more emiko nin thigh pics
+[16:39:47] AlienKi: LETSGO
+[16:39:57] eiqmy: :3
+[16:40:06] eiqmy: alright ima hop out of the match
+[16:40:13] BanchoBot: eiqmy left the game.
+[16:40:17] AlienKi: o7
+[16:40:20] BanchoBot: AlienKi left the game.
+[16:41:15] BCraftMG: !mp close
+[16:41:15] BanchoBot: Closed the match
