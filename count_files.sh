@@ -9,7 +9,7 @@ counts=""
 for folder in $folders; do
   if [ -d "$folder" ]; then
     count=$(find "$folder" -type f | wc -l)
-    counts="${counts}- $folder: $count files\n"
+    counts="${counts}- $folder: $count matches\n"
   fi
 done
 
