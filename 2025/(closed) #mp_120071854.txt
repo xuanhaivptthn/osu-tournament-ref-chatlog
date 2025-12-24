@@ -1,0 +1,512 @@
+[08:52:20] Joined #mp_120071854
+[08:52:20] BCraftMG: !mp settings
+[08:52:21] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q20), History: https://osu.ppy.sh/mp/120071854
+[08:52:21] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[08:52:21] BanchoBot: Players: 0
+[08:52:43] BCraftMG: !mp set 0 3 6
+[08:52:44] BanchoBot: Changed match settings to 6 slots, HeadToHead, ScoreV2
+[08:52:48] BCraftMG: !mp map 3632423
+[08:52:48] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3632423 Wakeshima Kanon - the BEAST can't BE STOpped
+[08:52:50] BCraftMG: !mp mods nf
+[08:52:50] BanchoBot: Enabled NoFail, disabled FreeMod
+[08:52:55] BCraftMG: !mp invite AccNome
+[08:52:56] BanchoBot: Invited AccNome to the room
+[08:52:57] BCraftMG: !mp invite Ayykk
+[08:52:58] BanchoBot: Invited Ayykk to the room
+[08:53:00] BCraftMG: !mp invite FlatPaper
+[08:53:01] BanchoBot: Invited FlatPaper to the room
+[08:53:02] BCraftMG: !mp invite SapeSape
+[08:53:03] BanchoBot: Invited SapeSape to the room
+[08:53:28] BanchoBot: SapeSape joined in slot 1.
+[08:53:30] BanchoBot: All players are ready
+[08:53:33] SapeSape: hola
+[08:53:38] BCraftMG: halo
+[08:53:46] BCraftMG: no o ne is here yet
+[08:53:52] SapeSape: okok
+[08:53:54] BanchoBot: SapeSape left the game.
+[08:53:58] BanchoBot: AccNome joined in slot 1.
+[08:54:03] AccNome: hello
+[08:54:05] BCraftMG: hai
+[08:54:44] BanchoBot: Ayykk joined in slot 2.
+[08:54:49] Ayykk: hey guys :D
+[08:54:53] BCraftMG: dont be nervous
+[08:54:54] AccNome: o/
+[08:55:22] BanchoBot: FlatPaper joined in slot 3.
+[08:55:35] BCraftMG: waiting for 1 more
+[08:56:13] BanchoBot: SapeSape joined in slot 4.
+[08:56:17] BCraftMG: gdey
+[08:56:29] BCraftMG: !mp settings
+[08:56:30] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q20), History: https://osu.ppy.sh/mp/120071854
+[08:56:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/3632423 Wakeshima Kanon - the BEAST can't BE STOpped
+[08:56:30] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[08:56:30] BanchoBot: Active mods: NoFail
+[08:56:30] BanchoBot: Players: 4
+[08:56:30] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10976433 AccNome         
+[08:56:30] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/19098393 Ayykk           
+[08:56:30] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11255340 FlatPaper       
+[08:56:30] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11477921 SapeSape        
+[08:56:33] FlatPaper: sapesape o/
+[08:56:39] Ayykk: good morning team
+[08:56:41] SapeSape: holaaa
+[08:56:47] AccNome: great morning!
+[08:57:14] BanchoBot: All players are ready
+[08:57:17] BCraftMG: get ready :D
+[08:57:18] BCraftMG: !mp settings
+[08:57:19] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q20), History: https://osu.ppy.sh/mp/120071854
+[08:57:19] BanchoBot: Beatmap: https://osu.ppy.sh/b/3632423 Wakeshima Kanon - the BEAST can't BE STOpped
+[08:57:19] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[08:57:19] BanchoBot: Active mods: NoFail
+[08:57:19] BanchoBot: Players: 4
+[08:57:19] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10976433 AccNome         
+[08:57:19] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19098393 Ayykk           
+[08:57:19] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11255340 FlatPaper       
+[08:57:19] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11477921 SapeSape        
+[08:57:20] AccNome: glgl
+[08:57:20] BCraftMG: !mp start 5
+[08:57:21] BanchoBot: Match starts in 5 seconds
+[08:57:21] BanchoBot: Queued the match to start in 5 seconds
+[08:57:23] BanchoBot: Match starts in 4 seconds
+[08:57:23] BanchoBot: Match starts in 3 seconds
+[08:57:25] BanchoBot: Good luck, have fun!
+[08:57:27] BanchoBot: The match has started!
+[09:00:56] BanchoBot: AccNome finished playing (Score: 429171, PASSED).
+[09:00:56] BanchoBot: Ayykk finished playing (Score: 357662, PASSED).
+[09:00:56] BanchoBot: FlatPaper finished playing (Score: 525277, PASSED).
+[09:00:57] BanchoBot: SapeSape finished playing (Score: 589712, PASSED).
+[09:00:57] BanchoBot: The match has finished!
+[09:01:03] BCraftMG: !mp map 5122491
+[09:01:03] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5122491 Kardashev - Lux
+[09:01:11] BCraftMG: !mp timer 120
+[09:01:11] BanchoBot: Countdown ends in 2 minutes
+[09:01:42] BanchoBot: All players are ready
+[09:01:55] BCraftMG: !mp settings
+[09:01:56] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q20), History: https://osu.ppy.sh/mp/120071854
+[09:01:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/5122491 Kardashev - Lux
+[09:01:56] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[09:01:56] BanchoBot: Active mods: NoFail
+[09:01:56] BanchoBot: Players: 4
+[09:01:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10976433 AccNome         
+[09:01:56] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19098393 Ayykk           
+[09:01:56] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11255340 FlatPaper       
+[09:01:56] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11477921 SapeSape        
+[09:01:57] BCraftMG: !mp start 5
+[09:01:58] BanchoBot: Countdown aborted
+[09:01:58] BanchoBot: Match starts in 5 seconds
+[09:01:58] BanchoBot: Queued the match to start in 5 seconds
+[09:01:59] BanchoBot: Match starts in 4 seconds
+[09:01:59] AccNome: GLGL
+[09:02:00] BanchoBot: Match starts in 3 seconds
+[09:02:01] BanchoBot: Good luck, have fun!
+[09:02:03] BanchoBot: The match has started!
+[09:05:24] BanchoBot: FlatPaper finished playing (Score: 476521, PASSED).
+[09:05:24] BanchoBot: AccNome finished playing (Score: 389596, PASSED).
+[09:05:24] BanchoBot: Ayykk finished playing (Score: 152842, PASSED).
+[09:05:24] BanchoBot: SapeSape finished playing (Score: 535792, PASSED).
+[09:05:24] BanchoBot: The match has finished!
+[09:05:32] BCraftMG: !mp map 4673188
+[09:05:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4673188 yama & Tatsuya Kitani - As I longed for
+[09:05:36] BCraftMG: !mp timer 120
+[09:05:37] BanchoBot: Countdown ends in 2 minutes
+[09:06:37] BanchoBot: Countdown ends in 1 minute
+[09:06:46] BanchoBot: All players are ready
+[09:06:48] BCraftMG: !mp settings
+[09:06:48] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q20), History: https://osu.ppy.sh/mp/120071854
+[09:06:48] BanchoBot: Beatmap: https://osu.ppy.sh/b/4673188 yama & Tatsuya Kitani - As I longed for
+[09:06:48] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[09:06:48] BanchoBot: Active mods: NoFail
+[09:06:48] BanchoBot: Players: 4
+[09:06:48] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10976433 AccNome         
+[09:06:48] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19098393 Ayykk           
+[09:06:48] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11255340 FlatPaper       
+[09:06:48] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11477921 SapeSape        
+[09:06:50] BCraftMG: !mp start 5
+[09:06:50] BanchoBot: Countdown aborted
+[09:06:50] BanchoBot: Match starts in 5 seconds
+[09:06:50] BanchoBot: Queued the match to start in 5 seconds
+[09:06:52] BanchoBot: Match starts in 4 seconds
+[09:06:52] BanchoBot: Match starts in 3 seconds
+[09:06:53] AccNome: glgl
+[09:06:54] BanchoBot: Good luck, have fun!
+[09:06:56] BanchoBot: The match has started!
+[09:10:25] BanchoBot: FlatPaper finished playing (Score: 319485, PASSED).
+[09:10:25] BanchoBot: SapeSape finished playing (Score: 970875, PASSED).
+[09:10:26] BanchoBot: Ayykk finished playing (Score: 271710, PASSED).
+[09:10:26] BanchoBot: AccNome finished playing (Score: 296200, PASSED).
+[09:10:26] BanchoBot: The match has finished!
+[09:10:34] BCraftMG: !mp map 3668660
+[09:10:35] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3668660 Alkome - Trust it
+[09:10:36] BCraftMG: !mp timer 120
+[09:10:36] BanchoBot: Countdown ends in 2 minutes
+[09:10:44] AccNome: ur not real
+[09:10:54] Ayykk: nice score
+[09:10:55] Ayykk: thats nuts
+[09:10:59] SapeSape: tyty
+[09:11:04] FlatPaper: nice fc
+[09:11:04] AccNome: GLGL
+[09:11:10] AccNome: second alt map
+[09:11:11] BCraftMG: sheesh
+[09:11:33] BanchoBot: All players are ready
+[09:11:36] BanchoBot: Countdown ends in 1 minute
+[09:11:37] AccNome: glgl
+[09:11:37] Ayykk: glgl
+[09:11:38] BCraftMG: !mp settings
+[09:11:38] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q20), History: https://osu.ppy.sh/mp/120071854
+[09:11:38] BanchoBot: Beatmap: https://osu.ppy.sh/b/3668660 Alkome - Trust it
+[09:11:38] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[09:11:38] BanchoBot: Active mods: NoFail
+[09:11:38] BanchoBot: Players: 4
+[09:11:38] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10976433 AccNome         
+[09:11:38] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19098393 Ayykk           
+[09:11:38] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11255340 FlatPaper       
+[09:11:38] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11477921 SapeSape        
+[09:11:40] BCraftMG: !mp start 5
+[09:11:41] BanchoBot: Countdown aborted
+[09:11:41] BanchoBot: Match starts in 5 seconds
+[09:11:41] BanchoBot: Queued the match to start in 5 seconds
+[09:11:42] BanchoBot: Match starts in 4 seconds
+[09:11:43] BanchoBot: Match starts in 3 seconds
+[09:11:44] BanchoBot: Good luck, have fun!
+[09:11:46] BanchoBot: The match has started!
+[09:14:11] BanchoBot: SapeSape finished playing (Score: 445019, PASSED).
+[09:14:11] BanchoBot: AccNome finished playing (Score: 449562, PASSED).
+[09:14:11] BanchoBot: Ayykk finished playing (Score: 215775, PASSED).
+[09:14:11] BanchoBot: FlatPaper finished playing (Score: 421472, PASSED).
+[09:14:11] BanchoBot: The match has finished!
+[09:14:23] BCraftMG: !mp map 5427412
+[09:14:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5427412 Iglooghost - Echo Lace
+[09:14:29] BCraftMG: !mp timer 120
+[09:14:29] BanchoBot: Countdown ends in 2 minutes
+[09:14:57] BanchoBot: All players are ready
+[09:14:59] AccNome: GLGL
+[09:15:00] BCraftMG: !mp settings
+[09:15:00] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q20), History: https://osu.ppy.sh/mp/120071854
+[09:15:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/5427412 Iglooghost - Echo Lace
+[09:15:00] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[09:15:00] BanchoBot: Active mods: NoFail
+[09:15:00] BanchoBot: Players: 4
+[09:15:00] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10976433 AccNome         
+[09:15:00] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19098393 Ayykk           
+[09:15:00] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11255340 FlatPaper       
+[09:15:00] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11477921 SapeSape        
+[09:15:01] BCraftMG: !mp start 5
+[09:15:02] BanchoBot: Countdown aborted
+[09:15:02] BanchoBot: Match starts in 5 seconds
+[09:15:02] BanchoBot: Queued the match to start in 5 seconds
+[09:15:03] BanchoBot: Match starts in 4 seconds
+[09:15:03] Ayykk: glgl
+[09:15:04] BanchoBot: Match starts in 3 seconds
+[09:15:05] BanchoBot: Good luck, have fun!
+[09:15:07] BanchoBot: The match has started!
+[09:18:06] BanchoBot: AccNome finished playing (Score: 239562, PASSED).
+[09:18:07] BanchoBot: SapeSape finished playing (Score: 273364, PASSED).
+[09:18:07] BanchoBot: FlatPaper finished playing (Score: 139515, PASSED).
+[09:18:08] BanchoBot: Ayykk finished playing (Score: 83397, PASSED).
+[09:18:08] BanchoBot: The match has finished!
+[09:18:18] BCraftMG: !mp map 3748434
+[09:18:18] AccNome: :(
+[09:18:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3748434 Aitsuki Nakuru - Rest in Peace my Dear
+[09:18:24] BCraftMG: !mp mods 9
+[09:18:24] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[09:18:25] AccNome: worlds largest low roll im so sad :(
+[09:18:25] Ayykk: what a joke of a mapo
+[09:18:26] FlatPaper is listening to [https://osu.ppy.sh/beatmapsets/1826532#/3748434 Aitsuki Nakuru - Rest in Peace my Dear]
+[09:18:37] Ayykk is listening to [https://osu.ppy.sh/beatmapsets/1826532#/3748434 Aitsuki Nakuru - Rest in Peace my Dear]
+[09:18:38] BCraftMG: !mp timer 120
+[09:18:39] BanchoBot: Countdown ends in 2 minutes
+[09:18:56] BCraftMG: Aitsuki Nakuru
+[09:19:11] BanchoBot: All players are ready
+[09:19:13] BCraftMG: !mp settings
+[09:19:14] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q20), History: https://osu.ppy.sh/mp/120071854
+[09:19:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/3748434 Aitsuki Nakuru - Rest in Peace my Dear
+[09:19:14] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[09:19:14] BanchoBot: Active mods: NoFail, Hidden
+[09:19:14] BanchoBot: Players: 4
+[09:19:14] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10976433 AccNome         
+[09:19:14] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19098393 Ayykk           
+[09:19:14] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11255340 FlatPaper       
+[09:19:14] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11477921 SapeSape        
+[09:19:17] AccNome: glgl
+[09:19:17] BCraftMG: !mp start 5
+[09:19:17] BanchoBot: Countdown aborted
+[09:19:17] BanchoBot: Match starts in 5 seconds
+[09:19:17] BanchoBot: Queued the match to start in 5 seconds
+[09:19:19] BanchoBot: Match starts in 4 seconds
+[09:19:19] BanchoBot: Match starts in 3 seconds
+[09:19:21] BanchoBot: Good luck, have fun!
+[09:19:23] BanchoBot: The match has started!
+[09:19:23] Ayykk: glgl
+[09:23:49] BanchoBot: FlatPaper finished playing (Score: 399855, PASSED).
+[09:23:49] BanchoBot: Ayykk finished playing (Score: 244037, PASSED).
+[09:23:50] BanchoBot: AccNome finished playing (Score: 235823, PASSED).
+[09:23:50] BanchoBot: SapeSape finished playing (Score: 420512, PASSED).
+[09:23:50] BanchoBot: The match has finished!
+[09:23:57] BCraftMG: !mp map 4841047
+[09:23:58] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4841047 HARU NEMURI - lostplanet
+[09:24:03] SapeSape: i hate this hd pool
+[09:24:05] BCraftMG: !mp timer 120
+[09:24:06] BanchoBot: Countdown ends in 2 minutes
+[09:24:17] FlatPaper is listening to [https://osu.ppy.sh/beatmapsets/2261862#/4841047 HARU NEMURI - lostplanet]
+[09:25:03] BanchoBot: All players are ready
+[09:25:05] BCraftMG: !mp settings
+[09:25:06] BanchoBot: Countdown ends in 1 minute
+[09:25:06] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q20), History: https://osu.ppy.sh/mp/120071854
+[09:25:06] BanchoBot: Beatmap: https://osu.ppy.sh/b/4841047 HARU NEMURI - lostplanet
+[09:25:06] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[09:25:06] BanchoBot: Active mods: NoFail, Hidden
+[09:25:06] BanchoBot: Players: 4
+[09:25:06] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10976433 AccNome         
+[09:25:06] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19098393 Ayykk           
+[09:25:06] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11255340 FlatPaper       
+[09:25:06] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11477921 SapeSape        
+[09:25:08] BCraftMG: !mp start 5
+[09:25:08] BanchoBot: Countdown aborted
+[09:25:08] BanchoBot: Match starts in 5 seconds
+[09:25:08] BanchoBot: Queued the match to start in 5 seconds
+[09:25:09] BanchoBot: Match starts in 4 seconds
+[09:25:10] BanchoBot: Match starts in 3 seconds
+[09:25:11] AccNome: glgl
+[09:25:11] Ayykk: glgl
+[09:25:11] BanchoBot: Good luck, have fun!
+[09:25:13] BanchoBot: The match has started!
+[09:27:56] BanchoBot: SapeSape finished playing (Score: 457043, PASSED).
+[09:27:56] BanchoBot: Ayykk finished playing (Score: 77445, PASSED).
+[09:27:56] BanchoBot: FlatPaper finished playing (Score: 395687, PASSED).
+[09:27:58] BanchoBot: AccNome finished playing (Score: 321101, PASSED).
+[09:27:58] BanchoBot: The match has finished!
+[09:28:01] BCraftMG: !mp map 2386204
+[09:28:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2386204 Myrath - Dance
+[09:28:04] BCraftMG: !mp mods 17
+[09:28:04] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[09:28:16] BCraftMG: !mp timer 120
+[09:28:16] BanchoBot: Countdown ends in 2 minutes
+[09:28:52] BanchoBot: All players are ready
+[09:28:59] FlatPaper: hfhf
+[09:29:00] Ayykk: glgl
+[09:29:03] AccNome: glgl
+[09:29:04] BCraftMG: !mp settings
+[09:29:05] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q20), History: https://osu.ppy.sh/mp/120071854
+[09:29:05] BanchoBot: Beatmap: https://osu.ppy.sh/b/2386204 Myrath - Dance
+[09:29:05] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[09:29:05] BanchoBot: Active mods: NoFail, HardRock
+[09:29:05] BanchoBot: Players: 4
+[09:29:05] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10976433 AccNome         
+[09:29:05] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19098393 Ayykk           
+[09:29:05] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11255340 FlatPaper       
+[09:29:05] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11477921 SapeSape        
+[09:29:06] BCraftMG: !mp start 5
+[09:29:07] BanchoBot: Countdown aborted
+[09:29:07] BanchoBot: Match starts in 5 seconds
+[09:29:07] BanchoBot: Queued the match to start in 5 seconds
+[09:29:08] BanchoBot: Match starts in 4 seconds
+[09:29:09] BanchoBot: Match starts in 3 seconds
+[09:29:10] BanchoBot: Good luck, have fun!
+[09:29:12] BanchoBot: The match has started!
+[09:33:04] BanchoBot: AccNome finished playing (Score: 233078, PASSED).
+[09:33:04] BanchoBot: SapeSape finished playing (Score: 906347, PASSED).
+[09:33:05] BanchoBot: FlatPaper finished playing (Score: 520039, PASSED).
+[09:33:06] BanchoBot: Ayykk finished playing (Score: 233916, PASSED).
+[09:33:06] BanchoBot: The match has finished!
+[09:33:17] BCraftMG: !mp map 5427895
+[09:33:18] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5427895 Beabadoobee - the perfect pair (Official Live Ver.)
+[09:33:19] BCraftMG: !mp timer 120
+[09:33:20] BanchoBot: Countdown ends in 2 minutes
+[09:33:32] AccNome: so like
+[09:33:34] AccNome: hear me outr
+[09:33:38] AccNome: whyd we make it cs7
+[09:33:52] Ayykk: real
+[09:33:55] FlatPaper: ur right it should be cs 9
+[09:34:06] Ayykk: cs10 or go home
+[09:34:07] Ayykk: smh
+[09:34:12] AccNome: id do some things if it was any higher than cs8
+[09:34:13] BanchoBot: All players are ready
+[09:34:19] AccNome: cant say what they are but
+[09:34:20] BCraftMG: !mp settings
+[09:34:20] BanchoBot: Countdown ends in 1 minute
+[09:34:20] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q20), History: https://osu.ppy.sh/mp/120071854
+[09:34:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/5427895 Beabadoobee - the perfect pair (Official Live Ver.)
+[09:34:20] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[09:34:20] BanchoBot: Active mods: NoFail, HardRock
+[09:34:20] BanchoBot: Players: 4
+[09:34:20] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10976433 AccNome         
+[09:34:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19098393 Ayykk           
+[09:34:20] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11255340 FlatPaper       
+[09:34:20] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11477921 SapeSape        
+[09:34:22] BCraftMG: !mp start 5
+[09:34:23] AccNome: glgl
+[09:34:23] BanchoBot: Countdown aborted
+[09:34:23] BanchoBot: Match starts in 5 seconds
+[09:34:23] BanchoBot: Queued the match to start in 5 seconds
+[09:34:24] BanchoBot: Match starts in 4 seconds
+[09:34:25] BanchoBot: Match starts in 3 seconds
+[09:34:26] BanchoBot: Good luck, have fun!
+[09:34:28] BanchoBot: The match has started!
+[09:37:31] BanchoBot: Ayykk finished playing (Score: 383584, PASSED).
+[09:37:31] BanchoBot: FlatPaper finished playing (Score: 860570, PASSED).
+[09:37:31] BanchoBot: AccNome finished playing (Score: 138590, PASSED).
+[09:37:32] BanchoBot: SapeSape finished playing (Score: 646696, PASSED).
+[09:37:32] BanchoBot: The match has finished!
+[09:37:36] AccNome: this map is targeted hate
+[09:37:43] BCraftMG: !mp map 2921884
+[09:37:43] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2921884 Pendulum - The Fountain (feat. Steven Wilson)
+[09:37:47] BCraftMG: !mp mods 65
+[09:37:47] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[09:37:50] SapeSape: The map was so good until the break...
+[09:37:51] BCraftMG: !mp timer 120
+[09:37:51] BanchoBot: Countdown ends in 2 minutes
+[09:38:46] BanchoBot: All players are ready
+[09:38:49] AccNome: glgl
+[09:38:51] BanchoBot: Countdown ends in 1 minute
+[09:38:57] BCraftMG: !mp settings
+[09:38:57] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q20), History: https://osu.ppy.sh/mp/120071854
+[09:38:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/2921884 Pendulum - The Fountain (feat. Steven Wilson)
+[09:38:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[09:38:57] BanchoBot: Active mods: NoFail, DoubleTime
+[09:38:57] BanchoBot: Players: 4
+[09:38:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10976433 AccNome         
+[09:38:57] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19098393 Ayykk           
+[09:38:57] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11255340 FlatPaper       
+[09:38:57] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11477921 SapeSape        
+[09:38:58] BCraftMG: !mp start 5
+[09:38:59] BanchoBot: Countdown aborted
+[09:38:59] BanchoBot: Match starts in 5 seconds
+[09:38:59] BanchoBot: Queued the match to start in 5 seconds
+[09:39:00] BanchoBot: Match starts in 4 seconds
+[09:39:01] BanchoBot: Match starts in 3 seconds
+[09:39:02] BanchoBot: Good luck, have fun!
+[09:39:04] BanchoBot: The match has started!
+[09:42:30] BanchoBot: AccNome finished playing (Score: 323466, PASSED).
+[09:42:31] BanchoBot: Ayykk finished playing (Score: 199550, PASSED).
+[09:42:31] BanchoBot: FlatPaper finished playing (Score: 832087, PASSED).
+[09:42:32] BanchoBot: SapeSape finished playing (Score: 1174631, PASSED).
+[09:42:32] BanchoBot: The match has finished!
+[09:42:34] BCraftMG: !mp map 2955143
+[09:42:35] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2955143 Feryquitous Vo. F9 - Monochrome Anomaly
+[09:42:41] BCraftMG: !mp timer 120
+[09:42:42] BanchoBot: Countdown ends in 2 minutes
+[09:43:12] FlatPaper: bro
+[09:43:14] FlatPaper: i blinked after the spinner
+[09:43:15] FlatPaper: like
+[09:43:18] FlatPaper: fml
+[09:43:22] BanchoBot: All players are ready
+[09:43:28] BCraftMG: !mp settings
+[09:43:28] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q20), History: https://osu.ppy.sh/mp/120071854
+[09:43:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/2955143 Feryquitous Vo. F9 - Monochrome Anomaly
+[09:43:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[09:43:28] BanchoBot: Active mods: NoFail, DoubleTime
+[09:43:28] BanchoBot: Players: 4
+[09:43:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10976433 AccNome         
+[09:43:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19098393 Ayykk           
+[09:43:28] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11255340 FlatPaper       
+[09:43:28] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11477921 SapeSape        
+[09:43:30] BCraftMG: !mp start 5
+[09:43:31] BanchoBot: Countdown aborted
+[09:43:31] BanchoBot: Match starts in 5 seconds
+[09:43:31] BanchoBot: Queued the match to start in 5 seconds
+[09:43:32] BanchoBot: Match starts in 4 seconds
+[09:43:34] BanchoBot: Match starts in 3 seconds
+[09:43:34] BanchoBot: Good luck, have fun!
+[09:43:35] AccNome: glgl
+[09:43:36] BanchoBot: The match has started!
+[09:43:42] Ayykk: man i love tapping
+[09:46:12] BanchoBot: Ayykk finished playing (Score: 116605, PASSED).
+[09:46:12] BanchoBot: FlatPaper finished playing (Score: 744111, PASSED).
+[09:46:12] BanchoBot: AccNome finished playing (Score: 406367, PASSED).
+[09:46:12] BanchoBot: SapeSape finished playing (Score: 632249, PASSED).
+[09:46:12] BanchoBot: The match has finished!
+[09:46:21] BCraftMG: !mp map 3859477
+[09:46:22] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3859477 Death Grips - Hustle Bones
+[09:47:04] BanchoBot: All players are ready
+[09:47:11] Ayykk: glgl
+[09:47:13] BCraftMG: !mp settings
+[09:47:13] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q20), History: https://osu.ppy.sh/mp/120071854
+[09:47:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/3859477 Death Grips - Hustle Bones
+[09:47:13] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[09:47:13] BanchoBot: Active mods: NoFail, DoubleTime
+[09:47:13] BanchoBot: Players: 4
+[09:47:13] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10976433 AccNome         
+[09:47:13] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19098393 Ayykk           
+[09:47:13] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11255340 FlatPaper       
+[09:47:13] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11477921 SapeSape        
+[09:47:14] BCraftMG: !mp start 5
+[09:47:15] FlatPaper: hfhf
+[09:47:15] AccNome: glgl
+[09:47:15] BanchoBot: Match starts in 5 seconds
+[09:47:15] BanchoBot: Queued the match to start in 5 seconds
+[09:47:16] BanchoBot: Match starts in 4 seconds
+[09:47:17] BanchoBot: Match starts in 3 seconds
+[09:47:18] BanchoBot: Good luck, have fun!
+[09:47:20] BanchoBot: The match has started!
+[09:49:19] BanchoBot: FlatPaper finished playing (Score: 581478, PASSED).
+[09:49:19] BanchoBot: Ayykk finished playing (Score: 322112, PASSED).
+[09:49:19] BanchoBot: SapeSape finished playing (Score: 525628, PASSED).
+[09:49:27] BanchoBot: AccNome finished playing (Score: 314358, PASSED).
+[09:49:27] BanchoBot: The match has finished!
+[09:49:37] AccNome: how is dt3 more reading than hd2
+[09:49:41] BCraftMG: !mp map 4082981
+[09:49:42] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4082981 Frums - parvorbital
+[09:49:45] BCraftMG: !mp mods Freemod
+[09:49:46] BanchoBot: Disabled all mods, enabled FreeMod
+[09:49:47] BCraftMG: !mp timer 120
+[09:49:48] BanchoBot: Countdown ends in 2 minutes
+[09:49:48] Ayykk: untrue
+[09:50:17] AccNome: most true
+[09:50:21] SapeSape: 100k inc
+[09:50:29] BanchoBot: All players are ready
+[09:50:29] AccNome: this is combo game!
+[09:50:33] AccNome: get 1000 combo and win!
+[09:50:34] Ayykk: 100%
+[09:50:37] FlatPaper: hfhf
+[09:50:39] Ayykk: 1000?
+[09:50:41] AccNome: glgl
+[09:50:42] Ayykk: if i get 300 im happy
+[09:50:43] Ayykk: xdd
+[09:50:45] BCraftMG: !mp settings
+[09:50:45] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q20), History: https://osu.ppy.sh/mp/120071854
+[09:50:45] BanchoBot: Beatmap: https://osu.ppy.sh/b/4082981 Frums - parvorbital
+[09:50:45] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[09:50:45] BanchoBot: Active mods: Freemod
+[09:50:45] BanchoBot: Players: 4
+[09:50:45] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10976433 AccNome         [NoFail, Hidden]
+[09:50:45] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/19098393 Ayykk           [NoFail, HardRock]
+[09:50:45] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11255340 FlatPaper       [NoFail, HardRock]
+[09:50:45] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/11477921 SapeSape        [NoFail, Hidden]
+[09:50:48] BCraftMG: !mp start 5
+[09:50:48] BanchoBot: Countdown ends in 1 minute
+[09:50:49] BanchoBot: Countdown aborted
+[09:50:49] BanchoBot: Match starts in 5 seconds
+[09:50:49] BanchoBot: Queued the match to start in 5 seconds
+[09:50:50] BanchoBot: Match starts in 4 seconds
+[09:50:51] BanchoBot: Match starts in 3 seconds
+[09:50:52] BanchoBot: Good luck, have fun!
+[09:50:54] BanchoBot: The match has started!
+[09:53:36] BanchoBot: FlatPaper finished playing (Score: 803928, PASSED).
+[09:53:36] BanchoBot: Ayykk finished playing (Score: 302754, PASSED).
+[09:53:36] BanchoBot: SapeSape finished playing (Score: 314956, PASSED).
+[09:53:38] BanchoBot: AccNome finished playing (Score: 372374, PASSED).
+[09:53:38] BanchoBot: The match has finished!
+[09:53:48] SapeSape: nice score
+[09:53:53] FlatPaper: LOL what a sightread
+[09:53:53] FlatPaper: ty
+[09:53:53] Ayykk: real
+[09:53:55] AccNome: wtfreak man
+[09:53:57] SapeSape: ty for ref
+[09:54:01] FlatPaper: ty for ref
+[09:54:01] Ayykk: fr
+[09:54:03] AccNome: ty for ref
+[09:54:03] Ayykk: ty for refg
+[09:54:04] BCraftMG: ggwpp
+[09:54:05] Ayykk: u the goat
+[09:54:12] AccNome: go sleep well man
+[09:54:12] SapeSape: o//
+[09:54:13] BCraftMG: izz ok
+[09:54:13] AccNome: ggs
+[09:54:15] SapeSape: gngn
+[09:54:17] BanchoBot: SapeSape left the game.
+[09:54:19] AccNome: gl everyone else as well on getting drafted
+[09:54:21] BanchoBot: Ayykk left the game.
+[09:54:22] AccNome: gn
+[09:54:23] AccNome: o/
+[09:54:23] BanchoBot: AccNome left the game.
+[09:54:48] BanchoBot: FlatPaper left the game.
+[09:55:00] BCraftMG: !mp close
+[09:55:01] BanchoBot: Closed the match

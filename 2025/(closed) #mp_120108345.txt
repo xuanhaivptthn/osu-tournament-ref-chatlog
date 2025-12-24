@@ -1,0 +1,393 @@
+[06:56:13] Joined #mp_120108345
+[06:56:13] BCraftMG: !mp settings
+[06:56:13] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q37), History: https://osu.ppy.sh/mp/120108345
+[06:56:13] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[06:56:13] BanchoBot: Players: 0
+[06:56:35] BCraftMG: !mp invite Sidetracked Day
+[06:56:36] BanchoBot: Invited Sidetracked Day to the room
+[06:56:41] BCraftMG: !mp mods 1
+[06:56:41] BanchoBot: Enabled NoFail, disabled FreeMod
+[06:56:44] BCraftMG: !mp set 0 3 3
+[06:56:45] BanchoBot: Changed match settings to 3 slots, HeadToHead, ScoreV2
+[06:56:49] BCraftMG: !mp map 3632423
+[06:56:49] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3632423 Wakeshima Kanon - the BEAST can't BE STOpped
+[06:56:58] BanchoBot: Sidetracked Day joined in slot 1.
+[06:57:02] Sidetracked_Day: aloha
+[06:57:06] Sidetracked_Day: im so unready for this but lets do this
+[06:57:14] BCraftMG: gdey
+[06:57:23] BanchoBot: All players are ready
+[06:57:24] BCraftMG: !mp settings
+[06:57:25] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q37), History: https://osu.ppy.sh/mp/120108345
+[06:57:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/3632423 Wakeshima Kanon - the BEAST can't BE STOpped
+[06:57:25] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[06:57:25] BanchoBot: Active mods: NoFail
+[06:57:25] BanchoBot: Players: 1
+[06:57:25] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11081750 Sidetracked Day 
+[06:57:25] BCraftMG: !mp start 5
+[06:57:26] Sidetracked_Day: glhf play taiko
+[06:57:26] BanchoBot: Match starts in 5 seconds
+[06:57:26] BanchoBot: Queued the match to start in 5 seconds
+[06:57:27] BanchoBot: Match starts in 4 seconds
+[06:57:28] BanchoBot: Match starts in 3 seconds
+[06:57:29] BanchoBot: Good luck, have fun!
+[06:57:31] BanchoBot: The match has started!
+[07:00:59] BanchoBot: Sidetracked Day finished playing (Score: 321898, PASSED).
+[07:00:59] BanchoBot: The match has finished!
+[07:01:11] BCraftMG: !mp map 5122491
+[07:01:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5122491 Kardashev - Lux
+[07:01:27] Sidetracked_Day: PLEAAAASE DON'T FINGERLOCK PLEAAAAAASE
+[07:01:30] Sidetracked_Day: im yapping to myself :(
+[07:01:36] BanchoBot: All players are ready
+[07:01:40] BCraftMG: surely a player named sidetracked day wont miss on stream maps
+[07:01:40] BCraftMG: !mp settings
+[07:01:41] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q37), History: https://osu.ppy.sh/mp/120108345
+[07:01:41] BanchoBot: Beatmap: https://osu.ppy.sh/b/5122491 Kardashev - Lux
+[07:01:41] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[07:01:41] BanchoBot: Active mods: NoFail
+[07:01:41] BanchoBot: Players: 1
+[07:01:41] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11081750 Sidetracked Day 
+[07:01:41] BCraftMG: !mp start 5
+[07:01:42] BanchoBot: Match starts in 5 seconds
+[07:01:42] BanchoBot: Queued the match to start in 5 seconds
+[07:01:42] Sidetracked_Day: PLAY TAIKO GL MYSELF
+[07:01:43] BanchoBot: Match starts in 4 seconds
+[07:01:44] BanchoBot: Match starts in 3 seconds
+[07:01:45] BanchoBot: Good luck, have fun!
+[07:01:47] BanchoBot: The match has started!
+[07:03:30] BanchoBot: Sidetracked Day finished playing (Score: 255840, PASSED).
+[07:03:30] BanchoBot: The match has finished!
+[07:03:32] Sidetracked_Day: ????
+[07:03:32] Sidetracked_Day: HWAT
+[07:03:34] Sidetracked_Day: WAIT
+[07:03:35] BCraftMG: death
+[07:03:36] Sidetracked_Day: WHAT WHY DID IT
+[07:03:40] Sidetracked_Day: ????? why did it dc me
+[07:03:41] Sidetracked_Day: what
+[07:03:52] Sidetracked_Day: wait do I get a replay
+[07:03:54] Sidetracked_Day: or is it null
+[07:04:01] BCraftMG: uhhh
+[07:04:06] BCraftMG: one sec lemme calc the time
+[07:04:10] Sidetracked_Day: like idek what happened
+[07:04:11] Sidetracked_Day: wtf
+[07:04:20] BCraftMG: whats the supposed drain time for tthis
+[07:04:38] Sidetracked_Day: 3:07
+[07:05:07] BCraftMG: so 3:29 - 1:47
+[07:05:09] BCraftMG: 1:42
+[07:05:17] BCraftMG: did you press esc by any chance
+[07:05:21] Sidetracked_Day: I don't think I did
+[07:05:26] Sidetracked_Day: I might've accidently
+[07:05:30] Sidetracked_Day: but I don't think I did
+[07:05:44] BCraftMG: cuz thats the only logical explaination
+[07:05:59] BCraftMG: wait no
+[07:06:05] BCraftMG: then the score wont submit
+[07:06:07] BCraftMG: ok bancho dum
+[07:06:17] BCraftMG: ready up ill just replay this
+[07:06:24] Sidetracked_Day: ok tyyyyyy
+[07:06:32] BCraftMG: !mp settings
+[07:06:33] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q37), History: https://osu.ppy.sh/mp/120108345
+[07:06:33] BanchoBot: Beatmap: https://osu.ppy.sh/b/5122491 Kardashev - Lux
+[07:06:33] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[07:06:33] BanchoBot: Active mods: NoFail
+[07:06:33] BanchoBot: Players: 1
+[07:06:33] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/11081750 Sidetracked Day 
+[07:06:33] BanchoBot: All players are ready
+[07:06:34] Sidetracked_Day: srry aboput that
+[07:06:44] BCraftMG: just make sure to not press esc
+[07:06:54] Sidetracked_Day: ok
+[07:07:03] BCraftMG: game will kick you out immediately
+[07:07:04] BCraftMG: !mp start 5
+[07:07:05] BanchoBot: Match starts in 5 seconds
+[07:07:05] BanchoBot: Queued the match to start in 5 seconds
+[07:07:06] BanchoBot: Match starts in 4 seconds
+[07:07:07] BanchoBot: Match starts in 3 seconds
+[07:07:08] BanchoBot: Good luck, have fun!
+[07:07:10] BanchoBot: The match has started!
+[07:10:28] BanchoBot: Sidetracked Day finished playing (Score: 327108, PASSED).
+[07:10:28] BanchoBot: The match has finished!
+[07:10:31] Sidetracked_Day: :((((((
+[07:10:34] Sidetracked_Day: keyboard doubletapped
+[07:10:48] BCraftMG: welp
+[07:10:49] BCraftMG: !mp settings
+[07:10:50] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q37), History: https://osu.ppy.sh/mp/120108345
+[07:10:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/5122491 Kardashev - Lux
+[07:10:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[07:10:50] BanchoBot: Active mods: NoFail
+[07:10:50] BanchoBot: Players: 1
+[07:10:50] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/11081750 Sidetracked Day 
+[07:10:55] BCraftMG: !mp map 4673188
+[07:10:56] Sidetracked_Day: its whatever
+[07:10:56] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4673188 yama & Tatsuya Kitani - As I longed for
+[07:11:35] BanchoBot: All players are ready
+[07:11:39] Sidetracked_Day: glhf platy aioi
+[07:11:41] BCraftMG: !mp settings
+[07:11:42] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q37), History: https://osu.ppy.sh/mp/120108345
+[07:11:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/4673188 yama & Tatsuya Kitani - As I longed for
+[07:11:42] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[07:11:42] BanchoBot: Active mods: NoFail
+[07:11:42] BanchoBot: Players: 1
+[07:11:42] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11081750 Sidetracked Day 
+[07:11:44] BCraftMG: !mp start 5
+[07:11:45] BanchoBot: Match starts in 5 seconds
+[07:11:45] BanchoBot: Queued the match to start in 5 seconds
+[07:11:46] BanchoBot: Match starts in 4 seconds
+[07:11:47] BanchoBot: Match starts in 3 seconds
+[07:11:48] BanchoBot: Good luck, have fun!
+[07:11:50] BanchoBot: The match has started!
+[07:15:19] BanchoBot: Sidetracked Day finished playing (Score: 307410, PASSED).
+[07:15:19] BanchoBot: The match has finished!
+[07:15:42] Sidetracked_Day: :p
+[07:15:45] BCraftMG: !mp map 3668660
+[07:15:45] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3668660 Alkome - Trust it
+[07:15:55] BCraftMG: avg 300k lets go
+[07:16:09] Sidetracked_Day: HD and Hr2 nukes it but we gain on the dts trust
+[07:16:16] Sidetracked_Day: 300k average prayge
+[07:16:17] BCraftMG: LOL
+[07:16:20] BanchoBot: All players are ready
+[07:16:22] BCraftMG: !mp settings
+[07:16:23] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q37), History: https://osu.ppy.sh/mp/120108345
+[07:16:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/3668660 Alkome - Trust it
+[07:16:23] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[07:16:23] BanchoBot: Active mods: NoFail
+[07:16:23] BanchoBot: Players: 1
+[07:16:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11081750 Sidetracked Day 
+[07:16:23] BCraftMG: !mp start 5
+[07:16:24] BanchoBot: Match starts in 5 seconds
+[07:16:24] BanchoBot: Queued the match to start in 5 seconds
+[07:16:25] BanchoBot: Match starts in 4 seconds
+[07:16:26] BanchoBot: Match starts in 3 seconds
+[07:16:27] BanchoBot: Good luck, have fun!
+[07:16:28] Sidetracked_Day: hjfhf
+[07:16:29] BanchoBot: The match has started!
+[07:18:54] BanchoBot: Sidetracked Day finished playing (Score: 228118, PASSED).
+[07:18:54] BanchoBot: The match has finished!
+[07:19:05] Sidetracked_Day: Yuckey map
+[07:19:07] Sidetracked_Day: so icky
+[07:19:21] BCraftMG: !mp map 5427412
+[07:19:22] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5427412 Iglooghost - Echo Lace
+[07:19:36] Sidetracked_Day: ok surely I don't get 150k
+[07:19:37] Sidetracked_Day: right
+[07:19:50] BCraftMG: welllllll
+[07:19:54] BanchoBot: All players are ready
+[07:19:57] BCraftMG: !mp settings
+[07:19:57] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q37), History: https://osu.ppy.sh/mp/120108345
+[07:19:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/5427412 Iglooghost - Echo Lace
+[07:19:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[07:19:57] BanchoBot: Active mods: NoFail
+[07:19:57] BanchoBot: Players: 1
+[07:19:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11081750 Sidetracked Day 
+[07:19:57] BCraftMG: !mp start 5
+[07:19:58] BanchoBot: Match starts in 5 seconds
+[07:19:58] BanchoBot: Queued the match to start in 5 seconds
+[07:19:59] Sidetracked_Day: golf
+[07:19:59] BanchoBot: Match starts in 4 seconds
+[07:20:01] BanchoBot: Match starts in 3 seconds
+[07:20:01] BanchoBot: Good luck, have fun!
+[07:20:04] BanchoBot: The match has started!
+[07:23:01] BanchoBot: Sidetracked Day finished playing (Score: 189636, PASSED).
+[07:23:01] BanchoBot: The match has finished!
+[07:23:08] BCraftMG: !mp map 3748434
+[07:23:08] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3748434 Aitsuki Nakuru - Rest in Peace my Dear
+[07:23:09] Sidetracked_Day: wasn't 150
+[07:23:12] BCraftMG: hey thats more than 150
+[07:23:13] Sidetracked_Day: but some dum misses
+[07:23:15] BCraftMG: !mp mods 9
+[07:23:15] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[07:23:20] Sidetracked_Day: me when no map
+[07:23:23] Sidetracked_Day: im ready to drop 100k
+[07:23:46] BanchoBot: All players are ready
+[07:23:49] BCraftMG: !mp settings
+[07:23:50] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q37), History: https://osu.ppy.sh/mp/120108345
+[07:23:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/3748434 Aitsuki Nakuru - Rest in Peace my Dear
+[07:23:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[07:23:50] BanchoBot: Active mods: NoFail, Hidden
+[07:23:50] BanchoBot: Players: 1
+[07:23:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11081750 Sidetracked Day 
+[07:23:51] Sidetracked_Day: gl dont have fun this mod sucks
+[07:23:53] Sidetracked_Day: play taiko
+[07:23:54] BCraftMG: !mp start 5
+[07:23:55] BanchoBot: Match starts in 5 seconds
+[07:23:55] BanchoBot: Queued the match to start in 5 seconds
+[07:23:56] BanchoBot: Match starts in 4 seconds
+[07:23:58] BanchoBot: Match starts in 3 seconds
+[07:23:58] BanchoBot: Good luck, have fun!
+[07:24:01] BanchoBot: The match has started!
+[07:28:26] BanchoBot: Sidetracked Day finished playing (Score: 228272, PASSED).
+[07:28:26] BanchoBot: The match has finished!
+[07:28:35] BCraftMG: !mp map 4841047
+[07:28:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4841047 HARU NEMURI - lostplanet
+[07:28:38] BCraftMG: damn
+[07:28:44] Sidetracked_Day: Least annoying Hd1
+[07:29:10] BanchoBot: All players are ready
+[07:29:13] BCraftMG: !mp settings
+[07:29:14] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q37), History: https://osu.ppy.sh/mp/120108345
+[07:29:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/4841047 HARU NEMURI - lostplanet
+[07:29:14] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[07:29:14] BanchoBot: Active mods: NoFail, Hidden
+[07:29:14] BanchoBot: Players: 1
+[07:29:14] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11081750 Sidetracked Day 
+[07:29:15] BCraftMG: !mp start 5
+[07:29:15] Sidetracked_Day: oh naur
+[07:29:15] BanchoBot: Match starts in 5 seconds
+[07:29:15] BanchoBot: Queued the match to start in 5 seconds
+[07:29:16] BanchoBot: Match starts in 4 seconds
+[07:29:17] BanchoBot: Match starts in 3 seconds
+[07:29:18] BanchoBot: Good luck, have fun!
+[07:29:21] BanchoBot: The match has started!
+[07:32:03] BanchoBot: Sidetracked Day finished playing (Score: 134973, PASSED).
+[07:32:03] BanchoBot: The match has finished!
+[07:32:09] BCraftMG: !mp map 2386204
+[07:32:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2386204 Myrath - Dance
+[07:32:12] BCraftMG: !mp mods 17
+[07:32:13] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[07:32:16] BCraftMG: clearly not a hidden enjoyer
+[07:32:19] BCraftMG: i am sad now
+[07:32:23] Sidetracked_Day: Im fine with Hd2
+[07:32:24] Sidetracked_Day: but like
+[07:32:25] Sidetracked_Day: that hd2 sucks
+[07:32:40] BanchoBot: All players are ready
+[07:32:43] BCraftMG: !mp settings
+[07:32:44] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q37), History: https://osu.ppy.sh/mp/120108345
+[07:32:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/2386204 Myrath - Dance
+[07:32:44] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[07:32:44] BanchoBot: Active mods: NoFail, HardRock
+[07:32:44] BanchoBot: Players: 1
+[07:32:44] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11081750 Sidetracked Day 
+[07:32:45] BCraftMG: !mp start 5
+[07:32:45] BanchoBot: Match starts in 5 seconds
+[07:32:45] BanchoBot: Queued the match to start in 5 seconds
+[07:32:46] BanchoBot: Match starts in 4 seconds
+[07:32:48] BanchoBot: Match starts in 3 seconds
+[07:32:48] BanchoBot: Good luck, have fun!
+[07:32:51] BanchoBot: The match has started!
+[07:36:41] BanchoBot: Sidetracked Day finished playing (Score: 321030, PASSED).
+[07:36:41] BanchoBot: The match has finished!
+[07:36:49] BCraftMG: !mp map 5427895
+[07:36:50] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5427895 Beabadoobee - the perfect pair (Official Live Ver.)
+[07:37:03] Sidetracked_Day: cs7.15
+[07:37:04] Sidetracked_Day: oh no.
+[07:37:09] Sidetracked_Day: my area cannot handle this
+[07:37:28] BCraftMG: small area gang
+[07:37:34] Sidetracked_Day: about to drop the meanest 100k of my life
+[07:37:39] Sidetracked_Day: (i have a 25x20mm area
+[07:37:41] BanchoBot: All players are ready
+[07:37:43] BCraftMG: wtf
+[07:37:44] BCraftMG: !mp settings
+[07:37:44] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q37), History: https://osu.ppy.sh/mp/120108345
+[07:37:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/5427895 Beabadoobee - the perfect pair (Official Live Ver.)
+[07:37:44] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[07:37:44] BanchoBot: Active mods: NoFail, HardRock
+[07:37:44] BanchoBot: Players: 1
+[07:37:44] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11081750 Sidetracked Day 
+[07:37:46] BCraftMG: !mp start 5
+[07:37:46] BanchoBot: Match starts in 5 seconds
+[07:37:46] BanchoBot: Queued the match to start in 5 seconds
+[07:37:47] BanchoBot: Match starts in 4 seconds
+[07:37:48] BanchoBot: Match starts in 3 seconds
+[07:37:50] BanchoBot: Good luck, have fun!
+[07:37:51] BanchoBot: The match has started!
+[07:40:53] BanchoBot: Sidetracked Day finished playing (Score: 145851, PASSED).
+[07:40:53] BanchoBot: The match has finished!
+[07:40:59] BCraftMG: !mp map 2921884
+[07:40:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2921884 Pendulum - The Fountain (feat. Steven Wilson)
+[07:41:00] Sidetracked_Day: precision player
+[07:41:04] BCraftMG: !mp mods 65
+[07:41:04] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[07:41:15] BCraftMG: true and real
+[07:41:48] BanchoBot: All players are ready
+[07:41:50] BCraftMG: !mp settings
+[07:41:51] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q37), History: https://osu.ppy.sh/mp/120108345
+[07:41:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/2921884 Pendulum - The Fountain (feat. Steven Wilson)
+[07:41:51] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[07:41:51] BanchoBot: Active mods: NoFail, DoubleTime
+[07:41:51] BanchoBot: Players: 1
+[07:41:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11081750 Sidetracked Day 
+[07:41:51] Sidetracked_Day: 200k time
+[07:41:52] BCraftMG: !mp start 5
+[07:41:53] BanchoBot: Match starts in 5 seconds
+[07:41:53] BanchoBot: Queued the match to start in 5 seconds
+[07:41:54] BanchoBot: Match starts in 4 seconds
+[07:41:55] BanchoBot: Match starts in 3 seconds
+[07:41:56] BanchoBot: Good luck, have fun!
+[07:41:57] Sidetracked_Day: (I cannot play bursts above 240)
+[07:41:58] BanchoBot: The match has started!
+[07:45:24] BanchoBot: Sidetracked Day finished playing (Score: 198257, PASSED).
+[07:45:24] BanchoBot: The match has finished!
+[07:45:27] Sidetracked_Day: 200k
+[07:45:33] BCraftMG: !mp map 2955143
+[07:45:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2955143 Feryquitous Vo. F9 - Monochrome Anomaly
+[07:45:36] BCraftMG: gud enuff
+[07:45:52] Sidetracked_Day: my ass is NOT getting 300k average
+[07:45:54] Sidetracked_Day: not after that nm2
+[07:46:06] Sidetracked_Day: I have a HR 4 miss on that nm2 :((((((
+[07:46:23] BanchoBot: All players are ready
+[07:46:24] BCraftMG: !mp settings
+[07:46:24] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q37), History: https://osu.ppy.sh/mp/120108345
+[07:46:24] BanchoBot: Beatmap: https://osu.ppy.sh/b/2955143 Feryquitous Vo. F9 - Monochrome Anomaly
+[07:46:24] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[07:46:24] BanchoBot: Active mods: NoFail, DoubleTime
+[07:46:24] BanchoBot: Players: 1
+[07:46:24] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11081750 Sidetracked Day 
+[07:46:29] BCraftMG: !mp start 5
+[07:46:29] BanchoBot: Match starts in 5 seconds
+[07:46:29] BanchoBot: Queued the match to start in 5 seconds
+[07:46:30] BanchoBot: Match starts in 4 seconds
+[07:46:32] BanchoBot: Match starts in 3 seconds
+[07:46:33] BanchoBot: Good luck, have fun!
+[07:46:35] BanchoBot: The match has started!
+[07:49:08] BanchoBot: Sidetracked Day finished playing (Score: 199017, PASSED).
+[07:49:08] BanchoBot: The match has finished!
+[07:49:13] BCraftMG: !mp map 3859477
+[07:49:13] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3859477 Death Grips - Hustle Bones
+[07:49:20] BCraftMG: we take 200k
+[07:49:30] BanchoBot: All players are ready
+[07:49:34] BCraftMG: (i do not represent the doi staff team)
+[07:49:34] BCraftMG: !mp settings
+[07:49:35] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q37), History: https://osu.ppy.sh/mp/120108345
+[07:49:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/3859477 Death Grips - Hustle Bones
+[07:49:35] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[07:49:35] BanchoBot: Active mods: NoFail, DoubleTime
+[07:49:35] BanchoBot: Players: 1
+[07:49:35] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11081750 Sidetracked Day 
+[07:49:35] BCraftMG: !mp start 5
+[07:49:36] BanchoBot: Match starts in 5 seconds
+[07:49:36] BanchoBot: Queued the match to start in 5 seconds
+[07:49:37] BanchoBot: Match starts in 4 seconds
+[07:49:38] BanchoBot: Match starts in 3 seconds
+[07:49:39] BanchoBot: Good luck, have fun!
+[07:49:41] BanchoBot: The match has started!
+[07:51:40] BanchoBot: Sidetracked Day finished playing (Score: 349178, PASSED).
+[07:51:40] BanchoBot: The match has finished!
+[07:51:45] Sidetracked_Day: rip 400k
+[07:51:50] Sidetracked_Day: legit worst shitmisses of all time
+[07:51:51] BCraftMG: !mp map 4082981
+[07:51:51] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4082981 Frums - parvorbital
+[07:51:52] BCraftMG: !mp mods Freemod
+[07:51:53] BanchoBot: Disabled all mods, enabled FreeMod
+[07:52:23] BanchoBot: All players are ready
+[07:52:25] BCraftMG: !mp settings
+[07:52:26] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q37), History: https://osu.ppy.sh/mp/120108345
+[07:52:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/4082981 Frums - parvorbital
+[07:52:26] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[07:52:26] BanchoBot: Active mods: Freemod
+[07:52:26] BanchoBot: Players: 1
+[07:52:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11081750 Sidetracked Day [NoFail, HardRock]
+[07:52:28] BCraftMG: !mp start 5
+[07:52:29] BanchoBot: Match starts in 5 seconds
+[07:52:29] BanchoBot: Queued the match to start in 5 seconds
+[07:52:30] BanchoBot: Match starts in 4 seconds
+[07:52:31] BanchoBot: Match starts in 3 seconds
+[07:52:32] BanchoBot: Good luck, have fun!
+[07:52:34] BanchoBot: The match has started!
+[07:55:15] BanchoBot: Sidetracked Day finished playing (Score: 326597, PASSED).
+[07:55:15] BanchoBot: The match has finished!
+[07:55:21] BCraftMG: yey
+[07:55:21] Sidetracked_Day: my accccccc :(
+[07:55:23] Sidetracked_Day: cool combo tho
+[07:55:30] Sidetracked_Day: not 300k but kinda threw a bunch
+[07:55:59] Sidetracked_Day: okeyyyy
+[07:56:00] Sidetracked_Day: o7
+[07:56:01] Sidetracked_Day: ty for ref
+[07:56:05] BCraftMG: o/
+[07:56:10] BanchoBot: Sidetracked Day left the game.
+[07:56:23] BCraftMG: !mp close
+[07:56:23] BanchoBot: Closed the match

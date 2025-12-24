@@ -1,0 +1,409 @@
+[20:51:26] Joined #mp_120056841
+[20:51:26] BCraftMG: !mp settings
+[20:51:27] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q2), History: https://osu.ppy.sh/mp/120056841
+[20:51:27] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[20:51:27] BanchoBot: Players: 0
+[20:51:42] BCraftMG: !mp set 0 3 16
+[20:51:43] BanchoBot: Changed match settings to 16 slots, HeadToHead, ScoreV2
+[20:51:51] BCraftMG: !mp map 3632423
+[20:51:52] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3632423 Wakeshima Kanon - the BEAST can't BE STOpped
+[20:51:55] BCraftMG: !mp mods nf
+[20:51:55] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:52:49] BCraftMG: !mp invite nikzz
+[20:52:50] BanchoBot: Invited nikzz to the room
+[20:52:51] BCraftMG: !mp invite Mike Wazowski
+[20:52:52] BanchoBot: Invited Mike Wazowski to the room
+[20:52:54] BCraftMG: !mp invite pizzouilleee
+[20:52:54] BanchoBot: Invited pizzouilleee to the room
+[20:54:11] BanchoBot: nikzz joined in slot 1.
+[20:54:12] BanchoBot: pizzouilleee joined in slot 2.
+[20:54:18] pizzouilleee: YO
+[20:54:26] nikzz: o/
+[20:54:29] BanchoBot: Mike Wazowski joined in slot 3.
+[20:54:33] BCraftMG: gday
+[20:54:42] Mike_Wazowski: gmorning
+[20:55:28] BanchoBot: All players are ready
+[20:55:32] BCraftMG: ready whemn you are
+[20:55:32] BCraftMG: !mp settings
+[20:55:34] Mike_Wazowski: glhf :3
+[20:55:34] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q2), History: https://osu.ppy.sh/mp/120056841
+[20:55:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/3632423 Wakeshima Kanon - the BEAST can't BE STOpped
+[20:55:34] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:55:34] BanchoBot: Active mods: NoFail
+[20:55:34] BanchoBot: Players: 3
+[20:55:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10565375 nikzz           
+[20:55:34] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16417954 pizzouilleee    
+[20:55:34] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11996209 Mike Wazowski   
+[20:55:40] BCraftMG: !mp start 5
+[20:55:41] nikzz: glhf
+[20:55:41] BanchoBot: Match starts in 5 seconds
+[20:55:41] BanchoBot: Queued the match to start in 5 seconds
+[20:55:42] BanchoBot: Match starts in 4 seconds
+[20:55:43] BanchoBot: Match starts in 3 seconds
+[20:55:44] BanchoBot: Good luck, have fun!
+[20:55:46] pizzouilleee: glhf
+[20:55:46] BanchoBot: The match has started!
+[20:59:15] BanchoBot: Mike Wazowski finished playing (Score: 412013, PASSED).
+[20:59:15] BanchoBot: pizzouilleee finished playing (Score: 351320, PASSED).
+[20:59:16] BanchoBot: nikzz finished playing (Score: 316488, PASSED).
+[20:59:16] BanchoBot: The match has finished!
+[20:59:20] BCraftMG: !mp map 5122491
+[20:59:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5122491 Kardashev - Lux
+[20:59:37] Mike_Wazowski: damn i missed hte beginning bc i thought my scoreboard was on lol
+[20:59:51] BanchoBot: All players are ready
+[20:59:53] BCraftMG: !mp settings
+[20:59:54] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q2), History: https://osu.ppy.sh/mp/120056841
+[20:59:54] BanchoBot: Beatmap: https://osu.ppy.sh/b/5122491 Kardashev - Lux
+[20:59:54] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:59:54] BanchoBot: Active mods: NoFail
+[20:59:54] BanchoBot: Players: 3
+[20:59:54] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10565375 nikzz           
+[20:59:54] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16417954 pizzouilleee    
+[20:59:54] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11996209 Mike Wazowski   
+[20:59:55] BCraftMG: !mp start 5
+[20:59:56] BanchoBot: Match starts in 5 seconds
+[20:59:56] BanchoBot: Queued the match to start in 5 seconds
+[20:59:59] BanchoBot: Match starts in 4 seconds
+[20:59:59] BanchoBot: Match starts in 3 seconds
+[20:59:59] BanchoBot: Good luck, have fun!
+[21:00:01] BanchoBot: The match has started!
+[21:00:02] Mike_Wazowski: glhf
+[21:03:32] BanchoBot: Mike Wazowski finished playing (Score: 273267, PASSED).
+[21:03:35] BanchoBot: pizzouilleee finished playing (Score: 387712, PASSED).
+[21:04:07] BanchoBot: nikzz finished playing (Score: 277741, PASSED).
+[21:04:07] BanchoBot: The match has finished!
+[21:04:14] BCraftMG: !mp map 4673188
+[21:04:15] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4673188 yama & Tatsuya Kitani - As I longed for
+[21:04:20] Mike_Wazowski: two of my 900ks turned to sub 300
+[21:04:22] Mike_Wazowski: yeah gg
+[21:04:36] pizzouilleee: worst play of my locals xd
+[21:04:51] Mike_Wazowski: same i actually pooped the bed
+[21:05:07] nikzz: is bancho dying only for me
+[21:05:07] nikzz: lemme restart my game
+[21:05:29] BCraftMG: im supposed to put timer
+[21:05:34] BCraftMG: but i forgor
+[21:05:41] BCraftMG: oops
+[21:05:48] BanchoBot: nikzz left the game.
+[21:06:12] BCraftMG: !mp invite nikzz
+[21:06:13] BanchoBot: Invited nikzz to the room
+[21:06:15] BanchoBot: nikzz joined in slot 1.
+[21:06:34] nikzz: i had this firetruckass connection icon for the whole nm2 i'm gonna crash out
+[21:06:38] nikzz: sry
+[21:06:39] BanchoBot: All players are ready
+[21:06:40] BCraftMG: !mp settings
+[21:06:41] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q2), History: https://osu.ppy.sh/mp/120056841
+[21:06:41] BanchoBot: Beatmap: https://osu.ppy.sh/b/4673188 yama & Tatsuya Kitani - As I longed for
+[21:06:41] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:06:41] BanchoBot: Active mods: NoFail
+[21:06:41] BanchoBot: Players: 3
+[21:06:41] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10565375 nikzz           
+[21:06:41] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16417954 pizzouilleee    
+[21:06:41] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11996209 Mike Wazowski   
+[21:06:43] BCraftMG: !mp start 5
+[21:06:43] pizzouilleee: all good
+[21:06:43] BanchoBot: Match starts in 5 seconds
+[21:06:43] BanchoBot: Queued the match to start in 5 seconds
+[21:06:44] BanchoBot: Match starts in 4 seconds
+[21:06:46] BanchoBot: Match starts in 3 seconds
+[21:06:47] BanchoBot: Good luck, have fun!
+[21:06:49] BanchoBot: The match has started!
+[21:10:18] BanchoBot: pizzouilleee finished playing (Score: 295931, PASSED).
+[21:10:18] BanchoBot: nikzz finished playing (Score: 346885, PASSED).
+[21:10:18] BanchoBot: Mike Wazowski finished playing (Score: 231197, PASSED).
+[21:10:18] BanchoBot: The match has finished!
+[21:10:25] BCraftMG: !mp map 3668660
+[21:10:25] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3668660 Alkome - Trust it
+[21:10:27] BCraftMG: !mp timer 120
+[21:10:28] BanchoBot: Countdown ends in 2 minutes
+[21:10:32] Mike_Wazowski: performing out of my mind
+[21:10:49] pizzouilleee: are we cooked ? i can tell we all are performing bad
+[21:11:01] BanchoBot: All players are ready
+[21:11:03] BCraftMG: !mp settings
+[21:11:04] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q2), History: https://osu.ppy.sh/mp/120056841
+[21:11:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/3668660 Alkome - Trust it
+[21:11:04] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:11:04] BanchoBot: Active mods: NoFail
+[21:11:04] BanchoBot: Players: 3
+[21:11:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10565375 nikzz           
+[21:11:04] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16417954 pizzouilleee    
+[21:11:04] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11996209 Mike Wazowski   
+[21:11:07] BCraftMG: !mp start 5
+[21:11:07] BanchoBot: Countdown aborted
+[21:11:07] BanchoBot: Match starts in 5 seconds
+[21:11:07] BanchoBot: Queued the match to start in 5 seconds
+[21:11:09] BanchoBot: Match starts in 4 seconds
+[21:11:10] BanchoBot: Match starts in 3 seconds
+[21:11:11] BanchoBot: Good luck, have fun!
+[21:11:12] pizzouilleee: glgl
+[21:11:13] BanchoBot: The match has started!
+[21:11:13] Mike_Wazowski: no bc those were my only good skillsets
+[21:11:19] Mike_Wazowski: im actrually cooked
+[21:13:38] BanchoBot: pizzouilleee finished playing (Score: 236079, PASSED).
+[21:13:38] BanchoBot: nikzz finished playing (Score: 311190, PASSED).
+[21:13:39] BanchoBot: Mike Wazowski finished playing (Score: 268860, PASSED).
+[21:13:39] BanchoBot: The match has finished!
+[21:13:46] BCraftMG: !mp map 5427412
+[21:13:47] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5427412 Iglooghost - Echo Lace
+[21:13:57] nikzz: nm2 was supposed to be my best map out of those
+[21:14:06] pizzouilleee: same
+[21:14:15] nikzz: it's ok...
+[21:14:17] BanchoBot: All players are ready
+[21:14:20] Mike_Wazowski: i did a test lobby and got 900k on nm1 and 2 and then drop those
+[21:14:28] BCraftMG: !mp settings
+[21:14:30] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q2), History: https://osu.ppy.sh/mp/120056841
+[21:14:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/5427412 Iglooghost - Echo Lace
+[21:14:30] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:14:30] BanchoBot: Active mods: NoFail
+[21:14:30] BanchoBot: Players: 3
+[21:14:30] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10565375 nikzz           
+[21:14:30] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16417954 pizzouilleee    
+[21:14:30] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11996209 Mike Wazowski   
+[21:14:31] BCraftMG: !mp start 5
+[21:14:31] BanchoBot: Match starts in 5 seconds
+[21:14:31] BanchoBot: Queued the match to start in 5 seconds
+[21:14:32] BanchoBot: Match starts in 4 seconds
+[21:14:33] BanchoBot: Match starts in 3 seconds
+[21:14:35] BanchoBot: Good luck, have fun!
+[21:14:37] BanchoBot: The match has started!
+[21:17:03] Mike_Wazowski: anti fun map
+[21:17:40] BanchoBot: Mike Wazowski finished playing (Score: 55301, PASSED).
+[21:17:41] BanchoBot: pizzouilleee finished playing (Score: 106197, PASSED).
+[21:17:41] BanchoBot: nikzz finished playing (Score: 227603, PASSED).
+[21:17:41] BanchoBot: The match has finished!
+[21:17:47] BCraftMG: !mp map 3748434
+[21:17:47] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3748434 Aitsuki Nakuru - Rest in Peace my Dear
+[21:17:54] BCraftMG: sounds about right
+[21:17:56] BCraftMG: !mp mods hd nf
+[21:17:57] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:17:58] BCraftMG: !mp timer 120
+[21:17:59] BanchoBot: Countdown ends in 2 minutes
+[21:18:23] BanchoBot: All players are ready
+[21:18:27] BCraftMG: !mp settings
+[21:18:28] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q2), History: https://osu.ppy.sh/mp/120056841
+[21:18:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/3748434 Aitsuki Nakuru - Rest in Peace my Dear
+[21:18:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:18:28] BanchoBot: Active mods: NoFail, Hidden
+[21:18:28] BanchoBot: Players: 3
+[21:18:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10565375 nikzz           
+[21:18:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16417954 pizzouilleee    
+[21:18:28] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11996209 Mike Wazowski   
+[21:18:31] BCraftMG: !mp start 5
+[21:18:31] BanchoBot: Countdown aborted
+[21:18:31] BanchoBot: Match starts in 5 seconds
+[21:18:31] BanchoBot: Queued the match to start in 5 seconds
+[21:18:33] BanchoBot: Match starts in 4 seconds
+[21:18:34] BanchoBot: Match starts in 3 seconds
+[21:18:35] BanchoBot: Good luck, have fun!
+[21:18:37] BanchoBot: The match has started!
+[21:23:04] BanchoBot: nikzz finished playing (Score: 262980, PASSED).
+[21:23:04] BanchoBot: Mike Wazowski finished playing (Score: 182141, PASSED).
+[21:23:04] BanchoBot: pizzouilleee finished playing (Score: 224167, PASSED).
+[21:23:04] BanchoBot: The match has finished!
+[21:23:11] BCraftMG: !mp map 4841047
+[21:23:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4841047 HARU NEMURI - lostplanet
+[21:23:16] pizzouilleee: crazy sightread
+[21:23:28] BCraftMG: !mp timer 120
+[21:23:29] BanchoBot: Countdown ends in 2 minutes
+[21:23:35] Mike_Wazowski: usually my teammates play hd...
+[21:23:42] BanchoBot: All players are ready
+[21:23:46] BCraftMG: !mp settings
+[21:23:46] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q2), History: https://osu.ppy.sh/mp/120056841
+[21:23:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/4841047 HARU NEMURI - lostplanet
+[21:23:46] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:23:46] BanchoBot: Active mods: NoFail, Hidden
+[21:23:46] BanchoBot: Players: 3
+[21:23:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10565375 nikzz           
+[21:23:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16417954 pizzouilleee    
+[21:23:46] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11996209 Mike Wazowski   
+[21:23:49] BCraftMG: !mp start 5
+[21:23:49] pizzouilleee: gl o7
+[21:23:54] BanchoBot: Countdown aborted
+[21:23:54] BanchoBot: Match starts in 5 seconds
+[21:23:54] BanchoBot: Queued the match to start in 5 seconds
+[21:23:54] BanchoBot: Match starts in 4 seconds
+[21:23:54] BanchoBot: Match starts in 3 seconds
+[21:23:54] BanchoBot: Good luck, have fun!
+[21:23:55] BanchoBot: The match has started!
+[21:26:38] BanchoBot: Mike Wazowski finished playing (Score: 22594, PASSED).
+[21:26:38] BanchoBot: pizzouilleee finished playing (Score: 76600, PASSED).
+[21:26:39] BanchoBot: nikzz finished playing (Score: 318426, PASSED).
+[21:26:39] BanchoBot: The match has finished!
+[21:26:43] BCraftMG: !mp map 2386204
+[21:26:44] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2386204 Myrath - Dance
+[21:26:47] BCraftMG: !mp mods hr nf
+[21:26:48] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[21:27:47] BanchoBot: All players are ready
+[21:27:52] BCraftMG: !mp settings
+[21:27:53] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q2), History: https://osu.ppy.sh/mp/120056841
+[21:27:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/2386204 Myrath - Dance
+[21:27:53] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:27:53] BanchoBot: Active mods: NoFail, HardRock
+[21:27:53] BanchoBot: Players: 3
+[21:27:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10565375 nikzz           
+[21:27:53] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16417954 pizzouilleee    
+[21:27:53] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11996209 Mike Wazowski   
+[21:27:53] BCraftMG: !mp start 5
+[21:27:54] BanchoBot: Match starts in 5 seconds
+[21:27:54] BanchoBot: Queued the match to start in 5 seconds
+[21:27:55] BanchoBot: Match starts in 4 seconds
+[21:27:56] BanchoBot: Match starts in 3 seconds
+[21:27:57] BanchoBot: Good luck, have fun!
+[21:27:59] BanchoBot: The match has started!
+[21:31:51] BanchoBot: Mike Wazowski finished playing (Score: 264492, PASSED).
+[21:31:52] BanchoBot: nikzz finished playing (Score: 336901, PASSED).
+[21:31:53] BanchoBot: pizzouilleee finished playing (Score: 577889, PASSED).
+[21:31:53] BanchoBot: The match has finished!
+[21:31:58] BCraftMG: !mp map 5427895
+[21:31:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5427895 Beabadoobee - the perfect pair (Official Live Ver.)
+[21:32:08] pizzouilleee: sightread going crazy
+[21:32:12] nikzz: humiliation ritual hr2
+[21:32:14] Mike_Wazowski: genuinely scoring lowest on locals
+[21:32:29] Mike_Wazowski: is this map fixed yet
+[21:32:30] pizzouilleee: i didnt even downloaded this 0ne...
+[21:32:33] Mike_Wazowski: i remember it being so mistimed
+[21:32:53] nikzz: idk
+[21:33:09] BanchoBot: All players are ready
+[21:33:15] nikzz: i played it and only felt skill issue
+[21:33:17] BCraftMG: !mp settings
+[21:33:18] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q2), History: https://osu.ppy.sh/mp/120056841
+[21:33:18] BanchoBot: Beatmap: https://osu.ppy.sh/b/5427895 Beabadoobee - the perfect pair (Official Live Ver.)
+[21:33:18] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:33:18] BanchoBot: Active mods: NoFail, HardRock
+[21:33:18] BanchoBot: Players: 3
+[21:33:18] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10565375 nikzz           
+[21:33:18] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16417954 pizzouilleee    
+[21:33:18] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11996209 Mike Wazowski   
+[21:33:18] BCraftMG: !mp start 5
+[21:33:19] nikzz: rather than timing
+[21:33:19] BanchoBot: Match starts in 5 seconds
+[21:33:19] BanchoBot: Queued the match to start in 5 seconds
+[21:33:21] BanchoBot: Match starts in 4 seconds
+[21:33:22] BanchoBot: Match starts in 3 seconds
+[21:33:23] BanchoBot: Good luck, have fun!
+[21:33:25] BanchoBot: The match has started!
+[21:36:28] BanchoBot: Mike Wazowski finished playing (Score: 239520, PASSED).
+[21:36:28] BanchoBot: pizzouilleee finished playing (Score: 308160, PASSED).
+[21:36:29] BanchoBot: nikzz finished playing (Score: 206655, PASSED).
+[21:36:29] BanchoBot: The match has finished!
+[21:36:38] BCraftMG: !mp map 2921884
+[21:36:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2921884 Pendulum - The Fountain (feat. Steven Wilson)
+[21:36:43] BCraftMG: !mp mods dt nf
+[21:36:43] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:36:52] pizzouilleee: maybe if i was not sightreading i couldve drop a cool score lol
+[21:37:31] BanchoBot: All players are ready
+[21:37:37] BCraftMG: !mp settings
+[21:37:38] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q2), History: https://osu.ppy.sh/mp/120056841
+[21:37:38] BanchoBot: Beatmap: https://osu.ppy.sh/b/2921884 Pendulum - The Fountain (feat. Steven Wilson)
+[21:37:38] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:37:38] BanchoBot: Active mods: NoFail, DoubleTime
+[21:37:38] BanchoBot: Players: 3
+[21:37:38] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10565375 nikzz           
+[21:37:38] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16417954 pizzouilleee    
+[21:37:38] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11996209 Mike Wazowski   
+[21:37:39] BCraftMG: !mp start 5
+[21:37:40] BanchoBot: Match starts in 5 seconds
+[21:37:40] BanchoBot: Queued the match to start in 5 seconds
+[21:37:41] BanchoBot: Match starts in 4 seconds
+[21:37:42] BanchoBot: Match starts in 3 seconds
+[21:37:43] BanchoBot: Good luck, have fun!
+[21:37:45] BanchoBot: The match has started!
+[21:41:12] BanchoBot: pizzouilleee finished playing (Score: 363206, PASSED).
+[21:41:12] BanchoBot: Mike Wazowski finished playing (Score: 275124, PASSED).
+[21:41:13] BanchoBot: nikzz finished playing (Score: 396744, PASSED).
+[21:41:13] BanchoBot: The match has finished!
+[21:41:18] BCraftMG: !mp map 2955143
+[21:41:18] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2955143 Feryquitous Vo. F9 - Monochrome Anomaly
+[21:41:19] nikzz: reading map
+[21:41:36] Mike_Wazowski: atp im just playing for the love of the game
+[21:42:07] BanchoBot: All players are ready
+[21:42:11] BCraftMG: !mp settings
+[21:42:12] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q2), History: https://osu.ppy.sh/mp/120056841
+[21:42:12] BanchoBot: Beatmap: https://osu.ppy.sh/b/2955143 Feryquitous Vo. F9 - Monochrome Anomaly
+[21:42:12] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:42:12] BanchoBot: Active mods: NoFail, DoubleTime
+[21:42:12] BanchoBot: Players: 3
+[21:42:12] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10565375 nikzz           
+[21:42:12] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16417954 pizzouilleee    
+[21:42:12] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11996209 Mike Wazowski   
+[21:42:13] BCraftMG: !mp start 5
+[21:42:14] BanchoBot: Match starts in 5 seconds
+[21:42:14] BanchoBot: Queued the match to start in 5 seconds
+[21:42:15] BanchoBot: Match starts in 4 seconds
+[21:42:16] BanchoBot: Match starts in 3 seconds
+[21:42:17] BanchoBot: Good luck, have fun!
+[21:42:20] BanchoBot: The match has started!
+[21:44:55] BanchoBot: Mike Wazowski finished playing (Score: 125985, PASSED).
+[21:44:56] BanchoBot: pizzouilleee finished playing (Score: 311435, PASSED).
+[21:44:56] BanchoBot: nikzz finished playing (Score: 496706, PASSED).
+[21:44:56] BanchoBot: The match has finished!
+[21:44:58] BCraftMG: !mp map 3859477
+[21:44:58] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3859477 Death Grips - Hustle Bones
+[21:45:07] nikzz: nah it's so doomed
+[21:45:09] pizzouilleee: i dont like this dt2
+[21:45:27] Mike_Wazowski: no more playing to qual
+[21:45:29] Mike_Wazowski: play to play
+[21:45:30] nikzz: all dts are reading tests in disguise
+[21:45:32] nikzz: like actually
+[21:45:42] pizzouilleee: fr
+[21:45:48] BanchoBot: All players are ready
+[21:45:50] BCraftMG: !mp settings
+[21:45:51] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q2), History: https://osu.ppy.sh/mp/120056841
+[21:45:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/3859477 Death Grips - Hustle Bones
+[21:45:51] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:45:51] BanchoBot: Active mods: NoFail, DoubleTime
+[21:45:51] BanchoBot: Players: 3
+[21:45:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10565375 nikzz           
+[21:45:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16417954 pizzouilleee    
+[21:45:51] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11996209 Mike Wazowski   
+[21:45:52] BCraftMG: !mp start 5
+[21:45:53] BanchoBot: Match starts in 5 seconds
+[21:45:53] BanchoBot: Queued the match to start in 5 seconds
+[21:45:54] BanchoBot: Match starts in 4 seconds
+[21:45:56] BanchoBot: Match starts in 3 seconds
+[21:45:57] BanchoBot: Good luck, have fun!
+[21:45:59] BanchoBot: The match has started!
+[21:47:58] BanchoBot: nikzz finished playing (Score: 356148, PASSED).
+[21:47:58] BanchoBot: pizzouilleee finished playing (Score: 455255, PASSED).
+[21:47:58] BanchoBot: Mike Wazowski finished playing (Score: 183151, PASSED).
+[21:47:58] BanchoBot: The match has finished!
+[21:48:01] BCraftMG: !mp map 4082981
+[21:48:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4082981 Frums - parvorbital
+[21:48:34] Mike_Wazowski: glorious fm
+[21:48:39] nikzz: mods pls
+[21:48:41] BCraftMG: !mp mods freemod
+[21:48:41] BanchoBot: Disabled all mods, enabled FreeMod
+[21:48:57] BanchoBot: All players are ready
+[21:49:00] BCraftMG: !mp settings
+[21:49:00] BanchoBot: Room name: DOI: (Qualifiers) vs (Lobby Q2), History: https://osu.ppy.sh/mp/120056841
+[21:49:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/4082981 Frums - parvorbital
+[21:49:00] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:49:00] BanchoBot: Active mods: Freemod
+[21:49:00] BanchoBot: Players: 3
+[21:49:00] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10565375 nikzz           [NoFail, HardRock]
+[21:49:00] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16417954 pizzouilleee    [NoFail, HardRock]
+[21:49:00] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/11996209 Mike Wazowski   [NoFail, HardRock]
+[21:49:04] BCraftMG: !mp start 5
+[21:49:05] BanchoBot: Match starts in 5 seconds
+[21:49:05] BanchoBot: Queued the match to start in 5 seconds
+[21:49:07] BanchoBot: Match starts in 4 seconds
+[21:49:08] BanchoBot: Match starts in 3 seconds
+[21:49:09] BanchoBot: Good luck, have fun!
+[21:49:11] BanchoBot: The match has started!
+[21:51:53] BanchoBot: nikzz finished playing (Score: 315109, PASSED).
+[21:51:54] BanchoBot: Mike Wazowski finished playing (Score: 133654, PASSED).
+[21:51:55] BanchoBot: pizzouilleee finished playing (Score: 241452, PASSED).
+[21:51:55] BanchoBot: The match has finished!
+[21:52:05] nikzz: ggwp
+[21:52:07] pizzouilleee: GGS
+[21:52:07] Mike_Wazowski: gg!
+[21:52:11] pizzouilleee: ty for the ref
+[21:52:14] nikzz: ty for ref
+[21:52:17] Mike_Wazowski: gl qualing u 2
+[21:52:18] Mike_Wazowski: ty for ref
+[21:52:27] BanchoBot: nikzz left the game.
+[21:52:28] BanchoBot: Mike Wazowski left the game.
+[21:52:30] pizzouilleee: gl yall o/
+[21:52:31] BanchoBot: pizzouilleee left the game.
+[21:54:20] BanchoBot: pizzouilleee joined in slot 1.
+[21:54:28] BanchoBot: pizzouilleee left the game.
+[22:42:58] BCraftMG: !mp close
