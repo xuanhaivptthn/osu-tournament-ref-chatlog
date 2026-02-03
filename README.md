@@ -4,6 +4,7 @@ number of matches by year (by counting number of files)
 - 2023: 176 matches
 - 2024: 154 matches
 - 2025: 21 matches
-- **Total:** 548 matches
+- 2026: 4 matches
+- **Total:** 552 matches
 <!-- FILE_COUNTS_END -->
 bro i fell off
