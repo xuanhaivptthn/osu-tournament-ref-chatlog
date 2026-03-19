@@ -1,0 +1,673 @@
+[23:53:31] Joined #mp_120674636
+[23:53:31] BCraftMG: !mp settings
+[23:53:32] BanchoBot: Room name: 5WC26: (Qualifiers) vs (Slovakia), History: https://osu.ppy.sh/mp/120674636
+[23:53:32] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[23:53:32] BanchoBot: Players: 0
+[23:53:58] BCraftMG: !mp set 0 3 16
+[23:53:58] BanchoBot: Changed match settings to 16 slots, HeadToHead, ScoreV2
+[23:54:12] BCraftMG: !mp map 4068659
+[23:54:13] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4068659 Serani Poji - where is smiley?
+[23:54:16] BCraftMG: !mp invite #10791609
+[23:54:17] BanchoBot: Invited My Angel Sylphy to the room
+[23:54:18] BCraftMG: !mp invite #9357029
+[23:54:19] BanchoBot: Invited EnchantedSpider to the room
+[23:54:20] BCraftMG: !mp invite #20727746
+[23:54:20] BanchoBot: Invited Suzuka Nakamoto to the room
+[23:54:22] BCraftMG: !mp invite #2849852
+[23:54:22] BanchoBot: Invited Arthias to the room
+[23:54:23] BCraftMG: !mp invite #18577066
+[23:54:24] BanchoBot: Invited SneznyKocur to the room
+[23:54:25] BCraftMG: !mp invite #18851792
+[23:54:25] BanchoBot: Invited S1LTY to the room
+[23:54:26] BCraftMG: !mp invite #14048569
+[23:54:27] BanchoBot: Invited Dawiisko to the room
+[23:54:28] BCraftMG: !mp invite #25922872
+[23:54:29] BanchoBot: Invited pipogg to the room
+[23:54:35] BanchoBot: SneznyKocur joined in slot 1.
+[23:54:41] BanchoBot: My Angel Sylphy joined in slot 2.
+[23:54:43] BanchoBot: EnchantedSpider joined in slot 3.
+[23:55:42] My_Angel_Sylphy: o/
+[23:55:47] BCraftMG: o/
+[23:56:02] EnchantedSpider: o/
+[23:56:02] BanchoBot: S1LTY joined in slot 4.
+[23:58:49] My_Angel_Sylphy: we are ready
+[00:01:29] EnchantedSpider: conductor we have a problem! conductor we have a problem!
+[00:01:42] My_Angel_Sylphy: amimir
+[00:02:47] BCraftMG: o
+[00:02:49] BCraftMG: whoops
+[00:02:52] BCraftMG: almost forgot
+[00:02:59] BCraftMG: !mp map 5393040 0
+[00:03:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5393040 Kinoko Teikoku - Kokudou Slope
+[00:03:00] BanchoBot: Changed match mode to Osu
+[00:03:00] S1LTY: lol
+[00:03:02] My_Angel_Sylphy: :DD
+[00:03:03] BCraftMG: !mp mods 1
+[00:03:03] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:03:07] BCraftMG: i just got my water
+[00:03:13] My_Angel_Sylphy: no worries
+[00:03:18] BCraftMG: !mp timer 90
+[00:03:18] EnchantedSpider: slovakia moment, everyone forgets about us
+[00:03:18] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:03:24] BCraftMG: nooooooooooooooooo
+[00:03:25] BanchoBot: All players are ready
+[00:03:25] BCraftMG: dsa;gfadshklf
+[00:03:26] BCraftMG: !mp settings
+[00:03:27] BanchoBot: Room name: 5WC26: (Qualifiers) vs (Slovakia), History: https://osu.ppy.sh/mp/120674636
+[00:03:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/5393040 Kinoko Teikoku - Kokudou Slope
+[00:03:27] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:03:27] BanchoBot: Active mods: NoFail
+[00:03:27] BanchoBot: Players: 4
+[00:03:27] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18577066 SneznyKocur     
+[00:03:27] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10791609 My Angel Sylphy 
+[00:03:27] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9357029 EnchantedSpider 
+[00:03:27] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/18851792 S1LTY           
+[00:03:28] BCraftMG: !mp start 5
+[00:03:29] BanchoBot: Countdown aborted
+[00:03:29] BanchoBot: Match starts in 5 seconds
+[00:03:29] BanchoBot: Queued the match to start in 5 seconds
+[00:03:29] EnchantedSpider: glgl
+[00:03:30] BanchoBot: Match starts in 4 seconds
+[00:03:31] BanchoBot: Match starts in 3 seconds
+[00:03:32] BanchoBot: Good luck, have fun!
+[00:03:33] My_Angel_Sylphy: glhf
+[00:03:34] BanchoBot: The match has started!
+[00:07:40] BanchoBot: EnchantedSpider finished playing (Score: 870040, PASSED).
+[00:07:40] BanchoBot: My Angel Sylphy finished playing (Score: 198443, PASSED).
+[00:07:40] BanchoBot: SneznyKocur finished playing (Score: 238293, PASSED).
+[00:07:42] BanchoBot: S1LTY finished playing (Score: 158305, PASSED).
+[00:07:42] BanchoBot: The match has finished!
+[00:07:45] BCraftMG: !mp map 5370008 0
+[00:07:46] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5370008 EBIMAYO - NIGHTMARE INVITATION
+[00:07:46] BanchoBot: Changed match mode to Osu
+[00:07:50] BCraftMG: !mp timer 90
+[00:07:50] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:07:58] BanchoBot: Arthias joined in slot 5.
+[00:08:02] BanchoBot: EnchantedSpider left the game.
+[00:08:03] BanchoBot: My Angel Sylphy left the game.
+[00:08:11] BanchoBot: Arthias moved to slot 2
+[00:08:21] BanchoBot: Countdown ends in 1 minute
+[00:08:32] BanchoBot: S1LTY moved to slot 3
+[00:08:40] BanchoBot: pipogg joined in slot 4.
+[00:08:50] pipogg: skapem
+[00:08:51] BanchoBot: Countdown ends in 30 seconds
+[00:08:59] BanchoBot: All players are ready
+[00:09:11] BanchoBot: Countdown ends in 10 seconds
+[00:09:15] BanchoBot: Countdown ends in 5 seconds
+[00:09:17] BanchoBot: Countdown ends in 4 seconds
+[00:09:17] BCraftMG: !mp settings
+[00:09:18] BanchoBot: Countdown ends in 3 seconds
+[00:09:18] BanchoBot: Room name: 5WC26: (Qualifiers) vs (Slovakia), History: https://osu.ppy.sh/mp/120674636
+[00:09:18] BanchoBot: Beatmap: https://osu.ppy.sh/b/5370008 EBIMAYO - NIGHTMARE INVITATION
+[00:09:18] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:09:18] BanchoBot: Active mods: NoFail
+[00:09:18] BanchoBot: Players: 4
+[00:09:18] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18577066 SneznyKocur     
+[00:09:18] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/2849852 Arthias         
+[00:09:18] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/18851792 S1LTY           
+[00:09:18] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/25922872 pipogg          
+[00:09:19] BanchoBot: Countdown ends in 2 seconds
+[00:09:19] BCraftMG: !mp start 5
+[00:09:20] BanchoBot: Countdown ends in 1 second
+[00:09:20] BanchoBot: Countdown aborted
+[00:09:20] BanchoBot: Match starts in 5 seconds
+[00:09:20] BanchoBot: Queued the match to start in 5 seconds
+[00:09:22] BanchoBot: Match starts in 4 seconds
+[00:09:23] BanchoBot: Match starts in 3 seconds
+[00:09:24] BanchoBot: Good luck, have fun!
+[00:09:26] BanchoBot: The match has started!
+[00:11:51] BanchoBot: S1LTY finished playing (Score: 175285, PASSED).
+[00:11:51] BanchoBot: pipogg finished playing (Score: 77556, PASSED).
+[00:11:51] BanchoBot: Arthias finished playing (Score: 259236, PASSED).
+[00:11:52] BanchoBot: SneznyKocur finished playing (Score: 262768, PASSED).
+[00:11:52] BanchoBot: The match has finished!
+[00:12:06] BanchoBot: Arthias left the game.
+[00:12:06] BanchoBot: pipogg left the game.
+[00:12:07] BanchoBot: Dawiisko joined in slot 2.
+[00:12:10] BanchoBot: S1LTY left the game.
+[00:12:11] BCraftMG: !mp map 5330295 0
+[00:12:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5330295 Isekaijoucho - ALWAYS BE WITH YOU XD
+[00:12:12] BanchoBot: Changed match mode to Osu
+[00:12:16] BCraftMG: !mp timer 90
+[00:12:16] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:12:17] Dawiisko: o/
+[00:12:21] BanchoBot: EnchantedSpider joined in slot 3.
+[00:12:28] BanchoBot: My Angel Sylphy joined in slot 4.
+[00:12:47] BanchoBot: Countdown ends in 1 minute
+[00:13:08] EnchantedSpider: glgl
+[00:13:09] BanchoBot: All players are ready
+[00:13:11] BCraftMG: !mp settings
+[00:13:11] BanchoBot: Room name: 5WC26: (Qualifiers) vs (Slovakia), History: https://osu.ppy.sh/mp/120674636
+[00:13:11] BanchoBot: Beatmap: https://osu.ppy.sh/b/5330295 Isekaijoucho - ALWAYS BE WITH YOU XD
+[00:13:11] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:13:11] BanchoBot: Active mods: NoFail
+[00:13:11] BanchoBot: Players: 4
+[00:13:11] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18577066 SneznyKocur     
+[00:13:11] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/14048569 Dawiisko        
+[00:13:11] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9357029 EnchantedSpider 
+[00:13:11] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10791609 My Angel Sylphy 
+[00:13:13] Dawiisko: glgl
+[00:13:16] BanchoBot: Countdown ends in 30 seconds
+[00:13:19] My_Angel_Sylphy: glhf
+[00:13:20] SneznyKocur: glgl
+[00:13:24] BCraftMG: !mp start 5
+[00:13:25] BanchoBot: Countdown aborted
+[00:13:25] BanchoBot: Match starts in 5 seconds
+[00:13:25] BanchoBot: Queued the match to start in 5 seconds
+[00:13:26] BanchoBot: Match starts in 4 seconds
+[00:13:27] BanchoBot: Match starts in 3 seconds
+[00:13:28] BanchoBot: Good luck, have fun!
+[00:13:30] BanchoBot: The match has started!
+[00:16:36] BanchoBot: SneznyKocur finished playing (Score: 174011, PASSED).
+[00:16:36] BanchoBot: EnchantedSpider finished playing (Score: 678503, PASSED).
+[00:16:38] BanchoBot: Dawiisko finished playing (Score: 130277, PASSED).
+[00:16:38] BanchoBot: My Angel Sylphy finished playing (Score: 168669, PASSED).
+[00:16:38] BanchoBot: The match has finished!
+[00:16:40] BCraftMG: !mp map 5236604 0
+[00:16:40] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5236604 YUC'e - Sunset Tea Cup
+[00:16:40] BanchoBot: Changed match mode to Osu
+[00:17:12] BCraftMG: !mp timer 90
+[00:17:13] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:17:37] BanchoBot: Dawiisko left the game.
+[00:17:38] BanchoBot: SneznyKocur left the game.
+[00:17:39] BanchoBot: Arthias joined in slot 1.
+[00:17:43] BanchoBot: Countdown ends in 1 minute
+[00:18:13] BanchoBot: Countdown ends in 30 seconds
+[00:18:31] BanchoBot: SneznyKocur joined in slot 2.
+[00:18:34] BanchoBot: Countdown ends in 10 seconds
+[00:18:38] BanchoBot: Countdown ends in 5 seconds
+[00:18:39] BanchoBot: Countdown ends in 4 seconds
+[00:18:40] BanchoBot: Countdown ends in 3 seconds
+[00:18:41] BanchoBot: Countdown ends in 2 seconds
+[00:18:41] EnchantedSpider: glgl
+[00:18:42] BanchoBot: Countdown ends in 1 second
+[00:18:43] BanchoBot: Countdown finished
+[00:18:45] BCraftMG: !mp settings
+[00:18:46] BanchoBot: All players are ready
+[00:18:46] BanchoBot: Room name: 5WC26: (Qualifiers) vs (Slovakia), History: https://osu.ppy.sh/mp/120674636
+[00:18:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/5236604 YUC'e - Sunset Tea Cup
+[00:18:46] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:18:46] BanchoBot: Active mods: NoFail
+[00:18:46] BanchoBot: Players: 4
+[00:18:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/2849852 Arthias         
+[00:18:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18577066 SneznyKocur     
+[00:18:46] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9357029 EnchantedSpider 
+[00:18:46] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/10791609 My Angel Sylphy 
+[00:18:48] BCraftMG: !mp start 5
+[00:18:49] BanchoBot: Match starts in 5 seconds
+[00:18:49] BanchoBot: Queued the match to start in 5 seconds
+[00:18:51] BanchoBot: Match starts in 4 seconds
+[00:18:51] BanchoBot: Match starts in 3 seconds
+[00:18:52] BanchoBot: Good luck, have fun!
+[00:18:54] BanchoBot: The match has started!
+[00:22:04] BanchoBot: My Angel Sylphy finished playing (Score: 113335, PASSED).
+[00:22:04] BanchoBot: SneznyKocur finished playing (Score: 87973, PASSED).
+[00:22:04] BanchoBot: Arthias finished playing (Score: 63224, PASSED).
+[00:22:04] BanchoBot: EnchantedSpider finished playing (Score: 214304, PASSED).
+[00:22:04] BanchoBot: The match has finished!
+[00:22:13] BCraftMG: !mp map 5547111 0
+[00:22:14] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5547111 Sobrem - Off-grid
+[00:22:14] BanchoBot: Changed match mode to Osu
+[00:22:15] BCraftMG: !mp timer 90
+[00:22:16] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:22:24] BanchoBot: My Angel Sylphy left the game.
+[00:22:46] BanchoBot: Countdown ends in 1 minute
+[00:23:17] BanchoBot: Countdown ends in 30 seconds
+[00:23:18] BanchoBot: Dawiisko joined in slot 4.
+[00:23:30] BanchoBot: Arthias left the game.
+[00:23:30] BanchoBot: All players are ready
+[00:23:31] BanchoBot: Arthias joined in slot 1.
+[00:23:32] EnchantedSpider: glgl
+[00:23:35] BanchoBot: All players are ready
+[00:23:36] Dawiisko: glgl
+[00:23:37] BCraftMG: !mp settings
+[00:23:37] BanchoBot: Countdown ends in 10 seconds
+[00:23:38] BanchoBot: Room name: 5WC26: (Qualifiers) vs (Slovakia), History: https://osu.ppy.sh/mp/120674636
+[00:23:38] BanchoBot: Beatmap: https://osu.ppy.sh/b/5547111 Sobrem - Off-grid
+[00:23:38] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:23:38] BanchoBot: Active mods: NoFail
+[00:23:38] BanchoBot: Players: 4
+[00:23:38] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/2849852 Arthias         
+[00:23:38] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18577066 SneznyKocur     
+[00:23:38] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9357029 EnchantedSpider 
+[00:23:38] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14048569 Dawiisko        
+[00:23:39] BCraftMG: !mp start 5
+[00:23:40] BanchoBot: Countdown aborted
+[00:23:40] BanchoBot: Match starts in 5 seconds
+[00:23:40] BanchoBot: Queued the match to start in 5 seconds
+[00:23:41] SneznyKocur: glgl
+[00:23:42] BanchoBot: Match starts in 4 seconds
+[00:23:42] BanchoBot: Match starts in 3 seconds
+[00:23:43] BanchoBot: Good luck, have fun!
+[00:23:45] BanchoBot: The match has started!
+[00:26:01] BanchoBot: Arthias finished playing (Score: 92859, PASSED).
+[00:26:02] BanchoBot: EnchantedSpider finished playing (Score: 640160, PASSED).
+[00:26:02] BanchoBot: Dawiisko finished playing (Score: 15769, PASSED).
+[00:26:02] BanchoBot: SneznyKocur finished playing (Score: 196204, PASSED).
+[00:26:02] BanchoBot: The match has finished!
+[00:26:06] BCraftMG: !mp map 5277178 0
+[00:26:07] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5277178 Jamie Paige, Visualeyes - ROT FOR CLOUT
+[00:26:07] BanchoBot: Changed match mode to Osu
+[00:26:12] BCraftMG: !mp mods 9
+[00:26:13] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[00:26:15] BCraftMG: !mp timer 90
+[00:26:15] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:26:20] BanchoBot: Arthias left the game.
+[00:26:46] BanchoBot: Countdown ends in 1 minute
+[00:27:16] BanchoBot: Countdown ends in 30 seconds
+[00:27:36] BanchoBot: Countdown ends in 10 seconds
+[00:27:40] BanchoBot: Arthias joined in slot 1.
+[00:27:40] BanchoBot: Countdown ends in 5 seconds
+[00:27:42] BanchoBot: Countdown ends in 4 seconds
+[00:27:43] BanchoBot: Countdown ends in 3 seconds
+[00:27:44] BanchoBot: Countdown ends in 2 seconds
+[00:27:44] BanchoBot: All players are ready
+[00:27:45] BCraftMG: !mp settings
+[00:27:45] BanchoBot: Countdown ends in 1 second
+[00:27:45] EnchantedSpider: glgl
+[00:27:45] BanchoBot: Room name: 5WC26: (Qualifiers) vs (Slovakia), History: https://osu.ppy.sh/mp/120674636
+[00:27:45] BanchoBot: Beatmap: https://osu.ppy.sh/b/5277178 Jamie Paige, Visualeyes - ROT FOR CLOUT
+[00:27:45] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:27:45] BanchoBot: Active mods: NoFail, Hidden
+[00:27:45] BanchoBot: Players: 4
+[00:27:45] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/2849852 Arthias         
+[00:27:45] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18577066 SneznyKocur     
+[00:27:45] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9357029 EnchantedSpider 
+[00:27:45] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14048569 Dawiisko        
+[00:27:46] BanchoBot: Countdown finished
+[00:27:47] BCraftMG: !mp start 5
+[00:27:48] BanchoBot: Match starts in 5 seconds
+[00:27:48] BanchoBot: Queued the match to start in 5 seconds
+[00:27:49] BanchoBot: Match starts in 4 seconds
+[00:27:51] BanchoBot: Match starts in 3 seconds
+[00:27:52] BanchoBot: Good luck, have fun!
+[00:27:52] Dawiisko: gflgl
+[00:27:53] BanchoBot: The match has started!
+[00:31:47] BanchoBot: EnchantedSpider finished playing (Score: 630984, PASSED).
+[00:31:47] BanchoBot: Arthias finished playing (Score: 73862, PASSED).
+[00:31:47] BanchoBot: Dawiisko finished playing (Score: 176728, PASSED).
+[00:31:56] BanchoBot: The match has finished!
+[00:31:56] BanchoBot: SneznyKocur left the game.
+[00:32:01] BCraftMG: whoops
+[00:32:02] BCraftMG: disconnected
+[00:32:03] BCraftMG: !!!
+[00:32:25] Arthias: his electricity cut out
+[00:32:29] BCraftMG: thats a replay at the end of lobby for SneznyKocur
+[00:32:30] BCraftMG: oh
+[00:32:34] EnchantedSpider: 3rd world moment
+[00:32:48] Arthias: can we have 1 player replay after?
+[00:32:58] BCraftMG: yes
+[00:33:28] BanchoBot: Arthias left the game.
+[00:33:39] BCraftMG: !mp map 2915013 0
+[00:33:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2915013 Zektbach - The Sealer ~A Milia to Milia no Tami~
+[00:33:39] BanchoBot: Changed match mode to Osu
+[00:33:40] BCraftMG: !mp timer 90
+[00:33:41] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:33:55] BanchoBot: SneznyKocur joined in slot 1.
+[00:34:12] BanchoBot: Countdown ends in 1 minute
+[00:34:32] BanchoBot: pipogg joined in slot 2.
+[00:34:42] BanchoBot: Countdown ends in 30 seconds
+[00:34:42] EnchantedSpider: glgl
+[00:34:57] BCraftMG: !mp settings
+[00:34:59] Dawiisko: glglglglglglg
+[00:34:59] BanchoBot: Room name: 5WC26: (Qualifiers) vs (Slovakia), History: https://osu.ppy.sh/mp/120674636
+[00:34:59] BanchoBot: Beatmap: https://osu.ppy.sh/b/2915013 Zektbach - The Sealer ~A Milia to Milia no Tami~
+[00:34:59] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:34:59] BanchoBot: Active mods: NoFail, Hidden
+[00:34:59] BanchoBot: Players: 4
+[00:34:59] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18577066 SneznyKocur     
+[00:34:59] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/25922872 pipogg          
+[00:34:59] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9357029 EnchantedSpider 
+[00:34:59] BanchoBot: Slot 4  Not Ready https://osu.ppy.sh/u/14048569 Dawiisko        
+[00:35:01] BanchoBot: Countdown ends in 10 seconds
+[00:35:02] pipogg: preco
+[00:35:04] pipogg: akoze
+[00:35:06] BanchoBot: All players are ready
+[00:35:07] BanchoBot: Countdown ends in 5 seconds
+[00:35:08] BanchoBot: Countdown ends in 4 seconds
+[00:35:09] pipogg: 20k max
+[00:35:09] BanchoBot: Countdown ends in 3 seconds
+[00:35:10] BanchoBot: Countdown ends in 2 seconds
+[00:35:11] BanchoBot: Countdown ends in 1 second
+[00:35:12] BanchoBot: Countdown finished
+[00:35:12] BCraftMG: !mp settings
+[00:35:12] BanchoBot: Room name: 5WC26: (Qualifiers) vs (Slovakia), History: https://osu.ppy.sh/mp/120674636
+[00:35:12] BanchoBot: Beatmap: https://osu.ppy.sh/b/2915013 Zektbach - The Sealer ~A Milia to Milia no Tami~
+[00:35:12] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:35:12] BanchoBot: Active mods: NoFail, Hidden
+[00:35:12] BanchoBot: Players: 4
+[00:35:12] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18577066 SneznyKocur     
+[00:35:12] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/25922872 pipogg          
+[00:35:12] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9357029 EnchantedSpider 
+[00:35:12] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14048569 Dawiisko        
+[00:35:13] BCraftMG: !mp start 5
+[00:35:13] BanchoBot: Match starts in 5 seconds
+[00:35:13] BanchoBot: Queued the match to start in 5 seconds
+[00:35:15] BanchoBot: Match starts in 4 seconds
+[00:35:16] BanchoBot: Match starts in 3 seconds
+[00:35:17] BanchoBot: Good luck, have fun!
+[00:35:19] BanchoBot: The match has started!
+[00:37:33] BanchoBot: EnchantedSpider finished playing (Score: 862715, PASSED).
+[00:37:34] BanchoBot: Dawiisko finished playing (Score: 119545, PASSED).
+[00:37:34] BanchoBot: pipogg finished playing (Score: 19636, PASSED).
+[00:37:34] BanchoBot: SneznyKocur finished playing (Score: 114828, PASSED).
+[00:37:34] BanchoBot: The match has finished!
+[00:37:45] BCraftMG: !mp map 5222292 0
+[00:37:45] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5222292 TOGENASHI TOGEARI - Hurtful & Painful
+[00:37:45] BanchoBot: Changed match mode to Osu
+[00:37:49] BanchoBot: pipogg left the game.
+[00:37:53] BCraftMG: !mp timer 90
+[00:37:54] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:38:24] BanchoBot: Countdown ends in 1 minute
+[00:38:54] BanchoBot: Countdown ends in 30 seconds
+[00:39:01] BanchoBot: My Angel Sylphy joined in slot 2.
+[00:39:14] BanchoBot: Countdown ends in 10 seconds
+[00:39:19] BanchoBot: Countdown ends in 5 seconds
+[00:39:20] BanchoBot: Countdown ends in 4 seconds
+[00:39:21] BanchoBot: Countdown ends in 3 seconds
+[00:39:21] BanchoBot: All players are ready
+[00:39:22] BCraftMG: !mp settings
+[00:39:22] BanchoBot: Countdown ends in 2 seconds
+[00:39:23] BanchoBot: Countdown ends in 1 second
+[00:39:23] BanchoBot: Room name: 5WC26: (Qualifiers) vs (Slovakia), History: https://osu.ppy.sh/mp/120674636
+[00:39:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/5222292 TOGENASHI TOGEARI - Hurtful & Painful
+[00:39:23] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:39:23] BanchoBot: Active mods: NoFail, Hidden
+[00:39:23] BanchoBot: Players: 4
+[00:39:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18577066 SneznyKocur     
+[00:39:23] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10791609 My Angel Sylphy 
+[00:39:23] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9357029 EnchantedSpider 
+[00:39:23] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/14048569 Dawiisko        
+[00:39:24] BanchoBot: Countdown finished
+[00:39:26] BCraftMG: !mp start 5
+[00:39:27] BanchoBot: Match starts in 5 seconds
+[00:39:27] BanchoBot: Queued the match to start in 5 seconds
+[00:39:29] BanchoBot: Match starts in 4 seconds
+[00:39:30] BanchoBot: Match starts in 3 seconds
+[00:39:30] BanchoBot: Good luck, have fun!
+[00:39:32] BanchoBot: The match has started!
+[00:42:52] BanchoBot: SneznyKocur finished playing (Score: 80495, PASSED).
+[00:42:52] BanchoBot: Dawiisko finished playing (Score: 110140, PASSED).
+[00:42:52] BanchoBot: EnchantedSpider finished playing (Score: 347787, PASSED).
+[00:42:53] BanchoBot: My Angel Sylphy finished playing (Score: 46543, PASSED).
+[00:42:53] BanchoBot: The match has finished!
+[00:43:03] BCraftMG: !mp map 5045992 0
+[00:43:04] BanchoBot: Dawiisko left the game.
+[00:43:04] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5045992 Linkin Park - Up From The Bottom
+[00:43:04] BanchoBot: Changed match mode to Osu
+[00:43:11] BCraftMG: !mp mods 17
+[00:43:12] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[00:43:12] BCraftMG: !mp timer 90
+[00:43:13] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:43:19] BanchoBot: Suzuka Nakamoto joined in slot 4.
+[00:43:29] BanchoBot: SneznyKocur left the game.
+[00:43:43] BanchoBot: Countdown ends in 1 minute
+[00:43:57] BanchoBot: S1LTY joined in slot 1.
+[00:44:13] BanchoBot: Countdown ends in 30 seconds
+[00:44:30] BanchoBot: All players are ready
+[00:44:33] BanchoBot: Countdown ends in 10 seconds
+[00:44:38] BanchoBot: Countdown ends in 5 seconds
+[00:44:39] BanchoBot: Countdown ends in 4 seconds
+[00:44:40] My_Angel_Sylphy: glhf
+[00:44:40] BanchoBot: Countdown ends in 3 seconds
+[00:44:41] BanchoBot: Countdown ends in 2 seconds
+[00:44:42] EnchantedSpider: glgl
+[00:44:43] BanchoBot: Countdown ends in 1 second
+[00:44:44] BanchoBot: Countdown finished
+[00:44:46] BCraftMG: !mp settings
+[00:44:47] BanchoBot: Room name: 5WC26: (Qualifiers) vs (Slovakia), History: https://osu.ppy.sh/mp/120674636
+[00:44:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/5045992 Linkin Park - Up From The Bottom
+[00:44:47] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:44:47] BanchoBot: Active mods: NoFail, HardRock
+[00:44:47] BanchoBot: Players: 4
+[00:44:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18851792 S1LTY           
+[00:44:47] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10791609 My Angel Sylphy 
+[00:44:47] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/9357029 EnchantedSpider 
+[00:44:47] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/20727746 Suzuka Nakamoto 
+[00:44:48] BCraftMG: !mp start 5
+[00:44:48] BanchoBot: Match starts in 5 seconds
+[00:44:48] BanchoBot: Queued the match to start in 5 seconds
+[00:44:50] BanchoBot: Match starts in 4 seconds
+[00:44:51] BanchoBot: Match starts in 3 seconds
+[00:44:52] BanchoBot: Good luck, have fun!
+[00:44:54] BanchoBot: The match has started!
+[00:47:56] BanchoBot: EnchantedSpider finished playing (Score: 833122, PASSED).
+[00:47:57] BanchoBot: My Angel Sylphy finished playing (Score: 340532, PASSED).
+[00:47:58] BanchoBot: Suzuka Nakamoto finished playing (Score: 346260, PASSED).
+[00:47:58] BanchoBot: S1LTY finished playing (Score: 365465, PASSED).
+[00:47:58] BanchoBot: The match has finished!
+[00:48:04] BCraftMG: !mp map 3870262 0
+[00:48:05] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3870262 Ampzer - Lotus
+[00:48:05] BanchoBot: Changed match mode to Osu
+[00:49:23] BanchoBot: EnchantedSpider left the game.
+[00:49:28] BCraftMG: !mp timer 60
+[00:49:29] BanchoBot: Countdown ends in 1 minute
+[00:49:30] BanchoBot: Arthias joined in slot 3.
+[00:49:59] BanchoBot: Countdown ends in 30 seconds
+[00:50:19] BanchoBot: Countdown ends in 10 seconds
+[00:50:19] My_Angel_Sylphy: glgl
+[00:50:19] BanchoBot: All players are ready
+[00:50:22] S1LTY: golf
+[00:50:23] BCraftMG: !mp settings
+[00:50:23] BanchoBot: Room name: 5WC26: (Qualifiers) vs (Slovakia), History: https://osu.ppy.sh/mp/120674636
+[00:50:23] BanchoBot: Beatmap: https://osu.ppy.sh/b/3870262 Ampzer - Lotus
+[00:50:23] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:50:23] BanchoBot: Active mods: NoFail, HardRock
+[00:50:23] BanchoBot: Players: 4
+[00:50:23] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18851792 S1LTY           
+[00:50:23] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10791609 My Angel Sylphy 
+[00:50:23] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/2849852 Arthias         
+[00:50:23] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/20727746 Suzuka Nakamoto 
+[00:50:24] BCraftMG: !mp start 5
+[00:50:24] BanchoBot: Countdown ends in 5 seconds
+[00:50:24] BanchoBot: Countdown aborted
+[00:50:24] BanchoBot: Match starts in 5 seconds
+[00:50:24] BanchoBot: Queued the match to start in 5 seconds
+[00:50:25] Suzuka_Nakamoto: glgl
+[00:50:26] BanchoBot: Match starts in 4 seconds
+[00:50:27] BanchoBot: Match starts in 3 seconds
+[00:50:28] BanchoBot: Good luck, have fun!
+[00:50:29] BanchoBot: The match has started!
+[00:53:11] BanchoBot: Arthias finished playing (Score: 185302, PASSED).
+[00:53:12] BanchoBot: Suzuka Nakamoto finished playing (Score: 176915, PASSED).
+[00:53:14] BanchoBot: My Angel Sylphy finished playing (Score: 339032, PASSED).
+[00:53:15] BanchoBot: S1LTY finished playing (Score: 100897, PASSED).
+[00:53:15] BanchoBot: The match has finished!
+[00:53:17] BCraftMG: !mp map 5547110 0
+[00:53:18] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5547110 Camellia - Blastix Riotz
+[00:53:18] BanchoBot: Changed match mode to Osu
+[00:53:34] BCraftMG: !mp timer 90
+[00:53:34] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:53:39] BanchoBot: S1LTY left the game.
+[00:54:05] BanchoBot: Countdown ends in 1 minute
+[00:54:22] BanchoBot: SneznyKocur joined in slot 1.
+[00:54:35] BanchoBot: Countdown ends in 30 seconds
+[00:54:55] BanchoBot: Countdown ends in 10 seconds
+[00:54:58] BanchoBot: All players are ready
+[00:54:59] BanchoBot: Countdown ends in 5 seconds
+[00:55:01] BanchoBot: Countdown ends in 4 seconds
+[00:55:02] BCraftMG: !mp settings
+[00:55:02] BanchoBot: Countdown ends in 3 seconds
+[00:55:02] BanchoBot: Room name: 5WC26: (Qualifiers) vs (Slovakia), History: https://osu.ppy.sh/mp/120674636
+[00:55:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/5547110 Camellia - Blastix Riotz
+[00:55:02] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:55:02] BanchoBot: Active mods: NoFail, HardRock
+[00:55:02] BanchoBot: Players: 4
+[00:55:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18577066 SneznyKocur     
+[00:55:02] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10791609 My Angel Sylphy 
+[00:55:02] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/2849852 Arthias         
+[00:55:02] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/20727746 Suzuka Nakamoto 
+[00:55:03] BanchoBot: Countdown ends in 2 seconds
+[00:55:03] BCraftMG: !mp start 5
+[00:55:04] BanchoBot: Countdown ends in 1 second
+[00:55:04] BanchoBot: Countdown aborted
+[00:55:04] BanchoBot: Match starts in 5 seconds
+[00:55:04] BanchoBot: Queued the match to start in 5 seconds
+[00:55:06] BanchoBot: Match starts in 4 seconds
+[00:55:07] BanchoBot: Match starts in 3 seconds
+[00:55:08] BanchoBot: Good luck, have fun!
+[00:55:09] BanchoBot: The match has started!
+[00:55:09] Arthias: glglglglg
+[00:57:24] BanchoBot: Suzuka Nakamoto finished playing (Score: 308099, PASSED).
+[00:57:24] BanchoBot: Arthias finished playing (Score: 345478, PASSED).
+[00:57:24] BanchoBot: My Angel Sylphy finished playing (Score: 140181, PASSED).
+[00:57:25] BanchoBot: SneznyKocur finished playing (Score: 92770, PASSED).
+[00:57:25] BanchoBot: The match has finished!
+[00:57:30] BCraftMG: !mp map 3743459 0
+[00:57:30] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3743459 yanaginagi - Usotsuki
+[00:57:30] BanchoBot: Changed match mode to Osu
+[00:57:32] BCraftMG: !mp mods 65
+[00:57:33] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[00:57:36] BCraftMG: !mp timer 90
+[00:57:37] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:58:07] BanchoBot: Countdown ends in 1 minute
+[00:58:19] BanchoBot: SneznyKocur left the game.
+[00:58:26] BanchoBot: S1LTY joined in slot 1.
+[00:58:37] BanchoBot: Countdown ends in 30 seconds
+[00:58:57] BanchoBot: Countdown ends in 10 seconds
+[00:59:01] BanchoBot: All players are ready
+[00:59:03] BanchoBot: Countdown ends in 5 seconds
+[00:59:03] BCraftMG: !mp settings
+[00:59:04] BanchoBot: Countdown ends in 4 seconds
+[00:59:04] BanchoBot: Room name: 5WC26: (Qualifiers) vs (Slovakia), History: https://osu.ppy.sh/mp/120674636
+[00:59:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/3743459 yanaginagi - Usotsuki
+[00:59:04] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:59:04] BanchoBot: Active mods: NoFail, DoubleTime
+[00:59:04] BanchoBot: Players: 4
+[00:59:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18851792 S1LTY           
+[00:59:04] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10791609 My Angel Sylphy 
+[00:59:04] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/2849852 Arthias         
+[00:59:04] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/20727746 Suzuka Nakamoto 
+[00:59:05] BanchoBot: Countdown ends in 3 seconds
+[00:59:06] BanchoBot: Countdown ends in 2 seconds
+[00:59:06] S1LTY: gl
+[00:59:06] BanchoBot: Countdown ends in 1 second
+[00:59:06] BCraftMG: !mp start 5
+[00:59:07] BanchoBot: Countdown finished
+[00:59:07] BanchoBot: Match starts in 5 seconds
+[00:59:07] BanchoBot: Queued the match to start in 5 seconds
+[00:59:09] BanchoBot: Match starts in 4 seconds
+[00:59:10] BanchoBot: Match starts in 3 seconds
+[00:59:11] BanchoBot: Good luck, have fun!
+[00:59:12] My_Angel_Sylphy: gl
+[00:59:13] BanchoBot: The match has started!
+[01:01:11] BanchoBot: Suzuka Nakamoto finished playing (Score: 208971, PASSED).
+[01:01:11] BanchoBot: My Angel Sylphy finished playing (Score: 796470, PASSED).
+[01:01:11] BanchoBot: S1LTY finished playing (Score: 81972, PASSED).
+[01:01:12] BanchoBot: Arthias finished playing (Score: 296852, PASSED).
+[01:01:12] BanchoBot: The match has finished!
+[01:01:24] BCraftMG: !mp map 3613661 0
+[01:01:24] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3613661 Foreground Eclipse - Last Liar Standing
+[01:01:24] BanchoBot: Changed match mode to Osu
+[01:01:25] BCraftMG: !mp timer 90
+[01:01:26] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[01:01:45] BanchoBot: SneznyKocur joined in slot 5.
+[01:01:57] BanchoBot: Countdown ends in 1 minute
+[01:02:02] BanchoBot: My Angel Sylphy left the game.
+[01:02:26] BanchoBot: Countdown ends in 30 seconds
+[01:02:39] BanchoBot: SneznyKocur moved to slot 2
+[01:02:46] BanchoBot: Countdown ends in 10 seconds
+[01:02:51] BanchoBot: Countdown ends in 5 seconds
+[01:02:52] BanchoBot: Countdown ends in 4 seconds
+[01:02:53] BanchoBot: Countdown ends in 3 seconds
+[01:02:54] BanchoBot: Countdown ends in 2 seconds
+[01:02:55] BanchoBot: Countdown ends in 1 second
+[01:02:56] BanchoBot: Countdown finished
+[01:02:57] BanchoBot: All players are ready
+[01:02:57] BCraftMG: !mp settings
+[01:02:58] Arthias: glglglglg
+[01:02:58] BanchoBot: Room name: 5WC26: (Qualifiers) vs (Slovakia), History: https://osu.ppy.sh/mp/120674636
+[01:02:58] BanchoBot: Beatmap: https://osu.ppy.sh/b/3613661 Foreground Eclipse - Last Liar Standing
+[01:02:58] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:02:58] BanchoBot: Active mods: NoFail, DoubleTime
+[01:02:58] BanchoBot: Players: 4
+[01:02:58] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18851792 S1LTY           
+[01:02:58] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18577066 SneznyKocur     
+[01:02:58] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/2849852 Arthias         
+[01:02:58] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/20727746 Suzuka Nakamoto 
+[01:03:01] BCraftMG: !mp start 5
+[01:03:01] BanchoBot: Match starts in 5 seconds
+[01:03:01] BanchoBot: Queued the match to start in 5 seconds
+[01:03:03] BanchoBot: Match starts in 4 seconds
+[01:03:04] BanchoBot: Match starts in 3 seconds
+[01:03:05] BanchoBot: Good luck, have fun!
+[01:03:07] BanchoBot: The match has started!
+[01:05:04] BanchoBot: SneznyKocur finished playing (Score: 146070, PASSED).
+[01:05:05] BanchoBot: Suzuka Nakamoto finished playing (Score: 392379, PASSED).
+[01:05:05] BanchoBot: S1LTY finished playing (Score: 197838, PASSED).
+[01:05:06] BanchoBot: Arthias finished playing (Score: 370067, PASSED).
+[01:05:06] BanchoBot: The match has finished!
+[01:05:13] BCraftMG: !mp map 4898575 0
+[01:05:14] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4898575 HHHxMMxST - Follow Tomorrow (for future mix)
+[01:05:14] BanchoBot: Changed match mode to Osu
+[01:05:22] BCraftMG: !mp timer 90
+[01:05:23] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[01:05:33] BanchoBot: My Angel Sylphy joined in slot 5.
+[01:05:53] BanchoBot: Countdown ends in 1 minute
+[01:06:02] BanchoBot: S1LTY left the game.
+[01:06:05] BanchoBot: My Angel Sylphy moved to slot 1
+[01:06:23] BanchoBot: All players are ready
+[01:06:23] BanchoBot: Countdown ends in 30 seconds
+[01:06:26] BCraftMG: !mp settings
+[01:06:26] My_Angel_Sylphy: glgl
+[01:06:27] BanchoBot: Room name: 5WC26: (Qualifiers) vs (Slovakia), History: https://osu.ppy.sh/mp/120674636
+[01:06:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/4898575 HHHxMMxST - Follow Tomorrow (for future mix)
+[01:06:27] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:06:27] BanchoBot: Active mods: NoFail, DoubleTime
+[01:06:27] BanchoBot: Players: 4
+[01:06:27] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10791609 My Angel Sylphy 
+[01:06:27] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18577066 SneznyKocur     
+[01:06:27] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/2849852 Arthias         
+[01:06:27] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/20727746 Suzuka Nakamoto 
+[01:06:29] BCraftMG: !mp start 5
+[01:06:29] BanchoBot: Countdown aborted
+[01:06:29] BanchoBot: Match starts in 5 seconds
+[01:06:29] BanchoBot: Queued the match to start in 5 seconds
+[01:06:31] BanchoBot: Match starts in 4 seconds
+[01:06:32] BanchoBot: Match starts in 3 seconds
+[01:06:33] BanchoBot: Good luck, have fun!
+[01:06:34] Arthias: glgl
+[01:06:35] BanchoBot: The match has started!
+[01:08:44] BanchoBot: My Angel Sylphy finished playing (Score: 110849, PASSED).
+[01:08:44] BanchoBot: SneznyKocur finished playing (Score: 132730, PASSED).
+[01:08:46] BanchoBot: Suzuka Nakamoto finished playing (Score: 155172, PASSED).
+[01:08:46] BanchoBot: Arthias finished playing (Score: 197538, PASSED).
+[01:08:46] BanchoBot: The match has finished!
+[01:09:21] BanchoBot: Suzuka Nakamoto left the game.
+[01:09:22] BanchoBot: Arthias left the game.
+[01:09:30] BCraftMG: ggưp
+[01:09:46] My_Angel_Sylphy: kocur would like to replay th hd1
+[01:09:50] My_Angel_Sylphy: his power went out
+[01:09:53] My_Angel_Sylphy: during it
+[01:09:58] BCraftMG: oki
+[01:09:58] BCraftMG: !mp map 5277178 0
+[01:09:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5277178 Jamie Paige, Visualeyes - ROT FOR CLOUT
+[01:09:59] BanchoBot: Changed match mode to Osu
+[01:10:00] BCraftMG: !mp mods 9
+[01:10:01] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[01:10:03] SneznyKocur: :pleading_face:
+[01:10:05] My_Angel_Sylphy: gl
+[01:10:06] BanchoBot: My Angel Sylphy left the game.
+[01:10:08] BanchoBot: All players are ready
+[01:10:09] BCraftMG: !mp settings
+[01:10:09] BanchoBot: SneznyKocur moved to slot 1
+[01:10:09] BanchoBot: Room name: 5WC26: (Qualifiers) vs (Slovakia), History: https://osu.ppy.sh/mp/120674636
+[01:10:09] BanchoBot: Beatmap: https://osu.ppy.sh/b/5277178 Jamie Paige, Visualeyes - ROT FOR CLOUT
+[01:10:09] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[01:10:09] BanchoBot: Active mods: NoFail, Hidden
+[01:10:09] BanchoBot: Players: 1
+[01:10:09] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18577066 SneznyKocur     
+[01:10:10] BCraftMG: !mp start 5
+[01:10:10] BanchoBot: Match starts in 5 seconds
+[01:10:10] BanchoBot: Queued the match to start in 5 seconds
+[01:10:12] BanchoBot: Match starts in 4 seconds
+[01:10:13] BanchoBot: Match starts in 3 seconds
+[01:10:14] BanchoBot: Good luck, have fun!
+[01:10:16] BanchoBot: The match has started!
+[01:14:09] BanchoBot: SneznyKocur finished playing (Score: 135039, PASSED).
+[01:14:09] BanchoBot: The match has finished!
+[01:14:19] SneznyKocur: thanks for ref!!
+[01:14:22] BCraftMG: o7
+[01:14:37] SneznyKocur: o/
+[01:14:39] BanchoBot: SneznyKocur left the game.
+[01:14:44] BCraftMG: !mp close
+[01:14:44] BanchoBot: Closed the match

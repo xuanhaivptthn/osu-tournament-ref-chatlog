@@ -1,0 +1,293 @@
+[14:51:05] Joined #mp_120583363
+[14:51:05] BCraftMG: !mp settings
+[14:51:05] BanchoBot: Room name: LQC2: (Qualifiers) vs (Lobby B2), History: https://osu.ppy.sh/mp/120583363
+[14:51:05] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[14:51:05] BanchoBot: Players: 0
+[14:51:30] BCraftMG: !mp set 0 3 1
+[14:51:30] BanchoBot: Changed match settings to 1 slots, HeadToHead, ScoreV2
+[14:51:49] BCraftMG: !mp map 4068659
+[14:51:50] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4068659 Serani Poji - where is smiley?
+[14:53:19] BCraftMG: !mp invite #27634475
+[14:53:20] BanchoBot: Invited JerryJumbo to the room
+[14:54:26] BanchoBot: JerryJumbo joined in slot 1.
+[14:54:38] JerryJumbo: where is smiley
+[14:54:41] JerryJumbo: :looking:
+[14:54:51] BCraftMG: there is no smiley
+[14:54:52] BCraftMG: !mp map 4114488 0
+[14:54:53] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4114488 Nashimoto Ui - AaAaAaAAaAaAAa
+[14:54:53] BanchoBot: Changed match mode to Osu
+[14:54:54] BCraftMG: !mp mods 1
+[14:54:54] BanchoBot: Enabled NoFail, disabled FreeMod
+[14:54:57] BCraftMG: !mp timer 10
+[14:54:57] BanchoBot: Countdown ends in 10 seconds
+[14:55:01] JerryJumbo: awww
+[14:55:03] BanchoBot: Countdown ends in 5 seconds
+[14:55:04] BanchoBot: Countdown ends in 4 seconds
+[14:55:05] JerryJumbo: wtf
+[14:55:05] BanchoBot: Countdown ends in 3 seconds
+[14:55:05] BanchoBot: Countdown ends in 2 seconds
+[14:55:05] JerryJumbo: 10s
+[14:55:07] BanchoBot: Countdown ends in 1 second
+[14:55:07] JerryJumbo: weouorugbruoa
+[14:55:08] BanchoBot: Countdown finished
+[14:55:09] BCraftMG: mp start
+[14:55:15] BanchoBot: All players are ready
+[14:55:17] BCraftMG: !mp settings
+[14:55:17] JerryJumbo: qua nhanh
+[14:55:17] BanchoBot: Room name: LQC2: (Qualifiers) vs (Lobby B2), History: https://osu.ppy.sh/mp/120583363
+[14:55:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/4114488 Nashimoto Ui - AaAaAaAAaAaAAa
+[14:55:17] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[14:55:17] BanchoBot: Active mods: NoFail
+[14:55:17] BanchoBot: Players: 1
+[14:55:17] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/27634475 JerryJumbo      
+[14:55:21] BCraftMG: !mp start 5
+[14:55:21] BanchoBot: Match starts in 5 seconds
+[14:55:21] BanchoBot: Queued the match to start in 5 seconds
+[14:55:23] BanchoBot: Match starts in 4 seconds
+[14:55:24] BanchoBot: Match starts in 3 seconds
+[14:55:25] BanchoBot: Good luck, have fun!
+[14:55:26] JerryJumbo: glglgl
+[14:55:27] BanchoBot: The match has started!
+[14:56:21] BCraftMG: dsa
+[14:56:23] BCraftMG: this
+[14:56:25] BCraftMG: is a test
+[14:56:28] BCraftMG: !mp settings
+[14:56:28] BanchoBot: Room name: LQC2: (Qualifiers) vs (Lobby B2), History: https://osu.ppy.sh/mp/120583363
+[14:56:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/4114488 Nashimoto Ui - AaAaAaAAaAaAAa
+[14:56:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[14:56:28] BanchoBot: Active mods: NoFail
+[14:56:28] BanchoBot: Players: 1
+[14:56:28] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/27634475 JerryJumbo      
+[14:56:39] BCraftMG: !mp
+[14:57:05] BCraftMG: mp
+[14:57:09] BCraftMG: abcdef
+[14:57:11] BCraftMG: !mp
+[14:57:18] BCraftMG: !mp settings
+[14:57:19] BanchoBot: Room name: LQC2: (Qualifiers) vs (Lobby B2), History: https://osu.ppy.sh/mp/120583363
+[14:57:19] BanchoBot: Beatmap: https://osu.ppy.sh/b/4114488 Nashimoto Ui - AaAaAaAAaAaAAa
+[14:57:19] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[14:57:19] BanchoBot: Active mods: NoFail
+[14:57:19] BanchoBot: Players: 1
+[14:57:19] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/27634475 JerryJumbo      
+[14:59:08] BanchoBot: JerryJumbo finished playing (Score: 266361, PASSED).
+[14:59:08] BanchoBot: The match has finished!
+[14:59:18] BCraftMG: !mp map 5082120 0
+[14:59:18] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5082120 Raimukun - Nyarlathotep's Dreamland
+[14:59:18] BanchoBot: Changed match mode to Osu
+[14:59:20] JerryJumbo: oof
+[14:59:27] JerryJumbo: big flop
+[14:59:42] BanchoBot: All players are ready
+[14:59:44] BCraftMG: !mp settings
+[14:59:45] BanchoBot: Room name: LQC2: (Qualifiers) vs (Lobby B2), History: https://osu.ppy.sh/mp/120583363
+[14:59:45] BanchoBot: Beatmap: https://osu.ppy.sh/b/5082120 Raimukun - Nyarlathotep's Dreamland
+[14:59:45] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[14:59:45] BanchoBot: Active mods: NoFail
+[14:59:45] BanchoBot: Players: 1
+[14:59:45] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/27634475 JerryJumbo      
+[14:59:49] BCraftMG: !mp start 5
+[14:59:49] BanchoBot: Match starts in 5 seconds
+[14:59:49] BanchoBot: Queued the match to start in 5 seconds
+[14:59:50] BanchoBot: Match starts in 4 seconds
+[14:59:51] BanchoBot: Match starts in 3 seconds
+[14:59:53] BanchoBot: Good luck, have fun!
+[14:59:54] JerryJumbo: gogogogoo
+[14:59:54] BanchoBot: The match has started!
+[15:02:18] BanchoBot: JerryJumbo finished playing (Score: 58745, PASSED).
+[15:02:18] BanchoBot: The match has finished!
+[15:02:29] BCraftMG: !mp map 5223774 0
+[15:02:30] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5223774 PinocchioP - Tonchinkan Feast feat. Hatsune Miku
+[15:02:30] BanchoBot: Changed match mode to Osu
+[15:02:32] BCraftMG: uoc nha
+[15:02:44] JerryJumbo: kho loi
+[15:03:01] JerryJumbo: dau tay qua
+[15:03:03] JerryJumbo: :sob:
+[15:03:21] BanchoBot: All players are ready
+[15:03:50] BanchoBot: All players are ready
+[15:04:12] JerryJumbo: ref
+[15:04:14] JerryJumbo: :3c
+[15:04:35] BCraftMG: !mp start 5
+[15:04:36] BanchoBot: Match starts in 5 seconds
+[15:04:36] BanchoBot: Queued the match to start in 5 seconds
+[15:04:37] BanchoBot: Match starts in 4 seconds
+[15:04:38] BanchoBot: Match starts in 3 seconds
+[15:04:39] BanchoBot: Good luck, have fun!
+[15:04:40] JerryJumbo: glglglgl
+[15:04:41] BanchoBot: The match has started!
+[15:08:38] BanchoBot: JerryJumbo finished playing (Score: 183744, PASSED).
+[15:08:38] BanchoBot: The match has finished!
+[15:08:52] BCraftMG: !mp map 5436264 0
+[15:08:53] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5436264 saaa - MORNINGLOOM
+[15:08:53] BanchoBot: Changed match mode to Osu
+[15:09:04] JerryJumbo: chua tay r
+[15:09:27] BanchoBot: All players are ready
+[15:09:32] BCraftMG: !mp start 5
+[15:09:32] BanchoBot: Match starts in 5 seconds
+[15:09:32] BanchoBot: Queued the match to start in 5 seconds
+[15:09:33] BanchoBot: Match starts in 4 seconds
+[15:09:34] BanchoBot: Match starts in 3 seconds
+[15:09:35] BanchoBot: Good luck, have fun!
+[15:09:37] BanchoBot: The match has started!
+[15:09:39] JerryJumbo: glj
+[15:11:51] BanchoBot: JerryJumbo finished playing (Score: 163361, PASSED).
+[15:11:51] BanchoBot: The match has finished!
+[15:11:59] BCraftMG: !mp map 4733771 0
+[15:12:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4733771 Kushi - Kagefumi Etranger
+[15:12:00] BanchoBot: Changed match mode to Osu
+[15:12:00] BCraftMG: !mp mods 9
+[15:12:01] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[15:12:12] JerryJumbo: ma map nay 100k thi
+[15:12:14] JerryJumbo: quit giai
+[15:12:16] JerryJumbo: !!
+[15:12:35] BanchoBot: All players are ready
+[15:12:42] BCraftMG: !mp start 5
+[15:12:43] BanchoBot: Match starts in 5 seconds
+[15:12:43] BanchoBot: Queued the match to start in 5 seconds
+[15:12:44] BanchoBot: Match starts in 4 seconds
+[15:12:45] BanchoBot: Match starts in 3 seconds
+[15:12:46] BanchoBot: Good luck, have fun!
+[15:12:47] JerryJumbo: glhf
+[15:12:48] BanchoBot: The match has started!
+[15:16:30] BanchoBot: JerryJumbo finished playing (Score: 351518, PASSED).
+[15:16:30] BanchoBot: The match has finished!
+[15:16:56] BCraftMG: kinh roi
+[15:16:57] BCraftMG: !mp map 5169614 0
+[15:16:57] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5169614 DO PHU QUI - PICKLEBALL
+[15:16:57] BanchoBot: Changed match mode to Osu
+[15:17:05] JerryJumbo: ok
+[15:17:09] JerryJumbo: ko can phai quit W
+[15:17:13] JerryJumbo: :fire:
+[15:17:21] JerryJumbo: r dm pickleball
+[15:17:22] JerryJumbo: :pensive:
+[15:17:34] BanchoBot: All players are ready
+[15:17:38] BCraftMG: !mp settings
+[15:17:39] BanchoBot: Room name: LQC2: (Qualifiers) vs (Lobby B2), History: https://osu.ppy.sh/mp/120583363
+[15:17:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/5169614 DO PHU QUI - PICKLEBALL
+[15:17:39] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[15:17:39] BanchoBot: Active mods: NoFail, Hidden
+[15:17:39] BanchoBot: Players: 1
+[15:17:39] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/27634475 JerryJumbo      
+[15:17:40] BCraftMG: !mp start 5
+[15:17:40] BanchoBot: Match starts in 5 seconds
+[15:17:40] BanchoBot: Queued the match to start in 5 seconds
+[15:17:42] BanchoBot: Match starts in 4 seconds
+[15:17:43] BanchoBot: Match starts in 3 seconds
+[15:17:43] BanchoBot: Good luck, have fun!
+[15:17:45] JerryJumbo: pickle
+[15:17:46] BanchoBot: The match has started!
+[15:20:57] BanchoBot: JerryJumbo finished playing (Score: 275468, PASSED).
+[15:20:57] BanchoBot: The match has finished!
+[15:21:01] BCraftMG: !mp map 3460384 0
+[15:21:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3460384 Link"0 feat. usagidenki - Uro no Yorishiro
+[15:21:02] BanchoBot: Changed match mode to Osu
+[15:21:03] BCraftMG: !mp mods 17
+[15:21:04] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[15:21:42] BanchoBot: All players are ready
+[15:21:45] BCraftMG: !mp start 5
+[15:21:46] BanchoBot: Match starts in 5 seconds
+[15:21:46] BanchoBot: Queued the match to start in 5 seconds
+[15:21:47] BanchoBot: Match starts in 4 seconds
+[15:21:48] BanchoBot: Match starts in 3 seconds
+[15:21:49] BanchoBot: Good luck, have fun!
+[15:21:51] BanchoBot: The match has started!
+[15:25:12] BanchoBot: JerryJumbo finished playing (Score: 175497, PASSED).
+[15:25:12] BanchoBot: The match has finished!
+[15:25:35] BCraftMG: map nao roi
+[15:25:36] BCraftMG: !mp map 4421556 0
+[15:25:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4421556 Poppy - Aristocrat
+[15:25:36] BanchoBot: Changed match mode to Osu
+[15:26:10] JerryJumbo: hr2
+[15:26:16] JerryJumbo: nhac nghe
+[15:26:20] JerryJumbo: medieval
+[15:26:22] JerryJumbo: af
+[15:26:23] BanchoBot: All players are ready
+[15:26:25] BCraftMG: !mp settings
+[15:26:26] BanchoBot: Room name: LQC2: (Qualifiers) vs (Lobby B2), History: https://osu.ppy.sh/mp/120583363
+[15:26:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/4421556 Poppy - Aristocrat
+[15:26:26] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[15:26:26] BanchoBot: Active mods: NoFail, HardRock
+[15:26:26] BanchoBot: Players: 1
+[15:26:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/27634475 JerryJumbo      
+[15:26:26] BCraftMG: !mp start 5
+[15:26:26] BanchoBot: Match starts in 5 seconds
+[15:26:26] BanchoBot: Queued the match to start in 5 seconds
+[15:26:28] BanchoBot: Match starts in 4 seconds
+[15:26:29] BanchoBot: Match starts in 3 seconds
+[15:26:29] BanchoBot: Good luck, have fun!
+[15:26:32] BanchoBot: The match has started!
+[15:29:59] BanchoBot: JerryJumbo finished playing (Score: 199137, PASSED).
+[15:29:59] BanchoBot: The match has finished!
+[15:30:19] JerryJumbo: con may map nua ta
+[15:30:21] JerryJumbo: 2 ha
+[15:30:45] BCraftMG: 10
+[15:30:46] BCraftMG: !mp map 4825985 0
+[15:30:46] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4825985 Da LAB feat. Minh Toc & Lam - Bau Troi Moi
+[15:30:46] BanchoBot: Changed match mode to Osu
+[15:30:48] BCraftMG: !mp mods 65
+[15:30:49] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[15:30:52] JerryJumbo: aeinrgoarngua
+[15:30:58] BanchoBot: All players are ready
+[15:31:02] JerryJumbo: glhf
+[15:31:09] BCraftMG: !mp start 5
+[15:31:10] BanchoBot: Match starts in 5 seconds
+[15:31:10] BanchoBot: Queued the match to start in 5 seconds
+[15:31:11] BanchoBot: Match starts in 4 seconds
+[15:31:12] BanchoBot: Match starts in 3 seconds
+[15:31:13] BanchoBot: Good luck, have fun!
+[15:31:15] BanchoBot: The match has started!
+[15:34:18] BanchoBot: JerryJumbo finished playing (Score: 104157, PASSED).
+[15:34:18] BanchoBot: The match has finished!
+[15:34:25] BCraftMG: !mp map 3613661 0
+[15:34:26] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3613661 Foreground Eclipse - Last Liar Standing
+[15:34:26] BanchoBot: Changed match mode to Osu
+[15:34:47] BanchoBot: All players are ready
+[15:35:20] JerryJumbo: googogogogogo
+[15:36:19] BCraftMG: !mp start 5
+[15:36:20] BanchoBot: Match starts in 5 seconds
+[15:36:20] BanchoBot: Queued the match to start in 5 seconds
+[15:36:21] JerryJumbo: ref
+[15:36:21] BanchoBot: Match starts in 4 seconds
+[15:36:22] BanchoBot: Match starts in 3 seconds
+[15:36:23] JerryJumbo: glglgl
+[15:36:23] BanchoBot: Good luck, have fun!
+[15:36:25] BanchoBot: The match has started!
+[15:37:16] BCraftMG: !mp map 1781960
+[15:37:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1781960 Yonezu Kenshi - LOSER
+[15:37:18] BCraftMG: !mp mods FM+NF
+[15:37:18] BanchoBot: Disabled all mods, disabled FreeMod
+[15:38:22] BanchoBot: JerryJumbo finished playing (Score: 117204, PASSED).
+[15:38:22] BanchoBot: The match has finished!
+[15:38:33] JerryJumbo: huh
+[15:38:45] BCraftMG: !mp map 5098776 0
+[15:38:45] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5098776 KNOWER - The Abyss
+[15:38:45] BanchoBot: Changed match mode to Osu
+[15:39:20] BCraftMG: !mp settings
+[15:39:21] BanchoBot: Room name: LQC2: (Qualifiers) vs (Lobby B2), History: https://osu.ppy.sh/mp/120583363
+[15:39:21] BanchoBot: Beatmap: https://osu.ppy.sh/b/5098776 KNOWER - The Abyss
+[15:39:21] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[15:39:21] BanchoBot: Active mods: NoFail, DoubleTime
+[15:39:21] BanchoBot: Players: 1
+[15:39:21] BanchoBot: Slot 1  No Map    https://osu.ppy.sh/u/27634475 JerryJumbo      
+[15:39:40] BanchoBot: All players are ready
+[15:39:46] BCraftMG: !mp settings
+[15:39:47] BanchoBot: Room name: LQC2: (Qualifiers) vs (Lobby B2), History: https://osu.ppy.sh/mp/120583363
+[15:39:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/5098776 KNOWER - The Abyss
+[15:39:47] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[15:39:47] BanchoBot: Active mods: NoFail, DoubleTime
+[15:39:47] BanchoBot: Players: 1
+[15:39:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/27634475 JerryJumbo      
+[15:39:48] BCraftMG: !mp start 5
+[15:39:49] BanchoBot: Match starts in 5 seconds
+[15:39:49] BanchoBot: Queued the match to start in 5 seconds
+[15:39:50] BanchoBot: Match starts in 4 seconds
+[15:39:50] JerryJumbo: glhf
+[15:39:51] BanchoBot: Match starts in 3 seconds
+[15:39:52] BanchoBot: Good luck, have fun!
+[15:39:54] BanchoBot: The match has started!
+[15:41:58] BanchoBot: JerryJumbo finished playing (Score: 113572, PASSED).
+[15:41:58] BanchoBot: The match has finished!
+[15:42:03] JerryJumbo: ok
+[15:42:06] JerryJumbo: di day bb
+[15:42:08] JerryJumbo: o7
+[15:42:09] BanchoBot: JerryJumbo left the game.
+[15:42:19] BCraftMG: !mp close
+[15:42:19] BanchoBot: Closed the match

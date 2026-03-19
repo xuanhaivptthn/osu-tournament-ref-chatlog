@@ -1,0 +1,603 @@
+[21:22:09] Joined #mp_120729609
+[21:22:09] BCraftMG: !mp settings
+[21:22:10] BanchoBot: Room name: LQC2: (aiyern) vs ([-Hoshino-]), History: https://osu.ppy.sh/mp/120729609
+[21:22:10] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[21:22:10] BanchoBot: Players: 0
+[21:22:35] BCraftMG: !mp map 4068659
+[21:22:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4068659 Serani Poji - where is smiley?
+[21:22:38] BCraftMG: !mp set 2 3 3
+[21:22:38] BanchoBot: Changed match settings to 3 slots, TeamVs, ScoreV2
+[21:22:44] BCraftMG: !mp set 0 3 3
+[21:22:45] BanchoBot: Changed match settings to 3 slots, HeadToHead, ScoreV2
+[21:22:50] BCraftMG: !mp addref ngoc17
+[21:22:51] BanchoBot: User not found: ngoc17
+[21:24:22] BCraftMG: !mp addref ngoc17
+[21:24:23] BanchoBot: Added ngoc17 to the match referees
+[21:24:27] BCraftMG: !mp invite #13826244
+[21:24:28] BanchoBot: Invited aiyern to the room
+[21:24:28] BCraftMG: !mp invite #33899498
+[21:24:29] BanchoBot: Invited [-Hoshino-] to the room
+[21:24:50] BanchoBot: aiyern joined in slot 1.
+[21:24:55] BanchoBot: aiyern left the game.
+[21:25:08] BanchoBot: aiyern joined in slot 1.
+[21:25:26] BanchoBot: [-Hoshino-] joined in slot 2.
+[21:25:30] BCraftMG: !mp lock
+[21:25:31] BanchoBot: Locked the match
+[21:25:35] BCraftMG: tot
+[21:25:35] aiyern: hi hello
+[21:25:41] [-Hoshino-]: hello a
+[21:25:44] BCraftMG: warmup or no
+[21:25:57] aiyern: yes
+[21:25:58] [-Hoshino-]: ig yes
+[21:26:04] BCraftMG: !mp host aiyern
+[21:26:04] BanchoBot: aiyern became the host.
+[21:26:04] BanchoBot: Changed match host to aiyern
+[21:26:10] BanchoBot: Host is changing map...
+[21:26:15] BanchoBot: Beatmap changed to: Jamie Paige, Visualeyes - ROT FOR CLOUT [fooders's CLOUT CHASER] (https://osu.ppy.sh/b/5277178)
+[21:26:20] BCraftMG: duoi 4 phut
+[21:26:30] BCraftMG: 3:44
+[21:26:31] BCraftMG: ok tot
+[21:26:43] BanchoBot: All players are ready
+[21:26:54] [-Hoshino-]: start luon a
+[21:26:59] aiyern: is this match streamed?
+[21:27:05] [-Hoshino-]: yes ig
+[21:27:11] [-Hoshino-]: anh an start di
+[21:27:18] BanchoBot: The match has started!
+[21:31:10] BanchoBot: [-Hoshino-] finished playing (Score: 227646, PASSED).
+[21:31:10] BanchoBot: aiyern finished playing (Score: 530771, PASSED).
+[21:31:10] BanchoBot: The match has finished!
+[21:31:21] [-Hoshino-]: nah man ur crazy
+[21:31:27] aiyern: dm gia nhu
+[21:31:31] BanchoBot: [-Hoshino-] became the host.
+[21:31:35] BCraftMG: ê hoxilo
+[21:31:37] [-Hoshino-]: could've been an fc
+[21:31:39] BCraftMG: bcraft205 mbbank
+[21:31:45] [-Hoshino-]: k dc dau
+[21:31:46] BCraftMG: ;)
+[21:31:48] [-Hoshino-]: :tf:
+[21:31:49] BanchoBot: Host is changing map...
+[21:32:18] aiyern: kieu score day top local + double lobby
+[21:32:21] aiyern: how
+[21:32:28] BanchoBot: Beatmap changed to: NOMA - Brain Power [Killer Machine] (https://osu.ppy.sh/b/1157344)
+[21:32:38] [-Hoshino-]: kieu
+[21:32:41] [-Hoshino-]: score cao vc
+[21:33:02] BCraftMG: streamer khong co brain power
+[21:33:05] BCraftMG: toi rat that vong
+[21:33:28] BCraftMG: !mp settings
+[21:33:29] BanchoBot: Room name: LQC2: (aiyern) vs ([-Hoshino-]), History: https://osu.ppy.sh/mp/120729609
+[21:33:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/1157344 NOMA - Brain Power [Killer Machine]
+[21:33:29] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:33:29] BanchoBot: Active mods: Freemod
+[21:33:29] BanchoBot: Players: 2
+[21:33:29] BanchoBot: Slot 1  No Map    https://osu.ppy.sh/u/13826244 aiyern          [NoFail, Hidden]
+[21:33:29] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/33899498 [-Hoshino-]     [Host / NoFail]
+[21:33:33] [-Hoshino-]: tutu
+[21:33:35] [-Hoshino-]: roi
+[21:33:46] BanchoBot: All players are ready
+[21:33:51] [-Hoshino-]: golf
+[21:33:53] BanchoBot: The match has started!
+[21:35:49] BanchoBot: aiyern finished playing (Score: 178295, PASSED).
+[21:35:50] BanchoBot: [-Hoshino-] finished playing (Score: 189551, PASSED).
+[21:35:50] BanchoBot: The match has finished!
+[21:35:56] BCraftMG: !mp map
+[21:35:57] BanchoBot: Invalid map ID provided
+[21:35:58] BCraftMG: !mp clearhost
+[21:35:59] BanchoBot: Cleared match host
+[21:36:10] BCraftMG: !mp map 4068659
+[21:36:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4068659 Serani Poji - where is smiley?
+[21:36:13] BCraftMG: tự giác lên cả nhà
+[21:36:15] BCraftMG: roll thôi
+[21:36:21] aiyern: !roll
+[21:36:21] BanchoBot: aiyern rolls 34 point(s)
+[21:36:21] [-Hoshino-]: !roll
+[21:36:21] BanchoBot: [-Hoshino-] rolls 94 point(s)
+[21:36:25] [-Hoshino-]: wtf
+[21:36:37] BCraftMG: hoshino chọn
+[21:36:55] BCraftMG: prot 1st ban 2nd pick 1st / prot 2nd ban 1st pick 2nd
+[21:37:12] [-Hoshino-]: prot 2nd
+[21:37:18] aiyern: co protect a damn
+[21:37:33] BCraftMG: tôi nghĩ là tôi scam mn
+[21:37:40] [-Hoshino-]: hnhu k co
+[21:37:41] BCraftMG: mới đến ban thôi
+[21:37:42] BCraftMG: lmao
+[21:37:42] [-Hoshino-]: ANH NAY LUA
+[21:37:52] [-Hoshino-]: first ban v
+[21:37:52] BCraftMG: t blame rule doc
+[21:37:59] BCraftMG: NHƯ NHAU MÀ DM HOXILO
+[21:38:02] BCraftMG: aiyern | 0 - 0 | [-Hoshino-] // Best of 9 - First Ban: [-Hoshino-]
+[21:38:08] [-Hoshino-]: thi thich noi v dc k
+[21:38:11] BCraftMG: !mp timer 90
+[21:38:11] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:38:21] [-Hoshino-]: anw HD2
+[21:38:28] BCraftMG: aiyern ban
+[21:38:28] BCraftMG: !mp timer 90
+[21:38:29] BanchoBot: Countdown aborted
+[21:38:29] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:38:32] aiyern: dt2
+[21:38:36] BCraftMG: aiyern | 0 - 0 | [-Hoshino-] // Best of 9 - First Pick: aiyern
+[21:38:37] BCraftMG: !mp timer 90
+[21:38:37] BanchoBot: Countdown aborted
+[21:38:37] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:39:07] [-Hoshino-]: i aint winning but let's try our best
+[21:39:07] aiyern: 1st pick dt3
+[21:39:08] BanchoBot: Countdown ends in 1 minute
+[21:39:14] BCraftMG: !mp map 5246959 0
+[21:39:14] [-Hoshino-]: vcl
+[21:39:15] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5246959 Mili - Lemonade
+[21:39:15] BanchoBot: Changed match mode to Osu
+[21:39:17] BCraftMG: !mp mods 65
+[21:39:18] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:39:18] BCraftMG: !mp timer 90
+[21:39:19] BanchoBot: Countdown aborted
+[21:39:19] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:39:38] BanchoBot: All players are ready
+[21:39:40] BCraftMG: !mp settings
+[21:39:40] aiyern: golf
+[21:39:41] BanchoBot: Room name: LQC2: (aiyern) vs ([-Hoshino-]), History: https://osu.ppy.sh/mp/120729609
+[21:39:41] BanchoBot: Beatmap: https://osu.ppy.sh/b/5246959 Mili - Lemonade
+[21:39:41] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:39:41] BanchoBot: Active mods: NoFail, DoubleTime
+[21:39:41] BanchoBot: Players: 2
+[21:39:41] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:39:41] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/33899498 [-Hoshino-]     
+[21:39:42] BCraftMG: !mp start 5
+[21:39:43] BanchoBot: Countdown aborted
+[21:39:43] BanchoBot: Match starts in 5 seconds
+[21:39:43] BanchoBot: Queued the match to start in 5 seconds
+[21:39:45] BanchoBot: Match starts in 4 seconds
+[21:39:45] [-Hoshino-]: golf
+[21:39:46] BanchoBot: Match starts in 3 seconds
+[21:39:46] BanchoBot: Good luck, have fun!
+[21:39:48] BanchoBot: The match has started!
+[21:41:53] BanchoBot: [-Hoshino-] finished playing (Score: 370764, PASSED).
+[21:41:53] BanchoBot: aiyern finished playing (Score: 482788, PASSED).
+[21:41:53] BanchoBot: The match has finished!
+[21:42:07] BCraftMG: aiyern | 1 - 0 | [-Hoshino-] // Best of 9 - Next Pick: [-Hoshino-]
+[21:42:12] [-Hoshino-]: lmao
+[21:42:13] BCraftMG: !mp timer 90
+[21:42:13] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:42:24] [-Hoshino-]: doi ti uong nuoc cai
+[21:42:29] BCraftMG: khong cho
+[21:42:38] aiyern: o tutu ko de team a
+[21:42:44] BanchoBot: Countdown ends in 1 minute
+[21:43:10] BCraftMG: yes
+[21:43:14] BanchoBot: Countdown ends in 30 seconds
+[21:43:25] [-Hoshino-]: NM4
+[21:43:34] BanchoBot: Countdown ends in 10 seconds
+[21:43:36] BCraftMG: !mp map 4736131 0
+[21:43:37] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4736131 eikko - too late
+[21:43:37] BanchoBot: Changed match mode to Osu
+[21:43:37] BCraftMG: !mp mods 1
+[21:43:38] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:43:39] BanchoBot: Countdown ends in 5 seconds
+[21:43:39] BCraftMG: !mp timer 90
+[21:43:40] BanchoBot: Countdown ends in 4 seconds
+[21:43:40] BanchoBot: Countdown aborted
+[21:43:40] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:44:10] BanchoBot: Countdown ends in 1 minute
+[21:44:24] BanchoBot: All players are ready
+[21:44:25] BCraftMG: !mp settings
+[21:44:26] BanchoBot: Room name: LQC2: (aiyern) vs ([-Hoshino-]), History: https://osu.ppy.sh/mp/120729609
+[21:44:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/4736131 eikko - too late
+[21:44:26] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:44:26] BanchoBot: Active mods: NoFail
+[21:44:26] BanchoBot: Players: 2
+[21:44:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:44:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/33899498 [-Hoshino-]     
+[21:44:27] BCraftMG: !mp start 5
+[21:44:28] BanchoBot: Countdown aborted
+[21:44:28] BanchoBot: Match starts in 5 seconds
+[21:44:28] BanchoBot: Queued the match to start in 5 seconds
+[21:44:29] BanchoBot: Match starts in 4 seconds
+[21:44:31] BanchoBot: Match starts in 3 seconds
+[21:44:31] BanchoBot: Good luck, have fun!
+[21:44:31] aiyern: golf
+[21:44:31] [-Hoshino-]: golf
+[21:44:33] BanchoBot: The match has started!
+[21:46:38] BanchoBot: aiyern finished playing (Score: 805361, PASSED).
+[21:46:39] BanchoBot: [-Hoshino-] finished playing (Score: 600139, PASSED).
+[21:46:39] BanchoBot: The match has finished!
+[21:46:45] [-Hoshino-]: nah gg
+[21:46:53] BCraftMG: aiyern | 2 - 0 | [-Hoshino-] // Best of 9 - Next Pick: aiyern
+[21:46:56] BCraftMG: !mp timer 90
+[21:46:57] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:46:58] [-Hoshino-]: nice score dude
+[21:47:19] aiyern: dm qua hitsound jumpscare vcl
+[21:47:28] BanchoBot: Countdown ends in 1 minute
+[21:47:28] [-Hoshino-]: =)))))
+[21:47:29] aiyern: hr2
+[21:47:35] BCraftMG: !mp map 5429456 0
+[21:47:35] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5429456 Mutsuhiko Izumi - Tengoku to Jigoku
+[21:47:35] BanchoBot: Changed match mode to Osu
+[21:47:37] [-Hoshino-]: im abt to ruin 70% of pickems
+[21:47:38] BCraftMG: !mp mods 17
+[21:47:38] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[21:47:38] BCraftMG: !mp timer 90
+[21:47:39] BanchoBot: Countdown aborted
+[21:47:39] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:47:41] [-Hoshino-]: oh my god
+[21:47:59] aiyern: i voted you win 5-2 dont worry :v
+[21:48:09] BanchoBot: Countdown ends in 1 minute
+[21:48:18] [-Hoshino-]: wth man
+[21:48:40] BanchoBot: Countdown ends in 30 seconds
+[21:48:50] BanchoBot: All players are ready
+[21:48:51] BCraftMG: !mp settings
+[21:48:51] BanchoBot: Room name: LQC2: (aiyern) vs ([-Hoshino-]), History: https://osu.ppy.sh/mp/120729609
+[21:48:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/5429456 Mutsuhiko Izumi - Tengoku to Jigoku
+[21:48:51] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:48:51] BanchoBot: Active mods: NoFail, HardRock
+[21:48:51] BanchoBot: Players: 2
+[21:48:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:48:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/33899498 [-Hoshino-]     
+[21:48:52] BCraftMG: !mp start 5
+[21:48:53] BanchoBot: Countdown aborted
+[21:48:53] BanchoBot: Match starts in 5 seconds
+[21:48:53] BanchoBot: Queued the match to start in 5 seconds
+[21:48:54] [-Hoshino-]: golf
+[21:48:55] BanchoBot: Match starts in 4 seconds
+[21:48:56] BanchoBot: Match starts in 3 seconds
+[21:48:57] BanchoBot: Good luck, have fun!
+[21:48:58] aiyern: gl
+[21:48:59] BanchoBot: The match has started!
+[21:50:45] BanchoBot: [-Hoshino-] finished playing (Score: 278174, PASSED).
+[21:50:45] BanchoBot: aiyern finished playing (Score: 425961, PASSED).
+[21:50:45] BanchoBot: The match has finished!
+[21:50:46] BCraftMG: !mp settings
+[21:50:47] BanchoBot: Room name: LQC2: (aiyern) vs ([-Hoshino-]), History: https://osu.ppy.sh/mp/120729609
+[21:50:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/5429456 Mutsuhiko Izumi - Tengoku to Jigoku
+[21:50:47] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:50:47] BanchoBot: Active mods: NoFail, HardRock
+[21:50:47] BanchoBot: Players: 2
+[21:50:47] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/13826244 aiyern          
+[21:50:47] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/33899498 [-Hoshino-]     
+[21:50:58] BCraftMG: aiyern | 3 - 0 | [-Hoshino-] // Best of 9 - Next Pick: [-Hoshino-]
+[21:51:00] BCraftMG: !mp timer 90
+[21:51:01] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:51:05] [-Hoshino-]: lmao
+[21:51:08] BCraftMG: ra đê hết r
+[21:51:24] [-Hoshino-]: as i was saying
+[21:51:31] BanchoBot: Countdown ends in 1 minute
+[21:51:39] [-Hoshino-]: em dang chuan bi lam cai 70% rate pickem do bay mau
+[21:51:57] [-Hoshino-]: HP1
+[21:52:02] BanchoBot: Countdown ends in 30 seconds
+[21:52:06] BCraftMG: !mp map 4633330 0
+[21:52:07] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4633330 Drop - Granat
+[21:52:07] BanchoBot: Changed match mode to Osu
+[21:52:12] BCraftMG: !mp mods Freemod
+[21:52:13] BanchoBot: Disabled all mods, enabled FreeMod
+[21:52:14] BCraftMG: !mp timer 90
+[21:52:15] BanchoBot: Countdown aborted
+[21:52:15] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:52:16] aiyern: i thought my score was ass ngl
+[21:52:30] [-Hoshino-]: im worse so
+[21:52:34] [-Hoshino-]: add NF
+[21:52:45] BanchoBot: Countdown ends in 1 minute
+[21:53:00] BCraftMG: tự bật nf chứ ai bật đc
+[21:53:04] BanchoBot: All players are ready
+[21:53:04] BCraftMG: fm mà
+[21:53:05] BCraftMG: !mp settings
+[21:53:05] BanchoBot: Room name: LQC2: (aiyern) vs ([-Hoshino-]), History: https://osu.ppy.sh/mp/120729609
+[21:53:05] BanchoBot: Beatmap: https://osu.ppy.sh/b/4633330 Drop - Granat
+[21:53:05] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:53:05] BanchoBot: Active mods: Freemod
+[21:53:05] BanchoBot: Players: 2
+[21:53:05] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          [NoFail]
+[21:53:05] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/33899498 [-Hoshino-]     [NoFail, Hidden, HardRock]
+[21:53:08] BCraftMG: ?
+[21:53:09] [-Hoshino-]: k em nhac aiyern
+[21:53:16] BCraftMG: m làm clgt
+[21:53:16] BanchoBot: Countdown ends in 30 seconds
+[21:53:18] aiyern: i just ready'd without nf
+[21:53:22] BCraftMG: !mp settings
+[21:53:22] BanchoBot: Room name: LQC2: (aiyern) vs ([-Hoshino-]), History: https://osu.ppy.sh/mp/120729609
+[21:53:22] BanchoBot: Beatmap: https://osu.ppy.sh/b/4633330 Drop - Granat
+[21:53:22] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:53:22] BanchoBot: Active mods: Freemod
+[21:53:22] BanchoBot: Players: 2
+[21:53:22] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          [NoFail]
+[21:53:22] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/33899498 [-Hoshino-]     [NoFail, Hidden, HardRock]
+[21:53:24] BCraftMG: !mp start 5
+[21:53:25] BanchoBot: Countdown aborted
+[21:53:25] BanchoBot: Match starts in 5 seconds
+[21:53:25] BanchoBot: Queued the match to start in 5 seconds
+[21:53:27] BanchoBot: Match starts in 4 seconds
+[21:53:28] BanchoBot: Match starts in 3 seconds
+[21:53:29] BanchoBot: Good luck, have fun!
+[21:53:30] aiyern: golf
+[21:53:31] BanchoBot: The match has started!
+[21:54:24] BanchoBot: [-Hoshino-] finished playing (Score: 416598, PASSED).
+[21:54:26] BanchoBot: aiyern finished playing (Score: 114968, PASSED).
+[21:54:26] BanchoBot: The match has finished!
+[21:54:35] BCraftMG: aiyern | 3 - 1 | [-Hoshino-] // Best of 9 - Next Pick: aiyern
+[21:54:37] BCraftMG: !mp timer 90
+[21:54:38] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:54:45] [-Hoshino-]: I GOT A POINT
+[21:55:08] BanchoBot: Countdown ends in 1 minute
+[21:55:15] aiyern: hd1
+[21:55:24] [-Hoshino-]: im cooked
+[21:55:38] BanchoBot: Countdown ends in 30 seconds
+[21:55:49] [-Hoshino-]: HD1 kia a
+[21:55:50] BCraftMG: !mp map 4922547 0
+[21:55:51] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4922547 Ichika Nito - VOID (Visualizer)
+[21:55:51] BanchoBot: Changed match mode to Osu
+[21:55:52] BCraftMG: !Mp mods 9
+[21:55:53] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:55:58] BanchoBot: Countdown ends in 10 seconds
+[21:56:03] BanchoBot: Countdown ends in 5 seconds
+[21:56:04] BanchoBot: Countdown ends in 4 seconds
+[21:56:05] BanchoBot: Countdown ends in 3 seconds
+[21:56:05] BCraftMG: !mp timer 90
+[21:56:06] BanchoBot: Countdown ends in 2 seconds
+[21:56:06] BanchoBot: Countdown aborted
+[21:56:06] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:56:36] BanchoBot: Countdown ends in 1 minute
+[21:56:49] BanchoBot: All players are ready
+[21:56:50] BCraftMG: !mp settings
+[21:56:51] BanchoBot: Room name: LQC2: (aiyern) vs ([-Hoshino-]), History: https://osu.ppy.sh/mp/120729609
+[21:56:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/4922547 Ichika Nito - VOID (Visualizer)
+[21:56:51] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:56:51] BanchoBot: Active mods: NoFail, Hidden
+[21:56:51] BanchoBot: Players: 2
+[21:56:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[21:56:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/33899498 [-Hoshino-]     
+[21:56:52] BCraftMG: !mp start 5
+[21:56:53] BanchoBot: Countdown aborted
+[21:56:53] BanchoBot: Match starts in 5 seconds
+[21:56:53] BanchoBot: Queued the match to start in 5 seconds
+[21:56:54] BanchoBot: Match starts in 4 seconds
+[21:56:55] BanchoBot: Match starts in 3 seconds
+[21:56:55] [-Hoshino-]: golf
+[21:56:56] BanchoBot: Good luck, have fun!
+[21:56:58] aiyern: glhf
+[21:56:58] BanchoBot: The match has started!
+[21:59:14] BanchoBot: aiyern finished playing (Score: 330339, PASSED).
+[21:59:15] BanchoBot: [-Hoshino-] finished playing (Score: 375989, PASSED).
+[21:59:15] BanchoBot: The match has finished!
+[21:59:23] BCraftMG: aiyern | 3 - 2 | [-Hoshino-] // Best of 9 - Next Pick: [-Hoshino-]
+[21:59:24] BCraftMG: !mp timer 90
+[21:59:25] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:59:42] [-Hoshino-]: tbh
+[21:59:45] aiyern: i throwed that omg
+[21:59:49] [-Hoshino-]: idk what to pick
+[21:59:56] BanchoBot: Countdown ends in 1 minute
+[22:00:07] BCraftMG: !roll
+[22:00:07] BanchoBot: BCraftMG rolls 90 point(s)
+[22:00:08] aiyern: just pick what you find fun tbh
+[22:00:14] [-Hoshino-]: HR1
+[22:00:20] aiyern: shit
+[22:00:21] BCraftMG: !mp map 4126265 0
+[22:00:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4126265 Para Dot. - Ultimate taste
+[22:00:21] BanchoBot: Changed match mode to Osu
+[22:00:22] BCraftMG: !mp mods 17
+[22:00:23] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[22:00:25] BCraftMG: !mp timer 90
+[22:00:25] BanchoBot: Countdown ends in 30 seconds
+[22:00:26] BanchoBot: Countdown aborted
+[22:00:26] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[22:00:30] [-Hoshino-]: xd
+[22:00:57] BanchoBot: Countdown ends in 1 minute
+[22:01:09] [-Hoshino-]: anh aiyern
+[22:01:12] [-Hoshino-]: em noi ne
+[22:01:18] aiyern: ??
+[22:01:24] [-Hoshino-]: nay ms gap chuyen hoi kho noi nen tay dang dau
+[22:01:27] BanchoBot: Countdown ends in 30 seconds
+[22:01:31] [-Hoshino-]: em pick dai day
+[22:01:32] [-Hoshino-]: :tf:
+[22:01:34] BanchoBot: All players are ready
+[22:01:36] BCraftMG: !mp settings
+[22:01:36] BanchoBot: Room name: LQC2: (aiyern) vs ([-Hoshino-]), History: https://osu.ppy.sh/mp/120729609
+[22:01:36] BanchoBot: Beatmap: https://osu.ppy.sh/b/4126265 Para Dot. - Ultimate taste
+[22:01:36] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:01:36] BanchoBot: Active mods: NoFail, HardRock
+[22:01:36] BanchoBot: Players: 2
+[22:01:36] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[22:01:36] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/33899498 [-Hoshino-]     
+[22:01:38] BCraftMG: !mp start 5
+[22:01:39] BanchoBot: Countdown aborted
+[22:01:39] BanchoBot: Match starts in 5 seconds
+[22:01:39] BanchoBot: Queued the match to start in 5 seconds
+[22:01:40] BanchoBot: Match starts in 4 seconds
+[22:01:41] BanchoBot: Match starts in 3 seconds
+[22:01:43] BanchoBot: Good luck, have fun!
+[22:01:43] [-Hoshino-]: golf
+[22:01:45] BanchoBot: The match has started!
+[22:05:47] BanchoBot: [-Hoshino-] finished playing (Score: 363116, PASSED).
+[22:05:49] BanchoBot: aiyern finished playing (Score: 234258, PASSED).
+[22:05:49] BanchoBot: The match has finished!
+[22:05:58] BCraftMG: aiyern | 3 - 3 | [-Hoshino-] // Best of 9 - Next Pick: aiyern
+[22:06:01] BCraftMG: !mp timer 90
+[22:06:01] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[22:06:03] [-Hoshino-]: wtf
+[22:06:13] aiyern: its so over
+[22:06:32] BanchoBot: Countdown ends in 1 minute
+[22:06:56] aiyern: idontknowman
+[22:07:01] BanchoBot: Countdown ends in 30 seconds
+[22:07:08] aiyern: nm3
+[22:07:10] BCraftMG: !roll 5
+[22:07:11] BanchoBot: BCraftMG rolls 3 point(s)
+[22:07:14] [-Hoshino-]: i avoided gambling and it's here now
+[22:07:17] BCraftMG: !mp map 5563432 0
+[22:07:18] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5563432 Ave Mujica - Alter Ego
+[22:07:18] BanchoBot: Changed match mode to Osu
+[22:07:18] BCraftMG: !mp mods 1
+[22:07:19] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:07:19] BCraftMG: !mp timer 90
+[22:07:20] BanchoBot: Countdown aborted
+[22:07:20] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[22:07:39] aiyern: i dont know how to gamble man
+[22:07:44] [-Hoshino-]: same man
+[22:07:50] BanchoBot: Countdown ends in 1 minute
+[22:07:53] [-Hoshino-]: i mean i avoided all gambling map
+[22:08:01] [-Hoshino-]: and it's forcing us to gamble
+[22:08:01] [-Hoshino-]: dasuiohdaiuhdauihd
+[22:08:18] BanchoBot: All players are ready
+[22:08:19] BCraftMG: !mp settings
+[22:08:20] BanchoBot: Countdown ends in 30 seconds
+[22:08:20] BanchoBot: Room name: LQC2: (aiyern) vs ([-Hoshino-]), History: https://osu.ppy.sh/mp/120729609
+[22:08:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/5563432 Ave Mujica - Alter Ego
+[22:08:20] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:08:20] BanchoBot: Active mods: NoFail
+[22:08:20] BanchoBot: Players: 2
+[22:08:20] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[22:08:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/33899498 [-Hoshino-]     
+[22:08:22] BCraftMG: !mp start 5
+[22:08:22] BanchoBot: Countdown aborted
+[22:08:22] BanchoBot: Match starts in 5 seconds
+[22:08:22] BanchoBot: Queued the match to start in 5 seconds
+[22:08:24] BanchoBot: Match starts in 4 seconds
+[22:08:25] BanchoBot: Match starts in 3 seconds
+[22:08:26] BanchoBot: Good luck, have fun!
+[22:08:26] [-Hoshino-]: golf
+[22:08:26] aiyern: golf
+[22:08:27] BanchoBot: The match has started!
+[22:12:32] BanchoBot: aiyern finished playing (Score: 303927, PASSED).
+[22:12:33] BanchoBot: [-Hoshino-] finished playing (Score: 327125, PASSED).
+[22:12:33] BanchoBot: The match has finished!
+[22:12:43] BCraftMG: aiyern | 3 - 4 | [-Hoshino-] // Best of 9 - Next Pick: [-Hoshino-]
+[22:12:44] BCraftMG: !mp timer 90
+[22:12:45] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[22:12:46] aiyern: its so over
+[22:12:46] [-Hoshino-]: what the firetruck
+[22:12:51] aiyern: so firetrucking over
+[22:13:09] [-Hoshino-]: 1 map left
+[22:13:15] [-Hoshino-]: what's left
+[22:13:15] BanchoBot: Countdown ends in 1 minute
+[22:13:35] BCraftMG: nm125
+[22:13:37] BCraftMG: dt1
+[22:13:45] BanchoBot: Countdown ends in 30 seconds
+[22:13:56] BCraftMG: thoi t pick tb cho luon nhe
+[22:14:05] BanchoBot: Countdown ends in 10 seconds
+[22:14:05] [-Hoshino-]: NM5
+[22:14:11] BanchoBot: Countdown ends in 5 seconds
+[22:14:12] BanchoBot: Countdown ends in 4 seconds
+[22:14:12] BCraftMG: !mp map 5112696 0
+[22:14:13] BanchoBot: Countdown ends in 3 seconds
+[22:14:13] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5112696 sasakure.UK vs. TJ.hangneil - raputa
+[22:14:13] BanchoBot: Changed match mode to Osu
+[22:14:13] BanchoBot: Countdown ends in 2 seconds
+[22:14:14] BanchoBot: Countdown ends in 1 second
+[22:14:15] BanchoBot: Countdown finished
+[22:14:17] BCraftMG: !mp timer 90
+[22:14:17] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[22:14:35] [-Hoshino-]: map nay map jz
+[22:14:48] BanchoBot: Countdown ends in 1 minute
+[22:14:50] aiyern: congrats for the win hoxilo
+[22:14:55] aiyern: speed
+[22:14:59] [-Hoshino-]: firetruck
+[22:15:10] [-Hoshino-]: tuong 222
+[22:15:12] [-Hoshino-]: ai ngo
+[22:15:15] [-Hoshino-]: haiz chet me r
+[22:15:18] BanchoBot: Countdown ends in 30 seconds
+[22:15:22] aiyern: you can't be more ass than me fym
+[22:15:29] [-Hoshino-]: I CANT SPEED
+[22:15:34] [-Hoshino-]: lol
+[22:15:35] BanchoBot: All players are ready
+[22:15:37] BCraftMG: !mp settings
+[22:15:37] aiyern: SO AM I
+[22:15:37] BanchoBot: Countdown ends in 10 seconds
+[22:15:37] BanchoBot: Room name: LQC2: (aiyern) vs ([-Hoshino-]), History: https://osu.ppy.sh/mp/120729609
+[22:15:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/5112696 sasakure.UK vs. TJ.hangneil - raputa
+[22:15:37] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:15:37] BanchoBot: Active mods: NoFail
+[22:15:37] BanchoBot: Players: 2
+[22:15:37] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          
+[22:15:37] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/33899498 [-Hoshino-]     
+[22:15:39] BCraftMG: !mp start 5
+[22:15:39] BanchoBot: Countdown aborted
+[22:15:39] BanchoBot: Match starts in 5 seconds
+[22:15:39] BanchoBot: Queued the match to start in 5 seconds
+[22:15:41] BanchoBot: Match starts in 4 seconds
+[22:15:42] BanchoBot: Match starts in 3 seconds
+[22:15:43] [-Hoshino-]: gg vro
+[22:15:43] BanchoBot: Good luck, have fun!
+[22:15:44] aiyern: glhf
+[22:15:45] [-Hoshino-]: golf
+[22:15:45] BanchoBot: The match has started!
+[22:18:38] BanchoBot: aiyern finished playing (Score: 369752, PASSED).
+[22:18:38] BanchoBot: [-Hoshino-] finished playing (Score: 242521, PASSED).
+[22:18:38] BanchoBot: The match has finished!
+[22:18:45] [-Hoshino-]: nice bro
+[22:18:48] BCraftMG: !mp map 5193574 0
+[22:18:49] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5193574 ReeK - See Ya, Losers! (I'm off to the Cable Tie Rave)
+[22:18:49] BanchoBot: Changed match mode to Osu
+[22:18:50] BCraftMG: !mp mods Freemod
+[22:18:51] BanchoBot: Disabled all mods, enabled FreeMod
+[22:18:56] BCraftMG: !mp timer 90
+[22:18:56] [-Hoshino-]: BRO I DONT WANNA PLAY THIS
+[22:18:56] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[22:19:04] aiyern: oh my god i didnt play the stupid ass tiebreaker
+[22:19:05] [-Hoshino-]: i'd rather lose
+[22:19:08] aiyern: kill me
+[22:19:10] [-Hoshino-]: oh shit same
+[22:19:27] BanchoBot: Countdown ends in 1 minute
+[22:19:27] [-Hoshino-]: i thought u gonna win
+[22:19:32] [-Hoshino-]: di vs cai
+[22:19:32] aiyern: WHO firetruckING PRACTICE TIEBREAKER
+[22:19:56] BanchoBot: Countdown ends in 30 seconds
+[22:20:17] BanchoBot: Countdown ends in 10 seconds
+[22:20:21] BanchoBot: Countdown ends in 5 seconds
+[22:20:22] BanchoBot: Countdown ends in 4 seconds
+[22:20:23] BanchoBot: Countdown ends in 3 seconds
+[22:20:25] BanchoBot: Countdown ends in 2 seconds
+[22:20:26] BanchoBot: Countdown ends in 1 second
+[22:20:27] BanchoBot: Countdown finished
+[22:20:28] BCraftMG: !mp timer 120
+[22:20:29] BanchoBot: Countdown ends in 2 minutes
+[22:20:30] [-Hoshino-]: true
+[22:20:43] BanchoBot: All players are ready
+[22:20:45] BCraftMG: !mp settings
+[22:20:45] BanchoBot: Room name: LQC2: (aiyern) vs ([-Hoshino-]), History: https://osu.ppy.sh/mp/120729609
+[22:20:45] BanchoBot: Beatmap: https://osu.ppy.sh/b/5193574 ReeK - See Ya, Losers! (I'm off to the Cable Tie Rave)
+[22:20:46] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:20:46] BanchoBot: Active mods: Freemod
+[22:20:46] BanchoBot: Players: 2
+[22:20:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13826244 aiyern          [NoFail]
+[22:20:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/33899498 [-Hoshino-]     [NoFail]
+[22:20:46] BCraftMG: !mp start 5
+[22:20:46] BanchoBot: Countdown aborted
+[22:20:46] BanchoBot: Match starts in 5 seconds
+[22:20:46] BanchoBot: Queued the match to start in 5 seconds
+[22:20:48] BanchoBot: Match starts in 4 seconds
+[22:20:48] [-Hoshino-]: glhf
+[22:20:49] BanchoBot: Match starts in 3 seconds
+[22:20:50] aiyern: glhf
+[22:20:50] BanchoBot: Good luck, have fun!
+[22:20:52] BanchoBot: The match has started!
+[22:26:52] BanchoBot: [-Hoshino-] finished playing (Score: 167020, PASSED).
+[22:26:53] BanchoBot: aiyern finished playing (Score: 175965, PASSED).
+[22:26:53] BanchoBot: The match has finished!
+[22:27:04] BCraftMG: aiyern | 5 - 4 | [-Hoshino-] // aiyern wins! GGWP
+[22:27:07] aiyern: ggwp!!!!!!!!!!!!!!!!!
+[22:27:08] [-Hoshino-]: gg bro
+[22:27:14] [-Hoshino-]: nah ur goated man
+[22:27:17] [-Hoshino-]: thanks for the nice match
+[22:27:27] aiyern: yeah you too
+[22:27:37] aiyern: also thanks for ref and stream
+[22:27:40] [-Hoshino-]: that was so fcking close
+[22:27:46] [-Hoshino-]: also ye thx for ref and stream
+[22:28:01] [-Hoshino-]: gl on next week
+[22:28:02] [-Hoshino-]: ur facing
+[22:28:04] aiyern: like man do you think im stomping you or sth
+[22:28:09] [-Hoshino-]: electrostrike
+[22:28:12] [-Hoshino-]: yeah i did
+[22:28:13] [-Hoshino-]: LMAO
+[22:28:18] aiyern: shutup
+[22:28:21] [-Hoshino-]: ur performance is clearly better than me
+[22:28:33] aiyern: goal for electrostrike: win 1 point
+[22:28:39] [-Hoshino-]: LMAO
+[22:28:40] [-Hoshino-]: gl man
+[22:28:45] aiyern: im just glad i dont have to do like
+[22:28:48] [-Hoshino-]: tuan sau gap lai anh trong 5wc nhe
+[22:28:52] aiyern: 4 matches in 1 weekend
+[22:29:04] [-Hoshino-]: next week is still one match i believe
+[22:29:14] [-Hoshino-]: alr see you soon
+[22:29:18] aiyern: yeah i'll get carried by hosilo
+[22:29:19] [-Hoshino-]: gl next week
+[22:29:22] [-Hoshino-]: gap lai sau nhe
+[22:29:23] aiyern: you too
+[22:29:28] [-Hoshino-]: mong la tuan sau fix dc
+[22:29:30] [-Hoshino-]: mentality
+[22:29:31] BanchoBot: aiyern left the game.
+[22:29:34] BanchoBot: [-Hoshino-] left the game.
+[22:30:03] BCraftMG: !mp close
+[22:30:03] BanchoBot: Closed the match

@@ -1,0 +1,375 @@
+[22:56:52] Joined #mp_120737052
+[22:56:52] BCraftMG: !mp settings
+[22:56:53] BanchoBot: Room name: LQC2: (kinwa) vs (Kai Jinga), History: https://osu.ppy.sh/mp/120737052
+[22:56:53] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[22:56:53] BanchoBot: Players: 0
+[22:57:00] BCraftMG: !mp set 0 3 3
+[22:57:01] BanchoBot: Changed match settings to 3 slots, HeadToHead, ScoreV2
+[22:57:03] BCraftMG: !mp addref trawngs
+[22:57:04] BanchoBot: Added trawngs to the match referees
+[22:57:19] BCraftMG: !mp invite #17944408
+[22:57:20] BanchoBot: Invited kinwa to the room
+[22:57:21] BCraftMG: !mp invite #21695703
+[22:57:21] BanchoBot: Invited Kai Jinga to the room
+[22:57:26] BCraftMG: !mp map 2952884
+[22:57:27] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2952884 MIOYAMAZAKI - Menhera Koufukuron
+[22:57:53] BanchoBot: kinwa joined in slot 1.
+[22:58:51] BCraftMG: hello
+[22:58:53] BCraftMG: warmup or no
+[22:59:57] kinwa: da co a
+[23:00:16] kinwa: cho kai jinga da anh
+[23:00:24] BCraftMG: thi
+[23:00:25] BCraftMG: pick tr
+[23:00:25] BCraftMG: c
+[23:00:28] BCraftMG: !mp host kinwa
+[23:00:29] BanchoBot: kinwa became the host.
+[23:00:29] BanchoBot: Changed match host to kinwa
+[23:00:36] BanchoBot: Kai Jinga joined in slot 2.
+[23:00:39] BanchoBot: Kai Jinga became the host.
+[23:01:00] Kai_Jinga: hello
+[23:01:08] BanchoBot: kinwa became the host.
+[23:01:19] BanchoBot: Host is changing map...
+[23:01:31] BanchoBot: Beatmap changed to: Criticrista - Kyu Kyu Kyun Heart Shaker (TV Size) [Len's Classic Expert] (https://osu.ppy.sh/b/2997011)
+[23:01:47] BanchoBot: All players are ready
+[23:01:48] BanchoBot: The match has started!
+[23:03:27] BanchoBot: Kai Jinga finished playing (Score: 467914, PASSED).
+[23:03:28] BanchoBot: kinwa finished playing (Score: 468757, PASSED).
+[23:03:28] BanchoBot: The match has finished!
+[23:04:05] BanchoBot: Kai Jinga became the host.
+[23:04:08] BanchoBot: Host is changing map...
+[23:04:28] BCraftMG: jimmyjungle
+[23:04:51] BCraftMG: VẪN ĐANG WARMUP
+[23:05:31] BanchoBot: Beatmap changed to: Criticrista - Kyu Kyu Kyun Heart Shaker (TV Size) [Len's Classic Expert] (https://osu.ppy.sh/b/2997011)
+[23:05:39] Kai_Jinga: idk chac skip warm up
+[23:05:52] Kai_Jinga: tai tui cung ko biet pick gi
+[23:05:55] BCraftMG: sure
+[23:05:57] BCraftMG: !mp clearhost
+[23:05:58] BanchoBot: Cleared match host
+[23:06:05] BCraftMG: !mp map 3895683
+[23:06:05] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3895683 rN - Harumachi Elevator
+[23:06:06] BCraftMG: roll time
+[23:06:13] kinwa: !roll
+[23:06:13] BanchoBot: kinwa rolls 98 point(s)
+[23:06:14] Kai_Jinga: !roll
+[23:06:14] BanchoBot: Kai Jinga rolls 66 point(s)
+[23:06:18] Kai_Jinga: ngon
+[23:06:20] kinwa: vai
+[23:06:30] BCraftMG: kinwa pick or ban order
+[23:06:37] Kai_Jinga: phai chi la 67 thi hay
+[23:06:43] kinwa: pick trc
+[23:06:52] Kai_Jinga: kinwa swep 5-0
+[23:06:55] BCraftMG: Kai Jinga ban
+[23:06:56] BCraftMG: !mp timer 90
+[23:06:56] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[23:07:03] Kai_Jinga: HD2 ofc
+[23:07:18] kinwa: nm2
+[23:07:23] BCraftMG: kinwa | 0 - 0 | Kai Jinga // Best of 9 - Next Ban: kinwa
+[23:07:27] BanchoBot: Countdown ends in 1 minute
+[23:07:29] BCraftMG: kinwa | 0 - 0 | Kai Jinga // Best of 9 - First Pick: kinwa
+[23:07:30] BCraftMG: !mp timer 90
+[23:07:31] BanchoBot: Countdown aborted
+[23:07:31] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[23:07:45] kinwa: nm1
+[23:07:50] Kai_Jinga: nhac hay cu pick kinwa =))
+[23:07:52] BCraftMG: !mp map 4977435 0
+[23:07:53] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4977435 minato feat. Hatsune Miku, Megurine Luka - magnet
+[23:07:53] BanchoBot: Changed match mode to Osu
+[23:07:53] BCraftMG: !mp mods 1
+[23:07:54] BanchoBot: Enabled NoFail, disabled FreeMod
+[23:07:54] BCraftMG: !mp timer 90
+[23:07:54] BanchoBot: Countdown aborted
+[23:07:54] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[23:08:14] Kai_Jinga: ua tui tuong ong co map tu truoc @@
+[23:08:23] kinwa: sightread pool ma :)
+[23:08:25] BanchoBot: Countdown ends in 1 minute
+[23:08:33] Kai_Jinga: nma map nay tui tuong ai cung co ma @@
+[23:08:35] BanchoBot: All players are ready
+[23:08:36] BCraftMG: !mp settings
+[23:08:36] BanchoBot: Room name: LQC2: (kinwa) vs (Kai Jinga), History: https://osu.ppy.sh/mp/120737052
+[23:08:36] BanchoBot: Beatmap: https://osu.ppy.sh/b/4977435 minato feat. Hatsune Miku, Megurine Luka - magnet
+[23:08:36] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:08:36] BanchoBot: Active mods: NoFail
+[23:08:36] BanchoBot: Players: 2
+[23:08:36] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17944408 kinwa           
+[23:08:36] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21695703 Kai Jinga       
+[23:08:38] BCraftMG: !mp start 5
+[23:08:39] BanchoBot: Countdown aborted
+[23:08:39] BanchoBot: Match starts in 5 seconds
+[23:08:39] BanchoBot: Queued the match to start in 5 seconds
+[23:08:39] Kai_Jinga: sightread thoi
+[23:08:40] BanchoBot: Match starts in 4 seconds
+[23:08:41] BanchoBot: Match starts in 3 seconds
+[23:08:42] kinwa: not me
+[23:08:42] BanchoBot: Good luck, have fun!
+[23:08:44] BanchoBot: The match has started!
+[23:12:46] BanchoBot: kinwa finished playing (Score: 346658, PASSED).
+[23:12:46] BanchoBot: Kai Jinga finished playing (Score: 51978, PASSED).
+[23:12:47] BanchoBot: The match has finished!
+[23:12:58] BCraftMG: kinwa | 1 - 0 | Kai Jinga // Best of 9 - Next Pick: Kai Jinga
+[23:12:59] Kai_Jinga: nm4
+[23:12:59] BCraftMG: !mp timer 90
+[23:12:59] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[23:13:06] BCraftMG: !mp map 4736131 0
+[23:13:06] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4736131 eikko - too late
+[23:13:06] BanchoBot: Changed match mode to Osu
+[23:13:07] BCraftMG: !mp mods 1
+[23:13:08] BanchoBot: Enabled NoFail, disabled FreeMod
+[23:13:08] BCraftMG: !mp timer 90
+[23:13:09] BanchoBot: Countdown aborted
+[23:13:09] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[23:13:29] Kai_Jinga: vai kinwa sao ong ko tai ca map pack a
+[23:13:38] kinwa: co tai map nao dau
+[23:13:39] BanchoBot: Countdown ends in 1 minute
+[23:13:49] BCraftMG: hanh vi sinh vien ha
+[23:14:04] Kai_Jinga: ko y tui la tai map pack a XD
+[23:14:09] BanchoBot: Countdown ends in 30 seconds
+[23:14:20] Kai_Jinga: ua the lat co minicrip lucky block ko @@
+[23:14:27] kinwa: la sao :))?
+[23:14:29] BanchoBot: Countdown ends in 10 seconds
+[23:14:30] BanchoBot: All players are ready
+[23:14:32] kinwa: yes
+[23:14:34] BCraftMG: !mp settings
+[23:14:34] BanchoBot: Countdown ends in 5 seconds
+[23:14:34] BanchoBot: Room name: LQC2: (kinwa) vs (Kai Jinga), History: https://osu.ppy.sh/mp/120737052
+[23:14:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/4736131 eikko - too late
+[23:14:34] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:14:34] BanchoBot: Active mods: NoFail
+[23:14:34] BanchoBot: Players: 2
+[23:14:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17944408 kinwa           
+[23:14:34] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21695703 Kai Jinga       
+[23:14:35] BanchoBot: Countdown ends in 4 seconds
+[23:14:36] BanchoBot: Countdown ends in 3 seconds
+[23:14:37] Kai_Jinga: ngon
+[23:14:37] BanchoBot: Countdown ends in 2 seconds
+[23:14:37] Kai_Jinga: choi
+[23:14:38] BanchoBot: Countdown ends in 1 second
+[23:14:39] BanchoBot: Countdown finished
+[23:14:41] Kai_Jinga: tui vao ke
+[23:14:46] kinwa: ngon
+[23:14:48] BCraftMG: !mp start 5
+[23:14:49] BanchoBot: Match starts in 5 seconds
+[23:14:49] BanchoBot: Queued the match to start in 5 seconds
+[23:14:50] BanchoBot: Match starts in 4 seconds
+[23:14:51] BanchoBot: Match starts in 3 seconds
+[23:14:52] BanchoBot: Good luck, have fun!
+[23:14:54] BanchoBot: The match has started!
+[23:16:59] BanchoBot: Kai Jinga finished playing (Score: 376028, PASSED).
+[23:16:59] BanchoBot: kinwa finished playing (Score: 361617, PASSED).
+[23:16:59] BanchoBot: The match has finished!
+[23:17:09] BCraftMG: kinwa | 1 - 1 | Kai Jinga // Best of 9 - Next Pick: kinwa
+[23:17:09] BCraftMG: !mp timer 90
+[23:17:10] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[23:17:14] Kai_Jinga: ong troll dung ko
+[23:17:26] kinwa: hd1
+[23:17:28] kinwa: troll gi
+[23:17:41] BanchoBot: Countdown ends in 1 minute
+[23:18:05] Kai_Jinga: =<
+[23:18:11] BanchoBot: Countdown ends in 30 seconds
+[23:18:26] kinwa: hd1 ref oi
+[23:18:31] BanchoBot: Countdown ends in 10 seconds
+[23:18:36] BanchoBot: Countdown ends in 5 seconds
+[23:18:37] BanchoBot: Countdown ends in 4 seconds
+[23:18:37] BCraftMG: !mp map 4922547 0
+[23:18:38] BanchoBot: Countdown ends in 3 seconds
+[23:18:38] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4922547 Ichika Nito - VOID (Visualizer)
+[23:18:38] BanchoBot: Changed match mode to Osu
+[23:18:39] BCraftMG: !mp mods 9
+[23:18:39] BanchoBot: Countdown ends in 2 seconds
+[23:18:39] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[23:18:40] BCraftMG: !mp timer 90
+[23:18:40] BanchoBot: Countdown ends in 1 second
+[23:18:40] BanchoBot: Countdown aborted
+[23:18:40] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[23:18:42] Kai_Jinga: nhanh ref em con minicrip voi kinwa :sob:
+[23:18:58] Kai_Jinga: is this bully ?
+[23:18:59] BCraftMG: kho
+[23:19:10] kinwa: ko biet map
+[23:19:11] BanchoBot: Countdown ends in 1 minute
+[23:19:27] Kai_Jinga: ttui cung v =))))
+[23:19:38] BanchoBot: All players are ready
+[23:19:40] BCraftMG: !mp settings
+[23:19:40] BanchoBot: Countdown ends in 30 seconds
+[23:19:40] BanchoBot: Room name: LQC2: (kinwa) vs (Kai Jinga), History: https://osu.ppy.sh/mp/120737052
+[23:19:40] BanchoBot: Beatmap: https://osu.ppy.sh/b/4922547 Ichika Nito - VOID (Visualizer)
+[23:19:40] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:19:40] BanchoBot: Active mods: NoFail, Hidden
+[23:19:40] BanchoBot: Players: 2
+[23:19:40] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17944408 kinwa           
+[23:19:40] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21695703 Kai Jinga       
+[23:19:41] BCraftMG: !mp start 5
+[23:19:41] BanchoBot: Countdown aborted
+[23:19:41] BanchoBot: Match starts in 5 seconds
+[23:19:41] BanchoBot: Queued the match to start in 5 seconds
+[23:19:43] BanchoBot: Match starts in 4 seconds
+[23:19:43] BanchoBot: Match starts in 3 seconds
+[23:19:44] BanchoBot: Good luck, have fun!
+[23:19:47] BanchoBot: The match has started!
+[23:22:02] BanchoBot: kinwa finished playing (Score: 429068, PASSED).
+[23:22:03] BanchoBot: Kai Jinga finished playing (Score: 139355, PASSED).
+[23:22:03] BanchoBot: The match has finished!
+[23:22:11] BCraftMG: kinwa | 2 - 1 | Kai Jinga // Best of 9 - Next Pick: Kai Jinga
+[23:22:12] BCraftMG: !mp timer 90
+[23:22:13] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[23:22:30] Kai_Jinga: hr1 ?
+[23:22:37] Kai_Jinga: chua choi map nay
+[23:22:40] Kai_Jinga: nma nhac hay
+[23:22:43] BanchoBot: Countdown ends in 1 minute
+[23:22:44] BCraftMG: !mp map 4126265 0
+[23:22:45] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4126265 Para Dot. - Ultimate taste
+[23:22:45] BanchoBot: Changed match mode to Osu
+[23:22:46] BCraftMG: !mp mods 17
+[23:22:46] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[23:22:47] BCraftMG: !mp timer 90
+[23:22:47] BanchoBot: Countdown aborted
+[23:22:47] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[23:22:49] Kai_Jinga: nhin bg la biet
+[23:23:18] BanchoBot: Countdown ends in 1 minute
+[23:23:31] kinwa: map dai the
+[23:23:46] Kai_Jinga: kieu no tong hop bpm
+[23:23:48] BanchoBot: Countdown ends in 30 seconds
+[23:23:54] BanchoBot: All players are ready
+[23:23:56] BCraftMG: !mp settings
+[23:23:56] BanchoBot: Room name: LQC2: (kinwa) vs (Kai Jinga), History: https://osu.ppy.sh/mp/120737052
+[23:23:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/4126265 Para Dot. - Ultimate taste
+[23:23:56] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:23:56] BanchoBot: Active mods: NoFail, HardRock
+[23:23:56] BanchoBot: Players: 2
+[23:23:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17944408 kinwa           
+[23:23:56] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21695703 Kai Jinga       
+[23:23:56] BCraftMG: !mp start 5
+[23:23:57] BanchoBot: Countdown aborted
+[23:23:57] BanchoBot: Match starts in 5 seconds
+[23:23:57] BanchoBot: Queued the match to start in 5 seconds
+[23:23:58] BanchoBot: Match starts in 4 seconds
+[23:23:59] BanchoBot: Match starts in 3 seconds
+[23:24:01] BanchoBot: Good luck, have fun!
+[23:24:01] Kai_Jinga: tui nghe bai nay r =))
+[23:24:02] BanchoBot: The match has started!
+[23:24:04] Kai_Jinga: nma chua choi
+[23:28:04] BanchoBot: Kai Jinga finished playing (Score: 223208, PASSED).
+[23:28:04] BanchoBot: kinwa finished playing (Score: 351515, PASSED).
+[23:28:04] BanchoBot: The match has finished!
+[23:28:14] BCraftMG: kinwa | 3 - 1 | Kai Jinga // Best of 9 - Next Pick: kinwa
+[23:28:15] BCraftMG: !mp timer 90
+[23:28:16] Kai_Jinga: hay ne Kinwa
+[23:28:16] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[23:28:45] kinwa: ref cho xin link mappool dc ko a
+[23:28:46] BanchoBot: Countdown ends in 1 minute
+[23:29:00] BCraftMG: https://docs.google.com/spreadsheets/d/1EOURFg6RghaAGWd_gLyJy1WxcGUdkm_wc17g-GH9PBQ/edit?usp=sharing
+[23:29:01] Kai_Jinga: https://drive.google.com/file/d/1zEGQNUO0m--Xq1pGso3iDkP7uDehb8Wf/view
+[23:29:11] Kai_Jinga: oh wait tui gui nham map pack
+[23:29:16] BanchoBot: Countdown ends in 30 seconds
+[23:29:34] Kai_Jinga: nm3 custom map dung ko ta
+[23:29:36] BanchoBot: Countdown ends in 10 seconds
+[23:29:37] kinwa: dt1 a
+[23:29:41] BanchoBot: Countdown ends in 5 seconds
+[23:29:41] Kai_Jinga: vai
+[23:29:42] BanchoBot: Countdown ends in 4 seconds
+[23:29:43] BanchoBot: Countdown ends in 3 seconds
+[23:29:44] BanchoBot: Countdown ends in 2 seconds
+[23:29:45] BCraftMG: !mp map 4166675 0
+[23:29:45] BanchoBot: Countdown ends in 1 second
+[23:29:46] BanchoBot: Countdown finished
+[23:29:46] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4166675 Anisphia (CV: Senbongi Sayaka), Euphyllia (CV: Iwami Manaka) - Only for you
+[23:29:46] BanchoBot: Changed match mode to Osu
+[23:29:47] BCraftMG: !mp mods 65
+[23:29:47] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[23:29:48] BCraftMG: !mp timer 90
+[23:29:48] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[23:30:11] BanchoBot: All players are ready
+[23:30:13] BCraftMG: !mp settings
+[23:30:13] BanchoBot: Room name: LQC2: (kinwa) vs (Kai Jinga), History: https://osu.ppy.sh/mp/120737052
+[23:30:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/4166675 Anisphia (CV: Senbongi Sayaka), Euphyllia (CV: Iwami Manaka) - Only for you
+[23:30:13] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:30:13] BanchoBot: Active mods: NoFail, DoubleTime
+[23:30:13] BanchoBot: Players: 2
+[23:30:13] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17944408 kinwa           
+[23:30:13] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21695703 Kai Jinga       
+[23:30:14] BCraftMG: !mp start 5
+[23:30:14] BanchoBot: Countdown aborted
+[23:30:14] BanchoBot: Match starts in 5 seconds
+[23:30:14] BanchoBot: Queued the match to start in 5 seconds
+[23:30:16] BanchoBot: Match starts in 4 seconds
+[23:30:16] BanchoBot: Match starts in 3 seconds
+[23:30:17] kinwa: KHAON
+[23:30:18] BanchoBot: Good luck, have fun!
+[23:30:19] kinwa: KKHOANK
+[23:30:19] BanchoBot: The match has started!
+[23:30:20] BCraftMG: !mp abort
+[23:30:21] BanchoBot: Aborted the match
+[23:30:27] kinwa: sorry:))
+[23:30:27] Kai_Jinga: =))))))))))))))))))))))))
+[23:30:29] kinwa: cho xin 10 s
+[23:30:33] Kai_Jinga: quen skin XD
+[23:30:35] kinwa: ok
+[23:30:39] BanchoBot: All players are ready
+[23:30:40] BCraftMG: !mp settings
+[23:30:41] BanchoBot: Room name: LQC2: (kinwa) vs (Kai Jinga), History: https://osu.ppy.sh/mp/120737052
+[23:30:41] BanchoBot: Beatmap: https://osu.ppy.sh/b/4166675 Anisphia (CV: Senbongi Sayaka), Euphyllia (CV: Iwami Manaka) - Only for you
+[23:30:41] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:30:41] BanchoBot: Active mods: NoFail, DoubleTime
+[23:30:41] BanchoBot: Players: 2
+[23:30:41] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17944408 kinwa           
+[23:30:41] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21695703 Kai Jinga       
+[23:30:42] BCraftMG: !mp start 5
+[23:30:43] BanchoBot: Match starts in 5 seconds
+[23:30:43] BanchoBot: Queued the match to start in 5 seconds
+[23:30:44] BanchoBot: Match starts in 4 seconds
+[23:30:45] BanchoBot: Match starts in 3 seconds
+[23:30:46] BanchoBot: Good luck, have fun!
+[23:30:48] BanchoBot: The match has started!
+[23:33:33] BanchoBot: kinwa finished playing (Score: 313792, PASSED).
+[23:33:34] BanchoBot: Kai Jinga finished playing (Score: 256552, PASSED).
+[23:33:34] BanchoBot: The match has finished!
+[23:33:41] BCraftMG: kinwa | 4 - 1 | Kai Jinga // Best of 9 - Next Pick: Kai Jinga
+[23:33:43] BCraftMG: !mp timer 90
+[23:33:43] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[23:33:44] Kai_Jinga: dt3
+[23:33:54] BCraftMG: !mp map 5246959 0
+[23:33:54] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5246959 Mili - Lemonade
+[23:33:54] BanchoBot: Changed match mode to Osu
+[23:33:56] BCraftMG: !mp timer 90
+[23:33:56] BanchoBot: Countdown aborted
+[23:33:56] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[23:34:15] kinwa: ????
+[23:34:19] kinwa: sao no laik cs6
+[23:34:26] Kai_Jinga: o
+[23:34:27] BanchoBot: Countdown ends in 1 minute
+[23:34:29] kinwa: do we deserve destruiction??
+[23:34:30] Kai_Jinga: tui ko biet @@
+[23:34:38] Kai_Jinga: erm
+[23:34:41] Kai_Jinga: thoi lo pick r
+[23:34:43] Kai_Jinga: =))))))))))))))))))))))))
+[23:34:46] Kai_Jinga: tui ko biet XD
+[23:34:56] Kai_Jinga: ong nhac tui moi biet a XD
+[23:34:57] BanchoBot: Countdown ends in 30 seconds
+[23:35:03] BanchoBot: All players are ready
+[23:35:04] BCraftMG: !mp settings
+[23:35:05] BanchoBot: Room name: LQC2: (kinwa) vs (Kai Jinga), History: https://osu.ppy.sh/mp/120737052
+[23:35:05] BanchoBot: Beatmap: https://osu.ppy.sh/b/5246959 Mili - Lemonade
+[23:35:05] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:35:05] BanchoBot: Active mods: NoFail, DoubleTime
+[23:35:05] BanchoBot: Players: 2
+[23:35:05] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/17944408 kinwa           
+[23:35:05] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/21695703 Kai Jinga       
+[23:35:05] BCraftMG: !mp start 5
+[23:35:06] BanchoBot: Countdown aborted
+[23:35:06] BanchoBot: Match starts in 5 seconds
+[23:35:06] BanchoBot: Queued the match to start in 5 seconds
+[23:35:08] BanchoBot: Match starts in 4 seconds
+[23:35:08] BanchoBot: Match starts in 3 seconds
+[23:35:09] BanchoBot: Good luck, have fun!
+[23:35:11] BanchoBot: The match has started!
+[23:37:23] BanchoBot: Kai Jinga finished playing (Score: 133429, PASSED).
+[23:37:23] BanchoBot: kinwa finished playing (Score: 207207, PASSED).
+[23:37:23] BanchoBot: The match has finished!
+[23:37:30] BCraftMG: kinwa | 5 - 1 | Kai Jinga // kinwa wins! GGWP
+[23:37:32] Kai_Jinga: xong
+[23:37:34] Kai_Jinga: yayyyyyyyyyyyyyyy
+[23:37:37] Kai_Jinga: minicrip thoi
+[23:37:39] BanchoBot: kinwa left the game.
+[23:37:41] Kai_Jinga: vao vc Kinwa
+[23:37:46] Kai_Jinga: thanks for ref
+[23:37:49] BanchoBot: Kai Jinga left the game.
+[23:38:04] BCraftMG: !mp close
+[23:38:04] BanchoBot: Closed the match
