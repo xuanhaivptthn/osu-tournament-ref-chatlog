@@ -1,0 +1,389 @@
+[13:19:03] Joined #mp_120907093
+[13:19:03] BCraftMG: !mp settings
+[13:19:04] BanchoBot: Room name: ZAT2: (Qualifiers) vs (Match W2-A4), History: https://osu.ppy.sh/mp/120907093
+[13:19:04] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[13:19:04] BanchoBot: Players: 0
+[13:19:25] BCraftMG: !mp set 0 3 16
+[13:19:25] BanchoBot: Changed match settings to 16 slots, HeadToHead, ScoreV2
+[13:19:38] BCraftMG: !mp invite #9873693
+[13:19:39] BanchoBot: Invited Chyter to the room
+[13:19:42] BCraftMG: !mp map 4199811 0
+[13:19:42] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4199811 Good Kid - Osmosis
+[13:19:42] BanchoBot: Changed match mode to Osu
+[13:19:43] BCraftMG: !mp mods 1
+[13:19:43] BanchoBot: Enabled NoFail, disabled FreeMod
+[13:20:15] BanchoBot: Chyter joined in slot 1.
+[13:20:54] BCraftMG: sorry for the lack of ref
+[13:21:10] Chyter: np
+[13:21:12] BanchoBot: kkmd4 joined in slot 2.
+[13:21:15] BanchoBot: bielaczek joined in slot 3.
+[13:21:19] BanchoBot: bielaczek left the game.
+[13:21:22] kkmd4: hii
+[13:21:23] BCraftMG: you do need to play from NM1 again tho
+[13:21:32] kkmd4: i cooked on nm2 :(
+[13:21:34] kkmd4: but fine
+[13:21:48] BCraftMG: !mp settings
+[13:21:49] BanchoBot: Room name: ZAT2: (Qualifiers) vs (Match W2-A4), History: https://osu.ppy.sh/mp/120907093
+[13:21:49] BanchoBot: Beatmap: https://osu.ppy.sh/b/4199811 Good Kid - Osmosis
+[13:21:49] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[13:21:49] BanchoBot: Active mods: NoFail
+[13:21:49] BanchoBot: Players: 2
+[13:21:49] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9873693 Chyter          
+[13:21:49] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/4612512 kkmd4           
+[13:21:50] BanchoBot: All players are ready
+[13:21:52] BCraftMG: !mp settings
+[13:21:52] BanchoBot: Room name: ZAT2: (Qualifiers) vs (Match W2-A4), History: https://osu.ppy.sh/mp/120907093
+[13:21:52] BanchoBot: Beatmap: https://osu.ppy.sh/b/4199811 Good Kid - Osmosis
+[13:21:52] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[13:21:52] BanchoBot: Active mods: NoFail
+[13:21:52] BanchoBot: Players: 2
+[13:21:52] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9873693 Chyter          
+[13:21:52] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4612512 kkmd4           
+[13:21:53] BCraftMG: !mp start 5
+[13:21:53] BanchoBot: Match starts in 5 seconds
+[13:21:53] BanchoBot: Queued the match to start in 5 seconds
+[13:21:54] BanchoBot: Match starts in 4 seconds
+[13:21:56] BanchoBot: Match starts in 3 seconds
+[13:21:57] BanchoBot: Good luck, have fun!
+[13:21:59] BanchoBot: The match has started!
+[13:24:58] BanchoBot: kkmd4 finished playing (Score: 359984, PASSED).
+[13:24:59] BanchoBot: Chyter finished playing (Score: 375065, PASSED).
+[13:24:59] BanchoBot: The match has finished!
+[13:25:05] BCraftMG: !mp map 1222416 0
+[13:25:05] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1222416 sasakure.UK - Atropos
+[13:25:05] BanchoBot: Changed match mode to Osu
+[13:25:08] BanchoBot: Chyter left the game.
+[13:25:34] BanchoBot: bielaczek joined in slot 1.
+[13:26:02] BanchoBot: All players are ready
+[13:26:04] BCraftMG: !mp settings
+[13:26:05] BanchoBot: Room name: ZAT2: (Qualifiers) vs (Match W2-A4), History: https://osu.ppy.sh/mp/120907093
+[13:26:05] BanchoBot: Beatmap: https://osu.ppy.sh/b/1222416 sasakure.UK - Atropos
+[13:26:05] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[13:26:05] BanchoBot: Active mods: NoFail
+[13:26:05] BanchoBot: Players: 2
+[13:26:05] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10586819 bielaczek       
+[13:26:05] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4612512 kkmd4           
+[13:26:05] BCraftMG: !mp start 5
+[13:26:06] BanchoBot: Match starts in 5 seconds
+[13:26:06] BanchoBot: Queued the match to start in 5 seconds
+[13:26:07] BanchoBot: Match starts in 4 seconds
+[13:26:08] BanchoBot: Match starts in 3 seconds
+[13:26:09] BanchoBot: Good luck, have fun!
+[13:26:11] BanchoBot: The match has started!
+[13:29:16] BanchoBot: kkmd4 finished playing (Score: 394336, PASSED).
+[13:29:16] BanchoBot: bielaczek finished playing (Score: 422534, PASSED).
+[13:29:16] BanchoBot: The match has finished!
+[13:29:39] BCraftMG: !mp map 2395915 0
+[13:29:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2395915 mafumafu - I wanna be a girl
+[13:29:39] BanchoBot: Changed match mode to Osu
+[13:30:04] BanchoBot: kkmd4 left the game.
+[13:33:31] BanchoBot: Chyter joined in slot 2.
+[13:33:44] BanchoBot: Chyter left the game.
+[13:34:08] BanchoBot: Dalcop joined in slot 2.
+[13:34:28] BCraftMG: !mp settings
+[13:34:29] BanchoBot: Room name: ZAT2: (Qualifiers) vs (Match W2-A4), History: https://osu.ppy.sh/mp/120907093
+[13:34:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/2395915 mafumafu - I wanna be a girl
+[13:34:29] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[13:34:29] BanchoBot: Active mods: NoFail
+[13:34:29] BanchoBot: Players: 2
+[13:34:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10586819 bielaczek       
+[13:34:29] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/11525785 Dalcop          
+[13:34:30] BanchoBot: All players are ready
+[13:34:32] BCraftMG: !mp settings
+[13:34:33] BanchoBot: Room name: ZAT2: (Qualifiers) vs (Match W2-A4), History: https://osu.ppy.sh/mp/120907093
+[13:34:33] BanchoBot: Beatmap: https://osu.ppy.sh/b/2395915 mafumafu - I wanna be a girl
+[13:34:33] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[13:34:33] BanchoBot: Active mods: NoFail
+[13:34:33] BanchoBot: Players: 2
+[13:34:33] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10586819 bielaczek       
+[13:34:33] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11525785 Dalcop          
+[13:34:34] BCraftMG: !mp start 5
+[13:34:34] BanchoBot: Match starts in 5 seconds
+[13:34:34] BanchoBot: Queued the match to start in 5 seconds
+[13:34:36] BanchoBot: Match starts in 4 seconds
+[13:34:37] BanchoBot: Match starts in 3 seconds
+[13:34:37] BCraftMG: we do be stallin
+[13:34:37] BanchoBot: Good luck, have fun!
+[13:34:40] BanchoBot: The match has started!
+[13:38:46] BanchoBot: bielaczek finished playing (Score: 413205, PASSED).
+[13:38:46] BanchoBot: Dalcop finished playing (Score: 282012, PASSED).
+[13:38:46] BanchoBot: The match has finished!
+[13:39:03] BCraftMG: !mp map 2439452 0
+[13:39:04] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2439452 USAO - Cyaegha
+[13:39:04] BanchoBot: Changed match mode to Osu
+[13:39:41] BanchoBot: kkmd4 joined in slot 3.
+[13:39:43] BanchoBot: bielaczek left the game.
+[13:39:53] BanchoBot: kkmd4 moved to slot 1
+[13:40:02] BanchoBot: Dalcop left the game.
+[13:40:51] BanchoBot: Chyter joined in slot 2.
+[13:40:53] BanchoBot: All players are ready
+[13:40:55] BCraftMG: !mp settings
+[13:40:55] BanchoBot: Room name: ZAT2: (Qualifiers) vs (Match W2-A4), History: https://osu.ppy.sh/mp/120907093
+[13:40:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/2439452 USAO - Cyaegha
+[13:40:55] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[13:40:55] BanchoBot: Active mods: NoFail
+[13:40:55] BanchoBot: Players: 2
+[13:40:55] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/4612512 kkmd4           
+[13:40:55] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9873693 Chyter          
+[13:40:57] BCraftMG: !mp start 5
+[13:40:57] BanchoBot: Match starts in 5 seconds
+[13:40:57] BanchoBot: Queued the match to start in 5 seconds
+[13:40:58] BanchoBot: Match starts in 4 seconds
+[13:40:59] BanchoBot: Match starts in 3 seconds
+[13:41:00] BanchoBot: Good luck, have fun!
+[13:41:02] BanchoBot: The match has started!
+[13:43:27] BanchoBot: kkmd4 finished playing (Score: 623209, PASSED).
+[13:43:27] BanchoBot: Chyter finished playing (Score: 473066, PASSED).
+[13:43:27] BanchoBot: The match has finished!
+[13:43:54] BanchoBot: kkmd4 left the game.
+[13:43:56] BCraftMG: !mp map 2254685 0
+[13:43:57] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2254685 Endor - Pump It Up
+[13:43:57] BanchoBot: Changed match mode to Osu
+[13:44:03] BanchoBot: bielaczek joined in slot 1.
+[13:44:06] BanchoBot: bielaczek left the game.
+[13:44:12] BanchoBot: Dalcop joined in slot 1.
+[13:44:33] BanchoBot: Chyter left the game.
+[13:44:39] BanchoBot: Chyter joined in slot 2.
+[13:44:51] BanchoBot: All players are ready
+[13:44:57] BCraftMG: !mp settings
+[13:44:57] BanchoBot: Room name: ZAT2: (Qualifiers) vs (Match W2-A4), History: https://osu.ppy.sh/mp/120907093
+[13:44:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/2254685 Endor - Pump It Up
+[13:44:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[13:44:57] BanchoBot: Active mods: NoFail
+[13:44:57] BanchoBot: Players: 2
+[13:44:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11525785 Dalcop          
+[13:44:57] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/9873693 Chyter          
+[13:44:58] BCraftMG: !mp start 5
+[13:44:58] BanchoBot: Match starts in 5 seconds
+[13:44:58] BanchoBot: Queued the match to start in 5 seconds
+[13:44:59] BanchoBot: Match starts in 4 seconds
+[13:45:00] BanchoBot: Match starts in 3 seconds
+[13:45:01] BanchoBot: Good luck, have fun!
+[13:45:01] Chyter: !roll
+[13:45:01] BanchoBot: Chyter rolls 84 point(s)
+[13:45:03] BanchoBot: The match has started!
+[13:47:41] BanchoBot: Chyter finished playing (Score: 280319, PASSED).
+[13:47:41] BanchoBot: Dalcop finished playing (Score: 271301, PASSED).
+[13:47:41] BanchoBot: The match has finished!
+[13:48:00] BanchoBot: bielaczek joined in slot 3.
+[13:48:24] BCraftMG: !mp map 5139399 0
+[13:48:24] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5139399 Imagine Dragons - Take Me To The Beach (feat. Ado)
+[13:48:24] BanchoBot: Changed match mode to Osu
+[13:48:25] BCraftMG: !mp mods 9
+[13:48:26] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[13:49:50] BanchoBot: Chyter left the game.
+[13:49:53] BanchoBot: bielaczek moved to slot 2
+[13:50:03] BanchoBot: All players are ready
+[13:51:37] BCraftMG: !mp settings
+[13:51:38] BanchoBot: Room name: ZAT2: (Qualifiers) vs (Match W2-A4), History: https://osu.ppy.sh/mp/120907093
+[13:51:38] BanchoBot: Beatmap: https://osu.ppy.sh/b/5139399 Imagine Dragons - Take Me To The Beach (feat. Ado)
+[13:51:38] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[13:51:38] BanchoBot: Active mods: NoFail, Hidden
+[13:51:38] BanchoBot: Players: 2
+[13:51:38] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11525785 Dalcop          
+[13:51:38] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10586819 bielaczek       
+[13:51:38] BCraftMG: !mp start 5
+[13:51:39] BanchoBot: Match starts in 5 seconds
+[13:51:39] BanchoBot: Queued the match to start in 5 seconds
+[13:51:40] BanchoBot: Match starts in 4 seconds
+[13:51:41] BanchoBot: Match starts in 3 seconds
+[13:51:42] BanchoBot: Good luck, have fun!
+[13:51:44] BanchoBot: The match has started!
+[13:54:31] BanchoBot: Dalcop finished playing (Score: 762481, PASSED).
+[13:54:33] BanchoBot: bielaczek finished playing (Score: 725623, PASSED).
+[13:54:33] BanchoBot: The match has finished!
+[13:54:33] BCraftMG: !mp map 4009188 0
+[13:54:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4009188 A.SAKA - Mutsuki Akari no Yuki
+[13:54:34] BanchoBot: Changed match mode to Osu
+[13:55:54] BanchoBot: All players are ready
+[13:56:05] BCraftMG: !mp settings
+[13:56:05] BanchoBot: Room name: ZAT2: (Qualifiers) vs (Match W2-A4), History: https://osu.ppy.sh/mp/120907093
+[13:56:05] BanchoBot: Beatmap: https://osu.ppy.sh/b/4009188 A.SAKA - Mutsuki Akari no Yuki
+[13:56:05] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[13:56:05] BanchoBot: Active mods: NoFail, Hidden
+[13:56:05] BanchoBot: Players: 2
+[13:56:05] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11525785 Dalcop          
+[13:56:05] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/10586819 bielaczek       
+[13:56:06] BCraftMG: !mp start 5
+[13:56:06] BanchoBot: Match starts in 5 seconds
+[13:56:06] BanchoBot: Queued the match to start in 5 seconds
+[13:56:08] BanchoBot: Match starts in 4 seconds
+[13:56:08] BanchoBot: Match starts in 3 seconds
+[13:56:09] BanchoBot: Good luck, have fun!
+[13:56:12] BanchoBot: The match has started!
+[13:59:13] BanchoBot: bielaczek finished playing (Score: 609821, PASSED).
+[13:59:14] BanchoBot: Dalcop finished playing (Score: 198574, PASSED).
+[13:59:14] BanchoBot: The match has finished!
+[13:59:26] BanchoBot: kkmd4 joined in slot 3.
+[13:59:26] BanchoBot: bielaczek left the game.
+[13:59:31] BanchoBot: Dalcop left the game.
+[13:59:32] BCraftMG: !mp map 4983165 0
+[13:59:32] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4983165 San-Z - Original Me
+[13:59:32] BanchoBot: Changed match mode to Osu
+[13:59:33] BanchoBot: Chyter joined in slot 1.
+[13:59:34] BCraftMG: !mp mods 17
+[13:59:34] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[13:59:37] BanchoBot: kkmd4 moved to slot 2
+[14:00:05] BanchoBot: All players are ready
+[14:00:08] BCraftMG: !mp settings
+[14:00:08] BanchoBot: Room name: ZAT2: (Qualifiers) vs (Match W2-A4), History: https://osu.ppy.sh/mp/120907093
+[14:00:08] BanchoBot: Beatmap: https://osu.ppy.sh/b/4983165 San-Z - Original Me
+[14:00:08] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[14:00:08] BanchoBot: Active mods: NoFail, HardRock
+[14:00:08] BanchoBot: Players: 2
+[14:00:08] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9873693 Chyter          
+[14:00:08] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4612512 kkmd4           
+[14:00:09] BCraftMG: !mp start 5
+[14:00:09] BanchoBot: Match starts in 5 seconds
+[14:00:09] BanchoBot: Queued the match to start in 5 seconds
+[14:00:11] BanchoBot: Match starts in 4 seconds
+[14:00:11] BanchoBot: Match starts in 3 seconds
+[14:00:12] BanchoBot: Good luck, have fun!
+[14:00:15] BanchoBot: The match has started!
+[14:04:03] BanchoBot: kkmd4 finished playing (Score: 361566, PASSED).
+[14:04:03] BanchoBot: Chyter finished playing (Score: 364917, PASSED).
+[14:04:03] BanchoBot: The match has finished!
+[14:04:11] BCraftMG: !mp map 716972 0
+[14:04:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/716972 MYTHOLOGIA by MLREC. - Ymir
+[14:04:12] BanchoBot: Changed match mode to Osu
+[14:04:26] BanchoBot: All players are ready
+[14:04:39] BCraftMG: !mp settings
+[14:04:39] BanchoBot: Room name: ZAT2: (Qualifiers) vs (Match W2-A4), History: https://osu.ppy.sh/mp/120907093
+[14:04:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/716972 MYTHOLOGIA by MLREC. - Ymir
+[14:04:39] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[14:04:39] BanchoBot: Active mods: NoFail, HardRock
+[14:04:39] BanchoBot: Players: 2
+[14:04:39] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9873693 Chyter          
+[14:04:39] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4612512 kkmd4           
+[14:04:41] BCraftMG: !mp start 5
+[14:04:42] BanchoBot: Match starts in 5 seconds
+[14:04:42] BanchoBot: Queued the match to start in 5 seconds
+[14:04:43] BanchoBot: Match starts in 4 seconds
+[14:04:44] BanchoBot: Match starts in 3 seconds
+[14:04:45] BanchoBot: Good luck, have fun!
+[14:04:47] BanchoBot: The match has started!
+[14:06:54] BanchoBot: Chyter finished playing (Score: 347795, PASSED).
+[14:06:54] BanchoBot: kkmd4 finished playing (Score: 306361, PASSED).
+[14:06:54] BanchoBot: The match has finished!
+[14:07:14] BanchoBot: bielaczek joined in slot 3.
+[14:07:26] BanchoBot: bielaczek left the game.
+[14:07:37] BanchoBot: Chyter left the game.
+[14:07:47] BanchoBot: Chyter joined in slot 1.
+[14:07:51] BanchoBot: All players are ready
+[14:08:17] Chyter: !roll
+[14:08:17] BanchoBot: Chyter rolls 79 point(s)
+[14:08:29] kkmd4: so we replaying hr2 fine
+[14:08:31] BanchoBot: All players are ready
+[14:08:43] Chyter: yep let's go
+[14:09:22] BCraftMG: !mp settings
+[14:09:22] BanchoBot: Room name: ZAT2: (Qualifiers) vs (Match W2-A4), History: https://osu.ppy.sh/mp/120907093
+[14:09:22] BanchoBot: Beatmap: https://osu.ppy.sh/b/716972 MYTHOLOGIA by MLREC. - Ymir
+[14:09:22] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[14:09:22] BanchoBot: Active mods: NoFail, HardRock
+[14:09:22] BanchoBot: Players: 2
+[14:09:22] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9873693 Chyter          
+[14:09:22] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4612512 kkmd4           
+[14:09:27] BCraftMG: !mp start 5
+[14:09:27] BanchoBot: Match starts in 5 seconds
+[14:09:27] BanchoBot: Queued the match to start in 5 seconds
+[14:09:29] BanchoBot: Match starts in 4 seconds
+[14:09:29] BanchoBot: Match starts in 3 seconds
+[14:09:30] BanchoBot: Good luck, have fun!
+[14:09:33] BanchoBot: The match has started!
+[14:09:33] Chyter: eee
+[14:09:34] BCraftMG: wait
+[14:09:37] BCraftMG: !mp abort
+[14:09:38] BanchoBot: Aborted the match
+[14:09:41] BCraftMG: !mp map 4028188 0
+[14:09:42] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4028188 SISTAR - I Like That
+[14:09:42] BanchoBot: Changed match mode to Osu
+[14:09:44] BCraftMG: !mp mods 65
+[14:09:44] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[14:09:45] kkmd4: xDD
+[14:09:51] BCraftMG: MBBBBBB
+[14:09:51] Chyter: ee śpisz?
+[14:09:51] BanchoBot: All players are ready
+[14:09:52] BCraftMG: !mp settings
+[14:09:53] BanchoBot: Room name: ZAT2: (Qualifiers) vs (Match W2-A4), History: https://osu.ppy.sh/mp/120907093
+[14:09:53] BanchoBot: Beatmap: https://osu.ppy.sh/b/4028188 SISTAR - I Like That
+[14:09:53] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[14:09:53] BanchoBot: Active mods: NoFail, DoubleTime
+[14:09:53] BanchoBot: Players: 2
+[14:09:53] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/9873693 Chyter          
+[14:09:53] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4612512 kkmd4           
+[14:09:54] BCraftMG: !mp start 5
+[14:09:54] BanchoBot: Match starts in 5 seconds
+[14:09:54] BanchoBot: Queued the match to start in 5 seconds
+[14:09:55] BanchoBot: Match starts in 4 seconds
+[14:09:56] BanchoBot: Match starts in 3 seconds
+[14:09:57] BanchoBot: Good luck, have fun!
+[14:09:59] BanchoBot: The match has started!
+[14:12:31] BanchoBot: kkmd4 finished playing (Score: 207355, PASSED).
+[14:12:31] BanchoBot: Chyter finished playing (Score: 348350, PASSED).
+[14:12:31] BanchoBot: The match has finished!
+[14:12:33] BCraftMG: !mp map 4941950 0
+[14:12:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4941950 SMiLE.dk - Koko Soko (AKIBA KOUBOU Eurobeat Remix)
+[14:12:33] BanchoBot: Changed match mode to Osu
+[14:12:47] BanchoBot: bielaczek joined in slot 3.
+[14:12:48] BanchoBot: kkmd4 left the game.
+[14:12:48] BanchoBot: Dalcop joined in slot 2.
+[14:12:48] BCraftMG: i had to go out to cough
+[14:12:54] BCraftMG: at class rn
+[14:12:55] BCraftMG: sorry
+[14:13:06] BanchoBot: Chyter left the game.
+[14:13:12] BanchoBot: bielaczek moved to slot 1
+[14:13:24] BanchoBot: All players are ready
+[14:13:27] BCraftMG: !mp settings
+[14:13:27] BanchoBot: Room name: ZAT2: (Qualifiers) vs (Match W2-A4), History: https://osu.ppy.sh/mp/120907093
+[14:13:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/4941950 SMiLE.dk - Koko Soko (AKIBA KOUBOU Eurobeat Remix)
+[14:13:27] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[14:13:27] BanchoBot: Active mods: NoFail, DoubleTime
+[14:13:27] BanchoBot: Players: 2
+[14:13:27] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10586819 bielaczek       
+[14:13:27] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/11525785 Dalcop          
+[14:13:28] BCraftMG: !mp start 5
+[14:13:29] BanchoBot: Match starts in 5 seconds
+[14:13:29] BanchoBot: Queued the match to start in 5 seconds
+[14:13:30] BanchoBot: Match starts in 4 seconds
+[14:13:31] BanchoBot: Match starts in 3 seconds
+[14:13:32] BanchoBot: Good luck, have fun!
+[14:13:34] BanchoBot: The match has started!
+[14:15:48] BanchoBot: Dalcop finished playing (Score: 254473, PASSED).
+[14:15:48] BanchoBot: bielaczek finished playing (Score: 338273, PASSED).
+[14:15:48] BanchoBot: The match has finished!
+[14:15:50] BCraftMG: !mp map 4381666 0
+[14:15:50] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4381666 The Herb Shop Ft. Nabana Nana - Kin'iro no uta (HYPRDRIVE Remix)
+[14:15:50] BanchoBot: Changed match mode to Osu
+[14:15:53] BCraftMG: !mp mods Freemod
+[14:15:54] BanchoBot: Disabled all mods, enabled FreeMod
+[14:16:02] BanchoBot: Dalcop left the game.
+[14:16:18] BanchoBot: kkmd4 joined in slot 2.
+[14:16:34] BanchoBot: All players are ready
+[14:16:36] BCraftMG: !mp settings
+[14:16:36] BanchoBot: Room name: ZAT2: (Qualifiers) vs (Match W2-A4), History: https://osu.ppy.sh/mp/120907093
+[14:16:36] BanchoBot: Beatmap: https://osu.ppy.sh/b/4381666 The Herb Shop Ft. Nabana Nana - Kin'iro no uta (HYPRDRIVE Remix)
+[14:16:36] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[14:16:36] BanchoBot: Active mods: Freemod
+[14:16:36] BanchoBot: Players: 2
+[14:16:36] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/10586819 bielaczek       [NoFail]
+[14:16:36] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/4612512 kkmd4           [NoFail]
+[14:16:40] BCraftMG: !mp start 5
+[14:16:40] BanchoBot: Match starts in 5 seconds
+[14:16:40] BanchoBot: Queued the match to start in 5 seconds
+[14:16:41] BanchoBot: Match starts in 4 seconds
+[14:16:42] BanchoBot: Match starts in 3 seconds
+[14:16:43] BanchoBot: Good luck, have fun!
+[14:16:45] BanchoBot: The match has started!
+[14:20:13] BanchoBot: kkmd4 finished playing (Score: 100606, PASSED).
+[14:20:13] BanchoBot: bielaczek finished playing (Score: 185889, PASSED).
+[14:20:13] BanchoBot: The match has finished!
+[14:20:19] BCraftMG: ggwp
+[14:20:23] BCraftMG: again sorry for the lack of referee
+[14:20:32] kkmd4: chill
+[14:20:33] kkmd4: ty for ref
+[14:20:34] kkmd4: gg wp
+[14:20:45] BanchoBot: kkmd4 left the game.
+[14:20:45] bielaczek: ty
+[14:20:57] BanchoBot: bielaczek left the game.
+[14:21:05] BCraftMG: !mp close
+[14:21:05] BanchoBot: Closed the match

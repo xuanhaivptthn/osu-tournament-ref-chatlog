@@ -1,0 +1,841 @@
+[20:55:20] Joined #mp_120867417
+[20:55:20] BCraftMG: !mp settings
+[20:55:22] BanchoBot: Room name: LQC2: (electrostrike) vs (Vo Hieu Grape), History: https://osu.ppy.sh/mp/120867417
+[20:55:22] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[20:55:22] BanchoBot: Players: 0
+[20:55:27] BCraftMG: !mp set 0 3 3
+[20:55:28] BanchoBot: Changed match settings to 3 slots, HeadToHead, ScoreV2
+[20:55:33] BCraftMG: !mp addref ngoc17
+[20:55:34] BanchoBot: Added ngoc17 to the match referees
+[20:55:36] BCraftMG: !mp invite #11538640
+[20:55:36] BanchoBot: User not found
+[20:55:38] BCraftMG: !mp invite #13238121
+[20:55:39] BanchoBot: User not found
+[21:00:14] BCraftMG: !mp invite #11538640
+[21:00:15] BanchoBot: Invited electrostrike to the room
+[21:00:16] BCraftMG: !mp invite #13238121
+[21:00:16] BanchoBot: Invited Vo Hieu Grape to the room
+[21:00:30] BanchoBot: electrostrike joined in slot 1.
+[21:00:38] BCraftMG: !mp lock
+[21:00:39] BanchoBot: Locked the match
+[21:00:43] BanchoBot: Vo Hieu Grape joined in slot 2.
+[21:00:54] BCraftMG: hello
+[21:00:56] BCraftMG: warmup or no
+[21:01:22] electrostrike: co
+[21:01:27] Vo_Hieu_Grape: CO
+[21:01:36] BCraftMG: !mp host electrostrike
+[21:01:36] BanchoBot: electrostrike became the host.
+[21:01:36] BanchoBot: Changed match host to electrostrike
+[21:01:39] BanchoBot: Beatmap changed to: inabakumori - Haru no Sekibaku [Collab Insane] (https://osu.ppy.sh/b/4154979)
+[21:01:45] BanchoBot: Host is changing map...
+[21:02:02] BanchoBot: Beatmap changed to: Mitsukiyo - Summer Bounce [Summer Vacation] (https://osu.ppy.sh/b/4692588)
+[21:02:49] Vo_Hieu_Grape: CHOI
+[21:02:51] BanchoBot: All players are ready
+[21:02:58] BanchoBot: The match has started!
+[21:05:26] BanchoBot: Vo Hieu Grape finished playing (Score: 493057, PASSED).
+[21:05:27] BanchoBot: electrostrike finished playing (Score: 612055, PASSED).
+[21:05:27] BanchoBot: The match has finished!
+[21:05:42] BanchoBot: Vo Hieu Grape became the host.
+[21:05:45] BanchoBot: Host is changing map...
+[21:05:55] BanchoBot: Beatmap changed to: _BonBon - TWO DAYS IN A TUESDAY [piss in yo mouf] (https://osu.ppy.sh/b/4062076)
+[21:05:56] electrostrike: BAT BG DIM LEN SO MO THEO OSU
+[21:06:03] BCraftMG: ?
+[21:06:06] BCraftMG: ?
+[21:06:06] BCraftMG: ?
+[21:06:07] Vo_Hieu_Grape: THAY R
+[21:06:15] BCraftMG: mp clearhost
+[21:06:15] electrostrike: thua
+[21:06:43] BanchoBot: All players are ready
+[21:06:53] BanchoBot: The match has started!
+[21:09:41] BanchoBot: electrostrike finished playing (Score: 10217, PASSED).
+[21:09:42] BanchoBot: Vo Hieu Grape finished playing (Score: 44203, PASSED).
+[21:09:42] BanchoBot: The match has finished!
+[21:09:53] Vo_Hieu_Grape: <3
+[21:09:53] BCraftMG: !mp clearhost
+[21:09:54] BanchoBot: Cleared match host
+[21:09:56] BCraftMG: !mp map 2952884
+[21:09:56] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2952884 MIOYAMAZAKI - Menhera Koufukuron
+[21:10:03] BCraftMG: finals roi
+[21:10:04] BCraftMG: tu giac
+[21:10:14] Vo_Hieu_Grape: hem
+[21:10:18] electrostrike: !roll
+[21:10:18] BanchoBot: electrostrike rolls 72 point(s)
+[21:10:18] BCraftMG: (t ko nho rule)
+[21:10:20] BCraftMG: mp kick
+[21:10:24] Vo_Hieu_Grape: !roll
+[21:10:24] BanchoBot: Vo Hieu Grape rolls 21 point(s)
+[21:10:39] electrostrike: win duy nhat trong match nay la roll
+[21:10:41] BCraftMG: Protect trước, Ban sau, Pick trước hoặc Protect sau, Ban trước, Pick sau
+[21:10:48] electrostrike: 1st protect
+[21:10:58] BCraftMG: electrostrike | 0 - 0 | Vo Hieu Grape // Best of 13 - First Protect: electrostrike
+[21:10:59] BCraftMG: !mp timer 90
+[21:11:00] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:11:30] BanchoBot: Countdown ends in 1 minute
+[21:11:33] electrostrike: hp1
+[21:11:48] BCraftMG: electrostrike | 0 - 0 | Vo Hieu Grape // Best of 13 - Next Protect: Vo Hieu Grape
+[21:11:48] BCraftMG: !mp timer 90
+[21:11:49] BanchoBot: Countdown aborted
+[21:11:49] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:11:53] electrostrike: quay vong
+[21:11:54] BCraftMG: k the chap nhan dc
+[21:12:00] BCraftMG: tai sao t lai phai nho rule
+[21:12:20] BanchoBot: Countdown ends in 1 minute
+[21:12:34] Vo_Hieu_Grape: hd1
+[21:12:46] BCraftMG: electrostrike | 0 - 0 | Vo Hieu Grape // Best of 13 - First Ban: Vo Hieu Grape
+[21:12:46] BCraftMG: !mp timer 90
+[21:12:48] BanchoBot: Countdown aborted
+[21:12:48] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:13:00] Vo_Hieu_Grape: nm6
+[21:13:10] BCraftMG: electrostrike | 0 - 0 | Vo Hieu Grape // Best of 13 - Next Ban: electrostrike
+[21:13:15] BCraftMG: !mp timer 180
+[21:13:16] BanchoBot: Countdown aborted
+[21:13:17] BanchoBot: Countdown ends in 3 minutes
+[21:13:41] electrostrike: ban nm2 dt2
+[21:13:52] BCraftMG: electrostrike | 0 - 0 | Vo Hieu Grape // Best of 13 - Next Ban: Vo Hieu Grape
+[21:13:53] BCraftMG: !mp timer 90
+[21:13:54] BanchoBot: Countdown aborted
+[21:13:54] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:14:24] BanchoBot: Countdown ends in 1 minute
+[21:14:48] Vo_Hieu_Grape: dt3
+[21:14:54] BanchoBot: Countdown ends in 30 seconds
+[21:14:58] BCraftMG: electrostrike | 0 - 0 | Vo Hieu Grape // Best of 13 - First Pick: electrostrike
+[21:14:59] BCraftMG: !mp timer 90
+[21:15:00] BanchoBot: Countdown aborted
+[21:15:00] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:15:31] BanchoBot: Countdown ends in 1 minute
+[21:15:48] BCraftMG: pick map nao nhac hay di
+[21:15:50] BCraftMG: t muon nghe nhac
+[21:16:00] electrostrike: oge
+[21:16:01] BanchoBot: Countdown ends in 30 seconds
+[21:16:02] electrostrike: dt1
+[21:16:06] BCraftMG: !mp map 4814024 0
+[21:16:06] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4814024 AKASAKI - Bunny Girl
+[21:16:06] BanchoBot: Changed match mode to Osu
+[21:16:07] BCraftMG: !mp mods 65
+[21:16:07] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:16:08] BCraftMG: !mp timer 90
+[21:16:08] BanchoBot: Countdown aborted
+[21:16:08] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:16:17] electrostrike: yoru no hajimari sa
+[21:16:19] electrostrike: bunny girl
+[21:16:23] Vo_Hieu_Grape: yoru no hajimari sa
+[21:16:33] BCraftMG: ducky-
+[21:16:39] BCraftMG: cai chet
+[21:16:39] BanchoBot: Countdown ends in 1 minute
+[21:16:50] BanchoBot: All players are ready
+[21:16:50] BCraftMG: !mp settings
+[21:16:51] BanchoBot: Room name: LQC2: (electrostrike) vs (Vo Hieu Grape), History: https://osu.ppy.sh/mp/120867417
+[21:16:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/4814024 AKASAKI - Bunny Girl
+[21:16:51] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:16:51] BanchoBot: Active mods: NoFail, DoubleTime
+[21:16:51] BanchoBot: Players: 2
+[21:16:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[21:16:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13238121 Vo Hieu Grape   
+[21:16:53] BCraftMG: !mp start 5
+[21:16:53] BanchoBot: Countdown aborted
+[21:16:53] BanchoBot: Match starts in 5 seconds
+[21:16:53] BanchoBot: Queued the match to start in 5 seconds
+[21:16:55] BanchoBot: Match starts in 4 seconds
+[21:16:55] electrostrike: glhf
+[21:16:56] BanchoBot: Match starts in 3 seconds
+[21:16:57] BanchoBot: Good luck, have fun!
+[21:16:57] Vo_Hieu_Grape: chit
+[21:16:59] BanchoBot: The match has started!
+[21:17:13] electrostrike: abort
+[21:17:17] electrostrike: abort
+[21:17:20] BCraftMG: !mp abort
+[21:17:20] BanchoBot: Aborted the match
+[21:17:21] electrostrike: helppp
+[21:17:30] Vo_Hieu_Grape: hay on goi
+[21:17:36] Vo_Hieu_Grape: nerf mel pls
+[21:17:44] BCraftMG: t dong y
+[21:17:46] electrostrike: chuot vua chet
+[21:17:47] electrostrike: grr
+[21:17:52] BCraftMG: dm murasaki rie dm murasaki rie dm murasaki rie dm murasaki rie dm murasaki rie dm murasaki rie dm murasaki rie dm murasaki rie dm murasaki rie dm murasaki rie
+[21:18:05] BanchoBot: All players are ready
+[21:18:10] Vo_Hieu_Grape: chit
+[21:18:17] electrostrike: golf
+[21:18:28] BCraftMG: !mp settings
+[21:18:28] BanchoBot: Room name: LQC2: (electrostrike) vs (Vo Hieu Grape), History: https://osu.ppy.sh/mp/120867417
+[21:18:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/4814024 AKASAKI - Bunny Girl
+[21:18:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:18:28] BanchoBot: Active mods: NoFail, DoubleTime
+[21:18:29] BanchoBot: Players: 2
+[21:18:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[21:18:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13238121 Vo Hieu Grape   
+[21:18:30] BCraftMG: !mp start 5
+[21:18:31] BanchoBot: Match starts in 5 seconds
+[21:18:31] BanchoBot: Queued the match to start in 5 seconds
+[21:18:32] BanchoBot: Match starts in 4 seconds
+[21:18:33] BanchoBot: Match starts in 3 seconds
+[21:18:34] BanchoBot: Good luck, have fun!
+[21:18:36] BanchoBot: The match has started!
+[21:21:06] BanchoBot: Vo Hieu Grape finished playing (Score: 389610, PASSED).
+[21:21:06] BanchoBot: electrostrike finished playing (Score: 311586, PASSED).
+[21:21:06] BanchoBot: The match has finished!
+[21:21:18] BCraftMG: electrostrike | 0 - 1 | Vo Hieu Grape // Best of 13 - Next Pick: Vo Hieu Grape
+[21:21:20] BCraftMG: !mp timer 90
+[21:21:20] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:21:27] BCraftMG: t khi caster lap dan harem cho player
+[21:21:30] BCraftMG: WHAT ABOUT ME
+[21:21:43] electrostrike: 3
+[21:21:45] Vo_Hieu_Grape: nm5
+[21:21:51] BanchoBot: Countdown ends in 1 minute
+[21:21:54] BCraftMG: m lừa t à
+[21:21:56] electrostrike: chiu me r
+[21:22:01] BCraftMG: !mp map 5167347 0
+[21:22:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5167347 Kano, Nagi Nemoto - Midnight Theater
+[21:22:02] BanchoBot: Changed match mode to Osu
+[21:22:03] BCraftMG: !mp mods 1
+[21:22:03] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:22:05] BCraftMG: !mp timer 90
+[21:22:05] BanchoBot: Countdown aborted
+[21:22:05] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:22:12] electrostrike: nghe nhac kano nhe
+[21:22:36] BanchoBot: Countdown ends in 1 minute
+[21:22:36] Vo_Hieu_Grape: ELECTROSTRIEK OI GPA CUA ANH BAO NHIEU
+[21:22:43] electrostrike: ?
+[21:22:43] electrostrike: hoi lam j
+[21:22:49] Vo_Hieu_Grape: TO MO
+[21:23:05] BanchoBot: Countdown ends in 30 seconds
+[21:23:06] electrostrike: doan di
+[21:23:10] Vo_Hieu_Grape: 3.6
+[21:23:21] electrostrike: vl
+[21:23:24] electrostrike: var a
+[21:23:25] BanchoBot: Countdown ends in 10 seconds
+[21:23:28] BanchoBot: All players are ready
+[21:23:30] BanchoBot: Countdown ends in 5 seconds
+[21:23:31] BanchoBot: Countdown ends in 4 seconds
+[21:23:31] Vo_Hieu_Grape: :3
+[21:23:32] BCraftMG: !mp settings
+[21:23:32] BanchoBot: Countdown ends in 3 seconds
+[21:23:33] BanchoBot: Countdown ends in 2 seconds
+[21:23:33] BanchoBot: Room name: LQC2: (electrostrike) vs (Vo Hieu Grape), History: https://osu.ppy.sh/mp/120867417
+[21:23:33] BanchoBot: Beatmap: https://osu.ppy.sh/b/5167347 Kano, Nagi Nemoto - Midnight Theater
+[21:23:33] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:23:33] BanchoBot: Active mods: NoFail
+[21:23:33] BanchoBot: Players: 2
+[21:23:33] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[21:23:33] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13238121 Vo Hieu Grape   
+[21:23:34] BCraftMG: !mp start 5
+[21:23:34] BanchoBot: Countdown ends in 1 second
+[21:23:34] BanchoBot: Countdown aborted
+[21:23:34] BanchoBot: Match starts in 5 seconds
+[21:23:34] BanchoBot: Queued the match to start in 5 seconds
+[21:23:35] BanchoBot: Match starts in 4 seconds
+[21:23:37] BanchoBot: Match starts in 3 seconds
+[21:23:37] Vo_Hieu_Grape: chit
+[21:23:38] BanchoBot: Good luck, have fun!
+[21:23:38] electrostrike: golf
+[21:23:40] BanchoBot: The match has started!
+[21:27:16] BanchoBot: Vo Hieu Grape finished playing (Score: 725504, PASSED).
+[21:27:16] BanchoBot: electrostrike finished playing (Score: 409809, PASSED).
+[21:27:16] BanchoBot: The match has finished!
+[21:27:25] electrostrike: SAO M KO FC
+[21:27:26] electrostrike: ?
+[21:27:28] Vo_Hieu_Grape: :(
+[21:27:29] BCraftMG: electrostrike | 0 - 2 | Vo Hieu Grape // Best of 13 - Next Pick: electrostrike
+[21:27:31] BCraftMG: !mp timer 90
+[21:27:32] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:28:02] electrostrike: con bao nhieu map nhi
+[21:28:02] BanchoBot: Countdown ends in 1 minute
+[21:28:03] BCraftMG: owc player k fc
+[21:28:09] Vo_Hieu_Grape: kieu
+[21:28:10] BCraftMG: 3nm
+[21:28:10] Vo_Hieu_Grape: 20
+[21:28:11] BCraftMG: 1hr
+[21:28:12] BCraftMG: 3hp
+[21:28:24] electrostrike: !roll 15
+[21:28:24] BanchoBot: electrostrike rolls 13 point(s)
+[21:28:30] electrostrike: 13 la map j nhi
+[21:28:32] BanchoBot: Countdown ends in 30 seconds
+[21:28:38] Vo_Hieu_Grape: dt4
+[21:28:52] electrostrike: dc
+[21:28:52] BanchoBot: Countdown ends in 10 seconds
+[21:28:54] electrostrike: dt4
+[21:28:57] BCraftMG: ai cho double pick
+[21:28:58] BanchoBot: Countdown ends in 5 seconds
+[21:28:58] BanchoBot: Countdown ends in 4 seconds
+[21:28:59] BanchoBot: Countdown ends in 3 seconds
+[21:29:00] BanchoBot: Countdown ends in 2 seconds
+[21:29:01] BanchoBot: Countdown ends in 1 second
+[21:29:02] BanchoBot: Countdown finished
+[21:29:06] electrostrike: chet me
+[21:29:07] BCraftMG: !mp timer 60
+[21:29:07] BanchoBot: Countdown ends in 1 minute
+[21:29:09] electrostrike: nm3
+[21:29:14] BCraftMG: !mp map 3771872 0
+[21:29:14] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3771872 Kano - Batsu to Batsu
+[21:29:14] BanchoBot: Changed match mode to Osu
+[21:29:16] BCraftMG: !mp timer 90
+[21:29:16] BanchoBot: Countdown aborted
+[21:29:16] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:29:27] electrostrike: van la nghe nhac kano nhe
+[21:29:47] BanchoBot: Countdown ends in 1 minute
+[21:30:05] electrostrike: cai dis map nay ar 9.8 a
+[21:30:13] Vo_Hieu_Grape: CAO THE
+[21:30:16] BanchoBot: Countdown ends in 30 seconds
+[21:30:37] BanchoBot: All players are ready
+[21:30:37] BanchoBot: Countdown ends in 10 seconds
+[21:30:41] BanchoBot: Countdown ends in 5 seconds
+[21:30:42] BanchoBot: Countdown ends in 4 seconds
+[21:30:43] BanchoBot: Countdown ends in 3 seconds
+[21:30:44] BanchoBot: Countdown ends in 2 seconds
+[21:30:44] electrostrike: golf
+[21:30:45] BanchoBot: Countdown ends in 1 second
+[21:30:46] BanchoBot: Countdown finished
+[21:30:48] Vo_Hieu_Grape: chit]
+[21:31:03] BCraftMG: !mp settings
+[21:31:04] BanchoBot: Room name: LQC2: (electrostrike) vs (Vo Hieu Grape), History: https://osu.ppy.sh/mp/120867417
+[21:31:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/3771872 Kano - Batsu to Batsu
+[21:31:04] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:31:04] BanchoBot: Active mods: NoFail
+[21:31:04] BanchoBot: Players: 2
+[21:31:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[21:31:04] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13238121 Vo Hieu Grape   
+[21:31:04] BCraftMG: !mp start 5
+[21:31:04] BCraftMG: !mp start 5
+[21:31:05] BanchoBot: Match starts in 5 seconds
+[21:31:05] BanchoBot: Queued the match to start in 5 seconds
+[21:31:07] BanchoBot: Match starts in 4 seconds
+[21:31:08] BanchoBot: Match starts in 3 seconds
+[21:31:09] BanchoBot: Good luck, have fun!
+[21:31:11] BanchoBot: The match has started!
+[21:35:23] BanchoBot: Vo Hieu Grape finished playing (Score: 313861, PASSED).
+[21:35:24] BanchoBot: electrostrike finished playing (Score: 291400, PASSED).
+[21:35:24] BanchoBot: The match has finished!
+[21:35:30] BCraftMG: electrostrike | 0 - 3 | Vo Hieu Grape // Best of 13 - Next Pick: Vo Hieu Grape
+[21:35:31] BCraftMG: !mp timer 90
+[21:35:32] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:35:37] electrostrike: danh hay v nguyen
+[21:35:41] electrostrike: sao nay danh con vi ko dc nhu nay
+[21:35:43] Vo_Hieu_Grape: 300 combo
+[21:35:56] Vo_Hieu_Grape: thang draven 6000 mau
+[21:35:58] Vo_Hieu_Grape: em khong lam gi duoc
+[21:36:02] BanchoBot: Countdown ends in 1 minute
+[21:36:32] BanchoBot: Countdown ends in 30 seconds
+[21:36:47] electrostrike: roll di
+[21:36:48] electrostrike: :))
+[21:36:53] BanchoBot: Countdown ends in 10 seconds
+[21:36:57] Vo_Hieu_Grape: nm4
+[21:36:57] BCraftMG: NM1 NM4 HD1 HD2 HD3 HD4 HR1 HR2 HR3 HR4 DT4 HP1
+[21:36:58] BanchoBot: Countdown ends in 5 seconds
+[21:36:59] BanchoBot: Countdown ends in 4 seconds
+[21:37:00] BanchoBot: Countdown ends in 3 seconds
+[21:37:01] BanchoBot: Countdown ends in 2 seconds
+[21:37:02] BanchoBot: Countdown ends in 1 second
+[21:37:03] BanchoBot: Countdown finished
+[21:37:03] Vo_Hieu_Grape: eelctrostrike oi em nen an gi
+[21:37:03] BCraftMG: !mp map 5319597 0
+[21:37:04] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5319597 Kahxlyrio - Anything You Want
+[21:37:04] BanchoBot: Changed match mode to Osu
+[21:37:05] BCraftMG: !mp mods 1
+[21:37:05] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:37:11] BCraftMG: !mp timer 90
+[21:37:12] electrostrike: nen nhin
+[21:37:12] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:37:19] Vo_Hieu_Grape: CHAUN Y EM R
+[21:37:29] electrostrike: NGOL
+[21:37:42] BanchoBot: Countdown ends in 1 minute
+[21:38:04] electrostrike: an chao a
+[21:38:12] BanchoBot: Countdown ends in 30 seconds
+[21:38:20] electrostrike: airdrop qua 1 it an voi
+[21:38:23] BanchoBot: All players are ready
+[21:38:25] BCraftMG: !mp settings
+[21:38:26] electrostrike: :)
+[21:38:26] BanchoBot: Room name: LQC2: (electrostrike) vs (Vo Hieu Grape), History: https://osu.ppy.sh/mp/120867417
+[21:38:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/5319597 Kahxlyrio - Anything You Want
+[21:38:26] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:38:26] BanchoBot: Active mods: NoFail
+[21:38:26] BanchoBot: Players: 2
+[21:38:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[21:38:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13238121 Vo Hieu Grape   
+[21:38:28] BCraftMG: !mp start 5
+[21:38:29] BanchoBot: Countdown aborted
+[21:38:29] BanchoBot: Match starts in 5 seconds
+[21:38:29] BanchoBot: Queued the match to start in 5 seconds
+[21:38:31] BanchoBot: Match starts in 4 seconds
+[21:38:32] BanchoBot: Match starts in 3 seconds
+[21:38:33] electrostrike: golf
+[21:38:33] BanchoBot: Good luck, have fun!
+[21:38:34] Vo_Hieu_Grape: aaaaaaaaaaaaa
+[21:38:35] BanchoBot: The match has started!
+[21:41:26] BanchoBot: electrostrike finished playing (Score: 244062, PASSED).
+[21:41:27] BanchoBot: Vo Hieu Grape finished playing (Score: 237969, PASSED).
+[21:41:27] BanchoBot: The match has finished!
+[21:41:36] BCraftMG: electrostrike | 1 - 3 | Vo Hieu Grape // Best of 13 - Next Pick: electrostrike
+[21:41:38] electrostrike: ?
+[21:41:43] electrostrike: dung troll nua
+[21:41:47] Vo_Hieu_Grape: em khong biet aim
+[21:41:48] BCraftMG: yeu cau electrostrike ship cho caster it bbinh oxy
+[21:41:58] BCraftMG: !mp timer 90
+[21:41:59] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:42:00] electrostrike: :))
+[21:42:29] BanchoBot: Countdown ends in 1 minute
+[21:42:56] electrostrike: lam ti
+[21:42:58] electrostrike: hai phong 1
+[21:42:59] BanchoBot: Countdown ends in 30 seconds
+[21:43:08] BCraftMG: !mp map 5597194 0
+[21:43:09] electrostrike: hp1
+[21:43:09] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5597194 skibiditeteto - Looping the Rooms feat. Shimon Topaz
+[21:43:09] BanchoBot: Changed match mode to Osu
+[21:43:10] BCraftMG: !mp set 0 0 3
+[21:43:11] BanchoBot: Changed match settings to 3 slots, HeadToHead, Score
+[21:43:12] BCraftMG: !mp mods 1
+[21:43:13] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:43:19] BCraftMG: !mp timer 90
+[21:43:19] BanchoBot: Countdown ends in 10 seconds
+[21:43:20] BanchoBot: Countdown aborted
+[21:43:20] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:43:24] Vo_Hieu_Grape: xoay vong xoay vongxoay vongxoay vongxoay vongxoay vongxoay vongxoay vongxoay vongxoay vongxoay vongxoay vongxoay vongxoay vongxoay vongxoay vongxoay vong
+[21:43:43] electrostrike: xoay vong xoay vong xoay vong xoay vong xoay vong xoay vong xoay vong
+[21:43:49] electrostrike: xoay vong xoay vong xoay vong xoay vong xoay vong xoay vong xoay vong xoay vong xoay vong xoay vong xoay vong xoay vong xoay vong xoay vong xoay vong xoay vong xoay vong xoay vong xoay vong xoay vong xoay vong xoay vong xoay vong xoay vong xoay vong
+[21:43:51] BanchoBot: Countdown ends in 1 minute
+[21:43:53] BanchoBot: All players are ready
+[21:43:55] BCraftMG: !mp settings
+[21:43:55] electrostrike: golf
+[21:43:55] BanchoBot: Room name: LQC2: (electrostrike) vs (Vo Hieu Grape), History: https://osu.ppy.sh/mp/120867417
+[21:43:55] BanchoBot: Beatmap: https://osu.ppy.sh/b/5597194 skibiditeteto - Looping the Rooms feat. Shimon Topaz
+[21:43:55] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[21:43:55] BanchoBot: Active mods: NoFail
+[21:43:55] BanchoBot: Players: 2
+[21:43:55] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[21:43:55] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13238121 Vo Hieu Grape   
+[21:43:59] BCraftMG: !mp start 5
+[21:44:00] BanchoBot: Countdown aborted
+[21:44:00] BanchoBot: Match starts in 5 seconds
+[21:44:00] BanchoBot: Queued the match to start in 5 seconds
+[21:44:01] BanchoBot: Match starts in 4 seconds
+[21:44:02] BanchoBot: Match starts in 3 seconds
+[21:44:03] BanchoBot: Good luck, have fun!
+[21:44:05] BanchoBot: The match has started!
+[21:46:14] BanchoBot: Vo Hieu Grape finished playing (Score: 587698, PASSED).
+[21:46:14] BanchoBot: electrostrike finished playing (Score: 730206, PASSED).
+[21:46:14] BanchoBot: The match has finished!
+[21:46:26] BCraftMG: electrostrike | 2 - 3 | Vo Hieu Grape // Best of 13 - Next Pick: Vo Hieu Grape
+[21:46:26] BCraftMG: !mp timer 90
+[21:46:27] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:46:29] Vo_Hieu_Grape: xoauy ving
+[21:46:38] BCraftMG: có cần mua bản đồ không
+[21:46:46] Vo_Hieu_Grape: hd3
+[21:46:54] BCraftMG: !mp map 3154786 0
+[21:46:54] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3154786 Usagi Aikoukai(cosMo x syuri22) - Dare ga Tame ni Usagi wa Mau=Kyousoku Kyousou Kyoku=
+[21:46:54] BanchoBot: Changed match mode to Osu
+[21:46:55] BCraftMG: !mp mods 9
+[21:46:56] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:46:58] BanchoBot: Countdown ends in 1 minute
+[21:46:58] BCraftMG: !mp set 0 3 3
+[21:46:59] BanchoBot: Changed match settings to 3 slots, HeadToHead, ScoreV2
+[21:46:59] BCraftMG: !mp timer 90
+[21:47:00] BanchoBot: Countdown aborted
+[21:47:00] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:47:08] electrostrike: cai dis
+[21:47:11] electrostrike: sao van con map tapping
+[21:47:30] BanchoBot: Countdown ends in 1 minute
+[21:47:32] BanchoBot: All players are ready
+[21:47:34] Vo_Hieu_Grape: pyon
+[21:47:38] BCraftMG: !mp settings
+[21:47:39] BanchoBot: Room name: LQC2: (electrostrike) vs (Vo Hieu Grape), History: https://osu.ppy.sh/mp/120867417
+[21:47:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/3154786 Usagi Aikoukai(cosMo x syuri22) - Dare ga Tame ni Usagi wa Mau=Kyousoku Kyousou Kyoku=
+[21:47:39] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:47:39] BanchoBot: Active mods: NoFail, Hidden
+[21:47:39] BanchoBot: Players: 2
+[21:47:39] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[21:47:39] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13238121 Vo Hieu Grape   
+[21:47:40] BCraftMG: !mp start 5
+[21:47:40] BanchoBot: Countdown aborted
+[21:47:40] BanchoBot: Match starts in 5 seconds
+[21:47:40] BanchoBot: Queued the match to start in 5 seconds
+[21:47:42] BanchoBot: Match starts in 4 seconds
+[21:47:42] electrostrike: golf
+[21:47:43] BanchoBot: Match starts in 3 seconds
+[21:47:44] BanchoBot: Good luck, have fun!
+[21:47:46] BanchoBot: The match has started!
+[21:49:46] BanchoBot: electrostrike finished playing (Score: 888824, PASSED).
+[21:49:48] BanchoBot: Vo Hieu Grape finished playing (Score: 522691, PASSED).
+[21:49:48] BanchoBot: The match has finished!
+[21:49:53] electrostrike: ?
+[21:49:57] Vo_Hieu_Grape: du`
+[21:49:58] electrostrike: T VUA LAM CAIO DEO J V
+[21:50:20] Vo_Hieu_Grape: ??
+[21:50:27] BCraftMG: electrostrike | 3 - 3 | Vo Hieu Grape // Best of 13 - Next Pick: electrostrike
+[21:50:28] electrostrike: ???
+[21:50:28] BCraftMG: !mp timer 90
+[21:50:29] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:50:59] BanchoBot: Countdown ends in 1 minute
+[21:51:06] electrostrike: NGHE NHAC KO NGUYEN
+[21:51:19] Vo_Hieu_Grape: oki
+[21:51:24] electrostrike: HD1
+[21:51:29] Vo_Hieu_Grape: du
+[21:51:29] BanchoBot: Countdown ends in 30 seconds
+[21:51:34] BCraftMG: !mp map 5405913 0
+[21:51:35] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5405913 Mili - Peach Pit and Cyanide
+[21:51:35] BanchoBot: Changed match mode to Osu
+[21:51:38] BCraftMG: !mp mods 9
+[21:51:38] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:51:38] BCraftMG: !mp timer 90
+[21:51:39] BanchoBot: Countdown aborted
+[21:51:39] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:52:04] BCraftMG: vetoed
+[21:52:09] BanchoBot: Countdown ends in 1 minute
+[21:52:12] electrostrike: vetoed
+[21:52:19] Vo_Hieu_Grape: chit
+[21:52:19] BanchoBot: All players are ready
+[21:52:23] electrostrike: glhf
+[21:52:28] electrostrike: golffffffffffffffff
+[21:52:40] BanchoBot: Countdown ends in 30 seconds
+[21:52:59] BanchoBot: Countdown ends in 10 seconds
+[21:53:04] BanchoBot: Countdown ends in 5 seconds
+[21:53:05] BanchoBot: Countdown ends in 4 seconds
+[21:53:07] BanchoBot: Countdown ends in 3 seconds
+[21:53:08] BanchoBot: Countdown ends in 2 seconds
+[21:53:09] BanchoBot: Countdown ends in 1 second
+[21:53:10] BanchoBot: Countdown finished
+[21:53:14] BCraftMG: !mp settings
+[21:53:14] BanchoBot: Room name: LQC2: (electrostrike) vs (Vo Hieu Grape), History: https://osu.ppy.sh/mp/120867417
+[21:53:14] BanchoBot: Beatmap: https://osu.ppy.sh/b/5405913 Mili - Peach Pit and Cyanide
+[21:53:14] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:53:14] BanchoBot: Active mods: NoFail, Hidden
+[21:53:14] BanchoBot: Players: 2
+[21:53:14] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[21:53:14] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13238121 Vo Hieu Grape   
+[21:53:15] BCraftMG: !mp start 5
+[21:53:16] BanchoBot: Match starts in 5 seconds
+[21:53:16] BanchoBot: Queued the match to start in 5 seconds
+[21:53:17] BanchoBot: Match starts in 4 seconds
+[21:53:19] BanchoBot: Match starts in 3 seconds
+[21:53:20] BanchoBot: Good luck, have fun!
+[21:53:22] BanchoBot: The match has started!
+[21:56:38] BanchoBot: electrostrike finished playing (Score: 321964, PASSED).
+[21:56:39] BanchoBot: Vo Hieu Grape finished playing (Score: 304433, PASSED).
+[21:56:39] BanchoBot: The match has finished!
+[21:56:45] electrostrike: ?
+[21:56:46] electrostrike: THAT KO DAY NGUYEN
+[21:56:47] BCraftMG: electrostrike | 4 - 3 | Vo Hieu Grape // Best of 13 - Next Pick: Vo Hieu Grape
+[21:56:48] BCraftMG: !mp timer 90
+[21:56:48] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:56:49] Vo_Hieu_Grape: aadadadadadadada22 combo
+[21:56:55] Vo_Hieu_Grape: 252 comBO
+[21:57:19] BanchoBot: Countdown ends in 1 minute
+[21:57:49] BanchoBot: Countdown ends in 30 seconds
+[21:58:02] Vo_Hieu_Grape: dt4
+[21:58:09] BanchoBot: Countdown ends in 10 seconds
+[21:58:14] BanchoBot: Countdown ends in 5 seconds
+[21:58:15] BanchoBot: Countdown ends in 4 seconds
+[21:58:16] BanchoBot: Countdown ends in 3 seconds
+[21:58:16] electrostrike: map j day
+[21:58:17] BanchoBot: Countdown ends in 2 seconds
+[21:58:18] BanchoBot: Countdown ends in 1 second
+[21:58:19] BCraftMG: !mp map 2995215 0
+[21:58:19] BanchoBot: Countdown finished
+[21:58:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2995215 Qualia Qu - MIRA
+[21:58:20] BanchoBot: Changed match mode to Osu
+[21:58:21] BCraftMG: !mp mods 65
+[21:58:22] BCraftMG: !mp timer 90
+[21:58:22] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:58:23] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[21:58:25] Vo_Hieu_Grape: em k biet
+[21:58:27] electrostrike: SAO NOTE NO GHI LA READING ??
+[21:58:28] Vo_Hieu_Grape: ua sao no ar7
+[21:58:32] electrostrike: CAI DIS
+[21:58:34] Vo_Hieu_Grape: ....
+[21:58:53] BanchoBot: Countdown ends in 1 minute
+[21:59:05] Vo_Hieu_Grape: ong oi
+[21:59:09] Vo_Hieu_Grape: doi pick duoc k
+[21:59:24] BanchoBot: Countdown ends in 30 seconds
+[21:59:27] electrostrike: thua
+[21:59:32] BCraftMG: ready up hoac la +1 diem cho elec
+[21:59:34] BanchoBot: All players are ready
+[21:59:39] BCraftMG: !mp settings
+[21:59:40] BanchoBot: Room name: LQC2: (electrostrike) vs (Vo Hieu Grape), History: https://osu.ppy.sh/mp/120867417
+[21:59:40] BanchoBot: Beatmap: https://osu.ppy.sh/b/2995215 Qualia Qu - MIRA
+[21:59:40] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:59:40] BanchoBot: Active mods: NoFail, DoubleTime
+[21:59:40] BanchoBot: Players: 2
+[21:59:40] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[21:59:40] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13238121 Vo Hieu Grape   
+[21:59:42] BCraftMG: !mp start 5
+[21:59:43] BanchoBot: Countdown aborted
+[21:59:43] BanchoBot: Match starts in 5 seconds
+[21:59:43] BanchoBot: Queued the match to start in 5 seconds
+[21:59:45] BanchoBot: Match starts in 4 seconds
+[21:59:46] BanchoBot: Match starts in 3 seconds
+[21:59:46] BanchoBot: Good luck, have fun!
+[21:59:48] BanchoBot: The match has started!
+[22:01:17] BanchoBot: Vo Hieu Grape finished playing (Score: 555293, PASSED).
+[22:01:17] BanchoBot: electrostrike finished playing (Score: 161509, PASSED).
+[22:01:17] BanchoBot: The match has finished!
+[22:01:24] electrostrike: ghe v
+[22:01:35] Vo_Hieu_Grape: suc manh cua niem tin va hy vong
+[22:01:43] BCraftMG: electrostrike | 4 - 4 | Vo Hieu Grape // Best of 13 - Next Pick: electrostrike
+[22:01:45] BCraftMG: !mp timer 90
+[22:01:45] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[22:02:13] electrostrike: HET MAP BIET CHOI ROI
+[22:02:14] electrostrike: CHET ME
+[22:02:16] BanchoBot: Countdown ends in 1 minute
+[22:02:21] Vo_Hieu_Grape: top 5 loi noi doi
+[22:02:46] BanchoBot: Countdown ends in 30 seconds
+[22:03:01] electrostrike: hr3
+[22:03:06] BanchoBot: Countdown ends in 10 seconds
+[22:03:10] BCraftMG: !mp map 4723958 0
+[22:03:10] BanchoBot: Countdown ends in 5 seconds
+[22:03:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4723958 Dormir - Namaiki Princess (Long Ver.)
+[22:03:11] BanchoBot: Changed match mode to Osu
+[22:03:12] BanchoBot: Countdown ends in 4 seconds
+[22:03:12] BCraftMG: !mp mods 17
+[22:03:12] BanchoBot: Countdown ends in 3 seconds
+[22:03:12] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[22:03:13] BCraftMG: !mp timer 90
+[22:03:13] Vo_Hieu_Grape: ong oi sao ong bat nat
+[22:03:13] BanchoBot: Countdown ends in 2 seconds
+[22:03:13] BanchoBot: Countdown aborted
+[22:03:13] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[22:03:44] BanchoBot: Countdown ends in 1 minute
+[22:03:46] electrostrike: VAI CUT MAP SWING A
+[22:03:53] BanchoBot: All players are ready
+[22:03:56] BCraftMG: !mp settings
+[22:03:56] BanchoBot: Room name: LQC2: (electrostrike) vs (Vo Hieu Grape), History: https://osu.ppy.sh/mp/120867417
+[22:03:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/4723958 Dormir - Namaiki Princess (Long Ver.)
+[22:03:56] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:03:56] BanchoBot: Active mods: NoFail, HardRock
+[22:03:56] BanchoBot: Players: 2
+[22:03:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[22:03:56] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13238121 Vo Hieu Grape   
+[22:03:57] BCraftMG: !mp start 5
+[22:03:57] BanchoBot: Countdown aborted
+[22:03:57] BanchoBot: Match starts in 5 seconds
+[22:03:57] BanchoBot: Queued the match to start in 5 seconds
+[22:03:58] Vo_Hieu_Grape: ....
+[22:03:59] BanchoBot: Match starts in 4 seconds
+[22:04:00] BanchoBot: Match starts in 3 seconds
+[22:04:00] electrostrike: golffffff
+[22:04:01] BanchoBot: Good luck, have fun!
+[22:04:03] BanchoBot: The match has started!
+[22:07:35] BanchoBot: electrostrike finished playing (Score: 315007, PASSED).
+[22:07:36] BanchoBot: Vo Hieu Grape finished playing (Score: 821890, PASSED).
+[22:07:36] BanchoBot: The match has finished!
+[22:07:51] BCraftMG: electrostrike | 4 - 5 | Vo Hieu Grape // Best of 13 - Next Pick: Vo Hieu Grape
+[22:07:52] BCraftMG: !mp timer 90
+[22:07:53] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[22:07:54] Vo_Hieu_Grape: em la nguoi choi osu vi dai nhat the gioi\
+[22:08:16] electrostrike: thua
+[22:08:23] BanchoBot: Countdown ends in 1 minute
+[22:08:26] electrostrike: GHE VL
+[22:08:54] BanchoBot: Countdown ends in 30 seconds
+[22:08:58] Vo_Hieu_Grape: hr1
+[22:09:10] BCraftMG: !mp map 5310078 0
+[22:09:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5310078 FARUCO - Oshikatsu Angel Miss Vivian (feat. Mustard and beatMARIO)
+[22:09:10] BanchoBot: Changed match mode to Osu
+[22:09:11] BCraftMG: !mp mods 17
+[22:09:12] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[22:09:12] BCraftMG: !mp timer 90
+[22:09:13] BanchoBot: Countdown ends in 10 seconds
+[22:09:13] BanchoBot: Countdown aborted
+[22:09:13] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[22:09:19] electrostrike: UA SAO T NO MAP
+[22:09:28] Vo_Hieu_Grape: vivian
+[22:09:43] BanchoBot: Countdown ends in 1 minute
+[22:10:14] BanchoBot: Countdown ends in 30 seconds
+[22:10:19] electrostrike: glubglubglubglbuglbuglbg
+[22:10:33] BanchoBot: Countdown ends in 10 seconds
+[22:10:38] BanchoBot: Countdown ends in 5 seconds
+[22:10:39] BanchoBot: Countdown ends in 4 seconds
+[22:10:40] BanchoBot: Countdown ends in 3 seconds
+[22:10:41] BanchoBot: Countdown ends in 2 seconds
+[22:10:42] BanchoBot: Countdown ends in 1 second
+[22:10:43] BanchoBot: Countdown finished
+[22:10:44] BCraftMG: !mp settings
+[22:10:44] BanchoBot: All players are ready
+[22:10:44] BanchoBot: Room name: LQC2: (electrostrike) vs (Vo Hieu Grape), History: https://osu.ppy.sh/mp/120867417
+[22:10:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/5310078 FARUCO - Oshikatsu Angel Miss Vivian (feat. Mustard and beatMARIO)
+[22:10:44] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:10:44] BanchoBot: Active mods: NoFail, HardRock
+[22:10:44] BanchoBot: Players: 2
+[22:10:44] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[22:10:44] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13238121 Vo Hieu Grape   
+[22:10:45] BCraftMG: !mp start 5
+[22:10:46] BanchoBot: Match starts in 5 seconds
+[22:10:46] BanchoBot: Queued the match to start in 5 seconds
+[22:10:47] BanchoBot: Match starts in 4 seconds
+[22:10:48] Vo_Hieu_Grape: chit
+[22:10:49] BanchoBot: Match starts in 3 seconds
+[22:10:50] BanchoBot: Good luck, have fun!
+[22:10:52] BanchoBot: The match has started!
+[22:14:52] BanchoBot: Vo Hieu Grape finished playing (Score: 407955, PASSED).
+[22:14:52] BanchoBot: electrostrike finished playing (Score: 284707, PASSED).
+[22:14:52] BanchoBot: The match has finished!
+[22:15:13] Vo_Hieu_Grape: ong oi
+[22:15:15] Vo_Hieu_Grape: dung quang game nua ong oi\
+[22:15:17] Vo_Hieu_Grape: em cay day
+[22:15:25] electrostrike: ?
+[22:15:26] BCraftMG: electrostrike | 4 - 6 | Vo Hieu Grape // Best of 13 - Next Pick: electrostrike
+[22:15:27] BCraftMG: !mp timer 90
+[22:15:28] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[22:15:33] electrostrike: con map nao choi dc dau
+[22:15:34] electrostrike: ?
+[22:15:36] electrostrike: :(
+[22:15:40] Vo_Hieu_Grape: xao chim
+[22:15:44] Vo_Hieu_Grape: anh la mot ke doi tra
+[22:15:58] BanchoBot: Countdown ends in 1 minute
+[22:16:29] BanchoBot: Countdown ends in 30 seconds
+[22:16:33] electrostrike: nm1
+[22:16:48] BCraftMG: !mp map 5596311 0
+[22:16:48] BanchoBot: Countdown ends in 10 seconds
+[22:16:49] BCraftMG: !mp mods 1
+[22:16:49] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5596311 Rise Against - The Violence
+[22:16:49] BanchoBot: Changed match mode to Osu
+[22:16:50] BCraftMG: !mp timer 90
+[22:16:51] BanchoBot: Enabled NoFail, disabled FreeMod
+[22:16:51] BanchoBot: Countdown aborted
+[22:16:51] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[22:17:17] electrostrike: nhanh nhanh cho di tam cai
+[22:17:20] electrostrike: nguoi hoi vl
+[22:17:21] BanchoBot: Countdown ends in 1 minute
+[22:17:41] Vo_Hieu_Grape: EM KHONG BIRE TAIM
+[22:17:47] electrostrike: ??
+[22:17:51] BanchoBot: All players are ready
+[22:17:52] BanchoBot: Countdown ends in 30 seconds
+[22:18:00] BCraftMG: !mp settings
+[22:18:01] BanchoBot: Room name: LQC2: (electrostrike) vs (Vo Hieu Grape), History: https://osu.ppy.sh/mp/120867417
+[22:18:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/5596311 Rise Against - The Violence
+[22:18:01] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:18:01] BanchoBot: Active mods: NoFail
+[22:18:01] BanchoBot: Players: 2
+[22:18:01] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[22:18:01] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13238121 Vo Hieu Grape   
+[22:18:01] BCraftMG: !mp start 5
+[22:18:02] BanchoBot: Countdown aborted
+[22:18:02] BanchoBot: Match starts in 5 seconds
+[22:18:02] BanchoBot: Queued the match to start in 5 seconds
+[22:18:03] BanchoBot: Match starts in 4 seconds
+[22:18:04] BanchoBot: Match starts in 3 seconds
+[22:18:05] BanchoBot: Good luck, have fun!
+[22:18:07] BanchoBot: The match has started!
+[22:21:58] BanchoBot: Vo Hieu Grape finished playing (Score: 281660, PASSED).
+[22:21:59] BanchoBot: electrostrike finished playing (Score: 330278, PASSED).
+[22:21:59] BanchoBot: The match has finished!
+[22:22:07] Vo_Hieu_Grape: EM KHONG BIET AIM
+[22:22:09] BCraftMG: electrostrike | 5 - 6 | Vo Hieu Grape // Best of 13 - Next Pick: Vo Hieu Grape
+[22:22:10] BCraftMG: !mp timer 90
+[22:22:11] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[22:22:13] BCraftMG: t muon di ngu
+[22:22:26] electrostrike: BET
+[22:22:37] Vo_Hieu_Grape: anh oi
+[22:22:40] Vo_Hieu_Grape: em k biet choi gi
+[22:22:42] BanchoBot: Countdown ends in 1 minute
+[22:22:54] Vo_Hieu_Grape: y la
+[22:22:54] electrostrike: choi j t cung thua thoi :(
+[22:22:59] Vo_Hieu_Grape: h em k duoc double pick
+[22:23:04] Vo_Hieu_Grape: con kieu
+[22:23:05] BCraftMG: roll 2 đi
+[22:23:06] Vo_Hieu_Grape: 1 map de choi
+[22:23:07] Vo_Hieu_Grape: ....
+[22:23:09] BCraftMG: hd2 hoặc hd4
+[22:23:10] Vo_Hieu_Grape: a
+[22:23:11] Vo_Hieu_Grape: con 2
+[22:23:12] BanchoBot: Countdown ends in 30 seconds
+[22:23:13] BCraftMG: choose ur faith
+[22:23:15] Vo_Hieu_Grape: hd2
+[22:23:16] electrostrike: map co background
+[22:23:22] electrostrike: DUNG R
+[22:23:32] BanchoBot: Countdown ends in 10 seconds
+[22:23:35] BCraftMG: !mp map 5083900 0
+[22:23:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5083900 Junk - The Formula
+[22:23:36] BanchoBot: Changed match mode to Osu
+[22:23:36] BCraftMG: !mp mods 9
+[22:23:37] BanchoBot: Countdown ends in 5 seconds
+[22:23:37] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[22:23:37] BCraftMG: !mp timer 90
+[22:23:38] BanchoBot: Countdown ends in 4 seconds
+[22:23:38] BanchoBot: Countdown aborted
+[22:23:38] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[22:23:39] Vo_Hieu_Grape: :anger:
+[22:23:46] electrostrike: 9 XANH 1 VANG
+[22:23:52] Vo_Hieu_Grape: 9 XANH 1 VANG
+[22:24:08] BanchoBot: Countdown ends in 1 minute
+[22:24:24] electrostrike: map nay 50k het cut nhe
+[22:24:39] BanchoBot: Countdown ends in 30 seconds
+[22:24:42] Vo_Hieu_Grape: anh la ke doi tra
+[22:24:50] electrostrike: tai sao lai co flow trong hd2 cua t
+[22:24:58] BanchoBot: Countdown ends in 10 seconds
+[22:25:00] BanchoBot: All players are ready
+[22:25:02] Vo_Hieu_Grape: 9 xanh 1 vang
+[22:25:03] BanchoBot: Countdown ends in 5 seconds
+[22:25:04] BanchoBot: Countdown ends in 4 seconds
+[22:25:04] electrostrike: glubglbuglbuglubglub
+[22:25:05] BanchoBot: Countdown ends in 3 seconds
+[22:25:06] BanchoBot: Countdown ends in 2 seconds
+[22:25:07] BanchoBot: Countdown ends in 1 second
+[22:25:08] BanchoBot: Countdown finished
+[22:25:08] electrostrike: 9 xanh 1 vang
+[22:25:14] electrostrike: must correct
+[22:25:18] electrostrike: :anger:
+[22:25:22] Vo_Hieu_Grape: :anger:
+[22:25:26] BCraftMG: !mp settings
+[22:25:27] BanchoBot: Room name: LQC2: (electrostrike) vs (Vo Hieu Grape), History: https://osu.ppy.sh/mp/120867417
+[22:25:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/5083900 Junk - The Formula
+[22:25:27] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:25:27] BanchoBot: Active mods: NoFail, Hidden
+[22:25:27] BanchoBot: Players: 2
+[22:25:27] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/11538640 electrostrike   
+[22:25:27] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13238121 Vo Hieu Grape   
+[22:25:34] BCraftMG: chet stream r ae
+[22:25:42] electrostrike: chet stream r
+[22:25:44] BCraftMG: !mp start 5
+[22:25:45] BanchoBot: Match starts in 5 seconds
+[22:25:45] BanchoBot: Queued the match to start in 5 seconds
+[22:25:46] Vo_Hieu_Grape: vai
+[22:25:47] BanchoBot: Match starts in 4 seconds
+[22:25:48] BanchoBot: Match starts in 3 seconds
+[22:25:49] BanchoBot: Good luck, have fun!
+[22:25:51] BanchoBot: The match has started!
+[22:28:17] BanchoBot: electrostrike finished playing (Score: 111103, PASSED).
+[22:28:18] BanchoBot: Vo Hieu Grape finished playing (Score: 193826, PASSED).
+[22:28:18] BanchoBot: The match has finished!
+[22:28:24] electrostrike: vl
+[22:28:27] electrostrike: gap doi kpi nay
+[22:28:39] Vo_Hieu_Grape: thay chua'
+[22:28:43] Vo_Hieu_Grape: anh la ke dooi tra khong chop mat
+[22:28:46] Vo_Hieu_Grape: em ming anh truot dsa
+[22:28:47] electrostrike: ??
+[22:28:48] electrostrike: thua
+[22:28:51] Vo_Hieu_Grape: mong*
+[22:28:55] BCraftMG: electrostrike | 5 - 7 | Vo Hieu Grape // Vo Hieu Grape wins! GGWP
+[22:28:56] BCraftMG: !mp timer 90
+[22:28:58] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[22:29:05] electrostrike: vl t a+ dsa :))
+[22:29:12] Vo_Hieu_Grape: em nguyen rua anh hoc lai dsa 4 nam
+[22:29:15] Vo_Hieu_Grape: cai  dit
+[22:29:18] Vo_Hieu_Grape: UHHH
+[22:29:20] Vo_Hieu_Grape: TRUOT GT3
+[22:29:28] BanchoBot: Countdown ends in 1 minute
+[22:29:29] electrostrike: uet ko co gt3 :tf:
+[22:29:32] Vo_Hieu_Grape: ONG OI
+[22:29:37] Vo_Hieu_Grape: XUONG NHANH THUA GHOST APPLE DUOC K'
+[22:29:48] electrostrike: ??
+[22:29:53] electrostrike: chiu r
+[22:29:58] BanchoBot: Countdown ends in 30 seconds
+[22:30:01] electrostrike: co bounty a
+[22:30:09] electrostrike: ua ma stream song chua
+[22:30:14] electrostrike: stream song r thi choi tb
+[22:30:18] BanchoBot: Countdown ends in 10 seconds
+[22:30:20] BCraftMG: streamer chết mẹ r
+[22:30:23] BanchoBot: Countdown ends in 5 seconds
+[22:30:24] BanchoBot: Countdown ends in 4 seconds
+[22:30:26] BanchoBot: Countdown ends in 3 seconds
+[22:30:27] BanchoBot: Countdown ends in 2 seconds
+[22:30:27] BanchoBot: Countdown ends in 1 second
+[22:30:27] electrostrike: gg
+[22:30:28] BCraftMG: mất tích luôn
+[22:30:28] BanchoBot: Countdown finished
+[22:30:28] electrostrike: the thi
+[22:30:31] electrostrike: ty for ref and match
+[22:30:41] electrostrike: di tam day
+[22:30:48] electrostrike: toat mo hoi nhieu vl
+[22:30:57] Vo_Hieu_Grape: CAM ON VI REF
+[22:30:59] Vo_Hieu_Grape: VA TRAN DAU
+[22:31:01] BanchoBot: Vo Hieu Grape left the game.
+[22:31:09] electrostrike: o/
+[22:31:11] BanchoBot: electrostrike left the game.
+[22:31:16] BCraftMG: !mp close
+[22:31:17] BanchoBot: Closed the match

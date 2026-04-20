@@ -1,0 +1,506 @@
+[19:53:36] Joined #mp_120760610
+[19:53:36] BCraftMG: !mp settings
+[19:53:37] BanchoBot: Room name: LQC2: (JerryJumbo) vs (- HotaruAnh -), History: https://osu.ppy.sh/mp/120760610
+[19:53:37] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[19:53:37] BanchoBot: Players: 0
+[19:53:43] BCraftMG: !mp addref ngoc17
+[19:53:44] BanchoBot: Added ngoc17 to the match referees
+[19:53:54] BCraftMG: !mp set 0 3 3
+[19:53:54] BanchoBot: Changed match settings to 3 slots, HeadToHead, ScoreV2
+[19:55:47] BCraftMG: !mp map 963877
+[19:55:48] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/963877 Kano - Platonic Love
+[19:55:50] BCraftMG: !mp invite #27634475
+[19:55:50] BanchoBot: Invited JerryJumbo to the room
+[19:55:51] BCraftMG: !mp invite #22694590
+[19:55:51] BanchoBot: Invited - HotaruAnh - to the room
+[19:57:56] BanchoBot: - HotaruAnh - joined in slot 1.
+[19:58:00] -_HotaruAnh_-: oy
+[19:58:02] -_HotaruAnh_-: wtf
+[19:58:08] BCraftMG: !mp move -_HotaruAnh_- 2
+[19:58:09] -_HotaruAnh_-: t tuong t vo tre nhat roi
+[19:58:09] BanchoBot: - HotaruAnh - moved to slot 2
+[19:58:09] BanchoBot: Moved - HotaruAnh - into slot 2
+[19:58:11] BCraftMG: !mp lock
+[19:58:12] BanchoBot: Locked the match
+[20:00:36] -_HotaruAnh_-: zzzz
+[20:02:07] BanchoBot: JerryJumbo joined in slot 1.
+[20:02:13] JerryJumbo: oi
+[20:02:17] JerryJumbo: co inv ma ko bit
+[20:02:19] JerryJumbo: :clueless
+[20:02:21] JerryJumbo: oopsie
+[20:02:32] BCraftMG: co pick warmup khong
+[20:02:33] BCraftMG: du ma
+[20:02:36] -_HotaruAnh_-: co
+[20:02:37] -_HotaruAnh_-: coc
+[20:02:38] -_HotaruAnh_-: co
+[20:02:43] BCraftMG: vote ban jerry warmup
+[20:02:48] BCraftMG: !mp host - HotaruAnh -
+[20:02:48] BanchoBot: - HotaruAnh - became the host.
+[20:02:48] BanchoBot: Changed match host to - HotaruAnh -
+[20:03:00] BanchoBot: Host is changing map...
+[20:03:07] JerryJumbo: ko warmup
+[20:03:19] JerryJumbo: cho hotaru warmup th nha
+[20:03:24] JerryJumbo: i eep
+[20:03:56] BanchoBot: Beatmap changed to: EBIMAYO - NIGHTMARE INVITATION [MASQUERADE] (https://osu.ppy.sh/b/5364927)
+[20:04:15] -_HotaruAnh_-: :sob:
+[20:04:24] JerryJumbo: sao la map nay
+[20:04:26] JerryJumbo: oh hell no
+[20:04:27] -_HotaruAnh_-: ai biet
+[20:04:32] -_HotaruAnh_-: pick bua
+[20:04:33] -_HotaruAnh_-: ngl
+[20:04:44] JerryJumbo: het cit
+[20:04:58] JerryJumbo: co freemod ko
+[20:05:00] JerryJumbo: cho hd cai
+[20:05:02] JerryJumbo: :3c
+[20:05:05] -_HotaruAnh_-: GHE
+[20:05:07] JerryJumbo: gimme hidden
+[20:05:24] JerryJumbo: bcraft oi
+[20:05:31] JerryJumbo: cho cai freemod pos
+[20:05:33] JerryJumbo: pls
+[20:05:34] -_HotaruAnh_-: biet the hoi bcraft co gioi han sr khong
+[20:05:36] JerryJumbo: i neeed this
+[20:05:36] -_HotaruAnh_-: bat roi ma
+[20:05:42] JerryJumbo: ua
+[20:05:44] BCraftMG: !mp settings
+[20:05:45] JerryJumbo: co chua
+[20:05:45] -_HotaruAnh_-: ?
+[20:05:45] BanchoBot: Room name: LQC2: (JerryJumbo) vs (- HotaruAnh -), History: https://osu.ppy.sh/mp/120760610
+[20:05:45] BanchoBot: Beatmap: https://osu.ppy.sh/b/5364927 EBIMAYO - NIGHTMARE INVITATION [MASQUERADE]
+[20:05:45] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:05:45] BanchoBot: Players: 2
+[20:05:45] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/27634475 JerryJumbo      
+[20:05:45] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/22694590 - HotaruAnh -   [Host]
+[20:05:47] JerryJumbo: sao ko thay
+[20:05:49] -_HotaruAnh_-: bat fm roi ma
+[20:05:50] JerryJumbo: am i lagging
+[20:05:55] BCraftMG: van de vnpt ha
+[20:05:57] BCraftMG: !mp mods Freemod
+[20:05:57] BanchoBot: Disabled all mods, enabled FreeMod
+[20:06:00] JerryJumbo: oh
+[20:06:00] -_HotaruAnh_-: chet chua
+[20:06:04] JerryJumbo: co r ne
+[20:06:05] JerryJumbo: wtf
+[20:06:06] JerryJumbo: vnpt
+[20:06:08] -_HotaruAnh_-: wtf
+[20:06:10] -_HotaruAnh_-: ok
+[20:06:16] BanchoBot: All players are ready
+[20:06:18] BanchoBot: The match has started!
+[20:07:11] BCraftMG: !mp addref Solus420
+[20:07:12] BanchoBot: User not found: Solus420
+[20:07:24] BCraftMG: !mp addref Solus2410
+[20:07:25] BanchoBot: Added Solus2410 to the match referees
+[20:08:42] BanchoBot: JerryJumbo finished playing (Score: 463553, PASSED).
+[20:08:42] BanchoBot: - HotaruAnh - finished playing (Score: 179753, PASSED).
+[20:08:42] BanchoBot: The match has finished!
+[20:08:45] BCraftMG: !mp clearhost
+[20:08:47] BanchoBot: Cleared match host
+[20:08:51] BCraftMG: !mp map 963877
+[20:08:52] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/963877 Kano - Platonic Love
+[20:08:53] BCraftMG: ok roll
+[20:08:55] BCraftMG: nhanh chong
+[20:08:59] -_HotaruAnh_-: !roll
+[20:08:59] BanchoBot: - HotaruAnh - rolls 54 point(s)
+[20:08:59] JerryJumbo: HOLY
+[20:09:01] JerryJumbo: wtf did i just do
+[20:09:05] JerryJumbo: !roll
+[20:09:05] BanchoBot: JerryJumbo rolls 47 point(s)
+[20:09:10] -_HotaruAnh_-: nay troll nha
+[20:09:16] JerryJumbo: het cut
+[20:09:17] BCraftMG: Protect trước, Ban sau, Pick trước hoặc Protect sau, Ban trước, Pick sau
+[20:09:19] BCraftMG: @ami
+[20:09:25] BCraftMG: ban abba
+[20:09:30] -_HotaruAnh_-: protect
+[20:09:31] -_HotaruAnh_-: truoc
+[20:09:43] BCraftMG: JerryJumbo | 0 - 0 | - HotaruAnh - // Best of 11 - First Protect: - HotaruAnh -
+[20:09:43] BCraftMG: !mp timer 90
+[20:09:44] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:09:46] JerryJumbo: dt1
+[20:09:49] -_HotaruAnh_-: nm2 =))))))))))
+[20:09:49] JerryJumbo: ua
+[20:09:50] JerryJumbo: nham
+[20:09:56] BCraftMG: JerryJumbo | 0 - 0 | - HotaruAnh - // Best of 11 - Next Protect: JerryJumbo
+[20:09:56] BCraftMG: !mp timer 90
+[20:09:57] BanchoBot: Countdown aborted
+[20:09:57] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:09:58] BCraftMG: m bi ban
+[20:10:08] JerryJumbo: quen me protect
+[20:10:09] JerryJumbo: lmao
+[20:10:20] -_HotaruAnh_-: choi nm2 ngu nhung van protect
+[20:10:27] BanchoBot: Countdown ends in 1 minute
+[20:10:30] JerryJumbo: hd3
+[20:10:47] BCraftMG: JerryJumbo | 0 - 0 | - HotaruAnh - // Best of 11 - First Ban: JerryJumbo
+[20:10:48] BCraftMG: !mp timer 90
+[20:10:48] BanchoBot: Countdown aborted
+[20:10:48] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:10:52] JerryJumbo: dt1
+[20:11:01] JerryJumbo: doan trc nay
+[20:11:05] JerryJumbo: ban hd2 nm3
+[20:11:08] JerryJumbo: watch this
+[20:11:19] BanchoBot: Countdown ends in 1 minute
+[20:11:24] BCraftMG: la m ban dt1 a jery
+[20:11:28] BCraftMG: JerryJumbo | 0 - 0 | - HotaruAnh - // Best of 11 - Next Ban: - HotaruAnh -
+[20:11:31] JerryJumbo: yea
+[20:11:36] -_HotaruAnh_-: hd2
+[20:11:38] BCraftMG: !mp timer 150
+[20:11:39] BanchoBot: Countdown aborted
+[20:11:39] BanchoBot: Countdown ends in 2 minutes and 30 seconds
+[20:12:09] BanchoBot: Countdown ends in 2 minutes
+[20:12:23] BCraftMG: 1 ban nua
+[20:12:31] -_HotaruAnh_-: t ban ha
+[20:12:34] BCraftMG: yes
+[20:12:34] BCraftMG: abba
+[20:12:43] -_HotaruAnh_-: hd1
+[20:12:46] -_HotaruAnh_-: =))))))))
+[20:12:48] BCraftMG: ko double ban
+[20:12:50] BCraftMG: bye
+[20:12:56] JerryJumbo: e
+[20:12:59] -_HotaruAnh_-: e
+[20:12:59] -_HotaruAnh_-: chet
+[20:13:01] JerryJumbo: ki qua
+[20:13:02] -_HotaruAnh_-: nm5
+[20:13:04] -_HotaruAnh_-: :sob:
+[20:13:09] BanchoBot: Countdown ends in 1 minute
+[20:13:12] BCraftMG: JerryJumbo | 0 - 0 | - HotaruAnh - // Best of 11 - Next Ban: JerryJumbo
+[20:13:12] BCraftMG: !mp timer 90
+[20:13:13] BanchoBot: Countdown aborted
+[20:13:13] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:13:17] -_HotaruAnh_-: lo roi
+[20:13:20] JerryJumbo: coi nay
+[20:13:24] JerryJumbo: ima be offscript
+[20:13:26] JerryJumbo: hd2
+[20:13:34] -_HotaruAnh_-: ua bi ban roi ma
+[20:13:38] BCraftMG: dcm hotaru ban hd2 r
+[20:13:39] JerryJumbo: ua
+[20:13:41] JerryJumbo: t bi ngu
+[20:13:42] BCraftMG: t ban m bay gio
+[20:13:42] BCraftMG: ?
+[20:13:43] BanchoBot: Countdown ends in 1 minute
+[20:13:43] JerryJumbo: oi
+[20:13:46] -_HotaruAnh_-: oi
+[20:13:47] -_HotaruAnh_-: ?
+[20:13:48] JerryJumbo: QUEN
+[20:13:50] JerryJumbo: xin loi
+[20:13:51] JerryJumbo: :sob:
+[20:13:59] JerryJumbo: uhhhhhhhhh
+[20:14:01] JerryJumbo: nm1
+[20:14:04] -_HotaruAnh_-: CHAP
+[20:14:08] BCraftMG: JerryJumbo | 0 - 0 | - HotaruAnh - // Best of 11 - First Pick: - HotaruAnh -
+[20:14:08] BCraftMG: !mp timer 120
+[20:14:09] BanchoBot: Countdown aborted
+[20:14:09] BanchoBot: Countdown ends in 2 minutes
+[20:14:09] BCraftMG: !mp timer 90
+[20:14:10] BanchoBot: Countdown aborted
+[20:14:10] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:14:11] BCraftMG: hello stream
+[20:14:14] BCraftMG: toi moi nhan ra mot dieu
+[20:14:16] -_HotaruAnh_-: chet me chua
+[20:14:18] -_HotaruAnh_-: :sob:
+[20:14:19] BCraftMG: hinh nhu nhac kano len twitch bi mute
+[20:14:24] BCraftMG: :tf:
+[20:14:41] BanchoBot: Countdown ends in 1 minute
+[20:14:45] -_HotaruAnh_-: len cai hr3 dum e
+[20:14:50] BCraftMG: !mp map 4454069 0
+[20:14:51] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4454069 The Quick Brown Fox - The Big Black
+[20:14:51] BanchoBot: Changed match mode to Osu
+[20:14:52] BCraftMG: !mp mods 17
+[20:14:52] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[20:14:55] BCraftMG: !mp timer 90
+[20:14:55] BanchoBot: Countdown aborted
+[20:14:55] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:15:14] -_HotaruAnh_-: troll het
+[20:15:18] -_HotaruAnh_-: sightread 100%
+[20:15:25] JerryJumbo: NGON
+[20:15:26] BanchoBot: Countdown ends in 1 minute
+[20:15:34] -_HotaruAnh_-: ngl
+[20:15:35] -_HotaruAnh_-: =))))))))
+[20:15:37] BanchoBot: All players are ready
+[20:15:39] BCraftMG: !mp settings
+[20:15:39] BanchoBot: Room name: LQC2: (JerryJumbo) vs (- HotaruAnh -), History: https://osu.ppy.sh/mp/120760610
+[20:15:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/4454069 The Quick Brown Fox - The Big Black
+[20:15:39] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:15:39] BanchoBot: Active mods: NoFail, HardRock
+[20:15:39] BanchoBot: Players: 2
+[20:15:39] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/27634475 JerryJumbo      
+[20:15:39] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/22694590 - HotaruAnh -   
+[20:15:39] BCraftMG: !mp start 5
+[20:15:40] BanchoBot: Countdown aborted
+[20:15:40] BanchoBot: Match starts in 5 seconds
+[20:15:40] BanchoBot: Queued the match to start in 5 seconds
+[20:15:41] BanchoBot: Match starts in 4 seconds
+[20:15:42] BanchoBot: Match starts in 3 seconds
+[20:15:43] JerryJumbo: glhf
+[20:15:43] BanchoBot: Good luck, have fun!
+[20:15:45] BanchoBot: The match has started!
+[20:18:14] BanchoBot: - HotaruAnh - finished playing (Score: 41559, PASSED).
+[20:18:14] BanchoBot: JerryJumbo finished playing (Score: 138110, PASSED).
+[20:18:14] BanchoBot: The match has finished!
+[20:18:28] -_HotaruAnh_-: ^w^
+[20:18:31] BCraftMG: JerryJumbo | 1 - 0 | - HotaruAnh - // Best of 11 - Next Pick: JerryJumbo
+[20:18:31] BCraftMG: !mp timer 90
+[20:18:32] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:18:35] JerryJumbo: oooooooook
+[20:18:43] JerryJumbo: dunno wat just happened
+[20:18:47] JerryJumbo: hr1
+[20:19:02] BanchoBot: Countdown ends in 1 minute
+[20:19:23] BCraftMG: !mp map 4875493 0
+[20:19:24] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4875493 GYARI - Arikitari na Koi no Uta
+[20:19:24] BanchoBot: Changed match mode to Osu
+[20:19:24] BCraftMG: !mp timer 120
+[20:19:25] BanchoBot: Countdown aborted
+[20:19:25] BanchoBot: Countdown ends in 2 minutes
+[20:19:38] JerryJumbo: imagine thua map nay :qqbonk:
+[20:19:46] BanchoBot: All players are ready
+[20:19:47] BCraftMG: !mp settings
+[20:19:48] BanchoBot: Room name: LQC2: (JerryJumbo) vs (- HotaruAnh -), History: https://osu.ppy.sh/mp/120760610
+[20:19:48] BanchoBot: Beatmap: https://osu.ppy.sh/b/4875493 GYARI - Arikitari na Koi no Uta
+[20:19:48] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:19:48] BanchoBot: Active mods: NoFail, HardRock
+[20:19:48] BanchoBot: Players: 2
+[20:19:48] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/27634475 JerryJumbo      
+[20:19:48] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/22694590 - HotaruAnh -   
+[20:19:49] -_HotaruAnh_-: glhfumo
+[20:19:50] BCraftMG: !mp start 5
+[20:19:51] BanchoBot: Countdown aborted
+[20:19:51] BanchoBot: Match starts in 5 seconds
+[20:19:51] BanchoBot: Queued the match to start in 5 seconds
+[20:19:52] BanchoBot: Match starts in 4 seconds
+[20:19:53] BanchoBot: Match starts in 3 seconds
+[20:19:54] BanchoBot: Good luck, have fun!
+[20:19:54] JerryJumbo: golf
+[20:19:56] BanchoBot: The match has started!
+[20:24:28] BanchoBot: JerryJumbo finished playing (Score: 345397, PASSED).
+[20:24:30] BanchoBot: - HotaruAnh - finished playing (Score: 123106, PASSED).
+[20:24:30] BanchoBot: The match has finished!
+[20:24:39] BCraftMG: JerryJumbo | 2 - 0 | - HotaruAnh - // Best of 11 - Next Pick: - HotaruAnh -
+[20:24:40] BCraftMG: !mp timer 90
+[20:24:40] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:25:10] BanchoBot: Countdown ends in 1 minute
+[20:25:20] -_HotaruAnh_-: dt2 di B)
+[20:25:33] BCraftMG: !mp map 5271971 0
+[20:25:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5271971 Cityyy - Asphyxia
+[20:25:34] BanchoBot: Changed match mode to Osu
+[20:25:34] BCraftMG: !mp mods 65
+[20:25:35] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[20:25:36] BCraftMG: !mp timer 90
+[20:25:36] BanchoBot: Countdown aborted
+[20:25:36] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:25:38] JerryJumbo: BRUH
+[20:25:42] JerryJumbo: OH SHI
+[20:25:45] -_HotaruAnh_-: troll tiep
+[20:26:06] BanchoBot: Countdown ends in 1 minute
+[20:26:36] BanchoBot: Countdown ends in 30 seconds
+[20:26:50] BanchoBot: All players are ready
+[20:26:51] BCraftMG: !mp settings
+[20:26:52] JerryJumbo: glhf
+[20:26:52] BanchoBot: Room name: LQC2: (JerryJumbo) vs (- HotaruAnh -), History: https://osu.ppy.sh/mp/120760610
+[20:26:52] BanchoBot: Beatmap: https://osu.ppy.sh/b/5271971 Cityyy - Asphyxia
+[20:26:52] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:26:52] BanchoBot: Active mods: NoFail, DoubleTime
+[20:26:52] BanchoBot: Players: 2
+[20:26:52] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/27634475 JerryJumbo      
+[20:26:52] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/22694590 - HotaruAnh -   
+[20:26:52] BCraftMG: !mp start 5
+[20:26:52] BanchoBot: Countdown aborted
+[20:26:52] BanchoBot: Match starts in 5 seconds
+[20:26:52] BanchoBot: Queued the match to start in 5 seconds
+[20:26:54] BanchoBot: Match starts in 4 seconds
+[20:26:55] BanchoBot: Match starts in 3 seconds
+[20:26:56] JerryJumbo: glhf
+[20:26:56] BanchoBot: Good luck, have fun!
+[20:26:57] -_HotaruAnh_-: glhf
+[20:26:58] BanchoBot: The match has started!
+[20:29:10] BanchoBot: JerryJumbo finished playing (Score: 230281, PASSED).
+[20:29:10] BanchoBot: - HotaruAnh - finished playing (Score: 205283, PASSED).
+[20:29:10] BanchoBot: The match has finished!
+[20:29:35] BCraftMG: JerryJumbo | 3 - 0 | - HotaruAnh - // Best of 11 - Next Pick: JerryJumbo
+[20:29:36] BCraftMG: !mp timer 90
+[20:29:37] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:29:39] JerryJumbo: hd3
+[20:29:42] -_HotaruAnh_-: T_T
+[20:29:44] -_HotaruAnh_-: chet me
+[20:29:56] JerryJumbo: it had to be done
+[20:30:07] BanchoBot: Countdown ends in 1 minute
+[20:30:09] BCraftMG: !mp map 4934310 0
+[20:30:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4934310 Designant - Designant.
+[20:30:10] BanchoBot: Changed match mode to Osu
+[20:30:11] BCraftMG: !mp mods 9
+[20:30:12] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[20:30:13] BCraftMG: !mp timer 90
+[20:30:13] BanchoBot: Countdown aborted
+[20:30:13] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:30:43] BanchoBot: Countdown ends in 1 minute
+[20:31:00] BanchoBot: All players are ready
+[20:31:03] BCraftMG: !mp settings
+[20:31:04] BanchoBot: Room name: LQC2: (JerryJumbo) vs (- HotaruAnh -), History: https://osu.ppy.sh/mp/120760610
+[20:31:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/4934310 Designant - Designant.
+[20:31:04] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:31:04] BanchoBot: Active mods: NoFail, Hidden
+[20:31:04] BanchoBot: Players: 2
+[20:31:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/27634475 JerryJumbo      
+[20:31:04] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/22694590 - HotaruAnh -   
+[20:31:04] BCraftMG: !mp start 5
+[20:31:05] BanchoBot: Countdown aborted
+[20:31:05] BanchoBot: Match starts in 5 seconds
+[20:31:05] BanchoBot: Queued the match to start in 5 seconds
+[20:31:07] BanchoBot: Match starts in 4 seconds
+[20:31:07] BanchoBot: Match starts in 3 seconds
+[20:31:08] BanchoBot: Good luck, have fun!
+[20:31:10] JerryJumbo: golf
+[20:31:11] BanchoBot: The match has started!
+[20:34:17] BanchoBot: JerryJumbo finished playing (Score: 398839, PASSED).
+[20:34:17] BanchoBot: - HotaruAnh - finished playing (Score: 31804, PASSED).
+[20:34:17] BanchoBot: The match has finished!
+[20:34:27] BCraftMG: JerryJumbo | 4 - 0 | - HotaruAnh - // Best of 11 - Next Pick: - HotaruAnh -
+[20:34:28] BCraftMG: !mp timer 90
+[20:34:29] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:34:45] -_HotaruAnh_-: :Đ
+[20:34:59] -_HotaruAnh_-: nm3
+[20:34:59] BanchoBot: Countdown ends in 1 minute
+[20:35:26] BCraftMG: !mp map 4330829 0
+[20:35:26] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4330829 Nishijima Sondai feat. Hatsune Miku - 8
+[20:35:26] BanchoBot: Changed match mode to Osu
+[20:35:28] BCraftMG: !mp mods 1
+[20:35:29] BanchoBot: Countdown ends in 30 seconds
+[20:35:29] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:35:30] BCraftMG: !mp timer 90
+[20:35:30] BanchoBot: Countdown aborted
+[20:35:30] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:36:01] BanchoBot: Countdown ends in 1 minute
+[20:36:11] -_HotaruAnh_-: MAP GI VAY
+[20:36:13] -_HotaruAnh_-: WTF
+[20:36:17] JerryJumbo: its
+[20:36:17] -_HotaruAnh_-: co timeout khong
+[20:36:19] JerryJumbo: miku
+[20:36:23] JerryJumbo: hay nay
+[20:36:25] JerryJumbo: timeout tot
+[20:36:30] BanchoBot: Countdown ends in 30 seconds
+[20:36:30] -_HotaruAnh_-: lo
+[20:36:33] -_HotaruAnh_-: co timeout khong
+[20:36:35] BCraftMG: co
+[20:36:38] -_HotaruAnh_-: ok
+[20:36:39] BanchoBot: - HotaruAnh - left the game.
+[20:36:39] BCraftMG: 120s timeout
+[20:36:42] BCraftMG: ua dm
+[20:36:45] JerryJumbo: vai lon
+[20:36:45] BCraftMG: deo call ma da di r
+[20:36:46] JerryJumbo: out le  z
+[20:36:48] JerryJumbo: :sob:
+[20:36:50] BanchoBot: Countdown ends in 10 seconds
+[20:36:55] BanchoBot: Countdown ends in 5 seconds
+[20:36:57] BanchoBot: Countdown ends in 4 seconds
+[20:36:58] BanchoBot: Countdown ends in 3 seconds
+[20:36:58] JerryJumbo: ok
+[20:36:58] BanchoBot: Countdown ends in 2 seconds
+[20:37:00] BanchoBot: Countdown ends in 1 second
+[20:37:01] BanchoBot: Countdown finished
+[20:37:01] BCraftMG: !mp timer 120
+[20:37:02] JerryJumbo: tu ki nao
+[20:37:02] BanchoBot: Countdown ends in 2 minutes
+[20:37:05] JerryJumbo: hi guys
+[20:37:06] JerryJumbo: my name is
+[20:37:10] JerryJumbo: jimmyjungle
+[20:37:38] JerryJumbo: how are u today
+[20:37:41] JerryJumbo: im fine thank u and u
+[20:38:03] BanchoBot: Countdown ends in 1 minute
+[20:38:29] BanchoBot: - HotaruAnh - joined in slot 2.
+[20:38:33] BanchoBot: Countdown ends in 30 seconds
+[20:38:34] JerryJumbo: oi tap map
+[20:38:38] JerryJumbo: ko sightread r
+[20:38:40] JerryJumbo: :sob:
+[20:38:43] BanchoBot: All players are ready
+[20:38:44] JerryJumbo: het cut
+[20:38:45] BCraftMG: !mp settings
+[20:38:46] BanchoBot: Room name: LQC2: (JerryJumbo) vs (- HotaruAnh -), History: https://osu.ppy.sh/mp/120760610
+[20:38:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/4330829 Nishijima Sondai feat. Hatsune Miku - 8
+[20:38:46] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:38:46] BanchoBot: Active mods: NoFail
+[20:38:46] BanchoBot: Players: 2
+[20:38:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/27634475 JerryJumbo      
+[20:38:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/22694590 - HotaruAnh -   
+[20:38:47] BCraftMG: !mp start 5
+[20:38:48] BanchoBot: Countdown aborted
+[20:38:48] BanchoBot: Match starts in 5 seconds
+[20:38:48] BanchoBot: Queued the match to start in 5 seconds
+[20:38:49] -_HotaruAnh_-: hen xui
+[20:38:49] BanchoBot: Match starts in 4 seconds
+[20:38:50] BanchoBot: Match starts in 3 seconds
+[20:38:51] BanchoBot: Good luck, have fun!
+[20:38:53] JerryJumbo: cooked
+[20:38:53] BanchoBot: The match has started!
+[20:42:37] BanchoBot: - HotaruAnh - finished playing (Score: 53586, PASSED).
+[20:42:38] BanchoBot: JerryJumbo finished playing (Score: 310640, PASSED).
+[20:42:38] BanchoBot: The match has finished!
+[20:42:56] BCraftMG: JerryJumbo | 5 - 0 | - HotaruAnh - // Best of 11 - Next Pick: JerryJumbo
+[20:43:00] BCraftMG: hoc map in question
+[20:43:01] BCraftMG: !mp timer 90
+[20:43:02] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:43:07] JerryJumbo: damn
+[20:43:10] JerryJumbo: :qqbonk:
+[20:43:12] -_HotaruAnh_-: go go
+[20:43:25] JerryJumbo: nm4
+[20:43:32] BanchoBot: Countdown ends in 1 minute
+[20:43:36] -_HotaruAnh_-: biet the pick nm2 :B
+[20:43:38] BCraftMG: !mp map 5298064 0
+[20:43:39] -_HotaruAnh_-: thoi gg
+[20:43:39] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5298064 Mameyudoufu - Chasing feat. Hoshina Haru (osu! edit)
+[20:43:39] BanchoBot: Changed match mode to Osu
+[20:43:40] BCraftMG: !mp mods 1
+[20:43:40] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:43:41] BCraftMG: !mp timer 90
+[20:43:41] BanchoBot: Countdown aborted
+[20:43:41] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[20:43:42] -_HotaruAnh_-: ^w^
+[20:44:11] BanchoBot: Countdown ends in 1 minute
+[20:44:18] BanchoBot: All players are ready
+[20:44:19] BCraftMG: !mp settings
+[20:44:20] BanchoBot: Room name: LQC2: (JerryJumbo) vs (- HotaruAnh -), History: https://osu.ppy.sh/mp/120760610
+[20:44:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/5298064 Mameyudoufu - Chasing feat. Hoshina Haru (osu! edit)
+[20:44:20] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:44:20] BanchoBot: Active mods: NoFail
+[20:44:20] BanchoBot: Players: 2
+[20:44:20] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/27634475 JerryJumbo      
+[20:44:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/22694590 - HotaruAnh -   
+[20:44:23] BCraftMG: !mp start 5
+[20:44:24] BanchoBot: Countdown aborted
+[20:44:24] BanchoBot: Match starts in 5 seconds
+[20:44:24] BanchoBot: Queued the match to start in 5 seconds
+[20:44:26] BanchoBot: Match starts in 4 seconds
+[20:44:27] BanchoBot: Match starts in 3 seconds
+[20:44:27] BanchoBot: Good luck, have fun!
+[20:44:30] BanchoBot: The match has started!
+[20:47:08] BanchoBot: - HotaruAnh - finished playing (Score: 65765, PASSED).
+[20:47:08] BanchoBot: JerryJumbo finished playing (Score: 190132, PASSED).
+[20:47:08] BanchoBot: The match has finished!
+[20:47:17] BCraftMG: JerryJumbo | 6 - 0 | - HotaruAnh - // JerryJumbo wins! GGWP
+[20:47:20] -_HotaruAnh_-: :tf:
+[20:47:26] JerryJumbo: peak match
+[20:47:27] JerryJumbo: cinema
+[20:47:28] JerryJumbo: :sob:
+[20:47:35] JerryJumbo: ggs
+[20:47:36] JerryJumbo: ty for ref
+[20:47:39] JerryJumbo: bi co rap
+[20:47:40] JerryJumbo: <3
+[20:47:40] -_HotaruAnh_-: gg
+[20:47:43] -_HotaruAnh_-: ty for ref
+[20:47:46] JerryJumbo: ty fro streams
+[20:47:49] JerryJumbo: ty for playing
+[20:47:51] -_HotaruAnh_-: alo chuot a chuot
+[20:47:57] JerryJumbo: huh
+[20:47:59] JerryJumbo: sao z
+[20:48:08] -_HotaruAnh_-: noi chu
+[20:48:08] -_HotaruAnh_-: gg
+[20:48:12] -_HotaruAnh_-: ty for stream
+[20:48:18] JerryJumbo: ha
+[20:48:20] JerryJumbo: waduh
+[20:48:25] -_HotaruAnh_-: chuc chuot may man tran sau
+[20:48:27] -_HotaruAnh_-: :d
+[20:48:37] JerryJumbo: ngol
+[20:48:38] JerryJumbo: cam on
+[20:48:41] JerryJumbo: ok di day
+[20:48:41] JerryJumbo: pp
+[20:48:43] JerryJumbo: o/
+[20:48:44] BanchoBot: JerryJumbo left the game.
+[20:48:44] -_HotaruAnh_-: bai bai
+[20:48:45] BanchoBot: - HotaruAnh - left the game.
+[20:48:55] BCraftMG: !mp close
+[20:48:56] BanchoBot: Closed the match

@@ -1,0 +1,444 @@
+[13:54:56] Joined #mp_120923719
+[13:54:56] BCraftMG: !mp settings
+[13:54:56] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby EX12), History: https://osu.ppy.sh/mp/120923719
+[13:54:56] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[13:54:56] BanchoBot: Players: 0
+[13:55:07] BCraftMG: !mp map 5605759 0
+[13:55:07] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5605759 ReoNa - Nai Nai
+[13:55:07] BanchoBot: Changed match mode to Osu
+[13:55:08] BCraftMG: !mp mods 1
+[13:55:09] BanchoBot: Enabled NoFail, disabled FreeMod
+[13:55:11] BCraftMG: !mp set 0 3 3
+[13:55:11] BanchoBot: Changed match settings to 3 slots, HeadToHead, ScoreV2
+[13:55:15] BCraftMG: !mp invite #28249447
+[13:55:15] BanchoBot: Invited andycupid to the room
+[13:55:41] BanchoBot: andycupid joined in slot 1.
+[13:56:21] BanchoBot: hanleyfu joined in slot 2.
+[13:56:37] BCraftMG: o/
+[13:56:48] BanchoBot: TCO joined in slot 3.
+[13:56:51] andycupid: hi!
+[13:57:16] andycupid: we wait until the exact time right
+[13:57:25] BCraftMG: you are the only team here
+[13:57:31] BCraftMG: if you wanna start early feel free
+[13:57:37] andycupid: ok
+[13:57:39] BCraftMG: just ready up and ill start
+[13:57:47] andycupid: this map is hanley+feng be
+[13:58:00] TCO: do i need to leave
+[13:58:06] andycupid: yes
+[13:58:09] BanchoBot: TCO left the game.
+[13:58:18] BanchoBot: Feng Be joined in slot 3.
+[13:58:26] andycupid: 都好了嗎~
+[13:58:27] BanchoBot: Feng Be left the game.
+[13:58:40] BanchoBot: andycupid left the game.
+[13:59:13] hanleyfu: where's feng
+[13:59:55] BanchoBot: Feng Be joined in slot 1.
+[14:00:07] BanchoBot: All players are ready
+[14:00:09] BCraftMG: !mp settings
+[14:00:09] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby EX12), History: https://osu.ppy.sh/mp/120923719
+[14:00:10] BanchoBot: Beatmap: https://osu.ppy.sh/b/5605759 ReoNa - Nai Nai
+[14:00:10] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[14:00:10] BanchoBot: Active mods: NoFail
+[14:00:10] BanchoBot: Players: 2
+[14:00:10] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13661480 Feng Be         
+[14:00:10] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/24890424 hanleyfu        
+[14:00:11] BCraftMG: !mp start 5
+[14:00:12] BanchoBot: Match starts in 5 seconds
+[14:00:12] BanchoBot: Queued the match to start in 5 seconds
+[14:00:13] BanchoBot: Match starts in 4 seconds
+[14:00:14] BanchoBot: Match starts in 3 seconds
+[14:00:15] BanchoBot: Good luck, have fun!
+[14:00:17] BanchoBot: The match has started!
+[14:04:33] BanchoBot: hanleyfu finished playing (Score: 243730, PASSED).
+[14:04:33] BanchoBot: Feng Be finished playing (Score: 369018, PASSED).
+[14:04:33] BanchoBot: The match has finished!
+[14:04:36] BCraftMG: !mp map 2024425 0
+[14:04:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2024425 The Flashbulb - Passage D
+[14:04:36] BanchoBot: Changed match mode to Osu
+[14:04:45] Feng_Be: o/
+[14:06:00] BCraftMG: !mp settings
+[14:06:00] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby EX12), History: https://osu.ppy.sh/mp/120923719
+[14:06:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/2024425 The Flashbulb - Passage D
+[14:06:00] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[14:06:00] BanchoBot: Active mods: NoFail
+[14:06:00] BanchoBot: Players: 2
+[14:06:00] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/13661480 Feng Be         
+[14:06:00] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/24890424 hanleyfu        
+[14:06:06] BCraftMG: ready?
+[14:06:23] BanchoBot: All players are ready
+[14:06:27] hanleyfu: sure
+[14:06:29] Feng_Be: gl
+[14:06:30] BCraftMG: !mp settings
+[14:06:30] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby EX12), History: https://osu.ppy.sh/mp/120923719
+[14:06:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/2024425 The Flashbulb - Passage D
+[14:06:30] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[14:06:30] BanchoBot: Active mods: NoFail
+[14:06:30] BanchoBot: Players: 2
+[14:06:30] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13661480 Feng Be         
+[14:06:30] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/24890424 hanleyfu        
+[14:06:32] BCraftMG: !mp start 5
+[14:06:33] BanchoBot: Match starts in 5 seconds
+[14:06:33] BanchoBot: Queued the match to start in 5 seconds
+[14:06:34] BanchoBot: Match starts in 4 seconds
+[14:06:35] BanchoBot: Match starts in 3 seconds
+[14:06:36] BanchoBot: Good luck, have fun!
+[14:06:38] BanchoBot: The match has started!
+[14:08:41] BanchoBot: hanleyfu finished playing (Score: 124524, PASSED).
+[14:08:41] BanchoBot: Feng Be finished playing (Score: 169414, PASSED).
+[14:08:41] BanchoBot: The match has finished!
+[14:08:44] BCraftMG: !mp map 4285137 0
+[14:08:45] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4285137 lapix - Day By Day feat. Nicole Curry
+[14:08:45] BanchoBot: Changed match mode to Osu
+[14:08:46] BCraftMG: !mp timer 120
+[14:08:47] BanchoBot: Countdown ends in 2 minutes
+[14:08:57] hanleyfu: gl
+[14:09:00] BanchoBot: hanleyfu left the game.
+[14:09:47] BanchoBot: Countdown ends in 1 minute
+[14:10:11] BanchoBot: TCO joined in slot 2.
+[14:10:17] BanchoBot: Countdown ends in 30 seconds
+[14:10:35] BanchoBot: All players are ready
+[14:10:37] BanchoBot: Countdown ends in 10 seconds
+[14:10:38] BCraftMG: !mp settings
+[14:10:38] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby EX12), History: https://osu.ppy.sh/mp/120923719
+[14:10:38] BanchoBot: Beatmap: https://osu.ppy.sh/b/4285137 lapix - Day By Day feat. Nicole Curry
+[14:10:38] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[14:10:38] BanchoBot: Active mods: NoFail
+[14:10:38] BanchoBot: Players: 2
+[14:10:38] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13661480 Feng Be         
+[14:10:38] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/35067957 TCO             
+[14:10:39] BCraftMG: !mp start 5
+[14:10:39] BanchoBot: Countdown aborted
+[14:10:39] BanchoBot: Match starts in 5 seconds
+[14:10:39] BanchoBot: Queued the match to start in 5 seconds
+[14:10:40] BanchoBot: Match starts in 4 seconds
+[14:10:41] BanchoBot: Match starts in 3 seconds
+[14:10:43] BanchoBot: Good luck, have fun!
+[14:10:44] BanchoBot: The match has started!
+[14:14:48] BanchoBot: TCO finished playing (Score: 530679, PASSED).
+[14:14:49] BanchoBot: Feng Be finished playing (Score: 493446, PASSED).
+[14:14:49] BanchoBot: The match has finished!
+[14:14:52] BCraftMG: !mp map 3654369 0
+[14:14:52] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3654369 Script - Link Connected Liquid (onumi remix)
+[14:14:52] BanchoBot: Changed match mode to Osu
+[14:14:55] BCraftMG: !mp timer 120
+[14:14:56] BanchoBot: Countdown ends in 2 minutes
+[14:15:08] TCO: sorry i was breaking at start
+[14:15:19] TCO: i am pretty nervous
+[14:15:42] Feng_Be: dont mind
+[14:15:49] Feng_Be: me too:9
+[14:15:51] Feng_Be: :(
+[14:15:56] BanchoBot: Countdown ends in 1 minute
+[14:16:04] TCO: you got good acc unlike me
+[14:16:05] BanchoBot: All players are ready
+[14:16:07] BCraftMG: !mp settings
+[14:16:07] Feng_Be: glhf
+[14:16:07] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby EX12), History: https://osu.ppy.sh/mp/120923719
+[14:16:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/3654369 Script - Link Connected Liquid (onumi remix)
+[14:16:07] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[14:16:07] BanchoBot: Active mods: NoFail
+[14:16:07] BanchoBot: Players: 2
+[14:16:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13661480 Feng Be         
+[14:16:07] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/35067957 TCO             
+[14:16:09] BCraftMG: !mp start 5
+[14:16:10] BanchoBot: Countdown aborted
+[14:16:10] BanchoBot: Match starts in 5 seconds
+[14:16:10] BanchoBot: Queued the match to start in 5 seconds
+[14:16:11] BanchoBot: Match starts in 4 seconds
+[14:16:12] TCO: gl
+[14:16:12] BanchoBot: Match starts in 3 seconds
+[14:16:13] BanchoBot: Good luck, have fun!
+[14:16:15] BanchoBot: The match has started!
+[14:18:18] BanchoBot: TCO finished playing (Score: 459517, PASSED).
+[14:18:18] BanchoBot: Feng Be finished playing (Score: 470627, PASSED).
+[14:18:18] BanchoBot: The match has finished!
+[14:18:23] BCraftMG: !mp map 3290703 0
+[14:18:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3290703 EGOIST - BANG!!!
+[14:18:23] BanchoBot: Changed match mode to Osu
+[14:18:26] BCraftMG: !mp mods 9
+[14:18:26] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[14:18:27] TCO: i break again
+[14:18:28] BanchoBot: TCO left the game.
+[14:18:29] BCraftMG: !mp timer 120
+[14:18:29] BanchoBot: Countdown ends in 2 minutes
+[14:18:54] BanchoBot: andycupid joined in slot 2.
+[14:19:06] BanchoBot: hanleyfu joined in slot 3.
+[14:19:09] Feng_Be: glhf
+[14:19:10] BanchoBot: Feng Be left the game.
+[14:19:14] andycupid: glhf
+[14:19:19] andycupid: 盡力就好 L(
+[14:19:19] hanleyfu: GL
+[14:19:24] BanchoBot: All players are ready
+[14:19:26] BCraftMG: !mp settings
+[14:19:26] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby EX12), History: https://osu.ppy.sh/mp/120923719
+[14:19:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/3290703 EGOIST - BANG!!!
+[14:19:26] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[14:19:26] BanchoBot: Active mods: NoFail, Hidden
+[14:19:26] BanchoBot: Players: 2
+[14:19:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/28249447 andycupid       
+[14:19:26] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/24890424 hanleyfu        
+[14:19:30] BCraftMG: !mp start 5
+[14:19:30] BanchoBot: Countdown ends in 1 minute
+[14:19:30] BanchoBot: Countdown aborted
+[14:19:30] BanchoBot: Match starts in 5 seconds
+[14:19:30] BanchoBot: Queued the match to start in 5 seconds
+[14:19:32] BanchoBot: Match starts in 4 seconds
+[14:19:33] BanchoBot: Match starts in 3 seconds
+[14:19:34] BanchoBot: Good luck, have fun!
+[14:19:36] BanchoBot: The match has started!
+[14:22:54] BanchoBot: hanleyfu finished playing (Score: 217923, PASSED).
+[14:22:54] BanchoBot: andycupid finished playing (Score: 373863, PASSED).
+[14:22:54] BanchoBot: The match has finished!
+[14:22:57] BCraftMG: !mp map 2096920 0
+[14:22:57] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2096920 Utsu-P - Corona
+[14:22:57] BanchoBot: Changed match mode to Osu
+[14:23:01] BCraftMG: !mp timer 120
+[14:23:02] andycupid: 可以可以
+[14:23:02] BanchoBot: Countdown ends in 2 minutes
+[14:23:06] andycupid: 滿足了XDD
+[14:23:12] hanleyfu: 我前面斷超多
+[14:23:18] andycupid: 超爆緊張
+[14:23:19] hanleyfu: 結果中間接到了我從來沒有接到過的
+[14:23:22] hanleyfu: 所以分數補回來
+[14:23:38] andycupid: 上囉~
+[14:23:45] andycupid: GOLF
+[14:23:50] hanleyfu: 加油
+[14:23:52] BanchoBot: All players are ready
+[14:24:01] BCraftMG: !mp settings
+[14:24:01] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby EX12), History: https://osu.ppy.sh/mp/120923719
+[14:24:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/2096920 Utsu-P - Corona
+[14:24:01] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[14:24:01] BanchoBot: Active mods: NoFail, Hidden
+[14:24:01] BanchoBot: Players: 2
+[14:24:01] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/28249447 andycupid       
+[14:24:01] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/24890424 hanleyfu        
+[14:24:02] BanchoBot: Countdown ends in 1 minute
+[14:24:02] BCraftMG: !mp start 5
+[14:24:03] BanchoBot: Countdown aborted
+[14:24:03] BanchoBot: Match starts in 5 seconds
+[14:24:03] BanchoBot: Queued the match to start in 5 seconds
+[14:24:04] BanchoBot: Match starts in 4 seconds
+[14:24:05] BanchoBot: Match starts in 3 seconds
+[14:24:06] BanchoBot: Good luck, have fun!
+[14:24:08] BanchoBot: The match has started!
+[14:28:05] BanchoBot: andycupid finished playing (Score: 121301, PASSED).
+[14:28:07] BanchoBot: hanleyfu finished playing (Score: 199141, PASSED).
+[14:28:07] BanchoBot: The match has finished!
+[14:28:11] BCraftMG: !mp map 419976 0
+[14:28:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/419976 Eagle - S!ck (VIP)
+[14:28:11] BanchoBot: Changed match mode to Osu
+[14:28:15] BCraftMG: !mp mods 17
+[14:28:15] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[14:28:17] BCraftMG: !mp timer 120
+[14:28:18] BanchoBot: Countdown ends in 2 minutes
+[14:28:19] hanleyfu: 阿我打壞了
+[14:28:21] andycupid: 太坑了
+[14:28:22] andycupid: XDD
+[14:28:24] hanleyfu: 後面看不懂
+[14:28:30] BanchoBot: hanleyfu left the game.
+[14:28:38] BanchoBot: Feng Be joined in slot 1.
+[14:28:39] BanchoBot: TCO joined in slot 3.
+[14:28:42] BanchoBot: andycupid left the game.
+[14:28:56] BanchoBot: All players are ready
+[14:28:59] BCraftMG: !mp settings
+[14:29:00] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby EX12), History: https://osu.ppy.sh/mp/120923719
+[14:29:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/419976 Eagle - S!ck (VIP)
+[14:29:00] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[14:29:00] BanchoBot: Active mods: NoFail, HardRock
+[14:29:00] BanchoBot: Players: 2
+[14:29:00] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13661480 Feng Be         
+[14:29:00] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/35067957 TCO             
+[14:29:02] BCraftMG: !mp start 5
+[14:29:02] BanchoBot: Countdown aborted
+[14:29:02] BanchoBot: Match starts in 5 seconds
+[14:29:02] BanchoBot: Queued the match to start in 5 seconds
+[14:29:04] BanchoBot: Match starts in 4 seconds
+[14:29:05] BanchoBot: Match starts in 3 seconds
+[14:29:05] Feng_Be: glhf
+[14:29:06] BanchoBot: Good luck, have fun!
+[14:29:08] BanchoBot: The match has started!
+[14:32:27] BanchoBot: Feng Be finished playing (Score: 210870, PASSED).
+[14:32:27] BanchoBot: TCO finished playing (Score: 438040, PASSED).
+[14:32:27] BanchoBot: The match has finished!
+[14:32:30] BCraftMG: !mp map 22739 0
+[14:32:30] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/22739 Gojou Kai - Touhou Youkai Komachi
+[14:32:30] BanchoBot: Changed match mode to Osu
+[14:32:31] BanchoBot: TCO left the game.
+[14:32:52] BanchoBot: hanleyfu joined in slot 2.
+[14:32:55] BCraftMG: !mp timer 120
+[14:32:56] BanchoBot: Countdown ends in 2 minutes
+[14:32:59] hanleyfu: gl
+[14:33:06] BanchoBot: All players are ready
+[14:33:08] BCraftMG: !mp settings
+[14:33:09] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby EX12), History: https://osu.ppy.sh/mp/120923719
+[14:33:09] BanchoBot: Beatmap: https://osu.ppy.sh/b/22739 Gojou Kai - Touhou Youkai Komachi
+[14:33:09] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[14:33:09] BanchoBot: Active mods: NoFail, HardRock
+[14:33:09] BanchoBot: Players: 2
+[14:33:09] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13661480 Feng Be         
+[14:33:09] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/24890424 hanleyfu        
+[14:33:09] BCraftMG: !mp start 5
+[14:33:09] BanchoBot: Countdown aborted
+[14:33:09] BanchoBot: Match starts in 5 seconds
+[14:33:09] BanchoBot: Queued the match to start in 5 seconds
+[14:33:10] BanchoBot: Match starts in 4 seconds
+[14:33:11] BanchoBot: Match starts in 3 seconds
+[14:33:13] BanchoBot: Good luck, have fun!
+[14:33:14] BanchoBot: The match has started!
+[14:33:14] Feng_Be: gl
+[14:35:56] BanchoBot: Feng Be finished playing (Score: 223817, PASSED).
+[14:35:56] BanchoBot: hanleyfu finished playing (Score: 191902, PASSED).
+[14:35:56] BanchoBot: The match has finished!
+[14:36:01] BCraftMG: !mp map 4789293 0
+[14:36:02] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4789293 KOTOKO - a-gain
+[14:36:02] BanchoBot: Changed match mode to Osu
+[14:36:04] BCraftMG: !mp mods 65
+[14:36:05] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[14:36:05] BCraftMG: !mp timer 120
+[14:36:06] BanchoBot: Countdown ends in 2 minutes
+[14:36:10] BanchoBot: hanleyfu left the game.
+[14:37:05] BanchoBot: TCO joined in slot 2.
+[14:37:06] BanchoBot: Countdown ends in 1 minute
+[14:37:21] BanchoBot: All players are ready
+[14:37:24] BCraftMG: !mp settings
+[14:37:25] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby EX12), History: https://osu.ppy.sh/mp/120923719
+[14:37:25] BanchoBot: Beatmap: https://osu.ppy.sh/b/4789293 KOTOKO - a-gain
+[14:37:25] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[14:37:25] BanchoBot: Active mods: NoFail, DoubleTime
+[14:37:25] BanchoBot: Players: 2
+[14:37:25] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/13661480 Feng Be         
+[14:37:25] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/35067957 TCO             
+[14:37:25] BCraftMG: !mp start 5
+[14:37:25] Feng_Be: gl
+[14:37:25] BanchoBot: Countdown aborted
+[14:37:25] BanchoBot: Match starts in 5 seconds
+[14:37:25] BanchoBot: Queued the match to start in 5 seconds
+[14:37:27] BanchoBot: Match starts in 4 seconds
+[14:37:27] BanchoBot: Match starts in 3 seconds
+[14:37:29] BanchoBot: Good luck, have fun!
+[14:37:30] BanchoBot: The match has started!
+[14:40:37] BanchoBot: TCO finished playing (Score: 1121450, PASSED).
+[14:40:37] BanchoBot: Feng Be finished playing (Score: 508241, PASSED).
+[14:40:37] BanchoBot: The match has finished!
+[14:40:44] TCO: i did it again
+[14:40:48] Feng_Be: pro
+[14:40:49] BCraftMG: !mp map 4702435 0
+[14:40:50] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4702435 Sparxe - Comma, ~ Imi to Kouzou no Bunri
+[14:40:50] BanchoBot: Changed match mode to Osu
+[14:40:58] BCraftMG: !mp timer 120
+[14:40:58] BanchoBot: Countdown ends in 2 minutes
+[14:41:01] TCO: i could not fc in practice
+[14:41:21] BanchoBot: Feng Be left the game.
+[14:41:59] BanchoBot: Countdown ends in 1 minute
+[14:42:09] BanchoBot: hanleyfu joined in slot 1.
+[14:42:22] hanleyfu: GL
+[14:42:25] BanchoBot: All players are ready
+[14:42:25] TCO: gl
+[14:42:28] BCraftMG: !mp settings
+[14:42:28] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby EX12), History: https://osu.ppy.sh/mp/120923719
+[14:42:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/4702435 Sparxe - Comma, ~ Imi to Kouzou no Bunri
+[14:42:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[14:42:28] BanchoBot: Active mods: NoFail, DoubleTime
+[14:42:28] BanchoBot: Players: 2
+[14:42:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/24890424 hanleyfu        
+[14:42:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/35067957 TCO             
+[14:42:29] BanchoBot: Countdown ends in 30 seconds
+[14:42:49] BanchoBot: Countdown ends in 10 seconds
+[14:42:54] BanchoBot: Countdown ends in 5 seconds
+[14:42:55] BanchoBot: Countdown ends in 4 seconds
+[14:42:56] BanchoBot: Countdown ends in 3 seconds
+[14:42:57] BanchoBot: Countdown ends in 2 seconds
+[14:42:58] BCraftMG: !mp start 5
+[14:42:58] BanchoBot: Countdown ends in 1 second
+[14:42:58] BanchoBot: Countdown aborted
+[14:42:58] BanchoBot: Match starts in 5 seconds
+[14:42:58] BanchoBot: Queued the match to start in 5 seconds
+[14:42:59] BanchoBot: Match starts in 4 seconds
+[14:43:00] BanchoBot: Match starts in 3 seconds
+[14:43:02] BanchoBot: Good luck, have fun!
+[14:43:03] BanchoBot: The match has started!
+[14:45:02] BanchoBot: TCO finished playing (Score: 410483, PASSED).
+[14:45:03] BanchoBot: hanleyfu finished playing (Score: 94765, PASSED).
+[14:45:03] BanchoBot: The match has finished!
+[14:45:08] BanchoBot: TCO left the game.
+[14:45:19] BCraftMG: !mp map 2868755 0
+[14:45:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2868755 pm04034 - TATATAAA
+[14:45:19] BanchoBot: Changed match mode to Osu
+[14:45:22] BCraftMG: !mp mods freemod
+[14:45:22] BanchoBot: Disabled all mods, enabled FreeMod
+[14:45:24] BCraftMG: !mp timer 120
+[14:45:24] BanchoBot: Countdown ends in 2 minutes
+[14:45:30] BanchoBot: hanleyfu left the game.
+[14:45:42] BanchoBot: andycupid joined in slot 1.
+[14:46:06] BanchoBot: Feng Be joined in slot 2.
+[14:46:16] andycupid: 加油~~
+[14:46:24] BanchoBot: Countdown ends in 1 minute
+[14:46:25] andycupid: GLHF
+[14:46:29] BCraftMG: !mp settings
+[14:46:30] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby EX12), History: https://osu.ppy.sh/mp/120923719
+[14:46:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/2868755 pm04034 - TATATAAA
+[14:46:30] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[14:46:30] BanchoBot: Active mods: Freemod
+[14:46:30] BanchoBot: Players: 2
+[14:46:30] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/28249447 andycupid       [NoFail, Hidden]
+[14:46:30] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/13661480 Feng Be         [NoFail, HardRock]
+[14:46:31] Feng_Be: glhf
+[14:46:33] BanchoBot: All players are ready
+[14:46:34] BCraftMG: !mp settings
+[14:46:34] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby EX12), History: https://osu.ppy.sh/mp/120923719
+[14:46:34] BanchoBot: Beatmap: https://osu.ppy.sh/b/2868755 pm04034 - TATATAAA
+[14:46:34] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[14:46:34] BanchoBot: Active mods: Freemod
+[14:46:34] BanchoBot: Players: 2
+[14:46:34] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/28249447 andycupid       [NoFail, Hidden]
+[14:46:34] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13661480 Feng Be         [NoFail, HardRock]
+[14:46:36] BCraftMG: !mp start 5
+[14:46:36] BanchoBot: Countdown aborted
+[14:46:36] BanchoBot: Match starts in 5 seconds
+[14:46:36] BanchoBot: Queued the match to start in 5 seconds
+[14:46:37] BanchoBot: Match starts in 4 seconds
+[14:46:39] BanchoBot: Match starts in 3 seconds
+[14:46:40] BanchoBot: Good luck, have fun!
+[14:46:41] BanchoBot: The match has started!
+[14:48:51] BanchoBot: andycupid finished playing (Score: 377264, PASSED).
+[14:48:51] BanchoBot: Feng Be finished playing (Score: 118886, PASSED).
+[14:48:51] BanchoBot: The match has finished!
+[14:48:54] BCraftMG: !mp map 5193345 0
+[14:48:55] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5193345 Wonderlands x Showtime - Your Adventure Log Has Vanished! [Long ver.]
+[14:48:55] BanchoBot: Changed match mode to Osu
+[14:48:57] BCraftMG: !mp timer 120
+[14:48:57] BanchoBot: Countdown ends in 2 minutes
+[14:49:02] andycupid: bruh
+[14:49:10] Feng_Be: :(
+[14:49:13] andycupid: QQ
+[14:49:26] BanchoBot: All players are ready
+[14:49:34] andycupid: final map
+[14:49:34] BCraftMG: !mp settings
+[14:49:35] andycupid: glhf
+[14:49:35] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby EX12), History: https://osu.ppy.sh/mp/120923719
+[14:49:35] BanchoBot: Beatmap: https://osu.ppy.sh/b/5193345 Wonderlands x Showtime - Your Adventure Log Has Vanished! [Long ver.]
+[14:49:35] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[14:49:35] BanchoBot: Active mods: Freemod
+[14:49:35] BanchoBot: Players: 2
+[14:49:35] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/28249447 andycupid       [NoFail, Hidden]
+[14:49:35] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/13661480 Feng Be         [NoFail, HardRock]
+[14:49:37] BCraftMG: !mp start 5
+[14:49:37] BanchoBot: Countdown aborted
+[14:49:37] BanchoBot: Match starts in 5 seconds
+[14:49:37] BanchoBot: Queued the match to start in 5 seconds
+[14:49:38] BanchoBot: Match starts in 4 seconds
+[14:49:39] BanchoBot: Match starts in 3 seconds
+[14:49:40] Feng_Be: glhf
+[14:49:41] BanchoBot: Good luck, have fun!
+[14:49:42] BanchoBot: The match has started!
+[14:53:30] BanchoBot: Feng Be finished playing (Score: 384906, PASSED).
+[14:53:30] BanchoBot: andycupid finished playing (Score: 147999, PASSED).
+[14:53:30] BanchoBot: The match has finished!
+[14:53:40] andycupid: 糞圖
+[14:53:46] andycupid: thanks to ref
+[14:53:48] Feng_Be: thx ref
+[14:53:54] BCraftMG: gg
+[14:54:00] andycupid: ggs
+[14:54:02] Feng_Be: gg
+[14:54:09] BanchoBot: andycupid left the game.
+[14:54:12] BanchoBot: Feng Be left the game.
+[14:54:43] BCraftMG: !mp close
+[14:54:43] BanchoBot: Closed the match

@@ -1,0 +1,556 @@
+[08:53:32] Joined #mp_120913759
+[08:53:32] BCraftMG: !mp settings
+[08:53:32] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q8), History: https://osu.ppy.sh/mp/120913759
+[08:53:32] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[08:53:32] BanchoBot: Players: 0
+[08:53:41] BCraftMG: !mp set 0 3 8
+[08:53:41] BanchoBot: Changed match settings to 8 slots, HeadToHead, ScoreV2
+[08:53:45] BCraftMG: !mp invite #18265076
+[08:53:45] BanchoBot: Invited ninjames55 to the room
+[08:53:48] BCraftMG: !mp invite #23996416
+[08:53:48] BanchoBot: Invited sqoop to the room
+[08:54:51] BanchoBot: ninjames55 joined in slot 1.
+[08:55:08] BanchoBot: sqoop joined in slot 2.
+[08:55:18] BCraftMG: o/
+[08:55:20] ninjames55: wait do all of us play at the same time?
+[08:55:20] sqoop: heyo
+[08:55:26] BanchoBot: Tusk1527 joined in slot 3.
+[08:55:27] ninjames55: or do we send 2 ppl each map?
+[08:55:31] sqoop: im pretty sure u just pick 2
+[08:55:45] BCraftMG: 2 ppl each map
+[08:55:48] BanchoBot: Infinity21 joined in slot 4.
+[08:56:33] BCraftMG: !mp map 5605759 0
+[08:56:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5605759 ReoNa - Nai Nai
+[08:56:33] BanchoBot: Changed match mode to Osu
+[08:56:35] BCraftMG: !mp mods 1
+[08:56:35] BanchoBot: Enabled NoFail, disabled FreeMod
+[08:56:52] BCraftMG: 120s to ready up between maps
+[08:56:52] Tusk1527: oh
+[08:57:27] BanchoBot: Merbolt joined in slot 5.
+[08:57:30] BanchoBot: Merbolt left the game.
+[08:57:32] BCraftMG: please be ready before the timer end
+[08:57:34] BanchoBot: All players are ready
+[08:57:38] BCraftMG: a
+[08:57:39] BCraftMG: !mp settings
+[08:57:39] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q8), History: https://osu.ppy.sh/mp/120913759
+[08:57:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/5605759 ReoNa - Nai Nai
+[08:57:39] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[08:57:39] BanchoBot: Active mods: NoFail
+[08:57:39] BanchoBot: Players: 4
+[08:57:39] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18265076 ninjames55      
+[08:57:39] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/23996416 sqoop           
+[08:57:39] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/33794305 Tusk1527        
+[08:57:39] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23873884 Infinity21      
+[08:57:42] BCraftMG: !mp start 5
+[08:57:42] BanchoBot: Match starts in 5 seconds
+[08:57:42] BanchoBot: Queued the match to start in 5 seconds
+[08:57:43] BanchoBot: Match starts in 4 seconds
+[08:57:44] sqoop: ye sry
+[08:57:45] BanchoBot: Match starts in 3 seconds
+[08:57:45] BanchoBot: Good luck, have fun!
+[08:57:46] Infinity21: GHF
+[08:57:47] BanchoBot: The match has started!
+[08:57:50] sqoop: gooluck  guys
+[09:02:03] BanchoBot: sqoop finished playing (Score: 336655, PASSED).
+[09:02:04] BanchoBot: Tusk1527 finished playing (Score: 318570, PASSED).
+[09:02:04] BanchoBot: Infinity21 finished playing (Score: 581444, PASSED).
+[09:02:04] BanchoBot: ninjames55 finished playing (Score: 341837, PASSED).
+[09:02:04] BanchoBot: The match has finished!
+[09:02:10] BCraftMG: !mp map 2024425 0
+[09:02:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2024425 The Flashbulb - Passage D
+[09:02:10] BanchoBot: Changed match mode to Osu
+[09:02:12] BCraftMG: !mp timer 120
+[09:02:13] BanchoBot: Countdown ends in 2 minutes
+[09:02:34] Tusk1527: bpm too low for me
+[09:02:48] Tusk1527: bad acc
+[09:03:13] BanchoBot: Countdown ends in 1 minute
+[09:03:19] BanchoBot: All players are ready
+[09:03:21] BCraftMG: !mp settings
+[09:03:22] sqoop: i think i lose this one
+[09:03:22] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q8), History: https://osu.ppy.sh/mp/120913759
+[09:03:22] BanchoBot: Beatmap: https://osu.ppy.sh/b/2024425 The Flashbulb - Passage D
+[09:03:22] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[09:03:22] BanchoBot: Active mods: NoFail
+[09:03:22] BanchoBot: Players: 4
+[09:03:22] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18265076 ninjames55      
+[09:03:22] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/23996416 sqoop           
+[09:03:22] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/33794305 Tusk1527        
+[09:03:22] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23873884 Infinity21      
+[09:03:24] BCraftMG: !mp start 5
+[09:03:24] BanchoBot: Countdown aborted
+[09:03:24] BanchoBot: Match starts in 5 seconds
+[09:03:24] BanchoBot: Queued the match to start in 5 seconds
+[09:03:25] BanchoBot: Match starts in 4 seconds
+[09:03:26] sqoop: its just to fast 4 me
+[09:03:27] BanchoBot: Match starts in 3 seconds
+[09:03:28] BanchoBot: Good luck, have fun!
+[09:03:29] BanchoBot: The match has started!
+[09:03:30] sqoop: gooluck guys
+[09:05:33] BanchoBot: sqoop finished playing (Score: 75168, PASSED).
+[09:05:33] BanchoBot: Infinity21 finished playing (Score: 377160, PASSED).
+[09:05:33] BanchoBot: ninjames55 finished playing (Score: 236360, PASSED).
+[09:05:33] BanchoBot: Tusk1527 finished playing (Score: 202238, PASSED).
+[09:05:33] BanchoBot: The match has finished!
+[09:05:40] BCraftMG: !mp map 4285137 0
+[09:05:41] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4285137 lapix - Day By Day feat. Nicole Curry
+[09:05:41] BanchoBot: Changed match mode to Osu
+[09:05:46] BCraftMG: !mp timer 120
+[09:05:47] BanchoBot: Countdown ends in 2 minutes
+[09:06:27] Tusk1527: the captain of our team just be screened out
+[09:06:38] ninjames55: our best player also got screened
+[09:06:40] sqoop: yea
+[09:06:41] Infinity21: our only good player also got screened out
+[09:06:48] BanchoBot: Countdown ends in 1 minute
+[09:06:57] sqoop: now i gotta play all maps :(
+[09:06:59] BanchoBot: All players are ready
+[09:07:04] BCraftMG: !mp settings
+[09:07:05] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q8), History: https://osu.ppy.sh/mp/120913759
+[09:07:05] BanchoBot: Beatmap: https://osu.ppy.sh/b/4285137 lapix - Day By Day feat. Nicole Curry
+[09:07:05] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[09:07:05] BanchoBot: Active mods: NoFail
+[09:07:05] BanchoBot: Players: 4
+[09:07:05] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18265076 ninjames55      
+[09:07:05] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/23996416 sqoop           
+[09:07:05] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/33794305 Tusk1527        
+[09:07:05] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23873884 Infinity21      
+[09:07:06] BCraftMG: !mp start 5
+[09:07:07] BanchoBot: Countdown aborted
+[09:07:07] BanchoBot: Match starts in 5 seconds
+[09:07:07] BanchoBot: Queued the match to start in 5 seconds
+[09:07:08] Tusk1527: gl
+[09:07:08] BanchoBot: Match starts in 4 seconds
+[09:07:09] BanchoBot: Match starts in 3 seconds
+[09:07:11] BanchoBot: Good luck, have fun!
+[09:07:11] Infinity21: GLHF
+[09:07:12] sqoop: gooluck
+[09:07:12] BanchoBot: The match has started!
+[09:11:15] BanchoBot: Infinity21 finished playing (Score: 718386, PASSED).
+[09:11:15] BanchoBot: Tusk1527 finished playing (Score: 224359, PASSED).
+[09:11:16] BanchoBot: sqoop finished playing (Score: 253258, PASSED).
+[09:11:17] BanchoBot: ninjames55 finished playing (Score: 481114, PASSED).
+[09:11:17] BanchoBot: The match has finished!
+[09:11:21] BCraftMG: !mp map 3654369 0
+[09:11:21] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3654369 Script - Link Connected Liquid (onumi remix)
+[09:11:21] BanchoBot: Changed match mode to Osu
+[09:11:24] BCraftMG: !mp timer 120
+[09:11:24] BanchoBot: Countdown ends in 2 minutes
+[09:12:23] Tusk1527: my team don't have even one 4kpp now
+[09:12:24] BanchoBot: All players are ready
+[09:12:24] BanchoBot: Countdown ends in 1 minute
+[09:12:27] BCraftMG: !mp settings
+[09:12:27] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q8), History: https://osu.ppy.sh/mp/120913759
+[09:12:27] BanchoBot: Beatmap: https://osu.ppy.sh/b/3654369 Script - Link Connected Liquid (onumi remix)
+[09:12:27] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[09:12:27] BanchoBot: Active mods: NoFail
+[09:12:27] BanchoBot: Players: 4
+[09:12:27] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18265076 ninjames55      
+[09:12:27] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/23996416 sqoop           
+[09:12:27] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/33794305 Tusk1527        
+[09:12:27] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23873884 Infinity21      
+[09:12:30] BCraftMG: !mp start 5
+[09:12:30] BanchoBot: Countdown aborted
+[09:12:30] BanchoBot: Match starts in 5 seconds
+[09:12:30] BanchoBot: Queued the match to start in 5 seconds
+[09:12:31] BanchoBot: Match starts in 4 seconds
+[09:12:32] BanchoBot: Match starts in 3 seconds
+[09:12:33] ninjames55: glhf
+[09:12:34] BanchoBot: Good luck, have fun!
+[09:12:35] BanchoBot: The match has started!
+[09:14:49] BanchoBot: sqoop finished playing (Score: 227784, PASSED).
+[09:14:51] BanchoBot: Tusk1527 finished playing (Score: 478857, PASSED).
+[09:14:55] BanchoBot: ninjames55 finished playing (Score: 364520, PASSED).
+[09:14:55] BanchoBot: Infinity21 finished playing (Score: 445240, PASSED).
+[09:14:55] BanchoBot: The match has finished!
+[09:14:59] BCraftMG: !mp map 3290703 0
+[09:14:59] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3290703 EGOIST - BANG!!!
+[09:14:59] BanchoBot: Changed match mode to Osu
+[09:15:01] BCraftMG: !mp mods 9
+[09:15:01] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[09:15:10] BCraftMG: !mp timer 120
+[09:15:11] BanchoBot: Countdown ends in 2 minutes
+[09:15:14] sqoop: oo nice tusk
+[09:15:15] Tusk1527: good luck to combo
+[09:15:29] sqoop: this map feels more reading heavy than hd2
+[09:15:31] BanchoBot: Merbolt joined in slot 5.
+[09:15:36] BanchoBot: ninjames55 left the game.
+[09:15:38] BanchoBot: Merbolt moved to slot 1
+[09:15:46] Infinity21: i agrfee
+[09:15:48] Infinity21: this map is bs
+[09:15:51] Tusk1527: i love the song but don't want HD....
+[09:15:54] Merbolt: hi guys
+[09:15:55] Infinity21: the rhythms are so weird
+[09:16:02] Tusk1527: yeah
+[09:16:02] Infinity21: yeah i feel like it would be a good nm3 or nm1
+[09:16:11] Infinity21: its kinda awkward on hdd
+[09:16:11] BanchoBot: Countdown ends in 1 minute
+[09:16:23] BanchoBot: All players are ready
+[09:16:27] BCraftMG: !mp settings
+[09:16:28] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q8), History: https://osu.ppy.sh/mp/120913759
+[09:16:28] BanchoBot: Beatmap: https://osu.ppy.sh/b/3290703 EGOIST - BANG!!!
+[09:16:28] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[09:16:28] BanchoBot: Active mods: NoFail, Hidden
+[09:16:28] BanchoBot: Players: 4
+[09:16:28] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18231866 Merbolt         
+[09:16:28] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/23996416 sqoop           
+[09:16:28] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/33794305 Tusk1527        
+[09:16:28] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23873884 Infinity21      
+[09:16:32] BCraftMG: !mp start 5
+[09:16:33] BanchoBot: Countdown aborted
+[09:16:33] BanchoBot: Match starts in 5 seconds
+[09:16:33] BanchoBot: Queued the match to start in 5 seconds
+[09:16:34] BanchoBot: Match starts in 4 seconds
+[09:16:35] BanchoBot: Match starts in 3 seconds
+[09:16:36] BanchoBot: Good luck, have fun!
+[09:16:37] sqoop: gooluck !!
+[09:16:38] BanchoBot: The match has started!
+[09:19:56] BanchoBot: sqoop finished playing (Score: 281665, PASSED).
+[09:19:57] BanchoBot: Tusk1527 finished playing (Score: 152036, PASSED).
+[09:19:57] BanchoBot: Infinity21 finished playing (Score: 272783, PASSED).
+[09:19:58] BanchoBot: Merbolt finished playing (Score: 247435, PASSED).
+[09:19:58] BanchoBot: The match has finished!
+[09:20:05] BCraftMG: !mp map 2096920 0
+[09:20:06] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2096920 Utsu-P - Corona
+[09:20:06] BanchoBot: Changed match mode to Osu
+[09:20:06] BCraftMG: !mp timer 120
+[09:20:07] BanchoBot: Countdown ends in 2 minutes
+[09:20:13] Tusk1527: nice sqoop
+[09:20:22] sqoop: tyy
+[09:20:24] Merbolt: that was a good score
+[09:20:30] Merbolt: map is hard asf
+[09:20:40] Tusk1527: oh i reaaaly don't wanna this AR8HD
+[09:20:40] Infinity21: wpwp
+[09:20:41] sqoop: if only those bursts werent in the map itd be so chill
+[09:20:56] BanchoBot: All players are ready
+[09:21:00] BCraftMG: !mp settings
+[09:21:00] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q8), History: https://osu.ppy.sh/mp/120913759
+[09:21:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/2096920 Utsu-P - Corona
+[09:21:00] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[09:21:00] BanchoBot: Active mods: NoFail, Hidden
+[09:21:00] BanchoBot: Players: 4
+[09:21:00] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18231866 Merbolt         
+[09:21:00] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/23996416 sqoop           
+[09:21:00] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/33794305 Tusk1527        
+[09:21:00] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23873884 Infinity21      
+[09:21:05] BCraftMG: !mp start 5
+[09:21:05] BanchoBot: Countdown aborted
+[09:21:05] BanchoBot: Match starts in 5 seconds
+[09:21:05] BanchoBot: Queued the match to start in 5 seconds
+[09:21:07] BanchoBot: Match starts in 4 seconds
+[09:21:08] BanchoBot: Match starts in 3 seconds
+[09:21:09] BanchoBot: Good luck, have fun!
+[09:21:09] sqoop: surely i dont miss on nothing every 100 combo and do horrible
+[09:21:11] BanchoBot: The match has started!
+[09:21:12] sqoop: goodluckyy
+[09:25:11] BanchoBot: sqoop finished playing (Score: 355357, PASSED).
+[09:25:13] BanchoBot: Infinity21 finished playing (Score: 486866, PASSED).
+[09:25:13] BanchoBot: Tusk1527 finished playing (Score: 117737, PASSED).
+[09:25:14] BanchoBot: Merbolt finished playing (Score: 109451, PASSED).
+[09:25:14] BanchoBot: The match has finished!
+[09:25:19] BCraftMG: !mp map 419976 0
+[09:25:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/419976 Eagle - S!ck (VIP)
+[09:25:19] BanchoBot: Changed match mode to Osu
+[09:25:24] BCraftMG: !mp mods 17
+[09:25:24] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[09:25:25] sqoop: aw i missed on all the easy parts wth
+[09:25:25] BCraftMG: !mp timer 120
+[09:25:26] BanchoBot: Countdown ends in 2 minutes
+[09:25:37] BanchoBot: Merbolt left the game.
+[09:25:37] Infinity21: i ate absolute dog at that ending
+[09:25:40] Tusk1527: on no
+[09:25:43] BanchoBot: ninjames55 joined in slot 1.
+[09:26:09] sqoop: the ending is kinda mean with hd
+[09:26:26] BanchoBot: Countdown ends in 1 minute
+[09:26:29] sqoop: i cant really tell if i play the ending right or i just play all those sliders as doubles but it works out somehow
+[09:26:34] Infinity21: true
+[09:26:37] Infinity21: i should've mashed lowkey
+[09:26:44] BanchoBot: All players are ready
+[09:26:47] sqoop: haha yeah it mighta worked better
+[09:26:56] BanchoBot: Countdown ends in 30 seconds
+[09:26:58] BCraftMG: !mp settings
+[09:26:59] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q8), History: https://osu.ppy.sh/mp/120913759
+[09:26:59] BanchoBot: Beatmap: https://osu.ppy.sh/b/419976 Eagle - S!ck (VIP)
+[09:26:59] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[09:26:59] BanchoBot: Active mods: NoFail, HardRock
+[09:26:59] BanchoBot: Players: 4
+[09:26:59] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18265076 ninjames55      
+[09:26:59] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/23996416 sqoop           
+[09:26:59] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/33794305 Tusk1527        
+[09:26:59] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23873884 Infinity21      
+[09:27:02] BCraftMG: !mp start 5
+[09:27:02] BanchoBot: Countdown aborted
+[09:27:02] BanchoBot: Match starts in 5 seconds
+[09:27:02] BanchoBot: Queued the match to start in 5 seconds
+[09:27:03] BanchoBot: Match starts in 4 seconds
+[09:27:05] BanchoBot: Match starts in 3 seconds
+[09:27:06] BanchoBot: Good luck, have fun!
+[09:27:07] Infinity21: GLHF
+[09:27:08] BanchoBot: The match has started!
+[09:27:13] sqoop: time to die by hr and dt
+[09:30:25] BanchoBot: sqoop finished playing (Score: 98955, PASSED).
+[09:30:25] BanchoBot: Tusk1527 finished playing (Score: 262498, PASSED).
+[09:30:25] BanchoBot: Infinity21 finished playing (Score: 310784, PASSED).
+[09:30:26] BanchoBot: ninjames55 finished playing (Score: 688636, PASSED).
+[09:30:26] BanchoBot: The match has finished!
+[09:30:33] BCraftMG: !mp map 22739 0
+[09:30:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/22739 Gojou Kai - Touhou Youkai Komachi
+[09:30:33] BanchoBot: Changed match mode to Osu
+[09:30:34] BCraftMG: !mp timer 120
+[09:30:35] BanchoBot: Countdown ends in 2 minutes
+[09:30:44] Tusk1527: burn out
+[09:30:49] BanchoBot: Infinity21 left the game.
+[09:30:50] BanchoBot: Merbolt joined in slot 4.
+[09:31:35] BanchoBot: Countdown ends in 1 minute
+[09:31:47] BanchoBot: All players are ready
+[09:31:47] Merbolt: glhf
+[09:31:49] BCraftMG: !mp settings
+[09:31:50] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q8), History: https://osu.ppy.sh/mp/120913759
+[09:31:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/22739 Gojou Kai - Touhou Youkai Komachi
+[09:31:50] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[09:31:50] BanchoBot: Active mods: NoFail, HardRock
+[09:31:50] BanchoBot: Players: 4
+[09:31:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18265076 ninjames55      
+[09:31:50] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/23996416 sqoop           
+[09:31:50] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/33794305 Tusk1527        
+[09:31:50] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/18231866 Merbolt         
+[09:31:50] BCraftMG: !mp start 5
+[09:31:51] BanchoBot: Countdown aborted
+[09:31:51] BanchoBot: Match starts in 5 seconds
+[09:31:51] BanchoBot: Queued the match to start in 5 seconds
+[09:31:51] ninjames55: glhf
+[09:31:52] BanchoBot: Match starts in 4 seconds
+[09:31:53] BanchoBot: Match starts in 3 seconds
+[09:31:54] BanchoBot: Good luck, have fun!
+[09:31:54] sqoop: gll guys
+[09:31:56] BanchoBot: The match has started!
+[09:34:38] BanchoBot: Merbolt finished playing (Score: 511193, PASSED).
+[09:34:39] BanchoBot: sqoop finished playing (Score: 188997, PASSED).
+[09:34:39] BanchoBot: ninjames55 finished playing (Score: 496527, PASSED).
+[09:34:39] BanchoBot: Tusk1527 finished playing (Score: 108460, PASSED).
+[09:34:39] BanchoBot: The match has finished!
+[09:34:42] BCraftMG: !mp map 4789293 0
+[09:34:42] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4789293 KOTOKO - a-gain
+[09:34:42] BanchoBot: Changed match mode to Osu
+[09:34:44] BCraftMG: !mp mods 65
+[09:34:45] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[09:34:46] BCraftMG: !mp timer 120
+[09:34:46] BanchoBot: Countdown ends in 2 minutes
+[09:35:47] BanchoBot: Countdown ends in 1 minute
+[09:36:02] BanchoBot: All players are ready
+[09:36:08] BCraftMG: !mp settings
+[09:36:08] Merbolt: glhf
+[09:36:09] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q8), History: https://osu.ppy.sh/mp/120913759
+[09:36:09] BanchoBot: Beatmap: https://osu.ppy.sh/b/4789293 KOTOKO - a-gain
+[09:36:09] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[09:36:09] BanchoBot: Active mods: NoFail, DoubleTime
+[09:36:09] BanchoBot: Players: 4
+[09:36:09] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18265076 ninjames55      
+[09:36:09] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/23996416 sqoop           
+[09:36:09] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/33794305 Tusk1527        
+[09:36:09] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/18231866 Merbolt         
+[09:36:09] BCraftMG: !mp start 5
+[09:36:10] BanchoBot: Countdown aborted
+[09:36:10] BanchoBot: Match starts in 5 seconds
+[09:36:10] BanchoBot: Queued the match to start in 5 seconds
+[09:36:11] BanchoBot: Match starts in 4 seconds
+[09:36:12] BanchoBot: Match starts in 3 seconds
+[09:36:13] sqoop: gooluckk
+[09:36:13] BanchoBot: Good luck, have fun!
+[09:36:15] BanchoBot: The match has started!
+[09:39:25] BanchoBot: Tusk1527 finished playing (Score: 365430, PASSED).
+[09:39:26] BanchoBot: Merbolt finished playing (Score: 500651, PASSED).
+[09:39:26] BanchoBot: sqoop finished playing (Score: 213790, PASSED).
+[09:39:27] BanchoBot: ninjames55 finished playing (Score: 532099, PASSED).
+[09:39:27] BanchoBot: The match has finished!
+[09:39:34] BCraftMG: !mp map 4702435 0
+[09:39:34] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4702435 Sparxe - Comma, ~ Imi to Kouzou no Bunri
+[09:39:34] BanchoBot: Changed match mode to Osu
+[09:39:37] BCraftMG: !mp timer 120
+[09:39:37] BanchoBot: Countdown ends in 2 minutes
+[09:40:10] BanchoBot: Infinity21 joined in slot 5.
+[09:40:23] BanchoBot: Infinity21 left the game.
+[09:40:32] BanchoBot: Infinity21 joined in slot 5.
+[09:40:38] BanchoBot: Countdown ends in 1 minute
+[09:40:51] BanchoBot: Merbolt left the game.
+[09:41:00] BanchoBot: Infinity21 moved to slot 4
+[09:41:07] BanchoBot: All players are ready
+[09:41:08] BanchoBot: Countdown ends in 30 seconds
+[09:41:12] BCraftMG: !mp settings
+[09:41:13] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q8), History: https://osu.ppy.sh/mp/120913759
+[09:41:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/4702435 Sparxe - Comma, ~ Imi to Kouzou no Bunri
+[09:41:13] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[09:41:13] BanchoBot: Active mods: NoFail, DoubleTime
+[09:41:13] BanchoBot: Players: 4
+[09:41:13] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18265076 ninjames55      
+[09:41:13] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/23996416 sqoop           
+[09:41:13] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/33794305 Tusk1527        
+[09:41:13] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23873884 Infinity21      
+[09:41:14] BCraftMG: !mp start 5
+[09:41:14] Infinity21: GLHF
+[09:41:14] BanchoBot: Countdown aborted
+[09:41:14] BanchoBot: Match starts in 5 seconds
+[09:41:14] BanchoBot: Queued the match to start in 5 seconds
+[09:41:15] BanchoBot: Match starts in 4 seconds
+[09:41:17] BanchoBot: Match starts in 3 seconds
+[09:41:18] BanchoBot: Good luck, have fun!
+[09:41:19] sqoop: gooluck
+[09:41:20] BanchoBot: The match has started!
+[09:41:20] ninjames55: glhf
+[09:43:19] BanchoBot: ninjames55 finished playing (Score: 568272, PASSED).
+[09:43:19] BanchoBot: Tusk1527 finished playing (Score: 448549, PASSED).
+[09:43:20] BanchoBot: sqoop finished playing (Score: 149583, PASSED).
+[09:43:20] BanchoBot: Infinity21 finished playing (Score: 340026, PASSED).
+[09:43:20] BanchoBot: The match has finished!
+[09:43:25] BCraftMG: !mp map 2868755 0
+[09:43:25] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2868755 pm04034 - TATATAAA
+[09:43:25] BanchoBot: Changed match mode to Osu
+[09:43:27] BCraftMG: !mp mods Freemod
+[09:43:27] BanchoBot: Disabled all mods, enabled FreeMod
+[09:43:29] BCraftMG: !mp timer 120
+[09:43:30] BanchoBot: Countdown ends in 2 minutes
+[09:43:35] Tusk1527: bpm change
+[09:43:40] sqoop: a finally
+[09:43:56] Tusk1527: can i use NM
+[09:43:58] Tusk1527: QAQ
+[09:44:02] sqoop: i dont think so
+[09:44:03] BCraftMG: nop
+[09:44:07] Infinity21: yes if you also take a mod
+[09:44:08] Infinity21: :D
+[09:44:30] BanchoBot: Countdown ends in 1 minute
+[09:44:46] Tusk1527: QAQ
+[09:44:50] BanchoBot: All players are ready
+[09:44:51] BCraftMG: !mp settings
+[09:44:51] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q8), History: https://osu.ppy.sh/mp/120913759
+[09:44:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/2868755 pm04034 - TATATAAA
+[09:44:51] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[09:44:51] BanchoBot: Active mods: Freemod
+[09:44:51] BanchoBot: Players: 4
+[09:44:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18265076 ninjames55      [NoFail, HardRock]
+[09:44:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/23996416 sqoop           [NoFail, Hidden]
+[09:44:51] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/33794305 Tusk1527        [NoFail, Easy]
+[09:44:51] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23873884 Infinity21      [NoFail, Hidden]
+[09:44:53] ninjames55: glhf
+[09:44:57] Infinity21: GLHF
+[09:45:00] BanchoBot: Countdown ends in 30 seconds
+[09:45:03] sqoop: gooluckk
+[09:45:20] BanchoBot: Countdown ends in 10 seconds
+[09:45:23] BCraftMG: hold on
+[09:45:25] BanchoBot: Countdown ends in 5 seconds
+[09:45:26] BanchoBot: Countdown ends in 4 seconds
+[09:45:27] BanchoBot: Countdown ends in 3 seconds
+[09:45:27] sqoop: 54321
+[09:45:28] BanchoBot: Countdown ends in 2 seconds
+[09:45:29] BanchoBot: Countdown ends in 1 second
+[09:45:30] BanchoBot: Countdown finished
+[09:45:36] BCraftMG: sqoop and Tusk
+[09:45:41] BCraftMG: one of you will need to do hr
+[09:45:46] Infinity21: uh oh
+[09:45:46] BCraftMG: or hrhd
+[09:45:51] Tusk1527: what?
+[09:45:55] Tusk1527: i do
+[09:45:58] BCraftMG: 1. HR(HD) 	2. EZ(HD) | EZ and EZHD both have a 2.0x multiplier on all maps. 	3. HD
+[09:45:59] sqoop: yeah
+[09:46:04] BCraftMG: !mp settings
+[09:46:04] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q8), History: https://osu.ppy.sh/mp/120913759
+[09:46:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/2868755 pm04034 - TATATAAA
+[09:46:04] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[09:46:04] BanchoBot: Active mods: Freemod
+[09:46:04] BanchoBot: Players: 4
+[09:46:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18265076 ninjames55      [NoFail, HardRock]
+[09:46:04] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/23996416 sqoop           [NoFail, Hidden]
+[09:46:04] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/33794305 Tusk1527        [NoFail, HardRock]
+[09:46:04] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23873884 Infinity21      [NoFail, Hidden]
+[09:46:10] BCraftMG: i saw ez earlier
+[09:46:25] BanchoBot: All players are ready
+[09:46:26] BCraftMG: !mp settings
+[09:46:26] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q8), History: https://osu.ppy.sh/mp/120913759
+[09:46:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/2868755 pm04034 - TATATAAA
+[09:46:26] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[09:46:26] BanchoBot: Active mods: Freemod
+[09:46:26] BanchoBot: Players: 4
+[09:46:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18265076 ninjames55      [NoFail, HardRock]
+[09:46:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/23996416 sqoop           [NoFail, Hidden]
+[09:46:26] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/33794305 Tusk1527        [NoFail, HardRock]
+[09:46:26] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23873884 Infinity21      [NoFail, Hidden]
+[09:46:27] Infinity21: !roll
+[09:46:27] BanchoBot: Infinity21 rolls 4 point(s)
+[09:46:28] BCraftMG: !mp start 5
+[09:46:29] BanchoBot: Match starts in 5 seconds
+[09:46:29] BanchoBot: Queued the match to start in 5 seconds
+[09:46:30] BanchoBot: Match starts in 4 seconds
+[09:46:31] Infinity21: um
+[09:46:31] BanchoBot: Match starts in 3 seconds
+[09:46:32] BanchoBot: Good luck, have fun!
+[09:46:34] BanchoBot: The match has started!
+[09:46:34] sqoop: gll
+[09:48:44] BanchoBot: Tusk1527 finished playing (Score: 150790, PASSED).
+[09:48:44] BanchoBot: Infinity21 finished playing (Score: 242114, PASSED).
+[09:48:44] BanchoBot: ninjames55 finished playing (Score: 155930, PASSED).
+[09:48:45] BanchoBot: sqoop finished playing (Score: 288314, PASSED).
+[09:48:45] BanchoBot: The match has finished!
+[09:48:49] BCraftMG: !mp map 5193345 0
+[09:48:49] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5193345 Wonderlands x Showtime - Your Adventure Log Has Vanished! [Long ver.]
+[09:48:49] BanchoBot: Changed match mode to Osu
+[09:48:51] BCraftMG: !mp timer 120
+[09:48:51] BanchoBot: Countdown ends in 2 minutes
+[09:48:52] sqoop: umm
+[09:48:57] Tusk1527: i mean i'll do HR
+[09:49:02] sqoop: guys i was practicing the wrong diff of that map
+[09:49:04] sqoop: oops
+[09:49:06] Infinity21: YEAH SAME
+[09:49:08] sqoop: that was not the diff i was palying
+[09:49:09] ninjames55: we were too
+[09:49:12] Tusk1527: i plan to play EZ at first
+[09:49:49] Infinity21: uh
+[09:49:52] BanchoBot: Countdown ends in 1 minute
+[09:50:06] sqoop: i thought i just remembered the map a little wrong but that was completely different yea lol
+[09:50:17] Infinity21: weird that we somehow all made this mistake XD
+[09:50:21] ninjames55: we practiced the wrong diff too lol
+[09:50:22] BanchoBot: Countdown ends in 30 seconds
+[09:50:24] ninjames55: unlucky
+[09:50:31] sqoop: yeaa :P
+[09:50:33] BanchoBot: All players are ready
+[09:50:36] Tusk1527: bad
+[09:50:37] ninjames55: glhf
+[09:50:42] BanchoBot: Countdown ends in 10 seconds
+[09:50:42] sqoop: glll
+[09:50:47] BCraftMG: !mp settings
+[09:50:47] BanchoBot: Countdown ends in 5 seconds
+[09:50:47] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q8), History: https://osu.ppy.sh/mp/120913759
+[09:50:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/5193345 Wonderlands x Showtime - Your Adventure Log Has Vanished! [Long ver.]
+[09:50:47] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[09:50:47] BanchoBot: Active mods: Freemod
+[09:50:47] BanchoBot: Players: 4
+[09:50:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/18265076 ninjames55      [NoFail, HardRock]
+[09:50:47] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/23996416 sqoop           [NoFail, Hidden]
+[09:50:47] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/33794305 Tusk1527        [NoFail, HardRock]
+[09:50:47] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/23873884 Infinity21      [NoFail, Hidden]
+[09:50:47] BanchoBot: Countdown ends in 4 seconds
+[09:50:49] BanchoBot: Countdown ends in 3 seconds
+[09:50:49] BCraftMG: !mp start 5
+[09:50:50] BanchoBot: Countdown ends in 2 seconds
+[09:50:50] BanchoBot: Countdown aborted
+[09:50:50] BanchoBot: Match starts in 5 seconds
+[09:50:50] BanchoBot: Queued the match to start in 5 seconds
+[09:50:51] Tusk1527: gl
+[09:50:51] BanchoBot: Match starts in 4 seconds
+[09:50:52] BanchoBot: Match starts in 3 seconds
+[09:50:53] BanchoBot: Good luck, have fun!
+[09:50:55] BanchoBot: The match has started!
+[09:54:46] BanchoBot: Infinity21 finished playing (Score: 230584, PASSED).
+[09:54:46] BanchoBot: sqoop finished playing (Score: 265412, PASSED).
+[09:54:46] BanchoBot: ninjames55 finished playing (Score: 356498, PASSED).
+[09:54:47] BanchoBot: Tusk1527 finished playing (Score: 64270, PASSED).
+[09:54:47] BanchoBot: The match has finished!
+[09:55:06] BCraftMG: ggwo
+[09:55:11] Tusk1527: end
+[09:55:17] Tusk1527: QAQ
+[09:55:36] sqoop: ty 4 ref
+[09:55:51] ninjames55: ty 4 ref
+[09:56:02] Infinity21: ty 4 ref
+[09:56:08] sqoop: well it was fun gl qualifying guys
+[09:56:10] BanchoBot: ninjames55 left the game.
+[09:56:14] sqoop: surely we'll see u in there
+[09:56:21] BanchoBot: sqoop left the game.
+[09:56:26] BanchoBot: Tusk1527 left the game.
+[09:57:03] BanchoBot: Infinity21 left the game.
+[15:20:44] BCraftMG: !mp close

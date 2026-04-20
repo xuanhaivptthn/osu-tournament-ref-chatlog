@@ -1,0 +1,339 @@
+[21:43:43] Joined #mp_120917575
+[21:43:43] BCraftMG: !mp settings
+[21:43:44] BanchoBot: Room name: ZAT2: (Qualifiers) vs (Match EX7), History: https://osu.ppy.sh/mp/120917575
+[21:43:44] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[21:43:44] BanchoBot: Players: 0
+[21:46:06] BCraftMG: !mp set 0 3 3
+[21:46:07] BanchoBot: Changed match settings to 3 slots, HeadToHead, ScoreV2
+[21:46:09] BCraftMG: !mp invite Cessna
+[21:46:10] BanchoBot: User not found
+[21:46:16] BCraftMG: !mp invte minh2506
+[21:46:20] BCraftMG: !mp invite minh2506
+[21:46:21] BanchoBot: Invited minh2506 to the room
+[21:46:51] BanchoBot: minh2506 joined in slot 1.
+[21:47:21] BanchoBot: Cessna joined in slot 2.
+[21:48:03] BCraftMG: !mp map 4199811 0
+[21:48:03] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4199811 Good Kid - Osmosis
+[21:48:03] BanchoBot: Changed match mode to Osu
+[21:48:04] BCraftMG: !mp mods 1
+[21:48:05] BanchoBot: Enabled NoFail, disabled FreeMod
+[21:48:17] BanchoBot: All players are ready
+[21:48:20] BCraftMG: !mp settings
+[21:48:21] BanchoBot: Room name: ZAT2: (Qualifiers) vs (Match EX7), History: https://osu.ppy.sh/mp/120917575
+[21:48:21] BanchoBot: Beatmap: https://osu.ppy.sh/b/4199811 Good Kid - Osmosis
+[21:48:21] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:48:21] BanchoBot: Active mods: NoFail
+[21:48:21] BanchoBot: Players: 2
+[21:48:21] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/27706969 minh2506        
+[21:48:21] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16868806 Cessna          
+[21:48:24] BCraftMG: !mp start 5
+[21:48:24] BanchoBot: Match starts in 5 seconds
+[21:48:24] BanchoBot: Queued the match to start in 5 seconds
+[21:48:25] BanchoBot: Match starts in 4 seconds
+[21:48:26] BanchoBot: Match starts in 3 seconds
+[21:48:27] BanchoBot: Good luck, have fun!
+[21:48:29] BanchoBot: The match has started!
+[21:51:28] BanchoBot: Cessna finished playing (Score: 149394, PASSED).
+[21:51:29] BanchoBot: minh2506 finished playing (Score: 181114, PASSED).
+[21:51:29] BanchoBot: The match has finished!
+[21:51:37] BCraftMG: !mp map 1222416 0
+[21:51:37] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1222416 sasakure.UK - Atropos
+[21:51:37] BanchoBot: Changed match mode to Osu
+[21:51:54] BanchoBot: All players are ready
+[21:51:56] BCraftMG: !mp settings
+[21:51:57] BanchoBot: Room name: ZAT2: (Qualifiers) vs (Match EX7), History: https://osu.ppy.sh/mp/120917575
+[21:51:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/1222416 sasakure.UK - Atropos
+[21:51:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:51:57] BanchoBot: Active mods: NoFail
+[21:51:57] BanchoBot: Players: 2
+[21:51:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/27706969 minh2506        
+[21:51:57] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16868806 Cessna          
+[21:51:58] BCraftMG: !mp start 5
+[21:51:59] BanchoBot: Match starts in 5 seconds
+[21:51:59] BanchoBot: Queued the match to start in 5 seconds
+[21:52:01] BanchoBot: Match starts in 4 seconds
+[21:52:02] BanchoBot: Match starts in 3 seconds
+[21:52:03] BanchoBot: Good luck, have fun!
+[21:52:04] BanchoBot: The match has started!
+[21:55:09] BanchoBot: minh2506 finished playing (Score: 157010, PASSED).
+[21:55:10] BanchoBot: Cessna finished playing (Score: 120034, PASSED).
+[21:55:10] BanchoBot: The match has finished!
+[21:55:24] BCraftMG: !mp map 2395915 0
+[21:55:25] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2395915 mafumafu - I wanna be a girl
+[21:55:25] BanchoBot: Changed match mode to Osu
+[21:56:17] BanchoBot: All players are ready
+[21:56:25] BCraftMG: !mp settings
+[21:56:26] BanchoBot: Room name: ZAT2: (Qualifiers) vs (Match EX7), History: https://osu.ppy.sh/mp/120917575
+[21:56:26] BanchoBot: Beatmap: https://osu.ppy.sh/b/2395915 mafumafu - I wanna be a girl
+[21:56:26] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:56:26] BanchoBot: Active mods: NoFail
+[21:56:26] BanchoBot: Players: 2
+[21:56:26] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/27706969 minh2506        
+[21:56:26] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16868806 Cessna          
+[21:56:26] BCraftMG: !mp start 5
+[21:56:27] BanchoBot: Match starts in 5 seconds
+[21:56:27] BanchoBot: Queued the match to start in 5 seconds
+[21:56:29] BanchoBot: Match starts in 4 seconds
+[21:56:30] BanchoBot: Match starts in 3 seconds
+[21:56:31] BanchoBot: Good luck, have fun!
+[21:56:33] BanchoBot: The match has started!
+[22:00:39] BanchoBot: Cessna finished playing (Score: 109529, PASSED).
+[22:00:41] BanchoBot: minh2506 finished playing (Score: 106493, PASSED).
+[22:00:41] BanchoBot: The match has finished!
+[22:00:59] BCraftMG: !mp map 2439452 0
+[22:01:00] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2439452 USAO - Cyaegha
+[22:01:00] BanchoBot: Changed match mode to Osu
+[22:01:31] BanchoBot: All players are ready
+[22:01:32] BCraftMG: !mp settings
+[22:01:33] BanchoBot: Room name: ZAT2: (Qualifiers) vs (Match EX7), History: https://osu.ppy.sh/mp/120917575
+[22:01:33] BanchoBot: Beatmap: https://osu.ppy.sh/b/2439452 USAO - Cyaegha
+[22:01:33] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:01:33] BanchoBot: Active mods: NoFail
+[22:01:33] BanchoBot: Players: 2
+[22:01:33] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/27706969 minh2506        
+[22:01:33] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16868806 Cessna          
+[22:01:34] BCraftMG: !mp start 5
+[22:01:34] BanchoBot: Match starts in 5 seconds
+[22:01:34] BanchoBot: Queued the match to start in 5 seconds
+[22:01:35] BanchoBot: Match starts in 4 seconds
+[22:01:37] BanchoBot: Match starts in 3 seconds
+[22:01:38] BanchoBot: Good luck, have fun!
+[22:01:39] BanchoBot: The match has started!
+[22:04:05] BanchoBot: Cessna finished playing (Score: 175948, PASSED).
+[22:04:06] BanchoBot: minh2506 finished playing (Score: 164109, PASSED).
+[22:04:06] BanchoBot: The match has finished!
+[22:04:25] BCraftMG: !mp map 2254685 0
+[22:04:26] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2254685 Endor - Pump It Up
+[22:04:26] BanchoBot: Changed match mode to Osu
+[22:04:42] BCraftMG: ong be lap
+[22:04:44] BanchoBot: All players are ready
+[22:04:49] BCraftMG: cam on vietnamese
+[22:04:52] BCraftMG: !mp settings
+[22:04:52] BanchoBot: Room name: ZAT2: (Qualifiers) vs (Match EX7), History: https://osu.ppy.sh/mp/120917575
+[22:04:52] BanchoBot: Beatmap: https://osu.ppy.sh/b/2254685 Endor - Pump It Up
+[22:04:52] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:04:52] BanchoBot: Active mods: NoFail
+[22:04:52] BanchoBot: Players: 2
+[22:04:52] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/27706969 minh2506        
+[22:04:52] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16868806 Cessna          
+[22:04:53] BCraftMG: !mp start 5
+[22:04:53] BanchoBot: Match starts in 5 seconds
+[22:04:53] BanchoBot: Queued the match to start in 5 seconds
+[22:04:54] BanchoBot: Match starts in 4 seconds
+[22:04:56] BanchoBot: Match starts in 3 seconds
+[22:04:56] BanchoBot: Good luck, have fun!
+[22:04:58] BanchoBot: The match has started!
+[22:07:29] BanchoBot: minh2506 finished playing (Score: 124687, PASSED).
+[22:07:29] BanchoBot: Cessna finished playing (Score: 124077, PASSED).
+[22:07:29] BanchoBot: The match has finished!
+[22:07:41] BCraftMG: !mp map 5139399 0
+[22:07:42] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5139399 Imagine Dragons - Take Me To The Beach (feat. Ado)
+[22:07:42] BanchoBot: Changed match mode to Osu
+[22:07:46] BCraftMG: !mp mods 9
+[22:07:46] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[22:07:53] Cessna: h*dden
+[22:08:00] BanchoBot: All players are ready
+[22:08:02] BCraftMG: !mp settings
+[22:08:02] BanchoBot: Room name: ZAT2: (Qualifiers) vs (Match EX7), History: https://osu.ppy.sh/mp/120917575
+[22:08:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/5139399 Imagine Dragons - Take Me To The Beach (feat. Ado)
+[22:08:02] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:08:02] BanchoBot: Active mods: NoFail, Hidden
+[22:08:02] BanchoBot: Players: 2
+[22:08:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/27706969 minh2506        
+[22:08:02] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16868806 Cessna          
+[22:08:04] BCraftMG: :3
+[22:08:07] BCraftMG: !mp start 5
+[22:08:07] BCraftMG: !mp start 5
+[22:08:07] BanchoBot: Match starts in 5 seconds
+[22:08:07] BanchoBot: Queued the match to start in 5 seconds
+[22:08:09] BanchoBot: Match starts in 4 seconds
+[22:08:10] BanchoBot: Match starts in 3 seconds
+[22:08:11] BanchoBot: Good luck, have fun!
+[22:08:13] BanchoBot: The match has started!
+[22:08:17] BanchoBot: minh2506 left the game.
+[22:08:22] BanchoBot: minh2506 joined in slot 1.
+[22:08:26] minh2506: abort
+[22:08:26] BCraftMG: !mp abort
+[22:08:26] BanchoBot: Aborted the match
+[22:08:45] BanchoBot: All players are ready
+[22:08:55] BCraftMG: !mp settings
+[22:08:56] BanchoBot: Room name: ZAT2: (Qualifiers) vs (Match EX7), History: https://osu.ppy.sh/mp/120917575
+[22:08:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/5139399 Imagine Dragons - Take Me To The Beach (feat. Ado)
+[22:08:56] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:08:56] BanchoBot: Active mods: NoFail, Hidden
+[22:08:56] BanchoBot: Players: 2
+[22:08:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/27706969 minh2506        
+[22:08:56] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16868806 Cessna          
+[22:08:57] BCraftMG: !mp start 5
+[22:08:58] BanchoBot: Match starts in 5 seconds
+[22:08:58] BanchoBot: Queued the match to start in 5 seconds
+[22:09:00] BanchoBot: Match starts in 4 seconds
+[22:09:01] BanchoBot: Match starts in 3 seconds
+[22:09:01] BanchoBot: Good luck, have fun!
+[22:09:03] BanchoBot: The match has started!
+[22:11:52] BanchoBot: minh2506 finished playing (Score: 162309, PASSED).
+[22:11:53] BanchoBot: Cessna finished playing (Score: 199348, PASSED).
+[22:11:53] BanchoBot: The match has finished!
+[22:12:15] BCraftMG: !mp map 4009188 0
+[22:12:16] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4009188 A.SAKA - Mutsuki Akari no Yuki
+[22:12:16] BanchoBot: Changed match mode to Osu
+[22:13:01] BanchoBot: All players are ready
+[22:13:08] BCraftMG: !mp settings
+[22:13:08] BanchoBot: Room name: ZAT2: (Qualifiers) vs (Match EX7), History: https://osu.ppy.sh/mp/120917575
+[22:13:08] BanchoBot: Beatmap: https://osu.ppy.sh/b/4009188 A.SAKA - Mutsuki Akari no Yuki
+[22:13:08] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:13:08] BanchoBot: Active mods: NoFail, Hidden
+[22:13:08] BanchoBot: Players: 2
+[22:13:08] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/27706969 minh2506        
+[22:13:08] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16868806 Cessna          
+[22:13:12] BCraftMG: !mp start 5
+[22:13:13] BanchoBot: Match starts in 5 seconds
+[22:13:13] BanchoBot: Queued the match to start in 5 seconds
+[22:13:14] BanchoBot: Match starts in 4 seconds
+[22:13:15] BanchoBot: Match starts in 3 seconds
+[22:13:16] BanchoBot: Good luck, have fun!
+[22:13:18] BanchoBot: The match has started!
+[22:16:20] BanchoBot: Cessna finished playing (Score: 243421, PASSED).
+[22:16:23] BanchoBot: minh2506 finished playing (Score: 45948, PASSED).
+[22:16:23] BanchoBot: The match has finished!
+[22:16:26] BCraftMG: ah yes
+[22:16:35] BCraftMG: she said "h*dden" btw
+[22:16:43] BCraftMG: !mp map 4983165 0
+[22:16:44] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4983165 San-Z - Original Me
+[22:16:44] BanchoBot: Changed match mode to Osu
+[22:16:44] BCraftMG: !mp mods 17
+[22:16:45] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[22:16:46] BCraftMG: !mp timer 90
+[22:16:46] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[22:16:49] BCraftMG: !mp aborttimer
+[22:16:49] BanchoBot: Countdown aborted
+[22:17:18] BanchoBot: All players are ready
+[22:17:19] BCraftMG: !mp settings
+[22:17:20] BanchoBot: Room name: ZAT2: (Qualifiers) vs (Match EX7), History: https://osu.ppy.sh/mp/120917575
+[22:17:20] BanchoBot: Beatmap: https://osu.ppy.sh/b/4983165 San-Z - Original Me
+[22:17:20] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:17:20] BanchoBot: Active mods: NoFail, HardRock
+[22:17:20] BanchoBot: Players: 2
+[22:17:20] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/27706969 minh2506        
+[22:17:20] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16868806 Cessna          
+[22:17:21] BCraftMG: !mp start 5
+[22:17:22] BanchoBot: Match starts in 5 seconds
+[22:17:22] BanchoBot: Queued the match to start in 5 seconds
+[22:17:23] BanchoBot: Match starts in 4 seconds
+[22:17:25] BanchoBot: Match starts in 3 seconds
+[22:17:25] BanchoBot: Good luck, have fun!
+[22:17:27] BanchoBot: The match has started!
+[22:21:15] BanchoBot: Cessna finished playing (Score: 46338, PASSED).
+[22:21:16] BanchoBot: minh2506 finished playing (Score: 53691, PASSED).
+[22:21:16] BanchoBot: The match has finished!
+[22:21:24] BCraftMG: !mp map 716972 0
+[22:21:24] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/716972 MYTHOLOGIA by MLREC. - Ymir
+[22:21:24] BanchoBot: Changed match mode to Osu
+[22:21:47] BanchoBot: All players are ready
+[22:21:51] BCraftMG: !mp settings
+[22:21:52] BanchoBot: Room name: ZAT2: (Qualifiers) vs (Match EX7), History: https://osu.ppy.sh/mp/120917575
+[22:21:52] BanchoBot: Beatmap: https://osu.ppy.sh/b/716972 MYTHOLOGIA by MLREC. - Ymir
+[22:21:52] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:21:52] BanchoBot: Active mods: NoFail, HardRock
+[22:21:52] BanchoBot: Players: 2
+[22:21:52] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/27706969 minh2506        
+[22:21:52] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16868806 Cessna          
+[22:21:55] BanchoBot: All players are ready
+[22:21:56] BCraftMG: !mp settings
+[22:21:57] BanchoBot: Room name: ZAT2: (Qualifiers) vs (Match EX7), History: https://osu.ppy.sh/mp/120917575
+[22:21:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/716972 MYTHOLOGIA by MLREC. - Ymir
+[22:21:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:21:57] BanchoBot: Active mods: NoFail, HardRock
+[22:21:57] BanchoBot: Players: 2
+[22:21:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/27706969 minh2506        
+[22:21:57] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16868806 Cessna          
+[22:21:58] BCraftMG: !mp start 5
+[22:21:59] BanchoBot: Match starts in 5 seconds
+[22:21:59] BanchoBot: Queued the match to start in 5 seconds
+[22:22:00] BanchoBot: Match starts in 4 seconds
+[22:22:01] BanchoBot: Match starts in 3 seconds
+[22:22:02] BanchoBot: Good luck, have fun!
+[22:22:04] BanchoBot: The match has started!
+[22:24:11] BanchoBot: Cessna finished playing (Score: 64696, PASSED).
+[22:24:11] BanchoBot: minh2506 finished playing (Score: 76142, PASSED).
+[22:24:11] BanchoBot: The match has finished!
+[22:24:17] BCraftMG: !mp map 4028188 0
+[22:24:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4028188 SISTAR - I Like That
+[22:24:17] BanchoBot: Changed match mode to Osu
+[22:24:18] BCraftMG: !mp mods 65
+[22:24:19] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[22:24:45] BanchoBot: All players are ready
+[22:24:57] BCraftMG: !mp settings
+[22:24:57] BanchoBot: Room name: ZAT2: (Qualifiers) vs (Match EX7), History: https://osu.ppy.sh/mp/120917575
+[22:24:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/4028188 SISTAR - I Like That
+[22:24:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:24:57] BanchoBot: Active mods: NoFail, DoubleTime
+[22:24:57] BanchoBot: Players: 2
+[22:24:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/27706969 minh2506        
+[22:24:57] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16868806 Cessna          
+[22:24:58] BCraftMG: !mp start 5
+[22:24:58] BanchoBot: Match starts in 5 seconds
+[22:24:58] BanchoBot: Queued the match to start in 5 seconds
+[22:25:00] BanchoBot: Match starts in 4 seconds
+[22:25:00] BanchoBot: Match starts in 3 seconds
+[22:25:02] BanchoBot: Good luck, have fun!
+[22:25:04] BanchoBot: The match has started!
+[22:27:37] BanchoBot: Cessna finished playing (Score: 45360, PASSED).
+[22:27:39] BanchoBot: minh2506 finished playing (Score: 83600, PASSED).
+[22:27:39] BanchoBot: The match has finished!
+[22:27:50] BCraftMG: !mp map 4941950 0
+[22:27:51] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4941950 SMiLE.dk - Koko Soko (AKIBA KOUBOU Eurobeat Remix)
+[22:27:51] BanchoBot: Changed match mode to Osu
+[22:30:38] BanchoBot: All players are ready
+[22:30:41] BCraftMG: !mp settings
+[22:30:41] BanchoBot: Room name: ZAT2: (Qualifiers) vs (Match EX7), History: https://osu.ppy.sh/mp/120917575
+[22:30:41] BanchoBot: Beatmap: https://osu.ppy.sh/b/4941950 SMiLE.dk - Koko Soko (AKIBA KOUBOU Eurobeat Remix)
+[22:30:41] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:30:41] BanchoBot: Active mods: NoFail, DoubleTime
+[22:30:41] BanchoBot: Players: 2
+[22:30:41] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/27706969 minh2506        
+[22:30:41] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16868806 Cessna          
+[22:30:43] BCraftMG: !mp start 5
+[22:30:44] BanchoBot: Match starts in 5 seconds
+[22:30:44] BanchoBot: Queued the match to start in 5 seconds
+[22:30:45] BanchoBot: Match starts in 4 seconds
+[22:30:46] BanchoBot: Match starts in 3 seconds
+[22:30:47] BanchoBot: Good luck, have fun!
+[22:30:49] BanchoBot: The match has started!
+[22:33:04] BanchoBot: minh2506 finished playing (Score: 109303, PASSED).
+[22:33:05] BanchoBot: Cessna finished playing (Score: 117539, PASSED).
+[22:33:05] BanchoBot: The match has finished!
+[22:33:21] BCraftMG: !mp map 4381666 0
+[22:33:22] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4381666 The Herb Shop Ft. Nabana Nana - Kin'iro no uta (HYPRDRIVE Remix)
+[22:33:22] BanchoBot: Changed match mode to Osu
+[22:33:25] BCraftMG: !mp mods Freemod
+[22:33:26] BanchoBot: Disabled all mods, enabled FreeMod
+[22:33:57] BCraftMG: !mp settings
+[22:33:57] BanchoBot: Room name: ZAT2: (Qualifiers) vs (Match EX7), History: https://osu.ppy.sh/mp/120917575
+[22:33:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/4381666 The Herb Shop Ft. Nabana Nana - Kin'iro no uta (HYPRDRIVE Remix)
+[22:33:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:33:57] BanchoBot: Active mods: Freemod
+[22:33:57] BanchoBot: Players: 2
+[22:33:57] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/27706969 minh2506        [NoFail]
+[22:33:57] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/16868806 Cessna          [NoFail]
+[22:34:10] BanchoBot: All players are ready
+[22:34:13] BCraftMG: !mp settings
+[22:34:15] BanchoBot: Room name: ZAT2: (Qualifiers) vs (Match EX7), History: https://osu.ppy.sh/mp/120917575
+[22:34:15] BanchoBot: Beatmap: https://osu.ppy.sh/b/4381666 The Herb Shop Ft. Nabana Nana - Kin'iro no uta (HYPRDRIVE Remix)
+[22:34:15] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[22:34:15] BanchoBot: Active mods: Freemod
+[22:34:15] BanchoBot: Players: 2
+[22:34:15] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/27706969 minh2506        [NoFail]
+[22:34:15] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/16868806 Cessna          [NoFail]
+[22:34:16] BCraftMG: !mp start 5
+[22:34:17] BanchoBot: Match starts in 5 seconds
+[22:34:17] BanchoBot: Queued the match to start in 5 seconds
+[22:34:18] BanchoBot: Match starts in 4 seconds
+[22:34:19] BanchoBot: Match starts in 3 seconds
+[22:34:21] BanchoBot: Good luck, have fun!
+[22:34:22] BanchoBot: The match has started!
+[22:37:50] BanchoBot: Cessna finished playing (Score: 21276, PASSED).
+[22:37:51] BanchoBot: minh2506 finished playing (Score: 30940, PASSED).
+[22:37:51] BanchoBot: The match has finished!
+[22:39:35] BCraftMG: !mp close
+[22:39:35] BanchoBot: Closed the match

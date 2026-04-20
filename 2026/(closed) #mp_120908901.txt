@@ -1,0 +1,329 @@
+[20:55:16] Joined #mp_120908901
+[20:55:16] BCraftMG: !mp settings
+[20:55:17] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q2), History: https://osu.ppy.sh/mp/120908901
+[20:55:17] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[20:55:17] BanchoBot: Players: 0
+[20:55:39] BCraftMG: !mp set 0 3 4
+[20:55:40] BanchoBot: Changed match settings to 4 slots, HeadToHead, ScoreV2
+[20:55:43] BCraftMG: !mp invite #30487825
+[20:55:43] BanchoBot: Invited BreezeC6an to the room
+[20:55:46] BCraftMG: !mp map 5605759 0
+[20:55:47] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5605759 ReoNa - Nai Nai
+[20:55:47] BanchoBot: Changed match mode to Osu
+[20:55:49] BCraftMG: !mp mods NF
+[20:55:50] BanchoBot: Enabled NoFail, disabled FreeMod
+[20:56:11] BanchoBot: BreezeC6an joined in slot 1.
+[20:56:24] BanchoBot: wifedog joined in slot 2.
+[20:56:31] BanchoBot: guavaken joined in slot 3.
+[20:56:35] BanchoBot: BreezeC6an left the game.
+[20:56:37] BanchoBot: All players are ready
+[20:56:37] BanchoBot: guavaken moved to slot 1
+[20:56:57] BCraftMG: !mp settings
+[20:56:57] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q2), History: https://osu.ppy.sh/mp/120908901
+[20:56:57] BanchoBot: Beatmap: https://osu.ppy.sh/b/5605759 ReoNa - Nai Nai
+[20:56:57] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[20:56:57] BanchoBot: Active mods: NoFail
+[20:56:57] BanchoBot: Players: 2
+[20:56:57] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19266993 guavaken        
+[20:56:57] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/37545021 wifedog         
+[20:57:01] BCraftMG: we starting?
+[20:57:07] guavaken: 67676767677676
+[20:57:08] guavaken: OK
+[20:57:09] guavaken: GOGO
+[20:57:11] BCraftMG: !mp start 5
+[20:57:11] BanchoBot: Match starts in 5 seconds
+[20:57:11] BanchoBot: Queued the match to start in 5 seconds
+[20:57:13] BanchoBot: Match starts in 4 seconds
+[20:57:14] BanchoBot: Match starts in 3 seconds
+[20:57:15] BanchoBot: Good luck, have fun!
+[20:57:17] BanchoBot: The match has started!
+[21:01:31] BanchoBot: wifedog finished playing (Score: 265750, PASSED).
+[21:01:32] BanchoBot: guavaken finished playing (Score: 149426, PASSED).
+[21:01:32] BanchoBot: The match has finished!
+[21:01:34] BCraftMG: !mp map 2024425 0
+[21:01:35] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2024425 The Flashbulb - Passage D
+[21:01:35] BanchoBot: Changed match mode to Osu
+[21:01:57] BanchoBot: All players are ready
+[21:01:59] BCraftMG: !mp settings
+[21:02:00] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q2), History: https://osu.ppy.sh/mp/120908901
+[21:02:00] BanchoBot: Beatmap: https://osu.ppy.sh/b/2024425 The Flashbulb - Passage D
+[21:02:00] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:02:00] BanchoBot: Active mods: NoFail
+[21:02:00] BanchoBot: Players: 2
+[21:02:00] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19266993 guavaken        
+[21:02:00] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/37545021 wifedog         
+[21:02:01] BCraftMG: !mp start 5
+[21:02:01] BanchoBot: Match starts in 5 seconds
+[21:02:01] BanchoBot: Queued the match to start in 5 seconds
+[21:02:03] BanchoBot: Match starts in 4 seconds
+[21:02:04] BanchoBot: Match starts in 3 seconds
+[21:02:05] BanchoBot: Good luck, have fun!
+[21:02:07] BanchoBot: The match has started!
+[21:04:09] BanchoBot: guavaken finished playing (Score: 372412, PASSED).
+[21:04:10] BanchoBot: wifedog finished playing (Score: 266273, PASSED).
+[21:04:10] BanchoBot: The match has finished!
+[21:04:11] BCraftMG: !mp map 4285137 0
+[21:04:12] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4285137 lapix - Day By Day feat. Nicole Curry
+[21:04:12] BanchoBot: Changed match mode to Osu
+[21:04:37] BanchoBot: All players are ready
+[21:04:38] BCraftMG: !mp settings
+[21:04:39] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q2), History: https://osu.ppy.sh/mp/120908901
+[21:04:39] BanchoBot: Beatmap: https://osu.ppy.sh/b/4285137 lapix - Day By Day feat. Nicole Curry
+[21:04:39] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:04:39] BanchoBot: Active mods: NoFail
+[21:04:39] BanchoBot: Players: 2
+[21:04:39] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19266993 guavaken        
+[21:04:39] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/37545021 wifedog         
+[21:04:39] BCraftMG: !mp start 5
+[21:04:40] BanchoBot: Match starts in 5 seconds
+[21:04:40] BanchoBot: Queued the match to start in 5 seconds
+[21:04:42] BanchoBot: Match starts in 4 seconds
+[21:04:43] BanchoBot: Match starts in 3 seconds
+[21:04:44] BanchoBot: Good luck, have fun!
+[21:04:45] BanchoBot: The match has started!
+[21:08:48] BanchoBot: wifedog finished playing (Score: 582703, PASSED).
+[21:08:49] BanchoBot: guavaken finished playing (Score: 346619, PASSED).
+[21:08:49] BanchoBot: The match has finished!
+[21:08:50] BCraftMG: !mp map 3654369 0
+[21:08:51] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3654369 Script - Link Connected Liquid (onumi remix)
+[21:08:51] BanchoBot: Changed match mode to Osu
+[21:09:00] BCraftMG: !mp settings
+[21:09:01] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q2), History: https://osu.ppy.sh/mp/120908901
+[21:09:01] BanchoBot: Beatmap: https://osu.ppy.sh/b/3654369 Script - Link Connected Liquid (onumi remix)
+[21:09:01] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:09:01] BanchoBot: Active mods: NoFail
+[21:09:01] BanchoBot: Players: 2
+[21:09:01] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/19266993 guavaken        
+[21:09:01] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/37545021 wifedog         
+[21:10:01] BanchoBot: All players are ready
+[21:10:03] BCraftMG: !mp settings
+[21:10:04] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q2), History: https://osu.ppy.sh/mp/120908901
+[21:10:04] BanchoBot: Beatmap: https://osu.ppy.sh/b/3654369 Script - Link Connected Liquid (onumi remix)
+[21:10:04] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:10:04] BanchoBot: Active mods: NoFail
+[21:10:04] BanchoBot: Players: 2
+[21:10:04] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19266993 guavaken        
+[21:10:04] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/37545021 wifedog         
+[21:10:06] BCraftMG: !mp start 5
+[21:10:06] BanchoBot: Match starts in 5 seconds
+[21:10:06] BanchoBot: Queued the match to start in 5 seconds
+[21:10:08] BanchoBot: Match starts in 4 seconds
+[21:10:09] BanchoBot: Match starts in 3 seconds
+[21:10:10] BanchoBot: Good luck, have fun!
+[21:10:12] BanchoBot: The match has started!
+[21:12:22] BanchoBot: guavaken finished playing (Score: 617909, PASSED).
+[21:12:23] BanchoBot: wifedog finished playing (Score: 347450, PASSED).
+[21:12:23] BanchoBot: The match has finished!
+[21:12:24] BCraftMG: !mp map 3290703 0
+[21:12:25] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3290703 EGOIST - BANG!!!
+[21:12:25] BanchoBot: Changed match mode to Osu
+[21:12:26] BCraftMG: !mp mods 9
+[21:12:27] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[21:12:45] BanchoBot: All players are ready
+[21:12:46] BCraftMG: !mp settings
+[21:12:47] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q2), History: https://osu.ppy.sh/mp/120908901
+[21:12:47] BanchoBot: Beatmap: https://osu.ppy.sh/b/3290703 EGOIST - BANG!!!
+[21:12:47] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:12:47] BanchoBot: Active mods: NoFail, Hidden
+[21:12:47] BanchoBot: Players: 2
+[21:12:47] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19266993 guavaken        
+[21:12:47] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/37545021 wifedog         
+[21:12:48] BCraftMG: !mp start 5
+[21:12:49] BanchoBot: Match starts in 5 seconds
+[21:12:49] BanchoBot: Queued the match to start in 5 seconds
+[21:12:51] BanchoBot: Match starts in 4 seconds
+[21:12:52] BanchoBot: Match starts in 3 seconds
+[21:12:53] BanchoBot: Good luck, have fun!
+[21:12:55] BanchoBot: The match has started!
+[21:16:14] BanchoBot: guavaken finished playing (Score: 272192, PASSED).
+[21:16:16] BanchoBot: wifedog finished playing (Score: 266086, PASSED).
+[21:16:16] BanchoBot: The match has finished!
+[21:16:17] BCraftMG: !mp map 2096920 0
+[21:16:18] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2096920 Utsu-P - Corona
+[21:16:18] BanchoBot: Changed match mode to Osu
+[21:16:32] guavaken: 67
+[21:16:39] BanchoBot: All players are ready
+[21:16:40] BCraftMG: !mp settings
+[21:16:41] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q2), History: https://osu.ppy.sh/mp/120908901
+[21:16:41] BanchoBot: Beatmap: https://osu.ppy.sh/b/2096920 Utsu-P - Corona
+[21:16:41] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:16:41] BanchoBot: Active mods: NoFail, Hidden
+[21:16:41] BanchoBot: Players: 2
+[21:16:41] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19266993 guavaken        
+[21:16:41] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/37545021 wifedog         
+[21:16:41] BCraftMG: !mp start 5
+[21:16:42] BanchoBot: Match starts in 5 seconds
+[21:16:42] BanchoBot: Queued the match to start in 5 seconds
+[21:16:43] BanchoBot: Match starts in 4 seconds
+[21:16:44] BanchoBot: Match starts in 3 seconds
+[21:16:45] BanchoBot: Good luck, have fun!
+[21:16:47] BanchoBot: The match has started!
+[21:20:43] BanchoBot: guavaken finished playing (Score: 80226, PASSED).
+[21:20:44] BanchoBot: wifedog finished playing (Score: 58319, PASSED).
+[21:20:44] BanchoBot: The match has finished!
+[21:20:46] BCraftMG: !mp map 419976 0
+[21:20:46] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/419976 Eagle - S!ck (VIP)
+[21:20:46] BanchoBot: Changed match mode to Osu
+[21:20:48] BCraftMG: !mp mods 17
+[21:20:49] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[21:20:51] BanchoBot: guavaken left the game.
+[21:21:03] BanchoBot: BreezeC6an joined in slot 1.
+[21:21:14] BanchoBot: All players are ready
+[21:21:16] BCraftMG: !mp settings
+[21:21:17] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q2), History: https://osu.ppy.sh/mp/120908901
+[21:21:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/419976 Eagle - S!ck (VIP)
+[21:21:17] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:21:17] BanchoBot: Active mods: NoFail, HardRock
+[21:21:17] BanchoBot: Players: 2
+[21:21:17] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/30487825 BreezeC6an      
+[21:21:17] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/37545021 wifedog         
+[21:21:17] BCraftMG: !mp start 5
+[21:21:18] BanchoBot: Match starts in 5 seconds
+[21:21:18] BanchoBot: Queued the match to start in 5 seconds
+[21:21:19] BanchoBot: Match starts in 4 seconds
+[21:21:20] BanchoBot: Match starts in 3 seconds
+[21:21:21] BanchoBot: Good luck, have fun!
+[21:21:23] BanchoBot: The match has started!
+[21:24:38] BanchoBot: wifedog finished playing (Score: 855352, PASSED).
+[21:24:38] BanchoBot: BreezeC6an finished playing (Score: 582175, PASSED).
+[21:24:38] BanchoBot: The match has finished!
+[21:25:42] wifedog: hi
+[21:25:43] BreezeC6an: 67
+[21:25:47] BCraftMG: !mp map 22739 0
+[21:25:47] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/22739 Gojou Kai - Touhou Youkai Komachi
+[21:25:47] BanchoBot: Changed match mode to Osu
+[21:25:52] BanchoBot: All players are ready
+[21:25:53] BCraftMG: !mp settings
+[21:25:54] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q2), History: https://osu.ppy.sh/mp/120908901
+[21:25:54] BanchoBot: Beatmap: https://osu.ppy.sh/b/22739 Gojou Kai - Touhou Youkai Komachi
+[21:25:54] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:25:54] BanchoBot: Active mods: NoFail, HardRock
+[21:25:54] BanchoBot: Players: 2
+[21:25:54] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/30487825 BreezeC6an      
+[21:25:54] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/37545021 wifedog         
+[21:25:54] BCraftMG: !mp start 5
+[21:25:55] BanchoBot: Match starts in 5 seconds
+[21:25:55] BanchoBot: Queued the match to start in 5 seconds
+[21:25:56] BanchoBot: Match starts in 4 seconds
+[21:25:58] BanchoBot: Match starts in 3 seconds
+[21:25:59] BanchoBot: Good luck, have fun!
+[21:26:00] BanchoBot: The match has started!
+[21:28:41] BanchoBot: BreezeC6an finished playing (Score: 478865, PASSED).
+[21:28:42] BanchoBot: wifedog finished playing (Score: 235876, PASSED).
+[21:28:42] BanchoBot: The match has finished!
+[21:28:47] BCraftMG: !mp map 4789293 0
+[21:28:48] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4789293 KOTOKO - a-gain
+[21:28:48] BanchoBot: Changed match mode to Osu
+[21:28:49] BCraftMG: !mp mods 65
+[21:28:50] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[21:28:57] BanchoBot: BreezeC6an left the game.
+[21:28:57] BanchoBot: guavaken joined in slot 1.
+[21:29:20] guavaken: fm EZx1.8?
+[21:29:51] BanchoBot: All players are ready
+[21:29:54] BCraftMG: lemme check rq i dont remember it on the top of my head
+[21:29:55] BCraftMG: !mp settings
+[21:29:56] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q2), History: https://osu.ppy.sh/mp/120908901
+[21:29:56] BanchoBot: Beatmap: https://osu.ppy.sh/b/4789293 KOTOKO - a-gain
+[21:29:56] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:29:56] BanchoBot: Active mods: NoFail, DoubleTime
+[21:29:56] BanchoBot: Players: 2
+[21:29:56] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19266993 guavaken        
+[21:29:56] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/37545021 wifedog         
+[21:29:56] BCraftMG: !mp start 5
+[21:29:57] BanchoBot: Match starts in 5 seconds
+[21:29:57] BanchoBot: Queued the match to start in 5 seconds
+[21:29:58] BanchoBot: Match starts in 4 seconds
+[21:29:59] BanchoBot: Match starts in 3 seconds
+[21:30:00] BanchoBot: Good luck, have fun!
+[21:30:02] BanchoBot: The match has started!
+[21:30:18] BCraftMG: ez is 2x
+[21:33:08] BanchoBot: guavaken finished playing (Score: 480327, PASSED).
+[21:33:08] BanchoBot: wifedog finished playing (Score: 1086848, PASSED).
+[21:33:08] BanchoBot: The match has finished!
+[21:33:13] BCraftMG: !mp map 4702435 0
+[21:33:13] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4702435 Sparxe - Comma, ~ Imi to Kouzou no Bunri
+[21:33:13] BanchoBot: Changed match mode to Osu
+[21:33:24] guavaken: ok
+[21:33:33] guavaken: ty
+[21:33:52] BanchoBot: All players are ready
+[21:33:58] BCraftMG: !mp settings
+[21:33:59] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q2), History: https://osu.ppy.sh/mp/120908901
+[21:33:59] BanchoBot: Beatmap: https://osu.ppy.sh/b/4702435 Sparxe - Comma, ~ Imi to Kouzou no Bunri
+[21:33:59] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:33:59] BanchoBot: Active mods: NoFail, DoubleTime
+[21:33:59] BanchoBot: Players: 2
+[21:33:59] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19266993 guavaken        
+[21:33:59] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/37545021 wifedog         
+[21:34:00] BCraftMG: !mp start 5
+[21:34:00] BanchoBot: Match starts in 5 seconds
+[21:34:00] BanchoBot: Queued the match to start in 5 seconds
+[21:34:02] BanchoBot: Match starts in 4 seconds
+[21:34:03] BanchoBot: Match starts in 3 seconds
+[21:34:04] BanchoBot: Good luck, have fun!
+[21:34:06] BanchoBot: The match has started!
+[21:36:02] BanchoBot: guavaken finished playing (Score: 857131, PASSED).
+[21:36:03] BanchoBot: wifedog finished playing (Score: 1035812, PASSED).
+[21:36:03] BanchoBot: The match has finished!
+[21:36:11] BCraftMG: !mp map 2868755 0
+[21:36:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2868755 pm04034 - TATATAAA
+[21:36:11] BanchoBot: Changed match mode to Osu
+[21:36:14] BCraftMG: !mp mods Freemod
+[21:36:15] BanchoBot: Disabled all mods, enabled FreeMod
+[21:36:17] BanchoBot: wifedog left the game.
+[21:36:22] BanchoBot: BreezeC6an joined in slot 2.
+[21:36:42] BanchoBot: All players are ready
+[21:36:51] BCraftMG: !mp settings
+[21:36:51] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q2), History: https://osu.ppy.sh/mp/120908901
+[21:36:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/2868755 pm04034 - TATATAAA
+[21:36:51] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:36:51] BanchoBot: Active mods: Freemod
+[21:36:51] BanchoBot: Players: 2
+[21:36:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19266993 guavaken        [NoFail, Hidden]
+[21:36:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/30487825 BreezeC6an      [NoFail, Hidden, HardRock]
+[21:36:52] BCraftMG: !mp start 5
+[21:36:53] BanchoBot: Match starts in 5 seconds
+[21:36:53] BanchoBot: Queued the match to start in 5 seconds
+[21:36:54] BanchoBot: Match starts in 4 seconds
+[21:36:56] BanchoBot: Match starts in 3 seconds
+[21:36:57] BanchoBot: Good luck, have fun!
+[21:36:58] BanchoBot: The match has started!
+[21:39:08] BanchoBot: guavaken finished playing (Score: 400897, PASSED).
+[21:39:09] BanchoBot: BreezeC6an finished playing (Score: 686660, PASSED).
+[21:39:09] BanchoBot: The match has finished!
+[21:39:11] BCraftMG: !mp map 5193345 0
+[21:39:11] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5193345 Wonderlands x Showtime - Your Adventure Log Has Vanished! [Long ver.]
+[21:39:11] BanchoBot: Changed match mode to Osu
+[21:39:31] guavaken: ill cook
+[21:39:39] BreezeC6an: ill cook
+[21:39:43] BreezeC6an: 67
+[21:39:44] BCraftMG: ill uncook
+[21:39:54] BreezeC6an: D:
+[21:40:05] guavaken: youll cook
+[21:40:06] BanchoBot: All players are ready
+[21:40:06] BCraftMG: !mp settings
+[21:40:07] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q2), History: https://osu.ppy.sh/mp/120908901
+[21:40:07] BanchoBot: Beatmap: https://osu.ppy.sh/b/5193345 Wonderlands x Showtime - Your Adventure Log Has Vanished! [Long ver.]
+[21:40:07] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[21:40:07] BanchoBot: Active mods: Freemod
+[21:40:07] BanchoBot: Players: 2
+[21:40:07] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19266993 guavaken        [NoFail, Easy]
+[21:40:07] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/30487825 BreezeC6an      [NoFail, Hidden, HardRock]
+[21:40:12] BCraftMG: !mp start 5
+[21:40:12] BanchoBot: Match starts in 5 seconds
+[21:40:12] BanchoBot: Queued the match to start in 5 seconds
+[21:40:13] BanchoBot: Match starts in 4 seconds
+[21:40:14] BanchoBot: Match starts in 3 seconds
+[21:40:16] BanchoBot: Good luck, have fun!
+[21:40:18] BanchoBot: The match has started!
+[21:44:06] BanchoBot: guavaken finished playing (Score: 81402, PASSED).
+[21:44:06] BanchoBot: BreezeC6an finished playing (Score: 337149, PASSED).
+[21:44:06] BanchoBot: The match has finished!
+[21:44:11] BCraftMG: he cooked
+[21:44:17] guavaken: gg
+[21:44:40] BCraftMG: ggwp
+[21:44:48] guavaken: bye
+[21:44:51] BanchoBot: guavaken left the game.
+[21:44:59] BreezeC6an: ggwp
+[21:45:01] BanchoBot: BreezeC6an left the game.
+[21:45:14] BCraftMG: !mp close
+[21:45:15] BanchoBot: Closed the match

@@ -1,0 +1,479 @@
+[23:55:33] Joined #mp_120927304
+[23:55:33] BCraftMG: !mp settings
+[23:55:34] BanchoBot: Room name: XSS: (Fish ball cat) vs (skillcap), History: https://osu.ppy.sh/mp/120927304
+[23:55:34] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[23:55:34] BanchoBot: Players: 0
+[23:55:56] BCraftMG: !mp set 2 3 8
+[23:55:57] BanchoBot: Changed match settings to 8 slots, TeamVs, ScoreV2
+[23:56:00] BCraftMG: !mp invite shwq
+[23:56:00] BanchoBot: Invited shwq to the room
+[23:56:01] BCraftMG: !mp invite Shadeow
+[23:56:01] BanchoBot: User not found
+[23:58:23] BanchoBot: shwq joined in slot 1 for team blue.
+[00:00:18] BCraftMG: !mp invite -Volt
+[00:00:19] BanchoBot: Invited -Volt to the room
+[00:00:26] BanchoBot: -Volt joined in slot 2 for team red.
+[00:00:37] -Volt: helloooo
+[00:00:50] BCraftMG: o/
+[00:00:52] BCraftMG: !mp settings
+[00:00:52] BanchoBot: Room name: XSS: (Fish ball cat) vs (skillcap), History: https://osu.ppy.sh/mp/120927304
+[00:00:52] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:00:52] BanchoBot: Players: 2
+[00:00:52] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/22536015 shwq            [Team Blue]
+[00:00:52] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/17880075 -Volt           [Team Red ]
+[00:00:57] BanchoBot: zivxare joined in slot 3 for team blue.
+[00:01:00] BCraftMG: Fish ball cat on team red
+[00:01:02] BCraftMG: skillcap on team blue
+[00:01:04] BCraftMG: roll please
+[00:01:05] BanchoBot: -Volt changed to Blue
+[00:01:13] -Volt: !roll
+[00:01:13] BanchoBot: -Volt rolls 61 point(s)
+[00:01:14] BanchoBot: zivxare moved to slot 5
+[00:01:18] BanchoBot: -Volt moved to slot 4
+[00:01:20] shwq: !roll
+[00:01:20] BanchoBot: shwq rolls 93 point(s)
+[00:01:26] -Volt: a
+[00:01:28] BanchoBot: verfex joined in slot 2 for team red.
+[00:01:42] BCraftMG: the winner will choose between first pick and second ban, or second pick and first ban
+[00:01:48] BCraftMG: @shwq
+[00:01:49] BanchoBot: Yuichi joined in slot 3 for team blue.
+[00:02:17] shwq: 2nd ban
+[00:02:20] BanchoBot: Yuichi moved to slot 6
+[00:02:58] BCraftMG: skillcap ban
+[00:02:58] BCraftMG: !mp timer 90
+[00:03:00] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:03:30] BanchoBot: Countdown ends in 1 minute
+[00:04:00] BanchoBot: Countdown ends in 30 seconds
+[00:04:09] -Volt: ex5
+[00:04:15] BCraftMG: Fish ball cat ban
+[00:04:16] BCraftMG: !mp timer 90
+[00:04:17] BanchoBot: Countdown aborted
+[00:04:17] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:04:48] BanchoBot: Countdown ends in 1 minute
+[00:04:50] shwq: acc1 ban
+[00:05:10] BCraftMG: Fish ball cat | 0 : 0 | skillcap // Next to pick: Fish ball cat
+[00:05:11] BCraftMG: !mp timer 90
+[00:05:12] BanchoBot: Countdown aborted
+[00:05:12] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:05:43] BanchoBot: Countdown ends in 1 minute
+[00:05:57] -Volt: team blue verfex
+[00:06:04] BanchoBot: verfex changed to Blue
+[00:06:04] BanchoBot: Yuichi changed to Red
+[00:06:07] BanchoBot: verfex moved to slot 3
+[00:06:13] BanchoBot: Countdown ends in 30 seconds
+[00:06:21] BanchoBot: Yuichi left the game.
+[00:06:25] shwq: mc2
+[00:06:33] BanchoBot: Countdown ends in 10 seconds
+[00:06:36] BCraftMG: !mp map 2764825 0
+[00:06:36] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2764825 Will Stetson - Super Driver
+[00:06:36] BanchoBot: Changed match mode to Osu
+[00:06:37] BCraftMG: !mp mods HR NF
+[00:06:37] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[00:06:38] BCraftMG: !mp timer 90
+[00:06:38] BanchoBot: Countdown ends in 5 seconds
+[00:06:39] BanchoBot: Countdown ends in 4 seconds
+[00:06:39] BanchoBot: Countdown aborted
+[00:06:39] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:07:09] BanchoBot: Countdown ends in 1 minute
+[00:07:22] BanchoBot: Coreanmaluco joined in slot 2 for team red.
+[00:07:38] BanchoBot: -Volt moved to slot 6
+[00:07:39] BanchoBot: -Volt moved to slot 7
+[00:07:39] BanchoBot: Countdown ends in 30 seconds
+[00:07:40] BanchoBot: -Volt moved to slot 4
+[00:07:40] BanchoBot: -Volt moved to slot 6
+[00:07:44] BanchoBot: verfex moved to slot 7
+[00:07:47] BanchoBot: -Volt moved to slot 4
+[00:07:49] BanchoBot: -Volt moved to slot 6
+[00:07:49] BanchoBot: -Volt moved to slot 4
+[00:07:50] BanchoBot: -Volt moved to slot 6
+[00:07:51] BanchoBot: verfex moved to slot 4
+[00:07:53] BanchoBot: Yuichi joined in slot 3 for team blue.
+[00:07:57] BanchoBot: shwq left the game.
+[00:07:58] BanchoBot: Yuichi changed to Red
+[00:08:00] BanchoBot: Countdown ends in 10 seconds
+[00:08:05] BanchoBot: Countdown ends in 5 seconds
+[00:08:06] BanchoBot: Countdown ends in 4 seconds
+[00:08:07] BanchoBot: Countdown ends in 3 seconds
+[00:08:07] BanchoBot: Countdown ends in 2 seconds
+[00:08:08] BanchoBot: Countdown ends in 1 second
+[00:08:09] BanchoBot: Countdown finished
+[00:08:12] BCraftMG: !mp settings
+[00:08:12] BanchoBot: Room name: XSS: (Fish ball cat) vs (skillcap), History: https://osu.ppy.sh/mp/120927304
+[00:08:12] BanchoBot: Beatmap: https://osu.ppy.sh/b/2764825 Will Stetson - Super Driver
+[00:08:12] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:08:12] BanchoBot: Active mods: NoFail, HardRock
+[00:08:12] BanchoBot: Players: 5
+[00:08:12] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/3149577 Coreanmaluco    [Team Red ]
+[00:08:12] BanchoBot: Slot 3  Not Ready https://osu.ppy.sh/u/12932016 Yuichi          [Team Red ]
+[00:08:12] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16485917 verfex          [Team Blue]
+[00:08:12] BanchoBot: Slot 5  Ready     https://osu.ppy.sh/u/14024115 zivxare         [Team Blue]
+[00:08:12] BanchoBot: Slot 6  Not Ready https://osu.ppy.sh/u/17880075 -Volt           [Team Blue]
+[00:08:13] BanchoBot: Yuichi moved to slot 1
+[00:08:24] BCraftMG: whos playing on blue?
+[00:08:36] -Volt: bro is it not 3v3 or am i stupid
+[00:08:40] BCraftMG: its 2v2
+[00:08:42] Yuichi: its 2v2
+[00:08:43] -Volt: fak
+[00:08:45] BanchoBot: -Volt left the game.
+[00:08:46] verfex: bro
+[00:08:48] BanchoBot: zivxare moved to slot 3
+[00:08:49] BCraftMG: lol
+[00:08:51] BanchoBot: All players are ready
+[00:08:52] BCraftMG: !mp settings
+[00:08:52] BanchoBot: Room name: XSS: (Fish ball cat) vs (skillcap), History: https://osu.ppy.sh/mp/120927304
+[00:08:52] BanchoBot: Beatmap: https://osu.ppy.sh/b/2764825 Will Stetson - Super Driver
+[00:08:52] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:08:52] BanchoBot: Active mods: NoFail, HardRock
+[00:08:52] BanchoBot: Players: 4
+[00:08:52] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/12932016 Yuichi          [Team Red ]
+[00:08:52] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/3149577 Coreanmaluco    [Team Red ]
+[00:08:52] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14024115 zivxare         [Team Blue]
+[00:08:52] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16485917 verfex          [Team Blue]
+[00:08:53] BCraftMG: !mp start 5
+[00:08:54] verfex: :skull:
+[00:08:54] BanchoBot: Match starts in 5 seconds
+[00:08:54] BanchoBot: Queued the match to start in 5 seconds
+[00:08:55] BanchoBot: Match starts in 4 seconds
+[00:08:56] BanchoBot: Match starts in 3 seconds
+[00:08:57] BanchoBot: Good luck, have fun!
+[00:08:59] Coreanmaluco: glhfo
+[00:08:59] BanchoBot: The match has started!
+[00:10:26] BanchoBot: verfex finished playing (Score: 75347, PASSED).
+[00:10:26] BanchoBot: Coreanmaluco finished playing (Score: 260454, PASSED).
+[00:10:27] BanchoBot: zivxare finished playing (Score: 74445, PASSED).
+[00:10:28] BanchoBot: Yuichi finished playing (Score: 103850, PASSED).
+[00:10:28] BanchoBot: The match has finished!
+[00:10:45] BCraftMG: Fish ball cat | 1 : 0 | skillcap // Next to pick: skillcap
+[00:10:47] BCraftMG: !mp timer 90
+[00:10:47] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:11:18] BanchoBot: Countdown ends in 1 minute
+[00:11:48] BanchoBot: Countdown ends in 30 seconds
+[00:11:50] BanchoBot: -Volt joined in slot 5 for team blue.
+[00:12:08] BanchoBot: Countdown ends in 10 seconds
+[00:12:12] BanchoBot: Countdown ends in 5 seconds
+[00:12:13] BanchoBot: Countdown ends in 4 seconds
+[00:12:14] BanchoBot: Countdown ends in 3 seconds
+[00:12:16] BanchoBot: Countdown ends in 2 seconds
+[00:12:17] BanchoBot: Countdown ends in 1 second
+[00:12:18] BanchoBot: Countdown finished
+[00:12:22] zivxare: ex2
+[00:12:24] -Volt: ex2
+[00:12:39] BanchoBot: Coreanmaluco left the game.
+[00:12:42] BanchoBot: Yuichi left the game.
+[00:12:45] BanchoBot: verfex left the game.
+[00:12:45] BCraftMG: !mp map 1993418 0
+[00:12:46] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1993418 Gram - Nibelungen
+[00:12:46] BanchoBot: Changed match mode to Osu
+[00:12:46] BCraftMG: !mp mods NF
+[00:12:47] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:12:47] BCraftMG: !mp timer 90
+[00:12:48] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:13:02] BanchoBot: -Volt moved to slot 4
+[00:13:17] BanchoBot: ocraska joined in slot 1 for team blue.
+[00:13:18] BanchoBot: Countdown ends in 1 minute
+[00:13:26] BanchoBot: zivxare moved to slot 7
+[00:13:48] BanchoBot: Countdown ends in 30 seconds
+[00:13:58] BanchoBot: zivxare moved to slot 3
+[00:14:01] BanchoBot: Yuichi joined in slot 2 for team red.
+[00:14:04] BanchoBot: ocraska changed to Red
+[00:14:09] BanchoBot: Countdown ends in 10 seconds
+[00:14:13] BanchoBot: Countdown ends in 5 seconds
+[00:14:14] BanchoBot: All players are ready
+[00:14:14] BanchoBot: Countdown ends in 4 seconds
+[00:14:15] BanchoBot: Countdown ends in 3 seconds
+[00:14:16] BanchoBot: Countdown ends in 2 seconds
+[00:14:17] BanchoBot: Countdown ends in 1 second
+[00:14:17] BCraftMG: !mp settings
+[00:14:18] BanchoBot: Room name: XSS: (Fish ball cat) vs (skillcap), History: https://osu.ppy.sh/mp/120927304
+[00:14:18] BanchoBot: Beatmap: https://osu.ppy.sh/b/1993418 Gram - Nibelungen
+[00:14:18] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:14:18] BanchoBot: Active mods: NoFail
+[00:14:18] BanchoBot: Players: 4
+[00:14:18] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19401270 ocraska         [Team Red ]
+[00:14:18] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12932016 Yuichi          [Team Red ]
+[00:14:18] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14024115 zivxare         [Team Blue]
+[00:14:18] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/17880075 -Volt           [Team Blue]
+[00:14:18] BanchoBot: Countdown finished
+[00:14:19] -Volt: fglfgl
+[00:14:22] BanchoBot: Coreanmaluco joined in slot 5 for team blue.
+[00:14:23] ocraska: hfhf
+[00:14:30] BanchoBot: Coreanmaluco left the game.
+[00:14:39] Yuichi: glhf
+[00:15:12] Yuichi: .
+[00:15:19] Yuichi: bcraftmg
+[00:15:28] BCraftMG: stuck?
+[00:15:34] -Volt: yes
+[00:15:35] Yuichi: didnt start
+[00:15:37] BCraftMG: !mp abort
+[00:15:37] BanchoBot: The match is not in progress
+[00:15:42] BCraftMG: !mp start 5
+[00:15:43] BanchoBot: Match starts in 5 seconds
+[00:15:43] BanchoBot: Queued the match to start in 5 seconds
+[00:15:44] BCraftMG: oh nvm
+[00:15:44] BCraftMG: lmao
+[00:15:44] BanchoBot: Match starts in 4 seconds
+[00:15:45] BanchoBot: Match starts in 3 seconds
+[00:15:46] BanchoBot: Good luck, have fun!
+[00:15:46] -Volt: glgl
+[00:15:48] BanchoBot: The match has started!
+[00:18:16] BanchoBot: zivxare finished playing (Score: 82397, PASSED).
+[00:18:17] BanchoBot: ocraska finished playing (Score: 95770, PASSED).
+[00:18:17] BanchoBot: Yuichi finished playing (Score: 236991, PASSED).
+[00:18:17] BanchoBot: -Volt finished playing (Score: 119192, PASSED).
+[00:18:17] BanchoBot: The match has finished!
+[00:18:19] BanchoBot: verfex joined in slot 5 for team blue.
+[00:18:27] BanchoBot: ocraska left the game.
+[00:18:28] BanchoBot: verfex left the game.
+[00:18:35] BanchoBot: verfex joined in slot 1 for team blue.
+[00:18:42] BCraftMG: Fish ball cat | 2 : 0 | skillcap // Next to pick: Fish ball cat
+[00:18:43] BCraftMG: !mp timer 90
+[00:18:43] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:19:08] BanchoBot: verfex moved to slot 5
+[00:19:14] BanchoBot: Countdown ends in 1 minute
+[00:19:18] BanchoBot: shwq joined in slot 1 for team blue.
+[00:19:30] shwq: mc3
+[00:19:43] BanchoBot: Countdown ends in 30 seconds
+[00:19:59] BanchoBot: shwq left the game.
+[00:20:00] BanchoBot: Yuichi left the game.
+[00:20:03] BanchoBot: Countdown ends in 10 seconds
+[00:20:09] BanchoBot: Countdown ends in 5 seconds
+[00:20:10] BanchoBot: Countdown ends in 4 seconds
+[00:20:11] BanchoBot: Countdown ends in 3 seconds
+[00:20:11] BanchoBot: Countdown ends in 2 seconds
+[00:20:12] BanchoBot: Countdown ends in 1 second
+[00:20:13] BanchoBot: Countdown finished
+[00:20:14] BanchoBot: ocraska joined in slot 1 for team blue.
+[00:20:15] BCraftMG: !mp map 1300780 0
+[00:20:15] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/1300780 Various Artists - Corner Jump Training
+[00:20:15] BanchoBot: Changed match mode to Osu
+[00:20:16] BCraftMG: !mp mods 1
+[00:20:17] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:20:17] BCraftMG: !mp timer 90
+[00:20:18] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:20:31] zivxare is listening to [https://osu.ppy.sh/beatmapsets/478917#/1300780 Various Artists - Corner Jump Training]
+[00:20:38] BanchoBot: -Volt left the game.
+[00:20:48] BanchoBot: Countdown ends in 1 minute
+[00:20:58] BanchoBot: verfex moved to slot 4
+[00:21:18] BanchoBot: Countdown ends in 30 seconds
+[00:21:31] BanchoBot: Yuichi joined in slot 2 for team red.
+[00:21:31] BanchoBot: shwq joined in slot 5 for team blue.
+[00:21:33] BanchoBot: ocraska left the game.
+[00:21:34] BanchoBot: shwq moved to slot 1
+[00:21:36] BanchoBot: shwq changed to Red
+[00:21:39] BanchoBot: Countdown ends in 10 seconds
+[00:21:39] BanchoBot: All players are ready
+[00:21:43] BanchoBot: Countdown ends in 5 seconds
+[00:21:44] BanchoBot: Countdown ends in 4 seconds
+[00:21:45] BanchoBot: Countdown ends in 3 seconds
+[00:21:46] BanchoBot: Countdown ends in 2 seconds
+[00:21:48] BanchoBot: Countdown ends in 1 second
+[00:21:48] BanchoBot: Countdown finished
+[00:21:49] BCraftMG: !mp settings
+[00:21:50] BanchoBot: Room name: XSS: (Fish ball cat) vs (skillcap), History: https://osu.ppy.sh/mp/120927304
+[00:21:50] BanchoBot: Beatmap: https://osu.ppy.sh/b/1300780 Various Artists - Corner Jump Training
+[00:21:50] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:21:50] BanchoBot: Active mods: NoFail
+[00:21:50] BanchoBot: Players: 4
+[00:21:50] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/22536015 shwq            [Team Red ]
+[00:21:50] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12932016 Yuichi          [Team Red ]
+[00:21:50] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14024115 zivxare         [Team Blue]
+[00:21:50] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16485917 verfex          [Team Blue]
+[00:21:50] BCraftMG: !mp start 5
+[00:21:51] BanchoBot: Match starts in 5 seconds
+[00:21:51] BanchoBot: Queued the match to start in 5 seconds
+[00:21:53] BanchoBot: Match starts in 4 seconds
+[00:21:54] BanchoBot: Match starts in 3 seconds
+[00:21:54] Yuichi: glgl
+[00:21:55] BanchoBot: Good luck, have fun!
+[00:21:57] BanchoBot: The match has started!
+[00:23:47] BanchoBot: -Volt joined in slot 5 for team blue.
+[00:23:49] BanchoBot: -Volt left the game.
+[00:25:02] BanchoBot: verfex finished playing (Score: 178220, PASSED).
+[00:25:03] BanchoBot: Yuichi finished playing (Score: 223164, PASSED).
+[00:25:03] BanchoBot: zivxare finished playing (Score: 171323, PASSED).
+[00:25:04] BanchoBot: shwq finished playing (Score: 275029, PASSED).
+[00:25:04] BanchoBot: The match has finished!
+[00:25:17] BCraftMG: Fish ball cat | 3 : 0 | skillcap // Next to pick: skillcap
+[00:25:19] BCraftMG: !mp timer 90
+[00:25:20] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:25:50] BanchoBot: Countdown ends in 1 minute
+[00:25:57] BanchoBot: -Volt joined in slot 5 for team blue.
+[00:26:05] -Volt: ex1
+[00:26:20] BanchoBot: Countdown ends in 30 seconds
+[00:26:24] BanchoBot: Coreanmaluco joined in slot 6 for team red.
+[00:26:25] BCraftMG: !mp map 2004420 0
+[00:26:26] BanchoBot: shwq left the game.
+[00:26:26] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2004420 Eve - Gekka*Midare Botan
+[00:26:26] BanchoBot: Changed match mode to Osu
+[00:26:27] BCraftMG: !mp mods HR NF
+[00:26:28] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[00:26:28] BCraftMG: !mp timer 90
+[00:26:29] BanchoBot: Countdown aborted
+[00:26:29] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:26:31] BanchoBot: Coreanmaluco moved to slot 1
+[00:27:00] BanchoBot: Countdown ends in 1 minute
+[00:27:30] BanchoBot: Countdown ends in 30 seconds
+[00:27:35] BanchoBot: -Volt left the game.
+[00:27:50] BanchoBot: Countdown ends in 10 seconds
+[00:27:55] BanchoBot: Countdown ends in 5 seconds
+[00:27:56] BanchoBot: Countdown ends in 4 seconds
+[00:27:57] BanchoBot: Countdown ends in 3 seconds
+[00:27:58] BanchoBot: All players are ready
+[00:27:58] BanchoBot: Countdown ends in 2 seconds
+[00:27:59] BanchoBot: Countdown ends in 1 second
+[00:28:00] BanchoBot: Countdown finished
+[00:28:01] BCraftMG: !mp settings
+[00:28:02] BanchoBot: Room name: XSS: (Fish ball cat) vs (skillcap), History: https://osu.ppy.sh/mp/120927304
+[00:28:02] BanchoBot: Beatmap: https://osu.ppy.sh/b/2004420 Eve - Gekka*Midare Botan
+[00:28:02] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:28:02] BanchoBot: Active mods: NoFail, HardRock
+[00:28:02] BanchoBot: Players: 4
+[00:28:02] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3149577 Coreanmaluco    [Team Red ]
+[00:28:02] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/12932016 Yuichi          [Team Red ]
+[00:28:02] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14024115 zivxare         [Team Blue]
+[00:28:02] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/16485917 verfex          [Team Blue]
+[00:28:03] BCraftMG: !mp start 5
+[00:28:03] BanchoBot: Match starts in 5 seconds
+[00:28:03] BanchoBot: Queued the match to start in 5 seconds
+[00:28:05] BanchoBot: Match starts in 4 seconds
+[00:28:06] BanchoBot: Match starts in 3 seconds
+[00:28:07] BanchoBot: Good luck, have fun!
+[00:28:09] BanchoBot: The match has started!
+[00:33:03] BanchoBot: Yuichi finished playing (Score: 332713, PASSED).
+[00:33:04] BanchoBot: zivxare finished playing (Score: 305969, PASSED).
+[00:33:04] BanchoBot: verfex finished playing (Score: 214128, PASSED).
+[00:33:05] BanchoBot: Coreanmaluco finished playing (Score: 337238, PASSED).
+[00:33:05] BanchoBot: The match has finished!
+[00:33:15] BanchoBot: shwq joined in slot 5 for team blue.
+[00:33:23] BCraftMG: Fish ball cat | 4 : 0 | skillcap // Next to pick: Fish ball cat
+[00:33:24] BCraftMG: !mp timer 90
+[00:33:25] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:33:55] BanchoBot: Countdown ends in 1 minute
+[00:34:25] BanchoBot: Countdown ends in 30 seconds
+[00:34:45] BanchoBot: Countdown ends in 10 seconds
+[00:34:50] BanchoBot: Countdown ends in 5 seconds
+[00:34:51] BanchoBot: Countdown ends in 4 seconds
+[00:34:53] BanchoBot: Countdown ends in 3 seconds
+[00:34:53] BanchoBot: Countdown ends in 2 seconds
+[00:34:54] BanchoBot: Countdown ends in 1 second
+[00:34:55] BanchoBot: Countdown finished
+[00:34:57] shwq: ex3
+[00:35:15] BCraftMG: !mp map 4049612 0
+[00:35:16] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4049612 Spiegel vs. Ice - Rapsodie fer za Cactuses (*'v'*) (Game Ver.)
+[00:35:16] BanchoBot: Changed match mode to Osu
+[00:35:16] BCraftMG: !mp mods NF
+[00:35:17] BanchoBot: Enabled NoFail, disabled FreeMod
+[00:35:18] BCraftMG: !mp timer 90
+[00:35:18] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:35:19] BanchoBot: verfex left the game.
+[00:35:20] BanchoBot: -Volt joined in slot 4 for team red.
+[00:35:44] shwq: !roll 2
+[00:35:44] BanchoBot: shwq rolls 1 point(s)
+[00:35:49] BanchoBot: Countdown ends in 1 minute
+[00:35:49] BanchoBot: Yuichi left the game.
+[00:35:54] BanchoBot: shwq moved to slot 2
+[00:35:54] BanchoBot: -Volt changed to Blue
+[00:35:54] BanchoBot: shwq changed to Red
+[00:36:03] BanchoBot: All players are ready
+[00:36:05] -Volt: glgl
+[00:36:08] BCraftMG: !mp settings
+[00:36:09] BanchoBot: Room name: XSS: (Fish ball cat) vs (skillcap), History: https://osu.ppy.sh/mp/120927304
+[00:36:09] BanchoBot: Beatmap: https://osu.ppy.sh/b/4049612 Spiegel vs. Ice - Rapsodie fer za Cactuses (*'v'*) (Game Ver.)
+[00:36:09] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:36:09] BanchoBot: Active mods: NoFail
+[00:36:09] BanchoBot: Players: 4
+[00:36:09] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/3149577 Coreanmaluco    [Team Red ]
+[00:36:09] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/22536015 shwq            [Team Red ]
+[00:36:09] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14024115 zivxare         [Team Blue]
+[00:36:09] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/17880075 -Volt           [Team Blue]
+[00:36:10] BCraftMG: !mp start 5
+[00:36:11] BanchoBot: Countdown aborted
+[00:36:11] BanchoBot: Match starts in 5 seconds
+[00:36:11] BanchoBot: Queued the match to start in 5 seconds
+[00:36:12] BanchoBot: Match starts in 4 seconds
+[00:36:13] BanchoBot: Match starts in 3 seconds
+[00:36:14] BanchoBot: Good luck, have fun!
+[00:36:16] BanchoBot: The match has started!
+[00:39:00] BanchoBot: Coreanmaluco finished playing (Score: 220161, PASSED).
+[00:39:00] BanchoBot: zivxare finished playing (Score: 115609, PASSED).
+[00:39:01] BanchoBot: -Volt finished playing (Score: 95664, PASSED).
+[00:39:01] BanchoBot: shwq finished playing (Score: 185901, PASSED).
+[00:39:01] BanchoBot: The match has finished!
+[00:39:18] BCraftMG: Fish ball cat | 5 : 0 | skillcap // Next to pick: skillcap
+[00:39:19] BCraftMG: !mp timer 90
+[00:39:20] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:39:29] BanchoBot: Yuichi joined in slot 5 for team blue.
+[00:39:50] BanchoBot: Countdown ends in 1 minute
+[00:39:53] -Volt: acc2
+[00:40:04] BanchoBot: Coreanmaluco left the game.
+[00:40:13] BanchoBot: Yuichi moved to slot 1
+[00:40:16] BCraftMG: !mp map 4282790 0
+[00:40:17] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4282790 TJ.hangneil - Kamui
+[00:40:17] BanchoBot: Changed match mode to Osu
+[00:40:18] BCraftMG: !mp mods 65
+[00:40:19] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[00:40:20] BCraftMG: !mp timer 90
+[00:40:21] BanchoBot: Countdown ends in 30 seconds
+[00:40:21] BanchoBot: Countdown aborted
+[00:40:21] BanchoBot: Countdown ends in 1 minute and 30 seconds
+[00:40:34] BanchoBot: ocraska joined in slot 5 for team blue.
+[00:40:38] BanchoBot: Yuichi moved to slot 7
+[00:40:38] BanchoBot: ocraska changed to Red
+[00:40:40] BanchoBot: ocraska moved to slot 1
+[00:40:41] BanchoBot: Yuichi moved to slot 6
+[00:40:42] BanchoBot: Yuichi moved to slot 7
+[00:40:42] BanchoBot: Yuichi moved to slot 8
+[00:40:51] BanchoBot: Countdown ends in 1 minute
+[00:41:13] BanchoBot: viciobylike joined in slot 5 for team blue.
+[00:41:21] BanchoBot: Countdown ends in 30 seconds
+[00:41:24] BanchoBot: Yuichi left the game.
+[00:41:25] viciobylike: ola irmaos
+[00:41:28] BanchoBot: shwq left the game.
+[00:41:29] BanchoBot: viciobylike moved to slot 2
+[00:41:31] BanchoBot: viciobylike changed to Red
+[00:41:31] BanchoBot: viciobylike changed to Blue
+[00:41:32] BanchoBot: viciobylike changed to Red
+[00:41:36] BanchoBot: All players are ready
+[00:41:38] -Volt: glgl
+[00:41:39] BCraftMG: !mp settings
+[00:41:40] BanchoBot: Room name: XSS: (Fish ball cat) vs (skillcap), History: https://osu.ppy.sh/mp/120927304
+[00:41:40] BanchoBot: Beatmap: https://osu.ppy.sh/b/4282790 TJ.hangneil - Kamui
+[00:41:40] BanchoBot: Team mode: TeamVs, Win condition: ScoreV2
+[00:41:40] BanchoBot: Active mods: NoFail, DoubleTime
+[00:41:40] BanchoBot: Players: 4
+[00:41:40] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/19401270 ocraska         [Team Red ]
+[00:41:40] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/18922516 viciobylike     [Team Red ]
+[00:41:40] BanchoBot: Slot 3  Ready     https://osu.ppy.sh/u/14024115 zivxare         [Team Blue]
+[00:41:40] BanchoBot: Slot 4  Ready     https://osu.ppy.sh/u/17880075 -Volt           [Team Blue]
+[00:41:41] viciobylike: gl
+[00:41:41] ocraska: ola
+[00:41:42] BanchoBot: Countdown ends in 10 seconds
+[00:41:42] ocraska: hfhf
+[00:41:42] BCraftMG: !mp start 5
+[00:41:42] BanchoBot: Countdown aborted
+[00:41:42] BanchoBot: Match starts in 5 seconds
+[00:41:42] BanchoBot: Queued the match to start in 5 seconds
+[00:41:44] BanchoBot: Match starts in 4 seconds
+[00:41:45] BanchoBot: Match starts in 3 seconds
+[00:41:46] BanchoBot: Good luck, have fun!
+[00:41:48] BanchoBot: The match has started!
+[00:42:12] BanchoBot: verfex joined in slot 5 for team blue.
+[00:42:27] BanchoBot: verfex left the game.
+[00:43:30] BanchoBot: viciobylike finished playing (Score: 575048, PASSED).
+[00:43:31] BanchoBot: ocraska finished playing (Score: 575399, PASSED).
+[00:43:31] BanchoBot: -Volt finished playing (Score: 137962, PASSED).
+[00:43:31] BanchoBot: zivxare finished playing (Score: 58281, PASSED).
+[00:43:31] BanchoBot: The match has finished!
+[00:43:35] BanchoBot: zivxare left the game.
+[00:43:38] -Volt: ggwp
+[00:43:41] -Volt: ty for the match + ref
+[00:43:43] -Volt: o7
+[00:43:44] BanchoBot: ocraska left the game.
+[00:43:46] viciobylike: 7ggwp
+[00:43:47] BanchoBot: -Volt left the game.
+[00:43:47] BCraftMG: ggwp
+[00:43:57] BanchoBot: viciobylike left the game.
+[00:44:13] BanchoBot: Yuichi joined in slot 1 for team blue.
+[00:44:14] BanchoBot: Yuichi left the game.
+[00:45:18] BCraftMG: !mp close
+[00:45:19] BanchoBot: Closed the match

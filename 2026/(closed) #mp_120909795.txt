@@ -1,0 +1,438 @@
+[23:04:04] Joined #mp_120909795
+[23:04:04] BCraftMG: !mp settings
+[23:04:05] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q3), History: https://osu.ppy.sh/mp/120909795
+[23:04:05] BanchoBot: Team mode: HeadToHead, Win condition: Score
+[23:04:05] BanchoBot: Players: 0
+[23:04:17] BCraftMG: !mp set 0 3 4
+[23:04:18] BanchoBot: Changed match settings to 4 slots, HeadToHead, ScoreV2
+[23:04:21] BCraftMG: !mp invite #37823931
+[23:04:21] BanchoBot: Invited TaskDim to the room
+[23:04:26] BCraftMG: !mp invite Nullifiere
+[23:04:27] BanchoBot: Invited Nullifiere to the room
+[23:04:31] BCraftMG: !mp invite k1ll3tw
+[23:04:32] BanchoBot: User not found
+[23:04:35] BCraftMG: !mp map 5605759 0
+[23:04:35] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5605759 ReoNa - Nai Nai
+[23:04:35] BanchoBot: Changed match mode to Osu
+[23:04:36] BCraftMG: !mp mods 1
+[23:04:37] BanchoBot: Enabled NoFail, disabled FreeMod
+[23:04:39] BanchoBot: TaskDim joined in slot 1.
+[23:04:49] BanchoBot: Nullifiere joined in slot 2.
+[23:04:56] BCraftMG: o/
+[23:05:44] TaskDim: Who are we going to play against?
+[23:05:56] BCraftMG: you are playing solo today
+[23:06:07] TaskDim: !r
+[23:06:12] Nullifiere: !r
+[23:06:27] BCraftMG: after this round if you score high enough you will get to play against other teams
+[23:06:48] BCraftMG: but for now, you will need to play the entire qualifiers mappool
+[23:07:08] TaskDim: all mappool?
+[23:07:11] BCraftMG: yes
+[23:07:15] Nullifiere: we play all map
+[23:07:16] Nullifiere: >
+[23:07:18] Nullifiere: okay
+[23:07:34] TaskDim: okay
+[23:07:35] TaskDim: we ready
+[23:07:40] Nullifiere: +
+[23:07:41] BCraftMG: ready up and ill start
+[23:07:47] BanchoBot: All players are ready
+[23:07:49] BCraftMG: !mp settings
+[23:07:49] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q3), History: https://osu.ppy.sh/mp/120909795
+[23:07:49] BanchoBot: Beatmap: https://osu.ppy.sh/b/5605759 ReoNa - Nai Nai
+[23:07:49] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:07:49] BanchoBot: Active mods: NoFail
+[23:07:49] BanchoBot: Players: 2
+[23:07:49] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/37823931 TaskDim         
+[23:07:49] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/35034902 Nullifiere      
+[23:07:53] BCraftMG: !mp start 5
+[23:07:54] BanchoBot: Match starts in 5 seconds
+[23:07:54] BanchoBot: Queued the match to start in 5 seconds
+[23:07:55] BanchoBot: Match starts in 4 seconds
+[23:07:57] BanchoBot: Match starts in 3 seconds
+[23:07:58] BanchoBot: Good luck, have fun!
+[23:07:59] BanchoBot: The match has started!
+[23:12:15] BanchoBot: Nullifiere finished playing (Score: 125771, PASSED).
+[23:12:16] BanchoBot: TaskDim finished playing (Score: 58263, PASSED).
+[23:12:16] BanchoBot: The match has finished!
+[23:12:22] BCraftMG: !mp map 2024425 0
+[23:12:23] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2024425 The Flashbulb - Passage D
+[23:12:23] BanchoBot: Changed match mode to Osu
+[23:13:23] Nullifiere: !r
+[23:13:24] BanchoBot: All players are ready
+[23:13:28] BCraftMG: !mp settings
+[23:13:28] TaskDim: R
+[23:13:29] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q3), History: https://osu.ppy.sh/mp/120909795
+[23:13:29] BanchoBot: Beatmap: https://osu.ppy.sh/b/2024425 The Flashbulb - Passage D
+[23:13:29] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:13:29] BanchoBot: Active mods: NoFail
+[23:13:29] BanchoBot: Players: 2
+[23:13:29] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/37823931 TaskDim         
+[23:13:29] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/35034902 Nullifiere      
+[23:13:30] BCraftMG: !mp start 5
+[23:13:31] BanchoBot: Match starts in 5 seconds
+[23:13:31] BanchoBot: Queued the match to start in 5 seconds
+[23:13:33] BanchoBot: Match starts in 4 seconds
+[23:13:34] BanchoBot: Match starts in 3 seconds
+[23:13:35] BanchoBot: Good luck, have fun!
+[23:13:37] BanchoBot: The match has started!
+[23:15:39] BanchoBot: Nullifiere finished playing (Score: 37680, PASSED).
+[23:15:40] BanchoBot: TaskDim finished playing (Score: 30146, PASSED).
+[23:15:40] BanchoBot: The match has finished!
+[23:15:50] BCraftMG: !mp map 4285137 0
+[23:15:51] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4285137 lapix - Day By Day feat. Nicole Curry
+[23:15:51] BanchoBot: Changed match mode to Osu
+[23:17:37] BCraftMG: !mp settings
+[23:17:37] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q3), History: https://osu.ppy.sh/mp/120909795
+[23:17:37] BanchoBot: Beatmap: https://osu.ppy.sh/b/4285137 lapix - Day By Day feat. Nicole Curry
+[23:17:37] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:17:37] BanchoBot: Active mods: NoFail
+[23:17:37] BanchoBot: Players: 2
+[23:17:37] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/37823931 TaskDim         
+[23:17:37] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/35034902 Nullifiere      
+[23:17:49] BanchoBot: All players are ready
+[23:17:51] BCraftMG: !mp settings
+[23:17:51] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q3), History: https://osu.ppy.sh/mp/120909795
+[23:17:51] BanchoBot: Beatmap: https://osu.ppy.sh/b/4285137 lapix - Day By Day feat. Nicole Curry
+[23:17:51] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:17:51] BanchoBot: Active mods: NoFail
+[23:17:51] BanchoBot: Players: 2
+[23:17:51] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/37823931 TaskDim         
+[23:17:51] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/35034902 Nullifiere      
+[23:17:52] BCraftMG: !mp start 5
+[23:17:52] BanchoBot: Match starts in 5 seconds
+[23:17:52] BanchoBot: Queued the match to start in 5 seconds
+[23:17:54] BanchoBot: Match starts in 4 seconds
+[23:17:55] BanchoBot: Match starts in 3 seconds
+[23:17:56] BanchoBot: Good luck, have fun!
+[23:17:58] BanchoBot: The match has started!
+[23:22:00] BanchoBot: Nullifiere finished playing (Score: 128752, PASSED).
+[23:22:01] BanchoBot: TaskDim finished playing (Score: 137956, PASSED).
+[23:22:01] BanchoBot: The match has finished!
+[23:22:05] BCraftMG: !mp map 3654369 0
+[23:22:06] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3654369 Script - Link Connected Liquid (onumi remix)
+[23:22:06] BanchoBot: Changed match mode to Osu
+[23:23:27] BanchoBot: All players are ready
+[23:23:34] Nullifiere: !r
+[23:23:35] BCraftMG: !mp settings
+[23:23:36] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q3), History: https://osu.ppy.sh/mp/120909795
+[23:23:36] BanchoBot: Beatmap: https://osu.ppy.sh/b/3654369 Script - Link Connected Liquid (onumi remix)
+[23:23:36] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:23:36] BanchoBot: Active mods: NoFail
+[23:23:36] BanchoBot: Players: 2
+[23:23:36] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/37823931 TaskDim         
+[23:23:36] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/35034902 Nullifiere      
+[23:23:37] BCraftMG: !mp start 5
+[23:23:38] TaskDim: we ready
+[23:23:38] BanchoBot: Match starts in 5 seconds
+[23:23:38] BanchoBot: Queued the match to start in 5 seconds
+[23:23:39] BanchoBot: Match starts in 4 seconds
+[23:23:40] BanchoBot: Match starts in 3 seconds
+[23:23:41] BanchoBot: Good luck, have fun!
+[23:23:43] BanchoBot: The match has started!
+[23:23:54] BCraftMG: just press the ready and ill know
+[23:23:58] BCraftMG: ^^
+[23:25:49] BanchoBot: TaskDim finished playing (Score: 249495, PASSED).
+[23:25:50] BanchoBot: Nullifiere finished playing (Score: 259673, PASSED).
+[23:25:50] BanchoBot: The match has finished!
+[23:25:57] BCraftMG: !mp map 3290703 0
+[23:25:57] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/3290703 EGOIST - BANG!!!
+[23:25:57] BanchoBot: Changed match mode to Osu
+[23:25:58] BCraftMG: !mp mods 9
+[23:25:59] BanchoBot: Enabled NoFail, Hidden, disabled FreeMod
+[23:26:40] TaskDim: !r
+[23:26:44] BanchoBot: All players are ready
+[23:26:45] Nullifiere: !r
+[23:26:45] BCraftMG: !mp settings
+[23:26:46] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q3), History: https://osu.ppy.sh/mp/120909795
+[23:26:46] BanchoBot: Beatmap: https://osu.ppy.sh/b/3290703 EGOIST - BANG!!!
+[23:26:46] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:26:46] BanchoBot: Active mods: NoFail, Hidden
+[23:26:46] BanchoBot: Players: 2
+[23:26:46] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/37823931 TaskDim         
+[23:26:46] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/35034902 Nullifiere      
+[23:26:47] BCraftMG: !mp start 5
+[23:26:48] BanchoBot: Match starts in 5 seconds
+[23:26:48] BanchoBot: Queued the match to start in 5 seconds
+[23:26:50] BanchoBot: Match starts in 4 seconds
+[23:26:51] BanchoBot: Match starts in 3 seconds
+[23:26:52] BanchoBot: Good luck, have fun!
+[23:26:54] BanchoBot: The match has started!
+[23:30:13] BanchoBot: Nullifiere finished playing (Score: 51516, PASSED).
+[23:30:13] BanchoBot: TaskDim finished playing (Score: 41802, PASSED).
+[23:30:13] BanchoBot: The match has finished!
+[23:30:18] BCraftMG: !mp map 2096920 0
+[23:30:19] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2096920 Utsu-P - Corona
+[23:30:19] BanchoBot: Changed match mode to Osu
+[23:30:40] TaskDim: Do we have to play until we reach a certain score?
+[23:30:58] BCraftMG: you need to play every map :>
+[23:31:09] TaskDim: OK
+[23:31:35] BanchoBot: All players are ready
+[23:31:40] BCraftMG: !mp settings
+[23:31:41] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q3), History: https://osu.ppy.sh/mp/120909795
+[23:31:41] BanchoBot: Beatmap: https://osu.ppy.sh/b/2096920 Utsu-P - Corona
+[23:31:41] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:31:41] BanchoBot: Active mods: NoFail, Hidden
+[23:31:41] BanchoBot: Players: 2
+[23:31:41] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/37823931 TaskDim         
+[23:31:41] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/35034902 Nullifiere      
+[23:31:42] BCraftMG: !mp start 5
+[23:31:43] BanchoBot: Match starts in 5 seconds
+[23:31:43] BanchoBot: Queued the match to start in 5 seconds
+[23:31:45] BanchoBot: Match starts in 4 seconds
+[23:31:46] BanchoBot: Match starts in 3 seconds
+[23:31:47] BanchoBot: Good luck, have fun!
+[23:31:49] BanchoBot: The match has started!
+[23:35:49] BanchoBot: Nullifiere finished playing (Score: 10735, PASSED).
+[23:35:51] BanchoBot: TaskDim finished playing (Score: 11566, PASSED).
+[23:35:51] BanchoBot: The match has finished!
+[23:35:53] BCraftMG: !mp map 419976 0
+[23:35:54] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/419976 Eagle - S!ck (VIP)
+[23:35:54] BanchoBot: Changed match mode to Osu
+[23:35:55] BCraftMG: !mp mods 17
+[23:35:55] BanchoBot: Enabled NoFail, HardRock, disabled FreeMod
+[23:36:39] BanchoBot: All players are ready
+[23:36:40] BCraftMG: !mp settings
+[23:36:41] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q3), History: https://osu.ppy.sh/mp/120909795
+[23:36:41] BanchoBot: Beatmap: https://osu.ppy.sh/b/419976 Eagle - S!ck (VIP)
+[23:36:41] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:36:41] BanchoBot: Active mods: NoFail, HardRock
+[23:36:41] BanchoBot: Players: 2
+[23:36:41] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/37823931 TaskDim         
+[23:36:41] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/35034902 Nullifiere      
+[23:36:42] BCraftMG: !mp start 5
+[23:36:42] BanchoBot: Match starts in 5 seconds
+[23:36:42] BanchoBot: Queued the match to start in 5 seconds
+[23:36:44] BanchoBot: Match starts in 4 seconds
+[23:36:45] BanchoBot: Match starts in 3 seconds
+[23:36:46] BanchoBot: Good luck, have fun!
+[23:36:48] BanchoBot: The match has started!
+[23:40:05] BanchoBot: Nullifiere finished playing (Score: 183244, PASSED).
+[23:40:06] BanchoBot: TaskDim finished playing (Score: 393293, PASSED).
+[23:40:06] BanchoBot: The match has finished!
+[23:40:10] BCraftMG: !mp map 22739 0
+[23:40:10] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/22739 Gojou Kai - Touhou Youkai Komachi
+[23:40:10] BanchoBot: Changed match mode to Osu
+[23:40:40] BanchoBot: All players are ready
+[23:40:42] BCraftMG: !mp settings
+[23:40:42] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q3), History: https://osu.ppy.sh/mp/120909795
+[23:40:42] BanchoBot: Beatmap: https://osu.ppy.sh/b/22739 Gojou Kai - Touhou Youkai Komachi
+[23:40:42] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:40:42] BanchoBot: Active mods: NoFail, HardRock
+[23:40:42] BanchoBot: Players: 2
+[23:40:42] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/37823931 TaskDim         
+[23:40:42] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/35034902 Nullifiere      
+[23:40:43] BCraftMG: !mp start 5
+[23:40:43] BanchoBot: Match starts in 5 seconds
+[23:40:43] BanchoBot: Queued the match to start in 5 seconds
+[23:40:45] BanchoBot: Match starts in 4 seconds
+[23:40:46] BanchoBot: Match starts in 3 seconds
+[23:40:47] BanchoBot: Good luck, have fun!
+[23:40:48] BanchoBot: The match has started!
+[23:43:30] BanchoBot: TaskDim finished playing (Score: 144741, PASSED).
+[23:43:31] BanchoBot: Nullifiere finished playing (Score: 118243, PASSED).
+[23:43:31] BanchoBot: The match has finished!
+[23:43:33] BCraftMG: !mp map 4789293 0
+[23:43:33] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4789293 KOTOKO - a-gain
+[23:43:33] BanchoBot: Changed match mode to Osu
+[23:43:35] BCraftMG: !mp mods 65
+[23:43:36] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[23:44:09] BanchoBot: All players are ready
+[23:44:11] BCraftMG: !mp settings
+[23:44:12] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q3), History: https://osu.ppy.sh/mp/120909795
+[23:44:12] BanchoBot: Beatmap: https://osu.ppy.sh/b/4789293 KOTOKO - a-gain
+[23:44:12] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:44:12] BanchoBot: Active mods: NoFail, DoubleTime
+[23:44:12] BanchoBot: Players: 2
+[23:44:12] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/37823931 TaskDim         
+[23:44:12] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/35034902 Nullifiere      
+[23:44:12] BCraftMG: !mp start 5
+[23:44:13] BanchoBot: Match starts in 5 seconds
+[23:44:13] BanchoBot: Queued the match to start in 5 seconds
+[23:44:14] BanchoBot: Match starts in 4 seconds
+[23:44:16] BanchoBot: Match starts in 3 seconds
+[23:44:17] BanchoBot: Good luck, have fun!
+[23:44:18] BanchoBot: The match has started!
+[23:47:26] BanchoBot: TaskDim finished playing (Score: 197852, PASSED).
+[23:47:29] BCraftMG: !mp map 4702435 0
+[23:47:29] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4702435 Sparxe - Comma, ~ Imi to Kouzou no Bunri
+[23:47:29] BanchoBot: Changed match mode to Osu
+[23:47:48] TaskDim: wth
+[23:48:00] BCraftMG: your teammate is stuck
+[23:48:09] BCraftMG: is their internet okay
+[23:48:15] TaskDim: i think no
+[23:48:48] TaskDim: you are streaming?
+[23:48:52] BCraftMG: nope
+[23:49:06] TaskDim: oh nice
+[23:49:19] TaskDim: What a disgrace I made of it
+[23:49:38] BanchoBot: The match has finished!
+[23:49:38] BanchoBot: Nullifiere left the game.
+[23:49:42] BCraftMG: whops
+[23:49:53] TaskDim: 5 minut he type to me
+[23:50:04] BCraftMG: !where Nullifiere
+[23:50:05] TaskDim: hes pc crushed
+[23:50:05] BanchoBot: The user is currently not online.
+[23:50:40] BCraftMG: he can replay the dt1 at the end of map
+[23:50:48] BCraftMG: if hes able to get back online
+[23:50:56] TaskDim: ok
+[23:51:07] TaskDim: i ask to him
+[23:53:00] TaskDim: can you invite him?
+[23:53:09] BCraftMG: !Mp invite Nullifiere
+[23:53:10] BanchoBot: Invited Nullifiere to the room
+[23:53:14] BanchoBot: Nullifiere joined in slot 2.
+[23:53:20] BCraftMG: ^^
+[23:53:26] BCraftMG: !mp map 4702435 0
+[23:53:27] Nullifiere: sorry my internet kotakbaski
+[23:53:27] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4702435 Sparxe - Comma, ~ Imi to Kouzou no Bunri
+[23:53:27] BanchoBot: Changed match mode to Osu
+[23:53:42] BCraftMG: i will let you replay the dt1 later
+[23:54:04] Nullifiere: Am I the only one who can replay DT1?
+[23:54:08] BanchoBot: All players are ready
+[23:54:08] BCraftMG: yep
+[23:54:12] BCraftMG: !mp settings
+[23:54:12] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q3), History: https://osu.ppy.sh/mp/120909795
+[23:54:12] BanchoBot: Beatmap: https://osu.ppy.sh/b/4702435 Sparxe - Comma, ~ Imi to Kouzou no Bunri
+[23:54:12] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:54:12] BanchoBot: Active mods: NoFail, DoubleTime
+[23:54:12] BanchoBot: Players: 2
+[23:54:12] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/37823931 TaskDim         
+[23:54:12] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/35034902 Nullifiere      
+[23:54:14] BCraftMG: !mp start 5
+[23:54:15] BanchoBot: Match starts in 5 seconds
+[23:54:15] BanchoBot: Queued the match to start in 5 seconds
+[23:54:17] BanchoBot: Match starts in 4 seconds
+[23:54:17] Nullifiere: okay
+[23:54:18] BanchoBot: Match starts in 3 seconds
+[23:54:18] Nullifiere: thx
+[23:54:19] BanchoBot: Good luck, have fun!
+[23:54:21] BanchoBot: The match has started!
+[23:56:17] BanchoBot: TaskDim finished playing (Score: 206071, PASSED).
+[23:56:17] BanchoBot: Nullifiere finished playing (Score: 219902, PASSED).
+[23:56:17] BanchoBot: The match has finished!
+[23:56:19] BCraftMG: !mp map 2868755 0
+[23:56:20] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/2868755 pm04034 - TATATAAA
+[23:56:20] BanchoBot: Changed match mode to Osu
+[23:56:21] BCraftMG: !mp mods Freemod
+[23:56:22] BanchoBot: Disabled all mods, enabled FreeMod
+[23:56:42] BanchoBot: All players are ready
+[23:56:43] BCraftMG: !mp settings
+[23:56:44] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q3), History: https://osu.ppy.sh/mp/120909795
+[23:56:44] BanchoBot: Beatmap: https://osu.ppy.sh/b/2868755 pm04034 - TATATAAA
+[23:56:44] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:56:44] BanchoBot: Active mods: Freemod
+[23:56:44] BanchoBot: Players: 2
+[23:56:44] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/37823931 TaskDim         [Hidden]
+[23:56:44] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/35034902 Nullifiere      
+[23:56:53] BCraftMG: remember to take nf
+[23:57:03] BanchoBot: All players are ready
+[23:57:07] BCraftMG: one of you will need to take hr
+[23:57:19] BanchoBot: All players are ready
+[23:57:20] BCraftMG: !mp settings
+[23:57:21] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q3), History: https://osu.ppy.sh/mp/120909795
+[23:57:21] BanchoBot: Beatmap: https://osu.ppy.sh/b/2868755 pm04034 - TATATAAA
+[23:57:21] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[23:57:21] BanchoBot: Active mods: Freemod
+[23:57:21] BanchoBot: Players: 2
+[23:57:21] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/37823931 TaskDim         [NoFail, Hidden]
+[23:57:21] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/35034902 Nullifiere      [NoFail, HardRock]
+[23:57:23] BCraftMG: !mp start 5
+[23:57:24] BanchoBot: Match starts in 5 seconds
+[23:57:24] BanchoBot: Queued the match to start in 5 seconds
+[23:57:25] BanchoBot: Match starts in 4 seconds
+[23:57:26] BanchoBot: Match starts in 3 seconds
+[23:57:28] BanchoBot: Good luck, have fun!
+[23:57:30] BanchoBot: The match has started!
+[23:59:42] BanchoBot: TaskDim finished playing (Score: 326145, PASSED).
+[23:59:42] BanchoBot: Nullifiere finished playing (Score: 112553, PASSED).
+[23:59:42] BanchoBot: The match has finished!
+[23:59:44] BCraftMG: !mp map 5193345 0
+[23:59:45] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/5193345 Wonderlands x Showtime - Your Adventure Log Has Vanished! [Long ver.]
+[23:59:45] BanchoBot: Changed match mode to Osu
+[00:00:28] BanchoBot: All players are ready
+[00:00:30] BCraftMG: !mp settings
+[00:00:30] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q3), History: https://osu.ppy.sh/mp/120909795
+[00:00:30] BanchoBot: Beatmap: https://osu.ppy.sh/b/5193345 Wonderlands x Showtime - Your Adventure Log Has Vanished! [Long ver.]
+[00:00:30] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:00:30] BanchoBot: Active mods: Freemod
+[00:00:30] BanchoBot: Players: 2
+[00:00:30] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/37823931 TaskDim         [NoFail, HardRock]
+[00:00:30] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/35034902 Nullifiere      [NoFail, HardRock]
+[00:00:40] BCraftMG: still need a hidden :p
+[00:00:48] BCraftMG: 1 hd and 1 hr
+[00:01:16] BCraftMG: !mp settings
+[00:01:17] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q3), History: https://osu.ppy.sh/mp/120909795
+[00:01:17] BanchoBot: Beatmap: https://osu.ppy.sh/b/5193345 Wonderlands x Showtime - Your Adventure Log Has Vanished! [Long ver.]
+[00:01:17] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:01:17] BanchoBot: Active mods: Freemod
+[00:01:17] BanchoBot: Players: 2
+[00:01:17] BanchoBot: Slot 1  Not Ready https://osu.ppy.sh/u/37823931 TaskDim         [NoFail, HardRock]
+[00:01:17] BanchoBot: Slot 2  Not Ready https://osu.ppy.sh/u/35034902 Nullifiere      [NoFail, HardRock]
+[00:01:30] TaskDim: Swait
+[00:01:42] TaskDim: Is HR HD available?
+[00:01:59] BanchoBot: All players are ready
+[00:02:03] BCraftMG: hr hd yes but you still need a hd only
+[00:02:12] BCraftMG: !mp settings
+[00:02:13] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q3), History: https://osu.ppy.sh/mp/120909795
+[00:02:13] BanchoBot: Beatmap: https://osu.ppy.sh/b/5193345 Wonderlands x Showtime - Your Adventure Log Has Vanished! [Long ver.]
+[00:02:13] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:02:13] BanchoBot: Active mods: Freemod
+[00:02:13] BanchoBot: Players: 2
+[00:02:13] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/37823931 TaskDim         [NoFail, HardRock]
+[00:02:13] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/35034902 Nullifiere      [NoFail, Hidden, HardRock]
+[00:02:46] BCraftMG: so 1 hd and 1 hr
+[00:02:56] BCraftMG: or 1 hd and 1 hr hd
+[00:03:07] TaskDim: I get it—one person, one mod?
+[00:03:15] BCraftMG: yep
+[00:03:42] BanchoBot: All players are ready
+[00:03:43] BCraftMG: !mp settings
+[00:03:43] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q3), History: https://osu.ppy.sh/mp/120909795
+[00:03:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/5193345 Wonderlands x Showtime - Your Adventure Log Has Vanished! [Long ver.]
+[00:03:43] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:03:43] BanchoBot: Active mods: Freemod
+[00:03:43] BanchoBot: Players: 2
+[00:03:43] BanchoBot: Slot 1  Ready     https://osu.ppy.sh/u/37823931 TaskDim         [NoFail, HardRock]
+[00:03:43] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/35034902 Nullifiere      [NoFail, Hidden]
+[00:03:49] BCraftMG: !mp start 5
+[00:03:50] BanchoBot: Match starts in 5 seconds
+[00:03:50] BanchoBot: Queued the match to start in 5 seconds
+[00:03:51] BanchoBot: Match starts in 4 seconds
+[00:03:52] BanchoBot: Match starts in 3 seconds
+[00:03:53] BanchoBot: Good luck, have fun!
+[00:03:55] BanchoBot: The match has started!
+[00:07:44] BanchoBot: TaskDim finished playing (Score: 191494, PASSED).
+[00:07:45] BanchoBot: Nullifiere finished playing (Score: 10307, PASSED).
+[00:07:45] BanchoBot: The match has finished!
+[00:07:54] BCraftMG: hd incident
+[00:07:57] BCraftMG: !mp map 4789293 0
+[00:07:57] BanchoBot: Changed beatmap to https://osu.ppy.sh/b/4789293 KOTOKO - a-gain
+[00:07:57] BanchoBot: Changed match mode to Osu
+[00:08:03] BCraftMG: !mp mods 65
+[00:08:04] BanchoBot: Enabled NoFail, DoubleTime, disabled FreeMod
+[00:08:13] TaskDim: im leave
+[00:08:14] BCraftMG: Nullifiere replay dt1 now
+[00:08:14] TaskDim: ?
+[00:08:18] BCraftMG: TaskDim you can leave
+[00:08:23] BanchoBot: TaskDim left the game.
+[00:08:42] BanchoBot: All players are ready
+[00:08:43] BCraftMG: !mp settings
+[00:08:43] BanchoBot: Room name: NGT4: (Qualifiers) vs (Lobby Q3), History: https://osu.ppy.sh/mp/120909795
+[00:08:43] BanchoBot: Beatmap: https://osu.ppy.sh/b/4789293 KOTOKO - a-gain
+[00:08:43] BanchoBot: Team mode: HeadToHead, Win condition: ScoreV2
+[00:08:43] BanchoBot: Active mods: NoFail, DoubleTime
+[00:08:43] BanchoBot: Players: 1
+[00:08:43] BanchoBot: Slot 2  Ready     https://osu.ppy.sh/u/35034902 Nullifiere      
+[00:08:45] BCraftMG: !mp start 5
+[00:08:45] BanchoBot: Match starts in 5 seconds
+[00:08:45] BanchoBot: Queued the match to start in 5 seconds
+[00:08:47] BanchoBot: Match starts in 4 seconds
+[00:08:47] Nullifiere: r
+[00:08:48] BanchoBot: Match starts in 3 seconds
+[00:08:49] BanchoBot: Good luck, have fun!
+[00:08:51] BanchoBot: The match has started!
+[00:11:56] BanchoBot: Nullifiere finished playing (Score: 282326, PASSED).
+[00:11:56] BanchoBot: The match has finished!
+[00:12:04] BCraftMG: ok
+[00:12:09] BCraftMG: all done
+[00:12:14] Nullifiere: leave?
+[00:12:21] Nullifiere: okay thx
+[00:12:38] BanchoBot: Nullifiere left the game.
+[00:12:46] BCraftMG: !mp close
+[00:12:47] BanchoBot: Closed the match
